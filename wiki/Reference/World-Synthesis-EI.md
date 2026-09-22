@@ -442,6 +442,64 @@ Give the Council accurate information about one movement and ask whether its usu
 
 Incubating.
 
+## Candidate 15 — Port may incubate movements while Highridge distributes them
+
+**Sources**
+
+- [Port](../Places/Port.md)
+- [Highridge](../Regions/Highridge-Plateau.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Audience Movements](../Culture/Audience-Movements.md)
+- [Geography and Connections](../Geography-and-Connections.md)
+
+**Connection**
+
+Port concentrates strangers, performers, workers, sailors, migrants, guilds and repeated public gatherings. Highridge concentrates overland travelers, caravan routes, translators and information exchange.
+
+**New implication**
+
+A movement could plausibly become socially dense in Port and then spread unusually far through Highridge without either place being its political headquarters.
+
+**Why it matters**
+
+This gives social diffusion a geography: Port can be an incubator while Highridge acts as a repeater / distributor.
+
+**Smallest test**
+
+Start one movement in a Port neighborhood and trace how it reaches Northwind, Greenvale and Ironcrest using only established travel networks and ordinary human carriers.
+
+**Disposition**
+
+Incubating; do not assign the Audience movements this origin until the transmission mechanism is tested.
+
+## Candidate 16 — The wrestling-style rivalry likely belongs between peer polities, not whole regions
+
+**Sources**
+
+- [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md)
+- [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md)
+- [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
+
+**Connection**
+
+The real-world analogue depended on two large competitors fighting for the same attention, people and prestige rather than merely occupying adjacent territory.
+
+**New implication**
+
+The best fantasy mapping may be two kingdoms / city-states inside one interconnected cultural-economic arena, while the six regions remain broader ecosystems containing many political actors.
+
+**Why it matters**
+
+This avoids flattening an entire region into "the WWF kingdom" or "the WCW kingdom" and fits the existing rule that regions are not single political blocks.
+
+**Smallest test**
+
+Find two existing candidate polities for which a famous defection, festival victory, guild recruitment coup or court appointment would be immediately understood as a win over the other.
+
+**Disposition**
+
+Strong design constraint; exact pair remains unresolved.
+
 ## Promotion rule
 
 Nothing on this page becomes canon because it sounds useful.
