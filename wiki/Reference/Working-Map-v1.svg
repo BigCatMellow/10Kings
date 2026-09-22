@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
+  <defs>
+    <style>
+      .sea { fill:#e8f2f5; }
+      .land { fill:#eee4c9; stroke:#3f4a43; stroke-width:4; }
+      .island { fill:#eee4c9; stroke:#3f4a43; stroke-width:3; }
+      .mount { fill:none; stroke:#6a665b; stroke-width:5; stroke-linecap:round; stroke-linejoin:round; }
+      .river { fill:none; stroke:#5d8fa6; stroke-width:6; stroke-linecap:round; }
+      .river2 { fill:none; stroke:#5d8fa6; stroke-width:4; stroke-linecap:round; }
+      .road { fill:none; stroke:#8a684c; stroke-width:4; stroke-dasharray:10 8; }
+      .seaLane { fill:none; stroke:#557985; stroke-width:4; stroke-dasharray:18 10; }
+      .under { fill:none; stroke:#5c5252; stroke-width:4; stroke-dasharray:3 9; }
+      .label { font-family:Arial,sans-serif; font-size:24px; fill:#27302c; font-weight:700; }
+      .sub { font-family:Arial,sans-serif; font-size:17px; fill:#39433e; }
+      .tiny { font-family:Arial,sans-serif; font-size:14px; fill:#39433e; }
+      .title { font-family:Arial,sans-serif; font-size:30px; fill:#27302c; font-weight:700; }
+      .port { fill:#374d58; stroke:#ffffff; stroke-width:3; }
+      .pass { fill:#ffffff; stroke:#3f4a43; stroke-width:3; }
+    </style>
+  </defs>
+
+  <rect class="sea" x="0" y="0" width="1200" height="820"/>
+  <text class="title" x="35" y="46">Two Sons — Working Map Geometry V1</text>
+  <text class="sub" x="36" y="72">PROVISIONAL: topology test, not final coastlines or borders</text>
+
+  <!-- Northern Continent -->
+  <path class="land" d="M435,94
+    C395,72 354,100 365,139
+    C325,155 331,204 372,221
+    C405,239 439,226 465,209
+    C494,232 535,239 564,214
+    C596,232 641,218 652,185
+    C694,175 706,133 679,106
+    C655,74 612,70 578,85
+    C538,62 480,65 435,94 Z"/>
+  <!-- southeast shoulder connection -->
+  <path class="land" d="M585,196
+    C608,207 629,226 640,250
+    C650,273 646,295 629,311
+    L594,303 C600,281 593,260 575,244
+    C559,229 559,210 585,196 Z"/>
+
+  <!-- Western Continent -->
+  <path class="land" d="M92,308
+    C118,258 178,230 247,240
+    C305,220 365,241 404,275
+    C445,305 463,354 451,397
+    C474,437 459,484 425,513
+    C389,548 337,565 289,554
+    C249,585 189,576 157,545
+    C109,532 80,491 88,449
+    C58,408 65,353 92,308 Z"/>
+
+  <!-- Eastern Continent -->
+  <path class="land" d="M596,266
+    C647,226 716,220 765,248
+    C819,236 886,254 920,292
+    C982,305 1028,351 1034,407
+    C1077,447 1078,500 1053,540
+    C1078,586 1058,647 1010,669
+    C970,707 909,724 858,703
+    C805,724 743,705 714,662
+    C663,641 636,600 643,554
+    C607,524 593,479 607,441
+    C578,408 575,359 596,329
+    C579,307 580,282 596,266 Z"/>
+
+  <!-- central mountain shoulder / narrow contact -->
+  <path class="land" d="M432,302
+    C470,277 514,271 555,286
+    C575,294 589,309 600,327
+    C574,347 544,359 514,360
+    C477,359 451,339 432,302 Z"/>
+
+  <!-- Port island/harbor complex -->
+  <path class="island" d="M537,456
+    C551,444 573,446 584,461
+    C598,477 590,501 572,510
+    C553,519 531,506 526,487
+    C521,476 526,464 537,456 Z"/>
+  <circle class="port" cx="557" cy="480" r="10"/>
+
+  <!-- Rivers -->
+  <path class="river" d="M690,313 C682,348 650,377 618,398 C594,414 576,436 563,461"/>
+  <path class="river2" d="M822,420 C782,417 746,407 708,392 C674,379 648,385 618,398"/>
+  <path class="river2" d="M830,477 C842,521 854,565 877,611 C891,638 910,656 932,671"/>
+  <path class="river2" d="M409,332 C366,350 333,378 298,413 C268,444 225,466 176,478"/>
+  <path class="river2" d="M393,397 C354,423 318,459 287,501"/>
+
+  <!-- Mountains -->
+  <path class="mount" d="M455,292 l18,-27 l18,27 l18,-30 l18,30 l18,-28 l18,28 l18,-25 l18,25"/>
+  <path class="mount" d="M580,301 l18,-30 l18,30 l18,-30 l18,30"/>
+  <path class="mount" d="M602,252 l14,-22 l14,22 l14,-20"/>
+  <path class="mount" d="M455,350 l18,24 l18,-24 l18,25 l18,-25"/>
+  <path class="mount" d="M600,341 l18,25 l18,-25 l18,24"/>
+
+  <!-- Roads -->
+  <path class="road" d="M321,365 C391,337 458,326 522,327 C579,328 630,336 681,347"/>
+  <path class="road" d="M621,211 C628,246 628,280 620,316"/>
+  <path class="road" d="M620,329 C607,371 588,416 561,466"/>
+  <path class="road" d="M405,407 C487,427 574,437 665,451 C724,462 772,477 813,505"/>
+  <path class="road" d="M700,412 C727,468 752,523 804,574 C842,611 884,633 922,651"/>
+
+  <!-- Underpass -->
+  <path class="under" d="M441,338 C480,356 520,369 562,363 C596,358 622,344 646,329"/>
+  <path class="under" d="M607,286 C613,314 608,343 596,368"/>
+  <path class="under" d="M558,371 C593,402 630,430 674,454 C708,472 742,487 775,500"/>
+
+  <!-- Maritime lanes -->
+  <path class="seaLane" d="M735,119 C796,167 820,228 784,286 C739,359 657,415 579,470"/>
+  <path class="seaLane" d="M1034,614 C949,614 874,589 817,557 C730,509 648,486 579,480"/>
+  <path class="seaLane" d="M147,593 C251,649 376,649 470,590 C506,568 532,536 550,504"/>
+
+  <!-- Region labels -->
+  <text class="label" x="449" y="145">NORTHWIND</text>
+  <text class="sub" x="446" y="171">Northern Continent</text>
+
+  <text class="label" x="185" y="385">IRONCREST</text>
+  <text class="sub" x="173" y="410">Western Continent</text>
+
+  <text class="label" x="604" y="336">HIGHRIDGE</text>
+  <text class="sub" x="612" y="357">Spine crossroads</text>
+
+  <text class="label" x="716" y="373">GREENVALE</text>
+  <text class="sub" x="730" y="394">river lowlands</text>
+
+  <text class="label" x="770" y="497">DEEPWOOD</text>
+  <text class="sub" x="788" y="518">forest belt</text>
+
+  <text class="label" x="827" y="605">SUNPLAINS</text>
+  <text class="sub" x="832" y="626">south / coast</text>
+
+  <text class="label" x="486" y="430">THE SPINE</text>
+  <text class="sub" x="490" y="449">central highlands</text>
+
+  <text class="label" x="520" y="547">PORT</text>
+  <text class="sub" x="475" y="568">estuary / island candidate</text>
+
+  <!-- corridor labels -->
+  <circle class="pass" cx="620" cy="276" r="7"/>
+  <text class="tiny" x="656" y="254">North Shoulder / Icestep corridor</text>
+
+  <circle class="pass" cx="511" cy="329" r="7"/>
+  <text class="tiny" x="351" y="312">Western Gate</text>
+
+  <text class="tiny" x="653" y="408">G1 trunk river</text>
+  <text class="tiny" x="865" y="558">S1 river</text>
+  <text class="tiny" x="250" y="451">W1/W2 drainages</text>
+
+  <!-- compass -->
+  <path d="M1110,100 L1110,155" stroke="#27302c" stroke-width="4"/>
+  <path d="M1110,100 L1098,122 L1122,122 Z" fill="#27302c"/>
+  <text class="label" x="1098" y="88">N</text>
+
+  <!-- legend -->
+  <rect x="35" y="666" width="550" height="125" rx="10" fill="#ffffff" opacity="0.88" stroke="#6a756f"/>
+  <text class="sub" x="54" y="692" font-weight="700">V1 legend</text>
+  <line x1="55" y1="716" x2="115" y2="716" class="river"/>
+  <text class="tiny" x="130" y="722">major river / drainage</text>
+  <line x1="55" y1="744" x2="115" y2="744" class="road"/>
+  <text class="tiny" x="130" y="750">major surface route</text>
+  <line x1="300" y1="716" x2="360" y2="716" class="under"/>
+  <text class="tiny" x="375" y="722">Underpass concept</text>
+  <line x1="300" y1="744" x2="360" y2="744" class="seaLane"/>
+  <text class="tiny" x="375" y="750">maritime lane</text>
+  <text class="tiny" x="54" y="778">Political borders intentionally omitted. Relative geometry only.</text>
+</svg>
