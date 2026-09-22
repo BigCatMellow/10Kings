@@ -153,3 +153,14 @@ Every major guild should have:
 - a funding model;
 - benefits members would lose if the guild disappeared;
 - abuses that outsiders resent.
+
+
+## Guilds inside the wider social fabric
+
+See [Social Fabric](../Social-Fabric.md).
+
+Guild membership is not total identity. Guild branches contain people of different regions, faiths, classes, political loyalties and voluntary movements.
+
+This matters because a dispute that looks like "guild versus kingdom" from above may divide guild members internally through family ties, religion, local politics or participation in other social networks.
+
+The provisional [Audience Movements](../Culture/Audience-Movements.md) model also creates possible non-guild coordination channels: a movement may mobilize workers, couriers, performers or mutual aid faster than formal guild leadership can.
