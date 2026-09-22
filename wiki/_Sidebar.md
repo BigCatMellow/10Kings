@@ -56,6 +56,7 @@
 - [Character Roster](Story/Character-Roster.md)
 
 **Reference**
+- [Working Map Draft — Geometry V1](Reference/Working-Map-Draft.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
 - [World Synthesis — E/I](Reference/World-Synthesis-EI.md)
 - [Free City of Danzig](Reference/Free-City-of-Danzig.md)

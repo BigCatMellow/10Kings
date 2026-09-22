@@ -75,9 +75,15 @@ That creates substitution, competition, and cascading route effects without requ
 
 Lock the broad map and test whether major trade flows have plausible Port-avoiding and Highridge-avoiding routes.
 
+**Test result — 2026-09-22**
+
+[Working Map Draft — Geometry V1](Working-Map-Draft.md) produces plausible Port-avoiding and Highridge-avoiding substitutions rather than making either hub an absolute monopoly. A Northwind maritime disruption can push selected traffic into Highridge; a major west-east surface closure can push selected traffic toward Port, secondary ports, and Underpass capacity.
+
+This is encouraging but not enough to promote the candidate. The next discriminating test is scale, ordinary travel time, and route capacity.
+
 **Disposition**
 
-Incubating pending map work.
+Incubating pending scale / travel-time testing.
 
 ## Candidate 3 — The Council behaves like a hidden coordination utility
 
@@ -223,9 +229,15 @@ This gives Underpass politics direct consequences for the surface world instead 
 
 Take one surface-route disruption and trace what realistically shifts underground, who gains, and what new bottleneck appears.
 
+**Test result — 2026-09-22**
+
+[Working Map Draft — Geometry V1](Working-Map-Draft.md) gives the Underpass limited alternate branches beside major surface routes. In the Western Gate closure test, some movement can shift underground without giving the Underpass enough capacity or reliability to replace the surface network.
+
+This supports the bypass-valve mechanism at the provisional map level. It is not yet promoted because route capacity, travel time, collapse risk, and actual entrances remain unresolved.
+
 **Disposition**
 
-Incubating pending more detailed route geography.
+Incubating pending scale / capacity testing.
 
 ## Promotion rule
 
