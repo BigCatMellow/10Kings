@@ -23,6 +23,16 @@ The regions are parts of one interdependent network rather than six isolated set
 
 For the full causal model, see [The World as a System](World-System.md).
 
+## The social fabric
+
+The same world is also a network of **overlapping identities**.
+
+People belong simultaneously to places, polities, families, classes, guilds, faiths, professions, informal networks and voluntary movements. Those affiliations frequently cross regional and political borders.
+
+This means a Northwind sailor and a Sunplains merchant may share a guild; an Ironcrest worker and a Highridge scholar may share a faith; a Port resident may feel stronger loyalty to a trans-regional social movement than to any kingdom.
+
+See [Social Fabric](Social-Fabric.md) for the structural model and [Audience Movements](Culture/Audience-Movements.md) for one provisional example of a participatory movement that can cut across older institutions.
+
 ## The political order
 
 The present world exists in the shadow of **The Convergence**, the settlement that turned centuries of shifting frontiers, raids, petty kingdoms, warbands, toll states, clan confederacies, and temporary conquests into recognized borders and rules for trade and dispute.
