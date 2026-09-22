@@ -7,6 +7,7 @@
 - [World Rules](World-Rules.md)
 - [Geography](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
+- [Social Fabric](Social-Fabric.md)
 - [Open Questions](Open-Questions.md)
 
 **Regions**
@@ -44,6 +45,7 @@
 - [Food Diaspora and Adaptation](Culture/Food-Diaspora-and-Adaptation.md)
 - [Festivals and Seasonal Life](Culture/Festivals-and-Seasonal-Life.md)
 - [Regional Social Dynamics](Culture/Regional-Social-Dynamics.md)
+- [Audience Movements](Culture/Audience-Movements.md)
 - [Nomads](Culture/Nomads.md)
 - [Weapons and Elites](Culture/Weapons-and-Elite-Troops.md)
 
@@ -59,6 +61,7 @@
 - [Working Map Draft — Geometry V1](Reference/Working-Map-Draft.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
 - [World Synthesis — E/I](Reference/World-Synthesis-EI.md)
+- [Competitive Kingdom Dynamics](Reference/Competitive-Kingdom-Dynamics.md)
 - [Free City of Danzig](Reference/Free-City-of-Danzig.md)
 - [Danzig to Port Parallel](Reference/Danzig-to-Port-Parallel.md)
 - [Source Register](Reference/Source-Register.md)
