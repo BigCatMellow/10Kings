@@ -10,17 +10,28 @@ The current working design decision is:
 
 - **Port fills the ECW structural role.**
 
-The two larger WWF/WCW-style rivals remain unresolved.
+The two larger WWF/WCW-style rivals are now best understood as **competing spheres made of multiple polities and institutions**, not single kingdoms. Their exact membership and organizing principles remain unresolved.
 
 This is an analogy for institutional behavior and cultural position, not a requirement that Port copy ECW's exact finances, history, collapse, or organization.
 
 ## The useful three-part system
 
-1. **Major Power A** — established institution under pressure, losing prestige and important people, forced to reinvent itself.
-2. **Major Power B** — wealthy rival able to recruit famous defectors and seize momentum, but increasingly constrained by internal factions and powerful incumbents.
-3. **Smaller insurgent ecosystem** — poorer, unstable, intense, culturally distinctive, able to innovate faster than either major power and repeatedly lose its best people to them.
+1. **Sphere A** — a network of kingdoms, cities, courts, guild interests, patrons and allied institutions competing for prestige, people and influence.
+2. **Sphere B** — a rival network assembled from a different mix of polities and institutions, competing in many of the same arenas.
+3. **Port** — the ECW/Danzig third space: politically distinct, culturally experimental, strategically necessary and continually influenced by both spheres without cleanly belonging to either.
 
-The third actor can matter far more culturally than its territory or treasury would suggest.
+The two spheres do not need to be formal alliances.
+
+A kingdom may lean strongly toward one sphere while:
+
+- one of its cities leans toward the other;
+- its merchant guilds trade heavily with both;
+- a religious institution remains neutral;
+- one noble house switches patronage;
+- popular culture admires the rival sphere;
+- military cooperation and cultural competition point in opposite directions.
+
+The useful analogue is therefore **competitive ecosystems**, not two flags on opposite sides of a map.
 
 ## Source mechanics worth translating
 
@@ -36,11 +47,70 @@ The WCW notes emphasize deeper financial backing, aggressive recruitment, sudden
 
 The ECW notes emphasize ideological rebellion, intense loyalty, low resources, creative freedom, financial instability, development of people later recruited by larger rivals, influence disproportionate to size, and an identity partly built around outsider authenticity.
 
+## Blocs without a clean map
+
+The rivalry should **not** default to east-versus-west, continent-versus-continent, or region-versus-region.
+
+The setting already establishes that regions are broad cultural-geographic ecosystems containing multiple political actors. A competitive sphere can therefore be geographically discontinuous.
+
+For example, one sphere might include:
+
+- an Ironcrest kingdom;
+- a Sunplains city-state;
+- a Northwind harbor clan;
+- a Highridge merchant house;
+- several trans-regional guild branches.
+
+Its rival might contain neighboring polities from those same regions.
+
+That gives the rivalry several advantages:
+
+- borders do not perfectly predict allegiance;
+- internal politics matter;
+- defections can happen at the level of kingdoms, cities, guilds, houses or individuals;
+- a ruler can cooperate with the rival sphere on one issue while competing fiercely on another;
+- mixed cities and border towns become politically interesting;
+- Port can host both spheres at once without becoming a neutral strip between two geographic empires.
+
+### Sphere membership can be layered
+
+A polity's position might be:
+
+- core member;
+- dependable partner;
+- transactional ally;
+- culturally aligned but politically neutral;
+- economically dependent on one sphere and militarily tied to the other;
+- contested internally;
+- formally nonaligned;
+- currently drifting.
+
+This prevents the world from collapsing into two superstates.
+
+### The rivalry needs a shared arena, not shared borders
+
+The spheres only need to compete over many of the same scarce things:
+
+- respected people;
+- guild expertise;
+- trade access;
+- cultural prestige;
+- diplomatic recognition;
+- military talent;
+- public works;
+- scholars;
+- artists;
+- technologies and techniques;
+- festivals and spectacle;
+- stories about which system represents the future.
+
+A famous defection can therefore be a victory for one sphere even when the two sponsoring kingdoms are nowhere near one another.
+
 ## Fantasy translation
 
 ### "Talent" becomes mobile human capital
 
-A kingdom-level rivalry can compete over:
+The rival spheres can compete over:
 
 - engineers;
 - smiths;
@@ -87,9 +157,9 @@ The public rivalry may be theatrical even when the underlying economic and polit
 
 ### "Poaching stars" becomes defection
 
-A rival state can offer land, hereditary title, debt forgiveness, workshop rights, tax exemptions, command, research patronage, guild privileges, lighter obligations, or protection from prosecution.
+A rival kingdom, city, patron, guild or institution inside the competing sphere can offer land, hereditary title, debt forgiveness, workshop rights, tax exemptions, command, research patronage, guild privileges, lighter obligations, or protection from prosecution.
 
-That makes individual career decisions part of international politics.
+That makes individual career decisions part of **sphere-level politics** even when no central alliance leadership ordered the recruitment.
 
 ## Working mapping — Port as ECW
 
@@ -155,7 +225,7 @@ This makes Port a **cultural talent nursery and experimental zone** without redu
 
 ### Port's neutrality strengthens the analogy
 
-Because neither large rival can simply own Port, both can:
+Because neither sphere can simply own Port, both can:
 
 - recruit there;
 - spy there;
@@ -166,7 +236,7 @@ Because neither large rival can simply own Port, both can:
 - lose people there;
 - encounter one another without formal war.
 
-Port therefore becomes the third space in which the two larger rivals constantly meet indirectly.
+Port therefore becomes the third space in which the two larger spheres constantly meet indirectly.
 
 
 ## Combined Port model — ECW inside, Danzig outside
@@ -208,7 +278,7 @@ This should not be a predetermined outcome. The point is the pressure pattern.
 
 ## Public rivalry versus private interdependence
 
-Two rival kingdoms can loudly insult one another while still sharing merchants, families, guild branches, lenders, religious institutions, artists, engineers, smugglers, and diplomatic intermediaries.
+Polities associated with rival spheres can loudly insult one another while still sharing merchants, families, guild branches, lenders, religious institutions, artists, engineers, smugglers, and diplomatic intermediaries.
 
 A famous public defection may hide years of private negotiation.
 
@@ -232,7 +302,7 @@ That creates a believable resentment: they mocked the outsider until its ideas b
 
 ## Interaction with the Council
 
-The Council could prefer a balanced rivalry because competition prevents either kingdom from dominating.
+The Council could prefer a balanced rivalry because competition prevents either sphere from becoming a dominant coordination system.
 
 That does not mean it created the rivalry.
 
@@ -264,14 +334,17 @@ Wurdren can encounter the rivalry through a family divided by a defection, a you
 
 ### Still unresolved
 
-- which current kingdom / polity is the WWF analogue;
-- which current kingdom / polity is the WCW analogue;
-- whether the rivalry is economic, cultural, military, dynastic, or several at once;
+- what holds Sphere A together strongly enough to be recognizable;
+- what holds Sphere B together;
+- which kingdoms, cities, houses, guilds and institutions sit at each sphere's core or edge;
+- which actors deliberately remain nonaligned;
+- whether the rivalry is primarily economic, cultural, military, dynastic, institutional, or several at once;
+- how fluid membership is during the present story;
 - how far along the competitive cycle the present story begins.
 
 ## Mapping heuristic — compete in the same arena
 
-The analogy becomes weaker if the two large actors are merely neighbors with different economic specialties.
+The analogy becomes weaker if the two spheres are merely geographic alliances with little reason to care about the same people and prestige.
 
 WWF and WCW mattered to one another because they competed for many of the **same scarce things**:
 
@@ -282,34 +355,28 @@ WWF and WCW mattered to one another because they competed for many of the **same
 - audience loyalty;
 - cultural momentum.
 
-The fantasy version should therefore favor two polities whose populations regularly compare them and whose elites compete for overlapping people, institutions and prestige.
+The fantasy version should therefore build each sphere around a **shared competitive arena**, not a compass direction.
 
-That may point toward:
+Members of both spheres should routinely compare themselves, recruit from the same professional pools, court the same neutral institutions and interpret high-profile defections as meaningful victories or humiliations.
 
-- neighboring peer kingdoms;
-- rival city-states;
-- two courts drawing from the same guild / artistic / military labor pool;
-- two states connected tightly enough that a defection is public news on both sides.
-
-It is less likely to work if one polity is primarily a distant food producer and the other a remote maritime state with little shared prestige arena.
-
-This is a **structural constraint**, not a polity assignment.
+This is a **structural constraint**, not a final membership map.
 
 ## Mapping test
 
-Candidate polities should satisfy most of these:
+A workable sphere model should satisfy most of these:
 
-1. enough contact that people and ideas can move between them;
-2. comparable spheres of ambition;
-3. a public arena where prestige can be won and lost;
-4. valuable mobile talent;
-5. internal factions capable of distorting policy;
-6. reasons not to simply fight a conventional war;
-7. populations that care about the competition;
-8. a smaller adjacent institution capable of influencing both;
-9. enough economic interdependence that total separation is costly.
+1. each sphere contains several autonomous actors rather than one disguised superstate;
+2. membership can cross regional and continental geography;
+3. both compete in recognizable shared prestige arenas;
+4. important people and institutions can move between them;
+5. individual members have reasons to disagree with their own sphere;
+6. actors can cooperate across the rivalry on unrelated issues;
+7. populations understand the rivalry even when formal treaties are ambiguous;
+8. Port can deal with both without becoming a member of either;
+9. defections at several scales—person, guild, city, house, kingdom—can matter;
+10. enough interdependence remains that total separation would be costly.
 
-The correct mapping should emerge from existing political geography rather than be chosen because a region superficially resembles a wrestling company.
+The final pattern should emerge from existing political, economic and social relationships rather than from drawing two colored halves on the map.
 
 ## Provenance
 
