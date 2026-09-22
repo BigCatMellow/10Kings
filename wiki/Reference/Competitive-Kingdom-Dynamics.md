@@ -33,6 +33,22 @@ A kingdom may lean strongly toward one sphere while:
 
 The useful analogue is therefore **competitive ecosystems**, not two flags on opposite sides of a map.
 
+## Working historical hypothesis — Charter versus Ascendant
+
+A historical pass through the Convergence material produces a stronger candidate than arbitrary sphere membership.
+
+The current hypothesis is:
+
+- **Sphere A / WWF role:** a **Charter / Convergence establishment** made from older recognized capitals, treaty institutions and actors whose status was stabilized by the settlement;
+- **Sphere B / WCW role:** an **Ascendant / revisionist network** made from cities, guild powers, patrons and secondary states whose wealth and influence grew faster than their formal standing after the Convergence;
+- **Port / ECW + Danzig role:** independent third space, cultural laboratory and strategic shared arena.
+
+The most important causal idea is that **the Convergence may have created its own future challenger**.
+
+Peace, standardization and wider guild access protected the established order while simultaneously allowing secondary commercial and industrial actors to become powerful enough to contest it.
+
+See [Convergence to Competitive Spheres](Convergence-to-Competitive-Spheres.md) for the evidence, candidate actors, uncertainty and next test.
+
 ## Source mechanics worth translating
 
 ### Major rival A
