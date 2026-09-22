@@ -227,6 +227,48 @@ Take one surface-route disruption and trace what realistically shifts undergroun
 
 Incubating pending more detailed route geography.
 
+## Candidate 8 — The central waters may matter as much as The Spine
+
+**Sources**
+
+- [Geography and Connections](../Geography-and-Connections.md)
+- [Port](../Places/Port.md)
+- [Northwind](../Regions/Northwind.md)
+- [Sunplains](../Regions/Sunplains.md)
+- [Preserved continent map](../../legacy-notes/2026-09-22/consolidated-package/Map_-_The_Continent.png)
+
+**Connection**
+
+The legacy map places three large landmasses around a central mountain-and-water zone. Current canon already makes The Spine a movement bottleneck and gives Northwind, Sunplains, and Port major maritime roles.
+
+**New implication**
+
+The world's central geography may work as a paired system:
+
+- **The Spine** concentrates land movement.
+- **Central/coastwise waters** distribute maritime movement.
+
+If so, control of the world is not simply control of a mountain crossing or one harbor. Power comes from the ability to shift between sea, surface-road, pass, and Underpass networks.
+
+**Why it matters**
+
+This would make route substitution a permanent political fact. Closing one corridor redirects pressure instead of stopping it, which strengthens the setting's dependency and domino logic.
+
+**Smallest test**
+
+On the next map pass, draw three representative long-distance trades and require each to have:
+
+1. a preferred route;
+2. at least one costly alternative;
+3. a clear chokepoint;
+4. a plausible reason people do not simply bypass every political problem.
+
+If the geography cannot support that without forcing Port or the Underpass into every journey, revise the map or reject this synthesis.
+
+**Disposition**
+
+Incubating pending map lock.
+
 ## Promotion rule
 
 Nothing on this page becomes canon because it sounds useful.
