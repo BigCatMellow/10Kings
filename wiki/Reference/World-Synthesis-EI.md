@@ -506,6 +506,57 @@ Find two existing candidate polities for which a famous defection, festival vict
 
 Strong design constraint; exact pair remains unresolved.
 
+## Candidate 17 — Port's political liminality may protect cultural experimentation
+
+**Sources**
+
+- [Port](../Places/Port.md)
+- [Danzig to Port Parallel](Danzig-to-Port-Parallel.md)
+- [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md)
+- [Social Fabric](../Social-Fabric.md)
+
+**Connection**
+
+The Danzig layer gives Port divided external interests, negotiated sovereignty and limits on any one kingdom's control.
+
+The ECW layer gives Port outsider identity, experimentation and cultural production that larger rivals later absorb.
+
+**New implication**
+
+These may reinforce one another.
+
+Because no single kingdom can fully impose its court culture, professional hierarchy, censorship, patronage rules or social expectations on Port, the city's constrained sovereignty may accidentally create room for:
+
+- unusual guild arrangements;
+- immigrant institutions;
+- controversial performers;
+- mixed religious practices;
+- experimental political clubs;
+- new social movements;
+- people rebuilding identities after leaving other states.
+
+Port's political weakness could therefore contribute to a kind of **cultural freedom through jurisdictional ambiguity**.
+
+**Why it matters**
+
+This turns the Danzig and ECW analogues into one causal model rather than two decorative references.
+
+It also creates a paradox:
+
+**Port can be less sovereign than a kingdom while giving some individuals more room to reinvent themselves than those kingdoms do.**
+
+**Smallest test**
+
+Take one practice that would be suppressed or blocked in each of the two larger rival polities and determine whether Port's actual laws, institutions and competing external interests plausibly allow it to survive there.
+
+**Falsifier**
+
+If Port's treaty structure and merchant institutions are actually more restrictive and standardized than the neighboring kingdoms, weaken or reject this connection.
+
+**Disposition**
+
+Incubating.
+
 ## Promotion rule
 
 Nothing on this page becomes canon because it sounds useful.
