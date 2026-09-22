@@ -17,6 +17,29 @@ The known setting is organized around:
 
 The Spine is both barrier and connector. Routes funnel toward passes, valleys, tunnel mouths, navigable rivers, and coastal approaches.
 
+## Legacy map evidence
+
+The preserved [continent map](../legacy-notes/2026-09-22/consolidated-package/Map_-_The_Continent.png) predates the current wiki and is **reference evidence, not a locked political map**.
+
+What the image and its accompanying legacy notes consistently support:
+
+- three large landmasses arranged around a central mountain-and-water zone;
+- The Spine occupying the central connective/dividing geography;
+- narrow channels, bays, inland/coastal waters, and islands that make water travel structurally important;
+- multiple plausible approaches to the central area rather than one simple east-west land bridge;
+- a strong reason for passes, tunnels, harbors, and channel access to matter politically.
+
+What should **not** be promoted automatically:
+
+- the older one-continent/one-region assignments;
+- exact coastlines as final;
+- exact political borders;
+- Port's exact location;
+- the claim that every major route must pass through Port;
+- a single "main tunnel" model for the Underpass.
+
+The current six-region model is more developed than the map-era political layout. The useful carry-forward is the **physical structure**, not the old political labeling.
+
 ## Strongly established regional relationships
 
 ### Ironcrest ↔ Greenvale
@@ -82,7 +105,28 @@ Its exact site should satisfy several conditions:
 
 Northwind and Sunplains are major maritime partners, but Port belongs to neither.
 
+The legacy map makes a **central-water location** plausible, but not mandatory. Port should be placed where geography and the later political history both explain its importance.
+
+## The Spine
+
+See [The Spine](Places/The-Spine.md).
+
+The Spine should be treated as a system of:
+
+- barriers;
+- passes;
+- inhabited valleys;
+- resource zones;
+- seasonal routes;
+- pilgrimage paths;
+- old forts and toll points;
+- tunnel entrances.
+
+Its importance comes from concentrating movement, not from being uniformly impassable.
+
 ## The Underpass
+
+See [The Underpass](Places/The-Underpass.md).
 
 The Underpass crosses beneath parts of The Spine and has multiple branches. It should not function like a single straight tunnel.
 
@@ -116,6 +160,21 @@ When the map is finalized, it should show:
 - old pre-Convergence roads;
 - pilgrimage paths;
 - smuggling corridors.
+
+## Map-lock criteria
+
+Before treating the physical map as settled, it should answer at least these questions:
+
+1. Where do all six major regions sit, including broad transition zones?
+2. Where exactly is Port, and what land and water routes justify its importance?
+3. Which central channels, bays, rivers, and coastwise routes are navigable?
+4. Which Spine crossings are major, seasonal, local, or obsolete?
+5. Where are the important Underpass entrances and which surface routes do they bypass?
+6. Which important trade flows can avoid Port, Highridge, or the Underpass, and at what cost?
+7. Where do the established border towns fit naturally?
+8. Which geography explains the major pre-Convergence conflicts and current crises?
+
+A map that cannot answer those questions is decorative rather than causal.
 
 ## Border towns
 
