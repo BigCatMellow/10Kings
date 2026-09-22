@@ -194,7 +194,7 @@ Trace price, debt, labor, and political effects for one surplus and one shortage
 
 **Disposition**
 
-Supported at the pattern level; candidate for a future economics deep dive.
+**Promoted 2026-09-22** to [Trade and Dependencies](../Economy/Trade-and-Dependencies.md) as the shared coordination model for scarcity and surplus.
 
 ## Candidate 7 — The Underpass is a systemic bypass valve
 
@@ -225,7 +225,7 @@ Take one surface-route disruption and trace what realistically shifts undergroun
 
 **Disposition**
 
-Incubating pending more detailed route geography.
+**Promoted 2026-09-22** to [The Underpass](../Places/The-Underpass.md) as its systemic bypass role. Exact capacity and route geography remain unresolved.
 
 ## Candidate 8 — The central waters may matter as much as The Spine
 
