@@ -17,6 +17,7 @@ The setting should make it possible to follow one damaged bridge, missing carava
 ## Start here
 
 - [World Overview](World-Overview.md)
+- [The World as a System](World-System.md)
 - [World Rules](World-Rules.md)
 - [Geography and Connections](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
@@ -73,6 +74,7 @@ The setting should make it possible to follow one damaged bridge, missing carava
 ## Writing and provenance
 
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md) — scene-level writing guidance, not canon
+- [World Synthesis — E/I Capture](Reference/World-Synthesis-EI.md) — emergent connections being tested, not canon
 - [Free City of Danzig](Reference/Free-City-of-Danzig.md) — historical research reference for the Port inspiration
 - [Danzig to Port Parallel](Reference/Danzig-to-Port-Parallel.md) — separates imported Port ideas from the historical model
 - [Source Register](Reference/Source-Register.md) — imported-source provenance and disposition
