@@ -162,6 +162,14 @@ But much of daily life is also governed by institutions that cross political bor
 
 [Crime and the Underworld](Politics/Crime-and-Underworld.md) exploit gaps between legal jurisdictions and formal markets, but can also provide work, credit, protection, transport, or dispute resolution to people excluded from legal institutions.
 
+### Cross-cutting social identity
+
+[Social Fabric](Social-Fabric.md) owns the rule that political, regional, religious, professional, class, family and voluntary identities overlap rather than nesting cleanly.
+
+That overlap is another part of the circulation system. A guild branch, faith network, marriage, pilgrimage, social movement, or old friendship can connect populations that their governments describe as rivals.
+
+[Audience Movements](Culture/Audience-Movements.md) is a provisional example of how a community can become a durable trans-regional institution through accumulated participation rather than territory.
+
 ### Port
 
 Port concentrates foreign enclaves, merchants, workers, courts, guilds, migrants, information, and contraband in one place. It functions as a compressed model of the larger world.
