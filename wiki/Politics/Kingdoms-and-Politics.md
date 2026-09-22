@@ -134,4 +134,14 @@ The spheres should therefore behave more like **competitive networks** than form
 
 Their exact membership, names, founding history and organizing principles remain unresolved.
 
+### Historical working hypothesis
+
+The current history-first model is that the spheres grew from a **post-Convergence status conflict**, not geography.
+
+One side is associated with older recognized capitals and treaty institutions whose position was stabilized by the Convergence.
+
+The rival network grows among actors whose wealth and influence expanded under post-Convergence peace faster than their formal political standing: secondary cities, guild-run powers, patrons and ambitious local states.
+
+This is a **working hypothesis**, not settled membership. See [Convergence to Competitive Spheres](../Reference/Convergence-to-Competitive-Spheres.md).
+
 [Port](../Places/Port.md) stands outside this binary as the working ECW/Danzig third space used by, influenced by and culturally influential on both.
