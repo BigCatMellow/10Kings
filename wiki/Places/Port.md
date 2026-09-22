@@ -6,6 +6,66 @@
 
 Port is not important because it is the only harbor in the world. It is important because geography, law, infrastructure, trust, finance, and history have accumulated around one exceptionally useful harbor until replacing it became more expensive than continuing to use it.
 
+## Two structural analogues
+
+Port's current design is best understood as a **hybrid of two different real-world structural references**:
+
+- **Free City of Danzig** helps explain Port's **external political and economic position**.
+- **ECW during the Monday Night Wars** helps explain Port's **internal cultural and competitive position**.
+
+These are reference mechanisms, not one-to-one historical copies.
+
+### Danzig side — external structure
+
+The Danzig parallel contributes:
+
+- strong local identity without uncomplicated sovereignty;
+- a strategically indispensable harbor;
+- larger powers requiring access while fearing rival control;
+- neutrality sustained by competing outside interests;
+- treaty guarantees and negotiated rights;
+- local government constrained by external arrangements;
+- dependence mixed with resentment;
+- a population whose city identity can matter more than attachment to neighboring states.
+
+See [Danzig to Port Parallel](../Reference/Danzig-to-Port-Parallel.md).
+
+### ECW side — internal culture
+
+The ECW parallel contributes:
+
+- outsider identity;
+- unusually intense local / participant loyalty;
+- cultural experimentation;
+- tolerance for people and institutions that do not fit larger powers;
+- opportunities for unknown people to become important;
+- larger rivals recruiting Port-developed talent;
+- larger powers adopting Port-originated styles after dismissing them;
+- influence disproportionate to territorial size;
+- a sense that Port is culturally its own thing rather than a lesser version of a neighboring kingdom.
+
+See [Competitive Kingdom Dynamics](../Reference/Competitive-Kingdom-Dynamics.md).
+
+### Combined effect
+
+The useful synthesis is:
+
+```text
+Danzig
+politically constrained / strategically indispensable / externally contested
+                              +
+ECW
+culturally independent / experimental / influential beyond its size
+                              ↓
+                            PORT
+```
+
+Port is therefore neither merely a neutral trade city nor merely an outsider cultural scene.
+
+It is a place the larger powers **need**, **cannot comfortably control**, **periodically look down on**, and **continually borrow from**.
+
+That tension should shape Port-born identity.
+
 ## Why Port became central
 
 Port likely began at a sheltered deep-water harbor, estuary, or strait where several trade systems naturally met.
