@@ -99,3 +99,39 @@ A plausible escalation chain:
 10. limited conflict becomes self-sustaining.
 
 The Villain's genius is making each step locally rational.
+
+
+## Provisional cross-regional competitive spheres
+
+See [Competitive Kingdom Dynamics](../Reference/Competitive-Kingdom-Dynamics.md).
+
+The WWF/WCW-derived rivalry should currently be treated as **two competing spheres made of multiple political and institutional actors**, not as two single kingdoms and not as east-versus-west.
+
+A sphere may include:
+
+- kingdoms;
+- city-states;
+- noble houses;
+- harbor authorities;
+- guild blocs;
+- merchant patrons;
+- military clients;
+- cultural institutions;
+- allied courts.
+
+Membership does not need to be geographically continuous.
+
+A polity can also have mixed alignment:
+
+- the ruler leans toward one sphere;
+- merchants depend on the other;
+- one major city prefers the rival;
+- religious institutions remain trans-regional;
+- a guild branch splits internally;
+- popular culture admires people associated with the other side.
+
+The spheres should therefore behave more like **competitive networks** than formal empires.
+
+Their exact membership, names, founding history and organizing principles remain unresolved.
+
+[Port](../Places/Port.md) stands outside this binary as the working ECW/Danzig third space used by, influenced by and culturally influential on both.
