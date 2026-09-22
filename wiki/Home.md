@@ -73,6 +73,8 @@ The setting should make it possible to follow one damaged bridge, missing carava
 ## Writing and provenance
 
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md) — scene-level writing guidance, not canon
+- [Free City of Danzig](Reference/Free-City-of-Danzig.md) — historical research reference for the Port inspiration
+- [Danzig to Port Parallel](Reference/Danzig-to-Port-Parallel.md) — separates imported Port ideas from the historical model
 - [Source Register](Reference/Source-Register.md) — imported-source provenance and disposition
 
 ## Canon discipline
