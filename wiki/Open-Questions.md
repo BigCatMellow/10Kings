@@ -8,12 +8,17 @@ These are the questions that most strongly affect multiple other pages. They sho
 
 ### 1. Physical network
 
-- Exact outlines of the three continents.
-- Exact location and surrounding territory of Port.
-- Exact relationship of The Spine to continental separation.
-- Major navigable rivers and watersheds.
-- Major surface passes, maritime lanes, and Underpass connections.
+The broad topology is now captured in [Geography and Connections](Geography-and-Connections.md). The remaining questions are map-detail questions rather than a blank-slate geography problem:
+
+- Exact outlines and proportions of the three continents.
+- Exact physical form of the Northwind ↔ Spine / Highridge connection.
+- Exact location and territorial form of Port: mainland coast, peninsula, island, estuary, or strait-side district.
+- Named major navigable rivers and watershed boundaries.
+- Exact major surface passes, old roads, maritime lanes, and Underpass entrances.
 - Which regional borders are broad frontiers versus narrow corridors.
+- Whether Highridge directly borders Sunplains.
+- Approximate travel times and seasonal reliability between major hubs.
+- Which rivers, roads, and straits become true strategic chokepoints rather than merely important routes.
 
 ### 2. Post-Convergence political order
 
