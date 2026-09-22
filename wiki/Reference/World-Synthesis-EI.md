@@ -521,9 +521,23 @@ Build two provisional spheres using existing actors from at least three differen
 3. whether at least one actor has divided alignment;
 4. whether Port can plausibly serve both while belonging to neither.
 
+**Test result — 2026-09-22**
+
+A history-first pass through the Convergence and legacy polity material supports a more specific mechanism.
+
+The strongest current hypothesis is not two arbitrary spheres but:
+
+- a **Charter / Convergence establishment** descended from older recognized centers and treaty institutions;
+- an **Ascendant / revisionist network** of post-Convergence cities, guild powers, patrons and secondary states whose real influence has outgrown the hierarchy stabilized by the original settlement;
+- Port outside both as the ECW/Danzig third space.
+
+This is documented in [Convergence to Competitive Spheres](Convergence-to-Competitive-Spheres.md).
+
+The pattern survives several concrete legacy signals without requiring an east/west split: Summithold's Convergence role, Verdanthearth's old ties to Summithold and Aurorashore, Cliffhaven's explicit challenge to Summithold toll dominance, Blackbellow's wage/industrial challenge to the Ironcrest crown, and Sunplains' long tradition of competitive patronage and city-state politics.
+
 **Disposition**
 
-Strong design constraint. Competing spheres replace the earlier peer-polity hypothesis; exact membership remains unresolved.
+Strong working hypothesis. Historical mechanism identified; exact sphere membership and final in-world names remain provisional.
 
 ## Candidate 17 — Port's political liminality may protect cultural experimentation
 
