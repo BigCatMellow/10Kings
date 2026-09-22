@@ -62,6 +62,7 @@
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
 - [World Synthesis — E/I](Reference/World-Synthesis-EI.md)
 - [Competitive Kingdom Dynamics](Reference/Competitive-Kingdom-Dynamics.md)
+- [Convergence to Competitive Spheres](Reference/Convergence-to-Competitive-Spheres.md)
 - [Free City of Danzig](Reference/Free-City-of-Danzig.md)
 - [Danzig to Port Parallel](Reference/Danzig-to-Port-Parallel.md)
 - [Source Register](Reference/Source-Register.md)
