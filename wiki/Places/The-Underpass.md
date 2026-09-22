@@ -71,6 +71,26 @@ Possible governing units:
 
 Surface kingdoms claim some entrances and sections but rarely control the entire network.
 
+## Systemic role
+
+The Underpass acts as a **bypass network**.
+
+When a major surface road, pass, border crossing, or official trade route becomes blocked, expensive, politically restricted, or unsafe, some movement shifts underground instead of disappearing.
+
+That can include:
+
+- legitimate trade;
+- smuggling;
+- refugees;
+- messengers and intelligence;
+- pilgrims;
+- military or political movement;
+- goods avoiding tariffs or embargoes.
+
+This does not make the Underpass a universal alternative. Capacity, danger, local tolls, collapses, ventilation, pack-animal limits, and fragmented authority impose real costs.
+
+Its political importance comes from changing **who controls movement** when the normal surface network fails.
+
 ## Current events
 
 - rival enclaves are fighting over profitable corridors;
