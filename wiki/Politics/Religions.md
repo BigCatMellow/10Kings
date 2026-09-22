@@ -141,3 +141,14 @@ But class, region, family, guild, and personal experience also matter.
 Because these traditions span borders, they are ideal for showing that a crisis in one region can be understood completely differently elsewhere.
 
 Religious networks may also provide the first genuinely trans-regional response to the unfolding political crisis.
+
+
+## Religion and other forms of belonging
+
+See [Social Fabric](../Social-Fabric.md).
+
+Religious identity is one layer among several. A person can belong to a faith, guild, kingdom, neighborhood, family network and voluntary social movement simultaneously.
+
+The provisional [Audience Movements](../Culture/Audience-Movements.md) model is deliberately **not** treated as a tenth major faith by default. Some participants may understand such a movement religiously while remaining members of one of the traditions above; other authorities may classify the same movement as a fraternity, cult, civic society or nuisance.
+
+This overlap should create local disagreement rather than one universal theological verdict.
