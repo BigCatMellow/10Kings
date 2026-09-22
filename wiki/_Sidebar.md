@@ -5,6 +5,7 @@
 - [World Overview](World-Overview.md)
 - [World Rules](World-Rules.md)
 - [Geography](Geography-and-Connections.md)
+- [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
 - [Open Questions](Open-Questions.md)
 
 **Regions**
@@ -23,6 +24,7 @@
 
 **History**
 - [Pre-Convergence](History/Pre-Convergence.md)
+- [Contested Historical Memory](History/Contested-Memory.md)
 - [The Convergence](History/The-Convergence.md)
 
 **Politics**
@@ -38,6 +40,9 @@
 - [Naming](Culture/Naming.md)
 - [Architecture](Culture/Architecture.md)
 - [Food](Culture/Food.md)
+- [Food Diaspora and Adaptation](Culture/Food-Diaspora-and-Adaptation.md)
+- [Festivals and Seasonal Life](Culture/Festivals-and-Seasonal-Life.md)
+- [Regional Social Dynamics](Culture/Regional-Social-Dynamics.md)
 - [Nomads](Culture/Nomads.md)
 - [Weapons and Elites](Culture/Weapons-and-Elite-Troops.md)
 
@@ -48,3 +53,7 @@
 - [Villain](Story/Villain.md)
 - [Villain's Dominoes](Story/Villains-Dominoes.md)
 - [Character Roster](Story/Character-Roster.md)
+
+**Reference**
+- [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
+- [Source Register](Reference/Source-Register.md)

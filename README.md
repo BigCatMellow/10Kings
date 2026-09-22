@@ -11,6 +11,7 @@ Start here:
 - [World Overview](wiki/World-Overview.md)
 - [Current Events](wiki/Story/Current-Events.md)
 - [Story Core](wiki/Story/Main-Conflict.md)
+- [Legacy Notes](legacy-notes/README.md) — preserved source material and older versions
 
 ## Canon status
 
@@ -21,6 +22,8 @@ Pages distinguish between:
 - **Provisional** — useful idea that should not silently become fixed canon.
 
 This matters because the setting has grown through iterative brainstorming and several earlier ideas conflict or have been superseded.
+
+Older and conflicting source material is preserved under `legacy-notes/` rather than discarded.
 
 ## Wiki note
 
