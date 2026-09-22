@@ -19,7 +19,9 @@ The setting should make it possible to follow one damaged bridge, missing carava
 - [World Overview](World-Overview.md)
 - [World Rules](World-Rules.md)
 - [Geography and Connections](Geography-and-Connections.md)
+- [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
 - [Pre-Convergence History](History/Pre-Convergence.md)
+- [Contested Historical Memory](History/Contested-Memory.md)
 - [The Convergence](History/The-Convergence.md)
 - [Economic Council](Politics/Economic-Council.md)
 - [Main Conflict](Story/Main-Conflict.md)
@@ -48,6 +50,9 @@ The setting should make it possible to follow one damaged bridge, missing carava
 - [Naming](Culture/Naming.md)
 - [Architecture](Culture/Architecture.md)
 - [Food](Culture/Food.md)
+- [Food Diaspora and Adaptation](Culture/Food-Diaspora-and-Adaptation.md)
+- [Festivals and Seasonal Life](Culture/Festivals-and-Seasonal-Life.md)
+- [Regional Social Dynamics](Culture/Regional-Social-Dynamics.md)
 - [Nomads](Culture/Nomads.md)
 - [Weapons and Elite Troops](Culture/Weapons-and-Elite-Troops.md)
 
@@ -65,6 +70,13 @@ The setting should make it possible to follow one damaged bridge, missing carava
 - [Villain's Dominoes](Story/Villains-Dominoes.md)
 - [Character Roster](Story/Character-Roster.md)
 
+## Writing and provenance
+
+- [Worldbuilding Breath](Reference/Worldbuilding-Breath.md) — scene-level writing guidance, not canon
+- [Source Register](Reference/Source-Register.md) — imported-source provenance and disposition
+
 ## Canon discipline
 
 The discussion that created this world contains exploratory ideas and contradictions. This wiki intentionally marks uncertain material rather than pretending every brainstorm is settled. See [Open Questions](Open-Questions.md).
+
+Imported source compendia do not override current owner pages. See [Source Register](Reference/Source-Register.md) for the 2026-09-22 reconciliation.
