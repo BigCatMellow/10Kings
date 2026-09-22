@@ -298,33 +298,39 @@ Choose two candidate polities and identify three categories of people both would
 
 Incubating; exact polity mapping unresolved.
 
-## Candidate 10 — A small polity or institution can be an innovation nursery
+## Candidate 10 — Port can be an innovation nursery
 
 **Sources**
 
+- [Port](../Places/Port.md)
 - [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md)
-- [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md)
 - [Social Fabric](../Social-Fabric.md)
 
 **Connection**
 
-The ECW analogue is structurally smaller, poorer and less stable than the two major competitors but more culturally permissive.
+Port is now the working ECW analogue: politically independent of the two larger rivals, culturally porous, highly connected, and able to give outsiders and experimental institutions room to develop.
+
+The analogy does **not** require Port to be poor, marginal or doomed to collapse.
 
 **New implication**
 
-A minor city-state, enclave, district or network may repeatedly produce people and practices later absorbed by larger powers.
+Port may repeatedly produce people, styles, organizations and practices that larger powers later recruit, imitate or appropriate.
+
+Its influence can therefore exceed its territorial size even while its commercial importance remains very high.
 
 **Why it matters**
 
-Influence no longer tracks territory or wealth cleanly.
+This gives Port a cultural function in addition to its existing economic and logistical functions:
+
+**Port is where the world trades, but it may also be where the world tries things first.**
 
 **Smallest test**
 
-Identify one existing small polity and ask what constraint it lacks that would let it experiment faster than neighboring kingdoms.
+Take three categories—one person, one institution and one cultural practice—and test whether each could plausibly originate or become established in Port before being adopted by a larger rival.
 
 **Disposition**
 
-Incubating; do not create a new polity solely to satisfy the analogy.
+Working mapping accepted; the innovation-nursery consequence remains an E/I hypothesis pending examples.
 
 ## Candidate 11 — Participatory movements create a second kind of trans-regional identity
 
