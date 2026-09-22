@@ -17,6 +17,12 @@ The six major cultural-political regions are:
 
 These are **emphases, not total definitions**. Greenvale has smiths. Ironcrest has farms. Northwind has inland villages. Sunplains has poor laborers and dry pastoral country beyond wealthy orchard belts. Deepwood has market towns and politics. Highridge has families who never see a caravan.
 
+## How the world fits together
+
+The regions are parts of one interdependent network rather than six isolated settings. Geography channels movement; specialization creates trade; trade creates dependencies; dependencies create institutions; institutions accumulate power; and disruptions spread through routes, prices, credit, migration, politics, religion, guilds, and information.
+
+For the full causal model, see [The World as a System](World-System.md).
+
 ## The political order
 
 The present world exists in the shadow of **The Convergence**, the settlement that turned centuries of shifting frontiers, raids, petty kingdoms, warbands, toll states, clan confederacies, and temporary conquests into recognized borders and rules for trade and dispute.

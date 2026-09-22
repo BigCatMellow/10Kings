@@ -3,6 +3,7 @@
 **Core**
 - [Home](Home.md)
 - [World Overview](World-Overview.md)
+- [The World as a System](World-System.md)
 - [World Rules](World-Rules.md)
 - [Geography](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
@@ -56,4 +57,7 @@
 
 **Reference**
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
+- [World Synthesis — E/I](Reference/World-Synthesis-EI.md)
+- [Free City of Danzig](Reference/Free-City-of-Danzig.md)
+- [Danzig to Port Parallel](Reference/Danzig-to-Port-Parallel.md)
 - [Source Register](Reference/Source-Register.md)

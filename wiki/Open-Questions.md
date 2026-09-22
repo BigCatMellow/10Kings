@@ -2,6 +2,57 @@
 
 These are important areas where earlier brainstorming produced multiple versions or where a firm decision has not yet been made.
 
+## World-level questions to settle first
+
+These are the questions that most strongly affect multiple other pages. They should generally be resolved before polishing local detail.
+
+### 1. Physical network
+
+- Exact outlines of the three continents.
+- Exact location and surrounding territory of Port.
+- Exact relationship of The Spine to continental separation.
+- Major navigable rivers and watersheds.
+- Major surface passes, maritime lanes, and Underpass connections.
+- Which regional borders are broad frontiers versus narrow corridors.
+
+### 2. Post-Convergence political order
+
+- What did the Convergence formally guarantee: borders, passage, trade, arbitration, mutual defense, Port neutrality, or some combination?
+- Are all six named regions states in the same constitutional sense?
+- Which powers remain city-states, confederacies, clan systems, or decentralized networks?
+- What institutions arbitrate disputes between regions?
+- What is Port's legal status, citizenship model, and neutrality guarantee?
+
+### 3. Coordination and power
+
+- How old is the Economic Council relative to the Convergence?
+- Which coordination functions did the Council inherit, create, or quietly take over?
+- Who knows the Council exists, and what do they actually know?
+- What public institutions could perform Council functions if its power were exposed or reduced?
+- How are Council seats inherited, selected, purchased, contested, or replaced?
+
+### 4. Movement of people and information
+
+- Actual language families and degrees of mutual intelligibility.
+- Major pilgrimage, migration, labor, refugee, and seasonal travel patterns.
+- Structure and legal status of nomadic/itinerant peoples.
+- Which networks move information fastest: states, merchants, guilds, faiths, Port, or informal routes?
+
+### 5. Magic baseline
+
+- Exact prevalence.
+- Clear limits and costs.
+- Which older artifact, creature, illusion, or supernatural concepts are real, misunderstood, religious interpretation, or removed.
+- Why magic has not replaced the material systems described in [The World as a System](World-System.md).
+
+### 6. Story pressure
+
+- The Villain's exact grievance and desired political end state.
+- Which current crises are ordinary, manipulated, Council responses, or combinations.
+- Where Wurdren begins and which human-scale problem first connects him to the larger system.
+
+The sections below retain the more detailed unresolved questions.
+
 ## Map
 
 - Exact outlines of the three continents.
