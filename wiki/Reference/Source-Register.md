@@ -116,6 +116,27 @@ Disposition: **promoted as a design method** to [Food Diaspora and Adaptation](.
 
 The generational adaptation model and functional-substitution method were retained. Exact modern ingredient analogues remain illustrative so they do not accidentally hard-code a real-world cuisine into a region.
 
+### 8. Audience-movement / Ron & Fez cult concept
+
+**Uploaded:** `RnFClt.txt`
+
+Disposition: **preserved source + provisional social-worldbuilding input.**
+
+The file develops a fantasy translation of two related participatory communities:
+
+- an R&F-derived movement organized around belonging, accumulated lore, relationships, memory and civilian-to-character permeability;
+- an O&A-derived neighboring movement organized around participation, mobilization, ranks, campaigns and action.
+
+It also emphasizes crossover members, shared founders, later theological reinterpretation, archival factions, splinter sects and the possibility that followers make the rivalry sharper than the founders did.
+
+The raw supplied file is preserved at [legacy-notes/2026-09-22/direct-uploads/RnFClt.txt](../../legacy-notes/2026-09-22/direct-uploads/RnFClt.txt).
+
+The live synthesis is [Audience Movements](../Culture/Audience-Movements.md).
+
+The deeper real-world structural research source is the separate [BigCatMellow/RonFez](https://github.com/BigCatMellow/RonFez) repository, especially its reconstruction of the secondary universe, civilian cast, fan status, physical events, archive culture and community afterlife.
+
+No real-world personality, event, magical broadcast mechanism or final cult name is automatically setting canon.
+
 ## SHA-256 evidence
 
 Hashes identify the exact files reviewed in this pass.
@@ -130,6 +151,7 @@ Hashes identify the exact files reviewed in this pass.
 | `Two_Sons_-_Complete_Reference.md` | `6f167a6de74b6a1ec270ec18815d30fe93f644932ab7fae2dbe6f9cdc79311e9` |
 | `two_sons_world_dynamics.md` | `3f2deb358dc1fcfdca1b7dddbfde6c932c5c2fac98b8d9e79749842d2b2882b8` |
 | `Worldbuilding_Breath_Notes.md` | `cb8653ac2b64cebba29f19875c062362b8b8c1fabf744a6e4e221e0911b8fccb` |
+| `RnFClt.txt` | `b3a0ed71bf12322c069572de64dd6050965cb8b7e872a20aadc1a5061baef363` |
 
 ### Files inside the consolidated package
 
@@ -173,6 +195,9 @@ Use this instead of reopening the large compendia for normal work.
 | What ordinary prejudice/jokes/social friction can appear? | [Regional Social Dynamics](../Culture/Regional-Social-Dynamics.md) |
 | What seasonal festivals exist as working material? | [Festivals and Seasonal Life](../Culture/Festivals-and-Seasonal-Life.md) |
 | How does food change through migration? | [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md) |
+| How do overlapping identities and institutions fit together? | [Social Fabric](../Social-Fabric.md) |
+| How could a participatory cult/social movement work? | [Audience Movements](../Culture/Audience-Movements.md) |
+| How should the WWF/WCW/ECW analogy be translated? | [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md) |
 | How do I make a scene feel like the world existed yesterday? | [Worldbuilding Breath](Worldbuilding-Breath.md) |
 | Is an older fixed claim still canon? | Find the current owner page; if unresolved, [Open Questions](../Open-Questions.md) wins over legacy certainty |
 
