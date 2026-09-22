@@ -70,6 +70,33 @@ Port's dependence on inflows is real but should not be exaggerated into helpless
 
 A disruption in Port can therefore become a continental event even when the original problem is local.
 
+## Coordination stress: scarcity and surplus
+
+Shortage is not the only dangerous resource condition.
+
+A surplus can destabilize the same network through a different path:
+
+- production exceeds local storage or demand;
+- prices collapse;
+- producers cannot service debts;
+- buyers delay purchases because they expect still lower prices;
+- distressed land, workshops, or contracts change hands;
+- transport capacity is redirected elsewhere;
+- political actors interpret the losses as manipulation.
+
+A shortage can produce the inverse pressure:
+
+- prices rise;
+- hoarding and substitution increase;
+- credit tightens;
+- political pressure grows to control distribution;
+- smuggling becomes more profitable;
+- authorities redirect transport or seize reserves.
+
+The shared problem is **coordination among production, storage, debt, transport, ownership, and expectations**.
+
+This is why Greenvale abundance, Sunplains drought anxiety, Northwind fish decline, and Port shipping disruption can all become system-level crises without being the same kind of event.
+
 ## Seasonal stress
 
 Seasonality changes the dependency web.
