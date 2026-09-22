@@ -56,4 +56,6 @@
 
 **Reference**
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
+- [Free City of Danzig](Reference/Free-City-of-Danzig.md)
+- [Danzig to Port Parallel](Reference/Danzig-to-Port-Parallel.md)
 - [Source Register](Reference/Source-Register.md)
