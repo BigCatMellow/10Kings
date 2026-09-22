@@ -2,13 +2,17 @@
 
 ## Status
 
-**Reference / design translation — not canon.**
+**Reference / design translation with one working mapping decision.**
 
 The legacy story package contains substantial research notes on the WWF, WCW, and ECW during the Monday Night Wars era.
 
-Those notes clearly preserve a desired **interaction model**, but the material reviewed in the current repository does **not** explicitly assign the three analog roles to named current Two Sons polities.
+The current working design decision is:
 
-This page therefore preserves the mechanism without inventing the mapping.
+- **Port fills the ECW structural role.**
+
+The two larger WWF/WCW-style rivals remain unresolved.
+
+This is an analogy for institutional behavior and cultural position, not a requirement that Port copy ECW's exact finances, history, collapse, or organization.
 
 ## The useful three-part system
 
@@ -87,24 +91,83 @@ A rival state can offer land, hereditary title, debt forgiveness, workshop right
 
 That makes individual career decisions part of international politics.
 
-## The third actor should probably not be a third great kingdom
+## Working mapping — Port as ECW
 
-If the intended relationship is primarily **two kingdoms competing**, then the ECW role may work better as:
+Port now fills the **ECW structural role** in the three-part rivalry.
 
-- a small city-state;
-- border principality;
-- guild-run enclave;
-- radical free town;
-- semi-legal cultural district;
-- mercenary republic;
-- dissident court;
-- independent island;
-- autonomous Port quarter;
-- network with no single sovereign territory.
+What transfers well:
 
-That preserves the asymmetry.
+- independence from the two larger rivals;
+- a strong identity built partly around not being either of them;
+- intense local / participant loyalty;
+- cultural experimentation;
+- people reinventing themselves there;
+- outsiders, specialists and ambitious newcomers getting chances they would not receive in more rigid courts;
+- larger powers recruiting Port-developed people;
+- larger powers copying Port styles while publicly treating Port as less respectable;
+- influence disproportionate to formal territorial size;
+- porous boundaries between official culture, nightlife, guild life, crime, performance and politics.
 
-Making three equal kingdoms would lose one of the most useful parts of the analogy.
+Port is especially suitable because it is already a cosmopolitan neutral city where people, information and institutions from across the world collide.
+
+### What should **not** transfer automatically
+
+Port is not required to inherit:
+
+- ECW's chronic insolvency;
+- marginal distribution;
+- dependence on a single visionary leader;
+- inevitable institutional collapse;
+- low strategic importance.
+
+The current Port owner makes the city one of the world's most important commercial and information hubs.
+
+So the useful relationship is:
+
+```text
+ECW outsider / incubator / cultural laboratory
+                    ↓
+                  PORT
+
+not
+
+ECW poverty / bankruptcy / collapse
+                    ↓
+                  PORT
+```
+
+### The strongest fantasy translation
+
+Port can function as the place where established people arrive, unknown people become important, unusual institutions are tolerated, and ideas become visible before larger kingdoms are willing to adopt them.
+
+That creates a recurring pattern:
+
+```text
+person / style / institution emerges in Port
+→ gains a small but intense following
+→ larger rival notices it
+→ recruitment / imitation / appropriation
+→ Port accuses the larger power of stealing what it mocked
+→ another new thing emerges in Port
+```
+
+This makes Port a **cultural talent nursery and experimental zone** without reducing it to a poor minor state.
+
+### Port's neutrality strengthens the analogy
+
+Because neither large rival can simply own Port, both can:
+
+- recruit there;
+- spy there;
+- sponsor factions there;
+- court popular figures there;
+- stage public events there;
+- test ideas there;
+- lose people there;
+- encounter one another without formal war.
+
+Port therefore becomes the third space in which the two larger rivals constantly meet indirectly.
+
 
 ## A possible interaction cycle
 
@@ -175,11 +238,14 @@ Wurdren can encounter the rivalry through a family divided by a defection, a you
 - backstage politics, recruitment, competition, institutional adaptation, and asymmetric third-party influence are the useful mechanisms;
 - the broader story already contains rival kingdoms, guild pressure, prestige, defections, economic competition, and indirect conflict.
 
-### Not recovered as explicit canon
+### Current working decision
 
-- which current kingdom is the WWF analogue;
-- which current kingdom is the WCW analogue;
-- what exact polity or movement fills the ECW role;
+- **Port fills the ECW structural role.**
+
+### Still unresolved
+
+- which current kingdom / polity is the WWF analogue;
+- which current kingdom / polity is the WCW analogue;
 - whether the rivalry is economic, cultural, military, dynastic, or several at once;
 - how far along the competitive cycle the present story begins.
 
