@@ -66,6 +66,26 @@ It is a place the larger powers **need**, **cannot comfortably control**, **peri
 
 That tension should shape Port-born identity.
 
+### Port and the competing spheres
+
+The two WWF/WCW-style rivals are not single kingdoms but **cross-regional competitive spheres**.
+
+Port sits outside that rivalry without being untouched by it.
+
+Inside the city there can be:
+
+- merchant houses identified with different spheres;
+- guild chapters that recruit from both;
+- neighborhoods culturally sympathetic to one side;
+- neutral institutions serving both;
+- defectors and exiles from each;
+- patrons quietly financing Port figures in hopes of later recruiting them;
+- Port-born institutions that deliberately play the spheres against one another.
+
+This strengthens the combined ECW/Danzig model.
+
+Port is not a geographic buffer between two blocs. It is a **shared arena, recruitment ground, experimental zone and contested influence space** embedded inside both spheres' networks.
+
 ## Why Port became central
 
 Port likely began at a sheltered deep-water harbor, estuary, or strait where several trade systems naturally met.
