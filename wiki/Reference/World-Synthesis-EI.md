@@ -269,7 +269,7 @@ Take one new social practice and trace a plausible six-month spread through actu
 
 Strong candidate; structural principle promoted to [Social Fabric](../Social-Fabric.md), exact diffusion examples remain provisional.
 
-## Candidate 9 — Major interstate rivalry can create a prestige market for people
+## Candidate 9 — Rival spheres can create a prestige market for people
 
 **Sources**
 
@@ -280,11 +280,11 @@ Strong candidate; structural principle promoted to [Social Fabric](../Social-Fab
 
 **Connection**
 
-Two states can compete by recruiting prominent professionals, patrons, performers and leaders rather than by direct conquest.
+Two cross-regional spheres can compete by recruiting prominent professionals, patrons, performers and leaders through their member kingdoms, cities, guilds and patrons rather than by direct conquest.
 
 **New implication**
 
-Defections themselves can become public political events. A kingdom can lose prestige because a famous person leaves even if material production barely changes.
+Defections themselves can become public political events. A kingdom, city, guild or patron can lose prestige because a famous person leaves, while the receiving **sphere** gains symbolic momentum even if material production barely changes.
 
 **Why it matters**
 
@@ -292,11 +292,11 @@ This creates recurring conflict below the threshold of war and gives individual 
 
 **Smallest test**
 
-Choose two candidate polities and identify three categories of people both would plausibly compete to recruit.
+Choose two provisional sphere compositions and identify three categories of people whose movement between their member institutions would be understood as a sphere-level gain or loss.
 
 **Disposition**
 
-Incubating; exact polity mapping unresolved.
+Incubating; sphere composition and organizing principles unresolved.
 
 ## Candidate 10 — Port can be an innovation nursery
 
@@ -478,33 +478,52 @@ Start one movement in a Port neighborhood and trace how it reaches Northwind, Gr
 
 Incubating; do not assign the Audience movements this origin until the transmission mechanism is tested.
 
-## Candidate 16 — The wrestling-style rivalry likely belongs between peer polities, not whole regions
+## Candidate 16 — The wrestling-style rivalry likely belongs between cross-regional spheres
 
 **Sources**
 
 - [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md)
 - [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md)
+- [Social Fabric](../Social-Fabric.md)
 - [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
 
 **Connection**
 
-The real-world analogue depended on two large competitors fighting for the same attention, people and prestige rather than merely occupying adjacent territory.
+The real-world analogue depended on competitors fighting for the same attention, people and prestige.
+
+The current world already contains multiple political actors inside each region plus guilds, merchant houses, faith networks, mixed cities and trans-regional institutions.
 
 **New implication**
 
-The best fantasy mapping may be two kingdoms / city-states inside one interconnected cultural-economic arena, while the six regions remain broader ecosystems containing many political actors.
+The strongest fantasy translation may therefore be **two recognizable but non-geographic spheres** made of several kingdoms, cities, houses and institutions.
+
+A sphere can cross continental and regional lines.
+
+Membership can also be partial: political alignment, trade dependence, cultural admiration and military cooperation do not have to point in the same direction.
 
 **Why it matters**
 
-This avoids flattening an entire region into "the WWF kingdom" or "the WCW kingdom" and fits the existing rule that regions are not single political blocks.
+This avoids:
+
+- flattening a whole region into "the WWF side" or "the WCW side";
+- turning the map into a simple east/west split;
+- accidentally creating two superstates;
+- making every member of a kingdom share the same allegiance.
+
+It also creates more useful defections because a **person, guild, city, noble house or entire kingdom** can shift toward the rival sphere.
 
 **Smallest test**
 
-Find two existing candidate polities for which a famous defection, festival victory, guild recruitment coup or court appointment would be immediately understood as a win over the other.
+Build two provisional spheres using existing actors from at least three different regions each, then check:
+
+1. whether each has a recognizable shared competitive identity;
+2. whether members still retain reasons to disagree internally;
+3. whether at least one actor has divided alignment;
+4. whether Port can plausibly serve both while belonging to neither.
 
 **Disposition**
 
-Strong design constraint; exact pair remains unresolved.
+Strong design constraint. Competing spheres replace the earlier peer-polity hypothesis; exact membership remains unresolved.
 
 ## Candidate 17 — Port's political liminality may protect cultural experimentation
 
