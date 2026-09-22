@@ -239,6 +239,209 @@ This supports the bypass-valve mechanism at the provisional map level. It is not
 
 Incubating pending scale / capacity testing.
 
+## Candidate 8 — Trade routes are also social transmission routes
+
+**Sources**
+
+- [The World as a System](../World-System.md)
+- [Geography and Connections](../Geography-and-Connections.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Religions](../Politics/Religions.md)
+- [Guilds](../Politics/Guilds.md)
+
+**Connection**
+
+The same roads, ports, pilgrimage routes, caravan systems and shipping lanes that move goods also move people and repeated social contact.
+
+**New implication**
+
+Port and Highridge may function as switching points for jokes, reform movements, cult practices, political vocabulary, religious disputes, fashions and reputations—not only commodities.
+
+**Why it matters**
+
+Culture would spread along uneven networks rather than evenly across adjacent territory.
+
+**Smallest test**
+
+Take one new social practice and trace a plausible six-month spread through actual routes, stopping where the network becomes weak.
+
+**Disposition**
+
+Strong candidate; structural principle promoted to [Social Fabric](../Social-Fabric.md), exact diffusion examples remain provisional.
+
+## Candidate 9 — Major interstate rivalry can create a prestige market for people
+
+**Sources**
+
+- [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md)
+- [Guilds](../Politics/Guilds.md)
+- [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md)
+- legacy Monday Night Wars research
+
+**Connection**
+
+Two states can compete by recruiting prominent professionals, patrons, performers and leaders rather than by direct conquest.
+
+**New implication**
+
+Defections themselves can become public political events. A kingdom can lose prestige because a famous person leaves even if material production barely changes.
+
+**Why it matters**
+
+This creates recurring conflict below the threshold of war and gives individual careers continental political consequences.
+
+**Smallest test**
+
+Choose two candidate polities and identify three categories of people both would plausibly compete to recruit.
+
+**Disposition**
+
+Incubating; exact polity mapping unresolved.
+
+## Candidate 10 — A small polity or institution can be an innovation nursery
+
+**Sources**
+
+- [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md)
+- [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md)
+- [Social Fabric](../Social-Fabric.md)
+
+**Connection**
+
+The ECW analogue is structurally smaller, poorer and less stable than the two major competitors but more culturally permissive.
+
+**New implication**
+
+A minor city-state, enclave, district or network may repeatedly produce people and practices later absorbed by larger powers.
+
+**Why it matters**
+
+Influence no longer tracks territory or wealth cleanly.
+
+**Smallest test**
+
+Identify one existing small polity and ask what constraint it lacks that would let it experiment faster than neighboring kingdoms.
+
+**Disposition**
+
+Incubating; do not create a new polity solely to satisfy the analogy.
+
+## Candidate 11 — Participatory movements create a second kind of trans-regional identity
+
+**Sources**
+
+- [Audience Movements](../Culture/Audience-Movements.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Religions](../Politics/Religions.md)
+- [BigCatMellow/RonFez](https://github.com/BigCatMellow/RonFez)
+- preserved `RnFClt.txt`
+
+**Connection**
+
+A community can create durable identity through shared personalities, events, memory, status and mutual recognition without beginning as a state, profession or conventional religion.
+
+**New implication**
+
+The world can contain cross-border affiliations whose institutional logic is neither guild nor temple.
+
+**Why it matters**
+
+That gives ordinary people another way to organize, remember, mobilize and resist elite categories.
+
+**Smallest test**
+
+Design one local chapter containing members of at least three regions, two faiths and two professions, then see whether the movement still has a coherent reason to exist.
+
+**Disposition**
+
+Provisional design model; exact in-world movement remains unpromoted.
+
+## Candidate 12 — Community archives can become politically dangerous evidence
+
+**Sources**
+
+- [Audience Movements](../Culture/Audience-Movements.md)
+- [Contested Historical Memory](../History/Contested-Memory.md)
+- [Illuminated Circle](../Politics/Religions.md#5-the-illuminated-circle)
+- [Silent Whisper](../Politics/Religions.md#6-the-silent-whisper)
+
+**Connection**
+
+A memory-centered movement rewards people who preserve trivial events, correspondence, jokes and contradictory versions of the past.
+
+**New implication**
+
+An archive created for nostalgia may accidentally preserve evidence of elite manipulation better than official institutions do.
+
+**Why it matters**
+
+The Council or Villain could be threatened by records nobody originally considered politically important.
+
+**Smallest test**
+
+Pick one established historical controversy and identify a mundane community artifact that could preserve a crucial contradiction without having been created as evidence.
+
+**Disposition**
+
+Incubating.
+
+## Candidate 13 — Cross-membership can be a hidden stabilizer
+
+**Sources**
+
+- [Social Fabric](../Social-Fabric.md)
+- [Religions](../Politics/Religions.md)
+- [Guilds](../Politics/Guilds.md)
+- [Border Towns](../Places/Border-Towns.md)
+
+**Connection**
+
+People can share guild, faith, family or movement ties across political borders.
+
+**New implication**
+
+Some wars may fail to escalate not because rulers act wisely but because ordinary cross-border institutions quietly preserve communication and make total enemy images hard to sustain.
+
+**Why it matters**
+
+Peace gains mechanisms other than Council manipulation.
+
+**Smallest test**
+
+Take one plausible bilateral crisis and identify three independent cross-border relationships capable of slowing escalation.
+
+**Disposition**
+
+Strong candidate; structural overlap is working canon, specific peace mechanism remains to be tested.
+
+## Candidate 14 — Informal movements are a Council blind spot
+
+**Sources**
+
+- [Economic Council](../Politics/Economic-Council.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Audience Movements](../Culture/Audience-Movements.md)
+
+**Connection**
+
+The Council understands finance, contracts, formal institutions and predictable dependencies. Informal communities can act through jokes, prestige, friendship, imitation and decentralized status.
+
+**New implication**
+
+The Council may be systematically weaker at predicting movements whose leaders cannot reliably command their own followers.
+
+**Why it matters**
+
+This creates a plausible limit on hidden-system control without making the Council incompetent.
+
+**Smallest test**
+
+Give the Council accurate information about one movement and ask whether its usual tools—credit, patronage, leadership influence, access—actually predict rank-and-file behavior.
+
+**Disposition**
+
+Incubating.
+
 ## Promotion rule
 
 Nothing on this page becomes canon because it sounds useful.
