@@ -169,6 +169,26 @@ Because neither large rival can simply own Port, both can:
 Port therefore becomes the third space in which the two larger rivals constantly meet indirectly.
 
 
+## Combined Port model — ECW inside, Danzig outside
+
+Port's ECW role should always be read together with the existing [Danzig to Port Parallel](Danzig-to-Port-Parallel.md).
+
+The analogues solve different problems:
+
+| Question | Primary reference |
+| --- | --- |
+| Why can no major kingdom simply absorb Port? | Danzig |
+| Why do outside powers have rights and interests there? | Danzig |
+| Why is Port identity politically complicated? | Danzig |
+| Why is Port a cultural outsider rather than a miniature major kingdom? | ECW |
+| Why do unusual people and ideas get chances there? | ECW |
+| Why do larger rivals recruit from and copy Port? | ECW |
+| Why can Port have influence far beyond its formal size? | Both |
+
+This means the ECW analogy does **not** replace the Danzig analogy.
+
+It adds an internal cultural layer to the geopolitical structure already derived from Danzig.
+
 ## A possible interaction cycle
 
 ```text
