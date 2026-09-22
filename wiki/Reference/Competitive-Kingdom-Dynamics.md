@@ -183,6 +183,32 @@ Wurdren can encounter the rivalry through a family divided by a defection, a you
 - whether the rivalry is economic, cultural, military, dynastic, or several at once;
 - how far along the competitive cycle the present story begins.
 
+## Mapping heuristic — compete in the same arena
+
+The analogy becomes weaker if the two large actors are merely neighbors with different economic specialties.
+
+WWF and WCW mattered to one another because they competed for many of the **same scarce things**:
+
+- attention;
+- prestige;
+- recognizable people;
+- distribution;
+- audience loyalty;
+- cultural momentum.
+
+The fantasy version should therefore favor two polities whose populations regularly compare them and whose elites compete for overlapping people, institutions and prestige.
+
+That may point toward:
+
+- neighboring peer kingdoms;
+- rival city-states;
+- two courts drawing from the same guild / artistic / military labor pool;
+- two states connected tightly enough that a defection is public news on both sides.
+
+It is less likely to work if one polity is primarily a distant food producer and the other a remote maritime state with little shared prestige arena.
+
+This is a **structural constraint**, not a polity assignment.
+
 ## Mapping test
 
 Candidate polities should satisfy most of these:
