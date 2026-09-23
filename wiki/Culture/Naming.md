@@ -169,6 +169,21 @@ Two or more layers can remain in ordinary use at the same time.
 
 A naming dispute can therefore be a political or historical dispute rather than a spelling error.
 
+## Region names are not border labels
+
+A regional name can refer to both:
+
+- a historical core area;
+- a cultural tradition associated with that core.
+
+That does **not** mean every bearer of that culture lives inside the core or everyone inside the core belongs to that culture.
+
+A phrase such as “a North Country family” can describe cultural background even when the family has lived in Port for generations.
+
+Likewise, a place inside the geographic North Country can contain communities whose strongest cultural identity comes from River Country, High Country, Port, a faith, a guild, or a local mixed tradition.
+
+The naming system should therefore avoid implying that a map label is an ethnic ownership claim.
+
 ## Macro-region naming convention
 
 The current macro labels are being realigned toward deliberately ordinary common-language forms:
