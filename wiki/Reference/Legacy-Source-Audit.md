@@ -66,7 +66,7 @@ Do not treat it as canon, but do not design the topic from scratch without revie
 | Volume | Current disposition | Active owners / references | What is still worth recovering | What should remain buried / rejected |
 | --- | --- | --- | --- | --- |
 | **00 — Master Index** | **RETRIEVAL TOOL** | this page + Source Register | exact source-file provenance and old source names | nothing should be promoted directly from the index |
-| **01 — Foundations / World / Myth / History** | **PARTIALLY RECONCILED** | World Overview, World Rules, Geography, Pre-Convergence, Convergence | old geography hypotheses, map logic, Underpass/Spine origins, pre-Convergence fragments, discarded cosmology when reconstructing why a decision changed | fixed old map, old macro-polity certainty, superseded mythology presented as current fact |
+| **01 — Foundations / World / Myth / History** | **RECONCILED STRUCTURALLY / MYTH & DEEP-TIME DETAIL PROVISIONAL** | World Overview, Geography and Connections, Pre-Convergence, Convergence, World Rules, Magic Baseline, Foundations Legacy Reconciliation | deep-time geology, old-state fragments, Mother myth and selected historical names remain future-development quarry | fixed old map, exact old chronology, Three Sons cosmology as current fact, eight-capital model and old macro-polity certainty remain unpromoted |
 | **02 — Regions / Kingdoms** | **RECONCILED STRUCTURALLY / NAMED POLITIES PROVISIONAL** | Kingdoms and Politics, Law and Jurisdiction, Convergence, Border Towns, Regional and Polity Legacy Reconciliation | education / knowledge transmission and selected minor-polity names remain future-development material | regional personality templates, unsupported industrial tech, one ruler per culture, themed festivals/towns and old region-state mapping remain unpromoted |
 | **03 — Cities / Architecture** | **MOSTLY RECONCILED** | Architecture + Phase 4 slices | city-specific morphology, neighborhood functions, public institutions and old city concepts when a settlement is developed | one-style-per-region architecture; direct Earth-style mapping |
 | **04 — Cultures / Peoples / Daily Life** | **MOSTLY RECONCILED, NOMADS PARTIAL** | Daily Life, Clothing, Arts, Culture and Influence, Nomads | plurality of mobile peoples; route-based kin networks; inheritance / household prompts; localized taboo/superstition prompts; portable crafts and oral-memory mechanisms | regional psychology, costume stereotypes, fantasy-race material unless deliberately revived under current world rules |
@@ -232,9 +232,9 @@ If repository size or search noise becomes a problem, the duplicate package file
 
 ## P0 — review before relevant new work
 
-1. **Volume 01 — remaining foundations / history conflicts as needed**
-2. **Volume 13 — underdeveloped systems after dedicated source passes**
-3. **Volume 04 — remaining mobile-peoples / household quarry only as needed**
+1. **Volume 13 — underdeveloped systems after dedicated source passes**
+2. **Volume 04 — remaining household / mobile-peoples quarry only as needed**
+3. **Volume 03 — settlement-specific quarry only when developing actual places**
 
 ## P1 — deliberate future passes
 
