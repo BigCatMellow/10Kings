@@ -17,7 +17,7 @@ These labels do **not** mean six exclusive peoples occupying six exclusive terri
 - **Longwood** — large forested country where settlement, cultivation, hunting, timber, foraging, and spiritual traditions developed around the problem of living inside a powerful ecosystem rather than simply clearing it.
 - **Old Cities** — warmer and more arid southern/eastern country of mixed agriculture, orchards, irrigation, towns and city-states, coastal exchange, and highly developed civic cultures.
 
-These are **emphases, not total definitions**. Low Rivers has smiths. Stone Hills has farms. North Coast has inland villages. Old Cities has forests, uplands and poor pastoral districts beyond wealthy irrigated belts. Longwood has farms, cities and open country. High Roads has families who never see a caravan.
+These are **emphases, not total definitions**. The Low Rivers have smiths. Stone Hills has farms. North Coast has inland villages. The Old Cities have forests, uplands and poor pastoral districts beyond wealthy irrigated belts. Longwood has farms, cities and open country. The High Roads include families who never see a caravan.
 
 The reverse matters just as much: **the cultures are not confined to their core ecologies**. Longwood-descended communities can exist in large forests elsewhere. Low Rivers families can establish farming and mill communities outside the Low Rivers core. North Coast maritime families can form old neighborhoods in distant ports. A Stone Hills craft lineage can remain culturally western after generations in Port.
 
@@ -35,7 +35,7 @@ The same world is also a network of **overlapping identities**.
 
 People belong simultaneously to places, polities, families, classes, guilds, faiths, professions, informal networks and voluntary movements. Those affiliations frequently cross regional and political borders.
 
-This means a North Coast sailor and a Old Cities merchant may share a guild; an Stone Hills worker and a High Roads scholar may share a faith; a Port resident may feel stronger loyalty to a trans-regional social movement than to any kingdom.
+This means a North Coast sailor and an Old Cities merchant may share a guild; a Stone Hills worker and a High Roads scholar may share a faith; a Port resident may feel stronger loyalty to a trans-regional social movement than to any kingdom.
 
 See [Social Fabric](Social-Fabric.md) for the structural model and [Audience Movements](Culture/Audience-Movements.md) for one provisional example of a participatory movement that can cut across older institutions.
 
