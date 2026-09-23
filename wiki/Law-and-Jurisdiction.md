@@ -537,6 +537,8 @@ Different institutions can value evidence differently.
 
 # 14. Language and translation are legal problems
 
+See [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md).
+
 The High Roads and Port are multilingual.
 
 That means disputes can turn on:
