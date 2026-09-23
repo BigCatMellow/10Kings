@@ -180,7 +180,7 @@ That overlap is another part of the circulation system. A guild branch, faith ne
 
 ### Port
 
-Port concentrates foreign enclaves, merchants, workers, courts, guilds, migrants, information, and contraband in one place. It functions as a compressed model of the larger world.
+Port concentrates foreign enclaves, merchants, workers, courts, guilds, migrants, information, and contraband in one place. It functions as a compressed model of the larger world. Its ordinary internal government is local, while its external freedom is constrained by the treaty arrangements that keep the harbor neutral and accessible.
 
 ## 7. The Economic Council: hidden coordination layer
 
