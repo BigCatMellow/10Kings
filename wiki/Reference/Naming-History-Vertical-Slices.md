@@ -22,11 +22,11 @@ A successful replacement is just as valid a result as a successful reframing.
 
 ---
 
-# Test 1 — a High Country route name
+# Test 1 — a High Roads route name
 
 ## Source material
 
-Legacy notes contain **Thunderstair** for a fortified route in what is now called High Country.
+Legacy notes contain **Thunderstair** for a fortified route in what is now called High Roads.
 
 Current canon supports:
 
@@ -84,7 +84,7 @@ forms.
 
 ### General mechanic recovered
 
-High Country route names may have parallel names, but the ordinary form should usually be simpler than the fantasy-style legacy label.
+High Roads route names may have parallel names, but the ordinary form should usually be simpler than the fantasy-style legacy label.
 
 ---
 
@@ -92,7 +92,7 @@ High Country route names may have parallel names, but the ordinary form should u
 
 ## Source material
 
-Legacy material describes **Blackbellow Consortium** as a wealthy guild-run industrial city-state in the Western Uplands political ecosystem.
+Legacy material describes **Blackbellow Consortium** as a wealthy guild-run industrial city-state in the Stone Hills political ecosystem.
 
 ## Grounded test
 
@@ -143,7 +143,7 @@ Commercial identity can become political identity without requiring a fantasy-in
 
 ## Source material
 
-Legacy notes use **Zalhar** for an old walled South Country settlement claiming political lineage older than the central Mandate.
+Legacy notes use **Zalhar** for an old walled Old Cities settlement claiming political lineage older than the central Mandate.
 
 ## Earlier mistake
 
@@ -234,7 +234,7 @@ cool fantasy name
 
 “Summit” plus “hold” reads as a designed fantasy capital.
 
-A central High Country city should instead be named from something ordinary such as:
+A central High Roads city should instead be named from something ordinary such as:
 
 - market;
 - gate;
