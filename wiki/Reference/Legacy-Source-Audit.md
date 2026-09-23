@@ -77,7 +77,7 @@ Do not treat it as canon, but do not design the topic from scratch without revie
 | **09 — Military / Weapons** | **RECONCILED STRUCTURALLY / UNIT NAMES PROVISIONAL** | Weapons and Elite Troops, Kingdoms and Politics, Military and Weapons Legacy Reconciliation | military logistics, arsenals, recruitment/pay, campaign supply and selected unit names remain future-development material | mechanized armies, unsupported magic weapons, primitive-mobile-peoples stereotypes, scrap-poor aesthetic, and one signature force per region remain unpromoted |
 | **10 — Current Events** | **RECONCILED AS EVENT QUARRY** | Current Events, Villain's Dominoes, Grounded Domino Design, Current Events Legacy Reconciliation | selected compatible incidents may still be promoted deliberately; current owner remains authoritative | unsupported magic/industrial events, conspiracy saturation, and alternate outlines treated as present canon remain unpromoted |
 | **11 — Story Core / Characters / Villain** | **RECONCILED STRUCTURALLY / CHARACTER SEEDS PROVISIONAL** | Wurdren, Villain, Character Roster, Villain's Dominoes, Competitive Kingdom Dynamics, Story Core Legacy Reconciliation | specific Wurdren biography, Villain constituency/grievance and selected grounded antagonist archetypes remain future choices | obsolete plot outline, Villain ignorance of Council, unsupported magical villains and region-coded character design remain unpromoted |
-| **12 — Dominoes / Sparks / Danzig** | **HIGH FOR REFERENCE METHOD** | Villain's Dominoes, Danzig references, Current Events | grounded domino method; ordinary-effect storytelling; historical spark research; escalation patterns; plausible minor incidents; Danzig structural lessons | fantastical “kraken/golem/shadow plague” dominoes unless magic rules later justify them; specific pseudo-history mapped one-to-one |
+| **12 — Dominoes / Sparks / Danzig** | **RECONCILED METHOD / EVENT QUARRY** | Villain's Dominoes, Grounded Domino Design, Danzig references, Current Events | specific grounded incident seeds can still be revisited when needed | fantastical “kraken/golem/shadow plague” dominoes unless magic rules later justify them; pseudo-history mapped one-to-one |
 | **13 — Writing / Worldbuilding Guides** | **GAP EXTRACTION COMPLETE / GENERIC REFERENCE** | Worldbuilding Breath, Culture Deepening Plan, Education, Medicine, Law, Folk Belief, Calendar owners | generic audit questions may still be useful when a local system is developed | generic checklist text is not recovered canon; modern/futuristic examples and "perfect medieval" templates remain non-setting material |
 | **14 — Reading List / Philosophy** | **ACTIVE RESEARCH INDEX / NON-CANON** | Philosophy and Research Index | use the active index to route Council, Villain, Wurdren, law, labor, religion and systems questions to original research | legacy summaries/quotes remain non-authoritative; never promote them directly into setting doctrine |
 
@@ -169,7 +169,7 @@ Volume 12 contains forward-relevant story method:
 
 This is not obsolete lore.
 
-**Action:** extract the durable method into an active Reference page rather than relying on agents to rediscover Volume 12.
+The durable method is now actively preserved in [Grounded Domino Design Method](Grounded-Domino-Design.md). Future story work should use that page first and return to Volume 12 only for exact source provenance or additional incident quarry.
 
 ## 5. Missing world-system categories — extracted 2026-09-23
 
@@ -230,18 +230,31 @@ If repository size or search noise becomes a problem, the duplicate package file
 
 # Current salvage priorities
 
-## P0 — review when developing specific places / systems
+## No whole-volume salvage pass remains mandatory
 
-1. **Volume 04** — remaining household and mobile-peoples quarry where a local case needs deeper source recovery.
-2. **Volume 03** — settlement-specific morphology, institutions and city concepts when actual places are developed.
-3. **Volume 14** — research / philosophy only when a theme or institution needs external intellectual framing.
+All thematic volumes now have an explicit active disposition and retrieval route.
 
-## Mostly complete / quarry only
+Future legacy use should be **question-driven**, not volume-driven.
 
-- Volumes 01, 02, 05, 06, 07, 08, 09, 10, 11 and 12 have deliberate active reconciliation routes;
-- Volume 13's useful gap-detection function has been extracted;
-- Volume 03 architecture and Volume 04 daily-life material are mostly reconciled but still contain local example quarry.
+Return to legacy when:
+- a current owner explicitly marks a detail open;
+- an actual settlement / polity / faith / guild / character is being developed and its seed bank may help;
+- provenance for an old decision matters;
+- a rejected alternative is useful for comparison;
+- an active reconciliation page points back to a specific source section.
 
+Preferred examples:
+- Volume 03 for a specific settlement seed;
+- Volume 04 for a specific household / custom comparison;
+- Volume 06 for exact religion provenance after checking the reconciliation owner;
+- Volume 10 for alternate incident quarry;
+- Volume 11 for character alternatives;
+- Volume 12 for additional grounded domino seeds;
+- Volume 14 for research routing, followed by original sources.
+
+The archive is therefore **not cold**, but it is no longer an unresolved backlog.
+
+---
 
 # Completion rule
 
