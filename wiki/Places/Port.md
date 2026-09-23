@@ -117,6 +117,44 @@ Those remain legacy material unless separately promoted.
 
 ---
 
+## Physical harbor geometry
+
+See [Port Estuary and Harbor Geometry — Middle-Worldbuilding Test](../Reference/Port-Estuary-Harbor-Geometry-Test.md).
+
+The current physical model now has strong working support:
+
+> **Port is centered on an estuary / channel complex where deepwater maritime traffic, G1 river traffic, mainland roads, local ferries / bridges, warehouses, and repair systems meet.**
+
+This does **not** determine the city's constitution or treaty machinery.
+
+The physical layout should include:
+
+- a locally governed urban core physically distinct enough from surrounding mainland approaches to preserve meaningful separate civic authority;
+- deepwater maritime berths;
+- river quays;
+- warehouse / transfer zones;
+- mainland roadheads;
+- more than one crossing / local-water connection;
+- local pilotage and channel knowledge.
+
+The key political consequence is limited:
+
+> **seizing one road, quay, bridge, or bank should not automatically equal control of Port.**
+
+Meaningful control would require command of several physical and institutional systems at once.
+
+Exact:
+- island / bank configuration;
+- municipal boundary;
+- bridge / ferry layout;
+- fresh-water infrastructure;
+- channel depths;
+- customs points
+
+remain open.
+
+---
+
 # 3. Why Port is neutral
 
 Port's neutrality is practical, not sentimental.
