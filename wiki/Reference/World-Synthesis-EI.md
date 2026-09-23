@@ -718,6 +718,96 @@ Then create a dispute in which the choice of name changes how a claim is underst
 
 Strong cultural-history candidate. The general multilingual / standardization framework is now in the Naming and Language owners; specific names and political consequences remain provisional.
 
+## Candidate 21 — Material culture can transmit identity through trade
+
+**Sources**
+
+- [Clothing and Material Culture](../Culture/Clothing-and-Material-Culture.md)
+- [Material Culture Supply Chains](Material-Culture-Supply-Chains.md)
+- [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
+- [Social Fabric](../Social-Fabric.md)
+
+**Connection**
+
+Cloth, dyes, metal fittings, secondhand garments, repair methods and fashion move through the same routes as food, tools, people and information.
+
+**New implication**
+
+Cultural influence may spread through ordinary objects before people consciously identify it as foreign influence.
+
+A practical garment cut, dye, clasp, bag or repair method can move:
+
+```text
+workplace / neighborhood
+→ trade hub
+→ imitation
+→ fashion
+→ local reinterpretation
+```
+
+Port and Highridge may therefore spread material culture differently:
+
+- Port through novelty, migration, secondhand markets and copying;
+- Highridge through caravan circulation, travel equipment and repeated overland contact.
+
+**Why it matters**
+
+This gives cultural exchange a visible material mechanism and reduces reliance on festivals or elite diplomacy as the main carriers of culture.
+
+It also supports Port's ECW-like influence without requiring every innovation to begin with elite patronage.
+
+**Smallest test**
+
+Choose one practical object—garment cut, clasp, bag or repair method—and trace it from one community to three others using only established routes and economic incentives.
+
+**Disposition**
+
+Strong candidate; material-culture circulation is structurally supported, exact diffusion examples remain provisional.
+
+## Candidate 22 — Systemic crises may become socially real through household substitution
+
+**Sources**
+
+- [Daily Life and Customs](../Culture/Daily-Life-and-Customs.md)
+- [Culture Phase 2 — Ordinary-Life Vertical Slices](Culture-Phase-2-Vertical-Slices.md)
+- [Current Events](../Story/Current-Events.md)
+- [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
+
+**Connection**
+
+Households respond to economic pressure before they understand the entire political cause.
+
+They can:
+
+- repair rather than replace;
+- take a boarder;
+- send a child or young adult to work elsewhere;
+- reduce hospitality;
+- delay marriage;
+- pawn clothing;
+- change foods;
+- share childcare;
+- postpone travel;
+- rely more heavily on guild / faith / neighbor aid.
+
+**New implication**
+
+A continental crisis can become narratively legible through small behavior changes well before armies move or officials announce policy.
+
+**Why it matters**
+
+This fits the story's Wurdren-level perspective.
+
+The Council sees prices and flows; the Villain sees leverage; ordinary people experience the same system as a worn-out boot, crowded room, canceled apprenticeship or guest they can no longer afford to feed.
+
+**Smallest test**
+
+Take one existing current-event chain and identify five household substitutions in at least three regions that follow without inventing new macro-events.
+
+**Disposition**
+
+Strong candidate for story texture; exact customs remain local and provisional.
+
 ## Promotion rule
 
 Nothing on this page becomes canon because it sounds useful.
