@@ -516,7 +516,7 @@ Port's economy creates demand for training in:
 
 That training can come from merchant households, guilds, faith schools, private teachers, clerks, and workplaces. Port does not need one central academy to produce educated specialists.
 
-# 19. Internal politics should grow from Port's actual economy
+# 18. Internal politics should grow from Port's actual economy
 
 Do not promote the old faction names automatically.
 
