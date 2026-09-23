@@ -8,6 +8,8 @@ The broad physical arrangement and the major circulation pressures are now estab
 
 This page owns the current geography model. Older source material remains useful as provenance, but it does not override this page.
 
+See [Foundations Legacy Reconciliation](Reference/Foundations-Legacy-Reconciliation.md) for the deliberate Volume 01 pass, including the preserved tectonic / Underpass formation hypothesis and superseded map/cosmology material.
+
 **Current spatial test:** [Working Map Draft — Geometry V1](Reference/Working-Map-Draft.md). The map is provisional and tests one physical solution against the constraints on this page; it does not yet promote exact coastlines, routes, or Port's final site.
 
 ## What is now established
