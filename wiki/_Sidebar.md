@@ -78,6 +78,7 @@
 - [Port Estuary and Harbor Geometry Test](Reference/Port-Estuary-Harbor-Geometry-Test.md)
 - [Convergence Layered Settlement Model](Reference/Convergence-Layered-Settlement-Model.md)
 - [Convergence Enforcement and Violation Tests](Reference/Convergence-Enforcement-and-Violation-Tests.md)
+- [Old Cities Shared Irrigation Test](Reference/Old-Cities-Shared-Irrigation-Test.md)
 - [Middle Worldbuilding](Reference/Middle-Worldbuilding.md)
 - [Writing the Sequel](Reference/Writing-the-Sequel.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
