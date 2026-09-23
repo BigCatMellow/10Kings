@@ -8,7 +8,7 @@ No region has one house type. Cities, towns, villages, elite compounds, worker h
 
 The world remains low fantasy and pre-industrial: stone, earth, brick, timber, thatch, tile, plaster, reeds, hides, rope, simple glass where affordable, iron fittings, manual hoists, mills, water management, and animal labor.
 
-## Western Uplands
+## Stone Hills
 
 Inspiration pools:
 - Scottish/Welsh/Appalachian upland settlements;
@@ -30,7 +30,7 @@ Usually mixed-function: mining + farming, ford + market, quarry + craft.
 
 Stone or earth lower walls, timber where available, attached yards/workshops, storage, gardens, animal pens.
 
-## North Country
+## North Coast
 
 Inspiration pools:
 - North Atlantic;
@@ -50,7 +50,7 @@ Compact settlement around sheltered coves, work yards, communal storage, storm-r
 
 Earth-insulated, timber, turf, stone, reed/grass insulation, steep or aerodynamic roofs depending on snow/wind.
 
-## River Country
+## Low Rivers
 
 Inspiration pools:
 - Andean agricultural settlements;
@@ -70,7 +70,7 @@ Cluster around water, common storage, markets, estates, cooperative facilities, 
 
 Mixed farm compounds with storage, animals, kitchens, garden plots, work yards; raised floors in wet districts; earthen walls in drier ones.
 
-## High Country
+## High Roads
 
 Inspiration pools:
 - Tibetan/Himalayan settlements;
@@ -90,7 +90,7 @@ Pass towns, fortified waystations, herding-market villages, repair settlements.
 
 Stone/earth for thermal mass, compact plans, enclosed yards, rooftop work/storage where useful.
 
-## Forest Country
+## Longwood
 
 Inspiration pools:
 - Dayak/Bornean longhouse traditions;
@@ -111,7 +111,7 @@ Longhouses, clustered compounds, raised floors in wet country, detached work she
 
 Timber, bark, thatch, woven material, clay, stone; built to ventilation, rainfall, insects, and forest-floor conditions.
 
-## South Country
+## Old Cities
 
 Inspiration pools:
 - Maghrebi/Levantine;
@@ -149,9 +149,9 @@ Port should visibly contain architectural layers from all regions but become its
 Border architecture is adaptive, not decorative fusion.
 
 Examples:
-- Western Uplands stone foundations + River Country flood/yard planning;
-- North Country insulation + High Country compact stone windbreaks;
-- Forest Country raised floors + South Country courtyard shade where forest gives way to hot lowland.
+- Stone Hills stone foundations + Low Rivers flood/yard planning;
+- North Coast insulation + High Roads compact stone windbreaks;
+- Longwood raised floors + Old Cities courtyard shade where forest gives way to hot lowland.
 
 ## Rule
 
