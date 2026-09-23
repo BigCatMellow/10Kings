@@ -107,7 +107,7 @@ This arrangement should not look like four clean color blocks. Rivers, forest ma
 
 ## Central Range
 
-See [Central Range](Places/The-Central Range.md).
+See [Central Range](Places/The-Spine.md).
 
 Central Range is the central mountain system around which continental movement is organized.
 
@@ -323,7 +323,7 @@ Other ports must still exist. Port is dominant because of accumulated network ef
 
 ## The Tunnels
 
-See [The Tunnels](Places/The-Tunnels.md).
+See [The Tunnels](Places/The-Underpass.md).
 
 The Tunnels is a branching network beneath parts of Central Range, not a single tunnel.
 
