@@ -175,14 +175,22 @@ Remaining questions:
 
 ## Calendars and public ritual
 
-- What calendar or calendars are used for law, trade, religion and ordinary dating?
-- How far are dates standardized across polities after the Convergence?
-- Which seasonal thresholds are observed locally rather than by fixed date?
-- Which religious observances create substantial trans-regional travel?
-- What legal acts define adulthood in major polities?
-- How are marriages or partnerships legally recorded, if at all, across different states and in Port?
-- Which body-disposition practices are materially and religiously established?
-- Which legacy festival candidates, if any, eventually earn canon names through local history?
+[Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md) now establishes the structural model: several calendars and seasonal systems can coexist, cross-border institutions require date conversion rather than cultural uniformity, and practical thresholds such as thaw, sailing season, harvest, and pass opening can matter as much as fixed dates.
+
+Remaining questions:
+
+- Exact astronomical year and moon system.
+- Whether months exist in one or several calendar traditions, and their names/lengths.
+- Week or market-cycle structures.
+- Start-of-year conventions.
+- Whether a Convergence-era commercial/legal date standard exists.
+- Exact date notation and conversion practice in Port and High Roads.
+- Exact religious calendar systems and major pilgrimage dates.
+- Which seasonal thresholds are locally declared by institutions rather than observed informally.
+- What legal acts define adulthood in major polities.
+- How marriages, births, deaths, and inheritance are dated/recorded across jurisdictions.
+- Which body-disposition practices are materially and religiously established.
+- Which legacy festival candidates eventually earn canon names through local history.
 
 ## Nomadic peoples
 
