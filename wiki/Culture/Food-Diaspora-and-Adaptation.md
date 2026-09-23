@@ -103,12 +103,12 @@ These are **design prompts**, not rules about every household.
 
 | Region | Useful culinary bias |
 | --- | --- |
-| Ironcrest | filling, durable food; smoke, browning, pickling, dense grains and preserved components |
-| Northwind | preservation first; brine, smoke, fermentation, cold-storage traditions, berries and sea/coastal ingredients |
-| Greenvale | abundance and sharing; dairy, orchard fruit, grains, garden herbs, baked and communal foods |
-| Highridge | portable and layered; dried goods, dairy, dumplings/breads, trade spices, market combinations |
-| Deepwood | seasonality and restraint; fungi, nuts, roots, herbs, fermentation, forest and river foods alongside cultivation |
-| Sunplains | brightness and balance; oils, fruit acids, pulses, grains, herbs, nuts, irrigated/orchard foods and civic variation |
+| Western Uplands | filling, durable food; smoke, browning, pickling, dense grains and preserved components |
+| North Country | preservation first; brine, smoke, fermentation, cold-storage traditions, berries and sea/coastal ingredients |
+| River Country | abundance and sharing; dairy, orchard fruit, grains, garden herbs, baked and communal foods |
+| High Country | portable and layered; dried goods, dairy, dumplings/breads, trade spices, market combinations |
+| Forest Country | seasonality and restraint; fungi, nuts, roots, herbs, fermentation, forest and river foods alongside cultivation |
+| South Country | brightness and balance; oils, fruit acids, pulses, grains, herbs, nuts, irrigated/orchard foods and civic variation |
 | Port | borrowing as normal; ship food, immigrant kitchens, dock food, imported condiments and rapid hybridization |
 
 The imported notes contained specific modern ingredient analogues. Treat those as research prompts, not automatic setting facts; [World Rules](../World-Rules.md) requires “draw globally, copy nowhere whole.”
@@ -117,22 +117,22 @@ The imported notes contained specific modern ingredient analogues. Treat those a
 
 ### Guardian Stew
 
-Imagine a Deepwood stew whose identity comes from slow cooking, forest aromatics and a communal serving ritual.
+Imagine a Forest Country stew whose identity comes from slow cooking, forest aromatics and a communal serving ritual.
 
 A diaspora version might preserve the **method and occasion** while changing its pantry:
 
-- in Greenvale, cultivated roots, dairy or orchard acidity may enter;
-- in Highridge, dried aromatics and portable grains may become normal;
-- in Northwind, preserved fish or brined vegetables may alter the savor;
-- in Sunplains, pulses, oil and fresh herbs may reshape it;
-- in Ironcrest, smoke and dense grain may make it heavier;
+- in River Country, cultivated roots, dairy or orchard acidity may enter;
+- in High Country, dried aromatics and portable grains may become normal;
+- in North Country, preserved fish or brined vegetables may alter the savor;
+- in South Country, pulses, oil and fresh herbs may reshape it;
+- in Western Uplands, smoke and dense grain may make it heavier;
 - in Port, several of these descendants can coexist and eventually cross-pollinate.
 
 None of these versions should be treated as automatically canonical dishes. The example demonstrates the mechanism.
 
 ### Forgefire Roast
 
-An Ironcrest preparation identified by hard browning, smoke and a communal work-day context might migrate into Sunplains.
+An Western Uplands preparation identified by hard browning, smoke and a communal work-day context might migrate into South Country.
 
 The host version could use a different meat, oil, acid and herb set while preserving the expectation that the dish should be deeply browned and served after collective labor.
 
