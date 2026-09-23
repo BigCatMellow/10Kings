@@ -67,7 +67,7 @@ A useful worldbuilding distinction is:
 
 Examples of mechanisms to test later:
 
-- a Highridge contract uses a standardized transliteration;
+- a High Country contract uses a standardized transliteration;
 - a Port clerk shortens or respells a migrant name;
 - a religious initiate adds a devotional name;
 - a married noble uses a house name publicly while retaining a birth-line name in inheritance records;
@@ -154,13 +154,13 @@ Different branches of the same family may emerge with different spellings.
 
 Port-born people may also adopt names whose components come from several traditions without feeling “mixed” to them.
 
-## Highridge and standardized forms
+## High Country and standardized forms
 
-Because Highridge is strongly tied to contracts, arbitration and multilingual travel, it is a plausible source of **recording conventions**.
+Because High Country is strongly tied to contracts, arbitration and multilingual travel, it is a plausible source of **recording conventions**.
 
-That does not require a Highridge naming system to dominate.
+That does not require a High Country naming system to dominate.
 
-Instead, Highridge scribes may standardize how foreign names are represented in:
+Instead, High Country scribes may standardize how foreign names are represented in:
 
 - contracts;
 - route permits;
@@ -279,7 +279,7 @@ Before finalizing a cluster of personal names, answer:
 
 ### Mobility
 - How do foreign clerks write the name?
-- What happens in Port / Highridge?
+- What happens in Port / High Country?
 
 ### Generation
 - What names are old-fashioned?
