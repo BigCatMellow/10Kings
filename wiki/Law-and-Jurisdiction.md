@@ -637,7 +637,43 @@ Those remain open.
 
 ---
 
-# 18. Criminal networks exploit jurisdictional gaps
+# 18. Mobile circuits and jurisdiction
+
+See [Nomads and Itinerant Peoples](Culture/Nomads.md).
+
+Mobile households repeatedly cross political, guild, toll, and customary jurisdictions.
+
+That creates recurring legal questions about:
+
+- grazing;
+- stopping places;
+- market access;
+- temporary work;
+- property left with settled kin;
+- taxes and tolls;
+- contracts made in one place and performed in another;
+- births, marriages, deaths, and inheritance across jurisdictions;
+- accusations raised after a household has moved on.
+
+Current canon does **not** establish one trans-regional nomad law or universal stopping right.
+
+Instead, access should usually come from the same mechanisms already used elsewhere:
+
+- custom;
+- contract;
+- lease;
+- hospitality;
+- kinship;
+- guild privilege;
+- religious institutions;
+- local toleration;
+- political recognition.
+
+The legal status of the same household may therefore change from stop to stop.
+
+This is a feature of the setting's layered jurisdiction, not an inconsistency.
+
+# 20. Criminal networks exploit jurisdictional gaps
 
 See [Crime and the Underworld](Politics/Crime-and-Underworld.md).
 
@@ -664,7 +700,7 @@ It makes them enforceable inside certain networks.
 
 ---
 
-# 19. Port is a legal switching point
+# 20. Port is a legal switching point
 
 Port is structurally important because it lets people from different systems interact under a relatively predictable neutral framework.
 
@@ -687,7 +723,7 @@ That is network enforcement, not world sovereignty.
 
 ---
 
-# 20. High Roads is an arbitration environment
+# 21. High Roads is an arbitration environment
 
 The High Roads has deep historical reasons to value negotiated obligation.
 
@@ -720,7 +756,7 @@ It should still contain:
 
 ---
 
-# 21. The Underpass is a jurisdictional stress test
+# 22. The Underpass is a jurisdictional stress test
 
 The Underpass demonstrates why political maps are incomplete.
 
@@ -752,7 +788,7 @@ That uncertainty is part of the Underpass's political value.
 
 ---
 
-# 22. Appeals are not universal
+# 23. Appeals are not universal
 
 Do not assume every judgment can be appealed up a neat hierarchy.
 
@@ -771,7 +807,7 @@ Exact appeal systems belong to individual polities and institutions.
 
 ---
 
-# 23. Forum shopping should exist
+# 24. Forum shopping should exist
 
 Where several authorities overlap, people will choose the forum that benefits them.
 
@@ -797,7 +833,7 @@ That creates ordinary legal politics without inventing new grand conflict.
 
 ---
 
-# 24. Jurisdiction produces class differences
+# 25. Jurisdiction produces class differences
 
 Access to law is not equal.
 
@@ -822,7 +858,7 @@ This means the same legal system can feel very different by class.
 
 ---
 
-# 25. Jurisdiction produces cultural bleed
+# 26. Jurisdiction produces cultural bleed
 
 Legal practice also travels.
 
@@ -842,7 +878,7 @@ This fits the wider world rule that cultural exchange is selective and generativ
 
 ---
 
-# 26. The Council and law
+# 27. The Council and law
 
 See [The Economic Council](Politics/Economic-Council.md).
 
@@ -865,7 +901,7 @@ Do not invent a secret Council judiciary unless a future world problem requires 
 
 ---
 
-# 27. The Villain and jurisdiction
+# 28. The Villain and jurisdiction
 
 The Villain can exploit jurisdiction without controlling it.
 
@@ -885,7 +921,7 @@ The strongest manipulation makes each actor's response locally reasonable.
 
 ---
 
-# 28. Worked example — damaged cross-border cargo
+# 29. Worked example — damaged cross-border cargo
 
 **Mechanism example, not a canon event.**
 
@@ -918,7 +954,7 @@ That is the kind of legal complexity the world should produce.
 
 ---
 
-# 29. Worked example — moving river border
+# 30. Worked example — moving river border
 
 **Mechanism example, not a canon event.**
 
@@ -953,7 +989,7 @@ The whole problem is what that phrase means after history changes the landscape.
 
 ---
 
-# 30. What is established versus open
+# 31. What is established versus open
 
 ## Established structurally
 
@@ -995,7 +1031,7 @@ The whole problem is what that phrase means after history changes the landscape.
 
 ---
 
-# 31. Standard jurisdiction test
+# 32. Standard jurisdiction test
 
 For any dispute, ask:
 
@@ -1016,7 +1052,7 @@ If these questions produce only one obvious authority every time, the world is p
 
 ---
 
-# 32. Design rule
+# 33. Design rule
 
 When adding legal detail:
 
