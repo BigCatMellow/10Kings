@@ -7,6 +7,7 @@
 - [World Rules](World-Rules.md)
 - [Geography](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
+- [Movement and Information](Movement-and-Information.md)
 - [Social Fabric](Social-Fabric.md)
 - [Open Questions](Open-Questions.md)
 
@@ -31,6 +32,7 @@
 
 **Politics**
 - [Economic Council](Politics/Economic-Council.md)
+  - [Internal Structure](Politics/Economic-Council-Internal-Structure.md)
 - [Kingdoms and Politics](Politics/Kingdoms-and-Politics.md)
 - [Guilds](Politics/Guilds.md)
 - [Religions](Politics/Religions.md)
