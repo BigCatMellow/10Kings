@@ -426,6 +426,39 @@ Outputs:
 
 Recurring ritual now follows actual coordination problems, material cycles, institutions and local history first.
 
+### Phase 7 — cross-regional cultural transmission
+
+Current culture owners were tested against one another rather than against a new legacy source.
+
+Output:
+
+- [Culture Phase 7 — Cross-Regional Cultural Transmission](Culture-Phase-7-Cross-Regional-Transmission.md).
+
+Seven provisional forms were traced through actual social / economic networks:
+
+- food;
+- garment;
+- word;
+- place-name usage;
+- song;
+- game;
+- ritual.
+
+**Structural findings promoted**
+- cultural diffusion is carrier-specific;
+- different cultural forms have different transmission costs;
+- proximity is weaker than repeated contact;
+- contact zones generate culture rather than merely receiving it;
+- return influence from diaspora / prestige adoption can alter source communities;
+- cultural borders behave as selective filters rather than walls.
+
+**Still provisional**
+- every exact dish, garment, word, song, game and ritual used in the traces;
+- Port's exact historical naming sequence;
+- exact transmission dates and route chronology.
+
+The pass also corrected stale pre-realignment region terminology in active Border Towns and Trade owners and demoted older theme-first border-town names to legacy / provisional prompts.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
