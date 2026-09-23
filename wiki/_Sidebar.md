@@ -8,6 +8,7 @@
 - [Geography](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
 - [Movement and Information](Movement-and-Information.md)
+- [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md)
 - [Social Fabric](Social-Fabric.md)
 - [Open Questions](Open-Questions.md)
 
