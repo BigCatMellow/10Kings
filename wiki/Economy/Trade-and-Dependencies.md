@@ -70,6 +70,44 @@ Port's dependence on inflows is real but should not be exaggerated into helpless
 
 A disruption in Port can therefore become a continental event even when the original problem is local.
 
+## Transfer cost and mode change
+
+See [Working Map — Network Endpoints and Capacity Test V1](../Reference/Working-Map-Network-Endpoints-and-Capacity.md).
+
+Trade cost is not only distance.
+
+Each change between:
+- river craft;
+- seagoing vessel;
+- cart;
+- pack animal;
+- ferry;
+- Underpass route
+
+can add:
+
+- labor;
+- storage;
+- weighing;
+- delay;
+- damage risk;
+- fees;
+- paperwork;
+- credit need.
+
+Therefore:
+
+> **shorter route does not automatically mean cheaper route.**
+
+A continuous river route may beat a geographically shorter route that requires several unloads.
+
+This creates economic power at:
+- heads of navigation;
+- roadheads;
+- ferry complexes;
+- major pass transfer towns;
+- Port's river / sea interface.
+
 ## Seasonal stress
 
 Seasonality changes the dependency web.
