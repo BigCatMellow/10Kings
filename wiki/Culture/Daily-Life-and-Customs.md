@@ -14,6 +14,7 @@ It should be read alongside:
 - [Food](Food.md)
 - [Architecture](Architecture.md)
 - [Festivals, Seasonal Life and Public Ritual](Festivals-and-Seasonal-Life.md)
+- [Calendars, Timekeeping, and Seasonal Coordination](../Calendar-and-Timekeeping.md)
 - [Religions](../Politics/Religions.md)
 - [Guilds](../Politics/Guilds.md)
 
