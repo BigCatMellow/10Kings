@@ -51,7 +51,7 @@ These broad cultural-geographic labels are now being replaced with deliberately 
 | Deepwood | **Forest Country** | literal broad geographic label; avoids mystical / fantasy branding |
 | Sunplains | **South Country** | ordinary directional regional label broad enough for plains, river basins, coasts and city-states |
 | The Spine | **Central Range** | map / geographic term rather than fantasy metaphor |
-| The Underpass | **The Tunnels** | ordinary surface shorthand for the cave / excavated route network |
+| The Underpass | **The Underpass** | ordinary surface shorthand for the cave / excavated route network |
 | Port | **Port** | retained because its almost boring shorthand is plausible for an internationally familiar harbor city |
 
 ## Important
@@ -296,7 +296,7 @@ The second pass keeps ordinary naming logic while allowing each macro-region a m
 | Forest Country | **the Longwood** | common name for the great historical forest core; does not imply all forests belong to it |
 | South Country | **the Old Cities** | cultural-historical shorthand for the old city-state / irrigation heartland rather than a climate label |
 | Central Range | **Central Range** | retained; plain geographic map term works |
-| The Tunnels | **the Tunnels** | retained; ordinary common shorthand works |
+| The Underpass | **the Underpass** | retained; ordinary common shorthand works |
 | Port | **Port** | retained; deliberately plain international shorthand works |
 
 ### Why these work better
