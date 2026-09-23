@@ -78,7 +78,7 @@ Remaining questions:
 - Exact circuit patterns, legal attachment, access arrangements, taxation, and cross-jurisdiction status of mobile peoples. Their structural role as recurring circuit-based communities is now established in [Nomads and Itinerant Peoples](Culture/Nomads.md).
 - Exact travel times and seasonal reliability between major hubs.
 - Exact courier institutions by polity and corridor. [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md) now establishes layered dispatch, scheduled carriage, institutional relays, paid private couriers, and informal hand-carrying without a universal postal service.
-- Exact literacy rates, education systems, scripts, seal/signature practices, notarial roles, document forms, and public-record access. The structural model is now owned by [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md).
+- Exact literacy rates, scripts, seal/signature practices, notarial roles, document forms, and public-record access. Literacy structure is owned by [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md); learning pathways are owned by [Education, Training, and Knowledge Transmission](Education-Training-and-Knowledge.md).
 - Exact message houses, relay stations, rates, delivery guarantees, address conventions, messenger privileges, privacy rules, censorship law, and cross-border forwarding arrangements remain open.
 - Exact schedules / cadence for ships, caravans, pilgrimages, and itinerant circuits.
 - Which governments maintain their own messenger networks and how effective they are.
@@ -165,6 +165,29 @@ Remaining questions:
 - Exact prevalence.
 - Whether some previously discussed "illusions," magical artifacts, special creatures, or supernatural claims are real, misunderstood, religious interpretations, or should be removed.
 - Clear hard limits.
+
+## Education and training
+
+[Education, Training, and Knowledge Transmission](Education-Training-and-Knowledge.md) now establishes that learning occurs through households, work, apprenticeship, religious schools, private/civic teaching, and scholarly/professional networks rather than one universal school system.
+
+Remaining questions:
+
+- Literacy and school attendance rates by class, place, and occupation.
+- Exact childhood schooling patterns.
+- Teacher status and payment.
+- School calendars.
+- Curricula.
+- Examination and credential systems.
+- Apprenticeship ages, lengths, housing, and transfer rules.
+- Exact religious and state schools.
+- Private teaching and patronage.
+- Major libraries and scholarly centers.
+- Whether any university-like institution eventually develops.
+- Language-of-instruction rules.
+- Gender/access norms.
+- Disability access.
+- Education arrangements for mobile peoples.
+- Cross-border recognition of training and credentials.
 
 ## Money, credit, and measures
 
