@@ -600,6 +600,8 @@ Records are therefore political assets.
 
 # 23. Commercial ledgers are power
 
+See [Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md).
+
 A merchant or lender who knows:
 
 - debts;
