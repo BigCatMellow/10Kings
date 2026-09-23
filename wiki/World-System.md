@@ -32,7 +32,7 @@ See [Geography and Connections](Geography-and-Connections.md).
 The known world is organized around:
 
 - the Western, Northern, and Eastern Continents;
-- the central mountain system called [Central Range](Places/The-Spine.md);
+- the central mountain system called [The Spine](Places/The-Spine.md);
 - surface passes, rivers, roads, coasts, and caravan corridors;
 - the branching subterranean network called [The Underpass](Places/The-Underpass.md);
 - [Port](Places/Port.md), whose importance comes from network position, law, infrastructure, finance, and accumulated trust.
@@ -118,7 +118,7 @@ Important examples include:
 
 - Port's harbor, warehouses, courts, repair capacity, finance, and information;
 - High Roads passes and caravan systems;
-- major Central Range crossings;
+- major The Spine crossings;
 - Underpass branches;
 - bridges, canals, river crossings, irrigation gates, and important roads;
 - food storage and seed networks;
@@ -272,7 +272,7 @@ Several unrelated-looking stresses are occurring at the same time:
 - Longwood logging disputes and ecological disruption;
 - Old Cities drought anxiety and city-state coordination;
 - Port smuggling, merchant conflict, and refugee/worker pressure;
-- Central Range land movement and route/ruin discovery;
+- The Spine land movement and route/ruin discovery;
 - Underpass route wars;
 - trans-regional religious interpretation of the crises.
 
