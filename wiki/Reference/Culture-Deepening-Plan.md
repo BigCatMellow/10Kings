@@ -29,6 +29,31 @@ Primary preserved research:
 - [Volume 07 — Linguistics](../../legacy-notes/2026-09-22/consolidated-package/07_Linguistics.md)
 - [Volume 13 — Writing / Worldbuilding Guides](../../legacy-notes/2026-09-22/consolidated-package/13_Writing_Worldbuilding_Guides.md)
 
+## Revision principle — improvement over preservation
+
+The purpose of this pass is **not to preserve old worldbuilding for its own sake**.
+
+Current and legacy material should be judged by:
+
+- cultural fit;
+- historical plausibility;
+- internal consistency;
+- usefulness in scenes;
+- distinctiveness;
+- connection to the rest of the world.
+
+If an older name, dish, custom, polity, festival, language idea or aesthetic no longer fits, it may be revised or replaced.
+
+Legacy material remains useful as provenance and an idea source, but **retention is not a success criterion**.
+
+The desired question is:
+
+> What version makes the world feel most coherent, specific and lived-in now?
+
+not:
+
+> How can we justify keeping what we already wrote?
+
 ## Executive finding
 
 The current culture wiki is **methodologically stronger but materially thinner** than the old notes.
@@ -1006,7 +1031,7 @@ Completed structural work:
 
 Current Phase 1 result:
 
-**The system is ready to begin resolving important names selectively, but not ready for full conlangs or bulk renaming.**
+**The system is ready to reassess important names selectively, including replacement where cultural fit improves; it is not yet ready for full conlangs or indiscriminate bulk renaming.**
 
 The next language/naming work should be driven by actual vertical slices and communities needed for the broader culture pass.
 
