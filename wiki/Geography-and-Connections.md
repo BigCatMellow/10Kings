@@ -212,6 +212,24 @@ Port should be placed only where all of the following can plausibly coexist:
 
 The older notes place Port at a **strategic strait between the continental systems**. That remains the strongest placement candidate, but the exact shore, island, peninsula, or estuary has not been promoted into canon.
 
+## Network endpoints and capacity
+
+[Working Map — Network Endpoints and Capacity Test V1](Reference/Working-Map-Network-Endpoints-and-Capacity.md) adds a second constraint beyond travel time:
+
+> a route matters according to **what can move end-to-end without changing mode**.
+
+Strong working conclusions:
+
+- G1 supports bulk navigation through much of Low Rivers but loses reliable large-craft navigation before the High Roads uplands;
+- this creates a major head-of-navigation transfer market somewhere in upper / central Low Rivers;
+- R1 / Western Gate and R3 / River Road are principal cart-capable trunks;
+- R2 / North Shoulder requires meaningful cart ↔ pack transshipment at its highland bottleneck;
+- R4 / Forest Edge Road is not continuously heavy-cart capable;
+- Port is best modeled as an estuary / channel complex where river, sea and road traffic transfer;
+- Underpass branches meet surface transport through multiple interface types rather than one universal gate.
+
+A strategic chokepoint may therefore be a **mode-conversion point** rather than a narrow piece of terrain.
+
 ## Major circulation skeleton
 
 The final map should make the following flows physically believable.
