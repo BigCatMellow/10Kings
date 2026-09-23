@@ -186,41 +186,32 @@ The naming system should therefore avoid implying that a map label is an ethnic 
 
 ## Macro-region naming convention
 
-The current macro labels are being realigned toward deliberately ordinary common-language forms:
+The current common-language cultural-geographic names are:
 
-- **Stone Hills** — formerly Stone Hills / Ironcrest;
-- **North Coast** — formerly North Coast / Northwind;
-- **the Low Rivers** — formerly Low Rivers / Greenvale;
-- **the High Roads** — formerly High Roads / Highridge;
-- **Longwood** — formerly Longwood / Deepwood;
-- **the Old Cities** — formerly Old Cities / Sunplains;
-- **Central Range** — formerly The Spine;
-- **The Tunnels** — formerly The Underpass;
-- **Port** — retained for now because the plain shorthand itself is plausible.
+- **Stone Hills** — current; supersedes **Western Uplands**; legacy source name **Ironcrest**.
+- **North Coast** — current; supersedes **North Country**; legacy source name **Northwind**.
+- **the Low Rivers** — current; supersedes **River Country**; legacy source name **Greenvale**.
+- **the High Roads** — current; supersedes **High Country**; legacy source name **Highridge / Highridge Plateau**.
+- **Longwood** — current; supersedes **Forest Country**; legacy source name **Deepwood**.
+- **the Old Cities** — current; supersedes **South Country**; legacy source name **Sunplains**.
+- **Central Range** — retained from the first grounded pass; legacy **The Spine**.
+- **the Tunnels** — retained from the first grounded pass; legacy **The Underpass**.
+- **Port** — retained because the plain international shorthand remains plausible.
 
-These are common-language / reader-facing forms and remain revisable. They are not protected names. Exact local-language forms remain open, and the labels themselves may be replaced if a better culturally and historically grounded system makes the world stronger.
+These are **historical cultural-core names**, not ethnic border labels and not biome names.
 
-They may ultimately represent:
+They remain revisable if later local history produces something stronger, but they are now the preferred active-wiki vocabulary.
 
-- translations;
-- common diplomatic forms;
-- trade exonyms;
-- shortened legal names;
-- broad geographic labels used by outsiders.
+The naming logic is deliberately asymmetrical:
 
-This prevents their transparent English form from implying that every historical language in the setting builds names the same way.
+- Stone Hills → geographic shorthand;
+- North Coast → directional/coastal shorthand;
+- Low Rivers → watershed/lowland shorthand;
+- High Roads → historical route-network shorthand;
+- Longwood → name of the major forest core;
+- Old Cities → historical urban/civic shorthand.
 
-Do not rename these labels merely to make them sound more fantastical.
-
-But do not preserve them merely because they already exist either.
-
-For each one, determine whether:
-- the existing label fits a believable naming layer;
-- a different name would better express the culture and history;
-- keeping a translated/common label improves clarity;
-- replacement would create a more coherent naming system.
-
-**Continuity is not a design value by itself. Cultural fit, historical plausibility, and ordinary naming logic are stronger.**
+That asymmetry is intentional. Real regional names do not usually form a tidy matched set.
 
 ## Naming and The Convergence
 
