@@ -684,6 +684,10 @@ The physical network now implies several settlement types that should exist even
 
 At G1 upper navigation limit.
 
+[The G1 Head-of-Navigation Market — Middle-Worldbuilding Test](G1-Head-of-Navigation-Market-Test.md) now stress-tests this implied settlement through storage, labor, law, credit, seasonal river limits, bypasses, and the current Low Rivers abundance crisis.
+
+**Result:** strong pass. The settlement works because mode conversion creates recurring coordination needs, not because it is a capital.
+
 ## Pass roadhead towns
 
 On both sides of R2's pack-transfer segment.
