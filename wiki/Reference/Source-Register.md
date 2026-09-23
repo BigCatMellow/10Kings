@@ -732,6 +732,33 @@ Output:
 
 [Current Events](../Story/Current-Events.md) remains authoritative for what is actually happening.
 
+## Story core / character legacy reconciliation — 2026-09-23
+
+Volume 11 received a deliberate pass.
+
+Output:
+
+- [Story Core and Character Legacy Reconciliation](Story-Core-Legacy-Reconciliation.md).
+
+**Promoted structurally**
+- Wurdren should accumulate recurring relationships rather than pass through disposable quest locations;
+- his moral ambiguity should appear through concrete choices;
+- the Villain needs some tangible legitimacy / benefit for supporters rather than pure deception;
+- grounded recurring-antagonist roles can be reused as seed archetypes.
+
+**Preserved provisionally**
+- Wurdren's proposed late wife, adult children, letters, engraved sword and failed-aid backstory;
+- "homeland for his people" as one possible Villain grievance;
+- grounded antagonist seeds such as information thief/extortionist, pirate political leader, radical agrarian organizer, industrial saboteur, caravan outlaw, merchant monopolist and distributed secret-broker network.
+
+**Rejected / superseded**
+- the older model where the Villain does not know the Economic Council exists;
+- unsupported high-magic recurring villains;
+- obsolete plot outline treated as current;
+- character designs whose main function is to personify an old region.
+
+The WWF/WCW/ECW material is already actively reconciled through [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md).
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
