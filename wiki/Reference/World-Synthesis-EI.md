@@ -664,6 +664,60 @@ Create one high-profile defection and trace reactions through Summithold, Cliffh
 
 Incubating; structural phase preferred over a one-to-one real-world year mapping.
 
+## Candidate 20 — The Convergence may have standardized names without erasing local language
+
+**Sources**
+
+- [The Convergence](../History/The-Convergence.md)
+- [Pre-Convergence History](../History/Pre-Convergence.md)
+- [Naming](../Culture/Naming.md)
+- [Language and Thought](../Culture/Language-and-Thought.md)
+- [Language History and Naming Audit](Language-History-and-Naming-Audit.md)
+
+**Connection**
+
+Pre-Convergence politics were fragmented along valleys, rivers, harbors, routes and local institutions.
+
+The Convergence then required multilingual powers to agree on borders, route names, legal obligations, weights, dates and named landmarks.
+
+**New implication**
+
+Modern regional identity may partly depend on a layer of **standardized spellings, translated map labels and prestige written forms** created after the Convergence.
+
+That standardization can coexist with older local languages and names.
+
+A modern person may therefore treat an official regional name as ancient even when the form itself is comparatively recent.
+
+**Why it matters**
+
+This gives cultural standardization a concrete mechanism.
+
+It also creates usable conflict:
+
+- old local name versus treaty name;
+- official spelling versus family spelling;
+- political revival of pre-Convergence names;
+- border claims based on conflicting translations;
+- people treating one form as patriotic and another as foreign.
+
+The Council and Charter institutions may be unusually invested in standardized names because records, contracts and maps depend on them.
+
+Ascendant or localist actors can challenge those forms without necessarily rejecting the Convergence itself.
+
+**Smallest test**
+
+Take one disputed pass, town or river and give it:
+
+1. an old local form;
+2. a Convergence legal form;
+3. a common commercial form.
+
+Then create a dispute in which the choice of name changes how a claim is understood.
+
+**Disposition**
+
+Strong cultural-history candidate. The general multilingual / standardization framework is now in the Naming and Language owners; specific names and political consequences remain provisional.
+
 ## Promotion rule
 
 Nothing on this page becomes canon because it sounds useful.
