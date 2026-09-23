@@ -114,6 +114,8 @@ See [Movement and Information](Movement-and-Information.md).
 
 Market reports, rumors, maps, religious messages, guild knowledge, political intelligence, family news, technical knowledge, propaganda, and records.
 
+[Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md) owns deliberately sent correspondence. The world uses overlapping state, merchant, guild, religious, ship, caravan, private-courier, and informal carriage rather than one universal post.
+
 Information follows physical and social routes rather than spreading evenly. [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md) adds another layer: language relatedness, multilingual contact, and translation can accelerate or delay the same information depending on who carries it and which register they share. Its effective speed depends on departure delay, travel, handoffs, translation/copying, verification, and political friction. A rumor may therefore outrun a verified report without physically moving faster than its human carriers.
 
 A disruption in one flow can alter all the others.
