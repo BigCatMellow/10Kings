@@ -202,7 +202,127 @@ Do not assume they want the same outcome.
 
 Never assume geography or history produces one inevitable culture.
 
-Generate at least two or three route;
+Generate at least two or three responses when the issue is important.
+
+Then ask why this community adopted one combination instead of another.
+
+Possible reasons:
+
+- prior institutions;
+- religion;
+- available materials;
+- class power;
+- neighboring influence;
+- previous disaster;
+- trade access;
+- customary law;
+- technology;
+- historical accident.
+
+## Step 5 - Find the coordination problem
+
+Ask:
+
+> **What can individuals not solve reliably by themselves?**
+
+Then ask:
+
+> **Who organizes it?**
+
+Examples:
+
+- bridge repair;
+- irrigation timing;
+- reserve grain;
+- road safety;
+- weights and measures;
+- burial of strangers;
+- apprenticeship standards;
+- fire response;
+- harbor scheduling.
+
+Coordination may be:
+
+- governmental;
+- customary;
+- religious;
+- familial;
+- guild-based;
+- contractual;
+- neighborhood-based;
+- private;
+- criminal;
+- mixed.
+
+Do not create a formal office where informal coordination is more plausible.
+
+## Step 6 - Find the constituencies
+
+For every durable system, identify:
+
+- who benefits;
+- who pays;
+- who profits;
+- who is excluded;
+- who resents it;
+- who can bypass it;
+- who wants reform;
+- who depends on it despite disliking it.
+
+An institution without constituencies is probably too abstract.
+
+## Step 7 - Derive ordinary life
+
+Only now generate abundant detail.
+
+Ask how the system changes:
+
+- food;
+- work;
+- housing;
+- tools;
+- clothing;
+- childhood;
+- education;
+- marriage;
+- inheritance;
+- travel;
+- debt;
+- leisure;
+- festivals;
+- language;
+- etiquette;
+- neighborhood form;
+- public buildings.
+
+## Step 8 - Connect outward
+
+Ask what this system affects elsewhere.
+
+Trace at least one connection to another domain when material:
+
+- food <-> trade;
+- work <-> family;
+- religion <-> law;
+- geography <-> politics;
+- preservation <-> architecture;
+- information <-> markets;
+- routes <-> language;
+- property <-> ecology.
+
+Do not force connections solely to increase graph density.
+
+## Step 9 - Stress the system
+
+Test:
+
+- failure;
+- shortage;
+- surplus;
+- unusual weather;
+- war;
+- new technology;
+- changing route;
 - demographic shift;
 - corruption;
 - outside competition;
