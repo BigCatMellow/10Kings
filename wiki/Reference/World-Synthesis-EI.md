@@ -278,9 +278,19 @@ Culture would spread along uneven networks rather than evenly across adjacent te
 
 Take one new social practice and trace a plausible six-month spread through actual routes, stopping where the network becomes weak.
 
+**Phase 7 test result — 2026-09-23**
+
+[Culture Phase 7 — Cross-Regional Cultural Transmission](Culture-Phase-7-Cross-Regional-Transmission.md) passes the mechanism across seven different forms.
+
+The important refinement is that the route alone is not enough.
+
+The same road can carry different cultural material depending on whether the traveler is a sailor, pilgrim, child, guild clerk, migrant household, caravan worker or itinerant craft family.
+
+Trade routes are therefore social-transmission routes, but transmission is **carrier-specific**.
+
 **Disposition**
 
-Strong candidate; structural principle promoted to [Social Fabric](../Social-Fabric.md), exact diffusion examples remain provisional.
+Supported and promoted at the structural level to [Social Fabric](../Social-Fabric.md) and [Culture and Influence](../Culture/Culture-and-Influence.md). Exact diffusion histories remain provisional.
 
 ## Candidate 9 — Rival spheres can create a prestige market for people
 
@@ -773,9 +783,26 @@ It also supports Port's ECW-like influence without requiring every innovation to
 
 Choose one practical object—garment cut, clasp, bag or repair method—and trace it from one community to three others using only established routes and economic incentives.
 
+**Phase 7 test result — 2026-09-23**
+
+The provisional work-garment trace passes:
+
+```text
+Stone Hills workwear
+→ Port secondhand market
+→ Port tailoring / dock adaptation
+→ High Roads travel adaptation
+→ Old Cities prestige version
+→ return imitation
+```
+
+The mechanism survives without requiring a regional costume, a monopoly or an elite origin.
+
+The strongest additional finding is that **return influence** matters: a prestigious copy can travel back toward the communities whose workwear originally inspired it.
+
 **Disposition**
 
-Strong candidate; material-culture circulation is structurally supported, exact diffusion examples remain provisional.
+Supported at the pattern level. The circulation and return-loop mechanism is strong; exact garments and fashions remain provisional.
 
 ## Candidate 22 — Systemic crises may become socially real through household substitution
 
@@ -997,10 +1024,17 @@ Take two existing cultural traditions in one mixed settlement and derive one sta
 
 Then test whether the practice still makes sense after removing explicit references to its two source cultures.
 
+**Phase 7 test result — 2026-09-23**
+
+All seven transmission traces depend on contact zones producing something locally useful rather than simply averaging two source traditions.
+
+The food trace is the clearest example: preserved-fish knowledge and market vegetables create a stable local work meal whose later Port and High Roads descendants no longer need to remain legible as "North Coast + Low Rivers."
+
+Border towns, Port, caravan settlements and migrant districts therefore pass as **culture producers**, not merely mixing chambers.
+
 **Disposition**
 
-Structural principle promoted to World Rules, Social Fabric, Culture and Food. Exact contact-zone traditions remain provisional.
-
+Structural principle remains promoted. Phase 7 strongly supports the generative-contact model; exact local traditions remain provisional.
 
 ## Candidate 26 — Cultural incubation, circulation and prestige may be different systems
 
@@ -1058,9 +1092,23 @@ Create one provisional Port-born performance or game and trace:
 
 If each step follows existing institutions without inventing a new cultural bureaucracy, the mechanism passes.
 
+**Phase 7 test result — 2026-09-23**
+
+The garment and song traces both produce the predicted separation of functions.
+
+A form can be:
+
+- created because it is useful in one local scene;
+- circulated by workers or travelers elsewhere;
+- altered repeatedly in transit;
+- legitimized by a wealthy patron or civic venue somewhere else;
+- returned to its source community in a prestigious but altered version.
+
+That is enough to support incubation, circulation and prestige as analytically distinct processes.
+
 **Disposition**
 
-Strong Phase 5 candidate; exact form and place-to-place sequence remain provisional.
+Supported at the pattern level. Exact cities or forms need not hold exclusive roles, but the separation of cultural functions passed.
 
 ## Candidate 27 — Low-infrastructure popular culture can outrun political identity
 
@@ -1091,9 +1139,19 @@ It may also help explain why formal political narratives never completely map on
 
 Take one simple game, rhyme or song fragment and trace it through three politically different communities over one generation. Require the form to change at each stop and test whether the communities can share it without developing the same political identity.
 
+**Phase 7 test result — 2026-09-23**
+
+The provisional counting / placement game and High Roads trade-term traces both pass.
+
+The game can cross caravan yards, Port, ships and Low Rivers markets with almost no supply chain.
+
+The technical word can move through clerks and merchants, broaden into Port slang, and return to High Roads with a changed meaning.
+
+Neither transmission requires the receiving communities to share political identity.
+
 **Disposition**
 
-Incubating; structurally plausible, but needs a concrete diffusion example before promotion.
+Supported at the pattern level. Low-infrastructure culture can move faster than formal identity; exact words and games remain provisional.
 
 ## Candidate 28 — Calendars can function as coordination infrastructure
 
@@ -1210,9 +1268,83 @@ It also creates useful conflict between religious authorities, civic institution
 
 Take one provisional observance and write three generations of explanations for why people continue it. The material practice should remain recognizable while the dominant justification changes.
 
+**Phase 7 test result — 2026-09-23**
+
+The provisional departure ritual passes.
+
+A practice associated with dangerous travel can move through pilgrimage and caravan networks, enter mixed Port households, lose some of its original faith language, and survive because it still coordinates destination, hosts, farewell and social responsibility.
+
+Diaspora communities may even preserve a more elaborate version than the home community.
+
 **Disposition**
 
-Strong candidate; needs a named historical example before promotion.
+Supported at the pattern level. A named historical ritual is still needed before any specific observance is promoted.
+
+## Candidate 30 — Cultural forms have different transmission costs
+
+**Sources**
+
+- [Culture and Influence](../Culture/Culture-and-Influence.md)
+- [Culture Phase 7 — Cross-Regional Cultural Transmission](Culture-Phase-7-Cross-Regional-Transmission.md)
+- [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md)
+- [Material Culture Supply Chains](Material-Culture-Supply-Chains.md)
+- [Arts, Music and Leisure](../Culture/Arts-Music-and-Leisure.md)
+
+**Connection**
+
+The Phase 7 traces do not spread evenly.
+
+A word, joke or game rule can travel with almost no material support.
+
+Food needs ingredients, fuel and technique.
+
+Garments need cloth, labor and a useful local fit.
+
+Architecture needs land, materials and builders.
+
+Public ritual needs repeated participation, calendar coordination and often institutions.
+
+Administrative names can spread by records and law even when ordinary speech resists them.
+
+**New implication**
+
+The world should contain several overlapping cultural maps rather than one cultural-diffusion map.
+
+For example:
+
+- slang may connect distant ports rapidly;
+- a food tradition may stop where an ingredient becomes expensive;
+- a game may cross a political border that a guild custom does not;
+- a legal place name may be standardized across regions while local spoken names remain fragmented.
+
+Cultural boundaries are therefore better modeled as **selective filters** than walls.
+
+**Why it matters**
+
+This explains how the setting can remain culturally distinctive despite heavy migration and trade.
+
+Distinctiveness does not require isolation.
+
+It can arise because different places admit, reject, transform or materially constrain different forms.
+
+**Smallest test**
+
+Choose one route connecting at least three communities and send four forms down it:
+
+1. a word;
+2. a food;
+3. a garment;
+4. a ritual.
+
+Require each form to encounter the same communities.
+
+If all four spread identically, the model is too weak.
+
+If each stops or transforms for different material / social reasons, the candidate passes.
+
+**Disposition**
+
+Strong Phase 7 candidate. The general transmission-cost mechanism is now reflected in [Culture and Influence](../Culture/Culture-and-Influence.md); exact diffusion maps remain provisional.
 
 ## Promotion rule
 
