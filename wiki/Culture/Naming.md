@@ -8,7 +8,72 @@
 
 Names should feel as if they have histories.
 
-The setting should use the *logic* of real place naming rather than random fantasy phonetics.
+## Plain-name rule
+
+**Default to ordinary names.**
+
+Real place names are often boring because they began as practical descriptions used by people who needed to distinguish one place from another.
+
+Good sources include:
+
+- a spring beside a field;
+- a ford across a river;
+- a bridge;
+- a market;
+- a mill;
+- a church or shrine;
+- a family farm;
+- a hill;
+- a wood;
+- a harbor;
+- an upper or lower settlement;
+- a road junction;
+- a fort;
+- a color or physical property people actually noticed.
+
+The setting should therefore prefer names with the logic of:
+
+- Springfield;
+- Newport;
+- Oxford;
+- Cambridge;
+- Newcastle;
+- Red Hill;
+- Blackwater;
+- Northfield;
+- Milltown;
+- High Street;
+- Eastgate;
+- Market Cross;
+
+over names invented primarily to sound ancient, exotic, prestigious, mystical, or important.
+
+A made-up form such as **Ch'tevial** is not improved merely because it sounds unfamiliar. An opaque name is acceptable only when the setting has enough linguistic history to explain why that form exists.
+
+### Practical naming test
+
+Before using a newly invented opaque word, ask:
+
+> Could this place instead have been named after the river, hill, family, bridge, market, fort, spring, road, occupation, or older settlement that actually caused people to live there?
+
+If yes, prefer the ordinary historical name unless there is a specific reason not to.
+
+### Avoid fantasy ornament
+
+Treat the following as warning signs rather than automatic bans:
+
+- decorative apostrophes;
+- unusual consonant clusters inserted only to signal fantasy;
+- `-spire`, `-hearth`, `-gloam`, `-shadow`, `-crest`, `-veil`, etc. used because they sound evocative rather than because people would have used those words literally;
+- every important city having a majestic or symbolic name;
+- every region having a perfectly thematic compound;
+- inventing an etymology after the fact solely to rescue a cool-sounding name.
+
+Plainness is a feature, not a defect.
+
+
+
+The setting should use the *logic* of real place naming rather than random fantasy phonetics or prestige-sounding invented words.
 
 Useful naming sources include:
 - geography: river mouth, red hill, narrow pass, clear water;
@@ -35,12 +100,12 @@ The lesson is **not** to copy the sound of these languages indiscriminately. It 
 
 Exact naming languages remain open, but a useful model is:
 
-- **Ironcrest:** older upland/river names beneath later mining, fort, family, and guild names.
-- **Northwind:** coastal geography, bays, islands, currents, lineages, seasonal sites.
-- **Greenvale:** rivers, soils, old settlements, family lands, markets, former estates.
-- **Highridge:** route names, passes, wells, caravan families, old toll sites, translated names from multiple languages.
-- **Deepwood:** waterways, groves, species, older peoples, landmarks that may not be obvious to outsiders.
-- **Sunplains:** old city-state names, founders, civic ideals, waterworks, forts, ports, estates.
+- **Western Uplands:** older upland/river names beneath later mining, fort, family, and guild names.
+- **North Country:** coastal geography, bays, islands, currents, lineages, seasonal sites.
+- **River Country:** rivers, soils, old settlements, family lands, markets, former estates.
+- **High Country:** route names, passes, wells, caravan families, old toll sites, translated names from multiple languages.
+- **Forest Country:** waterways, groves, species, older peoples, landmarks that may not be obvious to outsiders.
+- **South Country:** old city-state names, founders, waterworks, forts, ports, estates, and ordinary neighborhood or family names.
 - **Port:** layers upon layers — indigenous/old geographic name, official charter name, district nicknames, immigrant neighborhood names, merchant terminology.
 
 ## Border names
@@ -106,19 +171,19 @@ A naming dispute can therefore be a political or historical dispute rather than 
 
 ## Macro-region naming convention
 
-The current labels:
+The current macro labels are being realigned toward deliberately ordinary common-language forms:
 
-- Ironcrest;
-- Northwind;
-- Greenvale;
-- Highridge / Highridge Plateau;
-- Deepwood;
-- Sunplains;
-- The Spine;
-- The Underpass;
-- Port;
+- **Western Uplands** — formerly Ironcrest;
+- **North Country** — formerly Northwind;
+- **River Country** — formerly Greenvale;
+- **High Country** — formerly Highridge / Highridge Plateau;
+- **Forest Country** — formerly Deepwood;
+- **South Country** — formerly Sunplains;
+- **Central Range** — formerly The Spine;
+- **The Tunnels** — formerly The Underpass;
+- **Port** — retained for now because the plain shorthand itself is plausible.
 
-are **current working reader-facing / interregional labels**, not protected names. Exact local-language forms remain open, and the labels themselves may be replaced if a better culturally and historically grounded system makes the world stronger.
+These are common-language / reader-facing forms and remain revisable. They are not protected names. Exact local-language forms remain open, and the labels themselves may be replaced if a better culturally and historically grounded system makes the world stronger.
 
 They may ultimately represent:
 
@@ -140,7 +205,7 @@ For each one, determine whether:
 - keeping a translated/common label improves clarity;
 - replacement would create a more coherent naming system.
 
-**Continuity is not a design value by itself. Cultural fit and historical plausibility are stronger.**
+**Continuity is not a design value by itself. Cultural fit, historical plausibility, and ordinary naming logic are stronger.**
 
 ## Naming and The Convergence
 
