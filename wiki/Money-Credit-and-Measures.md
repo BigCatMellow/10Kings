@@ -808,6 +808,8 @@ Do not assume modern insurance companies.
 
 # 37. Risk changes finance before goods move
 
+See [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md). Commercial prices and credit can react to carried reports before goods physically reroute; urgent dispatch is therefore an economic service as well as an information service.
+
 A rumor of:
 
 - piracy;
