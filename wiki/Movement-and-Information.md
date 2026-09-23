@@ -489,6 +489,8 @@ A spy network is not an all-seeing map.
 
 ## Scribes, scholars, notaries, and archives
 
+See [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md).
+
 Current material supports practical literacy, commercial records, libraries, schools, archives, and record-centered religious institutions in parts of the world.
 
 These networks are best at:
