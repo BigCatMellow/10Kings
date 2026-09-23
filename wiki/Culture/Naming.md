@@ -71,6 +71,22 @@ Several previously proposed character names are retained as **provisional** unti
 See [Personal Naming Framework](../Reference/Personal-Naming-Framework.md) for the current design method.
 
 
+## No preservation inertia
+
+Existing names are evidence of prior design, not assets that must be retained.
+
+When evaluating an established or legacy name, ask:
+
+1. Does it fit the culture that now exists?
+2. Does its history make sense?
+3. Does it belong to the right language / naming layer?
+4. Does it create unwanted Earth-culture shorthand or fantasy-theme shorthand?
+5. Would a different name improve coherence, distinctiveness or cultural specificity?
+
+If a replacement is better, replace it.
+
+Preservation should occur because a name works, not because changing it feels costly.
+
 ## Working name-layer model
 
 A place can accumulate several names across time.
@@ -102,7 +118,7 @@ The current labels:
 - The Underpass;
 - Port;
 
-should be treated as stable **reader-facing / interregional labels** while exact local-language forms remain open.
+are **current working reader-facing / interregional labels**, not protected names. Exact local-language forms remain open, and the labels themselves may be replaced if a better culturally and historically grounded system makes the world stronger.
 
 They may ultimately represent:
 
@@ -116,7 +132,15 @@ This prevents their transparent English form from implying that every historical
 
 Do not rename these labels merely to make them sound more fantastical.
 
-Instead determine what naming layer they belong to and which older/local names coexist with them.
+But do not preserve them merely because they already exist either.
+
+For each one, determine whether:
+- the existing label fits a believable naming layer;
+- a different name would better express the culture and history;
+- keeping a translated/common label improves clarity;
+- replacement would create a more coherent naming system.
+
+**Continuity is not a design value by itself. Cultural fit and historical plausibility are stronger.**
 
 ## Naming and The Convergence
 
