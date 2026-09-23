@@ -130,7 +130,7 @@ Shipping losses, insurance disputes, warehouse fires/thefts, and political accus
 
 Displaced people from border and economic crises arrive faster than housing and charity systems can absorb them.
 
-## Central Range
+## The Spine
 
 ### Earthquake/land movement
 
@@ -143,7 +143,7 @@ This produces:
 - archaeological interest;
 - Tunnels instability.
 
-## The Tunnels
+## The Underpass
 
 ### Route wars
 
