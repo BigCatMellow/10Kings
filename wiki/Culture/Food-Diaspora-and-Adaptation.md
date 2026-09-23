@@ -103,21 +103,29 @@ These are **design prompts**, not rules about every household.
 
 | Region | Useful culinary bias |
 | --- | --- |
-| Western Uplands | filling, durable food; smoke, browning, pickling, dense grains and preserved components |
-| North Country | preservation first; brine, smoke, fermentation, cold-storage traditions, berries and sea/coastal ingredients |
-| River Country | abundance and sharing; dairy, orchard fruit, grains, garden herbs, baked and communal foods |
-| High Country | portable and layered; dried goods, dairy, dumplings/breads, trade spices, market combinations |
-| Forest Country | seasonality and restraint; fungi, nuts, roots, herbs, fermentation, forest and river foods alongside cultivation |
-| South Country | brightness and balance; oils, fruit acids, pulses, grains, herbs, nuts, irrigated/orchard foods and civic variation |
-| Port | borrowing as normal; ship food, immigrant kitchens, dock food, imported condiments and rapid hybridization |
+| Western Uplands | work schedules, upland staples, imported River Country grain, preservation, workshop districts and class differences |
+| North Country | seasonal fisheries, preservation infrastructure, cold storage where available, harbor markets and imported grain |
+| River Country | broad agricultural base, mills, storage, dairying, river markets, estate / village / town differences |
+| High Country | local upland staples versus traveler food, fuel constraints, caravan provisioning and imported market goods |
+| Forest Country | cultivated food plus forest / river supplements, preservation, water access and strong town-to-town ecological variation |
+| South Country | irrigation, water cost, pulses/grains/oils/fruit where supported, urban markets and city-specific variation |
+| Port | imported food, small urban kitchens, shift work, boarding houses, ship provisioning, street food and diaspora adaptation |
 
 The imported notes contained specific modern ingredient analogues. Treat those as research prompts, not automatic setting facts; [World Rules](../World-Rules.md) requires “draw globally, copy nowhere whole.”
 
+## Naming caution
+
+Example foods on this page are mechanisms, not proposed final dish names.
+
+Do not name diaspora foods by combining regional themes such as “forge,” “frost,” “forest,” “sun,” or “caravan.”
+
+Apply [Naming](Naming.md): real food names often come from a place, family, maker, ingredient, vessel, shape, method, market, or occasion.
+
 ## Two illustrative adaptation paths
 
-### Guardian Stew
+### Example: a family stew carried into diaspora
 
-Imagine a Forest Country stew whose identity comes from slow cooking, forest aromatics and a communal serving ritual.
+Imagine a particular Forest Country family's stew whose identity comes from slow cooking, locally available aromatics and a remembered serving custom.
 
 A diaspora version might preserve the **method and occasion** while changing its pantry:
 
@@ -130,9 +138,9 @@ A diaspora version might preserve the **method and occasion** while changing its
 
 None of these versions should be treated as automatically canonical dishes. The example demonstrates the mechanism.
 
-### Forgefire Roast
+### Example: a workday roast carried into another food system
 
-An Western Uplands preparation identified by hard browning, smoke and a communal work-day context might migrate into South Country.
+A Western Uplands workday preparation identified by hard browning, smoke and a shared labor context might migrate into South Country.
 
 The host version could use a different meat, oil, acid and herb set while preserving the expectation that the dish should be deeply browned and served after collective labor.
 
