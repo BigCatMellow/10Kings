@@ -24,6 +24,43 @@ Over generations, several things can separate:
 
 A cuisine can therefore remain culturally recognizable even after its pantry changes substantially.
 
+## Contact cuisine is not merely diaspora cuisine
+
+Diaspora is only one path.
+
+New cuisines can also arise where two or more traditions share the same place for generations without either being the clear “host.”
+
+Examples include:
+
+- old border towns;
+- mixed river valleys;
+- mining settlements;
+- ports;
+- caravan crossroads;
+- military colonies;
+- guild districts;
+- newly settled forests or agricultural frontiers.
+
+In those settings, food may develop through **mutual borrowing** rather than one-way adaptation.
+
+A North Coast household may borrow Low Rivers vegetables and pickling habits while a Low Rivers household borrows salt-fish preservation and serving customs.
+
+After enough repetition, both may participate in a local cuisine that belongs fully to neither source tradition.
+
+### Contact-cuisine test
+
+A convincing contact cuisine should answer:
+
+1. Which populations met?
+2. Why did they keep meeting?
+3. Which ingredients were locally cheap?
+4. Which techniques solved actual problems?
+5. Where were people cooking together or buying from one another?
+6. What changed after one generation?
+7. What do younger locals regard as normal that grandparents regarded as foreign?
+
+If those answers exist, the crossover is historical rather than decorative.
+
 ## Three-stage model
 
 ### Stage 1 — Faithful reconstruction
