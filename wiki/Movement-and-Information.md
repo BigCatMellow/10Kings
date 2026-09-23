@@ -385,6 +385,8 @@ Weaknesses:
 
 See [Nomads and Itinerant Peoples](Culture/Nomads.md).
 
+Mobile peoples are now modeled primarily through **repeatable circuits**, not random wandering. A circuit may connect work, pasture, markets, kin, pilgrimage sites, winter quarters, fairs, or route junctions. Because those circuits repeat, they create durable relationships with settled communities and can function as long-lived social infrastructure without a central organization.
+
 Strongest information:
 
 - local route conditions;
@@ -400,13 +402,18 @@ Strengths:
 - repeated local contact;
 - difficult-route knowledge;
 - social trust based on reputation;
-- reach outside major institutions.
+- reach outside major institutions;
+- inherited memory of routes, hosts, tolls, and recurring stops.
 
 Weaknesses:
 
-- seasonal circuits;
+- seasonal cadence;
 - fragmented coverage;
+- route closure;
+- access disputes;
 - outsiders may distrust them even when their information is good.
+
+Different circuits can intersect at markets, fairs, Port, High Roads caravan yards, and shrines, allowing information to relay from one mobile network into another.
 
 ## Migrants and refugees
 

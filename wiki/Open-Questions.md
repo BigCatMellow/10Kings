@@ -75,7 +75,7 @@ Remaining questions:
 
 - Actual language families and degrees of mutual intelligibility.
 - Major pilgrimage, migration, labor, refugee, and seasonal travel patterns.
-- Structure and legal status of nomadic/itinerant peoples.
+- Exact circuit patterns, legal attachment, access arrangements, taxation, and cross-jurisdiction status of mobile peoples. Their structural role as recurring circuit-based communities is now established in [Nomads and Itinerant Peoples](Culture/Nomads.md).
 - Exact travel times and seasonal reliability between major hubs.
 - Whether dedicated courier guilds or public postal systems exist, and where.
 - Literacy rates and the social reach of written records.
@@ -186,9 +186,22 @@ Remaining questions:
 
 ## Nomadic peoples
 
-- Name and self-name of the Appalachian-influenced mobile network.
-- Whether it is one people or a cultural/economic network containing multiple peoples.
-- Seasonal circuits and legal status.
+[Nomads and Itinerant Peoples](Culture/Nomads.md) now establishes the structural model: several forms of mobile livelihood can exist, durable mobility usually follows repeatable circuits, and legal access should be derived stop by stop rather than through a universal nomad code.
+
+Remaining questions:
+
+- Whether the Appalachian-influenced concept is one people, several related peoples, or a broad kin/economic network.
+- Self-name and outsider names.
+- Origin history.
+- Exact seasonal circuits and livelihoods.
+- Languages and dialects.
+- Winter quarters or other fixed-property patterns.
+- Citizenship / legal attachment.
+- Taxation and toll treatment.
+- Grazing, stopping, market, and work-access agreements.
+- Guild status.
+- Marriage, inheritance, birth registration, and burial across jurisdictions.
+- Current conflicts caused by route closure or post-Convergence border regularization.
 
 ## Current events
 

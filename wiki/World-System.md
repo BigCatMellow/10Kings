@@ -100,6 +100,8 @@ Food, ores, tools, timber, animals, salt, medicines, luxury goods, building mate
 
 Merchants, laborers, migrants, refugees, sailors, caravan workers, pilgrims, guild members, soldiers, criminals, scholars, diplomats, itinerant peoples, and mixed families.
 
+[Nomads and Itinerant Peoples](Culture/Nomads.md) establishes that durable mobility usually follows repeatable circuits tied to work, pasture, markets, kin, pilgrimage, or seasonal shelter. These circuits create cross-border social and information infrastructure without requiring one unified mobile culture.
+
 ### Money and obligations
 
 Credit, debt, contracts, tolls, storage claims, insurance-like arrangements, patronage, investment, taxes, guild dues, emergency loans, and land obligations.
@@ -376,7 +378,7 @@ Major open areas include:
 - Wurdren's exact biography and starting situation;
 - magic prevalence and limits;
 - language families and naming systems;
-- the structure and legal status of nomadic/itinerant peoples;
+- exact circuits, names, and local legal status of mobile peoples (their circuit-based structural role is now established);
 - which current-event candidates are finally selected.
 
 See [Open Questions](Open-Questions.md).
