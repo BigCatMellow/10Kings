@@ -155,6 +155,8 @@ Information may also be delayed by:
 
 ## Mode-conversion hubs
 
+[North Shoulder Paired Roadheads — Middle-Worldbuilding Test](Reference/North-Shoulder-Paired-Roadheads-Test.md) demonstrates that route-status information can itself become an institutionally produced commodity. A pass is not merely open or closed by nature; credible guides, maintainers, roadhead authorities, and transport networks interpret conditions, and their reports can change freight, credit, contracts, and route choice before cargo moves.
+
 See [Working Map — Network Endpoints and Capacity Test V1](Reference/Working-Map-Network-Endpoints-and-Capacity.md).
 
 Places where traffic must change mode become information hubs because people:
