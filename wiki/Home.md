@@ -4,7 +4,7 @@ This is the working knowledge base for the setting currently called **Two Sons**
 
 ## Core idea
 
-Two Sons is a low-fantasy world built around **interdependence**. Regions differ because of climate, history, geography, language, institutions, and cultural memory, but they are not monocultures or resource caricatures. Western Uplands has more mining; that does not mean everyone is a miner. Forest Country contains major forests; that does not mean every person is a mystic ranger. Each region contains farms, towns, crafts, elites, poor laborers, religious communities, criminals, migrants, minorities, and internal disagreements.
+Two Sons is a low-fantasy world built around **interdependence**. Regions differ because of climate, history, geography, language, institutions, and cultural memory, but they are not monocultures or resource caricatures. Stone Hills has more mining; that does not mean everyone is a miner. Longwood contains major forests; that does not mean every person is a mystic ranger. Each region contains farms, towns, crafts, elites, poor laborers, religious communities, criminals, migrants, minorities, and internal disagreements.
 
 The story grows from the collision of three scales:
 
@@ -30,12 +30,12 @@ The setting should make it possible to follow one damaged bridge, missing carava
 
 ## Regions
 
-- [Western Uplands](Regions/Ironcrest.md)
-- [North Country](Regions/Northwind.md)
-- [River Country](Regions/Greenvale.md)
-- [High Country](Regions/Highridge-Plateau.md)
-- [Forest Country](Regions/Deepwood.md)
-- [South Country](Regions/Sunplains.md)
+- [Stone Hills](Regions/Ironcrest.md)
+- [North Coast](Regions/Northwind.md)
+- [The Low Rivers](Regions/Greenvale.md)
+- [The High Roads](Regions/Highridge-Plateau.md)
+- [Longwood](Regions/Deepwood.md)
+- [The Old Cities](Regions/Sunplains.md)
 
 ## Major shared places
 
