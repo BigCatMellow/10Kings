@@ -20,11 +20,11 @@ The goal is to see where the framework breaks.
 
 ---
 
-# Test 1 — Western Uplands mixed workshop household
+# Test 1 — Stone Hills mixed workshop household
 
 ## Established anchors
 
-Current Western Uplands supports:
+Current Stone Hills supports:
 
 - mixed mining / craft / farming economies;
 - workshops attached to homes;
@@ -33,7 +33,7 @@ Current Western Uplands supports:
 - labor conflict;
 - dangerous work;
 - practical literacy;
-- imported River Country staples;
+- imported Low Rivers staples;
 - guild power;
 - worker / owner tension.
 
@@ -54,7 +54,7 @@ It also:
 - keeps a garden;
 - rents a small goat enclosure;
 - repairs farm tools for nearby villages;
-- buys grain through a merchant tied to River Country routes.
+- buys grain through a merchant tied to Low Rivers routes.
 
 ## Daily rhythm
 
@@ -78,7 +78,7 @@ Evening:
 
 ## Clothing test
 
-Work clothing is more important than “Western Uplands fashion.”
+Work clothing is more important than “Stone Hills fashion.”
 
 Likely:
 - heavy apron;
@@ -117,15 +117,15 @@ It threatens:
 
 **Result: PASS.**
 
-The Western Uplands world becomes richer when work, household and guild are inseparable but not identical.
+The Stone Hills world becomes richer when work, household and guild are inseparable but not identical.
 
 ---
 
-# Test 2 — North Country secondary harbor household
+# Test 2 — North Coast secondary harbor household
 
 ## Established anchors
 
-Current North Country supports:
+Current North Coast supports:
 
 - coastal towns;
 - fishing / shipping;
@@ -204,15 +204,15 @@ Fish-stock decline affects:
 
 **Result: PASS.**
 
-North Country's strongest cultural depth comes from managing absence, risk and access—not “stoicism.”
+North Coast's strongest cultural depth comes from managing absence, risk and access—not “stoicism.”
 
 ---
 
-# Test 3 — River Country river-market household
+# Test 3 — Low Rivers river-market household
 
 ## Established anchors
 
-Current River Country supports:
+Current Low Rivers supports:
 
 - market towns;
 - river trade;
@@ -285,15 +285,15 @@ A practice once designed for scarcity—communal storage, grain pooling, inherit
 
 **Result: STRONG PASS.**
 
-River Country becomes most distinctive through **seasonality, storage and property relationships**, not generic pastoral warmth.
+Low Rivers becomes most distinctive through **seasonality, storage and property relationships**, not generic pastoral warmth.
 
 ---
 
-# Test 4 — High Country caravan-yard neighborhood
+# Test 4 — High Roads caravan-yard neighborhood
 
 ## Established anchors
 
-Current High Country supports:
+Current High Roads supports:
 
 - multilingual towns;
 - caravan yards;
@@ -379,15 +379,15 @@ A stranger who once needed only money may now need:
 
 **Result: STRONG PASS.**
 
-High Country culture is most visible through **guesthood, translation and temporary belonging**.
+High Roads culture is most visible through **guesthood, translation and temporary belonging**.
 
 ---
 
-# Test 5 — Forest Country river-town household
+# Test 5 — Longwood river-town household
 
 ## Established anchors
 
-Current Forest Country supports:
+Current Longwood supports:
 
 - river settlements;
 - forest products;
@@ -461,15 +461,15 @@ A seemingly minor question—“who said you could cut here?”—can involve:
 
 **Result: PASS.**
 
-Forest Country becomes much stronger when culture is about **rights, use and local ecological knowledge**, not mystical presentation.
+Longwood becomes much stronger when culture is about **rights, use and local ecological knowledge**, not mystical presentation.
 
 ---
 
-# Test 6 — South Country irrigation-city neighborhood
+# Test 6 — Old Cities irrigation-city neighborhood
 
 ## Established anchors
 
-Current South Country supports:
+Current Old Cities supports:
 
 - multiple city-states;
 - irrigation;
@@ -546,7 +546,7 @@ Drought rumors can change etiquette before actual scarcity:
 
 **Result: STRONG PASS.**
 
-South Country is culturally strongest when **water law, dense civic life and city rivalry** produce behavior—not “elegance.”
+Old Cities is culturally strongest when **water law, dense civic life and city rivalry** produce behavior—not “elegance.”
 
 ---
 
@@ -746,7 +746,7 @@ Before Phase 3 food deepening, Phase 2 should still answer several specific ques
 3. How common are guild welfare / burial / injury benefits?
 4. What legal forms of household and marriage exist in major polities?
 5. How does apprenticeship affect residence and childhood?
-6. What does secondhand clothing trade look like in Port and High Country?
+6. What does secondhand clothing trade look like in Port and High Roads?
 7. Which customs differ more by **class or profession** than by region?
 
 These should be resolved only as far as needed for food and ordinary-life worldbuilding.
