@@ -6,7 +6,7 @@
 
 This page owns the world-level model for how people, messages, rumors, records, and intelligence move through the setting.
 
-It does **not** establish exact travel times, literacy rates, a universal postal service, a single courier guild, or precise route schedules. Those remain open until map scale, language families, and local institutions are firmer.
+It does **not** establish exact travel times, literacy rates, or precise route schedules. The structural model for deliberately sent letters and dispatches is owned by [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md); exact courier institutions remain open.
 
 Related owners:
 
@@ -17,6 +17,7 @@ Related owners:
 - [The High Roads](Regions/Highridge-Plateau.md) — overland exchange;
 - [Nomads and Itinerant Peoples](Culture/Nomads.md) — mobile circuits;
 - [Guilds](Politics/Guilds.md) — professional and branch networks;
+- [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md) — deliberate dispatch, scheduled carriage, handoff, and last-mile delivery;
 - [Religions](Politics/Religions.md) — pilgrimage, hospitality, archives, schools, and mediation;
 - [Crime and the Underworld](Politics/Crime-and-Underworld.md) — illicit routes and forged information;
 - [Culture Phase 7 — Cross-Regional Cultural Transmission](Reference/Culture-Phase-7-Cross-Regional-Transmission.md) — non-canon mechanism tests for carrier-specific transmission.
@@ -192,11 +193,7 @@ Likely uses:
 - high-value commercial intelligence;
 - diplomatic correspondence.
 
-Important constraint:
-
-the setting does **not yet have a canon universal courier service or postal network**.
-
-Dedicated messengers are structurally plausible and supported by legacy material, but their exact institutional form remains open.
+See [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md). The setting has dedicated dispatch and layered message carriage, but **no universal courier service or postal network**. Exact state, guild, commercial, and private courier institutions remain open.
 
 ## C. Commercial cadence
 

@@ -455,6 +455,8 @@ Any exception must be developed explicitly.
 
 See [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md).
 
+See [Couriers, Posts, and Message Networks](../Couriers-Posts-and-Message-Networks.md). Port's ships, foreign agents, merchants, translators, and harbor offices make it a natural maritime message-transfer hub even without a universal postal service.
+
 Port's courts and arbitration do not rule the world.
 
 They matter because:
