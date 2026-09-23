@@ -103,12 +103,12 @@ These are **design prompts**, not rules about every household.
 
 | Region | Useful culinary bias |
 | --- | --- |
-| Western Uplands | work schedules, upland staples, imported River Country grain, preservation, workshop districts and class differences |
-| North Country | seasonal fisheries, preservation infrastructure, cold storage where available, harbor markets and imported grain |
-| River Country | broad agricultural base, mills, storage, dairying, river markets, estate / village / town differences |
-| High Country | local upland staples versus traveler food, fuel constraints, caravan provisioning and imported market goods |
-| Forest Country | cultivated food plus forest / river supplements, preservation, water access and strong town-to-town ecological variation |
-| South Country | irrigation, water cost, pulses/grains/oils/fruit where supported, urban markets and city-specific variation |
+| Stone Hills | work schedules, upland staples, imported Low Rivers grain, preservation, workshop districts and class differences |
+| North Coast | seasonal fisheries, preservation infrastructure, cold storage where available, harbor markets and imported grain |
+| Low Rivers | broad agricultural base, mills, storage, dairying, river markets, estate / village / town differences |
+| High Roads | local upland staples versus traveler food, fuel constraints, caravan provisioning and imported market goods |
+| Longwood | cultivated food plus forest / river supplements, preservation, water access and strong town-to-town ecological variation |
+| Old Cities | irrigation, water cost, pulses/grains/oils/fruit where supported, urban markets and city-specific variation |
 | Port | imported food, small urban kitchens, shift work, boarding houses, ship provisioning, street food and diaspora adaptation |
 
 The imported notes contained specific modern ingredient analogues. Treat those as research prompts, not automatic setting facts; [World Rules](../World-Rules.md) requires “draw globally, copy nowhere whole.”
@@ -125,22 +125,22 @@ Apply [Naming](Naming.md): real food names often come from a place, family, make
 
 ### Example: a family stew carried into diaspora
 
-Imagine a particular Forest Country family's stew whose identity comes from slow cooking, locally available aromatics and a remembered serving custom.
+Imagine a particular Longwood family's stew whose identity comes from slow cooking, locally available aromatics and a remembered serving custom.
 
 A diaspora version might preserve the **method and occasion** while changing its pantry:
 
-- in River Country, cultivated roots, dairy or orchard acidity may enter;
-- in High Country, dried aromatics and portable grains may become normal;
-- in North Country, preserved fish or brined vegetables may alter the savor;
-- in South Country, pulses, oil and fresh herbs may reshape it;
-- in Western Uplands, smoke and dense grain may make it heavier;
+- in Low Rivers, cultivated roots, dairy or orchard acidity may enter;
+- in High Roads, dried aromatics and portable grains may become normal;
+- in North Coast, preserved fish or brined vegetables may alter the savor;
+- in Old Cities, pulses, oil and fresh herbs may reshape it;
+- in Stone Hills, smoke and dense grain may make it heavier;
 - in Port, several of these descendants can coexist and eventually cross-pollinate.
 
 None of these versions should be treated as automatically canonical dishes. The example demonstrates the mechanism.
 
 ### Example: a workday roast carried into another food system
 
-A Western Uplands workday preparation identified by hard browning, smoke and a shared labor context might migrate into South Country.
+A Stone Hills workday preparation identified by hard browning, smoke and a shared labor context might migrate into Old Cities.
 
 The host version could use a different meat, oil, acid and herb set while preserving the expectation that the dish should be deeply browned and served after collective labor.
 
