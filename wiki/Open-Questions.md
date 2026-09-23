@@ -86,10 +86,17 @@ Remaining questions:
 
 ### 5. Magic baseline
 
-- Exact prevalence.
-- Clear limits and costs.
-- Which older artifact, creature, illusion, or supernatural concepts are real, misunderstood, religious interpretation, or removed.
-- Why magic has not replaced the material systems described in [The World as a System](World-System.md).
+[Magic Baseline](Magic-Baseline.md) now establishes the safe current constraint: the setting leaves room for real magic, but **no specific magical phenomenon is required as confirmed canon by the active world model**. Material causality remains the default, and any promoted magic must preserve or deliberately redesign the systems it affects.
+
+Remaining questions:
+
+- Whether any practical magic is confirmed at all.
+- Exact prevalence, reliability, cost, teachability, and reproducibility of the first confirmed phenomenon.
+- Which older artifacts, creatures, illusions, prophecies, supernatural claims, or magical technologies are real, misunderstood, religious interpretation, folklore, or removed.
+- Whether the Spine has any literal supernatural layer beyond its physical geology and religious meaning.
+- Whether rare artifacts exist and what systemic effects they create.
+- Whether any magical communication, healing, agriculture, industrial process, weapon, or creature survives the promotion test.
+- How ordinary people distinguish genuine magic from religion, fraud, coincidence, and misunderstood natural phenomena.
 
 ### 6. Story pressure
 
