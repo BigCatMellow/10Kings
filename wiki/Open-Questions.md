@@ -11,12 +11,12 @@ These are the questions that most strongly affect multiple other pages. They sho
 The broad topology is now captured in [Geography and Connections](Geography-and-Connections.md). The remaining questions are map-detail questions rather than a blank-slate geography problem:
 
 - Exact outlines and proportions of the three continents.
-- Exact physical form of the Northwind ↔ Spine / Highridge connection.
+- Exact physical form of the North Country ↔ Central Range / High Country connection.
 - Exact location and territorial form of Port: mainland coast, peninsula, island, estuary, or strait-side district.
 - Named major navigable rivers and watershed boundaries.
-- Exact major surface passes, old roads, maritime lanes, and Underpass entrances.
+- Exact major surface passes, old roads, maritime lanes, and Tunnels entrances.
 - Which regional borders are broad frontiers versus narrow corridors.
-- Whether Highridge directly borders Sunplains.
+- Whether High Country directly borders South Country.
 - Approximate travel times and seasonal reliability between major hubs.
 - Which rivers, roads, and straits become true strategic chokepoints rather than merely important routes.
 
@@ -63,16 +63,16 @@ The sections below retain the more detailed unresolved questions.
 - Exact outlines of the three continents.
 - Exact location of Port.
 - Which regional borders are long boundaries versus narrow corridors.
-- Whether Highridge directly borders Sunplains.
-- Exact relationship of The Spine to continental separation.
+- Whether High Country directly borders South Country.
+- Exact relationship of Central Range to continental separation.
 - Navigable rivers and major watersheds.
 
 ## Political structure
 
 - Are all six named regions kingdoms in the same constitutional sense?
-- How many independent Sunplains city-states remain?
-- How centralized is Deepwood?
-- What formal institutions govern Highridge?
+- How many independent South Country city-states remain?
+- How centralized is Forest Country?
+- What formal institutions govern High Country?
 - Does Port have citizenship independent of kingdom citizenship?
 
 ## Economic Council
