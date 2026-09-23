@@ -8,6 +8,20 @@ This page owns the setting's cross-cutting social model: how a person's regional
 
 It does **not** make every proposed cult, faction, guild, kingdom, or social movement canon. Specific groups remain owned by their own pages and keep their own status.
 
+## Regional identity is not residence
+
+A person's cultural tradition, birthplace, current residence and political citizenship can all differ.
+
+Examples:
+
+- a North Country family may have lived in a South Country port for four generations;
+- a Forest Country-derived community may occupy a large forest far outside the Forest Country core;
+- a River Country milling family may settle along a distant river and retain some inherited practices while adopting local ones;
+- a Port-born person may have ancestry from several traditions and identify primarily as Port;
+- one village can contain households associated with several regional traditions.
+
+Regional identity should therefore be treated as **one social affiliation among several**, not a coordinate on the map.
+
 ## Core rule
 
 A person in Two Sons should almost never be explainable by one label.
