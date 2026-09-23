@@ -1,14 +1,14 @@
-# High Country
+# High Roads
 
 ## Status
 
 **Working canon.**
 
-High Country is a highland crossroads, not simply "the merchant region." Its importance comes from geography: routes that avoid or cross parts of Central Range naturally converge here.
+High Roads is a highland crossroads, not simply "the merchant region." Its importance comes from geography: routes that avoid or cross parts of Central Range naturally converge here.
 
 ## Cultural reach
 
-High Country is a **cultural core and historical concentration**, not a bounded caravan people. Merchant, herding, route, interpreter and arbitration traditions can persist along distant roads and in foreign cities. The geographic High Country is especially mixed because repeated travel and settlement have brought many other cultural traditions into its towns.
+High Roads is a **cultural core and historical concentration**, not a bounded caravan people. Merchant, herding, route, interpreter and arbitration traditions can persist along distant roads and in foreign cities. The geographic High Roads is especially mixed because repeated travel and settlement have brought many other cultural traditions into its towns.
 
 ## Geography
 
@@ -26,7 +26,7 @@ The environment favors people who understand movement, timing, weather, animals,
 
 ## Historical identity
 
-Pre-Convergence High Country was highly fragmented.
+Pre-Convergence High Roads was highly fragmented.
 
 Power belonged to:
 - pass lords;
@@ -40,7 +40,7 @@ Borders followed control of roads more often than neat territory.
 
 A ruler could control a pass but not the valley below it. A merchant league could effectively govern a route crossing several political jurisdictions.
 
-The historical shift from toll warfare toward negotiated passage is one of the foundations of modern High Country identity.
+The historical shift from toll warfare toward negotiated passage is one of the foundations of modern High Roads identity.
 
 ## Cultural inspirations
 
@@ -54,7 +54,7 @@ Reference pools include:
 
 ## Language
 
-High Country is probably the most multilingual settled region.
+High Roads is probably the most multilingual settled region.
 
 Common trade forms emphasize:
 - condition;
@@ -72,7 +72,7 @@ People accustomed to bargaining across languages become attentive to what a prom
 
 ### Cities
 
-High Country cities are layered around:
+High Roads cities are layered around:
 - major markets;
 - caravan yards;
 - stables;
@@ -103,7 +103,7 @@ Herders and small upland farmers use stone, earth, timber, woven material, and a
 
 ## Food
 
-High Country cuisine is unusually mixed because caravans bring ingredients.
+High Roads cuisine is unusually mixed because caravans bring ingredients.
 
 Local staples may include:
 - barley or other hardy grains;
@@ -120,7 +120,7 @@ There should be strong differences between local household food and cosmopolitan
 
 ## Politics
 
-High Country political power is distributed among:
+High Roads political power is distributed among:
 - route authorities;
 - old families;
 - merchant houses;
@@ -143,6 +143,6 @@ The region's reputation for reasoned debate is partly ideal and partly instituti
 
 ## Story function
 
-High Country turns logistics into politics.
+High Roads turns logistics into politics.
 
 Whoever controls movement does not need to own everything that moves.
