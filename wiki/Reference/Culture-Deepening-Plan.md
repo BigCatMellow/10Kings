@@ -1125,6 +1125,36 @@ Still unresolved:
 - glass cost / distribution;
 - ordinary inn / boarding-house / workshop typologies.
 
+## Cross-phase principle — contact creates culture
+
+The culture pass should actively look for **third traditions** created by overlap.
+
+Do not model cultural bleed only as:
+- source culture A preserved;
+- source culture B preserved;
+- a few borrowed details between them.
+
+Also test:
+
+```text
+A + B + local conditions + generations
+→ C
+```
+
+where C becomes a stable local tradition.
+
+This applies across:
+- food;
+- language;
+- architecture;
+- clothing;
+- naming;
+- music;
+- festivals;
+- household customs.
+
+The strongest candidates are Port, border towns, the High Roads, river markets, mining settlements and migrant agricultural communities.
+
 # 9. Success test
 
 The culture pass is succeeding when two people can both be from the same region and still differ meaningfully because of:
