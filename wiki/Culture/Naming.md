@@ -195,7 +195,7 @@ The current common-language cultural-geographic names are:
 - **Longwood** — current; supersedes **Forest Country**; legacy source name **Deepwood**.
 - **the Old Cities** — current; supersedes **South Country**; legacy source name **Sunplains**.
 - **Central Range** — retained from the first grounded pass; legacy **The Spine**.
-- **the Tunnels** — retained from the first grounded pass; legacy **The Underpass**.
+- **the Underpass** — retained from the first grounded pass; legacy **The Underpass**.
 - **Port** — retained because the plain international shorthand remains plausible.
 
 These are **historical cultural-core names**, not ethnic border labels and not biome names.
