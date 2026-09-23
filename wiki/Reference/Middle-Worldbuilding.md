@@ -41,12 +41,12 @@ Middle worldbuilding is where causes become systems and systems become ordinary 
 A useful causal chain is:
 
 ```text
-premise
-→ consequence
-→ adaptation
-→ institution or habit
-→ normalization
-→ culture
+world condition
+→ pressure or opportunity
+→ repeated behavior
+→ coordination problem
+→ institution / infrastructure / custom
+→ ordinary daily function
 → concrete detail
 ```
 
@@ -54,52 +54,20 @@ Example:
 
 ```text
 a region has unreliable winter passes
-→ winter isolation is common
-→ settlements store more than immediate need
-→ storage rights and reserve obligations become politically important
-→ households expect seasonal shortages and delayed travel
-→ hospitality, debt, preservation, and winter planning gain cultural weight
-→ cellar design, preserved foods, contract clauses, winter festivals,
-  insults about poor preparation, pack-animal markets, and seasonal prices
+→ people cannot count on year-round movement
+→ households and merchants stockpile before closure
+→ communities need rules for reserves, prices, and emergency access
+→ storage institutions, winter contracts, specialized couriers, and local obligations develop
+→ seasonal planning shapes work, travel, debt, and hospitality
+→ cellar design, preservation techniques, pack-animal markets,
+  winter pricing, route offices, and local arguments become ordinary
 ```
 
-The final details are valuable because the chain explains why they exist.
+The final details are valuable because the system explains why they exist.
 
-## “Writing the sequel” — adapted for worldbuilding
+This method is about **functional consequence**: how geography, ecology, economics, politics, religion, technology, or magic alter the way people organize life.
 
-The DragonSword reference describes a useful idea as **write the sequel**:
-
-do not stop at the premise; ask what people did after living with it.
-
-For 10Kings, this is best treated as a **worldbuilding derivation tool**, not a reason to skip detail.
-
-We are not currently compressing the setting into only what a story needs.
-
-We want the detail that the method produces.
-
-So:
-
-**Weak worldbuilding**
-
-> This region has a lot of mining.
-
-**Middle-worldbuilding pass**
-
-> Mining creates dangerous work, specialized settlement patterns, transport needs, ownership disputes, injury systems, fuel demand, skilled trades, labor organization, waste problems, boom towns, exhausted mines, and dependence on outside food.
-
-**Micro detail generated from the middle**
-
-- miners carry specific food because it survives underground;
-- widows inherit or lose claims according to local law;
-- taverns open around shift changes rather than daylight;
-- a saint, folk hero, union founder, or disaster memorial becomes culturally important;
-- buildings have washing yards because dust is normal;
-- local insults distinguish surface workers from deep workers;
-- children learn mine-warning sounds;
-- merchants extend credit differently to dangerous professions;
-- old exhausted workings become storage, slums, shrines, smuggling routes, or ruins.
-
-The method creates *more believable detail*, not less detail.
+For accumulated historical aftermath across generations, use [Writing the Sequel](Writing-the-Sequel.md).
 
 ## What to build in the middle layer
 
@@ -385,18 +353,29 @@ When separate systems are compared, we may discover:
 
 Capture those as E/I candidates before promoting them.
 
+## Relationship to Writing the Sequel
+
+[Writing the Sequel](Writing-the-Sequel.md) is related but separate.
+
+Middle worldbuilding asks:
+
+> How does this condition change the way the world functions?
+
+Writing the Sequel asks:
+
+> What accumulated after people lived with that reality for years or generations?
+
+Use Middle Worldbuilding to build the functional system, then Writing the Sequel to build historical residue, normalization, inherited institutions, and cultural memory.
+
 ## Relationship to Worldbuilding Breath
 
 [Worldbuilding Breath](Worldbuilding-Breath.md) asks how a finished or partly finished world feels alive when revealed in prose.
 
-Middle worldbuilding asks a different question:
+These are three separate layers:
 
-> What ordinary systems, adaptations, and details need to exist in the world in the first place?
-
-So:
-
-- **Middle worldbuilding builds the iceberg.**
-- **Worldbuilding Breath decides how little of the iceberg needs to be explained in a scene.**
+- **Middle Worldbuilding** builds functional systems.
+- **Writing the Sequel** builds accumulated aftermath through time.
+- **Worldbuilding Breath** decides how little of either layer needs to be explained in a scene.
 
 They are complementary.
 
