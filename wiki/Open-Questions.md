@@ -18,7 +18,7 @@ The broad topology is now captured in [Geography and Connections](Geography-and-
 - Which regional borders are broad frontiers versus narrow corridors.
 - Whether High Roads directly borders Old Cities.
 - Final settlement-to-settlement travel times inside the tested ranges from [Working Map — Scale and Travel-Time Test V1](Reference/Working-Map-Scale-and-Travel-Test.md).
-- River navigability endpoints, cart-capable road segments, and route capacity.
+- Exact local placement / ownership of the now-tested river heads, roadheads, ferries, cart-capable segments and transfer infrastructure.
 - Which rivers, roads, and straits become true strategic chokepoints rather than merely important routes.
 
 ### 2. Post-Convergence political order
