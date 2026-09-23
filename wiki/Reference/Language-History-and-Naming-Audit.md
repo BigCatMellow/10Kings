@@ -87,8 +87,8 @@ They have been replaced in active wiki prose with:
 
 Likewise:
 
-- The Spine → **Central Range**
-- The Underpass → **The Tunnels**
+- The Spine → **The Spine**
+- The Underpass → **The Underpass**
 - Port → **Port** for now
 
 See [Grounded Naming Realignment](Grounded-Naming-Realignment.md).
@@ -471,9 +471,9 @@ Its simplicity may be exactly what makes it realistic.
 
 ---
 
-## The Tunnels
+## The Underpass
 
-The Tunnels are not one ethnic or linguistic civilization.
+The Underpass are not one ethnic or linguistic civilization.
 
 The ordinary surface label can remain deliberately literal.
 
@@ -570,8 +570,8 @@ A naming dispute can therefore be a political argument.
 | Highridge / Highridge Plateau | **High Roads** |
 | Deepwood | **Longwood** |
 | Sunplains | **Old Cities** |
-| The Spine | **Central Range** |
-| The Underpass | **The Tunnels** |
+| The Spine | **The Spine** |
+| The Underpass | **The Underpass** |
 | Port | **Port** |
 
 These are intentionally ordinary.
@@ -605,8 +605,8 @@ See [Grounded Naming Realignment](Grounded-Naming-Realignment.md).
 | High Roads | **WORKING COMMON LABEL** |
 | Longwood | **WORKING COMMON LABEL** |
 | Old Cities | **WORKING COMMON LABEL** |
-| Central Range | **WORKING COMMON LABEL** |
-| The Tunnels | **WORKING COMMON LABEL** |
+| The Spine | **WORKING COMMON LABEL** |
+| The Underpass | **WORKING COMMON LABEL** |
 | Port | **KEEP / WORKING COMMON LABEL** |
 
 These names are deliberately less distinctive than the cultures they contain.
