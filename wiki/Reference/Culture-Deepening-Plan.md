@@ -1035,6 +1035,36 @@ Current Phase 1 result:
 
 The next language/naming work should be driven by actual vertical slices and communities needed for the broader culture pass.
 
+## Execution status — Phase 2
+
+**Started 2026-09-23.**
+
+Completed first structural pass:
+
+- created [Daily Life and Customs](../Culture/Daily-Life-and-Customs.md);
+- created [Clothing and Material Culture](../Culture/Clothing-and-Material-Culture.md);
+- ran [Culture Phase 2 — Ordinary-Life Vertical Slices](Culture-Phase-2-Vertical-Slices.md) across Ironcrest, Northwind, Greenvale, Highridge, Deepwood, Sunplains and Port;
+- connected clothing to the world economy through [Material Culture Supply Chains](Material-Culture-Supply-Chains.md).
+
+First findings:
+
+- household form should follow labor, housing, migration, risk and property more strongly than macro-region;
+- occupation + class + climate should usually predict clothing more strongly than region alone;
+- the legacy “one silhouette / palette / motif per region” model should not be restored;
+- repair, secondhand trade and garment reuse are structurally important in a pre-industrial economy;
+- Port and Highridge are strong material-culture transmission hubs for different reasons;
+- current crises become more believable when they alter mundane things such as clothing replacement, guest capacity, household composition, childcare and repair.
+
+Still unresolved before Phase 2 is considered mature:
+
+- exact fiber ecology;
+- household / marriage law in specific polities;
+- guild welfare obligations;
+- apprenticeship residence patterns;
+- exact religious clothing / burial practices.
+
+These should be resolved only as needed by later vertical slices rather than globally all at once.
+
 # 9. Success test
 
 The culture pass is succeeding when two people can both be from the same region and still differ meaningfully because of:
