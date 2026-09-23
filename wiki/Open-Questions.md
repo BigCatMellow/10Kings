@@ -30,11 +30,20 @@ The broad topology is now captured in [Geography and Connections](Geography-and-
 
 ### 3. Coordination and power
 
-- How old is the Economic Council relative to the Convergence?
-- Which coordination functions did the Council inherit, create, or quietly take over?
-- Who knows the Council exists, and what do they actually know?
-- What public institutions could perform Council functions if its power were exposed or reduced?
-- How are Council seats inherited, selected, purchased, contested, or replaced?
+The Council's structural role is now owned by [The Economic Council](Politics/Economic-Council.md): it is a private interregional coordination layer whose advantage comes from combining information, capital, institutional memory, and cross-border relationships across several dependency systems.
+
+Remaining questions are institutional rather than conceptual:
+
+- How old is the Council relative to the Convergence, exactly?
+- Which member houses first created durable private coordination?
+- Final number and names of Council portfolios.
+- How a house qualifies for, inherits, loses, or replaces a seat.
+- Voting, consensus, veto, and internal enforcement rules.
+- Whether the Council has shared staff, property, archives, or a pooled treasury.
+- Exact public facade and meeting practice.
+- Who knows the Council exists, and at what level of detail?
+- What public institutions could replace its aggregation, emergency finance, and cross-domain coordination functions?
+- What happens if a member house refuses a collective decision?
 
 ### 4. Movement of people and information
 
