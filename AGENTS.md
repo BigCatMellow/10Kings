@@ -20,6 +20,20 @@ Relevant MAPS_L methods:
 5. `wiki/Reference/` is non-canon unless a page explicitly says otherwise. It contains provenance and writing/design guidance.
 6. `legacy-notes/` preserves supplied source material as source history. Material being present there does not make it current canon.
 
+## Active redesign phase
+
+The setting is currently in an **active redesign** phase. Region names, regional functions, food, cultures, institutions, aesthetics, and other specific details may change.
+
+During this phase:
+
+- do not treat repetition across old/current pages as proof that a detail is permanently locked;
+- prefer preserving causal structure, dependencies, history, ecology, and relationships when labels or cultural packages change;
+- allow a better-supported redesign to replace weak working material;
+- reconcile dependent pages when an owner changes rather than preserving contradictions for continuity's sake;
+- use [Middle Worldbuilding](wiki/Reference/Middle-Worldbuilding.md) to derive detail from causes instead of freezing arbitrary flavor too early.
+
+The goal is to build a coherent world first and stabilize naming/detail afterward where appropriate.
+
 ## Organization
 
 - **One concept, one owner.** Add detail to the owning concept or create a narrowly distinct supporting page and link it to the owner.
