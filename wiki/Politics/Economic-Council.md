@@ -238,6 +238,8 @@ Even insiders need not know everything.
 
 Compartmentation protects the institution and creates internal information asymmetry.
 
+See [Records, Literacy, and Authentication](../Records-Literacy-and-Authentication.md). Council memory should rely on distributed member-house records, selected summaries, and retained institutional knowledge rather than one perfect central archive.
+
 ---
 
 # 6. The member houses
