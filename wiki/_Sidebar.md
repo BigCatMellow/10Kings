@@ -32,6 +32,7 @@
 
 **Politics**
 - [Economic Council](Politics/Economic-Council.md)
+  - [Internal Structure](Politics/Economic-Council-Internal-Structure.md)
 - [Kingdoms and Politics](Politics/Kingdoms-and-Politics.md)
 - [Guilds](Politics/Guilds.md)
 - [Religions](Politics/Religions.md)
