@@ -10,10 +10,10 @@ This owner defines how those beliefs should work.
 
 Related owners:
 
-- [Religions](Politics/Religions.md)
-- [Daily Life and Customs](Culture/Daily-Life-and-Customs.md)
-- [Magic Baseline](Magic-Baseline.md)
-- [Contested Historical Memory](History/Contested-Memory.md)
+- [Religions](../Politics/Religions.md)
+- [Daily Life and Customs](Daily-Life-and-Customs.md)
+- [Magic Baseline](../Magic-Baseline.md)
+- [Contested Historical Memory](../History/Contested-Memory.md)
 
 ---
 
@@ -116,7 +116,7 @@ as signs.
 
 The setting does not need to confirm those interpretations.
 
-See [Magic Baseline](Magic-Baseline.md).
+See [Magic Baseline](../Magic-Baseline.md).
 
 ---
 
