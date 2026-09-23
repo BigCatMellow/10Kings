@@ -30,18 +30,45 @@ The broad topology is now captured in [Geography and Connections](Geography-and-
 
 ### 3. Coordination and power
 
-- How old is the Economic Council relative to the Convergence?
-- Which coordination functions did the Council inherit, create, or quietly take over?
-- Who knows the Council exists, and what do they actually know?
-- What public institutions could perform Council functions if its power were exposed or reduced?
-- How are Council seats inherited, selected, purchased, contested, or replaced?
+The Council's structural role is now owned by [The Economic Council](Politics/Economic-Council.md): it is a private interregional coordination layer whose advantage comes from combining information, capital, institutional memory, and cross-border relationships across several dependency systems.
+
+[Economic Council — Internal Structure](Politics/Economic-Council-Internal-Structure.md) now separates **supported structure**, **derived constraints**, and **open design** so plausible solutions are not accidentally promoted into canon.
+
+Supported so far: generational continuity, varied succession traditions, nominal peer status, independent member networks, private coordination meetings, member-specific aides/agents, retained records, internal bargaining, and a strong norm against self-destructive exposure.
+
+Remaining questions:
+
+- How old is the Council relative to the Convergence, exactly?
+- Which member houses first created durable private coordination?
+- Final number and names of Council portfolios.
+- How each current seat actually selects a successor.
+- Whether there is any shared staff beyond member-house personnel.
+- Whether any common treasury or reserve exists.
+- Whether formal voting, vetoes, chairs, or quorum rules exist at all.
+- Exact meeting location and cadence.
+- How Council records are distributed, authenticated, and protected.
+- Final public facade.
+- Who knows the Council exists, and at what level of detail?
+- Whether a house can lose a seat and whether that has ever happened.
+- What public institutions could replace its aggregation, emergency finance, and cross-domain coordination functions?
+- Current seat-holders and their internal family factions.
 
 ### 4. Movement of people and information
+
+The structural model is now owned by [Movement and Information](Movement-and-Information.md): information rides physical and social networks, transmission is carrier-specific, and no one network is universally fastest.
+
+Remaining questions:
 
 - Actual language families and degrees of mutual intelligibility.
 - Major pilgrimage, migration, labor, refugee, and seasonal travel patterns.
 - Structure and legal status of nomadic/itinerant peoples.
-- Which networks move information fastest: states, merchants, guilds, faiths, Port, or informal routes?
+- Exact travel times and seasonal reliability between major hubs.
+- Whether dedicated courier guilds or public postal systems exist, and where.
+- Literacy rates and the social reach of written records.
+- Standard seals, notarial practices, message houses, and document conventions.
+- Exact schedules / cadence for ships, caravans, pilgrimages, and itinerant circuits.
+- Which governments maintain their own messenger networks and how effective they are.
+- Whether rare magical communication exists at all.
 
 ### 5. Magic baseline
 
