@@ -79,6 +79,7 @@
 - [Convergence Layered Settlement Model](Reference/Convergence-Layered-Settlement-Model.md)
 - [Convergence Enforcement and Violation Tests](Reference/Convergence-Enforcement-and-Violation-Tests.md)
 - [Old Cities Shared Irrigation Test](Reference/Old-Cities-Shared-Irrigation-Test.md)
+- [High Roads Functional Governance Test](Reference/High-Roads-Functional-Governance-Test.md)
 - [Middle Worldbuilding](Reference/Middle-Worldbuilding.md)
 - [Writing the Sequel](Reference/Writing-the-Sequel.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
