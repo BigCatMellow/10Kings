@@ -14,9 +14,9 @@ This page owns the current geography model. Older source material remains useful
 
 The known setting is organized around:
 
-- a **Western Continent** dominated by Western Uplands;
-- a **Northern Continent** dominated by North Country;
-- a larger **Eastern Continent** containing River Country, Forest Country, South Country, and most or all of High Country's settled plateau system;
+- a **Western Continent** dominated by Stone Hills;
+- a **Northern Continent** dominated by North Coast;
+- a larger **Eastern Continent** containing Low Rivers, Longwood, Old Cities, and most or all of High Roads's settled plateau system;
 - the central mountain system called **Central Range**;
 - branching subterranean routes called **The Tunnels**;
 - the neutral commercial city **Port**, positioned where northern and southern maritime systems can meet interior routes.
@@ -42,10 +42,10 @@ This is a topology diagram, not a scale map and not a statement of exact borders
             |                                  |
        THE SPINE /                         EASTERN
        HIGHRIDGE NEXUS                    CONTINENT
-            |                         River Country lowlands
- WESTERN    |                         Forest Country forest belt
-CONTINENT   |                         South Country south/coast
-Western Uplands   |                                  |
+            |                         Low Rivers lowlands
+ WESTERN    |                         Longwood forest belt
+CONTINENT   |                         Old Cities south/coast
+Stone Hills   |                                  |
     \       |                                 /
      \------|------ surface / river ---------/
             |
@@ -53,7 +53,7 @@ Western Uplands   |                                  |
      branching bypasses
 
  Maritime circulation:
- North Country  <---->  PORT  <---->  South Country
+ North Coast  <---->  PORT  <---->  Old Cities
                       |
               inland/river/road
                  connections
@@ -69,17 +69,17 @@ The Western Continent is the smaller rounded western landmass in the older sourc
 
 Current working features:
 
-- Western Uplands occupies much of it;
+- Stone Hills occupies much of it;
 - terrain rises toward the Central Range-facing side;
-- mineral-rich uplands and older mountain geology support Western Uplands's mining and metalworking emphasis;
+- mineral-rich uplands and older mountain geology support Stone Hills's mining and metalworking emphasis;
 - rivers and streams descend from higher ground through settled valleys;
-- western and southwestern coasts can support secondary maritime routes without making Western Uplands primarily maritime.
+- western and southwestern coasts can support secondary maritime routes without making Stone Hills primarily maritime.
 
 The exact width of the channel or separation between the western landmass and the central mountain system remains open.
 
 ### Northern Continent
 
-The Northern Continent sits north of the central system and contains North Country's core lands.
+The Northern Continent sits north of the central system and contains North Coast's core lands.
 
 Current working features:
 
@@ -88,9 +88,9 @@ Current working features:
 - colder inland plateaus and tundra-like country;
 - southern forests and more sheltered valleys;
 - partially freezing waters and strong seasonal storm effects;
-- one or a few constrained approaches toward High Country and the central route system.
+- one or a few constrained approaches toward High Roads and the central route system.
 
-Older material describes a dramatic fissure between the Northern Continent and the Central Range while later worldbuilding establishes a North Country ↔ High Country pass relationship. The exact physical solution is therefore **not locked**. The final map must preserve both ideas by making southward access narrow and consequential without inventing a broad easy frontier.
+Older material describes a dramatic fissure between the Northern Continent and the Central Range while later worldbuilding establishes a North Coast ↔ High Roads pass relationship. The exact physical solution is therefore **not locked**. The final map must preserve both ideas by making southward access narrow and consequential without inventing a broad easy frontier.
 
 ### Eastern Continent
 
@@ -98,10 +98,10 @@ The Eastern Continent is the largest and most internally varied landmass.
 
 Its broad order is:
 
-- **River Country** in the temperate agricultural lowlands and rolling interior;
-- **High Country** near the Central Range-facing elevated crossroads;
-- **Forest Country** across major inland forest belts and forested uplands;
-- **South Country** toward the warmer, drier southern and eastern country, including important coasts.
+- **Low Rivers** in the temperate agricultural lowlands and rolling interior;
+- **High Roads** near the Central Range-facing elevated crossroads;
+- **Longwood** across major inland forest belts and forested uplands;
+- **Old Cities** toward the warmer, drier southern and eastern country, including important coasts.
 
 This arrangement should not look like four clean color blocks. Rivers, forest margins, uplands, old roads, migration, and historical conquest should create broad transition zones.
 
@@ -132,18 +132,18 @@ The exact rivers are not yet named or drawn, but the world already requires seve
 
 ### Western drainage
 
-Water descends from the Central Range-facing uplands into Western Uplands valleys and toward the western sea.
+Water descends from the Central Range-facing uplands into Stone Hills valleys and toward the western sea.
 
 This supports:
 
 - river settlements;
 - mills and water power;
 - ore and bulk-goods movement where channels allow;
-- fertile lower valleys that complicate the stereotype of Western Uplands as only mining country.
+- fertile lower valleys that complicate the stereotype of Stone Hills as only mining country.
 
-### Eastern / River Country drainage
+### Eastern / Low Rivers drainage
 
-River Country needs one or more major river systems fed partly by uplands.
+Low Rivers needs one or more major river systems fed partly by uplands.
 
 These rivers should support:
 
@@ -153,9 +153,9 @@ These rivers should support:
 - grain and livestock movement;
 - crossings important enough to become political and commercial centers.
 
-### Southern / South Country drainage
+### Southern / Old Cities drainage
 
-South Country needs fewer dependable water systems, but those rivers and tributaries matter disproportionately.
+Old Cities needs fewer dependable water systems, but those rivers and tributaries matter disproportionately.
 
 They should support:
 
@@ -165,9 +165,9 @@ They should support:
 - downstream/upstream disputes;
 - coastal ports or river-mouth markets.
 
-### Forest Country waters
+### Longwood waters
 
-Forest Country should contain substantial river valleys, wetlands, springs, and forest watersheds.
+Longwood should contain substantial river valleys, wetlands, springs, and forest watersheds.
 
 These waterways are not merely scenery. They determine:
 
@@ -200,7 +200,7 @@ The older notes place Port at a **strategic strait between the continental syste
 
 The final map should make the following flows physically believable.
 
-### 1. Western Uplands ↔ River Country
+### 1. Stone Hills ↔ Low Rivers
 
 **Established.**
 
@@ -214,11 +214,11 @@ Typical movement:
 
 This needs at least one dependable route and several lesser local crossings.
 
-### 2. North Country ↔ High Country
+### 2. North Coast ↔ High Roads
 
 **Established but geographically constrained.**
 
-North Country's southern movement reaches High Country through one or a few important approaches.
+North Coast's southern movement reaches High Roads through one or a few important approaches.
 
 The exact form remains open, but it must be narrow enough that:
 
@@ -227,7 +227,7 @@ The exact form remains open, but it must be narrow enough that:
 - Icestep-type pass settlements make sense;
 - maritime alternatives remain attractive.
 
-### 3. River Country ↔ South Country
+### 3. Low Rivers ↔ Old Cities
 
 **Established.**
 
@@ -235,7 +235,7 @@ The transition should follow warmer lowlands, river systems, and agricultural co
 
 This is where grain country, orchards, irrigation, livestock, and market towns overlap.
 
-### 4. Forest Country ↔ High Country
+### 4. Longwood ↔ High Roads
 
 **Established.**
 
@@ -248,7 +248,7 @@ This should create:
 - mixed settlements;
 - tension over extraction versus route expansion.
 
-### 5. Forest Country ↔ Western Uplands
+### 5. Longwood ↔ Stone Hills
 
 **Established in at least one direct or near-direct frontier.**
 
@@ -256,7 +256,7 @@ Logging, charcoal, ore, tools, and forest-edge conflict require a plausible conn
 
 This need not be a long border. A mountain corridor or forested shoulder is enough.
 
-### 6. River Country ↔ Forest Country
+### 6. Low Rivers ↔ Longwood
 
 **Strong working relationship.**
 
@@ -264,13 +264,13 @@ Field-to-forest transition, historical encroachment, rivers, and forest-edge mar
 
 Treat it as part of the working topology unless later map evidence contradicts it.
 
-### 7. Forest Country ↔ South Country
+### 7. Longwood ↔ Old Cities
 
 **Strong working relationship.**
 
-A southern forest transition into drier woodland and cultivated South Country supports orchard expansion, timber demand, water questions, and ecological conflict.
+A southern forest transition into drier woodland and cultivated Old Cities supports orchard expansion, timber demand, water questions, and ecological conflict.
 
-### 8. High Country ↔ South Country
+### 8. High Roads ↔ Old Cities
 
 **Unresolved.**
 
@@ -278,17 +278,17 @@ This can become:
 
 - a direct southern plateau corridor;
 - a narrow pass;
-- or an indirect route through River Country / Forest Country.
+- or an indirect route through Low Rivers / Longwood.
 
 Do not lock this merely because it makes the map tidier.
 
 ## Maritime skeleton
 
-North Country and South Country are major maritime systems for different reasons.
+North Coast and Old Cities are major maritime systems for different reasons.
 
 ### Northern lanes
 
-North Country's sea routes connect:
+North Coast's sea routes connect:
 
 - island and coastal communities;
 - secondary harbors;
@@ -298,7 +298,7 @@ North Country's sea routes connect:
 
 ### Southern lanes
 
-South Country sea routes connect:
+Old Cities sea routes connect:
 
 - competing coastal city-states;
 - irrigated/orchard export regions;
@@ -341,16 +341,16 @@ The final map should therefore show only major known entrances and important cor
 
 | Relationship | Current confidence | Map treatment |
 | --- | --- | --- |
-| Western Uplands ↔ River Country | Established | direct meaningful frontier / corridor |
-| North Country ↔ High Country | Established | narrow consequential access |
-| River Country ↔ South Country | Established | broad agricultural transition |
-| Forest Country ↔ High Country | Established | forest-to-plateau frontier |
-| Forest Country ↔ Western Uplands | Established at least locally | direct or near-direct corridor |
-| River Country ↔ Forest Country | Strong working | direct unless contradicted |
-| Forest Country ↔ South Country | Strong working | southern forest transition |
-| River Country ↔ High Country | Likely | exact length unresolved |
-| Western Uplands ↔ High Country | Likely | pass / mountain corridor |
-| High Country ↔ South Country | Unknown | do not force |
+| Stone Hills ↔ Low Rivers | Established | direct meaningful frontier / corridor |
+| North Coast ↔ High Roads | Established | narrow consequential access |
+| Low Rivers ↔ Old Cities | Established | broad agricultural transition |
+| Longwood ↔ High Roads | Established | forest-to-plateau frontier |
+| Longwood ↔ Stone Hills | Established at least locally | direct or near-direct corridor |
+| Low Rivers ↔ Longwood | Strong working | direct unless contradicted |
+| Longwood ↔ Old Cities | Strong working | southern forest transition |
+| Low Rivers ↔ High Roads | Likely | exact length unresolved |
+| Stone Hills ↔ High Roads | Likely | pass / mountain corridor |
+| High Roads ↔ Old Cities | Unknown | do not force |
 
 ## Map-drafting rules
 
@@ -359,10 +359,10 @@ A future map should be rejected if it makes any of these true:
 - every region has a neat equal-sized territory;
 - every important relationship is a long clean border;
 - Port is central only because a label says so;
-- High Country can be bypassed overland without meaningful cost everywhere;
-- North Country's southern access is broad and easy;
-- South Country water politics have no upstream geography;
-- River Country lacks navigable or commercially important river systems;
+- High Roads can be bypassed overland without meaningful cost everywhere;
+- North Coast's southern access is broad and easy;
+- Old Cities water politics have no upstream geography;
+- Low Rivers lacks navigable or commercially important river systems;
 - Central Range is either trivial to cross or completely impassable;
 - the Tunnels solves every mountain problem;
 - borders perfectly match cultures;
@@ -373,12 +373,12 @@ A future map should be rejected if it makes any of these true:
 The broad topology is no longer the main unknown. The remaining geography work is more specific:
 
 - exact coastlines and continental proportions;
-- exact form of the North Country ↔ Central Range / High Country connection;
+- exact form of the North Coast ↔ Central Range / High Roads connection;
 - exact location and territorial form of Port;
 - named major rivers and watersheds;
 - exact major passes and old roads;
 - exact major Tunnels entrances and branches;
-- whether High Country directly borders South Country;
+- whether High Roads directly borders Old Cities;
 - which regional borders are broad transition zones versus narrow corridors;
 - approximate travel times between major hubs;
 - seasonal route reliability.
