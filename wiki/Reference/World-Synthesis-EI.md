@@ -110,9 +110,24 @@ If the Council is exposed or broken, reform cannot simply mean "remove the consp
 
 For each Council domain, identify the public institutions that could perform the same coordination. If adequate public alternatives already exist everywhere, weaken or reject this synthesis.
 
+**Council review result — 2026-09-23**
+
+The Council review passes the coordination-gap test strongly enough to promote the mechanism.
+
+[The Economic Council](../Politics/Economic-Council.md) now explicitly models the Council as a private interregional coordination layer whose advantage is not ownership of every dependency, but the ability to:
+
+- aggregate information across domains;
+- compare signals that sit in separate institutions;
+- move capital and contracts across borders;
+- coordinate transport, reserves, infrastructure, and finance;
+- retain institutional memory across generations;
+- act where no single public authority owns the whole problem.
+
+The review also establishes meaningful limits: incomplete information, independent institutions, physical logistics, bypass routes, internal conflict, exposure risk, and intervention side effects.
+
 **Disposition**
 
-Strong candidate; not yet promoted beyond the existing Council concept.
+**Promoted 2026-09-23** to [The Economic Council](../Politics/Economic-Council.md), [The Convergence](../History/The-Convergence.md), and [The World as a System](../World-System.md).
 
 ## Candidate 4 — Trans-regional institutions may contain the post-Council alternative
 
@@ -139,9 +154,36 @@ This could support an ending in which reform emerges from institutions already p
 
 Map one Council function—such as dispute resolution, emergency food movement, or route information—to existing non-Council institutions and see whether they can plausibly coordinate it at scale.
 
+**Movement/information test result — 2026-09-23**
+
+[Movement and Information](../Movement-and-Information.md) partially passes the route-information test.
+
+The world already contains several non-Council observation and transmission networks:
+
+- Port merchants, shipping, warehouses, clerks, and commercial agents;
+- High Roads caravan, route, interpreter, and arbitration networks;
+- guild branches and professional contacts;
+- pilgrimage and religious hospitality networks;
+- sailors and harbor workers;
+- itinerant households and mobile peoples;
+- local political authorities;
+- criminal and smuggling networks.
+
+These networks can plausibly gather and move **raw route conditions, prices, shortages, local warnings, and social information** without the Council.
+
+What remains missing is a public mechanism that reliably:
+
+- aggregates those signals across domains;
+- verifies conflicting reports;
+- prioritizes emergencies;
+- finances large coordinated responses;
+- distributes a common operational picture.
+
+This strengthens the hypothesis that post-Council alternatives may already exist **in pieces**, while also preserving the coordination gap.
+
 **Disposition**
 
-Incubating.
+Partially supported. Route-information observation/transmission has a decentralized substrate; continent-scale aggregation and response remain unresolved.
 
 ## Candidate 5 — Official regional identity and lived border identity may conflict
 
