@@ -32,9 +32,9 @@ See [Geography and Connections](Geography-and-Connections.md).
 The known world is organized around:
 
 - the Western, Northern, and Eastern Continents;
-- the central mountain system called [Central Range](Places/The-Central Range.md);
+- the central mountain system called [Central Range](Places/The-Spine.md);
 - surface passes, rivers, roads, coasts, and caravan corridors;
-- the branching subterranean network called [The Tunnels](Places/The-Tunnels.md);
+- the branching subterranean network called [The Tunnels](Places/The-Underpass.md);
 - [Port](Places/Port.md), whose importance comes from network position, law, infrastructure, finance, and accumulated trust.
 
 The exact map remains partly open. What is already established is more important than simple adjacency:
@@ -130,7 +130,7 @@ A chokepoint matters because many independent actors rely on it.
 
 A bypass matters because it can reduce somebody else's leverage.
 
-That makes the [Tunnels](Places/The-Tunnels.md), smuggling, alternative routes, local storage, religious hospitality, guild networks, and informal credit politically important even when they are not controlled by rulers.
+That makes the [Tunnels](Places/The-Underpass.md), smuggling, alternative routes, local storage, religious hospitality, guild networks, and informal credit politically important even when they are not controlled by rulers.
 
 ## 6. Visible government and cross-border institutions
 
