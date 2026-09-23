@@ -34,11 +34,13 @@ Relevant MAPS_L methods:
 Before promoting incoming notes:
 
 1. inspect the current owner page;
-2. classify the incoming material as **compatible**, **conflicting**, **duplicate**, or **unknown**;
-3. integrate compatible material at the smallest useful scope;
-4. keep conflicts provisional or record them in the source register rather than silently choosing;
-5. preserve supplied duplicate/legacy packaging under `legacy-notes/`, but do not let it compete with the current wiki owner;
-6. preserve source provenance in [Source Register](wiki/Reference/Source-Register.md).
+2. check [Legacy Source Audit and Retrieval Index](wiki/Reference/Legacy-Source-Audit.md) when the topic is marked PARTIALLY RECONCILED or UNRECONCILED; absence from the current owner is not proof that no prior relevant material exists;
+3. classify the incoming material as **compatible**, **conflicting**, **duplicate**, or **unknown**;
+4. integrate compatible material at the smallest useful scope;
+5. keep conflicts provisional or record them in the source register rather than silently choosing;
+6. preserve supplied duplicate/legacy packaging under `legacy-notes/`, but do not let it compete with the current wiki owner;
+7. preserve source provenance in [Source Register](wiki/Reference/Source-Register.md);
+8. when a deliberate pass resolves a legacy area, update the Legacy Source Audit so later agents know the material was actually reviewed rather than merely imported.
 
 Historical notes may remain valuable even when their claims are no longer current. Preserve the observation and record its present disposition.
 
