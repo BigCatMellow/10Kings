@@ -2,6 +2,8 @@
 
 These are the setting's equivalent of animation-model rules: constraints intended to prevent drift and keep new material recognizably part of the same world.
 
+Use [Middle Worldbuilding](Reference/Middle-Worldbuilding.md) as the practical method for turning these constraints into functional institutions, habits, infrastructure, and ordinary detail.
+
 ## 1. Regions are ecosystems, not gimmicks
 
 **Do:** give regions environmental and historical emphases.
