@@ -1,20 +1,20 @@
-# South Country
+# Old Cities
 
 ## Status
 
 **Working canon.**
 
-South Country is the warmer, generally drier southern/eastern region associated with old city-states, irrigated agriculture, orchards, coastal exchange, and civic competition.
+Old Cities is the warmer, generally drier southern/eastern region associated with old city-states, irrigated agriculture, orchards, coastal exchange, and civic competition.
 
 It should not be reduced to wine, olive oil, and festivals.
 
 ## Cultural reach
 
-South Country is a **cultural core and historical concentration**, not an exclusive southern people or dry-climate biome. South Country-descended merchant, irrigation, urban and coastal communities can exist far outside the core. The geographic South Country also contains forests, uplands, pastoral zones, migrant districts and communities shaped by other regional traditions.
+Old Cities is a **cultural core and historical concentration**, not an exclusive southern people or dry-climate biome. Old Cities-descended merchant, irrigation, urban and coastal communities can exist far outside the core. The geographic Old Cities also contains forests, uplands, pastoral zones, migrant districts and communities shaped by other regional traditions.
 
 ## Geography
 
-South Country includes:
+Old Cities includes:
 - dry plains;
 - river valleys;
 - irrigated basins;
@@ -29,7 +29,7 @@ Water availability varies sharply, which makes water law politically important.
 
 ## Historical identity
 
-Before The Convergence, South Country consisted of competing:
+Before The Convergence, Old Cities consisted of competing:
 - city-states;
 - estate regions;
 - port towns;
@@ -61,7 +61,7 @@ Useful pools include:
 
 ## Language
 
-South Country urban languages may contain:
+Old Cities urban languages may contain:
 - formal status registers;
 - public/private speech differences;
 - elaborate traditions of rhetoric and legal argument;
@@ -73,7 +73,7 @@ This helps explain why political speech is a craft and why public humiliation ca
 
 ### Cities
 
-South Country city-states can have:
+Old Cities city-states can have:
 - dense walled cores;
 - courtyard houses;
 - shaded streets;
@@ -112,7 +112,7 @@ Farmsteads adapt to heat:
 
 ## Food
 
-South Country cuisine is diverse:
+Old Cities cuisine is diverse:
 - wheat and barley breads;
 - pulses;
 - vegetables;
@@ -128,7 +128,7 @@ South Country cuisine is diverse:
 
 Wine is important in some places, forbidden or uncommon in others depending on faith and local custom.
 
-Do not make all South Country food uniformly "Mediterranean."
+Do not make all Old Cities food uniformly "Mediterranean."
 
 ## Politics
 
@@ -143,7 +143,7 @@ City-states compete for:
 - alliances;
 - cultural influence.
 
-A permanent South Country union would be powerful enough to worry both neighbors and the Council.
+A permanent Old Cities union would be powerful enough to worry both neighbors and the Council.
 
 ## Current pressures
 
@@ -157,6 +157,6 @@ A permanent South Country union would be powerful enough to worry both neighbors
 
 ## Story function
 
-South Country shows how **public culture and private power** can coexist.
+Old Cities shows how **public culture and private power** can coexist.
 
 Its political sophistication makes it hard to manipulate crudely — but also creates more channels through which skilled manipulators can work.
