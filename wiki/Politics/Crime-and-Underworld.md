@@ -65,12 +65,12 @@ Several independent groups can cooperate around shared interests without becomin
 Examples:
 - a Port syndicate finances;
 - an Tunnels group moves goods;
-- a High Country gang supplies documents;
-- a North Country crew moves cargo by sea.
+- a High Roads gang supplies documents;
+- a North Coast crew moves cargo by sea.
 
 ## Regional forms
 
-### Western Uplands
+### Stone Hills
 
 Common opportunities:
 - ore theft;
@@ -79,7 +79,7 @@ Common opportunities:
 - labor intimidation;
 - debt.
 
-### North Country
+### North Coast
 
 - piracy;
 - smuggling;
@@ -87,7 +87,7 @@ Common opportunities:
 - illegal fishing;
 - harbor protection.
 
-### River Country
+### Low Rivers
 
 - grain theft;
 - land fraud;
@@ -95,21 +95,21 @@ Common opportunities:
 - livestock theft;
 - debt enforcement.
 
-### High Country
+### High Roads
 
 - caravan robbery;
 - route extortion;
 - document fraud;
 - information brokerage.
 
-### Forest Country
+### Longwood
 
 - illegal timber;
 - rare plant trade;
 - poaching;
 - hidden-route smuggling.
 
-### South Country
+### Old Cities
 
 - canal corruption;
 - smuggling;
