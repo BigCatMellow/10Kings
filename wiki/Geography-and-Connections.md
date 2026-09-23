@@ -17,7 +17,7 @@ The known setting is organized around:
 - a **Western Continent** dominated by Stone Hills;
 - a **Northern Continent** dominated by North Coast;
 - a larger **Eastern Continent** containing Low Rivers, Longwood, Old Cities, and most or all of High Roads's settled plateau system;
-- the central mountain system called **Central Range**;
+- the central mountain system called **The Spine**;
 - branching subterranean routes called **The Underpass**;
 - the neutral commercial city **Port**, positioned where northern and southern maritime systems can meet interior routes.
 
@@ -70,7 +70,7 @@ The Western Continent is the smaller rounded western landmass in the older sourc
 Current working features:
 
 - Stone Hills occupies much of it;
-- terrain rises toward the Central Range-facing side;
+- terrain rises toward The Spine-facing side;
 - mineral-rich uplands and older mountain geology support Stone Hills's mining and metalworking emphasis;
 - rivers and streams descend from higher ground through settled valleys;
 - western and southwestern coasts can support secondary maritime routes without making Stone Hills primarily maritime.
@@ -90,7 +90,7 @@ Current working features:
 - partially freezing waters and strong seasonal storm effects;
 - one or a few constrained approaches toward High Roads and the central route system.
 
-Older material describes a dramatic fissure between the Northern Continent and the Central Range while later worldbuilding establishes a North Coast ↔ High Roads pass relationship. The exact physical solution is therefore **not locked**. The final map must preserve both ideas by making southward access narrow and consequential without inventing a broad easy frontier.
+Older material describes a dramatic fissure between the Northern Continent and The Spine while later worldbuilding establishes a North Coast ↔ High Roads pass relationship. The exact physical solution is therefore **not locked**. The final map must preserve both ideas by making southward access narrow and consequential without inventing a broad easy frontier.
 
 ### Eastern Continent
 
@@ -99,17 +99,17 @@ The Eastern Continent is the largest and most internally varied landmass.
 Its broad order is:
 
 - **Low Rivers** in the temperate agricultural lowlands and rolling interior;
-- **High Roads** near the Central Range-facing elevated crossroads;
+- **High Roads** near The Spine-facing elevated crossroads;
 - **Longwood** across major inland forest belts and forested uplands;
 - **Old Cities** toward the warmer, drier southern and eastern country, including important coasts.
 
 This arrangement should not look like four clean color blocks. Rivers, forest margins, uplands, old roads, migration, and historical conquest should create broad transition zones.
 
-## Central Range
+## The Spine
 
-See [Central Range](Places/The-Spine.md).
+See [The Spine](Places/The-Spine.md).
 
-Central Range is the central mountain system around which continental movement is organized.
+The Spine is the central mountain system around which continental movement is organized.
 
 It must contain:
 
@@ -124,7 +124,7 @@ It must contain:
 
 It should **not** be one continuous impassable wall.
 
-Central Range's political importance comes from route concentration. A single pass closure can matter more than a large stretch of ordinary border.
+The Spine's political importance comes from route concentration. A single pass closure can matter more than a large stretch of ordinary border.
 
 ## Water and watersheds
 
@@ -132,7 +132,7 @@ The exact rivers are not yet named or drawn, but the world already requires seve
 
 ### Western drainage
 
-Water descends from the Central Range-facing uplands into Stone Hills valleys and toward the western sea.
+Water descends from The Spine-facing uplands into Stone Hills valleys and toward the western sea.
 
 This supports:
 
@@ -325,7 +325,7 @@ Other ports must still exist. Port is dominant because of accumulated network ef
 
 See [The Underpass](Places/The-Underpass.md).
 
-The Underpass is a branching network beneath parts of Central Range, not a single tunnel.
+The Underpass is a branching network beneath parts of The Spine, not a single tunnel.
 
 The geography pass now treats it as three kinds of route at once:
 
@@ -363,7 +363,7 @@ A future map should be rejected if it makes any of these true:
 - North Coast's southern access is broad and easy;
 - Old Cities water politics have no upstream geography;
 - Low Rivers lacks navigable or commercially important river systems;
-- Central Range is either trivial to cross or completely impassable;
+- The Spine is either trivial to cross or completely impassable;
 - the Underpass solves every mountain problem;
 - borders perfectly match cultures;
 - every route works equally well in every season.
@@ -373,7 +373,7 @@ A future map should be rejected if it makes any of these true:
 The broad topology is no longer the main unknown. The remaining geography work is more specific:
 
 - exact coastlines and continental proportions;
-- exact form of the North Coast ↔ Central Range / High Roads connection;
+- exact form of the North Coast ↔ The Spine / High Roads connection;
 - exact location and territorial form of Port;
 - named major rivers and watersheds;
 - exact major passes and old roads;
