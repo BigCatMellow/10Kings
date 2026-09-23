@@ -201,7 +201,7 @@ This creates religious texture through historical interpretation rather than exp
 
 The exact fantasy equivalent of broadcasting is **UNKNOWN**.
 
-The supplied concept proposes a new magical technology that allowed distant people to hear the same voices. That is an interesting option, but it cannot be promoted automatically because current [World Rules](../World-Rules.md) keep magic scarce, limited, and materially consequential.
+The supplied concept proposes a new magical technology that allowed distant people to hear the same voices. That is an interesting option, but it cannot be promoted automatically because current [World Rules](../World-Rules.md) and the [Magic Baseline](../Magic-Baseline.md) keep operational magic unconfirmed unless it survives systemic testing.
 
 Other compatible possibilities include:
 

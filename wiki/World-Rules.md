@@ -69,14 +69,22 @@ Avoid steam-age machinery, modern manufacturing logic, magical equivalents of el
 
 ## 7. Magic is scarce, uncertain, limited, or costly
 
+See [Magic Baseline](Magic-Baseline.md).
+
 Magic should feel like one more difficult property of the world, not a universal convenience.
+
+**Current baseline:** no specific magical phenomenon is required as confirmed canon by the active world model. Use mundane causality unless a magical capability has been explicitly established.
 
 When magic appears, define:
 - who can use it;
 - how reliable it is;
 - what it costs;
+- how rare and reproducible it is;
+- which existing bottleneck it changes;
 - why it has not transformed every industry;
 - how ordinary people understand or misunderstand it.
+
+Do not let an unestablished magical ability silently override travel time, information delay, food production, medicine, warfare, law, or other systems already built materially.
 
 ## 8. Institutions have constituencies
 
