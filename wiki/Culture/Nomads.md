@@ -595,7 +595,7 @@ Children in mobile households may learn through:
 
 Mobility does not imply absence of education. The unresolved question is **which learning arrangements particular circuits actually use**.
 
-# 19. Households do not all need to travel together
+# 18. Households do not all need to travel together
 
 Mobility can vary inside one family.
 
