@@ -112,7 +112,7 @@ See [Movement and Information](Movement-and-Information.md).
 
 Market reports, rumors, maps, religious messages, guild knowledge, political intelligence, family news, technical knowledge, propaganda, and records.
 
-Information follows physical and social routes rather than spreading evenly. Its effective speed depends on departure delay, travel, handoffs, translation/copying, verification, and political friction. A rumor may therefore outrun a verified report without physically moving faster than its human carriers.
+Information follows physical and social routes rather than spreading evenly. [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md) adds another layer: language relatedness, multilingual contact, and translation can accelerate or delay the same information depending on who carries it and which register they share. Its effective speed depends on departure delay, travel, handoffs, translation/copying, verification, and political friction. A rumor may therefore outrun a verified report without physically moving faster than its human carriers.
 
 A disruption in one flow can alter all the others.
 
@@ -379,7 +379,7 @@ Major open areas include:
 - the Villain's exact grievance and desired political end state;
 - Wurdren's exact biography and starting situation;
 - magic prevalence and limits;
-- language families and naming systems;
+- exact language families, scripts, mutual intelligibility, and naming systems (the contact/standardization structure is established);
 - exact circuits, names, and local legal status of mobile peoples (their circuit-based structural role is now established);
 - which current-event candidates are finally selected.
 
