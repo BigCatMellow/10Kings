@@ -4,7 +4,9 @@
 
 **Writing reference — not setting canon.**
 
-This page is guidance for using the existing lore on the page without adding unnecessary new encyclopedic material.
+This page is guidance for **revealing** a developed world in prose. It is not a restriction on how much detail should be created during the worldbuilding/design phase.
+
+For building the underlying detail itself, see [Middle Worldbuilding](Middle-Worldbuilding.md).
 
 Related owner: [World Rules](../World-Rules.md), especially the rule that the world exists when protagonists are absent.
 
@@ -119,9 +121,13 @@ A chapter does not need all of these. Two or three quiet touches are often enoug
 
 ## Guardrail
 
-Do **not** respond to this method by creating fifty more canonical lore pages.
+Do not confuse **prose restraint** with **worldbuilding restraint**.
 
-The existing wiki owns what the world **is**. Breath is primarily a prose technique for revealing that material incompletely, locally and incidentally.
+During active worldbuilding we may deliberately create substantial detail: foods, jobs, laws, architecture, customs, infrastructure, historical residue, class differences, and ordinary routines.
+
+[Middle Worldbuilding](Middle-Worldbuilding.md) governs how that detail should be derived.
+
+Breath applies later, when deciding how much of that already-built iceberg should be explained in a scene. It is primarily a prose technique for revealing the world incompletely, locally, and incidentally.
 
 ## Related pages
 
