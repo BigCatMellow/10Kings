@@ -366,6 +366,36 @@ Outputs:
 
 Architecture now follows infrastructure and history first.
 
+
+### Phase 5 — arts, music, leisure and public culture
+
+Legacy Volume 04 was reconciled against current social, trade, migration, guild, Port and competitive-sphere owners.
+
+Outputs:
+
+- [Arts, Music and Leisure](../Culture/Arts-Music-and-Leisure.md) — new structural owner;
+- [Culture Phase 5 — Arts, Leisure and Public-Culture Vertical Slices](Culture-Phase-5-Arts-Leisure-Vertical-Slices.md).
+
+**Compatible mechanisms retained**
+- market storytellers and performers;
+- occupational and guild competitions;
+- oral songs / stories as social memory;
+- traveling musicians and entertainers;
+- patronage;
+- communal dancing and performance;
+- children's games;
+- portable performance traditions among itinerant groups.
+
+**Demoted or rejected as automatic canon**
+- one musical / artistic personality per region;
+- direct copies of Appalachian, Gaelic, gamelan or other named Earth forms;
+- fantasy-theme arts such as forge / frost / forest aesthetics assigned by region;
+- songs functioning as perfectly reliable historical archives;
+- every major art form beginning with elite patronage;
+- Port as a simple collage of six regional traditions.
+
+Public culture now follows venue, audience, work, money, travel, memory and repeated contact first.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
