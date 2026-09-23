@@ -608,6 +608,42 @@ Supporting Council-review changes were also merged into:
 
 Where the culture branch had additional later material, the files were merged as supersets rather than wholesale replaced.
 
+## Regions / kingdoms legacy reconciliation — 2026-09-23
+
+Volume 02 received a deliberate pass after first integrating the newer `post-convergence-political-order-2026-09-23` work.
+
+Authoritative political owners now include:
+
+- [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md);
+- [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md);
+- [The Convergence](../History/The-Convergence.md);
+- [Regional and Polity Legacy Reconciliation](Regional-Polity-Legacy-Reconciliation.md).
+
+**Retained from Volume 02**
+- multiple polities inside one cultural region;
+- buffer marches;
+- pass / route polities;
+- guild- or merchant-run cities;
+- confederations and protectorates;
+- rotating federation leadership;
+- hereditary succession with institutional confirmation;
+- elective / clan-confirmed leadership;
+- local councils and overlapping border administration;
+- minor polities as real systemic actors rather than map decoration;
+- education through apprenticeship, guilds, religion and specialist schools as mechanisms needing a future owner.
+
+**Preserved only as provisional quarry**
+- names such as Moorcrest Marches, Cliffhaven, Foxglove March, Rashira, Marabel, Redwater, Silvercrag, Whitepeak, Willowdeep and others;
+- old ruler names and constitutional examples.
+
+**Rejected / superseded**
+- one state per cultural region;
+- rulers designed as embodiments of regional personality;
+- unsupported railways / industrial technology;
+- direct Earth-culture state templates;
+- magical or theatrical succession rules as regional defaults;
+- generic warlords without a revenue / logistics basis.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
