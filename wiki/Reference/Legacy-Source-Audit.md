@@ -74,7 +74,7 @@ Do not treat it as canon, but do not design the topic from scratch without revie
 | **06 — Religion / Gods / Artifacts** | **RECONCILED STRUCTURALLY / NAMED DETAIL PRESERVED PROVISIONAL** | Religions, Religion Legacy Reconciliation, Religious Artifacts Framework, Festivals, Daily Life | future local testing can promote selected sects, texts, saints, personifications, relics and practices | literal 168-god cosmology, copied ritual blocks, universal temple aesthetics, and supernatural claims remain unpromoted |
 | **07 — Linguistics** | **PARTIALLY RECONCILED** | Language and Thought, Naming, language-history references | trade/legal registers; multilingual institutional language; loanword paths; literacy / orthography prompts; class/guild registers; examples that can test current framework | deterministic “regional personality through grammar,” accent caricature, phonetic stereotype dialogue |
 | **08 — Council / Guilds / Underworld** | **RECONCILED STRUCTURALLY / NAMED DETAIL PRESERVED PROVISIONAL** | Economic Council, Guilds, Crime and Underworld, Council/Guild/Underworld reconciliation references | future passes can promote selected families, guild names, criminal factions, Council succession rules and member economics | omnipotent Council model, RPG-class guilds, region-coded gangs, overpowered magic/technology and exact old Dominus structure remain unpromoted |
-| **09 — Military / Weapons** | **UNRECONCILED / MEDIUM-HIGH** | Weapons and Elite Troops | logistics; militia vs professional force; locally available weapons; border adaptation; mobile peoples' defensive needs; elite-force institutional questions | mechanized/repeating weapons beyond tech limits; “poor people use scrap fantasy weapons” gimmicks; one signature weapon per region; theme-named elite units |
+| **09 — Military / Weapons** | **RECONCILED STRUCTURALLY / UNIT NAMES PROVISIONAL** | Weapons and Elite Troops, Kingdoms and Politics, Military and Weapons Legacy Reconciliation | military logistics, arsenals, recruitment/pay, campaign supply and selected unit names remain future-development material | mechanized armies, unsupported magic weapons, primitive-mobile-peoples stereotypes, scrap-poor aesthetic, and one signature force per region remain unpromoted |
 | **10 — Current Events** | **PARTIALLY RECONCILED** | Current Events, World System, Villain's Dominoes | alternate pressure chains, guild/religious reactions, Underpass consequences, possible second/third-order effects | any event that contradicts current opening-state owner; old conspiracies treated as already happening |
 | **11 — Story Core / Characters / Villain** | **PARTIALLY RECONCILED** | Wurdren, Villain, Character Roster, Competitive Kingdom Dynamics | discarded character approaches as comparison material; villain-plan alternatives; WWF/WCW/ECW structural research; panel critique / failure modes | obsolete plot outline treated as final; old regional faction mapping; characters retained from inertia |
 | **12 — Dominoes / Sparks / Danzig** | **HIGH FOR REFERENCE METHOD** | Villain's Dominoes, Danzig references, Current Events | grounded domino method; ordinary-effect storytelling; historical spark research; escalation patterns; plausible minor incidents; Danzig structural lessons | fantastical “kraken/golem/shadow plague” dominoes unless magic rules later justify them; specific pseudo-history mapped one-to-one |
@@ -232,9 +232,9 @@ If repository size or search noise becomes a problem, the duplicate package file
 
 ## P0 — review before relevant new work
 
-1. **Volume 09 — military / logistics**
-2. **Volume 07 — language examples / registers**
-3. **Volume 10 — current-event alternatives / secondary effects**
+1. **Volume 07 — language examples / registers**
+2. **Volume 10 — current-event alternatives / secondary effects**
+3. **Volume 11 — character / villain alternatives and critique**
 
 ## P1 — deliberate future passes
 
