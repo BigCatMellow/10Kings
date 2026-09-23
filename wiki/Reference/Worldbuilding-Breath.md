@@ -6,7 +6,7 @@
 
 This page is guidance for **revealing** a developed world in prose. It is not a restriction on how much detail should be created during the worldbuilding/design phase.
 
-For building the underlying detail itself, see [Middle Worldbuilding](Middle-Worldbuilding.md).
+For building the underlying detail itself, use [Middle Worldbuilding](Middle-Worldbuilding.md) for functional systems and [Writing the Sequel](Writing-the-Sequel.md) for accumulated consequences over time.
 
 Related owner: [World Rules](../World-Rules.md), especially the rule that the world exists when protagonists are absent.
 
@@ -125,7 +125,7 @@ Do not confuse **prose restraint** with **worldbuilding restraint**.
 
 During active worldbuilding we may deliberately create substantial detail: foods, jobs, laws, architecture, customs, infrastructure, historical residue, class differences, and ordinary routines.
 
-[Middle Worldbuilding](Middle-Worldbuilding.md) governs how that detail should be derived.
+[Middle Worldbuilding](Middle-Worldbuilding.md) governs how functional systems generate detail. [Writing the Sequel](Writing-the-Sequel.md) governs how those systems accumulate history, normalization, and inherited consequences.
 
 Breath applies later, when deciding how much of that already-built iceberg should be explained in a scene. It is primarily a prose technique for revealing the world incompletely, locally, and incidentally.
 
