@@ -104,7 +104,9 @@ Merchants, laborers, migrants, refugees, sailors, caravan workers, pilgrims, gui
 
 ### Money and obligations
 
-Credit, debt, contracts, tolls, storage claims, insurance-like arrangements, patronage, investment, taxes, guild dues, emergency loans, and land obligations.
+See [Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md).
+
+Coin exists, but value also moves through credit, debt, account settlement, guarantees, warehouse claims, tolls, patronage, investment, taxes, guild dues, emergency loans, and land obligations. Several monies and local measures can coexist because Port, High Roads, merchant networks, records, and arbitration provide conversion and settlement.
 
 ### Information
 
@@ -131,7 +133,7 @@ Important examples include:
 - bridges, canals, river crossings, irrigation gates, and important roads;
 - food storage and seed networks;
 - mines, foundries, timber/fuel supply, and strategic workshops;
-- credit and exchange;
+- credit, currency exchange, account settlement, and measure conversion;
 - records, maps, and trusted information networks; see [Movement and Information](Movement-and-Information.md).
 
 A chokepoint matters because many independent actors rely on it.
