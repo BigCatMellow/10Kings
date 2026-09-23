@@ -1009,9 +1009,16 @@ Choose one ordinary infrastructure system in one settlement and identify:
 
 If the answers generate a political conflict without inventing a new grand institution, the mechanism passes.
 
+**Concrete network tests — 2026-09-23**
+
+The mechanism now passes two additional middle-worldbuilding tests:
+
+- [G1 Head-of-Navigation Market](G1-Head-of-Navigation-Market-Test.md): quays, storage, scales, warehouses, road transfer, and river condition create competing producer / merchant / labor constituencies;
+- [North Shoulder Paired Roadheads](North-Shoulder-Paired-Roadheads-Test.md): road maintenance, guide systems, animal capacity, shelters, and route-status information create constituencies on both sides of a political / cultural boundary.
+
 **Disposition**
 
-Strong candidate; architecture vertical slices support the mechanism, but exact institutions remain settlement-specific.
+Strongly supported. The general mechanism is now visible in Geography, Trade, Movement, and the tested settlement system; exact institutions remain local.
 
 ## Candidate 25 — Contact zones can become cultural engines
 
@@ -1387,6 +1394,73 @@ If each stops or transforms for different material / social reasons, the candida
 **Disposition**
 
 Strong Phase 7 candidate. The general transmission-cost mechanism is now reflected in [Culture and Influence](../Culture/Culture-and-Influence.md); exact diffusion maps remain provisional.
+
+## Candidate 31 — Shared chokepoints can create cross-border peace constituencies
+
+**Sources**
+
+- [North Shoulder Paired Roadheads — Middle-Worldbuilding Test](North-Shoulder-Paired-Roadheads-Test.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
+- [Movement and Information](../Movement-and-Information.md)
+- [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md)
+
+**Connection**
+
+The North Shoulder corridor creates livelihoods on both sides that depend on the same route remaining:
+
+- usable;
+- trusted;
+- predictable enough to contract around;
+- supported by compatible records / warnings / rescue expectations.
+
+The two roadheads can dislike each other and belong to rival polities while still losing money, work, and safety when cooperation collapses.
+
+**New implication**
+
+Some cross-border infrastructure can create a constituency for **limited continued cooperation** even during wider political rivalry.
+
+The relevant actors may include:
+
+- transport workers;
+- warehouse owners;
+- guides;
+- inns;
+- merchants;
+- nearby households;
+- local officials;
+- religious hospitality institutions.
+
+They do not need to support political union.
+
+They only need to oppose actions that destroy the shared system they depend on.
+
+**Why it matters**
+
+This adds a grounded peace mechanism:
+
+political rivalry
+→ shared infrastructure dependence
+→ local livelihoods on both sides
+→ pressure to preserve limited rules / passage
+→ conflict constrained without disappearing
+
+This complements the broader Social Fabric rule that overlapping memberships can reduce clean political polarization.
+
+It also creates plausible internal opposition when rulers threaten to close a route.
+
+**Smallest next test**
+
+Apply the same question to a different shared system, such as:
+
+1. an Old Cities cross-border irrigation work; or
+2. a Low Rivers bridge / ferry used by rival polities.
+
+If the same mechanism appears for different reasons rather than merely copying the pass model, the candidate strengthens.
+
+**Disposition**
+
+Incubating but strongly supported by the North Shoulder test. Do not promote a universal claim that trade always creates peace; dependence can also become coercive leverage.
 
 ## Promotion rule
 
