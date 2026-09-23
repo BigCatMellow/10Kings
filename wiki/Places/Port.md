@@ -2,9 +2,25 @@
 
 ## Status
 
-**Working canon.**
+**Working canon.** Port's network role and approximate physical situation are established. Its exact dot on the final map, territorial footprint, and treaty boundaries remain unresolved.
 
 Port is not important because it is the only harbor in the world. It is important because geography, law, infrastructure, trust, finance, and history have accumulated around one exceptionally useful harbor until replacing it became more expensive than continuing to use it.
+
+## Working physical placement
+
+Port belongs in the **central maritime system**, on a sheltered bay, strait, estuary, island-edge, or peninsula close enough to the central routes that it can link sea trade to Highridge/The Spine.
+
+It should have convenient sea access toward:
+
+- Northwind;
+- Sunplains and the eastern/southern coast;
+- western coastal ports.
+
+It should also have a practical onward land, river, or short-sea connection toward Highridge and major Spine approaches.
+
+Port does **not** need a land border with every major region and should not sit on every possible trade route.
+
+See [Geography and Connections](../Geography-and-Connections.md).
 
 ## Why Port became central
 
@@ -46,6 +62,20 @@ Port remains dominant because it has **network effects**:
 - neutral legal institutions reduce transaction risk.
 
 A merchant may dislike Port's fees and still use it because the buyer, lender, shipper, translator, warehouse, and insurer needed for the transaction are all already there.
+
+Port can also be bypassed.
+
+A bypass may require:
+
+- a longer coastwise voyage;
+- more transshipment;
+- worse credit;
+- a less reliable harbor;
+- a Highridge overland route;
+- an Underpass branch;
+- dealing separately with several jurisdictions.
+
+That difference between **possible** and **convenient** is the basis of Port's power.
 
 ## Neutrality
 
