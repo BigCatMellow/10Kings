@@ -868,6 +868,82 @@ Check that all three remain recognizably related while developing different loca
 
 Structural principle promoted to World Rules, World Overview, Geography, Social Fabric and regional owners. Specific diaspora communities remain provisional.
 
+## Candidate 24 — Infrastructure creates constituencies
+
+**Sources**
+
+- [Architecture](../Culture/Architecture.md)
+- [Culture Phase 4 — Architecture Vertical Slices](Culture-Phase-4-Architecture-Vertical-Slices.md)
+- [Food](../Culture/Food.md)
+- [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
+- [Social Fabric](../Social-Fabric.md)
+
+**Connection**
+
+Ordinary systems such as:
+
+- wells;
+- canals;
+- mills;
+- granaries;
+- bridges;
+- docks;
+- caravan yards;
+- smokehouses;
+- fire brigades;
+- waste removal;
+
+require maintenance, labor, money, rules and access.
+
+People organize around them because their daily lives depend on them.
+
+**New implication**
+
+Infrastructure can create political constituencies before it creates formal political institutions.
+
+A neighborhood may defend a well.
+
+Millers may defend a water right.
+
+Warehouse owners may oppose a new road.
+
+Tenants may demand fire enforcement.
+
+Canal workers may become politically important during drought.
+
+The Council may understand these systems as leverage, while ordinary people experience them as the difference between a working neighborhood and an unlivable one.
+
+**Why it matters**
+
+This creates a bridge between:
+
+```text
+built environment
+→ daily dependence
+→ social organization
+→ politics
+→ Council leverage
+```
+
+It also gives Wurdren-level stories consequences that can scale upward without requiring royal politics.
+
+**Smallest test**
+
+Choose one ordinary infrastructure system in one settlement and identify:
+
+1. who owns it;
+2. who maintains it;
+3. who depends on it;
+4. who pays;
+5. who is excluded;
+6. what happens when it fails.
+
+If the answers generate a political conflict without inventing a new grand institution, the mechanism passes.
+
+**Disposition**
+
+Strong candidate; architecture vertical slices support the mechanism, but exact institutions remain settlement-specific.
+
 ## Promotion rule
 
 Nothing on this page becomes canon because it sounds useful.
