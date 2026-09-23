@@ -26,22 +26,22 @@ This draft succeeds if a single rough geometry can plausibly explain:
 
 1. why North Coast is maritime but still has a consequential overland connection to High Roads;
 2. why High Roads matters to overland circulation;
-3. why Stone Hills can interact directly with eastern regions without making Central Range irrelevant;
+3. why Stone Hills can interact directly with eastern regions without making The Spine irrelevant;
 4. why Low Rivers can support major river agriculture and bulk transport;
 5. why Old Cities water politics are structurally important;
 6. why Port becomes a multimodal exchange hub;
-7. why the Tunnels is useful without replacing surface geography;
+7. why the Underpass is useful without replacing surface geography;
 8. why alternative routes exist but have real cost.
 
 ## The central geometric choice
 
 ### PROVISIONAL — a Y-shaped convergence zone
 
-V1 treats the three continental blocks as large lobes whose closest approaches form a rough **Y-shaped central zone** around Central Range.
+V1 treats the three continental blocks as large lobes whose closest approaches form a rough **Y-shaped central zone** around The Spine.
 
 This preserves the old idea of three recognizable continental masses without requiring every one to be completely isolated by open ocean.
 
-Central Range occupies the difficult high ground around the meeting zone and extends into:
+The Spine occupies the difficult high ground around the meeting zone and extends into:
 
 - Stone Hills-facing western uplands;
 - the High Roads plateau and northern approaches;
@@ -91,7 +91,7 @@ Instead it should:
 ### VERIFIED / working canon
 
 - Stone Hills dominates the western uplands.
-- Terrain rises toward Central Range.
+- Terrain rises toward The Spine.
 - Rivers descend through settled valleys.
 - Stone Hills has meaningful eastern and southeastern economic frontiers.
 
@@ -105,7 +105,7 @@ V1 gives Stone Hills:
 
 - one principal eastbound highland corridor toward Low Rivers / High Roads;
 - smaller forest-margin approaches toward Longwood;
-- western rivers draining away from Central Range;
+- western rivers draining away from The Spine;
 - secondary southern and western ports that prevent Port from becoming the only maritime option.
 
 This keeps Stone Hills connected while preserving the strategic importance of route control.
@@ -126,7 +126,7 @@ The Eastern Continent contains the largest mixture of environments:
 From northwest / central highlands toward the southeast:
 
 ```text
-Central Range / High Roads
+The Spine / High Roads
         ↓
 Low Rivers river lowlands
         ↓ ↘
@@ -197,7 +197,7 @@ V1 uses **unnamed river systems** rather than prematurely naming them.
 
 ### G1 — Low Rivers trunk river
 
-A large river rises in the High Roads / Central Range-facing uplands and crosses Low Rivers before reaching the Port estuary.
+A large river rises in the High Roads / The Spine-facing uplands and crosses Low Rivers before reaching the Port estuary.
 
 Required functions:
 
@@ -241,7 +241,7 @@ Its exact source is intentionally unresolved.
 
 ### W1 / W2 — Stone Hills drainages
 
-Several shorter rivers descend westward from the Central Range-facing uplands.
+Several shorter rivers descend westward from The Spine-facing uplands.
 
 They support:
 
@@ -257,7 +257,7 @@ They support:
 
 Stone Hills ↔ Low Rivers / High Roads.
 
-A major maintained corridor through lower Central Range terrain.
+A major maintained corridor through lower The Spine terrain.
 
 It should be expensive enough that tolls, maintenance, snow, landslides, and security matter.
 
@@ -311,7 +311,7 @@ They provide alternatives while still making Port attractive for transactions re
 
 ## Tunnels skeleton
 
-V1 does **not** map the Tunnels completely.
+V1 does **not** map the Underpass completely.
 
 Only three public-level concepts are shown:
 
