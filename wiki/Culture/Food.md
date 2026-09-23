@@ -733,7 +733,103 @@ Its food should contain forms that Port-born people consider ordinary even when 
 
 ---
 
-# 19. Border food
+# 19. Cultural crossover and contact cuisines
+
+When food traditions meet repeatedly, the result should not remain two separate cuisines sitting beside one another.
+
+Long contact can produce a **third local tradition**.
+
+A useful model is:
+
+```text
+Technique A
++ ingredient / preservation system B
++ local fuel / cookware
++ repeated intermarriage / neighborhood contact
++ ordinary household repetition
+→ new local food
+```
+
+For example:
+
+- a North Coast tradition of salted fish meets a Low Rivers supply of fresh vegetables, herbs and pickling produce;
+- households begin combining preserved fish with fresh or pickled vegetables because the ingredients are cheap and available together;
+- the combination becomes common in one market town or mixed neighborhood;
+- children grow up treating it as ordinary local food;
+- later generations may no longer think of it as “North Coast + Low Rivers.”
+
+That is **cultural bleed becoming culture**.
+
+## Contact-zone rule
+
+Crossover foods should emerge especially in:
+
+- border towns;
+- mixed cities;
+- Port neighborhoods;
+- caravan settlements;
+- migrant farming districts;
+- military settlements;
+- pilgrimage centers;
+- intermarried households;
+- guild communities that recruit across cultural traditions.
+
+## What can cross over
+
+Not only ingredients.
+
+Cultural bleed can transfer:
+
+- preservation methods;
+- cooking fats;
+- souring agents;
+- bread forms;
+- spice use;
+- meal timing;
+- serving vessels;
+- etiquette;
+- feast customs;
+- work food;
+- market-food formats;
+- ideas about what counts as breakfast, guest food, children's food, or festival food.
+
+A borrowed **technique** can matter more than a borrowed ingredient.
+
+## Generational effect
+
+Contact cuisine becomes more convincing when it changes over generations:
+
+```text
+first generation: "their food with our ingredient"
+second generation: familiar mixed household version
+third generation: ordinary local dish
+fourth generation: argument over the "proper" version
+```
+
+By that point, the food may be culturally distinct from both source traditions.
+
+## Avoid arithmetic fusion
+
+Do not design crossover cuisine as:
+
+> one North Coast ingredient + one Low Rivers ingredient = border dish.
+
+The food needs a reason to become stable:
+
+- price;
+- availability;
+- preservation;
+- work schedule;
+- marriage;
+- migration;
+- shared kitchens;
+- market demand;
+- religious compatibility;
+- local cookware.
+
+The goal is **historical synthesis**, not a themed mashup.
+
+# 20. Border food
 
 Border cuisine should not be “half A + half B.”
 
@@ -752,7 +848,7 @@ After generations, locals may reject both neighboring regions' versions as “wr
 
 ---
 
-# 20. Current crises
+# 21. Current crises
 
 Food should make current events tangible.
 
@@ -820,7 +916,7 @@ Possible effects:
 
 ---
 
-# 21. Scene test
+# 22. Scene test
 
 A food scene should answer some of these without exposition:
 
