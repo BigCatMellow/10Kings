@@ -197,3 +197,12 @@ Foreign militaries may protect outer sea lanes while being restricted inside Por
 Port is a miniature of the whole world.
 
 Every regional conflict can appear here in compressed form, but Port-born people experience those conflicts differently because their survival depends on keeping incompatible groups inside one functioning city.
+
+
+## Legal role
+
+See [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md).
+
+Port's legal importance comes from predictable neutral commercial institutions rather than universal sovereignty. Its courts and arbitration matter because merchants, lenders, warehouse operators, guilds, and foreign governments repeatedly choose to use them and have reasons to recognize their outcomes.
+
+Port therefore acts as a **legal switching point** for cross-border trade while remaining only one jurisdiction among many.
