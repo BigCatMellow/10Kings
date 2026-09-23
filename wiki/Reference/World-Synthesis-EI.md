@@ -45,25 +45,25 @@ Take three unrelated current-event shocks and trace whether Port amplifies all t
 
 Incubating.
 
-## Candidate 2 — Port and Highridge are complementary chokepoints
+## Candidate 2 — Port and High Country are complementary chokepoints
 
 **Sources**
 
 - [Port](../Places/Port.md)
-- [Highridge Plateau](../Regions/Highridge-Plateau.md)
+- [High Country](../Regions/Highridge-Plateau.md)
 - [Geography and Connections](../Geography-and-Connections.md)
 - [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
 
 **Connection**
 
-Port concentrates maritime exchange; Highridge concentrates important overland movement and brokerage.
+Port concentrates maritime exchange; High Country concentrates important overland movement and brokerage.
 
 **New implication**
 
 The world may have two different kinds of strategic hub:
 
 - Port: maritime, financial, legal, cosmopolitan;
-- Highridge: overland, logistical, arbitral, route-oriented.
+- High Country: overland, logistical, arbitral, route-oriented.
 
 Pressure on one could shift traffic toward the other rather than simply stopping exchange.
 
@@ -73,11 +73,11 @@ That creates substitution, competition, and cascading route effects without requ
 
 **Smallest test**
 
-Lock the broad map and test whether major trade flows have plausible Port-avoiding and Highridge-avoiding routes.
+Lock the broad map and test whether major trade flows have plausible Port-avoiding and High Country-avoiding routes.
 
 **Test result — 2026-09-22**
 
-[Working Map Draft — Geometry V1](Working-Map-Draft.md) produces plausible Port-avoiding and Highridge-avoiding substitutions rather than making either hub an absolute monopoly. A Northwind maritime disruption can push selected traffic into Highridge; a major west-east surface closure can push selected traffic toward Port, secondary ports, and Underpass capacity.
+[Working Map Draft — Geometry V1](Working-Map-Draft.md) produces plausible Port-avoiding and High Country-avoiding substitutions rather than making either hub an absolute monopoly. A North Country maritime disruption can push selected traffic into High Country; a major west-east surface closure can push selected traffic toward Port, secondary ports, and Tunnels capacity.
 
 This is encouraging but not enough to promote the candidate. The next discriminating test is scale, ordinary travel time, and route capacity.
 
@@ -176,15 +176,15 @@ Strong candidate for later border-town detail.
 
 **Sources**
 
-- [Greenvale](../Regions/Greenvale.md)
-- [Sunplains](../Regions/Sunplains.md)
-- [Northwind](../Regions/Northwind.md)
+- [River Country](../Regions/Greenvale.md)
+- [South Country](../Regions/Sunplains.md)
+- [North Country](../Regions/Northwind.md)
 - [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
 - [Current Events](../Story/Current-Events.md)
 
 **Connection**
 
-Greenvale can be destabilized by excess production; Sunplains by drought anxiety; Northwind by fish decline.
+River Country can be destabilized by excess production; South Country by drought anxiety; North Country by fish decline.
 
 **New implication**
 
@@ -202,28 +202,28 @@ Trace price, debt, labor, and political effects for one surplus and one shortage
 
 Supported at the pattern level; candidate for a future economics deep dive.
 
-## Candidate 7 — The Underpass is a systemic bypass valve
+## Candidate 7 — The Tunnels is a systemic bypass valve
 
 **Sources**
 
-- [The Underpass](../Places/The-Underpass.md)
+- [The Tunnels](../Places/The-Tunnels.md)
 - [Geography and Connections](../Geography-and-Connections.md)
 - [Crime and the Underworld](../Politics/Crime-and-Underworld.md)
 - [Current Events](../Story/Current-Events.md)
 
 **Connection**
 
-The Underpass creates functional adjacency and contains public, local, religious, criminal, unstable, and hidden routes.
+The Tunnels creates functional adjacency and contains public, local, religious, criminal, unstable, and hidden routes.
 
 **New implication**
 
-When official surface routes become expensive, blocked, militarized, or politically restricted, pressure should redirect toward Underpass routes.
+When official surface routes become expensive, blocked, militarized, or politically restricted, pressure should redirect toward Tunnels routes.
 
-That can make the Underpass a recurring **bypass valve** for legitimate trade, smuggling, refugees, intelligence, and political influence.
+That can make the Tunnels a recurring **bypass valve** for legitimate trade, smuggling, refugees, intelligence, and political influence.
 
 **Why it matters**
 
-This gives Underpass politics direct consequences for the surface world instead of leaving it as a separate underground setting.
+This gives Tunnels politics direct consequences for the surface world instead of leaving it as a separate underground setting.
 
 **Smallest test**
 
@@ -231,7 +231,7 @@ Take one surface-route disruption and trace what realistically shifts undergroun
 
 **Test result — 2026-09-22**
 
-[Working Map Draft — Geometry V1](Working-Map-Draft.md) gives the Underpass limited alternate branches beside major surface routes. In the Western Gate closure test, some movement can shift underground without giving the Underpass enough capacity or reliability to replace the surface network.
+[Working Map Draft — Geometry V1](Working-Map-Draft.md) gives the Tunnels limited alternate branches beside major surface routes. In the Western Gate closure test, some movement can shift underground without giving the Tunnels enough capacity or reliability to replace the surface network.
 
 This supports the bypass-valve mechanism at the provisional map level. It is not yet promoted because route capacity, travel time, collapse risk, and actual entrances remain unresolved.
 
@@ -255,7 +255,7 @@ The same roads, ports, pilgrimage routes, caravan systems and shipping lanes tha
 
 **New implication**
 
-Port and Highridge may function as switching points for jokes, reform movements, cult practices, political vocabulary, religious disputes, fashions and reputations—not only commodities.
+Port and High Country may function as switching points for jokes, reform movements, cult practices, political vocabulary, religious disputes, fashions and reputations—not only commodities.
 
 **Why it matters**
 
@@ -448,31 +448,31 @@ Give the Council accurate information about one movement and ask whether its usu
 
 Incubating.
 
-## Candidate 15 — Port may incubate movements while Highridge distributes them
+## Candidate 15 — Port may incubate movements while High Country distributes them
 
 **Sources**
 
 - [Port](../Places/Port.md)
-- [Highridge](../Regions/Highridge-Plateau.md)
+- [High Country](../Regions/Highridge-Plateau.md)
 - [Social Fabric](../Social-Fabric.md)
 - [Audience Movements](../Culture/Audience-Movements.md)
 - [Geography and Connections](../Geography-and-Connections.md)
 
 **Connection**
 
-Port concentrates strangers, performers, workers, sailors, migrants, guilds and repeated public gatherings. Highridge concentrates overland travelers, caravan routes, translators and information exchange.
+Port concentrates strangers, performers, workers, sailors, migrants, guilds and repeated public gatherings. High Country concentrates overland travelers, caravan routes, translators and information exchange.
 
 **New implication**
 
-A movement could plausibly become socially dense in Port and then spread unusually far through Highridge without either place being its political headquarters.
+A movement could plausibly become socially dense in Port and then spread unusually far through High Country without either place being its political headquarters.
 
 **Why it matters**
 
-This gives social diffusion a geography: Port can be an incubator while Highridge acts as a repeater / distributor.
+This gives social diffusion a geography: Port can be an incubator while High Country acts as a repeater / distributor.
 
 **Smallest test**
 
-Start one movement in a Port neighborhood and trace how it reaches Northwind, Greenvale and Ironcrest using only established travel networks and ordinary human carriers.
+Start one movement in a Port neighborhood and trace how it reaches North Country, River Country and Western Uplands using only established travel networks and ordinary human carriers.
 
 **Disposition**
 
@@ -533,7 +533,7 @@ The strongest current hypothesis is not two arbitrary spheres but:
 
 This is documented in [Convergence to Competitive Spheres](Convergence-to-Competitive-Spheres.md).
 
-The pattern survives several concrete legacy signals without requiring an east/west split: Summithold's Convergence role, Verdanthearth's old ties to Summithold and Aurorashore, Cliffhaven's explicit challenge to Summithold toll dominance, Blackbellow's wage/industrial challenge to the Ironcrest crown, and Sunplains' long tradition of competitive patronage and city-state politics.
+The pattern survives several concrete legacy signals without requiring an east/west split: Summithold's Convergence role, Verdanthearth's old ties to Summithold and Aurorashore, Cliffhaven's explicit challenge to Summithold toll dominance, Blackbellow's wage/industrial challenge to the Western Uplands crown, and South Country' long tradition of competitive patronage and city-state politics.
 
 **Disposition**
 
@@ -590,24 +590,24 @@ If Port's treaty structure and merchant institutions are actually more restricti
 
 Incubating.
 
-## Candidate 18 — Ironcrest may be the sphere hinge
+## Candidate 18 — Western Uplands may be the sphere hinge
 
 **Sources**
 
 - [Competitive Sphere Alignment Matrix](Competitive-Sphere-Alignment-Matrix.md)
 - [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md)
 - [Current Events](../Story/Current-Events.md)
-- legacy Ironcrest / Blackbellow polity notes
+- legacy Western Uplands / Blackbellow polity notes
 
 **Connection**
 
-The Ironcrest Crown benefits strongly from Convergence stability while Blackbellow and other industrial actors benefit from post-Convergence guild expansion and labor mobility.
+The Western Uplands Crown benefits strongly from Convergence stability while Blackbellow and other industrial actors benefit from post-Convergence guild expansion and labor mobility.
 
 That places opposing sphere incentives inside one major industrial ecosystem.
 
 **New implication**
 
-Ironcrest may be more useful as the rivalry's principal **hinge** than as a clean bloc member.
+Western Uplands may be more useful as the rivalry's principal **hinge** than as a clean bloc member.
 
 A shift by the Crown, a major royal forge, or an important industrial guild could transform the balance between the spheres.
 
@@ -619,7 +619,7 @@ It also lets ordinary people experience sphere politics as workplace, wage and i
 
 **Smallest test**
 
-Reconstruct one Ironcrest defection at three scales:
+Reconstruct one Western Uplands defection at three scales:
 
 1. an individual specialist;
 2. a major guild / forge;
@@ -658,7 +658,7 @@ This preserves the useful tension of the Monday Night Wars analogue without pred
 
 **Smallest test**
 
-Create one high-profile defection and trace reactions through Summithold, Cliffhaven, Ironcrest, Blackbellow, Port and the Council. If the event matters differently to all six while remaining below the threshold of war, the phase is viable.
+Create one high-profile defection and trace reactions through Summithold, Cliffhaven, Western Uplands, Blackbellow, Port and the Council. If the event matters differently to all six while remaining below the threshold of war, the phase is viable.
 
 **Disposition**
 
@@ -745,10 +745,10 @@ workplace / neighborhood
 → local reinterpretation
 ```
 
-Port and Highridge may therefore spread material culture differently:
+Port and High Country may therefore spread material culture differently:
 
 - Port through novelty, migration, secondhand markets and copying;
-- Highridge through caravan circulation, travel equipment and repeated overland contact.
+- High Country through caravan circulation, travel equipment and repeated overland contact.
 
 **Why it matters**
 
