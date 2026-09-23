@@ -180,6 +180,58 @@ Examples:
 
 This creates conflicts that cannot be solved by asking which "side" a person belongs to.
 
+## Why people stay — and why they move
+
+Cultural spread does not mean movement is frictionless.
+
+People often remain in difficult places because a place contains **accumulated social and material capital** that cannot simply be packed into a cart.
+
+Reasons to stay can include:
+
+- kin and caregiving networks;
+- inherited property or use rights;
+- workshops, boats, tools or irrigation access;
+- guild standing and professional reputation;
+- local credit and trusted customers;
+- legal status;
+- community obligations;
+- faith institutions;
+- language;
+- childcare;
+- knowledge of local routes, weather, soil, water or hazards;
+- emotional attachment and historical memory.
+
+Leaving can mean losing several of these at once.
+
+A highly skilled worker may discover that their reputation, certification, customer network or access to specialized infrastructure does not transfer cleanly elsewhere.
+
+A household may remain because an elder depends on relatives nearby, because a lease cannot be sold, because a guild credential is only recognized locally, or because moving requires cash they do not have.
+
+This should **not** become cultural determinism.
+
+People still move because of:
+
+- marriage;
+- recruitment;
+- trade;
+- pilgrimage;
+- better wages;
+- education;
+- debt;
+- displacement;
+- persecution;
+- war;
+- ecological loss;
+- family reunification;
+- simple preference.
+
+Migration is therefore usually a **household and institutional decision under constraint**, not a statement that one culture naturally belongs in one landscape.
+
+This helps explain both:
+
+- why regional cultural cores persist over long periods;
+- why diaspora and mixed communities still form throughout the world.
+
 ## Social circulation follows physical circulation
 
 See [Movement and Information](Movement-and-Information.md) for the world-level carrier and propagation model.
