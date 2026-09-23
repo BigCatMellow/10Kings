@@ -41,7 +41,7 @@ Remaining questions:
 - Extradition and cross-border criminal pursuit.
 - Recognition of marriages, inheritance, and family status across jurisdictions.
 - Exact maritime law and guild privilege by polity.
-- Amendment, withdrawal, suspension, and serious-violation procedures.
+- Amendment, withdrawal, suspension, and the exact formal procedures underlying the now-tested escalation logic in [Convergence Enforcement and Violation Tests](Reference/Convergence-Enforcement-and-Violation-Tests.md).
 
 ### 3. Coordination and power
 
