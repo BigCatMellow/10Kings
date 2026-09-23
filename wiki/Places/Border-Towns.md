@@ -15,7 +15,7 @@ They are places where:
 
 ## Established working examples
 
-### Stonefield Forge — Ironcrest / Greenvale
+### Stonefield Forge — Western Uplands / River Country
 
 Where mineral foothills grade into productive farmland.
 
@@ -26,7 +26,7 @@ Its identity comes from:
 - disputes over water, smoke, timber, and land;
 - blended speech emphasizing both accountability and long-term process.
 
-### Harveston Vale — Greenvale / Sunplains
+### Harveston Vale — River Country / South Country
 
 Where wetter mixed farmland transitions toward warmer orchard and irrigation country.
 
@@ -37,7 +37,7 @@ Its identity comes from:
 - foods and festivals built around several harvest calendars;
 - political sensitivity to upstream/downstream water decisions.
 
-### Twilighthollow — Deepwood / Highridge
+### Twilighthollow — Forest Country / High Country
 
 Where forest uplands meet exposed plateau routes.
 
@@ -48,22 +48,22 @@ Its identity comes from:
 - disputes over timber, roads, and conservation;
 - hybrid speech combining environmental categories with contractual precision.
 
-### Frostbay Way — Northwind / Port influence zone
+### Frostbay Way — North Country / Port influence zone
 
 Best treated as a coastal corridor or secondary port rather than a literal kingdom border if Port is territorially separate.
 
 Its identity comes from:
-- Northwind seafaring;
+- North Country seafaring;
 - Port credit and trade law;
 - ship repair;
 - immigrant merchants;
 - seasonal labor.
 
-### Icestep Summit — Northwind / Highridge
+### Icestep Summit — North Country / High Country
 
 A cold pass town where maritime supply routes meet plateau caravans.
 
-### Darkroot Gulch — Deepwood / Ironcrest
+### Darkroot Gulch — Forest Country / Western Uplands
 
 A forested mineral frontier shaped by logging, charcoal, ore, repair, and conflict over extraction.
 
