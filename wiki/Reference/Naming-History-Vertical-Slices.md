@@ -22,13 +22,13 @@ A successful replacement is just as valid a result as a successful reframing.
 
 ---
 
-# Test 1 — a Highridge route name
+# Test 1 — a High Country route name
 
 ## Source material
 
-Legacy notes contain the name **Thunderstair** for a fortified Highridge pass associated with toll control.
+Legacy notes contain **Thunderstair** for a fortified route in what is now called High Country.
 
-Current canon establishes that Highridge historically contained:
+Current canon supports:
 
 - pass lords;
 - toll towns;
@@ -37,89 +37,54 @@ Current canon establishes that Highridge historically contained:
 - multilingual negotiation;
 - later Convergence route rules.
 
-That gives enough structure to test the naming mechanism without deciding whether Thunderstair survives into final canon.
+## Grounded test
 
-## Weak version
+The name **Thunderstair** is too evocative to receive automatic credit.
 
-> There is a mountain pass called Thunderstair because it is steep and stormy.
+It can survive only if it emerges from a concrete ordinary cause—for example:
 
-This explains the author's idea, not the place's history.
+- a caravan nickname for a stepped ascent where storms are common;
+- a literal translated description used by travelers;
+- a later popular nickname rather than the old local name.
 
-## Better layered version
+More grounded default candidates would instead come from:
 
-### Layer 1 — local name
-
-**UNKNOWN.**
-
-The pass should have an older name from a local plateau or valley language.
-
-It may refer to:
-
-- a spring;
+- the nearest village;
 - a family;
-- a shrine;
-- a rock formation;
-- an old settlement;
-- a direction;
-- a historical event.
+- a gate;
+- a spring;
+- a toll house;
+- a road destination;
+- a bridge;
+- an upper / lower distinction.
 
-Do not invent the form until a relevant language system exists.
+Examples of the **kind of logic**, not final names:
 
-### Layer 2 — caravan exonym / translated nickname
-
-**Thunderstair** can survive provisionally as a merchant or traveler name.
-
-It sounds like the kind of name outsiders might give a route because:
-
-- the ascent resembles steps or terraces;
-- storms are memorable;
-- the name is easy for foreign caravans to translate and repeat.
-
-This is a **candidate interpretation**, not established etymology.
-
-### Layer 3 — toll-state usage
-
-A pass lord may use a formal title based on:
-
-- the local settlement;
-- a ruling lineage;
-- the fortress;
-- the toll house.
-
-That formal name could be completely different from “Thunderstair.”
-
-### Layer 4 — Convergence treaty form
-
-The treaty needs one standardized reference.
-
-Possible outcomes:
-
-- local name transliterated;
-- caravan name translated;
-- fortress name used;
-- a boundary formula such as “the pass above X spring.”
-
-The exact form remains UNKNOWN.
-
-### Layer 5 — modern usage
-
-Different speakers can plausibly choose differently:
-
-- local herder → old local name;
-- caravan worker → Thunderstair;
-- court clerk → treaty form;
-- historian → old fortress title;
-- foreign tourist / pilgrim → translated route name.
+- North Gate;
+- Upper Pass;
+- Three Wells;
+- Miller's Gap;
+- East Road;
+- Old Toll.
 
 ## Test result
 
-**CONDITIONAL PASS.**
+**REPLACE BY DEFAULT; RETAIN ONLY IF LATER HISTORY EARNS IT.**
 
-Thunderstair can work as one naming layer, but it does not need to survive. Once the Highridge language/culture slice is deeper, compare it against a newly derived alternative. Keep whichever feels more natural.
+The useful discovery is not that Thunderstair is a good name.
+
+The useful discovery is that route names can have simultaneous:
+
+- local;
+- traveler;
+- legal;
+- commercial;
+
+forms.
 
 ### General mechanic recovered
 
-Highridge route names should often have **parallel local, commercial and legal forms**.
+High Country route names may have parallel names, but the ordinary form should usually be simpler than the fantasy-style legacy label.
 
 ---
 
@@ -127,102 +92,50 @@ Highridge route names should often have **parallel local, commercial and legal f
 
 ## Source material
 
-Legacy material describes **Blackbellow Consortium** as:
+Legacy material describes **Blackbellow Consortium** as a wealthy guild-run industrial city-state in the Western Uplands political ecosystem.
 
-- a wealthy guild-run Ironcrest city-state;
-- centered on a major foundry town;
-- ruled by forging families;
-- a labor and industrial rival to the Ironcrest Crown.
+## Grounded test
 
-The current competitive-sphere work treats Blackbellow as a strong provisional Ascendant candidate.
-
-## Weak version
-
-> The industrial city is called Blackbellow because it has black furnaces and bellows.
-
-Again, this is theme naming.
-
-## Better layered version
-
-### Layer 1 — older settlement
-
-The original settlement name is **UNKNOWN**.
-
-It may predate the city's industrial dominance.
-
-The place could originally have existed because of:
-
-- a river crossing;
-- a defensible valley;
-- a quarry;
-- farmland;
-- an older market;
-- a mine;
-- a shrine.
-
-This matters because the current world rule says Ironcrest settlements are mixed economies, not single-purpose factory towns.
-
-### Layer 2 — industrial district / guild nickname
-
-**Blackbellow** is a strong candidate for a later occupational nickname.
-
-Possible historical pathways to test later:
-
-- name of a famous foundry;
-- name of a forging family;
-- nickname for a smoke-darkened workshop district;
-- guild emblem or mark;
-- merchant shorthand for goods certified there.
-
-Do not choose among these yet.
-
-### Layer 3 — Consortium identity
-
-If the guild coalition becomes politically powerful, the industrial nickname may become an institutional brand:
+The underlying naming mechanism remains useful:
 
 ```text
-district / foundry / guild name
-→ commercial reputation
-→ coalition name
-→ political identity
-→ city-state exonym or legal short form
+older settlement
+→ famous workshop / family / district
+→ commercial shorthand
+→ political organization
 ```
 
-This would make **Blackbellow Consortium** a historically recent political name rather than an ancient city name.
+But **Blackbellow** itself is not protected.
 
-### Layer 4 — older local resistance
+The likely realistic order should be:
 
-Residents could continue using the pre-Consortium settlement name.
+1. determine why the settlement existed before industrial dominance;
+2. establish its older ordinary name;
+3. identify the workshop, family, street, mill, bridge, mine or district that later became commercially famous;
+4. see whether that ordinary name becomes the consortium's political label.
 
-That creates useful social distinctions:
+A real industrial city does not need a name containing:
 
-- old families use the old name;
-- guild officials say Blackbellow;
-- workers shorten it further;
-- Ironcrest court documents use a formal legal designation;
-- foreign merchants treat Blackbellow as the entire city.
+- black;
+- forge;
+- ember;
+- iron;
+- smoke;
+- bellow.
 
-### Political meaning
-
-Choosing the name can signal alignment.
-
-An Ironcrest court conservative might deliberately use the older city name to imply:
-
-> the Consortium is temporary; the city is older than it.
-
-An Ascendant sympathizer might insist on **Blackbellow** because the new identity represents economic independence.
+Those words should appear only when historically literal.
 
 ## Test result
 
-**STRONG CONCEPTUAL FIT, NAME STILL REVISABLE.**
+**MECHANISM PASSES; LEGACY NAME REMAINS REPLACEABLE.**
 
-The acquired commercial/political-name mechanism is strong. The literal word **Blackbellow** should still compete against names generated from the eventual Ironcrest linguistic and guild history.
+The city should probably receive a plainer settlement name first.
+
+A later guild / consortium name may then grow out of a real family, workshop, district, or trade mark.
 
 ### General mechanic recovered
 
-Industrial / guild power can rename a place **without literally issuing a renaming decree**.
-
-Commercial language can become political language.
+Commercial identity can become political identity without requiring a fantasy-industrial place name.
 
 ---
 
@@ -230,111 +143,86 @@ Commercial language can become political language.
 
 ## Source material
 
-Legacy notes describe **Zalhar** as:
+Legacy notes use **Zalhar** for an old walled South Country settlement claiming political lineage older than the central Mandate.
 
-- an ancient walled Sunplains settlement;
-- center of a petty kingdom;
-- claiming a lineage older than the central Mandate;
-- protective of its independence.
+## Earlier mistake
 
-Unlike names such as Dunespire or Golden Dunes Shore, **Zalhar is not transparently descriptive in English**.
+The earlier audit treated opacity itself as a strength:
 
-That is useful.
+> an old name can have a lost meaning.
 
-## Weak version
+That statement is true in the abstract, but it is not enough for this project.
 
-> Invent an English translation for Zalhar after the fact so the reader knows what it means.
+**Zalhar was invented first and given linguistic history afterward.**
 
-That would solve a problem that does not exist.
+Under the grounded rule, that reverses the burden of proof.
 
-## Better layered version
+## Grounded test
 
-### Layer 1 — old endonym
+An opaque old name is acceptable only if we already have something that can plausibly generate it:
 
-**Zalhar** is a good candidate for an old city endonym or a modern descendant of one.
+- an older language;
+- a founder / dynasty;
+- a borrowing;
+- a known sound change;
+- an inherited source name.
 
-Its original meaning can be:
+None of that currently exists for **Zalhar**.
 
-- unknown;
-- disputed;
-- changed by sound shifts;
-- preserved only in scholarly theories;
-- falsely explained by popular folk etymology.
+Therefore its opacity is not historical texture yet.
 
-The current evidence does **not** support choosing a meaning.
+It is simply unsupported invented phonetics.
 
-### Layer 2 — dynastic / civic titles
+## Better approach
 
-Later rulers may add titles without changing the core place name.
+First determine something concrete about the settlement:
 
-For example, records could distinguish:
+- built beside a particular spring;
+- grew around a canal gate;
+- named for a founding family;
+- occupied an older village;
+- known for an upper / lower city;
+- controlled a ford, hill, market or well.
 
-- city;
-- kingdom;
-- citadel;
-- dynasty;
-- old quarter;
+Then give it the ordinary translated name appropriate to that cause.
 
-through titles or grammatical forms around **Zalhar**.
-
-Exact forms remain unresolved.
-
-### Layer 3 — foreign exonyms
-
-Neighboring city-states may use their own pronunciation or historical exonym.
-
-A rival may have a name meaning something like “Old Walls” or “Western Gate,” but no such form should be invented until language/contact history supports it.
-
-### Layer 4 — Port / merchant usage
-
-Merchants often shorten difficult names or standardize spellings.
-
-A Port ledger may preserve a form different from local ceremonial usage.
-
-Again, exact form remains open.
-
-### Layer 5 — political revival
-
-If Zalhar's claim to pre-Mandate legitimacy becomes important, archaic spellings, old royal titles or recovered inscriptions can become politically fashionable.
-
-That lets language participate in the current Charter / Ascendant pressure without making the city itself a monoculture.
+If later language work naturally transforms that old form into something opaque, the opaque form is earned.
 
 ## Test result
 
-**STRONGEST CURRENT SURVIVAL CANDIDATE, NOT PROTECTED.**
+**FAILS CURRENT GROUNDED NAMING STANDARD.**
 
-An opaque old endonym is structurally strong. **Zalhar** currently fits that role better than the transparent compounds, but it remains replaceable if the eventual Sunplains language history produces something better.
+Zalhar should be treated as a legacy placeholder and replaced unless future language work independently reproduces or supports it.
 
 ### General mechanic recovered
 
-**Opacity is historical texture.**
-
-Not every name needs to be explainable to a modern speaker.
+**Opacity is an outcome of history, not a substitute for history.**
 
 ---
 
 # Comparison
 
-| Test | Best role for current name | What remains unknown |
+| Legacy test name | Current disposition | Useful mechanism retained |
 | --- | --- | --- |
-| Thunderstair | translated caravan / traveler exonym | local form, treaty form, fortress name |
-| Blackbellow | later guild / commercial / political identity | older settlement name, exact origin of nickname |
-| Zalhar | old endonym / substrate survival | original meaning, older spelling, foreign exonyms |
+| Thunderstair | **replace unless earned as literal traveler nickname** | local / traveler / legal names can coexist |
+| Blackbellow | **replaceable; mechanism stronger than literal name** | commercial / guild identity can become political identity |
+| Zalhar | **replace** | opaque names require an actual linguistic source |
 
-This demonstrates three different useful naming behaviors:
+The setting still needs translated names, acquired political names and old opaque names.
+
+But the order matters:
 
 ```text
-TRANSLATED EXONYM
-Thunderstair
-
-ACQUIRED POLITICAL / COMMERCIAL NAME
-Blackbellow
-
-OPAQUE OLD ENDONYM
-Zalhar
+history / language / ordinary use
+→ name
 ```
 
-The setting needs all three.
+not:
+
+```text
+cool fantasy name
+→ invented explanation
+```
 
 ---
 
@@ -342,48 +230,62 @@ The setting needs all three.
 
 ## Summithold
 
-Do not decide yet whether it is:
+**Replace unless a literal historical cause earns it.**
 
-- original local name;
-- translated title;
-- fortress name;
-- Convergence diplomatic form.
+“Summit” plus “hold” reads as a designed fantasy capital.
 
-Its connection to the Convergence makes its **legal / international name history** especially important.
+A central High Country city should instead be named from something ordinary such as:
+
+- market;
+- gate;
+- bridge;
+- well;
+- family;
+- old fort;
+- road junction.
 
 ## Cindermarch
 
-The word “march” carries a strong border-administration implication.
+Potentially salvageable only if both parts are historically literal:
 
-If retained, the best test is whether the city's or polity's history genuinely contains:
+- a real march / frontier district;
+- a grounded reason for “cinder.”
 
-- a frontier;
-- a march-like administrative district;
-- a later royal consolidation preserving that title.
-
-If not, the name is probably theme-first and should change.
+Otherwise replace.
 
 ## Aurorashore
 
-Could be:
+**Strong replacement candidate.**
 
-- translated prestige name;
-- court-era renaming;
-- poetic maritime exonym.
-
-It is weak as an unexplained ancient clan capital name.
+It reads as prestige-poetic branding rather than an inherited harbor name.
 
 ## Solanterra
 
-Do not force a pseudo-Latin etymology merely because the form suggests one to an English-speaking reader.
+**Strong replacement candidate until an actual language supports it.**
 
-If retained, build its history from the setting's own language contact.
+Do not preserve it by inventing pseudo-Latin history after the fact.
+
+## Rashira / Zalhar
+
+**Replace by default.**
+
+Their opacity is not evidence of realism without an underlying naming language.
+
+## Dunespire / Verdanthearth / Silvercrag / Deepwell Sanctum
+
+**Replace by default.**
+
+These read as theme-first fantasy names.
 
 ## Port
 
-“Port” itself may be one of the most successful names if treated as a common international shorthand whose simplicity reflects how globally familiar the city is.
+**Keep for now.**
 
-The legal civic title and older local harbor name can remain different.
+Its simplicity is a strength.
+
+A globally familiar harbor being called “Port” in interregional speech is more believable than replacing it with an ornate civic name merely because the city is important.
+
+Its formal civic or older local name can remain unresolved.
 
 ---
 
