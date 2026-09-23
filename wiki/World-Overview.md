@@ -10,16 +10,16 @@ The six major cultural-geographic traditions and their strongest core areas are:
 
 These labels do **not** mean six exclusive peoples occupying six exclusive territories. They identify broad historical concentrations. People carrying these cultures live throughout the known world, especially along trade routes, in cities, in border districts, and in ecologies where their inherited skills and institutions remain useful.
 
-- **Western Uplands** — western highlands and hills, unusually rich in useful ores and with a long tradition of mining, metalworking, organized labor, and fortified settlements.
-- **North Country** — colder northern coasts and interior margins, shaped by difficult seas, fisheries, shipping, clan and community obligations, and seasonal risk.
-- **River Country** — broad temperate agricultural country, with strong village networks, mixed farming, storage traditions, and cultural memory of crop disasters.
-- **High Country** — elevated crossroads country whose people became experts in caravan travel, mediation, market law, tolls, hospitality, and the management of routes.
-- **Forest Country** — large forested country where settlement, cultivation, hunting, timber, foraging, and spiritual traditions developed around the problem of living inside a powerful ecosystem rather than simply clearing it.
-- **South Country** — warmer and more arid southern/eastern country of mixed agriculture, orchards, irrigation, towns and city-states, coastal exchange, and highly developed civic cultures.
+- **Stone Hills** — western highlands and hills, unusually rich in useful ores and with a long tradition of mining, metalworking, organized labor, and fortified settlements.
+- **North Coast** — colder northern coasts and interior margins, shaped by difficult seas, fisheries, shipping, clan and community obligations, and seasonal risk.
+- **Low Rivers** — broad temperate agricultural country, with strong village networks, mixed farming, storage traditions, and cultural memory of crop disasters.
+- **High Roads** — elevated crossroads country whose people became experts in caravan travel, mediation, market law, tolls, hospitality, and the management of routes.
+- **Longwood** — large forested country where settlement, cultivation, hunting, timber, foraging, and spiritual traditions developed around the problem of living inside a powerful ecosystem rather than simply clearing it.
+- **Old Cities** — warmer and more arid southern/eastern country of mixed agriculture, orchards, irrigation, towns and city-states, coastal exchange, and highly developed civic cultures.
 
-These are **emphases, not total definitions**. River Country has smiths. Western Uplands has farms. North Country has inland villages. South Country has forests, uplands and poor pastoral districts beyond wealthy irrigated belts. Forest Country has farms, cities and open country. High Country has families who never see a caravan.
+These are **emphases, not total definitions**. Low Rivers has smiths. Stone Hills has farms. North Coast has inland villages. Old Cities has forests, uplands and poor pastoral districts beyond wealthy irrigated belts. Longwood has farms, cities and open country. High Roads has families who never see a caravan.
 
-The reverse matters just as much: **the cultures are not confined to their core ecologies**. Forest Country-descended communities can exist in large forests elsewhere. River Country families can establish farming and mill communities outside the River Country core. North Country maritime families can form old neighborhoods in distant ports. A Western Uplands craft lineage can remain culturally western after generations in Port.
+The reverse matters just as much: **the cultures are not confined to their core ecologies**. Longwood-descended communities can exist in large forests elsewhere. Low Rivers families can establish farming and mill communities outside the Low Rivers core. North Coast maritime families can form old neighborhoods in distant ports. A Stone Hills craft lineage can remain culturally western after generations in Port.
 
 Similar landscape does not automatically create the same culture, but migration and settlement can carry a culture into similar landscapes.
 
@@ -35,7 +35,7 @@ The same world is also a network of **overlapping identities**.
 
 People belong simultaneously to places, polities, families, classes, guilds, faiths, professions, informal networks and voluntary movements. Those affiliations frequently cross regional and political borders.
 
-This means a North Country sailor and a South Country merchant may share a guild; an Western Uplands worker and a High Country scholar may share a faith; a Port resident may feel stronger loyalty to a trans-regional social movement than to any kingdom.
+This means a North Coast sailor and a Old Cities merchant may share a guild; an Stone Hills worker and a High Roads scholar may share a faith; a Port resident may feel stronger loyalty to a trans-regional social movement than to any kingdom.
 
 See [Social Fabric](Social-Fabric.md) for the structural model and [Audience Movements](Culture/Audience-Movements.md) for one provisional example of a participatory movement that can cut across older institutions.
 
