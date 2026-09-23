@@ -529,6 +529,58 @@ Outputs:
 
 The goal is preservation without accidental canonization.
 
+## Council, guild and underworld legacy reconciliation — 2026-09-23
+
+Volume 08 received a full structural review.
+
+Outputs:
+
+- [Economic Council](../Politics/Economic-Council.md) — expanded with operational layers, aid/dependency, failure modes and unresolved succession;
+- [Council Legacy Reconciliation](Council-Legacy-Reconciliation.md);
+- [Guilds](../Politics/Guilds.md) — expanded with governance variation, certification, branches, cross-guild agreements and member-economic gaps;
+- [Guild Legacy Reconciliation](Guild-Legacy-Reconciliation.md);
+- [Crime and the Underworld](../Politics/Crime-and-Underworld.md) — expanded with criminal economics, cells, information crime and preserved faction seeds;
+- [Underworld Legacy Reconciliation](Underworld-Legacy-Reconciliation.md).
+
+**Council material retained**
+- generational institutional memory of pre-Convergence instability;
+- dependency / bottleneck control rather than direct government;
+- intermediaries, fronts and plausible deniability;
+- aid that creates long-term dependency;
+- gradual pressure;
+- use of real crises rather than secretly causing every crisis;
+- alternate supply chains, coalitions, exposure and internal rivalry as failure modes;
+- Circle of Mirrors concept preserved as a possible red-team / adversarial-feedback mechanism.
+
+**Guild material retained**
+- varied leadership models;
+- apprenticeship and professional progression;
+- quality seals, certification and blacklisting;
+- branch autonomy;
+- contract leverage;
+- cross-guild agreements;
+- guilds as cultural / technical transmission networks;
+- two-way bargaining with rulers and Council-linked interests.
+
+**Underworld material retained**
+- cellular networks;
+- ordinary trade fronts;
+- document / seal / art forgery;
+- smuggling as logistics;
+- information brokerage;
+- relic / provenance crime;
+- ideologically motivated clandestine groups;
+- provisional named seed bank including Black Tapestry, Painted Moon, Tallow Runners and Ebony Doves.
+
+**Demoted / rejected**
+- omnipotent Council control;
+- one Council family per old region;
+- old Dominus structure as current fact;
+- RPG-style Warriors / Assassins / Adventurers guild system;
+- one themed gang per region;
+- high-magic contraband and technology unsupported by World Rules;
+- detailed old faction leaders / symbols / branches as automatic canon.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
