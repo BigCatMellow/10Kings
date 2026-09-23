@@ -24,22 +24,22 @@ See [Economic Council](../Politics/Economic-Council.md).
 
 All provisional until naming systems are finalized. Existing names may be retained, reframed, or replaced based on cultural fit; see [Personal Naming Framework](../Reference/Personal-Naming-Framework.md).
 
-### Orin Slatehallow — Ironcrest
+### Orin Slatehallow — Western Uplands
 Young metalworker/technical reformer drawn into hidden patronage.
 
-### Maris Bleakshore — Northwind
+### Maris Bleakshore — North Country
 Coastal matriarch/leader who can influence maritime defense.
 
-### Rosana Meadowcroft — Greenvale
+### Rosana Meadowcroft — River Country
 Agricultural researcher/seed steward whose work changes food politics.
 
-### Samir Tareh — Highridge
+### Samir Tareh — High Country
 Caravan negotiator whose route decisions have continental effects.
 
-### Naruin Mossglade — Deepwood
+### Naruin Mossglade — Forest Country
 Forest warden whose defense of local rights can become a larger political flashpoint.
 
-### Bahriyya Nazar — Sunplains
+### Bahriyya Nazar — South Country
 Diplomat/reformer trying to coordinate divided city-states.
 
 See [Villain's Dominoes](Villains-Dominoes.md).
@@ -48,13 +48,13 @@ See [Villain's Dominoes](Villains-Dominoes.md).
 
 These names should not be treated as canon yet.
 
-### Mira Stonebridge — Underpass
+### Mira Stonebridge — Tunnels
 Experienced guide with enough route knowledge to influence caravan traffic.
 
-### Gharic Coalveil — Underpass/mining interests
+### Gharic Coalveil — Tunnels/mining interests
 Mining magnate whose ambitions could collide with enclave autonomy.
 
-### Ilya Dravencrest — Underpass enclave leader
+### Ilya Dravencrest — Tunnels enclave leader
 Leader opposing destabilizing expansion into deep tunnels.
 
 ## Character design rule
