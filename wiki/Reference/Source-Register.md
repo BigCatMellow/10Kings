@@ -785,6 +785,20 @@ Output:
 - old Deepwell / Underpass unified-state assumptions;
 - unsupported industrial / magical infrastructure.
 
+## Writing/worldbuilding guide gap extraction — 2026-09-23
+
+Volume 13 was reviewed as a **design checklist source**, not a lore source.
+
+It repeatedly flagged education, medicine, law, folk belief and timekeeping as categories a complete world should answer. Those categories are now actively routed through:
+
+- [Education and Knowledge Transmission](../Education-and-Knowledge-Transmission.md) — new structural synthesis;
+- [Medicine and Healing](../Medicine-and-Healing.md) — new structural synthesis;
+- [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md) — reviewed political-order owner;
+- [Folk Belief, Taboo, and Superstition](../Culture/Folk-Belief-Taboo-and-Superstition.md) — new structural synthesis;
+- [Calendars, Timekeeping, and Seasonal Coordination](../Calendar-and-Timekeeping.md) — reviewed language/contact owner.
+
+The generic Volume 13 examples are **not canon**. Its useful role was gap detection and design-question recovery.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
