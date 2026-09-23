@@ -397,7 +397,23 @@ Exact document forms remain open.
 
 ---
 
-# 8. Why judgments are obeyed
+# 8. Dates and deadlines are jurisdictional too
+
+See [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md).
+
+Cross-border contracts and legal acts need to specify enough time information that different local calendars do not create accidental ambiguity.
+
+Disputes can arise over:
+
+- which calendar controls;
+- whether a seasonal threshold occurred;
+- whether weather made performance impossible;
+- whether a message arrived after an effective date;
+- whether a deadline converts cleanly into another local system.
+
+Port, High Roads, and other cross-border legal environments therefore need practical date-conversion conventions even if the world never adopts one universal calendar.
+
+# 9. Why judgments are obeyed
 
 A judgment matters only if someone can make it costly to ignore.
 
@@ -423,7 +439,7 @@ A weak local court may depend on a guild, ruler, Port institution, or foreign au
 
 ---
 
-# 9. Cross-border enforcement depends on recognition
+# 10. Cross-border enforcement depends on recognition
 
 There is no current basis for assuming every polity automatically enforces every foreign judgment.
 
@@ -440,7 +456,7 @@ This makes **recognition** as important as judgment.
 
 ---
 
-# 10. Arbitration is central because sovereignty is fragmented
+# 11. Arbitration is central because sovereignty is fragmented
 
 Current sources repeatedly support arbitration as part of the world, especially through:
 
@@ -462,7 +478,7 @@ That makes arbitration a natural tool in this world.
 
 ---
 
-# 11. Arbitration should not become a magic solution
+# 12. Arbitration should not become a magic solution
 
 Arbitration can fail when:
 
@@ -485,7 +501,7 @@ Therefore the world should contain:
 
 ---
 
-# 12. Evidence follows the information system
+# 13. Evidence follows the information system
 
 See [Movement and Information](Movement-and-Information.md).
 
@@ -519,7 +535,7 @@ Different institutions can value evidence differently.
 
 ---
 
-# 13. Language and translation are legal problems
+# 14. Language and translation are legal problems
 
 The High Roads and Port are multilingual.
 
@@ -542,7 +558,7 @@ Exact professional structures remain open.
 
 ---
 
-# 14. Borders create jurisdictional ambiguity
+# 15. Borders create jurisdictional ambiguity
 
 The Convergence stabilized borders without making every frontier perfectly measured.
 
@@ -573,7 +589,7 @@ A river changing course can create a legal dispute even if nobody moved.
 
 ---
 
-# 15. Cultural borders and political borders do not match
+# 16. Cultural borders and political borders do not match
 
 See [Kingdoms and Politics](Politics/Kingdoms-and-Politics.md) and [Social Fabric](Social-Fabric.md).
 
@@ -593,7 +609,7 @@ Exact minority-rights arrangements remain local.
 
 ---
 
-# 16. Guild privilege is negotiated
+# 17. Guild privilege is negotiated
 
 Guilds can have meaningful legal autonomy without becoming states.
 
@@ -614,7 +630,7 @@ That helps preserve regional political variation.
 
 ---
 
-# 17. Religious mediation is socially powerful even without coercive jurisdiction
+# 18. Religious mediation is socially powerful even without coercive jurisdiction
 
 A faith can resolve a dispute because people trust it.
 
@@ -637,7 +653,7 @@ Those remain open.
 
 ---
 
-# 18. Mobile circuits and jurisdiction
+# 19. Mobile circuits and jurisdiction
 
 See [Nomads and Itinerant Peoples](Culture/Nomads.md).
 
@@ -673,7 +689,7 @@ The legal status of the same household may therefore change from stop to stop.
 
 This is a feature of the setting's layered jurisdiction, not an inconsistency.
 
-# 19. Criminal networks exploit jurisdictional gaps
+# 20. Criminal networks exploit jurisdictional gaps
 
 See [Crime and the Underworld](Politics/Crime-and-Underworld.md).
 
@@ -700,7 +716,7 @@ It makes them enforceable inside certain networks.
 
 ---
 
-# 20. Port is a legal switching point
+# 21. Port is a legal switching point
 
 Port is structurally important because it lets people from different systems interact under a relatively predictable neutral framework.
 
@@ -723,7 +739,7 @@ That is network enforcement, not world sovereignty.
 
 ---
 
-# 21. High Roads is an arbitration environment
+# 22. High Roads is an arbitration environment
 
 The High Roads has deep historical reasons to value negotiated obligation.
 
@@ -756,7 +772,7 @@ It should still contain:
 
 ---
 
-# 22. The Underpass is a jurisdictional stress test
+# 23. The Underpass is a jurisdictional stress test
 
 The Underpass demonstrates why political maps are incomplete.
 
@@ -788,7 +804,7 @@ That uncertainty is part of the Underpass's political value.
 
 ---
 
-# 23. Appeals are not universal
+# 24. Appeals are not universal
 
 Do not assume every judgment can be appealed up a neat hierarchy.
 
@@ -807,7 +823,7 @@ Exact appeal systems belong to individual polities and institutions.
 
 ---
 
-# 24. Forum shopping should exist
+# 25. Forum shopping should exist
 
 Where several authorities overlap, people will choose the forum that benefits them.
 
@@ -833,7 +849,7 @@ That creates ordinary legal politics without inventing new grand conflict.
 
 ---
 
-# 25. Jurisdiction produces class differences
+# 26. Jurisdiction produces class differences
 
 Access to law is not equal.
 
@@ -858,7 +874,7 @@ This means the same legal system can feel very different by class.
 
 ---
 
-# 26. Jurisdiction produces cultural bleed
+# 27. Jurisdiction produces cultural bleed
 
 Legal practice also travels.
 
@@ -878,7 +894,7 @@ This fits the wider world rule that cultural exchange is selective and generativ
 
 ---
 
-# 27. The Council and law
+# 28. The Council and law
 
 See [The Economic Council](Politics/Economic-Council.md).
 
@@ -901,7 +917,7 @@ Do not invent a secret Council judiciary unless a future world problem requires 
 
 ---
 
-# 28. The Villain and jurisdiction
+# 29. The Villain and jurisdiction
 
 The Villain can exploit jurisdiction without controlling it.
 
@@ -921,7 +937,7 @@ The strongest manipulation makes each actor's response locally reasonable.
 
 ---
 
-# 29. Worked example — damaged cross-border cargo
+# 30. Worked example — damaged cross-border cargo
 
 **Mechanism example, not a canon event.**
 
@@ -954,7 +970,7 @@ That is the kind of legal complexity the world should produce.
 
 ---
 
-# 30. Worked example — moving river border
+# 31. Worked example — moving river border
 
 **Mechanism example, not a canon event.**
 
@@ -989,7 +1005,7 @@ The whole problem is what that phrase means after history changes the landscape.
 
 ---
 
-# 31. What is established versus open
+# 32. What is established versus open
 
 ## Established structurally
 
@@ -1031,7 +1047,7 @@ The whole problem is what that phrase means after history changes the landscape.
 
 ---
 
-# 32. Standard jurisdiction test
+# 33. Standard jurisdiction test
 
 For any dispute, ask:
 
@@ -1052,7 +1068,7 @@ If these questions produce only one obvious authority every time, the world is p
 
 ---
 
-# 33. Design rule
+# 34. Design rule
 
 When adding legal detail:
 
