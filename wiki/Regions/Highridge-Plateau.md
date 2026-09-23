@@ -133,6 +133,12 @@ High Roads' route convergence creates practical demand for:
 
 That role grows from caravan traffic and cross-border contracting. It does not make High Roads one unified banking polity or financial monopoly.
 
+## Messages and relays
+
+See [Couriers, Posts, and Message Networks](../Couriers-Posts-and-Message-Networks.md).
+
+Because caravans, inns, route agents, interpreters, and merchants already converge here, High Roads is a natural overland place for message handoff, forwarding, and paid relay. Exact courier houses or relay stations remain open.
+
 ## Politics
 
 High Roads political power is distributed among:
