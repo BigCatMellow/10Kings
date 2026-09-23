@@ -78,8 +78,8 @@ Remaining questions:
 - Exact circuit patterns, legal attachment, access arrangements, taxation, and cross-jurisdiction status of mobile peoples. Their structural role as recurring circuit-based communities is now established in [Nomads and Itinerant Peoples](Culture/Nomads.md).
 - Exact travel times and seasonal reliability between major hubs.
 - Whether dedicated courier guilds or public postal systems exist, and where.
-- Literacy rates and the social reach of written records.
-- Standard seals, notarial practices, message houses, and document conventions.
+- Exact literacy rates, education systems, scripts, seal/signature practices, notarial roles, document forms, and public-record access. The structural model is now owned by [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md).
+- Exact message-house / courier institutions remain open.
 - Exact schedules / cadence for ships, caravans, pilgrimages, and itinerant circuits.
 - Which governments maintain their own messenger networks and how effective they are.
 - Whether rare magical communication exists at all.
@@ -165,6 +165,25 @@ Remaining questions:
 - Exact prevalence.
 - Whether some previously discussed "illusions," magical artifacts, special creatures, or supernatural claims are real, misunderstood, religious interpretations, or should be removed.
 - Clear hard limits.
+
+## Records and authentication
+
+[Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md) now establishes that literacy is task-specific, written evidence coexists with oral testimony, and document trust comes from institutional authority, custody, witnesses, recognizable form, registration, duplication, and cross-checking rather than writing alone.
+
+Remaining questions:
+
+- Literacy rates by class, occupation, polity, and region.
+- Education systems.
+- Writing materials and scripts.
+- Signature, personal-mark, and seal customs.
+- Notarial or equivalent offices.
+- Standard contract and registry forms.
+- Public-record access.
+- Rules for authoritative translations and treaty copies.
+- Port and High Roads registry systems.
+- Religious registration practices.
+- Council record authentication and preservation.
+- Long-term archive preservation.
 
 ## Language and naming
 
