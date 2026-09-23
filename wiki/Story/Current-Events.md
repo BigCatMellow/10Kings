@@ -14,7 +14,7 @@ Some are ordinary events opportunistically used by both.
 
 That distinction is essential.
 
-## Western Uplands
+## Stone Hills
 
 ### Labor unrest
 
@@ -35,7 +35,7 @@ Different observers blame:
 - corrupt guild masters;
 - foreign buyers.
 
-## North Country
+## North Coast
 
 ### Fish stocks and access
 
@@ -51,9 +51,9 @@ This creates:
 
 Raids are increasing.
 
-A response that looks purely defensive to North Country can look like maritime militarization to South Country or Port merchants.
+A response that looks purely defensive to North Coast can look like maritime militarization to Old Cities or Port merchants.
 
-## River Country
+## Low Rivers
 
 ### Abundance crisis
 
@@ -72,7 +72,7 @@ Large interests attempt to acquire distressed farms.
 
 Reformers accuse them of engineering the crisis.
 
-## High Country
+## High Roads
 
 ### Caravan attacks
 
@@ -84,9 +84,9 @@ Towns bypassed by new routes suffer immediately.
 
 ### Political debate
 
-High Country intellectual disputes are increasingly tied to real patrons and commercial interests.
+High Roads intellectual disputes are increasingly tied to real patrons and commercial interests.
 
-## Forest Country
+## Longwood
 
 ### Logging and road conflict
 
@@ -100,7 +100,7 @@ A disease or ecological change affects important forest foods/commodities.
 
 This may be natural, accidentally human-caused, or exploited by manipulators.
 
-## South Country
+## Old Cities
 
 ### Drought anxiety
 
@@ -166,16 +166,16 @@ Faiths are beginning to interpret the crises trans-regionally:
 
 One possible chain:
 
-1. North Country piracy raises shipping risk.
+1. North Coast piracy raises shipping risk.
 2. Port insurance/credit tightens.
-3. River Country merchants cancel distant grain purchases.
-4. River Country grain prices collapse locally.
+3. Low Rivers merchants cancel distant grain purchases.
+4. Low Rivers grain prices collapse locally.
 5. farmers default.
 6. Council finance tries to stabilize lenders.
 7. land consolidators buy distressed farms.
 8. religious and guild reformers call it coordinated theft.
-9. protests affect tool orders from Western Uplands.
-10. Western Uplands workshops reduce hours.
+9. protests affect tool orders from Stone Hills.
+10. Stone Hills workshops reduce hours.
 11. strike leaders blame owners.
 12. Villain agents amplify evidence of Council involvement.
 13. a local economic shock becomes proof, in several regions, that another group is acting against them.
