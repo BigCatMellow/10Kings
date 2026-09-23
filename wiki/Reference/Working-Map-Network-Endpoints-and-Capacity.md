@@ -692,6 +692,10 @@ At G1 upper navigation limit.
 
 On both sides of R2's pack-transfer segment.
 
+[North Shoulder Paired Roadheads — Middle-Worldbuilding Test](North-Shoulder-Paired-Roadheads-Test.md) now tests the two settlements as one coupled transport system.
+
+**Result:** strong pass. Cart-to-pack transfer generates animal markets, storage, guides, rescue, route-status information, layered contracts, seasonal labor, and a shared economic interest in keeping the corridor trusted.
+
 ## Western Gate service town(s)
 
 At the difficult R1 section.
