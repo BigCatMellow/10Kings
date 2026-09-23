@@ -6,6 +6,10 @@
 
 Forest Country is a major forest region whose people have developed institutions for living with, using, and defending the forest. It should not be written as an undifferentiated mystical wilderness.
 
+## Cultural reach
+
+Forest Country is a **cultural core and historical concentration**, not “the place where forest people live.” Forest Country-descended communities can exist in major forests elsewhere, adapting inherited institutions to new ecologies. Other large forests can also contain culturally unrelated peoples who developed different solutions to similar environmental pressures.
+
 ## Geography
 
 Forest Country contains:
