@@ -1,14 +1,14 @@
-# High Roads
+# The High Roads
 
 ## Status
 
 **Working canon.**
 
-High Roads is a highland crossroads, not simply "the merchant region." Its importance comes from geography: routes that avoid or cross parts of Central Range naturally converge here.
+The High Roads form a highland crossroads, not simply "the merchant region." Its importance comes from geography: routes that avoid or cross parts of Central Range naturally converge here.
 
 ## Cultural reach
 
-High Roads is a **cultural core and historical concentration**, not a bounded caravan people. Merchant, herding, route, interpreter and arbitration traditions can persist along distant roads and in foreign cities. The geographic High Roads is especially mixed because repeated travel and settlement have brought many other cultural traditions into its towns.
+The High Roads are a **cultural core and historical concentration**, not a bounded caravan people. Merchant, herding, route, interpreter and arbitration traditions can persist along distant roads and in foreign cities. The geographic High Roads region is especially mixed because repeated travel and settlement have brought many other cultural traditions into its towns.
 
 ## Geography
 
@@ -26,7 +26,7 @@ The environment favors people who understand movement, timing, weather, animals,
 
 ## Historical identity
 
-Pre-Convergence High Roads was highly fragmented.
+Pre-Convergence High Roads society was highly fragmented.
 
 Power belonged to:
 - pass lords;
