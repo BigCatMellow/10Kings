@@ -1,14 +1,14 @@
-# Northwind
+# North Country
 
 ## Status
 
 **Working canon.**
 
-Northwind is colder than most of the known world and unusually maritime, but its people are not uniformly fishers or stoic seafarers. The region includes coastal towns, sheltered inland valleys, grazing country, forests in milder zones, craft centers, small farms, shipping ports, islands, and old clan territories.
+North Country is colder than most of the known world and unusually maritime, but its people are not uniformly fishers or stoic seafarers. The region includes coastal towns, sheltered inland valleys, grazing country, forests in milder zones, craft centers, small farms, shipping ports, islands, and old clan territories.
 
 ## Geography
 
-Northwind occupies much of the Northern Continent and associated coasts and islands.
+North Country occupies much of the Northern Continent and associated coasts and islands.
 
 Important environmental facts:
 - cold seas;
@@ -17,13 +17,13 @@ Important environmental facts:
 - rocky coasts;
 - sheltered coves;
 - some partially freezing waters;
-- inland routes toward Highridge.
+- inland routes toward High Country.
 
 Its settlements cluster where geography offers a reason to stay: a good harbor, a protected bay, a navigable river, a reliable fishery, pasture, timber, or a route south.
 
 ## Historical identity
 
-Northwind's pre-Convergence politics were fragmented among:
+North Country's pre-Convergence politics were fragmented among:
 - coastal clans;
 - fishing confederacies;
 - harbor towns;
@@ -35,7 +35,7 @@ Control of land mattered, but control of **water and seasonal access** often mat
 
 A clan might lose a harbor yet retain boats, kin alliances, and offshore rights. A political border on shore did not necessarily define who fished a bank or used a winter anchorage.
 
-This history explains why modern Northwind politics remain sensitive to:
+This history explains why modern North Country politics remain sensitive to:
 - access rights;
 - clan obligation;
 - shared rescue;
@@ -54,7 +54,7 @@ Avoid generic "Viking culture."
 
 ## Language
 
-Northwind languages may include:
+North Country languages may include:
 - inclusive/exclusive "we";
 - strong evidential markers;
 - directional vocabulary tied to coast, wind, and slope;
@@ -99,7 +99,7 @@ Remote families build for insulation, repairability, and available material. Dri
 
 ## Food
 
-Northwind food should show both scarcity management and trade.
+North Country food should show both scarcity management and trade.
 
 Common techniques:
 - drying;
@@ -117,13 +117,13 @@ Foods may include:
 - dairy where herding is possible;
 - berries;
 - preserved meats;
-- imported Greenvale flour and Sunplains oils or fruit in wealthier ports.
+- imported River Country flour and South Country oils or fruit in wealthier ports.
 
 Alcohol can include grain ales, berry ferments, mead-like drinks, and imported spirits.
 
 ## Politics
 
-Northwind's political tensions often revolve around:
+North Country's political tensions often revolve around:
 - fishing rights;
 - harbor control;
 - convoy protection;
@@ -144,6 +144,6 @@ Northwind's political tensions often revolve around:
 
 ## Story function
 
-Northwind lets the story ask: **when survival requires cooperation, who gets to define the group?**
+North Country lets the story ask: **when survival requires cooperation, who gets to define the group?**
 
 Its social strength can become political vulnerability when false information changes who people believe threatens that group.
