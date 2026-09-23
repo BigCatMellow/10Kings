@@ -1,5 +1,7 @@
 # Villain's Dominoes
 
+See [Grounded Domino Design Method](../Reference/Grounded-Domino-Design.md) for the active non-canon method extracted from the legacy domino research.
+
 ## Concept
 
 The Villain's plan is not one giant conspiracy in which every event is directly controlled.
