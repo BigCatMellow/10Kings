@@ -1001,6 +1001,100 @@ Then test whether the practice still makes sense after removing explicit referen
 
 Structural principle promoted to World Rules, Social Fabric, Culture and Food. Exact contact-zone traditions remain provisional.
 
+
+## Candidate 26 — Cultural incubation, circulation and prestige may be different systems
+
+**Sources**
+
+- [Arts, Music and Leisure](../Culture/Arts-Music-and-Leisure.md)
+- [Culture Phase 5 — Arts, Leisure and Public-Culture Vertical Slices](Culture-Phase-5-Arts-Leisure-Vertical-Slices.md)
+- [Port](../Places/Port.md)
+- [High Roads](../Regions/Highridge-Plateau.md)
+- [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md)
+
+**Connection**
+
+The Phase 5 slices show that making a new cultural form, spreading it, and making it prestigious require different conditions.
+
+Port has strong conditions for dense mixed audiences and scene formation.
+
+High Roads has strong conditions for repeated circulation, adaptation and retransmission.
+
+The Old Cities have established conditions for merchant / civic patronage and prestige competition.
+
+**New implication**
+
+The world may not have one "cultural capital."
+
+Instead, cultural influence can move through a chain such as:
+
+```text
+local scene / experiment
+→ travel network
+→ imitation and mutation
+→ wealthy patron or civic adoption
+→ prestige recognition
+→ return influence on the original scene
+```
+
+A form can therefore be invented in one place, made popular somewhere else, and made respectable somewhere else again.
+
+**Why it matters**
+
+This gives the competitive spheres something meaningful to compete over besides territory and formal institutions.
+
+It also prevents Port's ECW-like role from becoming "Port invents everything." Port can be unusually good at incubation while depending on other places for distribution, money, preservation or prestige.
+
+**Smallest test**
+
+Create one provisional Port-born performance or game and trace:
+
+1. why it forms in a specific Port scene;
+2. how a traveler carries it onto the High Roads or another established route;
+3. what changes during circulation;
+4. why an Old Cities patron, guild or rival sphere institution adopts it;
+5. what the prestige version changes or erases;
+6. how Port residents react when the altered form returns.
+
+If each step follows existing institutions without inventing a new cultural bureaucracy, the mechanism passes.
+
+**Disposition**
+
+Strong Phase 5 candidate; exact form and place-to-place sequence remain provisional.
+
+## Candidate 27 — Low-infrastructure popular culture can outrun political identity
+
+**Sources**
+
+- [Arts, Music and Leisure](../Culture/Arts-Music-and-Leisure.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Culture and Influence](../Culture/Culture-and-Influence.md)
+- [Audience Movements](../Culture/Audience-Movements.md)
+
+**Connection**
+
+Songs, jokes, children's games, simple dances and compact game rules can travel with individuals and require less material infrastructure than architecture, cuisine or formal institutions.
+
+**New implication**
+
+People in politically hostile or culturally distant places may share pieces of popular culture before they share institutions or consciously identify with one another.
+
+A child, sailor, apprentice or caravan worker can carry a form across a border without intending cultural exchange.
+
+**Why it matters**
+
+This creates a fast layer of trans-regional culture beneath slower identities.
+
+It may also help explain why formal political narratives never completely map onto everyday social life.
+
+**Smallest test**
+
+Take one simple game, rhyme or song fragment and trace it through three politically different communities over one generation. Require the form to change at each stop and test whether the communities can share it without developing the same political identity.
+
+**Disposition**
+
+Incubating; structurally plausible, but needs a concrete diffusion example before promotion.
+
 ## Promotion rule
 
 Nothing on this page becomes canon because it sounds useful.
