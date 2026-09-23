@@ -74,6 +74,7 @@
 - [Council Legacy Reconciliation](Reference/Council-Legacy-Reconciliation.md)
 - [Guild Legacy Reconciliation](Reference/Guild-Legacy-Reconciliation.md)
 - [Underworld Legacy Reconciliation](Reference/Underworld-Legacy-Reconciliation.md)
+- [Regional and Polity Legacy Reconciliation](Reference/Regional-Polity-Legacy-Reconciliation.md)
 - [Language History and Naming Audit](Reference/Language-History-and-Naming-Audit.md)
 - [Grounded Naming Realignment](Reference/Grounded-Naming-Realignment.md)
 - [Naming History Vertical Slices](Reference/Naming-History-Vertical-Slices.md)
