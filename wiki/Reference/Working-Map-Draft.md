@@ -414,16 +414,45 @@ Still UNKNOWN:
 - prevailing winds and currents;
 - which settlements from the legacy name bank survive.
 
+## Scale test result — 2026-09-23
+
+[Working Map — Scale and Travel-Time Test V1](Working-Map-Scale-and-Travel-Test.md) has now tested this geometry against:
+
+- walking / pack / cart travel;
+- mounted dispatch;
+- river movement;
+- coastal sailing;
+- seasonal delay;
+- Underpass capacity;
+- rerouting after closures.
+
+**Result: V1 passes at the network level.**
+
+Strong surviving geometry:
+
+- the Y-shaped central convergence remains viable;
+- Port works best at the G1 estuary / strait system just south of the central junction;
+- the southeastern North Coast shoulder remains the strongest constrained overland solution;
+- Western Gate remains important without becoming the only west/east route;
+- Underpass branches remain useful because capacity, reliability and secrecy differ from surface routes.
+
+Still provisional:
+
+- exact coastlines;
+- island vs peninsula vs mainland Port footprint;
+- exact miles;
+- exact river endpoints;
+- exact road engineering;
+- final pass / entrance locations.
+
 ## What should happen next
 
-The next geography pass should test **scale and travel time** against V1.
+The next geography pass should resolve **network endpoints and capacity**, especially:
 
-That pass should answer:
+- where G1 stops being navigable upstream;
+- which surface roads carry heavy carts end-to-end;
+- final Port local harbor / estuary geometry;
+- which chokepoints have enough throughput to become strategic;
+- where the major Underpass entrances actually meet surface settlements.
 
-- how many days between the major hubs by ordinary travel;
-- which routes are cart-capable;
-- where river navigation stops;
-- how season changes those times;
-- whether Port / High Roads substitution still works once time and transport capacity are quantified.
-
-If V1 survives that test, its major geometry can be promoted from provisional draft into the geography owner. If not, revise the geometry rather than bending logistics to preserve the picture.
+Do not redraw the whole topology unless one of those tests creates a contradiction.
