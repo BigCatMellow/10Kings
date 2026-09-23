@@ -46,6 +46,12 @@ Earlier notes include:
 
 These should be developed carefully so they function as plausible institutions rather than game classes.
 
+## Apprenticeship and training
+
+See [Education, Training, and Knowledge Transmission](../Education-Training-and-Knowledge.md).
+
+Guilds are major providers and regulators of professional education where they control apprenticeship, standards, and certification. Training can protect skill and workers while also creating barriers to entry. Not every occupation or apprenticeship is guild-controlled.
+
 ## What guilds want
 
 No guild wants only "more power."
@@ -90,7 +96,7 @@ Debating:
 - Port influence;
 - route exclusivity.
 
-### High Country caravan organizations
+### High Roads caravan organizations
 
 Competing over:
 - safe-route certification;
