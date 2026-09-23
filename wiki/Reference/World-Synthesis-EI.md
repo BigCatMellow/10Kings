@@ -1095,6 +1095,125 @@ Take one simple game, rhyme or song fragment and trace it through three politica
 
 Incubating; structurally plausible, but needs a concrete diffusion example before promotion.
 
+## Candidate 28 — Calendars can function as coordination infrastructure
+
+**Sources**
+
+- [Festivals, Seasonal Life and Public Ritual](../Culture/Festivals-and-Seasonal-Life.md)
+- [Culture Phase 6 — Festivals and Life-Cycle Ritual Vertical Slices](Culture-Phase-6-Festivals-Life-Cycle-Vertical-Slices.md)
+- [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
+- [Daily Life and Customs](../Culture/Daily-Life-and-Customs.md)
+
+**Connection**
+
+Recurring dates can coordinate work, travel, debt, maintenance, markets, pilgrimage, household reunion and public space even when no single government controls the whole calendar.
+
+**New implication**
+
+Calendar systems may act like soft infrastructure.
+
+A shared date or seasonal threshold can synchronize thousands of independent decisions:
+
+```text
+expected date / season
+→ preparation
+→ movement of people and goods
+→ temporary labor demand
+→ debt / contract timing
+→ public gathering
+→ institutional visibility
+```
+
+Different calendars can overlap or compete.
+
+A guild date, religious observance, market cycle and civic anniversary may all matter to the same person.
+
+**Why it matters**
+
+This gives timekeeping social and economic consequences without requiring a modern centralized calendar bureaucracy.
+
+It also creates plausible friction when:
+
+- polities standardize dates differently;
+- routes open late;
+- religious calendars drift from work cycles;
+- a government moves a holiday;
+- creditors exploit a traditional payment date;
+- migrants observe a date their new neighbors do not.
+
+**Smallest test**
+
+Choose one recurring event in three neighboring polities and determine:
+
+1. who defines the date;
+2. who must prepare for it;
+3. which contracts or work cycles depend on it;
+4. what happens if the date changes by a week;
+5. whether people can coordinate without one central authority.
+
+**Disposition**
+
+Strong Phase 6 candidate. The mechanism passed several vertical slices; actual calendar systems and date standardization remain unresolved.
+
+## Candidate 29 — Ritual can survive after its original explanation changes
+
+**Sources**
+
+- [Festivals, Seasonal Life and Public Ritual](../Culture/Festivals-and-Seasonal-Life.md)
+- [Contested Historical Memory](../History/Contested-Memory.md)
+- [Arts, Music and Leisure](../Culture/Arts-Music-and-Leisure.md)
+- [Religions](../Politics/Religions.md)
+
+**Connection**
+
+A recurring observance can acquire practical functions beyond the belief or historical explanation that originally created it.
+
+Businesses prepare for it.
+
+Families reunite around it.
+
+Public space is reserved.
+
+Contracts are timed around it.
+
+Performers depend on it.
+
+Local identity attaches to it.
+
+**New implication**
+
+A ritual may persist even when participants disagree about what it means or no longer accept its original explanation.
+
+Over generations:
+
+```text
+practical / religious origin
+→ repeated gathering
+→ institutional dependence
+→ family memory
+→ commercial / civic reuse
+→ new explanation
+```
+
+The same practice can therefore be ancient in form but comparatively new in meaning.
+
+**Why it matters**
+
+This helps the setting avoid two extremes:
+
+- every tradition remaining unchanged for centuries;
+- every decline in belief instantly erasing associated customs.
+
+It also creates useful conflict between religious authorities, civic institutions, merchants, revivalists and ordinary participants.
+
+**Smallest test**
+
+Take one provisional observance and write three generations of explanations for why people continue it. The material practice should remain recognizable while the dominant justification changes.
+
+**Disposition**
+
+Strong candidate; needs a named historical example before promotion.
+
 ## Promotion rule
 
 Nothing on this page becomes canon because it sounds useful.
