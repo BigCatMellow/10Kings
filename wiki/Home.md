@@ -21,6 +21,7 @@ The setting should make it possible to follow one damaged bridge, missing carava
 - [World Rules](World-Rules.md)
 - [Geography and Connections](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
+- [Movement and Information](Movement-and-Information.md)
 - [Pre-Convergence History](History/Pre-Convergence.md)
 - [Contested Historical Memory](History/Contested-Memory.md)
 - [The Convergence](History/The-Convergence.md)
