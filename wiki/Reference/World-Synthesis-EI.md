@@ -215,24 +215,24 @@ The next economics pass should therefore model **production + preservation + sto
 
 Supported at the pattern level; food-system test passed and sharpened the storage / preservation mechanism.
 
-## Candidate 7 — The Tunnels are a systemic bypass valve
+## Candidate 7 — The Underpass are a systemic bypass valve
 
 **Sources**
 
-- [The Tunnels](../Places/The-Underpass.md)
+- [The Underpass](../Places/The-Underpass.md)
 - [Geography and Connections](../Geography-and-Connections.md)
 - [Crime and the Underworld](../Politics/Crime-and-Underworld.md)
 - [Current Events](../Story/Current-Events.md)
 
 **Connection**
 
-The Tunnels create functional adjacency and contains public, local, religious, criminal, unstable, and hidden routes.
+The Underpass create functional adjacency and contains public, local, religious, criminal, unstable, and hidden routes.
 
 **New implication**
 
 When official surface routes become expensive, blocked, militarized, or politically restricted, pressure should redirect toward Tunnels routes.
 
-That can make the Tunnels a recurring **bypass valve** for legitimate trade, smuggling, refugees, intelligence, and political influence.
+That can make the Underpass a recurring **bypass valve** for legitimate trade, smuggling, refugees, intelligence, and political influence.
 
 **Why it matters**
 
@@ -244,7 +244,7 @@ Take one surface-route disruption and trace what realistically shifts undergroun
 
 **Test result — 2026-09-22**
 
-[Working Map Draft — Geometry V1](Working-Map-Draft.md) gives the Tunnels limited alternate branches beside major surface routes. In the Western Gate closure test, some movement can shift underground without giving the Tunnels enough capacity or reliability to replace the surface network.
+[Working Map Draft — Geometry V1](Working-Map-Draft.md) gives the Underpass limited alternate branches beside major surface routes. In the Western Gate closure test, some movement can shift underground without giving the Underpass enough capacity or reliability to replace the surface network.
 
 This supports the bypass-valve mechanism at the provisional map level. It is not yet promoted because route capacity, travel time, collapse risk, and actual entrances remain unresolved.
 
