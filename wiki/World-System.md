@@ -106,7 +106,11 @@ Credit, debt, contracts, tolls, storage claims, insurance-like arrangements, pat
 
 ### Information
 
+See [Movement and Information](Movement-and-Information.md).
+
 Market reports, rumors, maps, religious messages, guild knowledge, political intelligence, family news, technical knowledge, propaganda, and records.
+
+Information follows physical and social routes rather than spreading evenly. Its effective speed depends on departure delay, travel, handoffs, translation/copying, verification, and political friction. A rumor may therefore outrun a verified report without physically moving faster than its human carriers.
 
 A disruption in one flow can alter all the others.
 
@@ -124,7 +128,7 @@ Important examples include:
 - food storage and seed networks;
 - mines, foundries, timber/fuel supply, and strategic workshops;
 - credit and exchange;
-- records, maps, and trusted information networks.
+- records, maps, and trusted information networks; see [Movement and Information](Movement-and-Information.md).
 
 A chokepoint matters because many independent actors rely on it.
 
