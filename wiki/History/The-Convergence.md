@@ -315,6 +315,8 @@ This avoids forcing every post-Convergence institution into one founding text.
 
 # 8. Enforcement
 
+See [Convergence Enforcement and Violation Tests](../Reference/Convergence-Enforcement-and-Violation-Tests.md).
+
 The Convergence has no established central sovereign capable of enforcing every clause.
 
 Its rules survive through **reciprocal dependence**.
@@ -333,6 +335,8 @@ Possible enforcement mechanisms already supported by the world include:
 - limited joint security action against threats to agreed routes.
 
 This means compliance is strongest where several independent actors all benefit from the same rule.
+
+The tested escalation model supports a broad sequence from complaint / local cure through arbitration, commercial pressure, reciprocal restriction, coalition pressure, targeted suspension, limited joint enforcement, and finally open conflict if the settlement fails. Exact procedure remains case-specific.
 
 ---
 
