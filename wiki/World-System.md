@@ -116,6 +116,8 @@ Information follows physical and social routes rather than spreading evenly. Its
 
 A disruption in one flow can alter all the others.
 
+See [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md). These flows are also scheduled: harvests, sailing windows, pass openings, markets, debts, pilgrimages, and mobile circuits all depend on overlapping time systems. Cross-border institutions need ways to translate dates without requiring one universal cultural calendar.
+
 ## 5. Chokepoints and bypasses
 
 The world has no single switch that controls everything. It has **chokepoints**.
