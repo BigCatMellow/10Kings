@@ -44,6 +44,8 @@ Diplomat/reformer trying to coordinate divided city-states.
 
 See [Villain's Dominoes](Villains-Dominoes.md).
 
+See [Story Core and Character Legacy Reconciliation](../Reference/Story-Core-Legacy-Reconciliation.md) for additional grounded legacy antagonist archetypes preserved as seed material rather than current characters.
+
 ## Additional provisional figures from earlier brainstorming
 
 These names should not be treated as canon yet.
