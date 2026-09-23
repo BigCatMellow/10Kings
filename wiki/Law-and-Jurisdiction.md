@@ -503,7 +503,7 @@ Therefore the world should contain:
 
 # 13. Evidence follows the information system
 
-See [Movement and Information](Movement-and-Information.md).
+See [Movement and Information](Movement-and-Information.md) and [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md).
 
 Evidence can include:
 
