@@ -11,7 +11,7 @@ These are the questions that most strongly affect multiple other pages. They sho
 The broad topology is now captured in [Geography and Connections](Geography-and-Connections.md). The remaining questions are map-detail questions rather than a blank-slate geography problem:
 
 - Exact outlines and proportions of the three continents.
-- Exact physical form of the North Country ↔ Central Range / High Country connection.
+- Exact physical form of the North Country ↔ The Spine / High Country connection.
 - Exact location and territorial form of Port: mainland coast, peninsula, island, estuary, or strait-side district.
 - Named major navigable rivers and watershed boundaries.
 - Exact major surface passes, old roads, maritime lanes, and Underpass entrances.
@@ -64,7 +64,7 @@ The sections below retain the more detailed unresolved questions.
 - Exact location of Port.
 - Which regional borders are long boundaries versus narrow corridors.
 - Whether High Country directly borders South Country.
-- Exact relationship of Central Range to continental separation.
+- Exact relationship of The Spine to continental separation.
 - Navigable rivers and major watersheds.
 
 ## Political structure
