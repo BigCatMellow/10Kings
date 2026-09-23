@@ -8,6 +8,8 @@ Most people do not carry battlefield weapons all day.
 
 Self-defense often uses tools already present in daily life.
 
+See [Military and Weapons Legacy Reconciliation](../Reference/Military-Weapons-Legacy-Reconciliation.md) for the deliberate Volume 09 salvage pass. The old named regional armies and signature-weapon sets remain provisional or rejected; the retained material is institutional and logistical.
+
 ## Stone Hills
 
 Common:
@@ -118,6 +120,40 @@ Specialized troops use:
 - lamps.
 
 Long weapons are often impractical.
+
+## Military organization
+
+Military organization belongs to **polities and institutions**, not cultural regions.
+
+A polity may rely on some mixture of:
+- household / ruler-controlled troops;
+- town watches;
+- militias or levies;
+- clan forces;
+- guild specialists;
+- mercenary companies;
+- convoy guards;
+- harbor patrols;
+- professional cadres.
+
+Militias trade permanent readiness for local knowledge and lower standing cost.
+
+Professional forces trade cost and political risk for regular training, command structure and campaign endurance.
+
+## Logistics
+
+A force is constrained by:
+- food;
+- footwear;
+- animal feed;
+- ammunition;
+- spare shafts / strings / leather;
+- repair labor;
+- transport;
+- medical care;
+- pay.
+
+A force that cannot sustain those systems is not elite simply because its equipment is expensive.
 
 ## Elite troop rule
 
