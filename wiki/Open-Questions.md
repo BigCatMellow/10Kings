@@ -8,12 +8,27 @@ These are the questions that most strongly affect multiple other pages. They sho
 
 ### 1. Physical network
 
-- Exact outlines of the three continents.
-- Exact location and surrounding territory of Port.
-- Exact relationship of The Spine to continental separation.
-- Major navigable rivers and watersheds.
-- Major surface passes, maritime lanes, and Underpass connections.
-- Which regional borders are broad frontiers versus narrow corridors.
+The **relative regional topology is now working canon** in [Geography and Connections](Geography-and-Connections.md):
+
+- Ironcrest — west;
+- Northwind — north;
+- Highridge — central/Spine bridge;
+- Greenvale — eastern heartland;
+- Deepwood — eastern/central forest belt;
+- Sunplains — south/southeast;
+- Port — central maritime hub.
+
+Still unresolved:
+
+- exact coastline redraw and scale;
+- exact location and territorial footprint of Port;
+- exact geometry of the narrow Ironcrest ↔ Greenvale and Ironcrest ↔ Deepwood contacts;
+- whether Highridge directly borders Sunplains or only connects by route;
+- major navigable rivers and watersheds;
+- named major Spine passes;
+- named major Underpass entrances;
+- primary maritime lanes;
+- approximate travel times and seasonal closures.
 
 ### 2. Post-Convergence political order
 
@@ -50,17 +65,6 @@ These are the questions that most strongly affect multiple other pages. They sho
 - The Villain's exact grievance and desired political end state.
 - Which current crises are ordinary, manipulated, Council responses, or combinations.
 - Where Wurdren begins and which human-scale problem first connects him to the larger system.
-
-The sections below retain the more detailed unresolved questions.
-
-## Map
-
-- Exact outlines of the three continents.
-- Exact location of Port.
-- Which regional borders are long boundaries versus narrow corridors.
-- Whether Highridge directly borders Sunplains.
-- Exact relationship of The Spine to continental separation.
-- Navigable rivers and major watersheds.
 
 ## Political structure
 
@@ -117,4 +121,4 @@ The sections below retain the more detailed unresolved questions.
 
 ## Current events
 
-The events pages preserve the current web of crises, but many were brainstormed rather than formally selected. They should be audited once the map and villain plan are finalized.
+The events pages preserve the current web of crises, but many were brainstormed rather than formally selected. They should be audited once the villain plan and remaining physical-route details are finalized.
