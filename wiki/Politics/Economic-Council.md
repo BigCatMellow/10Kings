@@ -4,11 +4,13 @@
 
 The Council is a secret or semi-secret association of **wealthy families whose power crosses regional borders**.
 
-They do not represent Western Uplands, River Country, North Country, or any other kingdom.
+They do not represent Stone Hills, Low Rivers, North Coast, or any other kingdom.
 
 They control economic systems on which *all* kingdoms depend.
 
 The exact number of seats can still change. The current model uses six domains because each represents a distinct kind of leverage.
+
+A full review of the older Council material is preserved in [Council Legacy Reconciliation](../Reference/Council-Legacy-Reconciliation.md). Older Dominus titles, region-coded families, and alternate domain schemes remain available as design history / provisional name quarry rather than active structure.
 
 ## 1. Food and Biological Supply
 
@@ -46,7 +48,7 @@ Influence over:
 - weapon-grade metal;
 - construction metal.
 
-Its power spans Western Uplands mines, Forest Country timber/fuel disputes, High Country demand, North Country ship fittings, and South Country construction.
+Its power can touch Stone Hills mining, Longwood timber/fuel disputes, High Roads demand, North Coast ship fittings, and Old Cities construction without any one region being its exclusive base.
 
 ## 3. Routes and Transport
 
@@ -58,7 +60,7 @@ Influence over:
 - pass access;
 - major roads;
 - warehouses;
-- Tunnels connections;
+- Underpass connections;
 - shipping schedules;
 - convoy contracts.
 
@@ -115,6 +117,29 @@ It should not literally control all knowledge.
 
 Its strength is knowing who knows what, buying access, delaying information, and deciding which innovations receive funding or distribution.
 
+## Operational layers
+
+Most Council influence should pass through ordinary institutions rather than direct commands.
+
+A typical chain may look like:
+
+```text
+Council family / domain
+→ investment house / merchant concern / estate / consortium
+→ contract or financing relationship
+→ guild / ruler / warehouse / shipping broker
+→ ordinary market consequence
+```
+
+This creates:
+- plausible deniability;
+- incomplete knowledge;
+- intermediaries with their own interests;
+- records that can later expose connections;
+- points where a plan can fail.
+
+The Council is more believable when many people carrying out its influence do not know the full system.
+
 ## How the Council governs without governing
 
 The Council rarely says: "Do this because we command you."
@@ -130,6 +155,31 @@ A kingdom may technically be free to refuse a treaty, but then:
 - a rival gains better terms.
 
 No single action proves conspiracy.
+
+## Aid can create dependency
+
+A strong legacy mechanism is emergency assistance with long-term consequences.
+
+Council-linked systems may provide:
+- grain;
+- seed;
+- transport;
+- medicine;
+- rebuilding finance;
+- engineers;
+- emergency credit.
+
+The aid can genuinely save lives.
+
+Later obligations may include:
+- debt;
+- exclusive contracts;
+- preferred access;
+- political favors;
+- control of storage;
+- dependency on specialist labor.
+
+This makes refusal morally difficult as well as economically difficult.
 
 ## Why rulers tolerate it
 
@@ -154,6 +204,38 @@ Potential fault lines:
 - knowledge may know a scheme is failing before others admit it.
 
 Each family also has heirs, factions, clients, and private ambitions.
+
+## Limits and failure modes
+
+The Council's power is strongest when alternatives are expensive, not impossible.
+
+Its leverage can weaken through:
+- alternate supply chains;
+- new routes;
+- substitute materials;
+- independent credit;
+- rival merchant coalitions;
+- guild alliances;
+- several rulers comparing information;
+- internal Council rivalry;
+- public exposure;
+- succession disputes.
+
+The old stress-test material is especially useful here: **overreach can teach targets how the system works**.
+
+A dramatic punishment may solve one problem while giving several kingdoms evidence that their supposedly unrelated difficulties share a source.
+
+## Succession remains unresolved
+
+Legacy versions proposed hereditary control, guild nomination, expertise-based appointment, wealth qualification, and internal selection.
+
+None is established.
+
+The important unresolved question is:
+
+> What gives the next person legitimate control of a dependency domain after a seat-holder dies, fails, retires, or is removed?
+
+This should remain open until Council families and governance are developed deliberately.
 
 ## The Council's moral problem
 
