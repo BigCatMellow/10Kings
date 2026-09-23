@@ -495,6 +495,40 @@ The audit also found superseded region labels still present in active Crime, Wea
 
 Duplicate all-in-one / nested package files remain provenance but should not be normal retrieval targets; the thematic volumes are preferred.
 
+## Religion legacy reconciliation — 2026-09-23
+
+Volume 06 received a full structural review rather than remaining a generic "legacy religion" bucket.
+
+Outputs:
+
+- [Religions](../Politics/Religions.md) — expanded active owner;
+- [Religion Legacy Reconciliation](Religion-Legacy-Reconciliation.md) — faith-by-faith preservation layer;
+- [Religious Artifacts Framework](Religious-Artifacts-Framework.md) — recovered artifact method and named seed bank.
+
+**Retained**
+- nine major trans-regional traditions;
+- principle-centered and deity-free revisions already present in the source;
+- named deities / spirits / saints / sages as possible in-world personifications or branch-specific theology;
+- sects, schools, texts and institutions as provisional vocabulary;
+- schools, archives, charity, mediation, pilgrimage, craft ethics, counseling, nonviolent reform and knowledge preservation;
+- six old philosophical schools as provisional cross-faith intellectual traditions;
+- religious artifacts as culturally embedded, communal, subtle / conditional objects rather than game-style loot.
+
+**Important source defects recorded**
+- the "Dual Flame (No Gods)" block is partially contaminated with Infinite Compass pilgrimage / cartography material;
+- the Harmonious Path no-gods draft retains deity references and duplicated flame/equinox festival material;
+- the 168-god pantheon over-systematizes divine domains and sometimes conflates divine structure with old Council logic.
+
+**Not promoted as objective fact**
+- literal existence of the named gods;
+- the 168-god pantheon as cosmological truth;
+- universal temple styles;
+- universal named festivals;
+- old region-to-faith mappings;
+- exact supernatural effects of artifacts.
+
+The goal is preservation without accidental canonization.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
