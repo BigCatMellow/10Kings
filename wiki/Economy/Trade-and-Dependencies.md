@@ -110,6 +110,24 @@ This creates economic power at:
 - major pass transfer towns;
 - Port's river / sea interface.
 
+## Dependency can stabilize or coerce
+
+Two concrete world tests show that shared systems can produce both:
+
+- pressure for continuity;
+- leverage over the dependent side.
+
+See:
+
+- [North Shoulder Paired Roadheads](../Reference/North-Shoulder-Paired-Roadheads-Test.md);
+- [Old Cities Shared Irrigation](../Reference/Old-Cities-Shared-Irrigation-Test.md).
+
+A shared route or water system may encourage cooperation because many livelihoods depend on it.
+
+But if one side controls the critical input and can absorb the cost of disruption more easily, the same dependency can become coercive.
+
+Do not treat interdependence as inherently peaceful.
+
 ## Seasonal stress
 
 Seasonality changes the dependency web.
