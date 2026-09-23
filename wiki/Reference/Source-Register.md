@@ -239,14 +239,14 @@ Promoted structural conclusions:
 
 No native language names or conlang phonologies were promoted.
 
-A later grounded-name correction replaced the fantasy-branded macro labels in active wiki prose:
+The first grounded-name correction replaced the fantasy-branded macro labels with intentionally generic common-language labels:
 
-- Ironcrest → Stone Hills;
-- Northwind → North Coast;
-- Greenvale → Low Rivers;
-- Highridge → High Roads;
-- Deepwood → Longwood;
-- Sunplains → Old Cities;
+- Ironcrest → Western Uplands;
+- Northwind → North Country;
+- Greenvale → River Country;
+- Highridge → High Country;
+- Deepwood → Forest Country;
+- Sunplains → South Country;
 - The Spine → Central Range;
 - The Underpass → The Tunnels.
 
