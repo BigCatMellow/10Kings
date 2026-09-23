@@ -374,7 +374,23 @@ Exact systems remain local.
 
 ---
 
-# 13. Copies are normal but create problems
+# 13. Carriage creates chain-of-custody problems
+
+See [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md).
+
+A document can be authentic when sent and still be:
+
+- opened;
+- altered;
+- substituted;
+- delayed;
+- lost;
+
+during carriage.
+
+High-value records may therefore need recognizable wrappers, seals/marks, receipts, known carriers, or registry comparison. Exact practice remains local.
+
+# 15. Copies are normal but create problems
 
 Important documents may exist in several copies.
 
@@ -401,7 +417,7 @@ A "copy" is not automatically fraudulent.
 
 ---
 
-# 14. Translation creates multiple authoritative texts
+# 15. Translation creates multiple authoritative texts
 
 See [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md).
 
@@ -424,7 +440,7 @@ The important point is:
 
 ---
 
-# 15. Dates are part of authentication
+# 16. Dates are part of authentication
 
 See [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md).
 
@@ -444,7 +460,7 @@ A later copy may "modernize" the date and accidentally create confusion.
 
 ---
 
-# 16. Names are part of authentication
+# 17. Names are part of authentication
 
 See [Naming](Culture/Naming.md).
 
@@ -462,7 +478,7 @@ That makes clerks and local knowledge important.
 
 ---
 
-# 17. Institutional registers create trust
+# 18. Institutional registers create trust
 
 A standalone document can be easier to forge than a document that also appears in a separate register.
 
@@ -490,7 +506,7 @@ Exact registry systems remain local.
 
 ---
 
-# 18. Records can be distributed
+# 19. Records can be distributed
 
 No important institution needs one central archive.
 
@@ -510,7 +526,7 @@ They can also contradict each other.
 
 ---
 
-# 19. Archives are vulnerable physical infrastructure
+# 20. Archives are vulnerable physical infrastructure
 
 Records can be destroyed by:
 
@@ -535,7 +551,7 @@ That creates historical uncertainty naturally.
 
 ---
 
-# 20. Record survival is biased
+# 21. Record survival is biased
 
 Documents are more likely to survive when created by institutions with:
 
@@ -555,7 +571,7 @@ See [Contested Historical Memory](History/Contested-Memory.md).
 
 ---
 
-# 21. Religious archives may preserve material governments lose
+# 22. Religious archives may preserve material governments lose
 
 Religious institutions can survive dynastic or local political changes.
 
@@ -576,7 +592,7 @@ It also creates conflict over access.
 
 ---
 
-# 22. Guild archives create professional memory
+# 23. Guild archives create professional memory
 
 Guild records can preserve:
 
@@ -598,7 +614,7 @@ Records are therefore political assets.
 
 ---
 
-# 23. Commercial ledgers are power
+# 24. Commercial ledgers are power
 
 See [Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md).
 
@@ -618,7 +634,7 @@ It does not require magical surveillance.
 
 ---
 
-# 24. The Council should have records but not one perfect master archive
+# 25. The Council should have records but not one perfect master archive
 
 See [Economic Council](Politics/Economic-Council.md).
 
@@ -646,7 +662,7 @@ Exact Council record practice remains open.
 
 ---
 
-# 25. Access to records is a form of power
+# 26. Access to records is a form of power
 
 Questions include:
 
@@ -669,7 +685,7 @@ The right to read can matter as much as the right to write.
 
 ---
 
-# 26. Literacy creates intermediaries
+# 27. Literacy creates intermediaries
 
 People who cannot use a particular written register may depend on:
 
@@ -692,7 +708,7 @@ It also creates trusted professions and social relationships.
 
 ---
 
-# 27. Children and migrants can become document brokers
+# 28. Children and migrants can become document brokers
 
 A multilingual child or younger family member may be asked to read:
 
@@ -706,7 +722,7 @@ This can create a gap between conversational fluency and documentary power.
 
 ---
 
-# 28. Public notice does not require universal literacy
+# 29. Public notice does not require universal literacy
 
 Authorities can communicate through combinations of:
 
@@ -722,7 +738,7 @@ A written notice can create a durable official version even when many people hea
 
 ---
 
-# 29. Documentary form can signal authority
+# 30. Documentary form can signal authority
 
 People learn to recognize:
 
@@ -740,7 +756,7 @@ That also makes forged form powerful.
 
 ---
 
-# 30. Forgery is a systemic risk
+# 31. Forgery is a systemic risk
 
 See [Crime and the Underworld](Politics/Crime-and-Underworld.md).
 
@@ -759,7 +775,7 @@ Forgery works best where several systems overlap and verification is slow.
 
 ---
 
-# 31. Good forgery requires institutional knowledge
+# 32. Good forgery requires institutional knowledge
 
 A believable forged document needs more than handwriting.
 
@@ -778,7 +794,7 @@ This makes forgery an information problem.
 
 ---
 
-# 32. Verification takes time
+# 33. Verification takes time
 
 A suspicious document may need to be checked against:
 
@@ -796,7 +812,7 @@ A false document can cause action before it is disproved.
 
 ---
 
-# 33. Physical originals matter differently by institution
+# 34. Physical originals matter differently by institution
 
 Some institutions may care strongly about an original.
 
@@ -813,7 +829,7 @@ Do not impose a modern "original document" concept everywhere.
 
 ---
 
-# 34. Land records should be messy
+# 35. Land records should be messy
 
 Pre-Convergence land history includes:
 
@@ -837,7 +853,7 @@ No single document should solve every ancient land dispute.
 
 ---
 
-# 35. Border records are especially political
+# 36. Border records are especially political
 
 A border can be described in:
 
@@ -854,7 +870,7 @@ That makes border disputes documentary as well as territorial.
 
 ---
 
-# 36. Mobile people create record challenges
+# 37. Mobile people create record challenges
 
 See [Nomads and Itinerant Peoples](Culture/Nomads.md).
 
@@ -880,7 +896,7 @@ Mobility can complicate documentary identity without implying lawlessness.
 
 ---
 
-# 37. Record systems shape identity
+# 38. Record systems shape identity
 
 A person can exist socially before an institution recognizes them.
 
@@ -905,7 +921,7 @@ Avoid modern universal ID assumptions.
 
 ---
 
-# 38. Recordkeeping can expand after the Convergence
+# 39. Recordkeeping can expand after the Convergence
 
 The Convergence increases demand for:
 
@@ -925,7 +941,7 @@ It means cross-border interoperability rewards documentation.
 
 ---
 
-# 39. Standardization creates exclusion
+# 40. Standardization creates exclusion
 
 A standardized legal form can help trade while disadvantaging people who:
 
@@ -940,7 +956,7 @@ This fits the larger post-Convergence pattern.
 
 ---
 
-# 40. Historical truth can depend on archives that were never neutral
+# 41. Historical truth can depend on archives that were never neutral
 
 Current historians may inherit records created by:
 
@@ -960,7 +976,7 @@ This supports [Contested Historical Memory](History/Contested-Memory.md).
 
 ---
 
-# 41. What is structurally established
+# 42. What is structurally established
 
 - records exist across government, trade, guild, religion, and family life;
 - literacy varies by task, class, place, and occupation;
@@ -974,7 +990,7 @@ This supports [Contested Historical Memory](History/Contested-Memory.md).
 
 ---
 
-# 42. Derived constraints
+# 43. Derived constraints
 
 - cross-border commerce needs recognizable document forms or trusted intermediaries;
 - important records benefit from duplication or registration;
@@ -986,7 +1002,7 @@ This supports [Contested Historical Memory](History/Contested-Memory.md).
 
 ---
 
-# 43. Still open
+# 44. Still open
 
 - literacy rates;
 - education systems;
@@ -1010,7 +1026,7 @@ This supports [Contested Historical Memory](History/Contested-Memory.md).
 
 ---
 
-# 44. Design rule
+# 45. Design rule
 
 When adding a document, ask:
 
