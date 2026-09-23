@@ -590,6 +590,80 @@ If Port's treaty structure and merchant institutions are actually more restricti
 
 Incubating.
 
+## Candidate 18 — Ironcrest may be the sphere hinge
+
+**Sources**
+
+- [Competitive Sphere Alignment Matrix](Competitive-Sphere-Alignment-Matrix.md)
+- [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md)
+- [Current Events](../Story/Current-Events.md)
+- legacy Ironcrest / Blackbellow polity notes
+
+**Connection**
+
+The Ironcrest Crown benefits strongly from Convergence stability while Blackbellow and other industrial actors benefit from post-Convergence guild expansion and labor mobility.
+
+That places opposing sphere incentives inside one major industrial ecosystem.
+
+**New implication**
+
+Ironcrest may be more useful as the rivalry's principal **hinge** than as a clean bloc member.
+
+A shift by the Crown, a major royal forge, or an important industrial guild could transform the balance between the spheres.
+
+**Why it matters**
+
+This gives the competition a believable escalation mechanism without redrawing the whole map.
+
+It also lets ordinary people experience sphere politics as workplace, wage and institutional conflict before it becomes an international crisis.
+
+**Smallest test**
+
+Reconstruct one Ironcrest defection at three scales:
+
+1. an individual specialist;
+2. a major guild / forge;
+3. a Crown-aligned institution.
+
+Check whether each produces wider political consequences without requiring open war.
+
+**Disposition**
+
+Strong candidate; current recommendation is a Charter-leaning Crown with deep internal Ascendant penetration, not a settled final alignment.
+
+## Candidate 19 — The present rivalry may be in its competitive-breakthrough phase
+
+**Sources**
+
+- [Competitive Sphere Alignment Matrix](Competitive-Sphere-Alignment-Matrix.md)
+- [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md)
+- [Current Events](../Story/Current-Events.md)
+- legacy WWF/WCW notes
+
+**Connection**
+
+The challenger network has plausible wealth, institutions and recruitment tools, while Charter institutions still retain formal legitimacy.
+
+No current source establishes that the challenger has already displaced the old order or that the Charter sphere has already reinvented itself.
+
+**New implication**
+
+The opening story may work best when the Ascendant sphere has just crossed from nuisance to credible peer.
+
+Visible defections and prestige shocks are beginning to change behavior, but the eventual direction remains genuinely open.
+
+**Why it matters**
+
+This preserves the useful tension of the Monday Night Wars analogue without predetermining either the WWF comeback or WCW collapse.
+
+**Smallest test**
+
+Create one high-profile defection and trace reactions through Summithold, Cliffhaven, Ironcrest, Blackbellow, Port and the Council. If the event matters differently to all six while remaining below the threshold of war, the phase is viable.
+
+**Disposition**
+
+Incubating; structural phase preferred over a one-to-one real-world year mapping.
+
 ## Promotion rule
 
 Nothing on this page becomes canon because it sounds useful.
