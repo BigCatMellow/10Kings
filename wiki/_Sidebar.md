@@ -11,12 +11,12 @@
 - [Open Questions](Open-Questions.md)
 
 **Regions**
-- [Western Uplands](Regions/Ironcrest.md)
-- [North Country](Regions/Northwind.md)
-- [River Country](Regions/Greenvale.md)
-- [High Country](Regions/Highridge-Plateau.md)
-- [Forest Country](Regions/Deepwood.md)
-- [South Country](Regions/Sunplains.md)
+- [Stone Hills](Regions/Ironcrest.md)
+- [North Coast](Regions/Northwind.md)
+- [The Low Rivers](Regions/Greenvale.md)
+- [The High Roads](Regions/Highridge-Plateau.md)
+- [Longwood](Regions/Deepwood.md)
+- [The Old Cities](Regions/Sunplains.md)
 
 **Shared Places**
 - [Port](Places/Port.md)
