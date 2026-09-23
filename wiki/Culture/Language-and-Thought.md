@@ -1,5 +1,9 @@
 # Language and Thought
 
+## Status
+
+**Working cultural framework.** Structural language features are design directions, not finalized language families or conlangs.
+
 ## Principle
 
 Regional languages should influence **habits of attention**, not determine intelligence or personality.
@@ -7,6 +11,78 @@ Regional languages should influence **habits of attention**, not determine intel
 The useful model is weak linguistic relativity: grammar and vocabulary can make speakers routinely notice distinctions that another language leaves optional.
 
 Do not use corny occupational metaphors as the main marker of regional speech.
+
+## Historical language model
+
+Modern regions should **not** map one-to-one onto ancient languages.
+
+Before The Convergence, political and social organization followed:
+
+- valleys;
+- rivers;
+- islands;
+- harbors;
+- routes;
+- kin networks;
+- towns;
+- religious centers;
+- trade.
+
+Language boundaries should have been similarly messy.
+
+The working history is:
+
+```text
+local languages / dialect continua
++ migration / conquest / trade
+→ regional contact zones
+→ specialized craft, maritime, market and legal registers
+→ Convergence-era standardization
+→ modern prestige forms + local dialects + mixed speech
+```
+
+### Convergence effect
+
+The Convergence creates strong pressure for:
+
+- interpreters;
+- multilingual treaty copies;
+- standardized names;
+- fixed vocabulary for borders, weights, dates and obligations;
+- legal / diplomatic registers;
+- more consistent written forms.
+
+Highridge is the strongest candidate for an important source of interregional legal and trade conventions because it was already multilingual, route-centered and experienced in arbitration.
+
+This does **not** mean everyone speaks a single Highridge language.
+
+A professional interregional register can spread without replacing household languages.
+
+### Post-Convergence standardization
+
+The Convergence strengthened regional identities through government, schools, guilds, religious institutions and shared histories.
+
+Language can follow the same pattern.
+
+Modern prestige varieties may therefore be **newer than many local dialects**.
+
+A speech form presented as “proper Ironcrest” or “formal Sunplains” may reflect post-Convergence institutions rather than an ancient unified people.
+
+### Cross-regional registers
+
+Speech can also organize around institutions rather than regions.
+
+Examples include:
+
+- metalworking terminology;
+- maritime law;
+- caravan contracts;
+- irrigation law;
+- religious vocabulary;
+- guild procedure;
+- Port commercial slang.
+
+Two speakers may share professional vocabulary without sharing a home language.
 
 ## Working structural differences
 
@@ -99,3 +175,54 @@ Port should contain:
 - neighborhood dialects.
 
 A third-generation Port family should not sound simply like diluted Northwind or Sunplains.
+
+
+## Regional ecology, not regional uniformity
+
+The regional feature lists above should be read as **possible recurring structures inside important language communities**, not as mandatory features for every person in the region.
+
+Current historical direction:
+
+- **Ironcrest:** multiple upland, valley and town varieties beneath later administrative and craft standardization;
+- **Northwind:** coastal and island dialect chains with shared maritime vocabulary but strong local variation;
+- **Greenvale:** river / lowland continua shaped by estate, village and market networks;
+- **Highridge:** especially multilingual, with pass-town mixed speech, caravan registers and legal / trade conventions;
+- **Deepwood:** several forest and river language communities with specialist ecological vocabularies and ritual registers;
+- **Sunplains:** multiple city and rural varieties, including court, merchant and irrigation-law registers;
+- **Port:** contact varieties that become native urban speech rather than remaining a mechanical mixture;
+- **Underpass:** enclave languages, route cants and mixed market speech reflecting several surface origins.
+
+## Port language development
+
+Port should not merely borrow one stereotyped feature from every region.
+
+A better historical path is:
+
+```text
+multilingual harbor contact
+→ trade registers / interpreter culture
+→ stable mixed neighborhoods
+→ locally born mixed varieties
+→ distinct Port speech
+→ Port slang and commercial vocabulary exported outward
+```
+
+This gives Port linguistic influence of its own.
+
+## Writing rule
+
+Do not represent regional difference mainly through phonetic spelling.
+
+Prefer:
+
+- vocabulary choice;
+- what must be stated explicitly;
+- politeness / status register;
+- evidentiality;
+- sentence structure;
+- code-switching;
+- institutional jargon;
+- naming choices;
+- what a speaker assumes does or does not need explanation.
+
+See [Language History and Naming Audit](../Reference/Language-History-and-Naming-Audit.md).
