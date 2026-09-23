@@ -79,6 +79,8 @@ Use **task-specific literacy**.
 
 # 3. Practical literacy can be widespread in some professions
 
+See [Education, Training, and Knowledge Transmission](Education-Training-and-Knowledge.md).
+
 Current owners already make written skill especially useful for:
 
 - merchants;
