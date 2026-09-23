@@ -247,6 +247,20 @@ This is why the world can become more integrated without becoming one state.
 
 ---
 
+# 5A. Layered settlement model
+
+See [Convergence Layered Settlement Model](../Reference/Convergence-Layered-Settlement-Model.md).
+
+The post-Convergence order should be read in layers:
+
+1. **core guarantees** — recognized claims / non-aggression, protected exchange, route security, cross-border arbitration, Port neutrality / access, continued local autonomy;
+2. **attached agreements** — route-, border-, water-, resource-, or group-specific settlements among the actors that actually need them;
+3. **later interoperability standards** — commercial measures, records, date conversion, credentials, and other practices that spread because compatibility is useful;
+4. **precedent and interpretation** — arbitration and repeated practice clarifying vague obligations over time;
+5. **local law** — the majority of ordinary property, labor, family, criminal, tax, and political rules.
+
+This prevents later useful institutions from being retroactively placed into one impossibly comprehensive founding charter.
+
 # 6. What may have been attached to the settlement
 
 The legacy sources also contain more specific agreements such as:
