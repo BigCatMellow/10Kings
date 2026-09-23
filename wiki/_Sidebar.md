@@ -20,8 +20,8 @@
 
 **Shared Places**
 - [Port](Places/Port.md)
-- [Central Range](Places/The-Central Range.md)
-- [The Tunnels](Places/The-Tunnels.md)
+- [Central Range](Places/The-Spine.md)
+- [The Tunnels](Places/The-Underpass.md)
 - [Border Towns](Places/Border-Towns.md)
 
 **History**
@@ -64,6 +64,7 @@
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
 - [Culture Deepening Plan](Reference/Culture-Deepening-Plan.md)
 - [Language History and Naming Audit](Reference/Language-History-and-Naming-Audit.md)
+- [Grounded Naming Realignment](Reference/Grounded-Naming-Realignment.md)
 - [Naming History Vertical Slices](Reference/Naming-History-Vertical-Slices.md)
 - [Personal Naming Framework](Reference/Personal-Naming-Framework.md)
 - [Culture Phase 2 — Ordinary-Life Vertical Slices](Reference/Culture-Phase-2-Vertical-Slices.md)
