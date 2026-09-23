@@ -32,9 +32,9 @@ See [Geography and Connections](Geography-and-Connections.md).
 The known world is organized around:
 
 - the Western, Northern, and Eastern Continents;
-- the central mountain system called [The Spine](Places/The-Spine.md);
+- the central mountain system called [Central Range](Places/The-Central Range.md);
 - surface passes, rivers, roads, coasts, and caravan corridors;
-- the branching subterranean network called [The Underpass](Places/The-Underpass.md);
+- the branching subterranean network called [The Tunnels](Places/The-Tunnels.md);
 - [Port](Places/Port.md), whose importance comes from network position, law, infrastructure, finance, and accumulated trust.
 
 The exact map remains partly open. What is already established is more important than simple adjacency:
@@ -49,12 +49,12 @@ The regions are ecosystems with distinctive emphases, not single-resource states
 
 | Region | Strong pressures / capabilities | What makes it systemically important |
 | --- | --- | --- |
-| [Ironcrest](Regions/Ironcrest.md) | mineral-rich uplands, metalwork, dangerous labor, concentrated productive capacity | tools, strategic materials, craft capacity, weapons, ownership/labor politics |
-| [Northwind](Regions/Northwind.md) | cold seas, fisheries, shipping, seasonal risk, clan and harbor obligations | maritime capacity, preserved foods, salt, ships, convoy politics |
-| [Greenvale](Regions/Greenvale.md) | productive lowlands, storage, seed, land and water systems | bulk food, livestock/agricultural goods, price and storage stability |
-| [Highridge](Regions/Highridge-Plateau.md) | plateau routes, passes, caravans, arbitration, multilingual exchange | overland movement, brokerage, credit, records, route law |
-| [Deepwood](Regions/Deepwood.md) | forest ecology, timber, medicinal/forest goods, local stewardship systems | timber/fuel, specialist ecological goods and knowledge, contested extraction |
-| [Sunplains](Regions/Sunplains.md) | dry-climate agriculture, irrigation, city-states, coastal exchange | southern maritime access, irrigated/orchard goods, civic and merchant networks |
+| [Western Uplands](Regions/Ironcrest.md) | mineral-rich uplands, metalwork, dangerous labor, concentrated productive capacity | tools, strategic materials, craft capacity, weapons, ownership/labor politics |
+| [North Country](Regions/Northwind.md) | cold seas, fisheries, shipping, seasonal risk, clan and harbor obligations | maritime capacity, preserved foods, salt, ships, convoy politics |
+| [River Country](Regions/Greenvale.md) | productive lowlands, storage, seed, land and water systems | bulk food, livestock/agricultural goods, price and storage stability |
+| [High Country](Regions/Highridge-Plateau.md) | plateau routes, passes, caravans, arbitration, multilingual exchange | overland movement, brokerage, credit, records, route law |
+| [Forest Country](Regions/Deepwood.md) | forest ecology, timber, medicinal/forest goods, local stewardship systems | timber/fuel, specialist ecological goods and knowledge, contested extraction |
+| [South Country](Regions/Sunplains.md) | dry-climate agriculture, irrigation, city-states, coastal exchange | southern maritime access, irrigated/orchard goods, civic and merchant networks |
 | [Port](Places/Port.md) | neutral harbor, repair, storage, finance, arbitration, information | exchange hub where many otherwise separate systems meet |
 
 None of these relationships are absolute monopolies. The pattern is **comparative advantage plus dependency**, not "one region makes one thing."
@@ -117,9 +117,9 @@ The world has no single switch that controls everything. It has **chokepoints**.
 Important examples include:
 
 - Port's harbor, warehouses, courts, repair capacity, finance, and information;
-- Highridge passes and caravan systems;
-- major Spine crossings;
-- Underpass branches;
+- High Country passes and caravan systems;
+- major Central Range crossings;
+- Tunnels branches;
 - bridges, canals, river crossings, irrigation gates, and important roads;
 - food storage and seed networks;
 - mines, foundries, timber/fuel supply, and strategic workshops;
@@ -130,7 +130,7 @@ A chokepoint matters because many independent actors rely on it.
 
 A bypass matters because it can reduce somebody else's leverage.
 
-That makes the [Underpass](Places/The-Underpass.md), smuggling, alternative routes, local storage, religious hospitality, guild networks, and informal credit politically important even when they are not controlled by rulers.
+That makes the [Tunnels](Places/The-Tunnels.md), smuggling, alternative routes, local storage, religious hospitality, guild networks, and informal credit politically important even when they are not controlled by rulers.
 
 ## 6. Visible government and cross-border institutions
 
@@ -265,15 +265,15 @@ See [Current Events](Story/Current-Events.md).
 
 Several unrelated-looking stresses are occurring at the same time:
 
-- Ironcrest labor unrest and unusual metal movement;
-- Northwind fish-stock pressure, piracy, and convoy politics;
-- Greenvale abundance, price collapse, debt, seed, and land conflict;
-- Highridge caravan attacks and route redirection;
-- Deepwood logging disputes and ecological disruption;
-- Sunplains drought anxiety and city-state coordination;
+- Western Uplands labor unrest and unusual metal movement;
+- North Country fish-stock pressure, piracy, and convoy politics;
+- River Country abundance, price collapse, debt, seed, and land conflict;
+- High Country caravan attacks and route redirection;
+- Forest Country logging disputes and ecological disruption;
+- South Country drought anxiety and city-state coordination;
 - Port smuggling, merchant conflict, and refugee/worker pressure;
-- Spine land movement and route/ruin discovery;
-- Underpass route wars;
+- Central Range land movement and route/ruin discovery;
+- Tunnels route wars;
 - trans-regional religious interpretation of the crises.
 
 Some are ordinary problems. Some are manipulated. Some are Council responses. Some become useful to the Villain only after they already exist.
@@ -317,15 +317,15 @@ A useful reading and writing method is:
 Example:
 
 ```text
-Northwind piracy rises
+North Country piracy rises
 → shipping risk rises
 → Port finance tightens
-→ Greenvale buyers cancel distant grain contracts
+→ River Country buyers cancel distant grain contracts
 → local grain prices fall
 → farmers default
 → land consolidation accelerates
 → guild/religious protests grow
-→ Ironcrest orders decline
+→ Western Uplands orders decline
 → labor conflict worsens
 → Council intervention becomes visible enough to feed suspicion
 ```
