@@ -13,6 +13,7 @@ It should be read alongside:
 - [Culture and Influence](Culture-and-Influence.md)
 - [Food](Food.md)
 - [Architecture](Architecture.md)
+- [Festivals, Seasonal Life and Public Ritual](Festivals-and-Seasonal-Life.md)
 - [Religions](../Politics/Religions.md)
 - [Guilds](../Politics/Guilds.md)
 
