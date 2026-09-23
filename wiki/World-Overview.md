@@ -4,18 +4,18 @@
 
 The setting is currently called **Two Sons**, named for its twin suns. The world should feel materially recognizable: people farm, fish, mine, build, trade, travel, worship, fight, negotiate, borrow money, inherit property, join guilds, smuggle goods, raise families, and remember old wars. Fantasy exists, but it does not replace those realities.
 
-The known world is organized around three broad landmasses — the **Western, Northern, and Eastern Continents** — and a central mountain system called **The Spine**. Beneath parts of The Spine runs **The Underpass**, a natural-and-worked network of caves, tunnels, settlements, trade routes, and illicit passages. **Port** is the major neutral commercial city whose location and institutions make it unusually important to world trade.
+The known world is organized around three broad landmasses — the **Western, Northern, and Eastern Continents** — and a central mountain system called **Central Range**. Beneath parts of Central Range runs **The Tunnels**, a natural-and-worked network of caves, tunnels, settlements, trade routes, and illicit passages. **Port** is the major neutral commercial city whose location and institutions make it unusually important to world trade.
 
 The six major cultural-political regions are:
 
-- **Ironcrest** — western highlands and hills, unusually rich in useful ores and with a long tradition of mining, metalworking, organized labor, and fortified settlements.
-- **Northwind** — colder northern coasts and interior margins, shaped by difficult seas, fisheries, shipping, clan and community obligations, and seasonal risk.
-- **Greenvale** — broad temperate agricultural country, with strong village networks, mixed farming, storage traditions, and cultural memory of crop disasters.
-- **Highridge Plateau** — elevated crossroads country whose people became experts in caravan travel, mediation, market law, tolls, hospitality, and the management of routes.
-- **Deepwood** — large forested country where settlement, cultivation, hunting, timber, foraging, and spiritual traditions developed around the problem of living inside a powerful ecosystem rather than simply clearing it.
-- **Sunplains** — warmer and more arid southern/eastern country of mixed agriculture, orchards, irrigation, towns and city-states, coastal exchange, and highly developed civic cultures.
+- **Western Uplands** — western highlands and hills, unusually rich in useful ores and with a long tradition of mining, metalworking, organized labor, and fortified settlements.
+- **North Country** — colder northern coasts and interior margins, shaped by difficult seas, fisheries, shipping, clan and community obligations, and seasonal risk.
+- **River Country** — broad temperate agricultural country, with strong village networks, mixed farming, storage traditions, and cultural memory of crop disasters.
+- **High Country** — elevated crossroads country whose people became experts in caravan travel, mediation, market law, tolls, hospitality, and the management of routes.
+- **Forest Country** — large forested country where settlement, cultivation, hunting, timber, foraging, and spiritual traditions developed around the problem of living inside a powerful ecosystem rather than simply clearing it.
+- **South Country** — warmer and more arid southern/eastern country of mixed agriculture, orchards, irrigation, towns and city-states, coastal exchange, and highly developed civic cultures.
 
-These are **emphases, not total definitions**. Greenvale has smiths. Ironcrest has farms. Northwind has inland villages. Sunplains has poor laborers and dry pastoral country beyond wealthy orchard belts. Deepwood has market towns and politics. Highridge has families who never see a caravan.
+These are **emphases, not total definitions**. River Country has smiths. Western Uplands has farms. North Country has inland villages. South Country has poor laborers and dry pastoral country beyond wealthy orchard belts. Forest Country has market towns and politics. High Country has families who never see a caravan.
 
 ## How the world fits together
 
@@ -29,7 +29,7 @@ The same world is also a network of **overlapping identities**.
 
 People belong simultaneously to places, polities, families, classes, guilds, faiths, professions, informal networks and voluntary movements. Those affiliations frequently cross regional and political borders.
 
-This means a Northwind sailor and a Sunplains merchant may share a guild; an Ironcrest worker and a Highridge scholar may share a faith; a Port resident may feel stronger loyalty to a trans-regional social movement than to any kingdom.
+This means a North Country sailor and a South Country merchant may share a guild; an Western Uplands worker and a High Country scholar may share a faith; a Port resident may feel stronger loyalty to a trans-regional social movement than to any kingdom.
 
 See [Social Fabric](Social-Fabric.md) for the structural model and [Audience Movements](Culture/Audience-Movements.md) for one provisional example of a participatory movement that can cut across older institutions.
 
