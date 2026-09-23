@@ -22,7 +22,7 @@ See [Economic Council](../Politics/Economic-Council.md).
 
 ## Domino characters
 
-All provisional until naming systems are finalized. See [Personal Naming Framework](../Reference/Personal-Naming-Framework.md).
+All provisional until naming systems are finalized. Existing names may be retained, reframed, or replaced based on cultural fit; see [Personal Naming Framework](../Reference/Personal-Naming-Framework.md).
 
 ### Orin Slatehallow — Ironcrest
 Young metalworker/technical reformer drawn into hidden patronage.
