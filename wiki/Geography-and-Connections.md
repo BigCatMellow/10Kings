@@ -186,6 +186,20 @@ The final map should make some water systems cross political boundaries. Water p
 
 See [Port](Places/Port.md).
 
+### Scale and travel-time test
+
+[Working Map — Scale and Travel-Time Test V1](Reference/Working-Map-Scale-and-Travel-Test.md) tested the provisional geometry against ordinary commercial travel, water transport, seasonal delay and Underpass substitution.
+
+The general V1 placement now has **strong working support**:
+
+- Port lies at or immediately beside the major Low Rivers trunk-river estuary / strait system;
+- this harbor system sits just south of the central Spine / High Roads convergence;
+- exact island / peninsula / mainland geometry remains open.
+
+The same test strongly supports a **southeastern highland shoulder** as the principal North Coast ↔ High Roads overland approach.
+
+Exact route distances and coastlines remain provisional.
+
 Port should be placed only where all of the following can plausibly coexist:
 
 1. a sheltered deep-water harbor, estuary, or strait;
