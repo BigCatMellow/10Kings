@@ -198,11 +198,24 @@ This makes the economic system coherent across very different crises and gives t
 
 Trace price, debt, labor, and political effects for one surplus and one shortage using the same causal template.
 
+**Food-phase test result — 2026-09-23**
+
+[Culture Phase 3 — Food Vertical Slices](Culture-Phase-3-Food-Vertical-Slices.md) strengthens this candidate.
+
+The food pass shows that production alone does not determine household access. Preservation and storage infrastructure can become independent bottlenecks:
+
+- grain can be abundant while farmers fail financially;
+- fish can exist but preservation / salt / storage costs can change who can afford it;
+- route failure can make imported food expensive while local food remains physically present;
+- smokehouses, granaries, cellars, barrels, ovens and warehouses can matter politically because they determine whether production becomes durable supply.
+
+The next economics pass should therefore model **production + preservation + storage + transport + credit**, not production alone.
+
 **Disposition**
 
-Supported at the pattern level; candidate for a future economics deep dive.
+Supported at the pattern level; food-system test passed and sharpened the storage / preservation mechanism.
 
-## Candidate 7 — The Tunnels is a systemic bypass valve
+## Candidate 7 — The Tunnels are a systemic bypass valve
 
 **Sources**
 
@@ -213,7 +226,7 @@ Supported at the pattern level; candidate for a future economics deep dive.
 
 **Connection**
 
-The Tunnels creates functional adjacency and contains public, local, religious, criminal, unstable, and hidden routes.
+The Tunnels create functional adjacency and contains public, local, religious, criminal, unstable, and hidden routes.
 
 **New implication**
 
