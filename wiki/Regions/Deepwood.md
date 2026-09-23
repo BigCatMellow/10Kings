@@ -1,14 +1,14 @@
-# Deepwood
+# Forest Country
 
 ## Status
 
 **Working canon.**
 
-Deepwood is a major forest region whose people have developed institutions for living with, using, and defending the forest. It should not be written as an undifferentiated mystical wilderness.
+Forest Country is a major forest region whose people have developed institutions for living with, using, and defending the forest. It should not be written as an undifferentiated mystical wilderness.
 
 ## Geography
 
-Deepwood contains:
+Forest Country contains:
 - old-growth forest;
 - managed woodland;
 - river valleys;
@@ -19,13 +19,13 @@ Deepwood contains:
 - hunting grounds;
 - timber districts;
 - sacred or restricted areas;
-- routes into foothills and possibly Underpass entrances.
+- routes into foothills and possibly Tunnels entrances.
 
 The forest itself changes with altitude, rainfall, soil, and human use.
 
 ## Historical identity
 
-Deepwood was historically decentralized.
+Forest Country was historically decentralized.
 
 Communities included:
 - village alliances;
@@ -43,7 +43,7 @@ Outsiders repeatedly pushed into forest margins for:
 - hunting;
 - roads.
 
-Deepwood groups sometimes united against these incursions, sometimes fought each other, and sometimes profited from outsiders.
+Forest Country groups sometimes united against these incursions, sometimes fought each other, and sometimes profited from outsiders.
 
 The remembered **Ages of Silence** should remain partly historical and partly religious: perhaps a period of ecological collapse, depopulation, warfare, or disease later interpreted spiritually.
 
@@ -59,7 +59,7 @@ Reference pools include:
 
 ## Language
 
-Deepwood language families may grammatically distinguish forms of agency or animacy and possess unusually precise vocabulary for:
+Forest Country language families may grammatically distinguish forms of agency or animacy and possess unusually precise vocabulary for:
 - forest age;
 - water state;
 - animal sign;
@@ -74,7 +74,7 @@ This encourages environmental attention without implying supernatural wisdom.
 
 ### Cities
 
-A Deepwood city should still look like a city:
+A Forest Country city should still look like a city:
 - dense market areas;
 - docks if river-based;
 - workshops;
@@ -106,7 +106,7 @@ Some are raised for wet ground; others partially dug into slopes.
 
 ## Food
 
-Deepwood cuisine includes more cultivated food than outsiders assume.
+Forest Country cuisine includes more cultivated food than outsiders assume.
 
 Possible staples:
 - forest tubers;
@@ -125,7 +125,7 @@ Foraging supplements agriculture rather than replacing it everywhere.
 
 ## Politics
 
-Deepwood politics revolve around:
+Forest Country politics revolve around:
 - cutting rights;
 - water;
 - road access;
@@ -146,6 +146,6 @@ Deepwood politics revolve around:
 
 ## Story function
 
-Deepwood is ideal for examining **who gets to define stewardship**.
+Forest Country is ideal for examining **who gets to define stewardship**.
 
 Outsiders may be wrong to see forest protection as irrational obstruction; locals may also use "tradition" to conceal monopolies, inequality, or political control.
