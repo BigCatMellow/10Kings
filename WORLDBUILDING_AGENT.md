@@ -544,4 +544,323 @@ For important information ask:
 - how quickly;
 - who pays;
 - who trusts the source;
-- where it can be delay
+- where it can be delayed;
+- how it changes in transmission.
+
+Different networks may move different information fastest:
+
+- merchants;
+- pilgrims;
+- states;
+- guilds;
+- sailors;
+- itinerant peoples;
+- criminals;
+- scholars.
+
+Rumor is part of the information system, not random noise.
+
+---
+
+# 15. History Must Leave Residue
+
+Do not create wars, famines, treaties, migrations, or disasters only for timelines.
+
+A major event should leave some combination of:
+
+- land claims;
+- taxes;
+- roads;
+- ruins;
+- widows;
+- veterans;
+- migration;
+- memorials;
+- legal exceptions;
+- institutions;
+- political taboos;
+- loanwords;
+- recipes;
+- changed settlement patterns;
+- family stories;
+- contradictory memories.
+
+If an event supposedly transformed the world but left no present-day residue, either weaken the event or deepen its consequences.
+
+Use [Writing the Sequel](wiki/Reference/Writing-the-Sequel.md) for this pass.
+
+---
+
+# 16. Solutions Should Create New Problems
+
+Avoid perfectly optimized societies.
+
+Every durable solution should have:
+
+- costs;
+- exclusions;
+- loopholes;
+- maintenance needs;
+- vested interests;
+- outdated assumptions;
+- local exceptions;
+- informal workarounds.
+
+Ask:
+
+> **What is annoying about this system on an ordinary Tuesday?**
+
+This often produces better worldbuilding than asking only how the system fails during catastrophe.
+
+---
+
+# 17. Use E/I for Emergence, Not Permission
+
+When two established systems imply something new:
+
+```text
+IMAGINE
+-> CAPTURE
+-> TEST
+-> PROMOTE
+```
+
+Record:
+
+- source A;
+- source B;
+- mechanism connecting them;
+- new implication;
+- why it matters;
+- smallest test/falsifier.
+
+Do not promote an idea because it is elegant.
+
+Use [World Synthesis - E/I](wiki/Reference/World-Synthesis-EI.md) for cross-system candidates.
+
+---
+
+# 18. Use Spiderweb for Causality
+
+Spiderweb is not a command to add many links.
+
+Use it to ask whether a fresh agent can recover:
+
+```text
+WHY DOES THIS EXIST?
+        |
+        v
+WHAT DOES IT AFFECT?
+        |
+        v
+WHO OWNS THE DETAIL?
+        |
+        v
+WHAT HAPPENED NEXT?
+```
+
+For a mature detail, backward recovery should often look like:
+
+```text
+micro detail
+-> routine
+-> institution / custom
+-> coordination problem
+-> pressure
+-> world condition
+```
+
+If the chain cannot be recovered, the detail may be arbitrary or underexplained.
+
+---
+
+# 19. Do Not Confuse Worldbuilding With Prose
+
+During world design, build deeply.
+
+Do not remove useful detail because "the reader does not need to know it."
+
+That is a later prose question.
+
+The division is:
+
+- [Middle Worldbuilding](wiki/Reference/Middle-Worldbuilding.md) - how systems function;
+- [Writing the Sequel](wiki/Reference/Writing-the-Sequel.md) - what accumulates through time;
+- [Worldbuilding Breath](wiki/Reference/Worlgbuilding-Breath.md) - how selectively those things are revealed in prose.
+
+**Build deeply. Reveal selectively.**
+
+---
+
+# 20. Common Failure Modes
+
+Reject or rework these patterns.
+
+## Premise -> costume
+
+> mountains -> fur  
+> desert -> spicy food  
+> forest -> green architecture
+
+Missing middle systems.
+
+## Regional monoculture
+
+> Everyone here is a miner / sailor / farmer / scholar.
+
+A specialty is not an entire society.
+
+## Culture as personality
+
+> These people are stoic.
+
+Explain when, why, for whom, and under what institutions.
+
+## Perfect adaptation
+
+> The society solved its environmental problem optimally.
+
+History should create path dependence and compromise.
+
+## Institution from nowhere
+
+> A powerful guild regulates this because it makes sense.
+
+Explain the coordination problem and constituency.
+
+## Single-authority world
+
+> The king controls everything.
+
+Jurisdiction should overlap where plausible.
+
+## Instant information
+
+> Everyone reacts immediately to an event far away.
+
+Trace the information network.
+
+## Decorative history
+
+> A great war happened centuries ago.
+
+Show present residue.
+
+## Every detail serves plot
+
+> Every local custom becomes a clue.
+
+Let the world contain irrelevant life.
+
+## False precision
+
+> Exact population, dates, route times, and borders are invented before the underlying system is stable.
+
+Use ranges, provisional language, or UNKNOWN where appropriate.
+
+## Canon by repetition
+
+> A claim appears in four old notes, so it must be retained.
+
+Current owner and design quality outrank repetition.
+
+---
+
+# 21. Decision Discipline
+
+When several plausible designs exist:
+
+1. do not choose based only on novelty;
+2. compare them against World Rules;
+3. compare systemic consequences;
+4. check whether they create useful but believable cross-connections;
+5. prefer the option that explains more existing facts with fewer special exceptions;
+6. preserve alternatives if the decision is not yet necessary.
+
+Do not force closure simply to make the wiki look finished.
+
+---
+
+# 22. File and Canon Discipline
+
+When a worldbuilding decision is ready to preserve:
+
+- update the **owner page**;
+- use **Established**, **Working canon**, or **Provisional** accurately;
+- keep methods/research in `wiki/Reference/`;
+- keep raw legacy sources in `legacy-notes/`;
+- do not create a second owner for the same concept;
+- update directly affected dependents;
+- capture broader speculative implications in E/I instead of silently spreading them as fact.
+
+If a redesign invalidates several pages, fix the owner first, then reconcile outward.
+
+---
+
+# 23. Completion Gate
+
+A substantial worldbuilding pass is complete when:
+
+- the world condition/constraint is explicit;
+- middle systems are present rather than only macro premise + micro flavor;
+- major stakeholders and constituencies are visible;
+- at least one alternative or variation was considered for important choices;
+- costs and tradeoffs exist;
+- internal variation is preserved;
+- relevant cross-system effects are traced;
+- historical residue is considered when appropriate;
+- uncertain claims are visibly provisional or UNKNOWN;
+- canon was updated in the correct owner;
+- E/I candidates remain separate until tested;
+- changed local links resolve;
+- dependent pages are not knowingly left contradictory.
+
+---
+
+# 24. Agent Handoff
+
+After substantial worldbuilding work, report briefly:
+
+1. **What changed**
+2. **Why it changed**
+3. **Which owner pages changed**
+4. **What remains provisional**
+5. **New E/I candidates**
+6. **Important downstream pages that still need reconciliation**
+
+Do not bury uncertainty inside a polished summary.
+
+A future agent should be able to tell the difference between:
+
+- decided;
+- working;
+- speculative;
+- legacy.
+
+---
+
+# 25. Short Form
+
+When time is limited, remember:
+
+```text
+START WITH CONDITIONS, NOT VIBES.
+
+CONDITION
+-> PRESSURE
+-> MULTIPLE RESPONSES
+-> COORDINATION
+-> INSTITUTION / CUSTOM
+-> WINNERS + LOSERS
+-> ORDINARY LIFE
+-> CROSS-SYSTEM EFFECTS
+-> STRESS TEST
+-> TIME / INHERITANCE
+
+THEN:
+OWNER -> STATUS -> LINKS -> HANDOFF
+```
+
+The target is not maximum detail.
+
+The target is a world where the detail appears to have **causes, costs, history, and consequences**.
