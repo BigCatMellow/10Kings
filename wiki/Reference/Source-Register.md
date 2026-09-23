@@ -644,6 +644,33 @@ Authoritative political owners now include:
 - magical or theatrical succession rules as regional defaults;
 - generic warlords without a revenue / logistics basis.
 
+## Military / weapons legacy reconciliation — 2026-09-23
+
+Volume 09 received a deliberate pass.
+
+Outputs:
+
+- [Weapons and Elite Troops](../Culture/Weapons-and-Elite-Troops.md) — expanded active owner;
+- [Military and Weapons Legacy Reconciliation](Military-Weapons-Legacy-Reconciliation.md).
+
+**Retained**
+- maintainability and field repair;
+- common equipment following material life rather than fantasy identity;
+- militia / levy versus professional-force tradeoffs;
+- specialist marines, route guards, engineers, harbor patrols, scouts and levy cadres;
+- trade / convoy defense as a mixed civilian-military institution;
+- border equipment and repair techniques hybridizing through workshops;
+- logistics as a future owner problem;
+- named elite units retained only as provisional seed material.
+
+**Rejected / demoted**
+- one army per cultural region;
+- mechanized / rapid-fire equipment beyond the technology baseline;
+- magical troop types unsupported by World Rules;
+- "poor workers use scrap fantasy weapons";
+- mobile / indigenous peoples treated as technologically primitive;
+- region-coded signature weapons and theme-first elite-unit names.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
