@@ -141,6 +141,8 @@ Future religion work should begin with those active references rather than rerea
 
 Volume 08 has now received a deliberate modern pass.
 
+The separate Council review branch has also been integrated into the active branch. Its expanded Economic Council, Internal Structure, and Movement and Information owners outrank the legacy reconciliation pages on Council mechanics.
+
 Active preservation lives in:
 
 - [Economic Council](../Politics/Economic-Council.md);
