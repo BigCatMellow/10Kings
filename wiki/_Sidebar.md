@@ -57,6 +57,7 @@
 
 **Reference**
 - [Middle Worldbuilding](Reference/Middle-Worldbuilding.md)
+- [Writing the Sequel](Reference/Writing-the-Sequel.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
 - [World Synthesis — E/I](Reference/World-Synthesis-EI.md)
 - [Free City of Danzig](Reference/Free-City-of-Danzig.md)
