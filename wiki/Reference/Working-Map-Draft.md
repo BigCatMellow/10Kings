@@ -24,11 +24,11 @@ The SVG is schematic. Coastlines, borders, distances, and labels are intentional
 
 This draft succeeds if a single rough geometry can plausibly explain:
 
-1. why North Country is maritime but still has a consequential overland connection to High Country;
-2. why High Country matters to overland circulation;
-3. why Western Uplands can interact directly with eastern regions without making Central Range irrelevant;
-4. why River Country can support major river agriculture and bulk transport;
-5. why South Country water politics are structurally important;
+1. why North Coast is maritime but still has a consequential overland connection to High Roads;
+2. why High Roads matters to overland circulation;
+3. why Stone Hills can interact directly with eastern regions without making Central Range irrelevant;
+4. why Low Rivers can support major river agriculture and bulk transport;
+5. why Old Cities water politics are structurally important;
 6. why Port becomes a multimodal exchange hub;
 7. why the Tunnels is useful without replacing surface geography;
 8. why alternative routes exist but have real cost.
@@ -43,9 +43,9 @@ This preserves the old idea of three recognizable continental masses without req
 
 Central Range occupies the difficult high ground around the meeting zone and extends into:
 
-- Western Uplands-facing western uplands;
-- the High Country plateau and northern approaches;
-- forested southeastern shoulders toward Forest Country.
+- Stone Hills-facing western uplands;
+- the High Roads plateau and northern approaches;
+- forested southeastern shoulders toward Longwood.
 
 The result is a geography where the continents are visually and historically distinct, but actual travel depends on a small number of land corridors, passes, straits, and coastal approaches.
 
@@ -53,16 +53,16 @@ The result is a geography where the continents are visually and historically dis
 
 ### VERIFIED / working canon
 
-- North Country occupies most of the Northern Continent.
+- North Coast occupies most of the Northern Continent.
 - The coastline is irregular, cold, and maritime.
-- Southward overland movement toward High Country exists but is constrained.
-- North Country also has strong maritime alternatives.
+- Southward overland movement toward High Roads exists but is constrained.
+- North Coast also has strong maritime alternatives.
 
 ### PROVISIONAL V1 solution
 
 The southern coast contains a deep fissure / drowned valley system that cuts most easy land access away from the central mountains.
 
-One narrow **southeastern highland shoulder** remains usable as the principal North Country ↔ High Country overland approach.
+One narrow **southeastern highland shoulder** remains usable as the principal North Coast ↔ High Roads overland approach.
 
 This is not one road. It is a corridor containing:
 
@@ -72,11 +72,11 @@ This is not one road. It is a corridor containing:
 - settlements controlling resupply;
 - possible Tunnels entrances.
 
-This solves the apparent tension between older material describing a dramatic fissure and later material requiring meaningful North Country ↔ High Country pass traffic.
+This solves the apparent tension between older material describing a dramatic fissure and later material requiring meaningful North Coast ↔ High Roads pass traffic.
 
 ### Test consequence
 
-Closing this corridor should not isolate North Country completely.
+Closing this corridor should not isolate North Coast completely.
 
 Instead it should:
 
@@ -84,16 +84,16 @@ Instead it should:
 - raise convoy and Port dependence;
 - increase prices for inland imports;
 - make smuggling and lesser passes more attractive;
-- create a reason for High Country and North Country to care about the same local crisis.
+- create a reason for High Roads and North Coast to care about the same local crisis.
 
 ## Western Continent
 
 ### VERIFIED / working canon
 
-- Western Uplands dominates the western uplands.
+- Stone Hills dominates the western uplands.
 - Terrain rises toward Central Range.
 - Rivers descend through settled valleys.
-- Western Uplands has meaningful eastern and southeastern economic frontiers.
+- Stone Hills has meaningful eastern and southeastern economic frontiers.
 
 ### PROVISIONAL V1 solution
 
@@ -101,14 +101,14 @@ The Western Continent bulges west from the central mountain system.
 
 Its eastern edge does not meet the Eastern Continent along one broad flat border. Instead it approaches through **mountain shoulders and narrow intermontane corridors**.
 
-V1 gives Western Uplands:
+V1 gives Stone Hills:
 
-- one principal eastbound highland corridor toward River Country / High Country;
-- smaller forest-margin approaches toward Forest Country;
+- one principal eastbound highland corridor toward Low Rivers / High Roads;
+- smaller forest-margin approaches toward Longwood;
 - western rivers draining away from Central Range;
 - secondary southern and western ports that prevent Port from becoming the only maritime option.
 
-This keeps Western Uplands connected while preserving the strategic importance of route control.
+This keeps Stone Hills connected while preserving the strategic importance of route control.
 
 ## Eastern Continent
 
@@ -116,23 +116,23 @@ This keeps Western Uplands connected while preserving the strategic importance o
 
 The Eastern Continent contains the largest mixture of environments:
 
-- River Country lowlands;
-- High Country plateau / route country;
-- Forest Country forest systems;
-- South Country warmer southern and eastern country.
+- Low Rivers lowlands;
+- High Roads plateau / route country;
+- Longwood forest systems;
+- Old Cities warmer southern and eastern country.
 
 ### PROVISIONAL V1 order
 
 From northwest / central highlands toward the southeast:
 
 ```text
-Central Range / High Country
+Central Range / High Roads
         ↓
-River Country river lowlands
+Low Rivers river lowlands
         ↓ ↘
- Forest Country  warmer transition
+ Longwood  warmer transition
         ↓        ↓
-     South Country coast
+     Old Cities coast
 ```
 
 This is not intended as four boxes. The actual boundaries follow:
@@ -149,7 +149,7 @@ This is not intended as four boxes. The actual boundaries follow:
 
 ### PROVISIONAL V1 choice — estuary/island complex
 
-V1 places Port **just south of the central mountain junction**, where a major River Country river reaches a protected inner bay / strait.
+V1 places Port **just south of the central mountain junction**, where a major Low Rivers river reaches a protected inner bay / strait.
 
 The city occupies an island, low peninsula, or closely connected harbor complex immediately beside the estuary.
 
@@ -157,11 +157,11 @@ The exact legal footprint remains unresolved.
 
 This location is being tested because it gives Port access to:
 
-- River Country river-borne grain and bulk goods;
-- High Country roads descending from the plateau;
-- North Country shipping approaching from northern waters;
-- South Country coastal shipping approaching from the south/east;
-- Western Uplands maritime and short overland/ferry connections;
+- Low Rivers river-borne grain and bulk goods;
+- High Roads roads descending from the plateau;
+- North Coast shipping approaching from northern waters;
+- Old Cities coastal shipping approaching from the south/east;
+- Stone Hills maritime and short overland/ferry connections;
 - Tunnels exits near, but not inside, the city.
 
 ### Why this is stronger than "Port is in the middle"
@@ -169,13 +169,13 @@ This location is being tested because it gives Port access to:
 Port becomes central through **route intersection**:
 
 ```text
-North Country sea lanes
+North Coast sea lanes
         ↓
-   High Country road
+   High Roads road
         ↓
-River Country river → PORT ← Western Uplands coastal / overland traffic
+Low Rivers river → PORT ← Stone Hills coastal / overland traffic
         ↑
-South Country sea lanes
+Old Cities sea lanes
 ```
 
 No one route is enough by itself.
@@ -185,9 +185,9 @@ No one route is enough by itself.
 Reject this Port site if later map work shows that:
 
 - it requires implausible river behavior;
-- High Country roads would naturally terminate somewhere else;
-- North Country and South Country routes do not actually converge nearby;
-- Western Uplands has a much cheaper equivalent hub;
+- High Roads roads would naturally terminate somewhere else;
+- North Coast and Old Cities routes do not actually converge nearby;
+- Stone Hills has a much cheaper equivalent hub;
 - the city cannot obtain fresh water / food;
 - neutrality would be strategically nonsensical.
 
@@ -195,9 +195,9 @@ Reject this Port site if later map work shows that:
 
 V1 uses **unnamed river systems** rather than prematurely naming them.
 
-### G1 — River Country trunk river
+### G1 — Low Rivers trunk river
 
-A large river rises in the High Country / Central Range-facing uplands and crosses River Country before reaching the Port estuary.
+A large river rises in the High Roads / Central Range-facing uplands and crosses Low Rivers before reaching the Port estuary.
 
 Required functions:
 
@@ -210,9 +210,9 @@ Required functions:
 
 This river is one of the strongest reasons for the V1 Port location.
 
-### G2 — eastern River Country / Forest Country tributary system
+### G2 — eastern Low Rivers / Longwood tributary system
 
-A major tributary drains wetter Forest Country margins into the River Country system.
+A major tributary drains wetter Longwood margins into the Low Rivers system.
 
 This creates shared stakes in:
 
@@ -223,9 +223,9 @@ This creates shared stakes in:
 - fisheries;
 - bridge and road placement.
 
-It also ensures Forest Country water decisions can matter outside Forest Country.
+It also ensures Longwood water decisions can matter outside Longwood.
 
-### S1 — South Country river
+### S1 — Old Cities river
 
 A separate system descends toward the southern/eastern coast.
 
@@ -239,7 +239,7 @@ It should have:
 
 Its exact source is intentionally unresolved.
 
-### W1 / W2 — Western Uplands drainages
+### W1 / W2 — Stone Hills drainages
 
 Several shorter rivers descend westward from the Central Range-facing uplands.
 
@@ -255,7 +255,7 @@ They support:
 
 ### R1 — Western Gate
 
-Western Uplands ↔ River Country / High Country.
+Stone Hills ↔ Low Rivers / High Roads.
 
 A major maintained corridor through lower Central Range terrain.
 
@@ -263,7 +263,7 @@ It should be expensive enough that tolls, maintenance, snow, landslides, and sec
 
 ### R2 — North Shoulder / Icestep corridor
 
-North Country ↔ High Country.
+North Coast ↔ High Roads.
 
 The principal constrained northern overland route.
 
@@ -271,7 +271,7 @@ Its importance comes from being **one of few**, not the only imaginable path.
 
 ### R3 — River Road
 
-High Country / River Country ↔ Port.
+High Roads / Low Rivers ↔ Port.
 
 A road-and-river transport corridor following G1.
 
@@ -279,13 +279,13 @@ Bulk goods favor water; high-value, time-sensitive, military, and passenger traf
 
 ### R4 — Forest Edge Road
 
-Western Uplands / River Country ↔ Forest Country margins.
+Stone Hills / Low Rivers ↔ Longwood margins.
 
 This route should repeatedly cross political and ecological boundaries rather than forming one clean imperial highway.
 
 ### R5 — Southern Market Road
 
-River Country / Forest Country transition ↔ South Country city-state network.
+Low Rivers / Longwood transition ↔ Old Cities city-state network.
 
 This becomes important when coastal shipping is risky or when inland agricultural exchange is cheaper than Port transshipment.
 
@@ -293,19 +293,19 @@ This becomes important when coastal shipping is risky or when inland agricultura
 
 ### M1 — Northern lane
 
-North Country ports and islands ↔ Port.
+North Coast ports and islands ↔ Port.
 
 Seasonal storms, convoy politics, and piracy affect this route strongly.
 
 ### M2 — Southern / eastern lane
 
-South Country coastal cities ↔ Port.
+Old Cities coastal cities ↔ Port.
 
 This is a chain of coastal markets, not a single origin-to-destination line.
 
 ### M3 — Western feeder lanes
 
-Western Uplands's secondary ports ↔ Port and other markets.
+Stone Hills's secondary ports ↔ Port and other markets.
 
 They provide alternatives while still making Port attractive for transactions requiring finance, warehousing, arbitration, or onward connections.
 
@@ -328,13 +328,13 @@ Useful for winter or political closures, but:
 
 ### U2 — Northern branch
 
-A difficult branch associated with the North Country / High Country approach.
+A difficult branch associated with the North Coast / High Roads approach.
 
 It should never make the surface pass irrelevant.
 
 ### U3 — Forest branch
 
-A set of poorly unified routes connecting Forest Country-side communities to central mountain routes.
+A set of poorly unified routes connecting Longwood-side communities to central mountain routes.
 
 This is the best candidate for hidden movement, local trade, refugees, guides, and smuggling.
 
@@ -344,27 +344,27 @@ The draft naturally creates several different chokepoint types:
 
 | Chokepoint | Why it matters | Main failure mode |
 | --- | --- | --- |
-| North Shoulder | scarce North Country overland access | winter / landslide / conflict |
+| North Shoulder | scarce North Coast overland access | winter / landslide / conflict |
 | Western Gate | bulk west-east land trade | tolls / damage / military control |
-| High Country junctions | route switching and brokerage | attack / finance / road closure |
-| G1 crossings | River Country bulk movement | flood / bridge loss / seizure |
+| High Roads junctions | route switching and brokerage | attack / finance / road closure |
+| G1 crossings | Low Rivers bulk movement | flood / bridge loss / seizure |
 | Port estuary | multimodal transfer | blockade / labor / finance / rumor |
-| South Country waterworks | agricultural survival | drought / diversion / sabotage |
+| Old Cities waterworks | agricultural survival | drought / diversion / sabotage |
 | Tunnels junctions | bypass capacity | collapse / control / secrecy |
 
 This is preferable to one universal chokepoint because different crises can redirect pressure rather than simply stop the world.
 
 ## First causal tests
 
-### Test A — North Country piracy
+### Test A — North Coast piracy
 
 ```text
 piracy rises on M1
 → convoy cost rises
 → Port credit tightens
-→ some high-value traffic tries R2 through High Country
-→ High Country transport prices rise
-→ River Country / Western Uplands traders compete for caravan capacity
+→ some high-value traffic tries R2 through High Roads
+→ High Roads transport prices rise
+→ Low Rivers / Stone Hills traders compete for caravan capacity
 → Tunnels alternatives become more valuable
 ```
 
@@ -374,16 +374,16 @@ piracy rises on M1
 
 ```text
 R1 closes
-→ Western Uplands food imports become more expensive
+→ Stone Hills food imports become more expensive
 → some traffic shifts to western ports + Port
 → some traffic shifts to U1
-→ High Country loses some toll / brokerage traffic but gains rerouting work
-→ Forest Country forest-edge paths attract legal and illegal movement
+→ High Roads loses some toll / brokerage traffic but gains rerouting work
+→ Longwood forest-edge paths attract legal and illegal movement
 ```
 
 **Result:** the map produces substitution rather than binary isolation.
 
-### Test C — South Country drought
+### Test C — Old Cities drought
 
 ```text
 S1 flow declines
@@ -391,11 +391,11 @@ S1 flow declines
 → irrigated output falls
 → coastal imports rise
 → M2 traffic toward Port increases
-→ River Country food prices rise from external demand
+→ Low Rivers food prices rise from external demand
 → water-control politics become continental economics
 ```
 
-**Result:** South Country hydrology connects naturally to the world system.
+**Result:** Old Cities hydrology connects naturally to the world system.
 
 ## Decisions V1 intentionally does not make
 
@@ -409,7 +409,7 @@ Still UNKNOWN:
 - exact political borders;
 - exact number of major passes;
 - exact Tunnels entrances;
-- whether High Country has a direct South Country border;
+- whether High Roads has a direct Old Cities border;
 - travel times;
 - prevailing winds and currents;
 - which settlements from the legacy name bank survive.
@@ -424,6 +424,6 @@ That pass should answer:
 - which routes are cart-capable;
 - where river navigation stops;
 - how season changes those times;
-- whether Port / High Country substitution still works once time and transport capacity are quantified.
+- whether Port / High Roads substitution still works once time and transport capacity are quantified.
 
 If V1 survives that test, its major geometry can be promoted from provisional draft into the geography owner. If not, revise the geometry rather than bending logistics to preserve the picture.
