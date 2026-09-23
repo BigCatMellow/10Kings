@@ -232,6 +232,27 @@ This helps explain both:
 - why regional cultural cores persist over long periods;
 - why diaspora and mixed communities still form throughout the world.
 
+## Shared infrastructure can create continuity constituencies
+
+Repeated dependence on the same infrastructure can connect people across political boundaries.
+
+Concrete tests:
+
+- [North Shoulder Paired Roadheads](Reference/North-Shoulder-Paired-Roadheads-Test.md);
+- [Old Cities Shared Irrigation](Reference/Old-Cities-Shared-Irrigation-Test.md).
+
+Workers, households, merchants, landholders, officials, guilds, and technical specialists may all lose if a shared system stops functioning.
+
+That can create pressure for **limited continued cooperation** even during wider rivalry.
+
+Important limit:
+
+> shared dependence can also become coercive leverage.
+
+The stabilizing effect is strongest when both sides bear meaningful costs from collapse and neither has an easy substitute.
+
+This is not a rule that trade or interdependence automatically creates peace.
+
 ## Social circulation follows physical circulation
 
 See [Movement and Information](Movement-and-Information.md) for the world-level carrier and propagation model.
