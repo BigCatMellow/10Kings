@@ -14,6 +14,14 @@ Related:
 - [Social Fabric](../Social-Fabric.md)
 - [Character Roster](../Story/Character-Roster.md)
 
+## Preservation rule
+
+No personal name is retained merely because it already exists in the notes.
+
+Story-central names deserve a higher threshold for change because replacement has wider consequences, but **cultural fit outranks familiarity**.
+
+Do not invent etymology solely to rescue a weak existing name.
+
 ## Core rule
 
 Personal names should come from **kinship, law, language, religion, class and migration history**, not from “what sounds like this region.”
@@ -181,11 +189,13 @@ This should be used sparingly but can connect culture to current politics.
 
 ### Current status
 
-**Wurdren is a protected core story name.**
+**Wurdren is a story-central working name, not a protected name.**
 
-The correct question is not whether to replace it.
+Because it is deeply embedded in the story, replacement should require a clear improvement rather than casual churn.
 
-The question is what history makes it feel inherited.
+But if the eventual naming community shows that **Wurdren** does not fit the culture, language history or character background, it should be changed rather than rationalized.
+
+The first question is still whether the name can emerge naturally from his history. If it cannot, replacement is valid.
 
 ### What needs to be learned
 
@@ -210,7 +220,7 @@ Do not promote it until his origin is known.
 
 ## Current provisional roster
 
-These remain unresolved:
+These remain unresolved and are fully replaceable if the eventual naming systems support better alternatives:
 
 - Orin Slatehallow
 - Maris Bleakshore
