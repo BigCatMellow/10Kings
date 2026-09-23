@@ -118,6 +118,21 @@ Markets introduce dried fruit, spices, oils, noodles, rice, wine, fish, and swee
 
 There should be strong differences between local household food and cosmopolitan market food.
 
+## Finance and exchange
+
+See [Money, Credit, Exchange, and Measures](../Money-Credit-and-Measures.md).
+
+High Roads' route convergence creates practical demand for:
+
+- currency conversion;
+- merchant credit;
+- account settlement;
+- reference weights and measures;
+- credit information;
+- debt arbitration.
+
+That role grows from caravan traffic and cross-border contracting. It does not make High Roads one unified banking polity or financial monopoly.
+
 ## Politics
 
 High Roads political power is distributed among:

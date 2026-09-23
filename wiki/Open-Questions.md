@@ -166,6 +166,27 @@ Remaining questions:
 - Whether some previously discussed "illusions," magical artifacts, special creatures, or supernatural claims are real, misunderstood, religious interpretations, or should be removed.
 - Clear hard limits.
 
+## Money, credit, and measures
+
+[Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md) now establishes the structural model: physical coin exists, several monies and local measures can coexist, long-distance trade also uses credit/account settlement, Port and High Roads are conversion hubs, and the Council's finance role is not a central bank.
+
+Remaining questions:
+
+- Currency names, issuers, denominations, and materials.
+- Number and geographic reach of major currencies.
+- Debasement / clipping history and coin-testing practice.
+- Exchange-rate conventions.
+- Banking-house forms and account-settlement instruments.
+- Interest norms and religious/legal restrictions.
+- Default / bankruptcy rules.
+- Collateral law.
+- Insurance-like institutions.
+- Weight, volume, length, and area units.
+- Custody of reference weights/measures.
+- Exact Port and High Roads exchange conventions.
+- Whether the Convergence formally recognizes specific measures or conversion rules.
+- Tax and wage payment conventions by polity.
+
 ## Records and authentication
 
 [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md) now establishes that literacy is task-specific, written evidence coexists with oral testimony, and document trust comes from institutional authority, custody, witnesses, recognizable form, registration, duplication, and cross-checking rather than writing alone.

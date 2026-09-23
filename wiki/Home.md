@@ -22,6 +22,7 @@ The setting should make it possible to follow one damaged bridge, missing carava
 - [Magic Baseline](Magic-Baseline.md)
 - [Geography and Connections](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
+- [Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md)
 - [Movement and Information](Movement-and-Information.md)
 - [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md)
 - [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md)

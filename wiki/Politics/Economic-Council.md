@@ -406,6 +406,8 @@ See [World Synthesis — E/I](../Reference/World-Synthesis-EI.md#candidate-24--i
 
 ## 5. Finance and Exchange
 
+See [Money, Credit, Exchange, and Measures](../Money-Credit-and-Measures.md).
+
 Working title: **Treasury / Commerce**
 
 Concerned with:
@@ -422,7 +424,7 @@ Concerned with:
 
 This portfolio can connect otherwise separate Council interventions because most large responses require financing.
 
-It should not be treated as a universal central bank unless later worldbuilding explicitly creates one.
+It should not be treated as a universal central bank unless later worldbuilding explicitly creates one. The Council does not currently issue a world currency, set universal interest rates, dictate all exchange rates, or control every mint or lender.
 
 ## 6. Knowledge and Information
 

@@ -377,6 +377,8 @@ But its ability to enforce that decision may depend on:
 
 # 7. Contract can choose a forum
 
+See [Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md).
+
 Long-distance trade becomes easier when parties know where a dispute will be heard.
 
 Therefore it is structurally plausible that important contracts sometimes specify:

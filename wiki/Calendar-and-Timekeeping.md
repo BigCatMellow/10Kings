@@ -492,6 +492,8 @@ A merchant may use a fiscal year that a farmer does not care about.
 
 # 17. Fiscal time creates its own culture
 
+See [Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md).
+
 Debt and accounting can create recurring social pressure.
 
 Possible fiscal events include:
