@@ -32,18 +32,22 @@ The broad topology is now captured in [Geography and Connections](Geography-and-
 
 The Council's structural role is now owned by [The Economic Council](Politics/Economic-Council.md): it is a private interregional coordination layer whose advantage comes from combining information, capital, institutional memory, and cross-border relationships across several dependency systems.
 
-Remaining questions are institutional rather than conceptual:
+The internal mechanics are now owned by [Economic Council — Internal Structure](Politics/Economic-Council-Internal-Structure.md): seats belong to member networks, succession uses house selection plus Council recognition, the institution has a small shared secretariat/archive and limited common reserve, and decisions operate through assent plus actual resource commitment rather than simple majority command.
+
+Remaining questions:
 
 - How old is the Council relative to the Convergence, exactly?
 - Which member houses first created durable private coordination?
 - Final number and names of Council portfolios.
-- How a house qualifies for, inherits, loses, or replaces a seat.
-- Voting, consensus, veto, and internal enforcement rules.
-- Whether the Council has shared staff, property, archives, or a pooled treasury.
-- Exact public facade and meeting practice.
+- Exact ordinary, coercive, and constitutional assent thresholds.
+- Exact common-reserve contribution rules.
+- Exact meeting location, cadence, archive locations, and authentication practices.
+- Final public facade.
 - Who knows the Council exists, and at what level of detail?
+- Whether the Council has ever expelled or replaced a member house.
+- The historical crisis or crises that created major constitutional precedents.
 - What public institutions could replace its aggregation, emergency finance, and cross-domain coordination functions?
-- What happens if a member house refuses a collective decision?
+- Current seat-holders and their internal family factions.
 
 ### 4. Movement of people and information
 
