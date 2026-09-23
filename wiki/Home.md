@@ -4,7 +4,7 @@ This is the working knowledge base for the setting currently called **Two Sons**
 
 ## Core idea
 
-Two Sons is a low-fantasy world built around **interdependence**. Regions differ because of climate, history, geography, language, institutions, and cultural memory, but they are not monocultures or resource caricatures. Ironcrest has more mining; that does not mean everyone is a miner. Deepwood contains major forests; that does not mean every person is a mystic ranger. Each region contains farms, towns, crafts, elites, poor laborers, religious communities, criminals, migrants, minorities, and internal disagreements.
+Two Sons is a low-fantasy world built around **interdependence**. Regions differ because of climate, history, geography, language, institutions, and cultural memory, but they are not monocultures or resource caricatures. Western Uplands has more mining; that does not mean everyone is a miner. Forest Country contains major forests; that does not mean every person is a mystic ranger. Each region contains farms, towns, crafts, elites, poor laborers, religious communities, criminals, migrants, minorities, and internal disagreements.
 
 The story grows from the collision of three scales:
 
@@ -30,18 +30,18 @@ The setting should make it possible to follow one damaged bridge, missing carava
 
 ## Regions
 
-- [Ironcrest](Regions/Ironcrest.md)
-- [Northwind](Regions/Northwind.md)
-- [Greenvale](Regions/Greenvale.md)
-- [Highridge Plateau](Regions/Highridge-Plateau.md)
-- [Deepwood](Regions/Deepwood.md)
-- [Sunplains](Regions/Sunplains.md)
+- [Western Uplands](Regions/Ironcrest.md)
+- [North Country](Regions/Northwind.md)
+- [River Country](Regions/Greenvale.md)
+- [High Country](Regions/Highridge-Plateau.md)
+- [Forest Country](Regions/Deepwood.md)
+- [South Country](Regions/Sunplains.md)
 
 ## Major shared places
 
 - [Port](Places/Port.md)
-- [The Spine](Places/The-Spine.md)
-- [The Underpass](Places/The-Underpass.md)
+- [Central Range](Places/The-Central Range.md)
+- [The Tunnels](Places/The-Tunnels.md)
 - [Border Towns](Places/Border-Towns.md)
 
 ## Culture
