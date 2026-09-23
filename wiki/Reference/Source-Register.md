@@ -815,6 +815,39 @@ The active index organizes research around:
 
 The old book summaries and quotation collections are **not authoritative scholarship**. Any quotation or philosophical claim used in actual design work should be checked against the original source or reliable scholarship first.
 
+## Cities / cultures final legacy cleanup — 2026-09-23
+
+Volumes 03 and 04 received a final targeted review after their main architecture, daily-life and mobile-peoples material had already been reconciled elsewhere.
+
+### Volume 03
+
+[Legacy Settlement Seed Bank](Legacy-Settlement-Seed-Bank.md) preserves useful **site-driven settlement mechanisms** from old city drafts without reviving the old one-style-per-region architecture.
+
+Strong seeds include:
+- geothermal mountain settlement;
+- mine-centered guild city;
+- isolated cold-weather settlement;
+- cliff harbor with vertical circulation;
+- river-island settlement where bridge maintenance is political;
+- pass settlement dependent on traffic;
+- wetland settlement on stilts / boardwalks;
+- oasis settlement organized around water control;
+- temporary / institutional mask-use salvaged from the over-totalized City of Masks concept.
+
+The retained design sequence is:
+
+`site constraint -> infrastructure -> work -> movement -> institution -> neighborhood -> local culture`.
+
+### Volume 04
+
+The newer [Nomads](../Culture/Nomads.md) owner already absorbs the useful comparative mobile-peoples research.
+
+A remaining useful mechanism was promoted to [Social Fabric](../Social-Fabric.md): people can remain rooted because moving means losing accumulated kin, care networks, property/use rights, guild standing, credit, legal status, specialized infrastructure, local knowledge and community relationships.
+
+This does **not** restore the old claim that people naturally belong to one region. Migration remains common when opportunity, marriage, recruitment, debt, displacement, persecution, war, ecological change or preference outweigh those costs.
+
+Regional "collective motivator" drafts remain legacy because they assign one psychology to whole cultures.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
