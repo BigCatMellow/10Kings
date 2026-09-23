@@ -509,6 +509,8 @@ They have different repertoires.
 
 # 20. Written standards can be newer than spoken languages
 
+See [Education, Training, and Knowledge Transmission](Education-Training-and-Knowledge.md).
+
 See [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md).
 
 Post-Convergence institutions can standardize:
