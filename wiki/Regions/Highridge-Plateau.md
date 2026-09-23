@@ -6,6 +6,10 @@
 
 High Country is a highland crossroads, not simply "the merchant region." Its importance comes from geography: routes that avoid or cross parts of Central Range naturally converge here.
 
+## Cultural reach
+
+High Country is a **cultural core and historical concentration**, not a bounded caravan people. Merchant, herding, route, interpreter and arbitration traditions can persist along distant roads and in foreign cities. The geographic High Country is especially mixed because repeated travel and settlement have brought many other cultural traditions into its towns.
+
 ## Geography
 
 The plateau contains:
