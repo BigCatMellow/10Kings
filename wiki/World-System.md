@@ -352,7 +352,17 @@ North Coast piracy rises
 
 See [Current Events](Story/Current-Events.md) for the current worked example.
 
-## 12. What is still deliberately unresolved
+## 12. Magic baseline
+
+See [Magic Baseline](Magic-Baseline.md).
+
+The active world currently requires **no confirmed operational magic**. Travel, information, food, medicine, warfare, law, politics, and economic coordination all function materially.
+
+Magic may still exist, but any specific phenomenon must be added as a world-system change rather than assumed as background convenience.
+
+This protects the bottlenecks on which the current setting depends while preserving room for rare genuine wonder.
+
+## 13. What is still deliberately unresolved
 
 This synthesis should not make unsettled details look settled.
 
