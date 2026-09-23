@@ -6,7 +6,7 @@ Cuisine follows ecology + trade + class + season + preservation + religion + his
 
 Each region has recognizable food families, but there is no single menu eaten by everyone.
 
-## Ironcrest
+## Western Uplands
 
 Local base:
 - barley/oats/other hardy grains;
@@ -16,7 +16,7 @@ Local base:
 - mountain or valley livestock;
 - mushrooms;
 - orchard fruit in lower country;
-- imported Greenvale grain.
+- imported River Country grain.
 
 Common techniques:
 - stewing;
@@ -51,7 +51,7 @@ Drinks:
 - cider in lower valleys;
 - grain spirits in some districts.
 
-## Northwind
+## North Country
 
 Local base:
 - fish and shellfish;
@@ -95,7 +95,7 @@ Alcohol:
 - honey drinks;
 - imported spirits.
 
-## Greenvale
+## River Country
 
 Local base is extremely broad:
 - wheat/barley/other grains;
@@ -144,7 +144,7 @@ Alcohol:
 - fruit wine;
 - grain spirits.
 
-## Highridge
+## High Country
 
 Local base:
 - hardy grains;
@@ -187,7 +187,7 @@ Alcohol:
 - imported wines;
 - herbal spirits.
 
-## Deepwood
+## Forest Country
 
 Local base:
 - cultivated grains/tubers in clearings;
@@ -228,7 +228,7 @@ Alcohol:
 - grain beer;
 - herbal infusions.
 
-## Sunplains
+## South Country
 
 Local base:
 - wheat/barley;
