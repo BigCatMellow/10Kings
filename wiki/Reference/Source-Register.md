@@ -216,6 +216,27 @@ Disposition:
 
 Roadmap: [Culture Deepening Plan](Culture-Deepening-Plan.md).
 
+### Phase 1 — language and naming
+
+The first culture-deepening execution pass reconciled current history and social structure with the legacy Linguistics / Naming material.
+
+Outputs:
+
+- [Language History and Naming Audit](Language-History-and-Naming-Audit.md)
+- [Naming History Vertical Slices](Naming-History-Vertical-Slices.md)
+- [Personal Naming Framework](Personal-Naming-Framework.md)
+
+Promoted structural conclusions:
+
+- modern regions do not map one-to-one onto ancient languages;
+- pre-Convergence language geography should be fragmented along local social / geographic networks;
+- Convergence-era law and trade likely encouraged standardized spellings and interregional registers;
+- major transparent macro labels may remain as reader-facing / interregional translations while local forms stay open;
+- Port develops native mixed speech rather than a mechanical blend of regional stereotypes;
+- legacy accent caricatures and theme-first naming outputs remain reference only.
+
+No native language names, conlang phonologies or bulk replacement names were promoted.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
