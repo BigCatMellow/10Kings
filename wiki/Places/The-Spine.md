@@ -4,7 +4,7 @@
 
 **Working canon.**
 
-Central Range is the central mountain system around which much of the known world's geography and transport is organized.
+The Central Range is the central mountain system around which much of the known world's geography and transport is organized.
 
 ## Physical role
 
@@ -14,7 +14,7 @@ The range is:
 - geologically active enough for earthquakes and collapses to matter;
 - old and complex enough to contain caves, faults, mineral belts, valleys, and isolated communities.
 
-Central Range should not be one continuous impassable wall. It contains:
+The Central Range should not be one continuous impassable wall. It contains:
 - high peaks;
 - lower saddles;
 - inhabited valleys;
@@ -32,7 +32,7 @@ A pass can matter more than a hundred miles of open border.
 
 This explains:
 - High Country's importance;
-- Tunnels development;
+- development of the Tunnels;
 - ancient toll states;
 - strategic fortresses;
 - migration corridors;
@@ -41,7 +41,7 @@ This explains:
 
 ## Geologic history
 
-Earlier notes propose that the three major landmasses emerged from ancient tectonic rifting and collision, with Central Range formed through long mountain-building processes.
+Earlier notes propose that the three major landmasses emerged from ancient tectonic rifting and collision, with the Central Range formed through long mountain-building processes.
 
 Treat exact geology as provisional until the map is finalized.
 
@@ -56,6 +56,6 @@ Recent earthquakes or rock shifts have:
 
 ## Story function
 
-Central Range is where geography becomes politics.
+The Central Range is where geography becomes politics.
 
 It should generate hard choices about which route remains open, who pays to maintain it, who controls access, and what happens when nature ignores human borders.
