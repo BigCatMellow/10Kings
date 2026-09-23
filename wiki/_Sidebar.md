@@ -73,6 +73,7 @@
 - [Working Map Draft — Geometry V1](Reference/Working-Map-Draft.md)
 - [Working Map — Scale and Travel-Time Test V1](Reference/Working-Map-Scale-and-Travel-Test.md)
 - [Working Map — Network Endpoints and Capacity](Reference/Working-Map-Network-Endpoints-and-Capacity.md)
+- [G1 Head-of-Navigation Market Test](Reference/G1-Head-of-Navigation-Market-Test.md)
 - [Middle Worldbuilding](Reference/Middle-Worldbuilding.md)
 - [Writing the Sequel](Reference/Writing-the-Sequel.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
