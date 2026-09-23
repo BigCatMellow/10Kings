@@ -28,7 +28,7 @@ The six regions should not necessarily share identical political systems.
 
 ## Working political tendencies
 
-### Western Uplands
+### Stone Hills
 
 Likely relatively consolidated compared with its pre-Convergence past, but power is divided among:
 - crown/state institutions;
@@ -38,13 +38,13 @@ Likely relatively consolidated compared with its pre-Convergence past, but power
 - labor organizations;
 - old landed families.
 
-### North Country
+### North Coast
 
 Likely preserves strong clan, harbor, and local rights even under larger regional leadership.
 
 Maritime law may be partially separate from inland law.
 
-### River Country
+### Low Rivers
 
 Could combine:
 - regional monarchy or central authority;
@@ -54,7 +54,7 @@ Could combine:
 - cooperatives;
 - market towns.
 
-### High Country
+### High Roads
 
 Could be a federation/confederation of:
 - cities;
@@ -65,7 +65,7 @@ Could be a federation/confederation of:
 
 Its political legitimacy may come from negotiated compacts rather than a single dynasty.
 
-### Forest Country
+### Longwood
 
 Likely the least centralized.
 
@@ -77,7 +77,7 @@ Possible layers:
 - market towns;
 - hereditary authorities in some districts.
 
-### South Country
+### Old Cities
 
 Most explicitly plural:
 - city-states;
