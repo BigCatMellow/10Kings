@@ -22,6 +22,34 @@ Examples:
 
 Regional identity should therefore be treated as **one social affiliation among several**, not a coordinate on the map.
 
+## Mixed communities create local culture
+
+Cross-membership is not only coexistence.
+
+A neighborhood containing several cultural traditions can eventually create customs that belong to the neighborhood itself.
+
+Possible examples:
+
+- a mixed market dialect;
+- a local marriage custom;
+- a work song combining several traditions;
+- a new food;
+- a shared holiday practice;
+- a building layout adapted from several household traditions;
+- a local style of dress.
+
+After enough generations, residents may defend the local version against both source cultures.
+
+This is especially likely in:
+
+- Port;
+- border towns;
+- caravan settlements;
+- mining towns;
+- river markets;
+- migrant farming districts;
+- old military settlements.
+
 ## Core rule
 
 A person in Two Sons should almost never be explainable by one label.
