@@ -153,6 +153,23 @@ Information may also be delayed by:
 - fear of punishment;
 - deliberate misinformation.
 
+## Mode-conversion hubs
+
+See [Working Map — Network Endpoints and Capacity Test V1](Reference/Working-Map-Network-Endpoints-and-Capacity.md).
+
+Places where traffic must change mode become information hubs because people:
+
+- wait;
+- hire labor;
+- compare prices;
+- transfer records;
+- seek lodging;
+- change animals;
+- find interpreters;
+- inspect cargo.
+
+Therefore a head-of-navigation market or pass roadhead may know route conditions earlier than a larger city off the network.
+
 ## Route quality is multidimensional
 
 Two routes with similar travel times can have radically different information / cargo value.
