@@ -60,6 +60,7 @@
 **Reference**
 - [Working Map Draft — Geometry V1](Reference/Working-Map-Draft.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
+- [Culture Deepening Plan](Reference/Culture-Deepening-Plan.md)
 - [World Synthesis — E/I](Reference/World-Synthesis-EI.md)
 - [Competitive Kingdom Dynamics](Reference/Competitive-Kingdom-Dynamics.md)
 - [Convergence to Competitive Spheres](Reference/Convergence-to-Competitive-Spheres.md)
