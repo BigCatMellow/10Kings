@@ -17,7 +17,8 @@ The broad topology is now captured in [Geography and Connections](Geography-and-
 - Exact major surface passes, old roads, maritime lanes, and Underpass entrances.
 - Which regional borders are broad frontiers versus narrow corridors.
 - Whether High Roads directly borders Old Cities.
-- Approximate travel times and seasonal reliability between major hubs.
+- Final settlement-to-settlement travel times inside the tested ranges from [Working Map — Scale and Travel-Time Test V1](Reference/Working-Map-Scale-and-Travel-Test.md).
+- River navigability endpoints, cart-capable road segments, and route capacity.
 - Which rivers, roads, and straits become true strategic chokepoints rather than merely important routes.
 
 ### 2. Post-Convergence political order
@@ -62,7 +63,7 @@ Remaining questions:
 - Actual language families and degrees of mutual intelligibility.
 - Major pilgrimage, migration, labor, refugee, and seasonal travel patterns.
 - Structure and legal status of nomadic/itinerant peoples.
-- Exact travel times and seasonal reliability between major hubs.
+- Exact schedules and local travel times inside the new working travel envelope.
 - Whether dedicated courier guilds or public postal systems exist, and where.
 - Literacy rates and the social reach of written records.
 - Standard seals, notarial practices, message houses, and document conventions.
