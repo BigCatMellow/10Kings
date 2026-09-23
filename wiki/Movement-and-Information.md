@@ -695,7 +695,7 @@ This is why an archive can threaten a powerful institution even when it was neve
 
 # 10. Translation is part of the network
 
-The setting is multilingual and language families remain unresolved.
+The setting is multilingual. See [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md) for the structural model; exact family trees and languages remain unresolved.
 
 Therefore long-distance information often depends on:
 

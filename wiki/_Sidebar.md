@@ -12,6 +12,7 @@
 - [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md)
 - [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md)
 - [Social Fabric](Social-Fabric.md)
+- [Language Families and Contact](Language-Families-and-Contact.md)
 - [Open Questions](Open-Questions.md)
 
 **Regions**

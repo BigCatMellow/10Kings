@@ -4,6 +4,8 @@
 
 **Working cultural framework.** Naming rules are established at the design level; exact language families, local endonyms, etymologies and most personal-name systems remain provisional.
 
+See [Language Families, Contact, and Mutual Intelligibility](../Language-Families-and-Contact.md) for the linguistic history that naming layers must eventually reflect.
+
 ## Rule
 
 Names should feel as if they have histories.

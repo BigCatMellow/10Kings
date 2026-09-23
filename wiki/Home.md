@@ -51,6 +51,7 @@ The setting should make it possible to follow one damaged bridge, missing carava
 ## Culture
 
 - [Cultural Inspiration](Culture/Culture-and-Influence.md)
+- [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md)
 - [Language and Thought](Culture/Language-and-Thought.md)
 - [Naming](Culture/Naming.md)
 - [Daily Life and Customs](Culture/Daily-Life-and-Customs.md)
