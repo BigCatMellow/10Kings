@@ -114,6 +114,17 @@ The sections below retain the more detailed unresolved questions.
 - Which older languages survive in place names.
 - How mutually intelligible the regions are.
 
+## Calendars and public ritual
+
+- What calendar or calendars are used for law, trade, religion and ordinary dating?
+- How far are dates standardized across polities after the Convergence?
+- Which seasonal thresholds are observed locally rather than by fixed date?
+- Which religious observances create substantial trans-regional travel?
+- What legal acts define adulthood in major polities?
+- How are marriages or partnerships legally recorded, if at all, across different states and in Port?
+- Which body-disposition practices are materially and religiously established?
+- Which legacy festival candidates, if any, eventually earn canon names through local history?
+
 ## Nomadic peoples
 
 - Name and self-name of the Appalachian-influenced mobile network.
