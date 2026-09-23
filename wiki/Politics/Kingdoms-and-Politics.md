@@ -556,20 +556,14 @@ Port is a special polity / jurisdiction whose importance comes from:
 
 It is not simply a district of the nearest region.
 
-Exact citizenship and constitutional structure remain open.
+[Port](../Places/Port.md) now establishes the structural division:
 
-Port should have enough local government to manage:
+- ordinary internal government is local;
+- external freedom is constrained by the arrangements that preserve neutrality and outside access;
+- foreign powers may possess treaty rights without possessing the city;
+- Port has meaningful local security capacity but is not a major territorial military power.
 
-- harbor law;
-- markets;
-- courts;
-- watch/guard;
-- fire response;
-- quarantine;
-- warehouses;
-- local taxation/fees.
-
-Outside powers may guarantee or influence its neutrality without directly governing everyday city life.
+Exact citizenship, constitution, customs arrangement, treaty guarantors, foreign-relations procedure, and harbor governance remain open.
 
 ---
 
