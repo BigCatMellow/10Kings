@@ -50,8 +50,8 @@ These broad cultural-geographic labels are now being replaced with deliberately 
 | Highridge / Highridge Plateau | **High Country** | ordinary description for elevated route country; not a prestige title |
 | Deepwood | **Forest Country** | literal broad geographic label; avoids mystical / fantasy branding |
 | Sunplains | **South Country** | ordinary directional regional label broad enough for plains, river basins, coasts and city-states |
-| The Spine | **Central Range** | map / geographic term rather than fantasy metaphor |
-| The Underpass | **The Underpass** | ordinary surface shorthand for the cave / excavated route network |
+| The Spine | **The Spine** | retained; simple geographic metaphor that already feels inherited |
+| The Underpass | **The Underpass** | retained; ordinary functional shorthand that already works as a proper name |
 | Port | **Port** | retained because its almost boring shorthand is plausible for an internationally familiar harbor city |
 
 ## Important
@@ -295,7 +295,7 @@ The second pass keeps ordinary naming logic while allowing each macro-region a m
 | High Country | **the High Roads** | historical route-country name built from the roads, passes and caravan network rather than from altitude alone |
 | Forest Country | **the Longwood** | common name for the great historical forest core; does not imply all forests belong to it |
 | South Country | **the Old Cities** | cultural-historical shorthand for the old city-state / irrigation heartland rather than a climate label |
-| Central Range | **Central Range** | retained; plain geographic map term works |
+| The Spine | **The Spine** | retained; plain geographic map term works |
 | The Underpass | **the Underpass** | retained; ordinary common shorthand works |
 | Port | **Port** | retained; deliberately plain international shorthand works |
 
