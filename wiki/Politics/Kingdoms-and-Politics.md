@@ -743,6 +743,27 @@ This is consistent with the world's overlapping social fabric.
 
 ---
 
+## Shared infrastructure can constrain foreign policy
+
+Political authorities do not make decisions in isolation from the systems their populations depend on.
+
+See:
+
+- [North Shoulder Paired Roadheads](../Reference/North-Shoulder-Paired-Roadheads-Test.md);
+- [Old Cities Shared Irrigation](../Reference/Old-Cities-Shared-Irrigation-Test.md).
+
+Cross-border infrastructure can create local constituencies that pressure rulers to preserve:
+
+- access;
+- maintenance;
+- emergency coordination;
+- records;
+- limited dispute mechanisms.
+
+This can restrain escalation in one domain while rivalry continues elsewhere.
+
+It can also create coercive leverage when dependence is asymmetric.
+
 # 19. Competitive spheres are not governments
 
 See [Competitive Kingdom Dynamics](../Reference/Competitive-Kingdom-Dynamics.md).
