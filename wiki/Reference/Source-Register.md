@@ -237,6 +237,38 @@ Promoted structural conclusions:
 
 No native language names, conlang phonologies or bulk replacement names were promoted.
 
+### Phase 2 — daily life and material culture
+
+The next culture pass reviewed legacy Volume 04 against the current region, social, food, architecture, guild and trade owners.
+
+Outputs:
+
+- [Daily Life and Customs](../Culture/Daily-Life-and-Customs.md)
+- [Clothing and Material Culture](../Culture/Clothing-and-Material-Culture.md)
+- [Culture Phase 2 — Ordinary-Life Vertical Slices](Culture-Phase-2-Vertical-Slices.md)
+- [Material Culture Supply Chains](Material-Culture-Supply-Chains.md)
+
+Disposition of legacy material:
+
+**Compatible mechanisms retained**
+- workwear and weather adaptation;
+- class / occupation differences;
+- repair and reuse;
+- guild / household identity markers;
+- market-day social life;
+- profession-linked coming-of-age as one possible pattern;
+- imported textiles / secondhand goods / trade influence.
+
+**Not promoted**
+- one signature regional costume;
+- fixed regional palettes;
+- universal wave / vine / flame / leaf / sun motifs;
+- “stoic,” “gritty,” “elegant,” “mystical” clothing psychology;
+- direct Earth-culture costume mapping;
+- universal regional marriage / household / funeral systems.
+
+The older source remains provenance and an idea quarry, not a style bible.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
