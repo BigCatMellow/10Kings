@@ -34,7 +34,7 @@ The known world is organized around:
 - the Western, Northern, and Eastern Continents;
 - the central mountain system called [Central Range](Places/The-Spine.md);
 - surface passes, rivers, roads, coasts, and caravan corridors;
-- the branching subterranean network called [The Tunnels](Places/The-Underpass.md);
+- the branching subterranean network called [The Underpass](Places/The-Underpass.md);
 - [Port](Places/Port.md), whose importance comes from network position, law, infrastructure, finance, and accumulated trust.
 
 The exact map remains partly open. What is already established is more important than simple adjacency:
@@ -119,7 +119,7 @@ Important examples include:
 - Port's harbor, warehouses, courts, repair capacity, finance, and information;
 - High Roads passes and caravan systems;
 - major Central Range crossings;
-- Tunnels branches;
+- Underpass branches;
 - bridges, canals, river crossings, irrigation gates, and important roads;
 - food storage and seed networks;
 - mines, foundries, timber/fuel supply, and strategic workshops;
@@ -130,7 +130,7 @@ A chokepoint matters because many independent actors rely on it.
 
 A bypass matters because it can reduce somebody else's leverage.
 
-That makes the [Tunnels](Places/The-Underpass.md), smuggling, alternative routes, local storage, religious hospitality, guild networks, and informal credit politically important even when they are not controlled by rulers.
+That makes the [Underpass](Places/The-Underpass.md), smuggling, alternative routes, local storage, religious hospitality, guild networks, and informal credit politically important even when they are not controlled by rulers.
 
 ## 6. Visible government and cross-border institutions
 
@@ -273,7 +273,7 @@ Several unrelated-looking stresses are occurring at the same time:
 - Old Cities drought anxiety and city-state coordination;
 - Port smuggling, merchant conflict, and refugee/worker pressure;
 - Central Range land movement and route/ruin discovery;
-- Tunnels route wars;
+- Underpass route wars;
 - trans-regional religious interpretation of the crises.
 
 Some are ordinary problems. Some are manipulated. Some are Council responses. Some become useful to the Villain only after they already exist.
