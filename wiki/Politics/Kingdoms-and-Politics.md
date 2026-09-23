@@ -8,7 +8,7 @@ The six regions should not necessarily share identical political systems.
 
 ## Working political tendencies
 
-### Ironcrest
+### Western Uplands
 
 Likely relatively consolidated compared with its pre-Convergence past, but power is divided among:
 - crown/state institutions;
@@ -18,13 +18,13 @@ Likely relatively consolidated compared with its pre-Convergence past, but power
 - labor organizations;
 - old landed families.
 
-### Northwind
+### North Country
 
 Likely preserves strong clan, harbor, and local rights even under larger regional leadership.
 
 Maritime law may be partially separate from inland law.
 
-### Greenvale
+### River Country
 
 Could combine:
 - regional monarchy or central authority;
@@ -34,7 +34,7 @@ Could combine:
 - cooperatives;
 - market towns.
 
-### Highridge
+### High Country
 
 Could be a federation/confederation of:
 - cities;
@@ -45,7 +45,7 @@ Could be a federation/confederation of:
 
 Its political legitimacy may come from negotiated compacts rather than a single dynasty.
 
-### Deepwood
+### Forest Country
 
 Likely the least centralized.
 
@@ -57,7 +57,7 @@ Possible layers:
 - market towns;
 - hereditary authorities in some districts.
 
-### Sunplains
+### South Country
 
 Most explicitly plural:
 - city-states;
