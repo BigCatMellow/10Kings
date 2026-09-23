@@ -154,6 +154,8 @@ Visible authority includes some combination of:
 
 But much of daily life is also governed by institutions that cross political borders.
 
+See [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md). The post-Convergence world has **layered jurisdiction**: local governments, rulers, guilds, faiths, Port, route institutions, and treaty obligations can all possess legitimate but limited claims over different disputes. Enforcement and recognition matter as much as abstract legal authority.
+
 ### Guilds
 
 [Guilds](Politics/Guilds.md) regulate skills, apprenticeships, labor, contracts, professional standards, welfare, and market access. They can protect members and become coercive cartels at the same time.
