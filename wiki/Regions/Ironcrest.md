@@ -4,6 +4,10 @@
 
 **Working canon.** Western Uplands is the best-known mining and metalworking region, but it is not a nation of miners. It contains farms, villages, upland herders, river towns, merchants, religious communities, poor districts, old estates, guild centers, and border populations.
 
+## Cultural reach
+
+Western Uplands is a **cultural core and historical concentration**, not an exclusive homeland. Western-derived craft families, mining communities, guild traditions and dialects can exist far outside the western uplands, especially around mines, workshops and trade cities. Likewise, the geographic Western Uplands contains communities whose strongest cultural ties are River Country, High Country, Forest Country, Port, religious, guild or locally mixed.
+
 ## Geography
 
 Western Uplands occupies much of the western upland country. It includes mineral-rich hills, valleys cut by streams, wooded slopes, pasture, workable farmland, and increasingly dense settlements around older mining and metalworking centers.
