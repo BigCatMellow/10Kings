@@ -806,7 +806,7 @@ The division is:
 
 - [Middle Worldbuilding](wiki/Reference/Middle-Worldbuilding.md) - how systems function;
 - [Writing the Sequel](wiki/Reference/Writing-the-Sequel.md) - what accumulates through time;
-- [Worldbuilding Breath](wiki/Reference/Worlgbuilding-Breath.md) - how selectively those things are revealed in prose.
+- [Worldbuilding Breath](wiki/Reference/Worldbuilding-Breath.md) - how selectively those things are revealed in prose.
 
 **Build deeply. Reveal selectively.**
 
