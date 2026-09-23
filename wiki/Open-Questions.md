@@ -36,7 +36,7 @@ Remaining questions:
 - Whether permanent treaty courts exist at all.
 - Whether standardized weights/measures or guild privileges are treaty clauses, later practice, or separate agreements.
 - Exact appeal structures by polity.
-- Port's legal status, citizenship model, and neutrality guarantee.
+- Port's exact constitution, citizenship model, treaty guarantors, customs/revenue arrangement, foreign-relations limits, military-access rules, extradition rules, and harbor-governance structure. Its structural status as a locally self-governing neutral jurisdiction with treaty-constrained external freedom is now established in [Port](Places/Port.md).
 - Extradition and cross-border criminal pursuit.
 - Recognition of marriages, inheritance, and family status across jurisdictions.
 - Exact maritime law and guild privilege by polity.
@@ -121,7 +121,7 @@ Remaining questions:
 - High Roads formal compact / confederal architecture.
 - Whether Longwood has any durable region-wide assembly or only overlapping local institutions.
 - Exact Old Cities city-state roster, leagues, and client territories.
-- Port citizenship and constitutional form.
+- Port's exact constitution and citizenship rules; structural local self-government and treaty-constrained neutrality are established.
 - Military and taxation structure by polity.
 - Succession rules for major rulers.
 - Exact diplomatic representation in the Convergence.
