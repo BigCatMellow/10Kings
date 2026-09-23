@@ -1,20 +1,20 @@
-# Old Cities
+# The Old Cities
 
 ## Status
 
 **Working canon.**
 
-Old Cities is the warmer, generally drier southern/eastern region associated with old city-states, irrigated agriculture, orchards, coastal exchange, and civic competition.
+The Old Cities are the warmer, generally drier southern/eastern cultural heartland associated with old city-states, irrigated agriculture, orchards, coastal exchange, and civic competition.
 
 It should not be reduced to wine, olive oil, and festivals.
 
 ## Cultural reach
 
-Old Cities is a **cultural core and historical concentration**, not an exclusive southern people or dry-climate biome. Old Cities-descended merchant, irrigation, urban and coastal communities can exist far outside the core. The geographic Old Cities also contains forests, uplands, pastoral zones, migrant districts and communities shaped by other regional traditions.
+The Old Cities are a **cultural core and historical concentration**, not an exclusive southern people or dry-climate biome. Old Cities-descended merchant, irrigation, urban and coastal communities can exist far outside the core. The broader Old Cities core also contains forests, uplands, pastoral zones, migrant districts and communities shaped by other regional traditions.
 
 ## Geography
 
-Old Cities includes:
+The Old Cities core includes:
 - dry plains;
 - river valleys;
 - irrigated basins;
@@ -29,7 +29,7 @@ Water availability varies sharply, which makes water law politically important.
 
 ## Historical identity
 
-Before The Convergence, Old Cities consisted of competing:
+Before The Convergence, the Old Cities consisted of competing:
 - city-states;
 - estate regions;
 - port towns;
