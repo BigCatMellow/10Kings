@@ -71,7 +71,7 @@ Do not treat it as canon, but do not design the topic from scratch without revie
 | **03 — Cities / Architecture** | **MOSTLY RECONCILED** | Architecture + Phase 4 slices | city-specific morphology, neighborhood functions, public institutions and old city concepts when a settlement is developed | one-style-per-region architecture; direct Earth-style mapping |
 | **04 — Cultures / Peoples / Daily Life** | **MOSTLY RECONCILED, NOMADS PARTIAL** | Daily Life, Clothing, Arts, Culture and Influence, Nomads | plurality of mobile peoples; route-based kin networks; inheritance / household prompts; localized taboo/superstition prompts; portable crafts and oral-memory mechanisms | regional psychology, costume stereotypes, fantasy-race material unless deliberately revived under current world rules |
 | **05 — Food / Cuisine** | **RECONCILED** | Food, Food Diaspora and Adaptation, Phase 3 | cooking techniques, preservation, labor food, historical adaptation prompts, equipment questions | themed dish names, direct modern cuisine copies, recipe-card canon, forge/frost/forest flavor personalities |
-| **06 — Religion / Gods / Artifacts** | **UNRECONCILED / HIGH** | Religions, Festivals, Daily Life | institutional branches; schools / teaching; charity; archives; mediation; pilgrimage infrastructure; burial interests; internal sects / reform movements; how faiths provide material services; artifact questions | old personified deities where current faiths are principle-centered; copied symbols/architecture; named festivals and ritual scripts not revalidated |
+| **06 — Religion / Gods / Artifacts** | **RECONCILED STRUCTURALLY / NAMED DETAIL PRESERVED PROVISIONAL** | Religions, Religion Legacy Reconciliation, Religious Artifacts Framework, Festivals, Daily Life | future local testing can promote selected sects, texts, saints, personifications, relics and practices | literal 168-god cosmology, copied ritual blocks, universal temple aesthetics, and supernatural claims remain unpromoted |
 | **07 — Linguistics** | **PARTIALLY RECONCILED** | Language and Thought, Naming, language-history references | trade/legal registers; multilingual institutional language; loanword paths; literacy / orthography prompts; class/guild registers; examples that can test current framework | deterministic “regional personality through grammar,” accent caricature, phonetic stereotype dialogue |
 | **08 — Council / Guilds / Underworld** | **UNRECONCILED / HIGH** | Economic Council, Guilds, Crime and Underworld, Social Fabric | Council stress tests; internal faction models; guild class/economic functions; welfare/credit/training mechanisms; relations among guilds, kingdoms and Council; scale of criminal networks; named gang concepts as provisional seed bank | old six-Dominus one-to-one scheme when it conflicts with current Council domains; claims that Council literally controls everything; gangs assigned mechanically by region |
 | **09 — Military / Weapons** | **UNRECONCILED / MEDIUM-HIGH** | Weapons and Elite Troops | logistics; militia vs professional force; locally available weapons; border adaptation; mobile peoples' defensive needs; elite-force institutional questions | mechanized/repeating weapons beyond tech limits; “poor people use scrap fantasy weapons” gimmicks; one signature weapon per region; theme-named elite units |
@@ -123,22 +123,19 @@ The older Danzig source remains provenance.
 
 The following are operationally important enough that future work needs an active retrieval route.
 
-## 1. Religion as institution
+## 1. Religion as institution — reconciled 2026-09-23
 
-Current [Religions](../Politics/Religions.md) preserves the nine faiths and their broad institutional interests, but Volume 06 contains much more material about:
+Volume 06 has now received a deliberate modern pass.
 
-- teaching;
-- archives;
-- charity;
-- mediation;
-- pilgrimage;
-- reform movements;
-- sect organization;
-- community services.
+Active preservation lives in:
 
-**Action:** future religion deepening must review Volume 06 before inventing new institutions.
+- [Religions](../Politics/Religions.md);
+- [Religion Legacy Reconciliation](Religion-Legacy-Reconciliation.md);
+- [Religious Artifacts Framework](Religious-Artifacts-Framework.md).
 
-Do not automatically restore its gods, symbols, temple aesthetics or named rites.
+The pass retained institutional depth, named theological vocabulary, philosophical schools and artifact concepts without forcing them into one literal pantheon.
+
+Future religion work should begin with those active references rather than rereading the raw volume unless exact provenance is needed.
 
 ## 2. Guilds as class / welfare / economic institutions
 
@@ -246,15 +243,15 @@ If repository size or search noise becomes a problem, the duplicate package file
 
 ## P0 — review before relevant new work
 
-1. **Volume 06 — Religion institutional depth**
-2. **Volume 08 — Council / guild / underworld mechanisms**
-3. **Volume 12 — grounded domino method**
+1. **Volume 08 — Council / guild / underworld mechanisms**
+2. **Volume 02 — minor polities, local institutions, education and law**
+3. **Volume 09 — military / logistics**
 
 ## P1 — deliberate future passes
 
-4. **Volume 02 — minor polities, local institutions, education and law**
-5. **Volume 09 — military / logistics**
-6. **Volume 07 — language examples / registers**
+4. **Volume 07 — language examples / registers**
+5. **Volume 10 — current-event alternatives / secondary effects**
+6. **Volume 11 — character / villain alternatives and critique**
 
 ## P2 — gap creation, not lore promotion
 
