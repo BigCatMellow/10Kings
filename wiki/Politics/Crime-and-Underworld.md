@@ -6,7 +6,9 @@ Crime exists because law, markets, borders, poverty, opportunity, corruption, an
 
 Criminal organizations should provide real benefits to some members — protection, work, credit, belonging, dispute resolution — while imposing serious costs on victims and communities.
 
-The named legacy-faction review is preserved in [Underworld Legacy Reconciliation](../Reference/Underworld-Legacy-Reconciliation.md). Names such as **Black Tapestry, Painted Moon, Tallow Runners, Ebony Doves, Broken Sigil, Indigo Vow** and others remain available as provisional seeds rather than disappearing with the old regional model.
+The named legacy-faction review is preserved in [Underworld Legacy Reconciliation](../Reference/Underworld-Legacy-Reconciliation.md).
+
+See [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md) for the jurisdiction gaps that make cross-border crime, forged documents, informal arbitration, and enforcement avoidance possible. Names such as **Black Tapestry, Painted Moon, Tallow Runners, Ebony Doves, Broken Sigil, Indigo Vow** and others remain available as provisional seeds rather than disappearing with the old regional model.
 
 ## Scale
 
