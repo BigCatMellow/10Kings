@@ -72,6 +72,8 @@ A disruption in Port can therefore become a continental event even when the orig
 
 ## Transfer cost and mode change
 
+A concrete application now exists in [G1 Head-of-Navigation Market — Middle-Worldbuilding Test](../Reference/G1-Head-of-Navigation-Market-Test.md). It shows how storage access, weighing, labor, custody records, and onward transport can change bargaining power even when production is abundant.
+
 See [Working Map — Network Endpoints and Capacity Test V1](../Reference/Working-Map-Network-Endpoints-and-Capacity.md).
 
 Trade cost is not only distance.
