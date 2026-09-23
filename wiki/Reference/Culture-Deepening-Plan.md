@@ -1065,6 +1065,36 @@ Still unresolved before Phase 2 is considered mature:
 
 These should be resolved only as needed by later vertical slices rather than globally all at once.
 
+## Execution status — Phase 3
+
+**Started 2026-09-23.**
+
+Completed first food deepening pass:
+
+- rebuilt [Food](../Culture/Food.md) around ecology + fuel + cookware + preservation + labor + trade + class + season + religion + migration + history;
+- revised [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md) to remove theme-first dish naming and region-as-flavor shorthand;
+- added [Culture Phase 3 — Food Vertical Slices](Culture-Phase-3-Food-Vertical-Slices.md) across Western Uplands, North Country, River Country, High Country, Forest Country, South Country and Port.
+
+First findings:
+
+- region sets broad ecology and trade pressure, but work, class, storage, urban/rural setting, religion and migration often predict actual meals more strongly;
+- preservation should be treated as infrastructure, not merely household technique;
+- prepared / street food is especially plausible in Port, High Country caravan districts, industrial towns and major markets where time, fuel and kitchen space are constrained;
+- food crises usually appear first as substitution: less meat, cheaper grain, fewer fresh foods, more credit, more communal / institutional meals;
+- the River Country abundance crisis works especially well when cheap food coexists with farm debt and asset loss;
+- Port food should become genuinely Port-born through repeated local use rather than being described as “fusion”;
+- legacy dish names built from forge / frost / forest / sun / caravan imagery remain reference only.
+
+Still unresolved:
+
+- exact staple species;
+- exact fats / oils;
+- preservation salt geography at scale;
+- precise pottery / metal-cookware distribution;
+- ownership of communal ovens, mills and smokehouses;
+- religious dietary practices;
+- final local food names.
+
 # 9. Success test
 
 The culture pass is succeeding when two people can both be from the same region and still differ meaningfully because of:
