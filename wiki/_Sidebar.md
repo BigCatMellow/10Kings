@@ -11,17 +11,17 @@
 - [Open Questions](Open-Questions.md)
 
 **Regions**
-- [Ironcrest](Regions/Ironcrest.md)
-- [Northwind](Regions/Northwind.md)
-- [Greenvale](Regions/Greenvale.md)
-- [Highridge Plateau](Regions/Highridge-Plateau.md)
-- [Deepwood](Regions/Deepwood.md)
-- [Sunplains](Regions/Sunplains.md)
+- [Western Uplands](Regions/Ironcrest.md)
+- [North Country](Regions/Northwind.md)
+- [River Country](Regions/Greenvale.md)
+- [High Country](Regions/Highridge-Plateau.md)
+- [Forest Country](Regions/Deepwood.md)
+- [South Country](Regions/Sunplains.md)
 
 **Shared Places**
 - [Port](Places/Port.md)
-- [The Spine](Places/The-Spine.md)
-- [The Underpass](Places/The-Underpass.md)
+- [Central Range](Places/The-Central Range.md)
+- [The Tunnels](Places/The-Tunnels.md)
 - [Border Towns](Places/Border-Towns.md)
 
 **History**
