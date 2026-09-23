@@ -821,6 +821,53 @@ Take one existing current-event chain and identify five household substitutions 
 
 Strong candidate for story texture; exact customs remain local and provisional.
 
+## Candidate 23 — Cultural geography can be noncontiguous
+
+**Sources**
+
+- [World Rules](../World-Rules.md)
+- [World Overview](../World-Overview.md)
+- [Geography and Connections](../Geography-and-Connections.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Culture and Influence](../Culture/Culture-and-Influence.md)
+
+**Connection**
+
+The six major traditions are historical cultural cores, while migration, trade, marriage, guilds, religion and repeated ecology spread people and institutions beyond those cores.
+
+**New implication**
+
+The cultural map can contain:
+
+- majority cores;
+- minority enclaves;
+- diaspora neighborhoods;
+- migration corridors;
+- noncontiguous settlements;
+- mixed cities;
+- local branches adapted to new environments.
+
+A distant forest can therefore contain a Forest Country-descended community without becoming part of geographic Forest Country, while another nearby forest community may be culturally unrelated.
+
+**Why it matters**
+
+This prevents political borders, cultural identity and biome from collapsing into one map layer.
+
+It also creates more believable minorities, migration histories, mixed families and local political disputes.
+
+**Smallest test**
+
+Choose one culture and place three communities carrying it:
+1. in its historical core;
+2. in a neighboring mixed zone;
+3. in a distant ecologically compatible area.
+
+Check that all three remain recognizably related while developing different local practices.
+
+**Disposition**
+
+Structural principle promoted to World Rules, World Overview, Geography, Social Fabric and regional owners. Specific diaspora communities remain provisional.
+
 ## Promotion rule
 
 Nothing on this page becomes canon because it sounds useful.
