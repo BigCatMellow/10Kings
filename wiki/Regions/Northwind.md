@@ -6,6 +6,10 @@
 
 North Country is colder than most of the known world and unusually maritime, but its people are not uniformly fishers or stoic seafarers. The region includes coastal towns, sheltered inland valleys, grazing country, forests in milder zones, craft centers, small farms, shipping ports, islands, and old clan territories.
 
+## Cultural reach
+
+North Country is a **cultural core and historical concentration**, not the only place where North Country people live. Maritime families, harbor communities and clan-descended groups can persist in distant ports and coastal settlements. The geographic North Country also contains inland, migrant and mixed communities that do not share one cultural identity.
+
 ## Geography
 
 North Country occupies much of the Northern Continent and associated coasts and islands.
