@@ -32,11 +32,18 @@ Still unresolved:
 
 ### 2. Post-Convergence political order
 
-- What did the Convergence formally guarantee: borders, passage, trade, arbitration, mutual defense, Port neutrality, or some combination?
-- Are all six named regions states in the same constitutional sense?
-- Which powers remain city-states, confederacies, clan systems, or decentralized networks?
-- What institutions arbitrate disputes between regions?
-- What is Port's legal status, citizenship model, and neutrality guarantee?
+The core charter order is now defined in [The Convergence](History/The-Convergence.md): recognition/non-aggression, protected trade and access, shared route security, arbitration, neutral Port, and negotiated stewardship without creating a unified state.
+
+Still unresolved:
+
+- exact signatories and chronology;
+- permanent arbitration institutions and appeal rules;
+- exact mutual-defense/security trigger;
+- enforcement against a powerful violator;
+- which Underpass routes receive treaty protection;
+- amendment/accession rules;
+- Port's exact charter, citizenship model, foreign rights, and neutrality guarantors;
+- exact constitutional form of each major region.
 
 ### 3. Coordination and power
 
