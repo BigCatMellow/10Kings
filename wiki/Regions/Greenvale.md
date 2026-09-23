@@ -1,18 +1,18 @@
-# Low Rivers
+# The Low Rivers
 
 ## Status
 
 **Working canon.**
 
-Low Rivers is the largest major agricultural heartland, but it is not one endless field. It contains market towns, pasture, rivers, orchards, wetlands, forests, mills, estates, tenant villages, workshops, roads, shrines, and regional cities.
+The Low Rivers are the largest major agricultural heartland, but it is not one endless field. It contains market towns, pasture, rivers, orchards, wetlands, forests, mills, estates, tenant villages, workshops, roads, shrines, and regional cities.
 
 ## Cultural reach
 
-Low Rivers is a **cultural core and historical concentration**, not the territory of one agricultural people. Low Rivers-descended farming, milling, storage and village traditions can travel with migrants into other fertile valleys and river systems. The geographic Low Rivers also contains towns, estates, migrant communities and border populations with other cultural identities.
+The Low Rivers are a **cultural core and historical concentration**, not the territory of one agricultural people. Low Rivers-descended farming, milling, storage and village traditions can travel with migrants into other fertile valleys and river systems. The geographic Low Rivers region also contains towns, estates, migrant communities and border populations with other cultural identities.
 
 ## Geography
 
-Low Rivers occupies broad temperate lowlands and rolling country with comparatively reliable rainfall and productive soils.
+The Low Rivers occupy broad temperate lowlands and rolling country with comparatively reliable rainfall and productive soils.
 
 Its boundaries grade into:
 - Stone Hills foothills;
@@ -24,7 +24,7 @@ These transition zones are some of the world's most culturally mixed areas.
 
 ## Historical identity
 
-Low Rivers's pre-Convergence history includes:
+The Low Rivers' pre-Convergence history includes:
 - small landholding communities;
 - estate rulers;
 - river towns;
