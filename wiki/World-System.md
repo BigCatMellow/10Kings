@@ -49,12 +49,12 @@ The regions are ecosystems with distinctive emphases, not single-resource states
 
 | Region | Strong pressures / capabilities | What makes it systemically important |
 | --- | --- | --- |
-| [Western Uplands](Regions/Ironcrest.md) | mineral-rich uplands, metalwork, dangerous labor, concentrated productive capacity | tools, strategic materials, craft capacity, weapons, ownership/labor politics |
-| [North Country](Regions/Northwind.md) | cold seas, fisheries, shipping, seasonal risk, clan and harbor obligations | maritime capacity, preserved foods, salt, ships, convoy politics |
-| [River Country](Regions/Greenvale.md) | productive lowlands, storage, seed, land and water systems | bulk food, livestock/agricultural goods, price and storage stability |
-| [High Country](Regions/Highridge-Plateau.md) | plateau routes, passes, caravans, arbitration, multilingual exchange | overland movement, brokerage, credit, records, route law |
-| [Forest Country](Regions/Deepwood.md) | forest ecology, timber, medicinal/forest goods, local stewardship systems | timber/fuel, specialist ecological goods and knowledge, contested extraction |
-| [South Country](Regions/Sunplains.md) | dry-climate agriculture, irrigation, city-states, coastal exchange | southern maritime access, irrigated/orchard goods, civic and merchant networks |
+| [Stone Hills](Regions/Ironcrest.md) | mineral-rich uplands, metalwork, dangerous labor, concentrated productive capacity | tools, strategic materials, craft capacity, weapons, ownership/labor politics |
+| [North Coast](Regions/Northwind.md) | cold seas, fisheries, shipping, seasonal risk, clan and harbor obligations | maritime capacity, preserved foods, salt, ships, convoy politics |
+| [Low Rivers](Regions/Greenvale.md) | productive lowlands, storage, seed, land and water systems | bulk food, livestock/agricultural goods, price and storage stability |
+| [High Roads](Regions/Highridge-Plateau.md) | plateau routes, passes, caravans, arbitration, multilingual exchange | overland movement, brokerage, credit, records, route law |
+| [Longwood](Regions/Deepwood.md) | forest ecology, timber, medicinal/forest goods, local stewardship systems | timber/fuel, specialist ecological goods and knowledge, contested extraction |
+| [Old Cities](Regions/Sunplains.md) | dry-climate agriculture, irrigation, city-states, coastal exchange | southern maritime access, irrigated/orchard goods, civic and merchant networks |
 | [Port](Places/Port.md) | neutral harbor, repair, storage, finance, arbitration, information | exchange hub where many otherwise separate systems meet |
 
 None of these relationships are absolute monopolies. The pattern is **comparative advantage plus dependency**, not "one region makes one thing."
@@ -117,7 +117,7 @@ The world has no single switch that controls everything. It has **chokepoints**.
 Important examples include:
 
 - Port's harbor, warehouses, courts, repair capacity, finance, and information;
-- High Country passes and caravan systems;
+- High Roads passes and caravan systems;
 - major Central Range crossings;
 - Tunnels branches;
 - bridges, canals, river crossings, irrigation gates, and important roads;
@@ -265,12 +265,12 @@ See [Current Events](Story/Current-Events.md).
 
 Several unrelated-looking stresses are occurring at the same time:
 
-- Western Uplands labor unrest and unusual metal movement;
-- North Country fish-stock pressure, piracy, and convoy politics;
-- River Country abundance, price collapse, debt, seed, and land conflict;
-- High Country caravan attacks and route redirection;
-- Forest Country logging disputes and ecological disruption;
-- South Country drought anxiety and city-state coordination;
+- Stone Hills labor unrest and unusual metal movement;
+- North Coast fish-stock pressure, piracy, and convoy politics;
+- Low Rivers abundance, price collapse, debt, seed, and land conflict;
+- High Roads caravan attacks and route redirection;
+- Longwood logging disputes and ecological disruption;
+- Old Cities drought anxiety and city-state coordination;
 - Port smuggling, merchant conflict, and refugee/worker pressure;
 - Central Range land movement and route/ruin discovery;
 - Tunnels route wars;
@@ -317,15 +317,15 @@ A useful reading and writing method is:
 Example:
 
 ```text
-North Country piracy rises
+North Coast piracy rises
 → shipping risk rises
 → Port finance tightens
-→ River Country buyers cancel distant grain contracts
+→ Low Rivers buyers cancel distant grain contracts
 → local grain prices fall
 → farmers default
 → land consolidation accelerates
 → guild/religious protests grow
-→ Western Uplands orders decline
+→ Stone Hills orders decline
 → labor conflict worsens
 → Council intervention becomes visible enough to feed suspicion
 ```
