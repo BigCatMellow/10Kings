@@ -77,7 +77,7 @@ Lock the broad map and test whether major trade flows have plausible Port-avoidi
 
 **Disposition**
 
-Incubating pending map work.
+**Promoted 2026-09-23** to [Geography and Connections](../Geography-and-Connections.md). The route stress test now supports Port and Highridge as complementary maritime/overland hubs without making either a monopoly.
 
 ## Candidate 3 — The Council behaves like a hidden coordination utility
 
@@ -267,7 +267,7 @@ If the geography cannot support that without forcing Port or the Underpass into 
 
 **Disposition**
 
-Incubating pending map lock.
+**Promoted 2026-09-23** to [Geography and Connections](../Geography-and-Connections.md). The working route skeleton now treats central waters and The Spine as complementary movement systems with alternative paths and different chokepoints.
 
 ## Promotion rule
 
