@@ -14,9 +14,9 @@ A person's cultural tradition, birthplace, current residence and political citiz
 
 Examples:
 
-- a North Country family may have lived in a South Country port for four generations;
-- a Forest Country-derived community may occupy a large forest far outside the Forest Country core;
-- a River Country milling family may settle along a distant river and retain some inherited practices while adopting local ones;
+- a North Coast family may have lived in a Old Cities port for four generations;
+- a Longwood-derived community may occupy a large forest far outside the Longwood core;
+- a Low Rivers milling family may settle along a distant river and retain some inherited practices while adopting local ones;
 - a Port-born person may have ancestry from several traditions and identify primarily as Port;
 - one village can contain households associated with several regional traditions.
 
@@ -28,14 +28,14 @@ A person in Two Sons should almost never be explainable by one label.
 
 Someone can simultaneously be:
 
-- born in River Country;
+- born in Low Rivers;
 - resident in Port;
-- married into a North Country family;
+- married into a North Coast family;
 - member of a shipping guild;
 - follower of the Infinite Compass;
 - participant in a trans-regional audience movement;
-- debtor to an Western Uplands lender;
-- veteran of a High Country caravan company;
+- debtor to an Stone Hills lender;
+- veteran of a High Roads caravan company;
 - politically loyal to a local city council;
 - culturally closer to a border town than to the official identity of either neighboring region.
 
@@ -50,7 +50,7 @@ The setting currently supports at least these overlapping layers.
 | Layer | Typical examples | What it can provide |
 | --- | --- | --- |
 | Place | village, harbor, district, border town, Port neighborhood | daily belonging, accent, local obligations |
-| Region | Western Uplands, North Country, River Country, High Country, Forest Country, South Country | broad cultural memory and stereotypes |
+| Region | Stone Hills, North Coast, Low Rivers, High Roads, Longwood, Old Cities | broad cultural memory and stereotypes |
 | Polity | kingdom, city-state, confederation, clan authority, charter town | law, taxes, military obligations, political legitimacy |
 | Kinship | household, lineage, marriage network, clan | inheritance, care, feuds, migration links |
 | Class / economic position | laborer, tenant, merchant, owner, noble, debtor | material interests and access |
@@ -143,9 +143,9 @@ The same people should recur across institutional systems.
 Examples:
 
 - a Harmonious Path mediator is also a caravan-guild accountant;
-- a Forest Country timber worker belongs to the Eternal Forge through craft lineage;
-- a North Country sailor participates in an Audience movement whose most important gathering is held in Port;
-- a River Country farmer has cousins in South Country and sells through a guild financed by a Council-linked family;
+- a Longwood timber worker belongs to the Eternal Forge through craft lineage;
+- a North Coast sailor participates in an Audience movement whose most important gathering is held in Port;
+- a Low Rivers farmer has cousins in Old Cities and sells through a guild financed by a Council-linked family;
 - a Port smuggler funds a Radiant Path charity because it protected his family;
 - a noble heir privately participates in a movement considered vulgar by the court;
 - a guild reformer and guild conservative may attend the same temple and marry into the same extended family.
@@ -169,7 +169,7 @@ The same routes that move goods also move:
 - marriage connections;
 - stories about distant places.
 
-That makes [Port](Places/Port.md) and [High Country](Regions/Highridge-Plateau.md) social and cultural switching points as well as economic ones.
+That makes [Port](Places/Port.md) and [High Roads](Regions/Highridge-Plateau.md) social and cultural switching points as well as economic ones.
 
 A caravan route can carry a new prayer. A pilgrimage can spread a labor grievance. A guild dispute can become a popular song. A cult joke can become a political insult in another kingdom. A refugee community can preserve a version of history that the government where it now lives considers subversive.
 
@@ -252,7 +252,7 @@ The Council likewise cannot simply "control society." It can pressure institutio
 
 A scene with several people from the same region should still contain meaningful social differences.
 
-If everyone from Western Uplands speaks, votes, worships, works, and reacts alike, this model has failed.
+If everyone from Stone Hills speaks, votes, worships, works, and reacts alike, this model has failed.
 
 If two people from different kingdoms sometimes discover that guild, faith, class, neighborhood, shared movement, or family matters more in the immediate situation than nationality, the world is behaving as intended.
 
