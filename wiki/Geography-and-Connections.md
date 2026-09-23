@@ -14,11 +14,11 @@ This page owns the current geography model. Older source material remains useful
 
 The known setting is organized around:
 
-- a **Western Continent** dominated by Ironcrest;
-- a **Northern Continent** dominated by Northwind;
-- a larger **Eastern Continent** containing Greenvale, Deepwood, Sunplains, and most or all of Highridge's settled plateau system;
-- the central mountain system called **The Spine**;
-- branching subterranean routes called **The Underpass**;
+- a **Western Continent** dominated by Western Uplands;
+- a **Northern Continent** dominated by North Country;
+- a larger **Eastern Continent** containing River Country, Forest Country, South Country, and most or all of High Country's settled plateau system;
+- the central mountain system called **Central Range**;
+- branching subterranean routes called **The Tunnels**;
 - the neutral commercial city **Port**, positioned where northern and southern maritime systems can meet interior routes.
 
 The most important map rule remains:
@@ -42,10 +42,10 @@ This is a topology diagram, not a scale map and not a statement of exact borders
             |                                  |
        THE SPINE /                         EASTERN
        HIGHRIDGE NEXUS                    CONTINENT
-            |                         Greenvale lowlands
- WESTERN    |                         Deepwood forest belt
-CONTINENT   |                         Sunplains south/coast
-Ironcrest   |                                  |
+            |                         River Country lowlands
+ WESTERN    |                         Forest Country forest belt
+CONTINENT   |                         South Country south/coast
+Western Uplands   |                                  |
     \       |                                 /
      \------|------ surface / river ---------/
             |
@@ -53,7 +53,7 @@ Ironcrest   |                                  |
      branching bypasses
 
  Maritime circulation:
- Northwind  <---->  PORT  <---->  Sunplains
+ North Country  <---->  PORT  <---->  South Country
                       |
               inland/river/road
                  connections
@@ -69,17 +69,17 @@ The Western Continent is the smaller rounded western landmass in the older sourc
 
 Current working features:
 
-- Ironcrest occupies much of it;
-- terrain rises toward the Spine-facing side;
-- mineral-rich uplands and older mountain geology support Ironcrest's mining and metalworking emphasis;
+- Western Uplands occupies much of it;
+- terrain rises toward the Central Range-facing side;
+- mineral-rich uplands and older mountain geology support Western Uplands's mining and metalworking emphasis;
 - rivers and streams descend from higher ground through settled valleys;
-- western and southwestern coasts can support secondary maritime routes without making Ironcrest primarily maritime.
+- western and southwestern coasts can support secondary maritime routes without making Western Uplands primarily maritime.
 
 The exact width of the channel or separation between the western landmass and the central mountain system remains open.
 
 ### Northern Continent
 
-The Northern Continent sits north of the central system and contains Northwind's core lands.
+The Northern Continent sits north of the central system and contains North Country's core lands.
 
 Current working features:
 
@@ -88,9 +88,9 @@ Current working features:
 - colder inland plateaus and tundra-like country;
 - southern forests and more sheltered valleys;
 - partially freezing waters and strong seasonal storm effects;
-- one or a few constrained approaches toward Highridge and the central route system.
+- one or a few constrained approaches toward High Country and the central route system.
 
-Older material describes a dramatic fissure between the Northern Continent and the Spine while later worldbuilding establishes a Northwind ↔ Highridge pass relationship. The exact physical solution is therefore **not locked**. The final map must preserve both ideas by making southward access narrow and consequential without inventing a broad easy frontier.
+Older material describes a dramatic fissure between the Northern Continent and the Central Range while later worldbuilding establishes a North Country ↔ High Country pass relationship. The exact physical solution is therefore **not locked**. The final map must preserve both ideas by making southward access narrow and consequential without inventing a broad easy frontier.
 
 ### Eastern Continent
 
@@ -98,18 +98,18 @@ The Eastern Continent is the largest and most internally varied landmass.
 
 Its broad order is:
 
-- **Greenvale** in the temperate agricultural lowlands and rolling interior;
-- **Highridge** near the Spine-facing elevated crossroads;
-- **Deepwood** across major inland forest belts and forested uplands;
-- **Sunplains** toward the warmer, drier southern and eastern country, including important coasts.
+- **River Country** in the temperate agricultural lowlands and rolling interior;
+- **High Country** near the Central Range-facing elevated crossroads;
+- **Forest Country** across major inland forest belts and forested uplands;
+- **South Country** toward the warmer, drier southern and eastern country, including important coasts.
 
 This arrangement should not look like four clean color blocks. Rivers, forest margins, uplands, old roads, migration, and historical conquest should create broad transition zones.
 
-## The Spine
+## Central Range
 
-See [The Spine](Places/The-Spine.md).
+See [Central Range](Places/The-Central Range.md).
 
-The Spine is the central mountain system around which continental movement is organized.
+Central Range is the central mountain system around which continental movement is organized.
 
 It must contain:
 
@@ -120,11 +120,11 @@ It must contain:
 - lesser seasonal passes;
 - old roads and pilgrimage routes;
 - river headwaters;
-- caves, faults, and Underpass entrances.
+- caves, faults, and Tunnels entrances.
 
 It should **not** be one continuous impassable wall.
 
-The Spine's political importance comes from route concentration. A single pass closure can matter more than a large stretch of ordinary border.
+Central Range's political importance comes from route concentration. A single pass closure can matter more than a large stretch of ordinary border.
 
 ## Water and watersheds
 
@@ -132,18 +132,18 @@ The exact rivers are not yet named or drawn, but the world already requires seve
 
 ### Western drainage
 
-Water descends from the Spine-facing uplands into Ironcrest valleys and toward the western sea.
+Water descends from the Central Range-facing uplands into Western Uplands valleys and toward the western sea.
 
 This supports:
 
 - river settlements;
 - mills and water power;
 - ore and bulk-goods movement where channels allow;
-- fertile lower valleys that complicate the stereotype of Ironcrest as only mining country.
+- fertile lower valleys that complicate the stereotype of Western Uplands as only mining country.
 
-### Eastern / Greenvale drainage
+### Eastern / River Country drainage
 
-Greenvale needs one or more major river systems fed partly by uplands.
+River Country needs one or more major river systems fed partly by uplands.
 
 These rivers should support:
 
@@ -153,9 +153,9 @@ These rivers should support:
 - grain and livestock movement;
 - crossings important enough to become political and commercial centers.
 
-### Southern / Sunplains drainage
+### Southern / South Country drainage
 
-Sunplains needs fewer dependable water systems, but those rivers and tributaries matter disproportionately.
+South Country needs fewer dependable water systems, but those rivers and tributaries matter disproportionately.
 
 They should support:
 
@@ -165,9 +165,9 @@ They should support:
 - downstream/upstream disputes;
 - coastal ports or river-mouth markets.
 
-### Deepwood waters
+### Forest Country waters
 
-Deepwood should contain substantial river valleys, wetlands, springs, and forest watersheds.
+Forest Country should contain substantial river valleys, wetlands, springs, and forest watersheds.
 
 These waterways are not merely scenery. They determine:
 
@@ -200,7 +200,7 @@ The older notes place Port at a **strategic strait between the continental syste
 
 The final map should make the following flows physically believable.
 
-### 1. Ironcrest ↔ Greenvale
+### 1. Western Uplands ↔ River Country
 
 **Established.**
 
@@ -214,11 +214,11 @@ Typical movement:
 
 This needs at least one dependable route and several lesser local crossings.
 
-### 2. Northwind ↔ Highridge
+### 2. North Country ↔ High Country
 
 **Established but geographically constrained.**
 
-Northwind's southern movement reaches Highridge through one or a few important approaches.
+North Country's southern movement reaches High Country through one or a few important approaches.
 
 The exact form remains open, but it must be narrow enough that:
 
@@ -227,7 +227,7 @@ The exact form remains open, but it must be narrow enough that:
 - Icestep-type pass settlements make sense;
 - maritime alternatives remain attractive.
 
-### 3. Greenvale ↔ Sunplains
+### 3. River Country ↔ South Country
 
 **Established.**
 
@@ -235,7 +235,7 @@ The transition should follow warmer lowlands, river systems, and agricultural co
 
 This is where grain country, orchards, irrigation, livestock, and market towns overlap.
 
-### 4. Deepwood ↔ Highridge
+### 4. Forest Country ↔ High Country
 
 **Established.**
 
@@ -248,7 +248,7 @@ This should create:
 - mixed settlements;
 - tension over extraction versus route expansion.
 
-### 5. Deepwood ↔ Ironcrest
+### 5. Forest Country ↔ Western Uplands
 
 **Established in at least one direct or near-direct frontier.**
 
@@ -256,7 +256,7 @@ Logging, charcoal, ore, tools, and forest-edge conflict require a plausible conn
 
 This need not be a long border. A mountain corridor or forested shoulder is enough.
 
-### 6. Greenvale ↔ Deepwood
+### 6. River Country ↔ Forest Country
 
 **Strong working relationship.**
 
@@ -264,13 +264,13 @@ Field-to-forest transition, historical encroachment, rivers, and forest-edge mar
 
 Treat it as part of the working topology unless later map evidence contradicts it.
 
-### 7. Deepwood ↔ Sunplains
+### 7. Forest Country ↔ South Country
 
 **Strong working relationship.**
 
-A southern forest transition into drier woodland and cultivated Sunplains supports orchard expansion, timber demand, water questions, and ecological conflict.
+A southern forest transition into drier woodland and cultivated South Country supports orchard expansion, timber demand, water questions, and ecological conflict.
 
-### 8. Highridge ↔ Sunplains
+### 8. High Country ↔ South Country
 
 **Unresolved.**
 
@@ -278,17 +278,17 @@ This can become:
 
 - a direct southern plateau corridor;
 - a narrow pass;
-- or an indirect route through Greenvale / Deepwood.
+- or an indirect route through River Country / Forest Country.
 
 Do not lock this merely because it makes the map tidier.
 
 ## Maritime skeleton
 
-Northwind and Sunplains are major maritime systems for different reasons.
+North Country and South Country are major maritime systems for different reasons.
 
 ### Northern lanes
 
-Northwind's sea routes connect:
+North Country's sea routes connect:
 
 - island and coastal communities;
 - secondary harbors;
@@ -298,7 +298,7 @@ Northwind's sea routes connect:
 
 ### Southern lanes
 
-Sunplains sea routes connect:
+South Country sea routes connect:
 
 - competing coastal city-states;
 - irrigated/orchard export regions;
@@ -321,11 +321,11 @@ That supports:
 
 Other ports must still exist. Port is dominant because of accumulated network effects, not because the coast has only one usable harbor.
 
-## The Underpass
+## The Tunnels
 
-See [The Underpass](Places/The-Underpass.md).
+See [The Tunnels](Places/The-Tunnels.md).
 
-The Underpass is a branching network beneath parts of The Spine, not a single tunnel.
+The Tunnels is a branching network beneath parts of Central Range, not a single tunnel.
 
 The geography pass now treats it as three kinds of route at once:
 
@@ -335,22 +335,22 @@ The geography pass now treats it as three kinds of route at once:
 
 Some branches can carry carts; others only people or pack animals. Some are public, hidden, sacred, flooded, collapsed, criminally controlled, or seasonally unsafe.
 
-The final map should therefore show only major known entrances and important corridors. A complete Underpass map would contradict the setting.
+The final map should therefore show only major known entrances and important corridors. A complete Tunnels map would contradict the setting.
 
 ## Border confidence
 
 | Relationship | Current confidence | Map treatment |
 | --- | --- | --- |
-| Ironcrest ↔ Greenvale | Established | direct meaningful frontier / corridor |
-| Northwind ↔ Highridge | Established | narrow consequential access |
-| Greenvale ↔ Sunplains | Established | broad agricultural transition |
-| Deepwood ↔ Highridge | Established | forest-to-plateau frontier |
-| Deepwood ↔ Ironcrest | Established at least locally | direct or near-direct corridor |
-| Greenvale ↔ Deepwood | Strong working | direct unless contradicted |
-| Deepwood ↔ Sunplains | Strong working | southern forest transition |
-| Greenvale ↔ Highridge | Likely | exact length unresolved |
-| Ironcrest ↔ Highridge | Likely | pass / mountain corridor |
-| Highridge ↔ Sunplains | Unknown | do not force |
+| Western Uplands ↔ River Country | Established | direct meaningful frontier / corridor |
+| North Country ↔ High Country | Established | narrow consequential access |
+| River Country ↔ South Country | Established | broad agricultural transition |
+| Forest Country ↔ High Country | Established | forest-to-plateau frontier |
+| Forest Country ↔ Western Uplands | Established at least locally | direct or near-direct corridor |
+| River Country ↔ Forest Country | Strong working | direct unless contradicted |
+| Forest Country ↔ South Country | Strong working | southern forest transition |
+| River Country ↔ High Country | Likely | exact length unresolved |
+| Western Uplands ↔ High Country | Likely | pass / mountain corridor |
+| High Country ↔ South Country | Unknown | do not force |
 
 ## Map-drafting rules
 
@@ -359,12 +359,12 @@ A future map should be rejected if it makes any of these true:
 - every region has a neat equal-sized territory;
 - every important relationship is a long clean border;
 - Port is central only because a label says so;
-- Highridge can be bypassed overland without meaningful cost everywhere;
-- Northwind's southern access is broad and easy;
-- Sunplains water politics have no upstream geography;
-- Greenvale lacks navigable or commercially important river systems;
-- The Spine is either trivial to cross or completely impassable;
-- the Underpass solves every mountain problem;
+- High Country can be bypassed overland without meaningful cost everywhere;
+- North Country's southern access is broad and easy;
+- South Country water politics have no upstream geography;
+- River Country lacks navigable or commercially important river systems;
+- Central Range is either trivial to cross or completely impassable;
+- the Tunnels solves every mountain problem;
 - borders perfectly match cultures;
 - every route works equally well in every season.
 
@@ -373,12 +373,12 @@ A future map should be rejected if it makes any of these true:
 The broad topology is no longer the main unknown. The remaining geography work is more specific:
 
 - exact coastlines and continental proportions;
-- exact form of the Northwind ↔ Spine / Highridge connection;
+- exact form of the North Country ↔ Central Range / High Country connection;
 - exact location and territorial form of Port;
 - named major rivers and watersheds;
 - exact major passes and old roads;
-- exact major Underpass entrances and branches;
-- whether Highridge directly borders Sunplains;
+- exact major Tunnels entrances and branches;
+- whether High Country directly borders South Country;
 - which regional borders are broad transition zones versus narrow corridors;
 - approximate travel times between major hubs;
 - seasonal route reliability.
