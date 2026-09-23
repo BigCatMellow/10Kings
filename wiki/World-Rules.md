@@ -135,6 +135,30 @@ Younger border populations, migrants, merchants, soldiers, pilgrims, mixed famil
 
 "Traditional culture" itself should contain multiple traditions.
 
+## 13A. Contact creates third traditions
+
+When cultures live beside one another long enough, they should not remain perfectly separate.
+
+Repeated contact can produce new local forms in:
+
+- food;
+- language;
+- clothing;
+- architecture;
+- music;
+- festivals;
+- household custom;
+- religion;
+- work practice.
+
+The result may eventually belong fully to neither source tradition.
+
+**Do:** let mixed communities develop practices that younger generations regard as normal.
+
+**Don't:** reduce cultural crossover to decorative fusion or keep every borrowed element permanently labeled by origin.
+
+A border town can become culturally distinctive in its own right.
+
 ## 14. Draw globally, copy nowhere whole
 
 Real cultures are inspiration pools, not templates.
