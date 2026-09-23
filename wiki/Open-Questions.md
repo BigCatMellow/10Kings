@@ -12,7 +12,7 @@ The broad topology is now captured in [Geography and Connections](Geography-and-
 
 - Exact outlines and proportions of the three continents.
 - Exact physical form of the North Coast ↔ The Spine / High Roads connection.
-- Exact location and territorial form of Port: mainland coast, peninsula, island, estuary, or strait-side district.
+- Exact island / channel layout and municipal boundary of Port's now-supported estuary / channel complex.
 - Named major navigable rivers and watershed boundaries.
 - Exact major surface passes, old roads, maritime lanes, and Underpass entrances.
 - Which regional borders are broad frontiers versus narrow corridors.
@@ -89,7 +89,7 @@ The sections below retain the more detailed unresolved questions.
 ## Map
 
 - Exact outlines of the three continents.
-- Exact location of Port.
+- Exact internal geometry and territorial footprint of Port's estuary / channel complex.
 - Which regional borders are long boundaries versus narrow corridors.
 - Whether High Roads directly borders Old Cities.
 - Exact relationship of The Spine to continental separation.
