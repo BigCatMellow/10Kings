@@ -17,7 +17,7 @@ A regional label can describe:
 
 **Do:** remember that ordinary economic and ecological diversity exists everywhere.
 
-**Don't:** reduce Western Uplands to mines, River Country to farms, North Country to fish, Forest Country to trees, High Country to caravans, or South Country to vineyards.
+**Don't:** reduce Stone Hills to mines, Low Rivers to farms, North Coast to fish, Longwood to trees, High Roads to caravans, or Old Cities to vineyards.
 
 **Don't:** treat crossing a line on the map as crossing from one homogeneous people into another.
 
@@ -149,7 +149,7 @@ Do not claim grammar makes a people inherently rational, emotional, peaceful, co
 
 ## 16. Food must follow ecology, trade, class, season, and preservation
 
-There is no single "Western Uplands cuisine" eaten identically by miners, nobles, farmers, children, and merchants.
+There is no single "Stone Hills cuisine" eaten identically by miners, nobles, farmers, children, and merchants.
 
 Show regional families of food, then class and local variation.
 
