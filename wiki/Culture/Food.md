@@ -165,7 +165,7 @@ A poor household may own:
 
 while a wealthy kitchen has many specialized vessels.
 
-Iron cookware can connect ordinary food to Western Uplands metal production.
+Iron cookware can connect ordinary food to Stone Hills metal production.
 
 Ceramics can connect food to local clay, kilns, fuel, and pottery guilds.
 
@@ -325,7 +325,7 @@ Street food should often be:
 - suited to workers / travelers;
 - sold near markets, docks, gates, workshops, caravan yards, courts, or festivals.
 
-Port and High Country should have especially diverse market-food systems because of repeated travelers.
+Port and High Roads should have especially diverse market-food systems because of repeated travelers.
 
 ---
 
@@ -404,7 +404,7 @@ Food circulation is therefore part of cultural circulation.
 
 ---
 
-# 12. Western Uplands
+# 12. Stone Hills
 
 ## Established anchors
 
@@ -417,7 +417,7 @@ Current owners support:
 - upland / valley livestock;
 - lower-valley orchard goods;
 - mushrooms;
-- substantial imported River Country staples in industrial districts;
+- substantial imported Low Rivers staples in industrial districts;
 - dense mining / craft settlements;
 - dangerous labor;
 - metal cookware and tools.
@@ -451,11 +451,11 @@ But workshop cooking is occupational, not a regional sacred tradition.
 
 Industrial districts can import large amounts of food while upland farming communities eat much more locally.
 
-Mine owner, skilled guild worker, casual laborer, herder, and valley farmer should not share one “Western Uplands diet.”
+Mine owner, skilled guild worker, casual laborer, herder, and valley farmer should not share one “Stone Hills diet.”
 
 ---
 
-# 13. North Country
+# 13. North Coast
 
 ## Established anchors
 
@@ -500,11 +500,11 @@ A wealthy major port can have imported flour, oil, fruit, wine, spices, and fore
 
 A remote island household may eat a much narrower seasonal diet.
 
-North Country should therefore not equal “fish every meal.”
+North Coast should therefore not equal “fish every meal.”
 
 ---
 
-# 14. River Country
+# 14. Low Rivers
 
 ## Established anchors
 
@@ -558,7 +558,7 @@ Modern-style “canning days” are **not established** and should not be promot
 
 ---
 
-# 15. High Country
+# 15. High Roads
 
 ## Established anchors
 
@@ -602,7 +602,7 @@ Do not copy a specific real-world oven or cuisine automatically.
 
 ---
 
-# 16. Forest Country
+# 16. Longwood
 
 ## Established anchors
 
@@ -648,7 +648,7 @@ These methods should arise from practical conditions, not “forest spirituality
 
 ---
 
-# 17. South Country
+# 17. Old Cities
 
 ## Established anchors
 
@@ -670,7 +670,7 @@ Current owners support:
 
 ## Working culinary directions
 
-South Country should probably have some of the world's strongest **city-specific cuisines**.
+Old Cities should probably have some of the world's strongest **city-specific cuisines**.
 
 Differences can follow:
 
@@ -756,7 +756,7 @@ After generations, locals may reject both neighboring regions' versions as “wr
 
 Food should make current events tangible.
 
-## Western Uplands labor unrest
+## Stone Hills labor unrest
 
 Possible effects:
 
@@ -766,7 +766,7 @@ Possible effects:
 - imported grain becoming political;
 - employers providing meals as compensation.
 
-## North Country fish pressure
+## North Coast fish pressure
 
 Possible effects:
 
@@ -775,7 +775,7 @@ Possible effects:
 - imported food demand rises;
 - fishing-right disputes reach the table.
 
-## River Country abundance crisis
+## Low Rivers abundance crisis
 
 Possible effects:
 
@@ -784,7 +784,7 @@ Possible effects:
 - oversupply changes preservation and storage decisions;
 - distressed households sell animals / land despite full markets.
 
-## High Country caravan attacks
+## High Roads caravan attacks
 
 Possible effects:
 
@@ -793,7 +793,7 @@ Possible effects:
 - caravan provisioning becomes expensive;
 - substitute routes spread different foods.
 
-## Forest Country extraction conflict
+## Longwood extraction conflict
 
 Possible effects:
 
@@ -801,7 +801,7 @@ Possible effects:
 - logging can damage watersheds or local food species;
 - road construction can increase imported food while reducing local autonomy.
 
-## South Country drought anxiety
+## Old Cities drought anxiety
 
 Possible effects:
 
@@ -837,7 +837,7 @@ A food scene should answer some of these without exposition:
 - What does a child want instead?
 - What has changed since the current crisis began?
 
-If the only thing the meal communicates is “this is North Country food,” it is too shallow.
+If the only thing the meal communicates is “this is North Coast food,” it is too shallow.
 
 ## Related pages
 
