@@ -40,7 +40,7 @@ The setting should make it possible to follow one damaged bridge, missing carava
 ## Major shared places
 
 - [Port](Places/Port.md)
-- [Central Range](Places/The-Spine.md)
+- [The Spine](Places/The-Spine.md)
 - [The Underpass](Places/The-Underpass.md)
 - [Border Towns](Places/Border-Towns.md)
 
