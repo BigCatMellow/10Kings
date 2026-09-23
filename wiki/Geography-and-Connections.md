@@ -225,7 +225,7 @@ Strong working conclusions:
 - R1 / Western Gate and R3 / River Road are principal cart-capable trunks;
 - R2 / North Shoulder requires meaningful cart ↔ pack transshipment at its highland bottleneck;
 - R4 / Forest Edge Road is not continuously heavy-cart capable;
-- Port is best modeled as an estuary / channel complex where river, sea and road traffic transfer;
+- Port is best modeled as an estuary / channel complex where river, sea and road traffic transfer; this now has a strong physical-layout pass in [Port Estuary and Harbor Geometry — Middle-Worldbuilding Test](Reference/Port-Estuary-Harbor-Geometry-Test.md);
 - Underpass branches meet surface transport through multiple interface types rather than one universal gate.
 
 A strategic chokepoint may therefore be a **mode-conversion point** rather than a narrow piece of terrain.
@@ -408,7 +408,7 @@ The broad topology is no longer the main unknown. The remaining geography work i
 
 - exact coastlines and continental proportions;
 - exact form of the North Coast ↔ The Spine / High Roads connection;
-- exact location and territorial form of Port;
+- exact internal island / channel shape and municipal boundary of the now-supported Port estuary complex;
 - named major rivers and watersheds;
 - exact major passes and old roads;
 - exact major Underpass entrances and branches;
