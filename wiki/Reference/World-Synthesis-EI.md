@@ -1395,72 +1395,82 @@ If each stops or transforms for different material / social reasons, the candida
 
 Strong Phase 7 candidate. The general transmission-cost mechanism is now reflected in [Culture and Influence](../Culture/Culture-and-Influence.md); exact diffusion maps remain provisional.
 
-## Candidate 31 — Shared chokepoints can create cross-border peace constituencies
+## Candidate 31 — Shared infrastructure can create cross-border continuity constituencies
 
 **Sources**
 
 - [North Shoulder Paired Roadheads — Middle-Worldbuilding Test](North-Shoulder-Paired-Roadheads-Test.md)
+- [Old Cities Shared Irrigation — Cross-Border Constituency Test](Old-Cities-Shared-Irrigation-Test.md)
 - [Social Fabric](../Social-Fabric.md)
 - [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
-- [Movement and Information](../Movement-and-Information.md)
 - [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md)
 
 **Connection**
 
-The North Shoulder corridor creates livelihoods on both sides that depend on the same route remaining:
+Two independent tests now show the same mechanism through different systems:
 
-- usable;
-- trusted;
-- predictable enough to contract around;
-- supported by compatible records / warnings / rescue expectations.
+1. a mountain transport corridor;
+2. a shared irrigation network.
 
-The two roadheads can dislike each other and belong to rival polities while still losing money, work, and safety when cooperation collapses.
+In both cases, people on opposite sides of a political boundary can depend on the same system remaining usable.
 
 **New implication**
 
-Some cross-border infrastructure can create a constituency for **limited continued cooperation** even during wider political rivalry.
+Shared infrastructure can create **cross-border continuity constituencies** among:
 
-The relevant actors may include:
-
-- transport workers;
-- warehouse owners;
-- guides;
-- inns;
+- workers;
 - merchants;
-- nearby households;
+- landholders;
+- households;
 - local officials;
-- religious hospitality institutions.
+- guilds;
+- religious / charitable institutions;
+- technical specialists.
 
-They do not need to support political union.
+Those constituencies may pressure their own rulers to preserve:
 
-They only need to oppose actions that destroy the shared system they depend on.
+- access;
+- maintenance;
+- warning;
+- records;
+- limited cooperation.
+
+They do not need to support political union or broad peace.
+
+**Important limit**
+
+The same dependence can create coercive leverage.
+
+The stabilizing effect weakens when:
+
+- one side can exit cheaply;
+- dependence is highly asymmetric;
+- one side can control the system without meaningful cost;
+- a ruler benefits more from disruption than continuity.
 
 **Why it matters**
 
-This adds a grounded peace mechanism:
+This creates a grounded mechanism for limited cooperation inside political rivalry:
 
-political rivalry
-→ shared infrastructure dependence
-→ local livelihoods on both sides
-→ pressure to preserve limited rules / passage
-→ conflict constrained without disappearing
+shared infrastructure  
+→ repeated interdependence  
+→ local livelihoods on both sides  
+→ pressure to preserve continuity  
+→ conflict constrained in some domains without disappearing
 
-This complements the broader Social Fabric rule that overlapping memberships can reduce clean political polarization.
+**Promotion test**
 
-It also creates plausible internal opposition when rulers threaten to close a route.
+Passed twice:
 
-**Smallest next test**
-
-Apply the same question to a different shared system, such as:
-
-1. an Old Cities cross-border irrigation work; or
-2. a Low Rivers bridge / ferry used by rival polities.
-
-If the same mechanism appears for different reasons rather than merely copying the pass model, the candidate strengthens.
+- North Shoulder transport;
+- Old Cities irrigation.
 
 **Disposition**
 
-Incubating but strongly supported by the North Shoulder test. Do not promote a universal claim that trade always creates peace; dependence can also become coercive leverage.
+**Promoted 2026-09-23** in narrowed form to [Social Fabric](../Social-Fabric.md) and [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md). The material-dependence side is also reflected in [Trade and Dependencies](../Economy/Trade-and-Dependencies.md).
+
+Do not generalize this into "interdependence causes peace."
+
 
 ## Promotion rule
 
