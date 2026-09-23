@@ -11,12 +11,12 @@ These are the questions that most strongly affect multiple other pages. They sho
 The broad topology is now captured in [Geography and Connections](Geography-and-Connections.md). The remaining questions are map-detail questions rather than a blank-slate geography problem:
 
 - Exact outlines and proportions of the three continents.
-- Exact physical form of the North Country ↔ The Spine / High Country connection.
+- Exact physical form of the North Coast ↔ The Spine / High Roads connection.
 - Exact location and territorial form of Port: mainland coast, peninsula, island, estuary, or strait-side district.
 - Named major navigable rivers and watershed boundaries.
 - Exact major surface passes, old roads, maritime lanes, and Underpass entrances.
 - Which regional borders are broad frontiers versus narrow corridors.
-- Whether High Country directly borders South Country.
+- Whether High Roads directly borders Old Cities.
 - Approximate travel times and seasonal reliability between major hubs.
 - Which rivers, roads, and straits become true strategic chokepoints rather than merely important routes.
 
@@ -82,16 +82,16 @@ The sections below retain the more detailed unresolved questions.
 - Exact outlines of the three continents.
 - Exact location of Port.
 - Which regional borders are long boundaries versus narrow corridors.
-- Whether High Country directly borders South Country.
+- Whether High Roads directly borders Old Cities.
 - Exact relationship of The Spine to continental separation.
 - Navigable rivers and major watersheds.
 
 ## Political structure
 
 - Are all six named regions kingdoms in the same constitutional sense?
-- How many independent South Country city-states remain?
-- How centralized is Forest Country?
-- What formal institutions govern High Country?
+- How many independent Old Cities city-states remain?
+- How centralized is Longwood?
+- What formal institutions govern High Roads?
 - Does Port have citizenship independent of kingdom citizenship?
 
 ## Economic Council
