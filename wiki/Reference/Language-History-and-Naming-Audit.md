@@ -45,20 +45,11 @@ Only a very small number of story-central names may receive special handling, an
 
 # Executive conclusion
 
-The current world does **not** support a clean model in which:
-
-```text
-Ironcrest = one language
-Northwind = one language
-Greenvale = one language
-Highridge = one language
-Deepwood = one language
-Sunplains = one language
-```
+The world does **not** support six neat ancient regional languages.
 
 Pre-Convergence politics were too fragmented.
 
-The stronger historical model is:
+The stronger historical model remains:
 
 ```text
 older local languages / dialect continua
@@ -72,23 +63,41 @@ Convergence-era legal and commercial standardization
 modern prestige varieties + local dialects + mixed border speech
 ```
 
-Modern regional identities can therefore be real and powerful **without being ancient linguistic monoliths**.
+The naming conclusion is now stricter:
 
-This also solves a major naming problem.
+> **Use plain common-language names until the world has enough linguistic history to support something less transparent.**
 
-The six modern regional labels and several major geographic labels are unusually transparent English compounds.
+The previous macro labels were too consistently “fantasy descriptive”:
 
-One possible design interpretation is:
+- Ironcrest;
+- Northwind;
+- Greenvale;
+- Highridge;
+- Deepwood;
+- Sunplains.
 
-> **some macro-level names may be reader-facing or interregional translations / conventional renderings rather than literal native forms.**
+They have been replaced in active wiki prose with:
 
-That is a tool, not a preservation requirement.
+- **Western Uplands**;
+- **North Country**;
+- **River Country**;
+- **High Country**;
+- **Forest Country**;
+- **South Country**.
 
-If a macro label feels generic, culturally mismatched or too obviously theme-first once the relevant culture is deepened, it should be replaced rather than explained away.
+Likewise:
 
-Local endonyms, older substrate names, legal names and historical spellings can coexist where useful.
+- The Spine → **Central Range**
+- The Underpass → **The Tunnels**
+- Port → **Port** for now
 
-The point is to let the naming system emerge from the world rather than forcing the world to justify existing labels.
+See [Grounded Naming Realignment](Grounded-Naming-Realignment.md).
+
+These are deliberately ordinary common-language labels, not claims about local endonyms.
+
+The point is not that every culture literally speaks English-like compounds.
+
+The point is that the wiki should prefer a boring translation with a clear naming cause over an invented opaque word whose only function is to sound fantastical.
 
 ---
 
@@ -215,7 +224,7 @@ The world should therefore contain people who can disagree over the “correct�
 
 These are **working historical shapes**, not finalized language families or conlangs.
 
-## Ironcrest
+## Western Uplands
 
 Historical basis:
 
@@ -232,25 +241,28 @@ Likely language ecology:
 - strong specialist craft vocabularies;
 - town speech shaped by repeated labor migration;
 - court / administrative standard emerging with political consolidation;
-- heavy borrowing along Greenvale, Highridge and Deepwood routes.
+- heavy borrowing along River Country, High Country and Forest Country routes.
 
-Current responsibility / completion / inspection distinctions can remain a **possible feature of important Ironcrest varieties**, but not a universal trait inherited from “being industrial.”
+Current responsibility / completion / inspection distinctions can remain possible features of some important western varieties, not a universal trait inherited from industry.
 
 ### Naming implication
 
-Ironcrest should contain names that predate mining dominance.
+Names should commonly come from:
 
-A river, village or mountain may have an opaque ancient name beside later names such as:
+- valleys;
+- rivers;
+- mine owners / families;
+- forts;
+- bridges;
+- mills;
+- markets;
+- older villages.
 
-- translated “smith town”;
-- a mine-family name;
-- a fort name;
-- a guild-renamed district;
-- a royal administrative name.
+Do not assume industrial places require names containing iron, forge, smoke, ember, steel, or cinder.
 
 ---
 
-## Northwind
+## North Country
 
 Historical basis:
 
@@ -264,33 +276,32 @@ Likely language ecology:
 
 - coastal dialect chains;
 - island varieties;
-- inland languages or dialects distinct from major seaports;
+- inland varieties distinct from major seaports;
 - shared maritime vocabulary across political boundaries;
 - clan / kin naming traditions;
-- strong contact with Port and Ironcrest;
-- prestige speech at major harbors that blends older clan varieties.
-
-Inclusive / exclusive pronouns, evidentiality and coastal directional systems remain plausible features for **some important Northwind languages**, not mandatory regional psychology.
+- strong contact with Port and the Western Uplands;
+- prestige speech at major harbors that blends older local forms.
 
 ### Naming implication
 
 Names can preserve:
 
-- currents;
+- bays;
 - reefs;
+- islands;
 - seasonal anchorages;
 - fishing banks;
-- clan founders;
-- islands;
+- family holdings;
+- harbors;
 - hazards;
-- saints / shrines;
+- shrines;
 - obsolete maritime rights.
 
-A place name may describe how sailors approach it rather than what it looks like from land.
+Plain names such as North Harbor, East Bay, Three Islands, Red Cliff or a family name are preferable to “frost” / “ice” fantasy branding unless those words have a literal local cause.
 
 ---
 
-## Greenvale
+## River Country
 
 Historical basis:
 
@@ -304,31 +315,31 @@ Likely language ecology:
 
 - lowland river dialect continua;
 - estate / market prestige forms;
-- old village languages surviving around specific watersheds;
+- older village speech surviving around watersheds;
 - substantial border bilingualism;
-- agricultural terminology spreading through trade without erasing local speech.
-
-Aspect and stewardship distinctions remain plausible as features of selected languages or registers.
+- agricultural terminology spreading through trade.
 
 ### Naming implication
 
-Names should often preserve:
+Likely name sources include:
 
-- river channels;
-- old estates;
-- soils;
+- rivers;
 - mills;
+- fords;
+- bridges;
+- fields;
+- estates;
 - markets;
-- family lands;
+- soils;
 - flood events;
-- irrigation works;
-- vanished settlements.
+- waterworks;
+- family holdings.
 
-“Greenvale” should not imply every local name is pastoral English.
+Avoid “green / harvest / orchard / hearth” branding unless locally literal.
 
 ---
 
-## Highridge
+## High Country
 
 Historical basis:
 
@@ -340,7 +351,7 @@ Historical basis:
 
 Likely language ecology:
 
-**Highridge should be the least linguistically uniform major region.**
+**High Country should be the least linguistically uniform major region.**
 
 It plausibly contains:
 
@@ -350,26 +361,26 @@ It plausibly contains:
 - herding-community languages;
 - migrant merchant languages;
 - legal / arbitration registers;
-- multilingual urban populations;
-- route pidgins and stabilized mixed speech.
-
-Its important linguistic contribution may be **standardization across languages**, not one dominant mother tongue.
+- multilingual urban populations.
 
 ### Naming implication
 
-Highridge is especially likely to have:
+Route-country names should often be painfully practical:
 
-- several names for one pass;
-- translated route names;
-- merchant shorthand;
-- official treaty spellings;
-- names derived from old toll families;
-- names whose literal meaning is forgotten;
-- “wrong” foreign pronunciations that become permanent.
+- North Gate;
+- Upper Pass;
+- Three Wells;
+- New Market;
+- Bridge End;
+- Toll Cross;
+- family names;
+- translated names from travelers.
+
+Multiple forms for one place are still plausible, but the setting should not invent an opaque “ancient” form unless a real language history supports it.
 
 ---
 
-## Deepwood
+## Forest Country
 
 Historical basis:
 
@@ -385,25 +396,28 @@ Likely language ecology:
 - multiple forest and river language communities;
 - waterways acting as language corridors;
 - isolated pockets preserving older forms;
-- specialist ecological vocabularies;
-- ritual registers that cross local speech boundaries;
-- substantial border borrowing.
-
-Animacy / agency and ecological evidentiality remain useful possibilities for some language families.
-
-They should not become “the Deepwood language is mystical.”
+- specialist ecological vocabulary;
+- ritual registers crossing local speech boundaries.
 
 ### Naming implication
 
-Many names may refer to ecological states outsiders no longer understand.
+Names should commonly arise from:
 
-A name translated by outsiders as “Old Grove” might originally distinguish a very specific succession stage, water condition or land-use status.
+- rivers;
+- crossings;
+- clearings;
+- mills;
+- ferries;
+- family holdings;
+- actual locally important tree / plant names;
+- shrines;
+- older settlements.
 
-This makes translation loss especially important.
+Do not default to root, moss, leaf, gloom, shadow, whisper, or mystical compounds merely to signal “forest.”
 
 ---
 
-## Sunplains
+## South Country
 
 Historical basis:
 
@@ -419,87 +433,62 @@ Likely language ecology:
 - court prestige registers;
 - rural speech;
 - merchant lingua francas;
-- irrigation and legal terminology shared across political borders;
+- irrigation and legal terminology shared across borders;
 - port varieties;
-- older languages surviving beneath prestigious urban forms.
-
-Status registers and rhetorical traditions are plausible in some cities, but should vary by polity and class.
+- older languages beneath prestigious urban forms.
 
 ### Naming implication
 
-Sunplains should be one of the strongest areas for **political naming**:
+Likely sources include:
 
-- founder cities;
-- dynasty names;
-- civic virtues;
-- canal / waterwork names;
-- renamed conquered towns;
-- old sacred names;
-- port exonyms;
-- deliberately archaic names used to claim legitimacy.
+- wells;
+- springs;
+- canals;
+- gates;
+- rivers;
+- founders;
+- dynasties;
+- markets;
+- hills;
+- estates;
+- old villages.
 
-The same city can have different names in neighboring city-states.
+Do not generate pseudo-Arabic, pseudo-Persian, pseudo-Latin, or otherwise “southern-sounding” words simply to signal culture.
+
+An opaque old city name is acceptable only after a plausible internal language or historical source exists.
 
 ---
 
 ## Port
 
-Current canon already requires:
+Port remains linguistically mixed.
 
-- native Port speech;
-- heritage languages;
-- trade pidgins / creoles;
-- guild jargons;
-- religious registers;
-- neighborhood dialects.
+Its current plain name works because it can plausibly be the internationally familiar shorthand for a city whose older civic / harbor names remain unresolved.
 
-The older “Trade Tongue” idea is useful only at the structural level.
+Do not replace **Port** merely because it seems too simple.
 
-Do not make Port speech a mechanical blend of one feature from each region.
-
-A third-generation Port variety should have its **own grammar, slang, sound changes and identity**.
-
-### Likely history
-
-```text
-multilingual harbor contact
-→ simplified trade registers / interpreter culture
-→ stable mixed neighborhoods
-→ children acquire local mixed varieties natively
-→ distinct Port speech emerges
-→ Port speech exports commercial / cultural slang back outward
-```
-
-That final step matters.
-
-Port should influence the rest of the world linguistically just as it influences culture.
+Its simplicity may be exactly what makes it realistic.
 
 ---
 
-## Underpass
+## The Tunnels
 
-The Underpass is not one ethnic or linguistic civilization.
+The Tunnels are not one ethnic or linguistic civilization.
 
-Its communities come from:
+The ordinary surface label can remain deliberately literal.
 
-- surface migration;
-- miners;
-- guides;
-- religious communities;
-- refugees;
-- criminals;
-- old enclave populations.
+Individual entrances, caverns, roads and settlements should receive local names based on:
 
-Likely result:
+- nearby surface places;
+- guide families;
+- mines;
+- wells / streams;
+- junctions;
+- shrines;
+- accidents;
+- practical route descriptions.
 
-- enclave languages;
-- route cants;
-- occupational signal systems;
-- mixed market speech;
-- surface-language retention;
-- local innovations caused by generations of isolation.
-
-Do not create one “echo language.”
+Do not invent one grand “underworld language.”
 
 ---
 
@@ -571,39 +560,29 @@ A naming dispute can therefore be a political argument.
 
 # 4. Macro-name convention
 
-## Working design rule
+## Current working common labels
 
-The following names should currently be treated as **stable reader-facing / interregional labels** whose exact local-language forms remain open:
+| Legacy label | Current common label |
+| --- | --- |
+| Ironcrest | **Western Uplands** |
+| Northwind | **North Country** |
+| Greenvale | **River Country** |
+| Highridge / Highridge Plateau | **High Country** |
+| Deepwood | **Forest Country** |
+| Sunplains | **South Country** |
+| The Spine | **Central Range** |
+| The Underpass | **The Tunnels** |
+| Port | **Port** |
 
-- Ironcrest
-- Northwind
-- Greenvale
-- Highridge / Highridge Plateau
-- Deepwood
-- Sunplains
-- The Spine
-- The Underpass
-- Port
+These are intentionally ordinary.
 
-This keeps the wiki readable while avoiding the implication that every local culture names places using identical transparent English compounds.
+They are common-language / reader-facing forms, not protected local endonyms.
 
-### Important distinction
+The active wiki uses them now so new culture and food work does not continue propagating the older fantasy-branded labels.
 
-This does **not** mean these labels are fake.
+Technical filenames retain legacy slugs during the migration.
 
-They can be genuine widely used translations, exonyms or common diplomatic forms.
-
-A Northwind speaker may use the local equivalent of “Northwind” in one context and a clan or homeland name in another.
-
-An old Deepwood community may never describe itself as “Deepwood” except when speaking to outsiders.
-
-Port citizens may simply say “Port” in the common interregional register while using older district or civic names locally.
-
-### Open question
-
-Whether the setting eventually needs a named “Common Speech” is unresolved.
-
-Do not invent one merely to explain the reader-facing translation convention.
+See [Grounded Naming Realignment](Grounded-Naming-Realignment.md).
 
 ---
 
@@ -611,198 +590,139 @@ Do not invent one merely to explain the reader-facing translation convention.
 
 ## Categories
 
-- **KEEP / FRAME** — useful name; preserve, but explain its naming layer.
-- **ETYMOLOGY NEEDED** — potentially good, but currently unsupported by naming history.
-- **PLACEHOLDER / TRANSLATION** — descriptive design label should not silently become a native historical name.
-- **LIKELY REPLACE** — weak fit under the improved naming rules unless a strong historical explanation appears.
-- **PROTECTED CORE NAME** — central enough that the goal should be explanation, not casual replacement.
+- **KEEP** — grounded enough to use now.
+- **WORKING COMMON LABEL** — intentionally plain translated / interregional form.
+- **REPLACE UNLESS EARNED** — currently too fantasy-coded, theme-first, or opaque without linguistic support.
+- **LEGACY ONLY** — preserve for source recovery, not new canon.
 
----
-
-## A. Core regional and geographic names
-
-| Name | Current disposition | Reason |
-| --- | --- | --- |
-| **Ironcrest** | **KEEP / FRAME** | good macro label; too transparent to imply one ancient native name |
-| **Northwind** | **KEEP / FRAME** | readable regional label; can be common translation / exonym |
-| **Greenvale** | **KEEP / FRAME** | readable macro label; local historical names should be more varied |
-| **Highridge / Highridge Plateau** | **KEEP / FRAME** | especially plausible as external geographic / treaty label |
-| **Deepwood** | **KEEP / FRAME** | strong outside-facing geographic label; many local communities need not self-identify this way |
-| **Sunplains** | **KEEP / FRAME** | useful broad geographic term; should not erase city-state endonyms |
-| **The Spine** | **KEEP / FRAME** | highly plausible translated common name for a major mountain system |
-| **The Underpass** | **KEEP / FRAME** | plausible surface/common administrative term for a network with many local names |
-| **Port** | **PROTECTED CORE NAME / FRAME** | strong story identity; likely common shorthand, translated civic name or conventional exonym rather than the only historical name |
-
-### Consequence
-
-Do **not** rename these simply because they are transparent.
-
-Deepen what kind of name each one is.
-
----
-
-## B. Major legacy / political names currently used in active synthesis
-
-| Name | Current disposition | Notes |
-| --- | --- | --- |
-| **Summithold** | **ETYMOLOGY NEEDED** | plausible translated fortress / seat name; needs older form or reason this translation became standard |
-| **Cliffhaven** | **ETYMOLOGY NEEDED** | highly transparent; can work as merchant/common translation, but needs local historical layer |
-| **Cindermarch** | **ETYMOLOGY NEEDED** | evocative and politically useful; “march” implies border-administrative history that should be earned |
-| **Blackbellow** | **ETYMOLOGY NEEDED** | good guild/industrial nickname candidate; could be later commercial name rather than ancient settlement |
-| **Verdanthearth** | **LIKELY REPLACE OR REFRAME** | reads as fantasy-theme synthesis rather than inherited place name; stronger as later poetic / official epithet if retained |
-| **Aurorashore** | **LIKELY REPLACE OR REFRAME** | readable but unusually decorative for the current grounded naming method; could survive as translated prestige/court name |
-| **Solanterra** | **ETYMOLOGY NEEDED** | potentially plausible layered old city name, but currently feels imported from a Romance-like naming aesthetic without history |
-| **Rashira** | **ETYMOLOGY NEEDED** | less transparently thematic and therefore promising; needs language / historical origin |
-| **Zalhar** | **ETYMOLOGY NEEDED** | promising opaque old-city name; exactly the kind of name that could predate current Sunplains political identity |
-| **Dunespire** | **LIKELY REPLACE / TRANSLATION ONLY** | overt environment + fantasy landmark compound; preserve only if it is an outsider translation or later nickname |
-| **Smokereach** | **ETYMOLOGY NEEDED** | plausible later industrial / administrative name; needs reason and date |
-| **Silvercrag** | **PLACEHOLDER / TRANSLATION** | generic resource+terrain compound unless tied to a documented naming layer |
-| **Thunderstair** | **PLACEHOLDER / TRANSLATION** | vivid route nickname; stronger as traveler exonym than old local name |
-| **Icefang** | **PLACEHOLDER / TRANSLATION** | usable sailor / outsider label; weak as unexamined native confederation name |
-| **Deepwell Sanctum** | **LIKELY REPLACE / TITLE ONLY** | reads like a game location; could be translated religious title, not default civic name |
-
----
-
-## C. Current border-town examples
-
-These pages explicitly say several names are working examples or provisional.
+## A. Macro names
 
 | Name | Disposition |
 | --- | --- |
-| Stonefield Forge | **PLACEHOLDER / TRANSLATION** |
-| Harveston Vale | **LIKELY REPLACE** |
-| Twilighthollow | **LIKELY REPLACE** |
-| Frostbay Way | **PLACEHOLDER / TRANSLATION** |
-| Icestep Summit | **PLACEHOLDER / TRANSLATION** |
-| Darkroot Gulch | **PLACEHOLDER / TRANSLATION** |
-| Coalglen Meadows | **LIKELY REPLACE** |
-| Helios Orchard | **LIKELY REPLACE** |
-| Snowbreaker Quay | **PLACEHOLDER / TRANSLATION** |
-| Mosspeak Rise | **PLACEHOLDER / TRANSLATION** |
-| Emberhaven Cross | **LIKELY REPLACE** |
-| Golden Dunes Shore | **LIKELY REPLACE** |
-| Reedveil Bend | **ETYMOLOGY NEEDED / TRANSLATION** |
+| Western Uplands | **WORKING COMMON LABEL** |
+| North Country | **WORKING COMMON LABEL** |
+| River Country | **WORKING COMMON LABEL** |
+| High Country | **WORKING COMMON LABEL** |
+| Forest Country | **WORKING COMMON LABEL** |
+| South Country | **WORKING COMMON LABEL** |
+| Central Range | **WORKING COMMON LABEL** |
+| The Tunnels | **WORKING COMMON LABEL** |
+| Port | **KEEP / WORKING COMMON LABEL** |
 
-The settlements themselves may remain useful.
+These names are deliberately less distinctive than the cultures they contain.
 
-Their current names should not be treated as protected.
+That is desirable.
 
----
+## B. Specific legacy / political names
 
-## D. Festival names
+Current default:
 
-Current festival names are already provisional.
+**REPLACE UNLESS A CONCRETE NAMING HISTORY EARNS THEM.**
 
-Most are better understood as **design glosses describing the event** until real local names are derived.
+This includes:
+
+- Summithold;
+- Cliffhaven;
+- Cindermarch;
+- Blackbellow;
+- Verdanthearth;
+- Aurorashore;
+- Solanterra;
+- Rashira;
+- Zalhar;
+- Dunespire;
+- Smokereach;
+- Silvercrag;
+- Thunderstair;
+- Icefang;
+- Deepwell Sanctum.
+
+A few may survive later, but not because they already sound like fantasy places.
 
 Examples:
 
-- Forge Reawakening
-- Ice Breaking
-- Pass Opening
-- Canopy Vigil
-- Festival of Patrons
-- Ember Remembrance
-- Ledger Closing
-- Deep Silence
-- Solstice Lanterns
-- Lean Vigil
+- **Cindermarch** survives only if there was literally a march / frontier administration and “cinder” has a grounded local cause.
+- **Blackbellow** survives only if it emerges naturally as a workshop, family, district, or commercial nickname.
+- **Zalhar / Rashira / Solanterra** do **not** receive credit merely for being opaque. Without an actual language history, they are invented syllables.
+- **Dunespire / Verdanthearth / Aurorashore** are especially strong replacement candidates because they read as thematic branding.
 
-Do not “fantasy up” these names.
-
-First determine:
-
-- who created the festival;
-- when;
-- in what language;
-- whether its current name is old, translated, commercial or official.
-
-A locally boring name with a real history is better than a poetic invented one.
-
----
-
-## E. Religions and institutions
+## C. Border-town examples
 
 Names such as:
 
-- The Cyclic Order
-- Path of the Great Weaver
-- The Radiant Path
-- The Eternal Forge
-- The Illuminated Circle
-- The Silent Whisper
-- The Harmonious Path
-- The Dual Flame
-- The Infinite Compass
-- Economic Council
+- Stonefield Forge;
+- Harveston Vale;
+- Twilighthollow;
+- Frostbay Way;
+- Icestep Summit;
+- Darkroot Gulch;
+- Coalglen Meadows;
+- Helios Orchard;
+- Snowbreaker Quay;
+- Mosspeak Rise;
+- Emberhaven Cross;
+- Golden Dunes Shore;
+- Reedveil Bend;
 
-are highly transparent conceptual titles.
+remain **legacy design labels / replacement candidates**.
 
-The best current treatment is:
+When these settlements are developed, name them from actual local causes:
 
-**KEEP as reader-facing / interregional institutional translations unless later work establishes native liturgical or historical forms.**
+- ford;
+- bridge;
+- mill;
+- family;
+- gate;
+- field;
+- stream;
+- hill;
+- road;
+- market;
+- church / shrine;
+- estate;
+- older village.
 
-This is particularly useful for trans-regional religions.
+## D. Festival names
 
-A faith may have:
+Festival labels remain provisional design glosses.
 
-- one standard translated title used in the wiki;
-- different local names;
-- older liturgical titles;
-- nicknames;
-- hostile names used by opponents.
+Do not replace “Forge Reawakening” with a fancier invented ritual name.
 
-Do not multiply names until religious history needs them.
+Instead determine what locals would actually call the day.
 
----
+Real traditions often have simple names equivalent to:
+
+- Fair Day;
+- First Harvest;
+- Founders' Day;
+- Winter Market;
+- Opening Day;
+- Saint / teacher / founder name;
+- New Year;
+- Long Night.
+
+## E. Religions and institutions
+
+Transparent translated titles such as:
+
+- The Cyclic Order;
+- Path of the Great Weaver;
+- The Radiant Path;
+- Economic Council;
+
+can remain reader-facing labels while institutional history is developed.
+
+They should still be reassessed later if they prove too thematic.
 
 ## F. Personal names
 
-### Wurdren
+No personal name is protected merely because it exists.
 
-**PROTECTED CORE NAME.**
+**Wurdren** is story-central, so changing it has a higher cost, but it remains replaceable if the eventual personal naming system makes the current form feel arbitrary.
 
-Do not rename casually.
+The provisional domino names remain unpromoted for the same reason.
 
-What is missing is:
-
-- language of origin;
-- whether the name is old-fashioned;
-- class / regional associations;
-- spelling variants;
-- whether it is a birth name, nickname or shortened form;
-- what people infer from hearing it.
-
-Wurdren's age makes an old-fashioned or regionally ambiguous name potentially useful, but that is not yet established.
-
-### Domino characters
-
-Current owner already marks all as provisional:
-
-- Orin Slatehallow
-- Maris Bleakshore
-- Rosana Meadowcroft
-- Samir Tareh
-- Naruin Mossglade
-- Bahriyya Nazar
-- Mira Stonebridge
-- Gharic Coalveil
-- Ilya Dravencrest
-
-Current disposition:
-
-**DO NOT PROMOTE until personal naming systems exist.**
-
-The list currently mixes:
-
-- transparent English fantasy surnames;
-- real-world-adjacent given names;
-- invented names;
-- region-coded aesthetics.
-
-That is exactly what the new naming system should replace.
-
-Individual names may survive, but not because “this sounds Sunplains” or “this sounds Ironcrest.”
+See [Personal Naming Framework](Personal-Naming-Framework.md).
 
 ---
 
