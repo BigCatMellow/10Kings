@@ -76,7 +76,7 @@ Before the Convergence, the world was politically fragmented. Control changed th
 - control of passes, harbors, mines, rivers, or productive land;
 - local agreements that did not match later borders.
 
-The Convergence did not create a unified empire. It created a **shared political-economic settlement** in which borders, trade, access, and dispute became more predictable.
+The Convergence did not create a unified empire. It created a **shared political-economic settlement** built around recognized claims, protected exchange, route security, arbitration, Port neutrality, and continued local autonomy. The exact signatories and treaty machinery remain open.
 
 That changed conflict rather than ending it.
 
@@ -140,6 +140,8 @@ That makes the [Underpass](Places/The-Underpass.md), smuggling, alternative rout
 
 The world is politically plural.
 
+See [Kingdoms and Politics](Politics/Kingdoms-and-Politics.md). The six cultural-geographic regions are **not** six equivalent states. Political units vary in scale and form, and should be understood by the functions they actually perform rather than being forced into one constitutional template.
+
 Visible authority includes some combination of:
 
 - monarchs and noble houses;
@@ -153,6 +155,8 @@ Visible authority includes some combination of:
 - Port institutions.
 
 But much of daily life is also governed by institutions that cross political borders.
+
+See [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md). The post-Convergence world has **layered jurisdiction**: local governments, rulers, guilds, faiths, Port, route institutions, and treaty obligations can all possess legitimate but limited claims over different disputes. Enforcement and recognition matter as much as abstract legal authority.
 
 ### Guilds
 
