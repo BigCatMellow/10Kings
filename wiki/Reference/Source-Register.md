@@ -241,16 +241,29 @@ No native language names or conlang phonologies were promoted.
 
 A later grounded-name correction replaced the fantasy-branded macro labels in active wiki prose:
 
-- Ironcrest → Western Uplands;
-- Northwind → North Country;
-- Greenvale → River Country;
-- Highridge → High Country;
-- Deepwood → Forest Country;
-- Sunplains → South Country;
+- Ironcrest → Stone Hills;
+- Northwind → North Coast;
+- Greenvale → Low Rivers;
+- Highridge → High Roads;
+- Deepwood → Longwood;
+- Sunplains → Old Cities;
 - The Spine → Central Range;
 - The Underpass → The Tunnels.
 
 See [Grounded Naming Realignment](Grounded-Naming-Realignment.md).
+
+**Second-pass grounded names — 2026-09-23**
+
+The first correction (Western Uplands / North Country / Low Rivers-style labels) proved too generic as a final cultural vocabulary. A second pass kept the ordinary naming rule but gave the six cultural cores more historically specific common names:
+
+- Western Uplands → Stone Hills;
+- North Country → North Coast;
+- River Country → Low Rivers;
+- High Country → High Roads;
+- Forest Country → Longwood;
+- South Country → Old Cities.
+
+These remain common-language cultural-geographic names, not exclusive ethnic territories.
 
 ### Phase 2 — daily life and material culture
 
