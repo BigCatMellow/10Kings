@@ -202,4 +202,346 @@ Do not assume they want the same outcome.
 
 Never assume geography or history produces one inevitable culture.
 
-Generate at least two or three
+Generate at least two or three route;
+- demographic shift;
+- corruption;
+- outside competition;
+- legal challenge.
+
+Ask what people do when the ordinary system stops working.
+
+## Step 10 - Apply time if needed
+
+If the condition has existed long enough to accumulate history, run [Writing the Sequel](wiki/Reference/Writing-the-Sequel.md).
+
+Ask what became:
+
+- inherited;
+- ritualized;
+- misunderstood;
+- permanent;
+- obsolete;
+- politically entrenched;
+- nostalgic;
+- resented by younger generations.
+
+---
+
+# 6. Worldbuilding Work Modes
+
+Before changing files, identify the work mode.
+
+## A. BUILD
+
+Use when creating a system that is mostly undefined.
+
+Behavior:
+
+1. establish constraints;
+2. generate plausible alternatives;
+3. choose only what evidence/design goals justify;
+4. mark uncertain choices provisional;
+5. derive middle systems before large amounts of flavor.
+
+Do not fabricate certainty.
+
+## B. REDESIGN
+
+Use when existing material is actively being replaced.
+
+Behavior:
+
+1. identify what function the old material served;
+2. separate **function** from **name/theme/execution**;
+3. preserve useful dependencies where possible;
+4. replace weak assumptions rather than cosmetically renaming them;
+5. audit affected owner pages.
+
+Key question:
+
+> What should survive even if every proper noun changes?
+
+## C. RECONCILE
+
+Use when multiple notes or sources disagree.
+
+Behavior:
+
+1. identify the current owner;
+2. classify incoming claims as compatible, conflicting, duplicate, or unknown;
+3. do not silently average contradictions;
+4. preserve historical/source value without making it canon;
+5. promote only the smallest supported claim.
+
+## D. SYNTHESIZE
+
+Use when understanding how several established owners interact.
+
+Behavior:
+
+1. preserve owner authority;
+2. compare mechanisms, not merely topics;
+3. use Spiderweb for causal recovery;
+4. use E/I for new cross-connections;
+5. keep inference separate until tested.
+
+Synthesis should not become a second canonical owner.
+
+## E. DETAIL
+
+Use when the system is already strong and needs concrete texture.
+
+Behavior:
+
+1. derive details from existing middle systems;
+2. vary by class, location, profession, generation, and border position;
+3. include ordinary and inconvenient details;
+4. avoid making every detail narratively important;
+5. update the owner rather than creating disconnected trivia.
+
+## F. RESEARCH
+
+Use when real-world analogues may improve plausibility.
+
+Behavior:
+
+1. define the exact worldbuilding problem first;
+2. research **solutions to analogous human problems**, not cultures to copy wholesale;
+3. distinguish historical evidence from setting decisions;
+4. translate mechanisms into this world's own constraints;
+5. record useful references without importing an entire real culture.
+
+---
+
+# 7. Culture Must Be Produced, Not Assigned
+
+Avoid:
+
+> They are a practical people.
+
+> They value community.
+
+> They are suspicious of outsiders.
+
+These can become empty regional personality traits.
+
+Instead ask:
+
+- Which recurring conditions reward practical improvisation?
+- Which institutions require mutual aid?
+- Which historical experiences made certain outsiders dangerous?
+- In what situations does the claimed value stop applying?
+- Which groups reject the value?
+- What does the rich version look like?
+- What does the border version look like?
+- What does the younger generation think of it?
+
+Culture should emerge from:
+
+```text
+conditions
++ history
++ institutions
++ contact
++ class
++ adaptation
++ disagreement
+```
+
+Then it should feed back into future decisions.
+
+---
+
+# 8. Regions Are Not Boxes
+
+Do not build regions as isolated themed packages.
+
+A region may have an emphasis, but it still contains:
+
+- farms;
+- towns;
+- poor people;
+- rich people;
+- migrants;
+- minorities;
+- boring jobs;
+- internal political disagreement;
+- religious diversity;
+- local variation;
+- imported goods;
+- border influence.
+
+Always test:
+
+- urban / rural;
+- coast / inland;
+- center / frontier;
+- elite / poor;
+- older / younger;
+- local / migrant;
+- guild / non-guild;
+- settled / itinerant.
+
+A culture that has no internal argument is unfinished.
+
+---
+
+# 9. Borders Are Productive Worldbuilding Zones
+
+Do not treat borders as lines where one culture stops and another begins.
+
+Use borders to test whether the world actually functions.
+
+Look for:
+
+- mixed foods;
+- bilingualism;
+- intermarriage;
+- overlapping law;
+- disputed property;
+- shared religious sites;
+- hybrid architecture;
+- labor migration;
+- smuggling;
+- dual identities;
+- outsiders misclassifying local people.
+
+Border detail often reveals whether regional culture has become too schematic.
+
+---
+
+# 10. Food Is a System
+
+Never begin cuisine work with only:
+
+> What dishes fit this region?
+
+Use:
+
+```text
+ecology
+-> production
+-> seasonality
+-> preservation
+-> storage
+-> fuel
+-> transport
+-> class access
+-> religious/social rules
+-> work patterns
+-> eating habits
+-> dishes
+```
+
+Always consider:
+
+- staple food;
+- poor food;
+- rich food;
+- work food;
+- travel food;
+- festival food;
+- famine food;
+- preserved food;
+- imported/status food;
+- border mixtures;
+- diaspora adaptations;
+- old-fashioned food;
+- youth trends.
+
+Food should reveal infrastructure and class, not merely flavor.
+
+---
+
+# 11. Architecture Must Solve Problems
+
+Do not assign one visual style to a region and stop.
+
+Ask what buildings must do:
+
+- shed rain;
+- survive wind;
+- store grain;
+- collect water;
+- ventilate smoke;
+- house workshops;
+- defend streets;
+- accommodate animals;
+- support extended families;
+- host seasonal labor;
+- survive fire;
+- handle markets.
+
+Then add history:
+
+- reused foundations;
+- additions;
+- burned districts;
+- abandoned walls;
+- foreign quarters;
+- elite fashion;
+- poor improvisation;
+- changed street uses.
+
+Architecture is material adaptation plus accumulated history.
+
+---
+
+# 12. Institutions Must Have Reasons to Exist
+
+Never create an institution only because the world "needs" one.
+
+For every guild, court, religious office, council, patrol, or bureaucracy, answer:
+
+1. What repeated problem created demand for it?
+2. Why could households not solve the problem individually?
+3. Who funded it?
+4. Who granted or tolerated its authority?
+5. What benefit makes people accept it?
+6. What abuse does it enable?
+7. Who competes with it?
+8. What happens if it disappears?
+
+If these questions have no answer, the institution is probably decorative.
+
+---
+
+# 13. Material Limits Are Mandatory
+
+Always account for:
+
+- travel time;
+- spoilage;
+- fuel;
+- labor;
+- animal limits;
+- weather;
+- roads;
+- water;
+- construction materials;
+- injury;
+- disease;
+- communication delay;
+- maintenance.
+
+Low fantasy does not mean "no wonder."
+
+It means wonder still exists inside a material world.
+
+Magic cannot be used as an invisible patch for a logistics problem unless the setting has already established that capability, cost, prevalence, and infrastructure.
+
+---
+
+# 14. Information Has Geography
+
+Do not let everyone know everything at story speed.
+
+For important information ask:
+
+- who observes it first;
+- who records it;
+- who carries it;
+- how quickly;
+- who pays;
+- who trusts the source;
+- where it can be delay
