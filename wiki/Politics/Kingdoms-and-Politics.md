@@ -1,5 +1,25 @@
 # Kingdoms and Politics
 
+## Cultural regions are not states
+
+The six major cultural-geographic traditions do **not** map one-to-one onto kingdoms.
+
+A polity may contain:
+- several regional traditions;
+- migrant enclaves;
+- mixed border populations;
+- locally developed identities that fit none of the six neatly.
+
+A cultural tradition may also span:
+- multiple kingdoms;
+- city-states;
+- guild jurisdictions;
+- religious communities;
+- Port neighborhoods;
+- noncontiguous settlements.
+
+Political rulers may try to claim cultural unity, but the world model should not assume their claim is true.
+
 ## Principle
 
 The six regions should not necessarily share identical political systems.
