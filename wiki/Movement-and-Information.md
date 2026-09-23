@@ -29,6 +29,8 @@ Information does not float across the map.
 
 It rides **people, institutions, and routes**.
 
+See [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md) for the scheduling layer behind ships, markets, pilgrimages, pass openings, seasonal labor, and mobile circuits. Repeated movement depends not only on a route but on knowing **when** that route or institution is expected to function.
+
 The same physical road can carry very different information depending on who is traveling it:
 
 - a sailor carries harbor news, prices, slang, and ship gossip;
