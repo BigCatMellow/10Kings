@@ -516,7 +516,7 @@ Recommended scope:
 
 This should be cross-regional and methodological, with examples.
 
-It should not define “the Western Uplands marriage custom” as one universal practice.
+It should not define “the Stone Hills marriage custom” as one universal practice.
 
 ## B. Clothing and Material Culture
 
@@ -644,7 +644,7 @@ current politics / story
 
 Example:
 
-A North Country preserved-food practice should ideally connect to:
+A North Coast preserved-food practice should ideally connect to:
 
 - fishing season;
 - salt access;
@@ -656,7 +656,7 @@ A North Country preserved-food practice should ideally connect to:
 - Port trade;
 - current fish-stock pressure.
 
-If it connects only to “North Country is cold,” it is too shallow.
+If it connects only to “North Coast is cold,” it is too shallow.
 
 ## Stage C — E/I capture
 
@@ -865,7 +865,7 @@ Test:
 
 - border towns;
 - Port;
-- High Country routes;
+- High Roads routes;
 - itinerant peoples;
 - pilgrimage;
 - guild branches;
@@ -935,12 +935,12 @@ They are scene seeds.
 
 Avoid:
 
-- Western Uplands people are direct because they forge;
-- North Country people are communal because survival;
-- River Country people are gentle because farms;
-- High Country people are logical because trade;
-- Forest Country people are spiritual because forest;
-- South Country people are elegant because warm climate.
+- Stone Hills people are direct because they forge;
+- North Coast people are communal because survival;
+- Low Rivers people are gentle because farms;
+- High Roads people are logical because trade;
+- Longwood people are spiritual because forest;
+- Old Cities people are elegant because warm climate.
 
 Those can exist as **stereotypes, local traditions, institutions or specific subcultures**, not universal psychology.
 
@@ -948,10 +948,10 @@ Those can exist as **stereotypes, local traditions, institutions or specific sub
 
 No:
 
-- North Country = Scandinavia;
-- South Country = Middle East;
-- Forest Country = Indigenous forest people;
-- Western Uplands = Appalachia / Wales.
+- North Coast = Scandinavia;
+- Old Cities = Middle East;
+- Longwood = Indigenous forest people;
+- Stone Hills = Appalachia / Wales.
 
 Use multiple research pools to solve specific human problems.
 
@@ -1043,7 +1043,7 @@ Completed first structural pass:
 
 - created [Daily Life and Customs](../Culture/Daily-Life-and-Customs.md);
 - created [Clothing and Material Culture](../Culture/Clothing-and-Material-Culture.md);
-- ran [Culture Phase 2 — Ordinary-Life Vertical Slices](Culture-Phase-2-Vertical-Slices.md) across Western Uplands, North Country, River Country, High Country, Forest Country, South Country and Port;
+- ran [Culture Phase 2 — Ordinary-Life Vertical Slices](Culture-Phase-2-Vertical-Slices.md) across Stone Hills, North Coast, Low Rivers, High Roads, Longwood, Old Cities and Port;
 - connected clothing to the world economy through [Material Culture Supply Chains](Material-Culture-Supply-Chains.md).
 
 First findings:
@@ -1052,7 +1052,7 @@ First findings:
 - occupation + class + climate should usually predict clothing more strongly than region alone;
 - the legacy “one silhouette / palette / motif per region” model should not be restored;
 - repair, secondhand trade and garment reuse are structurally important in a pre-industrial economy;
-- Port and High Country are strong material-culture transmission hubs for different reasons;
+- Port and High Roads are strong material-culture transmission hubs for different reasons;
 - current crises become more believable when they alter mundane things such as clothing replacement, guest capacity, household composition, childcare and repair.
 
 Still unresolved before Phase 2 is considered mature:
@@ -1073,15 +1073,15 @@ Completed first food deepening pass:
 
 - rebuilt [Food](../Culture/Food.md) around ecology + fuel + cookware + preservation + labor + trade + class + season + religion + migration + history;
 - revised [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md) to remove theme-first dish naming and region-as-flavor shorthand;
-- added [Culture Phase 3 — Food Vertical Slices](Culture-Phase-3-Food-Vertical-Slices.md) across Western Uplands, North Country, River Country, High Country, Forest Country, South Country and Port.
+- added [Culture Phase 3 — Food Vertical Slices](Culture-Phase-3-Food-Vertical-Slices.md) across Stone Hills, North Coast, Low Rivers, High Roads, Longwood, Old Cities and Port.
 
 First findings:
 
 - region sets broad ecology and trade pressure, but work, class, storage, urban/rural setting, religion and migration often predict actual meals more strongly;
 - preservation should be treated as infrastructure, not merely household technique;
-- prepared / street food is especially plausible in Port, High Country caravan districts, industrial towns and major markets where time, fuel and kitchen space are constrained;
+- prepared / street food is especially plausible in Port, High Roads caravan districts, industrial towns and major markets where time, fuel and kitchen space are constrained;
 - food crises usually appear first as substitution: less meat, cheaper grain, fewer fresh foods, more credit, more communal / institutional meals;
-- the River Country abundance crisis works especially well when cheap food coexists with farm debt and asset loss;
+- the Low Rivers abundance crisis works especially well when cheap food coexists with farm debt and asset loss;
 - Port food should become genuinely Port-born through repeated local use rather than being described as “fusion”;
 - legacy dish names built from forge / frost / forest / sun / caravan imagery remain reference only.
 
@@ -1118,4 +1118,4 @@ The target is:
 
 And the deepest test is:
 
-> Can a cultural detail be explained by history, material conditions and social transmission rather than by “because this is the Western Uplands / North Country / River Country culture”? 
+> Can a cultural detail be explained by history, material conditions and social transmission rather than by “because this is the Stone Hills / North Coast / Low Rivers culture”? 
