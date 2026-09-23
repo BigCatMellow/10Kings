@@ -42,10 +42,10 @@ Historical Appalachia was not generally a nomadic culture, so this should be com
 A large network of related traveling households could move on **circuits** rather than wander randomly.
 
 Each circuit might connect:
-- summer Highridge pasture;
-- Ironcrest repair work;
-- Greenvale harvest labor;
-- Deepwood edge markets;
+- summer High Country pasture;
+- Western Uplands repair work;
+- River Country harvest labor;
+- Forest Country edge markets;
 - Port winter work or major fairs.
 
 Families may own no kingdom-scale territory but possess traditional stopping rights, springs, pasture agreements, camps, shrines, and market privileges recognized by old custom.
