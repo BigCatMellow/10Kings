@@ -500,7 +500,23 @@ loss of legal trust
 
 ---
 
-# 17. Internal politics should grow from Port's actual economy
+# 17. Port creates multilingual practical education
+
+See [Education, Training, and Knowledge Transmission](../Education-Training-and-Knowledge.md).
+
+Port's economy creates demand for training in:
+
+- languages;
+- accounts;
+- cargo records;
+- law;
+- translation;
+- maritime work;
+- commercial arithmetic.
+
+That training can come from merchant households, guilds, faith schools, private teachers, clerks, and workplaces. Port does not need one central academy to produce educated specialists.
+
+# 19. Internal politics should grow from Port's actual economy
 
 Do not promote the old faction names automatically.
 
@@ -571,7 +587,7 @@ These are **constituencies**, not necessarily formal parties.
 
 ---
 
-# 18. Port politics is constrained by dependence
+# 19. Port politics is constrained by dependence
 
 Port cannot treat foreign powers as optional.
 
@@ -601,7 +617,7 @@ Therefore Port politics is shaped by **mutual resentment inside mutual need**.
 
 ---
 
-# 19. The city can be locally democratic, oligarchic, mixed, or something else — still open
+# 20. The city can be locally democratic, oligarchic, mixed, or something else — still open
 
 The current world does not yet settle whether Port government is:
 
@@ -629,7 +645,7 @@ The constitution should emerge from those pressures.
 
 ---
 
-# 20. The Port seizure remains legacy history, not yet current fact
+# 21. The Port seizure remains legacy history, not yet current fact
 
 The direct source contains a strong story:
 
@@ -657,7 +673,7 @@ Until then, use the structural logic without asserting the event happened exactl
 
 ---
 
-# 21. Extradition remains open
+# 22. Extradition remains open
 
 Legacy Port notes say neutrality prevents extradition for outside crimes.
 
@@ -678,7 +694,7 @@ It should be settled as part of the legal/treaty model, not inherited automatica
 
 ---
 
-# 22. Neutrality does not mean moral neutrality
+# 23. Neutrality does not mean moral neutrality
 
 Port institutions can still:
 
@@ -696,7 +712,7 @@ It does not make Port politically virtuous.
 
 ---
 
-# 23. Neutrality does not mean cultural blandness
+# 24. Neutrality does not mean cultural blandness
 
 The city is politically constrained externally while culturally intense internally.
 
@@ -716,7 +732,7 @@ The stronger the outside world treats Port as merely useful infrastructure, the 
 
 ---
 
-# 24. Port and the competitive spheres
+# 25. Port and the competitive spheres
 
 The two WWF/WCW-derived competitive spheres are networks, not states.
 
@@ -737,7 +753,7 @@ It does not require every resident or merchant to be politically neutral.
 
 ---
 
-# 25. Port and the Council
+# 26. Port and the Council
 
 The Council benefits from Port because Port concentrates:
 
@@ -766,7 +782,7 @@ Complete Council control would undermine the independent neutrality that makes P
 
 ---
 
-# 26. Neutrality crisis test
+# 27. Neutrality crisis test
 
 When testing a Port political crisis, ask:
 
@@ -785,7 +801,7 @@ If the answer is simply "the Council decides," the Port model has failed.
 
 ---
 
-# 27. What is established versus open
+# 28. What is established versus open
 
 ## Established structurally
 
@@ -828,7 +844,7 @@ If the answer is simply "the Council decides," the Port model has failed.
 
 ---
 
-# 28. Design rule
+# 29. Design rule
 
 When resolving a Port political question:
 
