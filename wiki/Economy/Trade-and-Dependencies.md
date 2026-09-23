@@ -10,10 +10,13 @@ Canonical neighbors:
 - [Economic Council](../Politics/Economic-Council.md) owns Council leverage over bottlenecks.
 - [Current Events](../Story/Current-Events.md) owns the opening-story crisis snapshot.
 - [Port](../Places/Port.md) owns Port's institutions and political position.
+- [Money, Credit, Exchange, and Measures](../Money-Credit-and-Measures.md) owns coin, credit, account settlement, exchange, weights, measures, and financial interoperability.
 
 ## Core model
 
 No major region is self-sufficient, but none should be reduced to one export or one vulnerability. Regional specialties create **pressure and leverage**, not absolute monopolies.
+
+Trade also does not require one universal coin or measure. Cross-border exchange can combine physical money, credit, ledger settlement, guarantees, and locally converted measures.
 
 | Region | Common imports / pressures | Common exports / leverage |
 | --- | --- | --- |

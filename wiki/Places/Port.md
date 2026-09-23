@@ -406,6 +406,8 @@ Exact:
 
 remain open.
 
+See [Money, Credit, Exchange, and Measures](../Money-Credit-and-Measures.md). Port's repeated foreign trade makes currency conversion, account settlement, cargo finance, recognized local measures, and warehouse-backed obligations useful here. This does **not** establish one Port currency, one dominant bank, or one customs model.
+
 ---
 
 # 12. Foreign relations remain constrained but unresolved
@@ -490,6 +492,8 @@ They matter because:
 - outside powers benefit from maintaining neutral commercial trust.
 
 This makes Port a **legal switching point**.
+
+See [Couriers, Posts, and Message Networks](../Couriers-Posts-and-Message-Networks.md). The same ships, agents, translators, merchant offices, and harbor institutions also make Port a natural maritime message-transfer hub without requiring a universal postal service.
 
 ---
 

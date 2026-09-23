@@ -860,3 +860,35 @@ The import did **not** settle these:
 - which named festivals, wars, towns and dishes graduate from provisional texture into established canon.
 
 Do not promote them merely because an old compendium states them confidently.
+
+
+## Post-social-world systems reconciliation — 2026-09-23
+
+After the social-world expansion reached its final working state, the later parallel world-system branches were re-audited against that final branch rather than merged wholesale.
+
+The final social-world owners were kept authoritative wherever they overlapped.
+
+Three later systems were genuinely absent and were therefore promoted as new structural owners:
+
+- [Money, Credit, Exchange, and Measures](../Money-Credit-and-Measures.md);
+- [Records, Literacy, and Authentication](../Records-Literacy-and-Authentication.md);
+- [Couriers, Posts, and Message Networks](../Couriers-Posts-and-Message-Networks.md).
+
+The parallel education page was **not** retained as a competing owner. Compatible missing consequences were folded into [Education and Knowledge Transmission](../Education-and-Knowledge-Transmission.md), including numeracy, seasonal/adult learning, mobile education, cross-jurisdiction credential recognition, apprenticeship power, patronage and correspondence-based scholarship.
+
+### Source disposition
+
+The added finance / records / courier owners draw only on mechanisms already present in current owners plus compatible legacy evidence from:
+
+- Volume 07 — literacy, scribes, written standards and language/register questions;
+- Volume 08 — credit, debt, currency exchange, ledgers, Council commercial records and institutional agents;
+- Volume 04 / 06 / 10 — itinerant carriage, religious correspondence, travelers, messengers and physically carried information;
+- two_sons_world_dynamics.md — finance, Port exchange, trade dependence and institutional friction.
+
+No old universal currency, universal postal service, universal seal/notary system, centralized Council bank/archive, or old region-coded economic structure was promoted.
+
+The reconciliation rule was:
+
+final social-world owner -> identify remaining dependency -> add smallest missing owner -> link back into current owners.
+
+This section records that the post-social additions were reconciled **after** the other agent's final expansion rather than being inherited from an older branch snapshot.

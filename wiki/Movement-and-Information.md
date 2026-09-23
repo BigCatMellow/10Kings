@@ -6,7 +6,7 @@
 
 This page owns the world-level model for how people, messages, rumors, records, and intelligence move through the setting.
 
-It does **not** establish exact settlement-to-settlement travel times, literacy rates, a universal postal service, a single courier guild, or precise route schedules.
+It does **not** establish exact settlement-to-settlement travel times, literacy rates, a universal postal service, a single courier guild, or precise route schedules. Deliberately sent letters and dispatches are owned by [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md).
 
 However, [Working Map — Scale and Travel-Time Test V1](Reference/Working-Map-Scale-and-Travel-Test.md) now establishes a usable **working travel envelope**: adjacent major economic hubs are usually several commercial days apart, multi-region overland journeys usually take weeks, and urgent institutional dispatch can move materially faster where prepared routes and remounts exist.
 
@@ -19,6 +19,7 @@ Related owners:
 - [The High Roads](Regions/Highridge-Plateau.md) — overland exchange;
 - [Nomads and Itinerant Peoples](Culture/Nomads.md) — mobile circuits;
 - [Guilds](Politics/Guilds.md) — professional and branch networks;
+- [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md) — deliberate dispatch, scheduled carriage, handoff, and last-mile delivery;
 - [Religions](Politics/Religions.md) — pilgrimage, hospitality, archives, schools, and mediation;
 - [Crime and the Underworld](Politics/Crime-and-Underworld.md) — illicit routes and forged information;
 - [Culture Phase 7 — Cross-Regional Cultural Transmission](Reference/Culture-Phase-7-Cross-Regional-Transmission.md) — non-canon mechanism tests for carrier-specific transmission.
@@ -524,6 +525,8 @@ Intelligence should therefore be treated as:
 A spy network is not an all-seeing map.
 
 ## Scribes, scholars, notaries, and archives
+
+See [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md).
 
 Current material supports practical literacy, commercial records, libraries, schools, archives, and record-centered religious institutions in parts of the world.
 

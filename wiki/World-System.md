@@ -104,13 +104,17 @@ Merchants, laborers, migrants, refugees, sailors, caravan workers, pilgrims, gui
 
 ### Money and obligations
 
-Credit, debt, contracts, tolls, storage claims, insurance-like arrangements, patronage, investment, taxes, guild dues, emergency loans, and land obligations.
+See [Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md).
+
+Physical money exists, but value also moves through credit, debt, account settlement, guarantees, storage claims, insurance-like arrangements, patronage, investment, taxes, guild dues, emergency loans, and land obligations. Several currencies and local measures can coexist because conversion, records, trusted intermediaries, and arbitration make them interoperable.
 
 ### Information
 
 See [Movement and Information](Movement-and-Information.md).
 
 Market reports, rumors, maps, religious messages, guild knowledge, political intelligence, family news, technical knowledge, propaganda, and records.
+
+[Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md) owns deliberately sent correspondence: state, merchant, guild, religious, ship, caravan, private-courier, and informal carriage overlap rather than forming one universal post.
 
 Information follows physical and social routes rather than spreading evenly. Its effective speed depends on departure delay, travel, handoffs, translation/copying, verification, and political friction. A rumor may therefore outrun a verified report without physically moving faster than its human carriers.
 
@@ -130,7 +134,7 @@ Important examples include:
 - food storage and seed networks;
 - mines, foundries, timber/fuel supply, and strategic workshops;
 - credit and exchange;
-- records, maps, and trusted information networks; see [Movement and Information](Movement-and-Information.md).
+- records, maps, and trusted information networks; see [Movement and Information](Movement-and-Information.md) and [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md).
 
 A chokepoint matters because many independent actors rely on it.
 

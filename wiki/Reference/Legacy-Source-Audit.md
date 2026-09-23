@@ -181,6 +181,31 @@ They now route to:
 
 The legacy guide supplied **questions and gap detection**, not setting facts. Education, medicine and folk belief were synthesized from current institutions and explicitly marked as new structural owners.
 
+## 6. Post-social finance, records and message systems — reconciled 2026-09-23
+
+A final comparison against the completed social-world expansion showed three cross-system dependencies still lacked dedicated owners.
+
+They now route to:
+
+- [Money, Credit, Exchange, and Measures](../Money-Credit-and-Measures.md);
+- [Records, Literacy, and Authentication](../Records-Literacy-and-Authentication.md);
+- [Couriers, Posts, and Message Networks](../Couriers-Posts-and-Message-Networks.md).
+
+This was **not** a new whole-volume salvage pass.
+
+The work reused already reconciled mechanisms from trade, Council, law, movement, language, Port, High Roads and the existing legacy audit. It deliberately rejected any implication of:
+
+- one world currency;
+- one universal banking system;
+- one universal post;
+- one courier guild covering the continent;
+- one universal seal / signature / notarial system;
+- one perfect Council archive.
+
+The separate parallel education owner was not kept. Missing compatible material was folded into [Education and Knowledge Transmission](../Education-and-Knowledge-Transmission.md).
+
+Future work in these areas should begin with the active owners above and return to legacy only for exact local details or provenance.
+
 ---
 
 # Material that is correctly left in legacy

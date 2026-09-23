@@ -118,6 +118,16 @@ Markets introduce dried fruit, spices, oils, noodles, rice, wine, fish, and swee
 
 There should be strong differences between local household food and cosmopolitan market food.
 
+## Finance, records, and message exchange
+
+See:
+
+- [Money, Credit, Exchange, and Measures](../Money-Credit-and-Measures.md);
+- [Records, Literacy, and Authentication](../Records-Literacy-and-Authentication.md);
+- [Couriers, Posts, and Message Networks](../Couriers-Posts-and-Message-Networks.md).
+
+High Roads' caravan convergence creates practical demand for currency conversion, merchant credit, reference measures, record verification, forwarding, and relay. These functions grow from the routes and arbitration environment already established here; they do not make High Roads one centralized banking, archive, or postal institution.
+
 ## Politics
 
 High Roads political power is distributed among:

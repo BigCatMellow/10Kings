@@ -402,6 +402,8 @@ But its ability to enforce that decision may depend on:
 
 # 7. Contract can choose a forum
 
+See [Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md).
+
 Long-distance trade becomes easier when parties know where a dispute will be heard.
 
 Therefore it is structurally plausible that important contracts sometimes specify:
@@ -535,7 +537,7 @@ Therefore the world should contain:
 
 # 12. Evidence follows the information system
 
-See [Movement and Information](Movement-and-Information.md).
+See [Movement and Information](Movement-and-Information.md) and [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md).
 
 Evidence can include:
 

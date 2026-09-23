@@ -13,6 +13,9 @@ This page builds the system from current owners:
 - [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md)
 - [Daily Life and Customs](Culture/Daily-Life-and-Customs.md)
 - [Social Fabric](Social-Fabric.md)
+- [Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md)
+- [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md)
+- [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md)
 
 ---
 
@@ -344,11 +347,133 @@ Education is part of the world system, not insulated from it.
 
 ---
 
-# 15. Open questions
+# 15. Numeracy and practical competence
+
+Literacy is only one educational axis.
+
+Trade, craft, agriculture, navigation, administration and debt create demand for:
+
+- counting;
+- proportion;
+- measurement;
+- area;
+- time;
+- account arithmetic;
+- currency and measure conversion.
+
+A person may be highly numerate while only partly literate.
+
+Likewise, a skilled practical worker may know far more about a technical system than a broadly educated clerk.
+
+See [Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md).
+
+---
+
+# 16. Education follows seasons, mobility and adulthood
+
+Formal learning does not need to follow one uninterrupted childhood school calendar.
+
+Instruction may expand during:
+
+- winter;
+- agricultural off-seasons;
+- periods between voyages;
+- winter quarters of mobile circuits;
+- temporary residence with settled kin.
+
+Adults also learn through:
+
+- migration;
+- new work;
+- guild advancement;
+- military service;
+- religious change;
+- language contact.
+
+For mobile households, continuity can come from kin, work, songs, route practice, seasonal teachers, religious houses and repeated winter stops rather than one fixed school.
+
+---
+
+# 17. Credentials are jurisdictional
+
+Training recognized in one place may be:
+
+- accepted;
+- discounted;
+- retested;
+- rejected;
+
+elsewhere.
+
+A skilled migrant can therefore lose **recognized status** without losing actual competence.
+
+Professional recognition may depend on:
+
+- guild records;
+- a master's letter;
+- examination;
+- completed work;
+- reputation;
+- local patronage.
+
+This connects education directly to [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md) and [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md).
+
+Formal credentials can protect standards while also becoming class and migration barriers.
+
+---
+
+# 18. Knowledge networks extend beyond schools
+
+Learning can be financed or transmitted through:
+
+- patronage;
+- correspondence;
+- traveling teachers;
+- military institutions;
+- merchant houses;
+- guild branches;
+- religious networks.
+
+Reliable correspondence can create scholarly communities whose members rarely meet in person.
+
+See [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md).
+
+Patrons can expand access while also influencing which questions are safe or valuable to pursue.
+
+Do not create one university-like institution merely because advanced learning exists.
+
+---
+
+# 19. Apprenticeship contains power as well as training
+
+A master may control:
+
+- housing;
+- work;
+- certification;
+- reputation;
+- future employment.
+
+Possible abuse includes:
+
+- excessive labor;
+- unsafe work;
+- withheld instruction;
+- delayed advancement;
+- debt;
+- favoritism.
+
+Guild regulation may protect apprentices, masters, or both depending on the local institution.
+
+This makes apprenticeship a labor relationship as well as an educational one.
+
+---
+
+# 20. Open questions
 
 Still unresolved:
 
-- approximate literacy rates by place / class;
+- approximate literacy and numeracy rates by place / class / occupation;
 - dominant scripts;
 - who teaches basic reading;
 - whether any city has a broadly accessible school;
@@ -356,11 +481,16 @@ Still unresolved:
 - how legal clerks are trained;
 - the cost and duration of apprenticeship;
 - whether examinations exist outside some guilds;
+- seasonal school patterns;
+- cross-border recognition of credentials;
+- education arrangements for mobile households;
+- patronage and private teaching;
+- whether any university-like institution develops;
 - how books / paper / parchment are produced and priced.
 
 ---
 
-# 16. Scene test
+# 21. Scene test
 
 For a character's education, ask:
 
