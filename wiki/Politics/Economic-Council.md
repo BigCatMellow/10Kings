@@ -405,6 +405,8 @@ See [World Synthesis — E/I](../Reference/World-Synthesis-EI.md#candidate-24--i
 
 ## 5. Finance and Exchange
 
+See [Money, Credit, Exchange, and Measures](../Money-Credit-and-Measures.md).
+
 Working title: **Treasury / Commerce**
 
 Concerned with:
@@ -421,7 +423,7 @@ Concerned with:
 
 This portfolio can connect otherwise separate Council interventions because most large responses require financing.
 
-It should not be treated as a universal central bank unless later worldbuilding explicitly creates one.
+It should not be treated as a universal central bank unless later worldbuilding explicitly creates one. It does not currently issue a world currency, set universal interest rates, dictate exchange rates by law, or control every mint and lender.
 
 ## 6. Knowledge and Information
 
@@ -439,7 +441,7 @@ Concerned with:
 - blackmail where used;
 - archival comparison.
 
-See [Movement and Information](../Movement-and-Information.md).
+See [Movement and Information](../Movement-and-Information.md) and [Records, Literacy, and Authentication](../Records-Literacy-and-Authentication.md).
 
 This portfolio does **not** control the world's information.
 
@@ -1238,6 +1240,8 @@ These are now **institutional questions**, not gaps in the Council's basic purpo
 - [The World as a System](../World-System.md)
 - [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
 - [Movement and Information](../Movement-and-Information.md)
+- [Money, Credit, Exchange, and Measures](../Money-Credit-and-Measures.md)
+- [Records, Literacy, and Authentication](../Records-Literacy-and-Authentication.md)
 - [Kingdoms and Politics](Kingdoms-and-Politics.md)
 - [Guilds](Guilds.md)
 - [Religions](Religions.md)
