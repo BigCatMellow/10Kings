@@ -78,12 +78,12 @@ The previous macro labels were too consistently “fantasy descriptive”:
 
 They have been replaced in active wiki prose with:
 
-- **Western Uplands**;
-- **North Country**;
-- **River Country**;
-- **High Country**;
-- **Forest Country**;
-- **South Country**.
+- **Stone Hills**;
+- **North Coast**;
+- **Low Rivers**;
+- **High Roads**;
+- **Longwood**;
+- **Old Cities**.
 
 Likewise:
 
@@ -224,7 +224,7 @@ The world should therefore contain people who can disagree over the “correct�
 
 These are **working historical shapes**, not finalized language families or conlangs.
 
-## Western Uplands
+## Stone Hills
 
 Historical basis:
 
@@ -241,7 +241,7 @@ Likely language ecology:
 - strong specialist craft vocabularies;
 - town speech shaped by repeated labor migration;
 - court / administrative standard emerging with political consolidation;
-- heavy borrowing along River Country, High Country and Forest Country routes.
+- heavy borrowing along Low Rivers, High Roads and Longwood routes.
 
 Current responsibility / completion / inspection distinctions can remain possible features of some important western varieties, not a universal trait inherited from industry.
 
@@ -262,7 +262,7 @@ Do not assume industrial places require names containing iron, forge, smoke, emb
 
 ---
 
-## North Country
+## North Coast
 
 Historical basis:
 
@@ -279,7 +279,7 @@ Likely language ecology:
 - inland varieties distinct from major seaports;
 - shared maritime vocabulary across political boundaries;
 - clan / kin naming traditions;
-- strong contact with Port and the Western Uplands;
+- strong contact with Port and the Stone Hills;
 - prestige speech at major harbors that blends older local forms.
 
 ### Naming implication
@@ -301,7 +301,7 @@ Plain names such as North Harbor, East Bay, Three Islands, Red Cliff or a family
 
 ---
 
-## River Country
+## Low Rivers
 
 Historical basis:
 
@@ -339,7 +339,7 @@ Avoid “green / harvest / orchard / hearth” branding unless locally literal.
 
 ---
 
-## High Country
+## High Roads
 
 Historical basis:
 
@@ -351,7 +351,7 @@ Historical basis:
 
 Likely language ecology:
 
-**High Country should be the least linguistically uniform major region.**
+**High Roads should be the least linguistically uniform major region.**
 
 It plausibly contains:
 
@@ -380,7 +380,7 @@ Multiple forms for one place are still plausible, but the setting should not inv
 
 ---
 
-## Forest Country
+## Longwood
 
 Historical basis:
 
@@ -417,7 +417,7 @@ Do not default to root, moss, leaf, gloom, shadow, whisper, or mystical compound
 
 ---
 
-## South Country
+## Old Cities
 
 Historical basis:
 
@@ -564,12 +564,12 @@ A naming dispute can therefore be a political argument.
 
 | Legacy label | Current common label |
 | --- | --- |
-| Ironcrest | **Western Uplands** |
-| Northwind | **North Country** |
-| Greenvale | **River Country** |
-| Highridge / Highridge Plateau | **High Country** |
-| Deepwood | **Forest Country** |
-| Sunplains | **South Country** |
+| Ironcrest | **Stone Hills** |
+| Northwind | **North Coast** |
+| Greenvale | **Low Rivers** |
+| Highridge / Highridge Plateau | **High Roads** |
+| Deepwood | **Longwood** |
+| Sunplains | **Old Cities** |
 | The Spine | **Central Range** |
 | The Underpass | **The Tunnels** |
 | Port | **Port** |
@@ -599,12 +599,12 @@ See [Grounded Naming Realignment](Grounded-Naming-Realignment.md).
 
 | Name | Disposition |
 | --- | --- |
-| Western Uplands | **WORKING COMMON LABEL** |
-| North Country | **WORKING COMMON LABEL** |
-| River Country | **WORKING COMMON LABEL** |
-| High Country | **WORKING COMMON LABEL** |
-| Forest Country | **WORKING COMMON LABEL** |
-| South Country | **WORKING COMMON LABEL** |
+| Stone Hills | **WORKING COMMON LABEL** |
+| North Coast | **WORKING COMMON LABEL** |
+| Low Rivers | **WORKING COMMON LABEL** |
+| High Roads | **WORKING COMMON LABEL** |
+| Longwood | **WORKING COMMON LABEL** |
+| Old Cities | **WORKING COMMON LABEL** |
 | Central Range | **WORKING COMMON LABEL** |
 | The Tunnels | **WORKING COMMON LABEL** |
 | Port | **KEEP / WORKING COMMON LABEL** |
