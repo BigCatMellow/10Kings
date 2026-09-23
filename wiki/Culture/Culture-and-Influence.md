@@ -88,6 +88,57 @@ The important rule is:
 
 Do not force every mixed practice to remain legible forever as “A + B.”
 
+## Cultural transmission has friction
+
+Cultural forms do not all spread at the same speed or along the same map.
+
+A useful model is:
+
+```text
+cultural form
++ human carrier
++ repeated route
++ receiving use / desire
++ available materials
++ social permission
++ repetition
+→ local adoption
+```
+
+Then local adoption can create a new form through different materials, audiences, institutions and generations.
+
+Different carriers are good at moving different things:
+
+- sailors and harbor workers can move slang, songs, games, portable food and work clothing;
+- caravan workers can move trade vocabulary, games, route ritual and travel adaptations;
+- guild branches can move technical language, certification, workwear and apprenticeship custom;
+- pilgrims can move ritual, hospitality, stories and calendar-linked practice;
+- migrant households can move food, names, household custom and language;
+- children can move games, rhymes, insults and slang unusually quickly;
+- itinerant households can connect places that otherwise have weak direct contact.
+
+Different cultural forms also have different transmission costs.
+
+Words, jokes and game rules can travel with almost no material support.
+
+Food needs ingredients, fuel and technique.
+
+Garments need cloth, labor and local usefulness.
+
+Architecture needs land, materials and builders.
+
+Public ritual may require calendars, institutions, venues and repeated collective participation.
+
+Administrative forms such as legal names, measures or dates can spread through records and law even when ordinary people resist them.
+
+Therefore:
+
+> **The cultural map depends on what is moving and who is carrying it.**
+
+Physical proximity matters, but repeated contact can make distant communities culturally closer than neighboring ones.
+
+See [Culture Phase 7 — Cross-Regional Cultural Transmission](../Reference/Culture-Phase-7-Cross-Regional-Transmission.md).
+
 ## Current inspiration pools
 
 ### Stone Hills
