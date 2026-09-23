@@ -21,7 +21,7 @@ A believable regional culture should emerge from:
 
 ## Current inspiration pools
 
-### Ironcrest
+### Western Uplands
 
 Useful reference pools include:
 - Scottish and Welsh mining/industrial communities;
@@ -31,9 +31,9 @@ Useful reference pools include:
 - Japanese and Chinese craft lineages;
 - mining communities in Central Europe and the Balkans.
 
-The aim is not "Celtic miners" or "Yemeni foundries." Ironcrest should feel like a place where generations of upland settlement, ore extraction, specialized crafts, dangerous labor, merchant capital, and repeated political consolidation produced a distinctive culture.
+The aim is not "Celtic miners" or "Yemeni foundries." Western Uplands should feel like a place where generations of upland settlement, ore extraction, specialized crafts, dangerous labor, merchant capital, and repeated political consolidation produced a distinctive culture.
 
-### Northwind
+### North Country
 
 Useful reference pools include:
 - North Atlantic fishing societies;
@@ -41,9 +41,9 @@ Useful reference pools include:
 - Ainu, Japanese, Korean, Aleut, Inuit, and other northern/coastal adaptations;
 - maritime communities where seasonal migration, communal risk, preservation, and boat ownership shape social structure.
 
-Avoid turning Northwind into generic Vikings.
+Avoid turning North Country into generic Vikings.
 
-### Greenvale
+### River Country
 
 Useful reference pools include:
 - Andean communal agriculture and terrace/cooperative traditions;
@@ -53,9 +53,9 @@ Useful reference pools include:
 - Indigenous North and South American seed stewardship;
 - African and Asian compound/courtyard models where relevant.
 
-Greenvale should feel like a heavily inhabited agricultural country, not a pastoral postcard.
+River Country should feel like a heavily inhabited agricultural country, not a pastoral postcard.
 
-### Highridge Plateau
+### High Country
 
 Useful reference pools include:
 - Tibetan and Himalayan plateau communities;
@@ -65,9 +65,9 @@ Useful reference pools include:
 - Caucasus mountain trade;
 - upland market cultures in South and East Asia.
 
-Highridge's defining history is its role as intermediary, which means cultural borrowing should be especially visible.
+High Country's defining history is its role as intermediary, which means cultural borrowing should be especially visible.
 
-### Deepwood
+### Forest Country
 
 Useful reference pools include:
 - Amazonian and other tropical/forest societies;
@@ -79,7 +79,7 @@ Useful reference pools include:
 
 Avoid the "mystical forest people" monoculture.
 
-### Sunplains
+### South Country
 
 Useful reference pools include:
 - Maghrebi, Levantine, Anatolian, Persian, Iberian, Greek, and southern Italian dry-climate urban/agricultural traditions;
