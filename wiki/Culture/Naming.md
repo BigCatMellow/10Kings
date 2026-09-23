@@ -194,8 +194,8 @@ The current common-language cultural-geographic names are:
 - **the High Roads** — current; supersedes **High Country**; legacy source name **Highridge / Highridge Plateau**.
 - **Longwood** — current; supersedes **Forest Country**; legacy source name **Deepwood**.
 - **the Old Cities** — current; supersedes **South Country**; legacy source name **Sunplains**.
-- **The Spine** — retained. Its plain anatomical metaphor is grounded, memorable, and already fits the setting.
-- **the Underpass** — retained from the first grounded pass; legacy **The Underpass**.
+- **The Spine** — retained from the original setting. Its plain anatomical metaphor is grounded, memorable, and already fits the naming rules.
+- **The Underpass** — retained from the original setting. It is a plain functional name that became distinctive through use and already fits the naming rules.
 - **Port** — retained because the plain international shorthand remains plausible.
 
 These are **historical cultural-core names**, not ethnic border labels and not biome names.
