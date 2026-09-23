@@ -99,6 +99,7 @@
 - [Culture Phase 5 — Arts and Leisure Vertical Slices](Reference/Culture-Phase-5-Arts-Leisure-Vertical-Slices.md)
 - [Culture Phase 6 — Festivals and Life-Cycle Ritual Vertical Slices](Reference/Culture-Phase-6-Festivals-Life-Cycle-Vertical-Slices.md)
 - [Culture Phase 7 — Cross-Regional Cultural Transmission](Reference/Culture-Phase-7-Cross-Regional-Transmission.md)
+- [Culture Phase 8 — Breath Scene Seeds](Reference/Culture-Phase-8-Breath-Scene-Seeds.md)
 - [World Synthesis — E/I](Reference/World-Synthesis-EI.md)
 - [Competitive Kingdom Dynamics](Reference/Competitive-Kingdom-Dynamics.md)
 - [Convergence to Competitive Spheres](Reference/Convergence-to-Competitive-Spheres.md)
