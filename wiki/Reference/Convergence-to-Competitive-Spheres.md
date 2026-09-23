@@ -12,6 +12,7 @@ It does not promote the legacy polity names below into current canon. They are e
 
 See:
 
+- [Competitive Sphere Alignment Matrix](Competitive-Sphere-Alignment-Matrix.md)
 - [The Convergence](../History/The-Convergence.md)
 - [Pre-Convergence History](../History/Pre-Convergence.md)
 - [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md)
