@@ -47,7 +47,7 @@ The most important causal idea is that **the Convergence may have created its ow
 
 Peace, standardization and wider guild access protected the established order while simultaneously allowing secondary commercial and industrial actors to become powerful enough to contest it.
 
-See [Convergence to Competitive Spheres](Convergence-to-Competitive-Spheres.md) for the evidence, candidate actors, uncertainty and next test.
+See [Convergence to Competitive Spheres](Convergence-to-Competitive-Spheres.md) for the historical mechanism and [Competitive Sphere Alignment Matrix](Competitive-Sphere-Alignment-Matrix.md) for the actor-by-actor reconstruction.
 
 ## Source mechanics worth translating
 
