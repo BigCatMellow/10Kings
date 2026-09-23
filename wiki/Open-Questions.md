@@ -114,6 +114,20 @@ The sections below retain the more detailed unresolved questions.
 - Which older languages survive in place names.
 - How mutually intelligible the regions are.
 
+## Underdeveloped systems exposed by legacy audit
+
+The [Legacy Source Audit and Retrieval Index](Reference/Legacy-Source-Audit.md) identified several topics that appear repeatedly in older material but do not yet have a sufficiently deep current owner.
+
+These are **gaps to investigate**, not old lore to restore automatically:
+
+- **education and knowledge transmission** — household teaching, apprenticeship, schools, religious teaching, guild training, literacy and access;
+- **medicine and healing institutions** — household care, healers, guilds, faith charities, specialist knowledge, payment and access;
+- **law and justice** — local courts, customary law, mediation, fines/restitution, jurisdiction conflicts and who can appeal;
+- **folk belief / taboo / superstition** — beliefs that coexist with formal religion, occupational luck, household protections, omens and socially enforced taboos;
+- **timekeeping** — legal/trade dating, daily time signals, local seasonal reckoning and how post-Convergence standardization interacts with older calendars.
+
+Do not create symmetric regional systems for these. Build from institutions, local history and material need.
+
 ## Calendars and public ritual
 
 - What calendar or calendars are used for law, trade, religion and ordinary dating?
