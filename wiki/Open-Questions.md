@@ -77,9 +77,9 @@ Remaining questions:
 - Major pilgrimage, migration, labor, refugee, and seasonal travel patterns.
 - Exact circuit patterns, legal attachment, access arrangements, taxation, and cross-jurisdiction status of mobile peoples. Their structural role as recurring circuit-based communities is now established in [Nomads and Itinerant Peoples](Culture/Nomads.md).
 - Exact travel times and seasonal reliability between major hubs.
-- Whether dedicated courier guilds or public postal systems exist, and where.
+- Exact courier institutions by polity and corridor. [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md) now establishes layered dispatch, scheduled carriage, institutional relays, paid private couriers, and informal hand-carrying without a universal postal service.
 - Exact literacy rates, education systems, scripts, seal/signature practices, notarial roles, document forms, and public-record access. The structural model is now owned by [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md).
-- Exact message-house / courier institutions remain open.
+- Exact message houses, relay stations, rates, delivery guarantees, address conventions, messenger privileges, privacy rules, censorship law, and cross-border forwarding arrangements remain open.
 - Exact schedules / cadence for ships, caravans, pilgrimages, and itinerant circuits.
 - Which governments maintain their own messenger networks and how effective they are.
 - Whether rare magical communication exists at all.
