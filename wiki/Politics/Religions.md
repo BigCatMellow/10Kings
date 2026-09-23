@@ -4,6 +4,8 @@ The world currently contains nine major trans-regional traditions. They do not m
 
 Each faith should have local schools, reform movements, institutions, charities, political interests, and internal disputes.
 
+See [Education, Training, and Knowledge Transmission](../Education-Training-and-Knowledge.md). Religious schools are one educational layer among household learning, apprenticeship, private teaching, and civic/professional training; no faith owns education as a whole.
+
 ## 1. The Cyclic Order
 
 Core: existence moves through cycles of birth, death, renewal, time, balance, and moral consequence.
