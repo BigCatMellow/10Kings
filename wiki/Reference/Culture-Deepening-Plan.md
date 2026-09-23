@@ -991,6 +991,25 @@ If it produces recognizable regions containing multiple classes, towns, generati
 
 ---
 
+## Execution status — Phase 1
+
+**Started 2026-09-23.**
+
+Completed structural work:
+
+- [Language History and Naming Audit](Language-History-and-Naming-Audit.md);
+- historical multilingual model promoted into [Language and Thought](../Culture/Language-and-Thought.md);
+- historical naming layers and macro-label convention promoted into [Naming](../Culture/Naming.md);
+- [Naming History Vertical Slices](Naming-History-Vertical-Slices.md) tested three different mechanisms using Thunderstair, Blackbellow and Zalhar;
+- [Personal Naming Framework](Personal-Naming-Framework.md) now governs later character-name work;
+- E/I Candidate 20 captures the possibility that Convergence standardization created durable official spellings and translated labels without erasing local names.
+
+Current Phase 1 result:
+
+**The system is ready to begin resolving important names selectively, but not ready for full conlangs or bulk renaming.**
+
+The next language/naming work should be driven by actual vertical slices and communities needed for the broader culture pass.
+
 # 9. Success test
 
 The culture pass is succeeding when two people can both be from the same region and still differ meaningfully because of:
