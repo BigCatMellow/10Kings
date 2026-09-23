@@ -73,7 +73,7 @@ Do not treat it as canon, but do not design the topic from scratch without revie
 | **05 — Food / Cuisine** | **RECONCILED** | Food, Food Diaspora and Adaptation, Phase 3 | cooking techniques, preservation, labor food, historical adaptation prompts, equipment questions | themed dish names, direct modern cuisine copies, recipe-card canon, forge/frost/forest flavor personalities |
 | **06 — Religion / Gods / Artifacts** | **RECONCILED STRUCTURALLY / NAMED DETAIL PRESERVED PROVISIONAL** | Religions, Religion Legacy Reconciliation, Religious Artifacts Framework, Festivals, Daily Life | future local testing can promote selected sects, texts, saints, personifications, relics and practices | literal 168-god cosmology, copied ritual blocks, universal temple aesthetics, and supernatural claims remain unpromoted |
 | **07 — Linguistics** | **PARTIALLY RECONCILED** | Language and Thought, Naming, language-history references | trade/legal registers; multilingual institutional language; loanword paths; literacy / orthography prompts; class/guild registers; examples that can test current framework | deterministic “regional personality through grammar,” accent caricature, phonetic stereotype dialogue |
-| **08 — Council / Guilds / Underworld** | **UNRECONCILED / HIGH** | Economic Council, Guilds, Crime and Underworld, Social Fabric | Council stress tests; internal faction models; guild class/economic functions; welfare/credit/training mechanisms; relations among guilds, kingdoms and Council; scale of criminal networks; named gang concepts as provisional seed bank | old six-Dominus one-to-one scheme when it conflicts with current Council domains; claims that Council literally controls everything; gangs assigned mechanically by region |
+| **08 — Council / Guilds / Underworld** | **RECONCILED STRUCTURALLY / NAMED DETAIL PRESERVED PROVISIONAL** | Economic Council, Guilds, Crime and Underworld, Council/Guild/Underworld reconciliation references | future passes can promote selected families, guild names, criminal factions, Council succession rules and member economics | omnipotent Council model, RPG-class guilds, region-coded gangs, overpowered magic/technology and exact old Dominus structure remain unpromoted |
 | **09 — Military / Weapons** | **UNRECONCILED / MEDIUM-HIGH** | Weapons and Elite Troops | logistics; militia vs professional force; locally available weapons; border adaptation; mobile peoples' defensive needs; elite-force institutional questions | mechanized/repeating weapons beyond tech limits; “poor people use scrap fantasy weapons” gimmicks; one signature weapon per region; theme-named elite units |
 | **10 — Current Events** | **PARTIALLY RECONCILED** | Current Events, World System, Villain's Dominoes | alternate pressure chains, guild/religious reactions, Underpass consequences, possible second/third-order effects | any event that contradicts current opening-state owner; old conspiracies treated as already happening |
 | **11 — Story Core / Characters / Villain** | **PARTIALLY RECONCILED** | Wurdren, Villain, Character Roster, Competitive Kingdom Dynamics | discarded character approaches as comparison material; villain-plan alternatives; WWF/WCW/ECW structural research; panel critique / failure modes | obsolete plot outline treated as final; old regional faction mapping; characters retained from inertia |
@@ -137,35 +137,22 @@ The pass retained institutional depth, named theological vocabulary, philosophic
 
 Future religion work should begin with those active references rather than rereading the raw volume unless exact provenance is needed.
 
-## 2. Guilds as class / welfare / economic institutions
+## 2. Council / guild / underworld material — reconciled 2026-09-23
 
-Current [Guilds](../Politics/Guilds.md) is structurally sound but thin.
+Volume 08 has now received a deliberate modern pass.
 
-Volume 08 contains explicit passes on:
+Active preservation lives in:
 
-- guild class;
-- economics;
-- Council relationships;
-- religion;
-- organization.
+- [Economic Council](../Politics/Economic-Council.md);
+- [Council Legacy Reconciliation](Council-Legacy-Reconciliation.md);
+- [Guilds](../Politics/Guilds.md);
+- [Guild Legacy Reconciliation](Guild-Legacy-Reconciliation.md);
+- [Crime and the Underworld](../Politics/Crime-and-Underworld.md);
+- [Underworld Legacy Reconciliation](Underworld-Legacy-Reconciliation.md).
 
-**Action:** review Volume 08 in the next substantial guild pass.
+The pass retained Council failure modes and indirect-control mechanics, guild institutional depth, and named criminal seed material while rejecting omnipotent control, RPG-class guild symmetry and region-coded gang design.
 
-The likely valuable material is mechanism, not old guild names.
-
-## 3. Council stress tests
-
-Volume 08 contains several successive versions of Council structure plus an explicit stress-test pass.
-
-The current [Economic Council](../Politics/Economic-Council.md) is better aligned with World Rules, but the old stress-test material can still reveal:
-
-- failure modes;
-- internal conflict;
-- overreach;
-- how indirect control breaks;
-- what institutions resist.
-
-**Action:** use Volume 08 as adversarial research when testing Council plans.
+Future work should begin with those active references rather than rereading the full raw volume unless exact provenance is needed.
 
 ## 4. Grounded domino design
 
@@ -243,15 +230,15 @@ If repository size or search noise becomes a problem, the duplicate package file
 
 ## P0 — review before relevant new work
 
-1. **Volume 08 — Council / guild / underworld mechanisms**
-2. **Volume 02 — minor polities, local institutions, education and law**
-3. **Volume 09 — military / logistics**
+1. **Volume 02 — minor polities, local institutions, education and law**
+2. **Volume 09 — military / logistics**
+3. **Volume 07 — language examples / registers**
 
 ## P1 — deliberate future passes
 
-4. **Volume 07 — language examples / registers**
-5. **Volume 10 — current-event alternatives / secondary effects**
-6. **Volume 11 — character / villain alternatives and critique**
+4. **Volume 10 — current-event alternatives / secondary effects**
+5. **Volume 11 — character / villain alternatives and critique**
+6. **Volume 01 — remaining foundations / history conflicts as needed**
 
 ## P2 — gap creation, not lore promotion
 
