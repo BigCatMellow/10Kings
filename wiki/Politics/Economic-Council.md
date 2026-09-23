@@ -265,24 +265,31 @@ The person occupying a Council seat represents a much larger network.
 
 This matters because killing, exposing, or replacing one Council member does not automatically destroy the system behind the seat.
 
-## Internal constitution
+## Internal structure
 
 See [Economic Council — Internal Structure](Economic-Council-Internal-Structure.md).
 
-The current institutional model establishes that:
+The current world and preserved Council material support only a limited set of internal facts:
 
-- seats belong to durable member networks rather than permanently to individuals;
-- member houses choose successors, while the Council recognizes the person who will occupy the seat;
-- succession methods can differ between houses;
-- there is no permanent supreme chair;
-- a small shared secretariat and restricted archive preserve common institutional memory;
-- the Council has limited common emergency funds, but large actions still require members to commit their own resources;
-- decisions operate through **assent and commitment**, not simple majority command;
-- member houses remain independently powerful outside Council decisions;
-- functional vetoes come from control of necessary capabilities rather than automatic formal veto rights;
-- internal enforcement relies on information, finance, contracts, recognition, and trust rather than police power.
+- Council membership has generational continuity beyond individual representatives;
+- succession need not work identically for every seat;
+- members are nominal peers even when their practical leverage differs;
+- each member operates through a larger family / commercial / guild / agent network;
+- members retain their own domain organizations rather than functioning as departments of one central bureaucracy;
+- they meet privately, exchange information, negotiate conflicts, and reach compromises;
+- member aides, secretaries, accountants, spies, and other operatives exist;
+- Council and house records preserve some institutional memory;
+- members have strong incentives to keep internal disagreement from exposing or destroying the institution.
 
-The detailed mechanics and remaining constitutional questions live on the internal-structure page.
+A few additional constraints follow from the existing world:
+
+- coordinated action requires the relevant member networks to actually cooperate;
+- a member whose network is essential to a plan naturally has bargaining leverage;
+- secrecy makes a large centralized hidden bureaucracy harder to justify.
+
+Details such as a shared secretariat, common treasury, formal voting rules, vetoes, regencies, sanction ladders, expulsion procedures, or one centralized Council archive are **not current canon**. They remain open design options until the world gives us a reason to need them.
+
+The internal-structure page tracks these distinctions explicitly.
 
 ---
 
