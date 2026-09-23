@@ -100,12 +100,12 @@ The lesson is **not** to copy the sound of these languages indiscriminately. It 
 
 Exact naming languages remain open, but a useful model is:
 
-- **Western Uplands:** older upland/river names beneath later mining, fort, family, and guild names.
-- **North Country:** coastal geography, bays, islands, currents, lineages, seasonal sites.
-- **River Country:** rivers, soils, old settlements, family lands, markets, former estates.
-- **High Country:** route names, passes, wells, caravan families, old toll sites, translated names from multiple languages.
-- **Forest Country:** waterways, groves, species, older peoples, landmarks that may not be obvious to outsiders.
-- **South Country:** old city-state names, founders, waterworks, forts, ports, estates, and ordinary neighborhood or family names.
+- **Stone Hills:** older upland/river names beneath later mining, fort, family, and guild names.
+- **North Coast:** coastal geography, bays, islands, currents, lineages, seasonal sites.
+- **Low Rivers:** rivers, soils, old settlements, family lands, markets, former estates.
+- **High Roads:** route names, passes, wells, caravan families, old toll sites, translated names from multiple languages.
+- **Longwood:** waterways, groves, species, older peoples, landmarks that may not be obvious to outsiders.
+- **Old Cities:** old city-state names, founders, waterworks, forts, ports, estates, and ordinary neighborhood or family names.
 - **Port:** layers upon layers — indigenous/old geographic name, official charter name, district nicknames, immigrant neighborhood names, merchant terminology.
 
 ## Border names
@@ -178,9 +178,9 @@ A regional name can refer to both:
 
 That does **not** mean every bearer of that culture lives inside the core or everyone inside the core belongs to that culture.
 
-A phrase such as “a North Country family” can describe cultural background even when the family has lived in Port for generations.
+A phrase such as “a North Coast family” can describe cultural background even when the family has lived in Port for generations.
 
-Likewise, a place inside the geographic North Country can contain communities whose strongest cultural identity comes from River Country, High Country, Port, a faith, a guild, or a local mixed tradition.
+Likewise, a place inside the geographic North Coast can contain communities whose strongest cultural identity comes from Low Rivers, High Roads, Port, a faith, a guild, or a local mixed tradition.
 
 The naming system should therefore avoid implying that a map label is an ethnic ownership claim.
 
@@ -188,12 +188,12 @@ The naming system should therefore avoid implying that a map label is an ethnic 
 
 The current macro labels are being realigned toward deliberately ordinary common-language forms:
 
-- **Western Uplands** — formerly Ironcrest;
-- **North Country** — formerly Northwind;
-- **River Country** — formerly Greenvale;
-- **High Country** — formerly Highridge / Highridge Plateau;
-- **Forest Country** — formerly Deepwood;
-- **South Country** — formerly Sunplains;
+- **Stone Hills** — formerly Western Uplands / Ironcrest;
+- **North Coast** — formerly North Country / Northwind;
+- **the Low Rivers** — formerly River Country / Greenvale;
+- **the High Roads** — formerly High Country / Highridge;
+- **Longwood** — formerly Forest Country / Deepwood;
+- **the Old Cities** — formerly South Country / Sunplains;
 - **Central Range** — formerly The Spine;
 - **The Tunnels** — formerly The Underpass;
 - **Port** — retained for now because the plain shorthand itself is plausible.
