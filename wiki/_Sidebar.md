@@ -11,6 +11,8 @@
 - [Movement and Information](Movement-and-Information.md)
 - [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md)
 - [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md)
+- [Education and Knowledge Transmission](Education-and-Knowledge-Transmission.md)
+- [Medicine and Healing](Medicine-and-Healing.md)
 - [Social Fabric](Social-Fabric.md)
 - [Open Questions](Open-Questions.md)
 
@@ -47,6 +49,7 @@
 - [Language Families and Contact](Language-Families-and-Contact.md)
 - [Naming](Culture/Naming.md)
 - [Daily Life and Customs](Culture/Daily-Life-and-Customs.md)
+- [Folk Belief, Taboo, and Superstition](Culture/Folk-Belief-Taboo-and-Superstition.md)
 - [Clothing and Material Culture](Culture/Clothing-and-Material-Culture.md)
 - [Architecture](Culture/Architecture.md)
 - [Food](Culture/Food.md)
