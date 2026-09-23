@@ -870,6 +870,21 @@ For each surviving festival:
 
 Some current provisional festivals should disappear rather than be deepened.
 
+### Phase 6 execution — 2026-09-23
+
+Implemented:
+
+- rebuilt [Festivals, Seasonal Life and Public Ritual](../Culture/Festivals-and-Seasonal-Life.md) around calendar, work cycle, historical memory, religion, household obligation, markets, public space, travel and generational change;
+- retired the old one-row-per-region seasonal festival table;
+- explicitly demoted theme-first names such as Forge Reawakening, Canopy Vigil, Festival of Patrons and Three Moon Festival while preserving useful mechanisms behind them;
+- added [Culture Phase 6 — Festivals and Life-Cycle Ritual Vertical Slices](Culture-Phase-6-Festivals-Life-Cycle-Vertical-Slices.md);
+- tested recurring observance through industrial maintenance, harbor reopening, harvest accounting, route departure, shared-resource rights, water allocation and Port civic life;
+- tested life-cycle ritual through apprenticeship recognition, mixed-household marriage, death away from home and migrant naming;
+- treats life-cycle ritual as recognition of actual changes in legal, economic, household, guild or religious responsibility rather than one universal coming-of-age ceremony;
+- separates faith doctrine from local ritual form and allows the same public event to carry civic, religious, household and economic meanings simultaneously.
+
+Phase 6 produced E/I candidates around calendar coordination and rituals surviving changes in belief. Exact dates, named holidays, marriage systems and burial practices remain open.
+
 ## Phase 7 — Cross-regional synthesis
 
 Goal:
