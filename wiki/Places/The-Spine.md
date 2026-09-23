@@ -4,7 +4,7 @@
 
 **Working canon.**
 
-The The Spine is the central mountain system around which much of the known world's geography and transport is organized.
+The Spine is the central mountain system around which much of the known world's geography and transport is organized.
 
 ## Physical role
 
@@ -14,7 +14,7 @@ The range is:
 - geologically active enough for earthquakes and collapses to matter;
 - old and complex enough to contain caves, faults, mineral belts, valleys, and isolated communities.
 
-The The Spine should not be one continuous impassable wall. It contains:
+The Spine should not be one continuous impassable wall. It contains:
 - high peaks;
 - lower saddles;
 - inhabited valleys;
@@ -31,7 +31,7 @@ The range creates political choke points.
 A pass can matter more than a hundred miles of open border.
 
 This explains:
-- High Country's importance;
+- the High Roads' importance;
 - development of the Underpass;
 - ancient toll states;
 - strategic fortresses;
@@ -51,11 +51,11 @@ Recent earthquakes or rock shifts have:
 - damaged routes;
 - revealed old ruins or sealed spaces;
 - created arguments over newly accessible resources;
-- changed Tunnels conditions;
+- changed conditions in the Underpass;
 - attracted explorers, guilds, religious groups, criminals, and Council attention.
 
 ## Story function
 
-The The Spine is where geography becomes politics.
+The Spine is where geography becomes politics.
 
 It should generate hard choices about which route remains open, who pays to maintain it, who controls access, and what happens when nature ignores human borders.
