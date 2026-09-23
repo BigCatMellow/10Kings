@@ -9,6 +9,7 @@
 - [Geography](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
 - [Movement and Information](Movement-and-Information.md)
+- [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md)
 - [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md)
 - [Social Fabric](Social-Fabric.md)
 - [Open Questions](Open-Questions.md)
