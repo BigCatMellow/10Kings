@@ -20,11 +20,11 @@ The goal is to see where the framework breaks.
 
 ---
 
-# Test 1 — Ironcrest mixed workshop household
+# Test 1 — Western Uplands mixed workshop household
 
 ## Established anchors
 
-Current Ironcrest supports:
+Current Western Uplands supports:
 
 - mixed mining / craft / farming economies;
 - workshops attached to homes;
@@ -33,7 +33,7 @@ Current Ironcrest supports:
 - labor conflict;
 - dangerous work;
 - practical literacy;
-- imported Greenvale staples;
+- imported River Country staples;
 - guild power;
 - worker / owner tension.
 
@@ -54,7 +54,7 @@ It also:
 - keeps a garden;
 - rents a small goat enclosure;
 - repairs farm tools for nearby villages;
-- buys grain through a merchant tied to Greenvale routes.
+- buys grain through a merchant tied to River Country routes.
 
 ## Daily rhythm
 
@@ -78,7 +78,7 @@ Evening:
 
 ## Clothing test
 
-Work clothing is more important than “Ironcrest fashion.”
+Work clothing is more important than “Western Uplands fashion.”
 
 Likely:
 - heavy apron;
@@ -117,15 +117,15 @@ It threatens:
 
 **Result: PASS.**
 
-The Ironcrest world becomes richer when work, household and guild are inseparable but not identical.
+The Western Uplands world becomes richer when work, household and guild are inseparable but not identical.
 
 ---
 
-# Test 2 — Northwind secondary harbor household
+# Test 2 — North Country secondary harbor household
 
 ## Established anchors
 
-Current Northwind supports:
+Current North Country supports:
 
 - coastal towns;
 - fishing / shipping;
@@ -204,15 +204,15 @@ Fish-stock decline affects:
 
 **Result: PASS.**
 
-Northwind's strongest cultural depth comes from managing absence, risk and access—not “stoicism.”
+North Country's strongest cultural depth comes from managing absence, risk and access—not “stoicism.”
 
 ---
 
-# Test 3 — Greenvale river-market household
+# Test 3 — River Country river-market household
 
 ## Established anchors
 
-Current Greenvale supports:
+Current River Country supports:
 
 - market towns;
 - river trade;
@@ -285,15 +285,15 @@ A practice once designed for scarcity—communal storage, grain pooling, inherit
 
 **Result: STRONG PASS.**
 
-Greenvale becomes most distinctive through **seasonality, storage and property relationships**, not generic pastoral warmth.
+River Country becomes most distinctive through **seasonality, storage and property relationships**, not generic pastoral warmth.
 
 ---
 
-# Test 4 — Highridge caravan-yard neighborhood
+# Test 4 — High Country caravan-yard neighborhood
 
 ## Established anchors
 
-Current Highridge supports:
+Current High Country supports:
 
 - multilingual towns;
 - caravan yards;
@@ -379,15 +379,15 @@ A stranger who once needed only money may now need:
 
 **Result: STRONG PASS.**
 
-Highridge culture is most visible through **guesthood, translation and temporary belonging**.
+High Country culture is most visible through **guesthood, translation and temporary belonging**.
 
 ---
 
-# Test 5 — Deepwood river-town household
+# Test 5 — Forest Country river-town household
 
 ## Established anchors
 
-Current Deepwood supports:
+Current Forest Country supports:
 
 - river settlements;
 - forest products;
@@ -461,15 +461,15 @@ A seemingly minor question—“who said you could cut here?”—can involve:
 
 **Result: PASS.**
 
-Deepwood becomes much stronger when culture is about **rights, use and local ecological knowledge**, not mystical presentation.
+Forest Country becomes much stronger when culture is about **rights, use and local ecological knowledge**, not mystical presentation.
 
 ---
 
-# Test 6 — Sunplains irrigation-city neighborhood
+# Test 6 — South Country irrigation-city neighborhood
 
 ## Established anchors
 
-Current Sunplains supports:
+Current South Country supports:
 
 - multiple city-states;
 - irrigation;
@@ -546,7 +546,7 @@ Drought rumors can change etiquette before actual scarcity:
 
 **Result: STRONG PASS.**
 
-Sunplains is culturally strongest when **water law, dense civic life and city rivalry** produce behavior—not “elegance.”
+South Country is culturally strongest when **water law, dense civic life and city rivalry** produce behavior—not “elegance.”
 
 ---
 
@@ -746,7 +746,7 @@ Before Phase 3 food deepening, Phase 2 should still answer several specific ques
 3. How common are guild welfare / burial / injury benefits?
 4. What legal forms of household and marriage exist in major polities?
 5. How does apprenticeship affect residence and childhood?
-6. What does secondhand clothing trade look like in Port and Highridge?
+6. What does secondhand clothing trade look like in Port and High Country?
 7. Which customs differ more by **class or profession** than by region?
 
 These should be resolved only as far as needed for food and ordinary-life worldbuilding.
