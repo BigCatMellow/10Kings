@@ -759,6 +759,32 @@ Output:
 
 The WWF/WCW/ECW material is already actively reconciled through [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md).
 
+## Foundations / myth / history legacy reconciliation — 2026-09-23
+
+Volume 01 received a deliberate pass.
+
+Output:
+
+- [Foundations Legacy Reconciliation](Foundations-Legacy-Reconciliation.md).
+
+**Retained as compatible hypotheses / mechanisms**
+- ancient joined-land / supercontinent possibility;
+- tectonic uplift / rifting as a mundane explanation for the continental topology and The Spine;
+- faults, caves, water erosion and human excavation as a plausible mixed origin for The Underpass;
+- seismic instability;
+- climate derived from latitude, currents, elevation, mountain barriers and watersheds;
+- Port-at-strait / harbor as the strongest placement candidate;
+- pre-Convergence wars over resources, shifting borders, local compacts and failed larger states;
+- "the Mother" as mythology quarry distinct from geological fact.
+
+**Superseded / held**
+- literal Three Sons cosmology versus the current Two Sons / twin-sun model;
+- fixed old capital map;
+- exact old negative-year chronology;
+- one cultural region = one kingdom;
+- old Deepwell / Underpass unified-state assumptions;
+- unsupported industrial / magical infrastructure.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
