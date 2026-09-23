@@ -81,6 +81,7 @@ The setting should make it possible to follow one damaged bridge, missing carava
 
 ## Writing and provenance
 
+- [Worldbuilding Agent Contract](../WORLDBUILDING_AGENT.md) — operating instructions for agents doing setting design, redesign, synthesis, or detail work
 - [Middle Worldbuilding](Reference/Middle-Worldbuilding.md) — derives functional systems and daily consequences
 - [Writing the Sequel](Reference/Writing-the-Sequel.md) — derives accumulated aftermath, normalization, and historical residue
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md) — scene-level writing guidance, not canon
