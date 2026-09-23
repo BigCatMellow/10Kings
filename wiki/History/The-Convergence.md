@@ -20,7 +20,7 @@ The Convergence followed a period in which:
 
 ## Negotiation
 
-Highridge is the strongest candidate for the principal congress because of:
+High Country is the strongest candidate for the principal congress because of:
 - geographic accessibility;
 - trade culture;
 - existing arbitration traditions;
@@ -51,7 +51,7 @@ Certain categories of goods gained protected movement.
 
 ### Route rules
 
-Passes, major roads, and perhaps sections of The Underpass received agreed access rules.
+Passes, major roads, and perhaps sections of The Tunnels received agreed access rules.
 
 ### Maritime rules
 
@@ -105,4 +105,4 @@ Once borders and internal peace became more stable:
 - elites cultivated shared histories;
 - old mixed frontier identities were sometimes suppressed.
 
-Thus some traditions now presented as ancient "Ironcrest" or "Greenvale" culture may actually be post-Convergence standardizations of more diverse older practices.
+Thus some traditions now presented as ancient "Western Uplands" or "River Country" culture may actually be post-Convergence standardizations of more diverse older practices.
