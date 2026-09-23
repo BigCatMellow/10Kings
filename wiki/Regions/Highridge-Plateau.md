@@ -133,6 +133,12 @@ High Roads' route convergence creates practical demand for:
 
 That role grows from caravan traffic and cross-border contracting. It does not make High Roads one unified banking polity or financial monopoly.
 
+## Education and scholarship
+
+See [Education, Training, and Knowledge Transmission](../Education-Training-and-Knowledge.md).
+
+High Roads' multilingual route, arbitration, record, and debate culture supports scholar families, teachers, clerks, interpreters, and study circles. This should remain a network of learning institutions rather than turning the whole region into one academy.
+
 ## Messages and relays
 
 See [Couriers, Posts, and Message Networks](../Couriers-Posts-and-Message-Networks.md).

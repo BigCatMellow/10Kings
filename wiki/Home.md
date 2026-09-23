@@ -26,6 +26,7 @@ The setting should make it possible to follow one damaged bridge, missing carava
 - [Movement and Information](Movement-and-Information.md)
 - [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md)
 - [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md)
+- [Education, Training, and Knowledge Transmission](Education-Training-and-Knowledge.md)
 - [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md)
 - [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md)
 - [Pre-Convergence History](History/Pre-Convergence.md)

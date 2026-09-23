@@ -14,6 +14,7 @@ It should be read alongside:
 - [Food](Food.md)
 - [Architecture](Architecture.md)
 - [Festivals, Seasonal Life and Public Ritual](Festivals-and-Seasonal-Life.md)
+- [Education, Training, and Knowledge Transmission](../Education-Training-and-Knowledge.md)
 - [Calendars, Timekeeping, and Seasonal Coordination](../Calendar-and-Timekeeping.md)
 - [Religions](../Politics/Religions.md)
 - [Guilds](../Politics/Guilds.md)
@@ -136,6 +137,8 @@ A workshop, dock, market stall, mill, caravan yard, kitchen, field, shrine or gu
 ---
 
 # 3. Childhood
+
+See [Education, Training, and Knowledge Transmission](../Education-Training-and-Knowledge.md).
 
 Children should exist inside the economy and social world without being written as miniature adults.
 

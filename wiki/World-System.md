@@ -182,7 +182,9 @@ See [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md). The po
 
 [Social Fabric](Social-Fabric.md) owns the rule that political, regional, religious, professional, class, family and voluntary identities overlap rather than nesting cleanly.
 
-That overlap is another part of the circulation system. A guild branch, faith network, marriage, pilgrimage, social movement, or old friendship can connect populations that their governments describe as rivals.
+That overlap is another part of the circulation system.
+
+[Education, Training, and Knowledge Transmission](Education-Training-and-Knowledge.md) explains how those institutions reproduce knowledge: households and workplaces teach ordinary skills, guilds train professions, faiths and scholars maintain schools/archives, and cross-border centers train clerks, interpreters, and other intermediaries. Education is therefore another route by which institutions accumulate power and culture persists across generations. A guild branch, faith network, marriage, pilgrimage, social movement, or old friendship can connect populations that their governments describe as rivals.
 
 [Audience Movements](Culture/Audience-Movements.md) is a provisional example of how a community can become a durable trans-regional institution through accumulated participation rather than territory.
 

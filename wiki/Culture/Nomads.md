@@ -577,7 +577,25 @@ Do not make "the family" one harmonious bloc.
 
 ---
 
-# 17. Households do not all need to travel together
+# 17. Education can travel with the household
+
+See [Education, Training, and Knowledge Transmission](../Education-Training-and-Knowledge.md).
+
+Children in mobile households may learn through:
+
+- kin;
+- work;
+- songs and oral history;
+- route knowledge;
+- older children;
+- seasonal teachers;
+- winter-quarter schooling;
+- religious houses;
+- settled relatives.
+
+Mobility does not imply absence of education. The unresolved question is **which learning arrangements particular circuits actually use**.
+
+# 18. Households do not all need to travel together
 
 Mobility can vary inside one family.
 
@@ -595,7 +613,7 @@ Exact household organization remains open.
 
 ---
 
-# 18. Settling does not automatically end cultural membership
+# 19. Settling does not automatically end cultural membership
 
 Some members may become:
 
@@ -620,7 +638,7 @@ This prevents the culture from becoming biologically or territorially sealed.
 
 ---
 
-# 19. Mobile peoples should have internal class differences
+# 20. Mobile peoples should have internal class differences
 
 Do not romanticize mobility as egalitarian.
 
@@ -644,7 +662,7 @@ They need not share political interests.
 
 ---
 
-# 20. Route closure hits mobile people differently
+# 21. Route closure hits mobile people differently
 
 A road closure is not only a transport problem.
 
@@ -664,7 +682,7 @@ This makes route politics personal.
 
 ---
 
-# 21. The Convergence likely changed mobility without inventing it
+# 22. The Convergence likely changed mobility without inventing it
 
 Mobile ways of life should predate the Convergence.
 
@@ -685,7 +703,7 @@ This is a strong future historical question, not current fact.
 
 ---
 
-# 22. Border regularization can create losers
+# 23. Border regularization can create losers
 
 A route used for generations may cross land that later becomes:
 
@@ -702,7 +720,7 @@ That fits the broader post-Convergence world.
 
 ---
 
-# 23. Mobile households and guilds
+# 24. Mobile households and guilds
 
 Some itinerant crafts may overlap with guild systems.
 
@@ -722,7 +740,7 @@ Exact relationships should be local.
 
 ---
 
-# 24. Mobile households and religions
+# 25. Mobile households and religions
 
 Religious networks can provide:
 
@@ -741,7 +759,7 @@ A single extended family may contain several traditions.
 
 ---
 
-# 25. Mobile households and Port
+# 26. Mobile households and Port
 
 Port can be:
 
@@ -758,7 +776,7 @@ Port's value is network convergence, not universal necessity.
 
 ---
 
-# 26. Mobile households and High Roads
+# 27. Mobile households and High Roads
 
 High Roads is especially compatible with mobile livelihoods because it concentrates:
 
@@ -775,7 +793,7 @@ Their circuits may cross several cultural cores.
 
 ---
 
-# 27. Mobile households and the Underpass
+# 28. Mobile households and the Underpass
 
 Some households may know or use Underpass routes.
 
@@ -797,7 +815,7 @@ Do not turn mobile peoples into people who secretly know every tunnel.
 
 ---
 
-# 28. Outsider suspicion has material causes
+# 29. Outsider suspicion has material causes
 
 Settled people may distrust travelers because:
 
@@ -822,7 +840,7 @@ They arise from institutions and incentives.
 
 ---
 
-# 29. Crime is not a cultural function
+# 30. Crime is not a cultural function
 
 Mobility can make smuggling possible.
 
@@ -842,7 +860,7 @@ Avoid using a whole mobile culture as shorthand for the black market.
 
 ---
 
-# 30. Government attitudes should vary
+# 31. Government attitudes should vary
 
 Different polities may see the same mobile group as:
 
@@ -866,7 +884,7 @@ There is no reason for one continent-wide policy.
 
 ---
 
-# 31. Legal status should be built from ordinary questions
+# 32. Legal status should be built from ordinary questions
 
 Before inventing special nomad law, ask:
 
@@ -885,7 +903,7 @@ Many of these answers should differ from polity to polity.
 
 ---
 
-# 32. A circuit-design test
+# 33. A circuit-design test
 
 For any proposed mobile community, trace one full year.
 
@@ -908,7 +926,7 @@ If a stop exists only because "nomads travel there," the circuit is underbuilt.
 
 ---
 
-# 33. A legal stress test
+# 34. A legal stress test
 
 Take the same household through three different jurisdictions.
 
@@ -926,7 +944,7 @@ If every answer is identical, the political world is probably too uniform.
 
 ---
 
-# 34. What is structurally established
+# 35. What is structurally established
 
 The current world supports:
 
@@ -941,7 +959,7 @@ The current world supports:
 
 ---
 
-# 35. Derived constraints
+# 36. Derived constraints
 
 Any durable circuit requires:
 
@@ -962,7 +980,7 @@ Long-lived mobility should also create:
 
 ---
 
-# 36. Still open
+# 37. Still open
 
 - whether the Appalachian-influenced concept is one people, several related peoples, or a broad social network;
 - self-name and outsider names;
@@ -975,7 +993,7 @@ Long-lived mobility should also create:
 - taxation;
 - grazing and stopping agreements;
 - guild status;
-- education;
+- exact education / training arrangements by circuit;
 - marriage / inheritance across jurisdictions;
 - burial practices;
 - exact political organization;
@@ -985,7 +1003,7 @@ These should be solved through specific circuits and household histories rather 
 
 ---
 
-# 37. Design rule
+# 38. Design rule
 
 Use:
 
