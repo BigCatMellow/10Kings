@@ -25,12 +25,12 @@ Use sparingly and vary by class, age, town and speaker.
 
 | Target | Example in-world shorthand | What the speaker is implying |
 | --- | --- | --- |
-| Ironcrest | “Iron hands, iron hearts.” | toughness becoming cruelty |
-| Northwind | “Cold water, cold blood.” | maritime hardness becoming callousness |
-| Greenvale | “Soft as Greenvale butter.” | agricultural comfort becoming weakness |
-| Highridge | “Every road leads to Highridge's pocket.” | intermediaries profit from everyone |
-| Deepwood | “Gone to the trees.” | outsiders treating seclusion as irrationality |
-| Sunplains | “Golden tongue, copper coin.” | polished rhetoric hiding little substance |
+| Western Uplands | “Iron hands, iron hearts.” | toughness becoming cruelty |
+| North Country | “Cold water, cold blood.” | maritime hardness becoming callousness |
+| River Country | “Soft as River Country butter.” | agricultural comfort becoming weakness |
+| High Country | “Every road leads to High Country's pocket.” | intermediaries profit from everyone |
+| Forest Country | “Gone to the trees.” | outsiders treating seclusion as irrationality |
+| South Country | “Golden tongue, copper coin.” | polished rhetoric hiding little substance |
 | Port | “Every ship lands at Port, none stay.” | a city used by outsiders and abandoned |
 
 These sayings can be affectionate, hostile, self-mocking or obsolete depending on context.
@@ -55,10 +55,10 @@ Employers may carry biased shortcuts even when reality contradicts them.
 
 Examples:
 
-- Northwind sailors are assumed to be safer hires for ship work;
-- Ironcrest workers are stereotyped as better metalworkers;
-- Highridge-trained clerks or Port polyglots may be preferred for translation and records;
-- Deepwood-trained healers can command prestige for some specialties;
+- North Country sailors are assumed to be safer hires for ship work;
+- Western Uplands workers are stereotyped as better metalworkers;
+- High Country-trained clerks or Port polyglots may be preferred for translation and records;
+- Forest Country-trained healers can command prestige for some specialties;
 - displaced Port workers may be offered the hardest work because employers assume they have fewer alternatives.
 
 Show counterexamples. A stereotype should create tension, opportunity or injustice—not become a rule of the world.
