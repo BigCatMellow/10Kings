@@ -72,17 +72,24 @@ Remaining questions:
 
 The structural model is now owned by [Movement and Information](Movement-and-Information.md): information rides physical and social networks, transmission is carrier-specific, and no one network is universally fastest.
 
+Three supporting owners now close major structural gaps:
+
+- [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md) — deliberate dispatch, scheduled carriage, handoff, relay and last-mile delivery;
+- [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md) — task-specific literacy, document trust, archives, copies and verification;
+- [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md) — multilingual contact, professional registers and degrees of intelligibility.
+
 Remaining questions:
 
-- Actual language families and degrees of mutual intelligibility.
-- Major pilgrimage, migration, labor, refugee, and seasonal travel patterns.
-- Structure and legal status of nomadic/itinerant peoples.
-- Exact schedules and local travel times inside the new working travel envelope.
-- Whether dedicated courier guilds or public postal systems exist, and where.
-- Literacy rates and the social reach of written records.
-- Standard seals, notarial practices, message houses, and document conventions.
-- Exact schedules / cadence for ships, caravans, pilgrimages, and itinerant circuits.
-- Which governments maintain their own messenger networks and how effective they are.
+- Exact language-family tree, language names, scripts and mutual-intelligibility matrix.
+- Major pilgrimage, migration, labor, refugee and seasonal travel patterns.
+- Exact citizenship, taxation, access and local legal status of mobile households by circuit.
+- Exact schedules and local travel times inside the working travel envelope.
+- Whether any dedicated courier guilds or public postal systems exist, and where.
+- Exact government messenger systems and their privileges.
+- Literacy/numeracy rates by class, occupation and place.
+- Seal, signature, notarial, registry and public-record practices.
+- Message houses, relay stations, rates, address conventions, privacy rules and delivery guarantees.
+- Exact schedules / cadence for ships, caravans, pilgrimages and itinerant circuits.
 - Whether rare magical communication exists at all.
 
 ### 5. Magic baseline
@@ -225,8 +232,39 @@ They now have active structural owners:
 
 The owners establish **structure**, not exhaustive local detail.
 
+A post-social-world reconciliation also added three cross-system owners that the final expansion still depended on but had not yet isolated:
+
+- [Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md);
+- [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md);
+- [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md).
+
 Remaining questions should now be answered through actual institutions, communities and places rather than by creating one symmetric regional system for each category.
 
+
+## Money, credit, records, and message infrastructure
+
+The structural layers are now owned by:
+
+- [Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md);
+- [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md);
+- [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md).
+
+Still open:
+
+- currency names, issuers, denominations, metals/materials and minting;
+- exchange-rate conventions and coin-testing practice;
+- exact banking / clearing / insurance-like institutions;
+- interest, collateral and default rules by jurisdiction;
+- weight / measure names and custody of reference standards;
+- literacy and numeracy distribution;
+- scripts, writing materials and document forms;
+- seal / signature / notarial / registry systems;
+- authoritative-copy and translation rules;
+- public-record access;
+- state messenger systems;
+- private courier houses, message houses and relay stations;
+- rates, addressing, delivery guarantees, privacy and censorship rules;
+- whether the Convergence formally standardizes any conversion, measure or official-dispatch practice.
 
 ## Calendars and public ritual
 
