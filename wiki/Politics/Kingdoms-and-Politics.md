@@ -453,20 +453,27 @@ Pre-Convergence authority was also fragmented among:
 
 ## Structural conclusion
 
-High Roads is unlikely to fit neatly into one centralized territorial monarchy.
+[High Roads Functional Governance Test](../Reference/High-Roads-Functional-Governance-Test.md) now supports a more specific model.
 
-Its legitimacy is strongly connected to:
+High Roads is a **networked political order** in which:
 
-- compacts;
-- route access;
-- negotiation;
-- tolls;
-- arbitration;
-- control of key corridors.
+- local authorities retain ordinary territorial / civic power;
+- route-specific compacts coordinate corridor problems;
+- arbitration forums provide cross-jurisdiction predictability;
+- professional / caravan networks create shared standards;
+- wider delegations form when an issue actually spans several routes.
 
-The exact confederal/federal structure remains open.
+This is more precise than calling the whole region simply a federation or confederation.
 
-Do not invent one parliament or capital just to make the system tidy.
+Do not invent one parliament, capital, or national executive merely to make the system tidy.
+
+Still open:
+
+- exact corridor compacts;
+- whether any recurring assembly has durable formal status;
+- representation / voting;
+- whether one city or polity currently dominates;
+- exact High Roads signatories / delegates in the Convergence.
 
 ---
 
