@@ -1,16 +1,16 @@
-# Sunplains
+# South Country
 
 ## Status
 
 **Working canon.**
 
-Sunplains is the warmer, generally drier southern/eastern region associated with old city-states, irrigated agriculture, orchards, coastal exchange, and civic competition.
+South Country is the warmer, generally drier southern/eastern region associated with old city-states, irrigated agriculture, orchards, coastal exchange, and civic competition.
 
 It should not be reduced to wine, olive oil, and festivals.
 
 ## Geography
 
-Sunplains includes:
+South Country includes:
 - dry plains;
 - river valleys;
 - irrigated basins;
@@ -25,7 +25,7 @@ Water availability varies sharply, which makes water law politically important.
 
 ## Historical identity
 
-Before The Convergence, Sunplains consisted of competing:
+Before The Convergence, South Country consisted of competing:
 - city-states;
 - estate regions;
 - port towns;
@@ -57,7 +57,7 @@ Useful pools include:
 
 ## Language
 
-Sunplains urban languages may contain:
+South Country urban languages may contain:
 - formal status registers;
 - public/private speech differences;
 - elaborate traditions of rhetoric and legal argument;
@@ -69,7 +69,7 @@ This helps explain why political speech is a craft and why public humiliation ca
 
 ### Cities
 
-Sunplains city-states can have:
+South Country city-states can have:
 - dense walled cores;
 - courtyard houses;
 - shaded streets;
@@ -108,7 +108,7 @@ Farmsteads adapt to heat:
 
 ## Food
 
-Sunplains cuisine is diverse:
+South Country cuisine is diverse:
 - wheat and barley breads;
 - pulses;
 - vegetables;
@@ -124,7 +124,7 @@ Sunplains cuisine is diverse:
 
 Wine is important in some places, forbidden or uncommon in others depending on faith and local custom.
 
-Do not make all Sunplains food uniformly "Mediterranean."
+Do not make all South Country food uniformly "Mediterranean."
 
 ## Politics
 
@@ -139,7 +139,7 @@ City-states compete for:
 - alliances;
 - cultural influence.
 
-A permanent Sunplains union would be powerful enough to worry both neighbors and the Council.
+A permanent South Country union would be powerful enough to worry both neighbors and the Council.
 
 ## Current pressures
 
@@ -153,6 +153,6 @@ A permanent Sunplains union would be powerful enough to worry both neighbors and
 
 ## Story function
 
-Sunplains shows how **public culture and private power** can coexist.
+South Country shows how **public culture and private power** can coexist.
 
 Its political sophistication makes it hard to manipulate crudely — but also creates more channels through which skilled manipulators can work.
