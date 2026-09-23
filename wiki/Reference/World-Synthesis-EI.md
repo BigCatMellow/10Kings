@@ -110,9 +110,24 @@ If the Council is exposed or broken, reform cannot simply mean "remove the consp
 
 For each Council domain, identify the public institutions that could perform the same coordination. If adequate public alternatives already exist everywhere, weaken or reject this synthesis.
 
+**Council review result — 2026-09-23**
+
+The Council review passes the coordination-gap test strongly enough to promote the mechanism.
+
+[The Economic Council](../Politics/Economic-Council.md) now explicitly models the Council as a private interregional coordination layer whose advantage is not ownership of every dependency, but the ability to:
+
+- aggregate information across domains;
+- compare signals that sit in separate institutions;
+- move capital and contracts across borders;
+- coordinate transport, reserves, infrastructure, and finance;
+- retain institutional memory across generations;
+- act where no single public authority owns the whole problem.
+
+The review also establishes meaningful limits: incomplete information, independent institutions, physical logistics, bypass routes, internal conflict, exposure risk, and intervention side effects.
+
 **Disposition**
 
-Strong candidate; not yet promoted beyond the existing Council concept.
+**Promoted 2026-09-23** to [The Economic Council](../Politics/Economic-Council.md), [The Convergence](../History/The-Convergence.md), and [The World as a System](../World-System.md).
 
 ## Candidate 4 — Trans-regional institutions may contain the post-Council alternative
 
