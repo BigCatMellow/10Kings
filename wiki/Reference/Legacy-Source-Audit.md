@@ -6,7 +6,7 @@
 
 This page exists because `legacy-notes/` is **not a trash folder**.
 
-The raw files there preserve provenance, contradictions, discarded designs, research, and earlier versions of the setting. Some of that material is obsolete. Some has already been reconciled into current owner pages. Some remains genuinely useful and has **not yet been reconciled**.
+The raw files there preserve provenance, contradictions, discarded designs, research, and earlier versions of the setting. Some of that material is obsolete. The thematic archive has now received a structural reconciliation pass, but many exact names, local examples, alternate events, and discarded approaches remain useful as question-driven quarry.
 
 The danger is not that legacy material exists.
 
@@ -19,7 +19,7 @@ This page prevents both.
 
 ## Retrieval rule
 
-Before inventing substantial new material in a topic marked **UNRECONCILED** or **PARTIALLY RECONCILED** below:
+Before inventing substantial new material in a topic whose table row points to unresolved legacy detail:
 
 1. read the current owner first;
 2. inspect the relevant legacy volume / section listed here;
@@ -49,15 +49,11 @@ Legacy remains provenance and an idea quarry.
 
 ## PARTIALLY RECONCILED
 
-An active owner exists, but the legacy volume contains material that has not received a deliberate modern pass.
-
-Check it before expanding that topic.
+No whole thematic volume currently remains in this state. Use this label again only if a newly discovered legacy source has forward-relevant material that has not received a deliberate modern pass.
 
 ## UNRECONCILED / HIGH SALVAGE VALUE
 
-Legacy contains significant forward-relevant material not represented adequately by current owners.
-
-Do not treat it as canon, but do not design the topic from scratch without reviewing it.
+No whole thematic volume currently remains in this state. Unresolved **details** still exist, but they are routed through active owners and reconciliation pages rather than treated as archive backlog.
 
 ---
 
@@ -67,7 +63,7 @@ Do not treat it as canon, but do not design the topic from scratch without revie
 | --- | --- | --- | --- | --- |
 | **00 — Master Index** | **RETRIEVAL TOOL** | this page + Source Register | exact source-file provenance and old source names | nothing should be promoted directly from the index |
 | **01 — Foundations / World / Myth / History** | **RECONCILED STRUCTURALLY / MYTH & DEEP-TIME DETAIL PROVISIONAL** | World Overview, Geography and Connections, Pre-Convergence, Convergence, World Rules, Magic Baseline, Foundations Legacy Reconciliation | deep-time geology, old-state fragments, Mother myth and selected historical names remain future-development quarry | fixed old map, exact old chronology, Three Sons cosmology as current fact, eight-capital model and old macro-polity certainty remain unpromoted |
-| **02 — Regions / Kingdoms** | **RECONCILED STRUCTURALLY / NAMED POLITIES PROVISIONAL** | Kingdoms and Politics, Law and Jurisdiction, Convergence, Border Towns, Regional and Polity Legacy Reconciliation | education / knowledge transmission and selected minor-polity names remain future-development material | regional personality templates, unsupported industrial tech, one ruler per culture, themed festivals/towns and old region-state mapping remain unpromoted |
+| **02 — Regions / Kingdoms** | **RECONCILED STRUCTURALLY / NAMED POLITIES PROVISIONAL** | Kingdoms and Politics, Law and Jurisdiction, Convergence, Border Towns, Regional and Polity Legacy Reconciliation, Education and Knowledge Transmission | selected minor-polity names, local educational arrangements and polity-specific institutions remain future-development material | regional personality templates, unsupported industrial tech, one ruler per culture, themed festivals/towns and old region-state mapping remain unpromoted |
 | **03 — Cities / Architecture** | **RECONCILED STRUCTURALLY / SETTLEMENT SEEDS PROVISIONAL** | Architecture, Phase 4 slices, Legacy Settlement Seed Bank | individual settlement names and mechanisms can be promoted only when geography/history support them | one-style-per-region architecture, direct Earth-style mapping, magic/technology unsupported by current owners remain unpromoted |
 | **04 — Cultures / Peoples / Daily Life** | **RECONCILED STRUCTURALLY / LOCAL EXAMPLE QUARRY** | Daily Life, Clothing, Arts, Culture and Influence, Nomads, Folk Belief, Social Fabric | local household/custom examples may still be useful when developing an actual community | regional psychology, costume stereotypes, fantasy-race material, and one collective motive per culture remain unpromoted |
 | **05 — Food / Cuisine** | **RECONCILED** | Food, Food Diaspora and Adaptation, Phase 3 | cooking techniques, preservation, labor food, historical adaptation prompts, equipment questions | themed dish names, direct modern cuisine copies, recipe-card canon, forge/frost/forest flavor personalities |
@@ -271,4 +267,4 @@ It is handled when its relevant mechanisms have been deliberately classified as:
 - duplicate;
 - still unresolved.
 
-Until then, this index should mark it PARTIAL or UNRECONCILED.
+If a newly discovered legacy source or topic lacks a deliberate disposition, mark it PARTIAL or UNRECONCILED until that pass is complete.
