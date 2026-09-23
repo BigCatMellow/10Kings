@@ -45,25 +45,25 @@ Take three unrelated current-event shocks and trace whether Port amplifies all t
 
 Incubating.
 
-## Candidate 2 — Port and High Country are complementary chokepoints
+## Candidate 2 — Port and High Roads are complementary chokepoints
 
 **Sources**
 
 - [Port](../Places/Port.md)
-- [High Country](../Regions/Highridge-Plateau.md)
+- [High Roads](../Regions/Highridge-Plateau.md)
 - [Geography and Connections](../Geography-and-Connections.md)
 - [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
 
 **Connection**
 
-Port concentrates maritime exchange; High Country concentrates important overland movement and brokerage.
+Port concentrates maritime exchange; High Roads concentrates important overland movement and brokerage.
 
 **New implication**
 
 The world may have two different kinds of strategic hub:
 
 - Port: maritime, financial, legal, cosmopolitan;
-- High Country: overland, logistical, arbitral, route-oriented.
+- High Roads: overland, logistical, arbitral, route-oriented.
 
 Pressure on one could shift traffic toward the other rather than simply stopping exchange.
 
@@ -73,11 +73,11 @@ That creates substitution, competition, and cascading route effects without requ
 
 **Smallest test**
 
-Lock the broad map and test whether major trade flows have plausible Port-avoiding and High Country-avoiding routes.
+Lock the broad map and test whether major trade flows have plausible Port-avoiding and High Roads-avoiding routes.
 
 **Test result — 2026-09-22**
 
-[Working Map Draft — Geometry V1](Working-Map-Draft.md) produces plausible Port-avoiding and High Country-avoiding substitutions rather than making either hub an absolute monopoly. A North Country maritime disruption can push selected traffic into High Country; a major west-east surface closure can push selected traffic toward Port, secondary ports, and Tunnels capacity.
+[Working Map Draft — Geometry V1](Working-Map-Draft.md) produces plausible Port-avoiding and High Roads-avoiding substitutions rather than making either hub an absolute monopoly. A North Coast maritime disruption can push selected traffic into High Roads; a major west-east surface closure can push selected traffic toward Port, secondary ports, and Tunnels capacity.
 
 This is encouraging but not enough to promote the candidate. The next discriminating test is scale, ordinary travel time, and route capacity.
 
@@ -176,15 +176,15 @@ Strong candidate for later border-town detail.
 
 **Sources**
 
-- [River Country](../Regions/Greenvale.md)
-- [South Country](../Regions/Sunplains.md)
-- [North Country](../Regions/Northwind.md)
+- [Low Rivers](../Regions/Greenvale.md)
+- [Old Cities](../Regions/Sunplains.md)
+- [North Coast](../Regions/Northwind.md)
 - [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
 - [Current Events](../Story/Current-Events.md)
 
 **Connection**
 
-River Country can be destabilized by excess production; South Country by drought anxiety; North Country by fish decline.
+Low Rivers can be destabilized by excess production; Old Cities by drought anxiety; North Coast by fish decline.
 
 **New implication**
 
@@ -268,7 +268,7 @@ The same roads, ports, pilgrimage routes, caravan systems and shipping lanes tha
 
 **New implication**
 
-Port and High Country may function as switching points for jokes, reform movements, cult practices, political vocabulary, religious disputes, fashions and reputations—not only commodities.
+Port and High Roads may function as switching points for jokes, reform movements, cult practices, political vocabulary, religious disputes, fashions and reputations—not only commodities.
 
 **Why it matters**
 
@@ -461,31 +461,31 @@ Give the Council accurate information about one movement and ask whether its usu
 
 Incubating.
 
-## Candidate 15 — Port may incubate movements while High Country distributes them
+## Candidate 15 — Port may incubate movements while High Roads distributes them
 
 **Sources**
 
 - [Port](../Places/Port.md)
-- [High Country](../Regions/Highridge-Plateau.md)
+- [High Roads](../Regions/Highridge-Plateau.md)
 - [Social Fabric](../Social-Fabric.md)
 - [Audience Movements](../Culture/Audience-Movements.md)
 - [Geography and Connections](../Geography-and-Connections.md)
 
 **Connection**
 
-Port concentrates strangers, performers, workers, sailors, migrants, guilds and repeated public gatherings. High Country concentrates overland travelers, caravan routes, translators and information exchange.
+Port concentrates strangers, performers, workers, sailors, migrants, guilds and repeated public gatherings. High Roads concentrates overland travelers, caravan routes, translators and information exchange.
 
 **New implication**
 
-A movement could plausibly become socially dense in Port and then spread unusually far through High Country without either place being its political headquarters.
+A movement could plausibly become socially dense in Port and then spread unusually far through High Roads without either place being its political headquarters.
 
 **Why it matters**
 
-This gives social diffusion a geography: Port can be an incubator while High Country acts as a repeater / distributor.
+This gives social diffusion a geography: Port can be an incubator while High Roads acts as a repeater / distributor.
 
 **Smallest test**
 
-Start one movement in a Port neighborhood and trace how it reaches North Country, River Country and Western Uplands using only established travel networks and ordinary human carriers.
+Start one movement in a Port neighborhood and trace how it reaches North Coast, Low Rivers and Stone Hills using only established travel networks and ordinary human carriers.
 
 **Disposition**
 
@@ -546,7 +546,7 @@ The strongest current hypothesis is not two arbitrary spheres but:
 
 This is documented in [Convergence to Competitive Spheres](Convergence-to-Competitive-Spheres.md).
 
-The pattern survives several concrete legacy signals without requiring an east/west split: Summithold's Convergence role, Verdanthearth's old ties to Summithold and Aurorashore, Cliffhaven's explicit challenge to Summithold toll dominance, Blackbellow's wage/industrial challenge to the Western Uplands crown, and South Country' long tradition of competitive patronage and city-state politics.
+The pattern survives several concrete legacy signals without requiring an east/west split: Summithold's Convergence role, Verdanthearth's old ties to Summithold and Aurorashore, Cliffhaven's explicit challenge to Summithold toll dominance, Blackbellow's wage/industrial challenge to the Stone Hills crown, and Old Cities' long tradition of competitive patronage and city-state politics.
 
 **Disposition**
 
@@ -603,24 +603,24 @@ If Port's treaty structure and merchant institutions are actually more restricti
 
 Incubating.
 
-## Candidate 18 — Western Uplands may be the sphere hinge
+## Candidate 18 — Stone Hills may be the sphere hinge
 
 **Sources**
 
 - [Competitive Sphere Alignment Matrix](Competitive-Sphere-Alignment-Matrix.md)
 - [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md)
 - [Current Events](../Story/Current-Events.md)
-- legacy Western Uplands / Blackbellow polity notes
+- legacy Stone Hills / Blackbellow polity notes
 
 **Connection**
 
-The Western Uplands Crown benefits strongly from Convergence stability while Blackbellow and other industrial actors benefit from post-Convergence guild expansion and labor mobility.
+The Stone Hills Crown benefits strongly from Convergence stability while Blackbellow and other industrial actors benefit from post-Convergence guild expansion and labor mobility.
 
 That places opposing sphere incentives inside one major industrial ecosystem.
 
 **New implication**
 
-Western Uplands may be more useful as the rivalry's principal **hinge** than as a clean bloc member.
+Stone Hills may be more useful as the rivalry's principal **hinge** than as a clean bloc member.
 
 A shift by the Crown, a major royal forge, or an important industrial guild could transform the balance between the spheres.
 
@@ -632,7 +632,7 @@ It also lets ordinary people experience sphere politics as workplace, wage and i
 
 **Smallest test**
 
-Reconstruct one Western Uplands defection at three scales:
+Reconstruct one Stone Hills defection at three scales:
 
 1. an individual specialist;
 2. a major guild / forge;
@@ -671,7 +671,7 @@ This preserves the useful tension of the Monday Night Wars analogue without pred
 
 **Smallest test**
 
-Create one high-profile defection and trace reactions through Summithold, Cliffhaven, Western Uplands, Blackbellow, Port and the Council. If the event matters differently to all six while remaining below the threshold of war, the phase is viable.
+Create one high-profile defection and trace reactions through Summithold, Cliffhaven, Stone Hills, Blackbellow, Port and the Council. If the event matters differently to all six while remaining below the threshold of war, the phase is viable.
 
 **Disposition**
 
@@ -758,10 +758,10 @@ workplace / neighborhood
 → local reinterpretation
 ```
 
-Port and High Country may therefore spread material culture differently:
+Port and High Roads may therefore spread material culture differently:
 
 - Port through novelty, migration, secondhand markets and copying;
-- High Country through caravan circulation, travel equipment and repeated overland contact.
+- High Roads through caravan circulation, travel equipment and repeated overland contact.
 
 **Why it matters**
 
@@ -847,7 +847,7 @@ The cultural map can contain:
 - mixed cities;
 - local branches adapted to new environments.
 
-A distant forest can therefore contain a Forest Country-descended community without becoming part of geographic Forest Country, while another nearby forest community may be culturally unrelated.
+A distant forest can therefore contain a Longwood-descended community without becoming part of geographic Longwood, while another nearby forest community may be culturally unrelated.
 
 **Why it matters**
 
