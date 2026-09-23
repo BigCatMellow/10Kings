@@ -59,7 +59,11 @@ Neutral shipping and Port access became harder for one kingdom to monopolize.
 
 ### Arbitration
 
+See [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md).
+
 Some disputes could be taken to agreed courts or forums rather than immediately fought.
+
+The Convergence should not be read as creating one universal court hierarchy. Its legal achievement is better understood as creating **recognized cross-border procedures and forums** in selected areas while leaving most local law intact.
 
 ### Neutral Port
 
