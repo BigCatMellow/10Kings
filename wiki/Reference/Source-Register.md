@@ -198,6 +198,7 @@ Use this instead of reopening the large compendia for normal work.
 | What seasonal festivals exist as working material? | [Festivals and Seasonal Life](../Culture/Festivals-and-Seasonal-Life.md) |
 | How does food change through migration? | [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md) |
 | How is the food system being deepened? | [Culture Phase 3 — Food Vertical Slices](Culture-Phase-3-Food-Vertical-Slices.md) |
+| How is architecture being deepened? | [Culture Phase 4 — Architecture Vertical Slices](Culture-Phase-4-Architecture-Vertical-Slices.md) |
 | How do overlapping identities and institutions fit together? | [Social Fabric](../Social-Fabric.md) |
 | How could a participatory cult/social movement work? | [Audience Movements](../Culture/Audience-Movements.md) |
 | How should the WWF/WCW/ECW analogy be translated? | [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md) |
@@ -327,6 +328,43 @@ Outputs:
 - ornate fantasy dish names.
 
 Food now follows material causes first.
+
+### Phase 4 — architecture
+
+Legacy Volume 03 was reconciled against current geography, household, food, trade and world-rule owners.
+
+Outputs:
+
+- [Architecture](../Culture/Architecture.md) — substantially rebuilt owner;
+- [Culture Phase 4 — Architecture Vertical Slices](Culture-Phase-4-Architecture-Vertical-Slices.md).
+
+**Compatible mechanisms retained**
+- retaining walls;
+- stone / timber / earth construction;
+- raised floors in flood-prone districts;
+- courtyards;
+- roof terraces where climate supports them;
+- steep roofs where weather requires them;
+- cisterns / wells / canals;
+- mixed workshop-housing;
+- caravan yards;
+- warehouses;
+- ventilation;
+- city / town / household scale differences.
+
+**Demoted or rejected as automatic canon**
+- one architectural style per cultural core;
+- industrial-fortress Stone Hills;
+- Scandinavian North Coast;
+- agrarian-village Low Rivers;
+- Tibetan/Andean High Roads;
+- forest-integrated “tribal” Longwood;
+- Moorish/Mediterranean Old Cities;
+- Port as six themed ethnic quarters;
+- decorative regional motifs chosen mainly to signal identity;
+- unsupported geothermal / glass / industrial-metal systems.
+
+Architecture now follows infrastructure and history first.
 
 ## Known unresolved areas exposed by the import
 
