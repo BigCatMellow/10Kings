@@ -8,7 +8,7 @@ The calendar below is a source of scene texture and cultural memory, not a claim
 
 ## Seasonal calendar
 
-| Season | Ironcrest | Northwind | Greenvale | Highridge | Deepwood | Sunplains | Port |
+| Season | Western Uplands | North Country | River Country | High Country | Forest Country | South Country | Port |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Early spring | Forge Reawakening | Ice Breaking | Sowing Days | Pass Opening | Silent Thaw | Blossom Markets | Tide Return |
 | Late spring | — | First Catch | — | Caravan Blessing | — | — | — |
@@ -22,37 +22,37 @@ Blank cells do not mean “no festivals.” They only mean the imported notes di
 
 ## Working festival texture
 
-### Ironcrest
+### Western Uplands
 
 **Forge Reawakening** can mark foundries returning from winter maintenance. Apprenticeship judgments, remembrance of dead workers and the ceremonial relighting of fires can reinforce labor identity.
 
 **Ember Remembrance** works better as a solemn memorial than a spectacle: banked fires, names on memorial walls and a rare interruption of commerce.
 
-### Northwind
+### North Country
 
 **Ice Breaking** can mark the safe return of seasonal navigation. Boat inspection, first launches and rights to contested fishing grounds can turn survival practice into public ritual.
 
-**Aurora Nights** offers a quieter counterpoint to Northwind's rough public image: family stories, ancestor traditions, betrothals and other beliefs tied to the lights. Treat supernatural explanations as **beliefs**, not automatic proof.
+**Aurora Nights** offers a quieter counterpoint to North Country's rough public image: family stories, ancestor traditions, betrothals and other beliefs tied to the lights. Treat supernatural explanations as **beliefs**, not automatic proof.
 
-### Greenvale
+### River Country
 
 **Harvest Home** can combine celebration with redistribution, seed exchange and public accounting of surplus.
 
 **Root Cellar Night** can be intimate rather than civic: stored food, family stories and remembrance of old scarcity such as the Seven-year Blight.
 
-### Highridge
+### High Country
 
-**Midsummer Debates** can make rhetoric a public competitive craft without implying every Highridge resident is a philosopher.
+**Midsummer Debates** can make rhetoric a public competitive craft without implying every High Country resident is a philosopher.
 
 **Ledger Closing** can mark the end of a fiscal/trade cycle, when debts are settled, renegotiated or publicly disputed before a brief period of relief.
 
-### Deepwood
+### Forest Country
 
 **Canopy Vigil** can center on restraint and attention: reduced work, quiet observation and later community interpretation.
 
 **Deep Silence** can vary dramatically by community. Some may treat it as spiritual practice; others as old custom, ecological rule or a holiday they barely observe.
 
-### Sunplains
+### South Country
 
 **Festival of Patrons** can turn civic generosity into competition among houses, guilds and cities.
 
