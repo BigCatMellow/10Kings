@@ -8,7 +8,7 @@ These are the setting's equivalent of animation-model rules: constraints intende
 
 **Do:** remember that ordinary economic diversity exists everywhere.
 
-**Don't:** reduce Ironcrest to mines, Greenvale to farms, Northwind to fish, Deepwood to trees, Highridge to caravans, or Sunplains to vineyards.
+**Don't:** reduce Western Uplands to mines, River Country to farms, North Country to fish, Forest Country to trees, High Country to caravans, or South Country to vineyards.
 
 A region's famous specialty is what outsiders notice first, not all that exists there.
 
@@ -126,7 +126,7 @@ Do not claim grammar makes a people inherently rational, emotional, peaceful, co
 
 ## 16. Food must follow ecology, trade, class, season, and preservation
 
-There is no single "Ironcrest cuisine" eaten identically by miners, nobles, farmers, children, and merchants.
+There is no single "Western Uplands cuisine" eaten identically by miners, nobles, farmers, children, and merchants.
 
 Show regional families of food, then class and local variation.
 
