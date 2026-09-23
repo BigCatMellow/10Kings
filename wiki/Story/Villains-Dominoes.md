@@ -12,7 +12,7 @@ He identifies people, institutions, and tensions that already possess momentum. 
 
 These names and exact biographies remain provisional pending final naming systems.
 
-### Orin Slatehallow — Western Uplands
+### Orin Slatehallow — Stone Hills
 
 Role:
 talented young metalworker caught between innovation, guild restriction, and patronage.
@@ -26,7 +26,7 @@ anonymous funding, selective obstruction by rivals, and opportunities that make 
 Important rule:
 Orin should not invent fantasy super-steel. His value is organizational and technical: improved quality control, repair methods, production knowledge, or access.
 
-### Maris Bleakshore — North Country
+### Maris Bleakshore — North Coast
 
 Role:
 respected coastal/clan leader shaped by piracy and loss.
@@ -38,9 +38,9 @@ Manipulation:
 credible but selectively framed intelligence makes defensive action look necessary.
 
 Domino:
-North Country patrol changes are interpreted elsewhere as aggression.
+North Coast patrol changes are interpreted elsewhere as aggression.
 
-### Rosana Meadowcroft — River Country
+### Rosana Meadowcroft — Low Rivers
 
 Role:
 agricultural researcher/seed steward working on crop resilience.
@@ -54,7 +54,7 @@ fund research, create distribution bottlenecks, allow rivals to overreact.
 Domino:
 an agricultural innovation becomes a political fight over control.
 
-### Samir Tareh — High Country
+### Samir Tareh — High Roads
 
 Role:
 caravan negotiator seeking fair and predictable routes.
@@ -68,7 +68,7 @@ provide true information about dangers but omit who created them.
 Domino:
 "safe" trade concentration makes one route strategically vulnerable and impoverishes another.
 
-### Naruin Mossglade — Forest Country
+### Naruin Mossglade — Longwood
 
 Role:
 forest warden/sentinel defending local rights.
@@ -82,7 +82,7 @@ leak real Council-backed expansion plans without context; encourage preemptive d
 Domino:
 a local conservation dispute becomes an inter-regional sovereignty crisis.
 
-### Bahriyya Nazar — South Country
+### Bahriyya Nazar — Old Cities
 
 Role:
 reformist diplomat trying to coordinate city-states around water/trade.
