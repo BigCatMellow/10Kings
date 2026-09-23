@@ -1,10 +1,10 @@
-# The Spine
+# Central Range
 
 ## Status
 
 **Working canon.**
 
-The Spine is the central mountain system around which much of the known world's geography and transport is organized.
+Central Range is the central mountain system around which much of the known world's geography and transport is organized.
 
 ## Physical role
 
@@ -14,7 +14,7 @@ The range is:
 - geologically active enough for earthquakes and collapses to matter;
 - old and complex enough to contain caves, faults, mineral belts, valleys, and isolated communities.
 
-The Spine should not be one continuous impassable wall. It contains:
+Central Range should not be one continuous impassable wall. It contains:
 - high peaks;
 - lower saddles;
 - inhabited valleys;
@@ -31,8 +31,8 @@ The range creates political choke points.
 A pass can matter more than a hundred miles of open border.
 
 This explains:
-- Highridge's importance;
-- Underpass development;
+- High Country's importance;
+- Tunnels development;
 - ancient toll states;
 - strategic fortresses;
 - migration corridors;
@@ -41,7 +41,7 @@ This explains:
 
 ## Geologic history
 
-Earlier notes propose that the three major landmasses emerged from ancient tectonic rifting and collision, with The Spine formed through long mountain-building processes.
+Earlier notes propose that the three major landmasses emerged from ancient tectonic rifting and collision, with Central Range formed through long mountain-building processes.
 
 Treat exact geology as provisional until the map is finalized.
 
@@ -51,11 +51,11 @@ Recent earthquakes or rock shifts have:
 - damaged routes;
 - revealed old ruins or sealed spaces;
 - created arguments over newly accessible resources;
-- changed Underpass conditions;
+- changed Tunnels conditions;
 - attracted explorers, guilds, religious groups, criminals, and Council attention.
 
 ## Story function
 
-The Spine is where geography becomes politics.
+Central Range is where geography becomes politics.
 
 It should generate hard choices about which route remains open, who pays to maintain it, who controls access, and what happens when nature ignores human borders.
