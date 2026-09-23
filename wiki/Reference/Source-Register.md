@@ -581,6 +581,33 @@ Outputs:
 - high-magic contraband and technology unsupported by World Rules;
 - detailed old faction leaders / symbols / branches as automatic canon.
 
+## Council review branch integration — 2026-09-23
+
+The separate `council-review-2026-09-23` branch contained a substantially newer Council design than the short Council owner previously present on the culture branch.
+
+That work is now integrated into the active branch.
+
+Authority:
+
+1. [Economic Council](../Politics/Economic-Council.md) — authoritative structural owner;
+2. [Economic Council — Internal Structure](../Politics/Economic-Council-Internal-Structure.md) — authoritative for supported / derived / open internal mechanics;
+3. [Movement and Information](../Movement-and-Information.md) — authoritative for information propagation and Council information limits;
+4. [Council Legacy Reconciliation](Council-Legacy-Reconciliation.md) — supplemental provenance and salvage only.
+
+The Council owner is preserved from the review branch verbatim except for one added link to the supplemental legacy reconciliation page.
+
+Supporting Council-review changes were also merged into:
+
+- The Convergence;
+- Home;
+- Open Questions;
+- World Synthesis — E/I Candidates 3 and 4;
+- Social Fabric;
+- World System;
+- Sidebar.
+
+Where the culture branch had additional later material, the files were merged as supersets rather than wholesale replaced.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
