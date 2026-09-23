@@ -78,7 +78,7 @@ Do not treat it as canon, but do not design the topic from scratch without revie
 | **10 — Current Events** | **RECONCILED AS EVENT QUARRY** | Current Events, Villain's Dominoes, Grounded Domino Design, Current Events Legacy Reconciliation | selected compatible incidents may still be promoted deliberately; current owner remains authoritative | unsupported magic/industrial events, conspiracy saturation, and alternate outlines treated as present canon remain unpromoted |
 | **11 — Story Core / Characters / Villain** | **RECONCILED STRUCTURALLY / CHARACTER SEEDS PROVISIONAL** | Wurdren, Villain, Character Roster, Villain's Dominoes, Competitive Kingdom Dynamics, Story Core Legacy Reconciliation | specific Wurdren biography, Villain constituency/grievance and selected grounded antagonist archetypes remain future choices | obsolete plot outline, Villain ignorance of Council, unsupported magical villains and region-coded character design remain unpromoted |
 | **12 — Dominoes / Sparks / Danzig** | **HIGH FOR REFERENCE METHOD** | Villain's Dominoes, Danzig references, Current Events | grounded domino method; ordinary-effect storytelling; historical spark research; escalation patterns; plausible minor incidents; Danzig structural lessons | fantastical “kraken/golem/shadow plague” dominoes unless magic rules later justify them; specific pseudo-history mapped one-to-one |
-| **13 — Writing / Worldbuilding Guides** | **PARTIALLY EXTRACTED** | Worldbuilding Breath, Culture Deepening Plan, this audit | **unowned categories:** education/knowledge, medicine/care institutions, law/justice, superstition/folk belief, timekeeping/calendar systems; useful audit questions | generic checklist material already superseded by MAPS_L/world rules; modern/futuristic examples; generic “perfect medieval” solutions treated as setting facts |
+| **13 — Writing / Worldbuilding Guides** | **GAP EXTRACTION COMPLETE / GENERIC REFERENCE** | Worldbuilding Breath, Culture Deepening Plan, Education, Medicine, Law, Folk Belief, Calendar owners | generic audit questions may still be useful when a local system is developed | generic checklist text is not recovered canon; modern/futuristic examples and "perfect medieval" templates remain non-setting material |
 | **14 — Reading List / Philosophy** | **RESEARCH LIBRARY / COLD** | no setting owner required | intellectual research when directly relevant to Council, villain, law, institutions or themes | quotations and summaries should not silently become setting doctrine; not a canon source |
 
 ---
@@ -171,19 +171,19 @@ This is not obsolete lore.
 
 **Action:** extract the durable method into an active Reference page rather than relying on agents to rediscover Volume 12.
 
-## 5. Missing world-system categories
+## 5. Missing world-system categories — extracted 2026-09-23
 
-Volume 13 highlights several areas that current owners only touch indirectly:
+Volume 13 exposed five categories that lacked dedicated owners.
 
-- **education / knowledge transmission**;
-- **medicine / healing institutions**;
-- **law / justice / dispute procedure**;
-- **superstition / folk belief / taboo**;
-- **timekeeping / calendars** beyond festival scheduling.
+They now route to:
 
-These should not be filled from the generic legacy guide as facts.
+- [Education and Knowledge Transmission](../Education-and-Knowledge-Transmission.md);
+- [Medicine and Healing](../Medicine-and-Healing.md);
+- [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md);
+- [Folk Belief, Taboo, and Superstition](../Culture/Folk-Belief-Taboo-and-Superstition.md);
+- [Calendars, Timekeeping, and Seasonal Coordination](../Calendar-and-Timekeeping.md).
 
-But they should remain visible as **known worldbuilding gaps**.
+The legacy guide supplied **questions and gap detection**, not setting facts. Education, medicine and folk belief were synthesized from current institutions and explicitly marked as new structural owners.
 
 ---
 
@@ -230,29 +230,18 @@ If repository size or search noise becomes a problem, the duplicate package file
 
 # Current salvage priorities
 
-## P0 — review before relevant new work
+## P0 — review when developing specific places / systems
 
-1. **Volume 13 — underdeveloped systems after dedicated source passes**
-2. **Volume 04 — remaining household / mobile-peoples quarry only as needed**
-3. **Volume 03 — settlement-specific quarry only when developing actual places**
-
-## P1 — deliberate future passes
-
-4. **Volume 11 — character / villain alternatives and critique**
-5. **Volume 01 — remaining foundations / history conflicts as needed**
-6. **Volume 13 — underdeveloped systems after dedicated source passes**
-
-## P2 — gap creation, not lore promotion
-
-7. **Volume 13 — education, medicine, justice, folk belief, timekeeping**
+1. **Volume 04** — remaining household and mobile-peoples quarry where a local case needs deeper source recovery.
+2. **Volume 03** — settlement-specific morphology, institutions and city concepts when actual places are developed.
+3. **Volume 14** — research / philosophy only when a theme or institution needs external intellectual framing.
 
 ## Mostly complete / quarry only
 
-- Volume 03 architecture;
-- Volume 04 daily life/clothing except mobile-peoples depth;
-- Volume 05 food.
+- Volumes 01, 02, 05, 06, 07, 08, 09, 10, 11 and 12 have deliberate active reconciliation routes;
+- Volume 13's useful gap-detection function has been extracted;
+- Volume 03 architecture and Volume 04 daily-life material are mostly reconciled but still contain local example quarry.
 
----
 
 # Completion rule
 
