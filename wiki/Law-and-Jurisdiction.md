@@ -673,7 +673,7 @@ The legal status of the same household may therefore change from stop to stop.
 
 This is a feature of the setting's layered jurisdiction, not an inconsistency.
 
-# 20. Criminal networks exploit jurisdictional gaps
+# 19. Criminal networks exploit jurisdictional gaps
 
 See [Crime and the Underworld](Politics/Crime-and-Underworld.md).
 
