@@ -390,7 +390,7 @@ during carriage.
 
 High-value records may therefore need recognizable wrappers, seals/marks, receipts, known carriers, or registry comparison. Exact practice remains local.
 
-# 15. Copies are normal but create problems
+# 14. Copies are normal but create problems
 
 Important documents may exist in several copies.
 
