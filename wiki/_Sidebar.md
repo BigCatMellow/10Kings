@@ -72,6 +72,7 @@
 **Reference**
 - [Working Map Draft — Geometry V1](Reference/Working-Map-Draft.md)
 - [Working Map — Scale and Travel-Time Test V1](Reference/Working-Map-Scale-and-Travel-Test.md)
+- [Working Map — Network Endpoints and Capacity](Reference/Working-Map-Network-Endpoints-and-Capacity.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
 - [Grounded Domino Design Method](Reference/Grounded-Domino-Design.md)
 - [Culture Deepening Plan](Reference/Culture-Deepening-Plan.md)
