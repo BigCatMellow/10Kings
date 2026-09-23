@@ -700,6 +700,38 @@ Outputs:
 - direct mapping of "industrial = blunt," "forest = soft," "scholarly = logical";
 - old language / place names generated from those stereotypes.
 
+## Current-events legacy reconciliation — 2026-09-23
+
+Volume 10 was reviewed against the current opening-state owner.
+
+Output:
+
+- [Current Events Legacy Reconciliation](Current-Events-Legacy-Reconciliation.md).
+
+**Retained as compatible event / mechanism quarry**
+- mine collapse;
+- severe winter;
+- flood / crop rot;
+- Underpass gas / bad-air incidents;
+- guild walkouts;
+- emergency merchant summits;
+- rerouting around tolls / danger;
+- refugee and labor movement;
+- multi-step economic ripple chains;
+- guild and religious responses;
+- rumor / attribution conflict;
+- Wurdren affecting local problems without controlling the whole system.
+
+**Rejected / held**
+- Starlight Harvest / cosmic-energy economy;
+- unestablished rail sabotage;
+- mechanical harvester modernization;
+- industry-changing alchemical miracle cures;
+- unsupported magical ecological attacks;
+- conspiracy saturation where Council, Villain, guilds and religions all secretly cause the same event.
+
+[Current Events](../Story/Current-Events.md) remains authoritative for what is actually happening.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
