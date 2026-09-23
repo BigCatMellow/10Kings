@@ -32,20 +32,24 @@ The broad topology is now captured in [Geography and Connections](Geography-and-
 
 The Council's structural role is now owned by [The Economic Council](Politics/Economic-Council.md): it is a private interregional coordination layer whose advantage comes from combining information, capital, institutional memory, and cross-border relationships across several dependency systems.
 
-The internal mechanics are now owned by [Economic Council — Internal Structure](Politics/Economic-Council-Internal-Structure.md): seats belong to member networks, succession uses house selection plus Council recognition, the institution has a small shared secretariat/archive and limited common reserve, and decisions operate through assent plus actual resource commitment rather than simple majority command.
+[Economic Council — Internal Structure](Politics/Economic-Council-Internal-Structure.md) now separates **supported structure**, **derived constraints**, and **open design** so plausible solutions are not accidentally promoted into canon.
+
+Supported so far: generational continuity, varied succession traditions, nominal peer status, independent member networks, private coordination meetings, member-specific aides/agents, retained records, internal bargaining, and a strong norm against self-destructive exposure.
 
 Remaining questions:
 
 - How old is the Council relative to the Convergence, exactly?
 - Which member houses first created durable private coordination?
 - Final number and names of Council portfolios.
-- Exact ordinary, coercive, and constitutional assent thresholds.
-- Exact common-reserve contribution rules.
-- Exact meeting location, cadence, archive locations, and authentication practices.
+- How each current seat actually selects a successor.
+- Whether there is any shared staff beyond member-house personnel.
+- Whether any common treasury or reserve exists.
+- Whether formal voting, vetoes, chairs, or quorum rules exist at all.
+- Exact meeting location and cadence.
+- How Council records are distributed, authenticated, and protected.
 - Final public facade.
 - Who knows the Council exists, and at what level of detail?
-- Whether the Council has ever expelled or replaced a member house.
-- The historical crisis or crises that created major constitutional precedents.
+- Whether a house can lose a seat and whether that has ever happened.
 - What public institutions could replace its aggregation, emergency finance, and cross-domain coordination functions?
 - Current seat-holders and their internal family factions.
 
