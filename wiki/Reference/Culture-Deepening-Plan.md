@@ -516,7 +516,7 @@ Recommended scope:
 
 This should be cross-regional and methodological, with examples.
 
-It should not define “the Ironcrest marriage custom” as one universal practice.
+It should not define “the Western Uplands marriage custom” as one universal practice.
 
 ## B. Clothing and Material Culture
 
@@ -644,7 +644,7 @@ current politics / story
 
 Example:
 
-A Northwind preserved-food practice should ideally connect to:
+A North Country preserved-food practice should ideally connect to:
 
 - fishing season;
 - salt access;
@@ -656,7 +656,7 @@ A Northwind preserved-food practice should ideally connect to:
 - Port trade;
 - current fish-stock pressure.
 
-If it connects only to “Northwind is cold,” it is too shallow.
+If it connects only to “North Country is cold,” it is too shallow.
 
 ## Stage C — E/I capture
 
@@ -865,7 +865,7 @@ Test:
 
 - border towns;
 - Port;
-- Highridge routes;
+- High Country routes;
 - itinerant peoples;
 - pilgrimage;
 - guild branches;
@@ -935,12 +935,12 @@ They are scene seeds.
 
 Avoid:
 
-- Ironcrest people are direct because they forge;
-- Northwind people are communal because survival;
-- Greenvale people are gentle because farms;
-- Highridge people are logical because trade;
-- Deepwood people are spiritual because forest;
-- Sunplains people are elegant because warm climate.
+- Western Uplands people are direct because they forge;
+- North Country people are communal because survival;
+- River Country people are gentle because farms;
+- High Country people are logical because trade;
+- Forest Country people are spiritual because forest;
+- South Country people are elegant because warm climate.
 
 Those can exist as **stereotypes, local traditions, institutions or specific subcultures**, not universal psychology.
 
@@ -948,10 +948,10 @@ Those can exist as **stereotypes, local traditions, institutions or specific sub
 
 No:
 
-- Northwind = Scandinavia;
-- Sunplains = Middle East;
-- Deepwood = Indigenous forest people;
-- Ironcrest = Appalachia / Wales.
+- North Country = Scandinavia;
+- South Country = Middle East;
+- Forest Country = Indigenous forest people;
+- Western Uplands = Appalachia / Wales.
 
 Use multiple research pools to solve specific human problems.
 
@@ -1043,7 +1043,7 @@ Completed first structural pass:
 
 - created [Daily Life and Customs](../Culture/Daily-Life-and-Customs.md);
 - created [Clothing and Material Culture](../Culture/Clothing-and-Material-Culture.md);
-- ran [Culture Phase 2 — Ordinary-Life Vertical Slices](Culture-Phase-2-Vertical-Slices.md) across Ironcrest, Northwind, Greenvale, Highridge, Deepwood, Sunplains and Port;
+- ran [Culture Phase 2 — Ordinary-Life Vertical Slices](Culture-Phase-2-Vertical-Slices.md) across Western Uplands, North Country, River Country, High Country, Forest Country, South Country and Port;
 - connected clothing to the world economy through [Material Culture Supply Chains](Material-Culture-Supply-Chains.md).
 
 First findings:
@@ -1052,7 +1052,7 @@ First findings:
 - occupation + class + climate should usually predict clothing more strongly than region alone;
 - the legacy “one silhouette / palette / motif per region” model should not be restored;
 - repair, secondhand trade and garment reuse are structurally important in a pre-industrial economy;
-- Port and Highridge are strong material-culture transmission hubs for different reasons;
+- Port and High Country are strong material-culture transmission hubs for different reasons;
 - current crises become more believable when they alter mundane things such as clothing replacement, guest capacity, household composition, childcare and repair.
 
 Still unresolved before Phase 2 is considered mature:
@@ -1088,4 +1088,4 @@ The target is:
 
 And the deepest test is:
 
-> Can a cultural detail be explained by history, material conditions and social transmission rather than by “because this is the Ironcrest / Northwind / Greenvale culture”? 
+> Can a cultural detail be explained by history, material conditions and social transmission rather than by “because this is the Western Uplands / North Country / River Country culture”? 
