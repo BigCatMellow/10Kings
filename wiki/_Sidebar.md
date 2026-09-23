@@ -66,6 +66,8 @@
 - [Grounded Domino Design Method](Reference/Grounded-Domino-Design.md)
 - [Culture Deepening Plan](Reference/Culture-Deepening-Plan.md)
 - [Legacy Source Audit and Retrieval Index](Reference/Legacy-Source-Audit.md)
+- [Religion Legacy Reconciliation](Reference/Religion-Legacy-Reconciliation.md)
+- [Religious Artifacts Framework](Reference/Religious-Artifacts-Framework.md)
 - [Language History and Naming Audit](Reference/Language-History-and-Naming-Audit.md)
 - [Grounded Naming Realignment](Reference/Grounded-Naming-Realignment.md)
 - [Naming History Vertical Slices](Reference/Naming-History-Vertical-Slices.md)
