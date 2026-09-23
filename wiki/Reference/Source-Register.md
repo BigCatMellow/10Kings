@@ -469,6 +469,32 @@ Seven provisional forms were traced through actual social / economic networks:
 
 The pass also corrected stale pre-realignment region terminology in active Border Towns and Trade owners and demoted older theme-first border-town names to legacy / provisional prompts.
 
+## Legacy retrieval audit — 2026-09-23
+
+A deliberate audit of `legacy-notes/` found that the archive contains three different classes of material:
+
+- **cold provenance** that should remain historical only;
+- **reconciled quarry material** whose useful mechanisms already have active owners;
+- **partially / unreconciled material** that still contains forward-relevant mechanisms.
+
+The active routing owner is [Legacy Source Audit and Retrieval Index](Legacy-Source-Audit.md).
+
+Highest-salvage areas identified:
+
+- Volume 02 — regional/local institutions, minor polities, education and law;
+- Volume 06 — religious institutional depth, teaching, archives, charity, sects and pilgrimage;
+- Volume 08 — Council stress tests, guild class/economic functions and underworld structure;
+- Volume 09 — military/logistics material requiring a current-tech pass;
+- Volume 12 — grounded domino design and historical escalation research.
+
+Volume 13 also exposed underdeveloped current systems: education/knowledge transmission, medicine/healing institutions, law/justice, folk belief/taboo and timekeeping. These were added to [Open Questions](../Open-Questions.md) as gaps rather than promoted as old lore.
+
+One forward-relevant method was extracted immediately into [Grounded Domino Design Method](Grounded-Domino-Design.md).
+
+The audit also found superseded region labels still present in active Crime, Weapons, Character, Villain-Domino and Guild pages. Those labels were aligned to the current regional naming set.
+
+Duplicate all-in-one / nested package files remain provenance but should not be normal retrieval targets; the thematic volumes are preferred.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
