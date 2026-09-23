@@ -80,10 +80,10 @@ The old sources repeatedly show **temporary coalitions around concrete interests
 
 Examples preserved in the legacy material include:
 
-- North Country clans obtaining Western Uplands metal support during maritime conflict;
-- South Country orchard powers financing River Country resistance to an Western Uplands expansion;
-- Western Uplands and South Country interests backing different High Country pass-lords;
-- South Country patrons changing forging partners when circumstances changed;
+- North Coast clans obtaining Stone Hills metal support during maritime conflict;
+- Old Cities orchard powers financing Low Rivers resistance to an Stone Hills expansion;
+- Stone Hills and Old Cities interests backing different High Roads pass-lords;
+- Old Cities patrons changing forging partners when circumstances changed;
 - merchant and guild interests pressuring rulers toward stability;
 - famine, routes, ore, fishing access and tolls changing alliances.
 
@@ -153,14 +153,14 @@ These are candidate relationships, not promoted canon.
 
 | Actor / institution | Historical signal | Working fit |
 | --- | --- | --- |
-| **Summithold / central High Country institutions** | High Country proposes or hosts the Convergence; arbitration, routes and consensus become central to the new order | **Strong Charter core candidate** |
+| **Summithold / central High Roads institutions** | High Roads proposes or hosts the Convergence; arbitration, routes and consensus become central to the new order | **Strong Charter core candidate** |
 | **Verdanthearth central authority** | large organized agricultural state; friendly toward Summithold and Aurorashore; food stability is central to the settlement | **Strong Charter partner candidate** |
-| **Aurorashore / North Country Clanhold leadership** | recognized maritime participant; old source gives friendly ties with Verdanthearth; Convergence regularizes maritime access | **Charter partner, but internally loose** |
-| **Western Uplands Sovereignty** | one of the largest established powers and a major resource pillar of the settlement | **Institutional beneficiary, but likely internally contested / possible hinge** |
+| **Aurorashore / North Coast Clanhold leadership** | recognized maritime participant; old source gives friendly ties with Verdanthearth; Convergence regularizes maritime access | **Charter partner, but internally loose** |
+| **Stone Hills Sovereignty** | one of the largest established powers and a major resource pillar of the settlement | **Institutional beneficiary, but likely internally contested / possible hinge** |
 
-Western Uplands should not be forced wholesale into one side yet.
+Stone Hills should not be forced wholesale into one side yet.
 
-Its crown, major guilds, industrial towns and Blackbellow already have enough conflicting interests that **different Western Uplands actors may align differently**.
+Its crown, major guilds, industrial towns and Blackbellow already have enough conflicting interests that **different Stone Hills actors may align differently**.
 
 ### WWF-style pressure cycle
 
@@ -196,11 +196,11 @@ That gives them a coherent reason to coordinate.
 | Actor / institution | Historical signal | Working fit |
 | --- | --- | --- |
 | **Cliffhaven** | explicitly attempts to undercut Summithold's toll dominance | **Very strong Ascendant candidate** |
-| **Blackbellow Consortium** | wealthy guild-run city-state; higher wages attract workers; tense with Western Uplands crown | **Very strong Ascendant candidate** |
-| **ambitious South Country city-states / patron networks** | long tradition of city competition, merchant wealth, prestige contests and external patronage | **Strong source of money, spectacle and recruitment** |
-| **Dunespire / Zalhar-type independent South Country powers** | suspicion of central Solanterra authority and guarded independence | **Possible Ascendant members** |
-| **Whitepeak-type North Country elite** | explicitly torn between outside industrial ties and inherited clan politics | **Excellent swing / divided-alignment example** |
-| **smaller High Country, River Country and North Country powers** | several legacy polities resent regional capitals, tolls, tribute or centralization | **Peripheral or issue-specific recruits** |
+| **Blackbellow Consortium** | wealthy guild-run city-state; higher wages attract workers; tense with Stone Hills crown | **Very strong Ascendant candidate** |
+| **ambitious Old Cities city-states / patron networks** | long tradition of city competition, merchant wealth, prestige contests and external patronage | **Strong source of money, spectacle and recruitment** |
+| **Dunespire / Zalhar-type independent Old Cities powers** | suspicion of central Solanterra authority and guarded independence | **Possible Ascendant members** |
+| **Whitepeak-type North Coast elite** | explicitly torn between outside industrial ties and inherited clan politics | **Excellent swing / divided-alignment example** |
+| **smaller High Roads, Low Rivers and North Coast powers** | several legacy polities resent regional capitals, tolls, tribute or centralization | **Peripheral or issue-specific recruits** |
 
 The exact named polities remain legacy candidates until reconciled.
 
@@ -213,7 +213,7 @@ That may be its origin rather than its mature state.
 Its combined resources can be formidable:
 
 - Blackbellow-style industrial money;
-- South Country patron and merchant wealth;
+- Old Cities patron and merchant wealth;
 - secondary ports;
 - ambitious courts;
 - guild networks;
@@ -283,21 +283,21 @@ A young engineer may leave a Charter capital because Blackbellow offers a labora
 
 A noble may publicly defend the Charter while privately financing Ascendant projects.
 
-A South Country patron may bankroll an Ascendant festival while relying on Charter arbitration for international contracts.
+A Old Cities patron may bankroll an Ascendant festival while relying on Charter arbitration for international contracts.
 
 This is a rivalry of **status, access and future direction**, not two ethnic camps.
 
 ## Actors that should probably resist clean alignment
 
-### Forest Country
+### Longwood
 
-Current and legacy material make Forest Country suspicious of outside extraction and centralization.
+Current and legacy material make Longwood suspicious of outside extraction and centralization.
 
 That does not automatically make it a Charter or Ascendant member.
 
 Different communities could cooperate with whichever side offers stronger ecological guarantees.
 
-Forest Country is more useful as a place where both spheres discover that their normal incentives do not map cleanly onto local priorities.
+Longwood is more useful as a place where both spheres discover that their normal incentives do not map cleanly onto local priorities.
 
 ### Tunnels
 
@@ -321,11 +321,11 @@ Port remains deliberately outside the binary.
 
 Current events already supply mechanisms:
 
-- **Western Uplands labor unrest:** Blackbellow-style competitors can recruit workers, engineers or organizers.
-- **River Country abundance crisis:** rival finance and storage networks can offer competing rescues.
-- **North Country convoy politics:** Charter maritime rules can collide with independent harbor interests.
-- **High Country caravan attacks:** Summithold and Cliffhaven-style route systems can compete over diverted traffic.
-- **South Country coordination:** attempts at city-state cooperation are already interpreted as possible bloc formation.
+- **Stone Hills labor unrest:** Blackbellow-style competitors can recruit workers, engineers or organizers.
+- **Low Rivers abundance crisis:** rival finance and storage networks can offer competing rescues.
+- **North Coast convoy politics:** Charter maritime rules can collide with independent harbor interests.
+- **High Roads caravan attacks:** Summithold and Cliffhaven-style route systems can compete over diverted traffic.
+- **Old Cities coordination:** attempts at city-state cooperation are already interpreted as possible bloc formation.
 - **Port merchant conflict:** both spheres have incentives to influence finance, insurance, warehouses and prominent Port figures.
 
 The Villain therefore does not need to invent the rivalry.
@@ -375,7 +375,7 @@ Established powers resist surrendering advantages that they see as part of the s
 
 Individual disputes begin linking together.
 
-A fight over High Country tolls, an Western Uplands labor market and a South Country patronage dispute stop looking separate.
+A fight over High Roads tolls, an Stone Hills labor market and a Old Cities patronage dispute stop looking separate.
 
 Participants increasingly understand them as part of the same competitive ecosystem.
 
@@ -444,8 +444,8 @@ A whole polity can drift.
 
 - final sphere names;
 - exact members;
-- whether Western Uplands's crown ultimately leans Charter, Ascendant or becomes the major contested hinge;
-- which South Country cities lead the Ascendant network;
+- whether Stone Hills's crown ultimately leans Charter, Ascendant or becomes the major contested hinge;
+- which Old Cities cities lead the Ascendant network;
 - whether the Merchant Guild War becomes the genesis event;
 - when ordinary people begin using a shared label for each sphere.
 
@@ -458,7 +458,7 @@ Take six legacy actors:
 - Aurorashore;
 - Cliffhaven;
 - Blackbellow;
-- one major South Country city-state.
+- one major Old Cities city-state.
 
 For each, reconstruct:
 
