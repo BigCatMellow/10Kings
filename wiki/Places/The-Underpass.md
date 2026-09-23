@@ -4,7 +4,7 @@
 
 **Working canon.**
 
-The Underpass are a network of natural caves, fault passages, excavated tunnels, chambers, settlements, and trade routes beneath portions of Central Range.
+The Underpass is a network of natural caves, fault passages, excavated tunnels, chambers, settlements, and trade routes beneath portions of The Spine.
 
 It is not a single road and not wholly mapped.
 
@@ -25,7 +25,7 @@ Some routes are wide enough for pack animals or small carts. Others require sing
 
 ## Settlement
 
-Communities in the Underpass may include:
+Underpass communities may include:
 - miners;
 - guides;
 - traders;
