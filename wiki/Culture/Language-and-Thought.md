@@ -52,9 +52,9 @@ The Convergence creates strong pressure for:
 - legal / diplomatic registers;
 - more consistent written forms.
 
-Highridge is the strongest candidate for an important source of interregional legal and trade conventions because it was already multilingual, route-centered and experienced in arbitration.
+High Country is the strongest candidate for an important source of interregional legal and trade conventions because it was already multilingual, route-centered and experienced in arbitration.
 
-This does **not** mean everyone speaks a single Highridge language.
+This does **not** mean everyone speaks a single High Country language.
 
 A professional interregional register can spread without replacing household languages.
 
@@ -66,7 +66,7 @@ Language can follow the same pattern.
 
 Modern prestige varieties may therefore be **newer than many local dialects**.
 
-A speech form presented as “proper Ironcrest” or “formal Sunplains” may reflect post-Convergence institutions rather than an ancient unified people.
+A speech form presented as “proper Western Uplands” or “formal South Country” may reflect post-Convergence institutions rather than an ancient unified people.
 
 ### Cross-regional registers
 
@@ -88,7 +88,7 @@ Two speakers may share professional vocabulary without sharing a home language.
 
 These are design directions, not finalized conlangs.
 
-### Ironcrest languages
+### Western Uplands languages
 
 Possible recurring features:
 - strong distinction between completed, inspected, and merely claimed work;
@@ -98,9 +98,9 @@ Possible recurring features:
 
 Likely cognitive/social effect: people may habitually ask who is accountable and whether something is actually finished, certified, or only promised.
 
-This should not make Ironcrest people inherently blunt.
+This should not make Western Uplands people inherently blunt.
 
-### Northwind languages
+### North Country languages
 
 Possible features:
 - inclusive and exclusive forms of "we";
@@ -110,7 +110,7 @@ Possible features:
 
 Effect: speakers habitually clarify group membership, information source, and situational conditions — useful where survival depends on reliable reports and coordinated crews.
 
-### Greenvale languages
+### River Country languages
 
 Possible features:
 - detailed aspect: beginning, ongoing, recurring, completed, interrupted, seasonal;
@@ -120,9 +120,9 @@ Possible features:
 
 Effect: speakers may naturally discuss plans as processes with stages and shared obligations rather than isolated actions.
 
-### Highridge languages
+### High Country languages
 
-Highridge is likely highly multilingual.
+High Country is likely highly multilingual.
 
 Common trade registers may feature:
 - explicit markers of certainty and obligation;
@@ -132,7 +132,7 @@ Common trade registers may feature:
 
 Effect: habitual negotiation rewards explicit assumptions and degrees of commitment.
 
-### Deepwood languages
+### Forest Country languages
 
 Possible features:
 - animate/inanimate or agency distinctions that place many plants, waterways, animals, and places in grammatically important categories;
@@ -143,7 +143,7 @@ Effect: speakers may habitually represent environmental entities as participants
 
 Do not turn this into "the language makes them spiritual."
 
-### Sunplains languages
+### South Country languages
 
 Possible features:
 - developed politeness and status registers in older urban centers;
@@ -158,9 +158,9 @@ Effect: speakers often attend closely to social positioning and the public conse
 First-generation bilingual adults may code-switch: one register at home, another in market or law.
 
 Second- and third-generation border populations often create stable mixed dialects. More importantly, they may combine habits:
-- direct responsibility marking from Ironcrest + process/aspect distinctions from Greenvale;
-- Northwind evidentiality + Highridge contractual conditionals;
-- Deepwood ecological agency + Highridge precision about obligations.
+- direct responsibility marking from Western Uplands + process/aspect distinctions from River Country;
+- North Country evidentiality + High Country contractual conditionals;
+- Forest Country ecological agency + High Country precision about obligations.
 
 This can produce people who are unusually effective mediators not because bilingualism makes them wiser, but because they have learned multiple conventions for what must be stated explicitly.
 
@@ -174,7 +174,7 @@ Port should contain:
 - religious registers;
 - neighborhood dialects.
 
-A third-generation Port family should not sound simply like diluted Northwind or Sunplains.
+A third-generation Port family should not sound simply like diluted North Country or South Country.
 
 
 ## Regional ecology, not regional uniformity
@@ -183,14 +183,14 @@ The regional feature lists above should be read as **possible recurring structur
 
 Current historical direction:
 
-- **Ironcrest:** multiple upland, valley and town varieties beneath later administrative and craft standardization;
-- **Northwind:** coastal and island dialect chains with shared maritime vocabulary but strong local variation;
-- **Greenvale:** river / lowland continua shaped by estate, village and market networks;
-- **Highridge:** especially multilingual, with pass-town mixed speech, caravan registers and legal / trade conventions;
-- **Deepwood:** several forest and river language communities with specialist ecological vocabularies and ritual registers;
-- **Sunplains:** multiple city and rural varieties, including court, merchant and irrigation-law registers;
+- **Western Uplands:** multiple upland, valley and town varieties beneath later administrative and craft standardization;
+- **North Country:** coastal and island dialect chains with shared maritime vocabulary but strong local variation;
+- **River Country:** river / lowland continua shaped by estate, village and market networks;
+- **High Country:** especially multilingual, with pass-town mixed speech, caravan registers and legal / trade conventions;
+- **Forest Country:** several forest and river language communities with specialist ecological vocabularies and ritual registers;
+- **South Country:** multiple city and rural varieties, including court, merchant and irrigation-law registers;
 - **Port:** contact varieties that become native urban speech rather than remaining a mechanical mixture;
-- **Underpass:** enclave languages, route cants and mixed market speech reflecting several surface origins.
+- **Tunnels:** enclave languages, route cants and mixed market speech reflecting several surface origins.
 
 ## Port language development
 
