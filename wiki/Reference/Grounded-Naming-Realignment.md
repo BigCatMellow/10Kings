@@ -275,3 +275,56 @@ unless that lost language and history already exist for reasons beyond rescuing 
 The setting should be comfortable with boring names.
 
 That is how important places often begin.
+
+
+## Second-pass macro names
+
+The first grounded correction intentionally overshot toward generic labels such as **River Country** and **Forest Country**.
+
+Those labels solved the fantasy-branding problem but read too much like temporary map categories.
+
+The second pass keeps ordinary naming logic while allowing each macro-region a more specific historical shorthand.
+
+### Working set
+
+| First grounded label | Second-pass working name | Naming logic |
+| --- | --- | --- |
+| Western Uplands | **the Stone Hills** | ordinary geographic shorthand for the old western upland core; stone/hill country predates any single mining polity |
+| North Country | **the North Coast** | simple external/common name rooted in the maritime core; inland and diaspora communities can still belong culturally |
+| River Country | **the Low Rivers** | common description of the broad lower river systems and settled lowlands around them |
+| High Country | **the High Roads** | historical route-country name built from the roads, passes and caravan network rather than from altitude alone |
+| Forest Country | **the Longwood** | common name for the great historical forest core; does not imply all forests belong to it |
+| South Country | **the Old Cities** | cultural-historical shorthand for the old city-state / irrigation heartland rather than a climate label |
+| Central Range | **Central Range** | retained; plain geographic map term works |
+| The Tunnels | **the Tunnels** | retained; ordinary common shorthand works |
+| Port | **Port** | retained; deliberately plain international shorthand works |
+
+### Why these work better
+
+They are still ordinary.
+
+None require:
+- a fabricated ancient language;
+- apostrophes;
+- prestige syllables;
+- a fantasy suffix;
+- a symbolic national myth.
+
+But they have different histories and shapes.
+
+They also work as cultural labels without becoming ethnic borders:
+
+- a **Stone Hills** family can live in Port;
+- a **North Coast** clan can settle another coastline;
+- a **Low Rivers** milling community can establish itself beside a distant river;
+- **High Roads** merchant families can maintain houses far from the plateau;
+- a **Longwood** community can exist in another large forest;
+- **Old Cities** merchant / civic traditions can survive in distant colonies or neighborhoods.
+
+The name identifies a historical cultural core, not exclusive possession of a biome or territory.
+
+### Still provisional
+
+These names are stronger than the first generic correction but remain working names.
+
+If later local history yields a better ordinary name—a river name, family name, old road term, or historically attested exonym—that can still replace them.
