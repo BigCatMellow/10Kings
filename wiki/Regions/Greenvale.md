@@ -6,6 +6,10 @@
 
 River Country is the largest major agricultural heartland, but it is not one endless field. It contains market towns, pasture, rivers, orchards, wetlands, forests, mills, estates, tenant villages, workshops, roads, shrines, and regional cities.
 
+## Cultural reach
+
+River Country is a **cultural core and historical concentration**, not the territory of one agricultural people. River Country-descended farming, milling, storage and village traditions can travel with migrants into other fertile valleys and river systems. The geographic River Country also contains towns, estates, migrant communities and border populations with other cultural identities.
+
 ## Geography
 
 River Country occupies broad temperate lowlands and rolling country with comparatively reliable rainfall and productive soils.
