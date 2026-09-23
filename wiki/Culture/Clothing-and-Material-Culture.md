@@ -58,7 +58,7 @@ Legacy material is **not** authoritative where it assigns:
 
 - one signature silhouette to an entire region;
 - one color palette to a people;
-- “forest camouflage” as ordinary Forest Country dress;
+- “forest camouflage” as ordinary Longwood dress;
 - decorative motifs simply because they match a region's theme;
 - direct copies of modern Earth ethnic clothing;
 - personality through clothing (“stoic,” “gritty,” “elegant,” etc.).
@@ -155,7 +155,7 @@ Clothing may prioritize:
 - footwear insulation;
 - replaceable outer layers.
 
-North Country and exposed High Country communities are likely to use such strategies often, but the exact garment forms should vary locally.
+North Coast and exposed High Roads communities are likely to use such strategies often, but the exact garment forms should vary locally.
 
 ## Hot / dry conditions
 
@@ -169,7 +169,7 @@ Clothing may prioritize:
 - dust protection;
 - air circulation.
 
-South Country forms should vary strongly by city, occupation, wealth and religious practice.
+Old Cities forms should vary strongly by city, occupation, wealth and religious practice.
 
 ## Wet / forest environments
 
@@ -199,7 +199,7 @@ Garments may include:
 - eye / face protection where plausible;
 - work footwear.
 
-This is occupational clothing, not “Western Uplands national dress.”
+This is occupational clothing, not “Stone Hills national dress.”
 
 ---
 
@@ -427,11 +427,11 @@ Motifs should emerge from actual institutions and histories.
 
 Avoid assigning:
 
-- waves to all North Country;
-- vines to all River Country;
-- flames to all Western Uplands;
-- leaves to all Forest Country;
-- suns to all South Country.
+- waves to all North Coast;
+- vines to all Low Rivers;
+- flames to all Stone Hills;
+- leaves to all Longwood;
+- suns to all Old Cities.
 
 Those can exist as specific guild, household, civic or religious symbols.
 
@@ -607,7 +607,7 @@ Examples:
 - a politically contested hat or sash;
 - secondhand military clothing repurposed by civilians.
 
-Do not create “half Western Uplands / half River Country costume.”
+Do not create “half Stone Hills / half Low Rivers costume.”
 
 ---
 
@@ -615,7 +615,7 @@ Do not create “half Western Uplands / half River Country costume.”
 
 These are pressures, not costumes.
 
-### Western Uplands
+### Stone Hills
 - wool / linen-like cloth where available;
 - leather;
 - work protection;
@@ -624,21 +624,21 @@ These are pressures, not costumes.
 - imported dyes / luxury cloth;
 - worker versus owner distinction.
 
-### North Country
+### North Coast
 - insulation;
 - water / wind resistance;
 - maritime workwear;
 - leather / fur / wool where available;
 - imported fine cloth concentrated in ports.
 
-### River Country
+### Low Rivers
 - agricultural fibers;
 - broad rural textile production;
 - washable workwear;
 - seasonal sun / rain protection;
 - large internal differences between estate, village and city.
 
-### High Country
+### High Roads
 - layers;
 - wool / felt;
 - travel wear;
@@ -646,7 +646,7 @@ These are pressures, not costumes.
 - imported textiles;
 - caravan secondhand trade.
 
-### Forest Country
+### Longwood
 - rain / humidity adaptation;
 - forest fibers where plausible;
 - leather / woven plant material;
@@ -654,7 +654,7 @@ These are pressures, not costumes.
 - local dye / plant knowledge;
 - strong variation between city, logging district, river town and remote community.
 
-### South Country
+### Old Cities
 - heat / sun adaptation;
 - linen / cotton-like fibers where plausible;
 - scarves / head coverings where locally useful;
