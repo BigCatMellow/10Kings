@@ -108,3 +108,15 @@ This should not imply that historical Appalachians were generally nomadic. It is
 Border populations should not look like "half of culture A plus half of culture B." Over generations, they develop their own institutions, accents, marriage patterns, foods, building types, jokes, prejudices, and identities.
 
 Port should have neighborhoods whose cultures are several generations removed from their ancestral regions and no longer fit clean categories.
+
+
+## Everyday-culture owners
+
+The cultural method above is implemented through more specific owners:
+
+- [Daily Life and Customs](Daily-Life-and-Customs.md) — household, care, life stages, hospitality, etiquette, privacy, mourning and ordinary social obligation;
+- [Clothing and Material Culture](Clothing-and-Material-Culture.md) — textiles, workwear, repair, fashion, status objects, secondhand goods and household material culture;
+- [Food](Food.md) — cuisine as ecology + trade + class + season + preservation + religion + history;
+- [Architecture](Architecture.md) — built environment as accumulated adaptation.
+
+These pages should deepen culture without turning regions into personalities or costume sets.
