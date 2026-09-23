@@ -6,7 +6,9 @@
 
 This page owns the world-level model for how people, messages, rumors, records, and intelligence move through the setting.
 
-It does **not** establish exact travel times, literacy rates, a universal postal service, a single courier guild, or precise route schedules. Those remain open until map scale, language families, and local institutions are firmer.
+It does **not** establish exact settlement-to-settlement travel times, literacy rates, a universal postal service, a single courier guild, or precise route schedules.
+
+However, [Working Map — Scale and Travel-Time Test V1](Reference/Working-Map-Scale-and-Travel-Test.md) now establishes a usable **working travel envelope**: adjacent major economic hubs are usually several commercial days apart, multi-region overland journeys usually take weeks, and urgent institutional dispatch can move materially faster where prepared routes and remounts exist.
 
 Related owners:
 
@@ -50,7 +52,15 @@ This extends the carrier-specific cultural-transmission model already supported 
 
 # 2. Information speed is network latency
 
-Until exact map scale and travel times are fixed, information speed should be modeled structurally rather than with invented day counts.
+Information speed should still be modeled structurally rather than as one distance formula.
+
+The map-scale test now supplies provisional day ranges for major network anchors, but effective information time remains:
+
+- departure;
+- physical travel;
+- handoff;
+- verification;
+- institutional friction.
 
 A message's total delay is approximately:
 
@@ -142,6 +152,22 @@ Information may also be delayed by:
 - diplomatic protocol;
 - fear of punishment;
 - deliberate misinformation.
+
+## Route quality is multidimensional
+
+Two routes with similar travel times can have radically different information / cargo value.
+
+Track:
+
+- speed;
+- capacity;
+- reliability;
+- seasonality;
+- cost;
+- security;
+- political friction.
+
+This is why an Underpass branch can matter strategically without replacing a surface road, and why a sea lane can remain dominant for bulk cargo even when a messenger can outrun it overland.
 
 ---
 
