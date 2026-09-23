@@ -72,7 +72,7 @@ Do not treat it as canon, but do not design the topic from scratch without revie
 | **04 — Cultures / Peoples / Daily Life** | **MOSTLY RECONCILED, NOMADS PARTIAL** | Daily Life, Clothing, Arts, Culture and Influence, Nomads | plurality of mobile peoples; route-based kin networks; inheritance / household prompts; localized taboo/superstition prompts; portable crafts and oral-memory mechanisms | regional psychology, costume stereotypes, fantasy-race material unless deliberately revived under current world rules |
 | **05 — Food / Cuisine** | **RECONCILED** | Food, Food Diaspora and Adaptation, Phase 3 | cooking techniques, preservation, labor food, historical adaptation prompts, equipment questions | themed dish names, direct modern cuisine copies, recipe-card canon, forge/frost/forest flavor personalities |
 | **06 — Religion / Gods / Artifacts** | **RECONCILED STRUCTURALLY / NAMED DETAIL PRESERVED PROVISIONAL** | Religions, Religion Legacy Reconciliation, Religious Artifacts Framework, Festivals, Daily Life | future local testing can promote selected sects, texts, saints, personifications, relics and practices | literal 168-god cosmology, copied ritual blocks, universal temple aesthetics, and supernatural claims remain unpromoted |
-| **07 — Linguistics** | **PARTIALLY RECONCILED** | Language and Thought, Naming, language-history references | trade/legal registers; multilingual institutional language; loanword paths; literacy / orthography prompts; class/guild registers; examples that can test current framework | deterministic “regional personality through grammar,” accent caricature, phonetic stereotype dialogue |
+| **07 — Linguistics** | **RECONCILED STRUCTURALLY / FEATURE CANDIDATES PROVISIONAL** | Language and Thought, Language Families and Contact, Naming, Linguistics Legacy Reconciliation | scripts, literacy distribution, orthography, prestige varieties and selected grammatical-feature candidates remain future-development material | region-coded personality grammar, accent caricature, deterministic linguistic relativity and phonetic stereotype dialogue remain unpromoted |
 | **08 — Council / Guilds / Underworld** | **RECONCILED STRUCTURALLY / NAMED DETAIL PRESERVED PROVISIONAL** | Economic Council, Guilds, Crime and Underworld, Council/Guild/Underworld reconciliation references | future passes can promote selected families, guild names, criminal factions, Council succession rules and member economics | omnipotent Council model, RPG-class guilds, region-coded gangs, overpowered magic/technology and exact old Dominus structure remain unpromoted |
 | **09 — Military / Weapons** | **RECONCILED STRUCTURALLY / UNIT NAMES PROVISIONAL** | Weapons and Elite Troops, Kingdoms and Politics, Military and Weapons Legacy Reconciliation | military logistics, arsenals, recruitment/pay, campaign supply and selected unit names remain future-development material | mechanized armies, unsupported magic weapons, primitive-mobile-peoples stereotypes, scrap-poor aesthetic, and one signature force per region remain unpromoted |
 | **10 — Current Events** | **PARTIALLY RECONCILED** | Current Events, World System, Villain's Dominoes | alternate pressure chains, guild/religious reactions, Underpass consequences, possible second/third-order effects | any event that contradicts current opening-state owner; old conspiracies treated as already happening |
@@ -232,9 +232,9 @@ If repository size or search noise becomes a problem, the duplicate package file
 
 ## P0 — review before relevant new work
 
-1. **Volume 07 — language examples / registers**
-2. **Volume 10 — current-event alternatives / secondary effects**
-3. **Volume 11 — character / villain alternatives and critique**
+1. **Volume 10 — current-event alternatives / secondary effects**
+2. **Volume 11 — character / villain alternatives and critique**
+3. **Volume 01 — remaining foundations / history conflicts as needed**
 
 ## P1 — deliberate future passes
 
