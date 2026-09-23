@@ -49,6 +49,45 @@ historical core
 
 The resulting branch may eventually differ more from the old homeland than from its immediate neighbors.
 
+## Contact produces new traditions
+
+Cultural overlap should not be modeled only as coexistence.
+
+Repeated contact can produce **new local traditions** that neither source culture originally possessed.
+
+This can happen through:
+
+- intermarriage;
+- shared neighborhoods;
+- guild workshops;
+- mixed military units;
+- markets;
+- schools;
+- religious communities;
+- migration corridors;
+- border settlement;
+- disaster / refugee movement.
+
+A new practice can begin as borrowing and become ordinary local culture after several generations.
+
+This applies to:
+
+- food;
+- clothing;
+- architecture;
+- language;
+- music;
+- festivals;
+- naming;
+- work customs;
+- household etiquette.
+
+The important rule is:
+
+> **Cultural bleed can produce a third thing.**
+
+Do not force every mixed practice to remain legible forever as “A + B.”
+
 ## Current inspiration pools
 
 ### Stone Hills
