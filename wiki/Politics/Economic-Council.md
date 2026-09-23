@@ -265,21 +265,24 @@ The person occupying a Council seat represents a much larger network.
 
 This matters because killing, exposing, or replacing one Council member does not automatically destroy the system behind the seat.
 
-## Succession
+## Internal constitution
 
-Exact succession remains open.
+See [Economic Council — Internal Structure](Economic-Council-Internal-Structure.md).
 
-Possible elements include:
+The current institutional model establishes that:
 
-- inheritance;
-- internal family selection;
-- partnership approval;
-- Council ratification;
-- debt or ownership qualification;
-- appointment of a trusted non-heir;
-- replacement after a house loses the economic capacity to justify its seat.
+- seats belong to durable member networks rather than permanently to individuals;
+- member houses choose successors, while the Council recognizes the person who will occupy the seat;
+- succession methods can differ between houses;
+- there is no permanent supreme chair;
+- a small shared secretariat and restricted archive preserve common institutional memory;
+- the Council has limited common emergency funds, but large actions still require members to commit their own resources;
+- decisions operate through **assent and commitment**, not simple majority command;
+- member houses remain independently powerful outside Council decisions;
+- functional vetoes come from control of necessary capabilities rather than automatic formal veto rights;
+- internal enforcement relies on information, finance, contracts, recognition, and trust rather than police power.
 
-Do not assume all seats use the same succession rule.
+The detailed mechanics and remaining constitutional questions live on the internal-structure page.
 
 ---
 
@@ -1203,29 +1206,26 @@ It becomes weakest when the world proves that indispensable functions can be per
 
 The following should remain unresolved until later passes:
 
-- final number of seats;
-- final portfolio names;
+- final number and names of seats;
 - final member-house names;
-- whether every seat is dynastic;
-- how a house qualifies for a seat;
-- how a house loses one;
-- voting / consensus rules;
+- exact assent thresholds for routine, coercive, and constitutional action;
+- whether any seat has a formal review right beyond functional leverage;
+- exact common-reserve assessment;
 - exact meeting location and cadence;
-- whether Port hosts regular Council meetings;
 - exact public facade;
-- whether the Council has pooled money or property;
-- whether it employs permanent shared staff;
-- precise relationship to Convergence institutions;
+- archive locations and authentication practices;
+- precise relationship to surviving Convergence institutions;
 - how many rulers know it exists;
 - how common Council conspiracy theories are;
-- how Council agreements are recorded;
-- whether there is an internal charter;
-- what happens if a member house refuses a Council decision.
+- founding compact / charter name and wording;
+- whether a house has ever been expelled or replaced;
+- current seat-holders and internal family factions.
 
 These are now **institutional questions**, not gaps in the Council's basic purpose.
 
 ## Related pages
 
+- [Economic Council — Internal Structure](Economic-Council-Internal-Structure.md)
 - [The Convergence](../History/The-Convergence.md)
 - [The World as a System](../World-System.md)
 - [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
