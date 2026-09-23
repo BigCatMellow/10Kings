@@ -68,6 +68,8 @@ Instead develop:
 
 Several previously proposed character names are retained as **provisional** until this system is finalized.
 
+See [Personal Naming Framework](../Reference/Personal-Naming-Framework.md) for the current design method.
+
 
 ## Working name-layer model
 
