@@ -301,7 +301,7 @@ Longwood is more useful as a place where both spheres discover that their normal
 
 ### Tunnels
 
-The Tunnels can remain transactional and internally divided.
+The Underpass can remain transactional and internally divided.
 
 Control of a route may matter more than sphere loyalty.
 
