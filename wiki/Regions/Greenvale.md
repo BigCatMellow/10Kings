@@ -139,6 +139,16 @@ Political conflict centers on:
 
 The Council's food/finance networks can exert enormous influence here without ruling Low Rivers directly.
 
+## Transfer-market pressure
+
+The tested physical network implies at least one major upper-river transfer market where reliable bulk navigation gives way to road / caravan transport toward the High Roads.
+
+See [G1 Head-of-Navigation Market — Middle-Worldbuilding Test](../Reference/G1-Head-of-Navigation-Market-Test.md).
+
+Its strongest working consequence is that **storage and onward-transport capacity can shape producer bargaining power as strongly as harvest size**. A town can therefore be visibly overflowing with food while indebted growers are forced to sell into falling prices because warehouses, carts, credit, or buyers are constrained.
+
+Exact town name, polity, constitution, and guilds remain open.
+
 ## Current pressures
 
 - an unusually abundant harvest or new high-yield seed strain;
