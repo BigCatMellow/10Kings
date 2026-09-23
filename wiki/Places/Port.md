@@ -368,6 +368,21 @@ Exact:
 
 remain open.
 
+## Financial conversion and settlement
+
+See [Money, Credit, Exchange, and Measures](../Money-Credit-and-Measures.md).
+
+Port's repeated foreign trade also creates demand for:
+
+- currency exchange;
+- account settlement;
+- cargo finance;
+- recognized local weights and measures;
+- warehouse-backed obligations;
+- insurance-like risk arrangements.
+
+This does **not** establish one Port currency or one dominant bank. Port's advantage is that several financial systems can be converted and settled there under institutions outsiders already use.
+
 ---
 
 # 12. Foreign relations remain constrained but unresolved
