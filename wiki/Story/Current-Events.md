@@ -4,6 +4,8 @@
 
 This is a snapshot of the world shortly before or during the opening movement of the story.
 
+This page is authoritative for what is actually current. [Current Events Legacy Reconciliation](../Reference/Current-Events-Legacy-Reconciliation.md) preserves compatible alternate incidents and ripple mechanisms from Volume 10 without making them present-tense canon.
+
 Many events are linked, but most participants do not know that.
 
 Some are caused by the Villain.
