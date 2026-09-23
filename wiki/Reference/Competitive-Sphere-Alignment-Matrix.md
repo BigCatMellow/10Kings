@@ -54,11 +54,11 @@ It is the shared market, cultural laboratory, recruitment ground and politically
 
 ---
 
-# 1. Summithold / central High Country institutions
+# 1. Summithold / central High Roads institutions
 
 ## Before the Convergence
 
-High Country predecessor politics revolved around:
+High Roads predecessor politics revolved around:
 
 - toll lords;
 - caravan families;
@@ -66,17 +66,17 @@ High Country predecessor politics revolved around:
 - merchant coalitions;
 - competing route systems.
 
-The legacy pre-Convergence notes describe High Country pass-lords changing tolls, closing trails and receiving outside backing from Western Uplands and South Country interests.
+The legacy pre-Convergence notes describe High Roads pass-lords changing tolls, closing trails and receiving outside backing from Stone Hills and Old Cities interests.
 
-This means Summithold's later authority did **not** emerge from an eternally unified High Country state.
+This means Summithold's later authority did **not** emerge from an eternally unified High Roads state.
 
 It emerged from a region where controlling movement was political power.
 
 ## What the Convergence gives it
 
-High Country is the strongest current candidate for the principal Convergence congress.
+High Roads is the strongest current candidate for the principal Convergence congress.
 
-The settlement also creates precisely the institutions High Country is suited to dominate:
+The settlement also creates precisely the institutions High Roads is suited to dominate:
 
 - route rules;
 - arbitration;
@@ -84,15 +84,15 @@ The settlement also creates precisely the institutions High Country is suited to
 - standardized negotiations;
 - repeated interregional congresses.
 
-Legacy polity notes later place Summithold at the center of High Country authority and give it final influence over important caravan tolls.
+Legacy polity notes later place Summithold at the center of High Roads authority and give it final influence over important caravan tolls.
 
 So the Convergence turns a contested route center into a **recognized institutional center**.
 
 ## What it gives up
 
-The same settlement that legitimizes High Country also limits arbitrary route power.
+The same settlement that legitimizes High Roads also limits arbitrary route power.
 
-A post-Convergence system of protected movement and agreed access means a major High Country authority cannot simply behave like the old toll-lords without undermining the settlement that legitimizes it.
+A post-Convergence system of protected movement and agreed access means a major High Roads authority cannot simply behave like the old toll-lords without undermining the settlement that legitimizes it.
 
 It is therefore trapped by its own success:
 
@@ -128,21 +128,21 @@ Summithold is the cleanest current WWF-side anchor because its prestige is tied 
 
 ---
 
-# 2. Verdanthearth / central River Country authority
+# 2. Verdanthearth / central Low Rivers authority
 
 ## Before the Convergence
 
-River Country predecessor politics repeatedly destabilized under crop failure.
+Low Rivers predecessor politics repeatedly destabilized under crop failure.
 
 Legacy history includes:
 
 - famine raids;
 - fragmented farmland barons;
 - expansion into healthier territory;
-- Western Uplands's temporary Iron-Field conquest;
-- retaliation funded partly by South Country orchard powers.
+- Stone Hills's temporary Iron-Field conquest;
+- retaliation funded partly by Old Cities orchard powers.
 
-River Country therefore enters the Convergence with a particularly strong memory of what unstable borders and insecure food systems cost.
+Low Rivers therefore enters the Convergence with a particularly strong memory of what unstable borders and insecure food systems cost.
 
 ## What the Convergence gives it
 
@@ -152,7 +152,7 @@ The settlement provides:
 - safer export routes;
 - reliable access to metal tools;
 - predictable markets;
-- reduced risk of another Western Uplands-style territorial push;
+- reduced risk of another Stone Hills-style territorial push;
 - a framework in which grain obligations become contractual rather than military.
 
 Legacy polity notes describe Verdanthearth as friendly with Summithold and Aurorashore and pragmatic with Cindermarch.
@@ -161,13 +161,13 @@ That is the strongest recovered pre-existing relationship cluster resembling a C
 
 ## What it gives up
 
-Stability also constrains River Country actors.
+Stability also constrains Low Rivers actors.
 
 Possible inherited constraints include:
 
 - recognized borders limiting opportunistic farmland expansion;
 - trade commitments during shortages;
-- external expectations that River Country will stabilize food supply;
+- external expectations that Low Rivers will stabilize food supply;
 - treaty interpretations around forest edges;
 - central crop taxation and storage systems becoming more politically important.
 
@@ -181,7 +181,7 @@ A system designed to protect food stability can become politically vulnerable wh
 
 Verdanthearth has more reason than many powers to value the settlement itself.
 
-But River Country should not be uniformly Charter-aligned.
+But Low Rivers should not be uniformly Charter-aligned.
 
 Potential Ascendant openings exist among:
 
@@ -193,18 +193,18 @@ Potential Ascendant openings exist among:
 
 ### What would humiliate it
 
-- a famous agricultural innovator accepting patronage from a South Country challenger;
-- an independent River Country market town joining a rival grain network;
+- a famous agricultural innovator accepting patronage from a Old Cities challenger;
+- an independent Low Rivers market town joining a rival grain network;
 - a challenger solving the abundance crisis faster than Charter institutions;
 - major farm cooperatives rejecting the central export/storage framework.
 
 ---
 
-# 3. Aurorashore / central North Country leadership
+# 3. Aurorashore / central North Coast leadership
 
 ## Before the Convergence
 
-North Country politics were unusually fragmented.
+North Coast politics were unusually fragmented.
 
 Pre-Convergence power included:
 
@@ -214,15 +214,15 @@ Pre-Convergence power included:
 - raiding fleets;
 - overlapping maritime claims.
 
-The legacy Great Coastal Skirmish also shows North Country clans cooperating with an Western Uplands forging faction against South Country-backed maritime pressure.
+The legacy Great Coastal Skirmish also shows North Coast clans cooperating with an Stone Hills forging faction against Old Cities-backed maritime pressure.
 
-This is important: North Country already has a history of **practical cross-regional alignment without ideological loyalty**.
+This is important: North Coast already has a history of **practical cross-regional alignment without ideological loyalty**.
 
 ## What the Convergence gives it
 
 The settlement provides:
 
-- recognition of a broader North Country political voice;
+- recognition of a broader North Coast political voice;
 - safer maritime trade;
 - expanded markets;
 - predictable grain and metal access;
@@ -233,7 +233,7 @@ Legacy notes also describe Verdanthearth as friendly toward Aurorashore.
 
 ## What it gives up
 
-The settlement may be particularly ambiguous for North Country.
+The settlement may be particularly ambiguous for North Coast.
 
 Maritime rules and neutral Port access benefit its traders, but they also restrain:
 
@@ -243,15 +243,15 @@ Maritime rules and neutral Port access benefit its traders, but they also restra
 - raiding traditions;
 - any old claim to special control over Port.
 
-[Contested Historical Memory](../History/Contested-Memory.md) preserves an unresolved tradition in which North Country interests once controlled Port before coalition pressure produced withdrawal.
+[Contested Historical Memory](../History/Contested-Memory.md) preserves an unresolved tradition in which North Coast interests once controlled Port before coalition pressure produced withdrawal.
 
-That is not canon chronology, but it gives a credible reason why some North Country families might view Convergence-era neutrality as **a loss disguised as peace**.
+That is not canon chronology, but it gives a credible reason why some North Coast families might view Convergence-era neutrality as **a loss disguised as peace**.
 
 ## Working alignment
 
 **Central Aurorashore institutions: Charter-leaning.**
 
-**North Country as a whole: divided.**
+**North Coast as a whole: divided.**
 
 That distinction is important.
 
@@ -276,11 +276,11 @@ Individual harbors and clans can resent exactly the rules that made the Clanhold
 
 ---
 
-# 4. Western Uplands Sovereignty / Cindermarch
+# 4. Stone Hills Sovereignty / Cindermarch
 
 ## Before the Convergence
 
-Western Uplands predecessor politics were divided among:
+Stone Hills predecessor politics were divided among:
 
 - mine-holding clans;
 - fortified smith towns;
@@ -288,27 +288,27 @@ Western Uplands predecessor politics were divided among:
 - merchant-backed warbands;
 - craft alliances.
 
-Legacy history repeatedly shows Western Uplands projecting power outward:
+Legacy history repeatedly shows Stone Hills projecting power outward:
 
 - ore conflicts;
-- the Iron-Field conquest into River Country;
-- intervention around High Country passes;
-- temporary military-industrial cooperation with North Country.
+- the Iron-Field conquest into Low Rivers;
+- intervention around High Roads passes;
+- temporary military-industrial cooperation with North Coast.
 
-Western Uplands therefore enters the Convergence as both an indispensable producer and a power other regions have reason to fear.
+Stone Hills therefore enters the Convergence as both an indispensable producer and a power other regions have reason to fear.
 
 ## What the Convergence gives it
 
 The gains are enormous:
 
 - recognized territory;
-- secure food imports from River Country;
+- secure food imports from Low Rivers;
 - safer export routes;
 - predictable demand for tools and metal;
 - reduced cost of defending distant commercial interests;
 - wider guild markets.
 
-The Convergence may be one of the major reasons Western Uplands can become **industrial rather than merely militarized**.
+The Convergence may be one of the major reasons Stone Hills can become **industrial rather than merely militarized**.
 
 ## What it gives up
 
@@ -331,28 +331,28 @@ Legacy notes describe the **Blackbellow Consortium** as:
 - ruled by wealthy forging families;
 - technologically advanced;
 - able to attract workers through higher wages;
-- tense with the Western Uplands crown.
+- tense with the Stone Hills crown.
 
 This may be one of the most important recovered relationships in the entire alignment problem.
 
-It is a WWF/WCW talent war **inside Western Uplands**.
+It is a WWF/WCW talent war **inside Stone Hills**.
 
 ## Working alignment
 
-**Western Uplands is the major hinge, not a clean sphere member.**
+**Stone Hills is the major hinge, not a clean sphere member.**
 
 Best current hypothesis:
 
-- Western Uplands Crown / old state institutions → Charter-leaning;
+- Stone Hills Crown / old state institutions → Charter-leaning;
 - Blackbellow and some industrial challengers → Ascendant;
 - mine owners and guild branches → contested;
 - labor movements → issue-based rather than automatically aligned.
 
-Western Uplands could become the place where the sphere rivalry becomes impossible for ordinary people to ignore.
+Stone Hills could become the place where the sphere rivalry becomes impossible for ordinary people to ignore.
 
 ### Major strategic possibility
 
-If the **Western Uplands Sovereignty itself** ever shifts significantly toward the Ascendant network, that could be the equivalent of a marquee defection that transforms the challenger from an irritating coalition into a true peer.
+If the **Stone Hills Sovereignty itself** ever shifts significantly toward the Ascendant network, that could be the equivalent of a marquee defection that transforms the challenger from an irritating coalition into a true peer.
 
 Do not assume that has happened yet.
 
@@ -369,7 +369,7 @@ Do not assume that has happened yet.
 
 ## Historical position
 
-Cliffhaven is a semi-republican High Country city whose merchants and scholars elect leadership.
+Cliffhaven is a semi-republican High Roads city whose merchants and scholars elect leadership.
 
 Its defining recovered political fact is simple:
 
@@ -441,7 +441,7 @@ Cliffhaven can offer:
 
 Blackbellow is not a normal monarchy.
 
-It is a wealthy guild-run industrial city-state inside the broader Western Uplands ecosystem.
+It is a wealthy guild-run industrial city-state inside the broader Stone Hills ecosystem.
 
 Legacy notes explicitly make it competitive with the Crown.
 
@@ -464,7 +464,7 @@ That is ideal for Blackbellow.
 
 Its formal political importance may lag behind its economic importance.
 
-It still exists in the shadow of the Western Uplands Sovereignty.
+It still exists in the shadow of the Stone Hills Sovereignty.
 
 That produces the same basic grievance as Cliffhaven:
 
@@ -499,11 +499,11 @@ That is a particularly strong fantasy translation of WCW's backstage failure mod
 
 ---
 
-# 7. Solanterra / the South Country central Mandate
+# 7. Solanterra / the Old Cities central Mandate
 
 ## Historical position
 
-South Country is the least useful region to assign wholesale.
+Old Cities is the least useful region to assign wholesale.
 
 Its old political structure is explicitly plural:
 
@@ -515,11 +515,11 @@ Its old political structure is explicitly plural:
 
 Pre-Convergence orchard-lords competed violently and sometimes financed conflicts outside the region.
 
-That means cross-border patronage is already part of South Country political culture.
+That means cross-border patronage is already part of Old Cities political culture.
 
 ## What the Convergence gives the central Mandate
 
-A central South Country authority benefits from:
+A central Old Cities authority benefits from:
 
 - external recognition;
 - common trade rules;
@@ -538,7 +538,7 @@ Convergence recognition of plural political actors may preserve precisely the lo
 
 **Central Solanterra / Mandate: Charter-leaning or swing.**
 
-It has reasons to defend the order that recognizes it as the major external representative of South Country.
+It has reasons to defend the order that recognizes it as the major external representative of Old Cities.
 
 But the region surrounding it is one of the strongest Ascendant recruitment pools.
 
@@ -546,7 +546,7 @@ This is another valuable internal split.
 
 ---
 
-# 8. Rashira, Dunespire and Zalhar-type South Country powers
+# 8. Rashira, Dunespire and Zalhar-type Old Cities powers
 
 ## Rashira
 
@@ -580,7 +580,7 @@ Legacy description:
 
 **Ascendant-leaning candidate.**
 
-It has a direct incentive to support a sphere that weakens the assumption that Solanterra speaks for South Country.
+It has a direct incentive to support a sphere that weakens the assumption that Solanterra speaks for Old Cities.
 
 ---
 
@@ -610,17 +610,17 @@ They can still cooperate because both dislike the present hierarchy.
 
 ---
 
-# 9. Forest Country
+# 9. Longwood
 
 ## Historical position
 
-Forest Country repeatedly resisted outside extraction and frontier expansion.
+Longwood repeatedly resisted outside extraction and frontier expansion.
 
 The Convergence's recognized boundaries can therefore be genuinely valuable.
 
 ## Why clean sphere membership is weak
 
-Both major spheres can threaten Forest Country for different reasons.
+Both major spheres can threaten Longwood for different reasons.
 
 Charter institutions may defend treaty boundaries while also interpreting old extraction rights in ways local communities reject.
 
@@ -630,9 +630,9 @@ Ascendant industrial and merchant actors may challenge old political hierarchy w
 
 **Nonaligned / issue-by-issue.**
 
-Specific Forest Country communities, wardens or market towns can align temporarily.
+Specific Longwood communities, wardens or market towns can align temporarily.
 
-Forest Country as a whole should not become the environmental member of one convenient coalition.
+Longwood as a whole should not become the environmental member of one convenient coalition.
 
 That would flatten the region.
 
@@ -686,14 +686,14 @@ Port's own people can resent both sides treating the city as:
 | Summithold central institutions | legitimacy and route authority strengthened | **Charter core** |
 | Verdanthearth central authority | borders, markets and food system stabilized | **Charter partner** |
 | Aurorashore central leadership | diplomatic/maritime recognition strengthened | **Charter-leaning, internally split** |
-| Western Uplands Crown | security and industrial trade greatly strengthened | **Charter-leaning hinge** |
+| Stone Hills Crown | security and industrial trade greatly strengthened | **Charter-leaning hinge** |
 | Cliffhaven | peace enables secondary trade city to challenge center | **Ascendant core** |
 | Blackbellow | guild expansion + labor mobility amplify industrial power | **Ascendant core** |
 | Solanterra / central Mandate | external recognition and coordination strengthened | **Charter-leaning / swing** |
 | Rashira | trade gains, but security dependence remains | **Swing / transactional** |
 | Dunespire | local autonomy conflicts with central Mandate | **Ascendant-leaning** |
 | Zalhar | old independent legitimacy threatened by central expansion | **Ascendant-leaning** |
-| Forest Country institutions | borders protected but extraction disputes persist | **Nonaligned / issue-based** |
+| Longwood institutions | borders protected but extraction disputes persist | **Nonaligned / issue-based** |
 | Tunnels communities | route rules matter more than sphere identity | **Fragmented / transactional** |
 | Port | neutrality strengthened; outside both systems | **ECW/Danzig third space** |
 
@@ -747,9 +747,9 @@ Its cohesion comes from a shared experience:
 
 ---
 
-# The most important hinge: Western Uplands
+# The most important hinge: Stone Hills
 
-Western Uplands can give the rivalry its first truly dramatic geopolitical turn.
+Stone Hills can give the rivalry its first truly dramatic geopolitical turn.
 
 The Crown has strong reasons to defend Charter stability.
 
@@ -765,9 +765,9 @@ The rivalry remains established capitals versus rising secondary powers.
 
 This is probably the richest early-story state.
 
-Ascendant money and personnel are already inside Western Uplands politics.
+Ascendant money and personnel are already inside Stone Hills politics.
 
-### C. Western Uplands shifts toward Ascendant
+### C. Stone Hills shifts toward Ascendant
 
 This is a **major defection event**.
 
@@ -792,7 +792,7 @@ The current world state best supports a structural phase rather than an exact da
 Signs:
 
 - Cliffhaven and Blackbellow already have independent economic bases;
-- South Country contains wealthy competitive patrons;
+- Old Cities contains wealthy competitive patrons;
 - current crises create opportunities to recruit dissatisfied people;
 - Charter institutions still retain greater formal legitimacy;
 - Port is already a shared cultural and commercial arena;
@@ -833,7 +833,7 @@ leaves a prestigious Summithold position for Cliffhaven.
 
 **Meaning:** the challenger can now offer more prestige or freedom than the old institutional capital.
 
-## 2. Western Uplands Crown → Blackbellow
+## 2. Stone Hills Crown → Blackbellow
 
 A celebrated:
 
@@ -849,9 +849,9 @@ takes a Blackbellow contract.
 
 This is probably the cleanest direct fantasy translation of a wrestling talent defection.
 
-## 3. Charter agriculture → South Country patronage
+## 3. Charter agriculture → Old Cities patronage
 
-A celebrated River Country agricultural or storage expert accepts a wealthy South Country patron.
+A celebrated Low Rivers agricultural or storage expert accepts a wealthy Old Cities patron.
 
 **Meaning:** even the Charter's practical expertise is becoming mobile.
 
@@ -859,7 +859,7 @@ A celebrated River Country agricultural or storage expert accepts a wealthy Sout
 
 A respected navigator or harbor official leaves central service for a challenger-aligned port, patron or convoy system.
 
-**Meaning:** North Country's prestige does not guarantee loyalty from the people who create its maritime advantage.
+**Meaning:** North Coast's prestige does not guarantee loyalty from the people who create its maritime advantage.
 
 ---
 
@@ -893,9 +893,9 @@ This model gives the Villain much better material.
 
 He can make unrelated events look like proof of sphere aggression:
 
-- Blackbellow recruits during an Western Uplands strike → Crown calls it economic sabotage.
+- Blackbellow recruits during an Stone Hills strike → Crown calls it economic sabotage.
 - Summithold tightens route rules after caravan attacks → Cliffhaven calls it protectionism.
-- South Country patrons rescue distressed River Country farms → Charter politicians call it foreign capture.
+- Old Cities patrons rescue distressed Low Rivers farms → Charter politicians call it foreign capture.
 - Aurorashore expands convoys → Ascendant merchants call it a bid for maritime control.
 - Port gives refuge to defectors → both sides accuse it of helping the other.
 
@@ -910,8 +910,8 @@ He only selects the moment when people are most willing to believe it.
 Do not lock these yet:
 
 - final sphere names;
-- whether the Western Uplands Crown ultimately stays Charter;
-- exactly which South Country city-states become Ascendant leaders;
+- whether the Stone Hills Crown ultimately stays Charter;
+- exactly which Old Cities city-states become Ascendant leaders;
 - whether Aurorashore's central leadership is firmly Charter or increasingly divided;
 - the historical event that made the Ascendant network self-conscious;
 - the first famous defection;
