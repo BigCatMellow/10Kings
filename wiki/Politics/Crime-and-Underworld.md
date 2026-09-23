@@ -64,13 +64,13 @@ Several independent groups can cooperate around shared interests without becomin
 
 Examples:
 - a Port syndicate finances;
-- an Underpass group moves goods;
-- a Highridge gang supplies documents;
-- a Northwind crew moves cargo by sea.
+- an Tunnels group moves goods;
+- a High Country gang supplies documents;
+- a North Country crew moves cargo by sea.
 
 ## Regional forms
 
-### Ironcrest
+### Western Uplands
 
 Common opportunities:
 - ore theft;
@@ -79,7 +79,7 @@ Common opportunities:
 - labor intimidation;
 - debt.
 
-### Northwind
+### North Country
 
 - piracy;
 - smuggling;
@@ -87,7 +87,7 @@ Common opportunities:
 - illegal fishing;
 - harbor protection.
 
-### Greenvale
+### River Country
 
 - grain theft;
 - land fraud;
@@ -95,21 +95,21 @@ Common opportunities:
 - livestock theft;
 - debt enforcement.
 
-### Highridge
+### High Country
 
 - caravan robbery;
 - route extortion;
 - document fraud;
 - information brokerage.
 
-### Deepwood
+### Forest Country
 
 - illegal timber;
 - rare plant trade;
 - poaching;
 - hidden-route smuggling.
 
-### Sunplains
+### South Country
 
 - canal corruption;
 - smuggling;
