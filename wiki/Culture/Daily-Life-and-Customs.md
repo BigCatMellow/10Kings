@@ -18,7 +18,7 @@ It should be read alongside:
 
 ## Core rule
 
-There is no single “Western Uplands custom,” “North Country marriage,” or “South Country etiquette.”
+There is no single “Stone Hills custom,” “North Coast marriage,” or “Old Cities etiquette.”
 
 Daily life emerges from overlapping pressures:
 
@@ -148,7 +148,7 @@ Useful distinctions:
 
 ## Childhood is not uniform
 
-A dockworker's child in Port, a herder's child in High Country, a farm child in River Country and a clerk's child in Summithold may all have different relationships to:
+A dockworker's child in Port, a herder's child in High Roads, a farm child in Low Rivers and a clerk's child in Summithold may all have different relationships to:
 
 - work;
 - play;
@@ -510,7 +510,7 @@ Some traditions described as ancient may be post-Convergence standardizations.
 
 Regional geography and history still matter.
 
-### Western Uplands
+### Stone Hills
 
 Likely recurring pressures:
 - dangerous craft / mine work;
@@ -522,7 +522,7 @@ Likely recurring pressures:
 
 This can shape customs around work injury, certification, household labor and apprenticeship without making everyone “blunt.”
 
-### North Country
+### North Coast
 
 Likely recurring pressures:
 - seasonal absence at sea;
@@ -534,7 +534,7 @@ Likely recurring pressures:
 
 This can shape care, visiting, inheritance and guest obligations without making everyone “stoic.”
 
-### River Country
+### Low Rivers
 
 Likely recurring pressures:
 - seasonal labor;
@@ -546,7 +546,7 @@ Likely recurring pressures:
 
 This can shape household cooperation and inheritance without making everyone “communal.”
 
-### High Country
+### High Roads
 
 Likely recurring pressures:
 - travel;
@@ -558,7 +558,7 @@ Likely recurring pressures:
 
 This can create strong institutions of guesthood, boarding, sponsorship and translation without making everyone “rational.”
 
-### Forest Country
+### Longwood
 
 Likely recurring pressures:
 - dispersed settlements;
@@ -570,7 +570,7 @@ Likely recurring pressures:
 
 This can shape visiting, land permission and neighborhood obligation without making everyone “spiritual.”
 
-### South Country
+### Old Cities
 
 Likely recurring pressures:
 - water access;
