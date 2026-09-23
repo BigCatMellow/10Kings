@@ -56,6 +56,7 @@
 - [Character Roster](Story/Character-Roster.md)
 
 **Reference**
+- [Worldbuilding Agent Contract](../WORLDBUILDING_AGENT.md)
 - [Middle Worldbuilding](Reference/Middle-Worldbuilding.md)
 - [Writing the Sequel](Reference/Writing-the-Sequel.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
