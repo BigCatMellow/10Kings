@@ -4,7 +4,7 @@
 
 **Working canon.**
 
-The Tunnels is a network of natural caves, fault passages, excavated tunnels, chambers, settlements, and trade routes beneath portions of Central Range.
+The Tunnels are a network of natural caves, fault passages, excavated tunnels, chambers, settlements, and trade routes beneath portions of Central Range.
 
 It is not a single road and not wholly mapped.
 
@@ -25,7 +25,7 @@ Some routes are wide enough for pack animals or small carts. Others require sing
 
 ## Settlement
 
-Tunnels communities may include:
+Communities in the Tunnels may include:
 - miners;
 - guides;
 - traders;
