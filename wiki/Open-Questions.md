@@ -38,10 +38,20 @@ The broad topology is now captured in [Geography and Connections](Geography-and-
 
 ### 4. Movement of people and information
 
+The structural model is now owned by [Movement and Information](Movement-and-Information.md): information rides physical and social networks, transmission is carrier-specific, and no one network is universally fastest.
+
+Remaining questions:
+
 - Actual language families and degrees of mutual intelligibility.
 - Major pilgrimage, migration, labor, refugee, and seasonal travel patterns.
 - Structure and legal status of nomadic/itinerant peoples.
-- Which networks move information fastest: states, merchants, guilds, faiths, Port, or informal routes?
+- Exact travel times and seasonal reliability between major hubs.
+- Whether dedicated courier guilds or public postal systems exist, and where.
+- Literacy rates and the social reach of written records.
+- Standard seals, notarial practices, message houses, and document conventions.
+- Exact schedules / cadence for ships, caravans, pilgrimages, and itinerant circuits.
+- Which governments maintain their own messenger networks and how effective they are.
+- Whether rare magical communication exists at all.
 
 ### 5. Magic baseline
 

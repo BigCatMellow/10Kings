@@ -182,6 +182,8 @@ This creates conflicts that cannot be solved by asking which "side" a person bel
 
 ## Social circulation follows physical circulation
 
+See [Movement and Information](Movement-and-Information.md) for the world-level carrier and propagation model.
+
 The same routes that move goods also move:
 
 - songs;
@@ -197,7 +199,7 @@ The same routes that move goods also move:
 - marriage connections;
 - stories about distant places.
 
-That makes [Port](Places/Port.md) and [High Roads](Regions/Highridge-Plateau.md) social and cultural switching points as well as economic ones.
+That makes [Port](Places/Port.md) and [High Roads](Regions/Highridge-Plateau.md) social and cultural switching points as well as economic ones. The same road does not carry all information equally: sailors, pilgrims, guild members, migrant workers, itinerant households, merchants, and children transmit different material through overlapping routes.
 
 A caravan route can carry a new prayer. A pilgrimage can spread a labor grievance. A guild dispute can become a popular song. A cult joke can become a political insult in another kingdom. A refugee community can preserve a version of history that the government where it now lives considers subversive.
 

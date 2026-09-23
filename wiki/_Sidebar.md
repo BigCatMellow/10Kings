@@ -7,6 +7,7 @@
 - [World Rules](World-Rules.md)
 - [Geography](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
+- [Movement and Information](Movement-and-Information.md)
 - [Social Fabric](Social-Fabric.md)
 - [Open Questions](Open-Questions.md)
 

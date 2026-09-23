@@ -139,9 +139,36 @@ This could support an ending in which reform emerges from institutions already p
 
 Map one Council function—such as dispute resolution, emergency food movement, or route information—to existing non-Council institutions and see whether they can plausibly coordinate it at scale.
 
+**Movement/information test result — 2026-09-23**
+
+[Movement and Information](../Movement-and-Information.md) partially passes the route-information test.
+
+The world already contains several non-Council observation and transmission networks:
+
+- Port merchants, shipping, warehouses, clerks, and commercial agents;
+- High Roads caravan, route, interpreter, and arbitration networks;
+- guild branches and professional contacts;
+- pilgrimage and religious hospitality networks;
+- sailors and harbor workers;
+- itinerant households and mobile peoples;
+- local political authorities;
+- criminal and smuggling networks.
+
+These networks can plausibly gather and move **raw route conditions, prices, shortages, local warnings, and social information** without the Council.
+
+What remains missing is a public mechanism that reliably:
+
+- aggregates those signals across domains;
+- verifies conflicting reports;
+- prioritizes emergencies;
+- finances large coordinated responses;
+- distributes a common operational picture.
+
+This strengthens the hypothesis that post-Council alternatives may already exist **in pieces**, while also preserving the coordination gap.
+
 **Disposition**
 
-Incubating.
+Partially supported. Route-information observation/transmission has a decentralized substrate; continent-scale aggregation and response remain unresolved.
 
 ## Candidate 5 — Official regional identity and lived border identity may conflict
 
