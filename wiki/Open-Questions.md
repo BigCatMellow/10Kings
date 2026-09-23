@@ -14,7 +14,7 @@ The broad topology is now captured in [Geography and Connections](Geography-and-
 - Exact physical form of the North Country ↔ Central Range / High Country connection.
 - Exact location and territorial form of Port: mainland coast, peninsula, island, estuary, or strait-side district.
 - Named major navigable rivers and watershed boundaries.
-- Exact major surface passes, old roads, maritime lanes, and Tunnels entrances.
+- Exact major surface passes, old roads, maritime lanes, and Underpass entrances.
 - Which regional borders are broad frontiers versus narrow corridors.
 - Whether High Country directly borders South Country.
 - Approximate travel times and seasonal reliability between major hubs.
