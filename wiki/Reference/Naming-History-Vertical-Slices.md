@@ -12,6 +12,14 @@ The goal is to see whether a name can accumulate believable layers from history,
 
 Nothing on this page promotes the tested legacy polity or place into current canon.
 
+## Evaluation rule
+
+These tests are **not attempts to save the existing names**.
+
+A name passes only if the resulting history feels natural and useful. If making an old name plausible requires excessive explanation, coincidence or cultural distortion, replacement is the better outcome.
+
+A successful replacement is just as valid a result as a successful reframing.
+
 ---
 
 # Test 1 — a Highridge route name
@@ -105,9 +113,9 @@ Different speakers can plausibly choose differently:
 
 ## Test result
 
-**PASS.**
+**CONDITIONAL PASS.**
 
-Thunderstair becomes much more believable if treated as one layer rather than the only true name.
+Thunderstair can work as one naming layer, but it does not need to survive. Once the Highridge language/culture slice is deeper, compare it against a newly derived alternative. Keep whichever feels more natural.
 
 ### General mechanic recovered
 
@@ -206,9 +214,9 @@ An Ascendant sympathizer might insist on **Blackbellow** because the new identit
 
 ## Test result
 
-**STRONG PASS.**
+**STRONG CONCEPTUAL FIT, NAME STILL REVISABLE.**
 
-Blackbellow is more useful when treated as a historically **newer acquired name**.
+The acquired commercial/political-name mechanism is strong. The literal word **Blackbellow** should still compete against names generated from the eventual Ironcrest linguistic and guild history.
 
 ### General mechanic recovered
 
@@ -293,9 +301,9 @@ That lets language participate in the current Charter / Ascendant pressure witho
 
 ## Test result
 
-**STRONG PASS.**
+**STRONGEST CURRENT SURVIVAL CANDIDATE, NOT PROTECTED.**
 
-The correct move may be to leave the original meaning unresolved.
+An opaque old endonym is structurally strong. **Zalhar** currently fits that role better than the transparent compounds, but it remains replaceable if the eventual Sunplains language history produces something better.
 
 ### General mechanic recovered
 
