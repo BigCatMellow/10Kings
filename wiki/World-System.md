@@ -37,7 +37,9 @@ The known world is organized around:
 - the branching subterranean network called [The Underpass](Places/The-Underpass.md);
 - [Port](Places/Port.md), whose importance comes from network position, law, infrastructure, finance, and accumulated trust.
 
-The exact map remains partly open. What is already established is more important than simple adjacency:
+The relative regional topology is now working canon: Ironcrest is western, Northwind northern, Highridge central at the Spine, Greenvale/Deepwood eastern, Sunplains southern/southeastern, and Port sits in the central maritime system. Exact coastlines, rivers, travel times, and some narrow corridor geometry remain open.
+
+What matters most is still:
 
 **routes matter more than straight-line distance.**
 
@@ -330,7 +332,7 @@ This synthesis should not make unsettled details look settled.
 
 Major open areas include:
 
-- exact map, rivers, and route geometry;
+- exact coastline redraw, rivers, travel times, and remaining route geometry;
 - exact constitutional forms of the six regions;
 - Port citizenship and treaty structure;
 - exact Council membership, history, visibility, and succession;
