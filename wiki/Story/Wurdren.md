@@ -4,6 +4,8 @@
 
 Wurdren is the story's human-scale perspective.
 
+See [Story Core and Character Legacy Reconciliation](../Reference/Story-Core-Legacy-Reconciliation.md) for preserved character-depth material and rejected older plot alternatives.
+
 He is an aging adventurer who once imagined heroism as grand deeds, recognition, and legendary importance.
 
 His later life places him in smaller situations:
@@ -79,6 +81,31 @@ His mature heroism is not "I will save the world."
 
 It is closer to:
 "I cannot control the world, but I am responsible for what I do when the world reaches the person standing in front of me."
+
+## Relationship rule
+
+Wurdren should build **recurring human relationships**, not move through disposable quest locations.
+
+Useful continuity includes:
+- people who recognize him;
+- former clients;
+- favors owed in both directions;
+- communities changed by something he did earlier;
+- people who trusted him and later made choices he dislikes.
+
+His cross-regional influence becomes believable because trust accumulates.
+
+## Ethical-pressure rule
+
+His hardest decisions should not be abstract debates.
+
+They should force choices such as:
+- immediate rescue versus longer-term stability;
+- law versus mercy;
+- protecting civilians while preserving an unjust system;
+- undermining a harmful institution when ordinary people still depend on it.
+
+Moral ambiguity belongs in choices, not only exposition.
 
 ## Narrative rule
 
