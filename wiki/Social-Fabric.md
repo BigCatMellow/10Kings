@@ -14,14 +14,14 @@ A person in Two Sons should almost never be explainable by one label.
 
 Someone can simultaneously be:
 
-- born in Greenvale;
+- born in River Country;
 - resident in Port;
-- married into a Northwind family;
+- married into a North Country family;
 - member of a shipping guild;
 - follower of the Infinite Compass;
 - participant in a trans-regional audience movement;
-- debtor to an Ironcrest lender;
-- veteran of a Highridge caravan company;
+- debtor to an Western Uplands lender;
+- veteran of a High Country caravan company;
 - politically loyal to a local city council;
 - culturally closer to a border town than to the official identity of either neighboring region.
 
@@ -36,7 +36,7 @@ The setting currently supports at least these overlapping layers.
 | Layer | Typical examples | What it can provide |
 | --- | --- | --- |
 | Place | village, harbor, district, border town, Port neighborhood | daily belonging, accent, local obligations |
-| Region | Ironcrest, Northwind, Greenvale, Highridge, Deepwood, Sunplains | broad cultural memory and stereotypes |
+| Region | Western Uplands, North Country, River Country, High Country, Forest Country, South Country | broad cultural memory and stereotypes |
 | Polity | kingdom, city-state, confederation, clan authority, charter town | law, taxes, military obligations, political legitimacy |
 | Kinship | household, lineage, marriage network, clan | inheritance, care, feuds, migration links |
 | Class / economic position | laborer, tenant, merchant, owner, noble, debtor | material interests and access |
@@ -129,9 +129,9 @@ The same people should recur across institutional systems.
 Examples:
 
 - a Harmonious Path mediator is also a caravan-guild accountant;
-- a Deepwood timber worker belongs to the Eternal Forge through craft lineage;
-- a Northwind sailor participates in an Audience movement whose most important gathering is held in Port;
-- a Greenvale farmer has cousins in Sunplains and sells through a guild financed by a Council-linked family;
+- a Forest Country timber worker belongs to the Eternal Forge through craft lineage;
+- a North Country sailor participates in an Audience movement whose most important gathering is held in Port;
+- a River Country farmer has cousins in South Country and sells through a guild financed by a Council-linked family;
 - a Port smuggler funds a Radiant Path charity because it protected his family;
 - a noble heir privately participates in a movement considered vulgar by the court;
 - a guild reformer and guild conservative may attend the same temple and marry into the same extended family.
@@ -155,7 +155,7 @@ The same routes that move goods also move:
 - marriage connections;
 - stories about distant places.
 
-That makes [Port](Places/Port.md) and [Highridge](Regions/Highridge-Plateau.md) social and cultural switching points as well as economic ones.
+That makes [Port](Places/Port.md) and [High Country](Regions/Highridge-Plateau.md) social and cultural switching points as well as economic ones.
 
 A caravan route can carry a new prayer. A pilgrimage can spread a labor grievance. A guild dispute can become a popular song. A cult joke can become a political insult in another kingdom. A refugee community can preserve a version of history that the government where it now lives considers subversive.
 
@@ -238,7 +238,7 @@ The Council likewise cannot simply "control society." It can pressure institutio
 
 A scene with several people from the same region should still contain meaningful social differences.
 
-If everyone from Ironcrest speaks, votes, worships, works, and reacts alike, this model has failed.
+If everyone from Western Uplands speaks, votes, worships, works, and reacts alike, this model has failed.
 
 If two people from different kingdoms sometimes discover that guild, faith, class, neighborhood, shared movement, or family matters more in the immediate situation than nationality, the world is behaving as intended.
 
