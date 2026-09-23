@@ -106,7 +106,7 @@ For each Council domain, identify the public institutions that could perform the
 
 **Disposition**
 
-Strong candidate; not yet promoted beyond the existing Council concept.
+**Promoted 2026-09-23** to [Economic Council](../Politics/Economic-Council.md) and [The Convergence](../History/The-Convergence.md). The charter creates interdependence without a single administering government, leaving a coordination gap the Council can occupy.
 
 ## Candidate 4 — Trans-regional institutions may contain the post-Council alternative
 
