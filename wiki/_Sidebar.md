@@ -5,6 +5,7 @@
 - [World Overview](World-Overview.md)
 - [The World as a System](World-System.md)
 - [World Rules](World-Rules.md)
+- [Magic Baseline](Magic-Baseline.md)
 - [Geography](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
 - [Movement and Information](Movement-and-Information.md)
