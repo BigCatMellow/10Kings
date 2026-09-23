@@ -115,6 +115,36 @@ It should not literally control all knowledge.
 
 Its strength is knowing who knows what, buying access, delaying information, and deciding which innovations receive funding or distribution.
 
+## Why the Council persists: the coordination gap
+
+The [Convergence](../History/The-Convergence.md) creates a shared order without creating a single government capable of administering the whole interregional system.
+
+That leaves a real coordination gap.
+
+No individual ruler directly controls all of:
+
+- emergency grain movement;
+- strategic-material contracts;
+- maritime and caravan scheduling;
+- cross-border infrastructure finance;
+- credit and exchange;
+- information about conditions in every major market.
+
+The Council's families become powerful partly because they can coordinate across those boundaries faster and more continuously than visible governments.
+
+This makes the Council more durable than an ordinary conspiracy.
+
+Removing its members without replacing useful coordination functions could create:
+
+- delayed food response;
+- frozen credit;
+- incompatible route decisions;
+- infrastructure gaps;
+- information fragmentation;
+- competitive hoarding.
+
+That does not justify secret rule. It explains why rulers may tolerate, depend on, or fail to replace it.
+
 ## How the Council governs without governing
 
 The Council rarely says: "Do this because we command you."
