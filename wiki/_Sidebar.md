@@ -8,6 +8,7 @@
 - [Magic Baseline](Magic-Baseline.md)
 - [Geography](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
+- [Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md)
 - [Movement and Information](Movement-and-Information.md)
 - [Records and Authentication](Records-Literacy-and-Authentication.md)
 - [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md)
