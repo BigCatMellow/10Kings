@@ -76,6 +76,7 @@
 - [G1 Head-of-Navigation Market Test](Reference/G1-Head-of-Navigation-Market-Test.md)
 - [North Shoulder Paired Roadheads Test](Reference/North-Shoulder-Paired-Roadheads-Test.md)
 - [Port Estuary and Harbor Geometry Test](Reference/Port-Estuary-Harbor-Geometry-Test.md)
+- [Convergence Layered Settlement Model](Reference/Convergence-Layered-Settlement-Model.md)
 - [Middle Worldbuilding](Reference/Middle-Worldbuilding.md)
 - [Writing the Sequel](Reference/Writing-the-Sequel.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
