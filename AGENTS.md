@@ -30,7 +30,8 @@ During this phase:
 - prefer preserving causal structure, dependencies, history, ecology, and relationships when labels or cultural packages change;
 - allow a better-supported redesign to replace weak working material;
 - reconcile dependent pages when an owner changes rather than preserving contradictions for continuity's sake;
-- use [Middle Worldbuilding](wiki/Reference/Middle-Worldbuilding.md) to derive detail from causes instead of freezing arbitrary flavor too early.
+- use [Middle Worldbuilding](wiki/Reference/Middle-Worldbuilding.md) to derive functional detail from causes instead of freezing arbitrary flavor too early;
+- use [Writing the Sequel](wiki/Reference/Writing-the-Sequel.md) separately to derive what accumulated after people lived with those systems over time.
 
 The goal is to build a coherent world first and stabilize naming/detail afterward where appropriate.
 
