@@ -193,6 +193,7 @@ Use this instead of reopening the large compendia for normal work.
 | How do regions depend on each other? | [Trade and Dependencies](../Economy/Trade-and-Dependencies.md) |
 | What old wars/grudges can people remember differently? | [Contested Historical Memory](../History/Contested-Memory.md) |
 | What ordinary prejudice/jokes/social friction can appear? | [Regional Social Dynamics](../Culture/Regional-Social-Dynamics.md) |
+| How should culture, food, naming, language and daily life be deepened? | [Culture Deepening Plan](Culture-Deepening-Plan.md) |
 | What seasonal festivals exist as working material? | [Festivals and Seasonal Life](../Culture/Festivals-and-Seasonal-Life.md) |
 | How does food change through migration? | [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md) |
 | How do overlapping identities and institutions fit together? | [Social Fabric](../Social-Fabric.md) |
@@ -200,6 +201,20 @@ Use this instead of reopening the large compendia for normal work.
 | How should the WWF/WCW/ECW analogy be translated? | [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md) |
 | How do I make a scene feel like the world existed yesterday? | [Worldbuilding Breath](Worldbuilding-Breath.md) |
 | Is an older fixed claim still canon? | Find the current owner page; if unresolved, [Open Questions](../Open-Questions.md) wins over legacy certainty |
+
+## Culture-depth audit — 2026-09-23
+
+A follow-up audit compared the current Culture owners against legacy Volumes 03, 04, 05, 07 and the culture/worldbuilding guidance in Volume 13.
+
+Disposition:
+
+- current Culture / World Rules remain authoritative;
+- legacy material is retained as a research quarry rather than restored wholesale;
+- current methodology is stronger than the old material, but daily-life detail was compressed too far during reconciliation;
+- highest-priority gaps are naming systems, language history, daily customs, clothing/material culture, food history, architecture by class/history, and arts/leisure;
+- older region-personality mappings and exaggerated accent/cuisine stereotypes are specifically **not** candidates for automatic restoration.
+
+Roadmap: [Culture Deepening Plan](Culture-Deepening-Plan.md).
 
 ## Known unresolved areas exposed by the import
 
