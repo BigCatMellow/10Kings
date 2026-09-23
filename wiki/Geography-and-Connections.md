@@ -18,7 +18,7 @@ The known setting is organized around:
 - a **Northern Continent** dominated by North Coast;
 - a larger **Eastern Continent** containing Low Rivers, Longwood, Old Cities, and most or all of High Roads's settled plateau system;
 - the central mountain system called **Central Range**;
-- branching subterranean routes called **The Tunnels**;
+- branching subterranean routes called **The Underpass**;
 - the neutral commercial city **Port**, positioned where northern and southern maritime systems can meet interior routes.
 
 The most important map rule remains:
@@ -120,7 +120,7 @@ It must contain:
 - lesser seasonal passes;
 - old roads and pilgrimage routes;
 - river headwaters;
-- caves, faults, and Tunnels entrances.
+- caves, faults, and Underpass entrances.
 
 It should **not** be one continuous impassable wall.
 
@@ -321,11 +321,11 @@ That supports:
 
 Other ports must still exist. Port is dominant because of accumulated network effects, not because the coast has only one usable harbor.
 
-## The Tunnels
+## The Underpass
 
-See [The Tunnels](Places/The-Underpass.md).
+See [The Underpass](Places/The-Underpass.md).
 
-The Tunnels is a branching network beneath parts of Central Range, not a single tunnel.
+The Underpass is a branching network beneath parts of Central Range, not a single tunnel.
 
 The geography pass now treats it as three kinds of route at once:
 
@@ -335,7 +335,7 @@ The geography pass now treats it as three kinds of route at once:
 
 Some branches can carry carts; others only people or pack animals. Some are public, hidden, sacred, flooded, collapsed, criminally controlled, or seasonally unsafe.
 
-The final map should therefore show only major known entrances and important corridors. A complete Tunnels map would contradict the setting.
+The final map should therefore show only major known entrances and important corridors. A complete Underpass map would contradict the setting.
 
 ## Border confidence
 
@@ -364,7 +364,7 @@ A future map should be rejected if it makes any of these true:
 - Old Cities water politics have no upstream geography;
 - Low Rivers lacks navigable or commercially important river systems;
 - Central Range is either trivial to cross or completely impassable;
-- the Tunnels solves every mountain problem;
+- the Underpass solves every mountain problem;
 - borders perfectly match cultures;
 - every route works equally well in every season.
 
@@ -377,7 +377,7 @@ The broad topology is no longer the main unknown. The remaining geography work i
 - exact location and territorial form of Port;
 - named major rivers and watersheds;
 - exact major passes and old roads;
-- exact major Tunnels entrances and branches;
+- exact major Underpass entrances and branches;
 - whether High Roads directly borders Old Cities;
 - which regional borders are broad transition zones versus narrow corridors;
 - approximate travel times between major hubs;
