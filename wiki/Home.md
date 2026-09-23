@@ -19,6 +19,7 @@ The setting should make it possible to follow one damaged bridge, missing carava
 - [World Overview](World-Overview.md)
 - [The World as a System](World-System.md)
 - [World Rules](World-Rules.md)
+- [Magic Baseline](Magic-Baseline.md)
 - [Geography and Connections](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
 - [Movement and Information](Movement-and-Information.md)
