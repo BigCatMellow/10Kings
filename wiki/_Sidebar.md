@@ -20,7 +20,7 @@
 
 **Shared Places**
 - [Port](Places/Port.md)
-- [Central Range](Places/The-Spine.md)
+- [The Spine](Places/The-Spine.md)
 - [The Underpass](Places/The-Underpass.md)
 - [Border Towns](Places/Border-Towns.md)
 
