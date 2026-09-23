@@ -2,6 +2,8 @@
 
 This repository uses **MAPS_L** as its work method. The upstream operating contract remains [MAPS_Lean/AGENTS.md](https://github.com/BigCatMellow/MAPS_Lean/blob/main/AGENTS.md); this file only defines 10Kings-specific knowledge rules.
 
+For any task that **creates, redesigns, reconciles, synthesizes, researches, or details the setting**, also follow the [Worldbuilding Agent Contract](WORLDBUILDING_AGENT.md).
+
 Relevant MAPS_L methods:
 
 - [Information Lifecycle](https://github.com/BigCatMellow/MAPS_Lean/blob/main/playbook/INFORMATION_LIFECYCLE.md)
