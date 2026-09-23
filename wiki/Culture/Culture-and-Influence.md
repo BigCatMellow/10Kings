@@ -51,7 +51,7 @@ The resulting branch may eventually differ more from the old homeland than from 
 
 ## Current inspiration pools
 
-### Western Uplands
+### Stone Hills
 
 Useful reference pools include:
 - Scottish and Welsh mining/industrial communities;
@@ -61,9 +61,9 @@ Useful reference pools include:
 - Japanese and Chinese craft lineages;
 - mining communities in Central Europe and the Balkans.
 
-The aim is not "Celtic miners" or "Yemeni foundries." Western Uplands should feel like a place where generations of upland settlement, ore extraction, specialized crafts, dangerous labor, merchant capital, and repeated political consolidation produced a distinctive culture.
+The aim is not "Celtic miners" or "Yemeni foundries." Stone Hills should feel like a place where generations of upland settlement, ore extraction, specialized crafts, dangerous labor, merchant capital, and repeated political consolidation produced a distinctive culture.
 
-### North Country
+### North Coast
 
 Useful reference pools include:
 - North Atlantic fishing societies;
@@ -71,9 +71,9 @@ Useful reference pools include:
 - Ainu, Japanese, Korean, Aleut, Inuit, and other northern/coastal adaptations;
 - maritime communities where seasonal migration, communal risk, preservation, and boat ownership shape social structure.
 
-Avoid turning North Country into generic Vikings.
+Avoid turning North Coast into generic Vikings.
 
-### River Country
+### Low Rivers
 
 Useful reference pools include:
 - Andean communal agriculture and terrace/cooperative traditions;
@@ -83,9 +83,9 @@ Useful reference pools include:
 - Indigenous North and South American seed stewardship;
 - African and Asian compound/courtyard models where relevant.
 
-River Country should feel like a heavily inhabited agricultural country, not a pastoral postcard.
+Low Rivers should feel like a heavily inhabited agricultural country, not a pastoral postcard.
 
-### High Country
+### High Roads
 
 Useful reference pools include:
 - Tibetan and Himalayan plateau communities;
@@ -95,9 +95,9 @@ Useful reference pools include:
 - Caucasus mountain trade;
 - upland market cultures in South and East Asia.
 
-High Country's defining history is its role as intermediary, which means cultural borrowing should be especially visible.
+High Roads's defining history is its role as intermediary, which means cultural borrowing should be especially visible.
 
-### Forest Country
+### Longwood
 
 Useful reference pools include:
 - Amazonian and other tropical/forest societies;
@@ -109,7 +109,7 @@ Useful reference pools include:
 
 Avoid the "mystical forest people" monoculture.
 
-### South Country
+### Old Cities
 
 Useful reference pools include:
 - Maghrebi, Levantine, Anatolian, Persian, Iberian, Greek, and southern Italian dry-climate urban/agricultural traditions;
