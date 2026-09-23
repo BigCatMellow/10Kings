@@ -737,6 +737,8 @@ That is network enforcement, not world sovereignty.
 
 # 20. High Roads is an arbitration environment
 
+See [High Roads Functional Governance Test](Reference/High-Roads-Functional-Governance-Test.md). The strongest current model is layered: local law remains local, corridor compacts govern route-specific obligations, and recognized arbitration forums connect jurisdictions without creating one High Roads supreme court.
+
 The High Roads has deep historical reasons to value negotiated obligation.
 
 Its pre-Convergence history included:
