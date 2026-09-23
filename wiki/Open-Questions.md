@@ -11,12 +11,12 @@ These are the questions that most strongly affect multiple other pages. They sho
 The broad topology is now captured in [Geography and Connections](Geography-and-Connections.md). The remaining questions are map-detail questions rather than a blank-slate geography problem:
 
 - Exact outlines and proportions of the three continents.
-- Exact physical form of the North Country ↔ The Spine / High Country connection.
+- Exact physical form of the North Coast ↔ The Spine / High Roads connection.
 - Exact location and territorial form of Port: mainland coast, peninsula, island, estuary, or strait-side district.
 - Named major navigable rivers and watershed boundaries.
 - Exact major surface passes, old roads, maritime lanes, and Underpass entrances.
 - Which regional borders are broad frontiers versus narrow corridors.
-- Whether High Country directly borders South Country.
+- Whether High Roads directly borders Old Cities.
 - Approximate travel times and seasonal reliability between major hubs.
 - Which rivers, roads, and straits become true strategic chokepoints rather than merely important routes.
 
@@ -30,11 +30,28 @@ The broad topology is now captured in [Geography and Connections](Geography-and-
 
 ### 3. Coordination and power
 
-- How old is the Economic Council relative to the Convergence?
-- Which coordination functions did the Council inherit, create, or quietly take over?
-- Who knows the Council exists, and what do they actually know?
-- What public institutions could perform Council functions if its power were exposed or reduced?
-- How are Council seats inherited, selected, purchased, contested, or replaced?
+The Council's structural role is now owned by [The Economic Council](Politics/Economic-Council.md): it is a private interregional coordination layer whose advantage comes from combining information, capital, institutional memory, and cross-border relationships across several dependency systems.
+
+[Economic Council — Internal Structure](Politics/Economic-Council-Internal-Structure.md) now separates **supported structure**, **derived constraints**, and **open design** so plausible solutions are not accidentally promoted into canon.
+
+Supported so far: generational continuity, varied succession traditions, nominal peer status, independent member networks, private coordination meetings, member-specific aides/agents, retained records, internal bargaining, and a strong norm against self-destructive exposure.
+
+Remaining questions:
+
+- How old is the Council relative to the Convergence, exactly?
+- Which member houses first created durable private coordination?
+- Final number and names of Council portfolios.
+- How each current seat actually selects a successor.
+- Whether there is any shared staff beyond member-house personnel.
+- Whether any common treasury or reserve exists.
+- Whether formal voting, vetoes, chairs, or quorum rules exist at all.
+- Exact meeting location and cadence.
+- How Council records are distributed, authenticated, and protected.
+- Final public facade.
+- Who knows the Council exists, and at what level of detail?
+- Whether a house can lose a seat and whether that has ever happened.
+- What public institutions could replace its aggregation, emergency finance, and cross-domain coordination functions?
+- Current seat-holders and their internal family factions.
 
 ### 4. Movement of people and information
 
@@ -73,16 +90,16 @@ The sections below retain the more detailed unresolved questions.
 - Exact outlines of the three continents.
 - Exact location of Port.
 - Which regional borders are long boundaries versus narrow corridors.
-- Whether High Country directly borders South Country.
+- Whether High Roads directly borders Old Cities.
 - Exact relationship of The Spine to continental separation.
 - Navigable rivers and major watersheds.
 
 ## Political structure
 
 - Are all six named regions kingdoms in the same constitutional sense?
-- How many independent South Country city-states remain?
-- How centralized is Forest Country?
-- What formal institutions govern High Country?
+- How many independent Old Cities city-states remain?
+- How centralized is Longwood?
+- What formal institutions govern High Roads?
 - Does Port have citizenship independent of kingdom citizenship?
 
 ## Economic Council

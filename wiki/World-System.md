@@ -184,7 +184,9 @@ See [Economic Council](Politics/Economic-Council.md).
 
 The Council's power is not ordinary sovereignty.
 
-It influences six broad dependency domains:
+It is a private interregional coordination layer built around member houses whose wealth and relationships already cross political borders.
+
+The current six working portfolios are:
 
 - food and biological supply;
 - materials and production;
@@ -193,17 +195,27 @@ It influences six broad dependency domains:
 - finance and exchange;
 - knowledge and information.
 
-It works because the world already depends on coordination.
+These are **coordination portfolios**, not six monopolies.
 
-A ruler can reject a demand, but that choice can interact with credit, shipping, grain contracts, repairs, insurance-like arrangements, information, rival access, and guild politics.
+The Council's strongest advantage is combinatorial:
 
-This makes Council influence difficult to prove from any one event.
+```text
+information from several systems
++ long institutional memory
++ access to capital
++ cross-border relationships
+→ coordinated intervention
+```
 
-The Council's strongest justification is also its greatest danger:
+A ruler can reject a Council-backed proposal, but that decision can interact with credit, shipping, grain contracts, repairs, insurance-like arrangements, information, rival access, and guild politics.
+
+The Council cannot simply command those systems. It influences the **cost and availability of choices** inside them.
+
+Its strongest justification is also its greatest danger:
 
 **it may genuinely solve coordination problems that visible political institutions cannot solve easily.**
 
-Its moral problem is whether solving those problems gives private actors the right to shape everyone else's choices.
+Its moral problem is whether competence at coordination creates the right to make consequential decisions for people who never consented to that authority.
 
 ## 8. Feedback loops
 

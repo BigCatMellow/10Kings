@@ -20,7 +20,7 @@ The Convergence followed a period in which:
 
 ## Negotiation
 
-High Country is the strongest candidate for the principal congress because of:
+High Roads is the strongest candidate for the principal congress because of:
 - geographic accessibility;
 - trade culture;
 - existing arbitration traditions;
@@ -79,18 +79,28 @@ Port's special status was formalized or significantly strengthened.
 
 ## The Council and the Convergence
 
-The Council likely emerged **through** the institutions created by the Convergence rather than appearing fully formed beforehand.
+See [The Economic Council](../Politics/Economic-Council.md).
 
-A strong version of the history is:
+The Convergence created a more predictable interregional order without creating a single government capable of administering all of its dependencies.
 
-1. wealthy families helped finance stabilization;
-2. rulers increasingly depended on their grain stores, credit, ships, roads, and information;
-3. informal coordination among these families prevented crises;
-4. coordination became institutional;
-5. secrecy grew because open economic rule would provoke resistance;
-6. the Council came to believe it was the hidden mechanism keeping the Convergence alive.
+That left a **coordination gap**.
 
-This gives the Council a plausible historical reason to think its manipulation is necessary.
+A strong working history is:
+
+1. wealthy merchant, land, transport, storage, and credit houses help finance stabilization and reconstruction;
+2. the new order increases long-distance dependence on food movement, routes, finance, infrastructure, arbitration, and information;
+3. several powerful houses repeatedly cooperate to solve crises that cross jurisdictions;
+4. those relationships become durable;
+5. information and institutional memory accumulate;
+6. private coordination becomes more formal;
+7. secrecy grows as the political implications of that coordination become harder to defend publicly;
+8. the Council comes to believe that the visible Convergence order survives partly because of its hidden work.
+
+The Council therefore does not create the post-Convergence system from above.
+
+It grows **inside the gaps of that system**.
+
+This also explains why simply removing the Council could create real instability unless its useful coordination functions are replaced publicly or distributed across other institutions.
 
 ## Cultural effect
 
@@ -105,4 +115,4 @@ Once borders and internal peace became more stable:
 - elites cultivated shared histories;
 - old mixed frontier identities were sometimes suppressed.
 
-Thus some traditions now presented as ancient "Western Uplands" or "River Country" culture may actually be post-Convergence standardizations of more diverse older practices.
+Thus some traditions now presented as ancient "Stone Hills" or "Low Rivers" culture may actually be post-Convergence standardizations of more diverse older practices.
