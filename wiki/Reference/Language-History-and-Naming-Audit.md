@@ -26,6 +26,23 @@ Legacy linguistic and naming notes are evidence, not authority:
 
 ---
 
+## Revision rule — no protected names by default
+
+Existing names should not be preserved simply because they are familiar or already embedded in notes.
+
+The audit categories are therefore evaluative, not conservative.
+
+A name may be:
+
+- retained because it fits;
+- reframed as a translation, exonym, nickname or later political name;
+- substantially altered;
+- fully replaced.
+
+The deciding factor is **fit with culture, language history and world logic**, not continuity.
+
+Only a very small number of story-central names may receive special handling, and even those should be reconsidered if they actively weaken the setting.
+
 # Executive conclusion
 
 The current world does **not** support a clean model in which:
@@ -61,15 +78,17 @@ This also solves a major naming problem.
 
 The six modern regional labels and several major geographic labels are unusually transparent English compounds.
 
-The best current design interpretation is:
+One possible design interpretation is:
 
-> **many macro-level names are reader-facing or interregional translations / conventional renderings, not proof that every local language literally forms names in the same English compound style.**
+> **some macro-level names may be reader-facing or interregional translations / conventional renderings rather than literal native forms.**
 
-Local endonyms, older substrate names, legal names and historical spellings can exist beneath those labels.
+That is a tool, not a preservation requirement.
 
-Do not invent all of those forms immediately.
+If a macro label feels generic, culturally mismatched or too obviously theme-first once the relevant culture is deepened, it should be replaced rather than explained away.
 
-The point is to create room for them.
+Local endonyms, older substrate names, legal names and historical spellings can coexist where useful.
+
+The point is to let the naming system emerge from the world rather than forcing the world to justify existing labels.
 
 ---
 
