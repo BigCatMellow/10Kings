@@ -4,6 +4,8 @@
 
 **Working cultural framework.** Structural language features are design directions, not finalized language families or conlangs.
 
+For language relatedness, dialect continua, multilingualism, contact varieties, and mutual intelligibility, see [Language Families, Contact, and Mutual Intelligibility](../Language-Families-and-Contact.md).
+
 ## Principle
 
 Regional languages should influence **habits of attention**, not determine intelligence or personality.
@@ -52,9 +54,9 @@ The Convergence creates strong pressure for:
 - legal / diplomatic registers;
 - more consistent written forms.
 
-High Country is the strongest candidate for an important source of interregional legal and trade conventions because it was already multilingual, route-centered and experienced in arbitration.
+High Roads is the strongest candidate for an important source of interregional legal and trade conventions because it was already multilingual, route-centered and experienced in arbitration.
 
-This does **not** mean everyone speaks a single High Country language.
+This does **not** mean everyone speaks a single High Roads language.
 
 A professional interregional register can spread without replacing household languages.
 
@@ -66,7 +68,7 @@ Language can follow the same pattern.
 
 Modern prestige varieties may therefore be **newer than many local dialects**.
 
-A speech form presented as “proper Western Uplands” or “formal South Country” may reflect post-Convergence institutions rather than an ancient unified people.
+A speech form presented as “proper Stone Hills” or “formal Old Cities” may reflect post-Convergence institutions rather than an ancient unified people.
 
 ### Cross-regional registers
 
@@ -88,7 +90,7 @@ Two speakers may share professional vocabulary without sharing a home language.
 
 These are design directions, not finalized conlangs.
 
-### Western Uplands languages
+### Stone Hills languages
 
 Possible recurring features:
 - strong distinction between completed, inspected, and merely claimed work;
@@ -98,9 +100,9 @@ Possible recurring features:
 
 Likely cognitive/social effect: people may habitually ask who is accountable and whether something is actually finished, certified, or only promised.
 
-This should not make Western Uplands people inherently blunt.
+This should not make Stone Hills people inherently blunt.
 
-### North Country languages
+### North Coast languages
 
 Possible features:
 - inclusive and exclusive forms of "we";
@@ -110,7 +112,7 @@ Possible features:
 
 Effect: speakers habitually clarify group membership, information source, and situational conditions — useful where survival depends on reliable reports and coordinated crews.
 
-### River Country languages
+### Low Rivers languages
 
 Possible features:
 - detailed aspect: beginning, ongoing, recurring, completed, interrupted, seasonal;
@@ -120,9 +122,9 @@ Possible features:
 
 Effect: speakers may naturally discuss plans as processes with stages and shared obligations rather than isolated actions.
 
-### High Country languages
+### High Roads languages
 
-High Country is likely highly multilingual.
+High Roads is likely highly multilingual.
 
 Common trade registers may feature:
 - explicit markers of certainty and obligation;
@@ -132,7 +134,7 @@ Common trade registers may feature:
 
 Effect: habitual negotiation rewards explicit assumptions and degrees of commitment.
 
-### Forest Country languages
+### Longwood languages
 
 Possible features:
 - animate/inanimate or agency distinctions that place many plants, waterways, animals, and places in grammatically important categories;
@@ -143,7 +145,7 @@ Effect: speakers may habitually represent environmental entities as participants
 
 Do not turn this into "the language makes them spiritual."
 
-### South Country languages
+### Old Cities languages
 
 Possible features:
 - developed politeness and status registers in older urban centers;
@@ -158,9 +160,9 @@ Effect: speakers often attend closely to social positioning and the public conse
 First-generation bilingual adults may code-switch: one register at home, another in market or law.
 
 Second- and third-generation border populations often create stable mixed dialects. More importantly, they may combine habits:
-- direct responsibility marking from Western Uplands + process/aspect distinctions from River Country;
-- North Country evidentiality + High Country contractual conditionals;
-- Forest Country ecological agency + High Country precision about obligations.
+- direct responsibility marking from Stone Hills + process/aspect distinctions from Low Rivers;
+- North Coast evidentiality + High Roads contractual conditionals;
+- Longwood ecological agency + High Roads precision about obligations.
 
 This can produce people who are unusually effective mediators not because bilingualism makes them wiser, but because they have learned multiple conventions for what must be stated explicitly.
 
@@ -174,7 +176,7 @@ Port should contain:
 - religious registers;
 - neighborhood dialects.
 
-A third-generation Port family should not sound simply like diluted North Country or South Country.
+A third-generation Port family should not sound simply like diluted North Coast or Old Cities.
 
 
 ## Regional ecology, not regional uniformity
@@ -183,14 +185,14 @@ The regional feature lists above should be read as **possible recurring structur
 
 Current historical direction:
 
-- **Western Uplands:** multiple upland, valley and town varieties beneath later administrative and craft standardization;
-- **North Country:** coastal and island dialect chains with shared maritime vocabulary but strong local variation;
-- **River Country:** river / lowland continua shaped by estate, village and market networks;
-- **High Country:** especially multilingual, with pass-town mixed speech, caravan registers and legal / trade conventions;
-- **Forest Country:** several forest and river language communities with specialist ecological vocabularies and ritual registers;
-- **South Country:** multiple city and rural varieties, including court, merchant and irrigation-law registers;
+- **Stone Hills:** multiple upland, valley and town varieties beneath later administrative and craft standardization;
+- **North Coast:** coastal and island dialect chains with shared maritime vocabulary but strong local variation;
+- **Low Rivers:** river / lowland continua shaped by estate, village and market networks;
+- **High Roads:** especially multilingual, with pass-town mixed speech, caravan registers and legal / trade conventions;
+- **Longwood:** several forest and river language communities with specialist ecological vocabularies and ritual registers;
+- **Old Cities:** multiple city and rural varieties, including court, merchant and irrigation-law registers;
 - **Port:** contact varieties that become native urban speech rather than remaining a mechanical mixture;
-- **Tunnels:** enclave languages, route cants and mixed market speech reflecting several surface origins.
+- **Underpass:** enclave languages, route cants and mixed market speech reflecting several surface origins.
 
 ## Port language development
 
