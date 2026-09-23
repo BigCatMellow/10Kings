@@ -1,18 +1,18 @@
-# Forest Country
+# Longwood
 
 ## Status
 
 **Working canon.**
 
-Forest Country is a major forest region whose people have developed institutions for living with, using, and defending the forest. It should not be written as an undifferentiated mystical wilderness.
+Longwood is a major forest region whose people have developed institutions for living with, using, and defending the forest. It should not be written as an undifferentiated mystical wilderness.
 
 ## Cultural reach
 
-Forest Country is a **cultural core and historical concentration**, not “the place where forest people live.” Forest Country-descended communities can exist in major forests elsewhere, adapting inherited institutions to new ecologies. Other large forests can also contain culturally unrelated peoples who developed different solutions to similar environmental pressures.
+Longwood is a **cultural core and historical concentration**, not “the place where forest people live.” Longwood-descended communities can exist in major forests elsewhere, adapting inherited institutions to new ecologies. Other large forests can also contain culturally unrelated peoples who developed different solutions to similar environmental pressures.
 
 ## Geography
 
-Forest Country contains:
+Longwood contains:
 - old-growth forest;
 - managed woodland;
 - river valleys;
@@ -29,7 +29,7 @@ The forest itself changes with altitude, rainfall, soil, and human use.
 
 ## Historical identity
 
-Forest Country was historically decentralized.
+Longwood was historically decentralized.
 
 Communities included:
 - village alliances;
@@ -47,7 +47,7 @@ Outsiders repeatedly pushed into forest margins for:
 - hunting;
 - roads.
 
-Forest Country groups sometimes united against these incursions, sometimes fought each other, and sometimes profited from outsiders.
+Longwood groups sometimes united against these incursions, sometimes fought each other, and sometimes profited from outsiders.
 
 The remembered **Ages of Silence** should remain partly historical and partly religious: perhaps a period of ecological collapse, depopulation, warfare, or disease later interpreted spiritually.
 
@@ -63,7 +63,7 @@ Reference pools include:
 
 ## Language
 
-Forest Country language families may grammatically distinguish forms of agency or animacy and possess unusually precise vocabulary for:
+Longwood language families may grammatically distinguish forms of agency or animacy and possess unusually precise vocabulary for:
 - forest age;
 - water state;
 - animal sign;
@@ -78,7 +78,7 @@ This encourages environmental attention without implying supernatural wisdom.
 
 ### Cities
 
-A Forest Country city should still look like a city:
+A Longwood city should still look like a city:
 - dense market areas;
 - docks if river-based;
 - workshops;
@@ -110,7 +110,7 @@ Some are raised for wet ground; others partially dug into slopes.
 
 ## Food
 
-Forest Country cuisine includes more cultivated food than outsiders assume.
+Longwood cuisine includes more cultivated food than outsiders assume.
 
 Possible staples:
 - forest tubers;
@@ -129,7 +129,7 @@ Foraging supplements agriculture rather than replacing it everywhere.
 
 ## Politics
 
-Forest Country politics revolve around:
+Longwood politics revolve around:
 - cutting rights;
 - water;
 - road access;
@@ -150,6 +150,6 @@ Forest Country politics revolve around:
 
 ## Story function
 
-Forest Country is ideal for examining **who gets to define stewardship**.
+Longwood is ideal for examining **who gets to define stewardship**.
 
 Outsiders may be wrong to see forest protection as irrational obstruction; locals may also use "tradition" to conceal monopolies, inequality, or political control.
