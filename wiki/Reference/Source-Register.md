@@ -396,6 +396,36 @@ Outputs:
 
 Public culture now follows venue, audience, work, money, travel, memory and repeated contact first.
 
+### Phase 6 — festivals, seasonal life and life-cycle ritual
+
+Legacy Volumes 04 and 06 were reconciled against current Daily Life, Religions, Food, Architecture, Arts, Naming, trade and historical-memory owners.
+
+Outputs:
+
+- [Festivals, Seasonal Life and Public Ritual](../Culture/Festivals-and-Seasonal-Life.md) — rebuilt structural owner;
+- [Culture Phase 6 — Festivals and Life-Cycle Ritual Vertical Slices](Culture-Phase-6-Festivals-Life-Cycle-Vertical-Slices.md).
+
+**Compatible mechanisms retained**
+- harvest and seasonal gatherings;
+- profession-linked responsibility changes;
+- guild / occupational rites;
+- pilgrimage and departure observances;
+- public memory and mourning;
+- market and civic gatherings;
+- fasting / restraint as possible faith practices where current religious owners support them;
+- household and community celebration around life transitions.
+
+**Demoted or rejected as automatic canon**
+- one festival calendar per region;
+- theme-first festival names;
+- universal regional wedding, funeral or coming-of-age systems;
+- direct promotion of older deity-specific ritual scripts;
+- Three Moon Festival as a named Port canon event without current cosmological support;
+- aurora, crop, wine or other environmental festival premises where the underlying local condition is not yet established;
+- dramatic skill trials as the default route to adulthood.
+
+Recurring ritual now follows actual coordination problems, material cycles, institutions and local history first.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
