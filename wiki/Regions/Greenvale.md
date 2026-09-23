@@ -1,30 +1,30 @@
-# River Country
+# Low Rivers
 
 ## Status
 
 **Working canon.**
 
-River Country is the largest major agricultural heartland, but it is not one endless field. It contains market towns, pasture, rivers, orchards, wetlands, forests, mills, estates, tenant villages, workshops, roads, shrines, and regional cities.
+Low Rivers is the largest major agricultural heartland, but it is not one endless field. It contains market towns, pasture, rivers, orchards, wetlands, forests, mills, estates, tenant villages, workshops, roads, shrines, and regional cities.
 
 ## Cultural reach
 
-River Country is a **cultural core and historical concentration**, not the territory of one agricultural people. River Country-descended farming, milling, storage and village traditions can travel with migrants into other fertile valleys and river systems. The geographic River Country also contains towns, estates, migrant communities and border populations with other cultural identities.
+Low Rivers is a **cultural core and historical concentration**, not the territory of one agricultural people. Low Rivers-descended farming, milling, storage and village traditions can travel with migrants into other fertile valleys and river systems. The geographic Low Rivers also contains towns, estates, migrant communities and border populations with other cultural identities.
 
 ## Geography
 
-River Country occupies broad temperate lowlands and rolling country with comparatively reliable rainfall and productive soils.
+Low Rivers occupies broad temperate lowlands and rolling country with comparatively reliable rainfall and productive soils.
 
 Its boundaries grade into:
-- Western Uplands foothills;
-- High Country routes;
-- Forest Country forest margins;
-- warmer South Country country.
+- Stone Hills foothills;
+- High Roads routes;
+- Longwood forest margins;
+- warmer Old Cities country.
 
 These transition zones are some of the world's most culturally mixed areas.
 
 ## Historical identity
 
-River Country's pre-Convergence history includes:
+Low Rivers's pre-Convergence history includes:
 - small landholding communities;
 - estate rulers;
 - river towns;
@@ -35,7 +35,7 @@ River Country's pre-Convergence history includes:
 
 The **Seven-year Blight** remains an important working historical memory: whether exactly seven years or later mythologized, a prolonged crop crisis helped create traditions of storage, crop diversity, communal aid, and suspicion of concentrated control over seed and grain.
 
-During periods of scarcity, River Country was both victim and aggressor. Its rulers raided neighbors, annexed healthier land, fought internally, and sometimes invited foreign military support.
+During periods of scarcity, Low Rivers was both victim and aggressor. Its rulers raided neighbors, annexed healthier land, fought internally, and sometimes invited foreign military support.
 
 ## Cultural inspirations
 
@@ -49,7 +49,7 @@ Useful research pools:
 
 ## Language
 
-River Country speech may distinguish:
+Low Rivers speech may distinguish:
 - beginning;
 - ongoing;
 - recurring;
@@ -104,7 +104,7 @@ Farmsteads are mixed-purpose complexes:
 
 ## Food
 
-River Country has the broadest everyday food base.
+Low Rivers has the broadest everyday food base.
 
 Common foods:
 - breads and porridges;
@@ -137,7 +137,7 @@ Political conflict centers on:
 - export rules;
 - estate versus cooperative power.
 
-The Council's food/finance networks can exert enormous influence here without ruling River Country directly.
+The Council's food/finance networks can exert enormous influence here without ruling Low Rivers directly.
 
 ## Current pressures
 
@@ -151,6 +151,6 @@ The Council's food/finance networks can exert enormous influence here without ru
 
 ## Story function
 
-River Country demonstrates that **plenty can be politically destabilizing** just as easily as famine.
+Low Rivers demonstrates that **plenty can be politically destabilizing** just as easily as famine.
 
 The important question is not only whether food exists, but who owns it, stores it, transports it, prices it, and decides who receives it.
