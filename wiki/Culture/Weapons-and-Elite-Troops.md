@@ -8,7 +8,7 @@ Most people do not carry battlefield weapons all day.
 
 Self-defense often uses tools already present in daily life.
 
-## Western Uplands
+## Stone Hills
 
 Common:
 - stout knives;
@@ -27,7 +27,7 @@ disciplined heavy infantry or engineering troops accustomed to fortifications, m
 Visual difference:
 better helmets, standardized armor pieces, reliable tools, insignia tied to unit rather than flamboyant fantasy armor.
 
-## North Country
+## North Coast
 
 Common:
 - utility knives;
@@ -43,7 +43,7 @@ marines/coastal fighters skilled in shipboard combat, rough weather, landing ope
 Elite distinction:
 waterproofed gear, layered clothing, rope skills, compact shields, superior boots.
 
-## River Country
+## Low Rivers
 
 Common:
 - staff;
@@ -56,7 +56,7 @@ Common:
 Elite direction:
 mobile local defense, scouts, or disciplined levy cadres whose strength is logistics and local terrain rather than exotic weaponry.
 
-## High Country
+## High Roads
 
 Common:
 - staff;
@@ -68,7 +68,7 @@ Common:
 Elite direction:
 route guards and high-altitude scouts trained for ambush prevention, escort, signal systems, and fighting around narrow passes.
 
-## Forest Country
+## Longwood
 
 Common:
 - bows;
@@ -82,7 +82,7 @@ rangers/wardens who know terrain, tracking, concealment, river crossings, and co
 
 No magical "silent bows" are required.
 
-## South Country
+## Old Cities
 
 Common:
 - knives;
@@ -106,7 +106,7 @@ Port's best forces are likely specialized:
 
 Their advantage is training for dense urban environments rather than superior weapon technology.
 
-## Tunnels
+## The Underpass
 
 Specialized troops use:
 - short spears;
