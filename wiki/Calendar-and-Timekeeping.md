@@ -690,6 +690,8 @@ This fits the broader [Naming](Culture/Naming.md) rule that standardized forms c
 
 # 26. Birth, marriage, and death create dating problems
 
+See [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md).
+
 [Daily Life and Customs](Culture/Daily-Life-and-Customs.md) and [Festivals, Seasonal Life and Public Ritual](Culture/Festivals-and-Seasonal-Life.md) already establish life-cycle variation.
 
 Legal records may need dates for:
