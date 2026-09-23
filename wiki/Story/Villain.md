@@ -4,6 +4,8 @@
 
 Core function established; identity and exact grievance remain open.
 
+See [Story Core and Character Legacy Reconciliation](../Reference/Story-Core-Legacy-Reconciliation.md) for preserved earlier motive options, grounded antagonist seeds, and superseded Villain models.
+
 ## Core idea
 
 The Villain is the primary strategic mover of the plot.
@@ -45,6 +47,22 @@ His plan uses:
 The best moves have two explanations:
 1. what participants believe is happening;
 2. what strategic function the event serves for him.
+
+## Support and legitimacy
+
+His movement cannot depend entirely on deception.
+
+Some people should support him because his network can plausibly:
+- expose real corruption;
+- solve a neglected problem;
+- protect a community;
+- move aid;
+- lower a local cost;
+- give excluded people political voice.
+
+Those benefits can be sincere, strategic, or both.
+
+This makes his later instrumentalization of supporters more tragic and more believable.
 
 ## Moral trajectory
 
