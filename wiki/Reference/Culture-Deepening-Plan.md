@@ -962,6 +962,34 @@ Do not canonize hundreds of these.
 
 They are scene seeds.
 
+### Phase 8 execution — 2026-09-23
+
+Completed in [Culture Phase 8 — Breath Pass Scene Seeds](Culture-Phase-8-Breath-Scene-Seeds.md).
+
+The pass uses one ordinary community per cultural core plus Port and generates only **non-canon, local scene texture**:
+
+- faded language / old nicknames;
+- annoying fashions;
+- cheap-food and price arguments;
+- local jokes;
+- etiquette mistakes;
+- children's games;
+- household clutter;
+- neighborhood rivalries;
+- cultural arguments with no plot payoff;
+- plausible wrong rumors;
+- mundane institutional friction.
+
+The pass deliberately avoids turning any seed into a regional trait.
+
+Strong result:
+
+> the structural culture work can produce lived-in incidental detail without reverting to one-theme-per-region design.
+
+No individual seed was promoted to canon.
+
+**Culture Phases 1–8 are now complete at the structural/testing level.**
+
 ---
 
 # 6. Priority matrix
