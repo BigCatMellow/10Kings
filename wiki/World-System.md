@@ -76,7 +76,7 @@ Before the Convergence, the world was politically fragmented. Control changed th
 - control of passes, harbors, mines, rivers, or productive land;
 - local agreements that did not match later borders.
 
-The Convergence did not create a unified empire. It created a **shared political-economic settlement** in which borders, trade, access, and dispute became more predictable.
+The Convergence did not create a unified empire. It created a **shared political-economic settlement** built around recognized claims, protected exchange, route security, arbitration, Port neutrality, and continued local autonomy. The exact signatories and treaty machinery remain open.
 
 That changed conflict rather than ending it.
 
