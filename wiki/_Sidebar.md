@@ -5,10 +5,12 @@
 - [World Overview](World-Overview.md)
 - [The World as a System](World-System.md)
 - [World Rules](World-Rules.md)
+- [Magic Baseline](Magic-Baseline.md)
 - [Geography](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
 - [Movement and Information](Movement-and-Information.md)
 - [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md)
+- [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md)
 - [Social Fabric](Social-Fabric.md)
 - [Open Questions](Open-Questions.md)
 
@@ -42,6 +44,7 @@
 **Culture**
 - [Cultural Inspiration](Culture/Culture-and-Influence.md)
 - [Language and Thought](Culture/Language-and-Thought.md)
+- [Language Families and Contact](Language-Families-and-Contact.md)
 - [Naming](Culture/Naming.md)
 - [Daily Life and Customs](Culture/Daily-Life-and-Customs.md)
 - [Clothing and Material Culture](Culture/Clothing-and-Material-Culture.md)
@@ -76,6 +79,7 @@
 - [Underworld Legacy Reconciliation](Reference/Underworld-Legacy-Reconciliation.md)
 - [Regional and Polity Legacy Reconciliation](Reference/Regional-Polity-Legacy-Reconciliation.md)
 - [Military and Weapons Legacy Reconciliation](Reference/Military-Weapons-Legacy-Reconciliation.md)
+- [Linguistics Legacy Reconciliation](Reference/Linguistics-Legacy-Reconciliation.md)
 - [Language History and Naming Audit](Reference/Language-History-and-Naming-Audit.md)
 - [Grounded Naming Realignment](Reference/Grounded-Naming-Realignment.md)
 - [Naming History Vertical Slices](Reference/Naming-History-Vertical-Slices.md)
