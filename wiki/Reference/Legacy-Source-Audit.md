@@ -67,7 +67,7 @@ Do not treat it as canon, but do not design the topic from scratch without revie
 | --- | --- | --- | --- | --- |
 | **00 — Master Index** | **RETRIEVAL TOOL** | this page + Source Register | exact source-file provenance and old source names | nothing should be promoted directly from the index |
 | **01 — Foundations / World / Myth / History** | **PARTIALLY RECONCILED** | World Overview, World Rules, Geography, Pre-Convergence, Convergence | old geography hypotheses, map logic, Underpass/Spine origins, pre-Convergence fragments, discarded cosmology when reconstructing why a decision changed | fixed old map, old macro-polity certainty, superseded mythology presented as current fact |
-| **02 — Regions / Kingdoms** | **UNRECONCILED / HIGH** | six Region owners, Kingdoms and Politics, Port, Border Towns | minor polities; succession mechanisms; local administration; law enforcement; education/apprenticeship ideas; local institutions; city/route relationships; internal factions; reasons people remain or migrate | regional personality templates; modern/industrial tech such as railways where unsupported; one ruler representing an entire culture; theme-first festivals and town names |
+| **02 — Regions / Kingdoms** | **RECONCILED STRUCTURALLY / NAMED POLITIES PROVISIONAL** | Kingdoms and Politics, Law and Jurisdiction, Convergence, Border Towns, Regional and Polity Legacy Reconciliation | education / knowledge transmission and selected minor-polity names remain future-development material | regional personality templates, unsupported industrial tech, one ruler per culture, themed festivals/towns and old region-state mapping remain unpromoted |
 | **03 — Cities / Architecture** | **MOSTLY RECONCILED** | Architecture + Phase 4 slices | city-specific morphology, neighborhood functions, public institutions and old city concepts when a settlement is developed | one-style-per-region architecture; direct Earth-style mapping |
 | **04 — Cultures / Peoples / Daily Life** | **MOSTLY RECONCILED, NOMADS PARTIAL** | Daily Life, Clothing, Arts, Culture and Influence, Nomads | plurality of mobile peoples; route-based kin networks; inheritance / household prompts; localized taboo/superstition prompts; portable crafts and oral-memory mechanisms | regional psychology, costume stereotypes, fantasy-race material unless deliberately revived under current world rules |
 | **05 — Food / Cuisine** | **RECONCILED** | Food, Food Diaspora and Adaptation, Phase 3 | cooking techniques, preservation, labor food, historical adaptation prompts, equipment questions | themed dish names, direct modern cuisine copies, recipe-card canon, forge/frost/forest flavor personalities |
@@ -232,15 +232,15 @@ If repository size or search noise becomes a problem, the duplicate package file
 
 ## P0 — review before relevant new work
 
-1. **Volume 02 — minor polities, local institutions, education and law**
-2. **Volume 09 — military / logistics**
-3. **Volume 07 — language examples / registers**
+1. **Volume 09 — military / logistics**
+2. **Volume 07 — language examples / registers**
+3. **Volume 10 — current-event alternatives / secondary effects**
 
 ## P1 — deliberate future passes
 
-4. **Volume 10 — current-event alternatives / secondary effects**
-5. **Volume 11 — character / villain alternatives and critique**
-6. **Volume 01 — remaining foundations / history conflicts as needed**
+4. **Volume 11 — character / villain alternatives and critique**
+5. **Volume 01 — remaining foundations / history conflicts as needed**
+6. **Volume 13 — underdeveloped systems after dedicated source passes**
 
 ## P2 — gap creation, not lore promotion
 
