@@ -24,22 +24,22 @@ See [Economic Council](../Politics/Economic-Council.md).
 
 All provisional until naming systems are finalized. Existing names may be retained, reframed, or replaced based on cultural fit; see [Personal Naming Framework](../Reference/Personal-Naming-Framework.md).
 
-### Orin Slatehallow — Western Uplands
+### Orin Slatehallow — Stone Hills
 Young metalworker/technical reformer drawn into hidden patronage.
 
-### Maris Bleakshore — North Country
+### Maris Bleakshore — North Coast
 Coastal matriarch/leader who can influence maritime defense.
 
-### Rosana Meadowcroft — River Country
+### Rosana Meadowcroft — Low Rivers
 Agricultural researcher/seed steward whose work changes food politics.
 
-### Samir Tareh — High Country
+### Samir Tareh — High Roads
 Caravan negotiator whose route decisions have continental effects.
 
-### Naruin Mossglade — Forest Country
+### Naruin Mossglade — Longwood
 Forest warden whose defense of local rights can become a larger political flashpoint.
 
-### Bahriyya Nazar — South Country
+### Bahriyya Nazar — Old Cities
 Diplomat/reformer trying to coordinate divided city-states.
 
 See [Villain's Dominoes](Villains-Dominoes.md).
