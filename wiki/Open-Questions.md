@@ -73,7 +73,7 @@ The structural model is now owned by [Movement and Information](Movement-and-Inf
 
 Remaining questions:
 
-- Actual language families and degrees of mutual intelligibility.
+- Exact language-family tree, language names, scripts, and mutual-intelligibility matrix. The structural model is now owned by [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md).
 - Major pilgrimage, migration, labor, refugee, and seasonal travel patterns.
 - Exact circuit patterns, legal attachment, access arrangements, taxation, and cross-jurisdiction status of mobile peoples. Their structural role as recurring circuit-based communities is now established in [Nomads and Itinerant Peoples](Culture/Nomads.md).
 - Exact travel times and seasonal reliability between major hubs.
@@ -168,10 +168,21 @@ Remaining questions:
 
 ## Language and naming
 
-- Actual language families.
-- Personal-name systems.
+[Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md) now establishes that languages follow older settlement/contact history rather than the six modern cultural regions, mutual intelligibility is a gradient, and Port/High Roads/border communities are major multilingual contact zones.
+
+Remaining questions:
+
+- Number and family tree of major language families.
+- Language and dialect names.
+- Exact mutual-intelligibility matrix.
+- Scripts and writing-system history.
+- Prestige and administrative standards by polity.
+- Structure of interregional trade/legal registers.
+- Port contact-language classification.
+- Religious/liturgical languages.
 - Which older languages survive in place names.
-- How mutually intelligible the regions are.
+- Personal-name systems and how they map onto language history.
+- Language policy in multilingual polities.
 
 ## Calendars and public ritual
 
