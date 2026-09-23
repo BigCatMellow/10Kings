@@ -140,6 +140,8 @@ That makes the [Underpass](Places/The-Underpass.md), smuggling, alternative rout
 
 The world is politically plural.
 
+See [Kingdoms and Politics](Politics/Kingdoms-and-Politics.md). The six cultural-geographic regions are **not** six equivalent states. Political units vary in scale and form, and should be understood by the functions they actually perform rather than being forced into one constitutional template.
+
 Visible authority includes some combination of:
 
 - monarchs and noble houses;

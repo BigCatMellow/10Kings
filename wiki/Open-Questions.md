@@ -110,11 +110,22 @@ The sections below retain the more detailed unresolved questions.
 
 ## Political structure
 
-- Are all six named regions kingdoms in the same constitutional sense?
-- How many independent Old Cities city-states remain?
-- How centralized is Longwood?
-- What formal institutions govern High Roads?
-- Does Port have citizenship independent of kingdom citizenship?
+[Kingdoms and Politics](Politics/Kingdoms-and-Politics.md) now establishes that the six cultural regions are **not six equivalent states** and maps the current confidence level for each region's political organization.
+
+Remaining questions:
+
+- Exact number of sovereign and semi-sovereign polities.
+- Stone Hills central structure and the reach of any crown/state institutions.
+- North Coast relationship among clans, harbors, islands, and any larger crown/confederation.
+- Low Rivers relationship among central authority, estates, river towns, irrigation systems, cooperatives, and villages.
+- High Roads formal compact / confederal architecture.
+- Whether Longwood has any durable region-wide assembly or only overlapping local institutions.
+- Exact Old Cities city-state roster, leagues, and client territories.
+- Port citizenship and constitutional form.
+- Military and taxation structure by polity.
+- Succession rules for major rulers.
+- Exact diplomatic representation in the Convergence.
+- Membership and internal splits of the cross-regional competitive spheres.
 
 ## Economic Council
 
