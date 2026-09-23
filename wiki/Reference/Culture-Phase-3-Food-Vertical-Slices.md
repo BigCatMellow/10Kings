@@ -538,6 +538,53 @@ Refugee inflow / credit problems can:
 
 ---
 
+# Contact-zone test — salted fish and fresh vegetables
+
+## Status
+
+**Mechanism test only; not a canon dish.**
+
+Suppose an old mixed settlement contains:
+
+- North Coast-descended households with strong salt-fish / brining traditions;
+- Low Rivers-descended households with reliable access to fresh vegetables, herbs and pickling produce.
+
+The first generation may simply trade ingredients.
+
+A later pattern could emerge:
+
+```text
+salted fish
++ fresh / lightly pickled vegetables
++ local souring agent
++ cheap market herbs
++ shared workday meal
+→ mixed neighborhood dish
+```
+
+The important part is not the exact recipe.
+
+The historical mechanism is:
+
+1. preservation knowledge solves the problem of keeping fish;
+2. local vegetable supply changes texture / freshness / seasonality;
+3. mixed households and market stalls repeat the combination;
+4. a practical meal becomes associated with one town or neighborhood;
+5. children grow up treating it as normal local food;
+6. later cooks argue over the correct version.
+
+At that point it is no longer best described as “North Coast food with Low Rivers vegetables.”
+
+It is **contact-zone food**.
+
+## Test result
+
+**STRONG PASS.**
+
+The food system should actively generate local crossover cuisines anywhere repeated contact, intermarriage and shared markets persist.
+
+---
+
 # Cross-slice findings
 
 ## 1. Region is not a menu
