@@ -25,7 +25,7 @@ The broad topology is now captured in [Geography and Connections](Geography-and-
 
 The structural legal model is now owned by [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md): authority is layered, local law survives the Convergence, and cross-border judgments depend on recognized forums and enforcement networks rather than one universal court hierarchy.
 
-The [Convergence](History/The-Convergence.md) now has a stable structural core: recognized claims / non-aggression, protected exchange, shared route-security obligations, cross-border arbitration, Port neutrality / access, and preserved local autonomy. The settlement may be a package of agreements rather than one all-purpose charter.
+The [Convergence](History/The-Convergence.md) now has a stable structural core: recognized claims / non-aggression, protected exchange, shared route-security obligations, cross-border arbitration, Port neutrality / access, and preserved local autonomy. [Convergence Layered Settlement Model](Reference/Convergence-Layered-Settlement-Model.md) further separates those core guarantees from attached agreements, later interoperability standards, precedent, and continuing local law.
 
 Remaining questions:
 
