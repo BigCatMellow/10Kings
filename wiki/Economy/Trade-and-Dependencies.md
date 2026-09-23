@@ -17,52 +17,52 @@ No major region is self-sufficient, but none should be reduced to one export or 
 
 | Region | Common imports / pressures | Common exports / leverage |
 | --- | --- | --- |
-| **Western Uplands** | substantial food imports in industrial districts, timber/fuel, seasonal labor, selected luxury goods | ores, metalwork, tools, weapons, industrial craft capacity |
-| **North Country** | grain, metal goods, medicines, warmer-climate produce | fish, salt and preserved foods, furs/animal products, ships and maritime capacity |
-| **River Country** | metal tools, preservation salt, shipping and caravan access | grain, produce, livestock products, textiles and other agricultural goods |
-| **High Country** | many lowland/coastal goods beyond what plateau farms, herds, and workshops provide | route access, caravan services, brokerage, arbitration, credit, records and specialist knowledge |
-| **Forest Country** | selected metal tools, salt, grain and urban goods | timber, herbs/medicinals, dyes, forest products and specialist ecological knowledge |
-| **South Country** | selected timber, metal, furs and northern goods | orchard and irrigated crops, oils/wines where culturally appropriate, craft/luxury goods, southern maritime access |
+| **Stone Hills** | substantial food imports in industrial districts, timber/fuel, seasonal labor, selected luxury goods | ores, metalwork, tools, weapons, industrial craft capacity |
+| **North Coast** | grain, metal goods, medicines, warmer-climate produce | fish, salt and preserved foods, furs/animal products, ships and maritime capacity |
+| **Low Rivers** | metal tools, preservation salt, shipping and caravan access | grain, produce, livestock products, textiles and other agricultural goods |
+| **High Roads** | many lowland/coastal goods beyond what plateau farms, herds, and workshops provide | route access, caravan services, brokerage, arbitration, credit, records and specialist knowledge |
+| **Longwood** | selected metal tools, salt, grain and urban goods | timber, herbs/medicinals, dyes, forest products and specialist ecological knowledge |
+| **Old Cities** | selected timber, metal, furs and northern goods | orchard and irrigated crops, oils/wines where culturally appropriate, craft/luxury goods, southern maritime access |
 | **Port** | significant food and raw-material inflows | shipping access, repair, warehousing, processing, finance, arbitration, information and neutral exchange |
 
 These are tendencies, not universal household economies. See [World Rules](../World-Rules.md): a famous specialty is what outsiders notice first, not all that exists there.
 
 ## High-value dependency pairs
 
-### Western Uplands ↔ River Country
+### Stone Hills ↔ Low Rivers
 
 This is one of the strongest recurring relationships.
 
-- Industrial settlements in Western Uplands buy food, timber, animals and labor.
-- River Country farms and workshops buy Western Uplands tools, hardware and metal goods.
+- Industrial settlements in Stone Hills buy food, timber, animals and labor.
+- Low Rivers farms and workshops buy Stone Hills tools, hardware and metal goods.
 - Price movements on either side can become political disputes.
 - Border communities can contain mixed families, shared workshops and competing historical memories.
 
 This relationship should feel like a long marriage of necessity: useful, intimate and periodically resentful.
 
-### North Country and maritime access
+### North Coast and maritime access
 
-North Country has **leverage**, not an automatic shipping monopoly.
+North Coast has **leverage**, not an automatic shipping monopoly.
 
-Its shipbuilding, sailors, ports and knowledge of difficult northern waters make it unusually important to some routes. Storms, fishery disputes, convoy policy or piracy can therefore propagate beyond North Country without implying that every coastal shipment belongs to it.
+Its shipbuilding, sailors, ports and knowledge of difficult northern waters make it unusually important to some routes. Storms, fishery disputes, convoy policy or piracy can therefore propagate beyond North Coast without implying that every coastal shipment belongs to it.
 
-### Forest Country and controlled extraction
+### Longwood and controlled extraction
 
-Forest Country can matter disproportionately because some forest products are difficult to replace quickly.
+Longwood can matter disproportionately because some forest products are difficult to replace quickly.
 
-Export restrictions may be ecological, religious, political, local or commercial. Other regions may misread those motives. This creates bargaining friction without making Forest Country a single-minded “resource faction.”
+Export restrictions may be ecological, religious, political, local or commercial. Other regions may misread those motives. This creates bargaining friction without making Longwood a single-minded “resource faction.”
 
-### High Country as intermediary
+### High Roads as intermediary
 
-High Country's route position supports tolls, banking, arbitration, caravan services and information exchange. It still has farms, herds, workshops and ordinary local production.
+High Roads's route position supports tolls, banking, arbitration, caravan services and information exchange. It still has farms, herds, workshops and ordinary local production.
 
 Its leverage comes from **making movement easier or harder**, not from “producing nothing.”
 
-### South Country as a competitive market
+### Old Cities as a competitive market
 
-South Country city-states can concentrate wealth, patronage and demand for imported goods while also competing fiercely with one another over water, ports, prestige and trade.
+Old Cities city-states can concentrate wealth, patronage and demand for imported goods while also competing fiercely with one another over water, ports, prestige and trade.
 
-There is no single South Country market actor.
+There is no single Old Cities market actor.
 
 ### Port as network hub
 
