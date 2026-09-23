@@ -8,7 +8,7 @@ The world is currently being actively reworked. Region names, cultural identitie
 
 Treat the wiki as the **current working model**, not a promise that every present label or detail is final. Structural relationships and causal logic should be preserved where useful, but a stronger redesign may replace current specifics.
 
-See [Middle Worldbuilding](Reference/Middle-Worldbuilding.md) for the current design method.
+See [Middle Worldbuilding](Reference/Middle-Worldbuilding.md) for functional world design and [Writing the Sequel](Reference/Writing-the-Sequel.md) for accumulated historical consequences.
 
 ## Core idea
 
@@ -81,7 +81,8 @@ The setting should make it possible to follow one damaged bridge, missing carava
 
 ## Writing and provenance
 
-- [Middle Worldbuilding](Reference/Middle-Worldbuilding.md) — current method for deriving detailed world systems while redesign is active
+- [Middle Worldbuilding](Reference/Middle-Worldbuilding.md) — derives functional systems and daily consequences
+- [Writing the Sequel](Reference/Writing-the-Sequel.md) — derives accumulated aftermath, normalization, and historical residue
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md) — scene-level writing guidance, not canon
 - [World Synthesis — E/I Capture](Reference/World-Synthesis-EI.md) — emergent connections being tested, not canon
 - [Free City of Danzig](Reference/Free-City-of-Danzig.md) — historical research reference for the Port inspiration
