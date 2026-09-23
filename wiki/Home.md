@@ -55,7 +55,7 @@ The setting should make it possible to follow one damaged bridge, missing carava
 - [Food](Culture/Food.md)
 - [Food Diaspora and Adaptation](Culture/Food-Diaspora-and-Adaptation.md)
 - [Arts, Music and Leisure](Culture/Arts-Music-and-Leisure.md)
-- [Festivals and Seasonal Life](Culture/Festivals-and-Seasonal-Life.md)
+- [Festivals, Seasonal Life and Public Ritual](Culture/Festivals-and-Seasonal-Life.md)
 - [Regional Social Dynamics](Culture/Regional-Social-Dynamics.md)
 - [Nomads](Culture/Nomads.md)
 - [Weapons and Elite Troops](Culture/Weapons-and-Elite-Troops.md)
