@@ -194,6 +194,7 @@ Use this instead of reopening the large compendia for normal work.
 | What old wars/grudges can people remember differently? | [Contested Historical Memory](../History/Contested-Memory.md) |
 | What ordinary prejudice/jokes/social friction can appear? | [Regional Social Dynamics](../Culture/Regional-Social-Dynamics.md) |
 | How should culture, food, naming, language and daily life be deepened? | [Culture Deepening Plan](Culture-Deepening-Plan.md) |
+| How are current place names being grounded / renamed? | [Grounded Naming Realignment](Grounded-Naming-Realignment.md) |
 | What seasonal festivals exist as working material? | [Festivals and Seasonal Life](../Culture/Festivals-and-Seasonal-Life.md) |
 | How does food change through migration? | [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md) |
 | How do overlapping identities and institutions fit together? | [Social Fabric](../Social-Fabric.md) |
@@ -231,11 +232,24 @@ Promoted structural conclusions:
 - modern regions do not map one-to-one onto ancient languages;
 - pre-Convergence language geography should be fragmented along local social / geographic networks;
 - Convergence-era law and trade likely encouraged standardized spellings and interregional registers;
-- major transparent macro labels may remain as reader-facing / interregional translations while local forms stay open;
+- active macro labels were deliberately replaced with plainer common-language forms; local endonyms remain open;
 - Port develops native mixed speech rather than a mechanical blend of regional stereotypes;
 - legacy accent caricatures and theme-first naming outputs remain reference only.
 
-No native language names, conlang phonologies or bulk replacement names were promoted.
+No native language names or conlang phonologies were promoted.
+
+A later grounded-name correction replaced the fantasy-branded macro labels in active wiki prose:
+
+- Ironcrest → Western Uplands;
+- Northwind → North Country;
+- Greenvale → River Country;
+- Highridge → High Country;
+- Deepwood → Forest Country;
+- Sunplains → South Country;
+- The Spine → Central Range;
+- The Underpass → The Tunnels.
+
+See [Grounded Naming Realignment](Grounded-Naming-Realignment.md).
 
 ### Phase 2 — daily life and material culture
 
