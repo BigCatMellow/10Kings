@@ -84,6 +84,8 @@ The setting should make it possible to follow one damaged bridge, missing carava
 
 ## Writing and provenance
 
+- [Middle Worldbuilding](Reference/Middle-Worldbuilding.md) — macro condition → functioning systems → ordinary life
+- [Writing the Sequel](Reference/Writing-the-Sequel.md) — later consequences, successors, reinterpretations and accumulated history
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md) — scene-level writing guidance, not canon
 - [World Synthesis — E/I Capture](Reference/World-Synthesis-EI.md) — emergent connections being tested, not canon
 - [Free City of Danzig](Reference/Free-City-of-Danzig.md) — historical research reference for the Port inspiration
