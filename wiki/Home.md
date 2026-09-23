@@ -2,6 +2,14 @@
 
 This is the working knowledge base for the setting currently called **Two Sons**.
 
+## Active redesign
+
+The world is currently being actively reworked. Region names, cultural identities, food, institutions, aesthetics, and other specifics may change.
+
+Treat the wiki as the **current working model**, not a promise that every present label or detail is final. Structural relationships and causal logic should be preserved where useful, but a stronger redesign may replace current specifics.
+
+See [Middle Worldbuilding](Reference/Middle-Worldbuilding.md) for the current design method.
+
 ## Core idea
 
 Two Sons is a low-fantasy world built around **interdependence**. Regions differ because of climate, history, geography, language, institutions, and cultural memory, but they are not monocultures or resource caricatures. Ironcrest has more mining; that does not mean everyone is a miner. Deepwood contains major forests; that does not mean every person is a mystic ranger. Each region contains farms, towns, crafts, elites, poor laborers, religious communities, criminals, migrants, minorities, and internal disagreements.
@@ -73,6 +81,7 @@ The setting should make it possible to follow one damaged bridge, missing carava
 
 ## Writing and provenance
 
+- [Middle Worldbuilding](Reference/Middle-Worldbuilding.md) — current method for deriving detailed world systems while redesign is active
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md) — scene-level writing guidance, not canon
 - [World Synthesis — E/I Capture](Reference/World-Synthesis-EI.md) — emergent connections being tested, not canon
 - [Free City of Danzig](Reference/Free-City-of-Danzig.md) — historical research reference for the Port inspiration
