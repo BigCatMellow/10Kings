@@ -799,6 +799,22 @@ It repeatedly flagged education, medicine, law, folk belief and timekeeping as c
 
 The generic Volume 13 examples are **not canon**. Its useful role was gap detection and design-question recovery.
 
+## Philosophy / reading-list extraction — 2026-09-23
+
+Volume 14 remains non-canon, but its useful research routing has been extracted into [Philosophy and Research Index](Philosophy-and-Research-Index.md).
+
+The active index organizes research around:
+- Council / institutional power;
+- Villain / ends and means;
+- Wurdren / ordinary responsibility;
+- systems and interdependence;
+- guilds / labor / economic power;
+- law / punishment;
+- religion;
+- war / political violence.
+
+The old book summaries and quotation collections are **not authoritative scholarship**. Any quotation or philosophical claim used in actual design work should be checked against the original source or reliable scholarship first.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
