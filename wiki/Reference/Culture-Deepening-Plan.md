@@ -946,13 +946,13 @@ They are scene seeds.
 | --- | --- | --- | --- |
 | Naming | strong rules | systems / etymology missing | **P0** |
 | Language | strong structural concepts | history / dialect ecology missing | **P0** |
-| Daily life | scattered | no owner | **P0** |
-| Clothing / material culture | rich legacy source | no owner | **P0** |
-| Food | good ecological framework | too broad / inventory-like | **P1** |
-| Architecture | good constraints | lacks historical / class detail | **P1** |
+| Daily life | Phase 2 owner established | local legal / ritual detail remains open | **P1** |
+| Clothing / material culture | Phase 2 owner established | local supply / fashion examples remain provisional | **P1** |
+| Food | Phase 3 deep owner + slices | exact staples / named dishes remain open | **P1** |
+| Architecture | Phase 4 deep owner + slices | named settlement histories remain open | **P1** |
 | Regional social life | good guardrails | mostly friction / stereotypes | **P1** |
-| Arts / music / leisure | scattered | no owner | **P1** |
-| Festivals | useful framework | labels / histories thin | **P2** |
+| Arts / music / leisure | Phase 5 owner + slices | concrete forms / scenes remain provisional | **P1** |
+| Festivals | Phase 6 rebuilt owner + slices | exact calendars / named observances remain open | **P1** |
 | Nomads | good concept | plurality not developed | **P2** |
 | Port / border culture | strong structural direction | needs vertical slices | **P2** |
 | Competitive-sphere cultural effects | new political model | should follow culture, not define it | **P3** |
