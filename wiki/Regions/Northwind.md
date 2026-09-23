@@ -137,6 +137,16 @@ North Coast's political tensions often revolve around:
 - food dependence;
 - Council influence over shipping and finance.
 
+## North Shoulder roadhead system
+
+The tested physical network now strongly supports a North Coast-side roadhead at the lower approach to the principal High Roads pass.
+
+See [North Shoulder Paired Roadheads — Middle-Worldbuilding Test](../Reference/North-Shoulder-Paired-Roadheads-Test.md).
+
+Its role is not simply a border gate. It converts cart traffic into pack traffic, stores cargo during closure, concentrates guides and animal services, and exchanges maritime information with the High Roads-side roadhead.
+
+Exact settlement name, polity, guide institutions, and pass rules remain open.
+
 ## Current pressures
 
 - declining or shifting fish stocks;
