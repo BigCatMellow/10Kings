@@ -2,9 +2,13 @@
 
 ## Status
 
-**Working-canon synthesis.**
+**Structural working synthesis during active redesign.**
 
-This page explains how the current world owners fit together. It does not replace the detailed pages for regions, history, institutions, culture, or story. When a detail conflicts with this synthesis, the more specific current owner should be checked and the conflict reconciled rather than silently blended.
+Region names, foods, cultures, institutional details, and other specifics are currently being reworked. Use this page primarily for the world's **causal and systemic relationships**, not as a freeze on today's labels or cultural packages.
+
+See [Middle Worldbuilding](Reference/Middle-Worldbuilding.md).
+
+This page explains how the current world owners fit together. It does not replace the detailed pages for regions, history, institutions, culture, or story. When an owner changes during redesign, this synthesis should be reconciled to the new owner rather than used to preserve an obsolete detail.
 
 ## The shortest model
 
