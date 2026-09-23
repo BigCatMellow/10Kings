@@ -445,6 +445,12 @@ Still provisional:
 - exact road engineering;
 - final pass / entrance locations.
 
+## Capacity / endpoint test result — 2026-09-23
+
+[Working Map — Network Endpoints and Capacity Test V1](Working-Map-Network-Endpoints-and-Capacity.md) now resolves the next layer: where bulk river navigation ends, which roads carry carts end-to-end, how North Shoulder transshipment works, and why Port is best treated as an estuary / channel complex.
+
+Its strongest result is that **mode-conversion points are strategic chokepoints** because unloading, storage, animals, labor, inspection and finance cluster there.
+
 ## What should happen next
 
 The next geography pass should resolve **network endpoints and capacity**, especially:
