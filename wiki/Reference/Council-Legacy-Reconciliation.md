@@ -14,6 +14,21 @@ Current owner:
 
 The goal is to preserve the useful Council work without restoring older models that made the Council omnipotent, technologically overpowered, region-coded, or too neatly organized.
 
+## Authority after Council review
+
+The later `council-review-2026-09-23` work has now been integrated into the active branch.
+
+Therefore:
+
+- [Economic Council](../Politics/Economic-Council.md) is the authoritative structural owner;
+- [Economic Council — Internal Structure](../Politics/Economic-Council-Internal-Structure.md) is authoritative for supported vs. derived vs. still-open internal mechanics;
+- [Movement and Information](../Movement-and-Information.md) is authoritative for information propagation and Council information limits;
+- this page is **supplemental legacy reconciliation only**.
+
+If this page and the reviewed Council owners disagree, the reviewed Council owners win.
+
+Legacy material should be used here to preserve provenance, discarded alternatives, and potentially useful seeds — not to roll the Council back to an older design.
+
 ---
 
 # 1. What survived the legacy review
