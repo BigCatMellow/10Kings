@@ -168,6 +168,14 @@ Port's scale and legal complexity make it ideal for:
 
 This does not mean the city is lawless. Its underworld exists because its legal economy is enormous.
 
+## Legal role
+
+See [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md).
+
+Port's legal importance comes from predictable neutral commercial institutions rather than universal sovereignty. Its courts and arbitration matter because merchants, lenders, warehouse operators, guilds, and foreign governments repeatedly choose to use them and have reasons to recognize their outcomes.
+
+Port therefore acts as a **legal switching point** for cross-border trade while remaining only one jurisdiction among many.
+
 ## Governance and protection
 
 The city needs:
