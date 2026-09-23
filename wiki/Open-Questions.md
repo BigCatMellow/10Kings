@@ -114,6 +114,19 @@ The sections below retain the more detailed unresolved questions.
 - Which older languages survive in place names.
 - How mutually intelligible the regions are.
 
+## Religion and theology
+
+- Are any named divine figures objectively real, or should the setting remain permanently ambiguous?
+- Which faiths treat their named figures literally, symbolically, historically, or differently by branch?
+- Which provisional sects / schools from the religion reconciliation deserve promotion after local testing?
+- Which named scriptures have stable historical continuity, and which are later compilations?
+- How centralized is each faith's authority, if at all?
+- Which institutions operate schools, charities, archives, healing houses, mediation courts or traveler networks?
+- How common is conversion versus layered / mixed religious practice?
+- Which relics are genuinely magical, merely believed magical, or deliberately left unresolved?
+- How do faith branches disagree over miracle claims and artifact authenticity?
+- Which philosophical schools cross formal faith boundaries?
+
 ## Underdeveloped systems exposed by legacy audit
 
 The [Legacy Source Audit and Retrieval Index](Reference/Legacy-Source-Audit.md) identified several topics that appear repeatedly in older material but do not yet have a sufficiently deep current owner.
