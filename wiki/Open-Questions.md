@@ -127,6 +127,37 @@ The sections below retain the more detailed unresolved questions.
 - How do faith branches disagree over miracle claims and artifact authenticity?
 - Which philosophical schools cross formal faith boundaries?
 
+## Council, guild and underworld follow-up
+
+### Council
+
+- Final seat count and domain boundaries.
+- How Council seats are inherited, appointed, purchased, elected or contested.
+- What public-facing businesses / institutions each family actually uses.
+- How much each ruler, guild and major faith knows about the Council.
+- Whether any version of the legacy "Circle of Mirrors" exists as a formal red-team system, informal advisors, or only a design concept.
+- Which alternate supply chains already exist and therefore constrain Council leverage.
+- What happens operationally if one Council family defects.
+
+### Guilds
+
+- Which specific trans-regional guilds actually exist.
+- How dues, apprentice pay, injury support, dependent support and shared assets work in representative guilds.
+- Which guilds are centralized versus federated.
+- Which certifications are recognized across political borders.
+- How independent workers compete with guild members.
+- Which provisional legacy guild names, if any, survive naming review.
+
+### Underworld
+
+- Which legacy faction names deserve promotion after local testing.
+- How organized crime interacts with Port law and jurisdiction.
+- Which criminal markets are driven by tariffs / prohibition versus simple theft.
+- Whether relic / artifact trafficking is large enough to support specialist networks.
+- How much criminal activity uses the Underpass.
+- Which groups provide services communities genuinely depend on.
+- Where ideological clandestine groups blur into political movements or cults.
+
 ## Underdeveloped systems exposed by legacy audit
 
 The [Legacy Source Audit and Retrieval Index](Reference/Legacy-Source-Audit.md) identified several topics that appear repeatedly in older material but do not yet have a sufficiently deep current owner.
