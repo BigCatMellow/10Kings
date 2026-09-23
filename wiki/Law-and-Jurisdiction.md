@@ -93,6 +93,31 @@ The Convergence creates a **framework for coexistence**, not a single code that 
 
 ---
 
+## Convergence obligations are layered
+
+See [Convergence Layered Settlement Model](Reference/Convergence-Layered-Settlement-Model.md).
+
+A modern cross-border rule can come from different sources:
+
+- core Convergence guarantee;
+- attached bilateral / route / resource agreement;
+- later commercial standard;
+- arbitration precedent;
+- local law.
+
+Those sources should not be collapsed.
+
+Before treating a dispute as a treaty question, ask what actually makes it cross-border enough to trigger:
+
+- protected passage;
+- recognized territory;
+- Port access;
+- agreed arbitration;
+- a shared infrastructure agreement;
+- another specific Convergence-era obligation.
+
+Most ordinary law remains local even when outsiders are involved.
+
 # 3. Jurisdiction is layered
 
 A useful structural model is:
