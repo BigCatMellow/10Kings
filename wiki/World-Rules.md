@@ -2,13 +2,24 @@
 
 These are the setting's equivalent of animation-model rules: constraints intended to prevent drift and keep new material recognizably part of the same world.
 
-## 1. Regions are ecosystems, not gimmicks
+## 1. Regions are cultural-geographic cores, not boxes on the map
+
+The six major regions are best understood as **historical cultural cores and zones of concentration**, not exclusive ethnic territories and not biomes.
+
+A regional label can describe:
+- a broad geographic core where a tradition became historically dominant;
+- a cultural identity carried by people outside that core;
+- a family of institutions, customs, dialects, memories and practices that may be strongest in some places and minority traditions in others.
 
 **Do:** give regions environmental and historical emphases.
 
-**Do:** remember that ordinary economic diversity exists everywhere.
+**Do:** allow their people, institutions and customs to exist far outside the core region through migration, marriage, trade, settlement, conquest, pilgrimage and ordinary mobility.
+
+**Do:** remember that ordinary economic and ecological diversity exists everywhere.
 
 **Don't:** reduce Western Uplands to mines, River Country to farms, North Country to fish, Forest Country to trees, High Country to caravans, or South Country to vineyards.
+
+**Don't:** treat crossing a line on the map as crossing from one homogeneous people into another.
 
 A region's famous specialty is what outsiders notice first, not all that exists there.
 
@@ -16,13 +27,25 @@ A region's famous specialty is what outsiders notice first, not all that exists 
 
 Climate, soils, rivers, coasts, elevation, forests, mineral deposits, and routes create pressures. Human history decides how people respond to them.
 
-Two communities facing similar conditions may develop different solutions because of law, religion, language, past disasters, or political organization.
+Two communities facing similar conditions may develop different solutions because of law, religion, language, migration history, past disasters, or political organization.
+
+The same ecology can also appear in several regions. Forests, farmland, uplands, coasts, dry country, river valleys and mineral districts are **not owned by one culture**.
 
 ## 3. Borders are gradients
 
 Modern political borders became clearer after The Convergence, but culture does not stop at a line on a map.
 
+Cultural boundaries may:
+- overlap;
+- fade gradually;
+- follow rivers or trade routes rather than political borders;
+- survive as enclaves;
+- appear again far away through migration;
+- differ by class, neighborhood, religion or profession inside the same town.
+
 Border areas should show mixed food, building methods, accents, family ties, religious practice, law, tools, and loyalties.
+
+A future map should never imply “beyond this line only the next people live.”
 
 ## 4. History is messy
 
