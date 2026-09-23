@@ -145,6 +145,19 @@ City-states compete for:
 
 A permanent Old Cities union would be powerful enough to worry both neighbors and the Council.
 
+## Shared water can cross political rivalry
+
+The Old Cities political map can cut across older waterworks and irrigation systems.
+
+[Old Cities Shared Irrigation — Cross-Border Constituency Test](../Reference/Old-Cities-Shared-Irrigation-Test.md) shows that rival polities can remain dependent on the same headworks / canal network without forming one government.
+
+This creates both:
+
+- local constituencies for continued maintenance / flow / warning;
+- opportunities for upstream coercion, sabotage accusations, and political leverage.
+
+No specific canal or agreement is canonized yet.
+
 ## Current pressures
 
 - drought fears;
