@@ -188,12 +188,12 @@ The naming system should therefore avoid implying that a map label is an ethnic 
 
 The current macro labels are being realigned toward deliberately ordinary common-language forms:
 
-- **Stone Hills** — formerly Western Uplands / Ironcrest;
-- **North Coast** — formerly North Country / Northwind;
-- **the Low Rivers** — formerly River Country / Greenvale;
-- **the High Roads** — formerly High Country / Highridge;
-- **Longwood** — formerly Forest Country / Deepwood;
-- **the Old Cities** — formerly South Country / Sunplains;
+- **Stone Hills** — formerly Stone Hills / Ironcrest;
+- **North Coast** — formerly North Coast / Northwind;
+- **the Low Rivers** — formerly Low Rivers / Greenvale;
+- **the High Roads** — formerly High Roads / Highridge;
+- **Longwood** — formerly Longwood / Deepwood;
+- **the Old Cities** — formerly Old Cities / Sunplains;
 - **Central Range** — formerly The Spine;
 - **The Tunnels** — formerly The Underpass;
 - **Port** — retained for now because the plain shorthand itself is plausible.
