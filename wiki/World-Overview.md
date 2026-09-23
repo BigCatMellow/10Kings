@@ -6,7 +6,9 @@ The setting is currently called **Two Sons**, named for its twin suns. The world
 
 The known world is organized around three broad landmasses — the **Western, Northern, and Eastern Continents** — and a central mountain system called **Central Range**. Beneath parts of Central Range runs **The Tunnels**, a natural-and-worked network of caves, tunnels, settlements, trade routes, and illicit passages. **Port** is the major neutral commercial city whose location and institutions make it unusually important to world trade.
 
-The six major cultural-political regions are:
+The six major cultural-geographic traditions and their strongest core areas are:
+
+These labels do **not** mean six exclusive peoples occupying six exclusive territories. They identify broad historical concentrations. People carrying these cultures live throughout the known world, especially along trade routes, in cities, in border districts, and in ecologies where their inherited skills and institutions remain useful.
 
 - **Western Uplands** — western highlands and hills, unusually rich in useful ores and with a long tradition of mining, metalworking, organized labor, and fortified settlements.
 - **North Country** — colder northern coasts and interior margins, shaped by difficult seas, fisheries, shipping, clan and community obligations, and seasonal risk.
@@ -15,7 +17,11 @@ The six major cultural-political regions are:
 - **Forest Country** — large forested country where settlement, cultivation, hunting, timber, foraging, and spiritual traditions developed around the problem of living inside a powerful ecosystem rather than simply clearing it.
 - **South Country** — warmer and more arid southern/eastern country of mixed agriculture, orchards, irrigation, towns and city-states, coastal exchange, and highly developed civic cultures.
 
-These are **emphases, not total definitions**. River Country has smiths. Western Uplands has farms. North Country has inland villages. South Country has poor laborers and dry pastoral country beyond wealthy orchard belts. Forest Country has market towns and politics. High Country has families who never see a caravan.
+These are **emphases, not total definitions**. River Country has smiths. Western Uplands has farms. North Country has inland villages. South Country has forests, uplands and poor pastoral districts beyond wealthy irrigated belts. Forest Country has farms, cities and open country. High Country has families who never see a caravan.
+
+The reverse matters just as much: **the cultures are not confined to their core ecologies**. Forest Country-descended communities can exist in large forests elsewhere. River Country families can establish farming and mill communities outside the River Country core. North Country maritime families can form old neighborhoods in distant ports. A Western Uplands craft lineage can remain culturally western after generations in Port.
+
+Similar landscape does not automatically create the same culture, but migration and settlement can carry a culture into similar landscapes.
 
 ## How the world fits together
 
