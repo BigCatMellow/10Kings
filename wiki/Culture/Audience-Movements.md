@@ -219,7 +219,7 @@ The social result matters more than copying modern radio literally: **large numb
 
 Participants may still belong to any of the nine major faiths.
 
-One person could be a Radiant Path adherent, member of a navigator guild, Northwind-born, resident in Port, and deeply involved in the memory tradition.
+One person could be a Radiant Path adherent, member of a navigator guild, North Country-born, resident in Port, and deeply involved in the memory tradition.
 
 Different authorities may classify the movements differently:
 
@@ -271,7 +271,7 @@ This kind of movement should spread through existing circulation networks rather
 Likely accelerators:
 
 - Port;
-- Highridge caravan routes;
+- High Country caravan routes;
 - sailors;
 - itinerant entertainers;
 - guild halls;
