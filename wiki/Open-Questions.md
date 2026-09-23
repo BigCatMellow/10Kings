@@ -22,11 +22,25 @@ The broad topology is now captured in [Geography and Connections](Geography-and-
 
 ### 2. Post-Convergence political order
 
-- What did the Convergence formally guarantee: borders, passage, trade, arbitration, mutual defense, Port neutrality, or some combination?
-- Are all six named regions states in the same constitutional sense?
-- Which powers remain city-states, confederacies, clan systems, or decentralized networks?
-- What institutions arbitrate disputes between regions?
-- What is Port's legal status, citizenship model, and neutrality guarantee?
+The structural legal model is now owned by [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md): authority is layered, local law survives the Convergence, and cross-border judgments depend on recognized forums and enforcement networks rather than one universal court hierarchy.
+
+The [Convergence](History/The-Convergence.md) now has a stable structural core: recognized claims/non-aggression, protected exchange, shared route-security obligations, cross-border arbitration, Port neutrality/access, and preserved local autonomy. The settlement may be a package of agreements rather than one all-purpose charter.
+
+Remaining questions:
+
+- Exact Convergence signatories and their political forms.
+- Exact charter / treaty language and whether one symbolic central charter exists.
+- Which categories of trade and passage receive formal protection.
+- Exact route-security obligations and whether broader mutual defense exists.
+- Exact Convergence arbitration bodies or procedures.
+- Whether permanent treaty courts exist at all.
+- Whether standardized weights/measures or guild privileges are treaty clauses, later practice, or separate agreements.
+- Exact appeal structures by polity.
+- Port's legal status, citizenship model, and neutrality guarantee.
+- Extradition and cross-border criminal pursuit.
+- Recognition of marriages, inheritance, and family status across jurisdictions.
+- Exact maritime law and guild privilege by polity.
+- Amendment, withdrawal, suspension, and serious-violation procedures.
 
 ### 3. Coordination and power
 

@@ -2,6 +2,8 @@
 
 ## Principle
 
+See [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md) for the jurisdiction gaps that make cross-border crime, forged documents, informal arbitration, and enforcement avoidance possible.
+
 Crime exists because law, markets, borders, poverty, opportunity, corruption, and demand exist.
 
 Criminal organizations should provide real benefits to some members — protection, work, credit, belonging, dispute resolution — while imposing serious costs on victims and communities.
@@ -64,13 +66,13 @@ Several independent groups can cooperate around shared interests without becomin
 
 Examples:
 - a Port syndicate finances;
-- an Tunnels group moves goods;
-- a High Country gang supplies documents;
-- a North Country crew moves cargo by sea.
+- an Underpass group moves goods;
+- a High Roads gang supplies documents;
+- a North Coast crew moves cargo by sea.
 
 ## Regional forms
 
-### Western Uplands
+### Stone Hills
 
 Common opportunities:
 - ore theft;
@@ -79,7 +81,7 @@ Common opportunities:
 - labor intimidation;
 - debt.
 
-### North Country
+### North Coast
 
 - piracy;
 - smuggling;
@@ -87,7 +89,7 @@ Common opportunities:
 - illegal fishing;
 - harbor protection.
 
-### River Country
+### Low Rivers
 
 - grain theft;
 - land fraud;
@@ -95,21 +97,21 @@ Common opportunities:
 - livestock theft;
 - debt enforcement.
 
-### High Country
+### High Roads
 
 - caravan robbery;
 - route extortion;
 - document fraud;
 - information brokerage.
 
-### Forest Country
+### Longwood
 
 - illegal timber;
 - rare plant trade;
 - poaching;
 - hidden-route smuggling.
 
-### South Country
+### Old Cities
 
 - canal corruption;
 - smuggling;

@@ -88,6 +88,14 @@ Most explicitly plural:
 
 The Convergence may recognize the region externally even though internally it contains several sovereign or semi-sovereign governments.
 
+## Jurisdiction and overlapping authority
+
+See [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md).
+
+Political sovereignty does not erase guild privilege, religious mediation, local custom, Port law, route authority, or Convergence-era obligations. Which institution can hear and enforce a dispute depends on the subject, the people involved, the place, and the networks whose cooperation is needed.
+
+This overlap is a normal feature of the political order rather than an exception.
+
 ## Political behavior
 
 Every government responds to:
