@@ -1080,7 +1080,7 @@ A rule may survive because:
 
 > **the last time we ignored this, three houses nearly collapsed.**
 
-That fits [Writing the Sequel](../Reference/Writing-the-Sequel.md): the constitution should contain residue from earlier crises.
+The constitution should contain this kind of historical residue: earlier crises leave precedents whose original emergency logic may later become ordinary Council practice.
 
 ---
 
