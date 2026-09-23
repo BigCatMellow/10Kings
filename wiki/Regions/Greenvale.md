@@ -1,26 +1,26 @@
-# Greenvale
+# River Country
 
 ## Status
 
 **Working canon.**
 
-Greenvale is the largest major agricultural heartland, but it is not one endless field. It contains market towns, pasture, rivers, orchards, wetlands, forests, mills, estates, tenant villages, workshops, roads, shrines, and regional cities.
+River Country is the largest major agricultural heartland, but it is not one endless field. It contains market towns, pasture, rivers, orchards, wetlands, forests, mills, estates, tenant villages, workshops, roads, shrines, and regional cities.
 
 ## Geography
 
-Greenvale occupies broad temperate lowlands and rolling country with comparatively reliable rainfall and productive soils.
+River Country occupies broad temperate lowlands and rolling country with comparatively reliable rainfall and productive soils.
 
 Its boundaries grade into:
-- Ironcrest foothills;
-- Highridge routes;
-- Deepwood forest margins;
-- warmer Sunplains country.
+- Western Uplands foothills;
+- High Country routes;
+- Forest Country forest margins;
+- warmer South Country country.
 
 These transition zones are some of the world's most culturally mixed areas.
 
 ## Historical identity
 
-Greenvale's pre-Convergence history includes:
+River Country's pre-Convergence history includes:
 - small landholding communities;
 - estate rulers;
 - river towns;
@@ -31,7 +31,7 @@ Greenvale's pre-Convergence history includes:
 
 The **Seven-year Blight** remains an important working historical memory: whether exactly seven years or later mythologized, a prolonged crop crisis helped create traditions of storage, crop diversity, communal aid, and suspicion of concentrated control over seed and grain.
 
-During periods of scarcity, Greenvale was both victim and aggressor. Its rulers raided neighbors, annexed healthier land, fought internally, and sometimes invited foreign military support.
+During periods of scarcity, River Country was both victim and aggressor. Its rulers raided neighbors, annexed healthier land, fought internally, and sometimes invited foreign military support.
 
 ## Cultural inspirations
 
@@ -45,7 +45,7 @@ Useful research pools:
 
 ## Language
 
-Greenvale speech may distinguish:
+River Country speech may distinguish:
 - beginning;
 - ongoing;
 - recurring;
@@ -100,7 +100,7 @@ Farmsteads are mixed-purpose complexes:
 
 ## Food
 
-Greenvale has the broadest everyday food base.
+River Country has the broadest everyday food base.
 
 Common foods:
 - breads and porridges;
@@ -133,7 +133,7 @@ Political conflict centers on:
 - export rules;
 - estate versus cooperative power.
 
-The Council's food/finance networks can exert enormous influence here without ruling Greenvale directly.
+The Council's food/finance networks can exert enormous influence here without ruling River Country directly.
 
 ## Current pressures
 
@@ -147,6 +147,6 @@ The Council's food/finance networks can exert enormous influence here without ru
 
 ## Story function
 
-Greenvale demonstrates that **plenty can be politically destabilizing** just as easily as famine.
+River Country demonstrates that **plenty can be politically destabilizing** just as easily as famine.
 
 The important question is not only whether food exists, but who owns it, stores it, transports it, prices it, and decides who receives it.
