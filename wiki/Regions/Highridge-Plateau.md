@@ -131,6 +131,18 @@ High Roads political power is distributed among:
 
 The region's reputation for reasoned debate is partly ideal and partly institutional necessity.
 
+## North Shoulder roadhead system
+
+The tested network strongly supports a High Roads-side roadhead at the southern end of the principal North Coast pass.
+
+See [North Shoulder Paired Roadheads — Middle-Worldbuilding Test](../Reference/North-Shoulder-Paired-Roadheads-Test.md).
+
+Its role is to turn pack traffic back into cart / caravan traffic while concentrating storage, animal exchange, brokers, route information, and cross-system contract work.
+
+The two roadheads are economically interdependent even if their larger polities are politically hostile.
+
+Exact settlement name, polity, and route authority remain open.
+
 ## Current pressures
 
 - caravan attacks;
