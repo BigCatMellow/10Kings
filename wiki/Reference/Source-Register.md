@@ -247,8 +247,8 @@ The first grounded-name correction replaced the fantasy-branded macro labels wit
 - Highridge → High Country;
 - Deepwood → Forest Country;
 - Sunplains → South Country;
-- The Spine → Central Range;
-- The Underpass → The Tunnels.
+- The Spine → The Spine;
+- The Underpass → The Underpass.
 
 See [Grounded Naming Realignment](Grounded-Naming-Realignment.md).
 
