@@ -71,10 +71,10 @@ The setting already establishes that regions are broad cultural-geographic ecosy
 
 For example, one sphere might include:
 
-- an Ironcrest kingdom;
-- a Sunplains city-state;
-- a Northwind harbor clan;
-- a Highridge merchant house;
+- an Western Uplands kingdom;
+- a South Country city-state;
+- a North Country harbor clan;
+- a High Country merchant house;
 - several trans-regional guild branches.
 
 Its rival might contain neighboring polities from those same regions.
