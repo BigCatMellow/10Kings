@@ -8,6 +8,10 @@ South Country is the warmer, generally drier southern/eastern region associated 
 
 It should not be reduced to wine, olive oil, and festivals.
 
+## Cultural reach
+
+South Country is a **cultural core and historical concentration**, not an exclusive southern people or dry-climate biome. South Country-descended merchant, irrigation, urban and coastal communities can exist far outside the core. The geographic South Country also contains forests, uplands, pastoral zones, migrant districts and communities shaped by other regional traditions.
+
 ## Geography
 
 South Country includes:
