@@ -671,6 +671,35 @@ Outputs:
 - mobile / indigenous peoples treated as technologically primitive;
 - region-coded signature weapons and theme-first elite-unit names.
 
+## Linguistics legacy reconciliation — 2026-09-23
+
+Volume 07 received a deliberate pass after integrating the newer `language-families-contact-2026-09-23` owners.
+
+Outputs:
+
+- [Language and Thought](../Culture/Language-and-Thought.md);
+- [Language Families, Contact, and Mutual Intelligibility](../Language-Families-and-Contact.md);
+- [Linguistics Legacy Reconciliation](Linguistics-Legacy-Reconciliation.md).
+
+**Retained**
+- micro-dialects and local speech pockets;
+- isolation preserving older forms;
+- migration-created language enclaves;
+- code-switching and stable contact varieties;
+- guild / professional / trade registers;
+- class and prestige effects;
+- translation as labor;
+- contact speech and generational language change;
+- evidentiality, honorifics, directional systems and similar features as optional linguistic candidates;
+- the source's own caution against strong linguistic determinism.
+
+**Rejected / demoted**
+- one language or accent per cultural region;
+- grammar mechanically expressing regional personality;
+- heavy phonetic eye-dialect;
+- direct mapping of "industrial = blunt," "forest = soft," "scholarly = logical";
+- old language / place names generated from those stereotypes.
+
 ## Known unresolved areas exposed by the import
 
 The import did **not** settle these:
