@@ -914,6 +914,30 @@ Trace concrete things moving:
 
 See where each changes and where it stops.
 
+### Phase 7 execution — 2026-09-23
+
+Implemented [Culture Phase 7 — Cross-Regional Cultural Transmission](Culture-Phase-7-Cross-Regional-Transmission.md).
+
+The phase traces seven provisional cultural forms through established networks:
+
+- food — a preserved-fish / vegetable work meal moving from a contact zone through Port and the High Roads;
+- garment — practical Stone Hills workwear moving through Port secondhand markets, High Roads travel use and Old Cities prestige fashion;
+- word — a High Roads trade-register concept broadening into Port slang and traveling outward through guild / maritime networks;
+- name — Port tested as a functional commercial shorthand that may have become an international proper name without inventing a false ancient etymology;
+- song — a High Roads toll satire moving through Port and Old Cities performance culture, then returning in altered form;
+- game — a portable counting / placement game moving through caravan, harbor, shipboard and child networks;
+- ritual — a departure practice moving through pilgrimage, High Roads travel, Port mixed households and diaspora.
+
+The seven traces produced a **strong pass**.
+
+Promoted structural conclusion:
+
+> cultural diffusion depends on the form's transmission cost, the people carrying it, the route they actually use, and the receiving community's material and social conditions.
+
+The traces remain examples rather than canon objects.
+
+Phase 7 also exposed stale pre-realignment terminology in [Border Towns](../Places/Border-Towns.md) and [Trade and Dependencies](../Economy/Trade-and-Dependencies.md). Those owners were reconciled to the current Stone Hills / North Coast / Low Rivers / High Roads / Longwood / Old Cities naming set, and legacy border-town names were demoted from working examples to provisional name prompts.
+
 ## Phase 8 — Breath pass
 
 Goal:
