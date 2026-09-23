@@ -186,6 +186,7 @@ The cultural method above is implemented through more specific owners:
 - [Daily Life and Customs](Daily-Life-and-Customs.md) — household, care, life stages, hospitality, etiquette, privacy, mourning and ordinary social obligation;
 - [Clothing and Material Culture](Clothing-and-Material-Culture.md) — textiles, workwear, repair, fashion, status objects, secondhand goods and household material culture;
 - [Food](Food.md) — cuisine as ecology + trade + class + season + preservation + religion + history;
-- [Architecture](Architecture.md) — built environment as accumulated adaptation.
+- [Architecture](Architecture.md) — built environment as accumulated adaptation;
+- [Arts, Music and Leisure](Arts-Music-and-Leisure.md) — performance, games, public culture, patronage and cultural circulation as products of venues, work, audience, money and contact.
 
 These pages should deepen culture without turning regions into personalities or costume sets.
