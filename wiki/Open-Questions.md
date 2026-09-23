@@ -8,7 +8,7 @@ These are the questions that most strongly affect multiple other pages. They sho
 
 ### 1. Physical network
 
-The broad topology is now captured in [Geography and Connections](Geography-and-Connections.md). The remaining questions are map-detail questions rather than a blank-slate geography problem:
+The broad topology is now captured in [Geography and Connections](Geography-and-Connections.md), and the physical network is now structurally constrained by the [Scale and Travel-Time Test](Reference/Working-Map-Scale-and-Travel-Test.md), [Network Endpoints and Capacity Test](Reference/Working-Map-Network-Endpoints-and-Capacity.md), [G1 transfer-market test](Reference/G1-Head-of-Navigation-Market-Test.md), and [North Shoulder roadhead test](Reference/North-Shoulder-Paired-Roadheads-Test.md). The remaining questions are map-detail questions rather than a blank-slate geography problem:
 
 - Exact outlines and proportions of the three continents.
 - Exact physical form of the North Coast ↔ The Spine / High Roads connection.
