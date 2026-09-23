@@ -21,6 +21,16 @@ Incoming source material was classified as:
 
 This follows MAPS_L's “one concept, one owner” and information-lifecycle rules.
 
+## Active retrieval layer
+
+Use [Legacy Source Audit and Retrieval Index](Legacy-Source-Audit.md) before substantial work in areas marked PARTIALLY RECONCILED or UNRECONCILED. The legacy folder preserves source history, but some volumes still contain forward-relevant mechanisms that have not yet received a deliberate modern pass.
+
+The audit distinguishes:
+- cold provenance;
+- reconciled quarry material;
+- partially reconciled sources;
+- high-salvage unreconciled sources.
+
 ## Import set
 
 ### 1. Historical conversion summary
