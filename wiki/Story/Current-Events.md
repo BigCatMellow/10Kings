@@ -14,7 +14,7 @@ Some are ordinary events opportunistically used by both.
 
 That distinction is essential.
 
-## Ironcrest
+## Western Uplands
 
 ### Labor unrest
 
@@ -35,7 +35,7 @@ Different observers blame:
 - corrupt guild masters;
 - foreign buyers.
 
-## Northwind
+## North Country
 
 ### Fish stocks and access
 
@@ -51,9 +51,9 @@ This creates:
 
 Raids are increasing.
 
-A response that looks purely defensive to Northwind can look like maritime militarization to Sunplains or Port merchants.
+A response that looks purely defensive to North Country can look like maritime militarization to South Country or Port merchants.
 
-## Greenvale
+## River Country
 
 ### Abundance crisis
 
@@ -72,7 +72,7 @@ Large interests attempt to acquire distressed farms.
 
 Reformers accuse them of engineering the crisis.
 
-## Highridge
+## High Country
 
 ### Caravan attacks
 
@@ -84,9 +84,9 @@ Towns bypassed by new routes suffer immediately.
 
 ### Political debate
 
-Highridge intellectual disputes are increasingly tied to real patrons and commercial interests.
+High Country intellectual disputes are increasingly tied to real patrons and commercial interests.
 
-## Deepwood
+## Forest Country
 
 ### Logging and road conflict
 
@@ -100,7 +100,7 @@ A disease or ecological change affects important forest foods/commodities.
 
 This may be natural, accidentally human-caused, or exploited by manipulators.
 
-## Sunplains
+## South Country
 
 ### Drought anxiety
 
@@ -130,7 +130,7 @@ Shipping losses, insurance disputes, warehouse fires/thefts, and political accus
 
 Displaced people from border and economic crises arrive faster than housing and charity systems can absorb them.
 
-## The Spine
+## Central Range
 
 ### Earthquake/land movement
 
@@ -141,9 +141,9 @@ This produces:
 - religious claims;
 - territorial disputes;
 - archaeological interest;
-- Underpass instability.
+- Tunnels instability.
 
-## The Underpass
+## The Tunnels
 
 ### Route wars
 
@@ -166,16 +166,16 @@ Faiths are beginning to interpret the crises trans-regionally:
 
 One possible chain:
 
-1. Northwind piracy raises shipping risk.
+1. North Country piracy raises shipping risk.
 2. Port insurance/credit tightens.
-3. Greenvale merchants cancel distant grain purchases.
-4. Greenvale grain prices collapse locally.
+3. River Country merchants cancel distant grain purchases.
+4. River Country grain prices collapse locally.
 5. farmers default.
 6. Council finance tries to stabilize lenders.
 7. land consolidators buy distressed farms.
 8. religious and guild reformers call it coordinated theft.
-9. protests affect tool orders from Ironcrest.
-10. Ironcrest workshops reduce hours.
+9. protests affect tool orders from Western Uplands.
+10. Western Uplands workshops reduce hours.
 11. strike leaders blame owners.
 12. Villain agents amplify evidence of Council involvement.
 13. a local economic shock becomes proof, in several regions, that another group is acting against them.
