@@ -86,6 +86,7 @@
 - [Current Events Legacy Reconciliation](Reference/Current-Events-Legacy-Reconciliation.md)
 - [Story Core Legacy Reconciliation](Reference/Story-Core-Legacy-Reconciliation.md)
 - [Foundations Legacy Reconciliation](Reference/Foundations-Legacy-Reconciliation.md)
+- [Philosophy and Research Index](Reference/Philosophy-and-Research-Index.md)
 - [Language History and Naming Audit](Reference/Language-History-and-Naming-Audit.md)
 - [Grounded Naming Realignment](Reference/Grounded-Naming-Realignment.md)
 - [Naming History Vertical Slices](Reference/Naming-History-Vertical-Slices.md)
