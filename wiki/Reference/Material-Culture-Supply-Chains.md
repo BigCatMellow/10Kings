@@ -12,12 +12,12 @@ It does **not** establish exact crop species, textile quantities, monopolies, pr
 
 Current trade canon supports:
 
-- **River Country:** textiles and other agricultural goods as meaningful exports;
-- **North Country:** furs / animal products and maritime transport;
-- **Forest Country:** dyes, forest products, timber and specialist ecological goods;
-- **South Country:** craft / luxury goods and southern maritime access;
-- **Western Uplands:** metalwork, tools, fittings and industrial craft capacity;
-- **High Country:** movement, brokerage, records and caravan services;
+- **Low Rivers:** textiles and other agricultural goods as meaningful exports;
+- **North Coast:** furs / animal products and maritime transport;
+- **Longwood:** dyes, forest products, timber and specialist ecological goods;
+- **Old Cities:** craft / luxury goods and southern maritime access;
+- **Stone Hills:** metalwork, tools, fittings and industrial craft capacity;
+- **High Roads:** movement, brokerage, records and caravan services;
 - **Port:** processing, exchange, storage, shipping, repair and information.
 
 That is enough to build a textile / clothing economy without deciding that one region supplies all cloth.
@@ -26,7 +26,7 @@ That is enough to build a textile / clothing economy without deciding that one r
 
 # 1. Fiber production
 
-## River Country
+## Low Rivers
 
 **Strongest current candidate for large-volume plant-fiber and general textile production.**
 
@@ -46,7 +46,7 @@ Possible fiber families remain open:
 
 Do not assign all of them automatically.
 
-## High Country
+## High Roads
 
 Likely local supply:
 
@@ -55,9 +55,9 @@ Likely local supply:
 - woven animal fiber;
 - some low-volume local plant fiber where terrain allows.
 
-High Country's larger importance may be **redistribution and finishing** rather than bulk fiber production.
+High Roads's larger importance may be **redistribution and finishing** rather than bulk fiber production.
 
-## North Country
+## North Coast
 
 Likely local supply:
 
@@ -68,7 +68,7 @@ Likely local supply:
 
 Its maritime routes also make it a major carrier of imported cloth.
 
-## South Country
+## Old Cities
 
 Likely candidate for:
 
@@ -80,7 +80,7 @@ Likely candidate for:
 
 Exact crops remain open.
 
-## Forest Country
+## Longwood
 
 Possible local materials:
 
@@ -93,7 +93,7 @@ Possible local materials:
 
 Its strongest current system-level role is **dyes and forest-derived inputs**, not “everyone wears bark cloth.”
 
-## Western Uplands
+## Stone Hills
 
 Likely local production:
 
@@ -134,23 +134,23 @@ It can become the world's deepest market for:
 
 # 2. Dye and finishing network
 
-Current trade already gives Forest Country a role in **dyes**.
+Current trade already gives Longwood a role in **dyes**.
 
 That can connect to:
 
-- River Country textile volume;
-- South Country urban fashion;
+- Low Rivers textile volume;
+- Old Cities urban fashion;
 - Port tailoring / resale;
-- High Country caravan redistribution.
+- High Roads caravan redistribution.
 
 A plausible network is:
 
 ```text
-Forest Country dye / tannin / forest inputs
+Longwood dye / tannin / forest inputs
         ↓
-River Country or South Country textile workshops
+Low Rivers or Old Cities textile workshops
         ↓
-High Country / maritime routes
+High Roads / maritime routes
         ↓
 Port markets and re-export
 ```
@@ -161,7 +161,7 @@ Other dye sources should exist.
 
 ## Political consequence
 
-Dye restrictions can become economically meaningful without making Forest Country “the dye region.”
+Dye restrictions can become economically meaningful without making Longwood “the dye region.”
 
 A disease or extraction dispute affecting one valued dye plant could:
 
@@ -178,7 +178,7 @@ This is a good example of material culture entering the world system.
 
 # 3. Metal fittings
 
-Western Uplands's craft capacity should show up in ordinary clothing through:
+Stone Hills's craft capacity should show up in ordinary clothing through:
 
 - buckles;
 - pins;
@@ -191,13 +191,13 @@ Western Uplands's craft capacity should show up in ordinary clothing through:
 - belt hardware;
 - shoe nails / fittings where appropriate.
 
-High-quality metalwork can therefore influence clothing far outside Western Uplands.
+High-quality metalwork can therefore influence clothing far outside Stone Hills.
 
-A South Country elite garment may use an Western Uplands clasp.
+A Old Cities elite garment may use an Stone Hills clasp.
 
-A North Country weather coat may depend on Western Uplands needles or hardware.
+A North Coast weather coat may depend on Stone Hills needles or hardware.
 
-A River Country weaver may resent rising tool prices even though no one in the household works metal.
+A Low Rivers weaver may resent rising tool prices even though no one in the household works metal.
 
 ---
 
@@ -207,14 +207,14 @@ Supply should be distributed.
 
 Likely sources include:
 
-- North Country maritime / pastoral animal products;
-- Western Uplands upland livestock;
-- River Country livestock;
-- High Country herding;
-- Forest Country hunting / domestic animals in some areas;
-- South Country pastoral districts.
+- North Coast maritime / pastoral animal products;
+- Stone Hills upland livestock;
+- Low Rivers livestock;
+- High Roads herding;
+- Longwood hunting / domestic animals in some areas;
+- Old Cities pastoral districts.
 
-This prevents “North Country owns fur” or “Western Uplands owns leather.”
+This prevents “North Coast owns fur” or “Stone Hills owns leather.”
 
 Differences should be about:
 
@@ -231,7 +231,7 @@ rather than absolute availability.
 
 # 5. Textile movement
 
-## River Country → Western Uplands
+## Low Rivers → Stone Hills
 
 Already strong economically.
 
@@ -251,27 +251,27 @@ Return flows:
 - shears;
 - workshop fittings.
 
-This makes clothing part of the Western Uplands–River Country “marriage of necessity.”
+This makes clothing part of the Stone Hills–Low Rivers “marriage of necessity.”
 
-## North Country ↔ Port
+## North Coast ↔ Port
 
 Likely flows:
 
-North Country → Port:
+North Coast → Port:
 - hides;
 - fur;
 - wool / animal fiber;
 - weather gear;
 - sail / maritime materials.
 
-Port → North Country:
+Port → North Coast:
 - imported cloth;
 - luxury trim;
 - replacement hardware;
 - fashions;
 - secondhand garments.
 
-## Forest Country → multiple markets
+## Longwood → multiple markets
 
 Likely:
 - dyes;
@@ -279,7 +279,7 @@ Likely:
 - specialty fibers / forest inputs;
 - wood for textile tools where suitable.
 
-## South Country ↔ Port
+## Old Cities ↔ Port
 
 Likely:
 - fine cloth;
@@ -295,19 +295,19 @@ Port returns:
 - metal fittings;
 - mixed tailoring traditions.
 
-## High Country
+## High Roads
 
-High Country acts as a redistribution system.
+High Roads acts as a redistribution system.
 
 A garment or textile style can travel:
 
 ```text
-River Country cloth
-→ High Country caravan market
+Low Rivers cloth
+→ High Roads caravan market
 → cut into local travel garment
 → worn to Port
 → copied by Port tailor
-→ sold back into North Country
+→ sold back into North Coast
 ```
 
 That is cultural circulation with a material mechanism.
@@ -339,7 +339,7 @@ Trade hubs concentrate:
 
 Likely the deepest and fastest secondhand market.
 
-### High Country
+### High Roads
 
 Strong market for:
 - travel clothing;
@@ -400,7 +400,7 @@ Port / major city / court / festival
         ↓
 performers + merchants + travelers
         ↓
-High Country and maritime routes
+High Roads and maritime routes
         ↓
 regional cities
         ↓
@@ -423,7 +423,7 @@ This supports Port's ECW-like cultural role without forcing politics into every 
 
 # 9. Current-event effects
 
-## Western Uplands labor unrest
+## Stone Hills labor unrest
 
 Possible ordinary effects:
 
@@ -432,7 +432,7 @@ Possible ordinary effects:
 - guild aid funds cover boots / gloves;
 - Blackbellow recruitment includes equipment as part of compensation.
 
-## North Country fish pressure
+## North Coast fish pressure
 
 Possible effects:
 
@@ -440,7 +440,7 @@ Possible effects:
 - maritime gear becomes more valuable;
 - younger workers sell or pawn inherited clothing before migration.
 
-## River Country abundance crisis
+## Low Rivers abundance crisis
 
 Possible effects:
 
@@ -448,7 +448,7 @@ Possible effects:
 - cheap fiber does not necessarily mean cheap finished cloth if credit / labor markets fail;
 - land consolidation can disrupt household textile production.
 
-## High Country caravan attacks
+## High Roads caravan attacks
 
 Possible effects:
 
@@ -456,14 +456,14 @@ Possible effects:
 - used travel gear becomes valuable;
 - foreign fashion circulation slows or changes routes.
 
-## Forest Country extraction conflict
+## Longwood extraction conflict
 
 Possible effects:
 
 - specific dyes / tannins become restricted;
 - smuggling or substitutes increase.
 
-## South Country drought anxiety
+## Old Cities drought anxiety
 
 Possible effects:
 
