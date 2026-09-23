@@ -465,6 +465,29 @@ This makes **recognition** as important as judgment.
 
 ---
 
+## Violation severity and escalation
+
+See [Convergence Enforcement and Violation Tests](Reference/Convergence-Enforcement-and-Violation-Tests.md).
+
+A cross-border problem should be classified before escalation.
+
+Useful design distinctions:
+
+- private / local breach;
+- cross-border dispute;
+- systematic interference;
+- direct challenge to a core settlement guarantee.
+
+The same physical event can change category depending on:
+
+- official sponsorship;
+- repetition;
+- discriminatory intent;
+- refusal to remedy;
+- wider system impact.
+
+This creates a meaningful range between ordinary local enforcement and war.
+
 # 10. Arbitration is central because sovereignty is fragmented
 
 Current sources repeatedly support arbitration as part of the world, especially through:
