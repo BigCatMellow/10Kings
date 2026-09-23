@@ -63,6 +63,7 @@
 **Reference**
 - [Working Map Draft — Geometry V1](Reference/Working-Map-Draft.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
+- [Grounded Domino Design Method](Reference/Grounded-Domino-Design.md)
 - [Culture Deepening Plan](Reference/Culture-Deepening-Plan.md)
 - [Legacy Source Audit and Retrieval Index](Reference/Legacy-Source-Audit.md)
 - [Language History and Naming Audit](Reference/Language-History-and-Naming-Audit.md)
