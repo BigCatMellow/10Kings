@@ -131,6 +131,20 @@ High Roads political power is distributed among:
 
 The region's reputation for reasoned debate is partly ideal and partly institutional necessity.
 
+## Functional governance
+
+[High Roads Functional Governance Test](../Reference/High-Roads-Functional-Governance-Test.md) now gives the strongest working political model:
+
+- local polities / communities retain ordinary authority;
+- corridor-specific compacts coordinate shared roads, passes, maintenance, toll expectations, closures, and emergency obligations;
+- recognized arbitration forums connect several jurisdictions without becoming one supreme court;
+- professional / caravan networks provide interoperability;
+- temporary or recurring multi-route delegations can speak on issues that genuinely span several corridors.
+
+This is **networked political order**, not one centralized territorial state.
+
+Exact compact names, delegate rules, dominant cities, and Convergence representation remain open.
+
 ## North Shoulder roadhead system
 
 The tested network strongly supports a High Roads-side roadhead at the southern end of the principal North Coast pass.
