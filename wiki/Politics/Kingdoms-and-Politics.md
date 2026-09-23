@@ -250,6 +250,28 @@ This allows the treaty order to fit the actual political map once it is finalize
 
 ---
 
+## Convergence participation is not cultural-region membership
+
+See [Convergence Layered Settlement Model](../Reference/Convergence-Layered-Settlement-Model.md).
+
+The Convergence should recognize the political actors capable of making particular obligations meaningful.
+
+That means representation can come from:
+
+- rulers;
+- city-states;
+- leagues;
+- clan authorities;
+- route powers;
+- special jurisdictions;
+- other recognized authorities.
+
+It should **not** default to one representative per cultural region.
+
+Likewise, a merchant or guild can benefit from treaty-protected passage without being a treaty signatory.
+
+Bound authorities and protected users are different categories.
+
 # 6. Stone Hills
 
 See [Stone Hills](../Regions/Ironcrest.md).
