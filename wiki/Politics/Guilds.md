@@ -90,7 +90,7 @@ Debating:
 - Port influence;
 - route exclusivity.
 
-### Highridge caravan organizations
+### High Country caravan organizations
 
 Competing over:
 - safe-route certification;
