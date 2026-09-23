@@ -944,6 +944,63 @@ If the answers generate a political conflict without inventing a new grand insti
 
 Strong candidate; architecture vertical slices support the mechanism, but exact institutions remain settlement-specific.
 
+## Candidate 25 — Contact zones can become cultural engines
+
+**Sources**
+
+- [Culture and Influence](../Culture/Culture-and-Influence.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Food](../Culture/Food.md)
+- [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md)
+- [World Rules](../World-Rules.md)
+
+**Connection**
+
+The world's cultures overlap geographically and socially through migration, trade, intermarriage, guilds, pilgrimage, border settlement and cities.
+
+Repeated contact does more than spread existing customs.
+
+It can produce new local traditions.
+
+**New implication**
+
+Some of the setting's most distinctive cultures may emerge in contact zones rather than old cores.
+
+A mixed town can develop:
+
+- its own food;
+- dialect;
+- marriage custom;
+- clothing;
+- work practices;
+- architecture;
+- festivals;
+
+that neither source tradition recognizes as fully its own.
+
+Port is the largest example, but the mechanism should also appear in smaller border towns, river markets, mines and caravan settlements.
+
+**Why it matters**
+
+This turns cultural bleed into a generative system rather than a dilution model.
+
+It also prevents the six major traditions from remaining static reference categories.
+
+**Smallest test**
+
+Take two existing cultural traditions in one mixed settlement and derive one stable local practice through:
+
+1. repeated contact;
+2. material usefulness;
+3. household repetition;
+4. generational normalization.
+
+Then test whether the practice still makes sense after removing explicit references to its two source cultures.
+
+**Disposition**
+
+Structural principle promoted to World Rules, Social Fabric, Culture and Food. Exact contact-zone traditions remain provisional.
+
 ## Promotion rule
 
 Nothing on this page becomes canon because it sounds useful.
