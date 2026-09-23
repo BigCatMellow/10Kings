@@ -12,12 +12,12 @@ They are not regional signature dishes.
 
 ---
 
-# 1. Western Uplands — workshop household
+# 1. Stone Hills — workshop household
 
 ## Established anchors
 
 - hardy grains, roots, legumes, dairy, livestock and lower-valley orchard goods;
-- substantial River Country food imports in industrial districts;
+- substantial Low Rivers food imports in industrial districts;
 - metalwork / mining labor;
 - attached workshops and mixed household economies;
 - labor unrest.
@@ -93,7 +93,7 @@ Food makes labor politics visible without requiring a speech about economics.
 
 ---
 
-# 2. North Country — harbor household
+# 2. North Coast — harbor household
 
 ## Established anchors
 
@@ -130,7 +130,7 @@ Possible examples:
 - dried fish carried aboard;
 - berries preserved or dried when available.
 
-A major port household might instead eat imported bread, South Country oil, River Country cheese, or Port-bought condiments.
+A major port household might instead eat imported bread, Old Cities oil, Low Rivers cheese, or Port-bought condiments.
 
 ## Meal timing
 
@@ -158,7 +158,7 @@ The crisis changes the table before it becomes a formal political argument.
 
 ---
 
-# 3. River Country — mill / market household
+# 3. Low Rivers — mill / market household
 
 ## Established anchors
 
@@ -225,7 +225,7 @@ That is much stronger than treating “harvest abundance” as automatic prosper
 
 ---
 
-# 4. High Country — caravan-yard district
+# 4. High Roads — caravan-yard district
 
 ## Established anchors
 
@@ -300,11 +300,11 @@ Caravan attacks cause:
 
 **Result: STRONG PASS.**
 
-High Country food is most distinctive through **the coexistence of local household food and traveler-market food**.
+High Roads food is most distinctive through **the coexistence of local household food and traveler-market food**.
 
 ---
 
-# 5. Forest Country — river-town household
+# 5. Longwood — river-town household
 
 ## Established anchors
 
@@ -379,7 +379,7 @@ Both gain and loss can happen simultaneously.
 
 ---
 
-# 6. South Country — irrigation-city neighborhood
+# 6. Old Cities — irrigation-city neighborhood
 
 ## Established anchors
 
@@ -423,7 +423,7 @@ Possible forms:
 - grilled or fried market food;
 - fish in coastal cities.
 
-Do not assume the entire South Country uses the same herb, oil, bread or spice blend.
+Do not assume the entire Old Cities uses the same herb, oil, bread or spice blend.
 
 ## Heat and work
 
@@ -566,7 +566,7 @@ Preservation failure can create scarcity after a successful harvest or catch.
 Best candidates:
 
 - Port;
-- High Country caravan districts;
+- High Roads caravan districts;
 - large industrial towns;
 - major river markets;
 - busy harbors.
@@ -635,7 +635,7 @@ once the relevant local history actually supports them.
 4. Which areas have cheap ceramic cookware versus expensive metal cookware?
 5. How are communal ovens / mills / smokehouses owned?
 6. Which religious food practices matter enough to affect markets?
-7. What foods travel especially well through Port and High Country?
+7. What foods travel especially well through Port and High Roads?
 8. Which current crises create the strongest household substitutions?
 
 These should be answered only to the level needed by story and later culture work.
