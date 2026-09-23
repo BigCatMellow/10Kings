@@ -69,6 +69,8 @@ Avoid steam-age machinery, modern manufacturing logic, magical equivalents of el
 
 ## 7. Magic is scarce, uncertain, limited, or costly
 
+See [Magic Baseline](Magic-Baseline.md).
+
 Magic should feel like one more difficult property of the world, not a universal convenience.
 
 When magic appears, define:
