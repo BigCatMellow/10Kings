@@ -69,6 +69,7 @@
 - [Personal Naming Framework](Reference/Personal-Naming-Framework.md)
 - [Culture Phase 2 — Ordinary-Life Vertical Slices](Reference/Culture-Phase-2-Vertical-Slices.md)
 - [Material Culture Supply Chains](Reference/Material-Culture-Supply-Chains.md)
+- [Culture Phase 3 — Food Vertical Slices](Reference/Culture-Phase-3-Food-Vertical-Slices.md)
 - [World Synthesis — E/I](Reference/World-Synthesis-EI.md)
 - [Competitive Kingdom Dynamics](Reference/Competitive-Kingdom-Dynamics.md)
 - [Convergence to Competitive Spheres](Reference/Convergence-to-Competitive-Spheres.md)
