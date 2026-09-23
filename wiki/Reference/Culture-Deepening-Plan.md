@@ -1095,6 +1095,36 @@ Still unresolved:
 - religious dietary practices;
 - final local food names.
 
+## Execution status — Phase 4
+
+**Started 2026-09-23.**
+
+Completed first architecture deepening pass:
+
+- rebuilt [Architecture](../Culture/Architecture.md) around site + climate + materials + labor + ownership + water + waste + fire + transport + technology + class + rebuilding history;
+- added [Culture Phase 4 — Architecture Vertical Slices](Culture-Phase-4-Architecture-Vertical-Slices.md) across Stone Hills, North Coast, the Low Rivers, the High Roads, Longwood, the Old Cities and Port;
+- architecture is now treated as mobile building knowledge carried by people and institutions rather than a visual skin tied to hard cultural borders.
+
+First findings:
+
+- water access is one of the strongest architectural and class variables;
+- fire history can explain street width, material shifts, zoning and rebuilding law;
+- migration often changes interior use and household layout before it changes a city's skyline;
+- land value and inheritance should create irregular buildings, subdivisions and vertical additions;
+- preservation infrastructure from the food pass—granaries, smokehouses, cellars, ovens, warehouses—belongs inside architecture, not as a separate subsystem;
+- current crises become visible through deferred maintenance, overcrowding, empty warehouses, fortified caravan yards, dry fountains, worker camps and converted buildings;
+- Port works best as layered reuse / rebuilding rather than six decorative ethnic quarters.
+
+Still unresolved:
+
+- major building-material trade;
+- construction guild structure;
+- known historical fires / floods / earthquakes;
+- urban land-tenure systems;
+- ownership of wells, bridges, canals, markets and waste systems;
+- glass cost / distribution;
+- ordinary inn / boarding-house / workshop typologies.
+
 # 9. Success test
 
 The culture pass is succeeding when two people can both be from the same region and still differ meaningfully because of:
