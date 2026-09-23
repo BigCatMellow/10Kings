@@ -197,6 +197,7 @@ Use this instead of reopening the large compendia for normal work.
 | How are current place names being grounded / renamed? | [Grounded Naming Realignment](Grounded-Naming-Realignment.md) |
 | What seasonal festivals exist as working material? | [Festivals and Seasonal Life](../Culture/Festivals-and-Seasonal-Life.md) |
 | How does food change through migration? | [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md) |
+| How is the food system being deepened? | [Culture Phase 3 — Food Vertical Slices](Culture-Phase-3-Food-Vertical-Slices.md) |
 | How do overlapping identities and institutions fit together? | [Social Fabric](../Social-Fabric.md) |
 | How could a participatory cult/social movement work? | [Audience Movements](../Culture/Audience-Movements.md) |
 | How should the WWF/WCW/ECW analogy be translated? | [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md) |
@@ -282,6 +283,37 @@ Disposition of legacy material:
 - universal regional marriage / household / funeral systems.
 
 The older source remains provenance and an idea quarry, not a style bible.
+
+### Phase 3 — food
+
+Legacy Volume 05 and the food adaptation package were reconciled against the current trade, household, material-culture and naming owners.
+
+Outputs:
+
+- [Food](../Culture/Food.md) — substantially deepened owner;
+- [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md) — revised migration method;
+- [Culture Phase 3 — Food Vertical Slices](Culture-Phase-3-Food-Vertical-Slices.md).
+
+**Compatible mechanisms retained**
+- smoking, drying, salting, brining, fermentation and pickling;
+- cellar / cool storage and ice storage where climate supports it;
+- communal ovens;
+- cauldron / hearth / griddle cooking;
+- portable cooking around travel;
+- work food and market food;
+- imported ingredients as class / status signals;
+- household and communal preservation.
+
+**Demoted or rejected as automatic canon**
+- forge / frost / forest / sun themed cuisine;
+- one flavor personality per region;
+- direct copies of named modern cuisines or cooking vessels;
+- “canning days” without independently established sealing technology;
+- universal regional dining etiquette;
+- regional signature-dish lists;
+- ornate fantasy dish names.
+
+Food now follows material causes first.
 
 ## Known unresolved areas exposed by the import
 
