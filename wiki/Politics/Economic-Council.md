@@ -4,7 +4,7 @@
 
 The Council is a secret or semi-secret association of **wealthy families whose power crosses regional borders**.
 
-They do not represent Ironcrest, Greenvale, Northwind, or any other kingdom.
+They do not represent Western Uplands, River Country, North Country, or any other kingdom.
 
 They control economic systems on which *all* kingdoms depend.
 
@@ -46,7 +46,7 @@ Influence over:
 - weapon-grade metal;
 - construction metal.
 
-Its power spans Ironcrest mines, Deepwood timber/fuel disputes, Highridge demand, Northwind ship fittings, and Sunplains construction.
+Its power spans Western Uplands mines, Forest Country timber/fuel disputes, High Country demand, North Country ship fittings, and South Country construction.
 
 ## 3. Routes and Transport
 
@@ -58,7 +58,7 @@ Influence over:
 - pass access;
 - major roads;
 - warehouses;
-- Underpass connections;
+- Tunnels connections;
 - shipping schedules;
 - convoy contracts.
 
