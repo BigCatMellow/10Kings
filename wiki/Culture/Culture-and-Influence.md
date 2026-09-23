@@ -19,6 +19,36 @@ A believable regional culture should emerge from:
 9. institutions;
 10. neighboring peoples.
 
+## Culture is not territorial
+
+The six regional traditions have historical centers of gravity, but none is confined to one bounded territory.
+
+A culture can persist through:
+- diaspora neighborhoods;
+- migrant farming settlements;
+- guild branches;
+- religious communities;
+- intermarried border populations;
+- military or caravan colonies;
+- harbor communities;
+- families that retain language, food, names or institutions after moving.
+
+Ecology can make some traditions easier to preserve in a new place. A forest-adapted community may establish itself successfully in another major forest; a maritime tradition may persist in a distant harbor.
+
+But **similar ecology does not automatically produce the same culture**. Two forest communities on opposite sides of the world may be culturally unrelated even if they solve some material problems similarly.
+
+Think in terms of:
+
+```text
+historical core
+→ migration / trade / marriage / settlement
+→ enclave or mixed community
+→ adaptation to local ecology and neighbors
+→ new local branch of the tradition
+```
+
+The resulting branch may eventually differ more from the old homeland than from its immediate neighbors.
+
 ## Current inspiration pools
 
 ### Western Uplands
