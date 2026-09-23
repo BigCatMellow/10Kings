@@ -185,19 +185,22 @@ The sections below retain the more detailed unresolved questions.
 - Which groups provide services communities genuinely depend on.
 - Where ideological clandestine groups blur into political movements or cults.
 
-## Underdeveloped systems exposed by legacy audit
+## Systems created from the legacy gap audit
 
-The [Legacy Source Audit and Retrieval Index](Reference/Legacy-Source-Audit.md) identified several topics that appear repeatedly in older material but do not yet have a sufficiently deep current owner.
+The [Legacy Source Audit and Retrieval Index](Reference/Legacy-Source-Audit.md) originally identified five underdeveloped system categories.
 
-These are **gaps to investigate**, not old lore to restore automatically:
+They now have active structural owners:
 
-- **education and knowledge transmission** — household teaching, apprenticeship, schools, religious teaching, guild training, literacy and access;
-- **medicine and healing institutions** — household care, healers, guilds, faith charities, specialist knowledge, payment and access;
-- **law and justice** — local courts, customary law, mediation, fines/restitution, jurisdiction conflicts and who can appeal;
-- **folk belief / taboo / superstition** — beliefs that coexist with formal religion, occupational luck, household protections, omens and socially enforced taboos;
-- **timekeeping** — legal/trade dating, daily time signals, local seasonal reckoning and how post-Convergence standardization interacts with older calendars.
+- [Education and Knowledge Transmission](Education-and-Knowledge-Transmission.md);
+- [Medicine and Healing](Medicine-and-Healing.md);
+- [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md);
+- [Folk Belief, Taboo, and Superstition](Culture/Folk-Belief-Taboo-and-Superstition.md);
+- [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md).
 
-Do not create symmetric regional systems for these. Build from institutions, local history and material need.
+The owners establish **structure**, not exhaustive local detail.
+
+Remaining questions should now be answered through actual institutions, communities and places rather than by creating one symmetric regional system for each category.
+
 
 ## Calendars and public ritual
 
