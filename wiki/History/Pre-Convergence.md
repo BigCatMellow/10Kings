@@ -20,7 +20,7 @@ Before The Convergence:
 - raids did not always imply conquest;
 - local elites survived regime changes by changing patrons.
 
-## Ironcrest predecessor politics
+## Western Uplands predecessor politics
 
 Ore districts produced:
 - mine-holding clans;
@@ -33,7 +33,7 @@ Wars over ore rarely produced permanent frontiers.
 
 One ruler might seize a mine while losing the road that made it profitable.
 
-## Northwind predecessor politics
+## North Country predecessor politics
 
 Power was divided among:
 - coastal clans;
@@ -46,7 +46,7 @@ Maritime rights overlapped political territory.
 
 A defeated clan could lose a town yet continue fishing from allied harbors.
 
-## Greenvale predecessor politics
+## River Country predecessor politics
 
 The lowlands contained:
 - estate rulers;
@@ -57,9 +57,9 @@ The lowlands contained:
 
 Crop failures repeatedly destabilized politics.
 
-Greenvale groups sometimes raided neighboring territory for food or attempted expansion into healthier land.
+River Country groups sometimes raided neighboring territory for food or attempted expansion into healthier land.
 
-## Highridge predecessor politics
+## High Country predecessor politics
 
 The plateau was divided among:
 - toll lords;
@@ -70,9 +70,9 @@ The plateau was divided among:
 
 Power followed route control rather than continuous land.
 
-## Deepwood predecessor politics
+## Forest Country predecessor politics
 
-Deepwood was a patchwork of:
+Forest Country was a patchwork of:
 - village alliances;
 - forest clans;
 - river settlements;
@@ -82,7 +82,7 @@ Deepwood was a patchwork of:
 
 Forest edges expanded and contracted as outsiders cleared land and local groups later reclaimed it.
 
-## Sunplains predecessor politics
+## South Country predecessor politics
 
 The warmer south/east contained:
 - city-states;
@@ -102,10 +102,10 @@ Earlier brainstorming named several conflicts. These are useful as **provisional
 - Coldwave Incursions;
 - Ridge Pass Toll Wars;
 - Orchard-Lord Feuds;
-- Deepwood Edge Skirmishes;
+- Forest Country Edge Skirmishes;
 - Iron-Field Conquest;
 - Great Coastal Skirmish;
-- Highridge Consolidation War.
+- High Country Consolidation War.
 
 The final history should revise these into overlapping campaigns with multiple participants, reversals, and local consequences rather than clean one-on-one wars.
 
