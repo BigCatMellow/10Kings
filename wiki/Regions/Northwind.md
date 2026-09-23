@@ -1,18 +1,18 @@
-# North Country
+# North Coast
 
 ## Status
 
 **Working canon.**
 
-North Country is colder than most of the known world and unusually maritime, but its people are not uniformly fishers or stoic seafarers. The region includes coastal towns, sheltered inland valleys, grazing country, forests in milder zones, craft centers, small farms, shipping ports, islands, and old clan territories.
+North Coast is colder than most of the known world and unusually maritime, but its people are not uniformly fishers or stoic seafarers. The region includes coastal towns, sheltered inland valleys, grazing country, forests in milder zones, craft centers, small farms, shipping ports, islands, and old clan territories.
 
 ## Cultural reach
 
-North Country is a **cultural core and historical concentration**, not the only place where North Country people live. Maritime families, harbor communities and clan-descended groups can persist in distant ports and coastal settlements. The geographic North Country also contains inland, migrant and mixed communities that do not share one cultural identity.
+North Coast is a **cultural core and historical concentration**, not the only place where North Coast people live. Maritime families, harbor communities and clan-descended groups can persist in distant ports and coastal settlements. The geographic North Coast also contains inland, migrant and mixed communities that do not share one cultural identity.
 
 ## Geography
 
-North Country occupies much of the Northern Continent and associated coasts and islands.
+North Coast occupies much of the Northern Continent and associated coasts and islands.
 
 Important environmental facts:
 - cold seas;
@@ -21,13 +21,13 @@ Important environmental facts:
 - rocky coasts;
 - sheltered coves;
 - some partially freezing waters;
-- inland routes toward High Country.
+- inland routes toward High Roads.
 
 Its settlements cluster where geography offers a reason to stay: a good harbor, a protected bay, a navigable river, a reliable fishery, pasture, timber, or a route south.
 
 ## Historical identity
 
-North Country's pre-Convergence politics were fragmented among:
+North Coast's pre-Convergence politics were fragmented among:
 - coastal clans;
 - fishing confederacies;
 - harbor towns;
@@ -39,7 +39,7 @@ Control of land mattered, but control of **water and seasonal access** often mat
 
 A clan might lose a harbor yet retain boats, kin alliances, and offshore rights. A political border on shore did not necessarily define who fished a bank or used a winter anchorage.
 
-This history explains why modern North Country politics remain sensitive to:
+This history explains why modern North Coast politics remain sensitive to:
 - access rights;
 - clan obligation;
 - shared rescue;
@@ -58,7 +58,7 @@ Avoid generic "Viking culture."
 
 ## Language
 
-North Country languages may include:
+North Coast languages may include:
 - inclusive/exclusive "we";
 - strong evidential markers;
 - directional vocabulary tied to coast, wind, and slope;
@@ -103,7 +103,7 @@ Remote families build for insulation, repairability, and available material. Dri
 
 ## Food
 
-North Country food should show both scarcity management and trade.
+North Coast food should show both scarcity management and trade.
 
 Common techniques:
 - drying;
@@ -121,13 +121,13 @@ Foods may include:
 - dairy where herding is possible;
 - berries;
 - preserved meats;
-- imported River Country flour and South Country oils or fruit in wealthier ports.
+- imported Low Rivers flour and Old Cities oils or fruit in wealthier ports.
 
 Alcohol can include grain ales, berry ferments, mead-like drinks, and imported spirits.
 
 ## Politics
 
-North Country's political tensions often revolve around:
+North Coast's political tensions often revolve around:
 - fishing rights;
 - harbor control;
 - convoy protection;
@@ -148,6 +148,6 @@ North Country's political tensions often revolve around:
 
 ## Story function
 
-North Country lets the story ask: **when survival requires cooperation, who gets to define the group?**
+North Coast lets the story ask: **when survival requires cooperation, who gets to define the group?**
 
 Its social strength can become political vulnerability when false information changes who people believe threatens that group.
