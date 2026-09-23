@@ -187,6 +187,7 @@ The cultural method above is implemented through more specific owners:
 - [Clothing and Material Culture](Clothing-and-Material-Culture.md) — textiles, workwear, repair, fashion, status objects, secondhand goods and household material culture;
 - [Food](Food.md) — cuisine as ecology + trade + class + season + preservation + religion + history;
 - [Architecture](Architecture.md) — built environment as accumulated adaptation;
-- [Arts, Music and Leisure](Arts-Music-and-Leisure.md) — performance, games, public culture, patronage and cultural circulation as products of venues, work, audience, money and contact.
+- [Arts, Music and Leisure](Arts-Music-and-Leisure.md) — performance, games, public culture, patronage and cultural circulation as products of venues, work, audience, money and contact;
+- [Festivals, Seasonal Life and Public Ritual](Festivals-and-Seasonal-Life.md) — recurring observance and life-cycle ritual as products of calendars, work, history, institutions, household obligation and public space.
 
 These pages should deepen culture without turning regions into personalities or costume sets.
