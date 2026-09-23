@@ -20,7 +20,7 @@ The Convergence followed a period in which:
 
 ## Negotiation
 
-High Country is the strongest candidate for the principal congress because of:
+High Roads is the strongest candidate for the principal congress because of:
 - geographic accessibility;
 - trade culture;
 - existing arbitration traditions;
@@ -115,4 +115,4 @@ Once borders and internal peace became more stable:
 - elites cultivated shared histories;
 - old mixed frontier identities were sometimes suppressed.
 
-Thus some traditions now presented as ancient "Western Uplands" or "River Country" culture may actually be post-Convergence standardizations of more diverse older practices.
+Thus some traditions now presented as ancient "Stone Hills" or "Low Rivers" culture may actually be post-Convergence standardizations of more diverse older practices.
