@@ -115,6 +115,8 @@ Legacy images and descriptions remain research material, not architectural canon
 
 ---
 
+[Settlement Site-History Vertical Slices — V1](../Reference/Settlement-Site-History-Vertical-Slices-V1.md) now applies this method to three politically important provisional settlements: SH-M, HR-C, and OC-U. Their site histories remain reference tests, not fixed city plans.
+
 # 1. Site comes first
 
 Before designing a settlement or building, ask:
