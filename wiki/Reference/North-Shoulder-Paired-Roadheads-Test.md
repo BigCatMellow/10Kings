@@ -2,7 +2,15 @@
 
 ## Status
 
-**Provisional paired-place test — not canon and intentionally unnamed.**
+**Provisional paired-place test — not canon.**
+
+The paired naming layer is now tested in [N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md):
+
+- North Coast-side roadhead — **Sevu**; caravan shorthand **North Yard**;
+- High Roads-side roadhead — **Korad**; caravan shorthand **South Yard**;
+- collective caravan shorthand — **the Yards**.
+
+The local names and common-language shorthand remain provisional reference forms.
 
 This page develops the two settlements implied by the North Shoulder transport bottleneck in:
 
