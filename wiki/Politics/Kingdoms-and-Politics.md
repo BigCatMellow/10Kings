@@ -376,7 +376,10 @@ A central ruler or confederation cannot be assumed to erase:
 
 # 8. Low Rivers
 
-See [Low Rivers](../Regions/Greenvale.md).
+See:
+
+- [Low Rivers](../Regions/Greenvale.md)
+- [Low Rivers Functional Governance Test](../Reference/Low-Rivers-Functional-Governance-Test.md)
 
 ## Established political pressures
 
@@ -401,30 +404,40 @@ Historical forms include:
 
 ## Structural conclusion
 
-Political authority here must coexist with organizations that manage:
+The functional tests support a **layered agrarian-river political order** rather than one clean constitutional form.
 
-- water;
-- land;
-- storage;
-- seed;
-- markets.
+Authority needs to exist at several overlapping scales:
 
-That means a central ruler cannot simply replace all local agricultural institutions without creating major coordination problems.
+- villages and cooperatives for local works, seed, mutual aid, and some storage;
+- estates for tenancy, estate works, rents, labor, and private storage;
+- towns for markets, crossings, warehouses, records, public order, and commercial disputes;
+- river / watershed institutions for allocation, navigation condition, shared works, and upstream/downstream disputes;
+- larger polities for taxation, military capacity, major works, emergency intervention, higher enforcement, and diplomacy;
+- Convergence mechanisms when protected passage or cross-border obligations are implicated.
+
+The strongest constraint is that **water and river authority cannot map perfectly onto ordinary territorial hierarchy**.
+
+A central authority can set policy and mobilize resources, but its effectiveness depends on institutions that actually control local water, storage, records, transport, credit, and legitimacy.
+
+Estates can be powerful without being fully sovereign.
+
+Market towns can be politically important without governing all surrounding countryside.
 
 ## Still open
 
-The region might contain some combination of:
+The tests do not establish:
 
-- monarchy;
-- estate power;
-- river-city authority;
-- village councils;
-- irrigation associations;
-- cooperatives;
-- market towns.
+- whether Low Rivers contains one large polity, several polities, or one dominant polity plus smaller jurisdictions;
+- exact ruler or title;
+- capital;
+- exact estate privileges;
+- exact tenancy systems;
+- named water institutions;
+- exact reserve / export policy;
+- exact tax or military structure;
+- exact Convergence signatories or delegates.
 
-Do not pick one final model until the political map requires it.
-
+Do not pick a final constitutional label until those questions are forced by further tests.
 ---
 
 # 9. High Roads
