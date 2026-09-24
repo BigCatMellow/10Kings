@@ -814,10 +814,10 @@ Fits:
 
 ---
 
-# 34. Next comparison
+# 34. Comparison result
 
-The remaining major cultural core is **Longwood**.
+[Longwood Political Order Vertical Slice — V1](Longwood-Political-Order-Vertical-Slice-V1.md) now closes the regional comparison.
 
-Its test should be different again:
+**Result:** Longwood supports a layered jurisdictional mosaic of local polities, communities, specialists, and use-right systems without either sovereign city-state dominance or a superior regional government.
 
-> **Can decentralized territorial communities, towns, specialists, and use-right systems form a stable political landscape without either sovereign city-states or a strong regional state?**
+All six major cultural cores now have distinct tested political structures.
