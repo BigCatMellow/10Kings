@@ -46,6 +46,8 @@ North Coast has **leverage**, not an automatic shipping monopoly.
 
 Its shipbuilding, sailors, ports and knowledge of difficult northern waters make it unusually important to some routes. Storms, fishery disputes, convoy policy or piracy can therefore propagate beyond North Coast without implying that every coastal shipment belongs to it.
 
+The [North Coast Functional Governance Test](../Reference/North-Coast-Functional-Governance-Test.md) also shows why this leverage is politically distributed. Harbor authorities, vessel owners, clans, fishery-access systems, merchants, and larger rulers can control different pieces of maritime capacity. A ruler who announces a convoy or access policy still needs ships, crews, pilots, ports, credit, and local cooperation to make it real.
+
 ### Longwood and controlled extraction
 
 Longwood can matter disproportionately because some forest products are difficult to replace quickly.
