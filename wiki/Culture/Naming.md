@@ -259,4 +259,6 @@ See [Language History and Naming Audit](../Reference/Language-History-and-Naming
 
 [Settlement Site-History Vertical Slices — V1](../Reference/Settlement-Site-History-Vertical-Slices-V1.md) then resolves the founding causes for SH-M, HR-C, and OC-U.
 
-[Local Name Candidate Tests — V1](../Reference/Local-Name-Candidate-Tests-V1.md) produces the first three deliberately provisional local candidates — **Kavel**, **Meren**, and **Naret** — from those site histories rather than from theme-first name generation.
+[Local Name Candidate Tests — V1](../Reference/Local-Name-Candidate-Tests-V1.md) produced the first lexical candidates from those site histories.
+
+[Neighboring Name Pressure Test — V1](../Reference/Neighboring-Name-Pressure-Test-V1.md) then caught excessive cross-cluster similarity and now acts as a mandatory QA gate. Current lexical status: **Kavel** and **Naret** remain provisional passes; **Meren**, **Ralen**, and **Kelan** are on hold pending same-cluster micro-set tests; **Varel** and **Talir** remain provisional passes.
