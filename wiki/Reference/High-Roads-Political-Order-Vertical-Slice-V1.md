@@ -967,12 +967,10 @@ This is a political system, not a state.
 
 ---
 
-# 32. Next comparison
+# 32. Comparison result
 
-The next strongest remaining test is the **Old Cities triad OC-U / OC-D / OC-C**.
+[Old Cities Political Order Vertical Slice — V1](Old-Cities-Political-Order-Vertical-Slice-V1.md) now provides the comparison.
 
-High Roads proves coordination without a state.
+**Result:** Old Cities supports a sovereign city-state system with durable delegated water / defense / trade institutions that still stop short of federation.
 
-Old Cities should test the opposite problem:
-
-> **How do several fully sovereign city-states build durable shared institutions without those institutions becoming a federation?**
+This differs from High Roads because Old Cities begins with clearer sovereign civic units and therefore makes any permanent union a much more explicit constitutional project.
