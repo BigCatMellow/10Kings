@@ -546,7 +546,57 @@ That is central to the setting.
 
 ---
 
-# 15. Current-event faction test
+# 15. Port autonomy / neutrality reform
+
+## Stronger-Port supporters
+
+May include:
+
+- residents frustrated by delayed outside aid;
+- local businesses wanting retained investment;
+- guild centralizers;
+- workers who believe stronger local institutions would improve services;
+- reformers angered by conditional foreign help.
+
+## Neutrality-first skeptics
+
+May include:
+
+- merchants dependent on broad foreign confidence;
+- legal / arbitration interests;
+- established harbor families;
+- residents who fear becoming the battlefield over Port's sovereignty.
+
+## Labor / neighborhood critics
+
+Can agree with the grievance while asking:
+
+> stronger power for whom?
+
+They may oppose:
+
+- foreign control;
+- Council influence;
+- large guild control;
+- elite Port centralization
+
+at the same time.
+
+## Foreign beneficiaries of the status quo
+
+Some outside merchants / powers sincerely value neutral access.
+
+They can oppose Port political expansion without wanting to conquer Port.
+
+## Design rule
+
+The Villain's popularity should be measured against these competing positions.
+
+Port support cannot be treated as one block.
+
+---
+
+# 16. Current-event faction test
 
 Before promoting a new current event, fill:
 
@@ -567,7 +617,7 @@ But major events should usually have at least **three distinct social positions*
 
 ---
 
-# 16. Legacy material recovered
+# 17. Legacy material recovered
 
 Useful mechanisms recovered from legacy notes include:
 
