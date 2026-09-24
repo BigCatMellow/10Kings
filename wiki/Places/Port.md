@@ -117,6 +117,59 @@ Those remain legacy material unless separately promoted.
 
 ---
 
+## Guild concentration and the Three Moons cycle
+
+Port's political / commercial centrality is increasingly reinforced by **guild presence**.
+
+More trans-regional guilds and professional networks now maintain some combination of:
+
+- branch offices;
+- representatives;
+- meeting space;
+- arbitration / clerical services;
+- hiring / contract functions
+
+in Port.
+
+This development is partly organic and partly encouraged by Port-centered reform efforts associated with the Villain's broader political project.
+
+The rationale is straightforward:
+
+> Port already connects regions commercially; making cross-guild communication easier gives skilled institutions the same neutral switching point.
+
+This strengthens Port by keeping more:
+
+- expertise;
+- employment;
+- contracts;
+- professional relationships;
+- administrative knowledge
+
+inside the city rather than allowing Port to function only as a transfer point.
+
+The [Three Moons Festival](../Culture/Three-Moons-Festival.md), occurring once every seven years, temporarily magnifies this effect.
+
+During the current story window, Port experiences an unusual overlap of:
+
+- guild delegates;
+- merchants;
+- travelers;
+- political agents;
+- craftspeople;
+- performers;
+- sailors;
+- job seekers;
+- ordinary visitors.
+
+That makes the city both:
+
+- unusually powerful as an information / coordination hub;
+- unusually strained in housing, infrastructure, policing, transport, and public services.
+
+This combination matters directly to the current story.
+
+---
+
 ## Physical harbor geometry
 
 See [Port Estuary and Harbor Geometry — Middle-Worldbuilding Test](../Reference/Port-Estuary-Harbor-Geometry-Test.md).
