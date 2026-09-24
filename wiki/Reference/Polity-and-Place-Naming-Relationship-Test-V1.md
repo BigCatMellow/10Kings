@@ -330,7 +330,7 @@ Keep HR-W.
 
 ---
 
-# 11. HR-C — Meren can name city and local polity
+# 11. HR-C — Mesk can name city and local polity
 
 HR-C is explicitly:
 
@@ -342,9 +342,9 @@ The political order does not require a separate state label around it.
 
 ## Working relationship
 
-> **Meren** — city and local polity.
+> **Mesk** — city and local polity.
 
-This does **not** make Meren:
+This does **not** make Mesk:
 
 - capital of High Roads;
 - ruler of HR-N / HR-W;
@@ -356,9 +356,9 @@ It is simply the city's political name.
 
 Foreigners can say:
 
-- Meren delegation;
-- Meren court / arbiters;
-- Meren merchants;
+- Mesk delegation;
+- Mesk court / arbiters;
+- Mesk merchants;
 
 without implying one High Roads state.
 
@@ -366,7 +366,7 @@ without implying one High Roads state.
 
 **STRONG PASS.**
 
-Meren remains provisional but is now structurally usable for HR-C.
+Mesk remains provisional but is now structurally usable for HR-C.
 
 ---
 
@@ -500,21 +500,21 @@ The world does not need to replace Port merely because the polity is important.
 
 | Actor | Separate polity name needed? | Current usable name layer |
 | --- | --- | --- |
-| SH-A | yes | not ready |
+| SH-A | broader political label needed | **Varel** provisional common metonym from ruling seat |
 | SH-M | no | **Kavel** provisional local city / civic name |
-| NC-M | yes | not ready |
-| NC-I | likely no separate state label beyond island name | island name not ready |
-| NC-R | no | **North Yard** traveler shorthand only |
-| LR-A | yes | not ready; river / basin source preferred |
-| LR-M | no | **Last Quay** commercial exonym; local name open |
-| HR-N | probably one local polity name | **South Yard** traveler shorthand only |
-| HR-W | depends on final form | not ready |
-| HR-C | no separate state label | **Meren** provisional city / polity name |
+| NC-M | broader political label needed | **the Auvor Compact / Auvor** provisional common political form |
+| NC-I | likely no separate state label beyond island name | **Orai** provisional island / polity name |
+| NC-R | no | **Sevu** local town; **North Yard** traveler shorthand |
+| LR-A | broader territorial label needed | **Daroa** provisional river / basin political form |
+| LR-M | no | **Dasei** local city; **Last Quay** commercial exonym |
+| HR-N | probably one local polity name | **Korad** local center; **South Yard** traveler shorthand |
+| HR-W | depends on final form | **Tavrek** provisional principal settlement; polity-name scope still open |
+| HR-C | no separate state label | **Mesk** provisional city / polity name |
 | LW-W | probably yes / alliance-territory label | not ready |
 | LW-I | perhaps no single permanent name | not ready by design |
 | LW-S | likely town / polity shared root | not ready |
 | OC-U | no separate state label | **Naret** provisional city / city-state name |
-| OC-D | no separate state label by default | local city name open |
+| OC-D | no separate state label by default | **Talir** provisional city / city-state name |
 | OC-C | no separate state label by default | local city name open |
 | P | no | **Port** common city / polity name |
 
@@ -550,4 +550,6 @@ This makes the map linguistically reflect the political structure.
 
 All four are now ready for tightly bounded lexical tests.
 
-State-name promotion still depends on a separate place-to-polity relationship test after the local names exist.
+[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now supplies the missing local-name ecology, and [Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) retests the larger political labels.
+
+The remaining naming gaps are intentionally concentrated in Longwood and OC-C rather than spread across the entire political map.
