@@ -337,22 +337,19 @@ It should not mean:
 
 ---
 
-# 6. Strong result
+# 6. Lexical result
 
-The remaining political names no longer need arbitrary state-label generation.
+[Political Name Candidate Tests — V1](Political-Name-Candidate-Tests-V1.md) now supplies four tightly bounded working candidates:
 
-They now have ordinary historical sources.
+- G1 → **Ralen**;
+- NC-M center → **Kelan**;
+- SH-A seat → **Varel**;
+- OC-D → **Talir**.
 
-The next lexical test should remain small:
+All remain provisional.
 
-1. one G1 hydronym candidate;
-2. one NC-M-center candidate;
-3. one SH-A-seat candidate;
-4. one OC-D candidate.
+Talir can structurally serve as both city and city-state name.
 
-Then separately test whether:
+Ralen is the strongest current source for a future LR-A common political label, but river/state scope must be tested first.
 
-- G1's root plausibly extends to LR-A;
-- the NC-M center lends its name to the compact;
-- SH-A is seat-named or house/territory-named;
-- OC-D uses the city root directly as its city-state name.
+Kelan and Varel remain city / seat names only until compact / composite-state history shows how those polities are actually named.
