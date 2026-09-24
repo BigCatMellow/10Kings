@@ -106,8 +106,10 @@ Resolved at the structural level:
 
 Still open:
 
-- the Villain's exact grievance / constituency;
-- his exact demand once a new settlement becomes unavoidable;
+- whether the Villain is Port-born or adopted Port as home;
+- the specific Port failures / delays that radicalized him;
+- his exact class / institutional background;
+- the exact fiscal and constitutional changes he ultimately demands for Port;
 - which manufactured escalation becomes his unmistakable moral break;
 - where Wurdren begins and which human-scale problem first connects him to the larger system.
 
@@ -197,13 +199,19 @@ Remaining questions:
 
 The strategic architecture is now established in [The Villain](Story/Villain.md) and [Villain's Dominoes](Story/Villains-Dominoes.md).
 
+Established:
+
+- his cause is Port;
+- his grievance is the neutrality trap: Port is widely used, responsibility for it is fragmented, emergency action is slowed by outside political caution, and economic throughput does not translate cleanly into retained local capacity;
+- his strategic objective is to force a new Port settlement.
+
 Still open:
 
 - name;
-- homeland / people / constituency;
-- exact grievance;
-- exact historical injury;
-- exact political / territorial / institutional demand at the forced new settlement;
+- whether he is Port-born or adopted Port as home;
+- family / class / institutional background;
+- the specific emergency or repeated failures that radicalized him;
+- exact fiscal / defense / treaty / political reforms he demands;
 - which deliberate manufactured event becomes the clearest moral break;
 - how much of the Council structure he actually knows at the story's beginning;
 - how he first proved to himself that the Council exists.
