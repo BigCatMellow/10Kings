@@ -10,7 +10,15 @@ This page is the first attempt to generate actual local forms after:
 - [Settlement Site-History Vertical Slices — V1](Settlement-Site-History-Vertical-Slices-V1.md)
 - [Naming](../Culture/Naming.md)
 
-The names below are **working candidates only**.
+The names below record the **first lexical test**, not all current dispositions.
+
+[Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md) subsequently found a cross-cluster similarity defect.
+
+**Current status:**
+
+- Kavel — provisional pass;
+- Meren — **HOLD / first-pass candidate rejected pending a P1 micro-set**;
+- Naret — provisional pass.
 
 The small lexical roots exist solely to test these specific places. They are not a reusable dictionary unless later work independently supports them.
 
