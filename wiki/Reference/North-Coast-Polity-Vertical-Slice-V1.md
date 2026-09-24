@@ -1024,10 +1024,10 @@ This remains provisional and unnamed.
 
 ---
 
-# 34. Next comparison
+# 34. Comparison result
 
-The next useful polity test should be **High Roads HR-N / HR-W / HR-C**.
+[High Roads Political Order Vertical Slice — V1](High-Roads-Political-Order-Vertical-Slice-V1.md) now tests the strongest challenge to the method.
 
-Unlike SH-A, LR-A, and NC-M, High Roads should test whether the world can support **external political action without one superior territorial state at all**.
+**Result:** High Roads can support diplomacy, security coordination, arbitration, infrastructure, and Convergence obligations as a **polycentric route order without any superior territorial state**.
 
-That is the strongest remaining challenge to the political method.
+The political method therefore no longer assumes that mature governance requires state consolidation.
