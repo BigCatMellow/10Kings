@@ -88,6 +88,7 @@
 - [Working Political Geography V1](Reference/Working-Political-Geography-V1.md)
 - [Political Adjacency and Border-Interface Test V1](Reference/Political-Adjacency-and-Border-Interface-Test-V1.md)
 - [Political Border History Test V1](Reference/Political-Border-History-Test-V1.md)
+- [Stone Hills Polity Vertical Slice V1](Reference/Stone-Hills-Polity-Vertical-Slice-V1.md)
 - [Middle Worldbuilding](Reference/Middle-Worldbuilding.md)
 - [Writing the Sequel](Reference/Writing-the-Sequel.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
