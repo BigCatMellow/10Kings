@@ -586,7 +586,11 @@ Different parts may recognize different combinations of authority.
 
 # 11. Old Cities
 
-See [The Old Cities](../Regions/Sunplains.md).
+See:
+
+- [The Old Cities](../Regions/Sunplains.md)
+- [Old Cities Functional Governance Test](../Reference/Old-Cities-Functional-Governance-Test.md)
+- [Old Cities Shared Irrigation Test](../Reference/Old-Cities-Shared-Irrigation-Test.md)
 
 ## Established
 
@@ -613,16 +617,46 @@ Modern city-states continue competing over:
 
 ## Structural conclusion
 
-Do not collapse the Old Cities into one southern kingdom.
+The functional tests support a **competitive city-state system with uneven hinterlands and cross-border functional compacts**.
 
-Its plurality is part of the region's identity and systemic role.
+Individual cities retain real authority over:
 
-A league or temporary bloc may form.
+- taxation;
+- public order;
+- major works;
+- military force;
+- markets;
+- diplomacy.
 
-That is different from permanent unification.
+But their authority can weaken or change across:
+
+- estates;
+- villages;
+- rural client territories;
+- shared water systems;
+- external trade corridors.
+
+Water and other infrastructure can require cooperation across city boundaries without producing a regional government.
+
+Merchant and noble families can become extremely powerful inside a city without automatically replacing civic sovereignty.
+
+Leagues and blocs can possess real delegated authority for defense, trade, or infrastructure while remaining something less than a permanent union.
 
 A durable Old Cities union would significantly alter the balance of the world and should not be introduced casually.
 
+## Still open
+
+The tests do not establish:
+
+- exact city-state roster;
+- city constitutions;
+- borders and hinterlands;
+- citizenship;
+- rural representation;
+- merchant / noble privileges;
+- exact league structures;
+- whether any current bloc is moving toward durable union;
+- exact Old Cities signatories / delegates in the Convergence.
 ---
 
 # 12. Port
