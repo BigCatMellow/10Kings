@@ -256,3 +256,7 @@ See [Language History and Naming Audit](../Reference/Language-History-and-Naming
 [Minimal Naming Profiles — V1](../Reference/Minimal-Naming-Profiles-V1.md) adds only the sound / compound / transcription constraints needed to test names consistently; it deliberately does not create full language dictionaries.
 
 [Settlement Naming Vertical Slices — V1](../Reference/Settlement-Naming-Vertical-Slices-V1.md) applies the method. It promotes only provisional **commercial / traveler forms** where the history is already strong and explicitly leaves local endonyms unnamed when site history is insufficient.
+
+[Settlement Site-History Vertical Slices — V1](../Reference/Settlement-Site-History-Vertical-Slices-V1.md) then resolves the founding causes for SH-M, HR-C, and OC-U.
+
+[Local Name Candidate Tests — V1](../Reference/Local-Name-Candidate-Tests-V1.md) produces the first three deliberately provisional local candidates — **Kavel**, **Meren**, and **Naret** — from those site histories rather than from theme-first name generation.
