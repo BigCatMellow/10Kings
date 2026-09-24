@@ -4,6 +4,8 @@
 
 The pre-Convergence world was **messy**.
 
+**Current border-history test:** [Political Border History Test — V1](../Reference/Political-Border-History-Test-V1.md) now tests how the working political interfaces can descend from that messy predecessor world without inventing clean region-versus-region wars.
+
 Modern regions should not be projected backward as eternal states with fixed borders. The modern labels describe cultural-geographic zones that emerged from many earlier peoples, towns, kingdoms, confederacies, warbands, guild networks, and migrations.
 
 ## General pattern
