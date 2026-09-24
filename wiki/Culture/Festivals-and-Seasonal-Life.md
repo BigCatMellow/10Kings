@@ -543,7 +543,7 @@ These names are **not active canon** merely because they appear in prior drafts.
 | Festival of Patrons | civic patronage competition | mechanism retained; name provisional |
 | Wine Crush | processing season | requires actual crop geography before use |
 | Solstice Lanterns | seasonal public-light observance | possible local/religious mechanism; not regional canon |
-| Three Moon Festival | shared Port civic gathering | **name demoted pending cosmology**; civic mechanism retained |
+| Three Moons Festival | seven-year Port civic / commercial convergence | **promoted to working canon**; exact origin / cosmology / ritual details remain open |
 | Lean Vigil | winter shipping / food-supply anxiety | mechanism retained; name provisional |
 
 The old seasonal table is therefore retired.
@@ -573,6 +573,31 @@ A festival or rite should answer some of these naturally:
 - What part of the ritual is older than its current explanation?
 
 If the answer is only "this is the Stone Hills festival," it is too shallow.
+
+## Three Moons Festival
+
+[Three Moons Festival](Three-Moons-Festival.md) is now established as Port's largest recurring public festival.
+
+Established:
+
+- occurs once every seven years;
+- creates an exceptional concentration of visitors / institutions / commerce in Port;
+- matters materially to the current story window;
+- overlaps strongly with guild / commercial information networks.
+
+Still open:
+
+- exact origin;
+- cosmological basis;
+- duration;
+- ritual content;
+- exact placement relative to the opening chronology.
+
+Its narrative importance comes from a structural fact:
+
+> **Port is already an information hub; Three Moons temporarily makes many of its normally asynchronous networks arrive at once.**
+
+---
 
 ## Related pages
 
