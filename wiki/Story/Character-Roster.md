@@ -111,6 +111,110 @@ A useful role may later be recovered from them if it fits a real current-world d
 
 ---
 
+# Recurring specialist antagonists
+
+The preserved Blacklist-style material is most useful here.
+
+Do **not** restore one themed villain per region.
+
+Instead, recurring antagonists can emerge from the specialized services required by [Villain's Dominoes](Villains-Dominoes.md).
+
+Potential roles include:
+
+## Route-information broker
+
+Knows:
+
+- guides;
+- caravan reports;
+- harbor warnings;
+- route risk;
+- who trusts which messenger.
+
+Could recur around Operations 1, 4, and 6.
+
+## Paper / seal specialist
+
+Works with:
+
+- copied seals;
+- manifests;
+- contract annexes;
+- official marks;
+- authenticated copies.
+
+Could recur around Operations 4, 5, and 9.
+
+This is the grounded core of older forgery / Glass Sculptor / Painted Moon concepts without preserving the old character.
+
+## Distressed-debt / market operator
+
+Knows:
+
+- who is overextended;
+- who will sell;
+- which warehouse is full;
+- who can still extend credit.
+
+Could recur around Operations 2 and 3.
+
+## Smuggler / relief carrier
+
+Can move:
+
+- small cargo;
+- documents;
+- people;
+- emergency supplies
+
+through secondary systems.
+
+May genuinely help Port while also profiting from illegality.
+
+Could recur around Operations 3 and 8.
+
+## Conflict broker
+
+Makes a living through:
+
+- mediation;
+- security;
+- intelligence;
+- guarantees;
+- unofficial diplomacy.
+
+Benefits when disputes remain manageable but unresolved.
+
+Could recur around Operations 1 and 6.
+
+## Industrial / procurement fixer
+
+Understands:
+
+- materials;
+- schedules;
+- contracts;
+- inspections;
+- production bottlenecks.
+
+Could recur around Operation 7 and later escalation.
+
+These are not yet characters.
+
+When one role repeatedly creates important decisions, *then* build the person using the Blacklist-style strengths:
+
+- memorable introduction;
+- complex motive;
+- exceptional competence;
+- personal code;
+- distinctive method;
+- system connection;
+- capacity to recur.
+
+The **method** should make them memorable before the costume or alias does.
+
+---
+
 # Character design rule
 
 A strong recurring character usually needs:
