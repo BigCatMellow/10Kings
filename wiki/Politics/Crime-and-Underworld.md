@@ -196,6 +196,64 @@ Several older named concepts are worth retaining as provisional seeds:
 
 Exact names, leaders, symbols and regional branches remain provisional.
 
+## Public legitimacy is contested
+
+Legacy underworld material repeatedly treated criminal organizations as **socially interpreted**, not universally regarded in the same way.
+
+A group may be:
+
+- a predatory gang to merchants;
+- a source of credit or protection to one neighborhood;
+- a smuggling lifeline to a community cut off from official supply;
+- a labor enforcer to one employer;
+- a labor defender to some workers;
+- a terrorist to authorities;
+- a resistance movement to supporters.
+
+This does not make criminal violence morally neutral.
+
+It means legitimacy is a political fact that varies by constituency.
+
+### Service gaps create support
+
+An illicit network can acquire durable local support when it provides something legal institutions fail to provide:
+
+- food during restriction;
+- transport around a closed route;
+- credit;
+- protection;
+- employment;
+- dispute enforcement;
+- access to prohibited markets.
+
+The same network may exploit the people who depend on it.
+
+That contradiction is often more believable than either:
+
+> criminals are secretly heroes
+
+or:
+
+> everyone wants them eliminated.
+
+### Crackdowns create factions
+
+A crackdown can therefore split people who all dislike crime.
+
+Some may support:
+
+- aggressive enforcement;
+- seizures;
+- new inspections.
+
+Others may say:
+
+> stop the violence, but do not destroy the only route that still brings medicine / work / food.
+
+This connects directly to the current [Stakeholder Reaction Matrix](../Reference/Current-Event-Stakeholder-Reaction-Matrix-V1.md).
+
+---
+
 ## Underworld and the main conflict
 
 The Council sometimes tolerates criminal networks because they provide deniable services or keep unofficial markets functioning.
