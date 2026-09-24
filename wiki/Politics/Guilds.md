@@ -428,6 +428,28 @@ Every major guild should have:
 - abuses that outsiders resent.
 
 
+## Guild finance and member dependence
+
+See [Money, Credit, and Market Infrastructure](../Economy/Money-Credit-and-Market-Infrastructure.md).
+
+Guild membership can carry financial consequences through:
+
+- emergency aid;
+- member credit;
+- contract guarantees;
+- apprenticeship support;
+- injury / burial funds;
+- shared purchasing;
+- reputation / blacklisting.
+
+This makes branch conflict more serious than a disagreement over symbolism.
+
+A member may resent Port centralization while still depending on a Port-recognized guild guarantee to get work or credit.
+
+That tension should appear in the centralization debate.
+
+---
+
 ## Guilds inside the wider social fabric
 
 See [Social Fabric](../Social-Fabric.md).
