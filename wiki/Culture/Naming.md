@@ -252,3 +252,5 @@ If none of these questions has an answer, the name is probably still a placehold
 See [Language History and Naming Audit](../Reference/Language-History-and-Naming-Audit.md) for the current review of macro-region labels, legacy polity names, border-town names, festival names and provisional character names.
 
 [Language and Naming Topology — V1](../Reference/Language-and-Naming-Topology-Test-V1.md) now applies that rule to the V1 political map. It identifies the minimum provisional historical language/contact clusters and, more importantly, the naming strata each political actor needs before receiving a final local name.
+
+[Minimal Naming Profiles — V1](../Reference/Minimal-Naming-Profiles-V1.md) adds only the sound / compound / transcription constraints needed to test names consistently; it deliberately does not create full language dictionaries.
