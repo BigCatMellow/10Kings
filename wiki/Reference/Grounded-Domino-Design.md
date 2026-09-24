@@ -336,7 +336,48 @@ The Villain's strategic **fingerprint** should remain consistent even when the o
 
 ---
 
-# 14. Relationship to Worldbuilding Breath
+# 14. Relationship to war-causality proof
+
+[War Escalation Causal Chain — V1](War-Escalation-Causal-Chain-V1.md) applies this method across the full current-events field.
+
+It adds a strict transition test:
+
+~~~text
+actor
++ known problem
++ locally rational action
++ material / legal capability change
++ outside interpretation
++ next incentive
+→ next domino
+~~~
+
+No transition may use "tension rises" as sufficient explanation for war.
+
+[Domino Conspiracy Ledger — V1](Domino-Conspiracy-Ledger-V1.md) then decomposes selected Villain nudges into small background tasks / micro-actions.
+
+Together the layers are:
+
+~~~text
+CURRENT EVENTS
+what ordinary people can notice
+
+↓ author analysis
+
+WAR CAUSAL CHAIN
+why the system moves from local stress to war
+
+↓ hidden execution
+
+CONSPIRACY LEDGER
+what small covert work makes selected transitions more likely
+~~~
+
+The large conspiracy should be visible to the author long before it is visible to the reader.
+
+---
+
+# 15. Relationship to Worldbuilding Breath
 
 [Worldbuilding Breath](Worldbuilding-Breath.md) and this method reinforce each other.
 
