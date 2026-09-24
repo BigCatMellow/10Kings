@@ -1042,11 +1042,14 @@ This remains a reference conclusion, not a named constitutional canon.
 
 ---
 
-# 31. Milestone result
+# 31. Comparison milestone
 
-The first two polity vertical slices now prove the functional method can generate **different actual states** from the same world rules.
+A third comparison now exists:
 
-- SH-A: composite territorial polity built over concentrated older jurisdictions.
-- LR-A: basin-centered administrative polity coordinating dispersed local systems.
+- SH-A: **composite territorial polity** built over concentrated older jurisdictions.
+- LR-A: **basin-centered administrative polity** coordinating dispersed local systems.
+- NC-M: **maritime compact polity** coordinating older harbor / clan jurisdictions while retaining real territorial statehood.
 
-That is enough to proceed with confidence into future named-polity work without defaulting to one constitutional template.
+See [North Coast Polity Vertical Slice — V1](North-Coast-Polity-Vertical-Slice-V1.md).
+
+The method is now producing structurally different actual states from the same world rules rather than cosmetic variants of one government.
