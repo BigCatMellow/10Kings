@@ -143,7 +143,10 @@ City-states compete for:
 - alliances;
 - cultural influence.
 
-See [Old Cities Functional Governance Test](../Reference/Old-Cities-Functional-Governance-Test.md).
+See:
+
+- [Old Cities Functional Governance Test](../Reference/Old-Cities-Functional-Governance-Test.md)
+- [Old Cities Political Order Vertical Slice — V1](../Reference/Old-Cities-Political-Order-Vertical-Slice-V1.md) for the current provisional OC-U / OC-D / OC-C concrete political-order test.
 
 The strongest current structural conclusion is a **competitive city-state system with uneven hinterlands and cross-border functional compacts**.
 
