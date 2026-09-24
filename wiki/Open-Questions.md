@@ -117,7 +117,9 @@ A first functional-governance pass now exists for Stone Hills, North Coast, Low 
 
 [Working Political Geography — V1](Reference/Working-Political-Geography-V1.md) now tests a minimum concrete actor map using temporary IDs. It deliberately keeps Stone Hills and Low Rivers comparatively consolidated while placing required plurality in High Roads, Longwood, Old Cities, North Coast island / harbor politics, Port, and cross-border functional jurisdictions.
 
-The remaining questions are therefore mostly about **political adjacency, actual borders, constitutional implementation, naming, and exact representation**, not about choosing one generic government type for each culture.
+[Political Adjacency and Border-Interface Test — V1](Reference/Political-Adjacency-and-Border-Interface-Test-V1.md) now tests the required actor-to-actor interfaces and distinguishes recognized borders, fuzzy frontiers, route interfaces, functional overlaps, and maritime-use relationships.
+
+The remaining questions are therefore mostly about **border history, exact border placement, constitutional implementation, naming, and exact representation**, not about choosing one generic government type for each culture.
 
 Remaining questions:
 
