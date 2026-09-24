@@ -327,6 +327,25 @@ Remaining questions should now be answered through actual institutions, communit
 - Whether it is one people or a cultural/economic network containing multiple peoples.
 - Seasonal circuits and legal status.
 
+## Three Moons Festival / current chronology
+
+Established:
+
+- Three Moons Festival is Port's largest festival;
+- it occurs once every seven years;
+- the current story is close enough to one for it to affect information, travel, guild activity, and Port capacity;
+- guild centralization makes the festival especially information-rich.
+
+Still open:
+
+- whether the story begins before, during, or immediately after the festival;
+- exact festival duration;
+- exact origin / cosmological basis;
+- which current-event developments are first discovered or compared during the festival;
+- which guilds have the strongest permanent Port presence by this cycle.
+
+---
+
 ## Current events
 
 The structural audit is now complete in [Current Events](Story/Current-Events.md).
