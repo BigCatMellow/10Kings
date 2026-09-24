@@ -336,29 +336,37 @@ Only after those sets pass should their names feed back into polity naming.
 
 ---
 
-# 13. Micro-set result
+# 13. Micro-set follow-up
 
-[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now implements the correction.
+[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) tested the same-cluster comparison idea.
 
-Results:
+It showed that micro-sets can catch or reduce authorial phonological repetition.
 
-- N1 → **Auvor / Orai / Sevu** — pass;
-- R1 → **Daroa / Dasei / Omeda** — strong pass;
-- P1 → **Mesk / Korad / Tavrek** — strong pass.
+However, the follow-up exposed a deeper failure:
 
-The held first-pass candidates are superseded as lexical recommendations:
+> **the project was still inventing opaque words first and inventing one-use lexical roots afterward.**
 
-- Meren → Mesk;
-- Ralen → Daroa;
-- Kelan → Auvor.
+That violates the plain-name / historical-derivation rule in [Naming](../Culture/Naming.md).
 
-They remain in reference history as provenance for the failed isolated-name method.
-
-Retained from the earlier pass:
+Therefore **none of the invented lexical candidates from either pass remain active**:
 
 - Kavel;
 - Varel;
+- Meren;
+- Ralen;
+- Kelan;
 - Naret;
-- Talir.
+- Talir;
+- Auvor;
+- Orai;
+- Sevu;
+- Daroa;
+- Dasei;
+- Omeda;
+- Mesk;
+- Korad;
+- Tavrek.
 
-The naming process is stronger because the failure produced a mechanical comparison gate rather than another reminder to "make names varied."
+The micro-set method survives only as a **later QA tool after real linguistic derivation**.
+
+Grounded common-language forms such as **Port, Last Quay, North Yard, South Yard, and the Yards** are unaffected.
