@@ -799,6 +799,8 @@ This moves him toward the later **withhold** stage.
 
 # 12. Operation 8 — let Port wait
 
+**Approximate timing: late escalation, when commercial/security pressures are already converging and mobilization is becoming plausible.**
+
 This is the operation where his original grievance starts becoming his own sin.
 
 ### Existing pressure
@@ -918,6 +920,8 @@ Now he sits on his own hands because Port's suffering proves his argument.
 ---
 
 # 13. Operation 9 — the evidence package
+
+**Approximate timing: late mobilization / wartime Port crisis, not an early master-plan reveal.**
 
 This is the major public reveal.
 
@@ -1090,6 +1094,10 @@ self-reinforcing bloc fear
 
 ~~~text
 all braids increase Port pressure
+→ commercial restrictions harden
+→ security guarantees / mobilization
+→ war
+→ Port becomes indispensable under wartime pressure
 → Operation 8
 Port waits / alternative network helps
 → Operation 9
@@ -1155,6 +1163,8 @@ That security dilemma is the final self-sustaining domino mechanism.
 ---
 
 # 17. Phase 3 — defensive politics creates the next dominoes
+
+**This section is subordinate to the longer war chain.** These reactions should be distributed across the commercial-protection, security-rule, guarantee, and mobilization stages in [War Escalation Causal Chain — V1](../Reference/War-Escalation-Causal-Chain-V1.md), rather than treated as one sudden post-exposure turn.
 
 After exposure, institutions do not simply "join the rebellion."
 
