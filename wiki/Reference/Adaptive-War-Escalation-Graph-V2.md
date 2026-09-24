@@ -375,7 +375,128 @@ This is where war can become self-sustaining.
 
 ---
 
-# 5. Intervention windows
+# 5. Route redundancy matrix
+
+No single path is required.
+
+## Route R-A — maritime / credit
+
+~~~text
+piracy / maritime insecurity
+→ convoying / risk repricing
+→ Port credit tightening
+→ commercial insecurity
+→ reserve behavior / preferred counterparties
+→ sphere sorting
+~~~
+
+Can fail if:
+
+- piracy declines;
+- shared convoy rules work;
+- Port credit absorbs the losses cheaply.
+
+If contained, other routes can still feed sphere sorting.
+
+---
+
+## Route R-B — food / water
+
+~~~text
+Low Rivers abundance stress
++ Old Cities drought anxiety
+→ long-horizon purchasing
+→ reserve behavior
+→ access anxiety
+→ food guarantees
+→ sphere dependence
+~~~
+
+Can fail if:
+
+- Low Rivers finds stable buyers;
+- Old Cities water outlook improves;
+- stock / contract data remains transparent.
+
+If contained, metal / route pressures can still create strategic guarantees.
+
+---
+
+## Route R-C — roads / Longwood
+
+~~~text
+route damage / banditry
+→ rerouting
+→ bottlenecks / redundancy projects
+→ rights disputes / inspections
+→ armed escorts / chokepoint control
+→ security conversion
+~~~
+
+Can fail if:
+
+- route repair succeeds;
+- Longwood rights negotiation works;
+- trusted joint verification prevents escalation.
+
+If contained, maritime escorts / strategic-material controls can still feed security conversion.
+
+---
+
+## Route R-D — metal / labor
+
+~~~text
+SH-M labor uncertainty
++ advance strategic purchasing
+→ allocation anxiety
+→ export licensing / priority rules
+→ foreign reserve buying
+→ access fear
+→ sphere guarantees
+~~~
+
+Can fail if:
+
+- labor settlement succeeds;
+- allocation becomes transparent;
+- reserves are released.
+
+If contained, food / route / maritime pressures can still create access fear.
+
+---
+
+## Route R-E — Port itself
+
+~~~text
+congestion / repair / aid delay
+→ Port reform pressure
+→ rival fears of privileged influence
+→ competing guarantees / access demands
+→ neutrality stress
+~~~
+
+This route can intensify the political objective without independently producing war.
+
+It becomes especially powerful once other routes have already created security competition.
+
+---
+
+## Redundancy rule
+
+For any critical convergence node:
+
+- reserve behavior;
+- sphere sorting;
+- security conversion;
+- readiness fear;
+
+there should be **at least two plausible feeder routes**.
+
+If a final outline requires one named local event to occur exactly as planned, the graph is too brittle.
+
+---
+
+# 6. Intervention windows
 
 The Villain should not intervene continuously.
 
@@ -429,7 +550,7 @@ Unnecessary action adds risk and evidence.
 
 ---
 
-# 6. Adaptation examples
+# 7. Adaptation examples
 
 ## Example A — maritime branch succeeds unexpectedly well
 
@@ -521,7 +642,7 @@ The Council should sometimes win.
 
 ---
 
-# 7. Failure matrix
+# 8. Failure matrix
 
 Every active branch should be tagged:
 
@@ -541,7 +662,7 @@ A BLACK branch may require:
 
 ---
 
-# 8. War threshold
+# 9. War threshold
 
 War becomes plausible when enough conditions overlap.
 
@@ -561,7 +682,7 @@ This allows multiple plausible final sparks.
 
 ---
 
-# 9. Spark families
+# 10. Spark families
 
 The Villain need not choose the exact final spark in advance.
 
@@ -591,7 +712,7 @@ By the time the graph reaches the war threshold, several of these can plausibly 
 
 ---
 
-# 10. The Villain's actual control
+# 11. The Villain's actual control
 
 He controls:
 
@@ -620,7 +741,7 @@ His control is therefore:
 
 ---
 
-# 11. Author test
+# 12. Author test
 
 For every major story turn ask:
 
