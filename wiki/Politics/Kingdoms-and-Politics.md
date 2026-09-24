@@ -536,7 +536,10 @@ Still open:
 
 # 10. Longwood
 
-See [Longwood](../Regions/Deepwood.md).
+See:
+
+- [Longwood](../Regions/Deepwood.md)
+- [Longwood Functional Governance Test](../Reference/Longwood-Functional-Governance-Test.md)
 
 ## Established
 
@@ -557,31 +560,43 @@ Modern political conflict focuses on:
 - water;
 - roads;
 - hunting;
-- sacred/restricted areas;
+- sacred / restricted areas;
 - border settlement;
 - high-value forest goods;
 - local autonomy.
 
 ## Structural conclusion
 
-Longwood should remain one of the least politically centralized major cultural cores.
+The functional tests support a **decentralized mosaic of local polities and communities** layered with:
 
-That does not mean:
+- use-specific forest rights;
+- towns and trade settlements;
+- specialist / warden networks;
+- corridor compacts;
+- emergency or defense coalitions.
 
-- lawlessness;
-- absence of large settlements;
-- universal tribal government;
-- one forest council.
+Forest rights should not be treated as one ownership bundle.
 
-Different parts may recognize different combinations of authority.
+Residence, cutting, hunting, gathering, passage, water, and restricted-use claims can belong to different actors.
+
+Wardens or similar specialists can possess real expertise and limited authority without becoming a universal forest government.
+
+Longwood can coordinate roads, ecological crises, fire, or defense across several communities without creating one permanent regional state.
+
+This preserves decentralization as a functional political structure rather than lawlessness.
 
 ## Still open
 
-- whether any large regional assembly exists;
-- how much authority wardens possess;
-- whether some districts are hereditary;
-- how cities relate to rural forest communities.
+The tests do not establish:
 
+- number and size of Longwood polities;
+- exact clan political status;
+- warden authority;
+- land and resource tenure;
+- town / countryside relationships;
+- whether any recurring regional gathering exists;
+- exact military coordination;
+- exact Longwood signatories / delegates in the Convergence.
 ---
 
 # 11. Old Cities
