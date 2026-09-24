@@ -1167,4 +1167,11 @@ Current provisional local results:
 - LR-M → **Last Quay** as a commercial exonym;
 - NC-R / HR-N → **North Yard / South Yard / the Yards** as caravan shorthand.
 
-State-level SH-A / NC-M / LR-A names remain intentionally unresolved because their naming sources are not yet earned.
+Additional provisional local / geographic candidates now exist through [Political Name Candidate Tests — V1](Political-Name-Candidate-Tests-V1.md):
+
+- G1 → **Ralen**;
+- NC-M central harbor → **Kelan**;
+- SH-A ruling seat → **Varel**;
+- OC-D → **Talir**.
+
+State-level SH-A / NC-M / LR-A names remain intentionally unresolved. The naming sources now exist, but the history of how each local name became—or did not become—a polity name still needs to be earned.
