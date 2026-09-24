@@ -17,8 +17,10 @@ The names below record the **first lexical test**, not all current dispositions.
 **Current status:**
 
 - Kavel — provisional pass;
-- Meren — **HOLD / first-pass candidate rejected pending a P1 micro-set**;
+- Meren — **superseded first-pass candidate**;
 - Naret — provisional pass.
+
+[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now supplies **Mesk** as the current HR-C provisional candidate inside a tested P1 set.
 
 The small lexical roots exist solely to test these specific places. They are not a reusable dictionary unless later work independently supports them.
 
