@@ -4,6 +4,8 @@
 
 **Working canon at the structural level. Exact language families, language names, scripts, sound systems, and family trees remain open.**
 
+**Current topology test:** [Language and Naming Topology — V1](Reference/Language-and-Naming-Topology-Test-V1.md) now uses abstract W1 / N1 / R1 / P1 / F1 / S1 cluster handles to test the minimum historical continuity and contact structure required by the political map. The IDs are design tools, not language names or promoted family trees.
+
 This page owns the world-level model for:
 
 - language relatedness;
