@@ -2,412 +2,172 @@
 
 ## Status
 
-**Provisional lexical tests — not canon names.**
+**Failed lexical-generation experiment with valid historical naming sources.**
 
-This page applies:
+This page originally generated opaque lexical candidates for several politically important places.
 
-- [Political Naming Source Vertical Slices — V1](Political-Naming-Source-Vertical-Slices-V1.md)
-- [Minimal Naming Profiles — V1](Minimal-Naming-Profiles-V1.md)
-- [Polity and Place Naming Relationship Test — V1](Polity-and-Place-Naming-Relationship-Test-V1.md)
+The lexical candidates are no longer active.
 
-The roots below exist only to test these four naming objects.
-
-They do not create a reusable dictionary.
+The site / naming-source work remains valid.
 
 ---
 
-# 1. G1 river candidate
+# 1. Valid historical sources
 
-## Historical source
+## G1
 
-G1 needs an inherited R1 hydronym older than LR-A.
+The major Low Rivers river should plausibly carry an **old hydronym predating LR-A**.
 
-The original semantic field should be ordinary and river-based.
+That hydronym may later become:
 
-## R1 test roots
+- a basin label;
+- an administrative shorthand;
+- possibly a political name.
 
-For this test only:
+The river itself remains **G1** until its linguistic layer can derive a real inherited form.
 
-- **ral** — broad / principal flowing water;
-- **en** — course / continuing channel.
+## NC-M principal political harbor
 
-Compound:
+The principal mainland political harbor is grounded in:
 
-~~~
-ral + en
-→ Ralen
-~~~
-
-## Candidate
-
-> **Ralen**
-
-Common-language usage:
-
-> the Ralen
-
-### Why it passes provisionally
-
-- compact;
-- fits R1 sound profile;
-- names the river rather than the later polity;
-- can plausibly survive political and language change;
-- usable in derived phrases such as:
-  - Ralen crossing;
-  - Ralen basin;
-  - lower Ralen;
-  - Ralen trade.
-
-### Historical behavior
-
-The original meaning can become opaque.
-
-Later speakers may know **Ralen** only as the proper name of the river.
-
-## Result
-
-**RALEN — PASS AS WORKING V1 HYDRONYM CANDIDATE.**
-
-Not canon.
-
----
-
-# 2. NC-M principal harbor candidate
-
-## Historical source
-
-NC-M's central political seat begins at:
-
-- a well-sheltered mainland inlet / bay;
-- reliable freshwater;
+- sheltered inlet / bay;
+- dependable freshwater;
 - inland road access;
-- later recurring multi-harbor coordination.
+- repeated later defense / convoy / diplomatic meetings.
 
-The oldest name should describe the site, not the later compact.
+Its eventual local name should arise from the older settlement / geography, not from later state power.
 
-## N1 test roots
+## SH-A ruling seat
 
-For this test only:
+The ruling seat is grounded in:
 
-- **kel** — sheltered inlet / protected water;
-- **an** — stream mouth / freshwater outlet.
+- raised ground;
+- confluence / valley junction;
+- access toward several western districts;
+- agricultural / tax value;
+- distinction from the mine-dominated industrial city.
 
-Compound:
+The seat may later lend its name to the central court or polity by metonymy.
 
-~~~
-kel + an
-→ Kelan
-~~~
+## OC-D
 
-## Candidate
+The city-state is grounded in:
 
-> **Kelan**
+- firm / raised lower-basin crossing ground;
+- later irrigation branching;
+- market / legal growth;
+- eventual city-state sovereignty.
 
-### Why it passes provisionally
+The old settlement name should predate its later political role.
 
-- compact N1 form;
-- derived from the founding harbor;
-- does not mean capital, fleet, or crown;
-- can remain the city name regardless of later constitutional change;
-- gives foreign merchants a stable form without forcing all North Coast speech into one standard.
+---
 
-### Political caution
+# 2. Failed lexical forms
 
-Kelan is **not yet NC-M's polity name**.
+The following first-pass forms are **inactive**:
 
-The polity may later be named after:
-
+- Ralen;
 - Kelan;
-- the compact;
-- a ruling office / house;
-- an older mainland territory.
+- Varel;
+- Talir.
 
-## Result
+The later micro-set experiment also produced inactive replacements or neighbors:
 
-**KELAN — PASS AS WORKING V1 CITY CANDIDATE.**
+- Auvor;
+- Orai;
+- Sevu;
+- Daroa;
+- Dasei;
+- Omeda;
+- Mesk;
+- Korad;
+- Tavrek.
 
-Not canon.
+Kavel, Meren, and Naret from the earlier local-name test are inactive as well.
+
+None should be used as current map labels or polity names.
 
 ---
 
-# 3. SH-A ruling-seat candidate
+# 3. Why the lexical forms fail
 
-## Historical source
+Each form was given a plausible semantic story.
 
-SH-A's central seat begins as:
+But the vocabulary was invented for the candidate itself.
 
-- a raised settlement;
-- at / near a confluence or valley junction;
-- able to reach several western districts;
-- not itself dominated by one mine complex.
-
-## W1 test roots
-
-For this test only:
-
-- **var** — joining streams / valley meeting;
-- **el** — settled bank / river-side ground.
-
-The **el** element is the same provisional W1 element already tested in **Kavel**.
-
-Compound:
+That means the process was still:
 
 ~~~
-var + el
-→ Varel
+need a place name
+→ invent a form
+→ invent roots that explain the form
 ~~~
 
-## Candidate
-
-> **Varel**
-
-### Why it passes provisionally
-
-- reuses a W1 element instead of generating unrelated phonetics;
-- site-derived;
-- does not describe royalty or industry;
-- can predate SH-A;
-- leaves room for the ruling house and polity to acquire different names.
-
-### Political caution
-
-Varel is the **seat**, not automatically SH-A's state name.
-
-A composite polity may later be called by:
-
-- Varel as metonymic court / territorial name;
-- ruling-house name;
-- older territorial name.
-
-That requires a separate historical test.
-
-## Result
-
-**VAREL — PASS AS WORKING V1 SEAT CANDIDATE.**
-
-Not canon.
-
----
-
-# 4. OC-D city-state candidate
-
-## Historical source
-
-OC-D begins at:
-
-- a firm / raised lower-basin crossing;
-- beside the river / managed channel;
-- before later irrigation expansion and city-state rivalry.
-
-## S1 test roots
-
-For this test only:
-
-- **tal** — crossing / traversable place;
-- **ir** — firm bank / stable ground beside water.
-
-Compound:
+rather than:
 
 ~~~
-tal + ir
-→ Talir
+existing language/history
+→ ordinary historical phrase/name
+→ inherited modern form
 ~~~
 
-## Candidate
-
-> **Talir**
-
-### Why it passes provisionally
-
-- fits S1 profile;
-- grounded in pre-political site history;
-- distinct in sound from Naret while still compatible with the same broad cluster;
-- current downstream dependence is not encoded retroactively in the name.
-
-### Political relationship
-
-As with Naret:
-
-> city of Talir  
-> city-state of Talir
-
-No second state name is currently necessary.
-
-## Result
-
-**TALIR — STRONG PASS AS WORKING V1 CITY / CITY-STATE CANDIDATE.**
-
-Not canon.
+The second sequence is now mandatory.
 
 ---
 
-# 5. Cross-test
+# 4. What political naming questions remain valid
 
-| Object | Candidate | Historical source | Current political importance intentionally absent |
-| --- | --- | --- | --- |
-| G1 | **Ralen** | broad / principal river course | LR-A statehood / Port trade |
-| NC-M center | **Kelan** | sheltered inlet + freshwater outlet | maritime compact / convoy command |
-| SH-A seat | **Varel** | confluence / settled bank | court / composite state |
-| OC-D | **Talir** | firm lower-basin crossing | downstream water dependency |
+## LR-A
 
-All four pass the central naming test:
+Strongest current mechanism:
 
-> the name would still make sense if current politics changed.
+> old river / basin name → geographic shorthand → administrative usage → common political shorthand
 
----
+The **mechanism** is valid.
 
-# 6. Old Cities pair now becomes usable
+The lexical river name is open.
 
-The S1 shared-water test can now provisionally be discussed as:
+## NC-M
 
-> **Naret ↔ Talir**
+Strongest current mechanism:
 
-instead of:
+> old principal meeting harbor → recurring agreement / compact label → later polity inherits the institutional name
 
-> OC-U ↔ OC-D
+The **mechanism** is valid.
 
-when a human-scale example benefits from local place names.
+The harbor and compact names are open.
 
-The IDs remain preferable in design tables where status clarity matters.
+## SH-A
 
-This is a useful milestone because the water relationship can now be written as a relationship between inhabited places rather than abstract nodes.
+Strongest current mechanism:
 
----
+> ruling seat → "court at [seat]" → external / administrative metonym for the composite polity
 
-# 7. River / polity naming question
+The **mechanism** is valid.
 
-Ralen creates a plausible source for LR-A.
+The seat name is open.
 
-Three models remain possible.
+## OC-D
 
-## A. River-named polity
+The structural default remains:
 
-Common-language political name derives directly from the Ralen.
+> city name = city-state name
 
-Strength:
+unless later history supplies a separate territorial / dynastic label.
 
-- basin-centered state;
-- river is older than polity;
-- geographic coherence.
-
-Risk:
-
-- could imply LR-A controls the entire river.
-
-## B. Seat-named polity
-
-Polity takes its central court / administrative seat name.
-
-Strength:
-
-- common historical pattern.
-
-Weakness:
-
-- LR-A's seat remains underdeveloped.
-
-## C. Separate old territorial name
-
-Strength:
-
-- avoids river/state ambiguity.
-
-Weakness:
-
-- requires another naming source not currently needed.
-
-### Current disposition
-
-**A is the strongest working direction, but do not promote it yet.**
-
-First determine:
-
-- whether significant Ralen headwaters / mouth lie outside LR-A;
-- whether Port residents would resist a state name implying ownership of the river;
-- whether neighboring communities already use the hydronym as a geographic basin label.
+The city name is open.
 
 ---
 
-# 8. Kelan / NC-M naming question
+# 5. Current disposition
 
-Kelan can plausibly lend its name to:
+Use design IDs:
 
-- the central court / government;
-- a compact;
-- the whole polity.
+- G1;
+- NC-M;
+- SH-A;
+- OC-D.
 
-But NC-M's formation from several harbors makes automatic seat-naming risky.
+Use [Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) for the valid **adoption mechanisms**, not for invented lexical recommendations.
 
-### Current disposition
-
-**Keep Kelan as the central city only.**
-
-Develop one short compact-history test before deciding whether outsiders say:
-
-- Kelan;
-- Kelan compact;
-- another mainland territorial name
-
-for NC-M.
-
----
-
-# 9. Varel / SH-A naming question
-
-A composite state commonly can be named after:
-
-- ruling seat;
-- ruling house;
-- older territory.
-
-Varel makes seat-based naming possible.
-
-But SH-A's history specifically emphasizes incorporation of older jurisdictions.
-
-### Current disposition
-
-**Do not automatically make SH-A "Varel."**
-
-A seat-derived state label could be politically controversial.
-
-Older jurisdictions may accept:
-
-> court at Varel
-
-while rejecting:
-
-> we are Varel.
-
-That distinction is valuable.
-
----
-
-# 10. Cross-name QA correction
-
-[Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md) found that **Ralen** and **Kelan** collide too strongly with the wider first-pass naming set.
-
-Their historical naming mechanisms remain useful, but those lexical forms are superseded.
-
-[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now replaces the held forms:
-
-- Kelan → **Auvor** inside the N1 set Auvor / Orai / Sevu;
-- Ralen → **Daroa** inside the R1 set Daroa / Dasei / Omeda;
-- Meren → **Mesk** inside the P1 set Mesk / Korad / Tavrek.
-
-Varel remains provisionally usable because its similarity to Kavel is internally explained by the shared W1 **-el** riverside element.
-
----
-
-# 11. Polity-adoption result
-
-[Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) now retests the state-level naming mechanisms using the micro-set forms.
-
-Working common-language results:
-
-- SH-A → **Varel**, by ruling-seat metonym;
-- NC-M → **the Auvor Compact / Auvor**, by inherited meeting-place / compact naming;
-- LR-A → **Daroa**, by river / basin naming.
-
-These remain provisional reference names rather than final local constitutional titles.
-
-The adoption mechanisms are deliberately different and preserve the underlying political structures.
+Do not resume lexical generation until the relevant language layer can supply reusable vocabulary / morphology independently of the individual place being named.
