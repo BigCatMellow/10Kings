@@ -97,6 +97,7 @@
 - [Language and Naming Topology Test V1](Reference/Language-and-Naming-Topology-Test-V1.md)
 - [Minimal Naming Profiles V1](Reference/Minimal-Naming-Profiles-V1.md)
 - [Settlement Naming Vertical Slices V1](Reference/Settlement-Naming-Vertical-Slices-V1.md)
+- [Settlement Site-History Vertical Slices V1](Reference/Settlement-Site-History-Vertical-Slices-V1.md)
 - [Middle Worldbuilding](Reference/Middle-Worldbuilding.md)
 - [Writing the Sequel](Reference/Writing-the-Sequel.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
