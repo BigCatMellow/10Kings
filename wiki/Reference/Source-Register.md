@@ -212,3 +212,21 @@ The new recipe pages are:
 - [Deepwood Recipes](../Culture/Recipes/Deepwood.md)
 - [Sunplains Recipes](../Culture/Recipes/Sunplains.md)
 - [Neighboring Border Fusion Recipes](../Culture/Recipes/Border-Fusions.md)
+
+
+### 9. 2026-09-24 complete worldbuilding conversation archive
+
+**Preserved source:** [Worldbuilding Conversation — Complete Working Record](../../legacy-notes/2026-09-24/Worldbuilding-Conversation-Complete.md)
+
+Disposition: **conversation provenance / comprehensive source archive.**
+
+This file preserves the full development pass surrounding regional geography, cultural overlap, linguistic tendencies, cuisine, cooking methods, border dishes, flora, ecosystem logic, biological corrections, discarded concepts and unresolved questions.
+
+It intentionally includes both retained and superseded material. It is **not** a competing canonical encyclopedia. Current owner pages remain authoritative.
+
+Use it when:
+
+- a later agent needs to recover why a decision was made;
+- a discarded name or branch may contain useful material;
+- an ecology/recipe claim needs its original reasoning;
+- the live wiki appears to have omitted a concept from this development pass.
