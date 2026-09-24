@@ -571,6 +571,29 @@ A guild hall should reflect what the guild actually does.
 
 ---
 
+## Repair infrastructure
+
+Legacy border-town / military notes repeatedly assume that repair itself can become a public or guild function.
+
+Useful spaces include:
+
+- shared repair yards;
+- tool libraries / shared heavy equipment where plausible;
+- guild or market workshops that traveling craftspeople can rent;
+- wagon / harness repair near caravan yards;
+- boat repair slips near small harbors;
+- smith / carpenter clusters near chokepoints.
+
+These facilities matter most where many travelers use infrastructure they do not personally own.
+
+A settlement at a transfer point can become important because it is the place where:
+
+> **things can be fixed before the next leg of the journey.**
+
+That is often a stronger reason for settlement growth than prestige architecture.
+
+---
+
 # 14. Public buildings
 
 Useful civic structures can include:
