@@ -131,6 +131,8 @@ The comparison passes: similar state-level capacities do not produce identical p
 
 [High Roads Political Order Vertical Slice — V1](Reference/High-Roads-Political-Order-Vertical-Slice-V1.md) adds a stronger test: HR-N / HR-W / HR-C can coordinate serious external politics through a **polycentric route order without a superior High Roads state**.
 
+[Old Cities Political Order Vertical Slice — V1](Reference/Old-Cities-Political-Order-Vertical-Slice-V1.md) tests a separate plural model: sovereign OC-U / OC-D / OC-C city-states can maintain durable delegated water / defense / trade institutions without those institutions becoming a federation.
+
 The remaining questions are therefore mostly about **future concrete polity slices, exact border placement, naming, succession details, and exact representation**, not about choosing one generic government type for each culture.
 
 Remaining questions:
