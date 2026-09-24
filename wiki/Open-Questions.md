@@ -135,7 +135,11 @@ The comparison passes: similar state-level capacities do not produce identical p
 
 [Longwood Political Order Vertical Slice — V1](Reference/Longwood-Political-Order-Vertical-Slice-V1.md) closes the major-core pass: LW-W / LW-I / LW-S form a layered jurisdictional mosaic whose local territorial authority overlaps with use-specific rights and specialist networks.
 
-**Political-order V1 milestone:** all six major cultural cores now have tested, deliberately non-symmetric political structures, while Port retains its separate detailed neutrality / city-polity model. The next design gate is naming and identity history for the V1 actors and settlements; exact constitutions remain open unless a later story/history test requires them.
+**Political-order V1 milestone:** all six major cultural cores now have tested, deliberately non-symmetric political structures, while Port retains its separate detailed neutrality / city-polity model.
+
+Naming / identity work is now underway through [Language and Naming Topology — V1](Reference/Language-and-Naming-Topology-Test-V1.md), [Minimal Naming Profiles — V1](Reference/Minimal-Naming-Profiles-V1.md), and [Neighboring Name Pressure Test — V1](Reference/Neighboring-Name-Pressure-Test-V1.md). The first lexical QA pass deliberately demoted Meren / Ralen / Kelan for excessive cross-cluster similarity and added a mandatory same-cluster micro-set test before future local names can pass.
+
+Exact constitutions remain open unless a later story/history test requires them.
 
 The remaining questions are therefore mostly about **future concrete polity slices, exact border placement, naming, succession details, and exact representation**, not about choosing one generic government type for each culture.
 
