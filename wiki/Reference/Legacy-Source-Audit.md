@@ -256,7 +256,7 @@ Preferred examples:
 - Volume 12 for additional grounded domino seeds;
 - Volume 14 for research routing, followed by original sources.
 
-The archive is therefore **not cold**, but it is no longer an unresolved backlog.
+The archive is therefore **not cold**. Its first structural backlog was resolved, but the V2 source-level pass remains an active salvage layer for details and mechanisms that were compressed or missed.
 
 ---
 
