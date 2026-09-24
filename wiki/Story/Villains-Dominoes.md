@@ -193,7 +193,13 @@ The plan now uses **distinct operational crafts** rather than repeating "leak in
 
 These operations overlap in time.
 
-These are **intervention families**, not the complete domino count.
+These are **intervention families**, not mandatory operations and not the complete domino count.
+
+Some may never be used in the final chronology.
+
+Some may be attempted and fail.
+
+Some may become unnecessary because the world reaches the same pressure state by another route.
 
 The actual causal field is much denser; see [Adaptive War Escalation Graph — V2](../Reference/Adaptive-War-Escalation-Graph-V2.md).
 
@@ -201,7 +207,7 @@ The numbering below reflects different Villain capabilities, not nine giant step
 
 ---
 
-## Operation 1 — bias maritime confidence
+## Intervention Family 1 — bias maritime confidence
 
 ### Existing pressure
 
@@ -295,7 +301,7 @@ The first deliberately facilitated raid is a meaningful escalation.
 
 ---
 
-# 7. Operation 2 — turn risk into a Port credit squeeze
+# 7. Intervention Family 2 — turn risk into a Port credit squeeze
 
 ### Existing pressure
 
@@ -377,7 +383,7 @@ But he is knowingly making ordinary cargo less movable to create political press
 
 ---
 
-# 8. Operation 3 — build the distress-purchase alternative
+# 8. Intervention Family 3 — build the distress-purchase alternative
 
 ### Existing pressure
 
@@ -481,7 +487,7 @@ Not every domino should be villainous.
 
 ---
 
-# 9. Operation 4 — shift High Roads confidence
+# 9. Intervention Family 4 — shift High Roads confidence
 
 ### Existing pressure
 
@@ -565,7 +571,7 @@ He is no longer merely curating truth.
 
 ---
 
-# 10. Operation 5 — weaponize the Longwood concession
+# 10. Intervention Family 5 — weaponize the Longwood concession
 
 ### Existing pressure
 
@@ -655,7 +661,7 @@ He knowingly removes context in order to make a real abuse look broader / simple
 
 ---
 
-# 11. Operation 6 — make Old Cities cooperation frighten its neighbors
+# 11. Intervention Family 6 — make Old Cities cooperation frighten its neighbors
 
 ### Existing pressure
 
@@ -736,7 +742,7 @@ The Villain is deliberately maintaining a conflict that could otherwise be solve
 
 ---
 
-# 12. Operation 7 — strategic metal priority
+# 12. Intervention Family 7 — strategic metal priority
 
 ### Existing pressure
 
@@ -837,7 +843,7 @@ This moves him toward the later **withhold** stage.
 
 ---
 
-# 13. Operation 8 — let Port wait
+# 13. Intervention Family 8 — let Port wait
 
 **Approximate timing: late escalation, when commercial/security pressures are already converging and mobilization is becoming plausible.**
 
@@ -959,7 +965,7 @@ Now he sits on his own hands because Port's suffering proves his argument.
 
 ---
 
-# 14. Operation 9 — the evidence package
+# 14. Intervention Family 9 — the evidence package
 
 **Approximate timing: late mobilization / wartime Port crisis, not an early master-plan reveal.**
 
@@ -1101,23 +1107,23 @@ The operations still form the same broad braids.
 ## Maritime / finance / food / labor
 
 ~~~text
-Operation 1
+Intervention Family 1
 maritime confidence
-→ Operation 2
+→ Intervention Family 2
 Port credit tightening
-→ Operation 3
+→ Intervention Family 3
 Low Rivers distress / alternative buying
-→ Operation 7
+→ Intervention Family 7
 strategic metal / labor / Port repair priority
 ~~~
 
 ## Route / infrastructure / rights
 
 ~~~text
-Operation 4
+Intervention Family 4
 High Roads confidence shift
 → demand for redundancy
-→ Operation 5
+→ Intervention Family 5
 Longwood concession crisis
 ~~~
 
@@ -1126,7 +1132,7 @@ Longwood concession crisis
 ~~~text
 existing drought anxiety
 → useful OC-U / OC-D cooperation
-→ Operation 6
+→ Intervention Family 6
 self-reinforcing bloc fear
 ~~~
 
@@ -1138,9 +1144,9 @@ all braids increase Port pressure
 → security guarantees / mobilization
 → war
 → Port becomes indispensable under wartime pressure
-→ Operation 8
+→ Intervention Family 8
 Port waits / alternative network helps
-→ Operation 9
+→ Intervention Family 9
 evidence package
 → Port settlement crisis
 ~~~
