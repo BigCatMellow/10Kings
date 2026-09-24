@@ -14,6 +14,8 @@ It deliberately separates:
 
 The purpose is not to make a pretty final map. It is to discover whether one actual arrangement can satisfy the world's trade, ecology, borders, and story pressures without contradiction.
 
+**Political overlay test:** [Working Political Geography — V1](Working-Political-Geography-V1.md) now places the minimum currently required political actors and functional jurisdictions onto this network without treating cultural regions as states.
+
 ## Visual draft
 
 ![Working rough map V1](Working-Map-v1.svg)
