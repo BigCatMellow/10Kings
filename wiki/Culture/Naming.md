@@ -261,4 +261,12 @@ See [Language History and Naming Audit](../Reference/Language-History-and-Naming
 
 [Local Name Candidate Tests — V1](../Reference/Local-Name-Candidate-Tests-V1.md) produced the first lexical candidates from those site histories.
 
-[Neighboring Name Pressure Test — V1](../Reference/Neighboring-Name-Pressure-Test-V1.md) then caught excessive cross-cluster similarity and now acts as a mandatory QA gate. Current lexical status: **Kavel** and **Naret** remain provisional passes; **Meren**, **Ralen**, and **Kelan** are on hold pending same-cluster micro-set tests; **Varel** and **Talir** remain provisional passes.
+[Neighboring Name Pressure Test — V1](../Reference/Neighboring-Name-Pressure-Test-V1.md) then caught excessive cross-cluster similarity and now acts as a mandatory QA gate.
+
+[N1 / R1 / P1 Naming Micro-Sets — V1](../Reference/N1-R1-P1-Naming-Microsets-V1.md) implements that gate and replaces the held first-pass forms with tested sets:
+
+- N1 — **Auvor / Orai / Sevu**;
+- R1 — **Daroa / Dasei / Omeda**;
+- P1 — **Mesk / Korad / Tavrek**.
+
+Kavel / Varel and Naret / Talir remain provisional passes from W1 / S1. Meren / Ralen / Kelan remain only as QA provenance and should not be revived as active candidates without new evidence.
