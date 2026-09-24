@@ -2,7 +2,11 @@
 
 ## Status
 
-**Active author-side causal proof / story architecture.**
+**Superseded as active planning model; retained as causal-proof provenance.**
+
+The active model is [Adaptive War Escalation Graph — V2](Adaptive-War-Escalation-Graph-V2.md).
+
+V1 remains useful because it proved there is a no-leap route from small current events to war. Its design flaw was treating that retrospective route too much like a sequence the Villain could predict prospectively.
 
 This page exists to answer one question:
 
