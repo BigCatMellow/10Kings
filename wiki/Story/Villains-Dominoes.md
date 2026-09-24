@@ -8,7 +8,9 @@ This page owns the Villain's current domino plan.
 
 The older six-character / one-per-region domino model is superseded.
 
-[Grounded Domino Design Method](../Reference/Grounded-Domino-Design.md) remains the method reference.
+[Grounded Domino Design Method](../Reference/Grounded-Domino-Design.md) remains the causal method reference.
+
+[Domino Operation Design — V1](../Reference/Domino-Operation-Design-V1.md) adds the Blacklist-informed operation test: each major domino needs a distinctive craft, visible explanation, evidence residue, failure mode, and moral threshold.
 
 [Current Events](Current-Events.md) owns what is actually happening in the world now.
 
@@ -135,403 +137,953 @@ His intelligence lies in seeing that they can be connected.
 
 ---
 
-# 5. Braid A — maritime / finance / food / labor
+# 5. The active operations
 
-## Domino A1 — make maritime risk politically expensive
+The plan now uses **distinct operational crafts** rather than repeating "leak information and cause anger."
 
-Starting condition:
+These operations overlap in time.
+
+The numbering reflects strategic function, not a rigid chapter order.
+
+---
+
+## Operation 1 — bias maritime confidence
+
+### Existing pressure
 
 - real piracy;
-- fishery conflict;
-- NC-M pressure to coordinate defense.
+- shifting fish access;
+- NC-M pressure for more coordinated defense;
+- harbor / NC-I disagreement over cost and obligation.
 
-Villain push:
+### Desired next condition
 
-- selected threat information;
-- perhaps one redirected / financed attack later;
-- encourage confidence in the claim that wider convoy restrictions are necessary.
+NC-M adopts or seriously considers a more restrictive convoy / patrol regime that:
 
-Expected rational response:
+- delays some shipping;
+- raises costs;
+- activates NC-I / harbor constitutional arguments;
+- makes Port price maritime risk more aggressively.
 
-- NC-M expands convoy / patrol coordination;
-- harbor interests resist delay / cost;
-- NC-I disputes obligations or levy terms.
+### Distinctive craft
 
-Strategic result:
+**Route-intelligence manipulation + conflict brokerage.**
 
-- maritime security becomes a constitutional issue rather than just a policing issue.
+The Villain does not invent a pirate fleet.
+
+He manipulates what decision-makers believe about:
+
+- which lanes are most dangerous;
+- whether independent sailing is still tolerable;
+- how imminent the next major loss is.
+
+### Minimal push
+
+Early version:
+
+- pay for unusually fast collection of genuine raid reports;
+- ensure alarming reports reach convoy advocates first;
+- delay or bury reports showing some lanes are safer than feared;
+- pass accurate warnings to selected captains so later losses appear to validate his intelligence.
+
+Escalated version:
+
+- quietly provide route information to an existing raider / pirate contact so one politically useful unescorted target becomes easier to hit.
+
+That escalation should occur only after he has already crossed from bias into endangerment.
+
+### Visible story
+
+> piracy is worsening and the coast is finally taking it seriously.
+
+That interpretation is substantially true.
+
+### Independent beneficiaries
+
+- convoy advocates;
+- shipowners positioned to profit from organized escorts;
+- some security providers;
+- political actors who wanted stronger NC-M coordination anyway.
+
+### Evidence residue
+
+Not a decorative calling card.
+
+Possible recurring clues:
+
+- several "independent" threat reports use the same unusual route-confidence language;
+- one information broker appears in the chain more than once;
+- a warning arrives implausibly quickly through a network later seen elsewhere;
+- one raider possessed unusually current commercial route knowledge.
+
+### Human cost
+
+- crews on marginal routes;
+- small shippers unable to absorb convoy delay;
+- island / harbor households paying higher prices.
+
+### Wurdren entry
+
+A survivor, missing crew, disputed cargo, or family seeking someone from a ship that sailed outside the new convoy pattern.
+
+### Failure mode
+
+- piracy naturally declines;
+- harbors reject the convoy rule;
+- the key raid fails;
+- independent sailors adapt better than expected.
+
+### Moral threshold
+
+At first he is only biasing interpretation of real danger.
+
+The first deliberately facilitated raid is a meaningful escalation.
 
 ---
 
-## Domino A2 — let Port transmit the shock
+# 6. Operation 2 — turn risk into a Port credit squeeze
 
-Starting condition:
+### Existing pressure
 
-- losses / delay;
-- convoy uncertainty.
+- shipping loss;
+- convoy delay;
+- Port lenders / merchants repricing risk;
+- warehouses becoming cautious.
 
-No direct Villain command is required.
+### Desired next condition
 
-Port actors respond:
+Make a **small but strategically chosen** set of voyages / purchases lose financing at the same time.
 
-- risk terms rise;
-- credit shortens;
-- marginal voyages are delayed;
-- warehouses / merchants become cautious.
+He does not need a total credit crash.
 
-Council-linked Finance / Routes interests may selectively stabilize important clients.
+He needs cancellations that transmit maritime stress into:
 
-Strategic result:
+- Low Rivers purchasing;
+- Port warehouse pressure;
+- local employment / freight.
 
-> a North Coast security problem becomes a Port credit problem.
+### Distinctive craft
+
+**Market / credit engineering.**
+
+This is the current-world descendant of the old Tax Collector / Merchant King / Coin Gambler style of antagonist design.
+
+### Minimal push
+
+Through brokers / allied merchants:
+
+- decline renewal on several marginal letters of credit;
+- buy or reserve scarce transport / storage at a critical moment;
+- circulate accurate loss figures to lenders already inclined to tighten terms;
+- offer replacement credit only to selected counterparties willing to use his alternate channels.
+
+No forged disaster is necessary.
+
+### Visible story
+
+> lenders are finally reacting to bad maritime conditions.
+
+Also substantially true.
+
+### Independent beneficiaries
+
+- cautious lenders;
+- larger merchants able to survive tighter credit;
+- warehouse owners;
+- rivals of merchants who lose financing.
+
+### Evidence residue
+
+- unrelated cancellations clustered around the same intermediaries;
+- matching clauses in contracts from supposedly separate lenders;
+- replacement credit appearing unusually quickly through the Villain's network.
+
+### Human cost
+
+- dock labor loses work;
+- small merchants fail;
+- essential but low-margin cargo is postponed.
+
+### Wurdren entry
+
+A shipment ordinary people actually need cannot move because the cargo exists but the credit does not.
+
+### Failure mode
+
+- another lender fills the gap;
+- Port institutions create emergency credit;
+- merchants absorb the higher rate;
+- maritime risk falls before the squeeze spreads.
+
+### Moral threshold
+
+He is still manipulating capital rather than directly creating physical danger.
+
+But he is knowingly making ordinary cargo less movable to create political pressure.
 
 ---
 
-## Domino A3 — collide Port tightening with Low Rivers abundance
+# 7. Operation 3 — build the distress-purchase alternative
 
-Starting condition:
+### Existing pressure
 
-- oversupply;
+- Low Rivers abundance;
 - full storage;
-- producer debt.
+- falling prices;
+- farm / merchant debt;
+- weaker distant demand after Port tightening.
 
-Port / trade shock reduces or delays some distant purchases.
+### Desired next condition
 
-Expected response:
+Create two things at once:
 
-- prices fall further;
-- merchants refuse marginal cargo;
-- defaults rise;
-- land / debt consolidators appear.
+1. visible anger at Council-linked / large-scale debt and land consolidation;
+2. a direct producer-to-Port network that proves distressed producers have an alternative buyer.
 
-Villain push:
+### Distinctive craft
 
-- support a distressed-buyer alternative in selected places;
-- release evidence linking some consolidators / lenders to Council-associated houses;
-- amplify true cases where emergency support favors systemically important clients.
+**Market intervention + logistics substitution.**
 
-Strategic result:
+This operation is unusual because much of it is genuinely helpful.
 
-> a successful harvest becomes evidence of political dispossession.
+### Minimal push
+
+The Villain's network can:
+
+- buy selected distressed cargo above ruin price but below normal price;
+- rent minor storage;
+- use smaller carriers;
+- move goods through secondary connections;
+- arrange direct contracts between producers and Port buyers;
+- help a few cooperatives refinance outside dominant lenders.
+
+At the same time he acquires / publicizes genuine records of:
+
+- debt purchases;
+- foreclosure;
+- land acquisition;
+- emergency support favoring systemically important firms.
+
+### Visible story
+
+To supporters:
+
+> someone finally bought our crop when the established houses would not.
+
+To opponents:
+
+> an unknown network is buying influence among distressed producers.
+
+Both can be true.
+
+### Independent beneficiaries
+
+- farmers;
+- small merchants;
+- carriers outside dominant routes;
+- Port consumers receiving cheaper goods;
+- local reformers.
+
+### Evidence residue
+
+The alternative network itself is the residue:
+
+- repeated direct contracts;
+- warehouses;
+- carriers;
+- informal credit relationships.
+
+This is not evidence of a crime.
+
+It is evidence that the movement was building capacity before the political break.
+
+### Human cost
+
+Initially limited.
+
+The danger comes if he later chooses political timing over the welfare of producers who now depend on his network.
+
+### Wurdren entry
+
+A household / cooperative is trying to get paid for real goods and must choose between:
+
+- an established buyer offering ruinous terms;
+- an unfamiliar buyer tied to the Villain's network.
+
+### Failure mode
+
+- established merchants improve terms;
+- local cooperatives organize independently;
+- LR-A intervenes effectively;
+- the alternative network refuses political loyalty.
+
+### Moral threshold
+
+This operation can remain morally defensible.
+
+That is useful.
+
+Not every domino should be villainous.
 
 ---
 
-## Domino A4 — transmit the crisis into SH-M
+# 8. Operation 4 — shift High Roads confidence
 
-Starting condition:
+### Existing pressure
 
-- SH-M labor grievances;
-- ordinary orders weaken;
-- strategic metal demand remains opaque.
-
-Villain push:
-
-- time strike support / evidence release;
-- redirect a small volume of high-quality metal through suspicious private contracts;
-- expose real Council-linked purchasing where useful.
-
-Expected response:
-
-- SH-A investigates;
-- mine owners seek order;
-- guild factions split;
-- export / inspection pressure rises.
-
-Strategic result:
-
-> workers can reasonably believe "ordinary people are being cut back while hidden buyers still receive strategic production."
-
-The labor dispute is now connected to the same hidden coordination story as Low Rivers.
-
----
-
-# 6. Braid B — route confidence / infrastructure / Longwood rights
-
-## Domino B1 — break confidence, not every road
-
-Starting condition:
-
-- real banditry / disappearances;
-- fragmented High Roads governance.
-
-Villain push:
-
-- a few selected incidents;
-- selective accurate warnings;
-- confidence manipulation around one or more routes.
-
-Expected response:
-
-- caravans reroute;
-- corridor authorities argue;
-- HR-C-like arbitration functions face more disputes;
-- bypassed places lose income.
-
-Strategic result:
-
-> security uncertainty changes the economic map without conquering territory.
-
----
-
-## Domino B2 — force a redundancy project
-
-Starting condition:
-
-- concentrated traffic;
-- damaged routes;
+- real banditry;
+- disappearances;
+- fragmented route governance;
 - Spine / Underpass disruption.
 
-Expected response:
+### Desired next condition
 
-- polities;
-- corridor compacts;
-- merchants;
-- Council-linked Routes / Infrastructure interests
+Move enough traffic away from one corridor that:
 
-seek an alternate connection.
+- a bypassed jurisdiction loses revenue;
+- another corridor becomes congested;
+- emergency redundancy / repair becomes politically urgent.
 
-The exact project remains map-dependent.
+### Distinctive craft
 
-It may involve:
+**Route intelligence + document manipulation.**
 
-- repair;
-- widening;
-- a forest-edge connector;
-- a secondary river-road link;
-- an Underpass stabilization.
+### Minimal push
 
-Strategic result:
+Use specialists to create a **confidence difference**, not a fake apocalypse.
 
-> a route problem becomes an infrastructure / land-rights problem.
+Possible mechanisms:
+
+- authentic closure notice delivered late;
+- one copied route seal on an otherwise plausible advisory;
+- contradictory guide reports;
+- a real attack publicized widely while a comparable safe passage goes unreported;
+- cargo insurers / merchants given different risk assessments.
+
+### Visible story
+
+> one route has become unreliable and merchants are doing the sensible thing.
+
+### Independent beneficiaries
+
+- rival route towns;
+- carriers already operating on the "safe" corridor;
+- toll authorities;
+- guides / security providers.
+
+### Evidence residue
+
+A grounded document signature:
+
+- copied seal defect;
+- repeated phrasing;
+- same courier / scribe;
+- unusual date convention;
+- two authenticated-looking notices that cannot both be true.
+
+This is where the old forged-record / Caravan Phantom mechanisms become useful without importing the old character.
+
+### Human cost
+
+- bypassed workers / inns / stables;
+- stranded cargo;
+- travelers taking longer routes;
+- higher prices.
+
+### Wurdren entry
+
+A town has lost traffic so suddenly that people assume political punishment or conspiracy.
+
+He can discover that the route danger was real, but the **confidence picture** was manipulated.
+
+### Failure mode
+
+- merchants compare reports directly;
+- alternate corridor cannot absorb traffic;
+- local guides publicly contradict the warning;
+- HR-C / corridor arbitration authenticates the records fast enough.
+
+### Moral threshold
+
+Limited forgery / deliberate information distortion enters the plan.
+
+He is no longer merely curating truth.
 
 ---
 
-## Domino B3 — make Longwood the cost bearer
+# 9. Operation 5 — weaponize the Longwood concession
 
-Starting condition:
+### Existing pressure
 
+- need for route redundancy;
+- Longwood ecological stress;
 - layered use rights;
-- external demand for timber / passage;
-- ecological stress.
+- outside demand for passage / timber / repair materials.
 
-A legally plausible project crosses rights no single authority completely controls.
+### Desired next condition
 
-Villain push:
+Turn a practical redundancy project into proof that:
 
-- leak the broad concession;
-- omit or delay limiting terms;
-- help affected communities coordinate before outside parties have reached a final settlement.
+> distant commercial interests can override local rights whenever the wider system is inconvenienced.
 
-Expected response:
+### Distinctive craft
 
-- LW-W / LW-I / LW-S or local communities invoke different rights;
-- specialists / wardens issue warnings;
-- outside actors demand reliability;
-- route security may become militarized.
+**Contract theft + selective disclosure.**
 
-Strategic result:
+This is the strongest grounded descendant of the old Glass Sculptor / Chain Broker style.
 
-> "necessary resilience" becomes evidence that distant interests decide which local rights are expendable.
+### Minimal push
+
+A real agreement exists among some combination of:
+
+- local authority;
+- contractor;
+- merchant;
+- route interest;
+- Council-linked finance.
+
+The Villain obtains the broad authorization but withholds:
+
+- limiting annexes;
+- compensation schedule;
+- ecological restrictions;
+- sunset clause;
+- unresolved-rights language.
+
+He releases the document to the people most likely to be affected **before** the final local implementation dispute is settled.
+
+### Visible story
+
+> outsiders secretly sold rights they never owned.
+
+That interpretation can be partly correct even after the missing documents appear.
+
+### Independent beneficiaries
+
+- local politicians opposing the project;
+- rival contractors;
+- rights-holders seeking leverage;
+- activists who genuinely oppose the route.
+
+### Evidence residue
+
+The missing piece itself.
+
+Later clues:
+
+- page numbering gap;
+- seal / witness list referring to an attachment;
+- accounting entries for compensation nobody saw;
+- a clerk who remembers copying two versions.
+
+### Human cost
+
+- confrontations at work sites;
+- delayed route repairs;
+- communities divided over whether negotiation equals surrender.
+
+### Wurdren entry
+
+Recover an original annex, find the clerk / courier, or prevent a confrontation long enough for competing rights-holders to compare documents.
+
+### Failure mode
+
+- full contract is published immediately;
+- project sponsors negotiate directly with affected communities;
+- Longwood institutions agree on a narrow route solution;
+- affected communities oppose the project even with full context.
+
+That last failure matters: the Villain should not always be wrong about the underlying grievance.
+
+### Moral threshold
+
+He knowingly removes context in order to make a real abuse look broader / simpler than it is.
 
 ---
 
-# 7. Braid C — water cooperation / bloc anxiety
+# 10. Operation 6 — make Old Cities cooperation frighten its neighbors
 
-## Domino C1 — support the thing rivals already fear
-
-Starting condition:
+### Existing pressure
 
 - drought anxiety;
-- OC-U / OC-D shared water dependency.
+- shared water infrastructure;
+- OC-U / OC-D need for technical cooperation;
+- OC-C suspicion of durable coordination.
 
-Expected response:
+### Desired next condition
 
-- technical coordination;
-- repairs;
-- gate / warning agreements;
-- emergency planning.
+Create **defensive political behavior** around a bloc that does not yet fully exist.
 
-Villain action:
+### Distinctive craft
 
-- no sabotage required;
-- perhaps quietly help communication succeed.
+**Conflict brokerage.**
 
-Why?
+This is the useful core of the old Iron Duke / Gavel of War / Ebony Doves mechanism:
 
-Because successful cooperation can itself become threatening.
+> help both sides respond rationally to each other until the response creates the threat.
 
-Strategic result:
+### Minimal push
 
-> a useful functional institution becomes politically more visible.
+The Villain's intermediaries do not need to invent an alliance.
 
----
+They can:
 
-## Domino C2 — expose the hidden sponsors
+- help OC-U / OC-D meetings succeed;
+- sell or pass accurate meeting information to OC-C;
+- arrange commercial guarantees for one side;
+- warn another actor that those guarantees alter the balance;
+- offer mediation / security advice that assumes a more durable bloc than currently exists.
 
-Council-linked interests prefer stability.
+### Visible story
 
-They may:
+OC-U / OC-D:
 
-- finance repair;
-- guarantee contracts;
-- quietly pressure compromise;
-- coordinate shipping / purchases around expected water conditions.
+> we are coordinating water because we have to.
 
-Villain push:
+OC-C:
 
-- publish selected records showing repeated Council-linked involvement.
+> they are building permanent machinery under cover of water coordination.
 
-Expected response:
+Both interpretations become more plausible with every defensive response.
 
-- OC-C / rivals seek guarantees;
-- defensive trade / security arrangements expand;
-- proponents of cooperation deny bloc ambitions.
+### Independent beneficiaries
 
-Strategic result:
+- mediators;
+- security providers;
+- rival merchant houses;
+- political factions seeking stronger city-state alignment.
 
-> everyone begins taking precautions against a bloc that may not originally have existed.
+### Evidence residue
 
----
+- same broker appears around supposedly opposing precautionary agreements;
+- identical risk assumptions in contracts on both sides;
+- one intermediary profits whether cooperation succeeds or fails.
 
-## Domino C3 — reaction makes the accusation partially true
+### Human cost
 
-Once rivals:
+- trade restrictions;
+- patrol tension;
+- delayed water agreements;
+- greater price volatility.
 
-- form counter-arrangements;
-- change patrols;
-- secure suppliers;
-- coordinate diplomatically;
+### Wurdren entry
 
-OC-U / OC-D have new reasons to cooperate more broadly.
+A technical water dispute becomes impossible because the engineers / water officials are suddenly being treated as geopolitical actors.
 
-Strategic result:
+### Failure mode
 
-> interpretation creates structure.
+- OC-U / OC-D publish the narrow scope of cooperation early;
+- OC-C participates as observer;
+- technical institutions stay visibly separated from broader diplomacy.
 
-The Villain's best domino is often a self-fulfilling political expectation.
+### Moral threshold
 
----
-
-# 8. Hidden braid — alternative logistics
-
-The Spine / Underpass disruption gives the Villain a chance to expand non-Council circulation.
-
-He does not need to own the Underpass.
-
-He needs relationships with people who can move:
-
-- small high-value cargo;
-- documents;
-- people;
-- emergency supplies;
-- information
-
-through routes larger institutions treat as marginal.
-
-At the same time his movement can support surface alternatives:
-
-- guild mutual aid;
-- faith relief;
-- direct producer-buyer contracts;
-- local credit;
-- independent warehouses;
-- secondary merchants.
-
-This braid is not a crisis chain.
-
-It is the **replacement-capacity chain**.
-
-Without it, the Villain can only destroy.
-
-With it, he can claim to offer another order.
+The Villain is deliberately maintaining a conflict that could otherwise be solved because unresolved suspicion is more useful to his Port campaign.
 
 ---
 
-# 9. Convergence point — Port needs help while everyone needs Port
+# 11. Operation 7 — strategic metal priority
 
-The braids converge when several pressures hit Port at once:
+### Existing pressure
 
-- shipping risk;
+- SH-M labor grievances;
+- unusual high-quality metal movement;
+- wider demand for repair / security materials;
+- Port infrastructure pressure.
+
+### Desired next condition
+
+Create a visible contrast:
+
+> ordinary Port / civilian repair waits while strategic commercial / security contracts still receive scarce material.
+
+### Distinctive craft
+
+**Procurement timing + selective contract exposure.**
+
+### Minimal push
+
+He does not need to control Stone Hills production.
+
+He needs to know enough about:
+
+- schedules;
+- grades;
+- buyers;
+- transport;
+- labor negotiations
+
+to make several legitimate priorities collide.
+
+Possible moves:
+
+- acquire a small strategic lot through intermediaries;
+- accelerate one private contract;
+- delay disclosure of an emergency Port order;
+- fund publication of records showing Council-linked priority purchasing;
+- time a worker safety / wage disclosure to the same week.
+
+### Visible story
+
+Workers:
+
+> there is always metal for hidden buyers.
+
+Port residents:
+
+> there is always money for commerce, never for us.
+
+SH-A / buyers:
+
+> these contracts were necessary to keep trade / security functioning.
+
+Each statement can contain truth.
+
+### Independent beneficiaries
+
+- strategic buyers;
+- brokers;
+- political factions favoring export restriction;
+- labor factions seeking leverage.
+
+### Evidence residue
+
+- serial cargo / warehouse records;
+- matching contract dates;
+- priority clauses;
+- the same financing network appearing in both procurement and Port stabilization.
+
+### Human cost
+
+- delayed repairs;
+- reduced ordinary work;
+- strike escalation;
+- possible unsafe substitution.
+
+### Wurdren entry
+
+A needed repair / tool / structural component exists but is contractually committed elsewhere.
+
+The local question is:
+
+> who is allowed to break the contract, and who pays?
+
+### Failure mode
+
+- SH-A releases reserves;
+- Port finds substitute material;
+- labor settlement occurs before the timing matters;
+- the strategic buyer voluntarily yields priority.
+
+### Moral threshold
+
+He begins treating Port hardship itself as evidence he may be willing to prolong.
+
+This moves him toward the later **withhold** stage.
+
+---
+
+# 12. Operation 8 — let Port wait
+
+This is the operation where his original grievance starts becoming his own sin.
+
+### Existing pressure
+
+Port is already carrying:
+
 - credit stress;
-- warehouse / cargo disruption;
+- rerouted cargo;
 - refugee / worker pressure;
-- demand for repair / security;
-- Low Rivers market instability;
-- route substitution;
-- diplomatic suspicion among outside powers.
+- warehouse congestion;
+- repair burden;
+- higher security demand.
 
-Port needs faster action.
+A significant but plausible harbor-capacity emergency occurs.
 
-But its neutrality makes major assistance politically complicated.
+The exact event can be finalized later, but the strongest current form is:
 
-Possible public debates include:
+> **a major quay / transfer facility becomes unusable after overload, deferred repair, accident, fire damage, or a combination of ordinary stresses.**
 
-- who may send armed escorts;
-- who funds harbor protection;
-- whether emergency loans create foreign leverage;
-- whether one guarantor can act without the others;
-- whether Port may change fees or revenue rules;
-- whether exceptional local powers violate the neutrality settlement.
+The Villain does **not** need to cause the initial failure.
 
-At the same time the Council sees the wider systemic interaction and can coordinate privately through commercial networks.
+### Desired next condition
 
-That is the Villain's desired contrast:
+Make the political response demonstrate:
 
-> **Port waits for permission while the hidden system moves because trade cannot wait.**
+- Port needs rapid material / financial / possibly security assistance;
+- public outside action is delayed by neutrality / precedent / cost-sharing;
+- private Council-linked coordination moves faster to preserve essential trade flows.
 
-He is waiting for that contrast to become documentable.
+### Distinctive craft
+
+**Withholding + replacement capacity.**
+
+This is where the alternative network built in Phase 0 becomes narratively crucial.
+
+### Minimal push
+
+At first, none.
+
+He simply documents the delay and helps locally.
+
+Then he crosses the line.
+
+He learns that one intervention could materially shorten the crisis:
+
+- a shipment;
+- a specialist crew;
+- a line of credit;
+- a warehouse;
+- a repair component;
+- a safe secondary route.
+
+He delays or conditions that help long enough for the public contrast to sharpen.
+
+### Visible story
+
+Port residents see:
+
+- meetings;
+- arguments;
+- conditions;
+- slow outside commitments;
+- private merchants already reorganizing cargo.
+
+Then the Villain's network appears with:
+
+- food;
+- work;
+- temporary storage;
+- alternative carriage;
+- repair help.
+
+### Independent beneficiaries
+
+- Port workers / households who genuinely receive help;
+- secondary merchants;
+- smugglers / carriers;
+- reform politicians.
+
+### Evidence residue
+
+The most dangerous evidence is moral, not forensic:
+
+someone can later prove he **could have helped earlier**.
+
+That fact can destroy his claim that he was merely exposing neglect.
+
+### Human cost
+
+Port itself.
+
+### Wurdren entry
+
+An ordinary Port problem during the closure:
+
+- trapped cargo;
+- displaced workers;
+- missing medicine;
+- a family whose income vanished;
+- a repair crew waiting for material that exists somewhere else.
+
+### Failure mode
+
+- treaty actors move faster than expected;
+- Port institutions improvise successfully;
+- Council-linked houses openly coordinate with Port government;
+- the Villain's own network refuses to delay aid.
+
+### Moral threshold
+
+**Major crossing.**
+
+He began because he hated people sitting on their hands while Port suffered.
+
+Now he sits on his own hands because Port's suffering proves his argument.
 
 ---
 
-# 10. The exposure domino
+# 13. Operation 9 — the evidence package
 
-This is the first truly world-scale domino.
+This is the major public reveal.
 
-The Villain assembles a package of **mostly genuine evidence** showing two things side by side.
+### Existing pressure
 
-## A. Public Port paralysis
+By now the world has accumulated:
 
-Records of:
+- aid delays;
+- emergency meetings;
+- credit interventions;
+- convoy finance;
+- land / debt transactions;
+- route changes;
+- infrastructure contracts;
+- strategic procurement.
 
-- delayed aid;
-- conditions attached to assistance;
-- arguments among guarantors / outside powers;
-- postponed security / infrastructure decisions;
-- disputes over who may pay, command, arm, tax, or act.
+### Desired next condition
 
-## B. Private system speed
+Turn a collection of local grievances into one Port political question:
 
-Evidence that several apparently independent commercial interventions share:
+> **why can the hidden commercial system coordinate through Port more freely than Port can act for itself?**
 
-- the same Council-linked houses;
-- related agents;
-- coordinated timing;
-- pooled information;
-- private correspondence or contracts.
+### Distinctive craft
 
-The evidence does not need to prove:
+**Curated truth + stolen records + archival comparison.**
 
-> the Council caused every crisis.
+This is the strongest useful descendant of the old Whisperer / Glass Sculptor / Sparrow's Court approach.
 
-It needs to support a more specific accusation:
+### Minimal push
 
-> **When Port itself needed help, the political system said everyone's hands were tied. When the wider commercial system needed saving, private actors found a way to coordinate immediately.**
+Assemble mostly authentic material:
 
-That claim is politically explosive even if every Council intervention prevented real harm.
+- delayed Port requests;
+- treaty correspondence;
+- invoices;
+- warehouse orders;
+- credit guarantees;
+- procurement records;
+- route advisories;
+- concession contracts;
+- Council-linked correspondence.
 
-## Why mostly true evidence is stronger
+Then arrange it in a sequence that tells a political story.
 
-A pure forgery can be disproved.
+Some context can be omitted.
 
-Selective truth creates a harder argument:
+The core documents should be genuine.
 
-- outside powers can explain why neutrality required caution;
-- the Council can explain why intervention was necessary;
-- Port residents can still reasonably ask why their city has less freedom to act for itself than private networks have to act through it.
+### Visible story
+
+The reveal appears to prove:
+
+> Port was left waiting while the same outside networks rapidly protected their own interests.
+
+The Council / outside powers can answer:
+
+> the situations were legally and operationally different.
+
+That rebuttal does not erase the political grievance.
+
+### Independent beneficiaries
+
+- Port reformers;
+- anti-Council factions;
+- local politicians seeking revenue / emergency powers;
+- outside rivals happy to embarrass Council-linked houses.
+
+### Evidence residue
+
+The package itself can be audited.
+
+Wurdren or others may discover:
+
+- missing annexes;
+- different chronology;
+- genuine documents used misleadingly;
+- one limited forgery among many authentic records.
+
+A single forgery should **not** invalidate the entire grievance.
+
+### Human cost
+
+The reveal damages trust in:
+
+- credit;
+- route advice;
+- emergency finance;
+- Port neutrality mechanisms.
+
+Even truthful exposure can make the next real crisis harder to manage.
+
+### Wurdren entry
+
+He can possess one piece of context that neither side wants simplified.
+
+### Failure mode
+
+- the Council voluntarily discloses first;
+- Port reformers release the material without the Villain;
+- missing context is recovered before publication;
+- evidence implicates one of his own useful networks.
+
+### Moral threshold
+
+He knowingly risks breaking systems ordinary people still depend on because exposure is necessary to force the settlement crisis.
 
 ---
 
-# 11. Phase 3 — defensive politics creates the next dominoes
+# 14. Why the operations feel related without feeling repetitive
+
+The Villain should have one **strategic fingerprint** across different crafts:
+
+> he tries to make institutions commit themselves under incomplete information, then reveals the missing context after the decision has created a visible loser.
+
+But the operational craft changes:
+
+| Operation | Primary craft |
+| --- | --- |
+| 1 | route intelligence / conflict brokerage |
+| 2 | credit / market engineering |
+| 3 | alternative trade / logistics |
+| 4 | document / confidence manipulation |
+| 5 | contract theft / selective disclosure |
+| 6 | conflict brokerage |
+| 7 | procurement timing / contract exposure |
+| 8 | withholding / relief logistics |
+| 9 | curated evidence / archival comparison |
+
+That variation is the main Blacklist-style lesson worth preserving.
+
+---
+
+# 15. The braids after strengthening
+
+The operations still form the same broad braids.
+
+## Maritime / finance / food / labor
+
+~~~text
+Operation 1
+maritime confidence
+→ Operation 2
+Port credit tightening
+→ Operation 3
+Low Rivers distress / alternative buying
+→ Operation 7
+strategic metal / labor / Port repair priority
+~~~
+
+## Route / infrastructure / rights
+
+~~~text
+Operation 4
+High Roads confidence shift
+→ demand for redundancy
+→ Operation 5
+Longwood concession crisis
+~~~
+
+## Water / diplomacy
+
+~~~text
+existing drought anxiety
+→ useful OC-U / OC-D cooperation
+→ Operation 6
+self-reinforcing bloc fear
+~~~
+
+## Port core
+
+~~~text
+all braids increase Port pressure
+→ Operation 8
+Port waits / alternative network helps
+→ Operation 9
+evidence package
+→ Port settlement crisis
+~~~
+
+# 16. Phase 3 — defensive politics creates the next dominoes
 
 After exposure, institutions do not simply "join the rebellion."
 
@@ -583,7 +1135,7 @@ That is the second world-scale domino.
 
 ---
 
-# 12. Phase 4 — Port settlement crisis
+# 17. Phase 4 — Port settlement crisis
 
 Now the old neutrality arrangement itself becomes the object of political conflict.
 
@@ -629,7 +1181,7 @@ This is the operational climax of the domino plan.
 
 ---
 
-# 13. Phase 5 — the Villain's proposed Port settlement
+# 18. Phase 5 — the Villain's proposed Port settlement
 
 The Villain does **not** need to walk into a room and declare himself ruler.
 
@@ -673,7 +1225,7 @@ His leverage is concrete:
 
 ---
 
-# 14. The plan's failure modes
+# 19. The plan's failure modes
 
 The Villain is not omniscient.
 
@@ -695,7 +1247,7 @@ It should not require every prediction to be correct.
 
 ---
 
-# 15. Wurdren's interference points
+# 20. Wurdren's interference points
 
 Wurdren is strongest when he changes the **information / trust topology**, not when he defeats one named domino-person.
 
@@ -729,7 +1281,7 @@ These events are hard for a model built on leverage to predict.
 
 ---
 
-# 16. Superseded six-character model
+# 21. Superseded six-character model
 
 The old page assigned one provisional named "domino character" to each major cultural region.
 
@@ -748,7 +1300,7 @@ Do **not** rebuild the cast as six replacements.
 
 ---
 
-# 17. Design rule for a new human domino
+# 22. Design rule for a new human domino
 
 Add a recurring character only when the architecture produces a decision that cannot remain abstract.
 
