@@ -418,11 +418,38 @@ Spine / Underpass disruption
 → the Villain can build an alternative network rather than merely sabotage
 ~~~
 
-These braids converge on the same Council vulnerability:
+These braids do not stop at economic / political stress.
 
-> **maintain secrecy or maintain stability.**
+[War Escalation Causal Chain — V1](Reference/War-Escalation-Causal-Chain-V1.md) now tests the required tail:
 
-The Council may not be able to do both.
+~~~text
+commercial precautions
+→ reciprocal restrictions
+→ reserve buying
+→ strategic-material / route controls
+→ trade sorting into competitive spheres
+→ security guarantees
+→ armed escorts / readiness measures
+→ partial mobilization
+→ counter-mobilization
+→ armed incident
+→ limited retaliation
+→ guarantee activation
+→ war
+~~~
+
+The Council's secrecy / stability problem remains important because its normal coordination tools could interrupt some of those transitions.
+
+The Villain therefore benefits when Council intervention becomes:
+
+- politically distrusted;
+- too slow;
+- misinterpreted;
+- or selectively exposed.
+
+The war is not a leap from "tension."
+
+It is the end of a material security dilemma built through accumulated precautions.
 
 ---
 
