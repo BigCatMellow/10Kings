@@ -22,9 +22,11 @@ The Villain's advantage is that he can recognize where a small push will make on
 
 The Council's advantage is that it can see several systems at once and coordinate a response.
 
-The central conflict is therefore:
+The central current-events question is therefore:
 
-> **Can a hidden coordination system stabilize several real crises without making its own hidden power visible — and can the Villain force it to fail at one of those two tasks?**
+> **Can many small, locally rational responses to unrelated-looking problems accumulate into a security dilemma and war — while the Villain nudges only selected pressure points and keeps the connection hidden?**
+
+The Council matters because it is one of the few institutions capable of noticing cross-system correlation early enough to try to interrupt that accumulation.
 
 ---
 
