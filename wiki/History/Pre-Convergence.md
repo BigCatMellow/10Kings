@@ -124,6 +124,49 @@ Modern landscapes should preserve pre-Convergence history:
 - noble claims based on ancient marriages;
 - old canals still controlled under obsolete treaties.
 
+## Seasonal route memory
+
+Legacy history contains a useful reminder that political geography was partly **seasonal**.
+
+A pass, ford, coast road, or minor route could be:
+
+- safe in one season;
+- dangerous or impassable in another;
+- controlled by different actors at different times;
+- remembered as "open" by one generation and "lost" by another.
+
+That means old military / trade claims should not always map cleanly onto land.
+
+A polity might have claimed a route it could reliably use only part of the year.
+
+Modern sayings such as:
+
+> "that was a winter road"
+
+or:
+
+> "their border ended when the thaw came"
+
+can preserve this older reality without requiring exact old maps.
+
+## Frontier archaeology
+
+Legacy material also suggested physical signs of repeated failed expansion.
+
+Compatible residues include:
+
+- charred forest edges;
+- abandoned clearings;
+- half-finished terraces;
+- unfinished walls;
+- mines opened and then lost;
+- roadbeds that stop abruptly;
+- fortified farmsteads later absorbed into ordinary villages.
+
+These traces are useful because they show that present borders were produced by **failed projects as well as successful conquest**.
+
+---
+
 ## Why The Convergence became possible
 
 Peace did not occur because everyone suddenly became enlightened.
