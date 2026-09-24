@@ -116,7 +116,7 @@ The sections below retain the more detailed unresolved questions.
 Remaining questions:
 
 - Exact number of sovereign and semi-sovereign polities.
-- Stone Hills central structure and the reach of any crown / state institutions.
+- Stone Hills exact polity map inside the now-tested comparatively consolidated model: number of large polities, reach of the strongest ruler, mine tenure, guild and town privileges, labor institutions, strategic-metal authority, and Convergence representation.
 - North Coast exact polity map inside the now-tested layered maritime model: number of large polities, clan status, island representation, fishery / anchorage institutions, convoy authority, naval capacity, and Convergence representation.
 - Low Rivers exact polity map inside the now-tested layered agrarian-river model: number of large polities, degree of central consolidation, estate privileges, watershed institutions, town autonomy, reserve/export powers, and Convergence representation.
 - High Roads exact corridor compacts, representation rules, recurring delegate bodies, dominant polities, and Convergence delegation inside the now-tested networked governance model.
