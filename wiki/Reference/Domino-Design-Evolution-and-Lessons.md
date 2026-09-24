@@ -489,3 +489,86 @@ Updated owners:
 ## Future check
 
 When a later pass changes the plan again, update this page rather than silently rewriting the reasoning history.
+
+
+---
+
+# 13. Change record — information architecture and Three Moons
+
+## Changed
+
+The Villain's information advantage is now grounded primarily in **Port's legitimate aggregation role**, strengthened by:
+
+- increasing guild presence / cross-guild coordination in Port;
+- the seven-year Three Moons Festival.
+
+## Previous weakness
+
+The adaptive model required him to notice many pressure branches early enough to exploit them.
+
+Without a grounded information mechanism, that risked quietly reintroducing an implausible all-seeing intelligence network.
+
+## New supporting world fact
+
+Port is already the continent's largest commercial / maritime information hub.
+
+The Villain has also spent time encouraging guilds / branches / professional representatives to establish more regular Port presence because he genuinely wants:
+
+- easier cross-guild communication;
+- more contracts;
+- more retained expertise;
+- greater Port institutional importance.
+
+That legitimate Port-building project also creates a dense information network.
+
+The Three Moons Festival, once every seven years, temporarily synchronizes many networks that normally arrive separately.
+
+## Why this improves the plan
+
+He does not need spies in every polity.
+
+People bring information to Port because they are:
+
+- trading;
+- working;
+- attending guild business;
+- seeking contracts;
+- traveling for the festival.
+
+The festival gives him a rare opportunity to compare many disconnected current events at once.
+
+## Limits preserved
+
+Three Moons increases:
+
+- information volume;
+- cross-comparison;
+- rumor;
+- accidental leakage.
+
+It does **not** create certainty.
+
+He should still:
+
+- misread some reports;
+- receive stale information;
+- discard bad branches;
+- discover unexpected developments.
+
+## New rule
+
+> **His intelligence advantage should emerge from Port's centrality more often than from covert surveillance.**
+
+And:
+
+> **Three Moons is an independent opportunity he exploits, not an event he created for the plan.**
+
+## Story consequence
+
+The current story period can plausibly feel like a perfect storm because:
+
+- several real crises are already active;
+- guild centralization is maturing;
+- the largest seven-year Port festival concentrates the people carrying evidence of those crises.
+
+This creates a strong reason for both the Villain and Wurdren to encounter unusually many pieces of the wider world in Port without either immediately understanding the complete pattern.
