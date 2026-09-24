@@ -12,9 +12,15 @@ The older six-character / one-per-region domino model is superseded.
 
 [Domino Operation Design — V1](../Reference/Domino-Operation-Design-V1.md) adds the Blacklist-informed intervention test.
 
-[War Escalation Causal Chain — V1](../Reference/War-Escalation-Causal-Chain-V1.md) is now the **no-leap causal proof** showing how the numerous small events can plausibly end in actual war.
+[Adaptive Domino Doctrine — V1](../Reference/Adaptive-Domino-Doctrine-V1.md) is the active strategy method.
 
-[Domino Conspiracy Ledger — V1](../Reference/Domino-Conspiracy-Ledger-V1.md) is the author-side execution layer showing how dozens of small background tasks can support those leverage points without most participants knowing the complete plan.
+[Adaptive War Escalation Graph — V2](../Reference/Adaptive-War-Escalation-Graph-V2.md) is the active author-side escalation model.
+
+[Conspiracy Capability Ledger — V2](../Reference/Conspiracy-Capability-Ledger-V2.md) records what the Villain can draw on without turning those capabilities into a fixed checklist.
+
+[War Escalation Causal Chain — V1](../Reference/War-Escalation-Causal-Chain-V1.md) and [Domino Conspiracy Ledger — V1](../Reference/Domino-Conspiracy-Ledger-V1.md) remain as superseded provenance: they proved useful mechanics but over-scripted the Villain.
+
+[Domino Design Evolution and Lessons](../Reference/Domino-Design-Evolution-and-Lessons.md) records the design changes and why they happened.
 
 [Current Events](Current-Events.md) owns what is actually happening in the world now.
 
@@ -22,29 +28,33 @@ The older six-character / one-per-region domino model is superseded.
 
 ---
 
-# 1. Core concept — deep domino architecture
+# 1. Core concept — adaptive domino architecture
 
 The plan is not:
 
 > six regions → six agents → six crises → one war.
 
-It is a **deep braided system attack made of many small events**.
+It is a **deep adaptive pressure campaign made of many small events**.
 
 The plan should feel much larger than the number of moves the Villain personally makes.
 
 Several real pressures move independently.
 
-He identifies leverage points where a small intervention can produce two or three later reactions without further help.
+He does **not** know which exact sequence will survive.
+
+He watches for leverage points where a small intervention may produce several independent reactions, then adapts to what actually happens.
 
 The full plan works because:
 
 1. small local problems remain plausible as independent current events;
 2. rational responses create new costs elsewhere;
-3. commercial protection gradually becomes security policy;
-4. security policy creates real capabilities for conflict;
-5. competitive-sphere guarantees turn local disputes into bloc problems;
-6. mobilization makes accidental / limited violence much harder to contain;
-7. actual war then forces Port's neutrality and political capacity into crisis.
+3. several different branches can increase the same strategic pressures;
+4. failed branches can die without collapsing the whole plan;
+5. commercial protection can gradually become security policy;
+6. security policy creates real capabilities for conflict;
+7. competitive-sphere guarantees can turn local disputes into bloc problems;
+8. mobilization makes accidental / limited violence harder to contain;
+9. actual war then forces Port's neutrality and political capacity into crisis.
 
 The target is not chaos for its own sake.
 
@@ -1110,6 +1120,8 @@ evidence package
 # 16. War spine — what the interventions are actually trying to produce
 
 The conspiracy should be understood at two levels.
+
+**The sequence below is a retrospective state model, not a checklist the Villain expects reality to follow.**
 
 ## Villain level
 
