@@ -100,9 +100,12 @@ Resolved at the structural level:
 
 - baseline / pushed / response / cascade distinctions;
 - braided rather than six-region domino architecture;
-- Council secrecy-versus-stability trap;
-- Villain objective of forcing a public coordination / legitimacy crisis;
-- bypass / alternative-capacity strategy.
+- many-small-events / minimum-push conspiracy rule;
+- commercial-protection → security-rule → guarantee → mobilization → war escalation logic;
+- war as the Villain's deliberate forcing mechanism for Port reform;
+- Council secrecy-versus-stability vulnerability;
+- bypass / alternative-capacity strategy;
+- author-side surface / causal-chain / execution-ledger separation.
 
 Still open:
 
@@ -110,6 +113,9 @@ Still open:
 - the specific Port failures / delays that radicalized him;
 - his exact class / institutional background;
 - the exact fiscal and constitutional changes he ultimately demands for Port;
+- exact belligerent roster as the competitive spheres harden;
+- which chokepoint / cargo / patrol dispute becomes the final armed spark;
+- the exact chronology between partial mobilization and open war;
 - which manufactured escalation becomes his unmistakable moral break;
 - where Wurdren begins and which human-scale problem first connects him to the larger system.
 
