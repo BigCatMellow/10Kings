@@ -1110,21 +1110,21 @@ Those are now narrower questions tied to a concrete topology.
 
 ---
 
-# 24. Next test
+# 24. Adjacency test result
 
-The next highest-value pass should be:
+[Political Adjacency and Border-Interface Test — V1](Political-Adjacency-and-Border-Interface-Test-V1.md) now tests the required political interfaces.
 
-> **political adjacency and border-interface testing**
+**Result: PASS with one clarification.**
 
-For each V1 actor, determine:
+The original topology underemphasized the already-established direct Stone Hills ↔ Low Rivers foothill contact.
 
-- who it physically borders;
-- which borders are hard versus fuzzy;
-- which routes cross them;
-- which contact-zone settlements are implied;
-- which borders require treaty recognition;
-- which functional jurisdictions cross them;
-- which borders are disputed;
-- which are old and politically boring.
+V1 therefore requires both:
 
-That can then produce the first useful political overlay on the physical map without prematurely drawing every line.
+- SH-A ↔ LR-A direct foothill / contact-zone adjacency;
+- SH-A ↔ HR-W Western Gate route / mountain adjacency.
+
+These are separate political relationships.
+
+The adjacency test also confirms that Port's strongest territorial adjacency is to the G1 / Low Rivers mainland even though many of its strongest political relationships are maritime.
+
+The next highest-value pass is now the **political history of the borders**: how these interfaces formed, what older claims survived, and what the Convergence actually recognized.
