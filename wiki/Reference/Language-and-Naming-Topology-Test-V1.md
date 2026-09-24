@@ -775,21 +775,18 @@ Their purpose is to make the next naming pass historical rather than aesthetic.
 
 ---
 
-# 15. Next gate
+# 15. Naming-profile result
 
-The next pass should build **minimal naming profiles** for the six V1 clusters.
+[Minimal Naming Profiles — V1](Minimal-Naming-Profiles-V1.md) now supplies the smallest phonotactic / compound / transcription constraints needed for W1 / N1 / R1 / P1 / F1 / S1 without building full conlangs.
 
-Do not write full grammars.
+The readiness test changes the next step.
 
-The output should be just enough to generate and reject place names consistently.
+The best-developed naming objects are not yet the state names. They are:
 
-After that, test the profiles on six politically important names:
+1. SH-M;
+2. NC-R / HR-N paired roadheads;
+3. LR-M.
 
-1. SH-A / its seat;
-2. NC-M / principal political center;
-3. LR-A / its seat or river-derived state name;
-4. HR-C;
-5. LW-W or its main market town;
-6. OC-U.
+Those settlements already have enough physical / institutional history to generate names from causes rather than aesthetic preference.
 
-Only names that survive history + language + ordinary-use tests should be promoted.
+SH-A / NC-M / LR-A polity names should wait until their capital / ruling-seat / river-name source is resolved.
