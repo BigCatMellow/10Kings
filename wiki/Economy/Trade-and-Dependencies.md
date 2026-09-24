@@ -38,6 +38,8 @@ This is one of the strongest recurring relationships.
 - Price movements on either side can become political disputes.
 - Border communities can contain mixed families, shared workshops and competing historical memories.
 
+The [Stone Hills Functional Governance Test](../Reference/Stone-Hills-Functional-Governance-Test.md) clarifies the political consequence. Control of mines or armies does not make Stone Hills self-sufficient: food, fuel, transport, credit, skilled labor, and market access constrain what rulers and owners can actually do.
+
 This relationship should feel like a long marriage of necessity: useful, intimate and periodically resentful.
 
 ### North Coast and maritime access
