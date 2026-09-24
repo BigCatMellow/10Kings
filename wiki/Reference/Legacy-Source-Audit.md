@@ -6,7 +6,7 @@
 
 This page exists because `legacy-notes/` is **not a trash folder**.
 
-The raw files there preserve provenance, contradictions, discarded designs, research, and earlier versions of the setting. Some of that material is obsolete. The thematic archive has now received a structural reconciliation pass, but many exact names, local examples, alternate events, and discarded approaches remain useful as question-driven quarry.
+The raw files there preserve provenance, contradictions, discarded designs, research, and earlier versions of the setting. Some of that material is obsolete. The thematic archive received a first **structural** reconciliation pass, but later recovery showed that this was not equivalent to exhaustively mining each original source. A source-level second pass is now active: [Legacy Master Salvage Pass — V2](Legacy-Master-Salvage-Pass-V2.md).
 
 The danger is not that legacy material exists.
 
@@ -51,9 +51,15 @@ Legacy remains provenance and an idea quarry.
 
 No whole thematic volume currently remains in this state. Use this label again only if a newly discovered legacy source has forward-relevant material that has not received a deliberate modern pass.
 
-## UNRECONCILED / HIGH SALVAGE VALUE
+## V2 SOURCE-LEVEL REOPENED
 
-No whole thematic volume currently remains in this state. Unresolved **details** still exist, but they are routed through active owners and reconciliation pages rather than treated as archive backlog.
+All fourteen thematic volumes are structurally reconciled **but reopened for source-level salvage**.
+
+This does not demote current owners.
+
+It means the previous volume-level status can no longer be used as evidence that every useful mechanism / seed inside each of the 220 source files was deliberately dispositioned.
+
+See [Legacy Master Salvage Pass — V2](Legacy-Master-Salvage-Pass-V2.md).
 
 ---
 
@@ -226,11 +232,11 @@ If repository size or search noise becomes a problem, the duplicate package file
 
 # Current salvage priorities
 
-## No whole-volume salvage pass remains mandatory
+## V2 salvage pass now active
 
-All thematic volumes now have an explicit active disposition and retrieval route.
+A second deliberate pass across **all source files** is now active because useful material was still being rediscovered accidentally after the first structural reconciliation.
 
-Future legacy use should be **question-driven**, not volume-driven.
+Normal future work should remain question-driven, but the V2 pass itself is intentionally archive-wide.
 
 Return to legacy when:
 - a current owner explicitly marks a detail open;
