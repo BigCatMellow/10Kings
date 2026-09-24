@@ -139,6 +139,23 @@ Longwood politics revolve around:
 - trade in high-value plants;
 - local autonomy.
 
+See [Longwood Functional Governance Test](../Reference/Longwood-Functional-Governance-Test.md).
+
+The strongest current structural conclusion is a **decentralized mosaic of local polities and communities** rather than one forest government.
+
+Authority can be split among:
+
+- villages and local rulers;
+- clan or territorial communities;
+- towns;
+- specialist / warden networks;
+- use-specific rights;
+- issue-specific road, emergency, ecological, or defense compacts.
+
+Residence, cutting, hunting, gathering, passage, water, and restricted-use rights do not need to belong to the same authority.
+
+This makes decentralization functional while leaving room for conflict, monopoly, exclusion, and failed coordination.
+
 ## Current pressures
 
 - illegal or politically authorized logging beyond accepted limits;
