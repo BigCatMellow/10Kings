@@ -97,7 +97,35 @@ If there is no exposure, the contradiction remains hidden.
 
 ---
 
-# 3. Phase 0 — build Port capacity before forcing the issue
+# 3. Adaptive control rule
+
+The Villain does **not** control the domino line.
+
+He controls only:
+
+- what he notices;
+- what limited resources he commits;
+- when he chooses to intervene;
+- whether he abandons or reinforces a branch.
+
+Every pressure branch can be:
+
+- **SELF-MOVING** — advancing usefully without him;
+- **WATCH** — potentially useful, not worth touching yet;
+- **NUDGED** — deliberately biased at a tipping point;
+- **CONTAINED** — another institution successfully reduced the pressure;
+- **FAILED** — his intervention did not produce a useful result;
+- **BACKFIRED** — his intervention strengthened an opponent / exposed risk;
+- **REDIRECTED** — the result differed from expectation but created another useful route;
+- **ABANDONED** — no longer worth resources / exposure.
+
+A failed branch is not secretly a success.
+
+The Villain's intelligence is demonstrated by what he does **after** the failure.
+
+---
+
+# 4. Phase 0 — build Port capacity before forcing the issue
 
 Before the major domino chain, the Villain's movement needs mundane capacity that Port itself can use.
 
@@ -142,7 +170,7 @@ This is what makes later support believable.
 
 ---
 
-# 4. Phase 1 — let the world provide the first shocks
+# 5. Phase 1 — let the world provide the first shocks
 
 The Villain does **not** create:
 
@@ -159,7 +187,7 @@ His intelligence lies in seeing that they can be connected.
 
 ---
 
-# 5. The active operations
+# 6. Intervention families — not mandatory operations
 
 The plan now uses **distinct operational crafts** rather than repeating "leak information and cause anger."
 
@@ -167,7 +195,7 @@ These operations overlap in time.
 
 These are **intervention families**, not the complete domino count.
 
-The actual causal line is much denser; see [War Escalation Causal Chain — V1](../Reference/War-Escalation-Causal-Chain-V1.md).
+The actual causal field is much denser; see [Adaptive War Escalation Graph — V2](../Reference/Adaptive-War-Escalation-Graph-V2.md).
 
 The numbering below reflects different Villain capabilities, not nine giant steps in the plot.
 
@@ -267,7 +295,7 @@ The first deliberately facilitated raid is a meaningful escalation.
 
 ---
 
-# 6. Operation 2 — turn risk into a Port credit squeeze
+# 7. Operation 2 — turn risk into a Port credit squeeze
 
 ### Existing pressure
 
@@ -349,7 +377,7 @@ But he is knowingly making ordinary cargo less movable to create political press
 
 ---
 
-# 7. Operation 3 — build the distress-purchase alternative
+# 8. Operation 3 — build the distress-purchase alternative
 
 ### Existing pressure
 
@@ -453,7 +481,7 @@ Not every domino should be villainous.
 
 ---
 
-# 8. Operation 4 — shift High Roads confidence
+# 9. Operation 4 — shift High Roads confidence
 
 ### Existing pressure
 
@@ -537,7 +565,7 @@ He is no longer merely curating truth.
 
 ---
 
-# 9. Operation 5 — weaponize the Longwood concession
+# 10. Operation 5 — weaponize the Longwood concession
 
 ### Existing pressure
 
@@ -627,7 +655,7 @@ He knowingly removes context in order to make a real abuse look broader / simple
 
 ---
 
-# 10. Operation 6 — make Old Cities cooperation frighten its neighbors
+# 11. Operation 6 — make Old Cities cooperation frighten its neighbors
 
 ### Existing pressure
 
@@ -708,7 +736,7 @@ The Villain is deliberately maintaining a conflict that could otherwise be solve
 
 ---
 
-# 11. Operation 7 — strategic metal priority
+# 12. Operation 7 — strategic metal priority
 
 ### Existing pressure
 
@@ -809,7 +837,7 @@ This moves him toward the later **withhold** stage.
 
 ---
 
-# 12. Operation 8 — let Port wait
+# 13. Operation 8 — let Port wait
 
 **Approximate timing: late escalation, when commercial/security pressures are already converging and mobilization is becoming plausible.**
 
@@ -931,7 +959,7 @@ Now he sits on his own hands because Port's suffering proves his argument.
 
 ---
 
-# 13. Operation 9 — the evidence package
+# 14. Operation 9 — the evidence package
 
 **Approximate timing: late mobilization / wartime Port crisis, not an early master-plan reveal.**
 
@@ -1042,7 +1070,7 @@ He knowingly risks breaking systems ordinary people still depend on because expo
 
 ---
 
-# 14. Why the operations feel related without feeling repetitive
+# 15. Why the operations feel related without feeling repetitive
 
 The Villain should have one **strategic fingerprint** across different crafts:
 
@@ -1066,7 +1094,7 @@ That variation is the main Blacklist-style lesson worth preserving.
 
 ---
 
-# 15. The braids after strengthening
+# 16. The braids after strengthening
 
 The operations still form the same broad braids.
 
@@ -1117,7 +1145,7 @@ evidence package
 → Port settlement crisis
 ~~~
 
-# 16. War spine — what the interventions are actually trying to produce
+# 17. War spine — what the interventions are actually trying to produce
 
 The conspiracy should be understood at two levels.
 
@@ -1176,9 +1204,9 @@ That security dilemma is the final self-sustaining domino mechanism.
 
 ---
 
-# 17. Phase 3 — defensive politics creates the next dominoes
+# 18. Phase 3 — defensive politics creates the next dominoes
 
-**This section is subordinate to the longer war chain.** These reactions should be distributed across the commercial-protection, security-rule, guarantee, and mobilization stages in [War Escalation Causal Chain — V1](../Reference/War-Escalation-Causal-Chain-V1.md), rather than treated as one sudden post-exposure turn.
+**This section is subordinate to the adaptive war graph.** These reactions can occur through several branches across the commercial-protection, security-rule, guarantee, and mobilization stages in [Adaptive War Escalation Graph — V2](../Reference/Adaptive-War-Escalation-Graph-V2.md), rather than as one required post-exposure sequence.
 
 After exposure, institutions do not simply "join the rebellion."
 
@@ -1230,7 +1258,7 @@ That is the second world-scale domino.
 
 ---
 
-# 18. Phase 4 — Port settlement crisis
+# 19. Phase 4 — Port settlement crisis
 
 Now the old neutrality arrangement itself becomes the object of political conflict.
 
@@ -1276,7 +1304,7 @@ This is the operational climax of the domino plan.
 
 ---
 
-# 19. Phase 5 — the Villain's proposed Port settlement
+# 20. Phase 5 — the Villain's proposed Port settlement
 
 The Villain does **not** need to walk into a room and declare himself ruler.
 
@@ -1320,7 +1348,7 @@ His leverage is concrete:
 
 ---
 
-# 20. The plan's failure modes
+# 21. The plan's failure modes
 
 The Villain is not omniscient.
 
@@ -1342,7 +1370,7 @@ It should not require every prediction to be correct.
 
 ---
 
-# 21. Wurdren's interference points
+# 22. Wurdren's interference points
 
 Wurdren is strongest when he changes the **information / trust topology**, not when he defeats one named domino-person.
 
@@ -1376,7 +1404,7 @@ These events are hard for a model built on leverage to predict.
 
 ---
 
-# 22. Superseded six-character model
+# 23. Superseded six-character model
 
 The old page assigned one provisional named "domino character" to each major cultural region.
 
@@ -1395,7 +1423,7 @@ Do **not** rebuild the cast as six replacements.
 
 ---
 
-# 23. Design rule for a new human domino
+# 24. Design rule for a new human domino
 
 Add a recurring character only when the architecture produces a decision that cannot remain abstract.
 
