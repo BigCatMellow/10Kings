@@ -338,9 +338,11 @@ The Villain's strategic **fingerprint** should remain consistent even when the o
 
 # 14. Relationship to war-causality proof
 
-[War Escalation Causal Chain — V1](War-Escalation-Causal-Chain-V1.md) applies this method across the full current-events field.
+[Adaptive War Escalation Graph — V2](Adaptive-War-Escalation-Graph-V2.md) is the active application across the full current-events field.
 
-It adds a strict transition test:
+The superseded [War Escalation Causal Chain — V1](War-Escalation-Causal-Chain-V1.md) first proved that a no-leap route to war exists; V2 preserves that proof while allowing failure, branching, and adaptation.
+
+The transition test remains:
 
 ~~~text
 actor
@@ -354,7 +356,7 @@ actor
 
 No transition may use "tension rises" as sufficient explanation for war.
 
-[Domino Conspiracy Ledger — V1](Domino-Conspiracy-Ledger-V1.md) then decomposes selected Villain nudges into small background tasks / micro-actions.
+[Conspiracy Capability Ledger — V2](Conspiracy-Capability-Ledger-V2.md) records available capabilities / access without pretending those future actions are pre-scripted.
 
 Together the layers are:
 
@@ -364,13 +366,13 @@ what ordinary people can notice
 
 ↓ author analysis
 
-WAR CAUSAL CHAIN
-why the system moves from local stress to war
+ADAPTIVE WAR GRAPH
+which pressure states can move the system toward war
 
-↓ hidden execution
+↓ selective intervention
 
-CONSPIRACY LEDGER
-what small covert work makes selected transitions more likely
+CAPABILITY LEDGER
+what the Villain can draw on when useful windows appear
 ~~~
 
 The large conspiracy should be visible to the author long before it is visible to the reader.
