@@ -22,7 +22,7 @@ See [Wurdren](Wurdren.md).
 
 Strategic protagonist / antagonist whose campaign drives the main causal architecture.
 
-Identity, name, constituency, and exact grievance remain open.
+Identity and biography remain open. His cause is Port; the current grievance is defined in [Villain](Villain.md).
 
 See [Villain](Villain.md).
 
