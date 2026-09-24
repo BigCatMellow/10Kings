@@ -196,7 +196,68 @@ That allows him to exploit events without causing them.
 
 ---
 
-# 8. Strategic reserve capability
+# 8. Guild / festival aggregation capability
+
+The Villain's information advantage is increasingly supported by two legitimate developments:
+
+1. more guild branches / representatives maintaining a presence in Port;
+2. the seven-year [Three Moons Festival](../Culture/Three-Moons-Festival.md) concentrating many trans-regional networks in one place.
+
+This gives him access to a broad **information market** without requiring a continent-wide spy service.
+
+He may learn about:
+
+- shortages;
+- wages;
+- contract disputes;
+- route delays;
+- unusual buying;
+- regulatory changes;
+- guild factionalism;
+- security concerns
+
+because those topics are already being discussed by people who came to Port for legitimate reasons.
+
+## Why this is useful
+
+It lets him:
+
+- test whether a pressure branch is actually moving;
+- compare independent reports;
+- identify unexpected outcomes;
+- abandon bad assumptions earlier;
+- notice intervention windows.
+
+## Why this is not omniscience
+
+Festival / guild information can be:
+
+- late;
+- biased;
+- self-interested;
+- contradictory;
+- false;
+- deliberately concealed.
+
+His advantage is **aggregation and analysis**, not perfect knowledge.
+
+## Secrecy benefit
+
+Most people supplying useful information do not know they are supplying intelligence.
+
+They are:
+
+- attending meetings;
+- seeking work;
+- negotiating contracts;
+- complaining about shortages;
+- comparing standards.
+
+That significantly reduces the number of true conspirators.
+
+---
+
+# 9. Strategic reserve capability
 
 He should keep some resources uncommitted.
 
@@ -218,7 +279,7 @@ A mastermind with every resource already assigned cannot adapt.
 
 ---
 
-# 9. Exposure budget
+# 10. Exposure budget
 
 Every deliberate touch has an exposure cost.
 
@@ -249,7 +310,7 @@ He should prefer lower-exposure tools whenever they can work.
 
 ---
 
-# 10. Compartmentation
+# 11. Compartmentation
 
 ## Tier A — strategic
 
@@ -291,7 +352,7 @@ The lower tiers should contain almost all people who interact with the network.
 
 ---
 
-# 11. No permanent asset assumption
+# 12. No permanent asset assumption
 
 A useful contact today may disappear tomorrow.
 
@@ -313,7 +374,7 @@ This also creates story evidence and failure.
 
 ---
 
-# 12. Capability use test
+# 13. Capability use test
 
 Before using a capability:
 
