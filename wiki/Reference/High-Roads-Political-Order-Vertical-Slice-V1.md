@@ -27,7 +27,7 @@ The purpose is to answer:
 
 > **Can High Roads conduct serious external and cross-regional politics while no superior High Roads state exists at all?**
 
-**Current provisional naming layer:** [N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) tests **Mesk** for HR-C, **Korad** for HR-N's roadhead / local center, and **Tavrek** for HR-W's principal settlement. Korad also carries the caravan shorthand **South Yard**. These remain reference-level names rather than promoted regional canon.
+**Naming status:** HR-N / HR-W / HR-C local lexical forms remain unresolved. **South Yard** remains grounded traveler shorthand for the HR-N roadhead. The naming relationship is structurally tested, but local endonyms have not been earned.
 
 This is a deliberately different test from SH-A, LR-A, and NC-M.
 
