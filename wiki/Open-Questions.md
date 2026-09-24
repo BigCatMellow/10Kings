@@ -135,6 +135,8 @@ The comparison passes: similar state-level capacities do not produce identical p
 
 [Longwood Political Order Vertical Slice — V1](Reference/Longwood-Political-Order-Vertical-Slice-V1.md) closes the major-core pass: LW-W / LW-I / LW-S form a layered jurisdictional mosaic whose local territorial authority overlaps with use-specific rights and specialist networks.
 
+**Political-order V1 milestone:** all six major cultural cores now have tested, deliberately non-symmetric political structures, while Port retains its separate detailed neutrality / city-polity model. The next design gate is naming and identity history for the V1 actors and settlements; exact constitutions remain open unless a later story/history test requires them.
+
 The remaining questions are therefore mostly about **future concrete polity slices, exact border placement, naming, succession details, and exact representation**, not about choosing one generic government type for each culture.
 
 Remaining questions:
