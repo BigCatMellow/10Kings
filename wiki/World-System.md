@@ -420,7 +420,7 @@ Spine / Underpass disruption
 
 These braids do not stop at economic / political stress.
 
-[War Escalation Causal Chain — V1](Reference/War-Escalation-Causal-Chain-V1.md) now tests the required tail:
+[Adaptive War Escalation Graph — V2](Reference/Adaptive-War-Escalation-Graph-V2.md) now tests the required tail as a **branching pressure graph**, not a fixed sequence:
 
 ~~~text
 commercial precautions
@@ -450,6 +450,16 @@ The Villain therefore benefits when Council intervention becomes:
 The war is not a leap from "tension."
 
 It is the end of a material security dilemma built through accumulated precautions.
+
+The Villain does not need every branch to succeed. The active model assumes:
+
+- some pressures resolve;
+- some Council interventions work;
+- some Villain nudges fail;
+- useful surprises create new routes;
+- several independent paths can still feed the same readiness / alliance / security conditions.
+
+His advantage is adaptation, not perfect foresight.
 
 ---
 
