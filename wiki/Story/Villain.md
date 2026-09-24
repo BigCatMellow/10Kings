@@ -2,91 +2,277 @@
 
 ## Status
 
-**Core function and operational end-state established; identity, constituency, exact grievance, and final political demand remain open.**
+**Port-centered grievance and operational objective established. Identity, exact biography, and final constitutional program remain open.**
 
 See:
 
+- [Port](../Places/Port.md) — the political / economic structure producing his grievance;
 - [Villain's Dominoes](Villains-Dominoes.md) — current strategic architecture;
 - [Current Events](Current-Events.md) — authoritative present-tense pressures;
 - [Story Core and Character Legacy Reconciliation](../Reference/Story-Core-Legacy-Reconciliation.md) — preserved earlier motive options and superseded models.
 
 ---
 
-# 1. Core idea
+# 1. Core grievance
 
-The Villain believes the post-Convergence order is structurally incapable of giving his people / cause what they need.
+The Villain's cause is now specifically tied to **Port**.
 
-He identifies the hidden Economic Council as the institution that repeatedly makes meaningful disruption survivable **without ever becoming publicly accountable for the choices used to preserve stability**.
+Whether he is Port-born, arrived there young, or became politically identified with the city later remains open.
 
-He therefore decides that reform cannot succeed while the Council can quietly absorb shocks.
+What matters is what he has watched happen repeatedly:
 
-His operational objective is:
+> **Port is indispensable to everyone and fully responsible to no one.**
 
-> **force the post-Convergence system into a public coordination crisis in which the Council must either allow visible instability or reveal enough of its hidden power that its political legitimacy becomes impossible to ignore.**
+Goods, money, contracts, information, and people pass through the city constantly.
 
-He does not merely want chaos.
+Outside powers benefit from:
 
-He wants to make the old equilibrium **unmaintainable**.
+- access;
+- arbitration;
+- storage;
+- shipping;
+- repair;
+- finance;
+- neutral exchange.
 
----
+But Port's neutrality fragments responsibility.
 
-# 2. What he thinks he has understood
+When Port needs:
 
-The Council's real advantage is not wealth alone.
+- emergency protection;
+- infrastructure money;
+- outside military help;
+- rapid treaty action;
+- exceptional financing;
+- relief during a major influx or disruption;
 
-It can:
+everyone has a reason to hesitate.
 
-- aggregate information;
-- compare pressures across regions / sectors;
-- coordinate credit, shipping, storage, materials, infrastructure, and political influence;
-- make one local sacrifice to prevent a larger systemic failure;
-- act through apparently independent institutions.
+Helping too much can look like:
 
-The Villain understands the weakness inside that strength:
+- domination;
+- occupation;
+- treaty capture;
+- commercial favoritism;
+- an attempt to convert emergency assistance into political control.
 
-> **every intervention creates losers who were never asked whether they consented to being sacrificed for system stability.**
+So everyone waits for:
 
-Normally those losses remain disconnected.
+- agreement;
+- guarantees;
+- consultation;
+- precedent;
+- cost sharing;
+- assurance that a rival will not gain advantage.
 
-His plan is to connect them politically.
+To the Villain, this is not prudence.
 
----
-
-# 3. Strategic end-state
-
-The old legacy model sometimes imagined:
-
-> crisis → continental war → Villain appears as peacemaker → Villain receives a kingdom.
-
-That is no longer the active plan.
-
-The current operational end-state is broader and stronger:
-
-1. several independent crises become coupled;
-2. the Council is forced into increasingly visible cross-domain intervention;
-3. local actors discover that apparently separate market / infrastructure / political decisions were coordinated;
-4. trust in the hidden equilibrium falls;
-5. the Convergence order faces a legitimacy / constitutional crisis;
-6. alternative networks already associated with the Villain's movement demonstrate that some coordination can happen without the Council;
-7. rulers, guilds, communities, and other institutions must negotiate a new settlement under conditions where the Villain's constituency can no longer be ignored.
-
-His **exact demand at that settlement remains open**.
-
-It may involve:
-
-- territorial recognition;
-- political autonomy;
-- institutional representation;
-- dismantling Council control;
-- public coordination institutions;
-- restitution;
-- another grievance not yet finalized.
-
-The story can therefore lock the strategic architecture before locking his biography.
+It is a system that lets everyone **use Port while avoiding responsibility for Port**.
 
 ---
 
-# 4. What makes him dangerous
+# 2. The economic grievance — money goes through Port
+
+His second grievance is material.
+
+Port can look fabulously wealthy because enormous value passes through it.
+
+But transaction volume is not the same thing as retained local wealth.
+
+The money can leave through:
+
+- foreign merchants;
+- distant producers;
+- shipowners;
+- lenders;
+- insurers / risk underwriters;
+- external investors;
+- Council-linked houses;
+- political obligations;
+- whatever customs / revenue-sharing arrangements eventually prove canon.
+
+Meanwhile Port still pays the local costs of being Port:
+
+- docks;
+- streets;
+- warehouses;
+- fire;
+- quarantine;
+- policing;
+- housing pressure;
+- congestion;
+- displaced people;
+- labor volatility;
+- repair;
+- maintaining trusted courts / records / harbor systems.
+
+His political intuition is therefore:
+
+> **Port does the work of being indispensable while too much of the value created by that indispensability leaves the city.**
+
+The exact fiscal mechanism remains open.
+
+The grievance does **not** require the legacy claim that foreign powers literally take a fixed majority of customs.
+
+It only requires the supported structural distinction:
+
+> **throughput wealth ≠ retained Port capacity.**
+
+---
+
+# 3. What he hates about the red tape
+
+He does not necessarily begin as an enemy of neutrality.
+
+He understands why neutrality exists.
+
+It prevents:
+
+- one power from owning the harbor;
+- permanent military domination;
+- exclusion of rivals;
+- repeated wars over Port.
+
+What enrages him is that rules created to prevent capture can also prevent decisive local action.
+
+Every urgent question becomes:
+
+- who is allowed to help?
+- who must approve?
+- who pays?
+- does this create precedent?
+- can Port raise this money?
+- can Port arm this force?
+- can Port favor this route?
+- can Port make this agreement?
+- will one guarantor object?
+- will another power call it a violation?
+
+His strongest political belief is:
+
+> **neutrality should protect Port's independence, not reduce Port to a shared utility that must ask permission to save itself.**
+
+---
+
+# 4. His desired change
+
+The old legacy version sometimes imagined:
+
+> create continental war → emerge as peacemaker → receive a kingdom.
+
+That is superseded.
+
+His real objective is to force a **renegotiation of Port's settlement**.
+
+He wants Port to be able to remain useful and plausibly neutral while possessing materially greater capacity to act for itself.
+
+The exact final package remains open, but his movement can reasonably demand some combination of:
+
+- stronger control over locally generated revenue;
+- more retained value from Port's trade role;
+- guaranteed investment in infrastructure;
+- clearer emergency powers;
+- greater ability to organize its own defense;
+- faster access to outside assistance without paralysis;
+- stronger independent foreign / commercial voice;
+- reduced ability of outside powers or Council-linked houses to treat Port as infrastructure rather than a polity;
+- clearer rights for Port residents / workers / displaced populations who bear the city's costs.
+
+The slogan-level political idea is:
+
+> **neutrality without agency is dependency.**
+
+That is a design summary, not necessarily an in-world quotation.
+
+---
+
+# 5. Relationship to the Council
+
+The Council matters to him because it reveals an especially infuriating contradiction.
+
+The public political order says Port's status is too delicate for decisive action without consultation.
+
+The Council, meanwhile, can quietly coordinate:
+
+- credit;
+- shipping;
+- warehouses;
+- risk;
+- contracts;
+- infrastructure;
+- information;
+
+through Port whenever system stability requires it.
+
+So from his perspective:
+
+> Port itself is constrained by red tape while hidden private actors are free to make consequential decisions through the city.
+
+That is the point where a Port grievance becomes an anti-Council grievance.
+
+He does not initially need to hate the Council because it is secret.
+
+He hates that it can do what Port is told Port itself cannot do:
+
+> act quickly across boundaries because the system needs it.
+
+---
+
+# 6. Strategic objective
+
+His operational objective is therefore more specific than "destroy the Council."
+
+He wants to create conditions in which the existing Port settlement becomes politically indefensible.
+
+The desired chain is:
+
+1. real crises increase the world's dependence on Port;
+2. Port absorbs more cost and pressure;
+3. neutrality / treaty procedure slows or limits the help Port can obtain;
+4. Council-linked actors quietly intervene to keep the wider system moving;
+5. those interventions reveal that rapid coordination is possible when outside commerce is threatened;
+6. the contrast becomes politically visible:
+   - slow action for Port's needs;
+   - fast hidden action for system stability;
+7. Port residents and allies demand a new settlement;
+8. alternative networks demonstrate that Port can perform more functions on its own;
+9. outside powers must choose between renegotiation and a destabilized Port they all still need.
+
+The Council legitimacy crisis is therefore **a lever inside the Port struggle**, not the Villain's abstract end goal.
+
+---
+
+# 7. Why the domino plan reaches beyond Port
+
+He cannot change Port's status by arguing only inside Port.
+
+The current settlement exists because many outside powers benefit from it.
+
+So he must alter the incentives of those powers.
+
+He needs to make them feel:
+
+- how much they depend on Port;
+- how expensive Port paralysis becomes;
+- how dangerous it is when nobody can act quickly;
+- how much hidden private coordination already substitutes for public responsibility.
+
+This is why his dominoes move through:
+
+- North Coast shipping;
+- Low Rivers trade;
+- Stone Hills production;
+- High Roads movement;
+- Longwood infrastructure;
+- Old Cities coordination.
+
+The outside crises are not his true constituency.
+
+They are the systems that make Port's political trap visible.
+
+---
+
+# 8. What makes him dangerous
 
 He understands that governments and institutions do not need to be mind-controlled.
 
@@ -97,302 +283,181 @@ They need:
 - convincing evidence;
 - political pressure;
 - fear of appearing weak;
-- a rival mobilization;
-- an emergency that makes delay costly.
+- emergency conditions;
+- a reason compromise appears costly.
 
-He manipulates **conditions and interpretation**, not personalities.
+He manipulates **conditions and timing**, not personalities.
 
 The strongest domino is one where the next actor behaves exactly as their own interests predict.
 
 ---
 
-# 5. Method
+# 9. Bypass strategy
 
-His preferred tools are:
+He also understands that Port cannot demand more independence while remaining wholly dependent on the same outside networks.
 
-- real corruption;
-- true but selective leaks;
-- timing;
-- route-confidence manipulation;
-- financing of bypass networks;
-- smuggling / secondary logistics;
-- selective support to factions already moving;
-- staged or redirected attacks when escalation grows;
-- contract / record exposure;
-- economic bottlenecks;
-- Council countermeasures themselves.
-
-The best move has two explanations:
-
-1. what the participant believes they are responding to;
-2. what strategic condition that response creates for him.
-
----
-
-# 6. The braided plan
-
-See [Villain's Dominoes](Villains-Dominoes.md).
-
-He does not build one linear chain.
-
-He works several pressures at once:
-
-- maritime risk → Port credit → Low Rivers debt → Stone Hills labor;
-- route insecurity → rerouting → emergency infrastructure → Longwood sovereignty conflict;
-- drought fear → Old Cities coordination → bloc anxiety;
-- Spine / Underpass disruption → alternative logistics / bypass networks.
-
-These chains converge on the Council.
-
-That makes his plan resilient.
-
-One failed domino does not collapse the entire strategy.
-
----
-
-# 7. Why he needs the Council to respond
-
-A pure sabotage campaign would actually make the Council's case stronger:
-
-> "Without us, everything falls apart."
-
-Therefore he needs a harder outcome.
-
-He needs Council coordination to **work enough to become visible**.
-
-For example:
-
-- a credit intervention prevents merchant collapse but favors selected clients;
-- redirected transport saves one market and impoverishes another;
-- a road project creates resilience while overriding layered local rights;
-- strategic-material purchasing protects security while worsening labor suspicion.
-
-The Villain then exposes the connection.
-
-His accusation can contain a real truth:
-
-> unelected private actors decided whose losses were acceptable.
-
-The missing context is that some interventions may also have prevented catastrophe.
-
----
-
-# 8. Bypass strategy
-
-The Villain cannot credibly attack an indispensable system unless he can help people survive outside it.
-
-His movement therefore invests in **alternative capacity**.
+So his movement builds **alternative capacity**.
 
 Possible channels include:
 
-- secondary merchants;
+- Port-based secondary merchants;
 - guild mutual aid;
 - faith relief;
 - local credit;
-- direct inter-polity agreements;
+- independent warehouses;
+- direct producer-buyer contracts;
 - Underpass carriers;
 - smugglers;
-- independent warehouses;
-- alternate routes.
+- smaller routes / landings;
+- direct agreements with local authorities.
 
 He should not control all of these.
 
-Some should merely cooperate because the service is useful.
+Some cooperate because the service is useful.
 
-That distinction matters.
+The political point is:
 
-A movement that:
-
-- moves food;
-- protects a town;
-- exposes corruption;
-- finds missing people;
-- opens a route;
-- lowers a local cost;
-
-can acquire sincere supporters without deception.
+> **Port must be able to survive enough outside hesitation to bargain as a polity rather than plead as infrastructure.**
 
 ---
 
-# 9. Support and legitimacy
+# 10. Support and legitimacy
 
-Some people support him because his network actually helps them.
+Some people support him because his network genuinely helps Port.
 
-He may:
+It may:
 
-- expose a genuine abusive contract;
-- provide a buyer when established merchants refuse;
-- move relief through a blocked route;
-- connect communities bypassed by Council-linked firms;
-- finance legal resistance;
-- reveal real political coordination;
-- give excluded groups bargaining leverage.
+- finance repairs nobody else will fund quickly;
+- move food during a delayed response;
+- house displaced workers;
+- protect a neighborhood;
+- expose an abusive contract;
+- keep a small merchant alive;
+- move goods through a blocked route;
+- create work;
+- recover money or leverage that would otherwise leave the city.
 
-These benefits can be both sincere and strategic.
+This support does not need to be fake.
 
-The movement is dangerous because people can be right to value it.
+That makes his later choices more tragic.
 
 ---
 
-# 10. Moral trajectory
+# 11. Moral trajectory
 
-His descent should be visible in **what kind of causal intervention he is willing to make**.
+His descent should be visible in what kind of intervention he is willing to make.
 
-## Stage 1 — observe and expose
+## Stage 1 — expose / organize
 
-He finds real corruption / dependency and reveals it.
+He documents real leakage, delay, neglect, and unequal treatment.
 
-Civilian harm is not the point.
+He builds useful local capacity.
 
 ## Stage 2 — redirect
 
-He shifts:
+He manipulates:
 
-- money;
+- timing;
 - routes;
 - information;
-- timing.
+- contracts;
+- money.
 
-He knowingly causes some losses while telling himself the system caused them.
+He causes limited harm but tells himself he is only making the existing injustice visible.
 
 ## Stage 3 — withhold
 
-He possesses information or capacity that could reduce harm and deliberately delays it because greater pressure creates political leverage.
+He allows a preventable Port hardship to worsen because outside delay strengthens his political case.
 
 This is a major moral crossing.
 
+The thing he originally hated was people sitting on their hands while Port suffered.
+
+Now he begins doing it too.
+
 ## Stage 4 — manufacture
 
-He begins creating attacks, shortages, or political incidents that no longer needed to happen.
+He deliberately creates or redirects events that make Port's neutrality fail more visibly.
 
-People become instruments.
+People who never chose his political project are now being used as evidence.
 
-## Stage 5 — preserve the plan over the people
+## Stage 5 — Port becomes an abstraction to him
 
-He harms or abandons even genuine supporters when their independent choices threaten the architecture.
+The final corruption is not that he stops caring about Port.
 
-At this point he has reproduced the Council's deepest moral failure in a harsher form:
+It is that he loves **the idea of saving Port** more than the actual people living there.
 
-> deciding other people's acceptable losses without their consent.
+If Port residents reject his timing, compromise with outsiders, or accept a reform he considers insufficient, he may begin treating them as obstacles to Port's "real" liberation.
 
----
-
-# 11. Relationship to the Council
-
-He hates both:
-
-- their outcomes;
-- their method.
-
-But his strategy increasingly mirrors their operating logic.
-
-The Council says:
-
-> someone must see the whole system and make hard choices.
-
-The Villain eventually says the same thing about himself.
-
-Difference in objective does not erase similarity in method.
-
-That parallel should become clearer as the story progresses.
+That is where he fully reproduces the logic he opposed.
 
 ---
 
-# 12. Relationship to the Convergence
+# 12. Relationship to Wurdren
 
-He is not merely attacking treaties.
+Wurdren threatens him because Wurdren can demonstrate something politically dangerous:
 
-He is attacking the **political settlement that grew around them**.
+> the choice is not necessarily paralysis or centralized control.
 
-The Convergence successfully reduced older violence by creating:
+Wurdren may help create:
 
-- recognized claims;
-- passage rights;
-- arbitration;
-- shared access;
-- predictable exchange.
+- fast ad hoc cooperation;
+- direct agreements;
+- local relief;
+- trust across rival constituencies;
+- outside help without political capture;
+- practical compromises that preserve neutrality while solving the immediate problem.
 
-But later systems accumulated around those compromises.
+These solutions are smaller than the Villain's grand plan.
 
-His argument is that the settlement has become a way to:
+That is exactly why they threaten it.
 
-- freeze old inequalities;
-- preserve hidden dependencies;
-- protect institutions that never received public authority.
-
-Whether his diagnosis is fully correct remains open.
-
-His strategy deliberately forces questions the Convergence was not designed to answer.
+They suggest Port's problem might be reparable without requiring the crisis to become total.
 
 ---
 
-# 13. Relationship to Wurdren
-
-At first Wurdren is statistical noise.
-
-Wurdren becomes dangerous because he creates **coordination without domination**.
-
-He may:
-
-- bring two groups into direct contact before intermediaries can frame the dispute;
-- preserve evidence everyone expected to disappear;
-- help rivals cooperate for one practical task;
-- return a contract / record to the people affected by it;
-- save witnesses;
-- build trust between people whose isolation was part of the domino.
-
-This threatens both the Villain and, sometimes, Council assumptions.
-
-The Villain's model expects people to act through:
-
-- fear;
-- leverage;
-- incentives;
-- institutional position.
-
-Wurdren keeps generating a variable that is harder to model:
-
-> people voluntarily helping people they have come to trust.
-
-He does not solve the system by friendship.
-
-He demonstrates that public / voluntary coordination can exist outside both secret technocracy and coercive revolutionary architecture.
-
----
-
-# 14. Ending principle
+# 13. Ending principle
 
 The Villain should not simply be killed and thereby proven wrong.
 
-A satisfying resolution should separate:
+His core grievance should survive him.
 
-- the legitimacy of the grievance;
-- the usefulness of some bypass institutions;
-- the truth of some Council abuses;
-- the destructiveness of his later methods.
+Port really does face:
 
-His campaign may force a real political settlement even if:
+- responsibility diffusion;
+- constrained external agency;
+- a possible gap between economic throughput and retained public capacity;
+- dependence on outsiders who benefit from its neutrality.
 
-- he loses control of it;
-- his coalition rejects him;
-- he accepts accountability;
-- he goes into exile;
-- he is defeated during a final escalation.
+A satisfying ending should therefore force actual change in Port's settlement.
 
-His impact should remain part of the post-story world.
+Possible outcomes can include:
+
+- more local fiscal control;
+- new emergency procedures;
+- stronger local defensive capacity;
+- formalized responsibility from guarantors;
+- greater transparency around Council-linked commerce;
+- a more public coordination mechanism;
+- another negotiated arrangement that gives Port more agency.
+
+The Villain may help make those reforms unavoidable while losing control of the movement because his later methods become unacceptable.
 
 ---
 
-# 15. Still open
+# 14. Still open
 
-- identity / name;
-- people / constituency;
-- exact grievance;
-- exact historical injury;
-- exact final demand;
-- how and when he first learned the Council exists;
-- which Council relationships he can actually identify;
-- what personal event makes escalation easier for him to justify;
-- which deliberate manufactured event becomes his unmistakable moral break.
+- name;
+- whether he is Port-born or adopted Port as home;
+- family / class background;
+- prior occupation or office;
+- the specific Port emergency or repeated failures that radicalized him;
+- whether he first tried lawful reform;
+- the exact revenue / customs problem;
+- exact final constitutional demands;
+- how he learned enough about the Council to target it;
+- which manufactured event becomes his unmistakable moral break.
 
-Those are now biography / story-choice questions rather than gaps in the strategic architecture.
+The **cause is no longer open**:
+
+> **Port's neutrality has become a structure that protects the city from domination while also limiting its ability to retain wealth, receive help quickly, and act decisively for itself.**
