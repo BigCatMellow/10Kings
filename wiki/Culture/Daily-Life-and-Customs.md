@@ -229,7 +229,36 @@ Do not make every culture use elaborate formal courtship.
 
 ---
 
-# 5. Friendship and informal belonging
+## Occupational initiation through real work
+
+Legacy tradition notes repeatedly tied adulthood / professional status to the first piece of work a person could genuinely be trusted to complete.
+
+That mechanism is compatible if kept local.
+
+Examples may include:
+
+- an apprentice's first independently accepted repair;
+- a sailor's first watch entrusted without close supervision;
+- a clerk's first document signed under their own responsibility;
+- a builder's first inspected section of work;
+- a trader's first contract guaranteed in their own name.
+
+The social meaning is stronger when the rite follows **actual responsibility**, rather than an ornate trial invented only for flavor.
+
+Possible public acts:
+
+- presenting the finished work;
+- adding a maker mark;
+- being allowed to sign a ledger;
+- receiving keys / tools;
+- buying a round / meal for coworkers;
+- a household celebration.
+
+Different professions and classes should handle this differently.
+
+---
+
+# 6. Friendship and informal belonging
 
 Friendship should have practical consequences.
 
@@ -252,7 +281,7 @@ This is one way [Social Fabric](../Social-Fabric.md) becomes visible at human sc
 
 ---
 
-# 6. Hospitality and visiting
+# 7. Hospitality and visiting
 
 Hospitality should vary according to risk, scarcity and social expectation.
 
@@ -290,7 +319,7 @@ In crowded cities, hospitality may instead mean buying a meal or arranging a bed
 
 ---
 
-# 7. Etiquette
+# 8. Etiquette
 
 Etiquette should reveal social organization rather than decorate scenes.
 
@@ -326,7 +355,7 @@ No answer should be regional by default.
 
 ---
 
-# 8. Conflict, apology and reputation
+# 9. Conflict, apology and reputation
 
 A society's everyday conflict rules matter more than abstract claims about “honor.”
 
@@ -362,7 +391,7 @@ This creates consequences short of criminal law.
 
 ---
 
-# 9. Care, sickness and disability
+# 10. Care, sickness and disability
 
 Ordinary life should account for people who cannot work at full capacity.
 
@@ -385,7 +414,7 @@ This also gives institutions real reasons to retain loyalty.
 
 ---
 
-# 10. Aging and elderhood
+# 11. Aging and elderhood
 
 Age should not automatically equal authority.
 
@@ -411,7 +440,7 @@ The world should contain both respected and neglected elderly people.
 
 ---
 
-# 11. Death, mourning and burial
+# 12. Death, mourning and burial
 
 The nine trans-regional religions already have interests in burial, memory, ancestry, confession, cycles and moral testimony.
 
@@ -433,7 +462,7 @@ Exact systems remain open.
 
 ---
 
-# 12. Markets, streets and public life
+# 13. Markets, streets and public life
 
 Older notes correctly treated market days as social events.
 
@@ -460,7 +489,7 @@ These are places where culture becomes visible without exposition.
 
 ---
 
-# 13. Privacy
+# 14. Privacy
 
 Privacy is material.
 
@@ -488,7 +517,7 @@ Do not assume modern private bedrooms or private conversations are normal.
 
 ---
 
-# 14. Generational change
+# 15. Generational change
 
 Every community should contain customs that are:
 
@@ -507,7 +536,7 @@ Some traditions described as ancient may be post-Convergence standardizations.
 
 ---
 
-# 15. Regional pressures without regional personality
+# 16. Regional pressures without regional personality
 
 Regional geography and history still matter.
 
@@ -601,7 +630,7 @@ Port should develop customs that are specifically **Port-born**, not merely blen
 
 ---
 
-# 16. Scene test
+# 17. Scene test
 
 An ordinary scene should allow questions such as:
 
