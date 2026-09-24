@@ -120,7 +120,7 @@ Remaining questions:
 - North Coast exact polity map inside the now-tested layered maritime model: number of large polities, clan status, island representation, fishery / anchorage institutions, convoy authority, naval capacity, and Convergence representation.
 - Low Rivers exact polity map inside the now-tested layered agrarian-river model: number of large polities, degree of central consolidation, estate privileges, watershed institutions, town autonomy, reserve/export powers, and Convergence representation.
 - High Roads exact corridor compacts, representation rules, recurring delegate bodies, dominant polities, and Convergence delegation inside the now-tested networked governance model.
-- Whether Longwood has any durable region-wide assembly or only overlapping local institutions.
+- Longwood exact polity map inside the now-tested decentralized model: number and size of local polities, clan role, warden authority, resource-rights systems, town / countryside relations, recurring assemblies, and Convergence representation.
 - Old Cities exact polity map inside the now-tested competitive city-state model: city roster, constitutions, hinterlands, citizenship, rural representation, league powers, and Convergence representation.
 - Port citizenship and constitutional form.
 - Military and taxation structure by polity.
