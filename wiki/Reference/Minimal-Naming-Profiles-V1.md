@@ -576,11 +576,13 @@ The method now requires **micro-set generation** before a local-language name ca
 
 Profile adjustments:
 
-- **N1:** increase vowel-sequence and vowel-final possibilities; test coast / island / roadhead names together.
-- **R1:** distinguish older hydronyms from later administrative settlement names; allow more open-syllable river forms.
-- **P1:** give local plateau forms more potential final stops / compacted compound boundaries, while keeping foreign merchant spellings separate from local pronunciation.
+- **N1:** vowel-sequence / coastal variation is now tested through **Auvor / Orai / Sevu**.
+- **R1:** the older-hydronym versus productive-settlement distinction is now tested through **Daroa / Dasei / Omeda**.
+- **P1:** compact local forms with final consonants / compressed boundaries are now tested through **Mesk / Korad / Tavrek**.
 - **F1:** do not generate an isolated first name; begin with a local set.
 - **W1 / S1:** current paired tests are usable provisionally but should not become templates for every settlement.
+
+See [N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md).
 
 ---
 
