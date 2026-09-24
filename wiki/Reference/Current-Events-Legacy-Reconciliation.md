@@ -479,3 +479,28 @@ Before promoting a Volume 10 event:
 12. Does it remain interesting if no conspiracy is revealed?
 
 If not, leave it in the quarry.
+
+
+---
+
+## Recovered mechanism — current events create constituencies
+
+The legacy current-events material consistently assumed that crises do not produce one unified public reaction.
+
+Examples in the old material include:
+
+- maritime insecurity creating pressure for convoys while also creating autonomy fears;
+- smuggling expanding because official toll / control systems become expensive or restrictive;
+- smaller merchants rebelling against dominant guild houses;
+- guild splinters supporting stability, neutrality, rebellion, or profit for different reasons;
+- traditional / reform factions taking opposite positions on industrial / professional change;
+- local groups benefiting from rerouting or black-market activity even while the wider system suffers;
+- Council crackdowns creating both supporters and people who profit from evasion.
+
+This mechanism has been promoted into [Current-Event Stakeholder Reaction Matrix — V1](Current-Event-Stakeholder-Reaction-Matrix-V1.md).
+
+Current rule:
+
+> **for a major event, identify beneficiaries, losers, supporters, opponents, internal splits, and people who oppose both the problem and the proposed solution.**
+
+This is especially important to the adaptive domino plan because constituency splits make institutional responses less predictable.
