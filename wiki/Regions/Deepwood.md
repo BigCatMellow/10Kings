@@ -139,7 +139,10 @@ Longwood politics revolve around:
 - trade in high-value plants;
 - local autonomy.
 
-See [Longwood Functional Governance Test](../Reference/Longwood-Functional-Governance-Test.md).
+See:
+
+- [Longwood Functional Governance Test](../Reference/Longwood-Functional-Governance-Test.md)
+- [Longwood Political Order Vertical Slice — V1](../Reference/Longwood-Political-Order-Vertical-Slice-V1.md) for the current provisional LW-W / LW-I / LW-S concrete political-order test.
 
 The strongest current structural conclusion is a **decentralized mosaic of local polities and communities** rather than one forest government.
 
