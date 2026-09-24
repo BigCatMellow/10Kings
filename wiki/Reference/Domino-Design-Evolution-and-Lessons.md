@@ -380,3 +380,112 @@ This avoids both failure modes:
 
 - clinging to old work because effort was spent on it;
 - discarding old work so completely that its lesson is lost.
+
+
+---
+
+# 12. Change record — 2026-09-24 adaptive correction
+
+## Changed
+
+The active model changed from:
+
+~~~text
+fixed no-leap chain
++ large micro-action ledger
+~~~
+
+to:
+
+~~~text
+pressure states
++ branching routes
++ selective intervention windows
++ capability reserves
++ mandatory failures / containment
++ observe-and-adapt loop
+~~~
+
+## Previous assumption
+
+The 40-step V1 chain was treated too close to a prospective plan.
+
+The 79-action V1 ledger, while explicitly described as possible actions, still looked too much like a hidden operational checklist.
+
+That created two plausibility problems:
+
+1. too many future outcomes had to go the Villain's way;
+2. too many knowingly coordinated actions would create too many witnesses / records / leaks.
+
+## Why it changed
+
+A mastermind cannot plausibly:
+
+- predict dozens of independent institutions perfectly;
+- coordinate huge numbers of secret actions without leakage;
+- rely on every external response;
+- retroactively claim every surprise was intended.
+
+The better model is a strategic gardener / pressure trader:
+
+- knows what conditions he wants;
+- understands historical / institutional tendencies;
+- keeps useful capabilities available;
+- waits for naturally occurring openings;
+- nudges selectively;
+- abandons failed branches;
+- exploits useful surprises.
+
+## Preserved value
+
+The old work was not discarded.
+
+V1 still proved:
+
+- war requires intermediate stages;
+- commercial protection can become security policy;
+- security policy can become mobilization capacity;
+- guarantees can broaden a local conflict;
+- mundane acts can have large downstream effects.
+
+Those are retained.
+
+## New rule
+
+> **He steers probabilities, not events.**
+
+Supporting rules:
+
+- not every useful event is a Villain success;
+- not every Villain action succeeds;
+- successful containment is canon-compatible;
+- unexpected outcomes should sometimes improve / worsen his position;
+- only a tiny group knows war is being cultivated;
+- most consequential actors remain unwitting;
+- the exact final spark is emergent, not pre-scripted.
+
+## File changes
+
+Active replacements:
+
+- Adaptive-Domino-Doctrine-V1.md
+- Adaptive-War-Escalation-Graph-V2.md
+- Conspiracy-Capability-Ledger-V2.md
+
+Preserved but superseded:
+
+- War-Escalation-Causal-Chain-V1.md
+- Domino-Conspiracy-Ledger-V1.md
+
+Updated owners:
+
+- Story/Villains-Dominoes.md
+- Story/Villain.md
+- Story/Current-Events.md
+- Story/Main-Conflict.md
+- World-System.md
+- Open-Questions.md
+
+## Future check
+
+When a later pass changes the plan again, update this page rather than silently rewriting the reasoning history.
