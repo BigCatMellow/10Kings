@@ -137,7 +137,10 @@ Political conflict centers on:
 - export rules;
 - estate versus cooperative power.
 
-See [Low Rivers Functional Governance Test](../Reference/Low-Rivers-Functional-Governance-Test.md).
+See:
+
+- [Low Rivers Functional Governance Test](../Reference/Low-Rivers-Functional-Governance-Test.md)
+- [Low Rivers Polity Vertical Slice — V1](../Reference/Low-Rivers-Polity-Vertical-Slice-V1.md) for the current provisional LR-A / LR-M concrete-state test.
 
 The strongest current structural conclusion is that Low Rivers politics is **layered rather than cleanly centralized or decentralized**.
 
