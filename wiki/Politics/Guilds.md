@@ -240,21 +240,112 @@ He does not need every guild leader to report to him.
 
 He benefits because the network itself centralizes information.
 
-### Limits
+### Internal factions around Port centralization
 
-Guild centralization should create resistance.
+The movement is **not** proceeding by consensus.
 
-Possible objections include:
+Legacy guild material strongly supports:
 
-- local branches fear losing autonomy;
-- regional governments dislike Port gaining leverage;
-- established guild leadership fears cross-guild coordination;
-- members resent travel / dues / bureaucracy;
-- some professions have little reason to centralize.
+- meaningful branch autonomy;
+- fragile guild-wide accords;
+- splinters;
+- smaller members resisting dominant leadership;
+- freelancers rejecting bureaucracy;
+- traditional / reform factions.
 
-The movement should therefore remain uneven.
+The current Port-centralization debate should therefore contain at least four recurring positions.
 
-See [Three Moons Festival](../Culture/Three-Moons-Festival.md).
+#### Port centralizers
+
+Want:
+
+- permanent representatives;
+- common standards;
+- shared arbitration;
+- reciprocal credentials;
+- easier cross-guild contracting.
+
+They see Port as the obvious neutral coordination point.
+
+They may genuinely believe centralization makes guild members more powerful relative to rulers / Council-linked finance.
+
+#### Federal coordinators
+
+Support stronger communication but reject a Port-centered chain of command.
+
+Prefer:
+
+- rotating meetings;
+- limited common secretariat;
+- reciprocal agreements;
+- strong regional branch authority.
+
+This is probably the most important internal alternative to the Villain's preferred model because it offers many of the same practical benefits without concentrating as much power in Port.
+
+#### Regional autonomists
+
+Fear:
+
+- local practices being overwritten;
+- dues / fees / contracts flowing toward Port;
+- Port representatives becoming de facto guild government;
+- regional rulers retaliating against local branches;
+- local members losing control over standards / apprenticeship / work allocation.
+
+They may support Three Moons meetings while opposing permanent relocation of authority.
+
+#### Small-member / anti-bureaucratic faction
+
+Smaller merchants, independent masters, itinerant professionals, and some local branches may believe centralization primarily benefits:
+
+- large houses;
+- wealthy guild leaders;
+- people who can afford permanent Port representation.
+
+Their objection is not necessarily regional.
+
+It can be:
+
+> **you are making it easier for the biggest guild members to govern the rest of us.**
+
+### Branching / splinter risk
+
+Pushback needs consequences.
+
+Possible results include:
+
+- a branch refusing a Port decision;
+- a regional association leaving a wider guild;
+- an independent standards body forming;
+- professionals refusing reciprocal credential rules;
+- local guild halls continuing to recognize one another while refusing Port authority;
+- a breakaway faction becoming more politically radical than either the old leadership or the Villain expected.
+
+The Villain cannot assume splinters support him.
+
+A breakaway group may oppose:
+
+- the Council;
+- Port centralization;
+- **and** the Villain.
+
+That is especially useful for the adaptive plan.
+
+### Political meaning
+
+His guild project therefore creates both:
+
+- **Port power**;
+- **Port backlash**.
+
+The same reform that improves continental coordination can become evidence for critics who argue:
+
+> Port is slowly turning neutral convenience into institutional dominance.
+
+See:
+
+- [Three Moons Festival](../Culture/Three-Moons-Festival.md);
+- [Current-Event Stakeholder Reaction Matrix — V1](../Reference/Current-Event-Stakeholder-Reaction-Matrix-V1.md).
 
 ---
 
