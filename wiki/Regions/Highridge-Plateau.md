@@ -133,7 +133,11 @@ The region's reputation for reasoned debate is partly ideal and partly instituti
 
 ## Functional governance
 
-[High Roads Functional Governance Test](../Reference/High-Roads-Functional-Governance-Test.md) now gives the strongest working political model:
+[High Roads Functional Governance Test](../Reference/High-Roads-Functional-Governance-Test.md) gives the structural model.
+
+[High Roads Political Order Vertical Slice — V1](../Reference/High-Roads-Political-Order-Vertical-Slice-V1.md) now tests HR-N / HR-W / HR-C as concrete political actors and confirms that sophisticated external coordination can work without a superior High Roads state.
+
+The strongest working political model:
 
 - local polities / communities retain ordinary authority;
 - corridor-specific compacts coordinate shared roads, passes, maintenance, toll expectations, closures, and emergency obligations;
