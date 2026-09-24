@@ -1140,24 +1140,37 @@ Its useful functions and its illegitimate authority are deliberately entangled.
 
 # 22. Relationship to the Villain
 
-The Villain attacks the Council's coordination model.
+The Villain's cause is **Port**, not abstract opposition to coordination.
 
-He does not need to overpower every member house.
+He sees a contradiction:
+
+- Port's neutrality makes decisive public action slow, negotiated, and politically sensitive;
+- Council-linked houses can still coordinate credit, shipping, warehouses, information, and infrastructure through Port when wider system stability requires it.
+
+To him, this proves that the world can act quickly through Port when commerce is threatened while Port itself is told to wait when its own needs are at issue.
+
+The Council therefore becomes both:
+
+- an obstacle;
+- evidence.
 
 He can:
 
-- make information unreliable;
-- create simultaneous demands;
-- force Council portfolios into conflict;
-- create politically unacceptable costs for intervention;
-- build or exploit bypass networks;
-- make rulers see coordination as coercion;
-- force the Council to act openly.
+- create simultaneous demands that concentrate cost in Port;
+- expose Council-linked interventions;
+- build / exploit bypass networks;
+- contrast delayed public help with rapid private coordination;
+- force the Council to choose between maintaining secrecy and maintaining stability.
 
-His strongest attack is to make the Council choose between:
+His strongest political attack is not:
 
-- maintaining secrecy;
-- maintaining stability.
+> the Council caused every crisis.
+
+It is:
+
+> **the hidden system can act through Port more freely than Port can act for itself.**
+
+That argument can remain politically damaging even when Council intervention genuinely prevented worse harm.
 
 ---
 
