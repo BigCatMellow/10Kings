@@ -331,7 +331,10 @@ Stone Hills demonstrates the difference between **formal rule and economic capac
 
 # 7. North Coast
 
-See [North Coast](../Regions/Northwind.md).
+See:
+
+- [North Coast](../Regions/Northwind.md)
+- [North Coast Functional Governance Test](../Reference/North-Coast-Functional-Governance-Test.md)
 
 ## Established political pressures
 
@@ -356,22 +359,39 @@ Modern politics remain sensitive to:
 
 ## Structural conclusion
 
-North Coast should retain strong local and maritime authority even if larger political units exist.
+The functional tests support a **layered maritime political order** in which several kinds of authority overlap:
 
-A central ruler or confederation cannot be assumed to erase:
+- shore / territorial authority;
+- harbor government;
+- clan or kin obligation;
+- seasonal fishery and anchorage rights;
+- larger polity or coalition authority for war, diplomacy, convoy action, piracy suppression, and strategic policy.
 
-- clan rights;
-- harbor institutions;
-- island privileges;
-- seasonal access claims.
+The strongest constraint is:
+
+> **sea-use rights cannot be modeled as simple extensions of land borders.**
+
+A larger ruler or confederation can matter greatly without commanding every cove, vessel, clan, or customary access right.
+
+Harbor use, harbor property, civic government, and territorial sovereignty should remain distinct.
+
+Temporary or issue-specific coordination for convoys, rescue, fisheries, and piracy can carry real authority without automatically becoming a permanent North Coast state.
 
 ## Still open
 
-- how many major polities exist;
-- whether there is one dominant crown/confederation;
-- how islands participate;
-- exact relation between maritime and inland authority.
+The tests do not establish:
 
+- how many major polities exist;
+- whether one crown / confederation dominates;
+- exact clan political status;
+- island representation;
+- fishery institutions;
+- maritime law;
+- convoy command;
+- standing naval forces;
+- exact North Coast signatories / delegates in the Convergence.
+
+Do not erase local and maritime authority merely to make a larger polity tidy.
 ---
 
 # 8. Low Rivers
