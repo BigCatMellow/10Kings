@@ -92,6 +92,7 @@
 - [Low Rivers Polity Vertical Slice V1](Reference/Low-Rivers-Polity-Vertical-Slice-V1.md)
 - [North Coast Polity Vertical Slice V1](Reference/North-Coast-Polity-Vertical-Slice-V1.md)
 - [High Roads Political Order Vertical Slice V1](Reference/High-Roads-Political-Order-Vertical-Slice-V1.md)
+- [Old Cities Political Order Vertical Slice V1](Reference/Old-Cities-Political-Order-Vertical-Slice-V1.md)
 - [Middle Worldbuilding](Reference/Middle-Worldbuilding.md)
 - [Writing the Sequel](Reference/Writing-the-Sequel.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
