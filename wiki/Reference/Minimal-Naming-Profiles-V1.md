@@ -26,6 +26,24 @@ These profiles do **not** establish:
 
 The W1 / N1 / R1 / P1 / F1 / S1 IDs remain temporary design handles.
 
+## Critical limit added after lexical QA
+
+These profiles are **filters, not generators**.
+
+They may help answer:
+
+> Would an independently derived historical name plausibly fit this language layer?
+
+They may **not** be used to:
+
+1. invent a pleasant-looking form;
+2. invent one-use roots to explain it;
+3. declare that explanation linguistic history.
+
+[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) records why that approach failed.
+
+Until vocabulary / morphology exists independently enough to derive a name, keep the local endonym unresolved and use a grounded common-language name or design ID where needed.
+
 ---
 
 # 1. General generation rule
@@ -576,11 +594,9 @@ The method now requires **micro-set generation** before a local-language name ca
 
 Profile adjustments:
 
-- **N1:** vowel-sequence / coastal variation is now tested through **Auvor / Orai / Sevu**.
-- **R1:** the older-hydronym versus productive-settlement distinction is now tested through **Daroa / Dasei / Omeda**.
-- **P1:** compact local forms with final consonants / compressed boundaries are now tested through **Mesk / Korad / Tavrek**.
-- **F1:** do not generate an isolated first name; begin with a local set.
-- **W1 / S1:** current paired tests are usable provisionally but should not become templates for every settlement.
+- **N1 / R1 / P1 / W1 / S1:** previous lexical tests are retained only as failed-method provenance.
+- **F1:** do not generate an isolated first name.
+- **All clusters:** develop actual reusable linguistic history first; only then derive names and use a micro-set as QA.
 
 See [N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md).
 
