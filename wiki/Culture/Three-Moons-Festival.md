@@ -273,7 +273,43 @@ That duality directly supports Port's larger political grievance.
 
 ---
 
-# 10. Still open
+# 10. Political disagreement around the festival
+
+Three Moons should not be universally celebrated as proof of Port's importance.
+
+## Supporters can see
+
+- income;
+- jobs;
+- contracts;
+- civic pride;
+- continental prestige;
+- easier guild / professional coordination.
+
+## Critics can see
+
+- rising rents / food prices;
+- overcrowding;
+- unequal gains;
+- large guild houses gaining disproportionate access;
+- temporary meetings becoming permanent Port institutions;
+- Port accumulating continental influence under the language of neutrality.
+
+Guild-centralization opponents can use the festival as an argument:
+
+> **coordination that was supposed to be exceptional is becoming permanent.**
+
+Other people can answer:
+
+> **why deliberately make continental work harder simply to prevent Port from becoming important?**
+
+Neither side needs to be insincere.
+
+See [Current-Event Stakeholder Reaction Matrix — V1](../Reference/Current-Event-Stakeholder-Reaction-Matrix-V1.md).
+
+---
+
+# 11. Still open
 
 - why it is called Three Moons;
 - the exact astronomical / historical basis;
