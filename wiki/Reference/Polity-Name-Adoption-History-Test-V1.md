@@ -13,21 +13,23 @@ can plausibly spread upward into common political names.
 
 Targets:
 
-- Ralen → LR-A;
-- Kelan → NC-M;
+- Daroa → LR-A;
+- Auvor → NC-M;
 - Varel → SH-A.
 
 The rule remains:
 
 > **A polity name must be inherited from a real historical naming process, not assigned because the map needs a label.**
 
+**Lexical QA note:** the original isolated candidates **Ralen / Kelan / Meren** were superseded after [Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md). [N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now supplies **Daroa / Auvor / Mesk** and their same-cluster comparison sets. The adoption mechanisms on this page are retained, but the current lexical forms below reflect the micro-set result.
+
 ---
 
-# 1. Ralen → LR-A
+# 1. Daroa → LR-A
 
 ## Starting facts
 
-Ralen is the provisional G1 hydronym.
+Daroa is the provisional G1 hydronym.
 
 The river:
 
@@ -37,7 +39,7 @@ The river:
 - reaches Port's special jurisdiction;
 - therefore is not wholly controlled by LR-A.
 
-LR-A's political consolidation nevertheless follows much of the central Ralen basin.
+LR-A's political consolidation nevertheless follows much of the central Daroa basin.
 
 ---
 
@@ -53,7 +55,7 @@ Possible, but ruler / succession remains intentionally open.
 
 ### C. Basin-derived political name
 
-A broad geographic label based on the Ralen becomes increasingly administrative.
+A broad geographic label based on the Daroa becomes increasingly administrative.
 
 This requires no new institution.
 
@@ -64,11 +66,11 @@ This requires no new institution.
 ## V1 adoption sequence
 
 ~~~
-Ralen — old river name
-→ Ralen basin / Ralen lowlands — geographic speech
-→ tax / route / court records use Ralen as a practical district reference
+Daroa — old river name
+→ Daroa basin / Daroa lowlands — geographic speech
+→ tax / route / court records use Daroa as a practical district reference
 → consolidation brings much of that basin under one territorial authority
-→ outsiders increasingly use Ralen as shorthand for the polity
+→ outsiders increasingly use Daroa as shorthand for the polity
 → state and river share a name without implying identical boundaries
 ~~~
 
@@ -78,8 +80,8 @@ A river-derived state name does not logically claim every mile of the river.
 
 Context distinguishes:
 
-- the Ralen — river;
-- Ralen — polity / territory.
+- the Daroa — river;
+- Daroa — polity / territory.
 
 ---
 
@@ -89,7 +91,7 @@ The shared name can still create rhetoric.
 
 Port or High Roads speakers may mock LR-A claims that sound like:
 
-> Ralen policy
+> Daroa policy
 
 when the subject concerns water outside LR-A's jurisdiction.
 
@@ -109,11 +111,11 @@ Exact local formal state style, ruler title, and capital remain open.
 
 ---
 
-# 2. Kelan → NC-M
+# 2. Auvor → NC-M
 
 ## Starting facts
 
-Kelan is the provisional principal mainland political harbor.
+Auvor is the provisional principal mainland political harbor.
 
 NC-M formed through recurring coordination among:
 
@@ -129,7 +131,7 @@ A simple seat-named kingdom would understate that history.
 
 ## Possible naming paths
 
-### A. State simply called Kelan
+### A. State simply called Auvor
 
 Possible but risks implying the harbor absorbed all others through ordinary territorial centralization.
 
@@ -139,7 +141,7 @@ Possible, but no such older label is established.
 
 ### C. Compact name based on meeting place
 
-Repeated multi-harbor agreements become associated with Kelan because major negotiations / records occur there.
+Repeated multi-harbor agreements become associated with Auvor because major negotiations / records occur there.
 
 The political order later becomes more state-like while retaining the historical compact label.
 
@@ -150,9 +152,9 @@ The political order later becomes more state-like while retaining the historical
 ## V1 adoption sequence
 
 ~~~
-Kelan — old sheltered harbor
-→ recurring defense / rescue meetings held at Kelan
-→ "Kelan agreement / compact" becomes foreign and legal shorthand
+Auvor — old sheltered harbor
+→ recurring defense / rescue meetings held at Auvor
+→ "Auvor agreement / compact" becomes foreign and legal shorthand
 → later maritime coordination becomes more durable
 → mainland territorial consolidation grows around the compact institutions
 → outsiders use the inherited compact name for the polity
@@ -165,13 +167,13 @@ This is exactly the kind of institutional fossil Writing the Sequel favors.
 
 ## Working common-language form
 
-> **the Kelan Compact**
+> **the Auvor Compact**
 
 This is a **translated/common-language political label**, not necessarily the local constitutional title.
 
 Ordinary speech can shorten it to:
 
-> **Kelan**
+> **Auvor**
 
 depending on context.
 
@@ -197,7 +199,7 @@ Autonomists may treat it as constitutional evidence.
 
 > **KELAN COMPACT — STRONG PASS AS WORKING COMMON-LANGUAGE NAME FOR NC-M.**
 
-Kelan remains the central city.
+Auvor remains the central city.
 
 The Compact remains provisional and does not decide monarchy / elective / mixed executive structure.
 
@@ -312,8 +314,8 @@ The resulting political names now encode different state histories.
 | V1 actor | Working common name | Adoption mechanism |
 | --- | --- | --- |
 | SH-A | **Varel** | ruling-seat metonym for a composite state |
-| NC-M | **the Kelan Compact** / Kelan | old meeting / compact label retained by a maritime state |
-| LR-A | **Ralen** | river / basin geographic name becomes political shorthand |
+| NC-M | **the Auvor Compact** / Auvor | old meeting / compact label retained by a maritime state |
+| LR-A | **Daroa** | river / basin geographic name becomes political shorthand |
 
 This is a strong anti-symmetry result.
 
@@ -333,13 +335,13 @@ Internal localists can object to centralizing language:
 
 That statement can be politically meaningful.
 
-## Kelan Compact
+## Auvor Compact
 
 Autonomists can cite the word **Compact** as evidence that the center is fundamentally an agreement among jurisdictions.
 
 Centralizers can call that anachronistic.
 
-## Ralen
+## Daroa
 
 The government can derive legitimacy from basin coordination while critics point out:
 
@@ -355,31 +357,31 @@ The name naturally produces arguments about the difference between geographic id
 
 # 6. Map-readiness result
 
-The first-order political map can now use provisional common forms:
+The first-order political map can now use provisional reference forms:
 
-- **Varel** — SH-A;
+- **Varel** — SH-A common political metonym / ruling seat;
 - **Kavel** — SH-M;
-- **the Kelan Compact** — NC-M;
-- **Kelan** — NC-M central city;
-- **Ralen** — LR-A;
-- **Last Quay** — LR-M commercial form;
-- **Meren** — HR-C;
+- **the Auvor Compact** — NC-M common political label;
+- **Auvor** — NC-M central harbor / city;
+- **Orai** — NC-I principal island / island polity;
+- **Sevu** — NC-R local town; **North Yard** as caravan shorthand;
+- **Daroa** — G1 river and provisional LR-A common political name;
+- **Dasei** — LR-M local city; **Last Quay** as commercial exonym;
+- **Mesk** — HR-C;
+- **Korad** — HR-N roadhead / local center; **South Yard** as caravan shorthand;
+- **Tavrek** — HR-W principal settlement;
 - **Naret** — OC-U;
 - **Talir** — OC-D;
 - **Port** — P.
 
 Still unnamed / design-ID only:
 
-- NC-I;
-- NC-R local town;
-- HR-N local polity / South Yard town;
-- HR-W;
 - LW-W;
 - LW-I;
 - LW-S;
 - OC-C.
 
-That is enough named structure to make political examples less abstract without pretending the whole map is finished.
+This is enough named structure to make political examples less abstract without pretending the whole map is finished.
 
 ---
 
@@ -397,29 +399,38 @@ For now, reference pages may use the names parenthetically alongside IDs.
 
 ---
 
-# 8. Lexical QA correction
+# 8. Micro-set QA result
 
 [Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md) separates **historical adoption mechanisms** from **lexical candidate quality**.
 
-Current status:
+[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now closes the held-name loop.
 
-- Varel → provisional pass as SH-A common political metonym;
-- Kelan / Kelan Compact → naming mechanism passes, lexical form on **HOLD**;
-- Ralen → river-to-polity naming mechanism passes, lexical form on **HOLD**.
+Current polity-adoption status:
 
-Do not treat the earlier strong-pass language for Kelan / Ralen as final candidate status. Their replacement forms must come from N1 / R1 micro-sets.
+- **Varel** → provisional pass as SH-A common political metonym;
+- **the Auvor Compact / Auvor** → strong provisional pass as NC-M's inherited meeting-place / compact label;
+- **Daroa** → provisional pass as river / basin common political name for LR-A.
+
+The three political labels therefore arise by different mechanisms:
+
+1. ruling-seat metonym;
+2. institutional compact fossil;
+3. geographic basin name.
+
+That anti-symmetry survives the lexical QA pass.
 
 ---
 
-# 9. Next naming priority
+# 9. Stop gate
 
 Do not immediately name every remaining actor.
 
-The highest-value next test is **neighboring-name pressure**:
+The micro-set method is now demonstrated for W1, N1, R1, P1, and S1.
 
-- Does Kavel / Varel create enough W1 variation?
-- Does Naret / Talir feel like two cities from a related S1 environment without looking mechanically matched?
-- Does Kelan sit comfortably beside future NC-I / North Yard local forms?
-- Does Ralen create confusing overuse when naming districts / people?
+F1 should remain ungenerated until a concrete Longwood place or story need requires a local naming set.
 
-Test that before broader promotion.
+The next useful work is **placement / use**, not more name inventory:
+
+- use the provisional names in reference examples where they clarify politics;
+- retain design IDs in status tables;
+- promote names into canonical owner prose only when map placement / story use makes the benefit greater than the risk of churn.
