@@ -696,6 +696,36 @@ An archive can contain evidence Council members have never seen.
 
 ---
 
+## Low-level detection can beat elite visibility
+
+Legacy story material repeatedly uses clerks, quartermasters, captains, local officials, and record-keepers as people who can notice **inconsistency before they understand significance**.
+
+That remains useful for the Council.
+
+A senior member may see:
+
+- aggregate prices;
+- political reports;
+- strategic summaries.
+
+A lower-level worker may instead notice:
+
+- two manifests using the same odd wording;
+- a route report dated impossibly early;
+- repeated corrections from the same intermediary;
+- a supposedly unrelated transaction sharing a guarantor;
+- inventory numbers that do not reconcile.
+
+The Council's information system therefore has a bottom-up vulnerability and strength:
+
+> **people closest to records may detect anomalies that senior analysts smooth away as noise.**
+
+This can create internal tension if a junior worker is correct but lacks enough status to force attention.
+
+It also gives the story a grounded detection path that does not require one genius investigator.
+
+---
+
 # 13. The Council's limits
 
 The Council becomes less believable if every obstacle proves it was secretly in control.
