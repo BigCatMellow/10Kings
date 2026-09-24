@@ -118,7 +118,7 @@ Remaining questions:
 - Exact number of sovereign and semi-sovereign polities.
 - Stone Hills central structure and the reach of any crown / state institutions.
 - North Coast relationship among clans, harbors, islands, and any larger crown / confederation.
-- Low Rivers relationship among central authority, estates, river towns, irrigation systems, cooperatives, and villages.
+- Low Rivers exact polity map inside the now-tested layered agrarian-river model: number of large polities, degree of central consolidation, estate privileges, watershed institutions, town autonomy, reserve/export powers, and Convergence representation.
 - High Roads exact corridor compacts, representation rules, recurring delegate bodies, dominant polities, and Convergence delegation inside the now-tested networked governance model.
 - Whether Longwood has any durable region-wide assembly or only overlapping local institutions.
 - Exact Old Cities city-state roster, leagues, and client territories.
