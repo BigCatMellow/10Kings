@@ -226,7 +226,7 @@ At the start:
 - officials see **their own files**;
 - merchants see **prices / routes**;
 - the Council sees more cross-system correlation;
-- the Villain sees the intended leverage structure.
+- the Villain sees more of the current leverage landscape, but not the future sequence.
 
 Do not give Wurdren a clean conspiracy clue every time.
 
