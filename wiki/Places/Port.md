@@ -117,6 +117,32 @@ Those remain legacy material unless separately promoted.
 
 ---
 
+## Financial switching role
+
+Port's commercial centrality is also financial.
+
+See [Money, Credit, and Market Infrastructure](../Economy/Money-Credit-and-Market-Infrastructure.md).
+
+Because Port concentrates:
+
+- merchants;
+- warehouses;
+- shipping information;
+- courts / arbitration;
+- guild representatives;
+- guarantors;
+- record services;
+
+credit conditions in Port can transmit shocks far beyond the city.
+
+This is leverage, not monopoly.
+
+Other places lend, record debts, guarantee contracts, and finance trade.
+
+Port matters because many networks overlap there.
+
+---
+
 ## Guild concentration and the Three Moons cycle
 
 Port's political / commercial centrality is increasingly reinforced by **guild presence**.
