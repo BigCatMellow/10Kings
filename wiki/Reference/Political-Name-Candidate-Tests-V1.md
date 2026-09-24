@@ -386,7 +386,13 @@ That distinction is valuable.
 
 [Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md) found that **Ralen** and **Kelan** collide too strongly with the wider first-pass naming set.
 
-Their historical naming mechanisms remain useful, but the lexical forms are now **HOLD**, not provisional passes.
+Their historical naming mechanisms remain useful, but those lexical forms are superseded.
+
+[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now replaces the held forms:
+
+- Kelan → **Auvor** inside the N1 set Auvor / Orai / Sevu;
+- Ralen → **Daroa** inside the R1 set Daroa / Dasei / Omeda;
+- Meren → **Mesk** inside the P1 set Mesk / Korad / Tavrek.
 
 Varel remains provisionally usable because its similarity to Kavel is internally explained by the shared W1 **-el** riverside element.
 
@@ -394,14 +400,14 @@ Varel remains provisionally usable because its similarity to Kavel is internally
 
 # 11. Polity-adoption result
 
-[Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) now tests how the three state-level names could arise historically.
+[Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) now retests the state-level naming mechanisms using the micro-set forms.
 
 Working common-language results:
 
 - SH-A → **Varel**, by ruling-seat metonym;
-- NC-M → compact-meeting-place naming mechanism passes, but **Kelan** itself is now on hold pending an N1 micro-set;
-- LR-A → river / basin naming mechanism passes, but **Ralen** itself is now on hold pending an R1 micro-set.
+- NC-M → **the Auvor Compact / Auvor**, by inherited meeting-place / compact naming;
+- LR-A → **Daroa**, by river / basin naming.
 
-These are still provisional reference names, not final local constitutional titles.
+These remain provisional reference names rather than final local constitutional titles.
 
 The adoption mechanisms are deliberately different and preserve the underlying political structures.
