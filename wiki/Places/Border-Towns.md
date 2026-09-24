@@ -4,6 +4,8 @@
 
 **Working canon at the mechanism level. Exact town names and locations remain provisional unless established elsewhere.**
 
+**Current political-location test:** [Political Adjacency and Border-Interface Test — V1](../Reference/Political-Adjacency-and-Border-Interface-Test-V1.md) now identifies which contact-zone interfaces are required by the working political geography without making the towns independent microstates.
+
 ## Principle
 
 Border towns are not diluted versions of two cultures.
