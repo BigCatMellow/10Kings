@@ -2,7 +2,14 @@
 
 ## Status
 
-**Provisional place test — not canon and intentionally unnamed.**
+**Provisional place test — not canon.**
+
+The naming layer is now tested in [N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md):
+
+- local R1 city candidate — **Dasei**;
+- interregional commercial exonym — **Last Quay**.
+
+Both remain provisional reference forms.
 
 This page develops the settlement implied by the G1 transport system in:
 
