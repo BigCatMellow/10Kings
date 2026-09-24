@@ -133,6 +133,8 @@ The comparison passes: similar state-level capacities do not produce identical p
 
 [Old Cities Political Order Vertical Slice — V1](Reference/Old-Cities-Political-Order-Vertical-Slice-V1.md) tests a separate plural model: sovereign OC-U / OC-D / OC-C city-states can maintain durable delegated water / defense / trade institutions without those institutions becoming a federation.
 
+[Longwood Political Order Vertical Slice — V1](Reference/Longwood-Political-Order-Vertical-Slice-V1.md) closes the major-core pass: LW-W / LW-I / LW-S form a layered jurisdictional mosaic whose local territorial authority overlaps with use-specific rights and specialist networks.
+
 The remaining questions are therefore mostly about **future concrete polity slices, exact border placement, naming, succession details, and exact representation**, not about choosing one generic government type for each culture.
 
 Remaining questions:
