@@ -253,6 +253,60 @@ That progression is part of the mystery.
 
 ---
 
+## Three Moons convergence — BASELINE / OPPORTUNISTIC
+
+The current story occurs close to a [Three Moons Festival](../Culture/Three-Moons-Festival.md), Port's largest festival, held once every seven years.
+
+The exact placement remains open:
+
+- approaching;
+- underway;
+- recently concluded.
+
+The festival is **not** a Villain-created crisis.
+
+It matters because it temporarily concentrates:
+
+- guild delegates;
+- merchants;
+- sailors;
+- travelers;
+- political agents;
+- performers;
+- workers;
+- visitors
+
+inside the continent's largest commercial information hub.
+
+Consequences include:
+
+- exceptional demand on Port infrastructure;
+- unusually rapid rumor spread;
+- more cross-guild / cross-regional comparison;
+- more visible hiring / purchasing / shortages;
+- easier accidental leakage of distant political / commercial problems;
+- more opportunities for Wurdren to encounter people whose problems appear unrelated.
+
+The Villain treats the festival opportunistically.
+
+His earlier work encouraging guild presence in Port means the information surge is particularly valuable to him.
+
+### Reader-facing festival signs
+
+- lodging becomes scarce;
+- temporary workers arrive;
+- guild halls / meeting spaces stay busy late;
+- merchants complain that everyone important is "in Port this cycle";
+- distant shortages become conversation topics before they become official news;
+- two people from completely different regions discover they are competing for the same material / transport;
+- festival crowds conceal meetings without those meetings needing to be secret conspiratorial gatherings.
+
+The key rule:
+
+> **Three Moons makes the pieces easier to gather and compare; it does not create the pieces.**
+
+---
+
 # 5. Opening-state pressures
 
 The following conditions are already active when the story's main current-event chain begins.
