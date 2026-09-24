@@ -325,3 +325,104 @@ The answer should be recoverable through:
 2. Legacy Master Salvage Pass — V2;
 3. domain reconciliation / seed page;
 4. exact legacy source only when necessary.
+
+
+---
+
+# 10. V2 promotions recovered so far
+
+The source-level pass has already produced forward changes that the first structural reconciliation did not fully preserve.
+
+## World / material life
+
+Promoted:
+
+- local border exceptions that can survive formal sovereignty;
+- seasonal route memory;
+- frontier archaeology showing failed expansion;
+- Underpass protection-versus-extraction ambiguity;
+- responsibility-based occupational initiation.
+
+## Institutions
+
+Promoted:
+
+- faiths as practical service / mutual-aid networks;
+- lay religious organizations distinct from high clergy;
+- contested local legitimacy of criminal networks;
+- guild / Port professional standardization as a political issue;
+- maintenance-first military readiness.
+
+## Story / current events
+
+Promoted:
+
+- counter-dominoes as a hard requirement;
+- Wurdren stopping escalation without understanding the whole conspiracy;
+- independent secondary antagonists / opportunists rather than Villain henchmen;
+- self-generated / good-faith dominoes;
+- low-level clerks / record workers detecting anomalies;
+- emergency coordination sessions as a plausible Three Moons response;
+- internal Port political factions.
+
+## Economy
+
+V2 exposed a genuine owner gap.
+
+Created:
+
+- [Money, Credit, and Market Infrastructure](../Economy/Money-Credit-and-Market-Infrastructure.md)
+
+This consolidates:
+
+- ordinary credit;
+- debt;
+- guarantees;
+- collateral / claims;
+- reputation / blacklisting;
+- weights / measures;
+- records;
+- risk sharing;
+- guild member finance;
+- Port's financial switching role.
+
+Exact currencies / banking forms remain open.
+
+---
+
+# 11. Source-level control
+
+All **220 original indexed Markdown sources** are now individually listed in:
+
+- [Legacy Source-Level V2 Ledger](Legacy-Source-Level-V2-Ledger.md).
+
+This corrects the earlier failure mode where:
+
+> volume marked RECONCILED
+
+could be mistaken for:
+
+> every useful source-level mechanism was deliberately dispositioned.
+
+That equivalence is no longer allowed.
+
+---
+
+# 12. Remaining V2 work
+
+The archive-wide screen is complete.
+
+Further work is now **deep salvage**, not basic discovery.
+
+Highest-value remaining areas include:
+
+- settlement-specific seeds that become useful when actual map locations are locked;
+- exact sect / service examples when local faith communities are developed;
+- profession-specific guild economics;
+- criminal faction seeds when a story location requires one;
+- exact military recruitment / reserve structures for final polities;
+- current-event incident alternatives when final chronology is built;
+- character seeds when recurring cast roles are assigned;
+- historical anecdotes when specific predecessor states are locked.
+
+These should be pulled forward when their current owner can absorb them without reviving obsolete wrappers.
