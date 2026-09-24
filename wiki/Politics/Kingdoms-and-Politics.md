@@ -6,6 +6,8 @@
 
 This page owns the visible post-Convergence political order.
 
+**Current spatial test:** [Working Political Geography — V1](../Reference/Working-Political-Geography-V1.md). That page places the functional governance models onto the provisional physical network using temporary IDs. It is a design test, not a final polity map.
+
 It does **not** assign a final constitutional form to every cultural region.
 
 The current world supports a politically plural map in which:
