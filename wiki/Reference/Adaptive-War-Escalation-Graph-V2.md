@@ -531,7 +531,61 @@ If a final outline requires one named local event to occur exactly as planned, t
 
 ---
 
-# 7. Intervention windows
+# 7. Constituency branching
+
+A pressure node does not produce one response.
+
+See [Current-Event Stakeholder Reaction Matrix — V1](Current-Event-Stakeholder-Reaction-Matrix-V1.md).
+
+Every important node can branch because different groups experience the same event differently.
+
+Example:
+
+~~~text
+piracy rises
+   |
+   +→ merchants demand convoys
+   |
+   +→ small captains oppose convoy costs
+   |
+   +→ island / harbor actors resist central command
+   |
+   +→ smugglers gain business
+   |
+   +→ security providers gain contracts
+   |
+   +→ centralizers cite the crisis as proof stronger coordination is needed
+~~~
+
+This factional structure is a major reason the Villain cannot predict exact outcomes.
+
+He may know:
+
+> piracy increases pressure for maritime policy.
+
+He cannot know in advance:
+
+> which faction wins the policy fight.
+
+The adaptive process therefore watches:
+
+- coalition formation;
+- defections;
+- splinters;
+- who unexpectedly benefits;
+- who changes position.
+
+This also creates alternate paths.
+
+A failed convoy-centralization branch can still produce:
+
+- smuggling growth;
+- Port credit changes;
+- stronger harbor-autonomy politics.
+
+---
+
+# 8. Intervention windows
 
 The Villain should not intervene continuously.
 
@@ -585,7 +639,7 @@ Unnecessary action adds risk and evidence.
 
 ---
 
-# 8. Adaptation examples
+# 9. Adaptation examples
 
 ## Example A — maritime branch succeeds unexpectedly well
 
@@ -677,7 +731,7 @@ The Council should sometimes win.
 
 ---
 
-# 9. Failure matrix
+# 10. Failure matrix
 
 Every active branch should be tagged:
 
@@ -697,7 +751,7 @@ A BLACK branch may require:
 
 ---
 
-# 10. War threshold
+# 11. War threshold
 
 War becomes plausible when enough conditions overlap.
 
@@ -717,7 +771,7 @@ This allows multiple plausible final sparks.
 
 ---
 
-# 11. Spark families
+# 12. Spark families
 
 The Villain need not choose the exact final spark in advance.
 
@@ -747,7 +801,7 @@ By the time the graph reaches the war threshold, several of these can plausibly 
 
 ---
 
-# 12. The Villain's actual control
+# 13. The Villain's actual control
 
 He controls:
 
@@ -776,7 +830,7 @@ His control is therefore:
 
 ---
 
-# 13. Author test
+# 14. Author test
 
 For every major story turn ask:
 
