@@ -397,7 +397,21 @@ For now, reference pages may use the names parenthetically alongside IDs.
 
 ---
 
-# 8. Next naming priority
+# 8. Lexical QA correction
+
+[Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md) separates **historical adoption mechanisms** from **lexical candidate quality**.
+
+Current status:
+
+- Varel → provisional pass as SH-A common political metonym;
+- Kelan / Kelan Compact → naming mechanism passes, lexical form on **HOLD**;
+- Ralen → river-to-polity naming mechanism passes, lexical form on **HOLD**.
+
+Do not treat the earlier strong-pass language for Kelan / Ralen as final candidate status. Their replacement forms must come from N1 / R1 micro-sets.
+
+---
+
+# 9. Next naming priority
 
 Do not immediately name every remaining actor.
 
