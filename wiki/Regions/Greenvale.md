@@ -137,6 +137,17 @@ Political conflict centers on:
 - export rules;
 - estate versus cooperative power.
 
+See [Low Rivers Functional Governance Test](../Reference/Low-Rivers-Functional-Governance-Test.md).
+
+The strongest current structural conclusion is that Low Rivers politics is **layered rather than cleanly centralized or decentralized**.
+
+- villages, cooperatives, estates, and towns retain practical authority over different parts of agricultural life;
+- river / watershed institutions need to coordinate water, navigation, flood response, and upstream/downstream disputes across ordinary local boundaries;
+- larger polities need meaningful capacity for taxation, military action, major works, emergency food policy, higher enforcement, and diplomacy;
+- central policy still depends on the local institutions that control storage, records, transport, water, credit, and implementation.
+
+This does not yet establish whether the region contains one large polity, several polities, or one dominant polity surrounded by smaller jurisdictions.
+
 The Council's food/finance networks can exert enormous influence here without ruling Low Rivers directly.
 
 ## Transfer-market pressure
