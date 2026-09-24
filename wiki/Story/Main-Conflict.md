@@ -19,7 +19,9 @@ The strongest current version treats **the Villain's campaign as the principal p
 
 The Council is not simply "the other villain."
 
-It is the hidden stabilization system his campaign is designed to force into a legitimacy crisis.
+The conflict begins with **Port's political and economic trap**: the city is protected by neutrality, constrained by neutrality, heavily used by outsiders, and not always able to retain enough wealth or authority to answer its own needs.
+
+The Council becomes central because it exposes the contradiction. Private networks can coordinate rapidly through Port for system stability while Port itself is constrained by treaty, precedent, and outside suspicion.
 
 Wurdren is the human-scale perspective through which the audience sees what both systems' decisions actually do to people.
 
@@ -31,15 +33,23 @@ The story therefore asks:
 
 # 2. The three narrative forces
 
-## Villain — change through leverage
+## Villain — Port agency through leverage
 
-He has a grievance the existing settlement does not adequately answer.
+His cause is Port.
+
+He believes neutrality has drifted from protection into dependency:
+
+- money passes through;
+- outside powers benefit;
+- responsibility is fragmented;
+- urgent help becomes negotiation;
+- Port itself remains constrained.
 
 He does not need to manufacture the world's problems.
 
-He couples real pressures until the Council must make consequential hidden choices.
+He couples real pressures until Port's need for action collides visibly with the slowness of public treaty machinery and the speed of hidden commercial coordination.
 
-His operational goal is to force the old equilibrium into a public coordination / legitimacy crisis.
+His operational goal is to force a **new Port settlement**.
 
 See [The Villain](Villain.md).
 
@@ -194,11 +204,15 @@ Evidence shows the same private networks coordinating across several crises.
 
 The political issue changes from:
 
-> "Was this decision good?"
+> "Why is Port still waiting?"
 
-to:
+to two linked questions:
 
-> "Who gave these people the authority to make these decisions?"
+> "Why can private actors coordinate this quickly when Port itself cannot?"
+
+and:
+
+> "Who decided that Port should bear these costs while the value keeps leaving?"
 
 ## Stage 5 — defensive institutional reaction
 
@@ -293,7 +307,7 @@ The Villain may succeed in:
 - forcing Council coordination into public view;
 - proving some hidden manipulation;
 - proving alternate networks can function;
-- forcing negotiation over his constituency's grievance.
+- forcing renegotiation of Port's neutrality / fiscal / emergency arrangements.
 
 But his later escalation fractures the claim that only he can guide the change.
 
