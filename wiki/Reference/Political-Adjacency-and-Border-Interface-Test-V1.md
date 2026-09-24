@@ -896,21 +896,10 @@ These should be resolved only when physical geometry or a concrete historical ev
 
 ---
 
-# 18. Next highest-value pass
+# 18. Border-history result
 
-The political topology now has actors and required interfaces.
+[Political Border History Test — V1](Political-Border-History-Test-V1.md) now applies Writing the Sequel to the major interfaces.
 
-The next useful step is:
+The strongest result is that the Convergence should be treated as recognizing **practical inherited political realities plus surviving local rights**, not as drawing a new set of clean borders on an empty map.
 
-> **political history of the borders**
-
-For each major interface, ask:
-
-- what existed before the current border;
-- why the current line or relationship won;
-- what older claims survived;
-- what the Convergence recognized;
-- which border customs developed afterward;
-- which old institutions outlived their original purpose.
-
-That will let final political geography feel inherited rather than drawn at one historical moment.
+The next highest-value pass is a **concrete polity vertical slice**, beginning with SH-A / SH-M because current events already require their relationship to function under labor and strategic-metal pressure.
