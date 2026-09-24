@@ -110,6 +110,8 @@ This creates economic power at:
 - major pass transfer towns;
 - Port's river / sea interface.
 
+The [Low Rivers Functional Governance Test](../Reference/Low-Rivers-Functional-Governance-Test.md) adds a political consequence: trade policy cannot be modeled separately from capacity. A ruler may change taxes, export rules, public purchases, or reserve policy, but cannot create warehouse space, carts, river depth, solvent buyers, or trusted records by decree. Effective intervention therefore depends on the institutions that operate the bottlenecks.
+
 ## Dependency can stabilize or coerce
 
 Two concrete world tests show that shared systems can produce both:
