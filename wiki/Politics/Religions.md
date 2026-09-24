@@ -309,6 +309,70 @@ Preserved provisional names include **Navigos, Labyrintus, Infinis, Inventura**,
 
 The old event name **Grand Convergence** should not be promoted because The Convergence already has a specific historical meaning.
 
+## Faiths as practical service networks
+
+The legacy religion material repeatedly contains a stronger mechanism than its old supernatural packaging:
+
+> **faiths do ordinary institutional work.**
+
+Depending on tradition, branch, place, wealth, and local history, religious networks may support:
+
+- alms / food distribution;
+- lodging for pilgrims or stranded travelers;
+- care for sick or injured people;
+- burial and mourning assistance;
+- mediation;
+- record-keeping;
+- teaching / literacy;
+- protection of travelers;
+- rehabilitation / reconciliation;
+- disaster relief;
+- preservation of local memory.
+
+This should not make every temple a universal welfare office.
+
+Different branches can disagree over whether material service is:
+
+- central to faith;
+- secondary to contemplation;
+- a dangerous political distraction;
+- an obligation best handled by lay members rather than clergy.
+
+That disagreement is useful.
+
+### Lay institutions matter
+
+Legacy notes repeatedly distinguish:
+
+- ordained specialists;
+- monastic / contemplative specialists;
+- itinerant teachers;
+- reform / service movements;
+- ordinary lay members.
+
+Preserve that structural diversity.
+
+A charity, mediation circle, traveler hostel, burial society, or neighborhood relief kitchen can be **religiously affiliated without being controlled by the highest clergy**.
+
+This allows faith networks to react quickly to crises even when formal religious leadership is divided.
+
+### Current-story consequence
+
+During the current crisis, faith-linked service networks can notice material changes before governments do because they see:
+
+- more people asking for food;
+- more stranded travelers;
+- rising burial / injury costs;
+- displaced workers;
+- families unable to pay lodging;
+- sudden demand for mediation.
+
+Those observations become another independent information stream in Port and across the continent.
+
+See [Current Events](../Story/Current-Events.md).
+
+---
+
 ## Religion and politics
 
 Faiths should not behave like nine political parties.
