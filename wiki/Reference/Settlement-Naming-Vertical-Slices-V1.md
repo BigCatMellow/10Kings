@@ -328,19 +328,14 @@ These terms should remain labeled as **provisional common-language forms**, not 
 
 ---
 
-# 8. Next site-history tests
+# 8. Site-history result
 
-The highest-value naming prerequisites are:
+[Settlement Site-History Vertical Slices — V1](Settlement-Site-History-Vertical-Slices-V1.md) now resolves the missing semantic sources provisionally:
 
-1. SH-M settlement history;
-2. HR-C settlement history;
-3. OC-U founding / water history.
+- SH-M — crossing settlement before mining / industrial expansion;
+- HR-C — reliable spring / spring hollow before route convergence and arbitration;
+- OC-U — flood-safer terrace beside perennial water before major irrigation / civic expansion.
 
-Each should answer:
+All three are now ready for small local lexical-name candidate tests.
 
-- why the first permanent settlement was there;
-- what it was called *for* semantically;
-- what later political / economic layers changed;
-- which name layers survived.
-
-Only after that should local lexical forms be generated.
+Do not generate broad name lists; create only the roots needed by these three histories.
