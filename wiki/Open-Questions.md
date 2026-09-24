@@ -94,9 +94,22 @@ Remaining questions:
 
 ### 6. Story pressure
 
-- The Villain's exact grievance and desired political end state.
-- Which current crises are ordinary, manipulated, Council responses, or combinations.
-- Where Wurdren begins and which human-scale problem first connects him to the larger system.
+[Current Events](Story/Current-Events.md), [Villain's Dominoes](Story/Villains-Dominoes.md), and [The Villain](Story/Villain.md) now establish the **operational** story pressure.
+
+Resolved at the structural level:
+
+- baseline / pushed / response / cascade distinctions;
+- braided rather than six-region domino architecture;
+- Council secrecy-versus-stability trap;
+- Villain objective of forcing a public coordination / legitimacy crisis;
+- bypass / alternative-capacity strategy.
+
+Still open:
+
+- the Villain's exact grievance / constituency;
+- his exact demand once a new settlement becomes unavoidable;
+- which manufactured escalation becomes his unmistakable moral break;
+- where Wurdren begins and which human-scale problem first connects him to the larger system.
 
 The sections below retain the more detailed unresolved questions.
 
@@ -182,12 +195,18 @@ Remaining questions:
 
 ## Villain
 
-- Name.
-- Homeland/people.
-- Exact grievance.
-- Exact territorial or political end-state he wants.
-- The point at which his methods become clearly unacceptable even to sympathetic readers.
-- Whether he knows the full Council structure at the story's beginning.
+The strategic architecture is now established in [The Villain](Story/Villain.md) and [Villain's Dominoes](Story/Villains-Dominoes.md).
+
+Still open:
+
+- name;
+- homeland / people / constituency;
+- exact grievance;
+- exact historical injury;
+- exact political / territorial / institutional demand at the forced new settlement;
+- which deliberate manufactured event becomes the clearest moral break;
+- how much of the Council structure he actually knows at the story's beginning;
+- how he first proved to himself that the Council exists.
 
 ## Wurdren
 
@@ -290,4 +309,21 @@ Remaining questions should now be answered through actual institutions, communit
 
 ## Current events
 
-The events pages preserve the current web of crises, but many were brainstormed rather than formally selected. They should be audited once the map and villain plan are finalized.
+The structural audit is now complete in [Current Events](Story/Current-Events.md).
+
+The active field is organized as:
+
+- baseline real shocks;
+- Villain-pushed timing / confidence / exposure;
+- Council / polity responses;
+- cross-system cascades.
+
+Remaining current-event questions should now be **specific**, for example:
+
+- exact location / timing of a selected raid or route incident;
+- which corridor receives or loses traffic first;
+- which Longwood jurisdiction bears the first infrastructure dispute;
+- which documents form the eventual Council-exposure package;
+- what event first brings Wurdren into the chain.
+
+Do not reopen the whole crisis roster without a concrete inconsistency.
