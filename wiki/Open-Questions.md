@@ -129,6 +129,8 @@ Three concrete polity vertical slices now test whether the method produces genui
 
 The comparison passes: similar state-level capacities do not produce identical political structure.
 
+[High Roads Political Order Vertical Slice — V1](Reference/High-Roads-Political-Order-Vertical-Slice-V1.md) adds a stronger test: HR-N / HR-W / HR-C can coordinate serious external politics through a **polycentric route order without a superior High Roads state**.
+
 The remaining questions are therefore mostly about **future concrete polity slices, exact border placement, naming, succession details, and exact representation**, not about choosing one generic government type for each culture.
 
 Remaining questions:
