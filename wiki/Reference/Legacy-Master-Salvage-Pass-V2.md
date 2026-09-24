@@ -269,7 +269,34 @@ These should be retained because the adaptive Villain requires failures / counte
 
 ---
 
-# 8. Change-log requirement
+# 8. World / material-life promotions from the V2 pass
+
+Promoted from Volumes 01–05:
+
+- local border exceptions: small-goods duties, marriage / apprenticeship recognition, water schedules, narrow reciprocal guild / passage arrangements;
+- seasonal route memory: old passes / roads having different political meaning by season;
+- failed-expansion archaeology: abandoned terraces, unfinished walls, lost mines, stopped roadbeds;
+- Underpass route-control ambiguity: the same gate / fort can provide real protection while also extracting tolls and privilege;
+- responsibility-based occupational initiation: status follows trusted work rather than decorative trials;
+- repair infrastructure as a settlement function at transfer points;
+- food history in which work / travel foods become comfort or identity foods after conditions change;
+- temporary convergence meals as one path by which contact cuisine later becomes local tradition.
+
+Deliberately **not** restored:
+
+- old regional personality templates;
+- one cuisine / architecture per region;
+- ornate guild rituals as universal practice;
+- named legacy towns without current naming history;
+- old one-region-one-state politics.
+
+These promotions demonstrate the V2 rule:
+
+> salvage the mechanism beneath the wrapper.
+
+---
+
+# 9. Change-log requirement
 
 Every V2 promotion should record:
 
@@ -284,7 +311,7 @@ This prevents later agents from mistaking salvage for wholesale canon restoratio
 
 ---
 
-# 9. Completion target
+# 10. Completion target
 
 When V2 is complete, a future agent should be able to ask:
 
