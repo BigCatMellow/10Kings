@@ -116,6 +116,28 @@ Information follows physical and social routes rather than spreading evenly. Its
 
 A disruption in one flow can alter all the others.
 
+
+### Credit and obligations
+
+See [Money, Credit, and Market Infrastructure](Economy/Money-Credit-and-Market-Infrastructure.md).
+
+Movement through the world is financed before it is completed.
+
+That means circulation also depends on:
+
+- credit;
+- guarantees;
+- debt;
+- trusted records;
+- measures / quality standards;
+- enforceable contracts.
+
+A physical route can remain open while commerce through it collapses because nobody will finance the risk.
+
+Conversely, a strong guarantee can keep trade moving through a dangerous period.
+
+This is one of the major ways political fear becomes material behavior.
+
 ## 5. Chokepoints and bypasses
 
 The world has no single switch that controls everything. It has **chokepoints**.
