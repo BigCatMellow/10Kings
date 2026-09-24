@@ -172,6 +172,92 @@ Those agreements can solve real coordination problems or become cartel behavior.
 
 Guild travel also moves techniques, vocabulary, tools, fashions and political ideas between communities.
 
+## Port centralization and cross-guild coordination
+
+A significant current development is that more guilds / guild branches / professional representatives are establishing a **regular presence in Port**.
+
+This should not be read as:
+
+> every guild abandons its home region and becomes one centralized Port institution.
+
+The stronger mechanism is:
+
+- branch offices;
+- permanent representatives;
+- shared clerical / arbitration services;
+- reciprocal credential recognition;
+- cross-guild contract coordination;
+- hiring / apprenticeship exchange;
+- shared standards work;
+- regular inter-guild meetings.
+
+The Villain has helped encourage this development because he sincerely believes it strengthens Port.
+
+His argument is practical:
+
+> if guilds already cross political borders, Port is the most useful neutral place for them to compare standards, solve disputes, find labor, negotiate contracts, and coordinate work.
+
+This has several consequences.
+
+### For guilds
+
+It reduces transaction costs.
+
+A builder, shipwright, merchant, healer, carrier, or metalworker can find other professional networks without negotiating separately through several political systems.
+
+### For Port
+
+It increases:
+
+- employment;
+- contract activity;
+- professional services;
+- institutional prestige;
+- bargaining power;
+- retained expertise;
+- reasons for skilled people to live in the city.
+
+This is part of the Villain's larger effort to make Port more than a place where value merely passes through.
+
+### For information
+
+Cross-guild coordination also causes information to aggregate.
+
+Guild representatives discuss:
+
+- materials;
+- wages;
+- shortages;
+- route conditions;
+- safety;
+- contracts;
+- regulation;
+- unusual demand.
+
+That makes Port's guild environment one of the Villain's best legitimate sources of broad situational awareness.
+
+He does not need every guild leader to report to him.
+
+He benefits because the network itself centralizes information.
+
+### Limits
+
+Guild centralization should create resistance.
+
+Possible objections include:
+
+- local branches fear losing autonomy;
+- regional governments dislike Port gaining leverage;
+- established guild leadership fears cross-guild coordination;
+- members resent travel / dues / bureaucracy;
+- some professions have little reason to centralize.
+
+The movement should therefore remain uneven.
+
+See [Three Moons Festival](../Culture/Three-Moons-Festival.md).
+
+---
+
 ## Guild interaction with the Council
 
 The Council does not "own the guilds."
