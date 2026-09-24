@@ -12,6 +12,8 @@ It **recognized, regularized, and froze many compromises** that had already emer
 
 The Convergence is a framework of agreements, not a unified state.
 
+**Current political-map test:** [Political Border History Test — V1](../Reference/Political-Border-History-Test-V1.md) applies the settlement model to the provisional political geography. Its strongest result is that the Convergence works best as recognition of broad practical claims plus narrower surviving route, water, maritime, and local rights rather than as a fresh continent-wide border drawing.
+
 ---
 
 # 1. Source reconciliation
