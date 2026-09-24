@@ -930,7 +930,7 @@ That grievance is now important to the story and to [The Villain](../Story/Villa
 
 ---
 
-# 18. The city can be locally democratic, oligarchic, mixed, or something else — still open
+# 19. The city can be locally democratic, oligarchic, mixed, or something else — still open
 
 The current world does not yet settle whether Port government is:
 
@@ -958,7 +958,7 @@ The constitution should emerge from those pressures.
 
 ---
 
-# 18. The Port seizure remains legacy history, not yet current fact
+# 20. The Port seizure remains legacy history, not yet current fact
 
 The direct source contains a strong story:
 
@@ -986,7 +986,7 @@ Until then, use the structural logic without asserting the event happened exactl
 
 ---
 
-# 18. Extradition remains open
+# 21. Extradition remains open
 
 Legacy Port notes say neutrality prevents extradition for outside crimes.
 
@@ -1007,7 +1007,7 @@ It should be settled as part of the legal/treaty model, not inherited automatica
 
 ---
 
-# 18. Neutrality does not mean moral neutrality
+# 22. Neutrality does not mean moral neutrality
 
 Port institutions can still:
 
@@ -1025,7 +1025,7 @@ It does not make Port politically virtuous.
 
 ---
 
-# 18. Neutrality does not mean cultural blandness
+# 23. Neutrality does not mean cultural blandness
 
 The city is politically constrained externally while culturally intense internally.
 
@@ -1045,7 +1045,7 @@ The stronger the outside world treats Port as merely useful infrastructure, the 
 
 ---
 
-# 18. Port and the competitive spheres
+# 24. Port and the competitive spheres
 
 The two WWF/WCW-derived competitive spheres are networks, not states.
 
@@ -1066,7 +1066,7 @@ It does not require every resident or merchant to be politically neutral.
 
 ---
 
-# 18. Port and the Council
+# 25. Port and the Council
 
 The Council benefits from Port because Port concentrates:
 
@@ -1095,7 +1095,7 @@ Complete Council control would undermine the independent neutrality that makes P
 
 ---
 
-# 18. Neutrality crisis test
+# 26. Neutrality crisis test
 
 When testing a Port political crisis, ask:
 
@@ -1114,7 +1114,7 @@ If the answer is simply "the Council decides," the Port model has failed.
 
 ---
 
-# 18. What is established versus open
+# 27. What is established versus open
 
 ## Established structurally
 
@@ -1157,7 +1157,7 @@ If the answer is simply "the Council decides," the Port model has failed.
 
 ---
 
-# 18. Design rule
+# 28. Design rule
 
 When resolving a Port political question:
 
