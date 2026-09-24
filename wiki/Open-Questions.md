@@ -346,6 +346,26 @@ Still open:
 
 ---
 
+## Money / credit / market infrastructure
+
+Structural owner: [Money, Credit, and Market Infrastructure](Economy/Money-Credit-and-Market-Infrastructure.md).
+
+Still open:
+
+- exact currencies / coin standards;
+- exchange and money-changing practice;
+- interest rules / religious restrictions;
+- insolvency / foreclosure procedure;
+- debt inheritance;
+- exact risk-sharing / voyage-finance arrangements;
+- whether Port has a formal clearing institution;
+- exact guild mutual-aid / member-credit governance;
+- exact relationship between warehouse records and secured credit.
+
+These should be resolved through concrete transactions rather than a top-down fantasy banking system.
+
+---
+
 ## Current events
 
 The structural audit is now complete in [Current Events](Story/Current-Events.md).
