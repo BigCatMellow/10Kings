@@ -225,6 +225,20 @@ For most major branches, test:
 
 If no, the intervention is probably too large or too dependent on mastermind control.
 
+Also test:
+
+> **Did the outcome match his expectation exactly?**
+
+If that keeps happening, redesign the sequence.
+
+At least some operations should produce:
+
+- failed branches;
+- contained effects;
+- useful surprises;
+- bad surprises;
+- outcomes he abandons rather than retroactively claiming as intended.
+
 The conspiracy can still be enormous because it may contain:
 
 - many agents;
