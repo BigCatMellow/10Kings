@@ -622,6 +622,98 @@ Therefore Port politics is shaped by **mutual resentment inside mutual need**.
 
 ---
 
+# 18A. The neutrality trap — protection without clear responsibility
+
+Port's neutrality is both its great strategic protection and one of its deepest political weaknesses.
+
+Because no major power is supposed to dominate Port, no major power can simply behave as though Port is its responsibility.
+
+During an ordinary emergency, that can create delay.
+
+A request for outside help can immediately raise questions such as:
+
+- does this aid give one power too much influence?
+- who pays?
+- who commands?
+- does a temporary military presence create precedent?
+- does emergency financing create political leverage?
+- can Port accept one offer without violating another party's rights?
+- must guarantors or treaty partners be consulted first?
+- will a rival interpret assistance as creeping control?
+
+The result can be:
+
+> **everyone agrees Port is too important to fail while everyone hesitates to be the actor who moves first.**
+
+This does not mean outsiders never help.
+
+It means Port can experience **responsibility diffusion** precisely because its neutrality depends on preventing any one outside power from becoming its protector.
+
+A crisis that a normal territorial state could answer through one treasury, army, ministry, or alliance may require Port to negotiate among several actors whose interests overlap but are not identical.
+
+This is a core strength / weakness duality:
+
+~~~text
+no one power may easily seize Port
+→ Port remains broadly accessible
+→ everyone benefits from neutrality
+→ outside responsibility remains fragmented
+→ emergency action can become slow / conditional / politically suspicious
+~~~
+
+---
+
+# 18B. Throughput wealth is not the same as local wealth
+
+Port can handle enormous economic value without the city government or ordinary Port residents retaining a comparable share of it.
+
+A large transaction may involve money flowing to:
+
+- foreign cargo owners;
+- outside producers;
+- shipowners;
+- lenders;
+- insurers or risk underwriters;
+- merchant houses;
+- distant investors;
+- foreign tax authorities or political patrons;
+- Council-linked networks.
+
+Port itself still bears local costs such as:
+
+- docks;
+- dredging / channel knowledge where applicable;
+- warehouse and street infrastructure;
+- fire response;
+- quarantine;
+- policing / watch;
+- housing pressure;
+- displaced workers / refugees;
+- public health;
+- repair capacity;
+- congestion;
+- maintaining the legal trust that makes neutral trade possible.
+
+Therefore:
+
+> **wealth passing through Port does not automatically become wealth available to Port.**
+
+The exact customs / revenue-sharing system remains open.
+
+Do **not** assume the old legacy claim that outside powers simply take a fixed majority of customs.
+
+The structural problem is broader:
+
+> **Port can look rich from the outside while local institutions remain short of the retained revenue, authority, or investment needed to carry the costs created by being indispensable.**
+
+This can produce a specifically Port political resentment:
+
+> ships leave richer than they arrived; contracts are settled; lenders are paid; foreign treasuries and houses benefit — while Port is still arguing over who will pay to repair the quay, house displaced workers, strengthen the watch, or answer the next emergency.
+
+That grievance is now important to the story and to [The Villain](../Story/Villain.md).
+
+---
+
 # 19. The city can be locally democratic, oligarchic, mixed, or something else — still open
 
 The current world does not yet settle whether Port government is:
