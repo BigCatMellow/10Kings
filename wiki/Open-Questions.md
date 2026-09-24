@@ -137,7 +137,15 @@ The comparison passes: similar state-level capacities do not produce identical p
 
 **Political-order V1 milestone:** all six major cultural cores now have tested, deliberately non-symmetric political structures, while Port retains its separate detailed neutrality / city-polity model.
 
-Naming / identity work is now underway through [Language and Naming Topology — V1](Reference/Language-and-Naming-Topology-Test-V1.md), [Minimal Naming Profiles — V1](Reference/Minimal-Naming-Profiles-V1.md), and [Neighboring Name Pressure Test — V1](Reference/Neighboring-Name-Pressure-Test-V1.md). The first lexical QA pass deliberately demoted Meren / Ralen / Kelan for excessive cross-cluster similarity and added a mandatory same-cluster micro-set test before future local names can pass.
+Naming / identity work now has a tested QA method through [Language and Naming Topology — V1](Reference/Language-and-Naming-Topology-Test-V1.md), [Minimal Naming Profiles — V1](Reference/Minimal-Naming-Profiles-V1.md), [Neighboring Name Pressure Test — V1](Reference/Neighboring-Name-Pressure-Test-V1.md), and [N1 / R1 / P1 Naming Micro-Sets — V1](Reference/N1-R1-P1-Naming-Microsets-V1.md).
+
+The first lexical QA pass deliberately demoted Meren / Ralen / Kelan for excessive cross-cluster similarity. The replacement micro-sets now pass:
+
+- N1 — Auvor / Orai / Sevu;
+- R1 — Daroa / Dasei / Omeda;
+- P1 — Mesk / Korad / Tavrek.
+
+The same-cluster micro-set check is now the default naming gate. F1 remains intentionally ungenerated until a concrete Longwood need exists.
 
 Exact constitutions remain open unless a later story/history test requires them.
 
