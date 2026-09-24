@@ -187,7 +187,65 @@ His intelligence lies in seeing that they can be connected.
 
 ---
 
-# 6. Intervention families — not mandatory operations
+# 6. Counter-dominoes are required
+
+Legacy story notes repeatedly included ordinary people and institutions **successfully preventing escalation**.
+
+That is now a hard design requirement.
+
+Possible counter-dominoes include:
+
+- a guild temporarily stabilizing a price;
+- merchants publishing enough information to stop a panic;
+- a town refusing to act on an inflammatory rumor;
+- two local authorities keeping a dispute inside arbitration;
+- a faith network feeding people before scarcity becomes political panic;
+- a branch leader refusing pressure from their own central guild;
+- a captain choosing cooperation rather than retaliation;
+- a community negotiating a Longwood access dispute successfully;
+- Wurdren resolving the actual local grievance before someone can weaponize it.
+
+A counter-domino can:
+
+- kill a branch completely;
+- delay escalation;
+- redirect pressure elsewhere;
+- expose one Villain capability;
+- make his next intervention more expensive.
+
+It should **not** exist only to make the Villain look clever for overcoming it.
+
+Sometimes resistance simply works.
+
+### Wurdren's special effect
+
+Wurdren does not need to "solve the conspiracy" to damage the plan.
+
+His most important successes can be:
+
+> **making one group trust another enough that the next domino never falls.**
+
+This directly attacks the plan's dependence on:
+
+- fear;
+- misinterpretation;
+- institutional delay;
+- people assuming the worst.
+
+### Design test
+
+For each major escalation branch, ask:
+
+1. what would competent ordinary people do to contain this?
+2. who has a material reason to prevent escalation?
+3. what happens if they succeed?
+4. can the larger plot continue by another route without erasing their success?
+
+If there is no plausible counter-domino, the branch is too deterministic.
+
+---
+
+# 7. Intervention families — not mandatory operations
 
 The plan now uses **distinct operational crafts** rather than repeating "leak information and cause anger."
 
@@ -301,7 +359,7 @@ The first deliberately facilitated raid is a meaningful escalation.
 
 ---
 
-# 7. Intervention Family 2 — turn risk into a Port credit squeeze
+# 8. Intervention Family 2 — turn risk into a Port credit squeeze
 
 ### Existing pressure
 
@@ -383,7 +441,7 @@ But he is knowingly making ordinary cargo less movable to create political press
 
 ---
 
-# 8. Intervention Family 3 — build the distress-purchase alternative
+# 9. Intervention Family 3 — build the distress-purchase alternative
 
 ### Existing pressure
 
@@ -487,7 +545,7 @@ Not every domino should be villainous.
 
 ---
 
-# 9. Intervention Family 4 — shift High Roads confidence
+# 10. Intervention Family 4 — shift High Roads confidence
 
 ### Existing pressure
 
@@ -571,7 +629,7 @@ He is no longer merely curating truth.
 
 ---
 
-# 10. Intervention Family 5 — weaponize the Longwood concession
+# 11. Intervention Family 5 — weaponize the Longwood concession
 
 ### Existing pressure
 
@@ -661,7 +719,7 @@ He knowingly removes context in order to make a real abuse look broader / simple
 
 ---
 
-# 11. Intervention Family 6 — make Old Cities cooperation frighten its neighbors
+# 12. Intervention Family 6 — make Old Cities cooperation frighten its neighbors
 
 ### Existing pressure
 
@@ -742,7 +800,7 @@ The Villain is deliberately maintaining a conflict that could otherwise be solve
 
 ---
 
-# 12. Intervention Family 7 — strategic metal priority
+# 13. Intervention Family 7 — strategic metal priority
 
 ### Existing pressure
 
@@ -843,7 +901,7 @@ This moves him toward the later **withhold** stage.
 
 ---
 
-# 13. Intervention Family 8 — let Port wait
+# 14. Intervention Family 8 — let Port wait
 
 **Approximate timing: late escalation, when commercial/security pressures are already converging and mobilization is becoming plausible.**
 
@@ -965,7 +1023,7 @@ Now he sits on his own hands because Port's suffering proves his argument.
 
 ---
 
-# 14. Intervention Family 9 — the evidence package
+# 15. Intervention Family 9 — the evidence package
 
 **Approximate timing: late mobilization / wartime Port crisis, not an early master-plan reveal.**
 
@@ -1076,7 +1134,7 @@ He knowingly risks breaking systems ordinary people still depend on because expo
 
 ---
 
-# 15. Why the operations feel related without feeling repetitive
+# 16. Why the operations feel related without feeling repetitive
 
 The Villain should have one **strategic fingerprint** across different crafts:
 
@@ -1100,7 +1158,7 @@ That variation is the main Blacklist-style lesson worth preserving.
 
 ---
 
-# 16. The braids after strengthening
+# 17. The braids after strengthening
 
 The operations still form the same broad braids.
 
@@ -1151,7 +1209,7 @@ evidence package
 → Port settlement crisis
 ~~~
 
-# 17. War spine — what the interventions are actually trying to produce
+# 18. War spine — what the interventions are actually trying to produce
 
 The conspiracy should be understood at two levels.
 
@@ -1210,7 +1268,7 @@ That security dilemma is the final self-sustaining domino mechanism.
 
 ---
 
-# 18. Phase 3 — defensive politics creates the next dominoes
+# 19. Phase 3 — defensive politics creates the next dominoes
 
 **This section is subordinate to the adaptive war graph.** These reactions can occur through several branches across the commercial-protection, security-rule, guarantee, and mobilization stages in [Adaptive War Escalation Graph — V2](../Reference/Adaptive-War-Escalation-Graph-V2.md), rather than as one required post-exposure sequence.
 
@@ -1264,7 +1322,7 @@ That is the second world-scale domino.
 
 ---
 
-# 19. Phase 4 — Port settlement crisis
+# 20. Phase 4 — Port settlement crisis
 
 Now the old neutrality arrangement itself becomes the object of political conflict.
 
@@ -1310,7 +1368,7 @@ This is the operational climax of the domino plan.
 
 ---
 
-# 20. Phase 5 — the Villain's proposed Port settlement
+# 21. Phase 5 — the Villain's proposed Port settlement
 
 The Villain does **not** need to walk into a room and declare himself ruler.
 
