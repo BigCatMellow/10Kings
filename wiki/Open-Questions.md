@@ -102,10 +102,14 @@ Resolved at the structural level:
 - braided rather than six-region domino architecture;
 - many-small-events / minimum-push conspiracy rule;
 - commercial-protection → security-rule → guarantee → mobilization → war escalation logic;
+- **adaptive pressure graph rather than fixed domino script**;
+- mandatory failure / containment / surprise branches;
 - war as the Villain's deliberate forcing mechanism for Port reform;
+- tiny true-conspiracy tier with broad unwitting participation;
 - Council secrecy-versus-stability vulnerability;
 - bypass / alternative-capacity strategy;
-- author-side surface / causal-chain / execution-ledger separation.
+- author-side surface / adaptive graph / capability-ledger separation;
+- explicit design-history notes so superseded mistakes remain learnable provenance.
 
 Still open:
 
