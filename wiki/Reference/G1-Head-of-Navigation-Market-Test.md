@@ -32,7 +32,7 @@ Current owners that constrain the test:
 - [Guilds](../Politics/Guilds.md)
 - [Calendars, Timekeeping, and Seasonal Coordination](../Calendar-and-Timekeeping.md)
 
-The place remains unnamed until its linguistic and historical naming layers are earned.
+The linguistic / historical naming layer has now been tested provisionally as **Dasei**, with **Last Quay** retained as the interregional commercial exonym.
 
 ---
 
