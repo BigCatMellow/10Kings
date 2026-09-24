@@ -137,7 +137,10 @@ North Coast's political tensions often revolve around:
 - food dependence;
 - Council influence over shipping and finance.
 
-See [North Coast Functional Governance Test](../Reference/North-Coast-Functional-Governance-Test.md).
+See:
+
+- [North Coast Functional Governance Test](../Reference/North-Coast-Functional-Governance-Test.md)
+- [North Coast Polity Vertical Slice — V1](../Reference/North-Coast-Polity-Vertical-Slice-V1.md) for the current provisional NC-M / NC-I concrete-state test.
 
 The strongest current structural conclusion is that North Coast is a **layered maritime political order**.
 
