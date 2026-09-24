@@ -332,7 +332,39 @@ The key rule:
 
 ---
 
-# 5. Opening-state pressures
+## Self-generated / good-faith dominoes
+
+Legacy domino notes contain an important category that should remain active:
+
+> **a harmful cascade can begin with a reasonable action that works badly.**
+
+Examples:
+
+- a route authority closes a road for real safety reasons and overloads another corridor;
+- engineers improve one channel and unintentionally worsen water access elsewhere;
+- a guild changes a purchasing rule to prevent fraud and accidentally excludes small suppliers;
+- a polity builds reserves for legitimate emergency planning and triggers foreign stockpiling;
+- convoy scheduling reduces losses but makes credit / timing harder for small merchants;
+- a local anti-smuggling measure cuts off a community that depended on informal supply.
+
+These are **not Villain pushes** unless he later interferes with them.
+
+They can begin as:
+
+- BASELINE;
+- RESPONSE;
+
+and become CASCADE.
+
+The Villain's skill is often recognizing the consequence before everyone else does.
+
+This category is essential because it means:
+
+> the world can generate dominoes without a conspirator.
+
+---
+
+# 6. Opening-state pressures
 
 The following conditions are already active when the story's main current-event chain begins.
 
@@ -436,7 +468,7 @@ Its strategic value is that it changes the cost of bypassing established routes.
 
 ---
 
-# 6. Existing human conflicts the Villain can exploit
+# 7. Existing human conflicts the Villain can exploit
 
 ## SH-M labor unrest — BASELINE, later PUSHED
 
@@ -558,7 +590,7 @@ He can:
 
 ---
 
-# 7. Braid A — sea → Port → food → labor
+# 8. Braid A — sea → Port → food → labor
 
 This is the clearest current cross-system chain.
 
@@ -654,7 +686,7 @@ This is where a timed Villain leak has much more effect than inventing a strike.
 
 ---
 
-# 8. Braid B — road insecurity → rerouting → Longwood sovereignty
+# 9. Braid B — road insecurity → rerouting → Longwood sovereignty
 
 ## B1 — High Roads confidence breaks unevenly
 
@@ -732,7 +764,7 @@ That is a successful domino.
 
 ---
 
-# 9. Braid C — water fear → cooperation → bloc anxiety
+# 10. Braid C — water fear → cooperation → bloc anxiety
 
 ## C1 — drought fear increases
 
@@ -799,7 +831,7 @@ A rumor becomes a political fact through reaction.
 
 ---
 
-# 10. Hidden logistics braid — Spine / Underpass bypass
+# 11. Hidden logistics braid — Spine / Underpass bypass
 
 The Spine land movement and Underpass route instability create a fourth, less public chain.
 
@@ -846,7 +878,7 @@ That legitimacy is more dangerous to the Council than sabotage alone.
 
 ---
 
-# 11. Port's own accumulating crisis
+# 12. Port's own accumulating crisis
 
 Port is not merely a transmission point for other people's problems.
 
@@ -895,7 +927,7 @@ The Villain's movement increasingly treats this delay as evidence that the curre
 
 ---
 
-# 12. The Council's current response
+# 13. The Council's current response
 
 The Council is not one mind and does not have one master emergency plan.
 
@@ -939,7 +971,7 @@ The Villain's plan works best when every Council option is locally defensible bu
 
 ---
 
-# 13. The Villain's current intervention pattern
+# 14. The Villain's current intervention pattern
 
 At the opening of the story, the Villain should already have moved beyond observation but **not yet** reached full deliberate mass harm.
 
@@ -971,7 +1003,7 @@ That boundary gives his moral escalation somewhere to go.
 
 ---
 
-# 14. What ordinary people think is happening
+# 15. What ordinary people think is happening
 
 No one needs the whole picture.
 
@@ -992,7 +1024,7 @@ The hidden architecture comes from how those truths interact.
 
 ---
 
-# 15. Opening-story state
+# 16. Opening-story state
 
 At the beginning of the main story:
 
@@ -1013,7 +1045,7 @@ That domino is the moment people begin to see the same hidden economic actors be
 
 ---
 
-# 16. Current-event design rule
+# 17. Current-event design rule
 
 Any future current event must answer:
 
