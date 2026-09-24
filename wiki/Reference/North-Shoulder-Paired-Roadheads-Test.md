@@ -33,7 +33,7 @@ Current owners:
 - [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md)
 - [Guilds](../Politics/Guilds.md)
 
-The two settlements remain unnamed until their history and naming layers are earned.
+Their naming layers have now been tested provisionally as **Sevu** on the North Coast side and **Korad** on the High Roads side, while **North Yard / South Yard / the Yards** remain traveler / caravan shorthand.
 
 ---
 
