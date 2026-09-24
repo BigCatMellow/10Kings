@@ -297,91 +297,182 @@ restriction / shortage / route failure
 
 See [Current Events](Story/Current-Events.md).
 
-Several unrelated-looking stresses are occurring at the same time:
+The current crisis field has now been rebuilt against the tested political / logistical world.
 
-- Stone Hills labor unrest and unusual metal movement;
-- North Coast fish-stock pressure, piracy, and convoy politics;
-- Low Rivers abundance, price collapse, debt, seed, and land conflict;
-- High Roads caravan attacks and route redirection;
-- Longwood logging disputes and ecological disruption;
-- Old Cities drought anxiety and city-state coordination;
-- Port smuggling, merchant conflict, and refugee/worker pressure;
-- The Spine land movement and route/ruin discovery;
-- Underpass route wars;
-- trans-regional religious interpretation of the crises.
+The active pressures are not one manufactured emergency.
 
-Some are ordinary problems. Some are manipulated. Some are Council responses. Some become useful to the Villain only after they already exist.
+They include:
 
-That uncertainty is important: the world must remain capable of producing trouble without a mastermind.
+- real North Coast fish-stock movement and real piracy;
+- a Low Rivers abundance / price / debt shock;
+- SH-M labor grievances and opaque strategic-metal movement;
+- High Roads route insecurity;
+- Longwood ecological stress and layered-rights conflict;
+- Old Cities drought anxiety and functional cooperation;
+- Port credit / shipping / merchant pressure;
+- Spine land movement and Underpass instability.
+
+The important distinction is causal:
+
+- some pressures are **baseline**;
+- some are **pushed** by the Villain;
+- some are institutional **responses**;
+- some are **cascades** produced by earlier events.
+
+The world remains capable of producing trouble without a mastermind.
+
+---
 
 ## 10. The story is embedded in the system
 
-See [Main Conflict](Story/Main-Conflict.md).
+See [Main Conflict](Story/Main-Conflict.md) and [Villain's Dominoes](Story/Villains-Dominoes.md).
 
 The three central narrative forces operate at different scales.
 
 ### Council — system maintenance
 
-The Council thinks in flows, shortages, routes, credit, and equilibrium.
+The Council thinks in flows, shortages, routes, credit, storage, materials, infrastructure, and equilibrium.
 
-### Villain — strategic disruption
+Its strongest advantage is cross-domain comparison.
 
-The Villain attacks relationships and incentives. His strongest moves make other actors choose actions that already make sense from their own perspective.
+Its central weakness is political:
 
-### Wurdren — lived consequence
+> useful coordination does not automatically create legitimate authority.
 
-Wurdren sees what a "necessary adjustment" means to a worker, family, village, caravan, refugee, or neighborhood.
+### Villain — strategic coupling
 
-That structure makes the world itself part of the plot engine.
+The Villain does not need to cause every crisis.
 
-## 11. A problem can be followed through the world
+He couples real pressures so that:
+
+- one institution's rational response becomes another institution's problem;
+- the Council must coordinate;
+- that coordination creates visible winners / losers;
+- mostly genuine evidence of hidden coordination becomes politically explosive.
+
+His operational objective is now established:
+
+> **force the post-Convergence order into a public coordination / legitimacy crisis.**
+
+His exact constituency, grievance, and final demand remain open.
+
+### Wurdren — lived consequence and trust repair
+
+Wurdren sees what a "necessary adjustment" means to a worker, family, village, caravan, refugee, merchant, fisher, or neighborhood.
+
+His strongest interventions alter:
+
+- trust;
+- evidence;
+- direct contact;
+- local cooperation.
+
+He repeatedly demonstrates that coordination can occur without either hidden technocracy or coercive revolutionary control.
+
+---
+
+## 11. The current braided causal architecture
+
+The active story pressure is now organized into several braids rather than six regional plots.
+
+### Maritime / finance / food / labor
+
+~~~text
+piracy / maritime fear
+→ Port risk / credit tightening
+→ weaker distant demand for Low Rivers abundance
+→ defaults / land pressure
+→ Stone Hills order changes
+→ SH-M labor / strategic-material suspicion
+~~~
+
+### Route / infrastructure / sovereignty
+
+~~~text
+High Roads insecurity
+→ traffic rerouting
+→ demand for redundancy
+→ road / route projects
+→ Longwood layered-rights conflict
+~~~
+
+### Water / diplomacy
+
+~~~text
+Old Cities drought anxiety
+→ functional cooperation
+→ rival bloc anxiety
+→ defensive counter-arrangements
+→ cooperation becomes more political because rivals treat it as political
+~~~
+
+### Alternate logistics
+
+~~~text
+Spine / Underpass disruption
+→ secondary routes gain value
+→ non-Council carriers / relief / direct trade gain capacity
+→ the Villain can build an alternative network rather than merely sabotage
+~~~
+
+These braids converge on the same Council vulnerability:
+
+> **maintain secrecy or maintain stability.**
+
+The Council may not be able to do both.
+
+---
+
+## 12. A problem can be followed through the world
 
 A useful reading and writing method is:
 
 1. start with a concrete event;
-2. identify the local owner page;
+2. identify the local owner;
 3. identify what flow it changes;
-4. follow the route or dependency outward;
-5. identify institutions that respond;
+4. follow the route / dependency outward;
+5. identify which actual polity or functional jurisdiction responds;
 6. identify who benefits and who pays;
-7. follow the information people receive about it;
-8. check Council and Villain incentives;
+7. identify the Council response, if any;
+8. identify what part of that response the Villain can expose / exploit;
 9. return to the people living with the result.
 
 Example:
 
-```text
+~~~text
 North Coast piracy rises
-→ shipping risk rises
-→ Port finance tightens
-→ Low Rivers buyers cancel distant grain contracts
-→ local grain prices fall
-→ farmers default
-→ land consolidation accelerates
-→ guild/religious protests grow
-→ Stone Hills orders decline
-→ labor conflict worsens
-→ Council intervention becomes visible enough to feed suspicion
-```
+→ NC-M convoy pressure increases
+→ Port risk terms tighten
+→ Low Rivers distant purchases weaken
+→ abundance becomes debt / ownership crisis
+→ Council-linked stabilization favors selected flows / clients
+→ Stone Hills ordinary orders weaken while strategic metal still moves
+→ labor suspicion rises
+→ selective evidence makes several local losses look like one hidden political decision
+~~~
 
-See [Current Events](Story/Current-Events.md) for the current worked example.
+See [Current Events](Story/Current-Events.md) and [Villain's Dominoes](Story/Villains-Dominoes.md).
 
-## 12. What is still deliberately unresolved
+---
+
+## 13. What is still deliberately unresolved
 
 This synthesis should not make unsettled details look settled.
 
 Major open areas include:
 
 - exact map, rivers, and route geometry;
-- exact constitutional forms of the six regions;
-- Port citizenship and treaty structure;
+- remaining exact constitutional / jurisdictional details of the tested political actors;
+- Port citizenship and treaty machinery;
 - exact Council membership, history, visibility, and succession;
-- the Villain's exact grievance and desired political end state;
+- the Villain's identity, constituency, exact grievance, and exact demand at the new settlement;
+- which manufactured escalation becomes his unmistakable moral break;
 - Wurdren's exact biography and starting situation;
 - magic prevalence and limits;
 - language families and naming systems;
-- the structure and legal status of nomadic/itinerant peoples;
-- which current-event candidates are finally selected.
+- the structure and legal status of nomadic / itinerant peoples.
+
+The **current-event field and Villain's operational architecture are no longer open at the generic level**.
 
 See [Open Questions](Open-Questions.md).
 
