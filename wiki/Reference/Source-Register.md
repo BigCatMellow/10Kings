@@ -23,7 +23,7 @@ This follows MAPS_L's “one concept, one owner” and information-lifecycle rul
 
 ## Active retrieval layer
 
-Use [Legacy Source Audit and Retrieval Index](Legacy-Source-Audit.md) before substantial work in areas marked PARTIALLY RECONCILED or UNRECONCILED. The legacy folder preserves source history, but some volumes still contain forward-relevant mechanisms that have not yet received a deliberate modern pass.
+Use [Legacy Source Audit and Retrieval Index](Legacy-Source-Audit.md) and [Legacy Master Salvage Pass — V2](Legacy-Master-Salvage-Pass-V2.md) before substantial legacy retrieval. The first reconciliation was structural; the V2 source-level pass now tracks all 220 original Markdown sources individually in [Legacy Source-Level V2 Ledger](Legacy-Source-Level-V2-Ledger.md).
 
 The audit distinguishes:
 - cold provenance;
