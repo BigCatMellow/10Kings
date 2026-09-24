@@ -121,7 +121,9 @@ A first functional-governance pass now exists for Stone Hills, North Coast, Low 
 
 [Political Border History Test — V1](Reference/Political-Border-History-Test-V1.md) now tests how the major interfaces can descend from messy pre-Convergence control and later Convergence recognition.
 
-The remaining questions are therefore mostly about **specific polity implementation, exact border placement, naming, succession, and exact representation**, not about choosing one generic government type for each culture.
+[Stone Hills Polity Vertical Slice — V1](Reference/Stone-Hills-Polity-Vertical-Slice-V1.md) now tests the first concrete state model: SH-A as a post-Convergence composite territorial polity with SH-M as a strong charter-like industrial jurisdiction.
+
+The remaining questions are therefore mostly about **testing other concrete polities, exact border placement, naming, succession details, and exact representation**, not about choosing one generic government type for each culture.
 
 Remaining questions:
 
