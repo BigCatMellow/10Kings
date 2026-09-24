@@ -6,6 +6,12 @@ Cuisine follows ecology + trade + class + season + preservation + religion + his
 
 Each region has recognizable food families, but there is no single menu eaten by everyone.
 
+## Recipe working set
+
+Concrete recipe examples live in [Recipes](Recipes/README.md).
+
+Those pages are **provisional culinary working material**, not a second food canon. This page remains the owner for broad regional food ecology; [Food Diaspora and Adaptation](Food-Diaspora-and-Adaptation.md) owns the rules for migration and hybridization.
+
 ## Ironcrest
 
 Local base:
@@ -292,6 +298,8 @@ It develops:
 ## Border cuisine
 
 Border food is often the clearest sign of cultural blending because ingredients and techniques combine faster than political identities.
+
+See [Neighboring Border Fusion Recipes](Recipes/Border-Fusions.md) for provisional concrete examples.
 
 ## Food and story
 

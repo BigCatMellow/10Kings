@@ -188,3 +188,27 @@ The import did **not** settle these:
 - which named festivals, wars, towns and dishes graduate from provisional texture into established canon.
 
 Do not promote them merely because an old compendium states them confidently.
+
+
+### 8. 2026-09-24 recipe development conversation
+
+**Source:** live culinary worldbuilding work in ChatGPT, developed from the existing Food and Food Diaspora principles.
+
+Disposition: **promoted as provisional recipe working material** to [Recipe Working Set](../Culture/Recipes/README.md).
+
+The recipe set collects concrete regional and neighboring-border dishes while preserving the current authority structure:
+
+- [Food](../Culture/Food.md) remains the owner for broad culinary ecology;
+- [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md) remains the owner for migration, substitution and hybridization rules;
+- named recipes remain provisional unless later promoted deliberately;
+- earlier brainstorm details that conflicted with material realism or food safety were normalized rather than promoted, including direct food contact with industrial coal/forge fuel, edible charcoal as a normal ingredient, and unsafe “nightshade” wording.
+
+The new recipe pages are:
+
+- [Ironcrest Recipes](../Culture/Recipes/Ironcrest.md)
+- [Northwind Recipes](../Culture/Recipes/Northwind.md)
+- [Greenvale Recipes](../Culture/Recipes/Greenvale.md)
+- [Highridge Plateau Recipes](../Culture/Recipes/Highridge-Plateau.md)
+- [Deepwood Recipes](../Culture/Recipes/Deepwood.md)
+- [Sunplains Recipes](../Culture/Recipes/Sunplains.md)
+- [Neighboring Border Fusion Recipes](../Culture/Recipes/Border-Fusions.md)
