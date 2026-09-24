@@ -468,13 +468,19 @@ No candidate should be accepted merely because it sounds good.
 
 [Local Name Candidate Tests — V1](Local-Name-Candidate-Tests-V1.md) now applies the site histories to minimal W1 / P1 / S1 lexical roots.
 
-Working local candidates:
+First-pass local candidates were:
 
 - SH-M → **Kavel**;
 - HR-C → **Meren**;
 - OC-U → **Naret**.
 
-All remain provisional reference candidates.
+After [Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md):
+
+- Kavel remains a provisional pass;
+- Meren is **on hold** pending a P1 micro-set;
+- Naret remains a provisional pass.
+
+The site histories themselves remain valid regardless of the lexical correction.
 
 ---
 
