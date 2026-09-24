@@ -123,6 +123,14 @@ Modern Stone Hills rulers must manage:
 - old land claims;
 - Council-linked credit.
 
+See [Stone Hills Functional Governance Test](../Reference/Stone-Hills-Functional-Governance-Test.md).
+
+The strongest current structural conclusion is that Stone Hills is **more territorially consolidated than its pre-Convergence past without becoming economically centralized**.
+
+Larger rulers can plausibly command soldiers, tax, regulate major roads, intervene in strategic metal flows, and conduct diplomacy. They still depend on mine owners, skilled workers, guilds, towns, lenders, food, fuel, and transport.
+
+Mine ownership, civic authority, guild authority, and sovereign authority should therefore remain distinct.
+
 A ruler can command soldiers but cannot simply order the economy to function.
 
 ## Current pressures
