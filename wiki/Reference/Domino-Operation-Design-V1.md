@@ -197,7 +197,81 @@ If every accident is sabotage, the world stops feeling alive.
 
 ---
 
-# 3. Operation card
+# 3. Minimum-push rule
+
+A Villain intervention should usually be **smaller than the consequence it eventually helps produce**.
+
+Preferred pattern:
+
+~~~text
+small deliberate push
+→ ordinary actor reacts
+→ another system receives the cost
+→ ordinary actor reacts
+→ existing historical fear changes interpretation
+→ another precaution
+~~~
+
+Avoid:
+
+~~~text
+Villain personally sabotages everything
+→ everyone does exactly what he wanted
+~~~
+
+For most major branches, test:
+
+> **If the Villain disappeared immediately after this push, would the next two or three dominoes still plausibly fall?**
+
+If no, the intervention is probably too large or too dependent on mastermind control.
+
+The conspiracy can still be enormous because it may contain:
+
+- many agents;
+- many payments;
+- many reports;
+- many small delays;
+- many selective disclosures;
+- many background observations.
+
+But the *causal leverage points* should remain small.
+
+---
+
+# 4. Visibility split
+
+Each domino has two versions.
+
+## Author-side
+
+The causal graph records:
+
+- the real pressure;
+- the Villain's exact nudge;
+- the institutional response;
+- the downstream effect.
+
+## Reader / Wurdren side
+
+The scene usually contains only:
+
+- an inconvenience;
+- a rumor;
+- a changed price;
+- a delayed shipment;
+- a strange document;
+- a nervous official;
+- a repair crew;
+- an empty inn;
+- an unexpectedly armed convoy.
+
+Do not reveal the plan merely because the author knows it.
+
+The reader should first notice **repetition**, then **connection**, then **intent**.
+
+---
+
+# 5. Operation card
 
 Every major domino should now have an operation card.
 
@@ -282,7 +356,7 @@ What makes this move more ethically serious than the previous one?
 
 ---
 
-# 4. Signature rule
+# 6. Signature rule
 
 The Villain should develop a recognizable strategic fingerprint across otherwise different operations.
 
@@ -306,7 +380,7 @@ A consistent **decision pattern** is more credible than a decorative calling car
 
 ---
 
-# 5. Current recommended fingerprint
+# 7. Current recommended fingerprint
 
 The strongest current fingerprint for the Port-centered Villain is:
 
@@ -333,7 +407,7 @@ That makes his movement look competent rather than merely destructive.
 
 ---
 
-# 6. Underworld use
+# 8. Underworld use
 
 Do not make the Villain personally execute every operation.
 
@@ -362,7 +436,7 @@ This preserves compartmentation.
 
 ---
 
-# 7. Escalation ladder for operations
+# 9. Escalation ladder for operations
 
 ## Level 1 — reveal
 
@@ -402,7 +476,7 @@ The reader should be able to see the progression.
 
 ---
 
-# 8. Domino quality gate
+# 10. Domino quality gate
 
 Before a domino is accepted, ask:
 
