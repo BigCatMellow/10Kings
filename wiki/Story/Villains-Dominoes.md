@@ -36,9 +36,15 @@ The Villain identifies where they can be coupled so that:
 
 The target is not chaos for its own sake.
 
-The target is:
+The target is the political arrangement around **Port**.
 
-> **the legitimacy of hidden coordination.**
+The Villain wants to demonstrate that:
+
+> **Port is expected to carry the world's commerce and crises while its neutrality prevents it from retaining enough wealth, authority, or freedom of action to care for itself.**
+
+Council exposure matters because it sharpens the contradiction:
+
+> Port is told decisive cross-border action is too politically delicate, while hidden private networks quietly coordinate through Port whenever the wider system needs them to.
 
 ---
 
@@ -48,59 +54,67 @@ The Villain needs all four conditions.
 
 ~~~
 REAL STRESS
-+ COUPLING PUSH
-+ COUNCIL RESPONSE
++ PRESSURE CONCENTRATED THROUGH PORT
++ SLOW / CONDITIONAL PUBLIC RESPONSE
++ FAST HIDDEN SYSTEM RESPONSE
 + SELECTIVE EXPOSURE
-= LEGITIMACY CRISIS
+= PORT SETTLEMENT CRISIS
 ~~~
 
 If there is no real stress, the plot becomes conspiracy theater.
 
 If there is no Villain push, he is only an observer.
 
-If there is no Council response, he cannot expose the political meaning of hidden coordination.
+If Port does not bear visible cost, his grievance remains abstract.
 
-If there is no exposure, the crises remain local.
+If there is no Council response, he cannot show that rapid cross-border coordination is possible when commerce and system stability are threatened.
+
+If there is no exposure, the contradiction remains hidden.
 
 ---
 
-# 3. Phase 0 — build capacity before breaking anything
+# 3. Phase 0 — build Port capacity before forcing the issue
 
-Before the major domino chain, the Villain's movement needs mundane capacity.
+Before the major domino chain, the Villain's movement needs mundane capacity that Port itself can use.
 
 ## Information
 
-- merchants;
-- dissatisfied clerks;
+- Port merchants;
+- harbor / warehouse clerks;
 - guild contacts;
 - local political allies;
+- sailors;
 - smugglers;
 - travelers;
 - copied contracts;
+- evidence about delayed assistance / foreign conditions;
 - Council-linked public records.
 
 ## Movement
 
 - secondary roads;
-- minor ports / landings;
+- minor landings;
 - Underpass paths;
 - small carriers;
-- trusted inns / warehouses;
-- direct local agreements.
+- trusted warehouses;
+- direct producer-to-Port relationships.
 
 ## Finance / relief
 
-- strike support;
 - emergency loans;
+- repair funds;
+- food / medicine movement;
 - purchases from distressed producers;
-- legal defense;
-- food / medicine movement.
+- support for workers / households during disruption;
+- independent warehousing.
 
 ## Political legitimacy
 
-The network must solve some real problems before asking people to accept its political interpretation.
+The network must solve Port problems that the existing system solves slowly, conditionally, or not at all.
 
 **Design rule:** some Phase 0 work should be genuinely beneficial even if the larger strategy never existed.
+
+This is what makes later support believable.
 
 ---
 
@@ -433,37 +447,39 @@ With it, he can claim to offer another order.
 
 ---
 
-# 9. Convergence point — the Council must choose
+# 9. Convergence point — Port needs help while everyone needs Port
 
-The braids converge when several things happen at once:
+The braids converge when several pressures hit Port at once:
 
 - shipping risk;
 - credit stress;
-- Low Rivers default;
-- strategic-metal uncertainty;
-- route rerouting;
-- contested infrastructure;
-- Old Cities diplomatic suspicion.
+- warehouse / cargo disruption;
+- refugee / worker pressure;
+- demand for repair / security;
+- Low Rivers market instability;
+- route substitution;
+- diplomatic suspicion among outside powers.
 
-The Council sees the systemic interaction earlier than most public institutions.
+Port needs faster action.
 
-That is its advantage.
+But its neutrality makes major assistance politically complicated.
 
-But it cannot stabilize everything invisibly.
+Possible public debates include:
 
-It must choose among actions such as:
+- who may send armed escorts;
+- who funds harbor protection;
+- whether emergency loans create foreign leverage;
+- whether one guarantor can act without the others;
+- whether Port may change fees or revenue rules;
+- whether exceptional local powers violate the neutrality settlement.
 
-- guarantee one merchant network;
-- prioritize one route;
-- release one stock;
-- delay one project;
-- finance one repair;
-- pressure one polity;
-- redirect one material stream.
+At the same time the Council sees the wider systemic interaction and can coordinate privately through commercial networks.
 
-Every choice produces local losers.
+That is the Villain's desired contrast:
 
-The Villain is waiting for those choices.
+> **Port waits for permission while the hidden system moves because trade cannot wait.**
+
+He is waiting for that contrast to become documentable.
 
 ---
 
@@ -471,23 +487,37 @@ The Villain is waiting for those choices.
 
 This is the first truly world-scale domino.
 
-The Villain assembles a package of **mostly genuine evidence** showing that several apparently independent interventions share:
+The Villain assembles a package of **mostly genuine evidence** showing two things side by side.
 
-- the same houses;
+## A. Public Port paralysis
+
+Records of:
+
+- delayed aid;
+- conditions attached to assistance;
+- arguments among guarantors / outside powers;
+- postponed security / infrastructure decisions;
+- disputes over who may pay, command, arm, tax, or act.
+
+## B. Private system speed
+
+Evidence that several apparently independent commercial interventions share:
+
+- the same Council-linked houses;
 - related agents;
 - coordinated timing;
-- common information;
+- pooled information;
 - private correspondence or contracts.
 
 The evidence does not need to prove:
 
 > the Council caused every crisis.
 
-It only needs to prove:
+It needs to support a more specific accusation:
 
-> **the same private networks secretly decided how several crises would be managed.**
+> **When Port itself needed help, the political system said everyone's hands were tied. When the wider commercial system needed saving, private actors found a way to coordinate immediately.**
 
-That claim is already politically explosive.
+That claim is politically explosive even if every Council intervention prevented real harm.
 
 ## Why mostly true evidence is stronger
 
@@ -495,10 +525,9 @@ A pure forgery can be disproved.
 
 Selective truth creates a harder argument:
 
-- the Council can explain the context;
-- the public can still reasonably object to the authority.
-
-The Villain wins even when the Council's factual rebuttal is accurate.
+- outside powers can explain why neutrality required caution;
+- the Council can explain why intervention was necessary;
+- Port residents can still reasonably ask why their city has less freedom to act for itself than private networks have to act through it.
 
 ---
 
@@ -554,71 +583,93 @@ That is the second world-scale domino.
 
 ---
 
-# 12. Phase 4 — coordination crisis
+# 12. Phase 4 — Port settlement crisis
 
-Now the Council's tools are politically contaminated.
+Now the old neutrality arrangement itself becomes the object of political conflict.
 
-A Council-backed loan may be refused because:
+Inside Port, demands grow for some combination of:
 
-> accepting it looks like submission.
+- retained revenue;
+- guaranteed infrastructure funding;
+- local emergency authority;
+- stronger defense capacity;
+- faster aid rules;
+- more independent commercial / diplomatic action.
 
-A useful route recommendation may be ignored because:
+Outside powers divide because each reform changes the balance that made neutrality acceptable.
 
-> the source is suspected.
+The Council's normal tools are also politically contaminated.
 
-A necessary warehouse release may be treated as manipulation.
+A Council-backed loan may be rejected because:
 
-The Council faces the exact trap the Villain wanted:
+> this is exactly how outside influence entered before.
 
-## Stay hidden / restrained
+A useful warehouse or shipping intervention may be treated as evidence that Port is still being managed for others.
+
+The Council and treaty powers face the Villain's intended trap:
+
+## Preserve the old limits
 
 Risk:
 
-- real instability worsens;
-- alternative networks gain legitimacy.
+- Port instability worsens;
+- alternative local networks gain legitimacy;
+- the system looks exploitative and indifferent.
 
-## Act openly
+## Grant Port more agency
 
 Risk:
 
-- confirm that an unelected private government exists in practice;
-- provoke political retaliation;
-- expose member houses.
+- change the balance of neutrality;
+- reduce outside leverage;
+- create precedent;
+- allow Port to accumulate independent power.
 
 This is the operational climax of the domino plan.
 
 ---
 
-# 13. Phase 5 — the Villain's proposed alternative
+# 13. Phase 5 — the Villain's proposed Port settlement
 
 The Villain does **not** need to walk into a room and declare himself ruler.
 
-His network has already become useful.
+His network has already become useful inside and around Port.
 
 By this stage it may include or connect:
 
-- producers;
+- Port workers;
 - small merchants;
+- harbor / warehouse interests;
 - guild factions;
-- local political movements;
 - relief networks;
 - smugglers;
-- secondary routes;
+- secondary carriers;
 - reformers;
-- communities harmed by Council choices.
+- outside producers who prefer direct access;
+- communities that rely on Port but distrust Council-linked houses.
 
 He can demand:
 
-> a new settlement.
+> **rewrite the terms under which Port is neutral.**
 
-The exact demand remains open until his constituency / grievance is finalized.
+The exact constitutional package remains open.
 
-But his leverage is concrete:
+Likely demands can include some combination of:
 
-- people can move some goods without the Council;
-- evidence of secret coordination is public;
-- existing institutions are afraid of dependence;
-- the old stabilization machinery is politically constrained.
+- greater retained revenue;
+- guaranteed outside contributions for shared infrastructure;
+- faster emergency procedures;
+- greater local defense authority;
+- stronger Port control over commercial policy;
+- more transparency around outside / Council-linked influence.
+
+His leverage is concrete:
+
+- Port still matters to everyone;
+- some alternate logistics now work;
+- hidden coordination has been exposed;
+- Port residents are angry that wealth and responsibility flow in opposite directions;
+- every outside actor fears another actor gaining advantage if the old arrangement collapses.
 
 ---
 
