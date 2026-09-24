@@ -539,15 +539,15 @@ This makes the map linguistically reflect the political structure.
 
 ---
 
-# 20. Next naming priorities
+# 20. Political naming-source result
 
-The next names should be chosen only where they unlock political geography.
+[Political Naming Source Vertical Slices — V1](Political-Naming-Source-Vertical-Slices-V1.md) now supplies the missing historical sources:
 
-Highest-value prerequisites:
+1. G1 — inherited old river hydronym predating LR-A;
+2. NC-M center — sheltered mainland harbor with freshwater and inland access;
+3. SH-A seat — raised confluence / valley-junction settlement distinct from Kavel;
+4. OC-D — firm lower-basin crossing / bank later surrounded by irrigation expansion.
 
-1. **G1 river name**, because it may naturally generate LR-A's polity name and clarify LR-M / Port geography.
-2. **NC-M founding compact / principal political center**, because the mainland polity still lacks a naming source.
-3. **SH-A central ruling seat / territorial origin**, because Kavel should not automatically become the state name.
-4. **OC-D**, because the shared Naret / downstream water system needs two actual city names for usable diplomacy and story scenes.
+All four are now ready for tightly bounded lexical tests.
 
-These are better targets than generating a general map-name list.
+State-name promotion still depends on a separate place-to-polity relationship test after the local names exist.
