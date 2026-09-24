@@ -568,22 +568,16 @@ This distinction prevents forced naming.
 
 ---
 
-# 15. Strong V1 conclusion
+# 15. Naming-test result
 
-The project now has enough linguistic constraint to stop producing arbitrary fantasy phonetics.
+[Settlement Naming Vertical Slices — V1](Settlement-Naming-Vertical-Slices-V1.md) now tests actual readiness.
 
-The profiles are deliberately modest.
+Results:
 
-They make it possible to say:
+- LR-M supports **Last Quay** as a provisional common-language commercial name while its local civic name remains open.
+- NC-R / HR-N support **North Yard / South Yard / the Yards** as provisional caravan shorthand while both local town names remain open.
+- SH-M fails the naming gate because its original settlement cause is still unspecified.
 
-> this candidate does not fit the naming history
+The test also finds HR-C and OC-U are not ready for final endonyms.
 
-without pretending a finished conlang exists.
-
-The next useful action is to test them on the **three best-developed settlements**:
-
-1. SH-M;
-2. NC-R / HR-N paired roadheads;
-3. LR-M.
-
-Those places have enough material history to generate names from causes rather than aesthetic preference.
+Therefore the next naming step is **settlement-history development**, not more syllable generation.
