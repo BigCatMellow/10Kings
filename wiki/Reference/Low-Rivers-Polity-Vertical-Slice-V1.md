@@ -28,6 +28,8 @@ The purpose is to answer:
 
 > **Can LR-A remain one substantial territorial polity without flattening the villages, estates, river towns, cooperatives, water institutions, and markets that actually make the Low Rivers function?**
 
+**Current provisional naming layer:** [N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) tests **Daroa** for G1 and **Dasei** for LR-M, with **Last Quay** as Dasei's interregional commercial exonym. [Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) tests **Daroa** as the common political name for LR-A through river / basin naming. These remain reference-level forms.
+
 This is also a comparison test against:
 
 [Stone Hills Polity Vertical Slice — V1](Stone-Hills-Polity-Vertical-Slice-V1.md).
