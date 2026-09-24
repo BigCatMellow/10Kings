@@ -1159,27 +1159,25 @@ The next gate is no longer generic governance design.
 
 [Minimal Naming Profiles — V1](Minimal-Naming-Profiles-V1.md), [Settlement Site-History Vertical Slices — V1](Settlement-Site-History-Vertical-Slices-V1.md), and [Polity and Place Naming Relationship Test — V1](Polity-and-Place-Naming-Relationship-Test-V1.md) now carry the naming layer forward.
 
-[Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md) caught excessive cross-cluster similarity in the first isolated-name pass and added a mandatory micro-set comparison gate.
+[Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md) and [N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now document a failed lexical-generation sequence.
 
-[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now supplies the corrected provisional local ecology:
+The first pass produced excessive authorial phonological similarity.
 
-- W1 — **Kavel / Varel**;
-- N1 — **Auvor / Orai / Sevu**;
-- R1 — **Daroa / Dasei / Omeda**;
-- P1 — **Mesk / Korad / Tavrek**;
-- S1 — **Naret / Talir**.
+The micro-set correction improved variation but still violated the more fundamental rule by inventing opaque forms first and assigning tiny one-use roots afterward.
 
-Common occupational / commercial forms remain:
+Current naming disposition:
 
-- Dasei → **Last Quay**;
-- Sevu → **North Yard**;
-- Korad → **South Yard**;
-- Sevu + Korad → **the Yards**.
+- return to SH-A / SH-M / NC-M / NC-I / NC-R / G1 / LR-A / LR-M / HR-N / HR-W / HR-C / OC-U / OC-D design IDs where local endonyms are unresolved;
+- keep **Port** as the grounded common form;
+- keep **Last Quay** as LR-M's provisional commercial exonym;
+- keep **North Yard / South Yard / the Yards** as provisional caravan shorthand;
+- preserve the site histories and place→polity naming mechanisms;
+- do not generate replacement opaque forms until actual reusable linguistic material can derive them.
 
-[Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) now retests the three large actors:
+[Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) retains three useful polity-name mechanisms without lexical recommendations:
 
-- SH-A → **Varel**, through ruling-seat metonymy;
-- NC-M → **the Auvor Compact / Auvor**, through an inherited meeting-place / compact label;
-- LR-A → **Daroa**, through river / basin geography.
+- SH-A — ruling-seat / court metonym;
+- NC-M — inherited meeting-place / compact label;
+- LR-A — river / basin geographic shorthand.
 
-All remain provisional reference names rather than final constitutional titles.
+The political topology is therefore still map-ready at the **structural** level while most local proper names remain intentionally open.
