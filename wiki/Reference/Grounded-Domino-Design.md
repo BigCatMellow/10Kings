@@ -299,7 +299,44 @@ If several answers require "because the plot needs it," redesign the domino.
 
 ---
 
-# 13. Relationship to Worldbuilding Breath
+# 13. Relationship to operation design
+
+[Domino Operation Design — V1](Domino-Operation-Design-V1.md) now adds a second gate.
+
+This page asks:
+
+> does the causal chain work?
+
+The operation-design page asks:
+
+> does each Villain intervention have a distinct craft, visible explanation, evidence trail, human cost, and failure mode?
+
+Both are required.
+
+A domino can be causally sound and still be dramatically weak if every Villain move is just:
+
+- rumor;
+- leak;
+- sabotage;
+- repeat.
+
+The current plan deliberately varies:
+
+- route-intelligence manipulation;
+- credit engineering;
+- alternative logistics;
+- document manipulation;
+- contract theft;
+- conflict brokerage;
+- procurement timing;
+- withholding;
+- curated evidence.
+
+The Villain's strategic **fingerprint** should remain consistent even when the operational method changes.
+
+---
+
+# 14. Relationship to Worldbuilding Breath
 
 [Worldbuilding Breath](Worldbuilding-Breath.md) and this method reinforce each other.
 
