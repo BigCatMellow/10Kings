@@ -143,6 +143,21 @@ City-states compete for:
 - alliances;
 - cultural influence.
 
+See [Old Cities Functional Governance Test](../Reference/Old-Cities-Functional-Governance-Test.md).
+
+The strongest current structural conclusion is a **competitive city-state system with uneven hinterlands and cross-border functional compacts**.
+
+Cities can possess real taxation, military, civic, market, and diplomatic authority while relying on:
+
+- rural intermediaries;
+- estates;
+- merchant houses;
+- shared water systems;
+- trade corridors;
+- temporary leagues.
+
+Coordination therefore does not imply unification.
+
 A permanent Old Cities union would be powerful enough to worry both neighbors and the Council.
 
 ## Shared water can cross political rivalry
