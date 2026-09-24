@@ -566,6 +566,63 @@ But once information reaches Port, Port can redistribute it through many network
 
 That makes Port an amplifier.
 
+## Three Moons surge — synchronized aggregation
+
+[Three Moons Festival](Culture/Three-Moons-Festival.md) creates an unusual seven-year information event in Port.
+
+Port normally aggregates different networks at different times.
+
+During the festival window, many of them overlap in person:
+
+- ships;
+- merchants;
+- guild branches;
+- caravan representatives;
+- religious travelers;
+- political agents;
+- performers;
+- migrants;
+- scholars;
+- underworld contacts.
+
+That produces a temporary **synchronization effect**.
+
+Information that would normally arrive weeks apart may be compared within days.
+
+Examples:
+
+- a North Coast shipping problem can be compared directly with Port credit conditions;
+- a Stone Hills material shortage can be compared with unusual Old Cities purchasing;
+- High Roads route complaints can be compared with Longwood contract pressure;
+- guild delegates can discover that the same material / transport problem is appearing in several sectors.
+
+This makes Three Moons especially powerful for:
+
+- pattern recognition;
+- rumor propagation;
+- verification;
+- accidental leakage;
+- contract formation;
+- political networking.
+
+It also creates more **noise**.
+
+The city contains:
+
+- exaggerated stories;
+- self-interested claims;
+- outdated information;
+- deliberate misinformation;
+- festival gossip.
+
+Therefore:
+
+> **Three Moons increases information density, not certainty.**
+
+The Villain's advantage comes from having enough cross-domain contacts / records to compare reports better than most single institutions.
+
+---
+
 ## The High Roads — overland aggregation
 
 The High Roads perform a complementary role for inland movement.
