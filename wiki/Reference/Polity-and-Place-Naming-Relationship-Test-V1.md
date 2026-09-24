@@ -2,375 +2,173 @@
 
 ## Status
 
-**Provisional naming-structure test — not canon polity names.**
+**Provisional structural naming test — lexical names intentionally open.**
 
-This page follows:
+This page asks which political actors actually need names separate from their principal city, island, river, alliance, or court.
 
-- [Working Political Geography — V1](Working-Political-Geography-V1.md)
-- [Local Name Candidate Tests — V1](Local-Name-Candidate-Tests-V1.md)
-- [Settlement Naming Vertical Slices — V1](Settlement-Naming-Vertical-Slices-V1.md)
-- [Naming](../Culture/Naming.md)
+It does **not** generate those names.
 
-The purpose is to answer:
-
-> **Which V1 political actors actually need a political name distinct from the settlement that anchors them?**
-
-A realistic map should not assume every polity has:
-
-- a country name;
-- a capital name;
-- a dynasty name;
-- an adjective
-
-all separately invented.
-
-Often one inherited place name does several jobs.
+That distinction matters because political form should determine naming behavior before vocabulary is invented.
 
 ---
 
-# 1. Naming categories
+# 1. SH-A
 
-V1 distinguishes:
+SH-A is broader than any one city / industrial jurisdiction.
 
-## City-polity name
+It therefore needs a political common form distinct in **scope**, even if that form later derives from the ruling seat.
 
-The political unit and principal city use the same root.
+Strongest current mechanism:
 
-Examples in real naming logic include a city-state simply being known by the city.
+> ruling seat → court metonym → common state shorthand
 
-## Territorial polity name
+The actual seat / polity name remains open.
 
-The polity covers enough distinct settlements / landscapes that its name likely comes from:
-
-- older territory;
-- river;
-- ruling house;
-- administrative region;
-- major seat.
-
-The capital need not share the polity name.
-
-## Compact / league name
-
-A political order may be known through:
-
-- member places;
-- route;
-- agreement;
-- meeting place;
-- institutional label.
-
-It may not require one territorial country name.
-
-## Common-language exonym
-
-Foreign merchants / diplomats may use a translated or shortened label that locals do not treat as the formal name.
+**Result: broader polity label required; lexical form unresolved.**
 
 ---
 
-# 2. SH-A — separate polity name required, but not ready
+# 2. SH-M
 
-## Current structure
+SH-M is a city / civic-industrial jurisdiction inside SH-A.
 
-SH-A is:
+It does not need a separate country-style name.
 
-- large;
-- territorially composite;
-- post-Convergence;
-- built over older towns / valleys / mine jurisdictions.
+The eventual local settlement name can normally also identify the civic jurisdiction.
 
-Kavel (SH-M) is only one major industrial civic jurisdiction.
+Its site history predates industrial dominance and should guide later derivation.
 
-## Test
-
-Could SH-A simply be called Kavel?
-
-**No.**
-
-That would imply:
-
-- Kavel is necessarily the central seat;
-- Kavel's civic identity subsumes older western jurisdictions;
-- the state grew directly from Kavel.
-
-None of those are established.
-
-## Strongest naming source candidates
-
-SH-A's eventual polity name should probably come from one of:
-
-1. central ruling seat / court;
-2. ruling house;
-3. older territorial designation;
-4. major river / valley that became administrative shorthand.
-
-## Result
-
-**NOT READY.**
-
-Keep **SH-A** as the design handle.
-
-Do not use Kavel as a country name.
+**Result: city name can equal civic-jurisdiction name.**
 
 ---
 
-# 3. SH-M — Kavel can name both city and civic jurisdiction
+# 3. NC-M
 
-Kavel is a settlement first.
+NC-M needs a political label broader than its principal harbor.
 
-SH-M is a charter-like civic jurisdiction centered on that settlement.
+The strongest current historical relationship is:
 
-There is no current reason to invent a second political label.
+> principal meeting harbor → recurring compact / agreement label → later state inherits compact label
 
-## Working relationship
+The harbor and polity can therefore share a root later without implying simple city-state absorption.
 
-> **Kavel** — city / civic jurisdiction.
-
-Possible later formal styles can include:
-
-- city of Kavel;
-- Kavel charter;
-- Kavel district;
-
-depending on constitution.
-
-## Result
-
-**PASS.**
-
-No separate SH-M polity name needed.
-
-Kavel remains provisional.
+**Result: broader compact-derived political form required; lexical form unresolved.**
 
 ---
 
-# 4. NC-M — separate polity name required, but not ready
+# 4. NC-I
 
-NC-M contains:
+NC-I may not need a second country-style name beyond the principal island / inherited island polity name.
 
-- multiple mainland harbors;
-- inland districts;
-- NC-R;
-- several local jurisdictions.
+Its constitutional relationship to NC-M remains separately negotiable.
 
-Therefore a single harbor name should not automatically become the polity name unless later history proves that one harbor / ruling seat built the compact around itself.
-
-## Strongest possible sources
-
-1. compact's principal founding seat;
-2. ruling / high office;
-3. older mainland territorial name;
-4. major bay / strait / geographic feature;
-5. historical compact name that became territorial.
-
-The maritime-compact history makes option 5 unusually plausible.
-
-But no actual founding compact / central seat name exists yet.
-
-## Result
-
-**NOT READY.**
-
-Keep **NC-M**.
+**Result: island name may equal polity name.**
 
 ---
 
-# 5. NC-I — island and polity may share one name
+# 5. NC-R
 
-NC-I is an island or island cluster polity.
+NC-R is a local roadhead jurisdiction rather than a large sovereign state.
 
-This makes a common naming pattern plausible:
+It needs an ordinary local settlement name eventually.
 
-> geographic island name  
-> → island people / jurisdiction  
-> → political name
+It already has the grounded caravan shorthand:
 
-No second state label is required by current structure.
+> **North Yard**
 
-## Missing prerequisite
+That is not automatically its local civic name.
 
-The island's actual physical naming cause is not yet developed.
-
-It needs:
-
-- island shape / harbor / older settlement / lineage history;
-- N1 or substrate naming source.
-
-## Result
-
-**STRUCTURALLY READY; LEXICALLY NOT READY.**
-
-The eventual island name can probably serve as the polity name.
+**Result: local endonym unresolved; North Yard remains traveler shorthand.**
 
 ---
 
-# 6. NC-R — North Yard is not a polity name
+# 6. LR-A
 
-**North Yard** is caravan shorthand.
+LR-A needs a political name broader than LR-M.
 
-NC-R is:
+Strongest current mechanism:
 
-- a real settlement;
-- inside NC-M;
-- locally governed;
-- route-important.
+> old G1 hydronym → basin geographic name → administrative / political shorthand
 
-Its local civic name must remain distinct from the caravan exonym.
+The actual hydronym remains unresolved.
 
-## Result
-
-**NO SEPARATE POLITY NAME REQUIRED.**
-
-Need local settlement endonym later.
+**Result: broader river / basin political form preferred; lexical form unresolved.**
 
 ---
 
-# 7. LR-A — separate territorial polity name required, but not ready
+# 7. LR-M
 
-LR-A covers much of the G1 basin.
+LR-M should have an eventual ordinary local settlement name.
 
-It contains:
+It already has the grounded interregional commercial exonym:
 
-- many towns;
-- estates;
-- villages;
-- LR-M / Last Quay;
-- watershed institutions.
+> **Last Quay**
 
-Calling the polity **Last Quay** would obviously misrepresent it.
+Last Quay works because outsiders understand the town through its transfer function.
 
-## Strong naming sources
+It should not automatically become LR-A's state name or the local historical endonym.
 
-The strongest possibilities are:
-
-1. G1 river name;
-2. administrative / dynastic seat;
-3. old basin / territorial name;
-4. ruling house if one exists.
-
-### Best current direction
-
-A **river-derived or old basin name** fits the polity's geography better than a market-city-derived name.
-
-But G1 still has no earned local name.
-
-## Result
-
-**NOT READY.**
-
-Keep **LR-A** until G1 / central-seat naming is developed.
+**Result: keep local-name / commercial-name separation.**
 
 ---
 
-# 8. LR-M — Last Quay remains an exonym, local city name still needed
-
-Last Quay works because outsiders understand its economic role.
-
-It should not become the polity or official civic name automatically.
-
-## Naming relationship
-
-local R1 city name — UNKNOWN  
-commercial common form — **Last Quay**
-
-The coexistence is useful.
-
-## Result
-
-**KEEP LAYER SEPARATION.**
-
----
-
-# 9. HR-N — South Yard is not the polity name
-
-South Yard is caravan shorthand for the roadhead.
+# 8. HR-N
 
 HR-N includes:
 
-- the roadhead;
-- surrounding land;
-- herding constituencies;
+- the High Roads-side roadhead;
+- surrounding land / pasture;
 - local political authority.
 
-The polity may take its eventual name from:
+It already has traveler shorthand:
 
-- the roadhead settlement;
-- older local territory;
+> **South Yard**
+
+The eventual polity / local-center name may derive from:
+
+- the older roadhead settlement;
+- a local territory;
 - a lineage;
-- a pass-side geographic feature.
+- another inherited geographic name.
 
-No source is established.
-
-## Result
-
-**NOT READY.**
-
-South Yard remains traveler shorthand only.
+**Result: polity/local-center relationship likely; lexical form unresolved.**
 
 ---
 
-# 10. HR-W — likely settlement-polity naming, not ready
+# 9. HR-W
 
-HR-W may eventually prove to be:
+HR-W may ultimately be:
 
-- pass town and hinterland;
-- small principality;
-- route district;
-- fortress polity.
+- a pass town and hinterland;
+- a small territorial polity;
+- a route district;
+- a fortress-centered polity.
 
-If one town clearly anchors the polity, the town and polity can share a name.
+If one settlement clearly anchors the polity, town and polity can share a name.
 
-If it is a broader pass district, a route / territory name may dominate.
+If the route district is older / broader, they may not.
 
-## Result
-
-**STRUCTURE NOT YET SPECIFIC ENOUGH.**
-
-Keep HR-W.
+**Result: relationship depends on final political / settlement history.**
 
 ---
 
-# 11. HR-C — Mesk can name city and local polity
+# 10. HR-C
 
-HR-C is explicitly:
+HR-C is:
 
 - a major city;
 - its local polity;
 - a wider arbitration / meeting node.
 
-The political order does not require a separate state label around it.
+It does not need a separate country-style label.
 
-## Working relationship
+The eventual city name can also identify the local polity without implying that HR-C rules High Roads.
 
-> **Mesk** — city and local polity.
-
-This does **not** make Mesk:
-
-- capital of High Roads;
-- ruler of HR-N / HR-W;
-- name of a federation.
-
-It is simply the city's political name.
-
-## External usage
-
-Foreigners can say:
-
-- Mesk delegation;
-- Mesk court / arbiters;
-- Mesk merchants;
-
-without implying one High Roads state.
-
-## Result
-
-**STRONG PASS.**
-
-Mesk remains provisional but is now structurally usable for HR-C.
+**Result: city name can equal local polity name; lexical form unresolved.**
 
 ---
 
-# 12. LW-W — separate polity name source not ready
+# 11. LW-W
 
 LW-W is a frontier compact polity that may include:
 
@@ -378,178 +176,131 @@ LW-W is a frontier compact polity that may include:
 - surrounding communities;
 - older local rights.
 
-Its eventual name might come from:
+Possible future naming sources:
 
-- main market town;
+- principal market town;
 - river;
-- older alliance name;
-- local territorial term.
+- older alliance;
+- territorial term.
 
-Current history does not select one.
-
-## Result
-
-**NOT READY.**
+**Result: likely broader polity / alliance label; not ready.**
 
 ---
 
-# 13. LW-I — may not need one fixed territorial name at all
+# 12. LW-I
 
-LW-I is an interior alliance / jurisdictional network.
-
-It may be a mistake to force it into one country-style name.
+LW-I may never need one fixed territorial name.
 
 Possible real naming patterns:
 
 - member-community list;
 - old alliance label;
-- river / watershed shorthand;
-- foreign umbrella name;
-- different names depending on the issue.
+- watershed shorthand;
+- foreign umbrella term;
+- different labels depending on issue.
 
-## Result
-
-**DO NOT ASSUME ONE POLITY NAME.**
-
-The design handle LW-I may later resolve into several named communities plus one optional coalition label.
+**Result: do not assume one country-style name.**
 
 ---
 
-# 14. LW-S — likely town-polity relationship, not ready
+# 13. LW-S
 
 LW-S is more town-centered.
 
-If its main market town becomes sufficiently defined, town and polity may share one root.
+If one market town becomes politically dominant, town and polity may share one name.
 
-Current site history remains too thin.
-
-## Result
-
-**NOT READY.**
+**Result: town / polity shared root plausible; not ready.**
 
 ---
 
-# 15. OC-U — Naret should name city and city-state
+# 14. OC-U / OC-D / OC-C
 
-OC-U is a sovereign city-state.
+These are sovereign city-states.
 
-The cleanest naming relationship is:
+The clean default is:
 
-> city of Naret  
-> polity of Naret
+> city name = city-state name
 
-No separate country name is necessary.
+unless later history creates:
 
-## Why this is stronger
+- a dynastic territorial title;
+- inherited kingdom label;
+- federation / league name;
+- conquest-era political name.
 
-Inventing a second state name would create artificial modern-country logic.
+**Result: no separate country names required by default.**
 
-Naret's surrounding estates / client territories belong politically to the city-state even when they have their own local names.
-
-## Result
-
-**STRONG PASS.**
-
-Naret remains provisional, but the city-state can use the same root.
+Their local city names remain unresolved.
 
 ---
 
-# 16. OC-D / OC-C — same structural rule likely
+# 15. Port
 
-Both are sovereign city-states.
-
-Unless later history creates:
-
-- dynasty-controlled territorial title;
-- league;
-- acquired older kingdom name;
-
-the default should be:
-
-> city name = city-state name.
-
-This keeps the Old Cities map legible and historically plausible.
-
-## Result
-
-**STRUCTURAL RULE PASSES; LEXICAL NAMES STILL OPEN.**
-
----
-
-# 17. Port
-
-**Port** already functions as the interregional common-language name for:
+**Port** already works as the interregional common-language name for:
 
 - city;
 - special polity;
 - harbor complex.
 
-That is not a problem.
+A formal / older local civic name may still exist.
 
-A formal / local civic name can still exist.
+There is no need to replace Port merely because the polity is important.
 
-The world does not need to replace Port merely because the polity is important.
-
-## Result
-
-**KEEP CURRENT COMMON FORM.**
+**Result: keep current common form.**
 
 ---
 
-# 18. Political map naming readiness
+# 16. Political map naming readiness
 
-| Actor | Separate polity name needed? | Current usable name layer |
+| Actor | Separate polity name needed? | Current usable naming layer |
 | --- | --- | --- |
-| SH-A | broader political label needed | **Varel** provisional common metonym from ruling seat |
-| SH-M | no | **Kavel** provisional local city / civic name |
-| NC-M | broader political label needed | **the Auvor Compact / Auvor** provisional common political form |
-| NC-I | likely no separate state label beyond island name | **Orai** provisional island / polity name |
-| NC-R | no | **Sevu** local town; **North Yard** traveler shorthand |
-| LR-A | broader territorial label needed | **Daroa** provisional river / basin political form |
-| LR-M | no | **Dasei** local city; **Last Quay** commercial exonym |
-| HR-N | probably one local polity name | **Korad** local center; **South Yard** traveler shorthand |
-| HR-W | depends on final form | **Tavrek** provisional principal settlement; polity-name scope still open |
-| HR-C | no separate state label | **Mesk** provisional city / polity name |
-| LW-W | probably yes / alliance-territory label | not ready |
-| LW-I | perhaps no single permanent name | not ready by design |
-| LW-S | likely town / polity shared root | not ready |
-| OC-U | no separate state label | **Naret** provisional city / city-state name |
-| OC-D | no separate state label by default | **Talir** provisional city / city-state name |
-| OC-C | no separate state label by default | local city name open |
+| SH-A | broader political form | unresolved; ruling-seat metonym mechanism available |
+| SH-M | no | local city name unresolved |
+| NC-M | broader political form | unresolved; compact / meeting-place mechanism available |
+| NC-I | likely no separate label beyond island name | island name unresolved |
+| NC-R | no | **North Yard** traveler shorthand; local name unresolved |
+| LR-A | broader territorial form | unresolved; river / basin mechanism preferred |
+| LR-M | no | **Last Quay** commercial exonym; local name unresolved |
+| HR-N | probably one local polity / center name | **South Yard** traveler shorthand; local name unresolved |
+| HR-W | depends on final form | unresolved |
+| HR-C | no separate state label | local city / polity name unresolved |
+| LW-W | probably broader polity / alliance label | unresolved |
+| LW-I | perhaps no single permanent name | unresolved by design |
+| LW-S | likely town / polity shared root | unresolved |
+| OC-U | no separate state label | local city / city-state name unresolved |
+| OC-D | no separate state label | local city / city-state name unresolved |
+| OC-C | no separate state label | local city / city-state name unresolved |
 | P | no | **Port** common city / polity name |
 
 ---
 
-# 19. Strong result
+# 17. Strong result
 
 The political map needs **fewer polity names than actors**.
 
-That is desirable.
-
 Different political forms produce different naming behavior:
 
-- composite / territorial states need broader political names;
+- composite territorial states need broader political forms;
 - city-states can simply use city names;
-- route polities may use local settlement / territorial names;
+- route polities may use settlement / territorial names;
 - alliances may have issue-specific labels rather than country names;
-- island polities may inherit the island name;
-- Port can retain one common functional name.
+- island polities may inherit an island name;
+- Port can retain one plain functional common name.
 
-This makes the map linguistically reflect the political structure.
+This structural result survives the failed lexical experiments.
 
 ---
 
-# 20. Political naming-source result
+# 18. Lexical gate
 
-[Political Naming Source Vertical Slices — V1](Political-Naming-Source-Vertical-Slices-V1.md) now supplies the missing historical sources:
+[Political Naming Source Vertical Slices — V1](Political-Naming-Source-Vertical-Slices-V1.md) provides valid historical naming sources.
 
-1. G1 — inherited old river hydronym predating LR-A;
-2. NC-M center — sheltered mainland harbor with freshwater and inland access;
-3. SH-A seat — raised confluence / valley-junction settlement distinct from Kavel;
-4. OC-D — firm lower-basin crossing / bank later surrounded by irrigation expansion.
+[Local Name Candidate Tests — V1](Local-Name-Candidate-Tests-V1.md), [Political Name Candidate Tests — V1](Political-Name-Candidate-Tests-V1.md), and [N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) document why the project should **not** convert those sources directly into invented opaque forms.
 
-All four are now ready for tightly bounded lexical tests.
+Before any local endonym is promoted:
 
-[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now supplies the missing local-name ecology, and [Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) retests the larger political labels.
+1. the relevant linguistic layer must contain reusable vocabulary / morphology independently of that place;
+2. the place name must be derivable from that material;
+3. only then should neighboring-name / micro-set QA test it.
 
-The remaining naming gaps are intentionally concentrated in Longwood and OC-C rather than spread across the entire political map.
+Until then, IDs and grounded common-language forms are the correct representation.
