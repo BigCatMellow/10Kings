@@ -464,7 +464,21 @@ No candidate should be accepted merely because it sounds good.
 
 ---
 
-# 6. Promotion boundary
+# 6. Name-candidate result
+
+[Local Name Candidate Tests — V1](Local-Name-Candidate-Tests-V1.md) now applies the site histories to minimal W1 / P1 / S1 lexical roots.
+
+Working local candidates:
+
+- SH-M → **Kavel**;
+- HR-C → **Meren**;
+- OC-U → **Naret**.
+
+All remain provisional reference candidates.
+
+---
+
+# 7. Promotion boundary
 
 These site histories remain **provisional reference conclusions**.
 
