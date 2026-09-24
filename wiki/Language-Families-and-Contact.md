@@ -466,7 +466,48 @@ This is especially plausible for:
 
 ---
 
-# 18. Religions create another layer of shared language
+# 18. Standardization can become a political dispute
+
+The current movement toward stronger guild coordination in Port creates a linguistic / administrative consequence.
+
+Cross-regional guild work benefits from shared:
+
+- technical vocabulary;
+- contract terms;
+- measurements;
+- certification language;
+- written forms;
+- arbitration phrases.
+
+That can make work easier without creating one common spoken language.
+
+But standardization can also create resistance.
+
+A local branch may object that a Port-backed standard:
+
+- treats local terminology as incorrect;
+- makes regional credentials harder to use;
+- favors people trained in Port;
+- changes the legal meaning of an old technical term;
+- gives central clerks disproportionate authority over what counts as valid work.
+
+This creates another dimension to the guild-centralization debate:
+
+> **communication can become easier at the same time local professional autonomy becomes weaker.**
+
+A federal / reciprocal model may therefore support:
+
+- translation tables;
+- equivalent credentials;
+- multiple accepted technical terms;
+
+rather than insisting on one universal Port form.
+
+See [Guilds](Politics/Guilds.md).
+
+---
+
+# 19. Religions create another layer of shared language
 
 Faiths can spread:
 
@@ -488,7 +529,7 @@ Do not assume the language of ritual is the community's everyday language.
 
 ---
 
-# 19. Class affects language
+# 20. Class affects language
 
 Elite and non-elite speakers may differ in:
 
@@ -509,7 +550,7 @@ They have different repertoires.
 
 ---
 
-# 20. Written standards can be newer than spoken languages
+# 21. Written standards can be newer than spoken languages
 
 Post-Convergence institutions can standardize:
 
@@ -534,7 +575,7 @@ Modern written unity may therefore hide deep spoken diversity.
 
 ---
 
-# 21. Scripts remain open
+# 22. Scripts remain open
 
 The current world does not establish:
 
@@ -556,7 +597,7 @@ Do not invent scripts merely for visual fantasy flavor.
 
 ---
 
-# 22. Translation is institutional labor
+# 23. Translation is institutional labor
 
 See [Movement and Information](Movement-and-Information.md).
 
@@ -585,7 +626,7 @@ Translation should be visible as work.
 
 ---
 
-# 23. Translation changes legal meaning
+# 24. Translation changes legal meaning
 
 See [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md).
 
@@ -609,7 +650,7 @@ Sometimes both translations are defensible.
 
 ---
 
-# 24. Names are linguistic evidence
+# 25. Names are linguistic evidence
 
 See [Naming](Culture/Naming.md).
 
@@ -635,7 +676,7 @@ They should not all match the modern cultural region.
 
 ---
 
-# 25. Exonyms and endonyms should exist
+# 26. Exonyms and endonyms should exist
 
 Different language communities may call the same place or people different things.
 
@@ -655,7 +696,7 @@ Exact endonyms and exonyms remain open until language histories are developed.
 
 ---
 
-# 26. Naming can survive language death
+# 27. Naming can survive language death
 
 A language can disappear from daily speech while surviving in:
 
@@ -670,7 +711,7 @@ This gives naming history depth without requiring every old language to remain s
 
 ---
 
-# 27. Language shift should happen unevenly
+# 28. Language shift should happen unevenly
 
 A community may shift languages because of:
 
@@ -693,7 +734,7 @@ A family can speak one language at home and another in public for generations.
 
 ---
 
-# 28. Language revival can become political
+# 29. Language revival can become political
 
 Old languages or dialects can be revived through:
 
@@ -711,7 +752,7 @@ Revival often creates new standardized forms.
 
 ---
 
-# 29. Language loss has practical consequences
+# 30. Language loss has practical consequences
 
 When a language declines, knowledge can be lost or made harder to access.
 
@@ -728,7 +769,7 @@ This can create disputes where an old record survives but nobody fully agrees on
 
 ---
 
-# 30. Interpreters can hold power
+# 31. Interpreters can hold power
 
 An interpreter does not merely repeat words.
 
@@ -762,7 +803,7 @@ Exact institutions remain open.
 
 ---
 
-# 31. Children can become linguistic brokers
+# 32. Children can become linguistic brokers
 
 Children in:
 
@@ -783,7 +824,7 @@ This is a human-scale consequence of multilingual systems.
 
 ---
 
-# 32. Language and information speed
+# 33. Language and information speed
 
 A message does not merely need transport.
 
@@ -802,7 +843,7 @@ A rumor may cross language boundaries through rough paraphrase faster than an of
 
 ---
 
-# 33. Mutual intelligibility can be political propaganda
+# 34. Mutual intelligibility can be political propaganda
 
 Governments may claim:
 
@@ -818,7 +859,7 @@ Do not treat official labels as neutral scientific facts.
 
 ---
 
-# 34. Prestige language can create class resentment
+# 35. Prestige language can create class resentment
 
 A court or guild may require a standardized register that:
 
@@ -838,7 +879,7 @@ Language policy can therefore become ordinary politics.
 
 ---
 
-# 35. The Underpass should be linguistically fragmented
+# 36. The Underpass should be linguistically fragmented
 
 See [The Underpass](Places/The-Underpass.md).
 
@@ -862,7 +903,7 @@ Do not create one universal Underpass language unless later history strongly jus
 
 ---
 
-# 36. Religious, guild, and trade multilingualism can overlap
+# 37. Religious, guild, and trade multilingualism can overlap
 
 One person may know:
 
@@ -878,7 +919,7 @@ Language competence should be task-specific.
 
 ---
 
-# 37. Writing rule
+# 38. Writing rule
 
 Do not represent language difference mainly through eye dialect or exaggerated phonetic spelling.
 
@@ -898,7 +939,7 @@ This preserves readability while making linguistic difference meaningful.
 
 ---
 
-# 38. Current regional linguistic confidence
+# 39. Current regional linguistic confidence
 
 | Area | Structurally supported | Still open |
 | --- | --- | --- |
@@ -915,7 +956,7 @@ This is a structural confidence map, not a language inventory.
 
 ---
 
-# 39. What is established versus open
+# 40. What is established versus open
 
 ## Established structurally
 
@@ -957,7 +998,7 @@ This is a structural confidence map, not a language inventory.
 
 ---
 
-# 40. Design rule
+# 41. Design rule
 
 When adding a language or dialect, ask:
 
