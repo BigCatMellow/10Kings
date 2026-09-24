@@ -109,6 +109,8 @@
 - [Writing the Sequel](Reference/Writing-the-Sequel.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
 - [Grounded Domino Design Method](Reference/Grounded-Domino-Design.md)
+- [War Escalation Causal Chain V1](Reference/War-Escalation-Causal-Chain-V1.md)
+- [Domino Conspiracy Ledger V1](Reference/Domino-Conspiracy-Ledger-V1.md)
 - [Culture Deepening Plan](Reference/Culture-Deepening-Plan.md)
 - [Legacy Source Audit and Retrieval Index](Reference/Legacy-Source-Audit.md)
 - [Religion Legacy Reconciliation](Reference/Religion-Legacy-Reconciliation.md)
