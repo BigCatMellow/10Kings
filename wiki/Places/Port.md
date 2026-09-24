@@ -671,7 +671,144 @@ These are **constituencies**, not necessarily formal parties.
 
 ---
 
-# 18. Port politics is constrained by dependence
+# 17A. Recurring political positions inside Port
+
+The legacy current-events material adds a useful correction:
+
+> **Port's grievance does not produce one Port political position.**
+
+These are recurring positions / coalitions, not established formal parties.
+
+## Stronger-Port / autonomy reformers
+
+Argument:
+
+> Port bears continental costs without possessing enough power / revenue / freedom to protect its own residents.
+
+May support:
+
+- greater retained revenue;
+- stronger emergency authority;
+- more local defensive capacity;
+- guild / professional centralization;
+- direct supply relationships;
+- fewer outside veto points.
+
+The Villain draws much of his legitimacy from this field.
+
+Not everyone in it supports his methods.
+
+## Neutrality institutionalists
+
+Argument:
+
+> Port survives because nobody can credibly claim it.
+
+They may agree Port needs reform while fearing that aggressive autonomy politics will:
+
+- alarm guarantors;
+- provoke trade retaliation;
+- make neutrality look like sovereignty expansion;
+- invite foreign military pressure.
+
+Some established merchants, legal professionals, and harbor families may prefer slow reform because the existing arrangement genuinely benefits them.
+
+## Labor / neighborhood reformers
+
+Their priority may be much more immediate:
+
+- wages;
+- housing;
+- food;
+- dock safety;
+- fees;
+- public services;
+- corruption.
+
+They can support Port autonomy when it improves those conditions and oppose it when elite reformers use "Port power" to justify:
+
+- higher costs;
+- guild privilege;
+- policing;
+- sacrificed working conditions.
+
+A dockworker can therefore hate outside exploitation **and** distrust the Villain's political project.
+
+## Guild / professional centralizers
+
+See [Guilds](../Politics/Guilds.md).
+
+They argue that Port becomes stronger when continental professional work actually stays in Port:
+
+- offices;
+- contracts;
+- arbitration;
+- standards;
+- records;
+- training;
+- credit.
+
+Their interests overlap with the Villain's agenda but need not depend on personal loyalty to him.
+
+## Localist / anti-centralization reformers
+
+They can agree that Port deserves more control while objecting that:
+
+> replacing foreign dependence with rule by large guild houses is not liberation.
+
+Possible concerns:
+
+- neighborhood voices disappear;
+- small trades lose influence;
+- regional branches dominate local members;
+- permanent guild offices inflate property costs;
+- "continental coordination" becomes another elite layer over ordinary Port residents.
+
+## Commercial continuity faction
+
+Some actors primarily want:
+
+> keep the ships moving.
+
+They may support whichever policy appears least disruptive at a given moment.
+
+That can make them politically decisive and morally frustrating.
+
+They can:
+
+- support stronger local authority during one crisis;
+- support outside guarantees during another;
+- oppose a strike;
+- oppose a crackdown that scares merchants away.
+
+Their ideology is continuity.
+
+## Why this matters to the Villain
+
+He cannot honestly claim:
+
+> Port wants what I want.
+
+At most:
+
+> a substantial Port constituency recognizes the grievance he describes.
+
+His political challenge is therefore internal as well as external.
+
+As his methods become more destructive, he risks losing:
+
+- neutrality reformers;
+- workers;
+- guild allies;
+- local families
+
+who agreed with his diagnosis but not his escalation.
+
+That loss should matter.
+
+---
+
+# 19. Port politics is constrained by dependence
 
 Port cannot treat foreign powers as optional.
 
@@ -793,7 +930,7 @@ That grievance is now important to the story and to [The Villain](../Story/Villa
 
 ---
 
-# 19. The city can be locally democratic, oligarchic, mixed, or something else — still open
+# 20. The city can be locally democratic, oligarchic, mixed, or something else — still open
 
 The current world does not yet settle whether Port government is:
 
@@ -821,7 +958,7 @@ The constitution should emerge from those pressures.
 
 ---
 
-# 20. The Port seizure remains legacy history, not yet current fact
+# 21. The Port seizure remains legacy history, not yet current fact
 
 The direct source contains a strong story:
 
@@ -849,7 +986,7 @@ Until then, use the structural logic without asserting the event happened exactl
 
 ---
 
-# 21. Extradition remains open
+# 22. Extradition remains open
 
 Legacy Port notes say neutrality prevents extradition for outside crimes.
 
@@ -870,7 +1007,7 @@ It should be settled as part of the legal/treaty model, not inherited automatica
 
 ---
 
-# 22. Neutrality does not mean moral neutrality
+# 23. Neutrality does not mean moral neutrality
 
 Port institutions can still:
 
@@ -888,7 +1025,7 @@ It does not make Port politically virtuous.
 
 ---
 
-# 23. Neutrality does not mean cultural blandness
+# 24. Neutrality does not mean cultural blandness
 
 The city is politically constrained externally while culturally intense internally.
 
@@ -908,7 +1045,7 @@ The stronger the outside world treats Port as merely useful infrastructure, the 
 
 ---
 
-# 24. Port and the competitive spheres
+# 25. Port and the competitive spheres
 
 The two WWF/WCW-derived competitive spheres are networks, not states.
 
@@ -929,7 +1066,7 @@ It does not require every resident or merchant to be politically neutral.
 
 ---
 
-# 25. Port and the Council
+# 26. Port and the Council
 
 The Council benefits from Port because Port concentrates:
 
@@ -958,7 +1095,7 @@ Complete Council control would undermine the independent neutrality that makes P
 
 ---
 
-# 26. Neutrality crisis test
+# 27. Neutrality crisis test
 
 When testing a Port political crisis, ask:
 
@@ -977,7 +1114,7 @@ If the answer is simply "the Council decides," the Port model has failed.
 
 ---
 
-# 27. What is established versus open
+# 28. What is established versus open
 
 ## Established structurally
 
@@ -1020,7 +1157,7 @@ If the answer is simply "the Council decides," the Port model has failed.
 
 ---
 
-# 28. Design rule
+# 29. Design rule
 
 When resolving a Port political question:
 
