@@ -1155,4 +1155,6 @@ The minimum political topology survives:
 
 The next gate is no longer generic governance design.
 
-Before exact constitutional detail, the highest-value unresolved layer is **naming and identity history for the V1 actors and their main settlements**, using the existing language / naming owners rather than placeholder fantasy compounds.
+[Language and Naming Topology — V1](Language-and-Naming-Topology-Test-V1.md) now begins that naming / identity layer without prematurely inventing proper names. It supplies abstract historical language/contact clusters and actor-specific naming strata.
+
+Before final local endonyms can be generated, the next gate is a **minimal naming profile** for each provisional language cluster: enough phonology / morphology to generate ordinary inherited place names, but not a full conlang.
