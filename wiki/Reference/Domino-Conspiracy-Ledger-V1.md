@@ -2,7 +2,11 @@
 
 ## Status
 
-**Active author-side execution ledger — details provisional unless promoted into a scene / owner.**
+**Superseded as active execution model; retained as decomposition provenance.**
+
+The active model is [Conspiracy Capability Ledger — V2](Conspiracy-Capability-Ledger-V2.md).
+
+V1 demonstrated that large consequences could be decomposed into mundane acts. Its design flaw was that a long numbered action list still implied too much knowing coordination, prediction, and traceable conspiracy.
 
 This page sits beneath:
 
