@@ -14,6 +14,8 @@ The older six-character / one-per-region domino model is superseded.
 
 [War Escalation Causal Chain — V1](../Reference/War-Escalation-Causal-Chain-V1.md) is now the **no-leap causal proof** showing how the numerous small events can plausibly end in actual war.
 
+[Domino Conspiracy Ledger — V1](../Reference/Domino-Conspiracy-Ledger-V1.md) is the author-side execution layer showing how dozens of small background tasks can support those leverage points without most participants knowing the complete plan.
+
 [Current Events](Current-Events.md) owns what is actually happening in the world now.
 
 [The Villain](Villain.md) owns motive, operational objective, and moral trajectory.
