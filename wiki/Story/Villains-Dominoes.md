@@ -10,7 +10,9 @@ The older six-character / one-per-region domino model is superseded.
 
 [Grounded Domino Design Method](../Reference/Grounded-Domino-Design.md) remains the causal method reference.
 
-[Domino Operation Design — V1](../Reference/Domino-Operation-Design-V1.md) adds the Blacklist-informed operation test: each major domino needs a distinctive craft, visible explanation, evidence residue, failure mode, and moral threshold.
+[Domino Operation Design — V1](../Reference/Domino-Operation-Design-V1.md) adds the Blacklist-informed intervention test.
+
+[War Escalation Causal Chain — V1](../Reference/War-Escalation-Causal-Chain-V1.md) is now the **no-leap causal proof** showing how the numerous small events can plausibly end in actual war.
 
 [Current Events](Current-Events.md) owns what is actually happening in the world now.
 
@@ -18,27 +20,35 @@ The older six-character / one-per-region domino model is superseded.
 
 ---
 
-# 1. Core concept — braided domino architecture
+# 1. Core concept — deep domino architecture
 
 The plan is not:
 
 > six regions → six agents → six crises → one war.
 
-It is a **braided system attack**.
+It is a **deep braided system attack made of many small events**.
+
+The plan should feel much larger than the number of moves the Villain personally makes.
 
 Several real pressures move independently.
 
-The Villain identifies where they can be coupled so that:
+He identifies leverage points where a small intervention can produce two or three later reactions without further help.
 
-1. one institution's rational response becomes another institution's crisis;
-2. the Council is forced to coordinate across domains;
-3. that coordination produces visible winners and losers;
-4. true evidence of coordination becomes politically explosive;
-5. alternative networks begin performing functions the Council claimed were indispensable.
+The full plan works because:
+
+1. small local problems remain plausible as independent current events;
+2. rational responses create new costs elsewhere;
+3. commercial protection gradually becomes security policy;
+4. security policy creates real capabilities for conflict;
+5. competitive-sphere guarantees turn local disputes into bloc problems;
+6. mobilization makes accidental / limited violence much harder to contain;
+7. actual war then forces Port's neutrality and political capacity into crisis.
 
 The target is not chaos for its own sake.
 
-The target is the political arrangement around **Port**.
+**War is the forcing mechanism.**
+
+The political target is the arrangement around **Port**.
 
 The Villain wants to demonstrate that:
 
@@ -143,7 +153,11 @@ The plan now uses **distinct operational crafts** rather than repeating "leak in
 
 These operations overlap in time.
 
-The numbering reflects strategic function, not a rigid chapter order.
+These are **intervention families**, not the complete domino count.
+
+The actual causal line is much denser; see [War Escalation Causal Chain — V1](../Reference/War-Escalation-Causal-Chain-V1.md).
+
+The numbering below reflects different Villain capabilities, not nine giant steps in the plot.
 
 ---
 
@@ -1083,7 +1097,64 @@ evidence package
 → Port settlement crisis
 ~~~
 
-# 16. Phase 3 — defensive politics creates the next dominoes
+# 16. War spine — what the interventions are actually trying to produce
+
+The conspiracy should be understood at two levels.
+
+## Villain level
+
+He thinks in leverage points:
+
+- bias one convoy decision;
+- make a few credit renewals disappear;
+- help one alternative buyer;
+- distort one route-confidence picture;
+- expose one contract at the wrong moment;
+- preserve one unresolved diplomatic fear;
+- time one strategic procurement disclosure;
+- later withhold one piece of Port help.
+
+## World level
+
+Those small pushes enter a much larger chain:
+
+~~~text
+real ecological / economic stress
+→ commercial precautions
+→ reciprocal restrictions
+→ reserve buying
+→ shortages caused by precaution
+→ route / material controls
+→ trade sorting into competitive spheres
+→ commercial guarantees
+→ security guarantees
+→ armed escorts / repaired posts / reserve registration
+→ partial mobilization
+→ counter-mobilization
+→ armed chokepoint incident
+→ limited retaliation
+→ guarantee activation
+→ war
+~~~
+
+The intermediate stages are mandatory.
+
+Do **not** jump from:
+
+- piracy to war;
+- trade dispute to war;
+- rumor to war;
+- Council exposure to war.
+
+The war works only because material and political preparations accumulate until leaders can plausibly believe:
+
+> **if we do not prepare now, we may be the only side unready later.**
+
+That security dilemma is the final self-sustaining domino mechanism.
+
+---
+
+# 17. Phase 3 — defensive politics creates the next dominoes
 
 After exposure, institutions do not simply "join the rebellion."
 
@@ -1135,7 +1206,7 @@ That is the second world-scale domino.
 
 ---
 
-# 17. Phase 4 — Port settlement crisis
+# 18. Phase 4 — Port settlement crisis
 
 Now the old neutrality arrangement itself becomes the object of political conflict.
 
@@ -1181,7 +1252,7 @@ This is the operational climax of the domino plan.
 
 ---
 
-# 18. Phase 5 — the Villain's proposed Port settlement
+# 19. Phase 5 — the Villain's proposed Port settlement
 
 The Villain does **not** need to walk into a room and declare himself ruler.
 
@@ -1225,7 +1296,7 @@ His leverage is concrete:
 
 ---
 
-# 19. The plan's failure modes
+# 20. The plan's failure modes
 
 The Villain is not omniscient.
 
@@ -1247,7 +1318,7 @@ It should not require every prediction to be correct.
 
 ---
 
-# 20. Wurdren's interference points
+# 21. Wurdren's interference points
 
 Wurdren is strongest when he changes the **information / trust topology**, not when he defeats one named domino-person.
 
@@ -1281,7 +1352,7 @@ These events are hard for a model built on leverage to predict.
 
 ---
 
-# 21. Superseded six-character model
+# 22. Superseded six-character model
 
 The old page assigned one provisional named "domino character" to each major cultural region.
 
@@ -1300,7 +1371,7 @@ Do **not** rebuild the cast as six replacements.
 
 ---
 
-# 22. Design rule for a new human domino
+# 23. Design rule for a new human domino
 
 Add a recurring character only when the architecture produces a decision that cannot remain abstract.
 
