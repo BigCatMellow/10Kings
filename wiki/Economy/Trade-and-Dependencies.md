@@ -10,6 +10,7 @@ Canonical neighbors:
 - [Economic Council](../Politics/Economic-Council.md) owns Council leverage over bottlenecks.
 - [Current Events](../Story/Current-Events.md) owns the opening-story crisis snapshot.
 - [Port](../Places/Port.md) owns Port's institutions and political position.
+- [Money, Credit, and Market Infrastructure](Money-Credit-and-Market-Infrastructure.md) owns ordinary credit, debt, guarantees, records, standards, and financial plumbing.
 
 ## Core model
 
