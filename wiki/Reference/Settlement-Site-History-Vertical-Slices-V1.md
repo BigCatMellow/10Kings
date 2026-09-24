@@ -432,57 +432,50 @@ This is important because later political importance does not become retroactive
 
 # 5. Naming readiness
 
-These sites are now ready for **local lexical-name generation**.
-
-The next naming test should generate small candidate sets from the established semantic source only.
+These sites now have **earned semantic sources**, not earned local-language words.
 
 ## SH-M semantic source
 
-Primary candidates should encode one of:
+An eventual ordinary name may derive from:
 
 - crossing / ford;
 - river;
-- valley-place / old settlement.
+- valley-place / older settlement;
+- local lineage / farm.
 
 ## HR-C semantic source
 
-Primary candidates should encode one of:
+An eventual ordinary name may derive from:
 
 - spring;
 - spring hollow / basin;
-- older household at the water source.
+- older household / pasture associated with the water source.
 
 ## OC-U semantic source
 
-Primary candidates should encode one of:
+An eventual ordinary name may derive from:
 
 - perennial spring / water source;
 - raised terrace;
 - founder / older settlement at that site.
 
-No candidate should be accepted merely because it sounds good.
+No opaque local form should be invented until the relevant language history can derive it from reusable vocabulary / morphology.
 
 ---
 
-# 6. Name-candidate result
+# 6. Lexical-test disposition
 
-[Local Name Candidate Tests — V1](Local-Name-Candidate-Tests-V1.md) now applies the site histories to minimal W1 / P1 / S1 lexical roots.
+[Local Name Candidate Tests — V1](Local-Name-Candidate-Tests-V1.md) and [N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now record failed lexical-generation experiments.
 
-First-pass local candidates were:
+The former candidates are inactive.
 
-- SH-M → **Kavel**;
-- HR-C → **Meren**;
-- OC-U → **Naret**.
+The **site histories themselves remain valid**.
 
-After [Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md), Meren was placed on hold.
+That distinction is important:
 
-[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now completes that correction:
+> a place can be historically ready to name while the project is linguistically not ready to supply its local endonym.
 
-- Kavel remains a provisional pass;
-- HR-C now uses **Mesk** as the provisional P1 micro-set candidate;
-- Naret remains a provisional pass.
-
-The site histories themselves remain valid regardless of the lexical correction.
+Use SH-M / HR-C / OC-U until that gap is actually closed.
 
 ---
 
