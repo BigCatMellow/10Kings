@@ -173,7 +173,49 @@ He needs enough of them to reinforce each other.
 
 ---
 
-# 4. Intervention rule
+# 4. Information architecture
+
+The adaptive plan requires broad awareness but not omniscience.
+
+The Villain's strongest structural advantage is that Port causes information to come **to him**.
+
+Two current developments amplify that advantage:
+
+## Guild centralization
+
+His Port-strengthening work has encouraged more guild branches / representatives to maintain a presence in the city and communicate across professions.
+
+This creates legitimate information about:
+
+- supply;
+- labor;
+- contracts;
+- routes;
+- standards;
+- demand.
+
+## Three Moons Festival
+
+Once every seven years, [Three Moons Festival](../Culture/Three-Moons-Festival.md) brings an exceptional concentration of trans-regional networks into Port.
+
+This creates a temporary high-information period.
+
+The doctrine rule is:
+
+> **Use the festival to update the model, not to execute a prewritten checklist.**
+
+Information density should lead to:
+
+- revised assumptions;
+- discarded branches;
+- newly noticed opportunities;
+- contradictory signals.
+
+If the festival merely tells him exactly what he expected, it is being used too conveniently.
+
+---
+
+# 5. Intervention rule
 
 Before any deliberate action, ask:
 
@@ -192,7 +234,7 @@ A mastermind who intervenes in every event creates evidence and makes unnecessar
 
 ---
 
-# 5. Three-horizon prediction limit
+# 6. Three-horizon prediction limit
 
 He should reason at different confidence horizons.
 
@@ -218,7 +260,7 @@ Long-range planning should use **conditions**, not event predictions.
 
 ---
 
-# 6. Branching rule
+# 7. Branching rule
 
 Every important pressure node should have:
 
@@ -246,7 +288,7 @@ The Villain's skill is recognizing **which new board he has**, not pretending ev
 
 ---
 
-# 7. Failure is required
+# 8. Failure is required
 
 A believable plan should contain:
 
@@ -272,7 +314,7 @@ He should sometimes have to abandon a branch completely.
 
 ---
 
-# 8. Redundancy without omniscience
+# 9. Redundancy without omniscience
 
 The plan survives failure because several independent pressures can feed the same strategic condition.
 
@@ -310,7 +352,7 @@ That is different from predicting every domino.
 
 ---
 
-# 9. Secrecy doctrine
+# 10. Secrecy doctrine
 
 A true conspiracy must minimize the number of people who know the real objective.
 
@@ -363,7 +405,7 @@ This is essential.
 
 ---
 
-# 10. Indirection rule
+# 11. Indirection rule
 
 The Villain should rarely issue an instruction that can later be translated into:
 
@@ -384,7 +426,7 @@ The strategic effect comes from **when and where** he uses the capability.
 
 ---
 
-# 11. Evidence rule
+# 12. Evidence rule
 
 He cannot be perfectly untraceable.
 
@@ -405,7 +447,7 @@ That ambiguity should survive even after the conspiracy becomes known.
 
 ---
 
-# 12. Adaptation cycle
+# 13. Adaptation cycle
 
 The Villain's actual recurring process is:
 
@@ -435,7 +477,7 @@ This loop is the plan.
 
 ---
 
-# 13. Mastermind standard
+# 14. Mastermind standard
 
 His brilliance should come from:
 
