@@ -572,3 +572,67 @@ The current story period can plausibly feel like a perfect storm because:
 - the largest seven-year Port festival concentrates the people carrying evidence of those crises.
 
 This creates a strong reason for both the Villain and Wurdren to encounter unusually many pieces of the wider world in Port without either immediately understanding the complete pattern.
+
+
+---
+
+# 14. Change record — recovered faction / constituency logic
+
+## Recovered from legacy
+
+A review of the legacy guild / current-events material restored a principle that had become underrepresented:
+
+> **events create constituencies, not consensus.**
+
+Legacy examples repeatedly included:
+
+- guild internal schisms;
+- branch autonomy;
+- smaller members rebelling against dominant guild houses;
+- neutralists versus aligned factions;
+- traditionalists versus reformers;
+- smugglers / black markets benefiting from official restrictions;
+- people supporting a crackdown for safety while others oppose the same crackdown for autonomy;
+- groups benefiting economically from crises they publicly condemn.
+
+## Why it matters now
+
+The adaptive Villain model depends on uncertainty.
+
+If every institution responds as one unit, the Villain can predict too easily.
+
+Internal constituencies create:
+
+- close policy fights;
+- splinters;
+- unexpected compromises;
+- failed interventions;
+- new opportunities;
+- genuine local politics.
+
+## Current promotion
+
+Created:
+
+- Current-Event-Stakeholder-Reaction-Matrix-V1.md
+
+Updated:
+
+- Politics/Guilds.md
+- Story/Current-Events.md
+- Culture/Three-Moons-Festival.md
+- Adaptive-War-Escalation-Graph-V2.md
+- Guild-Legacy-Reconciliation.md
+- Current-Events-Legacy-Reconciliation.md
+
+## New rule
+
+> **No major current event should be modeled as "everyone is against this" or "everyone supports this."**
+
+Even piracy should have:
+
+- victims;
+- opponents;
+- beneficiaries;
+- people who hate piracy but oppose anti-piracy centralization;
+- people who gain politically or economically from the security response.
