@@ -119,7 +119,9 @@ A first functional-governance pass now exists for Stone Hills, North Coast, Low 
 
 [Political Adjacency and Border-Interface Test — V1](Reference/Political-Adjacency-and-Border-Interface-Test-V1.md) now tests the required actor-to-actor interfaces and distinguishes recognized borders, fuzzy frontiers, route interfaces, functional overlaps, and maritime-use relationships.
 
-The remaining questions are therefore mostly about **border history, exact border placement, constitutional implementation, naming, and exact representation**, not about choosing one generic government type for each culture.
+[Political Border History Test — V1](Reference/Political-Border-History-Test-V1.md) now tests how the major interfaces can descend from messy pre-Convergence control and later Convergence recognition.
+
+The remaining questions are therefore mostly about **specific polity implementation, exact border placement, naming, succession, and exact representation**, not about choosing one generic government type for each culture.
 
 Remaining questions:
 
