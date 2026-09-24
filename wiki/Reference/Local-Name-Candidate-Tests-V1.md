@@ -2,378 +2,131 @@
 
 ## Status
 
-**Provisional lexical tests — not canon names.**
+**Failed lexical-generation experiment — retained as provenance.**
 
-This page is the first attempt to generate actual local forms after:
+This page previously generated opaque local-language candidates for SH-M, HR-C, and OC-U from the valid site histories in [Settlement Site-History Vertical Slices — V1](Settlement-Site-History-Vertical-Slices-V1.md).
 
-- [Minimal Naming Profiles — V1](Minimal-Naming-Profiles-V1.md)
-- [Settlement Site-History Vertical Slices — V1](Settlement-Site-History-Vertical-Slices-V1.md)
-- [Naming](../Culture/Naming.md)
+The historical work remains useful.
 
-The names below record the **first lexical test**, not all current dispositions.
-
-[Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md) subsequently found a cross-cluster similarity defect.
-
-**Current status:**
-
-- Kavel — provisional pass;
-- Meren — **superseded first-pass candidate**;
-- Naret — provisional pass.
-
-[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now supplies **Mesk** as the current HR-C provisional candidate inside a tested P1 set.
-
-The small lexical roots exist solely to test these specific places. They are not a reusable dictionary unless later work independently supports them.
+The lexical method does not.
 
 ---
 
-# 1. SH-M local-name candidate
+# 1. What was tested
 
-## Historical source
+The original pass attempted to move from:
 
-SH-M begins as:
+- SH-M — old river crossing before industrial growth;
+- HR-C — dependable spring / hollow before route convergence;
+- OC-U — safe terrace / perennial water before civic sovereignty;
 
-> a crossing settlement at a constricted valley river before mining / industrial expansion.
+to invented W1 / P1 / S1 forms.
 
-The oldest name should therefore come from:
+The candidates were:
 
-- crossing;
-- river bank;
-- older settlement;
+- Kavel;
+- Meren;
+- Naret.
 
-not from later furnaces / guilds.
-
-## W1 test roots
-
-For this test only:
-
-- **kav** — ford / crossing;
-- **el** — river bank / settled bank.
-
-Compound:
-
-~~~
-kav + el
-→ kavel
-~~~
-
-## Candidate
-
-> **Kavel**
-
-### Why it passes provisionally
-
-- two syllables;
-- fits W1 sound profile;
-- derives from the founding site rather than later industry;
-- does not advertise mining;
-- can plausibly become opaque after the crossing is bridged and urbanized;
-- simple enough for administrative / foreign use without major respelling.
-
-### Historical layer
-
-Possible use sequence:
-
-~~~
-Kavel — old crossing settlement
-→ Kavel — civic / legal town name
-→ industrial districts acquire separate mine / guild names
-→ outsiders sometimes identify Kavel with its industrial reputation
-→ local name remains older than that reputation
-~~~
-
-### Rejected patterns
-
-**Blackbellow** — theme-first industrial legacy name.
-
-**Ironhold** — turns later industry into total settlement identity.
-
-**Forgeford** — semantically grounded but too obviously constructed as English fantasy compound for the local endonym.
-
-## Result
-
-**KAVEL — PASS AS WORKING V1 LOCAL CANDIDATE.**
-
-Not canon.
+These are now **inactive**.
 
 ---
 
-# 2. HR-C local-name candidate
+# 2. Why the lexical pass failed
 
-## Historical source
+The pass appeared disciplined because each invented form was assigned a tiny semantic decomposition.
 
-HR-C begins around:
+That was still reverse engineering.
 
-> a reliable upland spring / spring-fed hollow before route convergence and later arbitration prestige.
+The real sequence was effectively:
 
-The local name should therefore come from:
+~~~
+valid site history
+→ invented syllables
+→ invented one-use lexical roots
+→ claimed etymology
+~~~
+
+That violates [Naming](../Culture/Naming.md).
+
+A site history earns a **semantic source**.
+
+It does not automatically earn local vocabulary.
+
+---
+
+# 3. What survives
+
+## SH-M
+
+Valid naming source:
+
+- crossing / ford;
+- river;
+- older valley settlement;
+- lineage or farm associated with the pre-industrial settlement.
+
+Do not require the eventual name to mean iron, forge, smoke, or mining.
+
+## HR-C
+
+Valid naming source:
 
 - spring;
-- hollow / sheltered ground;
-- older household near the water.
+- spring-fed hollow / basin;
+- household or pasture associated with the early water stop.
 
-It should not mean:
+Do not require the eventual name to mean crossroads, capital, summit, or arbitration.
 
-- crossroads;
-- capital;
-- summit.
+## OC-U
 
-## P1 test roots
+Valid naming source:
 
-For this test only:
+- perennial source;
+- safe / raised terrace;
+- older settlement or founder associated with that site.
 
-- **mer** — reliable spring;
-- **en** — sheltered hollow / basin.
-
-Compound:
-
-~~~
-mer + en
-→ meren
-~~~
-
-## Candidate
-
-> **Meren**
-
-### Why it passes provisionally
-
-- compact;
-- fits P1 sound profile;
-- names the site condition that made settlement possible;
-- later route / arbitration importance does not need to alter the old name;
-- easy for multilingual merchants to preserve in approximate form.
-
-### Historical layer
-
-~~~
-Meren — spring settlement
-→ Meren market
-→ Meren becomes route-switching center
-→ legal / caravan records standardize Meren
-→ outsiders sometimes call it "the meeting city" / "the crossroads"
-→ local civic name remains Meren
-~~~
-
-### Rejected patterns
-
-**Summithold** — prestige-fantasy label unrelated to the founding site.
-
-**Crossmarket** — plausible merchant description but too functional to replace the inherited civic name.
-
-**High Crossroads** — region-description masquerading as a city name.
-
-## Result
-
-**MEREN — PASS AS WORKING V1 LOCAL CANDIDATE.**
-
-Not canon.
+Do not require the eventual name to mean upstream power, irrigation capital, sun, or glory.
 
 ---
 
-# 3. OC-U local-name candidate
+# 4. Current naming disposition
 
-## Historical source
+Until reusable linguistic history exists strongly enough to derive local forms:
 
-OC-U begins on:
+- SH-M remains **SH-M** in design work;
+- HR-C remains **HR-C**;
+- OC-U remains **OC-U**.
 
-> raised / flood-safer ground beside a reliable perennial water source later developed into larger irrigation works.
+This is deliberate.
 
-The oldest city name should derive from:
-
-- water source;
-- raised ground / terrace;
-- early settlement / founder.
-
-It should not retroactively describe:
-
-- upstream leverage;
-- civic glory;
-- irrigation dominance.
-
-## S1 test roots
-
-For this test only:
-
-- **nar** — perennial source / spring;
-- **et** — raised bank / terrace.
-
-Compound:
-
-~~~
-nar + et
-→ naret
-~~~
-
-## Candidate
-
-> **Naret**
-
-### Why it passes provisionally
-
-- fits S1 sound profile;
-- grounded in the founding site;
-- short enough to plausibly survive centuries of civic use;
-- can become semantically opaque even while the city preserves archaic spelling;
-- does not sound like a city invented specifically to control irrigation.
-
-### Historical layer
-
-~~~
-Naret — spring / terrace settlement
-→ Naret develops irrigation works
-→ Naret becomes sovereign city-state
-→ civic title / dynastic titles accumulate around the same root
-→ rivals and Port merchants may develop alternate pronunciations / exonyms
-~~~
-
-### Rejected patterns
-
-**Zalhar** — unsupported legacy opacity.
-
-**Sunspire / Solanterra-type forms** — prestige / climate branding.
-
-**Upperwell** — useful explanatory translation, but too transparent and directional to be the preferred ancient civic endonym.
-
-## Result
-
-**NARET — PASS AS WORKING V1 LOCAL CANDIDATE.**
-
-Not canon.
+**Unnamed is preferable to falsely ancient.**
 
 ---
 
-# 4. Cross-test
+# 5. Relationship to later QA
 
-The three candidates now encode different histories.
+[Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md) correctly identified that isolated invented candidates also converged phonologically.
 
-| Place | Working candidate | Founding semantic source | Later importance intentionally absent from the name |
-| --- | --- | --- | --- |
-| SH-M | **Kavel** | ford / settled river bank | mining / guild industry |
-| HR-C | **Meren** | reliable spring / sheltered hollow | crossroads / arbitration |
-| OC-U | **Naret** | perennial source / raised terrace | upstream leverage / city-state prestige |
+[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) improved variety but still used the same backwards lexical method.
 
-This is the intended behavior.
+Both failures are retained because they establish two separate safeguards:
 
-The names sound like inherited places rather than summaries of their current story function.
+1. derive names from real language/history first;
+2. only then use same-cluster / neighboring-name pressure as QA.
 
 ---
 
-# 5. Common / local name layers now visible
+# 6. Grounded common forms remain separate
 
-The project currently has two different naming outcomes.
+This correction does not affect names whose actual social origin is already known.
 
-## Local-name candidates
+Examples elsewhere include:
 
-- **Kavel** — SH-M;
-- **Meren** — HR-C;
-- **Naret** — OC-U.
+- Port;
+- Last Quay;
+- North Yard;
+- South Yard;
+- the Yards.
 
-All remain provisional.
-
-## Common commercial / traveler forms
-
-From [Settlement Naming Vertical Slices — V1](Settlement-Naming-Vertical-Slices-V1.md):
-
-- **Last Quay** — LR-M trade name;
-- **North Yard** — NC-R caravan shorthand;
-- **South Yard** — HR-N caravan shorthand;
-- **the Yards** — collective caravan shorthand.
-
-These layers should not be collapsed.
-
-A person can say:
-
-> I am from Kavel.
-
-while an outsider says:
-
-> the Kavel works.
-
-Likewise a roadhead resident can reject "North Yard" as a caravan name even while everyone understands it.
-
----
-
-# 6. Stress test — does the name overfit the culture?
-
-## Kavel
-
-Could exist outside Stone Hills if a W1-speaking population founded another crossing settlement.
-
-**Pass.**
-
-## Meren
-
-Could exist in another P1 area with a similar spring source.
-
-**Pass.**
-
-## Naret
-
-Could be an S1 city without being an irrigation capital.
-
-**Pass.**
-
-None requires the population to embody a regional stereotype.
-
----
-
-# 7. Stress test — can history change while the name survives?
-
-## Kavel
-
-Mine closure would not invalidate the name.
-
-## Meren
-
-Loss of arbitration prestige would not invalidate the name.
-
-## Naret
-
-Changes in canal control would not invalidate the name.
-
-**Strong pass.**
-
-The names belong to places, not current plot functions.
-
----
-
-# 8. Stress test — can outsiders misread the name?
-
-Because the root meanings can become obscure:
-
-- a later Kavel speaker may not know **kav** once meant ford;
-- Meren's spring may now be enclosed / engineered enough that visitors do not notice it;
-- Naret's old terrace distinction may be buried beneath urban growth.
-
-This is useful.
-
-Names become fossils.
-
----
-
-# 9. Promotion boundary
-
-These candidates should remain in reference space until at least one additional check occurs:
-
-1. place the settlement on the working map closely enough that the founding feature still makes physical sense;
-2. test neighboring names so the candidate does not accidentally create a repetitive morphology;
-3. test basic demonym / adjectival formation only if story prose actually needs it.
-
-Do **not** canonize simply because the first candidate passes.
-
----
-
-# 10. Polity / place relationship result
-
-[Polity and Place Naming Relationship Test — V1](Polity-and-Place-Naming-Relationship-Test-V1.md) now resolves the structural question.
-
-Key results:
-
-- **Kavel** names SH-M's city / civic jurisdiction, not SH-A.
-- **Meren** can provisionally name both HR-C's city and local polity without implying a High Roads capital.
-- **Naret** can provisionally name both OC-U's city and sovereign city-state.
-- **Last Quay** remains a commercial exonym for LR-M, not LR-A.
-- SH-A, NC-M, and LR-A still need separate political naming sources.
-- LW-I may never need one country-style name at all.
-
-The next naming priorities are G1, NC-M's founding center / compact, SH-A's central territorial source, and OC-D.
+Those are not opaque local-language forms rescued by invented etymology.
