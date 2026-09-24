@@ -471,3 +471,39 @@ For any guild, answer:
 15. Which faiths / local identities divide its members?
 
 If it only exists because "fantasy worlds have guilds," it is not ready.
+
+
+---
+
+## Recovered factional mechanism — branch autonomy and centralization resistance
+
+A later legacy review recovered several mechanisms that should remain active even though the old RPG-style guild roster is demoted.
+
+Legacy notes repeatedly support:
+
+- regional chapters / overseers with meaningful partial autonomy;
+- guild-wide or inter-guild accords that are fragile rather than sovereign;
+- rotating / neutral meeting locations;
+- smaller merchants resenting dominant conglomerates;
+- younger / older or reform / traditional factions;
+- freelancers / rogue branches rejecting central discipline;
+- splinters forming when leadership aligns too strongly with Council / monarchy interests;
+- members leaving, operating independently, or going underground when outside authority overreaches.
+
+These mechanisms now support the current [Guilds](../Politics/Guilds.md) Port-centralization debate.
+
+Current-world promotion:
+
+> stronger cross-guild communication in Port does **not** imply unanimous support for centralized Port authority.
+
+Active positions now include:
+
+- Port centralizers;
+- federal coordinators;
+- regional autonomists;
+- small-member / anti-bureaucratic factions;
+- possible independent / splinter associations.
+
+The old exact guild names remain provenance unless separately rebuilt.
+
+See [Current-Event Stakeholder Reaction Matrix — V1](Current-Event-Stakeholder-Reaction-Matrix-V1.md).
