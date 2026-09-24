@@ -56,6 +56,8 @@ Longwood can matter disproportionately because some forest products are difficul
 
 Export restrictions may be ecological, religious, political, local or commercial. Other regions may misread those motives. This creates bargaining friction without making Longwood a single-minded “resource faction.”
 
+The [Longwood Functional Governance Test](../Reference/Longwood-Functional-Governance-Test.md) makes this deliberately plural: cutting, gathering, hunting, passage, water, and restricted-use rights can belong to different actors. A merchant with permission to buy a product therefore does not automatically possess permission to harvest it, build a road to it, or settle the land around it.
+
 ### High Roads as intermediary
 
 High Roads's route position supports tolls, banking, arbitration, caravan services and information exchange. It still has farms, herds, workshops and ordinary local production.
