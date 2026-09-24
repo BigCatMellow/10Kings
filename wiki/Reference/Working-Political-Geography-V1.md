@@ -1159,25 +1159,27 @@ The next gate is no longer generic governance design.
 
 [Minimal Naming Profiles — V1](Minimal-Naming-Profiles-V1.md), [Settlement Site-History Vertical Slices — V1](Settlement-Site-History-Vertical-Slices-V1.md), and [Polity and Place Naming Relationship Test — V1](Polity-and-Place-Naming-Relationship-Test-V1.md) now carry the naming layer forward.
 
-Current provisional local results:
+[Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md) caught excessive cross-cluster similarity in the first isolated-name pass and added a mandatory micro-set comparison gate.
 
-- SH-M → **Kavel**;
-- HR-C → **Meren**;
-- OC-U → **Naret**;
-- LR-M → **Last Quay** as a commercial exonym;
-- NC-R / HR-N → **North Yard / South Yard / the Yards** as caravan shorthand.
+[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now supplies the corrected provisional local ecology:
 
-Additional provisional local / geographic candidates now exist through [Political Name Candidate Tests — V1](Political-Name-Candidate-Tests-V1.md):
+- W1 — **Kavel / Varel**;
+- N1 — **Auvor / Orai / Sevu**;
+- R1 — **Daroa / Dasei / Omeda**;
+- P1 — **Mesk / Korad / Tavrek**;
+- S1 — **Naret / Talir**.
 
-- G1 → **Ralen**;
-- NC-M central harbor → **Kelan**;
-- SH-A ruling seat → **Varel**;
-- OC-D → **Talir**.
+Common occupational / commercial forms remain:
 
-[Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) now earns provisional common-language political forms for the three previously unnamed large actors:
+- Dasei → **Last Quay**;
+- Sevu → **North Yard**;
+- Korad → **South Yard**;
+- Sevu + Korad → **the Yards**.
 
-- SH-A → **Varel**, through ruling-seat metonymy — provisional lexical pass;
-- NC-M → inherited compact / meeting-place naming mechanism — lexical form **on hold** pending an N1 micro-set;
-- LR-A → river / basin naming mechanism — lexical form **on hold** pending an R1 micro-set.
+[Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) now retests the three large actors:
 
-[Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md) caught excessive cross-cluster similarity in the first candidate set and added a mandatory micro-set comparison gate before future local names can pass.
+- SH-A → **Varel**, through ruling-seat metonymy;
+- NC-M → **the Auvor Compact / Auvor**, through an inherited meeting-place / compact label;
+- LR-A → **Daroa**, through river / basin geography.
+
+All remain provisional reference names rather than final constitutional titles.
