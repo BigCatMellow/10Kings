@@ -253,7 +253,7 @@ The desired chain is:
 13. the old Port settlement becomes politically unsustainable;
 14. outside powers must negotiate a new arrangement while they still need Port.
 
-[War Escalation Causal Chain — V1](../Reference/War-Escalation-Causal-Chain-V1.md) owns the no-leap causal proof for steps 1–8.
+[Adaptive War Escalation Graph — V2](../Reference/Adaptive-War-Escalation-Graph-V2.md) owns the active branching model for steps 1–8. The superseded V1 chain remains useful as the original no-leap proof.
 
 The Council legitimacy crisis is therefore **a lever inside the Port struggle**, not the Villain's abstract end goal.
 
