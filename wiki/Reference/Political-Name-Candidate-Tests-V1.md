@@ -382,15 +382,25 @@ That distinction is valuable.
 
 ---
 
-# 10. Polity-adoption result
+# 10. Cross-name QA correction
+
+[Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md) found that **Ralen** and **Kelan** collide too strongly with the wider first-pass naming set.
+
+Their historical naming mechanisms remain useful, but the lexical forms are now **HOLD**, not provisional passes.
+
+Varel remains provisionally usable because its similarity to Kavel is internally explained by the shared W1 **-el** riverside element.
+
+---
+
+# 11. Polity-adoption result
 
 [Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) now tests how the three state-level names could arise historically.
 
 Working common-language results:
 
 - SH-A → **Varel**, by ruling-seat metonym;
-- NC-M → **the Kelan Compact** / **Kelan**, from the old compact meeting-place label;
-- LR-A → **Ralen**, from river / basin geography.
+- NC-M → compact-meeting-place naming mechanism passes, but **Kelan** itself is now on hold pending an N1 micro-set;
+- LR-A → river / basin naming mechanism passes, but **Ralen** itself is now on hold pending an R1 micro-set.
 
 These are still provisional reference names, not final local constitutional titles.
 
