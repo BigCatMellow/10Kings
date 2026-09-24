@@ -336,21 +336,29 @@ Only after those sets pass should their names feed back into polity naming.
 
 ---
 
-# 13. Disposition
+# 13. Micro-set result
 
-**First lexical pass partially failed and has been corrected.**
+[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now implements the correction.
 
-Retained provisionally:
+Results:
+
+- N1 → **Auvor / Orai / Sevu** — pass;
+- R1 → **Daroa / Dasei / Omeda** — strong pass;
+- P1 → **Mesk / Korad / Tavrek** — strong pass.
+
+The held first-pass candidates are superseded as lexical recommendations:
+
+- Meren → Mesk;
+- Ralen → Daroa;
+- Kelan → Auvor.
+
+They remain in reference history as provenance for the failed isolated-name method.
+
+Retained from the earlier pass:
 
 - Kavel;
 - Varel;
 - Naret;
 - Talir.
-
-Held:
-
-- Meren;
-- Ralen;
-- Kelan.
 
 The naming process is stronger because the failure produced a mechanical comparison gate rather than another reminder to "make names varied."
