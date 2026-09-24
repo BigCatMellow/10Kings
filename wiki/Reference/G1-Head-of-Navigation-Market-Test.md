@@ -4,12 +4,7 @@
 
 **Provisional place test — not canon.**
 
-The naming layer is now tested in [N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md):
-
-- local R1 city candidate — **Dasei**;
-- interregional commercial exonym — **Last Quay**.
-
-Both remain provisional reference forms.
+The local endonym remains unresolved. **Last Quay** remains a provisional interregional commercial exonym because its social / functional origin is independently grounded.
 
 This page develops the settlement implied by the G1 transport system in:
 
@@ -32,7 +27,7 @@ Current owners that constrain the test:
 - [Guilds](../Politics/Guilds.md)
 - [Calendars, Timekeeping, and Seasonal Coordination](../Calendar-and-Timekeeping.md)
 
-The linguistic / historical naming layer has now been tested provisionally as **Dasei**, with **Last Quay** retained as the interregional commercial exonym.
+The local linguistic / historical endonym remains open. **Last Quay** is retained only as the interregional commercial exonym.
 
 ---
 
