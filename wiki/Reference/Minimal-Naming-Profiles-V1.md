@@ -568,7 +568,23 @@ This distinction prevents forced naming.
 
 ---
 
-# 15. Naming-test result
+# 15. Cross-name QA correction
+
+[Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md) found that the first isolated lexical tests overproduced the same short sonorant-heavy CVCVC shape across N1 / R1 / P1.
+
+The method now requires **micro-set generation** before a local-language name can pass.
+
+Profile adjustments:
+
+- **N1:** increase vowel-sequence and vowel-final possibilities; test coast / island / roadhead names together.
+- **R1:** distinguish older hydronyms from later administrative settlement names; allow more open-syllable river forms.
+- **P1:** give local plateau forms more potential final stops / compacted compound boundaries, while keeping foreign merchant spellings separate from local pronunciation.
+- **F1:** do not generate an isolated first name; begin with a local set.
+- **W1 / S1:** current paired tests are usable provisionally but should not become templates for every settlement.
+
+---
+
+# 16. Naming-test result
 
 [Settlement Naming Vertical Slices — V1](Settlement-Naming-Vertical-Slices-V1.md) now tests actual readiness.
 
