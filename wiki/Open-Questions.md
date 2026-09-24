@@ -121,12 +121,13 @@ A first functional-governance pass now exists for Stone Hills, North Coast, Low 
 
 [Political Border History Test — V1](Reference/Political-Border-History-Test-V1.md) now tests how the major interfaces can descend from messy pre-Convergence control and later Convergence recognition.
 
-Two concrete polity vertical slices now test whether the method produces genuinely different states:
+Three concrete polity vertical slices now test whether the method produces genuinely different states:
 
 - [Stone Hills Polity Vertical Slice — V1](Reference/Stone-Hills-Polity-Vertical-Slice-V1.md): SH-A as a post-Convergence composite territorial polity with SH-M as a strong charter-like industrial jurisdiction.
 - [Low Rivers Polity Vertical Slice — V1](Reference/Low-Rivers-Polity-Vertical-Slice-V1.md): LR-A as a basin-centered administrative polity with LR-M as a privileged transfer-market city.
+- [North Coast Polity Vertical Slice — V1](Reference/North-Coast-Polity-Vertical-Slice-V1.md): NC-M as a maritime compact polity with NC-I as a self-governing associated island polity.
 
-The comparison passes: similar territorial scale does not produce identical political structure.
+The comparison passes: similar state-level capacities do not produce identical political structure.
 
 The remaining questions are therefore mostly about **future concrete polity slices, exact border placement, naming, succession details, and exact representation**, not about choosing one generic government type for each culture.
 
