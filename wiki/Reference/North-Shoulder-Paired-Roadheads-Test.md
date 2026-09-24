@@ -4,13 +4,11 @@
 
 **Provisional paired-place test — not canon.**
 
-The paired naming layer is now tested in [N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md):
+The local settlement endonyms remain unresolved. The grounded caravan shorthand remains provisional:
 
-- North Coast-side roadhead — **Sevu**; caravan shorthand **North Yard**;
-- High Roads-side roadhead — **Korad**; caravan shorthand **South Yard**;
-- collective caravan shorthand — **the Yards**.
-
-The local names and common-language shorthand remain provisional reference forms.
+- **North Yard** — North Coast-side roadhead;
+- **South Yard** — High Roads-side roadhead;
+- **the Yards** — collective shorthand.
 
 This page develops the two settlements implied by the North Shoulder transport bottleneck in:
 
@@ -33,7 +31,7 @@ Current owners:
 - [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md)
 - [Guilds](../Politics/Guilds.md)
 
-Their naming layers have now been tested provisionally as **Sevu** on the North Coast side and **Korad** on the High Roads side, while **North Yard / South Yard / the Yards** remain traveler / caravan shorthand.
+Their local endonyms remain open. **North Yard / South Yard / the Yards** remain traveler / caravan shorthand because that usage is independently grounded in the transfer system.
 
 ---
 
