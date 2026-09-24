@@ -1176,8 +1176,8 @@ Additional provisional local / geographic candidates now exist through [Politica
 
 [Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) now earns provisional common-language political forms for the three previously unnamed large actors:
 
-- SH-A → **Varel**, through ruling-seat metonymy;
-- NC-M → **the Kelan Compact** / **Kelan**, through an inherited compact label;
-- LR-A → **Ralen**, through river / basin naming.
+- SH-A → **Varel**, through ruling-seat metonymy — provisional lexical pass;
+- NC-M → inherited compact / meeting-place naming mechanism — lexical form **on hold** pending an N1 micro-set;
+- LR-A → river / basin naming mechanism — lexical form **on hold** pending an R1 micro-set.
 
-These remain reference-level working names rather than final constitutional titles.
+[Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md) caught excessive cross-cluster similarity in the first candidate set and added a mandatory micro-set comparison gate before future local names can pass.
