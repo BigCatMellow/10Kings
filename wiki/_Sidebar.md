@@ -86,6 +86,7 @@
 - [Old Cities Functional Governance Test](Reference/Old-Cities-Functional-Governance-Test.md)
 - [Longwood Functional Governance Test](Reference/Longwood-Functional-Governance-Test.md)
 - [Working Political Geography V1](Reference/Working-Political-Geography-V1.md)
+- [Political Adjacency and Border-Interface Test V1](Reference/Political-Adjacency-and-Border-Interface-Test-V1.md)
 - [Middle Worldbuilding](Reference/Middle-Worldbuilding.md)
 - [Writing the Sequel](Reference/Writing-the-Sequel.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
