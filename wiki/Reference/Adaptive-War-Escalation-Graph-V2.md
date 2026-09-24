@@ -72,7 +72,42 @@ He does not need to know which incident starts the fighting.
 
 ---
 
-# 3. Pressure graph
+# 3. Information accelerator — Port guild concentration + Three Moons
+
+The adaptive graph assumes the Villain can observe several systems well enough to adapt.
+
+That information advantage is now grounded in:
+
+- Port's normal role as the largest commercial / maritime aggregation hub;
+- increasing guild branch / representative presence in Port;
+- cross-guild communication and contracting;
+- the seven-year [Three Moons Festival](../Culture/Three-Moons-Festival.md).
+
+Three Moons is **not a pressure node**.
+
+It is an **observation accelerator**.
+
+It temporarily improves his ability to detect:
+
+- which branches are moving;
+- which branches were contained;
+- where unexpected bottlenecks formed;
+- which actors are beginning to seek guarantees;
+- where several sectors are competing for the same resource.
+
+It also increases noise and false signals.
+
+Therefore the festival can make him:
+
+- faster;
+- better informed;
+- still wrong.
+
+This is especially useful for the adaptive doctrine because his plan depends on updating beliefs rather than predicting a fixed sequence.
+
+---
+
+# 4. Pressure graph
 
 ## Node A — maritime insecurity
 
@@ -282,7 +317,7 @@ Possible Villain response:
 
 ---
 
-# 4. Convergence nodes
+# 5. Convergence nodes
 
 The Villain cares most about **convergence**, where independent branches begin producing the same pressure.
 
@@ -375,7 +410,7 @@ This is where war can become self-sustaining.
 
 ---
 
-# 5. Route redundancy matrix
+# 6. Route redundancy matrix
 
 No single path is required.
 
@@ -496,7 +531,7 @@ If a final outline requires one named local event to occur exactly as planned, t
 
 ---
 
-# 6. Intervention windows
+# 7. Intervention windows
 
 The Villain should not intervene continuously.
 
@@ -550,7 +585,7 @@ Unnecessary action adds risk and evidence.
 
 ---
 
-# 7. Adaptation examples
+# 8. Adaptation examples
 
 ## Example A — maritime branch succeeds unexpectedly well
 
@@ -642,7 +677,7 @@ The Council should sometimes win.
 
 ---
 
-# 8. Failure matrix
+# 9. Failure matrix
 
 Every active branch should be tagged:
 
@@ -662,7 +697,7 @@ A BLACK branch may require:
 
 ---
 
-# 9. War threshold
+# 10. War threshold
 
 War becomes plausible when enough conditions overlap.
 
@@ -682,7 +717,7 @@ This allows multiple plausible final sparks.
 
 ---
 
-# 10. Spark families
+# 11. Spark families
 
 The Villain need not choose the exact final spark in advance.
 
@@ -712,7 +747,7 @@ By the time the graph reaches the war threshold, several of these can plausibly 
 
 ---
 
-# 11. The Villain's actual control
+# 12. The Villain's actual control
 
 He controls:
 
@@ -741,7 +776,7 @@ His control is therefore:
 
 ---
 
-# 12. Author test
+# 13. Author test
 
 For every major story turn ask:
 
