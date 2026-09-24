@@ -137,15 +137,20 @@ The comparison passes: similar state-level capacities do not produce identical p
 
 **Political-order V1 milestone:** all six major cultural cores now have tested, deliberately non-symmetric political structures, while Port retains its separate detailed neutrality / city-polity model.
 
-Naming / identity work now has a tested QA method through [Language and Naming Topology — V1](Reference/Language-and-Naming-Topology-Test-V1.md), [Minimal Naming Profiles — V1](Reference/Minimal-Naming-Profiles-V1.md), [Neighboring Name Pressure Test — V1](Reference/Neighboring-Name-Pressure-Test-V1.md), and [N1 / R1 / P1 Naming Micro-Sets — V1](Reference/N1-R1-P1-Naming-Microsets-V1.md).
+Naming / identity work now has a clearer failure boundary through [Language and Naming Topology — V1](Reference/Language-and-Naming-Topology-Test-V1.md), [Minimal Naming Profiles — V1](Reference/Minimal-Naming-Profiles-V1.md), [Neighboring Name Pressure Test — V1](Reference/Neighboring-Name-Pressure-Test-V1.md), and [N1 / R1 / P1 Naming Micro-Sets — V1](Reference/N1-R1-P1-Naming-Microsets-V1.md).
 
-The first lexical QA pass deliberately demoted Meren / Ralen / Kelan for excessive cross-cluster similarity. The replacement micro-sets now pass:
+Both lexical passes are now treated as failed generation experiments.
 
-- N1 — Auvor / Orai / Sevu;
-- R1 — Daroa / Dasei / Omeda;
-- P1 — Mesk / Korad / Tavrek.
+The first produced excessive cross-cluster sameness. The second improved variation but still invented opaque forms first and backfilled tiny lexical roots afterward.
 
-The same-cluster micro-set check is now the default naming gate. F1 remains intentionally ungenerated until a concrete Longwood need exists.
+Current rule:
+
+- derive from actual reusable language / history first;
+- use micro-sets only afterward as QA;
+- keep local endonyms open when the language layer has not earned them;
+- retain grounded common forms such as Port, Last Quay, North Yard, South Yard, and the Yards where their social history already explains them.
+
+No W1 / N1 / R1 / P1 / S1 lexical candidate from those experiments is currently active.
 
 Exact constitutions remain open unless a later story/history test requires them.
 
