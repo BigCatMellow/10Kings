@@ -60,6 +60,42 @@ Before using a newly invented opaque word, ask:
 
 If yes, prefer the ordinary historical name unless there is a specific reason not to.
 
+### Hard lexical-generation gate
+
+**Do not manufacture an opaque local-language name by inventing syllables and then assigning roots to them afterward.**
+
+The required order is:
+
+~~~
+actual historical / linguistic layer
+→ attested or deliberately developed vocabulary / morphology
+→ ordinary phrase or proper-name source used by speakers
+→ sound change / shortening / spelling history
+→ surviving place name
+~~~
+
+Not:
+
+~~~
+invent attractive word
+→ divide it into invented roots
+→ claim those roots explain the place
+~~~
+
+A phonotactic profile can reject bad forms. It cannot, by itself, **earn** a name.
+
+Until a language layer has enough real lexical history to derive a form, use one of:
+
+- a design ID;
+- a literal translated/common-language name;
+- an occupational or traveler nickname;
+- an older already-established name;
+- an intentionally unresolved local endonym.
+
+This means **unnamed is preferable to falsely ancient**.
+
+Micro-sets remain useful only as a later QA tool: once names have actually been derived from a language/history, compare them in groups to catch accidental authorial sameness. Micro-sets are not a name generator.
+
 ### Avoid fantasy ornament
 
 Treat the following as warning signs rather than automatic bans:
@@ -259,14 +295,32 @@ See [Language History and Naming Audit](../Reference/Language-History-and-Naming
 
 [Settlement Site-History Vertical Slices — V1](../Reference/Settlement-Site-History-Vertical-Slices-V1.md) then resolves the founding causes for SH-M, HR-C, and OC-U.
 
-[Local Name Candidate Tests — V1](../Reference/Local-Name-Candidate-Tests-V1.md) produced the first lexical candidates from those site histories.
+[Local Name Candidate Tests — V1](../Reference/Local-Name-Candidate-Tests-V1.md), [Neighboring Name Pressure Test — V1](../Reference/Neighboring-Name-Pressure-Test-V1.md), and [N1 / R1 / P1 Naming Micro-Sets — V1](../Reference/N1-R1-P1-Naming-Microsets-V1.md) now document a **failed lexical-generation experiment**.
 
-[Neighboring Name Pressure Test — V1](../Reference/Neighboring-Name-Pressure-Test-V1.md) then caught excessive cross-cluster similarity and now acts as a mandatory QA gate.
+The experiment usefully discovered two different problems:
 
-[N1 / R1 / P1 Naming Micro-Sets — V1](../Reference/N1-R1-P1-Naming-Microsets-V1.md) implements that gate and replaces the held first-pass forms with tested sets:
+1. isolated invented forms drifted toward one authorial sound;
+2. the attempted micro-set correction still violated the more fundamental plain-name rule by inventing opaque forms first and assigning lexical roots afterward.
 
-- N1 — **Auvor / Orai / Sevu**;
-- R1 — **Daroa / Dasei / Omeda**;
-- P1 — **Mesk / Korad / Tavrek**.
+Therefore the following are **not active candidates**:
 
-Kavel / Varel and Naret / Talir remain provisional passes from W1 / S1. Meren / Ralen / Kelan remain only as QA provenance and should not be revived as active candidates without new evidence.
+- Kavel;
+- Varel;
+- Meren;
+- Ralen;
+- Kelan;
+- Naret;
+- Talir;
+- Auvor;
+- Orai;
+- Sevu;
+- Daroa;
+- Dasei;
+- Omeda;
+- Mesk;
+- Korad;
+- Tavrek.
+
+Their underlying **site histories and naming mechanisms remain usable**.
+
+The grounded common-language forms **Port, Last Quay, North Yard, South Yard, and the Yards** remain usable provisionally because their meanings and social origins are already established rather than reverse-engineered from opaque syllables.
