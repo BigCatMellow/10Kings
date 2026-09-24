@@ -99,6 +99,7 @@
 - [Settlement Naming Vertical Slices V1](Reference/Settlement-Naming-Vertical-Slices-V1.md)
 - [Settlement Site-History Vertical Slices V1](Reference/Settlement-Site-History-Vertical-Slices-V1.md)
 - [Local Name Candidate Tests V1](Reference/Local-Name-Candidate-Tests-V1.md)
+- [Polity and Place Naming Relationship Test V1](Reference/Polity-and-Place-Naming-Relationship-Test-V1.md)
 - [Middle Worldbuilding](Reference/Middle-Worldbuilding.md)
 - [Writing the Sequel](Reference/Writing-the-Sequel.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
