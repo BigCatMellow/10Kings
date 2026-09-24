@@ -172,7 +172,7 @@ The braids converge when the Council must coordinate across several domains at o
 
 The story should progress through changes in **kind**, not merely louder versions of the same crisis.
 
-[War Escalation Causal Chain — V1](../Reference/War-Escalation-Causal-Chain-V1.md) is the author-side no-leap proof.
+[Adaptive War Escalation Graph — V2](../Reference/Adaptive-War-Escalation-Graph-V2.md) is the active author-side escalation model. The older V1 chain remains as the original no-leap proof, but is no longer treated as the Villain's prospective script.
 
 ## Stage 1 — apparently independent local pressures
 
