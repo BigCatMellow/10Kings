@@ -82,6 +82,7 @@
 - [High Roads Functional Governance Test](Reference/High-Roads-Functional-Governance-Test.md)
 - [Low Rivers Functional Governance Test](Reference/Low-Rivers-Functional-Governance-Test.md)
 - [North Coast Functional Governance Test](Reference/North-Coast-Functional-Governance-Test.md)
+- [Stone Hills Functional Governance Test](Reference/Stone-Hills-Functional-Governance-Test.md)
 - [Middle Worldbuilding](Reference/Middle-Worldbuilding.md)
 - [Writing the Sequel](Reference/Writing-the-Sequel.md)
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
