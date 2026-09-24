@@ -1127,4 +1127,32 @@ These are separate political relationships.
 
 The adjacency test also confirms that Port's strongest territorial adjacency is to the G1 / Low Rivers mainland even though many of its strongest political relationships are maritime.
 
-The next highest-value pass is now the **political history of the borders**: how these interfaces formed, what older claims survived, and what the Convergence actually recognized.
+[Political Border History Test — V1](Political-Border-History-Test-V1.md) now supplies the historical layer: the Convergence works best as recognition of practical inherited political realities plus surviving local route, water, maritime, and use rights rather than as a fresh border drawing.
+
+---
+
+# 25. Political-order vertical-slice result
+
+The V1 actor map has now been tested through concrete political orders:
+
+- [Stone Hills Polity Vertical Slice — V1](Stone-Hills-Polity-Vertical-Slice-V1.md) — SH-A composite territorial polity / SH-M charter-like industrial jurisdiction;
+- [North Coast Polity Vertical Slice — V1](North-Coast-Polity-Vertical-Slice-V1.md) — NC-M maritime compact polity / NC-I associated island polity;
+- [Low Rivers Polity Vertical Slice — V1](Low-Rivers-Polity-Vertical-Slice-V1.md) — LR-A basin-centered administrative polity / LR-M privileged transfer-market city;
+- [High Roads Political Order Vertical Slice — V1](High-Roads-Political-Order-Vertical-Slice-V1.md) — HR-N / HR-W / HR-C polycentric route order without a superior state;
+- [Longwood Political Order Vertical Slice — V1](Longwood-Political-Order-Vertical-Slice-V1.md) — LW-W / LW-I / LW-S layered jurisdictional mosaic;
+- [Old Cities Political Order Vertical Slice — V1](Old-Cities-Political-Order-Vertical-Slice-V1.md) — OC-U / OC-D / OC-C sovereign city-state system with delegated functional institutions.
+
+**Result: strong pass.**
+
+The minimum political topology survives:
+
+- current-event stress;
+- border history;
+- Convergence obligations;
+- Port neutrality;
+- cross-border functional jurisdictions;
+- anti-symmetry testing.
+
+The next gate is no longer generic governance design.
+
+Before exact constitutional detail, the highest-value unresolved layer is **naming and identity history for the V1 actors and their main settlements**, using the existing language / naming owners rather than placeholder fantasy compounds.
