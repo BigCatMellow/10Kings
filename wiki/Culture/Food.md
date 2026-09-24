@@ -404,7 +404,42 @@ Food circulation is therefore part of cultural circulation.
 
 ---
 
-# 12. Stone Hills
+# 13. Food can outlive the work that created it
+
+Legacy food material contains a useful historical mechanism:
+
+> food developed for a practical job can later become comfort food, identity food, or festival food after the original necessity weakens.
+
+Examples:
+
+- a preserved mine-shift food later eaten at home;
+- caravan travel food sold as ordinary market snacks;
+- shipboard preservation techniques becoming household tastes;
+- cheap worker dishes gaining sentimental prestige;
+- imported spices first used by merchants becoming ordinary after generations of trade.
+
+This creates food history without inventing "signature dishes" from nothing.
+
+## Convergence meals
+
+Trade nodes can also produce temporary shared meals without creating a permanent fused cuisine.
+
+At caravan arrivals, guild meetings, harvest exchanges, or festival markets:
+
+- households / vendors contribute different foods;
+- travelers trade ingredients;
+- cooks improvise with what has just arrived;
+- unfamiliar combinations may later be copied selectively.
+
+Most experiments disappear.
+
+A few become local.
+
+That is a plausible path from **contact event → repeated practice → ordinary food**.
+
+---
+
+# 13. Stone Hills
 
 ## Established anchors
 
@@ -455,7 +490,7 @@ Mine owner, skilled guild worker, casual laborer, herder, and valley farmer shou
 
 ---
 
-# 13. North Coast
+# 14. North Coast
 
 ## Established anchors
 
@@ -504,7 +539,7 @@ North Coast should therefore not equal “fish every meal.”
 
 ---
 
-# 14. Low Rivers
+# 15. Low Rivers
 
 ## Established anchors
 
@@ -558,7 +593,7 @@ Modern-style “canning days” are **not established** and should not be promot
 
 ---
 
-# 15. High Roads
+# 16. High Roads
 
 ## Established anchors
 
@@ -602,7 +637,7 @@ Do not copy a specific real-world oven or cuisine automatically.
 
 ---
 
-# 16. Longwood
+# 17. Longwood
 
 ## Established anchors
 
@@ -648,7 +683,7 @@ These methods should arise from practical conditions, not “forest spirituality
 
 ---
 
-# 17. Old Cities
+# 18. Old Cities
 
 ## Established anchors
 
@@ -700,7 +735,7 @@ Do not promote tagines, couscous, specific tea ritual, or Mediterranean ingredie
 
 ---
 
-# 18. Port
+# 19. Port
 
 Port cuisine should develop its own history.
 
@@ -733,7 +768,7 @@ Its food should contain forms that Port-born people consider ordinary even when 
 
 ---
 
-# 19. Cultural crossover and contact cuisines
+# 20. Cultural crossover and contact cuisines
 
 When food traditions meet repeatedly, the result should not remain two separate cuisines sitting beside one another.
 
@@ -829,7 +864,7 @@ The food needs a reason to become stable:
 
 The goal is **historical synthesis**, not a themed mashup.
 
-# 20. Border food
+# 21. Border food
 
 Border cuisine should not be “half A + half B.”
 
@@ -848,7 +883,7 @@ After generations, locals may reject both neighboring regions' versions as “wr
 
 ---
 
-# 21. Current crises
+# 22. Current crises
 
 Food should make current events tangible.
 
@@ -916,7 +951,7 @@ Possible effects:
 
 ---
 
-# 22. Scene test
+# 23. Scene test
 
 A food scene should answer some of these without exposition:
 
