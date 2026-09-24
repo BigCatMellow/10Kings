@@ -215,6 +215,63 @@ The **method** should make them memorable before the costume or alias does.
 
 ---
 
+# Independent opportunists and secondary antagonists
+
+Legacy "blacklist villain" material is most useful when stripped of the assumption that every dangerous person works for the Villain.
+
+The adaptive plan needs **independent actors with their own motives**.
+
+Useful archetypes include:
+
+- pirate / raider leader with a real political or economic grievance;
+- labor or agrarian radical willing to use coercion;
+- merchant monopolist exploiting shortages;
+- route outlaw / information broker;
+- procurement fixer who diverts scarce material;
+- private commander / security entrepreneur;
+- distributed secret-broker or blackmail network;
+- saboteur whose methods are available to several clients.
+
+These people are not a team.
+
+They may:
+
+- take the Villain's money once;
+- independently create a useful crisis;
+- refuse his offer;
+- overdo what he wanted;
+- exploit the same instability for a different purpose;
+- become enemies when his Port agenda threatens them.
+
+This gives the story plausible "blacklist" encounters without turning the world into a sequence of boss fights.
+
+## Why they improve secrecy
+
+The Villain often does not need to recruit someone into the central conspiracy.
+
+He can:
+
+- buy an ordinary service;
+- pass information through an intermediary;
+- exploit work they were already doing;
+- allow two independent agendas to overlap briefly.
+
+The secondary antagonist may never know:
+
+> their local action became one pressure input in a continent-scale strategy.
+
+## Why they improve mystery
+
+When Wurdren encounters one of these actors, defeating or exposing them can genuinely solve the local problem while leaving the larger pattern unclear.
+
+Sometimes the local antagonist **is** the full explanation for that incident.
+
+That prevents every strange event from becoming proof of the master conspiracy.
+
+See [Story Core Legacy Reconciliation](../Reference/Story-Core-Legacy-Reconciliation.md).
+
+---
+
 # Character design rule
 
 A strong recurring character usually needs:
