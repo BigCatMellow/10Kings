@@ -29,7 +29,7 @@ The purpose is to answer:
 
 > **Can NC-M act as a real territorial and diplomatic polity while harbor, clan, vessel, fishery, island, and seasonal-use authority remain independently meaningful?**
 
-**Current provisional naming layer:** [N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) tests **Auvor** for the principal mainland political harbor, **Orai** for NC-I, and **Sevu** for NC-R. [Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) tests **the Auvor Compact / Auvor** as the common political label for NC-M. These remain reference-level names, not final constitutional canon.
+**Naming status:** local / polity lexical forms remain unresolved. [Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) retains the meeting-place → compact → polity naming mechanism without supplying an invented name.
 
 This is the third concrete-state comparison after:
 
