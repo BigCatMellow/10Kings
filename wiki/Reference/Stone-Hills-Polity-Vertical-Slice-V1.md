@@ -1057,20 +1057,13 @@ This is still a reference conclusion, not a final constitutional canon label.
 
 ---
 
-# 31. Next highest-value pass
+# 31. Comparison result
 
-The best comparison case is **LR-A / LR-M**.
+[Low Rivers Polity Vertical Slice — V1](Low-Rivers-Polity-Vertical-Slice-V1.md) now provides the comparison.
 
-Stone Hills now tests:
+**Result:** the method does not produce the same polity twice.
 
-- post-Convergence consolidation;
-- composite sovereignty;
-- chartered industrial power.
+- SH-A works best as a **post-Convergence composite territorial polity** layered over concentrated older civic / industrial jurisdictions.
+- LR-A works best as a **basin-centered administrative territorial polity** whose implementation is distributed across towns, estates, villages, cooperatives, markets, and watershed institutions.
 
-Low Rivers should be tested independently rather than copied.
-
-The key question is:
-
-> **Does LR-A work as another composite polity, or does agrarian / river governance produce a meaningfully different state structure?**
-
-The abundance crisis gives an immediate stress test for that comparison.
+That is enough to pass the anti-symmetry test for concrete polity design.
