@@ -305,11 +305,67 @@ They need:
 
 He manipulates **conditions and timing**, not personalities.
 
-The strongest domino is one where the next actor behaves exactly as their own interests predict.
+He does not require the next actor to behave exactly as predicted.
+
+His strongest skill is:
+
+- recognizing the likely range of responses;
+- waiting to see which response actually occurs;
+- reinforcing useful branches;
+- abandoning contained branches;
+- exploiting useful surprises.
+
+The strongest domino is one where the world keeps moving in a useful direction **without another touch from him**.
 
 ---
 
-# 9. Bypass strategy
+# 9. Planning doctrine
+
+He does not possess a fixed event-by-event war script.
+
+His actual process is:
+
+~~~text
+observe
+→ model likely responses
+→ wait
+→ intervene only at useful tipping points
+→ measure what actually happened
+→ abandon / reinforce / redirect
+→ repeat
+~~~
+
+He thinks in desired conditions:
+
+- commercial insecurity;
+- access anxiety;
+- bloc dependence;
+- security conversion;
+- readiness fear.
+
+He does **not** need:
+
+- one specific Low Rivers law;
+- one specific High Roads reroute;
+- one specific Longwood failure;
+- one specific Old Cities alliance;
+- one preselected final spark.
+
+This matters both strategically and for secrecy.
+
+A plan with fewer deliberate touches creates fewer:
+
+- witnesses;
+- records;
+- payments;
+- betrayals;
+- patterns that investigators can trace.
+
+See [Adaptive Domino Doctrine — V1](../Reference/Adaptive-Domino-Doctrine-V1.md).
+
+---
+
+# 10. Bypass strategy
 
 He also understands that Port cannot demand more independence while remaining wholly dependent on the same outside networks.
 
@@ -338,7 +394,7 @@ The political point is:
 
 ---
 
-# 10. Support and legitimacy
+# 11. Support and legitimacy
 
 Some people support him because his network genuinely helps Port.
 
@@ -360,7 +416,7 @@ That makes his later choices more tragic.
 
 ---
 
-# 11. Moral trajectory
+# 12. Moral trajectory
 
 His descent should be visible in what kind of intervention he is willing to make.
 
@@ -410,7 +466,7 @@ That is where he fully reproduces the logic he opposed.
 
 ---
 
-# 12. Relationship to Wurdren
+# 13. Relationship to Wurdren
 
 Wurdren threatens him because Wurdren can demonstrate something politically dangerous:
 
@@ -433,7 +489,7 @@ They suggest Port's problem might be reparable without requiring the crisis to b
 
 ---
 
-# 13. Ending principle
+# 14. Ending principle
 
 The Villain should not simply be killed and thereby proven wrong.
 
@@ -462,7 +518,7 @@ The Villain may help make those reforms unavoidable while losing control of the 
 
 ---
 
-# 14. Still open
+# 15. Still open
 
 - name;
 - whether he is Port-born or adopted Port as home;
