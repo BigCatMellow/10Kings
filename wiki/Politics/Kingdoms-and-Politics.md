@@ -274,7 +274,10 @@ Bound authorities and protected users are different categories.
 
 # 6. Stone Hills
 
-See [Stone Hills](../Regions/Ironcrest.md).
+See:
+
+- [Stone Hills](../Regions/Ironcrest.md)
+- [Stone Hills Functional Governance Test](../Reference/Stone-Hills-Functional-Governance-Test.md)
 
 ## Established political pressures
 
@@ -300,33 +303,54 @@ Pre-Convergence Stone Hills was fragmented among:
 
 Current Stone Hills is more consolidated than that historical baseline.
 
-## What is not yet established
+## Structural conclusion
 
-Do **not** assume one absolute monarchy.
+The functional tests support a **comparatively consolidated territorial political order** layered over strong mine, town, guild, ownership, labor, and credit institutions.
 
-The region could still contain:
+Larger rulers need meaningful capacity for:
 
-- a crown plus strong towns;
-- semi-autonomous mining districts;
-- chartered guild centers;
-- old landed jurisdictions;
-- powerful estate holders.
+- taxation;
+- military force;
+- major roads;
+- higher enforcement;
+- strategic metal policy;
+- diplomacy.
 
-The final territorial reach of any central ruler remains open.
+But productive capacity remains distributed.
 
-## Political character
-
-A ruler may command soldiers and issue law while still depending on:
+A ruler still depends on:
 
 - mine owners;
-- guilds;
+- skilled labor;
+- guild knowledge;
+- towns;
 - lenders;
-- labor peace;
 - food imports;
-- road access.
+- fuel;
+- transport.
 
-Stone Hills demonstrates the difference between **formal rule and economic capacity**.
+Mine ownership does not automatically equal sovereignty.
 
+Guild authority does not automatically equal government.
+
+A town can be economically dependent on a mine while still possessing real civic authority.
+
+Stone Hills therefore demonstrates the difference between **formal rule, ownership, and productive control**.
+
+## Still open
+
+The tests do not establish:
+
+- one absolute monarchy;
+- number of major polities;
+- territorial reach of the strongest ruler;
+- exact mine-tenure systems;
+- guild privileges;
+- labor institutions;
+- town rights;
+- strategic-metal rules;
+- exact military structure;
+- exact Stone Hills signatories / delegates in the Convergence.
 ---
 
 # 7. North Coast
