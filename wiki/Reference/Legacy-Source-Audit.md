@@ -61,6 +61,8 @@ It means the previous volume-level status can no longer be used as evidence that
 
 See [Legacy Master Salvage Pass — V2](Legacy-Master-Salvage-Pass-V2.md).
 
+Source-by-source status is tracked in [Legacy Source-Level V2 Ledger](Legacy-Source-Level-V2-Ledger.md), which accounts for all 220 indexed Markdown sources.
+
 ---
 
 # Volume audit
