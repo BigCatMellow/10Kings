@@ -319,7 +319,58 @@ The strongest domino is one where the world keeps moving in a useful direction *
 
 ---
 
-# 9. Planning doctrine
+# 9. Why he can see more of the board
+
+His information advantage does not require an all-seeing spy network.
+
+Port is already the continent's strongest commercial aggregation point.
+
+His long-term support for greater guild presence / cross-guild coordination in Port has increased the number of people regularly bringing him or his wider political / professional network information about:
+
+- prices;
+- shortages;
+- wages;
+- materials;
+- routes;
+- contracts;
+- labor problems;
+- regulation.
+
+This work also serves his sincere Port agenda.
+
+He wants Port to retain:
+
+- expertise;
+- professional services;
+- contracts;
+- institutional influence
+
+rather than merely handling other people's cargo.
+
+The [Three Moons Festival](../Culture/Three-Moons-Festival.md) then creates an extraordinary seven-year information window.
+
+People from many systems are in Port at the same time.
+
+He can compare signals that normally arrive separately.
+
+That does **not** mean he knows what is true.
+
+The festival also produces:
+
+- rumor;
+- exaggeration;
+- misinformation;
+- stale reports.
+
+His skill is in:
+
+> **comparing the noise well enough to recognize which pressure states are actually changing.**
+
+This makes the current story period a genuine perfect storm for the adaptive domino plan.
+
+---
+
+# 10. Planning doctrine
 
 He does not possess a fixed event-by-event war script.
 
@@ -365,7 +416,7 @@ See [Adaptive Domino Doctrine — V1](../Reference/Adaptive-Domino-Doctrine-V1.m
 
 ---
 
-# 10. Bypass strategy
+# 11. Bypass strategy
 
 He also understands that Port cannot demand more independence while remaining wholly dependent on the same outside networks.
 
@@ -394,7 +445,7 @@ The political point is:
 
 ---
 
-# 11. Support and legitimacy
+# 12. Support and legitimacy
 
 Some people support him because his network genuinely helps Port.
 
@@ -416,7 +467,7 @@ That makes his later choices more tragic.
 
 ---
 
-# 12. Moral trajectory
+# 13. Moral trajectory
 
 His descent should be visible in what kind of intervention he is willing to make.
 
@@ -466,7 +517,7 @@ That is where he fully reproduces the logic he opposed.
 
 ---
 
-# 13. Relationship to Wurdren
+# 14. Relationship to Wurdren
 
 Wurdren threatens him because Wurdren can demonstrate something politically dangerous:
 
@@ -489,7 +540,7 @@ They suggest Port's problem might be reparable without requiring the crisis to b
 
 ---
 
-# 14. Ending principle
+# 15. Ending principle
 
 The Villain should not simply be killed and thereby proven wrong.
 
@@ -518,7 +569,7 @@ The Villain may help make those reforms unavoidable while losing control of the 
 
 ---
 
-# 15. Still open
+# 16. Still open
 
 - name;
 - whether he is Port-born or adopted Port as home;
