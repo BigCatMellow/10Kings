@@ -54,7 +54,180 @@ One event can move between categories as the chain develops.
 
 ---
 
-# 3. Opening-state pressures
+# 5. Reader-facing surface field
+
+The conspiracy should usually be seen **from below**.
+
+Wurdren and the reader encounter effects, not the author-side plan.
+
+Most signs should look like:
+
+- normal bad luck;
+- bureaucratic friction;
+- ordinary market behavior;
+- local politics;
+- unrelated security precautions.
+
+Only repetition makes them suspicious.
+
+The following are **working surface manifestations** of the current pressure field.
+
+They do not all need dedicated scenes, and a character seeing one should not know which causal chain it belongs to.
+
+## Harbor / maritime signs
+
+- a ship waits an extra day for convoy clearance;
+- a captain chooses a worse departure time because the approved convoy window changed;
+- a small trader cannot afford the new risk premium;
+- one harbor requires more detailed crew / cargo lists;
+- fish from a formerly ordinary ground becomes suddenly expensive;
+- an island crew is accused of fishing "outside its rights";
+- armed escorts appear on voyages that previously sailed alone;
+- ship-repair yards have more security work than ordinary commercial repair;
+- rope, tar, sailcloth, or timber contracts are being booked farther ahead;
+- a sailor says a threat report arrived before the ship carrying the supposed news should have.
+
+## Port signs
+
+- warehouse space becomes harder to rent;
+- one pier is crowded while another sits oddly underused;
+- laborers are sent home early from one cargo and called back at night for another;
+- charities quietly rent additional beds;
+- food prices rise even while valuable cargo continues moving;
+- a public repair waits for material already visible in a private warehouse;
+- merchants complain that credit exists, but only for the "right" cargo;
+- a harbor office posts a new armed-crew rule;
+- foreign agents argue over whether a security measure violates neutrality;
+- Port officials request outside help and receive several conditional offers rather than one usable answer;
+- a clerk sees the same merchant house on papers from supposedly unrelated emergencies.
+
+## Low Rivers signs
+
+- grain barges wait because warehouses are full;
+- a farmer sells at a price that would have sounded impossible a season earlier;
+- debt notices appear on productive farms after a successful harvest;
+- a larger buyer suddenly owns several unrelated claims;
+- a local council debates whether an outside purchase should be delayed;
+- merchants offer better terms only for cargo already tied to specific routes;
+- small carriers begin making direct runs to Port;
+- a cooperative has two contracts for the same crop with very different conditions;
+- rumors claim the crop is defective even though local people are eating it without trouble.
+
+## Stone Hills signs
+
+- ordinary tool orders are delayed while high-grade material still leaves;
+- workers ask who the priority buyer is and get no clear answer;
+- a workshop reduces hours despite unusually valuable outbound loads;
+- inspectors begin asking where particular grades of metal are going;
+- a guild meeting that should be about wages turns into an argument about strategic exports;
+- one foundry has work while a neighboring one is idle;
+- old storage or reserve practices are quietly revived;
+- a repair order for Port competes with a better-paying security contract.
+
+## High Roads signs
+
+- one inn is suddenly empty while another corridor is overcrowded;
+- pack animals become expensive;
+- guides disagree about which route is actually unsafe;
+- two route notices carry different instructions but both look official;
+- extra guards appear at a toll / inspection point;
+- armed escorts are counted or registered where they previously passed informally;
+- a merchant chooses a longer road because the "safe" route has become too politically complicated;
+- an old watch post is repaired "because of bandits";
+- reserve wagon / animal counts are requested by local officials;
+- a road authority begins checking strategic cargo more closely than ordinary goods.
+
+## Longwood signs
+
+- cutters or road crews arrive with permission one community recognizes and another rejects;
+- a warden says the contract does not cover the right outsiders think it covers;
+- workers are turned away from a site pending a rights dispute;
+- substitute timber buyers arrive because another supply has tightened;
+- local people hear about a proposed route from a copied document before officials explain it;
+- an ecological restriction becomes politically controversial because outside demand has increased;
+- travelers discover that a path considered ordinary passage locally is being treated as strategic infrastructure by outsiders.
+
+## Old Cities signs
+
+- water engineers begin seeing diplomats at technical meetings;
+- merchants buy grain farther ahead than usual;
+- canal / gate guards become more visible;
+- one city increases reserves and a rival immediately asks why;
+- a temporary water agreement lasts longer than expected;
+- a coastal rival seeks new shipping / supply guarantees;
+- a technical inspection is reported as a political summit;
+- merchants begin pricing contracts differently depending on which city guarantees them.
+
+## Cross-regional / war-preparation signs
+
+These should appear **before characters openly call the situation mobilization**:
+
+- governments ask for inventories of wagons, animals, boats, grain, timber, medicine, or metal;
+- old forts / posts receive mundane repairs;
+- reserve sailors / guards are asked to confirm availability;
+- armed escorts become routine;
+- strategic goods require more paperwork;
+- commercial contracts begin including political-risk clauses;
+- merchants prefer counterparties with government guarantees;
+- letters / route reports are checked more carefully;
+- guilds debate whether they must honor work stoppages across borders;
+- faith / charity networks quietly increase staple purchases;
+- rumors spread that "everyone is buying early";
+- one polity's precaution becomes another polity's evidence that preparation is underway.
+
+The important effect is accumulation.
+
+One changed contract is ordinary.
+
+Ten different people in five places mentioning:
+
+- early buying;
+- escorts;
+- delayed cargo;
+- reserve counts;
+- repaired posts;
+
+creates atmosphere before anyone understands the structure.
+
+---
+
+# 6. Visibility rule
+
+At the start:
+
+- Wurdren sees **local problems**;
+- ordinary people see **bad timing**;
+- officials see **their own files**;
+- merchants see **prices / routes**;
+- the Council sees more cross-system correlation;
+- the Villain sees the intended leverage structure.
+
+Do not give Wurdren a clean conspiracy clue every time.
+
+Some background events should:
+
+- matter later;
+- be remembered only in hindsight;
+- turn out to be natural;
+- be unrelated opportunism;
+- be a Council response rather than a Villain move.
+
+The reader should gradually move through:
+
+~~~text
+coincidence
+→ strange repetition
+→ economic connection
+→ deliberate exploitation
+→ political architecture
+→ war plan
+~~~
+
+That progression is part of the mystery.
+
+---
+
+# 5. Opening-state pressures
 
 The following conditions are already active when the story's main current-event chain begins.
 
@@ -158,7 +331,7 @@ Its strategic value is that it changes the cost of bypassing established routes.
 
 ---
 
-# 4. Existing human conflicts the Villain can exploit
+# 6. Existing human conflicts the Villain can exploit
 
 ## SH-M labor unrest — BASELINE, later PUSHED
 
@@ -280,7 +453,7 @@ He can:
 
 ---
 
-# 5. Braid A — sea → Port → food → labor
+# 7. Braid A — sea → Port → food → labor
 
 This is the clearest current cross-system chain.
 
@@ -376,7 +549,7 @@ This is where a timed Villain leak has much more effect than inventing a strike.
 
 ---
 
-# 6. Braid B — road insecurity → rerouting → Longwood sovereignty
+# 8. Braid B — road insecurity → rerouting → Longwood sovereignty
 
 ## B1 — High Roads confidence breaks unevenly
 
@@ -454,7 +627,7 @@ That is a successful domino.
 
 ---
 
-# 7. Braid C — water fear → cooperation → bloc anxiety
+# 9. Braid C — water fear → cooperation → bloc anxiety
 
 ## C1 — drought fear increases
 
@@ -521,7 +694,7 @@ A rumor becomes a political fact through reaction.
 
 ---
 
-# 8. Hidden logistics braid — Spine / Underpass bypass
+# 10. Hidden logistics braid — Spine / Underpass bypass
 
 The Spine land movement and Underpass route instability create a fourth, less public chain.
 
@@ -568,7 +741,7 @@ That legitimacy is more dangerous to the Council than sabotage alone.
 
 ---
 
-# 9. Port's own accumulating crisis
+# 11. Port's own accumulating crisis
 
 Port is not merely a transmission point for other people's problems.
 
@@ -617,7 +790,7 @@ The Villain's movement increasingly treats this delay as evidence that the curre
 
 ---
 
-# 10. The Council's current response
+# 12. The Council's current response
 
 The Council is not one mind and does not have one master emergency plan.
 
@@ -661,7 +834,7 @@ The Villain's plan works best when every Council option is locally defensible bu
 
 ---
 
-# 11. The Villain's current intervention pattern
+# 13. The Villain's current intervention pattern
 
 At the opening of the story, the Villain should already have moved beyond observation but **not yet** reached full deliberate mass harm.
 
@@ -693,7 +866,7 @@ That boundary gives his moral escalation somewhere to go.
 
 ---
 
-# 12. What ordinary people think is happening
+# 14. What ordinary people think is happening
 
 No one needs the whole picture.
 
@@ -714,7 +887,7 @@ The hidden architecture comes from how those truths interact.
 
 ---
 
-# 13. Opening-story state
+# 15. Opening-story state
 
 At the beginning of the main story:
 
@@ -735,7 +908,7 @@ That domino is the moment people begin to see the same hidden economic actors be
 
 ---
 
-# 14. Current-event design rule
+# 16. Current-event design rule
 
 Any future current event must answer:
 
