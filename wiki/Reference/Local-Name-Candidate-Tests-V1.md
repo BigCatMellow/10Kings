@@ -353,15 +353,17 @@ Do **not** canonize simply because the first candidate passes.
 
 ---
 
-# 10. Next naming test
+# 10. Polity / place relationship result
 
-The next high-value names are not more cities.
+[Polity and Place Naming Relationship Test — V1](Polity-and-Place-Naming-Relationship-Test-V1.md) now resolves the structural question.
 
-Test the **political relationship between place names and polity names**:
+Key results:
 
-- does SH-A take its name from Kavel, another seat, or a ruling house?
-- does HR-C's polity simply use Meren as a city-state / territorial name?
-- does OC-U use Naret as both city and state, as many city-states plausibly would?
-- does LR-A take a river name while Last Quay keeps a separate local endonym?
+- **Kavel** names SH-M's city / civic jurisdiction, not SH-A.
+- **Meren** can provisionally name both HR-C's city and local polity without implying a High Roads capital.
+- **Naret** can provisionally name both OC-U's city and sovereign city-state.
+- **Last Quay** remains a commercial exonym for LR-M, not LR-A.
+- SH-A, NC-M, and LR-A still need separate political naming sources.
+- LW-I may never need one country-style name at all.
 
-This should be decided before generating state names.
+The next naming priorities are G1, NC-M's founding center / compact, SH-A's central territorial source, and OC-D.
