@@ -2,21 +2,21 @@
 
 ## Status
 
-**Naming QA / correction test.**
+**Failed lexical-candidate QA retained as provenance.**
 
-This page reviews the first local and political candidates from:
+This page records what was learned from comparing the first invented local-language candidate names against one another.
 
-- [Local Name Candidate Tests — V1](Local-Name-Candidate-Tests-V1.md)
-- [Political Name Candidate Tests — V1](Political-Name-Candidate-Tests-V1.md)
-- [Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md)
+The final disposition is simple:
 
-The test exists because a name that works alone can still fail when placed beside the rest of the map.
+> **none of the opaque lexical candidates from these experiments are active names.**
+
+See [Naming](../Culture/Naming.md) for the current hard lexical-generation gate.
 
 ---
 
-# 1. Failure found
+# 1. First failure — isolated names converged
 
-The first candidate set contains:
+The first lexical candidates were:
 
 - Kavel;
 - Varel;
@@ -26,329 +26,87 @@ The first candidate set contains:
 - Naret;
 - Talir.
 
-Individually, each was grounded in a site history.
+When placed beside one another, too many shared:
 
-Collectively, too many share:
-
-- two-syllable CVCVC structure;
+- short two-syllable shapes;
 - sonorant-heavy middles;
-- final -en / -an / -el patterns;
+- repeated -en / -an / -el endings;
 - similar vowel rhythm.
 
-That creates an authorial pattern stronger than the supposed linguistic differences.
+The names looked as though they came from one author's preferred fantasy-name pattern rather than several historical language layers.
 
-In particular:
-
-> **Meren / Ralen / Kelan**
-
-read as variants generated from one naming aesthetic rather than names from three distinct contact histories.
-
-This is a real defect.
+This was a real QA failure.
 
 ---
 
-# 2. Root cause
+# 2. Useful lesson from that failure
 
-The first minimal profiles were intentionally conservative.
+A name that appears plausible alone may fail when placed on a map.
 
-But they were conservative in nearly the **same way**:
-
-- five-vowel systems;
-- CV / CVC syllables;
-- similar sonorants;
-- short two-syllable place names.
-
-That is enough to reject obvious fantasy ornament.
-
-It is **not** enough to keep several provisional language clusters distinct when generating names.
-
-The lexical tests therefore outran the profiles.
-
----
-
-# 3. W1 pair — Kavel / Varel
-
-## Shared feature
-
-Both end in **-el**.
-
-That is not automatically a problem.
-
-The test explicitly gives W1 **el** the provisional meaning:
-
-> settled river bank / riverside ground.
-
-Both settlements are river-related:
-
-- Kavel — crossing / bank;
-- Varel — confluence / bank.
-
-This can function like a recurring historical place element.
-
-## Pressure result
-
-**PASS WITH LIMIT.**
-
-Kavel and Varel can remain provisional **because the similarity has an internal historical explanation**.
-
-### Safeguard
-
-Do not give another major W1 city an -el name without a strong reason.
-
-The element should feel recurrent, not universal.
-
----
-
-# 4. S1 pair — Naret / Talir
-
-The pair shares:
-
-- compact length;
-- broad S1 consonant / vowel inventory.
-
-But it differs in:
-
-- first consonant;
-- medial rhythm;
-- ending;
-- semantic construction.
-
-Naret derives from:
-
-- perennial source + raised terrace.
-
-Talir derives from:
-
-- crossing + firm bank.
-
-## Pressure result
-
-**PASS.**
-
-They plausibly look related without looking mechanically paired.
-
-No correction required yet.
-
----
-
-# 5. P1 — Meren
-
-Meren is grounded semantically.
-
-But beside:
-
-- Ralen;
-- Kelan;
-- Kavel;
-- Varel
-
-it contributes too strongly to one repeated naming shape.
-
-P1 currently lacks enough neighboring local names to prove Meren belongs to a distinct naming community.
-
-## Result
-
-> **MEREN — DEMOTE FROM PASS TO HOLD.**
-
-HR-C remains unnamed locally in active V1 design until a P1 micro-set is tested.
-
-The site history remains valid.
-
----
-
-# 6. R1 — Ralen
-
-Ralen is also grounded semantically.
-
-But it was generated alone.
-
-A major old hydronym should be tested beside:
-
-- at least one R1 settlement;
-- another nearby water / district name.
-
-Otherwise there is no evidence that the hydronym reflects a real naming ecology rather than one invented word.
-
-## Result
-
-> **RALEN — DEMOTE FROM PASS TO HOLD.**
-
-G1 remains the design label for now.
-
-The river-derived LR-A state-name test is also paused.
-
----
-
-# 7. N1 — Kelan
-
-Kelan was generated as the NC-M political harbor.
-
-It needs comparison against:
-
-- NC-I island name;
-- NC-R local roadhead name;
-- ideally one other harbor / coastal feature.
-
-Without those, N1's coastal naming texture is untested.
-
-## Result
-
-> **KELAN — DEMOTE FROM PASS TO HOLD.**
-
-The Kelan Compact adoption test becomes a **historical mechanism test**, not an active name recommendation.
-
-NC-M remains the design handle.
-
----
-
-# 8. Common-language descriptive names
-
-The following are not affected by the phonological collision:
-
-- **Last Quay**;
-- **North Yard**;
-- **South Yard**;
-- **the Yards**;
-- **Port**.
-
-These are translated / common-language functional forms.
-
-Their naming mechanism is different.
-
-They should still remain provisional where already marked provisional.
-
----
-
-# 9. Updated candidate status
-
-| Candidate | Current status | Reason |
-| --- | --- | --- |
-| Kavel | **provisional pass** | W1 pair with historically explained -el |
-| Varel | **provisional pass** | W1 pair with historically explained -el |
-| Meren | **hold / regenerate in P1 set** | cross-cluster phonological collision |
-| Ralen | **hold / regenerate in R1 set** | generated without neighboring R1 ecology |
-| Kelan | **hold / regenerate in N1 set** | generated without neighboring N1 ecology |
-| Naret | **provisional pass** | S1 pair passes pressure test |
-| Talir | **provisional pass** | S1 pair passes pressure test |
-
-No held candidate should appear in canonical owner prose as an active name.
-
----
-
-# 10. Mechanical safeguard
-
-This failure should not recur.
-
-Before any new local-language name moves from candidate to provisional pass, test it in a **micro-set**.
-
-Minimum:
-
-- three names from the same historical / linguistic environment where possible;
-- at least one neighboring-cluster comparison.
+Therefore, once names have been **independently derived from real linguistic history**, test them in sets.
 
 Check:
 
 1. repeated endings;
 2. repeated syllable counts;
-3. suspiciously similar consonant frames;
-4. whether similarities have internal etymological reasons;
-5. whether different clusters actually sound distinguishable without caricature;
-6. whether a candidate would still look plausible if the region label were hidden.
+3. repeated consonant frames;
+4. whether similarities have an internal linguistic reason;
+5. whether neighboring clusters are distinct without becoming caricatures;
+6. whether the names remain plausible when the region label is hidden.
 
-A single good-sounding name is no longer sufficient evidence.
-
----
-
-# 11. Profile corrections required
-
-## W1
-
-Current profile is sufficient for the tested pair.
-
-Need future variation away from -el.
-
-## N1
-
-Strengthen:
-
-- vowel sequences;
-- vowel-final forms;
-- locally variable coastal compounds;
-- island preservation of older forms.
-
-Generate names as a coastal set.
-
-## R1
-
-Strengthen:
-
-- older hydronym layer;
-- more open-syllable possibilities;
-- administrative settlement forms distinct from river names.
-
-Generate river + market + nearby settlement together.
-
-## P1
-
-Strengthen:
-
-- local plateau forms distinct from imported High Roads record spellings;
-- greater possibility of final stops / compacted compound boundaries;
-- explicit separation between local name and merchant transcription.
-
-Generate several local High Roads names together.
-
-## F1
-
-No lexical test yet.
-
-Do not generate one isolated F1 name.
-
-## S1
-
-Current Naret / Talir pair passes, but the next S1 city should be tested against both.
+That comparison method remains useful.
 
 ---
 
-# 12. Next naming sets
+# 3. Second failure — the attempted micro-set repair
 
-Develop three bounded micro-sets:
+[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) attempted to fix the first problem by generating names three at a time.
 
-## N1 set
+It produced:
 
-- NC-M central harbor;
-- NC-I principal island / island polity;
-- NC-R local roadhead settlement.
+- N1 — Auvor / Orai / Sevu;
+- R1 — Daroa / Dasei / Omeda;
+- P1 — Mesk / Korad / Tavrek.
 
-## R1 set
+Those sets were less samey.
 
-- G1 hydronym;
-- LR-M local civic name;
-- one SH-A / LR-A foothill contact settlement or another G1 town.
+But they still failed the more important rule.
 
-## P1 set
+The project had invented:
 
-- HR-C;
-- HR-N local roadhead / polity center;
-- HR-W principal settlement.
+- tiny one-use roots;
+- sound profiles;
+- compound rules;
 
-Only after those sets pass should their names feed back into polity naming.
+specifically so those desired names could be explained afterward.
+
+The process was still backwards.
 
 ---
 
-# 13. Micro-set follow-up
+# 4. Correct sequence
 
-[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) tested the same-cluster comparison idea.
+The naming sequence is now:
 
-It showed that micro-sets can catch or reduce authorial phonological repetition.
+~~~
+historical language layer
+→ reusable vocabulary / morphology
+→ ordinary phrase / lineage / feature name
+→ historical shortening / sound change / spelling
+→ local endonym
+→ same-cluster micro-set QA
+→ neighboring-language pressure QA
+~~~
 
-However, the follow-up exposed a deeper failure:
+The QA stages come **after derivation**.
 
-> **the project was still inventing opaque words first and inventing one-use lexical roots afterward.**
+They do not create the words being tested.
 
-That violates the plain-name / historical-derivation rule in [Naming](../Culture/Naming.md).
+---
 
-Therefore **none of the invented lexical candidates from either pass remain active**:
+# 5. Current inactive lexical inventory
+
+The following forms are retained only so later agents understand what was rejected:
 
 - Kavel;
 - Varel;
@@ -367,6 +125,36 @@ Therefore **none of the invented lexical candidates from either pass remain acti
 - Korad;
 - Tavrek.
 
-The micro-set method survives only as a **later QA tool after real linguistic derivation**.
+Do not revive one simply because it appears elsewhere in historical reference text.
 
-Grounded common-language forms such as **Port, Last Quay, North Yard, South Yard, and the Yards** are unaffected.
+Any future reuse would require a genuinely independent linguistic derivation, not preference for the old sound.
+
+---
+
+# 6. Grounded forms unaffected
+
+The following common-language forms do not depend on the failed invented lexicons:
+
+- **Port**;
+- **Last Quay**;
+- **North Yard**;
+- **South Yard**;
+- **the Yards**.
+
+They remain usable provisionally because their meanings, users, and naming circumstances are already established.
+
+---
+
+# 7. What survives from the lexical experiments
+
+The **site histories** survive.
+
+The **political naming mechanisms** survive.
+
+The **language/contact topology** survives.
+
+The **minimal sound profiles** may survive as later plausibility filters.
+
+The invented word-forms do not.
+
+This distinction lets the project keep the useful worldbuilding without preserving weak names through inertia.
