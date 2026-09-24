@@ -339,22 +339,25 @@ Its central weakness is political:
 
 > useful coordination does not automatically create legitimate authority.
 
-### Villain — strategic coupling
+### Villain — Port-centered strategic coupling
 
-The Villain does not need to cause every crisis.
+The Villain's grievance is now specifically tied to **Port**.
 
-He couples real pressures so that:
+He sees Port as:
 
-- one institution's rational response becomes another institution's problem;
-- the Council must coordinate;
-- that coordination creates visible winners / losers;
-- mostly genuine evidence of hidden coordination becomes politically explosive.
+- protected by neutrality;
+- constrained by neutrality;
+- heavily used by outsiders;
+- burdened with the costs of being indispensable;
+- unable to retain enough value / authority to answer its own needs as quickly as the wider system can act through it.
+
+He couples real pressures so that Port's need for action becomes more urgent while outside public actors remain cautious and Council-linked private actors move quickly to protect system stability.
 
 His operational objective is now established:
 
-> **force the post-Convergence order into a public coordination / legitimacy crisis.**
+> **force renegotiation of Port's political / economic settlement by making the neutrality trap impossible to ignore.**
 
-His exact constituency, grievance, and final demand remain open.
+The exact constitutional package and his exact biography remain open.
 
 ### Wurdren — lived consequence and trust repair
 
@@ -465,7 +468,7 @@ Major open areas include:
 - remaining exact constitutional / jurisdictional details of the tested political actors;
 - Port citizenship and treaty machinery;
 - exact Council membership, history, visibility, and succession;
-- the Villain's identity, constituency, exact grievance, and exact demand at the new settlement;
+- the Villain's identity / biography and exact constitutional demands for the new Port settlement;
 - which manufactured escalation becomes his unmistakable moral break;
 - Wurdren's exact biography and starting situation;
 - magic prevalence and limits;
