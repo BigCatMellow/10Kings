@@ -617,56 +617,7 @@ The Villain's movement increasingly treats this delay as evidence that the curre
 
 ---
 
-# 9. Port's own accumulating crisis
-
-Port is not merely a transmission point for other people's problems.
-
-The city itself is under growing strain.
-
-## Throughput without enough retained capacity — BASELINE / CASCADE
-
-More trade, rerouting, refugees, arbitration, storage, and emergency traffic can make Port look richer while increasing local costs.
-
-Current pressures can include:
-
-- crowded warehouses / yards;
-- repair backlog;
-- housing pressure;
-- expensive food / fuel;
-- more policing / watch demands;
-- fire / quarantine burden;
-- labor volatility;
-- pressure on charities / faith networks;
-- infrastructure used by outsiders whose profits leave the city.
-
-The exact customs / revenue split remains open.
-
-The structural grievance is:
-
-> **economic value moves through Port faster than public capacity accumulates inside Port.**
-
-## Neutrality response gap — BASELINE / RESPONSE
-
-When Port seeks major outside assistance, neutrality complicates action.
-
-Questions arise over:
-
-- who may provide armed help;
-- who commands it;
-- who pays;
-- whether emergency financing creates political leverage;
-- whether one power gains a precedent;
-- whether another guarantor must consent.
-
-This creates a recurring political experience:
-
-> **everyone needs Port, everyone agrees Port matters, and everyone still has a reason to wait for someone else to move first.**
-
-The Villain's movement increasingly treats this delay as evidence that the current settlement is designed for outsiders' access rather than Port's welfare.
-
----
-
-# 9. The Council's current response
+# 10. The Council's current response
 
 The Council is not one mind and does not have one master emergency plan.
 
@@ -710,7 +661,7 @@ The Villain's plan works best when every Council option is locally defensible bu
 
 ---
 
-# 10. The Villain's current intervention pattern
+# 11. The Villain's current intervention pattern
 
 At the opening of the story, the Villain should already have moved beyond observation but **not yet** reached full deliberate mass harm.
 
@@ -742,7 +693,7 @@ That boundary gives his moral escalation somewhere to go.
 
 ---
 
-# 11. What ordinary people think is happening
+# 12. What ordinary people think is happening
 
 No one needs the whole picture.
 
@@ -763,7 +714,7 @@ The hidden architecture comes from how those truths interact.
 
 ---
 
-# 12. Opening-story state
+# 13. Opening-story state
 
 At the beginning of the main story:
 
@@ -784,7 +735,7 @@ That domino is the moment people begin to see the same hidden economic actors be
 
 ---
 
-# 13. Current-event design rule
+# 14. Current-event design rule
 
 Any future current event must answer:
 
