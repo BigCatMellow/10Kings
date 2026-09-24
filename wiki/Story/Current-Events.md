@@ -8,7 +8,9 @@
 
 [Villain's Dominoes](Villains-Dominoes.md) owns the hidden strategic architecture connecting selected events.
 
-[War Escalation Causal Chain — V1](../Reference/War-Escalation-Causal-Chain-V1.md) and [Domino Conspiracy Ledger — V1](../Reference/Domino-Conspiracy-Ledger-V1.md) are **author-side only**. They explain how the surface events can connect without requiring characters to perceive that connection.
+[Adaptive War Escalation Graph — V2](../Reference/Adaptive-War-Escalation-Graph-V2.md) and [Conspiracy Capability Ledger — V2](../Reference/Conspiracy-Capability-Ledger-V2.md) are **author-side only**. They explain how the surface events can connect without requiring characters to perceive that connection.
+
+The superseded fixed V1 chain / micro-action ledger remain in Reference as provenance.
 
 ---
 
