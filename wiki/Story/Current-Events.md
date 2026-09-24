@@ -332,7 +332,39 @@ The key rule:
 
 ---
 
-## Self-generated / good-faith dominoes
+### Emergency coordination sessions — RESPONSE / OPEN
+
+Legacy current-events material repeatedly used emergency merchant / guild meetings when several markets became unstable at once.
+
+The current world can support the same mechanism without reviving one monolithic Merchant Guild.
+
+If the story begins during or shortly after Three Moons, already-present representatives may convene:
+
+- cross-guild coordination meetings;
+- shipping / convoy sessions;
+- storage / credit discussions;
+- emergency standards or guarantee talks.
+
+These meetings are not automatically Villain-controlled.
+
+Participants may sincerely be trying to keep commerce functioning.
+
+They can also produce:
+
+- leaked rumors;
+- factional splits;
+- visible alignment;
+- accusations that Port is centralizing authority;
+- records the Villain can compare;
+- policies that solve one problem while worsening another.
+
+Whether one specific formal summit occurs remains **OPEN** until chronology is locked.
+
+See [Money, Credit, and Market Infrastructure](../Economy/Money-Credit-and-Market-Infrastructure.md).
+
+---
+
+# 5. Self-generated / good-faith dominoes
 
 Legacy domino notes contain an important category that should remain active:
 
