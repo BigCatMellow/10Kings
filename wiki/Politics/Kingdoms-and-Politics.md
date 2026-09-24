@@ -280,15 +280,15 @@ The regional tests now support several **different political logics**.
 
 These are not six states and not cultural destinies. They describe recurring institutional pressures inside the cultural-geographic cores; actual polities can cross, overlap, or sit partly outside them.
 
-| Cultural core | Strongest current structural model | Authority that must remain distinct |
-| --- | --- | --- |
-| **Stone Hills** | comparatively consolidated territorial rule over a distributed productive economy | ruler / polity, mine ownership, towns, guilds, labor, credit |
-| **North Coast** | layered maritime order | shore authority, harbors, clans / kin, vessels, seasonal sea-use rights, larger maritime coordination |
-| **Low Rivers** | layered agrarian-river order | villages / cooperatives, estates, towns, watershed institutions, larger polities |
-| **High Roads** | networked political order | local polities, route compacts, arbitration, professional networks, issue-specific delegations |
-| **Longwood** | decentralized mosaic of local polities and communities | local rulers, villages, towns, use-specific forest rights, specialists, issue-specific compacts |
-| **Old Cities** | competitive city-state system with uneven hinterlands | civic governments, estates / rural clients, merchant power, shared infrastructure, inter-city leagues |
-| **Port** | self-governing neutral polity with externally constrained status | local civic government, harbor institutions, treaty guarantees, foreign users / powers |
+| Cultural core | Functional logic | Current V1 political implementation | Authority that must remain distinct |
+| --- | --- | --- | --- |
+| **Stone Hills** | comparatively consolidated territorial rule over a distributed productive economy | provisional **composite territorial polity** (SH-A) with strong charter-like industrial jurisdiction (SH-M) | ruler / polity, mine ownership, towns, guilds, labor, credit |
+| **North Coast** | layered maritime order | provisional **maritime compact polity** (NC-M) with self-governing associated island actor (NC-I) | shore authority, harbors, clans / kin, vessels, seasonal sea-use rights, larger maritime coordination |
+| **Low Rivers** | layered agrarian-river order | provisional **basin-centered administrative polity** (LR-A) with privileged transfer-market city (LR-M) | villages / cooperatives, estates, towns, watershed institutions, larger polity |
+| **High Roads** | networked political order | provisional **polycentric route order** among HR-N / HR-W / HR-C; no superior High Roads state | local polities, route compacts, arbitration, professional networks, issue-specific delegations |
+| **Longwood** | decentralized mosaic | provisional **layered jurisdictional mosaic** among LW-W / LW-I / LW-S plus use-right and specialist jurisdictions | local rulers, villages, towns, use-specific forest rights, specialists, issue-specific compacts |
+| **Old Cities** | competitive city-state system with uneven hinterlands | provisional **sovereign city-state system with delegated functional institutions** among OC-U / OC-D / OC-C | civic governments, estates / rural clients, merchant power, shared infrastructure, inter-city leagues |
+| **Port** | self-governing neutral polity with externally constrained status | special city-polity; detailed internal constitution remains open | local civic government, harbor institutions, treaty guarantees, foreign users / powers |
 
 The point of the comparison is not symmetry.
 
@@ -300,6 +300,7 @@ See:
 
 - [Stone Hills](../Regions/Ironcrest.md)
 - [Stone Hills Functional Governance Test](../Reference/Stone-Hills-Functional-Governance-Test.md)
+- [Stone Hills Polity Vertical Slice — V1](../Reference/Stone-Hills-Polity-Vertical-Slice-V1.md)
 
 ## Established political pressures
 
@@ -381,6 +382,7 @@ See:
 
 - [North Coast](../Regions/Northwind.md)
 - [North Coast Functional Governance Test](../Reference/North-Coast-Functional-Governance-Test.md)
+- [North Coast Polity Vertical Slice — V1](../Reference/North-Coast-Polity-Vertical-Slice-V1.md)
 
 ## Established political pressures
 
@@ -446,6 +448,7 @@ See:
 
 - [Low Rivers](../Regions/Greenvale.md)
 - [Low Rivers Functional Governance Test](../Reference/Low-Rivers-Functional-Governance-Test.md)
+- [Low Rivers Polity Vertical Slice — V1](../Reference/Low-Rivers-Polity-Vertical-Slice-V1.md)
 
 ## Established political pressures
 
@@ -508,7 +511,11 @@ Do not pick a final constitutional label until those questions are forced by fur
 
 # 9. High Roads
 
-See [The High Roads](../Regions/Highridge-Plateau.md).
+See:
+
+- [The High Roads](../Regions/Highridge-Plateau.md)
+- [High Roads Functional Governance Test](../Reference/High-Roads-Functional-Governance-Test.md)
+- [High Roads Political Order Vertical Slice — V1](../Reference/High-Roads-Political-Order-Vertical-Slice-V1.md)
 
 ## Established
 
@@ -562,6 +569,7 @@ See:
 
 - [Longwood](../Regions/Deepwood.md)
 - [Longwood Functional Governance Test](../Reference/Longwood-Functional-Governance-Test.md)
+- [Longwood Political Order Vertical Slice — V1](../Reference/Longwood-Political-Order-Vertical-Slice-V1.md)
 
 ## Established
 
@@ -627,6 +635,7 @@ See:
 
 - [The Old Cities](../Regions/Sunplains.md)
 - [Old Cities Functional Governance Test](../Reference/Old-Cities-Functional-Governance-Test.md)
+- [Old Cities Political Order Vertical Slice — V1](../Reference/Old-Cities-Political-Order-Vertical-Slice-V1.md)
 - [Old Cities Shared Irrigation Test](../Reference/Old-Cities-Shared-Irrigation-Test.md)
 
 ## Established
