@@ -382,20 +382,16 @@ That distinction is valuable.
 
 ---
 
-# 10. Promotion boundary
+# 10. Polity-adoption result
 
-Working local / geographic candidates now include:
+[Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) now tests how the three state-level names could arise historically.
 
-- **Kavel** — SH-M city / civic jurisdiction;
-- **Meren** — HR-C city / local polity;
-- **Naret** — OC-U city / city-state;
-- **Talir** — OC-D city / city-state;
-- **Ralen** — G1 river;
-- **Kelan** — NC-M principal political harbor / city;
-- **Varel** — SH-A ruling seat;
-- **Last Quay** — LR-M commercial exonym;
-- **North Yard / South Yard / the Yards** — roadhead caravan shorthand.
+Working common-language results:
 
-All remain provisional reference names.
+- SH-A → **Varel**, by ruling-seat metonym;
+- NC-M → **the Kelan Compact** / **Kelan**, from the old compact meeting-place label;
+- LR-A → **Ralen**, from river / basin geography.
 
-No SH-A / NC-M / LR-A formal polity name is promoted here.
+These are still provisional reference names, not final local constitutional titles.
+
+The adoption mechanisms are deliberately different and preserve the underlying political structures.
