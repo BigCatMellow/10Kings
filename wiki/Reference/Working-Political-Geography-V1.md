@@ -1174,4 +1174,10 @@ Additional provisional local / geographic candidates now exist through [Politica
 - SH-A ruling seat → **Varel**;
 - OC-D → **Talir**.
 
-State-level SH-A / NC-M / LR-A names remain intentionally unresolved. The naming sources now exist, but the history of how each local name became—or did not become—a polity name still needs to be earned.
+[Polity Name Adoption History Test — V1](Polity-Name-Adoption-History-Test-V1.md) now earns provisional common-language political forms for the three previously unnamed large actors:
+
+- SH-A → **Varel**, through ruling-seat metonymy;
+- NC-M → **the Kelan Compact** / **Kelan**, through an inherited compact label;
+- LR-A → **Ralen**, through river / basin naming.
+
+These remain reference-level working names rather than final constitutional titles.
