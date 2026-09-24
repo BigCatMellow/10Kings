@@ -155,6 +155,39 @@ A force is constrained by:
 
 A force that cannot sustain those systems is not elite simply because its equipment is expensive.
 
+## Mobilization often begins as maintenance
+
+Legacy military notes are strongest when they treat military capacity as a **repair and supply system** rather than a parade of special units.
+
+Before open mobilization, a polity can increase readiness through ordinary-looking actions:
+
+- repairing old posts;
+- replacing wagon wheels;
+- buying spare bowstrings / leather / shafts;
+- contracting smiths;
+- counting pack animals;
+- checking reserve boats;
+- increasing preserved-food stocks;
+- recalling maps / route records;
+- inspecting bridges;
+- confirming which craftspeople can be called on.
+
+Most of those actions are also useful in civilian emergencies.
+
+That ambiguity matters.
+
+A neighboring polity may not know whether:
+
+> "they are preparing for a difficult season"
+
+or:
+
+> "they are preparing for war."
+
+This makes maintenance spending an important early security signal in the current escalation model.
+
+---
+
 ## Elite troop rule
 
 Elite troops should stand out by:
