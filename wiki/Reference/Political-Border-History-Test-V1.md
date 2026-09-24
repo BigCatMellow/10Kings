@@ -815,29 +815,10 @@ These should remain open until specific polity histories are developed.
 
 ---
 
-# 21. Next highest-value pass
+# 21. First polity vertical-slice result
 
-The political geography now has:
+[Stone Hills Polity Vertical Slice — V1](Stone-Hills-Polity-Vertical-Slice-V1.md) now tests SH-A / SH-M as the first concrete polity case.
 
-- actor topology;
-- required adjacency;
-- plausible inherited border history.
+**Result:** the strongest working model is a post-Convergence **composite territorial polity**: meaningful central fiscal / military / diplomatic power layered over older civic jurisdictions, mine rights, guild privilege, and negotiated local obligations.
 
-The next useful step is to develop **one concrete polity vertical slice**.
-
-The best candidate is **SH-A / SH-M** because current events already place labor unrest and unusual metal movement there.
-
-A vertical slice should establish only what the story and system need:
-
-- center of government;
-- territorial reach in rough terms;
-- fiscal basis;
-- relationship to SH-M;
-- mine / guild / town privileges;
-- military capacity;
-- succession legitimacy;
-- internal factions;
-- how it participates in the Convergence;
-- why ordinary people accept or resist it.
-
-That would test whether the current political method produces a believable actual state before repeating the process elsewhere.
+The best comparison case is now LR-A / LR-M. It should be tested independently rather than assuming Low Rivers developed the same composite-state solution.
