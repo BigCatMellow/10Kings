@@ -137,6 +137,18 @@ North Coast's political tensions often revolve around:
 - food dependence;
 - Council influence over shipping and finance.
 
+See [North Coast Functional Governance Test](../Reference/North-Coast-Functional-Governance-Test.md).
+
+The strongest current structural conclusion is that North Coast is a **layered maritime political order**.
+
+- harbor and island authorities retain strong local functions;
+- clan / kin obligations can cross territorial boundaries;
+- fishery and anchorage rights do not map cleanly onto shore borders;
+- larger polities or coalitions are needed for some war, diplomatic, convoy, piracy-suppression, and strategic trade functions;
+- those larger authorities still depend on local harbors, crews, pilots, clans, and merchants.
+
+This leaves open whether one crown, confederation, or other large polity currently dominates the region.
+
 ## North Shoulder roadhead system
 
 The tested physical network now strongly supports a North Coast-side roadhead at the lower approach to the principal High Roads pass.
