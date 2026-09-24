@@ -1157,4 +1157,14 @@ The next gate is no longer generic governance design.
 
 [Language and Naming Topology — V1](Language-and-Naming-Topology-Test-V1.md) now begins that naming / identity layer without prematurely inventing proper names. It supplies abstract historical language/contact clusters and actor-specific naming strata.
 
-Before final local endonyms can be generated, the next gate is a **minimal naming profile** for each provisional language cluster: enough phonology / morphology to generate ordinary inherited place names, but not a full conlang.
+[Minimal Naming Profiles — V1](Minimal-Naming-Profiles-V1.md), [Settlement Site-History Vertical Slices — V1](Settlement-Site-History-Vertical-Slices-V1.md), and [Polity and Place Naming Relationship Test — V1](Polity-and-Place-Naming-Relationship-Test-V1.md) now carry the naming layer forward.
+
+Current provisional local results:
+
+- SH-M → **Kavel**;
+- HR-C → **Meren**;
+- OC-U → **Naret**;
+- LR-M → **Last Quay** as a commercial exonym;
+- NC-R / HR-N → **North Yard / South Yard / the Yards** as caravan shorthand.
+
+State-level SH-A / NC-M / LR-A names remain intentionally unresolved because their naming sources are not yet earned.
