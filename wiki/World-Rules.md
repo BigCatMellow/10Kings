@@ -191,6 +191,18 @@ Settlement names may come from geography, founders, old peoples, industries, sac
 
 Names should often preserve history no longer visible.
 
+**Derive; do not backfill.** An opaque local-language name is not earned by inventing a pleasant fantasy form and then inventing roots that supposedly explain it. The linguistic / historical material must exist first strongly enough that the name can be derived from it.
+
+Until that exists, prefer:
+
+- ordinary translated/common-language names;
+- occupational or traveler names;
+- inherited names already supported by history;
+- design IDs;
+- an explicitly unresolved local endonym.
+
+A phonotactic profile or same-cluster micro-set may test a derived name, but neither may serve as the source of the name itself.
+
 ## 19. Violence changes societies
 
 Wars produce widows, missing heirs, debts, veterans, ruins, refugees, border minorities, abandoned roads, trauma, legends, land claims, taxes, and political institutions.
