@@ -54,7 +54,7 @@ One event can move between categories as the chain develops.
 
 ---
 
-# 5. Reader-facing surface field
+# 3. Reader-facing surface field
 
 The conspiracy should usually be seen **from below**.
 
@@ -191,7 +191,7 @@ creates atmosphere before anyone understands the structure.
 
 ---
 
-# 6. Visibility rule
+# 4. Visibility rule
 
 At the start:
 
