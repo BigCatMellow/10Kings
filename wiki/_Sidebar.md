@@ -112,6 +112,7 @@
 - [Grounded Domino Design Method](Reference/Grounded-Domino-Design.md)
 - [Adaptive Domino Doctrine V1](Reference/Adaptive-Domino-Doctrine-V1.md)
 - [Adaptive War Escalation Graph V2](Reference/Adaptive-War-Escalation-Graph-V2.md)
+- [Current-Event Stakeholder Reaction Matrix V1](Reference/Current-Event-Stakeholder-Reaction-Matrix-V1.md)
 - [Conspiracy Capability Ledger V2](Reference/Conspiracy-Capability-Ledger-V2.md)
 - [Domino Design Evolution and Lessons](Reference/Domino-Design-Evolution-and-Lessons.md)
 - [War Escalation Causal Chain V1 — Superseded](Reference/War-Escalation-Causal-Chain-V1.md)
