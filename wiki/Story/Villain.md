@@ -222,21 +222,38 @@ He hates that it can do what Port is told Port itself cannot do:
 
 His operational objective is therefore more specific than "destroy the Council."
 
+He believes **peacetime pressure will never be enough**.
+
+The outside powers can indefinitely postpone meaningful Port reform because the current arrangement is inconvenient for Port but still useful to everyone else.
+
+He therefore intends to push the existing network of rivalries, shortages, precautions, guarantees, and security fears until they produce **actual war**.
+
+War is not the thing he wants to own.
+
+It is the forcing mechanism that makes the existing Port settlement impossible to maintain.
+
 He wants to create conditions in which the existing Port settlement becomes politically indefensible.
 
 The desired chain is:
 
-1. real crises increase the world's dependence on Port;
-2. Port absorbs more cost and pressure;
-3. neutrality / treaty procedure slows or limits the help Port can obtain;
-4. Council-linked actors quietly intervene to keep the wider system moving;
-5. those interventions reveal that rapid coordination is possible when outside commerce is threatened;
-6. the contrast becomes politically visible:
-   - slow action for Port's needs;
-   - fast hidden action for system stability;
-7. Port residents and allies demand a new settlement;
-8. alternative networks demonstrate that Port can perform more functions on its own;
-9. outside powers must choose between renegotiation and a destabilized Port they all still need.
+1. real crises create small independent pressures;
+2. small Villain nudges cause ordinary institutions to respond defensively;
+3. commercial protection produces reciprocal restrictions and reserve buying;
+4. economic precautions become security precautions;
+5. existing competitive spheres begin guaranteeing one another's access / supplies;
+6. armed escorts, strategic controls, reserve systems, and partial mobilization accumulate;
+7. a limited armed incident activates those guarantees;
+8. war makes every major power more dependent on Port at the exact moment Port's neutrality makes military / emergency decisions hardest;
+9. Port absorbs extraordinary cost and pressure;
+10. Council-linked actors quietly intervene to keep wider trade / logistics moving;
+11. the contrast becomes politically visible:
+    - Port constrained by procedure and outside suspicion;
+    - hidden private networks moving quickly for system stability;
+12. alternative Port-centered networks demonstrate some independent capacity;
+13. the old Port settlement becomes politically unsustainable;
+14. outside powers must negotiate a new arrangement while they still need Port.
+
+[War Escalation Causal Chain — V1](../Reference/War-Escalation-Causal-Chain-V1.md) owns the no-leap causal proof for steps 1–8.
 
 The Council legitimacy crisis is therefore **a lever inside the Port struggle**, not the Villain's abstract end goal.
 
@@ -244,7 +261,7 @@ The Council legitimacy crisis is therefore **a lever inside the Port struggle**,
 
 # 7. Why the domino plan reaches beyond Port
 
-He cannot change Port's status by arguing only inside Port.
+He cannot change Port's status by arguing only inside Port, and he has concluded that ordinary negotiation will not create enough pressure.
 
 The current settlement exists because many outside powers benefit from it.
 
@@ -268,7 +285,7 @@ This is why his dominoes move through:
 
 The outside crises are not his true constituency.
 
-They are the systems that make Port's political trap visible.
+They are the systems he intends to push into a self-reinforcing security dilemma until war makes Port's political trap impossible to ignore.
 
 ---
 
