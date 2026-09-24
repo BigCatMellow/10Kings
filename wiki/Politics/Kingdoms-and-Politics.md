@@ -272,6 +272,26 @@ Likewise, a merchant or guild can benefit from treaty-protected passage without 
 
 Bound authorities and protected users are different categories.
 
+## Functional comparison across the major cultural cores
+
+The regional tests now support several **different political logics**.
+
+These are not six states and not cultural destinies. They describe recurring institutional pressures inside the cultural-geographic cores; actual polities can cross, overlap, or sit partly outside them.
+
+| Cultural core | Strongest current structural model | Authority that must remain distinct |
+| --- | --- | --- |
+| **Stone Hills** | comparatively consolidated territorial rule over a distributed productive economy | ruler / polity, mine ownership, towns, guilds, labor, credit |
+| **North Coast** | layered maritime order | shore authority, harbors, clans / kin, vessels, seasonal sea-use rights, larger maritime coordination |
+| **Low Rivers** | layered agrarian-river order | villages / cooperatives, estates, towns, watershed institutions, larger polities |
+| **High Roads** | networked political order | local polities, route compacts, arbitration, professional networks, issue-specific delegations |
+| **Longwood** | decentralized mosaic of local polities and communities | local rulers, villages, towns, use-specific forest rights, specialists, issue-specific compacts |
+| **Old Cities** | competitive city-state system with uneven hinterlands | civic governments, estates / rural clients, merchant power, shared infrastructure, inter-city leagues |
+| **Port** | self-governing neutral polity with externally constrained status | local civic government, harbor institutions, treaty guarantees, foreign users / powers |
+
+The point of the comparison is not symmetry.
+
+It is to prevent later work from solving every region with the same constitutional template.
+
 # 6. Stone Hills
 
 See:
