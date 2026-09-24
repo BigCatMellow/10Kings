@@ -215,7 +215,34 @@ People may want institutions to recognize a mixed reality without wanting a new 
 
 ---
 
-# 5. Naming cleanup
+# 5. Local exceptions can matter more than formal borders
+
+Legacy border-town material repeatedly used **small practical exceptions** to make contact zones work.
+
+Compatible mechanisms include:
+
+- reduced or waived duties on small household goods;
+- local recognition of marriages / apprenticeships formed across a border;
+- shared water schedules;
+- joint patrol or fire-response arrangements;
+- reciprocal guild recognition for a narrow trade;
+- locally agreed market days;
+- tolerated use of a neighboring court / notary for specific contracts;
+- special passage rules for seasonal labor or livestock.
+
+These are not continental treaty rights by default.
+
+They are exactly the kind of local compromise that can persist because everyone nearby finds it useful even when larger governments dislike the precedent.
+
+This creates good political tension:
+
+> a border may be legally clear while everyday life depends on exceptions that make the border porous.
+
+A later centralizing ruler can therefore provoke conflict simply by **enforcing the official rule more consistently**.
+
+---
+
+# 6. Naming cleanup
 
 Earlier brainstorming produced names including:
 
@@ -252,7 +279,7 @@ Any future contact-zone name must pass [Naming](../Culture/Naming.md):
 
 ---
 
-# 6. Cultural transmission role
+# 7. Cultural transmission role
 
 Contact zones do not only receive culture.
 
@@ -276,7 +303,7 @@ The origin may be forgotten.
 
 ---
 
-# 7. Story function
+# 8. Story function
 
 Border towns and contact zones show whether the world's political categories still match lived reality.
 
