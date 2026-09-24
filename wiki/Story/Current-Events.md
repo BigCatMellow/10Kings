@@ -251,6 +251,31 @@ coincidence
 
 That progression is part of the mystery.
 
+## Stakeholder reaction rule
+
+See [Current-Event Stakeholder Reaction Matrix — V1](../Reference/Current-Event-Stakeholder-Reaction-Matrix-V1.md).
+
+Current events should not produce universal reactions.
+
+For major events, show:
+
+- people directly harmed;
+- people directly benefiting;
+- people who oppose the event but also oppose the proposed solution;
+- institutions splitting internally;
+- opportunists who prefer the crisis to continue;
+- groups whose position changes as conditions change.
+
+Examples:
+
+- piracy creates victims but also benefits smugglers, security providers, some rivals, and political centralizers;
+- anti-piracy convoy rules can be opposed by people who hate piracy but fear permanent maritime centralization;
+- cheap grain helps consumers while destroying producer solvency;
+- guild centralization helps cross-border professionals while threatening regional branches / small members;
+- Three Moons creates civic prestige and income while also raising rents, workload, congestion, and fears of Port dominance.
+
+This social disagreement is part of the background noise that keeps the Villain's plan difficult to read.
+
 ---
 
 ## Three Moons convergence — BASELINE / OPPORTUNISTIC
