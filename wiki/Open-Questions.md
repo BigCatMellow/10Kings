@@ -113,6 +113,8 @@ The sections below retain the more detailed unresolved questions.
 
 [Kingdoms and Politics](Politics/Kingdoms-and-Politics.md) now establishes that the six cultural regions are **not six equivalent states** and maps the current confidence level for each region's political organization.
 
+A first functional-governance pass now exists for Stone Hills, North Coast, Low Rivers, High Roads, Longwood, and Old Cities; Port has its own governance / neutrality owner. The remaining questions are therefore mostly about **implementation, political geography, named institutions, and exact representation**, not about choosing one generic government type for each culture.
+
 Remaining questions:
 
 - Exact number of sovereign and semi-sovereign polities.
