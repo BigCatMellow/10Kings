@@ -474,10 +474,12 @@ First-pass local candidates were:
 - HR-C → **Meren**;
 - OC-U → **Naret**.
 
-After [Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md):
+After [Neighboring Name Pressure Test — V1](Neighboring-Name-Pressure-Test-V1.md), Meren was placed on hold.
+
+[N1 / R1 / P1 Naming Micro-Sets — V1](N1-R1-P1-Naming-Microsets-V1.md) now completes that correction:
 
 - Kavel remains a provisional pass;
-- Meren is **on hold** pending a P1 micro-set;
+- HR-C now uses **Mesk** as the provisional P1 micro-set candidate;
 - Naret remains a provisional pass.
 
 The site histories themselves remain valid regardless of the lexical correction.
