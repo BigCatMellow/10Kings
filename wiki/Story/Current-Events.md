@@ -56,6 +56,26 @@ A second- or third-order effect created by another event.
 
 Exact cause remains deliberately unresolved.
 
+## OPPORTUNISTIC
+
+The Villain did not cause or meaningfully push the event.
+
+He notices a consequence and takes advantage of the new situation.
+
+## CONTAINED
+
+A pressure that could have fed escalation is successfully reduced by ordinary institutions, the Council, negotiation, market adjustment, or local cooperation.
+
+Contained events are important evidence that the world does **not** automatically obey the plan.
+
+## FAILED PUSH
+
+The Villain deliberately intervened and the intended effect did not occur.
+
+Do not relabel a failed push as "secretly useful all along."
+
+It may later create an unrelated opportunity, but that is adaptation, not prediction.
+
 One event can move between categories as the chain develops.
 
 ---
