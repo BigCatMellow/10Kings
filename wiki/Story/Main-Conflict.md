@@ -172,74 +172,161 @@ The braids converge when the Council must coordinate across several domains at o
 
 The story should progress through changes in **kind**, not merely louder versions of the same crisis.
 
-## Stage 1 — local pressures
+[War Escalation Causal Chain — V1](../Reference/War-Escalation-Causal-Chain-V1.md) is the author-side no-leap proof.
+
+## Stage 1 — apparently independent local pressures
 
 People experience:
 
 - piracy;
+- fishery disputes;
 - poor prices;
 - route attacks;
 - labor conflict;
 - water fear;
-- ecological stress.
+- ecological stress;
+- Port repair / capacity problems.
 
-## Stage 2 — cross-system consequences
+Nobody needs to suspect one plan.
 
-One problem changes another system:
+## Stage 2 — commercial protection
 
-- security becomes credit;
-- credit becomes debt;
-- route security becomes land rights;
-- water planning becomes diplomacy.
+Institutions respond with:
 
-## Stage 3 — hidden stabilization
+- tighter credit;
+- reserve buying;
+- long-term contracts;
+- distress acquisitions;
+- route changes;
+- emergency purchasing rules;
+- convoy scheduling.
 
-Council-linked networks intervene.
+Still not war.
 
-Most people still see separate decisions.
+Most measures are ordinary attempts to protect constituencies.
 
-## Stage 4 — pattern recognition / exposure
+## Stage 3 — precaution creates scarcity
 
-Evidence shows the same private networks coordinating across several crises.
+Because many actors protect themselves at once:
 
-The political issue changes from:
+- open-market supply shrinks;
+- transport capacity tightens;
+- strategic materials become harder to obtain;
+- alternate routes become politically important;
+- prices rise because people fear future shortage.
 
-> "Why is Port still waiting?"
+The precautions begin validating the fears that caused them.
 
-to two linked questions:
+## Stage 4 — economic rules become security rules
 
-> "Why can private actors coordinate this quickly when Port itself cannot?"
+Examples:
 
-and:
+- strategic export licensing;
+- armed convoy rules;
+- route inspections;
+- restrictions on military-use cargo;
+- repaired watch posts;
+- larger escorts;
+- reserve inventories.
 
-> "Who decided that Port should bear these costs while the value keeps leaving?"
+This is the critical bridge.
 
-## Stage 5 — defensive institutional reaction
+The world is no longer merely suffering economic stress.
 
-Polities, guilds, communities, and Port protect themselves from Council dependency.
+It is building **capability for conflict** while insisting those measures are defensive.
 
-Those rational responses weaken the very mechanisms that normally stabilize cross-border crises.
+## Stage 5 — alignments harden
 
-## Stage 6 — coordination crisis
+Existing competitive spheres become practical security networks.
 
-The Council must choose between:
+Commercial guarantees become:
 
-- staying hidden / restrained;
-- acting openly enough to preserve stability.
+- escort promises;
+- replacement-supply commitments;
+- diplomatic guarantees;
+- support for access disputes.
 
-The Villain's alternative networks now matter materially.
+A local conflict now risks involving actors who were not originally part of it.
 
-## Stage 7 — final escalation
+## Stage 6 — mobilization security dilemma
 
-His coalition has enough leverage to demand a new settlement.
+Several actors partially mobilize because rivals have:
 
-His moral failure becomes clear when he chooses preserving the strategic architecture over protecting people who no longer fit it.
+- armed escorts;
+- stockpiles;
+- strategic controls;
+- repaired positions;
+- security guarantees.
 
-Near-war or limited war can occur.
+Each side can honestly describe its own measures as defensive.
 
-It is **not required as the goal of the plan**.
+Each side can honestly observe that the other is becoming more capable of attacking quickly.
 
----
+The political question becomes:
+
+> **Can we afford to be the only side that waits?**
+
+## Stage 7 — war
+
+A relatively small armed incident occurs only **after** the system has been prepared for war.
+
+Possible class:
+
+- disputed convoy / strategic cargo;
+- inspection refusal;
+- harbor-access confrontation;
+- patrol / fishing-right detention;
+- chokepoint seizure.
+
+Deaths or a seizure lead to limited retaliation.
+
+Existing guarantees then broaden the conflict.
+
+War is therefore not caused by one dramatic act.
+
+The act activates a system that has spent dozens of dominoes becoming war-ready.
+
+## Stage 8 — Port neutrality crisis
+
+War makes Port's contradiction impossible to avoid.
+
+Every major network needs:
+
+- access;
+- repair;
+- storage;
+- finance;
+- shipping;
+- information.
+
+Port must now answer questions its peacetime neutrality was designed to postpone or distribute:
+
+- armed access;
+- military cargo;
+- outside protection;
+- emergency authority;
+- revenue;
+- defense;
+- favoritism;
+- blockade / inspection pressure.
+
+This is the forcing condition the Villain wanted.
+
+## Stage 9 — revelation and settlement fight
+
+Only now does the full architecture become politically legible.
+
+The Villain can expose:
+
+- delayed Port assistance;
+- rapid private commercial coordination;
+- Council-linked interventions;
+- selective contracts;
+- the accumulated contradiction between Port's responsibility and its authority.
+
+His coalition can demand a new Port settlement.
+
+His moral failure also becomes visible because some of the suffering used to prove the case was suffering he could have reduced.
 
 # 6. The exposure problem
 
