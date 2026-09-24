@@ -123,7 +123,10 @@ Modern Stone Hills rulers must manage:
 - old land claims;
 - Council-linked credit.
 
-See [Stone Hills Functional Governance Test](../Reference/Stone-Hills-Functional-Governance-Test.md).
+See:
+
+- [Stone Hills Functional Governance Test](../Reference/Stone-Hills-Functional-Governance-Test.md)
+- [Stone Hills Polity Vertical Slice — V1](../Reference/Stone-Hills-Polity-Vertical-Slice-V1.md) for the current provisional SH-A / SH-M concrete-state test.
 
 The strongest current structural conclusion is that Stone Hills is **more territorially consolidated than its pre-Convergence past without becoming economically centralized**.
 
