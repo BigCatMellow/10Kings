@@ -156,6 +156,18 @@ Visible authority includes some combination of:
 - treaty bodies;
 - Port institutions.
 
+The current provisional political-geography tests now demonstrate several different mature political solutions rather than one state template:
+
+- Stone Hills — composite territorial polity;
+- North Coast — maritime compact polity;
+- Low Rivers — basin-centered administrative polity;
+- High Roads — polycentric route order with no superior regional state;
+- Longwood — layered jurisdictional mosaic;
+- Old Cities — sovereign city-state system with delegated functional institutions;
+- Port — self-governing neutral special polity.
+
+See [Working Political Geography — V1](Reference/Working-Political-Geography-V1.md). These are **provisional implementation models**, not final polity names, borders, constitutions, or cultural definitions.
+
 But much of daily life is also governed by institutions that cross political borders.
 
 See [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md). The post-Convergence world has **layered jurisdiction**: local governments, rulers, guilds, faiths, Port, route institutions, and treaty obligations can all possess legitimate but limited claims over different disputes. Enforcement and recognition matter as much as abstract legal authority.
