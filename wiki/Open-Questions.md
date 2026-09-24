@@ -120,6 +120,8 @@ Still open:
 - exact belligerent roster as the competitive spheres harden;
 - which chokepoint / cargo / patrol dispute becomes the final armed spark;
 - the exact chronology between partial mobilization and open war;
+- which branches succeed, fail, are contained, backfire, or become useful surprises in the final story chronology;
+- how many people belong to the tiny strategic conspiracy tier;
 - which manufactured escalation becomes his unmistakable moral break;
 - where Wurdren begins and which human-scale problem first connects him to the larger system.
 
