@@ -401,3 +401,216 @@ Instead he stepped onto the quay.
 4. Does Port feel vivid enough before named districts exist?
 5. Does the grain problem create enough forward pull for a first chapter?
 6. Should the first scene end here, or continue through meeting the Records Worker?
+
+
+---
+
+# Challenge pass — result
+
+## Overall
+
+**PASS as a structural / voice test, HOLD before Scene 2 prose.**
+
+The scene successfully demonstrates:
+
+- Wurdren's significance hunger without a biography dump;
+- an ordinary contract as a real first-story engine;
+- Port as lived infrastructure rather than lore;
+- age without frailty;
+- practiced decency contradicting Wurdren's own definition of importance;
+- Three Moons strain without festival exposition.
+
+But several voice risks should be corrected before treating this as a final prose baseline.
+
+---
+
+## 1. Humor density is slightly too high
+
+The current draft stacks several dry-comic beats close together:
+
+- sheep having opinions;
+- deckhand / elbow exchange;
+- "Festival" as a universal explanation;
+- "mostly" knowing where the warehouse is;
+- grain-count joke;
+- warehouse-runner bureaucratic exchange.
+
+Individually, most work.
+
+Together, they push the scene toward a **wry comic-fantasy register** more strongly than the larger story currently requires.
+
+### Correction
+
+Keep humor.
+
+Reduce the density by roughly one-third.
+
+The strongest candidates to retain are:
+
+- one arrival joke;
+- one bureaucratic joke;
+- one Wurdren / grain-agent exchange.
+
+This preserves [Worldbuilding Breath](Worldbuilding-Breath.md) without making every interaction perform wit.
+
+---
+
+## 2. The opening line should carry more of Wurdren's actual problem
+
+Current line:
+
+> "By the time Port came into view, Wurdren had decided that guarding grain was worse than guarding sheep."
+
+It is readable, but it foregrounds comedy more than character.
+
+A stronger class of first line would connect:
+
+- grain;
+- boredom;
+- his belief that important lives should feel important.
+
+Possible direction, not final prose:
+
+> **By the time Port came into view, Wurdren had spent three days guarding grain and trying not to think that this was what his return to adventure had amounted to.**
+
+That gets closer to the story's central human question immediately.
+
+Do not turn the first paragraph into philosophical exposition.
+
+---
+
+## 3. The significance hunger is clear enough
+
+The section beginning:
+
+> "He could collect his witness mark..."
+
+makes the internal problem legible.
+
+The later sequence:
+
+> "Something difficult. Something dangerous..."
+
+may be one sentence too explicit.
+
+### Correction
+
+Allow the reader to infer slightly more.
+
+Keep the sense that he wants:
+
+- danger;
+- difficulty;
+- a memorable deed.
+
+Reduce direct explanation about historical remembrance by a small amount.
+
+---
+
+## 4. Port's physical introduction passes
+
+The harbor arrival uses established geography well:
+
+- river quay;
+- warehouse belt;
+- road / ferry pressure;
+- transfer infrastructure;
+- mixed vessel scale.
+
+It does not overlock:
+
+- district names;
+- exact municipal geometry;
+- customs structure.
+
+**No correction required.**
+
+---
+
+## 5. The warehouse problem is understandable, but one phrase may overlock terminology
+
+"Witness mark" risks implying a specific legal practice not yet established.
+
+### Correction
+
+Replace with broader prose such as:
+
+- signed completion;
+- delivery acknowledgment;
+- his contract witnessed / closed.
+
+Keep the exact legal object provisional until Scene 2 develops the records system.
+
+---
+
+## 6. The grain agent works as a limited role
+
+They have:
+
+- an independent financial problem;
+- competence;
+- enough friction with Wurdren to feel alive.
+
+Do **not** promote them yet.
+
+No need to name them before the Low Rivers afterlife pass determines whether they recur.
+
+---
+
+## 7. Wurdren's age is at the right level
+
+The knee / younger-worker cue is enough.
+
+Do not add:
+
+- constant pain;
+- extensive reminiscing;
+- repeated old-man jokes.
+
+His age should become more visible through:
+
+- comparison;
+- memory;
+- judgment;
+- accumulated relationships.
+
+Not physical decline alone.
+
+---
+
+## 8. Best scene break
+
+The current ending:
+
+> "Come on," he said. "Before somebody decides the office has moved."
+
+is a viable Scene 1 ending.
+
+It provides:
+
+- a completed arrival movement;
+- unresolved problem;
+- Wurdren choosing to stay;
+- a natural transition into the Records Worker.
+
+**Keep the scene break here.**
+
+Do not continue directly into Scene 2 in the same prose test.
+
+---
+
+# Challenge conclusion
+
+Before drafting Scene 2:
+
+1. create a lightly revised Scene 1 baseline with:
+   - lower humor density;
+   - slightly stronger first paragraph;
+   - less over-explicit significance language;
+   - no premature legal terminology;
+2. preserve the current V1 as comparison evidence;
+3. then use the revised voice as the test baseline for the Records Worker scene.
+
+This follows the MAPS_L loop:
+
+> **build → inspect → challenge → bounded correction → continue.**
