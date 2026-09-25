@@ -310,3 +310,189 @@ The world also needs:
 - minor officials;
 - refugees;
 - people who want nothing to do with the main plot.
+
+
+---
+
+# Roles now justified by the backward-built story
+
+The current story architecture now requires a small number of recurring roles because later causal payoffs depend on their **continuing choices**, not because the story needs regional representatives.
+
+These remain unnamed / biographically open.
+
+See:
+
+- [Three Moons Opening Construction — V1](../Reference/Three-Moons-Opening-Construction-V1.md);
+- [Post-Three-Moons Containment and Dispersal — V1](../Reference/Post-Three-Moons-Containment-and-Dispersal-V1.md);
+- [War Activation Construction — V1](../Reference/War-Activation-Construction-V1.md).
+
+## Port records / contract worker
+
+### Early function
+
+Helps resolve the opening delivery problem through:
+
+- warehouse records;
+- guarantees;
+- copied contracts;
+- ordinary clerical authority.
+
+### Why they recur
+
+Later they are in a position to notice:
+
+- repeated guarantors;
+- recurring counterparties;
+- similar procedural language;
+- supposedly separate interventions sharing institutional backing.
+
+They do **not** discover the whole Council alone.
+
+Their records become one fragment in the later evidence mosaic.
+
+### Character test
+
+They should care first about:
+
+- getting records correct;
+- not being blamed for someone else's mistake;
+- workload;
+- professional reputation.
+
+Not:
+
+> exposing the secret rulers of the world.
+
+---
+
+## Port-reform / guild federalist ally
+
+### Early function
+
+Supports:
+
+- stronger Port agency;
+- cross-guild communication;
+- reciprocal recognition;
+- practical coordination.
+
+But resists:
+
+- permanent overcentralization;
+- large-house domination;
+- making Port guild offices into one distant professional government.
+
+This role embodies the already-established **federal coordinator** position inside guild centralization politics.
+
+### Why they recur
+
+They can plausibly:
+
+- work alongside the Villain's legitimate reform network;
+- benefit from his success;
+- defend him against unfair criticism;
+- later discover / infer that covert escalation crossed their own moral line.
+
+### Late function
+
+This is the strongest current candidate for the **movement insider who breaks with the Villain without abandoning Port reform**.
+
+That allows the climax to distinguish:
+
+> the cause
+
+from:
+
+> the man's claim to control the cause.
+
+They may possess one important piece of evidence, but should not know the whole conspiracy.
+
+---
+
+## Longwood rights-holder / mediator / specialist
+
+### Early function
+
+Brings the copied-rights / access dispute into Port.
+
+Returns with corrected records.
+
+Participates in the later local compromise.
+
+### Why they recur
+
+The relationship proves that:
+
+- direct contact can stop a pressure branch;
+- urgency does not automatically erase layered local rights;
+- Wurdren's trust can survive across political / cultural difference.
+
+### Late function
+
+Can contribute:
+
+- testimony;
+- precedent;
+- cross-boundary trust;
+- a person Wurdren can credibly contact during later emergency bargaining.
+
+Do not turn them into "the Longwood character."
+
+They represent their own local / institutional position and may disagree with other Longwood actors.
+
+---
+
+## Port neighborhood / labor contact
+
+### Early function
+
+Shows the ordinary cost of:
+
+- festival crowds;
+- housing pressure;
+- food prices;
+- dock / warehouse strain;
+- public-service burden.
+
+They can support Port autonomy while distrusting:
+
+- large guild houses;
+- elite reformers;
+- expensive centralization.
+
+### Why they recur
+
+The final Port settlement needs a human relationship below:
+
+- merchant houses;
+- Council families;
+- treaty delegates.
+
+This role provides it.
+
+### Late function
+
+Their importance is not expert constitutional knowledge.
+
+It is that Wurdren has a real route back to:
+
+> what Port's new agency actually means for people who live and work there.
+
+---
+
+# Role consolidation rule
+
+Before adding another recurring character, first ask whether the function can be carried by one of these existing roles without distorting them.
+
+Do **not** merge roles merely to reduce cast size if doing so would make one person implausibly present in:
+
+- records;
+- guild leadership;
+- Longwood rights politics;
+- neighborhood labor politics
+
+at once.
+
+The goal is:
+
+> **few enough people to remember, enough independence that the world does not orbit the protagonist.**
