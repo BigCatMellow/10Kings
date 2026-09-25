@@ -1237,3 +1237,370 @@ Re-plan this architecture if later work demonstrates that:
 - a new owner-page decision materially changes the Convergence / Port / Council relationship.
 
 Otherwise continue working backward through the unresolved dependencies, then execute the resulting story forward.
+
+
+---
+
+# 26. First execution wave — results
+
+## Task A — war termination / ceasefire design
+
+**Status: WORKING DEFAULT SELECTED.**
+
+Three candidate mechanism classes were tested.
+
+### Candidate 1 — revelation alone stops the war
+
+A triggering incident is discredited or exposed as manipulated, causing belligerents to stand down.
+
+**Rejected as the primary mechanism.**
+
+Why:
+
+- once guarantees, mobilization, deaths, and domestic constituencies exist, disproving the first story is not enough to reverse the new interests created by war;
+- it would make Wurdren's evidence too magically powerful;
+- it would undercut the world-system model.
+
+Revelation can weaken the political case for continuing war.
+
+It cannot be the only reason war stops.
+
+### Candidate 2 — the Council forces peace through private leverage
+
+The Council uses credit, food, shipping, and infrastructure leverage to compel belligerents into peace.
+
+**Rejected as the primary mechanism.**
+
+Why:
+
+- it would prove the Council's hidden governing model more than it challenges it;
+- the Council would become the final sovereign in practice;
+- the Port settlement would then look like a reaction to Council power rather than Port agency.
+
+Council capability should matter.
+
+It should not get to unilaterally solve the political crisis it helped create.
+
+### Candidate 3 — shared-access crisis makes a negotiated pause rational
+
+**Selected working default.**
+
+War strains the same shared systems the belligerents need in order to continue fighting.
+
+As competing demands accumulate:
+
+- armed access rules conflict;
+- strategic cargo becomes harder to classify;
+- repair capacity is contested;
+- insurance / guarantees become unreliable;
+- credit tightens;
+- civilian supply begins mixing dangerously with military logistics;
+- rival pressure on Port makes ordinary neutral operation increasingly impossible.
+
+The Council quietly attempts to preserve minimum flows.
+
+That works only partially and becomes harder to keep hidden.
+
+Port's own institutions then face a direct choice:
+
+> let outside war consume the systems that make Port function, or assert emergency rules for access to Port-controlled systems.
+
+### Working mechanism — Port emergency neutral-access regime
+
+Port does **not** command the continent to make peace.
+
+It asserts rules over the systems it actually operates.
+
+Working class of action:
+
+- civilian trade / relief / ordinary repair remain protected where possible;
+- armed / military use of Port-controlled facilities becomes subject to temporary common restrictions;
+- Port refuses to let each belligerent impose incompatible inspection / escort / access rules inside the same neutral system;
+- continuation of stable access requires representatives to agree to a temporary common operating regime.
+
+The exact rules remain open.
+
+The important mechanism is:
+
+> **Port uses the crisis to act as a polity rather than merely as infrastructure.**
+
+This is an early demonstration of the very agency the Villain said Port lacked.
+
+### Why belligerents negotiate
+
+Not because they suddenly trust one another.
+
+Because:
+
+- continued exclusion / instability at Port harms their own logistics;
+- alternative routes cannot fully replace Port;
+- Council-linked private rescue cannot indefinitely compensate for open war;
+- merchants / lenders / guilds / families / local governments develop constituencies for restored predictability;
+- some strategic objectives have already been achieved or become less valuable than the accumulating cost;
+- evidence about the original escalation weakens the political value of endless retaliation.
+
+This produces:
+
+> **a negotiated pause because continued war now costs each side more than a limited agreement over shared access.**
+
+The pause can begin narrowly around:
+
+- Port;
+- protected trade;
+- specific corridors;
+- detainees / damaged cargo;
+- emergency supply.
+
+It does not need to solve every political dispute on day one.
+
+### Why this is thematically strong
+
+The Villain wanted war to prove Port required greater agency.
+
+The war succeeds in creating that proof.
+
+But the first decisive act of new Port agency belongs to **Port's contested public institutions and constituencies**, not to him personally.
+
+That is already the thesis in miniature.
+
+---
+
+## Task B — minimum first-settlement design
+
+**Status: PASS at structural level.**
+
+The first settlement should be a **minimum viable successor order**, not a finished constitution.
+
+The following categories are sufficient to make the century-later future plausible.
+
+| Immediate change | Current problem answered | New problem deliberately created |
+| --- | --- | --- |
+| **greater retained Port revenue / dedicated local capacity** | throughput does not automatically fund the burdens Port bears | outside merchants / guarantors dispute fees, shares, exemptions, and spending |
+| **defined Port emergency authority** | responsibility diffusion makes urgent action slow / suspicious | emergency powers can expand, become permanent, or favor insiders |
+| **recognized Port-controlled neutral defense / protection capacity** | neutrality without local protective capability leaves Port dependent | outside powers fear creeping militarization or disguised alignment |
+| **limited direct external agreement capacity** | Port cannot always act quickly when every agreement must pass through outside political filters | line between neutral commercial diplomacy and sovereign foreign policy becomes contested |
+| **clearer Port harbor authority with guaranteed access rules** | local responsibility and foreign access are poorly aligned | every access denial / priority rule becomes a legal-political fight |
+| **public cross-border emergency / systems coordination machinery** | Council fills a real coordination gap privately | shared bodies may centralize, become bureaucratic, or reproduce elite capture |
+| **Council capability transition** | destroying the Council would destroy useful knowledge / relationships | former Council houses may dominate the new public system through expertise |
+| **record / review / appeal requirements for consequential shared decisions** | invisible actors currently choose winners / losers without public answerability | procedural delay and strategic litigation become real costs |
+| **amendment / revision path** | one crisis settlement cannot foresee a century of future problems | every later reform becomes another political struggle |
+
+### Design rule
+
+Every reform must be traceable to a failure the reader has already seen.
+
+No constitutional feature should appear in the ending merely because it sounds enlightened.
+
+### What remains deliberately open
+
+- exact Port constitution;
+- exact revenue percentage / customs mechanism;
+- exact composition of shared bodies;
+- exact defense organization;
+- whether one successor forum or several issue-specific bodies form first;
+- exact relation of guild / labor / neighborhood representation to territorial government;
+- exact legal fate of Council member houses.
+
+These details should be derived when the settlement scenes and polity map require them.
+
+---
+
+## Task C — double-exposure evidence chain
+
+**Status: WORKING MODEL SELECTED.**
+
+The ending should use **distributed evidence**, not a master ledger.
+
+## Council evidence
+
+The Council's existence / behavior becomes provable through a mosaic of ordinary records such as:
+
+- coordinated guarantees;
+- emergency loans;
+- warehouse reservations;
+- rerouting / procurement patterns;
+- repeated counterparties;
+- copied correspondence;
+- arbitration / contract timing;
+- the same small group of houses responding coherently across several sectors.
+
+Most individual records are legal or mundane.
+
+The revelation comes from **cross-comparison**.
+
+The Villain is well positioned to build this mosaic because:
+
+- Port aggregates records;
+- guild centralization increases cross-domain visibility;
+- Three Moons increases information density;
+- his legitimate reform network already works with contracts, merchants, guilds, and logistics.
+
+The war then provides public corroboration.
+
+Council-linked actors must coordinate too visibly across opposing jurisdictions for every intervention to remain dismissible as coincidence.
+
+The Villain therefore does not need:
+
+> the secret Council constitution signed by every member.
+
+He needs enough evidence that ordinary observers can no longer plausibly treat the pattern as independent action.
+
+## Villain evidence
+
+Evidence against the Villain should also be distributed.
+
+Useful classes:
+
+- pre-positioned capacity that only makes sense alongside later intervention;
+- records of selective financing / purchases timed around pressure points;
+- testimony that relief or help was deliberately withheld;
+- intermediaries who were told only a local task but can later establish a pattern;
+- altered / strategically timed information;
+- payments or introductions connecting otherwise separate interventions;
+- evidence that he knew a pressure had been contained and deliberately redirected rather than merely responding to events.
+
+No single witness needs to know:
+
+> "the plan was to cause continental war."
+
+The pattern matters.
+
+## Wurdren's role in the evidence chain
+
+Wurdren does not become a detective who solves the whole conspiracy.
+
+His ordinary actions preserve pieces that other actors would have lost:
+
+- a witness survives;
+- a document is not destroyed;
+- two people compare records;
+- a local official is persuaded not to suppress an embarrassing fact;
+- a carrier / clerk / guild member trusts him enough to speak later.
+
+At the climax, Wurdren's contribution is:
+
+> **making otherwise isolated evidence socially connectable.**
+
+## Late break inside the Villain's coalition
+
+At least one important piece should come from someone who supported the legitimate Port reform movement and later rejects covert escalation.
+
+Why:
+
+- proves the movement was never one mind;
+- separates cause from methods;
+- prevents the reveal from being purely enemy accusation;
+- fulfills the established rule that beneficiaries / supporters can later oppose him.
+
+Exact person remains open.
+
+---
+
+## Task D — Wurdren causal-payoff map
+
+**Status: PASS at function level.**
+
+Do not assign Wurdren a grand final office.
+
+Give him two or three bounded causal payoffs grown from earlier local action.
+
+### Payoff 1 — evidence survives
+
+Early / middle story:
+
+Wurdren solves a local problem in a way that preserves:
+
+- testimony;
+- a clerk;
+- a carrier;
+- a contract;
+- a copied record;
+- a relationship between people who later compare evidence.
+
+Late story:
+
+that surviving fragment becomes part of the Villain evidence chain.
+
+The early scene still works as its own human-scale story.
+
+### Payoff 2 — a relationship crosses a political boundary
+
+Early / middle story:
+
+Wurdren helps two parties reach a workable local compromise or simply prevents a relationship from collapsing.
+
+Possible existing pressure classes:
+
+- guild branch / central office;
+- Longwood local rights / route interests;
+- merchant / worker;
+- rival carrier / official;
+- Port localist / trans-regional professional.
+
+Late story:
+
+those people can speak directly when the larger systems expect them to communicate only through factional caricature.
+
+This helps a ceasefire / settlement mechanism function.
+
+### Payoff 3 — participation is protected
+
+During the late Port crisis:
+
+Wurdren's most character-consistent important action may be very small relative to the historical scale:
+
+- get someone safely to the meeting;
+- protect a witness;
+- carry records through a disrupted route;
+- stop retaliation against someone whose testimony is politically inconvenient;
+- keep one local constituency from being excluded after violence or panic.
+
+The point is:
+
+> **the future changes partly because somebody who would otherwise have disappeared from the model remains present.**
+
+That is enough.
+
+---
+
+# 27. First-wave conclusion
+
+The ending now has a grounded causal bridge:
+
+~~~text
+WAR
+shared systems become increasingly unworkable
+
+↓
+PORT EMERGENCY ACCESS REGIME
+Port exercises real agency over systems it actually owns / operates
+
+↓
+NEGOTIATED PAUSE
+belligerents need predictable shared access more than continued unrestricted escalation
+
+↓
+DOUBLE EXPOSURE
+Council's hidden coordination becomes undeniable
++
+Villain's deliberate escalation becomes undeniable
+
+↓
+FIRST SETTLEMENT
+Port gains structural agency
+Council capability is transformed rather than erased
+shared coordination becomes a public constitutional problem
+
+↓
+GENERATIONS OF REVISION
+institutions fragment, formalize, fail, reform, and normalize
+
+↓
+98-YEAR THREE MOONS EPILOGUE
+the revolutionary result is now ordinary life
+and belongs to people the Villain never knew
+~~~
+
+This is now strong enough to begin the next backward pass:
+
+> **What exact late-story sequence moves us from war activation into the Port emergency regime, the double exposure, and the first settlement without collapsing into exposition or a conference-room climax?**
