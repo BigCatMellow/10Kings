@@ -52,6 +52,39 @@ Stone Hills culture places unusually high value on:
 
 There is also a long tension between craft pride and concentrated ownership. Mine owners, guild masters, workers, small smiths, merchants, and rural communities do not necessarily want the same future.
 
+## Community differentiation — industrial districts
+
+Focused community work now supports **major industrial mine / civic districts** as one Stone Hills community type.
+
+See:
+
+- [Community Analogue Research — Wave 2](../Reference/Community-Analogue-Research-Wave-2.md);
+- [Community Profiles — P1 Wave 1](../Reference/Community-Profiles-P1-Wave-1.md);
+- [Community Hold Resolutions — V1](../Reference/Community-Hold-Resolutions-V1.md).
+
+Such districts can plausibly contain:
+
+- older mine / craft households;
+- internal Stone Hills migrants from smaller valleys / workings;
+- cross-regional skilled / casual workers;
+- worker-built mutual-aid / education / recreation institutions;
+- guild halls;
+- boarding districts;
+- owner / administrative neighborhoods.
+
+This does **not** make every Stone Hills mining town culturally identical.
+
+The important structural result is that dangerous industrial work can create:
+
+- civic institutions;
+- migration layers;
+- neighborhood politics;
+- occupational folklore
+
+rather than only workplace conflict.
+
+No single faith is assigned to industrial districts. Religious charities, craft institutions, worker organizations and guild services can overlap.
+
 ## Language
 
 See [Language and Thought](../Culture/Language-and-Thought.md).
