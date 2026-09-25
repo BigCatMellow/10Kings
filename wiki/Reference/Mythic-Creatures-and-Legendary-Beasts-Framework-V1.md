@@ -14,6 +14,12 @@ Primary constraints:
 - [Religions](../Politics/Religions.md);
 - [Religion Legacy Reconciliation](Religion-Legacy-Reconciliation.md).
 
+Research implementation:
+
+- [Mythic Creature Research Method — V1](Mythic-Creature-Research-Method-V1.md);
+- [Research Tranche 1 — Underpass / Mining and Maritime](Mythic-Creature-Research-Tranche-1-Underpass-Maritime.md);
+- [Research Tranche 2 — Wetlands, Forest Boundaries, and High Roads](Mythic-Creature-Research-Tranche-2-Wetland-Forest-HighRoads.md).
+
 Relevant legacy sources:
 
 - [Volume 01 — Foundations: World, Myth & History](../../legacy-notes/2026-09-22/consolidated-package/01_Foundations_World_Myth_History.md);
