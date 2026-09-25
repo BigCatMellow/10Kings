@@ -1040,17 +1040,10 @@ But on first reading, each must still work as:
 
 # 20. Next design dependency
 
-After this opening is stable, the next pass should build:
+The next movement is now built in:
 
-> **the containment / festival-dispersal movement immediately after Three Moons.**
+- [Post-Three-Moons Containment and Dispersal — V1](Post-Three-Moons-Containment-and-Dispersal-V1.md).
 
-That pass must specify:
-
-- maritime compromise;
-- Low Rivers stabilization;
-- Longwood afterlife;
-- which records / relationships leave Port;
-- how the Villain's pressure board changes;
-- the first visible conversion from commercial protection to security policy.
+The full forward order is routed through [Narrative Sequence Spine — V1](Narrative-Sequence-Spine-V1.md).
 
 Do not jump directly from the festival to war.
