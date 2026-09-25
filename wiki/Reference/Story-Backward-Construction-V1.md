@@ -2591,3 +2591,29 @@ It should:
 - choose which recurring roles become actual characters;
 - lock only the exact local details required by those scenes;
 - preserve the current causal chain unless scene-level evidence exposes a contradiction.
+
+
+---
+
+# 43. Sequence spine
+
+The backward-built architecture has now been translated into a draftable, packaging-neutral sequence order:
+
+- [Narrative Sequence Spine — V1](Narrative-Sequence-Spine-V1.md).
+
+It contains:
+
+- the reader-knowledge ladder;
+- POV timing;
+- 38 causal sequences from the Three Moons opening through the 98-year epilogue;
+- the working midpoint;
+- the remaining scene-local decisions;
+- a no-new-macro-machinery rule.
+
+This is now the shortest author-side route from:
+
+> **ending thesis**
+
+to:
+
+> **scene / chapter construction.**
