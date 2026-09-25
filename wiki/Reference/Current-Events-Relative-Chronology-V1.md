@@ -13,7 +13,11 @@ It should be read with:
 - [Adaptive War Escalation Graph — V2](Adaptive-War-Escalation-Graph-V2.md) — pressure states and alternate routes;
 - [Current-Event Stakeholder Reaction Matrix — V1](Current-Event-Stakeholder-Reaction-Matrix-V1.md) — constituencies and internal splits;
 - [Grounded Domino Design](Grounded-Domino-Design.md) — causal design method;
-- [Three Moons Opening Construction — V1](Three-Moons-Opening-Construction-V1.md) — active author-side opening beat architecture derived from the ending.
+- [Three Moons Opening Construction — V1](Three-Moons-Opening-Construction-V1.md) — opening beat architecture derived from the ending;
+- [Post-Three-Moons Containment and Dispersal — V1](Post-Three-Moons-Containment-and-Dispersal-V1.md) — successful early solutions, residue, and festival dispersal;
+- [Security Conversion and Sphere Sorting — V1](Security-Conversion-and-Sphere-Sorting-V1.md) — commercial protection hardening into security capability;
+- [War Activation Construction — V1](War-Activation-Construction-V1.md) — limited incident, failed containment, and guarantee cascade;
+- [Narrative Sequence Spine — V1](Narrative-Sequence-Spine-V1.md) — full packaging-neutral forward sequence.
 
 The purpose is not to decide that event A must always cause event B.
 
