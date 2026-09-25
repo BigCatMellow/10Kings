@@ -139,6 +139,27 @@ Physical proximity matters, but repeated contact can make distant communities cu
 
 See [Culture Phase 7 — Cross-Regional Cultural Transmission](../Reference/Culture-Phase-7-Cross-Regional-Transmission.md).
 
+## Comparative research belongs at community scale
+
+The broad regional inspiration pools below are **research directories, not cultural recipes**.
+
+Current community-level work now uses:
+
+- [Cultural Analogue Coverage Assessment — V1](../Reference/Cultural-Analogue-Coverage-Assessment-V1.md);
+- [Community-to-Analogue Matrix — V1](../Reference/Community-to-Analogue-Matrix-V1.md);
+- [Community Profiles — P1 Wave 1](../Reference/Community-Profiles-P1-Wave-1.md);
+- [Community Spiderweb Test — P1 Wave 1](../Reference/Community-Spiderweb-Test-P1-Wave-1.md).
+
+The working method is:
+
+> **use a real-world society to research one mechanism, then combine several mechanisms with actual 10Kings ecology, law, work, migration and neighboring cultures.**
+
+For example, a Stone Hills industrial district may use one comparative source for worker mutual aid, another for migration / neighborhood formation, and another for apprenticeship. A neighboring Stone Hills community should not automatically use the same mixture.
+
+This is now a structural safeguard:
+
+> **region ≠ culture, and inspiration pool ≠ analogue people.**
+
 ## Current inspiration pools
 
 ### Stone Hills
