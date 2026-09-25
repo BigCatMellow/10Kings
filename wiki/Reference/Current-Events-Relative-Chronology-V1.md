@@ -12,7 +12,8 @@ It should be read with:
 - [Villain's Dominoes](../Story/Villains-Dominoes.md) — hidden strategic architecture;
 - [Adaptive War Escalation Graph — V2](Adaptive-War-Escalation-Graph-V2.md) — pressure states and alternate routes;
 - [Current-Event Stakeholder Reaction Matrix — V1](Current-Event-Stakeholder-Reaction-Matrix-V1.md) — constituencies and internal splits;
-- [Grounded Domino Design](Grounded-Domino-Design.md) — causal design method.
+- [Grounded Domino Design](Grounded-Domino-Design.md) — causal design method;
+- [Three Moons Opening Construction — V1](Three-Moons-Opening-Construction-V1.md) — active author-side opening beat architecture derived from the ending.
 
 The purpose is not to decide that event A must always cause event B.
 
