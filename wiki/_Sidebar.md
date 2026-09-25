@@ -122,6 +122,7 @@
 - [Legacy Source Audit and Retrieval Index](Reference/Legacy-Source-Audit.md)
 - [Legacy Master Salvage Pass V2](Reference/Legacy-Master-Salvage-Pass-V2.md)
   - [Source-Level V2 Ledger](Reference/Legacy-Source-Level-V2-Ledger.md)
+  - [Legacy High-Salvage Deep Review V2](Reference/Legacy-High-Salvage-Deep-Review-V2.md)
 - [Religion Legacy Reconciliation](Reference/Religion-Legacy-Reconciliation.md)
 - [Religious Artifacts Framework](Reference/Religious-Artifacts-Framework.md)
 - [Council Legacy Reconciliation](Reference/Council-Legacy-Reconciliation.md)
