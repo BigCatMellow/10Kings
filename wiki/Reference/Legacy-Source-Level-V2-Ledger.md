@@ -16,6 +16,8 @@ Current wiki owner pages always outrank this ledger.
 
 See [Legacy Master Salvage Pass — V2](Legacy-Master-Salvage-Pass-V2.md).
 
+Focused dispositions: [Legacy High-Salvage Deep Review — V2](Legacy-High-Salvage-Deep-Review-V2.md).
+
 ## Status meanings
 
 - **SCREENED V2** — inspected at source-section level for mechanisms, institutions, ordinary-life detail, logistics, conflict, and story value.
@@ -74,7 +76,7 @@ The ledger does **not** imply that every useful sentence has already been promot
 | `World_-_The_Spine.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
 | `World_-_Underpass.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
 | `Regions_-_Old_Notes.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
-| `Regions_-_Old_Notes_-_Economics.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
+| `Regions_-_Old_Notes_-_Economics.md` | **DEEP REVIEWED V2** | Focused V2 semantic review completed; see High-Salvage Deep Review V2. |
 
 ---
 
@@ -97,7 +99,7 @@ The ledger does **not** imply that every useful sentence has already been promot
 | `Cities_-_Ebonmist.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
 | `Cities_-_Sun_Song.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
 | `Cities_-_City_of_Masks.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
-| `Cities_-_Notes.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
+| `Cities_-_Notes.md` | **DEEP REVIEWED V2** | Focused V2 semantic review completed; see High-Salvage Deep Review V2. |
 | `Architecture_-_Ironcrest.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
 | `Architecture_-_Northwind.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
 | `Architecture_-_Greenvale.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
@@ -120,7 +122,7 @@ The ledger does **not** imply that every useful sentence has already been promot
 | `Cultures.md` | **STUB / EMPTY** | Minimal substantive content. |
 | `Cultures_-_Traditions.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
 | `Culture_-_Regional_Motivators.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
-| `Cultures_-_Old_Notes.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
+| `Cultures_-_Old_Notes.md` | **DEEP REVIEWED V2** | Focused V2 semantic review completed; see High-Salvage Deep Review V2. |
 | `clothes.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
 | `Nomads_-_Types.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
 | `Nomads_-_Appalachian.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
@@ -171,7 +173,7 @@ The ledger does **not** imply that every useful sentence has already been promot
 | `Religion_-_Path_of_the_Great_Weaver.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
 | `Religion_-_Radiant_Path.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
 | `Religion_-_The_Silent_Whisper.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
-| `Religion_-_Old_Notes_-_Philosophy.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
+| `Religion_-_Old_Notes_-_Philosophy.md` | **DEEP REVIEWED V2** | Focused V2 semantic review completed; see High-Salvage Deep Review V2. |
 | `Gods.md` | **STUB / EMPTY** | Minimal substantive content. |
 | `Gods_-_Overviews.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
 | `Gods_-_Categorized.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
@@ -227,10 +229,10 @@ The ledger does **not** imply that every useful sentence has already been promot
 | `The_Council_-_Stress_Test.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
 | `Council_-_Domains.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
 | `Council_-_Circle_of_Mirrors.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
-| `Council_-_Old_Notes.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
+| `Council_-_Old_Notes.md` | **DEEP REVIEWED V2** | Focused V2 semantic review completed; see High-Salvage Deep Review V2. |
 | `Guilds.md` | **STUB / EMPTY** | Minimal substantive content. |
 | `Framework_-_Guilds__Kingdoms__Council.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
-| `Guilds_-_Outline.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
+| `Guilds_-_Outline.md` | **DEEP REVIEWED V2** | Focused V2 semantic review completed; see High-Salvage Deep Review V2. |
 | `Guilds_-_Class.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
 | `Guilds_-_Economics.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
 | `Guilds_-_Council.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
@@ -269,10 +271,10 @@ The ledger does **not** imply that every useful sentence has already been promot
 
 | Source | V2 status | Notes |
 | --- | --- | --- |
-| `Current_Events_-_Outline.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
+| `Current_Events_-_Outline.md` | **DEEP REVIEWED V2** | Focused V2 semantic review completed; see High-Salvage Deep Review V2. |
 | `Current_Events_-_Combined.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
-| `Current_Events_-_Compendium_of_Current_Events.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
-| `Current_Events___Dominos_-_Outline.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
+| `Current_Events_-_Compendium_of_Current_Events.md` | **DEEP REVIEWED V2** | Focused V2 semantic review completed; see High-Salvage Deep Review V2. |
+| `Current_Events___Dominos_-_Outline.md` | **DEEP REVIEWED V2** | Focused V2 semantic review completed; see High-Salvage Deep Review V2. |
 | `Current_Events_-_How_They_Connect.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
 | `Current_Events_-_Conspiracies.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
 | `Current_Events_-_Guilds.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
@@ -291,7 +293,7 @@ The ledger does **not** imply that every useful sentence has already been promot
 | --- | --- | --- |
 | `The_Story.md` | **STUB / EMPTY** | Minimal substantive content. |
 | `Story_-_Elevator_Pitch.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
-| `Story_-_Outline.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
+| `Story_-_Outline.md` | **DEEP REVIEWED V2** | Focused V2 semantic review completed; see High-Salvage Deep Review V2. |
 | `Story_-_The_Acts.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
 | `Story_-_Perceived_Benefits___Negatives.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
 | `Characters.md` | **STUB / EMPTY** | Minimal substantive content. |
@@ -301,13 +303,13 @@ The ledger does **not** imply that every useful sentence has already been promot
 | `The_Villain.md` | **STUB / EMPTY** | Minimal substantive content. |
 | `Story_-_Villain_-_Profile.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
 | `Story_-_Villain_-_Role.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
-| `Story_-_Villains_Plan_-_Old_Notes.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
+| `Story_-_Villains_Plan_-_Old_Notes.md` | **DEEP REVIEWED V2** | Focused V2 semantic review completed; see High-Salvage Deep Review V2. |
 | `Story_-_Blacklist_Style_Villains.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
 | `Story_-_The_Council__The_Villain_and_The_Hero.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
 | `Story_-_Regions_-_WWF.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
 | `Story_-_Regions_-_WCW.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
 | `Story_-_Regions_-_ECW.md` | **SCREENED V2** | Source-level salvage screen completed; deeper retrieval remains question-driven. |
-| `Notes_-_Panel_Discusses_Pro___Cons_of_Story.md` | **DEEP REVIEWED V2** | High-salvage source; use current owner/reconciliation before returning to raw text. |
+| `Notes_-_Panel_Discusses_Pro___Cons_of_Story.md` | **DEEP REVIEWED V2** | Focused V2 semantic review completed; see High-Salvage Deep Review V2. |
 
 ---
 
