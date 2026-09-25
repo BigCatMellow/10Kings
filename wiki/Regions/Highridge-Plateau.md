@@ -101,6 +101,47 @@ Pass towns often have:
 
 Herders and small upland farmers use stone, earth, timber, woven material, and animal products according to local availability.
 
+## Community differentiation — pastoral and carrier networks
+
+Focused mobile-culture work now supports two important High Roads-linked community / network types.
+
+See:
+
+- [Mobile Circuits — Working Profiles V1](../Reference/Mobile-Circuits-Working-Profiles-V1.md);
+- [Community Hold Resolutions — V1](../Reference/Community-Hold-Resolutions-V1.md).
+
+### Transhumant pastoral networks
+
+One working route type uses:
+
+- sheltered HR-N lower-valley cold-season bases;
+- higher High Roads warm-season pasture;
+- split households where useful;
+- multiple access forms:
+  - customary pasture;
+  - lease;
+  - water agreement;
+  - crop-residue exchange;
+  - compact-recognized passage.
+
+Pastoralists are ordinary political constituents, not people outside the political order.
+
+### Freight / caravan-service households
+
+Durable carrier households specialize in:
+
+- pack / draft animals;
+- loading;
+- provisioning;
+- route timing;
+- camp logistics.
+
+A **caravan** is temporary.
+
+The carrier community is durable.
+
+This distinction matters to High Roads law, trade and culture.
+
 ## Food
 
 High Roads cuisine is unusually mixed because caravans bring ingredients.
