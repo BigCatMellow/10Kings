@@ -1,10 +1,14 @@
-# Highridge Plateau
+# The High Roads
 
 ## Status
 
 **Working canon.**
 
-Highridge is a highland crossroads, not simply "the merchant region." Its importance comes from geography: routes that avoid or cross parts of The Spine naturally converge here.
+The High Roads form a highland crossroads, not simply "the merchant region." Its importance comes from geography: routes that avoid or cross parts of Central Range naturally converge here.
+
+## Cultural reach
+
+The High Roads are a **cultural core and historical concentration**, not a bounded caravan people. Merchant, herding, route, interpreter and arbitration traditions can persist along distant roads and in foreign cities. The geographic High Roads region is especially mixed because repeated travel and settlement have brought many other cultural traditions into its towns.
 
 ## Geography
 
@@ -22,7 +26,7 @@ The environment favors people who understand movement, timing, weather, animals,
 
 ## Historical identity
 
-Pre-Convergence Highridge was highly fragmented.
+Pre-Convergence High Roads society was highly fragmented.
 
 Power belonged to:
 - pass lords;
@@ -36,7 +40,7 @@ Borders followed control of roads more often than neat territory.
 
 A ruler could control a pass but not the valley below it. A merchant league could effectively govern a route crossing several political jurisdictions.
 
-The historical shift from toll warfare toward negotiated passage is one of the foundations of modern Highridge identity.
+The historical shift from toll warfare toward negotiated passage is one of the foundations of modern High Roads identity.
 
 ## Cultural inspirations
 
@@ -50,7 +54,7 @@ Reference pools include:
 
 ## Language
 
-Highridge is probably the most multilingual settled region.
+High Roads is probably the most multilingual settled region.
 
 Common trade forms emphasize:
 - condition;
@@ -68,7 +72,7 @@ People accustomed to bargaining across languages become attentive to what a prom
 
 ### Cities
 
-Highridge cities are layered around:
+High Roads cities are layered around:
 - major markets;
 - caravan yards;
 - stables;
@@ -97,9 +101,50 @@ Pass towns often have:
 
 Herders and small upland farmers use stone, earth, timber, woven material, and animal products according to local availability.
 
+## Community differentiation — pastoral and carrier networks
+
+Focused mobile-culture work now supports two important High Roads-linked community / network types.
+
+See:
+
+- [Mobile Circuits — Working Profiles V1](../Reference/Mobile-Circuits-Working-Profiles-V1.md);
+- [Community Hold Resolutions — V1](../Reference/Community-Hold-Resolutions-V1.md).
+
+### Transhumant pastoral networks
+
+One working route type uses:
+
+- sheltered HR-N lower-valley cold-season bases;
+- higher High Roads warm-season pasture;
+- split households where useful;
+- multiple access forms:
+  - customary pasture;
+  - lease;
+  - water agreement;
+  - crop-residue exchange;
+  - compact-recognized passage.
+
+Pastoralists are ordinary political constituents, not people outside the political order.
+
+### Freight / caravan-service households
+
+Durable carrier households specialize in:
+
+- pack / draft animals;
+- loading;
+- provisioning;
+- route timing;
+- camp logistics.
+
+A **caravan** is temporary.
+
+The carrier community is durable.
+
+This distinction matters to High Roads law, trade and culture.
+
 ## Food
 
-Highridge cuisine is unusually mixed because caravans bring ingredients.
+High Roads cuisine is unusually mixed because caravans bring ingredients.
 
 Local staples may include:
 - barley or other hardy grains;
@@ -116,7 +161,7 @@ There should be strong differences between local household food and cosmopolitan
 
 ## Politics
 
-Highridge political power is distributed among:
+High Roads political power is distributed among:
 - route authorities;
 - old families;
 - merchant houses;
@@ -126,6 +171,36 @@ Highridge political power is distributed among:
 - herding communities.
 
 The region's reputation for reasoned debate is partly ideal and partly institutional necessity.
+
+## Functional governance
+
+[High Roads Functional Governance Test](../Reference/High-Roads-Functional-Governance-Test.md) gives the structural model.
+
+[High Roads Political Order Vertical Slice — V1](../Reference/High-Roads-Political-Order-Vertical-Slice-V1.md) now tests HR-N / HR-W / HR-C as concrete political actors and confirms that sophisticated external coordination can work without a superior High Roads state.
+
+The strongest working political model:
+
+- local polities / communities retain ordinary authority;
+- corridor-specific compacts coordinate shared roads, passes, maintenance, toll expectations, closures, and emergency obligations;
+- recognized arbitration forums connect several jurisdictions without becoming one supreme court;
+- professional / caravan networks provide interoperability;
+- temporary or recurring multi-route delegations can speak on issues that genuinely span several corridors.
+
+This is **networked political order**, not one centralized territorial state.
+
+Exact compact names, delegate rules, dominant cities, and Convergence representation remain open.
+
+## North Shoulder roadhead system
+
+The tested network strongly supports a High Roads-side roadhead at the southern end of the principal North Coast pass.
+
+See [North Shoulder Paired Roadheads — Middle-Worldbuilding Test](../Reference/North-Shoulder-Paired-Roadheads-Test.md).
+
+Its role is to turn pack traffic back into cart / caravan traffic while concentrating storage, animal exchange, brokers, route information, and cross-system contract work.
+
+The two roadheads are economically interdependent even if their larger polities are politically hostile.
+
+Exact settlement name, polity, and route authority remain open.
 
 ## Current pressures
 
@@ -139,6 +214,6 @@ The region's reputation for reasoned debate is partly ideal and partly instituti
 
 ## Story function
 
-Highridge turns logistics into politics.
+High Roads turns logistics into politics.
 
 Whoever controls movement does not need to own everything that moves.

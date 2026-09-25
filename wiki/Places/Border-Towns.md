@@ -1,75 +1,257 @@
-# Border Towns
+# Border Towns and Contact Zones
+
+## Status
+
+**Working canon at the mechanism level. Exact town names and locations remain provisional unless established elsewhere.**
+
+**Current political-location test:** [Political Adjacency and Border-Interface Test — V1](../Reference/Political-Adjacency-and-Border-Interface-Test-V1.md) now identifies which contact-zone interfaces are required by the working political geography without making the towns independent microstates.
 
 ## Principle
 
-Border towns are not diluted versions of two cultures. Over generations they become cultures of their own.
+Border towns are not diluted versions of two cultures.
+
+Over generations they can become cultures of their own.
 
 They are places where:
+
 - marriage crosses political lines;
-- children grow up bilingual;
+- children grow up bilingual or multilingual;
 - guild jurisdictions overlap;
-- architecture uses whatever works;
-- food follows multiple trade networks;
+- architecture uses whatever works locally;
+- food follows several supply networks;
 - law becomes negotiated;
+- religious practice gains local variants;
+- work customs cross older cultural lines;
 - loyalty may be local before regional.
 
-## Established working examples
+The useful model is:
 
-### Stonefield Forge — Ironcrest / Greenvale
+```text
+repeated contact
++ shared work / infrastructure
++ mixed households
++ local material conditions
++ generations
+→ local culture
+```
 
-Where mineral foothills grade into productive farmland.
+A contact zone should eventually contain practices that cannot be explained cleanly as "half A + half B."
 
-Its identity comes from:
+See [Culture Phase 7 — Cross-Regional Cultural Transmission](../Reference/Culture-Phase-7-Cross-Regional-Transmission.md).
+
+---
+
+# 1. Contact-zone types already supported by the world
+
+The following are **working structural examples**, not final named towns.
+
+## Stone Hills ↔ the Low Rivers — foothill craft / farming corridor
+
+Where mineral foothills grade into productive agricultural country.
+
+Likely pressures:
+
 - mixed farming and craft households;
 - metal repair for agricultural communities;
+- food moving uphill and tools moving downhill;
 - labor migration in both directions;
-- disputes over water, smoke, timber, and land;
-- blended speech emphasizing both accountability and long-term process.
+- disputes over water, smoke, timber and land;
+- blended workshop / agricultural schedules.
 
-### Harveston Vale — Greenvale / Sunplains
+This is a strong candidate for contact cuisine, mixed labor politics and durable bilingual communities.
 
-Where wetter mixed farmland transitions toward warmer orchard and irrigation country.
+## The Low Rivers ↔ the Old Cities — agricultural / irrigation transition
 
-Its identity comes from:
-- grain plus fruit;
+Where wetter mixed farming grades toward orchard, irrigated or drier agricultural systems.
+
+Likely pressures:
+
+- grain, fruit and vegetable exchange;
+- several harvest calendars;
 - mixed water law;
 - orchard and field labor;
-- foods and festivals built around several harvest calendars;
-- political sensitivity to upstream/downstream water decisions.
+- seasonal migration;
+- upstream / downstream political sensitivity.
 
-### Twilighthollow — Deepwood / Highridge
+The strongest local identity may form around water and market institutions rather than either macro-region.
 
-Where forest uplands meet exposed plateau routes.
+## Longwood ↔ the High Roads — forest / upland route junction
 
-Its identity comes from:
-- herbal/forest products meeting caravan trade;
-- mixed families of rangers, traders, herders, and guides;
-- philosophical and religious exchange;
-- disputes over timber, roads, and conservation;
-- hybrid speech combining environmental categories with contractual precision.
+Where woodland production meets caravan movement and exposed upland routes.
 
-### Frostbay Way — Northwind / Port influence zone
+Likely pressures:
 
-Best treated as a coastal corridor or secondary port rather than a literal kingdom border if Port is territorially separate.
+- forest products entering caravan trade;
+- guides, herders, traders and repair specialists sharing households and markets;
+- route vocabulary mixing with local environmental vocabulary;
+- disputes over timber, roads and resource rights;
+- religious and philosophical exchange.
 
-Its identity comes from:
-- Northwind seafaring;
-- Port credit and trade law;
+This is a strong site for technical loanwords and mixed route customs.
+
+## North Coast ↔ Port network — secondary harbor / coastal corridor
+
+Not necessarily a literal territorial border.
+
+Likely pressures:
+
+- North Coast seafaring;
+- Port credit and contract practice;
 - ship repair;
 - immigrant merchants;
-- seasonal labor.
+- seasonal labor;
+- secondhand goods;
+- sailors moving between households in both places.
 
-### Icestep Summit — Northwind / Highridge
+This corridor can transmit Port slang and fashion outward while bringing North Coast preservation, shipboard practice and maritime labor culture into Port.
 
-A cold pass town where maritime supply routes meet plateau caravans.
+## North Coast ↔ the High Roads — maritime / pass transfer point
 
-### Darkroot Gulch — Deepwood / Ironcrest
+A route where coastal goods and travelers transfer into upland caravan systems.
 
-A forested mineral frontier shaped by logging, charcoal, ore, repair, and conflict over extraction.
+Likely pressures:
 
-## Other provisional names
+- preserved food and maritime goods moving inland;
+- caravan goods moving toward coastal markets;
+- multilingual brokerage;
+- seasonal closure;
+- inns, warehouses and animal yards;
+- route-specific mixed communities.
 
-Earlier brainstorming also produced:
+## Longwood ↔ Stone Hills — extraction frontier
+
+Where timber, charcoal, ore, repair and settlement expansion meet.
+
+Likely pressures:
+
+- forest access and extraction rights;
+- mine / workshop demand for fuel and timber;
+- migrant labor;
+- road building;
+- environmental damage;
+- tool and repair exchange;
+- conflict between distant owners and local users.
+
+This zone should contain both cooperation and extraction conflict rather than defaulting to "industry versus nature."
+
+---
+
+# 2. Cultural synthesis
+
+Long-term contact can generate local:
+
+- dialect;
+- food;
+- marriage practice;
+- naming patterns;
+- work rhythms;
+- clothing;
+- games;
+- songs;
+- rituals;
+- legal habits;
+- neighborhood identities.
+
+These do not all blend at the same speed.
+
+A game may spread in weeks.
+
+A marriage custom may take generations.
+
+A building type may require a change in land ownership or construction labor before it spreads at all.
+
+See [Culture and Influence](../Culture/Culture-and-Influence.md).
+
+---
+
+# 3. Generational change
+
+Older residents may deliberately switch between language communities.
+
+Younger generations may:
+
+- speak stable local mixed dialects;
+- reject political labels used by grandparents;
+- combine religious practices;
+- marry across older divisions;
+- treat inherited regional feuds as irrelevant;
+- revive an older pre-Convergence identity;
+- defend local food or slang against both source cultures.
+
+A third-generation contact-zone resident should not automatically think of their culture as mixed.
+
+It may simply be **local**.
+
+---
+
+# 4. Institutions can lag behind culture
+
+Political and institutional boundaries may remain older than lived identity.
+
+A contact-zone town can have:
+
+- one kingdom's law;
+- another region's majority cultural tradition;
+- two guild systems;
+- several faiths;
+- a local dialect;
+- mixed property customs;
+- families with obligations on both sides.
+
+This creates disputes over:
+
+- schooling;
+- court language;
+- guild certification;
+- marriage recognition;
+- tax status;
+- military service;
+- land claims;
+- place names.
+
+The conflict does not require separatism.
+
+People may want institutions to recognize a mixed reality without wanting a new state.
+
+---
+
+# 5. Local exceptions can matter more than formal borders
+
+Legacy border-town material repeatedly used **small practical exceptions** to make contact zones work.
+
+Compatible mechanisms include:
+
+- reduced or waived duties on small household goods;
+- local recognition of marriages / apprenticeships formed across a border;
+- shared water schedules;
+- joint patrol or fire-response arrangements;
+- reciprocal guild recognition for a narrow trade;
+- locally agreed market days;
+- tolerated use of a neighboring court / notary for specific contracts;
+- special passage rules for seasonal labor or livestock.
+
+These are not continental treaty rights by default.
+
+They are exactly the kind of local compromise that can persist because everyone nearby finds it useful even when larger governments dislike the precedent.
+
+This creates good political tension:
+
+> a border may be legally clear while everyday life depends on exceptions that make the border porous.
+
+A later centralizing ruler can therefore provoke conflict simply by **enforcing the official rule more consistently**.
+
+---
+
+# 6. Naming cleanup
+
+Earlier brainstorming produced names including:
+
+- Stonefield Forge;
+- Harveston Vale;
+- Twilighthollow;
+- Frostbay Way;
+- Icestep Summit;
+- Darkroot Gulch;
 - Coalglen Meadows;
 - Helios Orchard;
 - Snowbreaker Quay;
@@ -78,24 +260,59 @@ Earlier brainstorming also produced:
 - Golden Dunes Shore;
 - Reedveil Bend.
 
-Treat these as a name bank until the map and naming systems are finalized.
+These are now **legacy / provisional name prompts**, not established current place names.
 
-## Generational change
+Several were built using the older theme-first naming style.
 
-Older residents may switch deliberately between regional languages.
+They should not survive merely because they already appear in notes.
 
-Younger generations may:
-- speak stable hybrid dialects;
-- reject political labels used by grandparents;
-- combine religious practices;
-- marry across older divisions;
-- treat regional feuds as absurd;
-- revive older pre-Convergence identities instead.
+Any future contact-zone name must pass [Naming](../Culture/Naming.md):
 
-This makes border towns natural political wild cards.
+- what physical or social feature caused the settlement?
+- who named it?
+- in which language?
+- was the current form translated or standardized?
+- does an older local name survive?
+- do neighboring groups use different forms?
+- did the Convergence stabilize one spelling?
+- does commercial shorthand differ from official usage?
 
-## Story function
+---
 
-Border towns show whether the world is actually changing.
+# 7. Cultural transmission role
 
-If kingdoms argue in old categories while border populations have already created new identities, the political map is lagging behind lived reality.
+Contact zones do not only receive culture.
+
+They can generate forms that move outward.
+
+A local form may travel through:
+
+- migrant labor;
+- marriage;
+- guild branches;
+- pilgrimage;
+- river traffic;
+- caravans;
+- sailors;
+- itinerant households;
+- refugees.
+
+That means a practice found in Stone Hills or Port may actually have originated generations earlier in a small mixed settlement.
+
+The origin may be forgotten.
+
+---
+
+# 8. Story function
+
+Border towns and contact zones show whether the world's political categories still match lived reality.
+
+They are especially useful when:
+
+- officials speak in clean regional categories;
+- ordinary households do not;
+- an old border dispute assumes identities that no longer exist locally;
+- a language or place-name dispute exposes layered history;
+- a cultural practice crosses the border faster than law does.
+
+The political map can therefore lag behind culture without the setting losing regional distinctiveness.

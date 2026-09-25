@@ -4,7 +4,7 @@ This is the working knowledge base for the setting currently called **Two Sons**
 
 ## Core idea
 
-Two Sons is a low-fantasy world built around **interdependence**. Regions differ because of climate, history, geography, language, institutions, and cultural memory, but they are not monocultures or resource caricatures. Ironcrest has more mining; that does not mean everyone is a miner. Deepwood contains major forests; that does not mean every person is a mystic ranger. Each region contains farms, towns, crafts, elites, poor laborers, religious communities, criminals, migrants, minorities, and internal disagreements.
+Two Sons is a low-fantasy world built around **interdependence**. Regions differ because of climate, history, geography, language, institutions, and cultural memory, but they are not monocultures or resource caricatures. Stone Hills has more mining; that does not mean everyone is a miner. Longwood contains major forests; that does not mean every person is a mystic ranger. Each region contains farms, towns, crafts, elites, poor laborers, religious communities, criminals, migrants, minorities, and internal disagreements.
 
 The story grows from the collision of three scales:
 
@@ -19,8 +19,14 @@ The setting should make it possible to follow one damaged bridge, missing carava
 - [World Overview](World-Overview.md)
 - [The World as a System](World-System.md)
 - [World Rules](World-Rules.md)
+- [Magic Baseline](Magic-Baseline.md)
 - [Geography and Connections](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
+- [Movement and Information](Movement-and-Information.md)
+- [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md)
+- [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md)
+- [Education and Knowledge Transmission](Education-and-Knowledge-Transmission.md)
+- [Medicine and Healing](Medicine-and-Healing.md)
 - [Pre-Convergence History](History/Pre-Convergence.md)
 - [Contested Historical Memory](History/Contested-Memory.md)
 - [The Convergence](History/The-Convergence.md)
@@ -30,12 +36,12 @@ The setting should make it possible to follow one damaged bridge, missing carava
 
 ## Regions
 
-- [Ironcrest](Regions/Ironcrest.md)
-- [Northwind](Regions/Northwind.md)
-- [Greenvale](Regions/Greenvale.md)
-- [Highridge Plateau](Regions/Highridge-Plateau.md)
-- [Deepwood](Regions/Deepwood.md)
-- [Sunplains](Regions/Sunplains.md)
+- [Stone Hills](Regions/Ironcrest.md)
+- [North Coast](Regions/Northwind.md)
+- [The Low Rivers](Regions/Greenvale.md)
+- [The High Roads](Regions/Highridge-Plateau.md)
+- [Longwood](Regions/Deepwood.md)
+- [The Old Cities](Regions/Sunplains.md)
 
 ## Major shared places
 
@@ -48,11 +54,16 @@ The setting should make it possible to follow one damaged bridge, missing carava
 
 - [Cultural Inspiration](Culture/Culture-and-Influence.md)
 - [Language and Thought](Culture/Language-and-Thought.md)
+- [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md)
 - [Naming](Culture/Naming.md)
+- [Daily Life and Customs](Culture/Daily-Life-and-Customs.md)
+- [Folk Belief, Taboo, and Superstition](Culture/Folk-Belief-Taboo-and-Superstition.md)
+- [Clothing and Material Culture](Culture/Clothing-and-Material-Culture.md)
 - [Architecture](Culture/Architecture.md)
 - [Food](Culture/Food.md)
 - [Food Diaspora and Adaptation](Culture/Food-Diaspora-and-Adaptation.md)
-- [Festivals and Seasonal Life](Culture/Festivals-and-Seasonal-Life.md)
+- [Arts, Music and Leisure](Culture/Arts-Music-and-Leisure.md)
+- [Festivals, Seasonal Life and Public Ritual](Culture/Festivals-and-Seasonal-Life.md)
 - [Regional Social Dynamics](Culture/Regional-Social-Dynamics.md)
 - [Nomads](Culture/Nomads.md)
 - [Weapons and Elite Troops](Culture/Weapons-and-Elite-Troops.md)
@@ -73,6 +84,8 @@ The setting should make it possible to follow one damaged bridge, missing carava
 
 ## Writing and provenance
 
+- [Middle Worldbuilding](Reference/Middle-Worldbuilding.md) — macro condition → functioning systems → ordinary life
+- [Writing the Sequel](Reference/Writing-the-Sequel.md) — later consequences, successors, reinterpretations and accumulated history
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md) — scene-level writing guidance, not canon
 - [World Synthesis — E/I Capture](Reference/World-Synthesis-EI.md) — emergent connections being tested, not canon
 - [Free City of Danzig](Reference/Free-City-of-Danzig.md) — historical research reference for the Port inspiration

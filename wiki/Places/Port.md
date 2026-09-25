@@ -4,116 +4,1226 @@
 
 **Working canon.**
 
+Port is a special neutral city-polity whose internal government is local but whose external freedom is constrained by the treaty system that protects its neutrality and access.
+
+Exact:
+
+- citizenship rules;
+- governing offices;
+- electoral / hereditary structure;
+- customs arrangements;
+- foreign-relations procedure;
+- harbor boards;
+- troop rules;
+- extradition;
+- treaty guarantors;
+
+remain open unless explicitly stated below.
+
 Port is not important because it is the only harbor in the world. It is important because geography, law, infrastructure, trust, finance, and history have accumulated around one exceptionally useful harbor until replacing it became more expensive than continuing to use it.
 
-## Why Port became central
+---
 
-Port likely began at a sheltered deep-water harbor, estuary, or strait where several trade systems naturally met.
+# 1. Two structural analogues
 
-Its early advantages may have included:
-- reliable anchorage in bad weather;
-- access to inland rivers or roads;
-- enough nearby fresh water and food;
-- a position convenient to both northern and southern sea routes;
-- a location difficult for any one kingdom to monopolize without alarming the others.
+Port's current design is best understood as a **hybrid of two different real-world / cultural references**:
 
-The key historical change was institutional.
+- **Free City of Danzig** helps explain Port's **external political and economic position**.
+- **ECW during the Monday Night Wars** helps explain Port's **internal cultural and competitive position**.
 
-Merchants began trusting Port because:
-- contracts were enforced;
-- foreign merchants could own or lease warehouses;
-- weights and measures were standardized;
-- currencies could be exchanged;
-- disputes could be arbitrated;
-- neutral storage existed;
-- ships could be repaired;
-- creditors and insurers had offices there;
-- foreign communities were protected.
+These are reference mechanisms, not one-to-one copies.
 
-Once those systems existed, trade attracted more trade.
+### Danzig side — external structure
 
-## Why other ports do not replace it
+The Danzig parallel contributes:
 
-Other harbors absolutely exist and may be better for specific trades.
+- strong local identity without uncomplicated sovereignty;
+- a strategically indispensable harbor;
+- larger powers requiring access while fearing rival control;
+- neutrality sustained by competing outside interests;
+- treaty guarantees and negotiated rights;
+- local government constrained by external arrangements;
+- dependence mixed with resentment;
+- a population whose city identity can matter more than attachment to neighboring states.
 
-Port remains dominant because it has **network effects**:
-- everyone already has agents there;
-- information arrives there quickly;
-- warehouses and credit are deep;
-- guilds maintain headquarters;
-- diplomatic envoys are present;
-- many routes are scheduled around it;
-- neutral legal institutions reduce transaction risk.
+See [Danzig to Port Parallel](../Reference/Danzig-to-Port-Parallel.md).
 
-A merchant may dislike Port's fees and still use it because the buyer, lender, shipper, translator, warehouse, and insurer needed for the transaction are all already there.
+### ECW side — internal culture
 
-## Neutrality
+The ECW parallel contributes:
 
-Port's neutrality is neither sentimental nor perfect.
+- outsider identity;
+- unusually intense local / participant loyalty;
+- cultural experimentation;
+- tolerance for people and institutions that do not fit larger powers;
+- opportunities for unknown people to become important;
+- larger rivals recruiting Port-developed talent;
+- larger powers adopting Port-originated styles after dismissing them;
+- influence disproportionate to territorial size;
+- a sense that Port is culturally its own thing rather than a lesser version of a neighboring kingdom.
 
-It survives because every major power fears what would happen if a rival controlled it.
+See [Competitive Kingdom Dynamics](../Reference/Competitive-Kingdom-Dynamics.md).
 
-Its governing charter should therefore involve:
-- local citizens;
-- merchant interests;
-- guild influence;
-- treaty guarantees;
-- foreign enclaves;
-- limits on kingdom troops inside the city;
-- a locally accountable watch or guard.
+### Combined effect
 
-## Culture
+```text
+Danzig
+politically constrained / strategically indispensable / externally contested
+                              +
+ECW
+culturally independent / experimental / influential beyond its size
+                              ↓
+                            PORT
+```
 
-Port is its own culture, not merely six regional quarters.
+Port is neither merely a neutral trade city nor merely an outsider cultural scene.
 
-Generations of migration have created:
-- mixed families;
-- native Port dialects;
-- neighborhood cuisines;
-- blended religious practices;
-- occupations found nowhere else at the same scale;
-- people who identify as Port-born first.
+It is a place the larger powers:
 
-## Crime
+- need;
+- cannot comfortably control;
+- periodically look down on;
+- continually borrow from.
 
-Port's scale and legal complexity make it ideal for:
-- smuggling;
-- fencing stolen goods;
-- forged documents;
-- protection rackets;
-- corruption;
-- intelligence brokerage;
-- contraband finance;
-- pirate laundering.
+---
 
-This does not mean the city is lawless. Its underworld exists because its legal economy is enormous.
+# 2. Source reconciliation
 
-## Governance and protection
+The strongest direct legacy Port note is:
 
-The city needs:
-- harbor patrols;
+- [two_sons_world_dynamics.md](../../legacy-notes/2026-09-22/direct-uploads/two_sons_world_dynamics.md)
+
+That source supports the following pattern strongly:
+
+- Port contains a mixed, displaced, locally rooted population;
+- Port identity can outrank inherited regional identity;
+- Port governs internal matters while its external status is constrained by treaty;
+- the city depends heavily on outside trade and imported necessities;
+- neutrality exists because outside control by one major power threatens everyone else;
+- merchant, worker, harbor-family, and displaced-population interests conflict internally;
+- smuggling grows from legal/economic structure rather than simple lawlessness.
+
+The same source also contains more specific proposals that are **not current canon**:
+
+- more than 80% identifying as Port-first;
+- automatic non-extradition for outside crimes;
+- surrounding powers taking most customs revenue;
+- a named **Festival Council** as the formal government;
+- exact faction names;
+- exact demilitarization history;
+- exact employment levels.
+
+Those remain legacy material unless separately promoted.
+
+---
+
+## Financial switching role
+
+Port's commercial centrality is also financial.
+
+See [Money, Credit, and Market Infrastructure](../Economy/Money-Credit-and-Market-Infrastructure.md).
+
+Because Port concentrates:
+
+- merchants;
+- warehouses;
+- shipping information;
+- courts / arbitration;
+- guild representatives;
+- guarantors;
+- record services;
+
+credit conditions in Port can transmit shocks far beyond the city.
+
+This is leverage, not monopoly.
+
+Other places lend, record debts, guarantee contracts, and finance trade.
+
+Port matters because many networks overlap there.
+
+---
+
+## Guild concentration and the Three Moons cycle
+
+Port's political / commercial centrality is increasingly reinforced by **guild presence**.
+
+More trans-regional guilds and professional networks now maintain some combination of:
+
+- branch offices;
+- representatives;
+- meeting space;
+- arbitration / clerical services;
+- hiring / contract functions
+
+in Port.
+
+This development is partly organic and partly encouraged by Port-centered reform efforts associated with the Villain's broader political project.
+
+The rationale is straightforward:
+
+> Port already connects regions commercially; making cross-guild communication easier gives skilled institutions the same neutral switching point.
+
+This strengthens Port by keeping more:
+
+- expertise;
+- employment;
+- contracts;
+- professional relationships;
+- administrative knowledge
+
+inside the city rather than allowing Port to function only as a transfer point.
+
+The [Three Moons Festival](../Culture/Three-Moons-Festival.md), occurring once every seven years, temporarily magnifies this effect.
+
+During the current story window, Port experiences an unusual overlap of:
+
+- guild delegates;
+- merchants;
+- travelers;
+- political agents;
+- craftspeople;
+- performers;
+- sailors;
+- job seekers;
+- ordinary visitors.
+
+That makes the city both:
+
+- unusually powerful as an information / coordination hub;
+- unusually strained in housing, infrastructure, policing, transport, and public services.
+
+This combination matters directly to the current story.
+
+---
+
+## Physical harbor geometry
+
+See [Port Estuary and Harbor Geometry — Middle-Worldbuilding Test](../Reference/Port-Estuary-Harbor-Geometry-Test.md).
+
+The current physical model now has strong working support:
+
+> **Port is centered on an estuary / channel complex where deepwater maritime traffic, G1 river traffic, mainland roads, local ferries / bridges, warehouses, and repair systems meet.**
+
+This does **not** determine the city's constitution or treaty machinery.
+
+The physical layout should include:
+
+- a locally governed urban core physically distinct enough from surrounding mainland approaches to preserve meaningful separate civic authority;
+- deepwater maritime berths;
+- river quays;
+- warehouse / transfer zones;
+- mainland roadheads;
+- more than one crossing / local-water connection;
+- local pilotage and channel knowledge.
+
+The key political consequence is limited:
+
+> **seizing one road, quay, bridge, or bank should not automatically equal control of Port.**
+
+Meaningful control would require command of several physical and institutional systems at once.
+
+Exact:
+- island / bank configuration;
+- municipal boundary;
+- bridge / ferry layout;
+- fresh-water infrastructure;
+- channel depths;
+- customs points
+
+remain open.
+
+---
+
+# 3. Why Port is neutral
+
+Port's neutrality is practical, not sentimental.
+
+The world already supports a simple mechanism:
+
+```text
+strategically valuable harbor
+→ several powers need access
+→ control by one rival threatens the others
+→ coalition resistance makes monopoly costly
+→ negotiated neutrality becomes cheaper than repeated conflict
+```
+
+This fits:
+
+- [The Convergence](../History/The-Convergence.md);
+- [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md);
+- the Danzig reference;
+- the preserved Port dynamics.
+
+Therefore:
+
+> **Port is neutral because enough powerful outsiders prefer an imperfect shared-access arrangement to any rival possessing the harbor outright.**
+
+Neutrality is a balance, not a guarantee that nobody interferes.
+
+---
+
+# 4. Port is self-governing internally
+
+**Supported structurally.**
+
+Port requires its own local institutions because outside guarantors cannot practically administer ordinary city life.
+
+Local government must be capable of handling at least:
+
+- harbor operations;
+- local courts;
+- markets;
+- warehouse regulation;
 - fire response;
-- warehouse inspection;
-- market regulation;
-- neutral courts;
-- multilingual clerks;
-- quarantine rules;
+- quarantine;
+- local policing / watch;
+- street and dock infrastructure;
+- public health emergencies;
+- local fees or revenue collection;
+- disputes among residents.
+
+This does **not** settle:
+
+- who votes;
+- whether offices are elected;
+- whether merchant families dominate;
+- whether guilds receive formal seats;
+- whether neighborhoods elect representatives;
+- whether one executive office exists.
+
+Those remain open.
+
+---
+
+# 5. Port is not fully sovereign externally
+
+**Supported structurally.**
+
+Port's external freedom is limited by the arrangements that preserve neutrality.
+
+That can constrain:
+
+- alliances;
+- military agreements;
+- foreign troop access;
+- harbor privileges;
+- treaty commitments;
+- customs or trade arrangements;
+- diplomatic recognition.
+
+The exact mechanism is not yet established.
+
+Do not assume:
+
+- another kingdom conducts all Port foreign relations;
+- one League-like institution supervises Port;
+- one foreign power protects it;
+- every outside government has equal rights.
+
+Those are Danzig-specific or unresolved possibilities.
+
+Safe conclusion:
+
+> **Port can govern much of itself while being unable to change the conditions of its neutrality unilaterally.**
+
+---
+
+# 6. Neutrality creates outside rights inside Port
+
+The Convergence and Port's existing commercial role imply that neutrality is useful only if outsiders can actually rely on access.
+
+Therefore some form of recognized foreign right is structurally necessary.
+
+Likely categories include:
+
+- docking;
+- commercial access;
+- warehouse use or leasing;
+- contract enforcement;
+- arbitration;
+- transit through harbor infrastructure;
+- protection against arbitrary seizure.
+
+The exact treaty wording and which powers possess which rights remain open.
+
+Foreign access does not mean foreign sovereignty over neighborhoods or residents.
+
+---
+
+# 7. Port also needs local rights against outsiders
+
+Neutrality would be meaningless if outside powers could use access rights to govern the city directly.
+
+Therefore the system must preserve some protected local authority.
+
+At minimum, the political logic requires a distinction between:
+
+```text
+RIGHT TO USE PORT
+≠
+RIGHT TO RULE PORT
+```
+
+Exact local protections remain open, but likely questions include:
+
+- who can station armed personnel;
+- who can arrest someone;
+- who can inspect warehouses;
+- who can levy fees;
+- who can own land;
+- who can enforce foreign judgments.
+
+These should be solved individually rather than by inventing a blanket sovereignty doctrine.
+
+---
+
+# 8. Armed presence is a neutrality problem
+
+Current Port canon already assumes outside militaries may protect outer sea lanes while being restricted inside the city.
+
+That logic should remain.
+
+Any foreign military presence raises the question:
+
+> At what point does protection become occupation?
+
+Therefore the neutrality framework must place some meaningful limit on unilateral armed control.
+
+Possible forms include:
+
+- limits on troop numbers;
+- no permanent garrison;
+- harbor-only guards;
+- shared escort rules;
+- weapons restrictions;
+- temporary emergency permissions.
+
+**Exact rule remains open.**
+
+Do not promote one option merely because Danzig had a historical arrangement.
+
+---
+
+# 9. Port's own coercive capacity should be local and defensive
+
+Port needs enough local force to enforce:
+
+- harbor law;
+- market rules;
+- court orders;
+- quarantine;
+- fire safety;
+- public order.
+
+Current owner language supports:
+
+- harbor patrols;
 - night watches;
-- dock labor systems.
+- a locally accountable guard/watch.
 
-Foreign militaries may protect outer sea lanes while being restricted inside Port itself.
+This does not establish a large army.
 
-## Current events
+The legacy source repeatedly emphasizes Port's lack of independent military power.
 
-- competing smuggling networks are expanding;
-- merchant families are sabotaging one another's routes;
-- refugees and displaced workers are increasing pressure on poorer districts;
-- suspicious ship losses feed accusations among kingdoms;
-- Council-linked finance attempts to prevent a credit panic;
-- the Villain can exploit Port because a rumor or shipping delay here propagates everywhere.
+Safe current model:
 
-## Story function
+> **Port has meaningful local security capacity but is not a major territorial military power.**
 
-Port is a miniature of the whole world.
+Exact force size and organization remain open.
 
-Every regional conflict can appear here in compressed form, but Port-born people experience those conflicts differently because their survival depends on keeping incompatible groups inside one functioning city.
+---
+
+# 10. Harbor administration is not settled
+
+The harbor is too important to leave politically vague, but the world does **not** yet establish who formally governs every part of it.
+
+Possible stakeholders already supported include:
+
+- local government;
+- harbor professionals;
+- merchant houses;
+- guilds;
+- foreign treaty users;
+- warehouse interests;
+- lenders.
+
+The Danzig reference demonstrates that joint administration is historically possible.
+
+It does **not** mean Port must copy a joint port board.
+
+Current status:
+
+> **Harbor administration must balance local control with credible foreign access, but its exact institution remains open.**
+
+---
+
+# 11. Customs and revenue remain open
+
+Legacy Port material contains two inconsistent tendencies:
+
+- Port collects tariffs and depends on them;
+- much customs revenue may be diverted to outside protectors / surrounding powers.
+
+The current world has not resolved this.
+
+Do not canonize either exact model yet.
+
+What is structurally supported:
+
+- Port needs revenue from its economic role;
+- outsiders care intensely about fees and customs because Port affects trade;
+- customs arrangements are therefore politically sensitive;
+- Port's dependence can create resentment if residents believe outsiders capture too much of the harbor's wealth.
+
+Exact:
+
+- tariff authority;
+- revenue shares;
+- customs frontier;
+- exemptions;
+
+remain open.
+
+---
+
+# 12. Foreign relations remain constrained but unresolved
+
+The direct legacy note says Port's external affairs are controlled by treaty.
+
+That pattern fits the current world.
+
+But **who actually speaks for Port externally** is still open.
+
+Possible functions may be split:
+
+- Port officials handle ordinary commercial diplomacy;
+- treaty guarantors restrict military alliances;
+- foreign envoys negotiate access;
+- Convergence forums handle neutrality disputes.
+
+Do not assume one office controls everything.
+
+---
+
+# 13. Citizenship remains open
+
+Port clearly has a durable local population and Port-born identity.
+
+That is enough to support the existence of a meaningful category of **Port resident / citizen / local member** in some form.
+
+Exact legal citizenship remains open.
+
+Questions include:
+
+- birth;
+- residence;
+- guild membership;
+- property;
+- sponsorship;
+- marriage;
+- refugee naturalization;
+- children of foreign merchants;
+- dual political status.
+
+The legacy source's large displaced/stateless population makes citizenship especially important.
+
+Do not invent a modern naturalization code prematurely.
+
+---
+
+# 14. Foreign enclaves do not equal foreign territory by default
+
+Port contains foreign communities and merchant enclaves.
+
+That may include:
+
+- warehouses;
+- religious institutions;
+- guild houses;
+- inns;
+- merchant compounds;
+- diplomatic residences.
+
+Current canon does **not** establish extraterritorial sovereignty.
+
+A foreign quarter can be culturally distinct and treaty-protected while remaining subject to Port law.
+
+Any exception must be developed explicitly.
+
+---
+
+# 15. Port's courts work because outsiders trust them enough
+
+See [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md).
+
+Port's courts and arbitration do not rule the world.
+
+They matter because:
+
+- contracts are repeatedly made there;
+- parties choose Port forums;
+- records and multilingual clerks exist;
+- merchants need predictable outcomes;
+- lenders and guilds can enforce reputational and financial consequences;
+- outside powers benefit from maintaining neutral commercial trust.
+
+This makes Port a **legal switching point**.
+
+---
+
+# 16. Port's neutrality and commercial law reinforce one another
+
+```text
+neutrality
+→ outsiders trust access
+→ trade concentrates
+→ legal institutions deepen
+→ contracts become easier
+→ more actors depend on Port
+→ neutrality becomes more valuable
+```
+
+This is a feedback loop.
+
+It also creates vulnerability:
+
+```text
+loss of legal trust
+→ merchants reroute
+→ credit tightens
+→ revenue falls
+→ unemployment rises
+→ political instability grows
+→ neutrality becomes harder to maintain
+```
+
+---
+
+# 17. Internal politics should grow from Port's actual economy
+
+Do not promote the old faction names automatically.
+
+But the source supports recurring constituencies.
+
+## Harbor / established local families
+
+Likely interests:
+
+- predictable trade;
+- continuity;
+- control of valuable local infrastructure;
+- resistance to outside takeover.
+
+## Merchants and factors
+
+Likely interests:
+
+- low transaction friction;
+- credit;
+- foreign access;
+- predictable law;
+- favorable fees.
+
+## Workers
+
+Likely interests:
+
+- wages;
+- employment;
+- food prices;
+- housing;
+- safety;
+- bargaining power.
+
+## Guilds
+
+Likely interests:
+
+- professional privilege;
+- standards;
+- contracts;
+- member welfare;
+- political access.
+
+## Displaced / migrant populations
+
+Likely interests:
+
+- work;
+- residence security;
+- access to law;
+- housing;
+- citizenship or recognition;
+- freedom from foreign pursuit where applicable.
+
+## Foreign communities
+
+Likely interests:
+
+- treaty protection;
+- worship / association;
+- warehouses;
+- contracts;
+- communication with home polities.
+
+These are **constituencies**, not necessarily formal parties.
+
+---
+
+# 17A. Recurring political positions inside Port
+
+The legacy current-events material adds a useful correction:
+
+> **Port's grievance does not produce one Port political position.**
+
+These are recurring positions / coalitions, not established formal parties.
+
+## Stronger-Port / autonomy reformers
+
+Argument:
+
+> Port bears continental costs without possessing enough power / revenue / freedom to protect its own residents.
+
+May support:
+
+- greater retained revenue;
+- stronger emergency authority;
+- more local defensive capacity;
+- guild / professional centralization;
+- direct supply relationships;
+- fewer outside veto points.
+
+The Villain draws much of his legitimacy from this field.
+
+Not everyone in it supports his methods.
+
+## Neutrality institutionalists
+
+Argument:
+
+> Port survives because nobody can credibly claim it.
+
+They may agree Port needs reform while fearing that aggressive autonomy politics will:
+
+- alarm guarantors;
+- provoke trade retaliation;
+- make neutrality look like sovereignty expansion;
+- invite foreign military pressure.
+
+Some established merchants, legal professionals, and harbor families may prefer slow reform because the existing arrangement genuinely benefits them.
+
+## Labor / neighborhood reformers
+
+Their priority may be much more immediate:
+
+- wages;
+- housing;
+- food;
+- dock safety;
+- fees;
+- public services;
+- corruption.
+
+They can support Port autonomy when it improves those conditions and oppose it when elite reformers use "Port power" to justify:
+
+- higher costs;
+- guild privilege;
+- policing;
+- sacrificed working conditions.
+
+A dockworker can therefore hate outside exploitation **and** distrust the Villain's political project.
+
+## Guild / professional centralizers
+
+See [Guilds](../Politics/Guilds.md).
+
+They argue that Port becomes stronger when continental professional work actually stays in Port:
+
+- offices;
+- contracts;
+- arbitration;
+- standards;
+- records;
+- training;
+- credit.
+
+Their interests overlap with the Villain's agenda but need not depend on personal loyalty to him.
+
+## Localist / anti-centralization reformers
+
+They can agree that Port deserves more control while objecting that:
+
+> replacing foreign dependence with rule by large guild houses is not liberation.
+
+Possible concerns:
+
+- neighborhood voices disappear;
+- small trades lose influence;
+- regional branches dominate local members;
+- permanent guild offices inflate property costs;
+- "continental coordination" becomes another elite layer over ordinary Port residents.
+
+## Commercial continuity faction
+
+Some actors primarily want:
+
+> keep the ships moving.
+
+They may support whichever policy appears least disruptive at a given moment.
+
+That can make them politically decisive and morally frustrating.
+
+They can:
+
+- support stronger local authority during one crisis;
+- support outside guarantees during another;
+- oppose a strike;
+- oppose a crackdown that scares merchants away.
+
+Their ideology is continuity.
+
+## Why this matters to the Villain
+
+He cannot honestly claim:
+
+> Port wants what I want.
+
+At most:
+
+> a substantial Port constituency recognizes the grievance he describes.
+
+His political challenge is therefore internal as well as external.
+
+As his methods become more destructive, he risks losing:
+
+- neutrality reformers;
+- workers;
+- guild allies;
+- local families
+
+who agreed with his diagnosis but not his escalation.
+
+That loss should matter.
+
+---
+
+# 18. Port politics is constrained by dependence
+
+Port cannot treat foreign powers as optional.
+
+It depends on:
+
+- food;
+- fuel;
+- timber;
+- medicines;
+- shipping;
+- credit;
+- foreign merchants.
+
+Outside powers cannot treat Port as disposable either.
+
+They depend on:
+
+- harbor access;
+- neutral exchange;
+- repair;
+- storage;
+- arbitration;
+- finance;
+- information.
+
+Therefore Port politics is shaped by **mutual resentment inside mutual need**.
+
+---
+
+# 18A. The neutrality trap — protection without clear responsibility
+
+Port's neutrality is both its great strategic protection and one of its deepest political weaknesses.
+
+Because no major power is supposed to dominate Port, no major power can simply behave as though Port is its responsibility.
+
+During an ordinary emergency, that can create delay.
+
+A request for outside help can immediately raise questions such as:
+
+- does this aid give one power too much influence?
+- who pays?
+- who commands?
+- does a temporary military presence create precedent?
+- does emergency financing create political leverage?
+- can Port accept one offer without violating another party's rights?
+- must guarantors or treaty partners be consulted first?
+- will a rival interpret assistance as creeping control?
+
+The result can be:
+
+> **everyone agrees Port is too important to fail while everyone hesitates to be the actor who moves first.**
+
+This does not mean outsiders never help.
+
+It means Port can experience **responsibility diffusion** precisely because its neutrality depends on preventing any one outside power from becoming its protector.
+
+A crisis that a normal territorial state could answer through one treasury, army, ministry, or alliance may require Port to negotiate among several actors whose interests overlap but are not identical.
+
+This is a core strength / weakness duality:
+
+~~~text
+no one power may easily seize Port
+→ Port remains broadly accessible
+→ everyone benefits from neutrality
+→ outside responsibility remains fragmented
+→ emergency action can become slow / conditional / politically suspicious
+~~~
+
+---
+
+# 18B. Throughput wealth is not the same as local wealth
+
+Port can handle enormous economic value without the city government or ordinary Port residents retaining a comparable share of it.
+
+A large transaction may involve money flowing to:
+
+- foreign cargo owners;
+- outside producers;
+- shipowners;
+- lenders;
+- insurers or risk underwriters;
+- merchant houses;
+- distant investors;
+- foreign tax authorities or political patrons;
+- Council-linked networks.
+
+Port itself still bears local costs such as:
+
+- docks;
+- dredging / channel knowledge where applicable;
+- warehouse and street infrastructure;
+- fire response;
+- quarantine;
+- policing / watch;
+- housing pressure;
+- displaced workers / refugees;
+- public health;
+- repair capacity;
+- congestion;
+- maintaining the legal trust that makes neutral trade possible.
+
+Therefore:
+
+> **wealth passing through Port does not automatically become wealth available to Port.**
+
+The exact customs / revenue-sharing system remains open.
+
+Do **not** assume the old legacy claim that outside powers simply take a fixed majority of customs.
+
+The structural problem is broader:
+
+> **Port can look rich from the outside while local institutions remain short of the retained revenue, authority, or investment needed to carry the costs created by being indispensable.**
+
+This can produce a specifically Port political resentment:
+
+> ships leave richer than they arrived; contracts are settled; lenders are paid; foreign treasuries and houses benefit — while Port is still arguing over who will pay to repair the quay, house displaced workers, strengthen the watch, or answer the next emergency.
+
+That grievance is now important to the story and to [The Villain](../Story/Villain.md).
+
+---
+
+# 19. The city can be locally democratic, oligarchic, mixed, or something else — still open
+
+The current world does not yet settle whether Port government is:
+
+- broad civic government;
+- merchant-dominated council;
+- guild-weighted system;
+- neighborhood representation;
+- mixed constitution;
+- hereditary civic elite;
+- something else.
+
+The legacy "Festival Council" is only a proposal.
+
+Do not promote a constitutional form until we can answer:
+
+1. who pays for city government;
+2. who staffs it;
+3. who controls harbor infrastructure;
+4. who can compel the watch;
+5. who benefits from neutral trade;
+6. who has enough leverage to demand representation;
+7. how displaced residents enter political life.
+
+The constitution should emerge from those pressures.
+
+---
+
+# 20. The Port seizure remains legacy history, not yet current fact
+
+The direct source contains a strong story:
+
+- North Coast / Northwind controlled Port for roughly two decades;
+- other powers threatened coalition action;
+- North Coast withdrew;
+- Port's neutrality became a response to the danger of monopoly.
+
+This mechanism fits current Port logic very well.
+
+However, it is not yet promoted in the current history owners.
+
+Therefore:
+
+> **The old Port seizure is a high-value historical candidate, not current canon.**
+
+If later promoted, it could explain:
+
+- why neutrality is emotionally sacred;
+- why Port fears outside garrisons;
+- why North Coast claims moral investment in the harbor;
+- why coalition guarantees exist.
+
+Until then, use the structural logic without asserting the event happened exactly as written.
+
+---
+
+# 21. Extradition remains open
+
+Legacy Port notes say neutrality prevents extradition for outside crimes.
+
+Current law/jurisdiction work deliberately leaves extradition unresolved.
+
+Therefore the legacy claim is **not current canon**.
+
+This question is important because it affects:
+
+- refugees;
+- political exiles;
+- ordinary criminals;
+- foreign agents;
+- smuggling;
+- Port's reputation.
+
+It should be settled as part of the legal/treaty model, not inherited automatically from an analogy.
+
+---
+
+# 22. Neutrality does not mean moral neutrality
+
+Port institutions can still:
+
+- favor local economic interests;
+- discriminate;
+- be corrupt;
+- enforce harsh labor rules;
+- protect wealthy merchants;
+- resist refugees;
+- tolerate smuggling selectively.
+
+Neutral status is a geopolitical arrangement.
+
+It does not make Port politically virtuous.
+
+---
+
+## Old harbor-worker neighborhoods as a community type
+
+Focused community research now supports old Port harbor-worker neighborhoods as a durable community type.
+
+See:
+
+- [Community Analogue Research — Wave 1](../Reference/Community-Analogue-Research-Wave-1.md);
+- [Community Profiles — P1 Wave 1](../Reference/Community-Profiles-P1-Wave-1.md).
+
+"Harbor worker" should not be treated as one occupation.
+
+A neighborhood may contain:
+
+- quay loading;
+- warehouse handling;
+- tally / weighing work;
+- small-craft transport;
+- rigging / hoist work;
+- repair;
+- casual carrying;
+- provisioning.
+
+This occupational diversity creates different relationships to:
+
+- guild credentials;
+- stable / casual hiring;
+- merchant houses;
+- municipal infrastructure;
+- mutual aid.
+
+Old Port neighborhoods can therefore support stronger Port agency while still opposing reforms that:
+
+- concentrate guild authority;
+- raise rent;
+- exclude informal / casual workers.
+
+Their culture is also one important carrier of Port's non-elite historical memory.
+
+---
+
+# 23. Neutrality does not mean cultural blandness
+
+The city is politically constrained externally while culturally intense internally.
+
+Generations of:
+
+- migrants;
+- sailors;
+- refugees;
+- traders;
+- mixed families;
+- workers;
+- foreign communities;
+
+create a distinctive Port identity.
+
+The stronger the outside world treats Port as merely useful infrastructure, the more plausible strong local civic identity becomes.
+
+---
+
+# 24. Port and the competitive spheres
+
+The two WWF/WCW-derived competitive spheres are networks, not states.
+
+Port sits outside the binary while functioning as:
+
+- shared arena;
+- recruitment ground;
+- neutral market;
+- cultural incubator;
+- diplomatic contact zone;
+- intelligence hub.
+
+Inside Port, different institutions can lean toward different spheres.
+
+Neutrality therefore means the **city-polity** does not become one sphere's possession.
+
+It does not require every resident or merchant to be politically neutral.
+
+---
+
+# 25. Port and the Council
+
+The Council benefits from Port because Port concentrates:
+
+- credit;
+- information;
+- shipping;
+- contracts;
+- warehouses;
+- foreign agents.
+
+But Port is not the Council's city.
+
+See [Economic Council](../Politics/Economic-Council.md).
+
+Council-linked houses must compete with:
+
+- local institutions;
+- other merchants;
+- guilds;
+- foreign interests;
+- criminal networks;
+- workers;
+- Port-born elites.
+
+Complete Council control would undermine the independent neutrality that makes Port useful.
+
+---
+
+# 26. Neutrality crisis test
+
+When testing a Port political crisis, ask:
+
+1. Which local Port institution has authority?
+2. Which outside power claims a treaty right?
+3. Which other powers fear that claim becoming control?
+4. What commercial activity is disrupted?
+5. Who inside Port benefits?
+6. Who inside Port pays?
+7. What does the Convergence actually require?
+8. Can Port enforce the result locally?
+9. What happens if an outside power refuses?
+10. Does the crisis strengthen neutrality or reveal its limits?
+
+If the answer is simply "the Council decides," the Port model has failed.
+
+---
+
+# 27. What is established versus open
+
+## Established structurally
+
+- Port is a neutral special jurisdiction;
+- it has durable local identity;
+- it governs ordinary internal city functions;
+- its external freedom is constrained by treaty / neutrality arrangements;
+- outside powers need reliable access;
+- no major rival should easily monopolize it;
+- Port has local courts / arbitration and commercial law;
+- it has local watch / harbor security capacity;
+- foreign militaries do not simply govern the city;
+- local and foreign interests coexist inside the harbor;
+- Port's economy depends heavily on outside trade.
+
+## Derived constraints
+
+- neutrality requires some meaningful rule against unilateral foreign military control;
+- foreign access requires some protected commercial rights;
+- local self-government requires enough revenue and coercive capacity to administer city life;
+- customs / harbor governance must balance Port revenue with outside access;
+- complete Council control would undermine Port's useful neutrality.
+
+## Open
+
+- constitution;
+- citizenship;
+- suffrage / representation;
+- executive offices;
+- exact treaty guarantors;
+- exact foreign-relations limits;
+- customs revenue;
+- joint harbor authority;
+- troop restrictions;
+- extradition;
+- foreign enclave privileges;
+- tax structure;
+- whether the historical Port seizure is promoted;
+- whether any formal neutral mediator oversees treaty disputes.
+
+---
+
+# 28. Design rule
+
+When resolving a Port political question:
+
+```text
+Port's local need
++ outside access need
++ neutrality constraint
++ existing institution
+→ smallest workable arrangement
+```
+
+Do not copy Danzig's exact constitutional machinery.
+
+Do not invent a new Port institution merely because the historical analogy had one.
+
+Use Danzig to identify the **pressure**.
+
+Build the Port solution from this world's:
+
+- Convergence;
+- geography;
+- merchants;
+- guilds;
+- local population;
+- competitive spheres;
+- Council;
+- legal system.
+
+Port should feel politically strange because of its own history, not because it has been reskinned from a real city.

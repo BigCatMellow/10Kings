@@ -4,6 +4,8 @@
 
 The pre-Convergence world was **messy**.
 
+**Current border-history test:** [Political Border History Test — V1](../Reference/Political-Border-History-Test-V1.md) now tests how the working political interfaces can descend from that messy predecessor world without inventing clean region-versus-region wars.
+
 Modern regions should not be projected backward as eternal states with fixed borders. The modern labels describe cultural-geographic zones that emerged from many earlier peoples, towns, kingdoms, confederacies, warbands, guild networks, and migrations.
 
 ## General pattern
@@ -20,7 +22,7 @@ Before The Convergence:
 - raids did not always imply conquest;
 - local elites survived regime changes by changing patrons.
 
-## Ironcrest predecessor politics
+## Western Uplands predecessor politics
 
 Ore districts produced:
 - mine-holding clans;
@@ -33,7 +35,7 @@ Wars over ore rarely produced permanent frontiers.
 
 One ruler might seize a mine while losing the road that made it profitable.
 
-## Northwind predecessor politics
+## North Country predecessor politics
 
 Power was divided among:
 - coastal clans;
@@ -46,7 +48,7 @@ Maritime rights overlapped political territory.
 
 A defeated clan could lose a town yet continue fishing from allied harbors.
 
-## Greenvale predecessor politics
+## River Country predecessor politics
 
 The lowlands contained:
 - estate rulers;
@@ -57,9 +59,9 @@ The lowlands contained:
 
 Crop failures repeatedly destabilized politics.
 
-Greenvale groups sometimes raided neighboring territory for food or attempted expansion into healthier land.
+River Country groups sometimes raided neighboring territory for food or attempted expansion into healthier land.
 
-## Highridge predecessor politics
+## High Country predecessor politics
 
 The plateau was divided among:
 - toll lords;
@@ -70,9 +72,9 @@ The plateau was divided among:
 
 Power followed route control rather than continuous land.
 
-## Deepwood predecessor politics
+## Forest Country predecessor politics
 
-Deepwood was a patchwork of:
+Forest Country was a patchwork of:
 - village alliances;
 - forest clans;
 - river settlements;
@@ -82,7 +84,7 @@ Deepwood was a patchwork of:
 
 Forest edges expanded and contracted as outsiders cleared land and local groups later reclaimed it.
 
-## Sunplains predecessor politics
+## South Country predecessor politics
 
 The warmer south/east contained:
 - city-states;
@@ -102,10 +104,10 @@ Earlier brainstorming named several conflicts. These are useful as **provisional
 - Coldwave Incursions;
 - Ridge Pass Toll Wars;
 - Orchard-Lord Feuds;
-- Deepwood Edge Skirmishes;
+- Forest Country Edge Skirmishes;
 - Iron-Field Conquest;
 - Great Coastal Skirmish;
-- Highridge Consolidation War.
+- High Country Consolidation War.
 
 The final history should revise these into overlapping campaigns with multiple participants, reversals, and local consequences rather than clean one-on-one wars.
 
@@ -121,6 +123,49 @@ Modern landscapes should preserve pre-Convergence history:
 - towns with two legal traditions;
 - noble claims based on ancient marriages;
 - old canals still controlled under obsolete treaties.
+
+## Seasonal route memory
+
+Legacy history contains a useful reminder that political geography was partly **seasonal**.
+
+A pass, ford, coast road, or minor route could be:
+
+- safe in one season;
+- dangerous or impassable in another;
+- controlled by different actors at different times;
+- remembered as "open" by one generation and "lost" by another.
+
+That means old military / trade claims should not always map cleanly onto land.
+
+A polity might have claimed a route it could reliably use only part of the year.
+
+Modern sayings such as:
+
+> "that was a winter road"
+
+or:
+
+> "their border ended when the thaw came"
+
+can preserve this older reality without requiring exact old maps.
+
+## Frontier archaeology
+
+Legacy material also suggested physical signs of repeated failed expansion.
+
+Compatible residues include:
+
+- charred forest edges;
+- abandoned clearings;
+- half-finished terraces;
+- unfinished walls;
+- mines opened and then lost;
+- roadbeds that stop abruptly;
+- fortified farmsteads later absorbed into ordinary villages.
+
+These traces are useful because they show that present borders were produced by **failed projects as well as successful conquest**.
+
+---
 
 ## Why The Convergence became possible
 

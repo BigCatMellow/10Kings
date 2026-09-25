@@ -124,6 +124,37 @@ The real Free City of Danzig provides useful structural precedents for several o
 
 These are **design parallels**, not declarations that Two Sons must reproduce the historical arrangement.
 
+## Combined design role with the ECW analogue
+
+Port's design now uses **Danzig and ECW for different layers of the same city**.
+
+The Danzig material primarily informs:
+
+- sovereignty;
+- neutrality;
+- outside guarantees;
+- treaty access;
+- customs and harbor politics;
+- economic dependence;
+- local identity under external pressure.
+
+The [ECW / competitive-kingdom analogue](Competitive-Kingdom-Dynamics.md) primarily informs:
+
+- Port's outsider cultural identity;
+- experimentation;
+- intense local loyalty;
+- talent development;
+- cultural borrowing by larger rivals;
+- the gap between Port's formal size and its wider influence.
+
+The two references should not be collapsed into one analogy.
+
+A useful shorthand is:
+
+**Danzig explains why Port is geopolitically strange. ECW explains why Port is culturally strange.**
+
+Together they create a city that larger states cannot ignore politically and cannot stop learning from culturally.
+
 ## Questions this reference raises for Port
 
 These are intentionally questions rather than new canon:

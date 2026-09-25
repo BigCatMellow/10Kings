@@ -8,40 +8,82 @@ These are the questions that most strongly affect multiple other pages. They sho
 
 ### 1. Physical network
 
-The broad topology is now captured in [Geography and Connections](Geography-and-Connections.md). The remaining questions are map-detail questions rather than a blank-slate geography problem:
+The broad topology is now captured in [Geography and Connections](Geography-and-Connections.md), and the physical network is now structurally constrained by the [Scale and Travel-Time Test](Reference/Working-Map-Scale-and-Travel-Test.md), [Network Endpoints and Capacity Test](Reference/Working-Map-Network-Endpoints-and-Capacity.md), [G1 transfer-market test](Reference/G1-Head-of-Navigation-Market-Test.md), and [North Shoulder roadhead test](Reference/North-Shoulder-Paired-Roadheads-Test.md). The remaining questions are map-detail questions rather than a blank-slate geography problem:
 
 - Exact outlines and proportions of the three continents.
-- Exact physical form of the Northwind ↔ Spine / Highridge connection.
-- Exact location and territorial form of Port: mainland coast, peninsula, island, estuary, or strait-side district.
+- Exact physical form of the North Coast ↔ The Spine / High Roads connection.
+- Exact island / channel layout and municipal boundary of Port's now-supported estuary / channel complex.
 - Named major navigable rivers and watershed boundaries.
 - Exact major surface passes, old roads, maritime lanes, and Underpass entrances.
 - Which regional borders are broad frontiers versus narrow corridors.
-- Whether Highridge directly borders Sunplains.
-- Approximate travel times and seasonal reliability between major hubs.
+- Whether High Roads directly borders Old Cities.
+- Final settlement-to-settlement travel times inside the tested ranges from [Working Map — Scale and Travel-Time Test V1](Reference/Working-Map-Scale-and-Travel-Test.md).
+- Exact local placement / ownership of the now-tested river heads, roadheads, ferries, cart-capable segments and transfer infrastructure.
 - Which rivers, roads, and straits become true strategic chokepoints rather than merely important routes.
 
 ### 2. Post-Convergence political order
 
-- What did the Convergence formally guarantee: borders, passage, trade, arbitration, mutual defense, Port neutrality, or some combination?
-- Are all six named regions states in the same constitutional sense?
-- Which powers remain city-states, confederacies, clan systems, or decentralized networks?
-- What institutions arbitrate disputes between regions?
-- What is Port's legal status, citizenship model, and neutrality guarantee?
+The structural legal model is now owned by [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md): authority is layered, local law survives the Convergence, and cross-border judgments depend on recognized forums and enforcement networks rather than one universal court hierarchy.
+
+The [Convergence](History/The-Convergence.md) now has a stable structural core: recognized claims / non-aggression, protected exchange, shared route-security obligations, cross-border arbitration, Port neutrality / access, and preserved local autonomy. [Convergence Layered Settlement Model](Reference/Convergence-Layered-Settlement-Model.md) further separates those core guarantees from attached agreements, later interoperability standards, precedent, and continuing local law.
+
+Remaining questions:
+
+- Exact Convergence signatories and their political forms.
+- Exact charter / treaty language and whether one symbolic central charter exists.
+- Which categories of trade and passage receive formal protection.
+- Exact route-security obligations and whether broader mutual defense exists.
+- Exact Convergence arbitration bodies or procedures.
+- Whether permanent treaty courts exist at all.
+- Whether standardized weights / measures or guild privileges are treaty clauses, later practice, or separate agreements.
+- Exact appeal structures by polity.
+- Port citizenship and constitutional form.
+- Extradition and cross-border criminal pursuit.
+- Recognition of marriages, inheritance, and family status across jurisdictions.
+- Exact maritime law and guild privilege by polity.
+- Amendment, withdrawal, suspension, and the exact formal procedures underlying the now-tested escalation logic in [Convergence Enforcement and Violation Tests](Reference/Convergence-Enforcement-and-Violation-Tests.md).
 
 ### 3. Coordination and power
 
-- How old is the Economic Council relative to the Convergence?
-- Which coordination functions did the Council inherit, create, or quietly take over?
-- Who knows the Council exists, and what do they actually know?
-- What public institutions could perform Council functions if its power were exposed or reduced?
-- How are Council seats inherited, selected, purchased, contested, or replaced?
+The Council's structural role is now owned by [The Economic Council](Politics/Economic-Council.md): it is a private interregional coordination layer whose advantage comes from combining information, capital, institutional memory, and cross-border relationships across several dependency systems.
+
+[Economic Council — Internal Structure](Politics/Economic-Council-Internal-Structure.md) now separates **supported structure**, **derived constraints**, and **open design** so plausible solutions are not accidentally promoted into canon.
+
+Supported so far: generational continuity, varied succession traditions, nominal peer status, independent member networks, private coordination meetings, member-specific aides/agents, retained records, internal bargaining, and a strong norm against self-destructive exposure.
+
+Remaining questions:
+
+- How old is the Council relative to the Convergence, exactly?
+- Which member houses first created durable private coordination?
+- Final number and names of Council portfolios.
+- How each current seat actually selects a successor.
+- Whether there is any shared staff beyond member-house personnel.
+- Whether any common treasury or reserve exists.
+- Whether formal voting, vetoes, chairs, or quorum rules exist at all.
+- Exact meeting location and cadence.
+- How Council records are distributed, authenticated, and protected.
+- Final public facade.
+- Who knows the Council exists, and at what level of detail?
+- Whether a house can lose a seat and whether that has ever happened.
+- What public institutions could replace its aggregation, emergency finance, and cross-domain coordination functions?
+- Current seat-holders and their internal family factions.
 
 ### 4. Movement of people and information
+
+The structural model is now owned by [Movement and Information](Movement-and-Information.md): information rides physical and social networks, transmission is carrier-specific, and no one network is universally fastest.
+
+Remaining questions:
 
 - Actual language families and degrees of mutual intelligibility.
 - Major pilgrimage, migration, labor, refugee, and seasonal travel patterns.
 - Structure and legal status of nomadic/itinerant peoples.
-- Which networks move information fastest: states, merchants, guilds, faiths, Port, or informal routes?
+- Exact schedules and local travel times inside the new working travel envelope.
+- Whether dedicated courier guilds or public postal systems exist, and where.
+- Literacy rates and the social reach of written records.
+- Standard seals, notarial practices, message houses, and document conventions.
+- Exact schedules / cadence for ships, caravans, pilgrimages, and itinerant circuits.
+- Which governments maintain their own messenger networks and how effective they are.
+- Whether rare magical communication exists at all.
 
 ### 5. Magic baseline
 
@@ -52,28 +94,109 @@ The broad topology is now captured in [Geography and Connections](Geography-and-
 
 ### 6. Story pressure
 
-- The Villain's exact grievance and desired political end state.
-- Which current crises are ordinary, manipulated, Council responses, or combinations.
-- Where Wurdren begins and which human-scale problem first connects him to the larger system.
+[Current Events](Story/Current-Events.md), [Villain's Dominoes](Story/Villains-Dominoes.md), and [The Villain](Story/Villain.md) now establish the **operational** story pressure.
+
+Resolved at the structural level:
+
+- baseline / pushed / response / cascade distinctions;
+- braided rather than six-region domino architecture;
+- many-small-events / minimum-push conspiracy rule;
+- commercial-protection → security-rule → guarantee → mobilization → war escalation logic;
+- **adaptive pressure graph rather than fixed domino script**;
+- mandatory failure / containment / surprise branches;
+- war as the Villain's deliberate forcing mechanism for Port reform;
+- tiny true-conspiracy tier with broad unwitting participation;
+- Council secrecy-versus-stability vulnerability;
+- bypass / alternative-capacity strategy;
+- author-side surface / adaptive graph / capability-ledger separation;
+- explicit design-history notes so superseded mistakes remain learnable provenance.
+
+Still open:
+
+- whether the Villain is Port-born or adopted Port as home;
+- the specific Port failures / delays that radicalized him;
+- his exact class / institutional background;
+- the exact fiscal and constitutional changes he ultimately demands for Port;
+- exact belligerent roster as the competitive spheres harden;
+- which chokepoint / cargo / patrol dispute becomes the final armed spark;
+- the exact chronology between partial mobilization and open war;
+- which branches succeed, fail, are contained, backfire, or become useful surprises in the final story chronology;
+- how many people belong to the tiny strategic conspiracy tier;
+- which manufactured escalation becomes his unmistakable moral break;
+- where Wurdren begins and which human-scale problem first connects him to the larger system.
 
 The sections below retain the more detailed unresolved questions.
 
 ## Map
 
 - Exact outlines of the three continents.
-- Exact location of Port.
+- Exact internal geometry and territorial footprint of Port's estuary / channel complex.
 - Which regional borders are long boundaries versus narrow corridors.
-- Whether Highridge directly borders Sunplains.
+- Whether High Roads directly borders Old Cities.
 - Exact relationship of The Spine to continental separation.
 - Navigable rivers and major watersheds.
 
 ## Political structure
 
-- Are all six named regions kingdoms in the same constitutional sense?
-- How many independent Sunplains city-states remain?
-- How centralized is Deepwood?
-- What formal institutions govern Highridge?
-- Does Port have citizenship independent of kingdom citizenship?
+[Kingdoms and Politics](Politics/Kingdoms-and-Politics.md) now establishes that the six cultural regions are **not six equivalent states** and maps the current confidence level for each region's political organization.
+
+A first functional-governance pass now exists for Stone Hills, North Coast, Low Rivers, High Roads, Longwood, and Old Cities; Port has its own governance / neutrality owner.
+
+[Working Political Geography — V1](Reference/Working-Political-Geography-V1.md) now tests a minimum concrete actor map using temporary IDs. It deliberately keeps Stone Hills and Low Rivers comparatively consolidated while placing required plurality in High Roads, Longwood, Old Cities, North Coast island / harbor politics, Port, and cross-border functional jurisdictions.
+
+[Political Adjacency and Border-Interface Test — V1](Reference/Political-Adjacency-and-Border-Interface-Test-V1.md) now tests the required actor-to-actor interfaces and distinguishes recognized borders, fuzzy frontiers, route interfaces, functional overlaps, and maritime-use relationships.
+
+[Political Border History Test — V1](Reference/Political-Border-History-Test-V1.md) now tests how the major interfaces can descend from messy pre-Convergence control and later Convergence recognition.
+
+Three concrete polity vertical slices now test whether the method produces genuinely different states:
+
+- [Stone Hills Polity Vertical Slice — V1](Reference/Stone-Hills-Polity-Vertical-Slice-V1.md): SH-A as a post-Convergence composite territorial polity with SH-M as a strong charter-like industrial jurisdiction.
+- [Low Rivers Polity Vertical Slice — V1](Reference/Low-Rivers-Polity-Vertical-Slice-V1.md): LR-A as a basin-centered administrative polity with LR-M as a privileged transfer-market city.
+- [North Coast Polity Vertical Slice — V1](Reference/North-Coast-Polity-Vertical-Slice-V1.md): NC-M as a maritime compact polity with NC-I as a self-governing associated island polity.
+
+The comparison passes: similar state-level capacities do not produce identical political structure.
+
+[High Roads Political Order Vertical Slice — V1](Reference/High-Roads-Political-Order-Vertical-Slice-V1.md) adds a stronger test: HR-N / HR-W / HR-C can coordinate serious external politics through a **polycentric route order without a superior High Roads state**.
+
+[Old Cities Political Order Vertical Slice — V1](Reference/Old-Cities-Political-Order-Vertical-Slice-V1.md) tests a separate plural model: sovereign OC-U / OC-D / OC-C city-states can maintain durable delegated water / defense / trade institutions without those institutions becoming a federation.
+
+[Longwood Political Order Vertical Slice — V1](Reference/Longwood-Political-Order-Vertical-Slice-V1.md) closes the major-core pass: LW-W / LW-I / LW-S form a layered jurisdictional mosaic whose local territorial authority overlaps with use-specific rights and specialist networks.
+
+**Political-order V1 milestone:** all six major cultural cores now have tested, deliberately non-symmetric political structures, while Port retains its separate detailed neutrality / city-polity model.
+
+Naming / identity work now has a clearer failure boundary through [Language and Naming Topology — V1](Reference/Language-and-Naming-Topology-Test-V1.md), [Minimal Naming Profiles — V1](Reference/Minimal-Naming-Profiles-V1.md), [Neighboring Name Pressure Test — V1](Reference/Neighboring-Name-Pressure-Test-V1.md), and [N1 / R1 / P1 Naming Micro-Sets — V1](Reference/N1-R1-P1-Naming-Microsets-V1.md).
+
+Both lexical passes are now treated as failed generation experiments.
+
+The first produced excessive cross-cluster sameness. The second improved variation but still invented opaque forms first and backfilled tiny lexical roots afterward.
+
+Current rule:
+
+- derive from actual reusable language / history first;
+- use micro-sets only afterward as QA;
+- keep local endonyms open when the language layer has not earned them;
+- retain grounded common forms such as Port, Last Quay, North Yard, South Yard, and the Yards where their social history already explains them.
+
+No W1 / N1 / R1 / P1 / S1 lexical candidate from those experiments is currently active.
+
+Exact constitutions remain open unless a later story/history test requires them.
+
+The remaining questions are therefore mostly about **future concrete polity slices, exact border placement, naming, succession details, and exact representation**, not about choosing one generic government type for each culture.
+
+Remaining questions:
+
+- Exact number of sovereign and semi-sovereign polities.
+- Stone Hills exact polity map inside the now-tested comparatively consolidated model: number of large polities, reach of the strongest ruler, mine tenure, guild and town privileges, labor institutions, strategic-metal authority, and Convergence representation.
+- North Coast exact polity map inside the now-tested layered maritime model: number of large polities, clan status, island representation, fishery / anchorage institutions, convoy authority, naval capacity, and Convergence representation.
+- Low Rivers exact polity map inside the now-tested layered agrarian-river model: number of large polities, degree of central consolidation, estate privileges, watershed institutions, town autonomy, reserve/export powers, and Convergence representation.
+- High Roads exact corridor compacts, representation rules, recurring delegate bodies, dominant polities, and Convergence delegation inside the now-tested networked governance model.
+- Longwood exact polity map inside the now-tested decentralized model: number and size of local polities, clan role, warden authority, resource-rights systems, town / countryside relations, recurring assemblies, and Convergence representation.
+- Old Cities exact polity map inside the now-tested competitive city-state model: city roster, constitutions, hinterlands, citizenship, rural representation, league powers, and Convergence representation.
+- Port citizenship and constitutional form.
+- Military and taxation structure by polity.
+- Succession rules for major rulers.
+- Exact diplomatic representation in the Convergence.
+- Membership and internal splits of the cross-regional competitive spheres.
 
 ## Economic Council
 
@@ -86,12 +209,24 @@ The sections below retain the more detailed unresolved questions.
 
 ## Villain
 
-- Name.
-- Homeland/people.
-- Exact grievance.
-- Exact territorial or political end-state he wants.
-- The point at which his methods become clearly unacceptable even to sympathetic readers.
-- Whether he knows the full Council structure at the story's beginning.
+The strategic architecture is now established in [The Villain](Story/Villain.md) and [Villain's Dominoes](Story/Villains-Dominoes.md).
+
+Established:
+
+- his cause is Port;
+- his grievance is the neutrality trap: Port is widely used, responsibility for it is fragmented, emergency action is slowed by outside political caution, and economic throughput does not translate cleanly into retained local capacity;
+- his strategic objective is to force a new Port settlement.
+
+Still open:
+
+- name;
+- whether he is Port-born or adopted Port as home;
+- family / class / institutional background;
+- the specific emergency or repeated failures that radicalized him;
+- exact fiscal / defense / treaty / political reforms he demands;
+- which deliberate manufactured event becomes the clearest moral break;
+- how much of the Council structure he actually knows at the story's beginning;
+- how he first proved to himself that the Council exists.
 
 ## Wurdren
 
@@ -114,12 +249,140 @@ The sections below retain the more detailed unresolved questions.
 - Which older languages survive in place names.
 - How mutually intelligible the regions are.
 
+## Religion and theology
+
+- Are any named divine figures objectively real, or should the setting remain permanently ambiguous?
+- Which faiths treat their named figures literally, symbolically, historically, or differently by branch?
+- Which provisional sects / schools from the religion reconciliation deserve promotion after local testing?
+- Which named scriptures have stable historical continuity, and which are later compilations?
+- How centralized is each faith's authority, if at all?
+- Which institutions operate schools, charities, archives, healing houses, mediation courts or traveler networks?
+- How common is conversion versus layered / mixed religious practice?
+- Which relics are genuinely magical, merely believed magical, or deliberately left unresolved?
+- How do faith branches disagree over miracle claims and artifact authenticity?
+- Which philosophical schools cross formal faith boundaries?
+
+## Council, guild and underworld follow-up
+
+### Council
+
+- Final seat count and domain boundaries.
+- How Council seats are inherited, appointed, purchased, elected or contested.
+- What public-facing businesses / institutions each family actually uses.
+- How much each ruler, guild and major faith knows about the Council.
+- Whether any version of the legacy "Circle of Mirrors" exists as a formal red-team system, informal advisors, or only a design concept.
+- Which alternate supply chains already exist and therefore constrain Council leverage.
+- What happens operationally if one Council family defects.
+
+### Guilds
+
+- Which specific trans-regional guilds actually exist.
+- How dues, apprentice pay, injury support, dependent support and shared assets work in representative guilds.
+- Which guilds are centralized versus federated.
+- Which certifications are recognized across political borders.
+- How independent workers compete with guild members.
+- Which provisional legacy guild names, if any, survive naming review.
+
+### Underworld
+
+- Which legacy faction names deserve promotion after local testing.
+- How organized crime interacts with Port law and jurisdiction.
+- Which criminal markets are driven by tariffs / prohibition versus simple theft.
+- Whether relic / artifact trafficking is large enough to support specialist networks.
+- How much criminal activity uses the Underpass.
+- Which groups provide services communities genuinely depend on.
+- Where ideological clandestine groups blur into political movements or cults.
+
+## Systems created from the legacy gap audit
+
+The [Legacy Source Audit and Retrieval Index](Reference/Legacy-Source-Audit.md) originally identified five underdeveloped system categories.
+
+They now have active structural owners:
+
+- [Education and Knowledge Transmission](Education-and-Knowledge-Transmission.md);
+- [Medicine and Healing](Medicine-and-Healing.md);
+- [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md);
+- [Folk Belief, Taboo, and Superstition](Culture/Folk-Belief-Taboo-and-Superstition.md);
+- [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md).
+
+The owners establish **structure**, not exhaustive local detail.
+
+Remaining questions should now be answered through actual institutions, communities and places rather than by creating one symmetric regional system for each category.
+
+
+## Calendars and public ritual
+
+- What calendar or calendars are used for law, trade, religion and ordinary dating?
+- How far are dates standardized across polities after the Convergence?
+- Which seasonal thresholds are observed locally rather than by fixed date?
+- Which religious observances create substantial trans-regional travel?
+- What legal acts define adulthood in major polities?
+- How are marriages or partnerships legally recorded, if at all, across different states and in Port?
+- Which body-disposition practices are materially and religiously established?
+- Which legacy festival candidates, if any, eventually earn canon names through local history?
+
 ## Nomadic peoples
 
 - Name and self-name of the Appalachian-influenced mobile network.
 - Whether it is one people or a cultural/economic network containing multiple peoples.
 - Seasonal circuits and legal status.
 
+## Three Moons Festival / current chronology
+
+Established:
+
+- Three Moons Festival is Port's largest festival;
+- it occurs once every seven years;
+- the current story is close enough to one for it to affect information, travel, guild activity, and Port capacity;
+- guild centralization makes the festival especially information-rich.
+
+Still open:
+
+- whether the story begins before, during, or immediately after the festival;
+- exact festival duration;
+- exact origin / cosmological basis;
+- which current-event developments are first discovered or compared during the festival;
+- which guilds have the strongest permanent Port presence by this cycle.
+
+---
+
+## Money / credit / market infrastructure
+
+Structural owner: [Money, Credit, and Market Infrastructure](Economy/Money-Credit-and-Market-Infrastructure.md).
+
+Still open:
+
+- exact currencies / coin standards;
+- exchange and money-changing practice;
+- interest rules / religious restrictions;
+- insolvency / foreclosure procedure;
+- debt inheritance;
+- exact risk-sharing / voyage-finance arrangements;
+- whether Port has a formal clearing institution;
+- exact guild mutual-aid / member-credit governance;
+- exact relationship between warehouse records and secured credit.
+
+These should be resolved through concrete transactions rather than a top-down fantasy banking system.
+
+---
+
 ## Current events
 
-The events pages preserve the current web of crises, but many were brainstormed rather than formally selected. They should be audited once the map and villain plan are finalized.
+The structural audit is now complete in [Current Events](Story/Current-Events.md).
+
+The active field is organized as:
+
+- baseline real shocks;
+- Villain-pushed timing / confidence / exposure;
+- Council / polity responses;
+- cross-system cascades.
+
+Remaining current-event questions should now be **specific**, for example:
+
+- exact location / timing of a selected raid or route incident;
+- which corridor receives or loses traffic first;
+- which Longwood jurisdiction bears the first infrastructure dispute;
+- which documents form the eventual Council-exposure package;
+- what event first brings Wurdren into the chain.
+
+Do not reopen the whole crisis roster without a concrete inconsistency.

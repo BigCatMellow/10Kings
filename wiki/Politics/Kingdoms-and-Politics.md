@@ -1,101 +1,1111 @@
 # Kingdoms and Politics
 
-## Principle
+## Status
 
-The six regions should not necessarily share identical political systems.
+**Working canon at the structural level.**
 
-"Region" is a cultural-geographic term. A region can contain a kingdom, confederation, city-states, autonomous districts, chartered towns, religious lands, and old privileges.
+This page owns the visible post-Convergence political order.
 
-## Working political tendencies
+**Current spatial test:** [Working Political Geography — V1](../Reference/Working-Political-Geography-V1.md). That page places the functional governance models onto the provisional physical network using temporary IDs. It is a design test, not a final polity map.
 
-### Ironcrest
+It does **not** assign a final constitutional form to every cultural region.
 
-Likely relatively consolidated compared with its pre-Convergence past, but power is divided among:
-- crown/state institutions;
-- mine owners;
-- guilds;
-- town governments;
-- labor organizations;
-- old landed families.
+The current world supports a politically plural map in which:
 
-### Northwind
+- cultural regions are not states;
+- different polities organize authority differently;
+- local and cross-border institutions overlap;
+- the Convergence regularized relations between powers without creating one government;
+- some regions are more consolidated than others;
+- some political units are territorial while others are organized around routes, cities, clans, water systems, estates, or old privileges.
 
-Likely preserves strong clan, harbor, and local rights even under larger regional leadership.
+Related owners:
 
-Maritime law may be partially separate from inland law.
+- [The Convergence](../History/The-Convergence.md)
+- [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md)
+- [The World as a System](../World-System.md)
+- [Economic Council](Economic-Council.md)
+- [Guilds](Guilds.md)
+- [Religions](Religions.md)
+- [Port](../Places/Port.md)
 
-### Greenvale
+---
 
-Could combine:
-- regional monarchy or central authority;
-- estate power;
+# 1. Cultural regions are not states
+
+The six major cultural-geographic traditions do **not** map one-to-one onto kingdoms.
+
+A polity may contain:
+
+- several regional traditions;
+- migrant enclaves;
+- mixed border populations;
+- local identities that fit none of the six neatly.
+
+A cultural tradition may span:
+
+- multiple kingdoms;
+- city-states;
+- guild jurisdictions;
+- religious communities;
+- Port neighborhoods;
+- noncontiguous settlements.
+
+Political rulers may claim cultural unity.
+
+The world model should not assume those claims are literally true.
+
+This is a core rule, not a temporary complication.
+
+---
+
+# 2. Use "polity" when the exact constitutional form is unknown
+
+Do not call every political unit a kingdom.
+
+Use **polity** as the neutral working term for an organized political authority.
+
+A polity may be:
+
+- a monarchy;
+- a city-state;
+- a confederation;
+- a clan federation;
+- a league;
+- an autonomous district;
+- a chartered town;
+- an estate domain;
+- a route authority;
+- a religious territory;
+- a mixed form.
+
+The important question is not the label.
+
+It is:
+
+> **What can this political unit actually do, and what does it depend on others to do?**
+
+---
+
+# 3. Political power should be described by functions
+
+When a polity is still under development, do not invent a complete constitution.
+
+Instead determine which functions it can actually perform.
+
+Useful dimensions include:
+
+## Territorial authority
+
+Can it:
+
+- define borders;
+- regulate land;
+- settle local claims;
+- control entry;
+- defend territory?
+
+## Fiscal authority
+
+Can it:
+
+- tax;
+- collect tolls;
+- levy fees;
+- borrow;
+- control public spending?
+
+## Coercive authority
+
+Can it:
+
+- raise soldiers;
+- command guards;
+- enforce judgments;
+- suppress revolt;
+- police roads?
+
+## Administrative authority
+
+Can it:
+
+- keep records;
+- enforce standards;
+- appoint officials;
+- maintain infrastructure;
+- coordinate food or water systems?
+
+## Diplomatic authority
+
+Can it:
+
+- make treaties;
+- send envoys;
+- join alliances;
+- recognize foreign judgments;
+- negotiate Convergence obligations?
+
+## Legitimacy
+
+Why do people obey?
+
+Possible bases include:
+
+- dynasty;
+- election;
+- clan seniority;
+- civic tradition;
+- military control;
+- property;
+- religious authority;
+- treaty recognition;
+- guild support;
+- historical custom.
+
+A polity may be strong in one dimension and weak in another.
+
+That is more useful than forcing every society into one modern concept of statehood.
+
+---
+
+# 4. The post-Convergence political map is layered
+
+The visible political world contains several scales at once.
+
+## Local
+
+Examples already consistent with current owners:
+
 - village councils;
+- town governments;
+- clan authorities;
 - irrigation associations;
-- cooperatives;
-- market towns.
-
-### Highridge
-
-Could be a federation/confederation of:
-- cities;
-- route districts;
-- caravan houses;
-- herding territories;
-- old pass communities.
-
-Its political legitimacy may come from negotiated compacts rather than a single dynasty.
-
-### Deepwood
-
-Likely the least centralized.
-
-Possible layers:
-- local councils;
+- local assemblies;
 - forest wardens;
-- regional assemblies;
-- sacred jurisdictions;
-- market towns;
-- hereditary authorities in some districts.
+- harbor institutions;
+- estate authorities.
 
-### Sunplains
+## Intermediate
 
-Most explicitly plural:
+Possible examples:
+
+- regional leagues;
+- noble domains;
+- route districts;
+- merchant confederations;
+- clan federations;
+- groups of city-states;
+- large guild-recognized jurisdictions.
+
+## Large polities
+
+Some parts of the world are more consolidated and may contain:
+
+- monarchies;
+- confederations;
+- major civic republics;
+- large territorial states.
+
+Exact forms remain region-specific.
+
+## Cross-border
+
+These are not states but matter politically:
+
+- the Convergence framework;
+- guilds;
+- religions;
+- merchant networks;
+- Port institutions;
+- the Economic Council;
+- competitive political/cultural spheres.
+
+These layers overlap.
+
+---
+
+# 5. The Convergence recognizes political reality rather than creating six countries
+
+See [The Convergence](../History/The-Convergence.md).
+
+The older source treated six named domains as if six equivalent political units signed one settlement.
+
+The current world no longer supports that.
+
+The safer model is:
+
+> **The Convergence recognized the authorities whose cooperation was necessary to stabilize claims, passage, trade, security, arbitration, and Port access.**
+
+That may include:
+
+- rulers;
 - city-states;
 - leagues;
-- estates;
+- clan authorities;
+- route powers;
+- merchant interests;
+- other recognized institutions.
+
+Exact signatories remain open.
+
+This allows the treaty order to fit the actual political map once it is finalized.
+
+---
+
+## Convergence participation is not cultural-region membership
+
+See [Convergence Layered Settlement Model](../Reference/Convergence-Layered-Settlement-Model.md).
+
+The Convergence should recognize the political actors capable of making particular obligations meaningful.
+
+That means representation can come from:
+
+- rulers;
+- city-states;
+- leagues;
+- clan authorities;
+- route powers;
+- special jurisdictions;
+- other recognized authorities.
+
+It should **not** default to one representative per cultural region.
+
+Likewise, a merchant or guild can benefit from treaty-protected passage without being a treaty signatory.
+
+Bound authorities and protected users are different categories.
+
+## Functional comparison across the major cultural cores
+
+The regional tests now support several **different political logics**.
+
+These are not six states and not cultural destinies. They describe recurring institutional pressures inside the cultural-geographic cores; actual polities can cross, overlap, or sit partly outside them.
+
+| Cultural core | Functional logic | Current V1 political implementation | Authority that must remain distinct |
+| --- | --- | --- | --- |
+| **Stone Hills** | comparatively consolidated territorial rule over a distributed productive economy | provisional **composite territorial polity** (SH-A) with strong charter-like industrial jurisdiction (SH-M) | ruler / polity, mine ownership, towns, guilds, labor, credit |
+| **North Coast** | layered maritime order | provisional **maritime compact polity** (NC-M) with self-governing associated island actor (NC-I) | shore authority, harbors, clans / kin, vessels, seasonal sea-use rights, larger maritime coordination |
+| **Low Rivers** | layered agrarian-river order | provisional **basin-centered administrative polity** (LR-A) with privileged transfer-market city (LR-M) | villages / cooperatives, estates, towns, watershed institutions, larger polity |
+| **High Roads** | networked political order | provisional **polycentric route order** among HR-N / HR-W / HR-C; no superior High Roads state | local polities, route compacts, arbitration, professional networks, issue-specific delegations |
+| **Longwood** | decentralized mosaic | provisional **layered jurisdictional mosaic** among LW-W / LW-I / LW-S plus use-right and specialist jurisdictions | local rulers, villages, towns, use-specific forest rights, specialists, issue-specific compacts |
+| **Old Cities** | competitive city-state system with uneven hinterlands | provisional **sovereign city-state system with delegated functional institutions** among OC-U / OC-D / OC-C | civic governments, estates / rural clients, merchant power, shared infrastructure, inter-city leagues |
+| **Port** | self-governing neutral polity with externally constrained status | special city-polity; detailed internal constitution remains open | local civic government, harbor institutions, treaty guarantees, foreign users / powers |
+
+The point of the comparison is not symmetry.
+
+It is to prevent later work from solving every region with the same constitutional template.
+
+# 6. Stone Hills
+
+See:
+
+- [Stone Hills](../Regions/Ironcrest.md)
+- [Stone Hills Functional Governance Test](../Reference/Stone-Hills-Functional-Governance-Test.md)
+- [Stone Hills Polity Vertical Slice — V1](../Reference/Stone-Hills-Polity-Vertical-Slice-V1.md)
+
+## Established political pressures
+
+Stone Hills rulers must deal with:
+
+- mine ownership;
+- labor;
+- guild privilege;
+- food imports;
+- fuel and forest rights;
+- roads;
+- old claims;
+- credit.
+
+Pre-Convergence Stone Hills was fragmented among:
+
+- smith-chiefs;
+- mine holders;
+- fortified towns;
+- valley rulers;
+- merchant families;
+- warbands.
+
+Current Stone Hills is more consolidated than that historical baseline.
+
+## Structural conclusion
+
+The functional tests support a **comparatively consolidated territorial political order** layered over strong mine, town, guild, ownership, labor, and credit institutions.
+
+Larger rulers need meaningful capacity for:
+
+- taxation;
+- military force;
+- major roads;
+- higher enforcement;
+- strategic metal policy;
+- diplomacy.
+
+But productive capacity remains distributed.
+
+A ruler still depends on:
+
+- mine owners;
+- skilled labor;
+- guild knowledge;
+- towns;
+- lenders;
+- food imports;
+- fuel;
+- transport.
+
+Mine ownership does not automatically equal sovereignty.
+
+Guild authority does not automatically equal government.
+
+A town can be economically dependent on a mine while still possessing real civic authority.
+
+Stone Hills therefore demonstrates the difference between **formal rule, ownership, and productive control**.
+
+## Still open
+
+The tests do not establish:
+
+- one absolute monarchy;
+- number of major polities;
+- territorial reach of the strongest ruler;
+- exact mine-tenure systems;
+- guild privileges;
+- labor institutions;
+- town rights;
+- strategic-metal rules;
+- exact military structure;
+- exact Stone Hills signatories / delegates in the Convergence.
+---
+
+# 7. North Coast
+
+See:
+
+- [North Coast](../Regions/Northwind.md)
+- [North Coast Functional Governance Test](../Reference/North-Coast-Functional-Governance-Test.md)
+- [North Coast Polity Vertical Slice — V1](../Reference/North-Coast-Polity-Vertical-Slice-V1.md)
+
+## Established political pressures
+
+North Coast history is fragmented among:
+
+- coastal clans;
+- fishing confederacies;
+- harbor towns;
+- island rulers;
+- raiding bands;
+- inland chiefs.
+
+Modern politics remain sensitive to:
+
+- fishing rights;
+- harbor control;
+- convoy protection;
+- clan autonomy;
+- food dependence;
+- maritime law;
+- outside investment.
+
+## Structural conclusion
+
+The functional tests support a **layered maritime political order** in which several kinds of authority overlap:
+
+- shore / territorial authority;
+- harbor government;
+- clan or kin obligation;
+- seasonal fishery and anchorage rights;
+- larger polity or coalition authority for war, diplomacy, convoy action, piracy suppression, and strategic policy.
+
+The strongest constraint is:
+
+> **sea-use rights cannot be modeled as simple extensions of land borders.**
+
+A larger ruler or confederation can matter greatly without commanding every cove, vessel, clan, or customary access right.
+
+Harbor use, harbor property, civic government, and territorial sovereignty should remain distinct.
+
+Temporary or issue-specific coordination for convoys, rescue, fisheries, and piracy can carry real authority without automatically becoming a permanent North Coast state.
+
+## Still open
+
+The tests do not establish:
+
+- how many major polities exist;
+- whether one crown / confederation dominates;
+- exact clan political status;
+- island representation;
+- fishery institutions;
+- maritime law;
+- convoy command;
+- standing naval forces;
+- exact North Coast signatories / delegates in the Convergence.
+
+Do not erase local and maritime authority merely to make a larger polity tidy.
+---
+
+# 8. Low Rivers
+
+See:
+
+- [Low Rivers](../Regions/Greenvale.md)
+- [Low Rivers Functional Governance Test](../Reference/Low-Rivers-Functional-Governance-Test.md)
+- [Low Rivers Polity Vertical Slice — V1](../Reference/Low-Rivers-Polity-Vertical-Slice-V1.md)
+
+## Established political pressures
+
+Low Rivers politics centers on:
+
+- land tenure;
+- water rights;
+- tenant obligations;
+- storage;
+- seed ownership;
+- grain price;
+- export rules;
+- estate versus cooperative power.
+
+Historical forms include:
+
+- small landholding communities;
+- estate rulers;
+- river towns;
+- irrigation leagues;
+- seed-sharing alliances.
+
+## Structural conclusion
+
+The functional tests support a **layered agrarian-river political order** rather than one clean constitutional form.
+
+Authority needs to exist at several overlapping scales:
+
+- villages and cooperatives for local works, seed, mutual aid, and some storage;
+- estates for tenancy, estate works, rents, labor, and private storage;
+- towns for markets, crossings, warehouses, records, public order, and commercial disputes;
+- river / watershed institutions for allocation, navigation condition, shared works, and upstream/downstream disputes;
+- larger polities for taxation, military capacity, major works, emergency intervention, higher enforcement, and diplomacy;
+- Convergence mechanisms when protected passage or cross-border obligations are implicated.
+
+The strongest constraint is that **water and river authority cannot map perfectly onto ordinary territorial hierarchy**.
+
+A central authority can set policy and mobilize resources, but its effectiveness depends on institutions that actually control local water, storage, records, transport, credit, and legitimacy.
+
+Estates can be powerful without being fully sovereign.
+
+Market towns can be politically important without governing all surrounding countryside.
+
+## Still open
+
+The tests do not establish:
+
+- whether Low Rivers contains one large polity, several polities, or one dominant polity plus smaller jurisdictions;
+- exact ruler or title;
+- capital;
+- exact estate privileges;
+- exact tenancy systems;
+- named water institutions;
+- exact reserve / export policy;
+- exact tax or military structure;
+- exact Convergence signatories or delegates.
+
+Do not pick a final constitutional label until those questions are forced by further tests.
+---
+
+# 9. High Roads
+
+See:
+
+- [The High Roads](../Regions/Highridge-Plateau.md)
+- [High Roads Functional Governance Test](../Reference/High-Roads-Functional-Governance-Test.md)
+- [High Roads Political Order Vertical Slice — V1](../Reference/High-Roads-Political-Order-Vertical-Slice-V1.md)
+
+## Established
+
+High Roads power is explicitly distributed among:
+
+- route authorities;
+- old families;
+- merchant houses;
+- caravan guilds;
+- urban councils;
+- religious institutions;
+- herding communities.
+
+Pre-Convergence authority was also fragmented among:
+
+- pass lords;
+- caravan families;
+- toll towns;
+- fortress communities;
+- merchant confederations.
+
+## Structural conclusion
+
+[High Roads Functional Governance Test](../Reference/High-Roads-Functional-Governance-Test.md) now supports a more specific model.
+
+High Roads is a **networked political order** in which:
+
+- local authorities retain ordinary territorial / civic power;
+- route-specific compacts coordinate corridor problems;
+- arbitration forums provide cross-jurisdiction predictability;
+- professional / caravan networks create shared standards;
+- wider delegations form when an issue actually spans several routes.
+
+This is more precise than calling the whole region simply a federation or confederation.
+
+Do not invent one parliament, capital, or national executive merely to make the system tidy.
+
+Still open:
+
+- exact corridor compacts;
+- whether any recurring assembly has durable formal status;
+- representation / voting;
+- whether one city or polity currently dominates;
+- exact High Roads signatories / delegates in the Convergence.
+
+---
+
+# 10. Longwood
+
+See:
+
+- [Longwood](../Regions/Deepwood.md)
+- [Longwood Functional Governance Test](../Reference/Longwood-Functional-Governance-Test.md)
+- [Longwood Political Order Vertical Slice — V1](../Reference/Longwood-Political-Order-Vertical-Slice-V1.md)
+
+## Established
+
+Longwood is historically decentralized.
+
+Political actors include:
+
+- village alliances;
+- clan territories;
+- ranger / warden networks;
+- trade settlements;
+- religious centers;
+- forest-edge petty rulers.
+
+Modern political conflict focuses on:
+
+- cutting rights;
+- water;
+- roads;
+- hunting;
+- sacred / restricted areas;
+- border settlement;
+- high-value forest goods;
+- local autonomy.
+
+## Structural conclusion
+
+The functional tests support a **decentralized mosaic of local polities and communities** layered with:
+
+- use-specific forest rights;
+- towns and trade settlements;
+- specialist / warden networks;
+- corridor compacts;
+- emergency or defense coalitions.
+
+Forest rights should not be treated as one ownership bundle.
+
+Residence, cutting, hunting, gathering, passage, water, and restricted-use claims can belong to different actors.
+
+Wardens or similar specialists can possess real expertise and limited authority without becoming a universal forest government.
+
+Longwood can coordinate roads, ecological crises, fire, or defense across several communities without creating one permanent regional state.
+
+This preserves decentralization as a functional political structure rather than lawlessness.
+
+## Still open
+
+The tests do not establish:
+
+- number and size of Longwood polities;
+- exact clan political status;
+- warden authority;
+- land and resource tenure;
+- town / countryside relationships;
+- whether any recurring regional gathering exists;
+- exact military coordination;
+- exact Longwood signatories / delegates in the Convergence.
+---
+
+# 11. Old Cities
+
+See:
+
+- [The Old Cities](../Regions/Sunplains.md)
+- [Old Cities Functional Governance Test](../Reference/Old-Cities-Functional-Governance-Test.md)
+- [Old Cities Political Order Vertical Slice — V1](../Reference/Old-Cities-Political-Order-Vertical-Slice-V1.md)
+- [Old Cities Shared Irrigation Test](../Reference/Old-Cities-Shared-Irrigation-Test.md)
+
+## Established
+
+The Old Cities is the clearest politically plural region.
+
+It contains or historically contained:
+
+- city-states;
+- estate regions;
+- port towns;
+- irrigation leagues;
+- noble houses;
+- merchant dynasties;
+- rural client territories.
+
+Modern city-states continue competing over:
+
+- water;
+- trade;
 - ports;
-- rural territories.
+- labor;
+- prestige;
+- alliances.
 
-The Convergence may recognize the region externally even though internally it contains several sovereign or semi-sovereign governments.
+## Structural conclusion
 
-## Political behavior
+The functional tests support a **competitive city-state system with uneven hinterlands and cross-border functional compacts**.
 
-Every government responds to:
-- domestic legitimacy;
-- old borders;
-- guild pressure;
-- food;
+Individual cities retain real authority over:
+
+- taxation;
+- public order;
+- major works;
+- military force;
+- markets;
+- diplomacy.
+
+But their authority can weaken or change across:
+
+- estates;
+- villages;
+- rural client territories;
+- shared water systems;
+- external trade corridors.
+
+Water and other infrastructure can require cooperation across city boundaries without producing a regional government.
+
+Merchant and noble families can become extremely powerful inside a city without automatically replacing civic sovereignty.
+
+Leagues and blocs can possess real delegated authority for defense, trade, or infrastructure while remaining something less than a permanent union.
+
+A durable Old Cities union would significantly alter the balance of the world and should not be introduced casually.
+
+## Still open
+
+The tests do not establish:
+
+- exact city-state roster;
+- city constitutions;
+- borders and hinterlands;
+- citizenship;
+- rural representation;
+- merchant / noble privileges;
+- exact league structures;
+- whether any current bloc is moving toward durable union;
+- exact Old Cities signatories / delegates in the Convergence.
+---
+
+# 12. Port
+
+See [Port](../Places/Port.md).
+
+Port is a special polity / jurisdiction whose importance comes from:
+
+- neutrality;
+- local identity;
+- treaty protection;
+- merchant interests;
+- guilds;
+- foreign enclaves;
+- neutral courts;
+- harbor infrastructure.
+
+It is not simply a district of the nearest region.
+
+Exact citizenship and constitutional structure remain open.
+
+Port should have enough local government to manage:
+
+- harbor law;
+- markets;
+- courts;
+- watch/guard;
+- fire response;
+- quarantine;
+- warehouses;
+- local taxation/fees.
+
+Outside powers may guarantee or influence its neutrality without directly governing everyday city life.
+
+---
+
+# 13. Political authority does not nest cleanly
+
+A person may be subject to several institutions simultaneously.
+
+Example:
+
+A shipwright might be:
+
+- a citizen of a harbor town;
+- culturally North Coast;
+- a member of a shipwright guild;
+- indebted to a Port lender;
+- part of a trans-regional faith;
+- working under a Convergence-protected shipping contract.
+
+Those memberships do not form one hierarchy.
+
+They overlap.
+
+See [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md).
+
+---
+
+# 14. Military authority is also layered
+
+Do not assume every polity has a centralized standing army.
+
+Possible military capacity already consistent with the world includes:
+
+- ruler-controlled soldiers;
+- town watches;
+- clan forces;
+- militias;
+- guild-provided specialists;
+- hired mercenaries;
+- convoy guards;
+- harbor patrols;
+- local levies.
+
+The exact mix varies by polity.
+
+This matters because a ruler may control diplomacy while lacking immediate control of every armed group on a frontier.
+
+That supports the existing escalation model in which local forces can make wider conflict harder to stop.
+
+---
+
+# 15. Taxation is not uniform
+
+A polity may raise revenue through:
+
+- land taxes;
+- tolls;
+- harbor fees;
+- market fees;
+- mining rights;
+- estate obligations;
+- customs;
+- guild payments;
+- extraordinary levies;
+- rents.
+
+Do not invent one standardized post-Convergence tax system.
+
+The Convergence can protect trade while leaving fiscal systems politically diverse.
+
+---
+
+# 16. Infrastructure creates political power
+
+See [The World as a System](../World-System.md).
+
+Control of:
+
+- roads;
+- bridges;
+- canals;
+- irrigation;
+- harbors;
+- granaries;
+- warehouses;
+- mines;
+
+creates constituencies and leverage.
+
+A formally minor authority can become politically important if many people depend on its infrastructure.
+
+This is especially relevant in:
+
+- High Roads;
+- Low Rivers;
+- Port;
+- Old Cities;
+- Underpass-connected settlements.
+
+---
+
+# 17. Political legitimacy is local
+
+Different polities can justify authority differently.
+
+Possible established or strongly compatible sources include:
+
+- dynasty;
+- clan obligation;
+- old civic rights;
+- property;
+- guild recognition;
+- treaty recognition;
+- control of water;
+- control of routes;
+- military defense;
+- religious prestige;
+- historical custom.
+
+Do not invent a universal theory of sovereignty.
+
+One polity can regard hereditary rule as normal while a neighboring city considers civic office legitimate.
+
+---
+
+# 18. Foreign relations can be messy
+
+A polity's ruler is not necessarily the only actor with external relationships.
+
+Cross-border ties can also be maintained by:
+
+- merchant houses;
+- guilds;
+- religious institutions;
+- clans;
+- cities;
+- noble families;
+- Port agents.
+
+This means foreign policy can be internally contested.
+
+A ruler may favor one alliance while:
+
+- merchants depend on the rival sphere;
+- a city negotiates separately;
+- a guild resists sanctions;
+- a faith maintains cross-border ties.
+
+This is consistent with the world's overlapping social fabric.
+
+---
+
+## Shared infrastructure can constrain foreign policy
+
+Political authorities do not make decisions in isolation from the systems their populations depend on.
+
+See:
+
+- [North Shoulder Paired Roadheads](../Reference/North-Shoulder-Paired-Roadheads-Test.md);
+- [Old Cities Shared Irrigation](../Reference/Old-Cities-Shared-Irrigation-Test.md).
+
+Cross-border infrastructure can create local constituencies that pressure rulers to preserve:
+
+- access;
+- maintenance;
+- emergency coordination;
+- records;
+- limited dispute mechanisms.
+
+This can restrain escalation in one domain while rivalry continues elsewhere.
+
+It can also create coercive leverage when dependence is asymmetric.
+
+# 19. Competitive spheres are not governments
+
+See [Competitive Kingdom Dynamics](../Reference/Competitive-Kingdom-Dynamics.md).
+
+The WWF/WCW-derived rivalry should remain a competition between **networks of political and institutional actors**.
+
+A sphere may include:
+
+- kingdoms;
+- city-states;
+- noble houses;
+- harbor authorities;
+- guild blocs;
+- merchant patrons;
+- military clients;
+- cultural institutions;
+- allied courts.
+
+Membership can be:
+
+- partial;
+- contested;
+- noncontiguous;
+- different by issue.
+
+A polity may lean toward one sphere while its:
+
+- merchants;
+- city elites;
+- guild branches;
+- religious institutions;
+
+lean another way.
+
+The spheres are alignments, not empires.
+
+---
+
+# 20. The Council is not sovereign
+
+See [Economic Council](Economic-Council.md).
+
+The Council has private cross-border power.
+
+It does not replace visible government.
+
+It can influence:
+
 - credit;
-- military readiness;
-- religion;
-- public rumor;
-- elite family interests.
+- routes;
+- contracts;
+- infrastructure;
+- information;
+- resource access.
 
-This is why the Villain can push states toward conflict even when the Council wants peace: rulers cannot always follow Council preferences without appearing weak, corrupt, or disloyal to their own populations.
+But it cannot automatically:
 
-## How war can begin against Council wishes
+- tax a village;
+- appoint a mayor;
+- declare a local law;
+- command every soldier;
+- decide every court case.
 
-A plausible escalation chain:
+Its power comes from dependency rather than formal sovereignty.
 
-1. a real grievance exists;
-2. evidence appears to confirm the rival caused it;
-3. local politics punish leaders who seem passive;
-4. mobilization begins as deterrence;
-5. mobilization is interpreted as preparation for attack;
-6. border forces act without full central control;
-7. deaths create public demand for retaliation;
-8. Council de-escalation efforts appear suspicious;
-9. leaders fear losing legitimacy if they compromise;
-10. limited conflict becomes self-sustaining.
+That distinction should remain visible.
 
-The Villain's genius is making each step locally rational.
+---
+
+# 21. Faiths and guilds are political without being states
+
+[Guilds](Guilds.md) and [Religions](Religions.md) can:
+
+- mobilize people;
+- preserve records;
+- provide welfare;
+- influence law;
+- arbitrate disputes;
+- fund activity;
+- cross borders.
+
+They therefore exercise political power.
+
+But political power does not make them governments by default.
+
+Their authority is:
+
+- subject-specific;
+- membership-based;
+- negotiated;
+- locally variable.
+
+---
+
+# 22. Border communities should expose political complexity
+
+Borders are useful tests.
+
+A mixed border settlement may contain:
+
+- residents who identify culturally with different regions;
+- property claims recognized by different authorities;
+- guild branches from elsewhere;
+- local customary rights older than the Convergence;
+- families split by formal jurisdiction;
+- officials who speak more than one legal/political language.
+
+If a border can be described simply as:
+
+> one kingdom ends here, another begins there
+
+the political model may be too clean.
+
+---
+
+# 23. A polity should be tested through ordinary functions
+
+Before naming or finalizing a government, ask:
+
+1. Who collects money?
+2. Who maintains roads?
+3. Who settles land disputes?
+4. Who controls soldiers or guards?
+5. Who appoints local officials?
+6. Who controls water?
+7. Who can make a treaty?
+8. Who can borrow money publicly?
+9. Who keeps records?
+10. Who can override a town or village?
+11. Who cannot be overridden?
+12. Why do people accept this arrangement?
+
+If the answers point to several institutions, that may be correct.
+
+Do not simplify it unless the world itself has centralized those powers.
+
+---
+
+# 24. Current regional political confidence
+
+| Region | What is structurally supported | What remains open |
+| --- | --- | --- |
+| Stone Hills | more consolidated than pre-Convergence; strong crown/state, town, mine, guild, labor, estate pressures | exact central government and territorial reach |
+| North Coast | strong clan, harbor, island, maritime and local rights | number and form of larger polities |
+| Low Rivers | land, estate, village, irrigation, cooperative, market institutions all matter | exact central authority / monarchy / league structure |
+| High Roads | distributed route, merchant, town, herding, guild and religious authority | exact confederal architecture |
+| Longwood | strongly decentralized; local councils/alliances/wardens/trade/religious centers | any larger regional institutions |
+| Old Cities | explicitly plural city-states, estates, ports and leagues | exact number, alignments and degree of league formation |
+| Port | neutral special jurisdiction with local governance and treaty importance | citizenship, constitutional form, exact treaty guarantees |
+
+This table is a confidence map, not a command to fill every blank immediately.
+
+---
+
+# 25. Design rule
+
+When developing a polity:
+
+```text
+existing history
+→ material pressures
+→ institutions already doing work
+→ who gained authority
+→ what that authority can actually do
+→ what remains local / autonomous
+→ how the Convergence recognizes it
+→ only then assign constitutional form
+```
+
+Do not begin with:
+
+> "This region needs a monarchy."
+
+Begin with:
+
+> **What political functions already exist here, who performs them, and why?**
+
+The name of the government should come later.
+
+---
+
+# 26. Still open
+
+Major unresolved political questions include:
+
+- exact number of sovereign or semi-sovereign polities;
+- Stone Hills central structure;
+- North Coast confederal/crown relationships;
+- Low Rivers central authority;
+- High Roads formal compact;
+- Longwood regional assemblies, if any;
+- exact Old Cities city-state roster and leagues;
+- Port citizenship and constitution;
+- military organization by polity;
+- taxation by polity;
+- diplomatic representation at the Convergence;
+- succession rules for major rulers;
+- formal relationship between local and central authorities;
+- exact membership of the competitive spheres.
+
+These should be solved through regional history and function rather than symmetrical world design.

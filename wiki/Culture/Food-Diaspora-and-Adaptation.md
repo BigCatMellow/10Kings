@@ -24,6 +24,43 @@ Over generations, several things can separate:
 
 A cuisine can therefore remain culturally recognizable even after its pantry changes substantially.
 
+## Contact cuisine is not merely diaspora cuisine
+
+Diaspora is only one path.
+
+New cuisines can also arise where two or more traditions share the same place for generations without either being the clear “host.”
+
+Examples include:
+
+- old border towns;
+- mixed river valleys;
+- mining settlements;
+- ports;
+- caravan crossroads;
+- military colonies;
+- guild districts;
+- newly settled forests or agricultural frontiers.
+
+In those settings, food may develop through **mutual borrowing** rather than one-way adaptation.
+
+A North Coast household may borrow Low Rivers vegetables and pickling habits while a Low Rivers household borrows salt-fish preservation and serving customs.
+
+After enough repetition, both may participate in a local cuisine that belongs fully to neither source tradition.
+
+### Contact-cuisine test
+
+A convincing contact cuisine should answer:
+
+1. Which populations met?
+2. Why did they keep meeting?
+3. Which ingredients were locally cheap?
+4. Which techniques solved actual problems?
+5. Where were people cooking together or buying from one another?
+6. What changed after one generation?
+7. What do younger locals regard as normal that grandparents regarded as foreign?
+
+If those answers exist, the crossover is historical rather than decorative.
+
 ## Three-stage model
 
 ### Stage 1 — Faithful reconstruction
@@ -103,36 +140,44 @@ These are **design prompts**, not rules about every household.
 
 | Region | Useful culinary bias |
 | --- | --- |
-| Ironcrest | filling, durable food; smoke, browning, pickling, dense grains and preserved components |
-| Northwind | preservation first; brine, smoke, fermentation, cold-storage traditions, berries and sea/coastal ingredients |
-| Greenvale | abundance and sharing; dairy, orchard fruit, grains, garden herbs, baked and communal foods |
-| Highridge | portable and layered; dried goods, dairy, dumplings/breads, trade spices, market combinations |
-| Deepwood | seasonality and restraint; fungi, nuts, roots, herbs, fermentation, forest and river foods alongside cultivation |
-| Sunplains | brightness and balance; oils, fruit acids, pulses, grains, herbs, nuts, irrigated/orchard foods and civic variation |
-| Port | borrowing as normal; ship food, immigrant kitchens, dock food, imported condiments and rapid hybridization |
+| Stone Hills | work schedules, upland staples, imported Low Rivers grain, preservation, workshop districts and class differences |
+| North Coast | seasonal fisheries, preservation infrastructure, cold storage where available, harbor markets and imported grain |
+| Low Rivers | broad agricultural base, mills, storage, dairying, river markets, estate / village / town differences |
+| High Roads | local upland staples versus traveler food, fuel constraints, caravan provisioning and imported market goods |
+| Longwood | cultivated food plus forest / river supplements, preservation, water access and strong town-to-town ecological variation |
+| Old Cities | irrigation, water cost, pulses/grains/oils/fruit where supported, urban markets and city-specific variation |
+| Port | imported food, small urban kitchens, shift work, boarding houses, ship provisioning, street food and diaspora adaptation |
 
 The imported notes contained specific modern ingredient analogues. Treat those as research prompts, not automatic setting facts; [World Rules](../World-Rules.md) requires “draw globally, copy nowhere whole.”
 
+## Naming caution
+
+Example foods on this page are mechanisms, not proposed final dish names.
+
+Do not name diaspora foods by combining regional themes such as “forge,” “frost,” “forest,” “sun,” or “caravan.”
+
+Apply [Naming](Naming.md): real food names often come from a place, family, maker, ingredient, vessel, shape, method, market, or occasion.
+
 ## Two illustrative adaptation paths
 
-### Guardian Stew
+### Example: a family stew carried into diaspora
 
-Imagine a Deepwood stew whose identity comes from slow cooking, forest aromatics and a communal serving ritual.
+Imagine a particular Longwood family's stew whose identity comes from slow cooking, locally available aromatics and a remembered serving custom.
 
 A diaspora version might preserve the **method and occasion** while changing its pantry:
 
-- in Greenvale, cultivated roots, dairy or orchard acidity may enter;
-- in Highridge, dried aromatics and portable grains may become normal;
-- in Northwind, preserved fish or brined vegetables may alter the savor;
-- in Sunplains, pulses, oil and fresh herbs may reshape it;
-- in Ironcrest, smoke and dense grain may make it heavier;
+- in Low Rivers, cultivated roots, dairy or orchard acidity may enter;
+- in High Roads, dried aromatics and portable grains may become normal;
+- in North Coast, preserved fish or brined vegetables may alter the savor;
+- in Old Cities, pulses, oil and fresh herbs may reshape it;
+- in Stone Hills, smoke and dense grain may make it heavier;
 - in Port, several of these descendants can coexist and eventually cross-pollinate.
 
 None of these versions should be treated as automatically canonical dishes. The example demonstrates the mechanism.
 
-### Forgefire Roast
+### Example: a workday roast carried into another food system
 
-An Ironcrest preparation identified by hard browning, smoke and a communal work-day context might migrate into Sunplains.
+A Stone Hills workday preparation identified by hard browning, smoke and a shared labor context might migrate into Old Cities.
 
 The host version could use a different meat, oil, acid and herb set while preserving the expectation that the dish should be deeply browned and served after collective labor.
 

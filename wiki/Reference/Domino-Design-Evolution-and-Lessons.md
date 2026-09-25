@@ -1,0 +1,803 @@
+# Domino Design Evolution and Lessons
+
+## Status
+
+**Active design-history / lessons page.**
+
+Purpose:
+
+> preserve what we learned, including mistakes, so later work does not silently recreate discarded assumptions.
+
+The project rule is:
+
+> **Mistakes are acceptable; failing to learn from them is not.**
+
+This page records major changes to the Villain / domino architecture and why they changed.
+
+---
+
+# 1. Original regional domino model
+
+## Earlier assumption
+
+Create one major domino character / problem per cultural region and connect them into a larger plot.
+
+## Why it was useful
+
+- gave the plot visible pieces;
+- encouraged cross-regional consequences;
+- established the idea of effects appearing before the larger plan.
+
+## What failed
+
+- reproduced six-region symmetry;
+- treated cultures as political units;
+- made specially selected characters carry too much causality;
+- encouraged a neat board-game structure.
+
+## Change
+
+Replaced with:
+
+- actual polities / jurisdictions;
+- cross-system pressure braids;
+- characters emerging from real institutional decisions.
+
+## Lesson
+
+> **Plot structure must follow the world, not force the world into a plot template.**
+
+---
+
+# 2. "Council legitimacy crisis" became too abstract
+
+## Earlier assumption
+
+The Villain's principal target was hidden Council coordination.
+
+## What failed
+
+It lost the original emotional cause.
+
+## Recovered insight
+
+His cause is **Port**:
+
+- neutrality protects Port;
+- neutrality also fragments responsibility;
+- enormous value passes through Port without necessarily becoming Port capacity;
+- outside powers hesitate when Port needs decisive help.
+
+## Change
+
+Council exposure became a lever inside a Port political struggle.
+
+## Lesson
+
+> **The Villain needs a concrete grievance he has lived, not merely a correct systems critique.**
+
+---
+
+# 3. War temporarily became optional
+
+## Earlier assumption
+
+A Council / Port legitimacy crisis might be enough; near-war or limited war could be optional.
+
+## What failed
+
+It weakened the original domino concept.
+
+The point was that many small, seemingly independent events eventually **plunge powers into war**.
+
+## Change
+
+War is now the intended forcing mechanism.
+
+Port reform remains the political objective.
+
+## Lesson
+
+> **Separate means from ends. War is the Villain's means; Port agency is the end.**
+
+---
+
+# 4. Nine large operations were too visible
+
+## Earlier assumption
+
+Strengthen the dominoes by defining nine distinctive operations.
+
+## What was useful
+
+- different operational crafts;
+- evidence residue;
+- failure modes;
+- Blacklist-style competence.
+
+## What failed
+
+Nine large authored moves still made the plan feel too much like:
+
+> mastermind performs operation → expected consequence occurs.
+
+That risks making each crisis visibly conspiratorial.
+
+## Change
+
+The operations are now treated as **capability / intervention families**, not nine mandatory plot beats.
+
+## Lesson
+
+> **Distinctive method is useful; oversized mastermind moves are not.**
+
+---
+
+# 5. Forty-step causal chain solved one problem and created another
+
+## Earlier assumption
+
+Build an explicit 40-step chain from current events to war so there are no leaps in logic.
+
+## What was useful
+
+This successfully proved that:
+
+- commercial friction can become security policy;
+- security policy can create real war capability;
+- guarantees can broaden a local conflict;
+- an armed incident need not magically cause war.
+
+This remains valuable.
+
+## What failed
+
+A retrospective causal proof began to read like the Villain's prospective plan.
+
+That implies:
+
+- too much prediction;
+- too many required outcomes;
+- too little room for successful containment;
+- a Villain who appears omniscient.
+
+## Change
+
+[V2](Adaptive-War-Escalation-Graph-V2.md) keeps the state-transition logic but makes the route:
+
+- branching;
+- redundant;
+- adaptive;
+- failure-tolerant.
+
+## Lesson
+
+> **A causal chain can prove plausibility without being a script the character knows.**
+
+---
+
+# 6. Seventy-nine micro-actions were too much conspiracy
+
+## Earlier assumption
+
+Demonstrate the conspiracy's depth by decomposing it into 79 possible small actions.
+
+## What was useful
+
+It proved large effects could rest on mundane acts:
+
+- reports;
+- purchases;
+- storage;
+- copying;
+- timing;
+- small financing.
+
+## What failed
+
+Even marked "possible," the list could imply the Villain coordinates an implausibly large secret operation.
+
+Every knowing participant increases:
+
+- leakage;
+- betrayal;
+- documentary evidence;
+- management burden.
+
+## Change
+
+[Conspiracy Capability Ledger — V2](Conspiracy-Capability-Ledger-V2.md) tracks:
+
+- access;
+- resources;
+- information;
+- relationships;
+- exposure cost.
+
+Specific actions occur only when an opportunity appears.
+
+## Lesson
+
+> **A deep conspiracy should be large in consequence, not necessarily in knowingly coordinated acts.**
+
+---
+
+# 7. Secrecy correction
+
+## Problem
+
+A conspiracy involving many people who understand the complete goal is not plausibly secret for long.
+
+## Change
+
+Knowledge is now sharply compartmented.
+
+Only a tiny strategic tier should understand:
+
+- the Port objective;
+- that war is being cultivated.
+
+Most people are:
+
+- allies pursuing real grievances;
+- specialists performing one task;
+- commercial counterparties;
+- completely unwitting actors.
+
+## Lesson
+
+> **The world should do most of the work. The conspiracy should mostly change probabilities.**
+
+---
+
+# 8. Prediction correction
+
+## Problem
+
+If everything must go his way, the plan is brittle and the Villain looks supernatural.
+
+## Change
+
+Failures are now mandatory.
+
+Branches can:
+
+- succeed;
+- fail;
+- be contained;
+- backfire;
+- produce useful surprises;
+- become dangerous to the Villain.
+
+The Villain must visibly:
+
+- abandon sunk costs;
+- redirect resources;
+- exploit unexpected outcomes;
+- accept opponents' successes.
+
+## Lesson
+
+> **Intelligence is better demonstrated by adaptation than by perfect prediction.**
+
+---
+
+# 9. Current design model
+
+The active architecture is now:
+
+~~~text
+CURRENT EVENTS
+many independent pressures and ordinary background signs
+
+        ↓
+
+ADAPTIVE PRESSURE GRAPH
+several routes can increase:
+commercial insecurity
+dependency awareness
+mistrust
+bloc dependence
+security conversion
+readiness fear
+
+        ↓
+
+SELECTIVE VILLAIN NUDGES
+only at useful intervention windows
+
+        ↓
+
+WORLD RESPONDS
+most consequential actions are independent
+
+        ↓
+
+OBSERVE / ADAPT
+failed branches are abandoned
+unexpected branches can be exploited
+
+        ↓
+
+WAR-PERMISSIVE STATE
+several actors believe waiting is dangerous
+
+        ↓
+
+SPARK
+not predetermined
+
+        ↓
+
+WAR
+forces Port's neutrality problem into emergency politics
+~~~
+
+---
+
+# 10. Current hard rules
+
+1. **No required local domino.**
+2. **Multiple routes must reach every crucial strategic pressure.**
+3. **After a Villain nudge, prefer several independent reactions before another nudge.**
+4. **Some important Villain interventions must fail.**
+5. **The Council and local institutions must sometimes solve problems successfully.**
+6. **Do not retroactively call every surprise part of the plan.**
+7. **Few people know the real strategy.**
+8. **Most helpers have independent motives.**
+9. **Use low-exposure tools before criminal / violent ones.**
+10. **The exact war spark is not preselected unless later story development earns it.**
+11. **The reader sees effects before architecture.**
+12. **Every revision should preserve what the previous version taught us.**
+
+---
+
+# 11. Change-record practice
+
+When future domino work changes a major assumption, add:
+
+## Changed
+
+What is different?
+
+## Previous assumption
+
+What did we think before?
+
+## Why it changed
+
+What contradiction / weakness did we discover?
+
+## Preserved value
+
+What useful part of the old model remains?
+
+## New rule
+
+What should future work do differently?
+
+This avoids both failure modes:
+
+- clinging to old work because effort was spent on it;
+- discarding old work so completely that its lesson is lost.
+
+
+---
+
+# 12. Change record — 2026-09-24 adaptive correction
+
+## Changed
+
+The active model changed from:
+
+~~~text
+fixed no-leap chain
++ large micro-action ledger
+~~~
+
+to:
+
+~~~text
+pressure states
++ branching routes
++ selective intervention windows
++ capability reserves
++ mandatory failures / containment
++ observe-and-adapt loop
+~~~
+
+## Previous assumption
+
+The 40-step V1 chain was treated too close to a prospective plan.
+
+The 79-action V1 ledger, while explicitly described as possible actions, still looked too much like a hidden operational checklist.
+
+That created two plausibility problems:
+
+1. too many future outcomes had to go the Villain's way;
+2. too many knowingly coordinated actions would create too many witnesses / records / leaks.
+
+## Why it changed
+
+A mastermind cannot plausibly:
+
+- predict dozens of independent institutions perfectly;
+- coordinate huge numbers of secret actions without leakage;
+- rely on every external response;
+- retroactively claim every surprise was intended.
+
+The better model is a strategic gardener / pressure trader:
+
+- knows what conditions he wants;
+- understands historical / institutional tendencies;
+- keeps useful capabilities available;
+- waits for naturally occurring openings;
+- nudges selectively;
+- abandons failed branches;
+- exploits useful surprises.
+
+## Preserved value
+
+The old work was not discarded.
+
+V1 still proved:
+
+- war requires intermediate stages;
+- commercial protection can become security policy;
+- security policy can become mobilization capacity;
+- guarantees can broaden a local conflict;
+- mundane acts can have large downstream effects.
+
+Those are retained.
+
+## New rule
+
+> **He steers probabilities, not events.**
+
+Supporting rules:
+
+- not every useful event is a Villain success;
+- not every Villain action succeeds;
+- successful containment is canon-compatible;
+- unexpected outcomes should sometimes improve / worsen his position;
+- only a tiny group knows war is being cultivated;
+- most consequential actors remain unwitting;
+- the exact final spark is emergent, not pre-scripted.
+
+## File changes
+
+Active replacements:
+
+- Adaptive-Domino-Doctrine-V1.md
+- Adaptive-War-Escalation-Graph-V2.md
+- Conspiracy-Capability-Ledger-V2.md
+
+Preserved but superseded:
+
+- War-Escalation-Causal-Chain-V1.md
+- Domino-Conspiracy-Ledger-V1.md
+
+Updated owners:
+
+- Story/Villains-Dominoes.md
+- Story/Villain.md
+- Story/Current-Events.md
+- Story/Main-Conflict.md
+- World-System.md
+- Open-Questions.md
+
+## Future check
+
+When a later pass changes the plan again, update this page rather than silently rewriting the reasoning history.
+
+
+---
+
+# 13. Change record — information architecture and Three Moons
+
+## Changed
+
+The Villain's information advantage is now grounded primarily in **Port's legitimate aggregation role**, strengthened by:
+
+- increasing guild presence / cross-guild coordination in Port;
+- the seven-year Three Moons Festival.
+
+## Previous weakness
+
+The adaptive model required him to notice many pressure branches early enough to exploit them.
+
+Without a grounded information mechanism, that risked quietly reintroducing an implausible all-seeing intelligence network.
+
+## New supporting world fact
+
+Port is already the continent's largest commercial / maritime information hub.
+
+The Villain has also spent time encouraging guilds / branches / professional representatives to establish more regular Port presence because he genuinely wants:
+
+- easier cross-guild communication;
+- more contracts;
+- more retained expertise;
+- greater Port institutional importance.
+
+That legitimate Port-building project also creates a dense information network.
+
+The Three Moons Festival, once every seven years, temporarily synchronizes many networks that normally arrive separately.
+
+## Why this improves the plan
+
+He does not need spies in every polity.
+
+People bring information to Port because they are:
+
+- trading;
+- working;
+- attending guild business;
+- seeking contracts;
+- traveling for the festival.
+
+The festival gives him a rare opportunity to compare many disconnected current events at once.
+
+## Limits preserved
+
+Three Moons increases:
+
+- information volume;
+- cross-comparison;
+- rumor;
+- accidental leakage.
+
+It does **not** create certainty.
+
+He should still:
+
+- misread some reports;
+- receive stale information;
+- discard bad branches;
+- discover unexpected developments.
+
+## New rule
+
+> **His intelligence advantage should emerge from Port's centrality more often than from covert surveillance.**
+
+And:
+
+> **Three Moons is an independent opportunity he exploits, not an event he created for the plan.**
+
+## Story consequence
+
+The current story period can plausibly feel like a perfect storm because:
+
+- several real crises are already active;
+- guild centralization is maturing;
+- the largest seven-year Port festival concentrates the people carrying evidence of those crises.
+
+This creates a strong reason for both the Villain and Wurdren to encounter unusually many pieces of the wider world in Port without either immediately understanding the complete pattern.
+
+
+---
+
+# 14. Change record — recovered faction / constituency logic
+
+## Recovered from legacy
+
+A review of the legacy guild / current-events material restored a principle that had become underrepresented:
+
+> **events create constituencies, not consensus.**
+
+Legacy examples repeatedly included:
+
+- guild internal schisms;
+- branch autonomy;
+- smaller members rebelling against dominant guild houses;
+- neutralists versus aligned factions;
+- traditionalists versus reformers;
+- smugglers / black markets benefiting from official restrictions;
+- people supporting a crackdown for safety while others oppose the same crackdown for autonomy;
+- groups benefiting economically from crises they publicly condemn.
+
+## Why it matters now
+
+The adaptive Villain model depends on uncertainty.
+
+If every institution responds as one unit, the Villain can predict too easily.
+
+Internal constituencies create:
+
+- close policy fights;
+- splinters;
+- unexpected compromises;
+- failed interventions;
+- new opportunities;
+- genuine local politics.
+
+## Current promotion
+
+Created:
+
+- Current-Event-Stakeholder-Reaction-Matrix-V1.md
+
+Updated:
+
+- Politics/Guilds.md
+- Story/Current-Events.md
+- Culture/Three-Moons-Festival.md
+- Adaptive-War-Escalation-Graph-V2.md
+- Guild-Legacy-Reconciliation.md
+- Current-Events-Legacy-Reconciliation.md
+
+## New rule
+
+> **No major current event should be modeled as "everyone is against this" or "everyone supports this."**
+
+Even piracy should have:
+
+- victims;
+- opponents;
+- beneficiaries;
+- people who hate piracy but oppose anti-piracy centralization;
+- people who gain politically or economically from the security response.
+
+
+---
+
+# 15. Change record — relative chronology without re-rigidifying the plan
+
+## Problem
+
+The current-events owner, stakeholder matrix, adaptive graph, and legacy salvage now contain strong local mechanics, but the story still lacked one answer to:
+
+> **when are these things true relative to one another?**
+
+Without a temporal layer, future outlining could either:
+
+- become vague about what has already happened;
+- accidentally make Three Moons cause crises that predate it;
+- forget that containment leaves residue;
+- or rebuild a fixed V1-style master chain.
+
+## Change
+
+Added:
+
+- [Current Events Relative Chronology — V1](Current-Events-Relative-Chronology-V1.md).
+
+It establishes:
+
+- causal prerequisites rather than exact dates;
+- a working default with Three Moons overlapping the opening movement;
+- pre-festival baseline pressures;
+- defensive responses already crossing systems;
+- Three Moons as an information aggregation / dispersal pulse;
+- required successful containment;
+- explicit Villain expectation failure;
+- intervention afterlife;
+- adaptive redirection;
+- commercial protection converting into security capability;
+- Port's eventual ability to reject the Villain's methods.
+
+## Recovered legacy material now made temporal
+
+The chronology directly activates several V2 salvage findings that previously existed mostly as rules:
+
+- **successful interventions leave political residue**;
+- **Wurdren is a counter-domino**;
+- **Port can reject the Villain**;
+- **institutions split internally rather than acting as single minds**;
+- **professional / guild centralization creates both cooperation and exclusion power**;
+- **ordinary competent people can actually stop escalation**.
+
+## New rule
+
+> **Chronology should constrain causality without predetermining outcome.**
+
+And:
+
+> **At least one important branch must visibly fail before the plan reaches war.**
+
+This keeps the Villain adaptive in the actual narrative rather than adaptive only in author-side theory.
+
+
+---
+
+# 16. Change record — backward construction from the ending
+
+## Problem
+
+The escalation architecture had become substantially stronger than the ending architecture.
+
+That created a risk that:
+
+- the Villain's years of buildup would collapse into simple defeat;
+- the Council would be exposed and then unrealistically disappear;
+- Wurdren would either become irrelevant or be promoted into a rival mastermind;
+- the ending would invent a new constitutional answer without earlier causal roots.
+
+## Change
+
+Added:
+
+- [Story Backward Construction — V1](Story-Backward-Construction-V1.md).
+
+The story is now being built backward from a defined destination before additional forward scene detail is added.
+
+## New design lessons
+
+### Structural victory does not require personal control
+
+> **A character can successfully force historical change without owning the institutions later generations build from that change.**
+
+For the Villain this means:
+
+- Port really changes;
+- the old settlement really ends;
+- his diagnosis is historically consequential;
+- later people still reject his claim to decide what the new order must become.
+
+This is stronger than either:
+
+- "the villain was wrong";
+- or "the villain wins and rules."
+
+### Successful solutions are future plot infrastructure
+
+The current-event containment pass already established:
+
+> solved crisis ≠ restored old world.
+
+Backward construction makes that more specific.
+
+An early successful response can later become:
+
+- a security capability;
+- a legal precedent;
+- a coordination habit;
+- a documentary trail;
+- a political constituency;
+- a trusted relationship.
+
+Therefore:
+
+> **the strongest late-story machinery should be built out of earlier solutions, not newly introduced climax mechanisms.**
+
+Examples now routed through the backward plan include:
+
+- convoy compromise → later armed-access / scheduling capability;
+- Longwood compromise → bounded emergency-authority precedent;
+- Low Rivers stabilization → Council evidence / competing legitimacy;
+- Old Cities technical cooperation → public cross-jurisdiction coordination precedent;
+- guild / Three Moons coordination → later emergency coordination substrate.
+
+### Historical causation is not moral vindication
+
+The century-later world may be better in important ways because the Villain forced a rupture.
+
+That must not silently establish:
+
+> his particular war was the only possible path.
+
+Counter-dominoes, failed branches, successful local cooperation, and later historical disagreement remain necessary evidence that the future was contingent.
+
+### The climax should reassign authority, not eliminate capability
+
+The Council's problem is not that coordination exists.
+
+It is:
+
+> **capability without legitimate authority.**
+
+The ending therefore needs to change:
+
+- who can decide;
+- who can contest;
+- who can see records;
+- how authority is distributed;
+
+rather than pretending the underlying coordination problem disappears.
+
+## New rule
+
+> **When building backward from an institutional ending, seed the climax's capabilities as ordinary earlier responses and compromises.**
+
+And:
+
+> **Do not make the final political order depend on a mechanism the reader did not already see people learning how to use.**

@@ -1,26 +1,30 @@
-# Greenvale
+# The Low Rivers
 
 ## Status
 
 **Working canon.**
 
-Greenvale is the largest major agricultural heartland, but it is not one endless field. It contains market towns, pasture, rivers, orchards, wetlands, forests, mills, estates, tenant villages, workshops, roads, shrines, and regional cities.
+The Low Rivers are the largest major agricultural heartland, but it is not one endless field. It contains market towns, pasture, rivers, orchards, wetlands, forests, mills, estates, tenant villages, workshops, roads, shrines, and regional cities.
+
+## Cultural reach
+
+The Low Rivers are a **cultural core and historical concentration**, not the territory of one agricultural people. Low Rivers-descended farming, milling, storage and village traditions can travel with migrants into other fertile valleys and river systems. The geographic Low Rivers region also contains towns, estates, migrant communities and border populations with other cultural identities.
 
 ## Geography
 
-Greenvale occupies broad temperate lowlands and rolling country with comparatively reliable rainfall and productive soils.
+The Low Rivers occupy broad temperate lowlands and rolling country with comparatively reliable rainfall and productive soils.
 
 Its boundaries grade into:
-- Ironcrest foothills;
-- Highridge routes;
-- Deepwood forest margins;
-- warmer Sunplains country.
+- Stone Hills foothills;
+- High Roads routes;
+- Longwood forest margins;
+- warmer Old Cities country.
 
 These transition zones are some of the world's most culturally mixed areas.
 
 ## Historical identity
 
-Greenvale's pre-Convergence history includes:
+The Low Rivers' pre-Convergence history includes:
 - small landholding communities;
 - estate rulers;
 - river towns;
@@ -31,7 +35,7 @@ Greenvale's pre-Convergence history includes:
 
 The **Seven-year Blight** remains an important working historical memory: whether exactly seven years or later mythologized, a prolonged crop crisis helped create traditions of storage, crop diversity, communal aid, and suspicion of concentrated control over seed and grain.
 
-During periods of scarcity, Greenvale was both victim and aggressor. Its rulers raided neighbors, annexed healthier land, fought internally, and sometimes invited foreign military support.
+During periods of scarcity, Low Rivers was both victim and aggressor. Its rulers raided neighbors, annexed healthier land, fought internally, and sometimes invited foreign military support.
 
 ## Cultural inspirations
 
@@ -45,7 +49,7 @@ Useful research pools:
 
 ## Language
 
-Greenvale speech may distinguish:
+Low Rivers speech may distinguish:
 - beginning;
 - ongoing;
 - recurring;
@@ -98,9 +102,46 @@ Farmsteads are mixed-purpose complexes:
 - work yards;
 - wells or irrigation access.
 
+## Community differentiation — water users and floodplain life
+
+Focused community work now supports at least two distinct Low Rivers water-based community types.
+
+See:
+
+- [Community Analogue Research — Wave 1](../Reference/Community-Analogue-Research-Wave-1.md);
+- [Community Profiles — P1 Wave 1](../Reference/Community-Profiles-P1-Wave-1.md);
+- [Community Hold Resolutions — V1](../Reference/Community-Hold-Resolutions-V1.md).
+
+### Cooperative irrigation villages
+
+Shared dependence on one water system can create:
+
+- user institutions;
+- maintenance obligations;
+- allocation rules;
+- local dispute procedures
+
+that do not simply duplicate territorial government.
+
+### Lower-G1 floodplain communities
+
+A strong working type now exists in the G1-A lower floodplain:
+
+- settlement on higher natural ground;
+- seasonal side-channel / backwater change;
+- wet / dry route alternation;
+- flood-adapted work;
+- political disagreement over embankment / drainage.
+
+People who rely on seasonal inundation may oppose a "protective" project that benefits drier-field agriculture.
+
+This reinforces the regional rule:
+
+> water creates different communities even inside the same agricultural heartland.
+
 ## Food
 
-Greenvale has the broadest everyday food base.
+Low Rivers has the broadest everyday food base.
 
 Common foods:
 - breads and porridges;
@@ -133,7 +174,31 @@ Political conflict centers on:
 - export rules;
 - estate versus cooperative power.
 
-The Council's food/finance networks can exert enormous influence here without ruling Greenvale directly.
+See:
+
+- [Low Rivers Functional Governance Test](../Reference/Low-Rivers-Functional-Governance-Test.md)
+- [Low Rivers Polity Vertical Slice — V1](../Reference/Low-Rivers-Polity-Vertical-Slice-V1.md) for the current provisional LR-A / LR-M concrete-state test.
+
+The strongest current structural conclusion is that Low Rivers politics is **layered rather than cleanly centralized or decentralized**.
+
+- villages, cooperatives, estates, and towns retain practical authority over different parts of agricultural life;
+- river / watershed institutions need to coordinate water, navigation, flood response, and upstream/downstream disputes across ordinary local boundaries;
+- larger polities need meaningful capacity for taxation, military action, major works, emergency food policy, higher enforcement, and diplomacy;
+- central policy still depends on the local institutions that control storage, records, transport, water, credit, and implementation.
+
+This does not yet establish whether the region contains one large polity, several polities, or one dominant polity surrounded by smaller jurisdictions.
+
+The Council's food/finance networks can exert enormous influence here without ruling Low Rivers directly.
+
+## Transfer-market pressure
+
+The tested physical network implies at least one major upper-river transfer market where reliable bulk navigation gives way to road / caravan transport toward the High Roads.
+
+See [G1 Head-of-Navigation Market — Middle-Worldbuilding Test](../Reference/G1-Head-of-Navigation-Market-Test.md).
+
+Its strongest working consequence is that **storage and onward-transport capacity can shape producer bargaining power as strongly as harvest size**. A town can therefore be visibly overflowing with food while indebted growers are forced to sell into falling prices because warehouses, carts, credit, or buyers are constrained.
+
+Exact town name, polity, constitution, and guilds remain open.
 
 ## Current pressures
 
@@ -147,6 +212,6 @@ The Council's food/finance networks can exert enormous influence here without ru
 
 ## Story function
 
-Greenvale demonstrates that **plenty can be politically destabilizing** just as easily as famine.
+Low Rivers demonstrates that **plenty can be politically destabilizing** just as easily as famine.
 
 The important question is not only whether food exists, but who owns it, stores it, transports it, prices it, and decides who receives it.

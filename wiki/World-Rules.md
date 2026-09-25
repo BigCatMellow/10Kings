@@ -2,13 +2,24 @@
 
 These are the setting's equivalent of animation-model rules: constraints intended to prevent drift and keep new material recognizably part of the same world.
 
-## 1. Regions are ecosystems, not gimmicks
+## 1. Regions are cultural-geographic cores, not boxes on the map
+
+The six major regions are best understood as **historical cultural cores and zones of concentration**, not exclusive ethnic territories and not biomes.
+
+A regional label can describe:
+- a broad geographic core where a tradition became historically dominant;
+- a cultural identity carried by people outside that core;
+- a family of institutions, customs, dialects, memories and practices that may be strongest in some places and minority traditions in others.
 
 **Do:** give regions environmental and historical emphases.
 
-**Do:** remember that ordinary economic diversity exists everywhere.
+**Do:** allow their people, institutions and customs to exist far outside the core region through migration, marriage, trade, settlement, conquest, pilgrimage and ordinary mobility.
 
-**Don't:** reduce Ironcrest to mines, Greenvale to farms, Northwind to fish, Deepwood to trees, Highridge to caravans, or Sunplains to vineyards.
+**Do:** remember that ordinary economic and ecological diversity exists everywhere.
+
+**Don't:** reduce Stone Hills to mines, Low Rivers to farms, North Coast to fish, Longwood to trees, High Roads to caravans, or Old Cities to vineyards.
+
+**Don't:** treat crossing a line on the map as crossing from one homogeneous people into another.
 
 A region's famous specialty is what outsiders notice first, not all that exists there.
 
@@ -16,13 +27,25 @@ A region's famous specialty is what outsiders notice first, not all that exists 
 
 Climate, soils, rivers, coasts, elevation, forests, mineral deposits, and routes create pressures. Human history decides how people respond to them.
 
-Two communities facing similar conditions may develop different solutions because of law, religion, language, past disasters, or political organization.
+Two communities facing similar conditions may develop different solutions because of law, religion, language, migration history, past disasters, or political organization.
+
+The same ecology can also appear in several regions. Forests, farmland, uplands, coasts, dry country, river valleys and mineral districts are **not owned by one culture**.
 
 ## 3. Borders are gradients
 
 Modern political borders became clearer after The Convergence, but culture does not stop at a line on a map.
 
+Cultural boundaries may:
+- overlap;
+- fade gradually;
+- follow rivers or trade routes rather than political borders;
+- survive as enclaves;
+- appear again far away through migration;
+- differ by class, neighborhood, religion or profession inside the same town.
+
 Border areas should show mixed food, building methods, accents, family ties, religious practice, law, tools, and loyalties.
+
+A future map should never imply “beyond this line only the next people live.”
 
 ## 4. History is messy
 
@@ -45,6 +68,8 @@ Use hand tools, animal power, water power, wind power, pulleys, screws, mills, k
 Avoid steam-age machinery, modern manufacturing logic, magical equivalents of electricity, or implausibly cheap precision.
 
 ## 7. Magic is scarce, uncertain, limited, or costly
+
+See [Magic Baseline](Magic-Baseline.md).
 
 Magic should feel like one more difficult property of the world, not a universal convenience.
 
@@ -112,6 +137,30 @@ Younger border populations, migrants, merchants, soldiers, pilgrims, mixed famil
 
 "Traditional culture" itself should contain multiple traditions.
 
+## 13A. Contact creates third traditions
+
+When cultures live beside one another long enough, they should not remain perfectly separate.
+
+Repeated contact can produce new local forms in:
+
+- food;
+- language;
+- clothing;
+- architecture;
+- music;
+- festivals;
+- household custom;
+- religion;
+- work practice.
+
+The result may eventually belong fully to neither source tradition.
+
+**Do:** let mixed communities develop practices that younger generations regard as normal.
+
+**Don't:** reduce cultural crossover to decorative fusion or keep every borrowed element permanently labeled by origin.
+
+A border town can become culturally distinctive in its own right.
+
 ## 14. Draw globally, copy nowhere whole
 
 Real cultures are inspiration pools, not templates.
@@ -126,7 +175,7 @@ Do not claim grammar makes a people inherently rational, emotional, peaceful, co
 
 ## 16. Food must follow ecology, trade, class, season, and preservation
 
-There is no single "Ironcrest cuisine" eaten identically by miners, nobles, farmers, children, and merchants.
+There is no single "Stone Hills cuisine" eaten identically by miners, nobles, farmers, children, and merchants.
 
 Show regional families of food, then class and local variation.
 
@@ -141,6 +190,18 @@ Do not design an entire region in one architectural style.
 Settlement names may come from geography, founders, old peoples, industries, sacred events, rulers, directions, markets, forts, bridges, rivers, or older languages.
 
 Names should often preserve history no longer visible.
+
+**Derive; do not backfill.** An opaque local-language name is not earned by inventing a pleasant fantasy form and then inventing roots that supposedly explain it. The linguistic / historical material must exist first strongly enough that the name can be derived from it.
+
+Until that exists, prefer:
+
+- ordinary translated/common-language names;
+- occupational or traveler names;
+- inherited names already supported by history;
+- design IDs;
+- an explicitly unresolved local endonym.
+
+A phonotactic profile or same-cluster micro-set may test a derived name, but neither may serve as the source of the name itself.
 
 ## 19. Violence changes societies
 

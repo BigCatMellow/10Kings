@@ -1,79 +1,300 @@
 # Character Roster
 
-## Core characters
+## Status
 
-### Wurdren
+**Working story roster.**
+
+Do not create a symmetrical cast simply to give each cultural region a representative.
+
+Recurring characters should enter when a real institution, relationship, or decision point in the story needs a human face.
+
+---
+
+# Core characters
+
+## Wurdren
 
 Aging adventurer; human-scale moral viewpoint.
 
 See [Wurdren](Wurdren.md).
 
-### The Villain
+## The Villain
 
-Strategic protagonist/antagonist whose campaign drives the plot.
+Strategic protagonist / antagonist whose campaign drives the main causal architecture.
+
+Identity and biography remain open. His cause is Port; the current grievance is defined in [Villain](Villain.md).
 
 See [Villain](Villain.md).
 
-### The Economic Council families
+## Economic Council representatives / families
 
-Not a single character but a cast of powerful family representatives with conflicting economic domains.
+Not one character but a future cast of powerful representatives backed by different economic / social networks.
 
-See [Economic Council](../Politics/Economic-Council.md).
+They should disagree internally and should not read as six costume-coded embodiments of economic domains.
 
-## Domino characters
+See:
 
-All provisional until naming systems are finalized.
+- [Economic Council](../Politics/Economic-Council.md);
+- [Economic Council — Internal Structure](../Politics/Economic-Council-Internal-Structure.md).
 
-### Orin Slatehallow — Ironcrest
-Young metalworker/technical reformer drawn into hidden patronage.
+---
 
-### Maris Bleakshore — Northwind
-Coastal matriarch/leader who can influence maritime defense.
+# Domino-character model — superseded
 
-### Rosana Meadowcroft — Greenvale
-Agricultural researcher/seed steward whose work changes food politics.
+The earlier roster created one named "domino character" for each major cultural region.
 
-### Samir Tareh — Highridge
-Caravan negotiator whose route decisions have continental effects.
+That model is no longer active.
 
-### Naruin Mossglade — Deepwood
-Forest warden whose defense of local rights can become a larger political flashpoint.
+It failed because it:
 
-### Bahriyya Nazar — Sunplains
-Diplomat/reformer trying to coordinate divided city-states.
+- recreated six-region symmetry;
+- treated cultural regions as the natural units of the plot;
+- made the Villain's plan depend too much on specially selected individuals;
+- encouraged characters to represent systems rather than live inside them;
+- used names from an older naming approach that no longer meets the project's lexical rules.
 
-See [Villain's Dominoes](Villains-Dominoes.md).
+See [Villain's Dominoes](Villains-Dominoes.md) for the current **braided system architecture**.
 
-## Additional provisional figures from earlier brainstorming
+The former regional domino characters remain only in legacy / reconciliation material as design provenance.
 
-These names should not be treated as canon yet.
+---
 
-### Mira Stonebridge — Underpass
-Experienced guide with enough route knowledge to influence caravan traffic.
+# How recurring characters should now enter
 
-### Gharic Coalveil — Underpass/mining interests
-Mining magnate whose ambitions could collide with enclave autonomy.
+A recurring character should emerge when one of the story's real decision points needs a person.
 
-### Ilya Dravencrest — Underpass enclave leader
-Leader opposing destabilizing expansion into deep tunnels.
+Examples:
 
-## Character design rule
+- a harbor official deciding whether to enforce a convoy rule;
+- an NC-I representative disputing an emergency obligation;
+- a Low Rivers warehouse clerk who can prove which cargo was prioritized;
+- a farmer / cooperative organizer facing a debt purchase;
+- an SH-M labor organizer deciding whether to accept a partial settlement;
+- a guild specialist who can identify strategic-metal manipulation;
+- a High Roads route authority whose report changes caravan behavior;
+- a Longwood rights-holder / specialist contesting a road concession;
+- an Old Cities water official trying to keep technical cooperation from becoming a political bloc;
+- a Port clerk / merchant / lender who recognizes that several "independent" interventions share the same backing;
+- an Underpass carrier who helps build alternate logistics but does not want to become part of the Villain's political movement.
 
-A useful recurring pattern is:
+These are **roles**, not current named characters.
+
+Add one only when the story needs their continuing choices.
+
+---
+
+# Character-entry test
+
+Before adding a recurring character, answer:
+
+1. Which actual institution / community are they part of?
+2. What do they want before the main plot notices them?
+3. What information or authority do they possess?
+4. What would they do if the Villain did not exist?
+5. Why does their decision alter a current braid?
+6. Can they disagree with the institution they belong to?
+7. Can they refuse the Villain / Council / Wurdren?
+8. Is their relationship to Wurdren based on ordinary human interaction rather than destiny?
+9. Does the character still work if their cultural region label is removed?
+
+If not, the character is probably functioning as a regional mascot rather than a person.
+
+---
+
+# Legacy character seeds
+
+[Story Core and Character Legacy Reconciliation](../Reference/Story-Core-Legacy-Reconciliation.md) preserves earlier antagonist / ally / guide concepts as seed material.
+
+Do not treat those names or biographies as active roster entries.
+
+A useful role may later be recovered from them if it fits a real current-world decision point.
+
+---
+
+# Recurring specialist antagonists
+
+The preserved Blacklist-style material is most useful here.
+
+Do **not** restore one themed villain per region.
+
+Instead, recurring antagonists can emerge from the specialized services required by [Villain's Dominoes](Villains-Dominoes.md).
+
+Potential roles include:
+
+## Route-information broker
+
+Knows:
+
+- guides;
+- caravan reports;
+- harbor warnings;
+- route risk;
+- who trusts which messenger.
+
+Could recur around Operations 1, 4, and 6.
+
+## Paper / seal specialist
+
+Works with:
+
+- copied seals;
+- manifests;
+- contract annexes;
+- official marks;
+- authenticated copies.
+
+Could recur around Operations 4, 5, and 9.
+
+This is the grounded core of older forgery / Glass Sculptor / Painted Moon concepts without preserving the old character.
+
+## Distressed-debt / market operator
+
+Knows:
+
+- who is overextended;
+- who will sell;
+- which warehouse is full;
+- who can still extend credit.
+
+Could recur around Operations 2 and 3.
+
+## Smuggler / relief carrier
+
+Can move:
+
+- small cargo;
+- documents;
+- people;
+- emergency supplies
+
+through secondary systems.
+
+May genuinely help Port while also profiting from illegality.
+
+Could recur around Operations 3 and 8.
+
+## Conflict broker
+
+Makes a living through:
+
+- mediation;
+- security;
+- intelligence;
+- guarantees;
+- unofficial diplomacy.
+
+Benefits when disputes remain manageable but unresolved.
+
+Could recur around Operations 1 and 6.
+
+## Industrial / procurement fixer
+
+Understands:
+
+- materials;
+- schedules;
+- contracts;
+- inspections;
+- production bottlenecks.
+
+Could recur around Operation 7 and later escalation.
+
+These are not yet characters.
+
+When one role repeatedly creates important decisions, *then* build the person using the Blacklist-style strengths:
+
+- memorable introduction;
+- complex motive;
+- exceptional competence;
+- personal code;
+- distinctive method;
+- system connection;
+- capacity to recur.
+
+The **method** should make them memorable before the costume or alias does.
+
+---
+
+# Independent opportunists and secondary antagonists
+
+Legacy "blacklist villain" material is most useful when stripped of the assumption that every dangerous person works for the Villain.
+
+The adaptive plan needs **independent actors with their own motives**.
+
+Useful archetypes include:
+
+- pirate / raider leader with a real political or economic grievance;
+- labor or agrarian radical willing to use coercion;
+- merchant monopolist exploiting shortages;
+- route outlaw / information broker;
+- procurement fixer who diverts scarce material;
+- private commander / security entrepreneur;
+- distributed secret-broker or blackmail network;
+- saboteur whose methods are available to several clients.
+
+These people are not a team.
+
+They may:
+
+- take the Villain's money once;
+- independently create a useful crisis;
+- refuse his offer;
+- overdo what he wanted;
+- exploit the same instability for a different purpose;
+- become enemies when his Port agenda threatens them.
+
+This gives the story plausible "blacklist" encounters without turning the world into a sequence of boss fights.
+
+## Why they improve secrecy
+
+The Villain often does not need to recruit someone into the central conspiracy.
+
+He can:
+
+- buy an ordinary service;
+- pass information through an intermediary;
+- exploit work they were already doing;
+- allow two independent agendas to overlap briefly.
+
+The secondary antagonist may never know:
+
+> their local action became one pressure input in a continent-scale strategy.
+
+## Why they improve mystery
+
+When Wurdren encounters one of these actors, defeating or exposing them can genuinely solve the local problem while leaving the larger pattern unclear.
+
+Sometimes the local antagonist **is** the full explanation for that incident.
+
+That prevents every strange event from becoming proof of the master conspiracy.
+
+See [Story Core Legacy Reconciliation](../Reference/Story-Core-Legacy-Reconciliation.md).
+
+---
+
+# Character design rule
+
+A strong recurring character usually needs:
 
 1. memorable introduction;
-2. motivation rooted in history or ideology;
+2. motivation rooted in personal history / ideology / obligation;
 3. exceptional but plausible competence;
-4. connection to larger systems;
+4. connection to larger systems without embodying the entire system;
 5. personal code;
 6. distinctive method;
-7. relationship to a protagonist/faction;
-8. plan with consequences;
+7. relationships independent of the protagonist;
+8. decisions with consequences;
 9. capacity to recur or change.
 
-Do not make every memorable character an assassin, mastermind, or secret noble.
+Do not make every memorable character:
+
+- an assassin;
+- mastermind;
+- secret noble;
+- chosen representative of a whole culture.
 
 The world also needs:
+
 - clerks;
 - cooks;
 - builders;
@@ -89,3 +310,189 @@ The world also needs:
 - minor officials;
 - refugees;
 - people who want nothing to do with the main plot.
+
+
+---
+
+# Roles now justified by the backward-built story
+
+The current story architecture now requires a small number of recurring roles because later causal payoffs depend on their **continuing choices**, not because the story needs regional representatives.
+
+These remain unnamed / biographically open.
+
+See:
+
+- [Three Moons Opening Construction — V1](../Reference/Three-Moons-Opening-Construction-V1.md);
+- [Post-Three-Moons Containment and Dispersal — V1](../Reference/Post-Three-Moons-Containment-and-Dispersal-V1.md);
+- [War Activation Construction — V1](../Reference/War-Activation-Construction-V1.md).
+
+## Port records / contract worker
+
+### Early function
+
+Helps resolve the opening delivery problem through:
+
+- warehouse records;
+- guarantees;
+- copied contracts;
+- ordinary clerical authority.
+
+### Why they recur
+
+Later they are in a position to notice:
+
+- repeated guarantors;
+- recurring counterparties;
+- similar procedural language;
+- supposedly separate interventions sharing institutional backing.
+
+They do **not** discover the whole Council alone.
+
+Their records become one fragment in the later evidence mosaic.
+
+### Character test
+
+They should care first about:
+
+- getting records correct;
+- not being blamed for someone else's mistake;
+- workload;
+- professional reputation.
+
+Not:
+
+> exposing the secret rulers of the world.
+
+---
+
+## Port-reform / guild federalist ally
+
+### Early function
+
+Supports:
+
+- stronger Port agency;
+- cross-guild communication;
+- reciprocal recognition;
+- practical coordination.
+
+But resists:
+
+- permanent overcentralization;
+- large-house domination;
+- making Port guild offices into one distant professional government.
+
+This role embodies the already-established **federal coordinator** position inside guild centralization politics.
+
+### Why they recur
+
+They can plausibly:
+
+- work alongside the Villain's legitimate reform network;
+- benefit from his success;
+- defend him against unfair criticism;
+- later discover / infer that covert escalation crossed their own moral line.
+
+### Late function
+
+This is the strongest current candidate for the **movement insider who breaks with the Villain without abandoning Port reform**.
+
+That allows the climax to distinguish:
+
+> the cause
+
+from:
+
+> the man's claim to control the cause.
+
+They may possess one important piece of evidence, but should not know the whole conspiracy.
+
+---
+
+## Longwood rights-holder / mediator / specialist
+
+### Early function
+
+Brings the copied-rights / access dispute into Port.
+
+Returns with corrected records.
+
+Participates in the later local compromise.
+
+### Why they recur
+
+The relationship proves that:
+
+- direct contact can stop a pressure branch;
+- urgency does not automatically erase layered local rights;
+- Wurdren's trust can survive across political / cultural difference.
+
+### Late function
+
+Can contribute:
+
+- testimony;
+- precedent;
+- cross-boundary trust;
+- a person Wurdren can credibly contact during later emergency bargaining.
+
+Do not turn them into "the Longwood character."
+
+They represent their own local / institutional position and may disagree with other Longwood actors.
+
+---
+
+## Port neighborhood / labor contact
+
+### Early function
+
+Shows the ordinary cost of:
+
+- festival crowds;
+- housing pressure;
+- food prices;
+- dock / warehouse strain;
+- public-service burden.
+
+They can support Port autonomy while distrusting:
+
+- large guild houses;
+- elite reformers;
+- expensive centralization.
+
+### Why they recur
+
+The final Port settlement needs a human relationship below:
+
+- merchant houses;
+- Council families;
+- treaty delegates.
+
+This role provides it.
+
+### Late function
+
+Their importance is not expert constitutional knowledge.
+
+It is that Wurdren has a real route back to:
+
+> what Port's new agency actually means for people who live and work there.
+
+---
+
+# Role consolidation rule
+
+Before adding another recurring character, first ask whether the function can be carried by one of these existing roles without distorting them.
+
+Do **not** merge roles merely to reduce cast size if doing so would make one person implausibly present in:
+
+- records;
+- guild leadership;
+- Longwood rights politics;
+- neighborhood labor politics
+
+at once.
+
+The goal is:
+
+> **few enough people to remember, enough independence that the world does not orbit the protagonist.**

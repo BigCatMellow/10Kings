@@ -45,25 +45,25 @@ Take three unrelated current-event shocks and trace whether Port amplifies all t
 
 Incubating.
 
-## Candidate 2 — Port and Highridge are complementary chokepoints
+## Candidate 2 — Port and High Roads are complementary chokepoints
 
 **Sources**
 
 - [Port](../Places/Port.md)
-- [Highridge Plateau](../Regions/Highridge-Plateau.md)
+- [High Roads](../Regions/Highridge-Plateau.md)
 - [Geography and Connections](../Geography-and-Connections.md)
 - [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
 
 **Connection**
 
-Port concentrates maritime exchange; Highridge concentrates important overland movement and brokerage.
+Port concentrates maritime exchange; High Roads concentrates important overland movement and brokerage.
 
 **New implication**
 
 The world may have two different kinds of strategic hub:
 
 - Port: maritime, financial, legal, cosmopolitan;
-- Highridge: overland, logistical, arbitral, route-oriented.
+- High Roads: overland, logistical, arbitral, route-oriented.
 
 Pressure on one could shift traffic toward the other rather than simply stopping exchange.
 
@@ -73,11 +73,11 @@ That creates substitution, competition, and cascading route effects without requ
 
 **Smallest test**
 
-Lock the broad map and test whether major trade flows have plausible Port-avoiding and Highridge-avoiding routes.
+Lock the broad map and test whether major trade flows have plausible Port-avoiding and High Roads-avoiding routes.
 
 **Test result — 2026-09-22**
 
-[Working Map Draft — Geometry V1](Working-Map-Draft.md) produces plausible Port-avoiding and Highridge-avoiding substitutions rather than making either hub an absolute monopoly. A Northwind maritime disruption can push selected traffic into Highridge; a major west-east surface closure can push selected traffic toward Port, secondary ports, and Underpass capacity.
+[Working Map Draft — Geometry V1](Working-Map-Draft.md) produces plausible Port-avoiding and High Roads-avoiding substitutions rather than making either hub an absolute monopoly. A North Coast maritime disruption can push selected traffic into High Roads; a major west-east surface closure can push selected traffic toward Port, secondary ports, and Tunnels capacity.
 
 This is encouraging but not enough to promote the candidate. The next discriminating test is scale, ordinary travel time, and route capacity.
 
@@ -110,9 +110,24 @@ If the Council is exposed or broken, reform cannot simply mean "remove the consp
 
 For each Council domain, identify the public institutions that could perform the same coordination. If adequate public alternatives already exist everywhere, weaken or reject this synthesis.
 
+**Council review result — 2026-09-23**
+
+The Council review passes the coordination-gap test strongly enough to promote the mechanism.
+
+[The Economic Council](../Politics/Economic-Council.md) now explicitly models the Council as a private interregional coordination layer whose advantage is not ownership of every dependency, but the ability to:
+
+- aggregate information across domains;
+- compare signals that sit in separate institutions;
+- move capital and contracts across borders;
+- coordinate transport, reserves, infrastructure, and finance;
+- retain institutional memory across generations;
+- act where no single public authority owns the whole problem.
+
+The review also establishes meaningful limits: incomplete information, independent institutions, physical logistics, bypass routes, internal conflict, exposure risk, and intervention side effects.
+
 **Disposition**
 
-Strong candidate; not yet promoted beyond the existing Council concept.
+**Promoted 2026-09-23** to [The Economic Council](../Politics/Economic-Council.md), [The Convergence](../History/The-Convergence.md), and [The World as a System](../World-System.md).
 
 ## Candidate 4 — Trans-regional institutions may contain the post-Council alternative
 
@@ -139,9 +154,36 @@ This could support an ending in which reform emerges from institutions already p
 
 Map one Council function—such as dispute resolution, emergency food movement, or route information—to existing non-Council institutions and see whether they can plausibly coordinate it at scale.
 
+**Movement/information test result — 2026-09-23**
+
+[Movement and Information](../Movement-and-Information.md) partially passes the route-information test.
+
+The world already contains several non-Council observation and transmission networks:
+
+- Port merchants, shipping, warehouses, clerks, and commercial agents;
+- High Roads caravan, route, interpreter, and arbitration networks;
+- guild branches and professional contacts;
+- pilgrimage and religious hospitality networks;
+- sailors and harbor workers;
+- itinerant households and mobile peoples;
+- local political authorities;
+- criminal and smuggling networks.
+
+These networks can plausibly gather and move **raw route conditions, prices, shortages, local warnings, and social information** without the Council.
+
+What remains missing is a public mechanism that reliably:
+
+- aggregates those signals across domains;
+- verifies conflicting reports;
+- prioritizes emergencies;
+- finances large coordinated responses;
+- distributes a common operational picture.
+
+This strengthens the hypothesis that post-Council alternatives may already exist **in pieces**, while also preserving the coordination gap.
+
 **Disposition**
 
-Incubating.
+Partially supported. Route-information observation/transmission has a decentralized substrate; continent-scale aggregation and response remain unresolved.
 
 ## Candidate 5 — Official regional identity and lived border identity may conflict
 
@@ -176,15 +218,15 @@ Strong candidate for later border-town detail.
 
 **Sources**
 
-- [Greenvale](../Regions/Greenvale.md)
-- [Sunplains](../Regions/Sunplains.md)
-- [Northwind](../Regions/Northwind.md)
+- [Low Rivers](../Regions/Greenvale.md)
+- [Old Cities](../Regions/Sunplains.md)
+- [North Coast](../Regions/Northwind.md)
 - [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
 - [Current Events](../Story/Current-Events.md)
 
 **Connection**
 
-Greenvale can be destabilized by excess production; Sunplains by drought anxiety; Northwind by fish decline.
+Low Rivers can be destabilized by excess production; Old Cities by drought anxiety; North Coast by fish decline.
 
 **New implication**
 
@@ -198,11 +240,24 @@ This makes the economic system coherent across very different crises and gives t
 
 Trace price, debt, labor, and political effects for one surplus and one shortage using the same causal template.
 
+**Food-phase test result — 2026-09-23**
+
+[Culture Phase 3 — Food Vertical Slices](Culture-Phase-3-Food-Vertical-Slices.md) strengthens this candidate.
+
+The food pass shows that production alone does not determine household access. Preservation and storage infrastructure can become independent bottlenecks:
+
+- grain can be abundant while farmers fail financially;
+- fish can exist but preservation / salt / storage costs can change who can afford it;
+- route failure can make imported food expensive while local food remains physically present;
+- smokehouses, granaries, cellars, barrels, ovens and warehouses can matter politically because they determine whether production becomes durable supply.
+
+The next economics pass should therefore model **production + preservation + storage + transport + credit**, not production alone.
+
 **Disposition**
 
-Supported at the pattern level; candidate for a future economics deep dive.
+Supported at the pattern level; food-system test passed and sharpened the storage / preservation mechanism.
 
-## Candidate 7 — The Underpass is a systemic bypass valve
+## Candidate 7 — The Underpass are a systemic bypass valve
 
 **Sources**
 
@@ -213,17 +268,17 @@ Supported at the pattern level; candidate for a future economics deep dive.
 
 **Connection**
 
-The Underpass creates functional adjacency and contains public, local, religious, criminal, unstable, and hidden routes.
+The Underpass create functional adjacency and contains public, local, religious, criminal, unstable, and hidden routes.
 
 **New implication**
 
-When official surface routes become expensive, blocked, militarized, or politically restricted, pressure should redirect toward Underpass routes.
+When official surface routes become expensive, blocked, militarized, or politically restricted, pressure should redirect toward Tunnels routes.
 
 That can make the Underpass a recurring **bypass valve** for legitimate trade, smuggling, refugees, intelligence, and political influence.
 
 **Why it matters**
 
-This gives Underpass politics direct consequences for the surface world instead of leaving it as a separate underground setting.
+This gives Tunnels politics direct consequences for the surface world instead of leaving it as a separate underground setting.
 
 **Smallest test**
 
@@ -238,6 +293,1184 @@ This supports the bypass-valve mechanism at the provisional map level. It is not
 **Disposition**
 
 Incubating pending scale / capacity testing.
+
+## Candidate 8 — Trade routes are also social transmission routes
+
+**Sources**
+
+- [The World as a System](../World-System.md)
+- [Geography and Connections](../Geography-and-Connections.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Religions](../Politics/Religions.md)
+- [Guilds](../Politics/Guilds.md)
+
+**Connection**
+
+The same roads, ports, pilgrimage routes, caravan systems and shipping lanes that move goods also move people and repeated social contact.
+
+**New implication**
+
+Port and High Roads may function as switching points for jokes, reform movements, cult practices, political vocabulary, religious disputes, fashions and reputations—not only commodities.
+
+**Why it matters**
+
+Culture would spread along uneven networks rather than evenly across adjacent territory.
+
+**Smallest test**
+
+Take one new social practice and trace a plausible six-month spread through actual routes, stopping where the network becomes weak.
+
+**Phase 7 test result — 2026-09-23**
+
+[Culture Phase 7 — Cross-Regional Cultural Transmission](Culture-Phase-7-Cross-Regional-Transmission.md) passes the mechanism across seven different forms.
+
+The important refinement is that the route alone is not enough.
+
+The same road can carry different cultural material depending on whether the traveler is a sailor, pilgrim, child, guild clerk, migrant household, caravan worker or itinerant craft family.
+
+Trade routes are therefore social-transmission routes, but transmission is **carrier-specific**.
+
+**Disposition**
+
+Supported and promoted at the structural level to [Social Fabric](../Social-Fabric.md) and [Culture and Influence](../Culture/Culture-and-Influence.md). Exact diffusion histories remain provisional.
+
+## Candidate 9 — Rival spheres can create a prestige market for people
+
+**Sources**
+
+- [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md)
+- [Guilds](../Politics/Guilds.md)
+- [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md)
+- legacy Monday Night Wars research
+
+**Connection**
+
+Two cross-regional spheres can compete by recruiting prominent professionals, patrons, performers and leaders through their member kingdoms, cities, guilds and patrons rather than by direct conquest.
+
+**New implication**
+
+Defections themselves can become public political events. A kingdom, city, guild or patron can lose prestige because a famous person leaves, while the receiving **sphere** gains symbolic momentum even if material production barely changes.
+
+**Why it matters**
+
+This creates recurring conflict below the threshold of war and gives individual careers continental political consequences.
+
+**Smallest test**
+
+Choose two provisional sphere compositions and identify three categories of people whose movement between their member institutions would be understood as a sphere-level gain or loss.
+
+**Disposition**
+
+Incubating; sphere composition and organizing principles unresolved.
+
+## Candidate 10 — Port can be an innovation nursery
+
+**Sources**
+
+- [Port](../Places/Port.md)
+- [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md)
+- [Social Fabric](../Social-Fabric.md)
+
+**Connection**
+
+Port is now the working ECW analogue: politically independent of the two larger rivals, culturally porous, highly connected, and able to give outsiders and experimental institutions room to develop.
+
+The analogy does **not** require Port to be poor, marginal or doomed to collapse.
+
+**New implication**
+
+Port may repeatedly produce people, styles, organizations and practices that larger powers later recruit, imitate or appropriate.
+
+Its influence can therefore exceed its territorial size even while its commercial importance remains very high.
+
+**Why it matters**
+
+This gives Port a cultural function in addition to its existing economic and logistical functions:
+
+**Port is where the world trades, but it may also be where the world tries things first.**
+
+**Smallest test**
+
+Take three categories—one person, one institution and one cultural practice—and test whether each could plausibly originate or become established in Port before being adopted by a larger rival.
+
+**Disposition**
+
+Working mapping accepted; the innovation-nursery consequence remains an E/I hypothesis pending examples.
+
+## Candidate 11 — Participatory movements create a second kind of trans-regional identity
+
+**Sources**
+
+- [Audience Movements](../Culture/Audience-Movements.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Religions](../Politics/Religions.md)
+- [BigCatMellow/RonFez](https://github.com/BigCatMellow/RonFez)
+- preserved `RnFClt.txt`
+
+**Connection**
+
+A community can create durable identity through shared personalities, events, memory, status and mutual recognition without beginning as a state, profession or conventional religion.
+
+**New implication**
+
+The world can contain cross-border affiliations whose institutional logic is neither guild nor temple.
+
+**Why it matters**
+
+That gives ordinary people another way to organize, remember, mobilize and resist elite categories.
+
+**Smallest test**
+
+Design one local chapter containing members of at least three regions, two faiths and two professions, then see whether the movement still has a coherent reason to exist.
+
+**Disposition**
+
+Provisional design model; exact in-world movement remains unpromoted.
+
+## Candidate 12 — Community archives can become politically dangerous evidence
+
+**Sources**
+
+- [Audience Movements](../Culture/Audience-Movements.md)
+- [Contested Historical Memory](../History/Contested-Memory.md)
+- [Illuminated Circle](../Politics/Religions.md#5-the-illuminated-circle)
+- [Silent Whisper](../Politics/Religions.md#6-the-silent-whisper)
+
+**Connection**
+
+A memory-centered movement rewards people who preserve trivial events, correspondence, jokes and contradictory versions of the past.
+
+**New implication**
+
+An archive created for nostalgia may accidentally preserve evidence of elite manipulation better than official institutions do.
+
+**Why it matters**
+
+The Council or Villain could be threatened by records nobody originally considered politically important.
+
+**Smallest test**
+
+Pick one established historical controversy and identify a mundane community artifact that could preserve a crucial contradiction without having been created as evidence.
+
+**Disposition**
+
+Incubating.
+
+## Candidate 13 — Cross-membership can be a hidden stabilizer
+
+**Sources**
+
+- [Social Fabric](../Social-Fabric.md)
+- [Religions](../Politics/Religions.md)
+- [Guilds](../Politics/Guilds.md)
+- [Border Towns](../Places/Border-Towns.md)
+
+**Connection**
+
+People can share guild, faith, family or movement ties across political borders.
+
+**New implication**
+
+Some wars may fail to escalate not because rulers act wisely but because ordinary cross-border institutions quietly preserve communication and make total enemy images hard to sustain.
+
+**Why it matters**
+
+Peace gains mechanisms other than Council manipulation.
+
+**Smallest test**
+
+Take one plausible bilateral crisis and identify three independent cross-border relationships capable of slowing escalation.
+
+**Disposition**
+
+Strong candidate; structural overlap is working canon, specific peace mechanism remains to be tested.
+
+## Candidate 14 — Informal movements are a Council blind spot
+
+**Sources**
+
+- [Economic Council](../Politics/Economic-Council.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Audience Movements](../Culture/Audience-Movements.md)
+
+**Connection**
+
+The Council understands finance, contracts, formal institutions and predictable dependencies. Informal communities can act through jokes, prestige, friendship, imitation and decentralized status.
+
+**New implication**
+
+The Council may be systematically weaker at predicting movements whose leaders cannot reliably command their own followers.
+
+**Why it matters**
+
+This creates a plausible limit on hidden-system control without making the Council incompetent.
+
+**Smallest test**
+
+Give the Council accurate information about one movement and ask whether its usual tools—credit, patronage, leadership influence, access—actually predict rank-and-file behavior.
+
+**Disposition**
+
+Incubating.
+
+## Candidate 15 — Port may incubate movements while High Roads distributes them
+
+**Sources**
+
+- [Port](../Places/Port.md)
+- [High Roads](../Regions/Highridge-Plateau.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Audience Movements](../Culture/Audience-Movements.md)
+- [Geography and Connections](../Geography-and-Connections.md)
+
+**Connection**
+
+Port concentrates strangers, performers, workers, sailors, migrants, guilds and repeated public gatherings. High Roads concentrates overland travelers, caravan routes, translators and information exchange.
+
+**New implication**
+
+A movement could plausibly become socially dense in Port and then spread unusually far through High Roads without either place being its political headquarters.
+
+**Why it matters**
+
+This gives social diffusion a geography: Port can be an incubator while High Roads acts as a repeater / distributor.
+
+**Smallest test**
+
+Start one movement in a Port neighborhood and trace how it reaches North Coast, Low Rivers and Stone Hills using only established travel networks and ordinary human carriers.
+
+**Disposition**
+
+Incubating; do not assign the Audience movements this origin until the transmission mechanism is tested.
+
+## Candidate 16 — The wrestling-style rivalry likely belongs between cross-regional spheres
+
+**Sources**
+
+- [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md)
+- [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
+
+**Connection**
+
+The real-world analogue depended on competitors fighting for the same attention, people and prestige.
+
+The current world already contains multiple political actors inside each region plus guilds, merchant houses, faith networks, mixed cities and trans-regional institutions.
+
+**New implication**
+
+The strongest fantasy translation may therefore be **two recognizable but non-geographic spheres** made of several kingdoms, cities, houses and institutions.
+
+A sphere can cross continental and regional lines.
+
+Membership can also be partial: political alignment, trade dependence, cultural admiration and military cooperation do not have to point in the same direction.
+
+**Why it matters**
+
+This avoids:
+
+- flattening a whole region into "the WWF side" or "the WCW side";
+- turning the map into a simple east/west split;
+- accidentally creating two superstates;
+- making every member of a kingdom share the same allegiance.
+
+It also creates more useful defections because a **person, guild, city, noble house or entire kingdom** can shift toward the rival sphere.
+
+**Smallest test**
+
+Build two provisional spheres using existing actors from at least three different regions each, then check:
+
+1. whether each has a recognizable shared competitive identity;
+2. whether members still retain reasons to disagree internally;
+3. whether at least one actor has divided alignment;
+4. whether Port can plausibly serve both while belonging to neither.
+
+**Test result — 2026-09-22**
+
+A history-first pass through the Convergence and legacy polity material supports a more specific mechanism.
+
+The strongest current hypothesis is not two arbitrary spheres but:
+
+- a **Charter / Convergence establishment** descended from older recognized centers and treaty institutions;
+- an **Ascendant / revisionist network** of post-Convergence cities, guild powers, patrons and secondary states whose real influence has outgrown the hierarchy stabilized by the original settlement;
+- Port outside both as the ECW/Danzig third space.
+
+This is documented in [Convergence to Competitive Spheres](Convergence-to-Competitive-Spheres.md).
+
+The pattern survives several concrete legacy signals without requiring an east/west split: Summithold's Convergence role, Verdanthearth's old ties to Summithold and Aurorashore, Cliffhaven's explicit challenge to Summithold toll dominance, Blackbellow's wage/industrial challenge to the Stone Hills crown, and Old Cities' long tradition of competitive patronage and city-state politics.
+
+**Disposition**
+
+Strong working hypothesis. Historical mechanism identified; exact sphere membership and final in-world names remain provisional.
+
+## Candidate 17 — Port's political liminality may protect cultural experimentation
+
+**Sources**
+
+- [Port](../Places/Port.md)
+- [Danzig to Port Parallel](Danzig-to-Port-Parallel.md)
+- [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md)
+- [Social Fabric](../Social-Fabric.md)
+
+**Connection**
+
+The Danzig layer gives Port divided external interests, negotiated sovereignty and limits on any one kingdom's control.
+
+The ECW layer gives Port outsider identity, experimentation and cultural production that larger rivals later absorb.
+
+**New implication**
+
+These may reinforce one another.
+
+Because no single kingdom can fully impose its court culture, professional hierarchy, censorship, patronage rules or social expectations on Port, the city's constrained sovereignty may accidentally create room for:
+
+- unusual guild arrangements;
+- immigrant institutions;
+- controversial performers;
+- mixed religious practices;
+- experimental political clubs;
+- new social movements;
+- people rebuilding identities after leaving other states.
+
+Port's political weakness could therefore contribute to a kind of **cultural freedom through jurisdictional ambiguity**.
+
+**Why it matters**
+
+This turns the Danzig and ECW analogues into one causal model rather than two decorative references.
+
+It also creates a paradox:
+
+**Port can be less sovereign than a kingdom while giving some individuals more room to reinvent themselves than those kingdoms do.**
+
+**Smallest test**
+
+Take one practice that would be suppressed or blocked in each of the two larger rival polities and determine whether Port's actual laws, institutions and competing external interests plausibly allow it to survive there.
+
+**Falsifier**
+
+If Port's treaty structure and merchant institutions are actually more restrictive and standardized than the neighboring kingdoms, weaken or reject this connection.
+
+**Disposition**
+
+Incubating.
+
+## Candidate 18 — Stone Hills may be the sphere hinge
+
+**Sources**
+
+- [Competitive Sphere Alignment Matrix](Competitive-Sphere-Alignment-Matrix.md)
+- [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md)
+- [Current Events](../Story/Current-Events.md)
+- legacy Stone Hills / Blackbellow polity notes
+
+**Connection**
+
+The Stone Hills Crown benefits strongly from Convergence stability while Blackbellow and other industrial actors benefit from post-Convergence guild expansion and labor mobility.
+
+That places opposing sphere incentives inside one major industrial ecosystem.
+
+**New implication**
+
+Stone Hills may be more useful as the rivalry's principal **hinge** than as a clean bloc member.
+
+A shift by the Crown, a major royal forge, or an important industrial guild could transform the balance between the spheres.
+
+**Why it matters**
+
+This gives the competition a believable escalation mechanism without redrawing the whole map.
+
+It also lets ordinary people experience sphere politics as workplace, wage and institutional conflict before it becomes an international crisis.
+
+**Smallest test**
+
+Reconstruct one Stone Hills defection at three scales:
+
+1. an individual specialist;
+2. a major guild / forge;
+3. a Crown-aligned institution.
+
+Check whether each produces wider political consequences without requiring open war.
+
+**Disposition**
+
+Strong candidate; current recommendation is a Charter-leaning Crown with deep internal Ascendant penetration, not a settled final alignment.
+
+## Candidate 19 — The present rivalry may be in its competitive-breakthrough phase
+
+**Sources**
+
+- [Competitive Sphere Alignment Matrix](Competitive-Sphere-Alignment-Matrix.md)
+- [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md)
+- [Current Events](../Story/Current-Events.md)
+- legacy WWF/WCW notes
+
+**Connection**
+
+The challenger network has plausible wealth, institutions and recruitment tools, while Charter institutions still retain formal legitimacy.
+
+No current source establishes that the challenger has already displaced the old order or that the Charter sphere has already reinvented itself.
+
+**New implication**
+
+The opening story may work best when the Ascendant sphere has just crossed from nuisance to credible peer.
+
+Visible defections and prestige shocks are beginning to change behavior, but the eventual direction remains genuinely open.
+
+**Why it matters**
+
+This preserves the useful tension of the Monday Night Wars analogue without predetermining either the WWF comeback or WCW collapse.
+
+**Smallest test**
+
+Create one high-profile defection and trace reactions through Summithold, Cliffhaven, Stone Hills, Blackbellow, Port and the Council. If the event matters differently to all six while remaining below the threshold of war, the phase is viable.
+
+**Disposition**
+
+Incubating; structural phase preferred over a one-to-one real-world year mapping.
+
+## Candidate 20 — The Convergence may have standardized names without erasing local language
+
+**Sources**
+
+- [The Convergence](../History/The-Convergence.md)
+- [Pre-Convergence History](../History/Pre-Convergence.md)
+- [Naming](../Culture/Naming.md)
+- [Language and Thought](../Culture/Language-and-Thought.md)
+- [Language History and Naming Audit](Language-History-and-Naming-Audit.md)
+
+**Connection**
+
+Pre-Convergence politics were fragmented along valleys, rivers, harbors, routes and local institutions.
+
+The Convergence then required multilingual powers to agree on borders, route names, legal obligations, weights, dates and named landmarks.
+
+**New implication**
+
+Modern regional identity may partly depend on a layer of **standardized spellings, translated map labels and prestige written forms** created after the Convergence.
+
+That standardization can coexist with older local languages and names.
+
+A modern person may therefore treat an official regional name as ancient even when the form itself is comparatively recent.
+
+**Why it matters**
+
+This gives cultural standardization a concrete mechanism.
+
+It also creates usable conflict:
+
+- old local name versus treaty name;
+- official spelling versus family spelling;
+- political revival of pre-Convergence names;
+- border claims based on conflicting translations;
+- people treating one form as patriotic and another as foreign.
+
+The Council and Charter institutions may be unusually invested in standardized names because records, contracts and maps depend on them.
+
+Ascendant or localist actors can challenge those forms without necessarily rejecting the Convergence itself.
+
+**Smallest test**
+
+Take one disputed pass, town or river and give it:
+
+1. an old local form;
+2. a Convergence legal form;
+3. a common commercial form.
+
+Then create a dispute in which the choice of name changes how a claim is understood.
+
+**Disposition**
+
+Strong cultural-history candidate. The general multilingual / standardization framework is now in the Naming and Language owners; specific names and political consequences remain provisional.
+
+## Candidate 21 — Material culture can transmit identity through trade
+
+**Sources**
+
+- [Clothing and Material Culture](../Culture/Clothing-and-Material-Culture.md)
+- [Material Culture Supply Chains](Material-Culture-Supply-Chains.md)
+- [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
+- [Social Fabric](../Social-Fabric.md)
+
+**Connection**
+
+Cloth, dyes, metal fittings, secondhand garments, repair methods and fashion move through the same routes as food, tools, people and information.
+
+**New implication**
+
+Cultural influence may spread through ordinary objects before people consciously identify it as foreign influence.
+
+A practical garment cut, dye, clasp, bag or repair method can move:
+
+```text
+workplace / neighborhood
+→ trade hub
+→ imitation
+→ fashion
+→ local reinterpretation
+```
+
+Port and High Roads may therefore spread material culture differently:
+
+- Port through novelty, migration, secondhand markets and copying;
+- High Roads through caravan circulation, travel equipment and repeated overland contact.
+
+**Why it matters**
+
+This gives cultural exchange a visible material mechanism and reduces reliance on festivals or elite diplomacy as the main carriers of culture.
+
+It also supports Port's ECW-like influence without requiring every innovation to begin with elite patronage.
+
+**Smallest test**
+
+Choose one practical object—garment cut, clasp, bag or repair method—and trace it from one community to three others using only established routes and economic incentives.
+
+**Phase 7 test result — 2026-09-23**
+
+The provisional work-garment trace passes:
+
+```text
+Stone Hills workwear
+→ Port secondhand market
+→ Port tailoring / dock adaptation
+→ High Roads travel adaptation
+→ Old Cities prestige version
+→ return imitation
+```
+
+The mechanism survives without requiring a regional costume, a monopoly or an elite origin.
+
+The strongest additional finding is that **return influence** matters: a prestigious copy can travel back toward the communities whose workwear originally inspired it.
+
+**Disposition**
+
+Supported at the pattern level. The circulation and return-loop mechanism is strong; exact garments and fashions remain provisional.
+
+## Candidate 22 — Systemic crises may become socially real through household substitution
+
+**Sources**
+
+- [Daily Life and Customs](../Culture/Daily-Life-and-Customs.md)
+- [Culture Phase 2 — Ordinary-Life Vertical Slices](Culture-Phase-2-Vertical-Slices.md)
+- [Current Events](../Story/Current-Events.md)
+- [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
+
+**Connection**
+
+Households respond to economic pressure before they understand the entire political cause.
+
+They can:
+
+- repair rather than replace;
+- take a boarder;
+- send a child or young adult to work elsewhere;
+- reduce hospitality;
+- delay marriage;
+- pawn clothing;
+- change foods;
+- share childcare;
+- postpone travel;
+- rely more heavily on guild / faith / neighbor aid.
+
+**New implication**
+
+A continental crisis can become narratively legible through small behavior changes well before armies move or officials announce policy.
+
+**Why it matters**
+
+This fits the story's Wurdren-level perspective.
+
+The Council sees prices and flows; the Villain sees leverage; ordinary people experience the same system as a worn-out boot, crowded room, canceled apprenticeship or guest they can no longer afford to feed.
+
+**Smallest test**
+
+Take one existing current-event chain and identify five household substitutions in at least three regions that follow without inventing new macro-events.
+
+**Disposition**
+
+Strong candidate for story texture; exact customs remain local and provisional.
+
+## Candidate 23 — Cultural geography can be noncontiguous
+
+**Sources**
+
+- [World Rules](../World-Rules.md)
+- [World Overview](../World-Overview.md)
+- [Geography and Connections](../Geography-and-Connections.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Culture and Influence](../Culture/Culture-and-Influence.md)
+
+**Connection**
+
+The six major traditions are historical cultural cores, while migration, trade, marriage, guilds, religion and repeated ecology spread people and institutions beyond those cores.
+
+**New implication**
+
+The cultural map can contain:
+
+- majority cores;
+- minority enclaves;
+- diaspora neighborhoods;
+- migration corridors;
+- noncontiguous settlements;
+- mixed cities;
+- local branches adapted to new environments.
+
+A distant forest can therefore contain a Longwood-descended community without becoming part of geographic Longwood, while another nearby forest community may be culturally unrelated.
+
+**Why it matters**
+
+This prevents political borders, cultural identity and biome from collapsing into one map layer.
+
+It also creates more believable minorities, migration histories, mixed families and local political disputes.
+
+**Smallest test**
+
+Choose one culture and place three communities carrying it:
+1. in its historical core;
+2. in a neighboring mixed zone;
+3. in a distant ecologically compatible area.
+
+Check that all three remain recognizably related while developing different local practices.
+
+**Disposition**
+
+Structural principle promoted to World Rules, World Overview, Geography, Social Fabric and regional owners. Specific diaspora communities remain provisional.
+
+## Candidate 24 — Infrastructure creates constituencies
+
+**Sources**
+
+- [Architecture](../Culture/Architecture.md)
+- [Culture Phase 4 — Architecture Vertical Slices](Culture-Phase-4-Architecture-Vertical-Slices.md)
+- [Food](../Culture/Food.md)
+- [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
+- [Social Fabric](../Social-Fabric.md)
+
+**Connection**
+
+Ordinary systems such as:
+
+- wells;
+- canals;
+- mills;
+- granaries;
+- bridges;
+- docks;
+- caravan yards;
+- smokehouses;
+- fire brigades;
+- waste removal;
+
+require maintenance, labor, money, rules and access.
+
+People organize around them because their daily lives depend on them.
+
+**New implication**
+
+Infrastructure can create political constituencies before it creates formal political institutions.
+
+A neighborhood may defend a well.
+
+Millers may defend a water right.
+
+Warehouse owners may oppose a new road.
+
+Tenants may demand fire enforcement.
+
+Canal workers may become politically important during drought.
+
+The Council may understand these systems as leverage, while ordinary people experience them as the difference between a working neighborhood and an unlivable one.
+
+**Why it matters**
+
+This creates a bridge between:
+
+```text
+built environment
+→ daily dependence
+→ social organization
+→ politics
+→ Council leverage
+```
+
+It also gives Wurdren-level stories consequences that can scale upward without requiring royal politics.
+
+**Smallest test**
+
+Choose one ordinary infrastructure system in one settlement and identify:
+
+1. who owns it;
+2. who maintains it;
+3. who depends on it;
+4. who pays;
+5. who is excluded;
+6. what happens when it fails.
+
+If the answers generate a political conflict without inventing a new grand institution, the mechanism passes.
+
+**Concrete network tests — 2026-09-23**
+
+The mechanism now passes two additional middle-worldbuilding tests:
+
+- [G1 Head-of-Navigation Market](G1-Head-of-Navigation-Market-Test.md): quays, storage, scales, warehouses, road transfer, and river condition create competing producer / merchant / labor constituencies;
+- [North Shoulder Paired Roadheads](North-Shoulder-Paired-Roadheads-Test.md): road maintenance, guide systems, animal capacity, shelters, and route-status information create constituencies on both sides of a political / cultural boundary.
+
+**Disposition**
+
+Strongly supported. The general mechanism is now visible in Geography, Trade, Movement, and the tested settlement system; exact institutions remain local.
+
+## Candidate 25 — Contact zones can become cultural engines
+
+**Sources**
+
+- [Culture and Influence](../Culture/Culture-and-Influence.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Food](../Culture/Food.md)
+- [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md)
+- [World Rules](../World-Rules.md)
+
+**Connection**
+
+The world's cultures overlap geographically and socially through migration, trade, intermarriage, guilds, pilgrimage, border settlement and cities.
+
+Repeated contact does more than spread existing customs.
+
+It can produce new local traditions.
+
+**New implication**
+
+Some of the setting's most distinctive cultures may emerge in contact zones rather than old cores.
+
+A mixed town can develop:
+
+- its own food;
+- dialect;
+- marriage custom;
+- clothing;
+- work practices;
+- architecture;
+- festivals;
+
+that neither source tradition recognizes as fully its own.
+
+Port is the largest example, but the mechanism should also appear in smaller border towns, river markets, mines and caravan settlements.
+
+**Why it matters**
+
+This turns cultural bleed into a generative system rather than a dilution model.
+
+It also prevents the six major traditions from remaining static reference categories.
+
+**Smallest test**
+
+Take two existing cultural traditions in one mixed settlement and derive one stable local practice through:
+
+1. repeated contact;
+2. material usefulness;
+3. household repetition;
+4. generational normalization.
+
+Then test whether the practice still makes sense after removing explicit references to its two source cultures.
+
+**Phase 7 test result — 2026-09-23**
+
+All seven transmission traces depend on contact zones producing something locally useful rather than simply averaging two source traditions.
+
+The food trace is the clearest example: preserved-fish knowledge and market vegetables create a stable local work meal whose later Port and High Roads descendants no longer need to remain legible as "North Coast + Low Rivers."
+
+Border towns, Port, caravan settlements and migrant districts therefore pass as **culture producers**, not merely mixing chambers.
+
+**Disposition**
+
+Structural principle remains promoted. Phase 7 strongly supports the generative-contact model; exact local traditions remain provisional.
+
+## Candidate 26 — Cultural incubation, circulation and prestige may be different systems
+
+**Sources**
+
+- [Arts, Music and Leisure](../Culture/Arts-Music-and-Leisure.md)
+- [Culture Phase 5 — Arts, Leisure and Public-Culture Vertical Slices](Culture-Phase-5-Arts-Leisure-Vertical-Slices.md)
+- [Port](../Places/Port.md)
+- [High Roads](../Regions/Highridge-Plateau.md)
+- [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md)
+
+**Connection**
+
+The Phase 5 slices show that making a new cultural form, spreading it, and making it prestigious require different conditions.
+
+Port has strong conditions for dense mixed audiences and scene formation.
+
+High Roads has strong conditions for repeated circulation, adaptation and retransmission.
+
+The Old Cities have established conditions for merchant / civic patronage and prestige competition.
+
+**New implication**
+
+The world may not have one "cultural capital."
+
+Instead, cultural influence can move through a chain such as:
+
+```text
+local scene / experiment
+→ travel network
+→ imitation and mutation
+→ wealthy patron or civic adoption
+→ prestige recognition
+→ return influence on the original scene
+```
+
+A form can therefore be invented in one place, made popular somewhere else, and made respectable somewhere else again.
+
+**Why it matters**
+
+This gives the competitive spheres something meaningful to compete over besides territory and formal institutions.
+
+It also prevents Port's ECW-like role from becoming "Port invents everything." Port can be unusually good at incubation while depending on other places for distribution, money, preservation or prestige.
+
+**Smallest test**
+
+Create one provisional Port-born performance or game and trace:
+
+1. why it forms in a specific Port scene;
+2. how a traveler carries it onto the High Roads or another established route;
+3. what changes during circulation;
+4. why an Old Cities patron, guild or rival sphere institution adopts it;
+5. what the prestige version changes or erases;
+6. how Port residents react when the altered form returns.
+
+If each step follows existing institutions without inventing a new cultural bureaucracy, the mechanism passes.
+
+**Phase 7 test result — 2026-09-23**
+
+The garment and song traces both produce the predicted separation of functions.
+
+A form can be:
+
+- created because it is useful in one local scene;
+- circulated by workers or travelers elsewhere;
+- altered repeatedly in transit;
+- legitimized by a wealthy patron or civic venue somewhere else;
+- returned to its source community in a prestigious but altered version.
+
+That is enough to support incubation, circulation and prestige as analytically distinct processes.
+
+**Disposition**
+
+Supported at the pattern level. Exact cities or forms need not hold exclusive roles, but the separation of cultural functions passed.
+
+## Candidate 27 — Low-infrastructure popular culture can outrun political identity
+
+**Sources**
+
+- [Arts, Music and Leisure](../Culture/Arts-Music-and-Leisure.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Culture and Influence](../Culture/Culture-and-Influence.md)
+- [Audience Movements](../Culture/Audience-Movements.md)
+
+**Connection**
+
+Songs, jokes, children's games, simple dances and compact game rules can travel with individuals and require less material infrastructure than architecture, cuisine or formal institutions.
+
+**New implication**
+
+People in politically hostile or culturally distant places may share pieces of popular culture before they share institutions or consciously identify with one another.
+
+A child, sailor, apprentice or caravan worker can carry a form across a border without intending cultural exchange.
+
+**Why it matters**
+
+This creates a fast layer of trans-regional culture beneath slower identities.
+
+It may also help explain why formal political narratives never completely map onto everyday social life.
+
+**Smallest test**
+
+Take one simple game, rhyme or song fragment and trace it through three politically different communities over one generation. Require the form to change at each stop and test whether the communities can share it without developing the same political identity.
+
+**Phase 7 test result — 2026-09-23**
+
+The provisional counting / placement game and High Roads trade-term traces both pass.
+
+The game can cross caravan yards, Port, ships and Low Rivers markets with almost no supply chain.
+
+The technical word can move through clerks and merchants, broaden into Port slang, and return to High Roads with a changed meaning.
+
+Neither transmission requires the receiving communities to share political identity.
+
+**Disposition**
+
+Supported at the pattern level. Low-infrastructure culture can move faster than formal identity; exact words and games remain provisional.
+
+## Candidate 28 — Calendars can function as coordination infrastructure
+
+**Sources**
+
+- [Festivals, Seasonal Life and Public Ritual](../Culture/Festivals-and-Seasonal-Life.md)
+- [Culture Phase 6 — Festivals and Life-Cycle Ritual Vertical Slices](Culture-Phase-6-Festivals-Life-Cycle-Vertical-Slices.md)
+- [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
+- [Daily Life and Customs](../Culture/Daily-Life-and-Customs.md)
+
+**Connection**
+
+Recurring dates can coordinate work, travel, debt, maintenance, markets, pilgrimage, household reunion and public space even when no single government controls the whole calendar.
+
+**New implication**
+
+Calendar systems may act like soft infrastructure.
+
+A shared date or seasonal threshold can synchronize thousands of independent decisions:
+
+```text
+expected date / season
+→ preparation
+→ movement of people and goods
+→ temporary labor demand
+→ debt / contract timing
+→ public gathering
+→ institutional visibility
+```
+
+Different calendars can overlap or compete.
+
+A guild date, religious observance, market cycle and civic anniversary may all matter to the same person.
+
+**Why it matters**
+
+This gives timekeeping social and economic consequences without requiring a modern centralized calendar bureaucracy.
+
+It also creates plausible friction when:
+
+- polities standardize dates differently;
+- routes open late;
+- religious calendars drift from work cycles;
+- a government moves a holiday;
+- creditors exploit a traditional payment date;
+- migrants observe a date their new neighbors do not.
+
+**Smallest test**
+
+Choose one recurring event in three neighboring polities and determine:
+
+1. who defines the date;
+2. who must prepare for it;
+3. which contracts or work cycles depend on it;
+4. what happens if the date changes by a week;
+5. whether people can coordinate without one central authority.
+
+**Disposition**
+
+Strong Phase 6 candidate. The mechanism passed several vertical slices; actual calendar systems and date standardization remain unresolved.
+
+## Candidate 29 — Ritual can survive after its original explanation changes
+
+**Sources**
+
+- [Festivals, Seasonal Life and Public Ritual](../Culture/Festivals-and-Seasonal-Life.md)
+- [Contested Historical Memory](../History/Contested-Memory.md)
+- [Arts, Music and Leisure](../Culture/Arts-Music-and-Leisure.md)
+- [Religions](../Politics/Religions.md)
+
+**Connection**
+
+A recurring observance can acquire practical functions beyond the belief or historical explanation that originally created it.
+
+Businesses prepare for it.
+
+Families reunite around it.
+
+Public space is reserved.
+
+Contracts are timed around it.
+
+Performers depend on it.
+
+Local identity attaches to it.
+
+**New implication**
+
+A ritual may persist even when participants disagree about what it means or no longer accept its original explanation.
+
+Over generations:
+
+```text
+practical / religious origin
+→ repeated gathering
+→ institutional dependence
+→ family memory
+→ commercial / civic reuse
+→ new explanation
+```
+
+The same practice can therefore be ancient in form but comparatively new in meaning.
+
+**Why it matters**
+
+This helps the setting avoid two extremes:
+
+- every tradition remaining unchanged for centuries;
+- every decline in belief instantly erasing associated customs.
+
+It also creates useful conflict between religious authorities, civic institutions, merchants, revivalists and ordinary participants.
+
+**Smallest test**
+
+Take one provisional observance and write three generations of explanations for why people continue it. The material practice should remain recognizable while the dominant justification changes.
+
+**Phase 7 test result — 2026-09-23**
+
+The provisional departure ritual passes.
+
+A practice associated with dangerous travel can move through pilgrimage and caravan networks, enter mixed Port households, lose some of its original faith language, and survive because it still coordinates destination, hosts, farewell and social responsibility.
+
+Diaspora communities may even preserve a more elaborate version than the home community.
+
+**Disposition**
+
+Supported at the pattern level. A named historical ritual is still needed before any specific observance is promoted.
+
+## Candidate 30 — Cultural forms have different transmission costs
+
+**Sources**
+
+- [Culture and Influence](../Culture/Culture-and-Influence.md)
+- [Culture Phase 7 — Cross-Regional Cultural Transmission](Culture-Phase-7-Cross-Regional-Transmission.md)
+- [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md)
+- [Material Culture Supply Chains](Material-Culture-Supply-Chains.md)
+- [Arts, Music and Leisure](../Culture/Arts-Music-and-Leisure.md)
+
+**Connection**
+
+The Phase 7 traces do not spread evenly.
+
+A word, joke or game rule can travel with almost no material support.
+
+Food needs ingredients, fuel and technique.
+
+Garments need cloth, labor and a useful local fit.
+
+Architecture needs land, materials and builders.
+
+Public ritual needs repeated participation, calendar coordination and often institutions.
+
+Administrative names can spread by records and law even when ordinary speech resists them.
+
+**New implication**
+
+The world should contain several overlapping cultural maps rather than one cultural-diffusion map.
+
+For example:
+
+- slang may connect distant ports rapidly;
+- a food tradition may stop where an ingredient becomes expensive;
+- a game may cross a political border that a guild custom does not;
+- a legal place name may be standardized across regions while local spoken names remain fragmented.
+
+Cultural boundaries are therefore better modeled as **selective filters** than walls.
+
+**Why it matters**
+
+This explains how the setting can remain culturally distinctive despite heavy migration and trade.
+
+Distinctiveness does not require isolation.
+
+It can arise because different places admit, reject, transform or materially constrain different forms.
+
+**Smallest test**
+
+Choose one route connecting at least three communities and send four forms down it:
+
+1. a word;
+2. a food;
+3. a garment;
+4. a ritual.
+
+Require each form to encounter the same communities.
+
+If all four spread identically, the model is too weak.
+
+If each stops or transforms for different material / social reasons, the candidate passes.
+
+**Disposition**
+
+Strong Phase 7 candidate. The general transmission-cost mechanism is now reflected in [Culture and Influence](../Culture/Culture-and-Influence.md); exact diffusion maps remain provisional.
+
+## Candidate 31 — Shared infrastructure can create cross-border continuity constituencies
+
+**Sources**
+
+- [North Shoulder Paired Roadheads — Middle-Worldbuilding Test](North-Shoulder-Paired-Roadheads-Test.md)
+- [Old Cities Shared Irrigation — Cross-Border Constituency Test](Old-Cities-Shared-Irrigation-Test.md)
+- [Social Fabric](../Social-Fabric.md)
+- [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
+- [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md)
+
+**Connection**
+
+Two independent tests now show the same mechanism through different systems:
+
+1. a mountain transport corridor;
+2. a shared irrigation network.
+
+In both cases, people on opposite sides of a political boundary can depend on the same system remaining usable.
+
+**New implication**
+
+Shared infrastructure can create **cross-border continuity constituencies** among:
+
+- workers;
+- merchants;
+- landholders;
+- households;
+- local officials;
+- guilds;
+- religious / charitable institutions;
+- technical specialists.
+
+Those constituencies may pressure their own rulers to preserve:
+
+- access;
+- maintenance;
+- warning;
+- records;
+- limited cooperation.
+
+They do not need to support political union or broad peace.
+
+**Important limit**
+
+The same dependence can create coercive leverage.
+
+The stabilizing effect weakens when:
+
+- one side can exit cheaply;
+- dependence is highly asymmetric;
+- one side can control the system without meaningful cost;
+- a ruler benefits more from disruption than continuity.
+
+**Why it matters**
+
+This creates a grounded mechanism for limited cooperation inside political rivalry:
+
+shared infrastructure  
+→ repeated interdependence  
+→ local livelihoods on both sides  
+→ pressure to preserve continuity  
+→ conflict constrained in some domains without disappearing
+
+**Promotion test**
+
+Passed twice:
+
+- North Shoulder transport;
+- Old Cities irrigation.
+
+**Disposition**
+
+**Promoted 2026-09-23** in narrowed form to [Social Fabric](../Social-Fabric.md) and [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md). The material-dependence side is also reflected in [Trade and Dependencies](../Economy/Trade-and-Dependencies.md).
+
+Do not generalize this into "interdependence causes peace."
+
 
 ## Promotion rule
 
