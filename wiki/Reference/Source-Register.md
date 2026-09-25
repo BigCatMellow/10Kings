@@ -215,6 +215,24 @@ Use this instead of reopening the large compendia for normal work.
 | How do I make a scene feel like the world existed yesterday? | [Worldbuilding Breath](Worldbuilding-Breath.md) |
 | Is an older fixed claim still canon? | Find the current owner page; if unresolved, [Open Questions](../Open-Questions.md) wins over legacy certainty |
 
+## Legacy V2 salvage pass — 2026-09-25
+
+A second source-level pass was opened after later work demonstrated that the earlier volume-level reconciliation could still hide useful middle-layer material.
+
+Active controls:
+
+- [Legacy Master Salvage Pass — V2](Legacy-Master-Salvage-Pass-V2.md);
+- [Legacy Source-Level V2 Ledger](Legacy-Source-Level-V2-Ledger.md);
+- [Legacy High-Salvage Deep Review — V2](Legacy-High-Salvage-Deep-Review-V2.md).
+
+The V2 ledger accounts for all **220 original source entries** in the consolidated package.
+
+The purpose was salvage, not restoration.
+
+Current owner pages remain authoritative.
+
+---
+
 ## Culture-depth audit — 2026-09-23
 
 A follow-up audit compared the current Culture owners against legacy Volumes 03, 04, 05, 07 and the culture/worldbuilding guidance in Volume 13.
