@@ -108,6 +108,55 @@ Remote households use local timber, bark, woven materials, clay, stone, and that
 
 Some are raised for wet ground; others partially dug into slopes.
 
+## Community differentiation — edge compacts and interior users
+
+Focused community research now gives Longwood at least two sharply different working community types.
+
+See:
+
+- [Community Analogue Research — Wave 1](../Reference/Community-Analogue-Research-Wave-1.md);
+- [Community Analogue Research — Wave 2](../Reference/Community-Analogue-Research-Wave-2.md);
+- [Community Profiles — P1 Wave 1](../Reference/Community-Profiles-P1-Wave-1.md).
+
+### Western edge compact communities
+
+Near roads / markets / external extraction, communities may support:
+
+- timber / forest-product commerce;
+- wage labor;
+- roads;
+- local enterprise
+
+while resisting concessions that ignore:
+
+- local use rights;
+- obligations;
+- community representation.
+
+Commercial use and stewardship are not opposites.
+
+### Interior use-right communities
+
+Authority may depend on:
+
+- who actually uses a place;
+- which use is claimed;
+- what obligations attach to that use;
+- who counts as a legitimate user.
+
+A right to:
+
+- pass;
+- cut;
+- gather;
+- graze
+
+does not automatically include the others.
+
+Membership itself can be contested.
+
+This is now a major Longwood political / cultural distinction.
+
 ## Food
 
 Longwood cuisine includes more cultivated food than outsiders assume.
