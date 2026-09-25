@@ -120,6 +120,7 @@
 - [Security Conversion and Sphere Sorting V1](Reference/Security-Conversion-and-Sphere-Sorting-V1.md)
 - [War Activation Construction V1](Reference/War-Activation-Construction-V1.md)
 - [Narrative Sequence Spine V1](Reference/Narrative-Sequence-Spine-V1.md)
+- [Wurdren Life Worth Living Arc V1](Reference/Wurdren-Life-Worth-Living-Arc-V1.md)
 - [Three Moons Opening Construction V1](Reference/Three-Moons-Opening-Construction-V1.md)
 - [Conspiracy Capability Ledger V2](Reference/Conspiracy-Capability-Ledger-V2.md)
 - [Domino Design Evolution and Lessons](Reference/Domino-Design-Evolution-and-Lessons.md)
