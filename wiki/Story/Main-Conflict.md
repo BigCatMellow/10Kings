@@ -11,7 +11,8 @@ See:
 - [Villain's Dominoes](Villains-Dominoes.md) — current hidden causal architecture;
 - [The Villain](Villain.md) — motive, operational objective, and moral trajectory;
 - [Economic Council](../Politics/Economic-Council.md) — Council capabilities and limits;
-- [Story Backward Construction — V1](../Reference/Story-Backward-Construction-V1.md) — active MAPS_L end-state-first architecture and unresolved dependency plan.
+- [Story Backward Construction — V1](../Reference/Story-Backward-Construction-V1.md) — active MAPS_L end-state-first architecture;
+- [Narrative Sequence Spine — V1](../Reference/Narrative-Sequence-Spine-V1.md) — draftable forward sequence order derived from the backward plan.
 
 ---
 
