@@ -929,15 +929,28 @@ Do not create secondary POVs solely to explain lore.
 
 **Not required in the opening.**
 
-If later narrative design chooses Villain POV, keep his full war objective concealed until the chosen reveal point or tightly bound what he consciously exposes on the page.
+The current sequence design chooses the first direct strategic Villain POV **after the initial containment movement**, not during Three Moons.
 
-Current grounded-domino architecture is strongest when the reader initially sees:
+Until then, the grounded-domino architecture is strongest when the reader sees:
 
 > reformer + strange consequences
 
 rather than:
 
 > mastermind explaining the chessboard.
+
+Once direct strategic POV begins, however, do not cheat by suppressing the basic goal he consciously knows.
+
+At that point the reader may learn that he believes only a severe systemic crisis can force a new Port settlement and that he is willing to cultivate a war-permissive state.
+
+The mystery can remain in:
+
+- exact interventions;
+- which branch he will use;
+- what will actually ignite;
+- how far he will go.
+
+Not in a thought he would obviously be thinking.
 
 ---
 
