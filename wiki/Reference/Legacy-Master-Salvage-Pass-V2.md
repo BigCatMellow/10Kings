@@ -156,7 +156,15 @@ Prefer promotion into existing owners.
 
 # 6. Volume screen status
 
-All 14 consolidated thematic volumes have now received a **source-section inventory screen** as the opening of V2.
+All 14 consolidated thematic volumes have now received a **source-section inventory screen**.
+
+The source-level inventory now accounts for all **220 original source entries**:
+
+- [Legacy Source-Level V2 Inventory](Legacy-Source-Level-V2-Inventory.md)
+
+The densest high-salvage sources also received a focused semantic pass:
+
+- [Legacy High-Salvage Deep Review — V2](Legacy-High-Salvage-Deep-Review-V2.md)
 
 | Volume | Original sources | V2 screen | Deep-review focus |
 | --- | ---: | --- | --- |
