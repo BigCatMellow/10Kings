@@ -319,7 +319,7 @@ This prevents later agents from mistaking salvage for wholesale canon restoratio
 
 ---
 
-# 10. Completion target
+# 9. Completion target
 
 When V2 is complete, a future agent should be able to ask:
 
