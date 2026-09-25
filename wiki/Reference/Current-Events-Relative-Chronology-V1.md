@@ -603,7 +603,71 @@ That is the clearest form of his moral collapse.
 
 ---
 
-# 13. Wurdren's chronology — counter-domino rather than rival mastermind
+# 13. Phase 10 — public authority crisis / negotiated pause
+
+See [Story Backward Construction — V1](Story-Backward-Construction-V1.md).
+
+The Port crisis should not end merely with:
+
+> Port rejects the Villain.
+
+The stronger current direction is that Port **uses the crisis to exercise the agency the Villain said it lacked**.
+
+Working sequence:
+
+1. rival wartime demands make ordinary neutral operation increasingly contradictory;
+2. Council-linked actors visibly coordinate enough shared systems that hidden authority becomes harder to deny;
+3. the Villain exposes the broader pattern of private coordination;
+4. evidence of his own escalation / withholding also becomes politically credible;
+5. Port constituencies reject the binary of:
+   - restore secret Council discretion;
+   - let the Villain decide Port's future;
+6. Port asserts a temporary **neutral-access / emergency operating regime** over systems it actually controls;
+7. belligerents accept a negotiated pause because predictable Port access / shared systems now matter more than unrestricted escalation.
+
+The exact emergency rules remain open.
+
+The key category change is:
+
+> **Port stops being only the object whose neutrality everyone interprets and becomes an actor capable of setting bounded terms for how neutrality functions.**
+
+This is the first visible sapling of the later settlement.
+
+---
+
+# 14. Phase 11 — first Port settlement
+
+The immediate postwar result should be a **minimum viable successor settlement**, not a complete final constitution.
+
+Required direction:
+
+- materially greater Port agency;
+- continued neutrality;
+- public recognition that some cross-border coordination is unavoidable;
+- Council knowledge / capability transformed rather than erased;
+- no successor body simply inherits the Council's whole hidden discretionary position;
+- review / contestation / representation become part of the coordination problem;
+- later amendment remains possible.
+
+The Villain therefore wins the structural point:
+
+> the old Port arrangement cannot return unchanged.
+
+But he does not own the result.
+
+Port factions, outside powers, guilds, workers, local authorities, and other affected actors bargain over what the new arrangement becomes.
+
+That distinction is central:
+
+> **Port choosing a reform the Villain does not fully control is not the defeat of Port agency. It is Port agency becoming real.**
+
+A working long-horizon epilogue then returns to Port at Three Moons 98 years later, after fourteen festival cycles, to show how those first emergency / settlement arrangements have been revised and normalized.
+
+Exact constitutional institutions and the Villain's personal fate remain open.
+
+---
+
+# 15. Wurdren's chronology — counter-domino rather than rival mastermind
 
 Wurdren's story should cut across the phases through **successful local repair**.
 
@@ -641,7 +705,7 @@ His strength is that people who would otherwise act on fear still have someone t
 
 ---
 
-# 14. Intervention afterlife ledger
+# 16. Intervention afterlife ledger
 
 Every containment / response should leave something behind.
 
@@ -732,7 +796,7 @@ The rule is:
 
 ---
 
-# 15. Opening pressure board
+# 17. Opening pressure board
 
 This is a **working author snapshot**, not a permanent canon table.
 
@@ -796,7 +860,7 @@ State: **early GREEN candidate**
 
 ---
 
-# 16. What remains deliberately open
+# 18. What remains deliberately open
 
 Do not lock these merely because this chronology exists:
 
