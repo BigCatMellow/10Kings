@@ -745,6 +745,8 @@ The movement is complete when:
 - Stone Hills / High Roads / guarantee behavior are visibly converting ordinary protection into security capability;
 - Port's underlying grievance remains unsolved.
 
-The next movement should begin only then:
+The next movement is now built in:
 
-> **Security Conversion and Sphere Sorting — how defensive capability becomes mutual evidence of hostile preparation.**
+- [Security Conversion and Sphere Sorting — V1](Security-Conversion-and-Sphere-Sorting-V1.md).
+
+The full forward order is routed through [Narrative Sequence Spine — V1](Narrative-Sequence-Spine-V1.md).
