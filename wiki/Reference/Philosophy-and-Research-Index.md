@@ -19,6 +19,58 @@ Volume 14 contains:
 
 The useful thing to preserve is the **research routing**, not the old summaries as authoritative scholarship.
 
+## Verified uploaded philosophy sources — 2026-09-25
+
+The project now has a reviewed source layer derived from the uploaded full-text / textbook PDFs.
+
+Start with:
+
+- [Philosophy Source Synthesis — V1](Philosophy-Sources/Philosophy-Source-Synthesis-V1.md) — cross-source application to Council, Villain, Wurdren, Port, war, and the successor settlement.
+
+Per-source notes:
+
+- [Paul Kleinman — *Philosophy 101*](Philosophy-Sources/Paul-Kleinman-Philosophy-101.md) — quick conceptual reference; strongest for prisoner's dilemma, utilitarianism, double effect, Hobbes, Marx, and language;
+- [Nigel Warburton — *Philosophy: The Classics*](Philosophy-Sources/Nigel-Warburton-Philosophy-The-Classics.md) — strongest uploaded source for Hobbes, Locke, Rousseau, Kant, Mill, Marx, Popper, and Rawls;
+- [OpenStax — *Introduction to Philosophy*](Philosophy-Sources/OpenStax-Introduction-to-Philosophy.md) — strongest uploaded source for social epistemology, epistemic injustice, legitimacy terminology, normative ethics, positive / negative liberty, communitarianism, and Rawls;
+- [Martinich & Sosa — *Analytic Philosophy: An Anthology*](Philosophy-Sources/Martinich-Sosa-Analytic-Philosophy-An-Anthology.md) — usable primarily for language / reference; the uploaded copy is truncated before its listed ethics and freedom sections;
+- [*Compact Anthology of World Literature, Part One*](Philosophy-Sources/Compact-Anthology-World-Literature-Part-1.md) — adjacent literary / cultural source for hero versus leader, Confucian role ethics, Sun Tzu, the *Bhagavad Gita*, and historical memory.
+
+### Source-use rule
+
+The source notes distinguish:
+
+- **source-derived point** — what the uploaded text actually supports;
+- **10Kings application** — our setting/story synthesis.
+
+Do not reverse that relationship by treating a 10Kings application as if the philosopher or source explicitly argued it.
+
+### Current strongest philosophical spine
+
+The reviewed sources now give direct support for researching:
+
+1. **legitimacy versus competence**;
+2. **positive agency versus mere non-interference**;
+3. **collective-action / security dilemmas**;
+4. **the common good versus paternalism**;
+5. **persons as ends rather than instruments**;
+6. **consequences versus durable rules and constraints**;
+7. **social epistemology and whose knowledge counts**;
+8. **material conditions beneath political language**;
+9. **anti-historicism / resistance to claims of inevitable history**;
+10. **fairness in designing the successor settlement**.
+
+They do **not** yet adequately cover:
+
+- dirty hands;
+- moral luck;
+- republican non-domination;
+- Arendt's power / violence distinction;
+- Camus / Beauvoir on revolutionary limits.
+
+Those remain explicit future research targets rather than gaps to fill from memory.
+
+---
+
 ## Important rule
 
 Before quoting, citing, or relying on a philosophical claim from Volume 14:
