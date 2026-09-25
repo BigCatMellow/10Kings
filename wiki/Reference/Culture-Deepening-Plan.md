@@ -54,6 +54,20 @@ not:
 
 > How can we justify keeping what we already wrote?
 
+## Cultural analogue coverage checkpoint — 2026-09-25
+
+A dedicated audit now tracks the missing community-level comparative layer:
+
+- [Cultural Analogue Coverage Assessment — V1](Cultural-Analogue-Coverage-Assessment-V1.md).
+
+Main finding:
+
+> **The broad culture system and local-life mechanics are strong. The missing layer is specific community ↔ specific real-world comparative research, especially actual mobile peoples / circuits.**
+
+Do not respond to this gap by adding more region-wide flavor.
+
+The next culture research should work at the **community / circuit / neighborhood** scale.
+
 ## Executive finding
 
 The current culture wiki is **methodologically stronger but materially thinner** than the old notes.
