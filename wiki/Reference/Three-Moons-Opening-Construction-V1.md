@@ -649,27 +649,39 @@ He does something small:
 
 ## Outcome
 
-The dispute is narrowed enough for:
+The Port confrontation is narrowed enough that the parties **do not escalate immediately**.
 
-- route redesign;
-- compensation;
-- limited use;
-- delayed work;
-- another bounded compromise.
+They now possess:
 
-The branch genuinely **fails to escalate**.
+- corrected / compared records;
+- a clearer statement of the actual disputed rights;
+- a reason to continue negotiation at the affected place rather than fight through rumor;
+- enough trust for at least one person to agree to return and test a bounded compromise.
+
+The branch is **not fully solved in Port**.
+
+That would make the festival unrealistically capable of settling a local jurisdictional dispute at a distance.
+
+Instead, Wurdren's intervention creates the conditions for the later on-site Longwood compromise.
 
 ### Why this belongs in the opening movement
 
 It teaches the reader early:
 
-> direct contact and ordinary competence can stop a crisis.
+> direct contact can make escalation less inevitable even before the underlying problem is solved.
 
-That makes the later war a tragedy of contingency rather than destiny.
+That makes the later successful containment feel earned rather than miraculous.
 
 ### Later seed
 
 At least one participant can recur because the relationship itself matters later.
+
+A particularly strong continuation is for Wurdren to accompany / assist the returning party because:
+
+- he already helped establish trust;
+- the dispute still has local stakes;
+- he has ordinary escort / mediation competence;
+- the trip follows an unfinished human obligation rather than a need to tour the setting.
 
 Do not keep every participant.
 
