@@ -135,6 +135,7 @@
 - [Cultural Analogue Coverage Assessment V1](Reference/Cultural-Analogue-Coverage-Assessment-V1.md)
 - [Community to Analogue Matrix V1](Reference/Community-to-Analogue-Matrix-V1.md)
 - [Community Analogue Research Wave 1](Reference/Community-Analogue-Research-Wave-1.md)
+- [Community Analogue Research Wave 2](Reference/Community-Analogue-Research-Wave-2.md)
 - [Mobile Peoples Comparative Research V1](Reference/Mobile-Peoples-Comparative-Research-V1.md)
 - [Mobile Circuits Working Profiles V1](Reference/Mobile-Circuits-Working-Profiles-V1.md)
 - [Mythic Creature Community Variants V1](Reference/Mythic-Creature-Community-Variants-V1.md)
