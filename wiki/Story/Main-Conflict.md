@@ -7,6 +7,7 @@
 See:
 
 - [Current Events](Current-Events.md) — authoritative live pressures;
+- [Current Events Relative Chronology — V1](../Reference/Current-Events-Relative-Chronology-V1.md) — author-side causal ordering, Three Moons opening default, containment, residue, and adaptive redirection;
 - [Villain's Dominoes](Villains-Dominoes.md) — current hidden causal architecture;
 - [The Villain](Villain.md) — motive, operational objective, and moral trajectory;
 - [Economic Council](../Politics/Economic-Council.md) — Council capabilities and limits.
@@ -110,6 +111,8 @@ He changes enough relationships that the system stops behaving exactly as either
 ---
 
 # 3. Plot movement — causal handoffs
+
+The relative chronology provides the temporal spine, but it does **not** make every braid mandatory. It fixes prerequisites and category changes while allowing local events to overlap, fail, or be replaced by another feeder route.
 
 A good chapter chain should look like:
 
