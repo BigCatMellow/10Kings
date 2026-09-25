@@ -450,6 +450,47 @@ That tension should appear in the centralization debate.
 
 ---
 
+## Reputation enforcement and professional exclusion
+
+Legacy guild economics contains a strong mechanism that survives the old guild roster:
+
+> a guild's most powerful punishment may be **loss of trust**, not physical force.
+
+Possible sanctions include:
+
+- refusing to certify work;
+- refusing reciprocal recognition;
+- denying access to shared warehouses / yards;
+- removing someone from approved contractor lists;
+- warning other branches about unpaid debts or broken contracts;
+- refusing apprenticeship placement;
+- refusing to guarantee a member's work.
+
+In a dense professional network, this can function like a blacklist.
+
+That power has legitimate uses:
+
+- fraud;
+- dangerous work;
+- repeated contract breaking.
+
+It can also be abused against:
+
+- dissidents;
+- independents;
+- small competitors;
+- unpopular political factions.
+
+This gives guild centralization another source of resistance.
+
+A Port-centered shared credential / records system can make good actors easier to trust across borders.
+
+It can also make exclusion travel farther and faster than it used to.
+
+That is a real cost of interoperability.
+
+---
+
 ## Guilds inside the wider social fabric
 
 See [Social Fabric](../Social-Fabric.md).
