@@ -467,7 +467,47 @@ That makes his later choices more tragic.
 
 ---
 
-# 13. Moral trajectory
+# 13. Port can reject him
+
+His legitimacy is not guaranteed simply because his grievance is real.
+
+Legacy story material preserves an important failure condition:
+
+> **the people he claims to be saving may decide they do not accept the price he is paying in their name.**
+
+Signs can include:
+
+- Port families leaving because they expect retaliation or war;
+- guild branches withdrawing cooperation;
+- neighborhoods refusing to shelter his people;
+- former supporters backing a compromise he considers inadequate;
+- relief workers objecting when aid becomes conditional on political usefulness;
+- merchants deciding his instability now costs more than outside red tape did;
+- public figures who supported reform denouncing manufactured violence.
+
+This matters because his entire political argument depends on:
+
+> **Port deserves agency.**
+
+If Port residents clearly exercise agency **against him**, he faces a contradiction.
+
+He can either:
+
+- accept their choice;
+- negotiate;
+- or decide that he understands Port's interests better than Port does.
+
+The third option marks a major stage in his corruption.
+
+A useful late-story signal is not merely that outsiders discover what he did.
+
+It is that people inside Port begin asking:
+
+> "Who gave you permission to spend our lives?"
+
+---
+
+# 14. Moral trajectory
 
 His descent should be visible in what kind of intervention he is willing to make.
 
@@ -517,7 +557,7 @@ That is where he fully reproduces the logic he opposed.
 
 ---
 
-# 14. Relationship to Wurdren
+# 15. Relationship to Wurdren
 
 Wurdren threatens him because Wurdren can demonstrate something politically dangerous:
 
@@ -540,7 +580,7 @@ They suggest Port's problem might be reparable without requiring the crisis to b
 
 ---
 
-# 15. Ending principle
+# 16. Ending principle
 
 The Villain should not simply be killed and thereby proven wrong.
 
@@ -569,7 +609,7 @@ The Villain may help make those reforms unavoidable while losing control of the 
 
 ---
 
-# 16. Still open
+# 17. Still open
 
 - name;
 - whether he is Port-born or adopted Port as home;
