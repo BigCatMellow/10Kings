@@ -2073,3 +2073,409 @@ The next backward dependency is now narrower:
 > **Which earlier current-event solutions, relationships, records, and guarantees specifically have to exist so each late beat has something already planted to call upon?**
 
 That next pass should connect the current-event braids to these late-story requirements rather than inventing unrelated new plot machinery.
+
+
+---
+
+# 32. Third backward pass — seed the ending into the existing current-event field
+
+## Status
+
+**Working integration pass.**
+
+No new regional crisis is needed to support the ending.
+
+The current event field already contains enough material.
+
+The job is to preserve the **right residue** from each crisis so the late story can call back to something the reader has already seen.
+
+---
+
+# 33. Early-to-late seed matrix
+
+| Existing pressure / response | Early result | Residue that must survive | Late-story payoff |
+| --- | --- | --- | --- |
+| **North Coast maritime risk / convoy compromise** | immediate losses / uncertainty partly reduced | schedules, escort contracts, reporting, shared command / cost arguments | later armed-access norms and convoy guarantees already exist; Port can adapt a familiar idea rather than invent neutral-access coordination from nothing |
+| **Low Rivers abundance / Council-linked stabilization** | producer collapse is reduced | guarantees, debt transfers, buyer relationships, storage decisions, gratitude / resentment | distributed documentary evidence of hidden cross-border coordination; later constituencies both defend and condemn Council power |
+| **Stone Hills labor / strategic allocation** | production continues or a labor settlement is reached | priority clauses, strategic procurement, export / allocation logic, workers who know where high-value output goes | commercial rules become security rules; records help demonstrate how civilian production was already being organized around strategic need |
+| **High Roads insecurity / inspections / rerouting** | some routes become safer, others lose traffic | inspection practice, route-security authority, escorts, alternative corridors, legal disputes | armed passage / inspection conflict becomes plausible before war; later ceasefire can reuse route-law habits |
+| **Longwood rights / route compromise** | one escalation branch genuinely dies | clarified rights, compensation / limited-use precedent, actors who learned direct negotiation can work | proves emergency need does not erase local rights; supplies cross-faction trust and a model for bounded rather than total authority |
+| **Old Cities water cooperation** | drought risk is partly managed | shared records, technical meetings, repeated coordination, rival fear of permanent bloc | public coordination has an existing non-war precedent; rival counter-guarantees help harden security spheres |
+| **Spine / Underpass disruption + bypasses** | alternate movement becomes more important | independent carriers, secondary routes, mutual-aid / relief links, direct producer relationships | Port reform coalition can demonstrate some resilience outside dominant Council-linked channels; Port has bargaining capacity rather than only grievance |
+| **Port festival / capacity strain** | city survives Three Moons but pays visible costs | housing / infrastructure grievance, emergency coordination, guild offices, political factions, public memory of who handled strain | later wartime Port politics have existing constituencies and procedural experience; emergency authority is not invented in the climax |
+| **guild concentration / cross-guild coordination** | contracts / credentials / communication get easier | permanent representatives, centralizers, federal coordinators, localists, small-member resistance | final emergency coalition can coordinate quickly while still arguing about who gets authority; successor institutions inherit both capability and anti-centralization safeguards |
+
+The ending therefore grows from **successful and failed responses**, not only from crises.
+
+---
+
+# 34. The current-event branches now have explicit late jobs
+
+## North Coast job — teach the world how security coordination becomes normal
+
+The North Coast branch should do more than create maritime danger.
+
+Its deeper job is to normalize:
+
+- convoy scheduling;
+- shared reporting;
+- armed protection;
+- cost / command arguments;
+- the language of temporary security exceptions.
+
+If the political crisis is partly contained, that is better.
+
+The later war then inherits a security apparatus created by a **successful earlier compromise**.
+
+That supports:
+
+> solved crisis ≠ restored old world.
+
+---
+
+## Low Rivers job — make hidden coordination morally ambiguous and documentable
+
+Low Rivers is particularly useful because the baseline crisis is abundance rather than scarcity.
+
+Council-linked stabilization can clearly help people while also:
+
+- choosing buyers;
+- changing debt;
+- deciding whose failure is prevented;
+- concentrating durable relationships.
+
+This gives the final Council exposure its best moral texture.
+
+The records should not say:
+
+> secret rulers caused the harvest.
+
+They should show:
+
+> hidden actors decided how the consequences were distributed.
+
+That is much stronger.
+
+Possible Wurdren function:
+
+- preserve / compare one local record;
+- protect a clerk / merchant / farmer whose testimony later matters.
+
+---
+
+## Stone Hills job — convert economics into strategic politics
+
+Stone Hills should provide the clearest evidence that:
+
+> ordinary production decisions are becoming security decisions.
+
+The progression can be:
+
+~~~text
+labor grievance
+→ irregular civilian demand
+→ valuable strategic orders remain
+→ arguments over priority / secrecy
+→ allocation rules
+→ export / supply anxiety
+→ other actors interpret allocation as preparation
+~~~
+
+The late war then does not require a sudden "wartime economy."
+
+Part of the institutional machinery already exists.
+
+---
+
+## High Roads job — make movement rules politically explosive
+
+High Roads should establish that:
+
+- inspection;
+- passage;
+- rerouting;
+- escort;
+- route authority
+
+are already legal / political questions before open war.
+
+This creates a natural bridge to the likely final-spark class:
+
+> **a guaranteed shipment / convoy whose cargo classification, inspection, or passage rights are disputed.**
+
+Exact geography remains open.
+
+The important thing is that the spark invokes rules the reader has already seen people arguing about.
+
+---
+
+## Longwood job — prove coercion is not always necessary
+
+The Longwood compromise has a special thematic role.
+
+It should be one of the story's strongest pieces of evidence that:
+
+- complex jurisdiction can be negotiated;
+- emergency need does not automatically override local rights;
+- direct comparison of documents / claims can stop escalation.
+
+This should genuinely frustrate the Villain.
+
+He must adapt rather than sabotage the settlement merely because peace is inconvenient.
+
+If Wurdren causes or materially helps this containment, it gives him one of his best counter-dominoes.
+
+Late payoff:
+
+someone involved in this compromise can credibly argue during Port's crisis:
+
+> **we have already seen that urgency does not create unlimited authority.**
+
+---
+
+## Old Cities job — show public coordination can exist before the successor order
+
+Old Cities water cooperation should not become a miniature continental government.
+
+Its role is smaller:
+
+- demonstrate that sovereign political units can share technical information / procedures around a problem none can solve alone;
+- create records / meetings / trust;
+- simultaneously provoke fear that functional cooperation will become political centralization.
+
+This is almost a small-scale rehearsal of the final problem.
+
+Both sides of the argument survive into the successor order.
+
+---
+
+## Underpass / bypass job — give Port real leverage
+
+The Villain's alternative capacity cannot merely be propaganda.
+
+By late story, some networks outside dominant Council-linked channels should have actually:
+
+- moved relief;
+- carried information;
+- supported contracts;
+- preserved limited supply.
+
+They should remain lower-capacity and imperfect.
+
+That matters because Port's final bargaining position becomes:
+
+> **we still need the wider system, but we are no longer so helpless that every negotiation is a plea.**
+
+That is agency rather than autarky.
+
+---
+
+## Guild / Three Moons job — create the people who can improvise a public response
+
+The final emergency coalition should have roots in the opening.
+
+Three Moons / guild concentration can establish:
+
+- people who know one another across regions;
+- clerical / record interoperability;
+- meeting habits;
+- credential recognition;
+- arguments over permanent versus rotating authority;
+- localist resistance to centralization.
+
+Later, when the Council's hidden coordination becomes politically unusable, those relationships offer a **publicly legible coordination substrate**.
+
+This is important:
+
+> the successor order does not emerge from nothing after the reveal.
+
+Its human / administrative precursor has been forming in plain sight.
+
+---
+
+# 35. Working final-spark class narrowed by the backward plan
+
+The exact war spark remains open, but the backward pass now gives it stronger constraints.
+
+A strong spark should involve:
+
+> **a shipment / convoy / passage whose legal classification and strategic meaning differ depending on who is looking at it.**
+
+It should allow several earlier systems to converge:
+
+- Stone Hills strategic allocation;
+- North Coast convoy / escort practice;
+- High Roads / harbor inspection logic;
+- competitive guarantees;
+- Port access / neutrality concerns;
+- credit / insurance consequences.
+
+Possible broad forms:
+
+- strategic cargo is detained / inspected under one authority's rules and protected under another's guarantee;
+- a convoy refuses an inspection it considers illegitimate;
+- a shipment believed civilian by one side is classified military-use by another;
+- a seizure / detention at a chokepoint triggers a guarantee.
+
+Why this class is stronger than a random assassination / border raid:
+
+- the dispute grows directly from established world systems;
+- both sides can have locally coherent legal arguments;
+- the incident matters because the system is already war-permissive;
+- the later Port crisis feels like escalation of the same unresolved access / classification problem.
+
+Do **not** lock the exact cargo, location, deaths, or parties until political geography / chapter needs require them.
+
+---
+
+# 36. Wurdren's earlier seed requirements
+
+Wurdren needs only a few deliberate recurring threads.
+
+Avoid giving him a connection in every region merely so he can cash it in later.
+
+## Thread A — Longwood / negotiated rights
+
+Best current candidate for a true counter-domino.
+
+Early function:
+
+- direct contact;
+- compare real claims / documents;
+- stop an emergency route dispute from becoming dispossession / violence.
+
+Late function:
+
+- preserve a person / relationship with credibility on bounded emergency authority.
+
+## Thread B — records / ordinary economic harm
+
+Best candidate class:
+
+- Low Rivers;
+- Port credit;
+- Stone Hills contract;
+- High Roads shipment.
+
+Early function:
+
+Wurdren treats the record as important because one person / family / local dispute depends on it.
+
+Late function:
+
+the record becomes one piece in a larger pattern.
+
+## Thread C — Port constituency
+
+Wurdren should earn trust with at least one group that is **not** a system-level elite:
+
+- harbor labor;
+- neighborhood relief;
+- displaced / migrant residents;
+- small guild members.
+
+Late function:
+
+when Port politics becomes a constitutional fight, he can help keep their testimony / participation from being abstracted away.
+
+Three threads are enough.
+
+---
+
+# 37. Council evidence should be planted in successful help
+
+To prevent the final reveal from becoming cartoon villain evidence, some of the clearest Council documentation should come from interventions the reader was glad happened.
+
+Examples:
+
+- a guarantee that kept Low Rivers buyers solvent;
+- a route-finance package that reopened movement;
+- emergency material allocation that prevented repair failure;
+- warehouse / food coordination that reduced shortage.
+
+Later cross-comparison shows:
+
+- the same hidden relationships;
+- the same decision layer;
+- the same ability to move across jurisdictions.
+
+This creates the correct discomfort:
+
+> **the evidence that proves the Council has too much unaccountable power is also evidence that the power sometimes saved people.**
+
+That tension must survive the reveal.
+
+---
+
+# 38. Villain evidence should be planted in apparently defensible choices
+
+Likewise, do not reserve all incriminating evidence for obviously evil acts.
+
+Early records can be morally ambiguous:
+
+- supporting a strike fund;
+- financing a bypass;
+- paying for information;
+- buying distressed cargo;
+- helping a Port relief network;
+- publicizing a real abusive contract.
+
+Only later does the pattern show:
+
+- which timing was deliberate;
+- which information was withheld;
+- which pressure he was willing to let worsen;
+- which apparently independent interventions served the same escalation objective.
+
+This lets the reader experience his moral drift rather than discover a secret villain switch.
+
+---
+
+# 39. Opening obligations created by the ending
+
+The working Three Moons opening now has specific requirements.
+
+Within the opening movement, the reader should encounter—through story rather than lecture—at least:
+
+1. **Port pride:** the city really is a place where the world meets.
+2. **Port cost:** ordinary residents pay for that centrality.
+3. **Villain legitimacy:** people can point to useful work he has actually done.
+4. **Port disagreement:** people who share the grievance disagree over centralization / neutrality / labor / local power.
+5. **Council benefit:** one quiet intervention prevents something worse.
+6. **Council cost:** somebody less visible loses because of that same style of intervention.
+7. **Wurdren's scale:** he cares about a concrete problem before he understands its systemic relevance.
+8. **multiple current-event fragments:** no exposition dump, only separate complaints / contracts / rumors.
+9. **guild coordination as both useful and threatening.**
+10. **one early example of direct contact correcting a false or incomplete assumption.**
+
+If those ten things are present, the ending will have material to echo.
+
+---
+
+# 40. Third-pass result
+
+The story does not require another major invented crisis.
+
+Its existing pressure field already contains the ingredients of the ending.
+
+The key design move is now:
+
+> **treat early solutions as the origin of late capabilities.**
+
+The causal architecture is becoming:
+
+~~~text
+REAL PRESSURES
+→ practical responses
+→ some successful containment
+→ institutional residue
+→ residue becomes security / coordination capability
+→ capability enters war
+→ war makes Port's old settlement unworkable
+→ Port uses accumulated local / guild / bypass capability to act
+→ Council and Villain are both exposed
+→ first settlement reassigns authority rather than pretending coordination can disappear
+→ later generations normalize / revise the result
+~~~
+
+The next forward-design pass can now focus on the **opening movement around Three Moons**, because the ending has told us exactly what the opening must plant.
