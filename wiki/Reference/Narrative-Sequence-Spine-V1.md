@@ -25,7 +25,8 @@ Primary sources:
 - [Security Conversion and Sphere Sorting — V1](Security-Conversion-and-Sphere-Sorting-V1.md);
 - [War Activation Construction — V1](War-Activation-Construction-V1.md);
 - [Main Conflict](../Story/Main-Conflict.md);
-- [Wurdren — Life Worth Living / Complete Person Arc — V1](Wurdren-Life-Worth-Living-Arc-V1.md).
+- [Wurdren — Life Worth Living / Complete Person Arc — V1](Wurdren-Life-Worth-Living-Arc-V1.md);
+- [Opening Scene Construction — V1](Opening-Scene-Construction-V1.md) — scene-level implementation for Sequences 1–6.
 
 ---
 
