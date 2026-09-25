@@ -695,3 +695,109 @@ And:
 > **At least one important branch must visibly fail before the plan reaches war.**
 
 This keeps the Villain adaptive in the actual narrative rather than adaptive only in author-side theory.
+
+
+---
+
+# 16. Change record — backward construction from the ending
+
+## Problem
+
+The escalation architecture had become substantially stronger than the ending architecture.
+
+That created a risk that:
+
+- the Villain's years of buildup would collapse into simple defeat;
+- the Council would be exposed and then unrealistically disappear;
+- Wurdren would either become irrelevant or be promoted into a rival mastermind;
+- the ending would invent a new constitutional answer without earlier causal roots.
+
+## Change
+
+Added:
+
+- [Story Backward Construction — V1](Story-Backward-Construction-V1.md).
+
+The story is now being built backward from a defined destination before additional forward scene detail is added.
+
+## New design lessons
+
+### Structural victory does not require personal control
+
+> **A character can successfully force historical change without owning the institutions later generations build from that change.**
+
+For the Villain this means:
+
+- Port really changes;
+- the old settlement really ends;
+- his diagnosis is historically consequential;
+- later people still reject his claim to decide what the new order must become.
+
+This is stronger than either:
+
+- "the villain was wrong";
+- or "the villain wins and rules."
+
+### Successful solutions are future plot infrastructure
+
+The current-event containment pass already established:
+
+> solved crisis ≠ restored old world.
+
+Backward construction makes that more specific.
+
+An early successful response can later become:
+
+- a security capability;
+- a legal precedent;
+- a coordination habit;
+- a documentary trail;
+- a political constituency;
+- a trusted relationship.
+
+Therefore:
+
+> **the strongest late-story machinery should be built out of earlier solutions, not newly introduced climax mechanisms.**
+
+Examples now routed through the backward plan include:
+
+- convoy compromise → later armed-access / scheduling capability;
+- Longwood compromise → bounded emergency-authority precedent;
+- Low Rivers stabilization → Council evidence / competing legitimacy;
+- Old Cities technical cooperation → public cross-jurisdiction coordination precedent;
+- guild / Three Moons coordination → later emergency coordination substrate.
+
+### Historical causation is not moral vindication
+
+The century-later world may be better in important ways because the Villain forced a rupture.
+
+That must not silently establish:
+
+> his particular war was the only possible path.
+
+Counter-dominoes, failed branches, successful local cooperation, and later historical disagreement remain necessary evidence that the future was contingent.
+
+### The climax should reassign authority, not eliminate capability
+
+The Council's problem is not that coordination exists.
+
+It is:
+
+> **capability without legitimate authority.**
+
+The ending therefore needs to change:
+
+- who can decide;
+- who can contest;
+- who can see records;
+- how authority is distributed;
+
+rather than pretending the underlying coordination problem disappears.
+
+## New rule
+
+> **When building backward from an institutional ending, seed the climax's capabilities as ordinary earlier responses and compromises.**
+
+And:
+
+> **Do not make the final political order depend on a mechanism the reader did not already see people learning how to use.**
