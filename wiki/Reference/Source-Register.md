@@ -878,3 +878,76 @@ The import did **not** settle these:
 - which named festivals, wars, towns and dishes graduate from provisional texture into established canon.
 
 Do not promote them merely because an old compendium states them confidently.
+
+## Uploaded philosophy-source review — 2026-09-25
+
+A new project-source pass reviewed the philosophy PDFs uploaded for the current story / ending work.
+
+Disposition: **research/reference only — not setting canon.**
+
+The raw books remain project source material. They were **not copied into the repository**. The repository stores only focused derivative research notes and routing.
+
+### Unique sources reviewed
+
+Duplicate uploads of the same title / file size were treated as duplicate packaging rather than separate authorities.
+
+| Source | Disposition | Repo note |
+| --- | --- | --- |
+| Paul Kleinman, *Philosophy 101* | broad introductory concept map | [source note](Philosophy-Sources/Paul-Kleinman-Philosophy-101.md) |
+| Nigel Warburton, *Philosophy: The Classics*, 4th ed. | primary uploaded work-by-work political / ethical reference | [source note](Philosophy-Sources/Nigel-Warburton-Philosophy-The-Classics.md) |
+| OpenStax, *Introduction to Philosophy* (2022) | primary uploaded thematic reference; especially social epistemology / legitimacy / ethics | [source note](Philosophy-Sources/OpenStax-Introduction-to-Philosophy.md) |
+| A. P. Martinich & David Sosa, eds., *Analytic Philosophy: An Anthology* | limited to actually present language / metaphysics material | [source note](Philosophy-Sources/Martinich-Sosa-Analytic-Philosophy-An-Anthology.md) |
+| *Compact Anthology of World Literature, Part One* | adjacent literary / cultural research, not philosophy authority | [source note](Philosophy-Sources/Compact-Anthology-World-Literature-Part-1.md) |
+
+Cross-source synthesis:
+
+- [Philosophy Source Synthesis — V1](Philosophy-Sources/Philosophy-Source-Synthesis-V1.md).
+
+### Important source limitation
+
+The uploaded *Analytic Philosophy: An Anthology* PDF is **truncated**.
+
+Its table of contents lists later parts on:
+
+- freedom / personal identity;
+- ethics;
+- methodology;
+- philosophy and science.
+
+But the actual uploaded PDF ends around printed p. 141 during Quine's “On What There Is.”
+
+Those later listed sections were therefore **not treated as reviewed evidence**.
+
+### Source-grounding rule
+
+Future philosophy work should route:
+
+~~~text
+story / world question
+→ Philosophy and Research Index
+→ verified uploaded source note where available
+→ actual uploaded text if the claim matters
+→ setting-specific synthesis
+~~~
+
+Do not convert:
+
+- a table-of-contents title;
+- an old AI summary;
+- a remembered doctrine;
+- or a 10Kings application
+
+into a philosopher's asserted position without checking the source.
+
+### Current research gaps exposed by the pass
+
+The uploaded packet still does not adequately ground:
+
+- dirty-hands theory / political necessity;
+- moral luck;
+- republican non-domination;
+- Arendt's distinction between power and violence;
+- Camus / Beauvoir on limits of revolutionary action.
+
+These are retained as research targets in the synthesis rather than silently supplemented from general model knowledge.
+
