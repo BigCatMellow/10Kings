@@ -636,3 +636,62 @@ Even piracy should have:
 - beneficiaries;
 - people who hate piracy but oppose anti-piracy centralization;
 - people who gain politically or economically from the security response.
+
+
+---
+
+# 15. Change record — relative chronology without re-rigidifying the plan
+
+## Problem
+
+The current-events owner, stakeholder matrix, adaptive graph, and legacy salvage now contain strong local mechanics, but the story still lacked one answer to:
+
+> **when are these things true relative to one another?**
+
+Without a temporal layer, future outlining could either:
+
+- become vague about what has already happened;
+- accidentally make Three Moons cause crises that predate it;
+- forget that containment leaves residue;
+- or rebuild a fixed V1-style master chain.
+
+## Change
+
+Added:
+
+- [Current Events Relative Chronology — V1](Current-Events-Relative-Chronology-V1.md).
+
+It establishes:
+
+- causal prerequisites rather than exact dates;
+- a working default with Three Moons overlapping the opening movement;
+- pre-festival baseline pressures;
+- defensive responses already crossing systems;
+- Three Moons as an information aggregation / dispersal pulse;
+- required successful containment;
+- explicit Villain expectation failure;
+- intervention afterlife;
+- adaptive redirection;
+- commercial protection converting into security capability;
+- Port's eventual ability to reject the Villain's methods.
+
+## Recovered legacy material now made temporal
+
+The chronology directly activates several V2 salvage findings that previously existed mostly as rules:
+
+- **successful interventions leave political residue**;
+- **Wurdren is a counter-domino**;
+- **Port can reject the Villain**;
+- **institutions split internally rather than acting as single minds**;
+- **professional / guild centralization creates both cooperation and exclusion power**;
+- **ordinary competent people can actually stop escalation**.
+
+## New rule
+
+> **Chronology should constrain causality without predetermining outcome.**
+
+And:
+
+> **At least one important branch must visibly fail before the plan reaches war.**
+
+This keeps the Villain adaptive in the actual narrative rather than adaptive only in author-side theory.
