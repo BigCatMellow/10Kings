@@ -23,7 +23,9 @@ Primary owners / constraints:
 - [Port Estuary and Harbor Geometry — Test](Port-Estuary-Harbor-Geometry-Test.md);
 - [Worldbuilding Breath](Worldbuilding-Breath.md);
 - [Opening Character Packets — V1](Opening-Character-Packets-V1.md);
-- [Opening Scene 1 — Voice and Pacing Test V1](Opening-Scene-1-Voice-Test-V1.md).
+- [Opening Scene 1 — Voice and Pacing Test V1](Opening-Scene-1-Voice-Test-V1.md);
+- [Opening Scene 1 — Voice and Pacing Test V2](Opening-Scene-1-Voice-Test-V2.md) — bounded correction and current prose baseline;
+- [Opening Scene 2 — Records Office Test V1](Opening-Scene-2-Records-Office-Test-V1.md) — first continuation using the V2 voice.
 
 The purpose is to get close enough to prose that missing world decisions become obvious without inventing unnecessary lore.
 
@@ -1034,8 +1036,16 @@ The three recurring opening character packets are now built in [Opening Characte
 
 Scene 1 has also been drafted as a controlled voice / pacing experiment in [Opening Scene 1 — Voice and Pacing Test V1](Opening-Scene-1-Voice-Test-V1.md).
 
+The Scene 1 challenge pass produced a bounded-correction baseline:
+
+- [Opening Scene 1 — Voice and Pacing Test V2](Opening-Scene-1-Voice-Test-V2.md).
+
+Scene 2 has now been drafted against that baseline:
+
+- [Opening Scene 2 — Records Office Test V1](Opening-Scene-2-Records-Office-Test-V1.md).
+
 The next smallest coherent task is:
 
-> **evaluate the Scene 1 voice test against Wurdren's arc, Worldbuilding Breath, and the opening information budget before drafting Scene 2.**
+> **challenge Scene 2 for character-voice differentiation and then draft Scene 3, where the commercial guarantee resolves the grain problem and exposes the first visible cost of hidden triage.**
 
-Do not scale into multiple prose chapters until the narrative voice passes that test.
+Do not scale beyond the opening movement until these first scenes establish a stable prose / character baseline.
