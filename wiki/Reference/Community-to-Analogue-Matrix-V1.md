@@ -11,6 +11,7 @@ Purpose:
 Research waves:
 
 - [Community Analogue Research — Wave 1](Community-Analogue-Research-Wave-1.md) — NC-1, LR-1/LR-4, LW-2, P-1.
+- [Community Analogue Research — Wave 2](Community-Analogue-Research-Wave-2.md) — SH-1, NC-3, OC-1/OC-2, LW-1.
 
 This page implements:
 
@@ -51,7 +52,7 @@ Every final community should combine:
 
 | Community slot | Existing support | Comparator candidates | Mechanisms to research | Status |
 | --- | --- | --- | --- | --- |
-| SH-1 Major industrial mine / civic district | SH-A polity; mine holders; workers; guilds; strategic metal | Welsh / Scottish mining; Central European mining towns; Appalachian labor memory | worker mutual aid; company/civic power; mining safety culture; labor institutions; housing | R1 |
+| SH-1 Major industrial mine / civic district | SH-A polity; mine holders; workers; guilds; strategic metal | South Wales mining communities/workmen's institutes; Butte mining-city social structure | worker civic institutions; mutual aid; owner concentration; migrant neighborhoods; safety/labor culture | **R2** |
 | SH-2 Upland mixed mine-smallholder settlement | Stone Hills mixed economy; highland farms | Andean mining settlements; Appalachian mixed homestead; Ethiopian/Yemeni highland settlement | farm + extraction household economy; seasonal labor; highland transport; stone building | R1 |
 | SH-3 Small hereditary craft town | guild/craft owners | Japanese / Chinese craft lineages; Central European guild towns | apprenticeship residence; workshop inheritance; reputation; quality control | R1 |
 | SH-4 Western foothill contact community | Stone Hills ↔ Low Rivers / Longwood contact | Appalachian foothill; Balkan borderland; mixed farming/craft communities | bilingualism; migrant labor; mixed food/craft; anti-centralization | R0 |
@@ -70,7 +71,7 @@ Every final community should combine:
 | --- | --- | --- | --- | --- |
 | NC-1 Outer island / skerry fishing community | NC-I; seasonal fishery; island autonomy | Lofoten seasonal fishing villages; Shetland local fishing/crofting heritage; wider North Atlantic pool | resident vs seasonal crews; fishing/farming overlap; local island memory; harbor services | **R2** |
 | NC-2 Secondary mixed harbor | harbor jurisdictions; inland exchange | North Atlantic small harbors; Japanese/Korean fishing towns | fishing + farming; repair; seasonal boarders; migrant crews | R1 |
-| NC-3 Major compact harbor | NC-M major harbors | merchant ports; Scandinavian/North Atlantic civic harbors | shipowners vs wage crews; harbor offices; class; convoy finance | R0 |
+| NC-3 Major compact harbor | NC-M major harbors | Bergen/Bryggen merchant harbor; harbor-governance development; North Atlantic seasonal-fishery settlement | merchant quarters; public harbor authority; resident/seasonal labor; storage/finance/class | **R2** |
 | NC-4 Inland coast-linked pastoral/agricultural district | NC-M inland districts | northern mixed farming; island hinterlands | livestock/fiber; winter food; exchange with fishers; different household rhythm | R0 |
 
 ### Myth connections
@@ -120,7 +121,7 @@ Every final community should combine:
 
 | Community slot | Existing support | Comparator candidates | Mechanisms to research | Status |
 | --- | --- | --- | --- | --- |
-| LW-1 Western edge compact community | LW-W | forest-frontier market towns; managed woodland border communities | concessions; migrant labor; negotiated access; road pressure | R0 |
+| LW-1 Western edge compact community | LW-W | Petén community concessions; Mexican community forestry; community representative organizations | concession governance; local enterprise; representation; migrant legitimacy; road/market pressure | **R2** |
 | LW-2 Interior use-right community | LW-I | Nepal forest-user groups; Japanese iriai commons; wider forest-right research | use vs ownership; membership; harvest limits; obligations; local representation | **R2** |
 | LW-3 Southern river / market polity community | LW-S | river-forest markets; Southeast Asian forest-river exchange | commercial forest products; migrant market life; town/rural overlap | R0 |
 | LW-4 Managed woodland community | forest management owner | Japanese satoyama-type research; European coppice commons | rotational use; fuel/timber; common rights; regeneration | R1 |
@@ -137,8 +138,8 @@ Every final community should combine:
 
 | Community slot | Existing support | Comparator candidates | Mechanisms to research | Status |
 | --- | --- | --- | --- | --- |
-| OC-1 Upstream city civic / water culture | OC-U | Mesopotamian/Levantine irrigation cities; Persian water administration | headworks legitimacy; bureaucracy; estates; water leverage | R1 |
-| OC-2 Downstream canal-city neighborhoods | OC-D | downstream irrigation cities; dense canal quarters | maintenance; neighborhood water labor; upstream dependence; mutual aid | R1 |
+| OC-1 Upstream city civic / water culture | OC-U | Omani aflaj; acequia common-property systems; irrigation tribunals | headworks responsibility; water shares; maintenance obligations; specialist dispute authority | **R2** |
+| OC-2 Downstream canal-city neighborhoods | OC-D | Omani aflaj; acequia common-property systems; irrigation tribunals | downstream transparency; maintenance labor; shared records; public water disputes; mutual aid | **R2** |
 | OC-3 Coastal merchant city | OC-C | Mediterranean merchant republics; Maghrebi/Levantine ports | merchant dynasties; maritime law; cosmopolitan neighborhoods | R1 |
 | OC-4 Hinterland irrigation community | uneven hinterlands | village irrigation systems; estate-water systems | city dependence; rural rights; labor; canal upkeep | R1 |
 
@@ -241,27 +242,31 @@ Recommended order:
 - M-2 pastoral circuit;
 - M-3 freight circuit.
 
-## Wave 2 — mythology-critical communities
+## Completed focused waves
+
+### Wave 1
 
 - NC-1 outer island;
-- LR-1 cooperative / flood-water communities;
+- LR-1 / LR-4 water communities;
 - LW-2 interior use-right community;
-- HR-3 northern high-route settlement;
-- OC-1 / OC-2 water cultures;
 - P-1 old harbor neighborhood.
 
-Reason:
-
-> these communities currently carry the strongest legendary-creature variants.
-
-## Wave 3 — economic / political counterweights
+### Wave 2
 
 - SH-1 industrial mine;
-- SH-3 craft town;
 - NC-3 major harbor;
+- OC-1 / OC-2 water cultures;
+- LW-1 western edge.
+
+## Next research wave — remaining economic / political counterweights
+
+- SH-3 craft town;
 - LR-2 estate district;
-- LW-1 western edge;
-- OC-3 coastal merchant city.
+- OC-3 coastal merchant city;
+- HR-1 central switching city;
+- HR-3 northern high-route settlement.
+
+However, enough R2 coverage now exists to begin **P1 provisional community profiles** before another broad research wave.
 
 ## Wave 4 — contact / diaspora
 
@@ -299,22 +304,33 @@ A row reaches **P2** only after stress testing against:
 
 ---
 
-# 14. Immediate next research batch
+# 14. Immediate next development batch
 
-The next focused comparative research should cover:
+Enough focused research now exists for the first P1 conversion.
 
-1. **NC-1 outer-island fishing community**;
-2. **LR-1 / LR-4 water and floodplain communities**;
-3. **LW-2 interior use-right community**;
-4. **P-1 Port harbor-worker neighborhood**.
+Build provisional profiles for:
 
-These four will immediately improve:
+- SH-1 industrial mine / civic district;
+- NC-1 outer-island fishing community;
+- NC-3 major compact harbor;
+- LR-1 cooperative irrigation village;
+- LR-4 floodplain settlement;
+- LW-1 western edge compact community;
+- LW-2 interior use-right community;
+- OC-1 upstream water culture;
+- OC-2 downstream canal-neighborhood culture;
+- P-1 old harbor-worker neighborhood;
+- M-1 / M-2 / M-3 mobile circuits.
 
-- Great Mouth;
-- Marsh Lure;
-- Forest Owner;
-- Estuary Captive
+Each profile must integrate:
 
-while also advancing the broader cultural-worldbuilding gap.
+- livelihood;
+- household;
+- institutions;
+- internal disagreement;
+- neighboring influence;
+- cultural transmission;
+- one myth variant;
+- one current-event vulnerability.
 
-This is the strongest point where the **culture project and myth project become one research program**.
+This is now the strongest point where the **culture project, myth project, and story-pressure project become one program**.
