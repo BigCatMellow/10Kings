@@ -16,6 +16,8 @@ The older six-character / one-per-region domino model is superseded.
 
 [Adaptive War Escalation Graph — V2](../Reference/Adaptive-War-Escalation-Graph-V2.md) is the active author-side escalation model.
 
+[Current Events Relative Chronology — V1](../Reference/Current-Events-Relative-Chronology-V1.md) applies that graph across a flexible opening-to-war sequence, including Three Moons, containment, failed expectations, intervention residue, and Port's eventual rejection problem.
+
 [Conspiracy Capability Ledger — V2](../Reference/Conspiracy-Capability-Ledger-V2.md) records what the Villain can draw on without turning those capabilities into a fixed checklist.
 
 [War Escalation Causal Chain — V1](../Reference/War-Escalation-Causal-Chain-V1.md) and [Domino Conspiracy Ledger — V1](../Reference/Domino-Conspiracy-Ledger-V1.md) remain as superseded provenance: they proved useful mechanics but over-scripted the Villain.
@@ -188,6 +190,9 @@ His intelligence lies in seeing that they can be connected.
 ---
 
 # 6. Counter-dominoes are required
+
+The chronology now requires counter-dominoes to occur **inside the actual story sequence**, not merely remain possible failure modes. At least one important branch should die and at least one Council / local intervention should genuinely reduce harm before later escalation continues by another route.
+
 
 Legacy story notes repeatedly included ordinary people and institutions **successfully preventing escalation**.
 
