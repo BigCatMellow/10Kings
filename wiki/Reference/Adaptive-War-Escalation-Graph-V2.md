@@ -18,6 +18,8 @@ V2 keeps the causal logic while replacing the fixed sequence with:
 
 See [Adaptive Domino Doctrine — V1](Adaptive-Domino-Doctrine-V1.md).
 
+[Current Events Relative Chronology — V1](Current-Events-Relative-Chronology-V1.md) is the temporal application layer. It sequences prerequisites, Three Moons, containment, residue, and later security conversion without turning this graph back into a predetermined itinerary.
+
 ---
 
 # 1. What remains established from V1
@@ -640,6 +642,9 @@ Unnecessary action adds risk and evidence.
 ---
 
 # 9. Adaptation examples
+
+The relative chronology uses these as more than hypothetical tests: its working default includes a contained maritime political branch, a successful Longwood compromise, and imperfect Low Rivers stabilization so the Villain must visibly revise his board after Three Moons.
+
 
 ## Example A — maritime branch succeeds unexpectedly well
 
