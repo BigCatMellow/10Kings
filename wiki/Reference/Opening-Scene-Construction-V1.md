@@ -21,7 +21,9 @@ Primary owners / constraints:
 - [Longwood](../Regions/Deepwood.md);
 - [Three Moons Festival](../Culture/Three-Moons-Festival.md);
 - [Port Estuary and Harbor Geometry — Test](Port-Estuary-Harbor-Geometry-Test.md);
-- [Worldbuilding Breath](Worldbuilding-Breath.md).
+- [Worldbuilding Breath](Worldbuilding-Breath.md);
+- [Opening Character Packets — V1](Opening-Character-Packets-V1.md);
+- [Opening Scene 1 — Voice and Pacing Test V1](Opening-Scene-1-Voice-Test-V1.md).
 
 The purpose is to get close enough to prose that missing world decisions become obvious without inventing unnecessary lore.
 
@@ -1028,19 +1030,12 @@ The first read must work without the second-read knowledge.
 
 # 14. Immediate next action
 
+The three recurring opening character packets are now built in [Opening Character Packets — V1](Opening-Character-Packets-V1.md).
+
+Scene 1 has also been drafted as a controlled voice / pacing experiment in [Opening Scene 1 — Voice and Pacing Test V1](Opening-Scene-1-Voice-Test-V1.md).
+
 The next smallest coherent task is:
 
-> **resolve the three recurring opening characters enough to draft Scenes 1–6, then draft Scene 1 as a prose / voice test rather than committing the whole novel to a style.**
+> **evaluate the Scene 1 voice test against Wurdren's arc, Worldbuilding Breath, and the opening information budget before drafting Scene 2.**
 
-Do not create full biographies first.
-
-Build only:
-
-- role;
-- want;
-- contradiction;
-- relationship;
-- speech / behavior cues;
-- naming constraints.
-
-Then test them in prose.
+Do not scale into multiple prose chapters until the narrative voice passes that test.
