@@ -275,6 +275,29 @@ This supports the reader's later realization:
 
 # 10. Preserve moral choice
 
+## Make policy visible as ordinary compromise
+
+Legacy critique repeatedly asked for the same thing:
+
+> do not say a policy is oppressive / stabilizing / controversial; show what somebody has to do because of it.
+
+Useful scene-level consequences:
+
+- a farmer sells early because debt terms changed;
+- a miner takes an unsafe shift because hours were cut;
+- a small merchant accepts a guild rule they resent because certification keeps the shop open;
+- a traveler uses an illegal route because the legal one is unaffordable;
+- a clerk follows a rule that hurts someone because refusing would cost their position;
+- a family supports a security measure that also weakens its own autonomy.
+
+This is stronger than abstract "gray morality."
+
+The moral pressure lives in:
+
+> **ordinary people choosing among imperfect options created by institutions.**
+
+---
+
 Legacy Volume 12 repeatedly recommends attaching dominoes to a moral or ethical decision.
 
 A domino is stronger when a character must choose among competing legitimate obligations.
