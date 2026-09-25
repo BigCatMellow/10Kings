@@ -24,7 +24,8 @@ Primary sources:
 - [Post-Three-Moons Containment and Dispersal — V1](Post-Three-Moons-Containment-and-Dispersal-V1.md);
 - [Security Conversion and Sphere Sorting — V1](Security-Conversion-and-Sphere-Sorting-V1.md);
 - [War Activation Construction — V1](War-Activation-Construction-V1.md);
-- [Main Conflict](../Story/Main-Conflict.md).
+- [Main Conflict](../Story/Main-Conflict.md);
+- [Wurdren — Life Worth Living / Complete Person Arc — V1](Wurdren-Life-Worth-Living-Arc-V1.md).
 
 ---
 
@@ -157,11 +158,22 @@ A secondary POV earns its place by carrying **causality**, not by representing a
 
 Wurdren reaches overloaded Port after an ordinary escort / protection job.
 
+Character condition:
+
+- he has deliberately gone back out looking for adventure;
+- age / mortality have made his old regrets harder to ignore;
+- he cannot point to the great deed he once imagined would prove his life mattered;
+- this guild / escort work is useful, but he privately thinks of it as the road **toward** something more important.
+
 Immediate objective:
 
 - complete delivery;
 - get paid;
 - find food / lodging.
+
+Underlying objective:
+
+> **find the kind of adventure that could still prove he has not wasted his life.**
 
 What appears:
 
@@ -377,7 +389,12 @@ Result:
 Wurdren leaves with:
 
 - one durable relationship;
-- rational optimism that people can pull back from conflict.
+- rational optimism that people can pull back from conflict;
+- genuine satisfaction that is immediately complicated by the thought that this still does not feel like the "great deed" he went looking for.
+
+That tension matters:
+
+> **he has done something worthwhile and still cannot yet accept it as evidence of a worthwhile life.**
 
 ---
 
@@ -450,6 +467,16 @@ He helps one person while recognizing the rule itself may be defensible.
 Character movement:
 
 > doing good does not exempt him from consequence.
+
+This also damages the fantasy that a sufficiently great heroic act would finally produce a clean moral verdict on his life.
+
+Even a good choice:
+
+- solves something;
+- costs something;
+- becomes part of somebody else's story.
+
+He begins learning that "proof" of a worthwhile life may be the wrong category.
 
 ---
 
@@ -964,11 +991,29 @@ His relationships / evidence mattered.
 
 People he helped now make choices he does not control.
 
-His mature understanding:
+His mature understanding has two linked parts:
 
-> responsibility without ownership.
+> **responsibility without ownership**
 
-This resolves his personal heroism arc.
+and:
+
+> **a life does not become worthwhile when history notices it.**
+
+He went back into the world looking for one great accomplishment that could validate the life behind him.
+
+Instead he finds:
+
+- people who trust one another partly because of him;
+- records preserved because he took somebody's ordinary problem seriously;
+- mistakes he returned to repair;
+- people alive who act independently of him;
+- consequences he will never fully know.
+
+He does not receive a final certificate that his life mattered.
+
+He no longer needs one.
+
+This resolves his personal heroism / complete-person arc.
 
 ---
 
