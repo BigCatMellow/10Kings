@@ -484,3 +484,129 @@ OpenStax should be the first uploaded source for questions about:
 - Rawlsian fairness.
 
 It is also the strongest uploaded source for explaining why **information architecture itself has moral and political consequences**.
+
+
+---
+
+# 15. Wurdren supplement — flourishing, meaning, and lived ethical encounter
+
+This supplement was added after the Wurdren / Complete Person pass.
+
+## Eudaimonia — a life as a whole
+
+### Source-derived point
+
+OpenStax presents Aristotle's **eudaimonia** as:
+
+- better translated as flourishing than as a temporary happy feeling;
+- a judgment about a **life as a whole**;
+- connected to cultivated virtue / excellence;
+- supported by friendship and relationships;
+- not reducible to one isolated achievement.
+
+The source also notes disagreement among ancient schools over how much external fortune matters to flourishing.
+
+### 10Kings application
+
+This is directly useful for Wurdren.
+
+His starting mistake is to imagine:
+
+> one sufficiently great deed could retroactively prove that his life was worthwhile.
+
+The eudaimonia frame gives a different question:
+
+> **What kind of life has he actually been living, and what kind of person has he repeatedly become?**
+
+That supports a character arc where:
+
+- repeated habits;
+- relationships;
+- courage;
+- repair;
+- service
+
+matter more than one legendary event.
+
+It does **not** prove that every ordinary life is automatically flourishing.
+
+Wurdren can have genuine failures / regrets and still ask how to live the remainder of his life better.
+
+---
+
+## Existentialism — meaning requires engagement
+
+### Source-derived point
+
+OpenStax presents existentialism as emphasizing:
+
+- human freedom;
+- the making of meaning;
+- responsibility to engage the world rather than treating one's life as wholly determined from outside.
+
+### 10Kings application
+
+This does not require the story to endorse existentialism as its final doctrine.
+
+It gives Wurdren a useful pressure test.
+
+If he waits for:
+
+- fame;
+- history;
+- public recognition;
+- one objectively decisive accomplishment
+
+to tell him that his life meant something, then meaning remains externally postponed.
+
+His arc can instead move toward:
+
+> **choosing what he will be responsible for without knowing what final verdict the world will give him.**
+
+---
+
+## Phenomenology / lived encounter — "mattering" becomes particular
+
+### Source-derived point
+
+OpenStax's phenomenology / ethics section emphasizes the ethical force of confronting another person's lived suffering rather than remaining only at the level of abstract obligation.
+
+### 10Kings application
+
+Wurdren begins with an abstract question:
+
+> Did my life matter?
+
+His guild work repeatedly confronts him with a different immediate fact:
+
+> This person matters.
+
+That does not logically answer the first question.
+
+Narratively, however, it changes the scale on which he lives.
+
+His attention to:
+
+- one injured traveler;
+- one clerk;
+- one family;
+- one frightened worker;
+- one disputed witness
+
+becomes the practice through which his own search for significance is transformed.
+
+---
+
+# 16. Expanded best use of this source
+
+For Wurdren specifically, OpenStax is now useful for:
+
+- **eudaimonia / whole-life flourishing**;
+- virtue as cultivated character;
+- friendship / relationships as part of well-being;
+- existential responsibility / meaning-making;
+- phenomenological encounter with another person's suffering.
+
+Use with:
+
+- [Wurdren — Life Worth Living / Complete Person Arc — V1](../Wurdren-Life-Worth-Living-Arc-V1.md).
