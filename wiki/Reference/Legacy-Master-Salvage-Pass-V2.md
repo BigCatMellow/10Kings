@@ -160,7 +160,7 @@ All 14 consolidated thematic volumes have now received a **source-section invent
 
 The source-level inventory now accounts for all **220 original source entries**:
 
-- [Legacy Source-Level V2 Inventory](Legacy-Source-Level-V2-Inventory.md)
+- [Legacy Source-Level V2 Ledger](Legacy-Source-Level-V2-Ledger.md)
 
 The densest high-salvage sources also received a focused semantic pass:
 
@@ -319,7 +319,7 @@ This prevents later agents from mistaking salvage for wholesale canon restoratio
 
 ---
 
-# 9. Completion target
+# 10. Completion target
 
 When V2 is complete, a future agent should be able to ask:
 
@@ -337,7 +337,7 @@ The answer should be recoverable through:
 
 ---
 
-# 10. V2 promotions recovered so far
+# 11. V2 promotions recovered so far
 
 The source-level pass has already produced forward changes that the first structural reconciliation did not fully preserve.
 
@@ -398,7 +398,7 @@ Exact currencies / banking forms remain open.
 
 ---
 
-# 11. Source-level control
+# 12. Source-level control
 
 All **220 original indexed Markdown sources** are now individually listed in:
 
@@ -416,7 +416,7 @@ That equivalence is no longer allowed.
 
 ---
 
-# 12. Remaining V2 work
+# 13. Remaining V2 work
 
 The archive-wide screen is complete.
 
