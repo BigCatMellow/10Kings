@@ -56,6 +56,51 @@ Research pools include:
 
 Avoid generic "Viking culture."
 
+## Community differentiation — islands and major harbors
+
+Focused community work now distinguishes at least two strong North Coast social formations.
+
+See:
+
+- [Community Analogue Research — Wave 1](../Reference/Community-Analogue-Research-Wave-1.md);
+- [Community Analogue Research — Wave 2](../Reference/Community-Analogue-Research-Wave-2.md);
+- [Community Profiles — P1 Wave 1](../Reference/Community-Profiles-P1-Wave-1.md).
+
+### Outer-island / skerry fishing communities
+
+Can combine:
+
+- permanent resident households;
+- seasonal fishing influx;
+- shore preservation / repair;
+- small-scale farming / pastoral support;
+- local fishery / rescue rights;
+- strong island-specific historical memory.
+
+### Major compact harbors
+
+Are more institutionally layered:
+
+- shipowners;
+- crews;
+- warehouses;
+- merchants;
+- pilots;
+- repair;
+- seasonal workers;
+- harbor-wide administration.
+
+Their culture is shaped more strongly by:
+
+- records;
+- merchant power;
+- class difference;
+- repeated outside contact.
+
+Therefore:
+
+> **North Coast maritime culture should vary harbor by harbor and island by island.**
+
 ## Language
 
 North Coast languages may include:
