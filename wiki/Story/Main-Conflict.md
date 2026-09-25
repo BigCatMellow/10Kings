@@ -128,7 +128,35 @@ The plot therefore moves through **causal handoffs**, not arbitrary regional que
 
 ---
 
-# 4. Braided escalation
+# 4. Causal POV handoffs
+
+The story can move between regions / institutions by following **consequences**, not by touring the setting.
+
+A strong handoff pattern is:
+
+~~~text
+local event
+→ cargo / person / document / price change moves
+→ another actor encounters the consequence
+→ POV changes there
+~~~
+
+Examples:
+
+- a Stone Hills material delay becomes a Port repair dispute;
+- a Port credit decision changes a Low Rivers purchase;
+- a Low Rivers contract is discussed at Three Moons;
+- a High Roads route notice reaches a merchant already worried about another shortage.
+
+This keeps multiple perspectives causally attached.
+
+It also lets a minor character—dock worker, clerk, carrier, guild apprentice, engineer—briefly see something important without turning them into a permanent protagonist.
+
+See [Grounded Domino Design Method](../Reference/Grounded-Domino-Design.md).
+
+---
+
+# 5. Braided escalation
 
 The story no longer assumes:
 
@@ -168,7 +196,7 @@ The braids converge when the Council must coordinate across several domains at o
 
 ---
 
-# 5. Escalation stages
+# 6. Escalation stages
 
 The story should progress through changes in **kind**, not merely louder versions of the same crisis.
 
@@ -328,7 +356,7 @@ His coalition can demand a new Port settlement.
 
 His moral failure also becomes visible because some of the suffering used to prove the case was suffering he could have reduced.
 
-# 6. Resistance and counter-dominoes
+# 7. Resistance and counter-dominoes
 
 The escalation path must include actors who successfully interrupt it.
 
@@ -366,7 +394,7 @@ Do not silently route every failed branch back to the same predetermined next sc
 
 ---
 
-# 7. The exposure problem
+# 8. The exposure problem
 
 The major reveal should not be:
 
@@ -394,7 +422,7 @@ This gives both sides something true to say.
 
 ---
 
-# 8. Wurdren's narrative function
+# 9. Wurdren's narrative function
 
 Wurdren should not move through the world merely because each braid needs a hero.
 
@@ -413,7 +441,7 @@ Each local story should work even before the reader understands its place in the
 
 ---
 
-# 9. Ending problem
+# 10. Ending problem
 
 There are two destructive governing logics.
 
@@ -453,7 +481,7 @@ Exact post-story institutions remain open.
 
 ---
 
-# 10. Thematic resolution
+# 11. Thematic resolution
 
 The story should leave the world with a real problem to solve rather than a magically restored equilibrium.
 
