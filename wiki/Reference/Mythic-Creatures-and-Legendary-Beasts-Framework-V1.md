@@ -333,6 +333,119 @@ This follows the same cultural rule as the current analogue project:
 
 ---
 
+# 6A. Shared creature, different cultures
+
+A legendary creature does **not** need to belong to only one culture.
+
+In fact, some of the strongest traditions should cross:
+
+- language;
+- region;
+- profession;
+- religion;
+- trade route;
+- migration network.
+
+But the shared creature should **change** as it moves.
+
+Example pattern:
+
+~~~text
+same underlying creature / event
+
+North Coast fishers:
+dangerous animal / weather sign
+
+Port scholars:
+named species reconstructed from records
+
+Great Weaver communities:
+local spirit / participant in ecological balance
+
+Radiant Path storytellers:
+moral parable about courage / restraint
+
+High Roads carriers:
+route omen associated with safe passage
+
+children:
+simplified cautionary tale
+~~~
+
+No version needs to be declared the single "correct" culture.
+
+The creature becomes a cultural object as well as a possible animal / supernatural being.
+
+## Variation dimensions
+
+Different communities can disagree about:
+
+- name;
+- body shape;
+- size;
+- temperament;
+- intelligence;
+- sex / gender;
+- whether it speaks;
+- whether it is one being or a species;
+- whether it is benevolent / hostile / indifferent;
+- what it eats;
+- where it lives;
+- what behavior attracts it;
+- what behavior drives it away;
+- whether it is animal, spirit, ancestor, curse, omen, saintly sign, or metaphor;
+- whether it still exists.
+
+## Shared-core rule
+
+If several cultures clearly refer to the same tradition, preserve **2–4 recurring anchors**.
+
+Examples:
+
+- same sound;
+- same eye color;
+- same season;
+- same kind of track;
+- same behavior before storms;
+- same place-name cluster.
+
+Everything else can vary.
+
+This gives scholars / travelers a reason to suspect:
+
+> these stories may share a historical core.
+
+## Transmission rule
+
+Ask how the story moved:
+
+- migrating workers;
+- sailors;
+- caravan families;
+- pilgrims;
+- soldiers;
+- refugees;
+- guild branches;
+- translated manuscripts;
+- market storytellers;
+- intermarriage.
+
+Then change the story according to the receiving culture.
+
+## Important consequence
+
+The same creature can simultaneously be:
+
+- sacred in one community;
+- embarrassing superstition in another;
+- occupational safety lore somewhere else;
+- a children's story in Port;
+- an active cryptid claim in a remote district.
+
+This should be normal.
+
+---
+
 # 7. Occupational creatures
 
 This world particularly benefits from creatures attached to work.
