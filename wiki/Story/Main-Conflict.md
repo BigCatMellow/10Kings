@@ -328,7 +328,45 @@ His coalition can demand a new Port settlement.
 
 His moral failure also becomes visible because some of the suffering used to prove the case was suffering he could have reduced.
 
-# 6. The exposure problem
+# 6. Resistance and counter-dominoes
+
+The escalation path must include actors who successfully interrupt it.
+
+Legacy story material already contained:
+
+- traders comparing notes;
+- local officials resisting panic;
+- guilds stabilizing prices;
+- communities refusing rumor;
+- rulers declining provocations;
+- emergency measures that genuinely work.
+
+These are not delays inserted to make the story longer.
+
+They prove the war is **contingent**.
+
+The Villain's strategy succeeds only because enough pressure routes eventually converge despite:
+
+- containment;
+- negotiation;
+- bad assumptions;
+- Wurdren's interventions;
+- Council actions;
+- ordinary competence.
+
+This also creates stronger causality.
+
+When one branch fails, later escalation must come from:
+
+- another branch;
+- a new external development;
+- or a more exposed intervention.
+
+Do not silently route every failed branch back to the same predetermined next scene.
+
+---
+
+# 7. The exposure problem
 
 The major reveal should not be:
 
@@ -356,7 +394,7 @@ This gives both sides something true to say.
 
 ---
 
-# 7. Wurdren's narrative function
+# 8. Wurdren's narrative function
 
 Wurdren should not move through the world merely because each braid needs a hero.
 
@@ -375,7 +413,7 @@ Each local story should work even before the reader understands its place in the
 
 ---
 
-# 8. Ending problem
+# 9. Ending problem
 
 There are two destructive governing logics.
 
@@ -415,7 +453,7 @@ Exact post-story institutions remain open.
 
 ---
 
-# 9. Thematic resolution
+# 10. Thematic resolution
 
 The story should leave the world with a real problem to solve rather than a magically restored equilibrium.
 
