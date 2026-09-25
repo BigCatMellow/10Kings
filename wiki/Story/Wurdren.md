@@ -107,6 +107,42 @@ They should force choices such as:
 
 Moral ambiguity belongs in choices, not only exposition.
 
+## Counter-domino function
+
+Legacy story material repeatedly imagined ordinary people defeating escalation without understanding the full conspiracy.
+
+That is one of Wurdren's most useful functions.
+
+He can break a pressure chain by doing something small and local:
+
+- get two guild branches to compare records directly;
+- protect a carrier long enough for an actual shipment to arrive;
+- persuade frightened neighbors not to act on a rumor;
+- connect a mediator to the people actually in conflict;
+- find the missing clerk / witness who can explain an apparent discrepancy;
+- help a community accept a workable compromise before outsiders weaponize the dispute.
+
+He does **not** know:
+
+> "I just stopped Domino 27."
+
+He believes he solved the problem in front of him.
+
+Sometimes he actually does.
+
+That matters because:
+
+- the Villain must adapt;
+- local institutions retain agency;
+- the world does not automatically descend into war;
+- kindness / trust become causally significant without becoming magic.
+
+The Villain may eventually recognize Wurdren as dangerous not because Wurdren sees the whole plan, but because:
+
+> **he keeps making brittle situations less brittle.**
+
+---
+
 ## Narrative rule
 
 Do not turn Wurdren into:
