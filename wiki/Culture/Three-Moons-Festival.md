@@ -16,6 +16,8 @@ What is established is its present-day social function:
 
 The current story takes place close enough to a Three Moons Festival that its preparation, occurrence, or immediate aftermath materially affects the current-events field.
 
+Author-side opening architecture: [Three Moons Opening Construction — V1](../Reference/Three-Moons-Opening-Construction-V1.md). That page does not change festival canon; it uses the established festival functions to design the story opening.
+
 Exact placement relative to the opening remains open:
 
 - approaching;
