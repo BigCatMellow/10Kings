@@ -110,6 +110,54 @@ Farmsteads adapt to heat:
 - water storage;
 - enclosed animal spaces.
 
+## Community differentiation — upstream and downstream water cultures
+
+Focused comparative work now supports distinct civic cultures growing around the **same shared water system**.
+
+See:
+
+- [Community Analogue Research — Wave 2](../Reference/Community-Analogue-Research-Wave-2.md);
+- [Community Profiles — P1 Wave 1](../Reference/Community-Profiles-P1-Wave-1.md).
+
+### Upstream civic-water culture
+
+OC-U communities can emphasize:
+
+- headworks maintenance;
+- technical responsibility;
+- allocation records;
+- the cost of keeping shared infrastructure functioning.
+
+Their political danger is turning:
+
+> responsibility
+
+into:
+
+> entitlement to decide.
+
+### Downstream canal-neighborhood culture
+
+OC-D communities can emphasize:
+
+- transparent measurements;
+- maintenance access;
+- warning;
+- shared records;
+- public scrutiny of gates / diversions.
+
+Their political danger is turning:
+
+> vulnerability
+
+into:
+
+> a claim to supervise upstream sovereignty.
+
+The important result is:
+
+> **shared infrastructure can create different cultures because people occupy different positions inside the same dependency.**
+
 ## Food
 
 Old Cities cuisine is diverse:
