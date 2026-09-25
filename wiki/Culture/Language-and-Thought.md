@@ -211,6 +211,72 @@ multilingual harbor contact
 
 This gives Port linguistic influence of its own.
 
+## Language brokers are institutions, not just talented individuals
+
+Legacy linguistics material repeatedly assumes that multilingual contact creates specialized social roles.
+
+Useful current forms include:
+
+- interpreters;
+- contract scribes;
+- court translators;
+- caravan brokers;
+- harbor clerks;
+- multilingual guild representatives;
+- teachers of prestige registers.
+
+Their power comes from deciding how meaning moves between systems.
+
+Questions that matter:
+
+- Which wording becomes the official record?
+- Which language is treated as authoritative?
+- Who can afford a certified translation?
+- Does a spoken agreement survive if the written version differs?
+- Which local term gets flattened into a broader legal category?
+
+This makes translation a normal source of:
+
+- misunderstanding;
+- leverage;
+- status;
+- bureaucratic friction.
+
+It should not require deliberate fraud.
+
+## Generational leveling and return influence
+
+Legacy language notes also preserve a useful generational pattern.
+
+Younger speakers may acquire a wider prestige / trade variety through:
+
+- apprenticeship;
+- military / route service;
+- study;
+- guild work;
+- migration;
+- Port employment.
+
+When they return home they may:
+
+- retain local speech with family;
+- use a wider register in business;
+- introduce loanwords;
+- be mocked as affected;
+- become useful intermediaries.
+
+Older and younger speakers can therefore disagree about whether a change is:
+
+> "better communication"
+
+or:
+
+> "losing how we speak."
+
+That creates linguistic politics without assigning one personality to a language.
+
+---
+
 ## Writing rule
 
 Do not represent regional difference mainly through phonetic spelling.
