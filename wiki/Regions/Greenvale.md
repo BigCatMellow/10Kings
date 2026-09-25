@@ -102,6 +102,43 @@ Farmsteads are mixed-purpose complexes:
 - work yards;
 - wells or irrigation access.
 
+## Community differentiation — water users and floodplain life
+
+Focused community work now supports at least two distinct Low Rivers water-based community types.
+
+See:
+
+- [Community Analogue Research — Wave 1](../Reference/Community-Analogue-Research-Wave-1.md);
+- [Community Profiles — P1 Wave 1](../Reference/Community-Profiles-P1-Wave-1.md);
+- [Community Hold Resolutions — V1](../Reference/Community-Hold-Resolutions-V1.md).
+
+### Cooperative irrigation villages
+
+Shared dependence on one water system can create:
+
+- user institutions;
+- maintenance obligations;
+- allocation rules;
+- local dispute procedures
+
+that do not simply duplicate territorial government.
+
+### Lower-G1 floodplain communities
+
+A strong working type now exists in the G1-A lower floodplain:
+
+- settlement on higher natural ground;
+- seasonal side-channel / backwater change;
+- wet / dry route alternation;
+- flood-adapted work;
+- political disagreement over embankment / drainage.
+
+People who rely on seasonal inundation may oppose a "protective" project that benefits drier-field agriculture.
+
+This reinforces the regional rule:
+
+> water creates different communities even inside the same agricultural heartland.
+
 ## Food
 
 Low Rivers has the broadest everyday food base.
