@@ -767,3 +767,8 @@ This movement ends when:
 The next movement is already constrained by the ending:
 
 > **Port Neutrality Crisis and Double Exposure — the moment the war makes the old Port settlement unworkable and both Council and Villain become politically legible.**
+
+That forward sequence is now routed through:
+
+- [Narrative Sequence Spine — V1](Narrative-Sequence-Spine-V1.md);
+- [Story Backward Construction — V1](Story-Backward-Construction-V1.md).
