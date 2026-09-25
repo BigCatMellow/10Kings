@@ -10,7 +10,8 @@ See:
 - [Current Events Relative Chronology — V1](../Reference/Current-Events-Relative-Chronology-V1.md) — author-side causal ordering, Three Moons opening default, containment, residue, and adaptive redirection;
 - [Villain's Dominoes](Villains-Dominoes.md) — current hidden causal architecture;
 - [The Villain](Villain.md) — motive, operational objective, and moral trajectory;
-- [Economic Council](../Politics/Economic-Council.md) — Council capabilities and limits.
+- [Economic Council](../Politics/Economic-Council.md) — Council capabilities and limits;
+- [Story Backward Construction — V1](../Reference/Story-Backward-Construction-V1.md) — active MAPS_L end-state-first architecture and unresolved dependency plan.
 
 ---
 
@@ -444,9 +445,9 @@ Each local story should work even before the reader understands its place in the
 
 ---
 
-# 10. Ending problem
+# 10. Ending direction — structural victory without ownership
 
-There are two destructive governing logics.
+There are still two destructive governing logics.
 
 ## Council paternalism
 
@@ -456,38 +457,91 @@ There are two destructive governing logics.
 
 > The system is unjust, therefore the harm required to break it is acceptable.
 
-A stronger ending does not restore either.
+The ending should not restore either.
 
-The Villain may succeed in:
+It should also **not** erase the Villain's success.
 
-- forcing Council coordination into public view;
-- proving some hidden manipulation;
-- proving alternate networks can function;
-- forcing renegotiation of Port's neutrality / fiscal / emergency arrangements.
+The stronger current direction is:
 
-But his later escalation fractures the claim that only he can guide the change.
+> **the Villain wins the structural argument and loses ownership of the result.**
 
-The Council may preserve:
+He succeeds in making the old Port settlement impossible to restore.
 
-- useful coordination knowledge;
-- archives;
+The crisis proves that:
+
+- Port's responsibility exceeds its old authority;
+- continent-scale coordination already exists;
+- hidden private coordination can move faster than public political machinery;
+- Port cannot remain merely shared infrastructure while carrying the costs of continental dependence.
+
+A real new Port settlement therefore follows.
+
+Possible categories remain:
+
+- greater retained revenue / local capacity;
+- defined emergency authority;
+- stronger locally controlled neutral defense;
+- clearer harbor authority;
+- limited direct external agreement capacity;
+- public cross-border coordination machinery;
+- greater transparency / review around consequential coordination.
+
+Exact institutions remain open.
+
+The Council loses the assumption that competence creates legitimate private authority.
+
+But its:
+
+- records;
+- expertise;
 - relationships;
-- logistics expertise.
+- logistics knowledge;
+- crisis coordination capacity
 
-But it loses the assumption that competence creates legitimate private authority.
+cannot simply disappear without recreating the problem that caused it to grow.
 
-Wurdren's accumulated relationships help make a third possibility politically real:
+The successor order therefore transforms / disperses / formalizes some Council functions rather than treating coordination itself as evil.
 
-> **coordination that is more visible, plural, and contestable than the Council, without requiring the Villain's coercive control.**
+Wurdren does not design the new constitution.
 
-Exact post-story institutions remain open.
+His accumulated relationships, saved evidence, and human-scale interventions help make sure that people who would otherwise be treated as variables remain able to participate in the settlement.
+
+The ending's decisive test of the Villain is Port itself.
+
+His political cause says:
+
+> Port deserves agency.
+
+Once Port possesses enough agency to choose a settlement, that choice no longer belongs to him.
+
+If Port accepts substantial change while rejecting his exclusive control, the result is not the failure of his cause.
+
+It is the moment his cause becomes real enough to outgrow him.
+
+See [Story Backward Construction — V1](../Reference/Story-Backward-Construction-V1.md) for the active reverse dependency chain, working ceasefire mechanism, double-exposure model, and century-later destination.
 
 ---
 
 # 11. Thematic resolution
 
-The story should leave the world with a real problem to solve rather than a magically restored equilibrium.
+Current declarative thesis:
 
-The final question is:
+> **Being right about what must change does not give you the right to decide everyone else's future.**
 
-> **How do people build institutions capable of seeing the whole system without giving those institutions the right to quietly sacrifice whoever is least visible?**
+The story should demonstrate that through all three scales:
+
+- **Council:** competence can explain power without legitimizing it;
+- **Villain:** correct diagnosis and historical success do not turn people into acceptable instruments;
+- **Wurdren:** responsibility does not require ownership or control of the final outcome.
+
+The immediate ending should leave a real successor problem rather than a restored equilibrium.
+
+The long historical direction is:
+
+> the first Convergence made interdependence governable enough to become normal; the current crisis forces later generations to make that interdependence more publicly governable.
+
+A working epilogue destination is Port at Three Moons **98 years later**, when institutions born from the crisis have become ordinary, contested civic machinery.
+
+The world is not perfected.
+
+The revolution has simply stopped belonging to its founder.
