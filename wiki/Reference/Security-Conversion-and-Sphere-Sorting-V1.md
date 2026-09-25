@@ -689,6 +689,8 @@ This movement ends when:
 - the Villain is deliberately cultivating uncertainty but still cannot dictate the spark;
 - Wurdren has seen that a locally good solution can create distant costs.
 
-The next movement is:
+The next movement is now built in:
 
-> **War Activation — the limited incident, failed containment, retaliation, and guarantee cascade that turn readiness into actual conflict.**
+- [War Activation Construction — V1](War-Activation-Construction-V1.md).
+
+The full forward order is routed through [Narrative Sequence Spine — V1](Narrative-Sequence-Spine-V1.md).
