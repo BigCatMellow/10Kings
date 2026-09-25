@@ -482,3 +482,43 @@ Before promoting a legacy character, ask:
 10. Can they make a choice that surprises both major sides?
 
 If the character only exists to deliver a plot twist, leave them in the seed bank.
+
+
+---
+
+# 15. V2 recovery — domestic legitimacy and counter-dominoes
+
+The source-level V2 pass recovered two story mechanisms that deserved stronger promotion.
+
+## Port can reject the Villain
+
+Legacy Villain material explicitly imagined:
+
+- Port families fleeing;
+- supporters becoming disillusioned;
+- local legitimacy collapsing if collateral damage becomes intolerable.
+
+This has now been promoted into [The Villain](../Story/Villain.md).
+
+The useful mechanism is:
+
+> a leader claiming to act for Port must remain vulnerable to Port citizens rejecting the claimed mandate.
+
+The old fixed "seize a homeland / territory" end-state remains superseded.
+
+## Wurdren as a counter-domino
+
+Legacy story notes repeatedly gave ordinary actors the ability to:
+
+- stabilize prices;
+- resist rumor;
+- broker truces;
+- keep small disputes from escalating.
+
+This has now been promoted into [Wurdren](../Story/Wurdren.md) and [Main Conflict](../Story/Main-Conflict.md).
+
+Wurdren's small interventions can genuinely kill a branch of the Villain's plan.
+
+That does not make Wurdren secretly strategic.
+
+It makes ordinary trust and competence causally important.
