@@ -220,7 +220,60 @@ The intended reaction is:
 
 ---
 
-# 9. Preserve moral choice
+# 9. Use physical / documentary handoffs between story threads
+
+Legacy story outlines contain a strong narrative device:
+
+> let the **same object, cargo, record, or consequence** move from one social world to another.
+
+Examples:
+
+- a Stone Hills shipment arrives late in Port;
+- its manifest appears later in a guild dispute;
+- a copied contract reaches a Longwood community;
+- a damaged caravan's ledger becomes evidence in a High Roads hearing;
+- a letter written in one polity is interpreted differently in another;
+- a warehouse receipt links two pressures that characters still think are unrelated.
+
+This creates natural POV handoffs.
+
+Instead of:
+
+> "Now we cut to another region because the reader needs exposition,"
+
+use:
+
+~~~text
+event
+→ object / record / person moves
+→ another institution receives it
+→ new local problem begins
+~~~
+
+The handoff does **not** need to be a conspiracy clue.
+
+Sometimes it simply demonstrates how consequences travel.
+
+Useful carriers include:
+
+- cargo;
+- invoices;
+- letters;
+- seals;
+- guild credentials;
+- route notices;
+- debt papers;
+- damaged tools;
+- displaced workers;
+- sailors / caravan staff.
+
+This supports the reader's later realization:
+
+> "I watched the consequences move across the world before I knew they were connected."
+
+---
+
+# 10. Preserve moral choice
 
 Legacy Volume 12 repeatedly recommends attaching dominoes to a moral or ethical decision.
 
@@ -238,7 +291,7 @@ The Villain can exploit the choice without causing the underlying values.
 
 ---
 
-# 10. Grounded legacy seed bank
+# 11. Grounded legacy seed bank
 
 The following **old proposals remain non-canon** but are useful as design prompts because they are structurally grounded:
 
@@ -262,7 +315,7 @@ Any event selected for current canon must be rebuilt against current geography, 
 
 ---
 
-# 11. Legacy material to reject unless current rules change
+# 12. Legacy material to reject unless current rules change
 
 Volume 12 also contains more fantastical action variants such as:
 
@@ -278,7 +331,7 @@ They are simply **unsupported by the current low-magic / uncertain-magic framewo
 
 ---
 
-# 12. Domino test
+# 13. Domino test
 
 Before accepting a domino, answer:
 
@@ -299,7 +352,7 @@ If several answers require "because the plot needs it," redesign the domino.
 
 ---
 
-# 13. Relationship to operation design
+# 14. Relationship to operation design
 
 [Domino Operation Design — V1](Domino-Operation-Design-V1.md) now adds a second gate.
 
@@ -336,7 +389,7 @@ The Villain's strategic **fingerprint** should remain consistent even when the o
 
 ---
 
-# 14. Relationship to war-causality proof
+# 15. Relationship to war-causality proof
 
 [Adaptive War Escalation Graph — V2](Adaptive-War-Escalation-Graph-V2.md) is the active application across the full current-events field.
 
@@ -379,7 +432,7 @@ The large conspiracy should be visible to the author long before it is visible t
 
 ---
 
-# 15. Relationship to Worldbuilding Breath
+# 16. Relationship to Worldbuilding Breath
 
 [Worldbuilding Breath](Worldbuilding-Breath.md) and this method reinforce each other.
 
