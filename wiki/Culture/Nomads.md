@@ -933,6 +933,78 @@ If every answer is identical, the political world is probably too uniform.
 
 ---
 
+# 34A. Working mobile systems now instantiated
+
+The structural framework has now passed focused comparative research and concrete route tests for **three distinct mobile systems**.
+
+See:
+
+- [Mobile Peoples Comparative Research — V1](../Reference/Mobile-Peoples-Comparative-Research-V1.md);
+- [Mobile Circuits — Working Profiles V1](../Reference/Mobile-Circuits-Working-Profiles-V1.md);
+- [Community Hold Resolutions — V1](../Reference/Community-Hold-Resolutions-V1.md).
+
+## Portable repair / service networks
+
+Working structural type:
+
+- recurring family / household routes;
+- portable specialized repair;
+- repeat customers;
+- one or more fixed / winter family bases;
+- stop-specific market / guild / private access rather than universal traveling rights;
+- strong oral / family memory carried through stories and songs.
+
+The favored Appalachian influence applies primarily to:
+
+- family oral history;
+- route / work memory;
+- repair / reuse;
+- kin networks;
+
+while actual mobility logic is grounded in itinerant-service traditions.
+
+This is **not one ethnic people by default**.
+
+## Highland / lowland pastoral networks
+
+Working structural type:
+
+- warm-season high pasture;
+- sheltered cold-season base;
+- split households in some years;
+- access negotiated through several legal forms;
+- mixed animal / craft / trade economy;
+- pastoralists as ordinary political constituents of High Roads polities.
+
+One tested branch connects an HR-N lower-valley base with higher High Roads pasture.
+
+Exact herd species and route names remain open.
+
+## Freight / caravan-service households
+
+Working structural type:
+
+- durable carrier households / lineages;
+- temporary caravans as operational organizations;
+- expertise in animals, loading, provisioning, route timing and camp organization;
+- merchants need not be carriers;
+- route handoffs can connect long-distance trade without every carrier crossing the continent.
+
+This is best treated as a transregional occupational culture / network unless later evidence supports one narrower people.
+
+## Shared rule
+
+These systems may:
+
+- overlap;
+- intermarry;
+- share fairs;
+- exchange stories;
+
+without becoming a single "nomad culture."
+
+---
+
 # 34. What is structurally established
 
 The current world supports:
