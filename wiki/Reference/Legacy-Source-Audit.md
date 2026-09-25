@@ -260,6 +260,38 @@ The archive is therefore **not cold**. Its first structural backlog was resolved
 
 ---
 
+## V2 source-level completion — 2026-09-25
+
+The second-pass archive review now has two explicit controls:
+
+- [Legacy Source-Level V2 Ledger](Legacy-Source-Level-V2-Ledger.md) — all 220 original source entries accounted for;
+- [Legacy High-Salvage Deep Review — V2](Legacy-High-Salvage-Deep-Review-V2.md) — focused disposition of the densest cross-system sources.
+
+Recovered / strengthened mechanisms include:
+
+- institutional constituencies and splinters;
+- guild-centralization resistance;
+- stakeholder beneficiaries / opponents;
+- Port / Three Moons information aggregation;
+- local border exceptions;
+- seasonal route memory;
+- Underpass protection-versus-extraction politics;
+- occupational responsibility rites;
+- faith federation / pilgrimage networks;
+- language brokers;
+- Council intervention residue;
+- guild reputation sanctions / blacklisting;
+- civilian infrastructure as military capacity;
+- current-event intervention afterlife;
+- Port domestic rejection as a Villain failure condition;
+- Wurdren as a counter-domino;
+- causal POV handoffs through cargo / records / people;
+- ordinary policy experienced as moral compromise.
+
+The remaining legacy archive is still valuable, but it is now primarily **local-detail quarry** rather than unresolved macro-structure.
+
+---
+
 # Completion rule
 
 A legacy topic is not "handled" merely because:
