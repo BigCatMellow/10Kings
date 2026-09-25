@@ -9,7 +9,7 @@ This page records the focused V2 read of the densest legacy sources after the ar
 It should be read together with:
 
 - [Legacy Master Salvage Pass — V2](Legacy-Master-Salvage-Pass-V2.md);
-- [Legacy Source-Level V2 Inventory](Legacy-Source-Level-V2-Inventory.md);
+- [Legacy Source-Level V2 Ledger](Legacy-Source-Level-V2-Ledger.md);
 - [Legacy Source Audit](Legacy-Source-Audit.md).
 
 The purpose is to prevent "HIGH priority" from becoming another unresolved bucket.
