@@ -2479,3 +2479,29 @@ REAL PRESSURES
 ~~~
 
 The next forward-design pass can now focus on the **opening movement around Three Moons**, because the ending has told us exactly what the opening must plant.
+
+
+---
+
+# 41. Fourth backward pass — opening construction completed
+
+The backward plan has now been converted into a concrete opening movement:
+
+- [Three Moons Opening Construction — V1](Three-Moons-Opening-Construction-V1.md).
+
+The opening now has one primary carrier:
+
+> an ordinary commercial delivery in overloaded Port whose paperwork / storage / guarantee problem exposes several systems without becoming a secret MacGuffin.
+
+It plants:
+
+- Wurdren's first later-useful record relationship;
+- a real Council-linked intervention that helps someone and costs someone else;
+- Villain-associated reform capacity that genuinely works;
+- Port's internal centralization / neutrality / labor disagreement;
+- a genuine Longwood counter-domino;
+- the first ordinary logistics-to-security handoff.
+
+The next eligible backward-derived work is:
+
+> **containment and festival dispersal — how the successful early solutions leave the exact residue that later becomes security capability.**
