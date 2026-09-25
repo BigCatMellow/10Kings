@@ -56,11 +56,14 @@ This reveals enough to establish:
 - he is intentionally mapping / exploiting real pressures;
 - Port reform is the objective;
 - some branches have failed;
-- he is adapting rather than following a fixed script.
+- he is adapting rather than following a fixed script;
+- **he believes only a sufficiently severe systemic crisis can force the Port settlement to change, and he is willing to let the world approach war to create that forcing condition.**
 
-Do not explain every operation.
+Do not explain every operation or future branch.
 
-The reader now knows more than Wurdren.
+But once the reader enters his internal strategic POV, do **not** artificially hide the basic forcing logic he himself is consciously using.
+
+The reader now knows substantially more than Wurdren.
 
 ## Stage C — security conversion
 
@@ -417,7 +420,13 @@ He does **not** sabotage the successful Longwood settlement merely because it hu
 
 He reallocates.
 
-The reader now knows he is intentionally using real pressures to force structural change.
+This is also the point where the reader can understand the central strategic danger:
+
+> **he believes ordinary reform will not overcome the old Port settlement, so he is cultivating conditions severe enough that the settlement cannot survive unchanged—even if that means war becomes possible.**
+
+The reader does not need his full operational map.
+
+It does need the truth of his objective once his internal POV begins.
 
 ---
 
