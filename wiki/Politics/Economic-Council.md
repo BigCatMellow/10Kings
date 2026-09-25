@@ -1115,7 +1115,43 @@ Stabilization can create dependence.
 
 ---
 
-# 20. The Council's self-justification
+# 20. Intervention residue
+
+Legacy Council / current-event material repeatedly contains a useful principle:
+
+> **a successful intervention still changes the political economy.**
+
+If the Council stabilizes a problem, the world does not simply return to its previous state.
+
+A stabilization can leave:
+
+- a favored carrier with new business;
+- a lender holding new claims;
+- a guild newly dependent on Council-linked credit;
+- an alternate route that now has permanent traffic;
+- a local ruler resentful of conditions attached to help;
+- a merchant group convinced the Council saved them;
+- another group convinced the Council chose who was allowed to survive.
+
+This means "success" can create future opposition.
+
+The Council therefore has to evaluate not only:
+
+> Did the crisis stop?
+
+but also:
+
+> Who became stronger because of how we stopped it?
+
+and:
+
+> Who now believes the system is rigged against them?
+
+This is important to the Villain's strategy because he can exploit **the residue of stabilization**, not only Council failures.
+
+---
+
+# 21. The Council's self-justification
 
 The Council's strongest ideology is not:
 
@@ -1147,7 +1183,7 @@ The Council is more interesting if some of its members are right about the probl
 
 ---
 
-# 21. The moral problem
+# 22. The moral problem
 
 The central problem is not simply that the Council is secret.
 
@@ -1168,7 +1204,7 @@ Its useful functions and its illegitimate authority are deliberately entangled.
 
 ---
 
-# 22. Relationship to the Villain
+# 23. Relationship to the Villain
 
 The Villain's cause is **Port**, not abstract opposition to coordination.
 
@@ -1204,7 +1240,7 @@ That argument can remain politically damaging even when Council intervention gen
 
 ---
 
-# 23. Relationship to Wurdren
+# 24. Relationship to Wurdren
 
 Wurdren encounters the consequences of Council decisions at human scale.
 
@@ -1230,7 +1266,7 @@ The question is what kind of order can replace private coordination without recr
 
 ---
 
-# 24. Main vulnerabilities
+# 25. Main vulnerabilities
 
 A Council crisis can come from:
 
@@ -1253,7 +1289,7 @@ It becomes weakest when the world proves that indispensable functions can be per
 
 ---
 
-# 25. Still open
+# 26. Still open
 
 The following should remain unresolved until later passes:
 
