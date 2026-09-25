@@ -467,13 +467,26 @@ That makes his later choices more tragic.
 
 ---
 
-# 13. Port can reject him
+# 13. Port can reject his authority without rejecting his cause
 
 His legitimacy is not guaranteed simply because his grievance is real.
 
 Legacy story material preserves an important failure condition:
 
 > **the people he claims to be saving may decide they do not accept the price he is paying in their name.**
+
+The backward-built ending adds an important refinement:
+
+> **Port can reject his exclusive authority while still adopting much of the structural reform he fought for.**
+
+That is stronger than simply having Port "turn against him."
+
+It separates:
+
+- whether his diagnosis was right;
+- whether change was necessary;
+- whether his methods were acceptable;
+- whether he has the right to own the settlement.
 
 Signs can include:
 
@@ -489,15 +502,19 @@ This matters because his entire political argument depends on:
 
 > **Port deserves agency.**
 
-If Port residents clearly exercise agency **against him**, he faces a contradiction.
+If Port residents clearly exercise agency **outside his control**, he faces a contradiction.
 
 He can either:
 
-- accept their choice;
-- negotiate;
+- accept that Port's agency includes choosing a compromise he dislikes;
+- negotiate as one political actor among others;
 - or decide that he understands Port's interests better than Port does.
 
 The third option marks a major stage in his corruption.
+
+The first two do not make his project a failure.
+
+They mean the project has become real enough to stop belonging exclusively to him.
 
 A useful late-story signal is not merely that outsiders discover what he did.
 
@@ -584,6 +601,10 @@ They suggest Port's problem might be reparable without requiring the crisis to b
 
 The Villain should not simply be killed and thereby proven wrong.
 
+The stronger current ending is:
+
+> **he wins the structural argument and loses ownership of the result.**
+
 His core grievance should survive him.
 
 Port really does face:
@@ -606,6 +627,16 @@ Possible outcomes can include:
 - another negotiated arrangement that gives Port more agency.
 
 The Villain may help make those reforms unavoidable while losing control of the movement because his later methods become unacceptable.
+
+That loss of control is not merely punishment.
+
+It is the thematic consequence of his own cause:
+
+> if Port deserves agency, then Port must eventually be allowed to choose a future he did not fully design.
+
+The first settlement should therefore contain enough of his program that later historians can plausibly credit him with transforming Port, while also containing enough independent bargaining, amendment, and public contestation that no one can honestly say the later order is simply "his system."
+
+See [Story Backward Construction — V1](../Reference/Story-Backward-Construction-V1.md).
 
 ---
 
