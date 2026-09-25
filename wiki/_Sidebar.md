@@ -137,6 +137,8 @@
 - [Mythic Creature Research Method V1](Reference/Mythic-Creature-Research-Method-V1.md)
 - [Mythic Creature Research Tranche 1](Reference/Mythic-Creature-Research-Tranche-1-Underpass-Maritime.md)
 - [Mythic Creature Research Tranche 2](Reference/Mythic-Creature-Research-Tranche-2-Wetland-Forest-HighRoads.md)
+- [Mythic Creature Research Tranche 3](Reference/Mythic-Creature-Research-Tranche-3-OldCities-Port-Routes.md)
+- [Mythic Creature Legend Families Synthesis V1](Reference/Mythic-Creature-Legend-Families-Synthesis-V1.md)
 - [Legacy Source Audit and Retrieval Index](Reference/Legacy-Source-Audit.md)
 - [Legacy Master Salvage Pass V2](Reference/Legacy-Master-Salvage-Pass-V2.md)
   - [Source-Level V2 Ledger](Reference/Legacy-Source-Level-V2-Ledger.md)
