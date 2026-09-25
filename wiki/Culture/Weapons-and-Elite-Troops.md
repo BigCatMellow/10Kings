@@ -188,6 +188,51 @@ This makes maintenance spending an important early security signal in the curren
 
 ---
 
+## Civilian systems create military capacity
+
+Legacy military notes repeatedly hide their best material inside non-military technology.
+
+Examples include:
+
+- repair workshops;
+- waterproofing / preservation;
+- irrigation works;
+- carts;
+- rope;
+- portable smithing;
+- communal workshops;
+- route shelters.
+
+The useful rule is:
+
+> **military readiness grows out of civilian capacity before it grows out of special weapons.**
+
+A polity with:
+
+- many wheelwrights;
+- reliable rope makers;
+- boat repair yards;
+- preserved-food infrastructure;
+- trained smiths;
+- good route records;
+- animal handlers;
+
+can mobilize more effectively than a polity with impressive weapons but weak support systems.
+
+This also means civilian investment can be misread as military preparation.
+
+A new repair yard may genuinely serve:
+
+- fishermen;
+- merchants;
+- road crews;
+
+while also increasing the number of vessels / wagons that could be maintained during war.
+
+That ambiguity belongs in the current escalation model.
+
+---
+
 ## Elite troop rule
 
 Elite troops should stand out by:
