@@ -132,6 +132,7 @@
 - [War Escalation Causal Chain V1 — Superseded](Reference/War-Escalation-Causal-Chain-V1.md)
 - [Domino Conspiracy Ledger V1 — Superseded](Reference/Domino-Conspiracy-Ledger-V1.md)
 - [Culture Deepening Plan](Reference/Culture-Deepening-Plan.md)
+- [Cultural Analogue Coverage Assessment V1](Reference/Cultural-Analogue-Coverage-Assessment-V1.md)
 - [Legacy Source Audit and Retrieval Index](Reference/Legacy-Source-Audit.md)
 - [Legacy Master Salvage Pass V2](Reference/Legacy-Master-Salvage-Pass-V2.md)
   - [Source-Level V2 Ledger](Reference/Legacy-Source-Level-V2-Ledger.md)
