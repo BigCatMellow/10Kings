@@ -8,6 +8,8 @@
 
 [Villain's Dominoes](Villains-Dominoes.md) owns the hidden strategic architecture connecting selected events.
 
+[Current Events Relative Chronology — V1](../Reference/Current-Events-Relative-Chronology-V1.md) is the author-side temporal layer. It establishes causal prerequisites, a working Three Moons opening window, required containment / failure points, and intervention residue without turning the adaptive graph into a fixed script.
+
 [Adaptive War Escalation Graph — V2](../Reference/Adaptive-War-Escalation-Graph-V2.md) and [Conspiracy Capability Ledger — V2](../Reference/Conspiracy-Capability-Ledger-V2.md) are **author-side only**. They explain how the surface events can connect without requiring characters to perceive that connection.
 
 The superseded fixed V1 chain / micro-action ledger remain in Reference as provenance.
@@ -282,11 +284,13 @@ This social disagreement is part of the background noise that keeps the Villain'
 
 The current story occurs close to a [Three Moons Festival](../Culture/Three-Moons-Festival.md), Port's largest festival, held once every seven years.
 
-The exact placement remains open:
+The exact in-world placement remains open:
 
 - approaching;
 - underway;
 - recently concluded.
+
+For author planning, the current default is that Three Moons overlaps the opening movement of the story. That default is recorded in [Current Events Relative Chronology — V1](../Reference/Current-Events-Relative-Chronology-V1.md) and can move later without changing the event's causal role.
 
 The festival is **not** a Villain-created crisis.
 
@@ -1057,6 +1061,8 @@ The hidden architecture comes from how those truths interact.
 ---
 
 # 16. Opening-story state
+
+The current author-side chronology treats this as the transition into the **Three Moons information-convergence window**, while keeping exact calendar placement open.
 
 At the beginning of the main story:
 
