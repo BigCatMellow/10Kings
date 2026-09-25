@@ -1077,7 +1077,46 @@ That domino is the moment people begin to see the same hidden economic actors be
 
 ---
 
-# 17. Current-event design rule
+# 17. Intervention afterlife
+
+A current event does not end when the immediate crisis is solved.
+
+Legacy current-event material repeatedly contains second-order political effects from the **response itself**.
+
+For every substantial intervention, ask:
+
+- Who got the contract?
+- Who lost business?
+- Which route became normal?
+- Which temporary rule remained?
+- Who acquired debt / property / political access?
+- Which faction can now claim it was right?
+- Who believes the response proved centralization works?
+- Who believes the same response proved centralization is dangerous?
+
+This applies to:
+
+- Council stabilization;
+- convoy policy;
+- guild emergency coordination;
+- anti-smuggling crackdowns;
+- route repair;
+- food support;
+- strategic-material controls.
+
+A response can be:
+
+- effective;
+- justified;
+- politically costly;
+
+at the same time.
+
+That creates future dominoes without requiring the Villain to plant them.
+
+---
+
+# 18. Current-event design rule
 
 Any future current event must answer:
 
