@@ -444,6 +444,83 @@ Wurdren's ethic is closer to:
 
 ---
 
+# 12A. Wurdren's personal question — what makes a life worth living?
+
+The expanded Wurdren arc adds a second philosophical layer to his role.
+
+He is not only the story's human-scale counterforce.
+
+He begins with a personal crisis:
+
+> **Can I still do something large enough to prove that my life mattered?**
+
+The verified sources help challenge the premise from several directions.
+
+## Aristotle / eudaimonia
+
+OpenStax presents eudaimonia as:
+
+- flourishing;
+- a whole-life condition;
+- connected to cultivated virtue;
+- supported by relationships.
+
+Story implication:
+
+> the value of Wurdren's life cannot be reduced to the scale of its single largest event.
+
+## Existential responsibility
+
+OpenStax's existentialism section centers:
+
+- freedom;
+- making meaning;
+- responsibility to engage the world.
+
+Story implication:
+
+> Wurdren cannot postpone meaning until history produces a verdict on him.
+
+## Phenomenological ethics
+
+OpenStax emphasizes the ethical force of direct encounter with another person's suffering.
+
+Story implication:
+
+> Wurdren's abstract question "Do I matter?" is repeatedly interrupted by the concrete fact "This person matters."
+
+## Gita / attachment to results
+
+The uploaded world-literature anthology's Gita selection emphasizes acting while relinquishing selfish attachment to the results of action.
+
+Story implication:
+
+> Wurdren's original heroic quest is partly an attachment to the **fruit** of action—the proof that the action says something final about his worth.
+
+His mature position becomes:
+
+> responsibility without ownership of outcome.
+
+## Complete Person synthesis
+
+The owner's external Complete Person project adds a coherent developmental framework:
+
+- completeness as integration, not perfection;
+- purpose need not be grand;
+- service moves wholeness outward;
+- mature adulthood includes generativity / limits / ambiguity;
+- attention may be a master virtue;
+- maturity includes repair;
+- completeness remains unfinished.
+
+This produces a strong personal thematic proposition:
+
+> **A life does not become worthwhile when history notices it.**
+
+See [Wurdren — Life Worth Living / Complete Person Arc — V1](../Wurdren-Life-Worth-Living-Arc-V1.md).
+
+---
+
 # 13. The three central forces as philosophical errors / contributions
 
 ## Council
