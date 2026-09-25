@@ -65,6 +65,66 @@ the variant is not specific enough.
 
 ---
 
+# 1A. A culture does not have one version either
+
+Cross-cultural variation is only half the rule.
+
+Within one community, the same legend should also differ by:
+
+- age;
+- occupation;
+- class;
+- faith;
+- education;
+- migration generation;
+- institutional role.
+
+Use the age-layer test developed in:
+
+- [Youth, First Work, and Courtship — Comparative Research V1](Youth-First-Work-Comparative-Research-V1.md);
+- [Youth and First-Work Community Profiles — V1](Youth-First-Work-Community-Profiles-V1.md).
+
+For each major creature, ask:
+
+### Child version
+
+What simple rule / image survives?
+
+### Young-worker version
+
+How is it:
+
+- mocked;
+- dared;
+- tested;
+- turned into peer status?
+
+### Experienced-worker version
+
+What practical knowledge is encoded?
+
+### Elder / family-memory version
+
+Which old event / sighting belongs to family history?
+
+### Institutional version
+
+How do:
+
+- scholar;
+- clerk;
+- guild;
+- priest;
+- court
+
+classify / reinterpret it?
+
+Therefore:
+
+> **"the North Coast version" or "the Longwood version" is still too broad unless the context genuinely requires only that scale.**
+
+---
+
 # 2. Tier 1 family — The Knocking Below
 
 ## Shared anchors
