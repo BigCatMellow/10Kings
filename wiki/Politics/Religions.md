@@ -373,6 +373,79 @@ See [Current Events](../Story/Current-Events.md).
 
 ---
 
+## Faiths are federations more often than command chains
+
+Legacy material repeatedly works better when a faith is treated as a **network of schools, houses, shrines, teachers, charities, lay associations, and local communities** rather than one church with one voice.
+
+A major tradition may contain:
+
+- ordained specialists;
+- lay teachers;
+- charitable houses;
+- pilgrimage networks;
+- local confraternities;
+- scholarly schools;
+- reform movements;
+- rural shrines;
+- wealthy urban institutions.
+
+These do not need one perfect hierarchy.
+
+A central council, synod, school, or respected lineage may exist without controlling every local branch.
+
+That creates useful disagreement over:
+
+- doctrine;
+- money;
+- political involvement;
+- who may teach;
+- who may administer charity;
+- what counts as legitimate reform;
+- whether a local custom is acceptable adaptation or corruption.
+
+A local branch can therefore oppose the political position associated with its own wider tradition.
+
+This matters especially during current crises.
+
+One branch may call for:
+
+- restraint;
+
+while another calls for:
+
+- intervention;
+
+and a third insists the institution should stay out of politics entirely.
+
+## Pilgrimage and gathering create secondary institutions
+
+Legacy religion notes often pair pilgrimage with:
+
+- markets;
+- lodging;
+- marriage / kin contact;
+- information exchange;
+- seasonal work;
+- charitable distribution.
+
+That mechanism survives even when old named holy sites do not.
+
+A pilgrimage route can therefore support:
+
+- inns;
+- hostels;
+- food distribution;
+- guides;
+- scribes;
+- local fairs;
+- cross-regional news.
+
+The religious purpose remains primary for participants, but the institution produces economic and information effects around it.
+
+This helps explain why faith networks can move information quickly without functioning as spy organizations.
+
+---
+
 ## Religion and politics
 
 Faiths should not behave like nine political parties.
