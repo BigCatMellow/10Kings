@@ -1025,6 +1025,46 @@ It does not make Port politically virtuous.
 
 ---
 
+## Old harbor-worker neighborhoods as a community type
+
+Focused community research now supports old Port harbor-worker neighborhoods as a durable community type.
+
+See:
+
+- [Community Analogue Research — Wave 1](../Reference/Community-Analogue-Research-Wave-1.md);
+- [Community Profiles — P1 Wave 1](../Reference/Community-Profiles-P1-Wave-1.md).
+
+"Harbor worker" should not be treated as one occupation.
+
+A neighborhood may contain:
+
+- quay loading;
+- warehouse handling;
+- tally / weighing work;
+- small-craft transport;
+- rigging / hoist work;
+- repair;
+- casual carrying;
+- provisioning.
+
+This occupational diversity creates different relationships to:
+
+- guild credentials;
+- stable / casual hiring;
+- merchant houses;
+- municipal infrastructure;
+- mutual aid.
+
+Old Port neighborhoods can therefore support stronger Port agency while still opposing reforms that:
+
+- concentrate guild authority;
+- raise rent;
+- exclude informal / casual workers.
+
+Their culture is also one important carrier of Port's non-elite historical memory.
+
+---
+
 # 23. Neutrality does not mean cultural blandness
 
 The city is politically constrained externally while culturally intense internally.
