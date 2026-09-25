@@ -80,7 +80,26 @@ The revelation is that **good actions still enter political systems and create c
 His mature heroism is not "I will save the world."
 
 It is closer to:
-"I cannot control the world, but I am responsible for what I do when the world reaches the person standing in front of me."
+
+> "I cannot control the world, but I am responsible for what I do when the world reaches the person standing in front of me."
+
+The backward-built ending makes that responsibility concrete.
+
+He does not design the successor order.
+
+His late contribution should come from things he has been doing all story:
+
+- preserving testimony / records because one local person needs them;
+- keeping a witness or intermediary alive;
+- building trust across a dispute that later becomes politically important;
+- helping people compare what actually happened;
+- keeping a less-powerful constituency present when system-level actors would otherwise bargain over them.
+
+His final importance is therefore not command.
+
+It is **participation made possible by accumulated trust**.
+
+He helps stop the future from becoming a bargain only among people who already possess systemic power.
 
 ## Relationship rule
 
@@ -152,3 +171,5 @@ Do not turn Wurdren into:
 - the only morally decent person.
 
 His influence must remain believable because people remember what he did and trust him.
+
+See [Story Backward Construction — V1](../Reference/Story-Backward-Construction-V1.md) for the current evidence / relationship payoff map.
