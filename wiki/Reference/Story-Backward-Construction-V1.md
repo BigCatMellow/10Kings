@@ -414,9 +414,15 @@ That is the thesis becoming political action.
 
 # 9. What ends the war enough for settlement?
 
-This is the largest remaining causal gap in the current story.
+**Working gap resolved at architecture level.**
 
-The active escalation model explains how war begins better than it explains how war becomes negotiable.
+The active escalation model originally explained how war begins better than how war becomes negotiable.
+
+Section 26 now selects the working answer:
+
+> **shared-access crisis makes a negotiated pause rational, with Port asserting a temporary neutral-access / emergency operating regime over systems it actually controls.**
+
+The requirements below remain the test for that mechanism.
 
 The ending requires a **bounded ceasefire / exhaustion / access mechanism** strong enough to open settlement talks without implying that the whole continent suddenly becomes pacifist.
 
@@ -442,9 +448,13 @@ A settlement conference / ceasefire can therefore arise from:
 - politically inconvenient evidence that the original incident was narrower / more ambiguous than later escalation;
 - domestic constituencies unwilling to absorb open-ended costs.
 
-**Do not lock the exact ceasefire trigger yet.**
+The exact triggering confrontation inside the Port crisis remains open, but the **termination mechanism no longer is**.
 
-It should be the next major design target because every later ending beat depends on it.
+See:
+
+- section 26 below;
+- [War Activation Construction — V1](War-Activation-Construction-V1.md);
+- the late-story sequence in sections 28–31.
 
 ---
 
@@ -1122,64 +1132,53 @@ The world has changed what arguments are possible.
 
 ---
 
-# 23. Highest-value unresolved dependencies
+# 23. Resolved dependencies and remaining choices
 
-The next story pass should solve these in order.
+The original high-value dependencies have now been resolved at architecture level.
 
-## 1. War termination / ceasefire mechanism
+## Resolved
 
-Why first:
+### War termination / ceasefire mechanism
 
-Every final political beat depends on explaining why belligerents must negotiate **now**.
+Working default:
 
-Need:
+> Port emergency neutral-access regime + shared-system dependence → negotiated pause.
 
-- material mechanism;
-- political constituencies;
-- Port role;
-- Council role;
-- Wurdren connection if any;
-- Villain's desired / undesired outcome.
+### Immediate Port settlement minimum package
 
-## 2. Immediate Port settlement minimum package
+Defined in section 26 as a minimum successor order built around:
 
-Do **not** write a full constitution yet.
-
-Define only what must change immediately for the century-later future to remain plausible.
-
-Likely categories:
-
-- revenue;
+- greater Port capacity / retained revenue;
 - emergency authority;
-- defense / security;
-- external agreement capacity;
-- harbor authority;
+- neutral protection;
+- clearer harbor authority;
+- limited external agreement capacity;
 - public cross-border coordination;
-- transparency / review.
+- Council capability transition;
+- review / appeal;
+- amendment.
 
-## 3. Double-exposure evidence chain
+### Double-exposure evidence chain
 
-Work backward from:
+Working model:
 
-- what the public can actually prove about Council coordination;
-- what can actually be proven about Villain escalation;
+- distributed ordinary records reveal Council coordination;
+- distributed intervention / withholding evidence reveals Villain escalation;
+- no master dossier.
 
-to:
+### Wurdren's settlement contribution
 
-- who possessed each record;
-- how it survived;
-- how Wurdren / others encountered it;
-- why it was not revealed earlier.
+Bounded functions selected:
 
-## 4. Wurdren's settlement contribution
+- preserve evidence;
+- preserve cross-boundary relationships;
+- keep less-powerful participants present.
 
-Pick one or two **bounded causal functions**, not a grand office.
+## Still deliberately open
 
-## 5. Villain's immediate personal fate
+### Villain's immediate personal fate
 
-Only after the institutional ending works.
-
-Possible classes remain open:
+Possible classes remain:
 
 - accepts loss of ownership;
 - politically isolated;
@@ -1188,13 +1187,33 @@ Possible classes remain open:
 - remains active but diminished;
 - dies later before seeing the mature order.
 
-His exact fate is a character preference, not a prerequisite for the world arc.
+This is now a **character-resolution choice**, not a structural dependency.
+
+### Exact Port constitutional form
+
+Still open because the story only needs the first durable changes, not a finished century-later constitution.
+
+### Exact war spark details
+
+The class is now constrained in [War Activation Construction — V1](War-Activation-Construction-V1.md):
+
+> disputed strategic convoy / shipment + inspection / guarantee conflict.
+
+Exact:
+
+- cargo;
+- route;
+- parties;
+- first shot;
+- casualty count
+
+remain open until chapter design needs them.
 
 ---
 
-# 24. First execution wave
+# 24. First execution wave — completed
 
-Following MAPS_L, do not detail the whole distant story before resolving the nearest dependencies.
+Following MAPS_L, the initial backward-derived tasks were resolved before forward scene construction began.
 
 ### Task A — ceasefire / war-termination design
 
@@ -2505,3 +2524,70 @@ It plants:
 The next eligible backward-derived work is:
 
 > **containment and festival dispersal — how the successful early solutions leave the exact residue that later becomes security capability.**
+
+
+---
+
+# 42. Forward construction now derived from the backward plan
+
+The story now has three concrete forward movement owners before the already-designed late Port crisis:
+
+1. [Three Moons Opening Construction — V1](Three-Moons-Opening-Construction-V1.md)
+2. [Post-Three-Moons Containment and Dispersal — V1](Post-Three-Moons-Containment-and-Dispersal-V1.md)
+3. [Security Conversion and Sphere Sorting — V1](Security-Conversion-and-Sphere-Sorting-V1.md)
+4. [War Activation Construction — V1](War-Activation-Construction-V1.md)
+
+These establish the causal route:
+
+~~~text
+THREE MOONS
+information convergence + ordinary Port strain
+
+→
+
+CONTAINMENT
+real solutions + residue + Villain adaptation
+
+→
+
+SECURITY CONVERSION
+residue becomes capability
++ overlapping guarantees
++ readiness fear
+
+→
+
+WAR ACTIVATION
+small disputed convoy / inspection incident
++ failed containment
++ guarantee cascade
+
+→
+
+PORT CRISIS
+old neutrality becomes operationally contradictory
++ Council exposure
++ Villain exposure
++ Port emergency agency
+
+→
+
+FIRST SETTLEMENT
+structural Villain victory without ownership
+
+→
+
+98-YEAR EPILOGUE
+later generations inherit / revise the result
+~~~
+
+At this point the **macro story architecture is complete enough for chapter / sequence outlining**.
+
+The next design work should no longer invent new macro machinery by default.
+
+It should:
+
+- assign scenes / POVs;
+- choose which recurring roles become actual characters;
+- lock only the exact local details required by those scenes;
+- preserve the current causal chain unless scene-level evidence exposes a contradiction.
