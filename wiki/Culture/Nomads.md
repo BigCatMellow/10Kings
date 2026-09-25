@@ -20,6 +20,13 @@ Different mobile communities can have different:
 
 One favored design direction remains an **Appalachian-influenced mobile network**, but its name, exact origin, and degree of ethnic unity are not yet canon.
 
+Current development:
+
+- [Mobile Peoples Comparative Research — V1](../Reference/Mobile-Peoples-Comparative-Research-V1.md);
+- [Mobile Circuits — Working Profiles V1](../Reference/Mobile-Circuits-Working-Profiles-V1.md).
+
+These are provisional implementation pages; this owner remains structurally authoritative.
+
 Related owners:
 
 - [Movement and Information](../Movement-and-Information.md)
