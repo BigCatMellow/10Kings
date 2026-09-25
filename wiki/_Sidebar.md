@@ -123,6 +123,8 @@
 - [Opening Scene Construction V1](Reference/Opening-Scene-Construction-V1.md)
 - [Opening Character Packets V1](Reference/Opening-Character-Packets-V1.md)
 - [Opening Scene 1 Voice Test V1](Reference/Opening-Scene-1-Voice-Test-V1.md)
+- [Opening Scene 1 Voice Test V2](Reference/Opening-Scene-1-Voice-Test-V2.md)
+- [Opening Scene 2 Records Office Test V1](Reference/Opening-Scene-2-Records-Office-Test-V1.md)
 - [Wurdren Life Worth Living Arc V1](Reference/Wurdren-Life-Worth-Living-Arc-V1.md)
 - [Three Moons Opening Construction V1](Reference/Three-Moons-Opening-Construction-V1.md)
 - [Conspiracy Capability Ledger V2](Reference/Conspiracy-Capability-Ledger-V2.md)
