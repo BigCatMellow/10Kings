@@ -245,6 +245,42 @@ This is important.
 
 Port paperwork should not make local reality simple.
 
+### Local vocabulary matters
+
+The Port dispute may have introduced Wurdren to an outsider label such as **Forest Owner** and the local correction:
+
+- **the Turner**;
+- **the Turning**;
+- or simply the idea that people "get turned."
+
+On site, he learns that the correction was not pedantry.
+
+The local folk category preserves an institutional distinction:
+
+> **a recognized path does not automatically confer the rights surrounding it.**
+
+Different local people can disagree over whether the Turner is:
+
+- a being;
+- a phenomenon;
+- a story;
+- a useful saying.
+
+They can still agree that outsiders regularly confuse:
+
+- passage;
+- cutting;
+- gathering;
+- grazing;
+- water;
+- clearance.
+
+This gives Wurdren one concrete example of a broader habit that later matters to his arc:
+
+> listen long enough to discover what someone is actually distinguishing before deciding whether their explanation is sensible.
+
+The legal / practical claim must remain independently testable.
+
 ---
 
 ## Beat 5 — Longwood compromise succeeds locally
@@ -271,6 +307,7 @@ Because:
 - people actually speak to one another;
 - records are compared;
 - local knowledge enters the decision;
+- outsider categories are corrected before they harden into policy;
 - the stakes are concrete enough for compromise.
 
 ### Why it matters later
