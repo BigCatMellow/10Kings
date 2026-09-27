@@ -158,6 +158,30 @@ The important result is:
 
 > **shared infrastructure can create different cultures because people occupy different positions inside the same dependency.**
 
+### Coastal merchant-city culture
+
+Focused Wave 3 work supports OC-C as a distinct **sovereign coastal merchant-city** community type.
+
+See:
+
+- [Community Analogue Research — Wave 3](../Reference/Community-Analogue-Research-Wave-3.md);
+- [Community Profiles — P1 Wave 2](../Reference/Community-Profiles-P1-Wave-2.md);
+- [Community Spiderweb Test — P1 Wave 2](../Reference/Community-Spiderweb-Test-P1-Wave-2.md).
+
+Long-distance trade can produce:
+
+- diasporic families that become fully local civic families;
+- merchant / harbor / religious institutions;
+- local foods / speech / architecture descended from older outside influences;
+- maritime legal / commercial traditions.
+
+OC-C must remain distinct from Port:
+
+- Port's cosmopolitanism grows from neutral multimodal coordination and constrained sovereignty;
+- OC-C's grows from sovereign maritime commerce and civic rivalry.
+
+Imported influence should become local culture rather than permanent visible collage.
+
 ## Food
 
 Old Cities cuisine is diverse:
