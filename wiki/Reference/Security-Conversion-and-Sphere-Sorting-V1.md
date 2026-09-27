@@ -29,6 +29,32 @@ without anybody needing to announce that war is coming.
 
 ---
 
+## Current prose implementation — Sequences 13–16
+
+Bounded-correction baselines now exist for the first half of this movement:
+
+- [Sequence 13 — Price of a Good Solution Test V2](Movement-III-Sequence-13-Price-Good-Solution-Test-V2.md);
+- [Sequence 14 — Priority Test V2](Movement-III-Sequence-14-Priority-Test-V2.md);
+- [Sequence 15 — Truth at the Worst Time Test V2](Movement-III-Sequence-15-Truth-Worst-Time-Test-V2.md);
+- [Sequence 16 — Security Rules Test V2](Movement-III-Sequence-16-Security-Rules-Test-V2.md).
+
+These currently establish:
+
+~~~text
+successful Longwood compromise
+→ traffic / delay displaced elsewhere
+→ High Roads safety rules become more formal
+→ Stone Hills priority conflict becomes politically legible
+→ timed true disclosure hardens the allocation dispute
+→ route / escort / inspection systems accumulate durable capability
+~~~
+
+The next required epistemic turn is Council-side:
+
+> **the same protections now look like emerging strategic alignment when viewed across systems.**
+
+---
+
 # 1. Constraint — sphere sorting is not two clean alliances
 
 The current sphere research supports:
