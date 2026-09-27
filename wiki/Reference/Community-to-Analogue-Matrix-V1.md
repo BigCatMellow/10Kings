@@ -21,6 +21,9 @@ Research waves:
 - [Contact-Zone Comparative Research — Wave 4A](Contact-Zone-Comparative-Research-Wave-4A.md) — CZ-1/CZ-2/CZ-3.
 - [Contact-Zone Community Profiles — P1 Wave 4A](Contact-Zone-Community-Profiles-P1-Wave-4A.md).
 - [Contact-Zone Spiderweb Test — Wave 4A](Contact-Zone-Spiderweb-Test-Wave-4A.md).
+- [Port Diaspora Comparative Research — Wave 4B](Port-Diaspora-Comparative-Research-Wave-4B.md).
+- [Port Diaspora Community Profiles — P1 Wave 4B](Port-Diaspora-Community-Profiles-P1-Wave-4B.md).
+- [Port Diaspora Spiderweb Test — Wave 4B](Port-Diaspora-Spiderweb-Test-Wave-4B.md).
 
 This page implements:
 
@@ -232,10 +235,10 @@ Initial slots:
 
 | Diaspora slot | Likely location | Status |
 | --- | --- | --- |
-| D-1 North Coast-descended Port community | Port | R0 |
-| D-2 High Roads merchant/clerical Port network | Port | R0 |
-| D-3 Low Rivers food/labor Port community | Port | R0 |
-| D-4 Stone Hills skilled-worker diaspora at major route / Port nodes | Port / High Roads | R0 |
+| D-1 North Coast-descended Port community | Port | **R2 / P2 (type)** |
+| D-2 High Roads merchant/clerical Port network | Port | **R2 / P2 (type)** |
+| D-3 Low Rivers food/labor Port community | Port | **R2 / P2 (type)** |
+| D-4 Stone Hills skilled-worker diaspora at major route / Port nodes | Port / High Roads | **R2 / P2 (type)** |
 
 ---
 
