@@ -40,8 +40,8 @@ Recurring locations:
 - **Hild Fenwright** — Aldo's wife, a Northwind net-mender who finds all of this extremely funny.
 - **Brenna Scarth** — the old boatbuilder's daughter. Can sail anything; can't build.
 - **Old Rask** — a clan elder who pointedly uses the exclusive "we" around Aldo.
-- **The rival cove's champion rower** — everyone's cousin.
-- **The old boatbuilder** — present only through letters from Greenvale complaining that the country is too flat.
+- **The rival cove's champion rower** — everyone's cousin. Her uncle lost a boat to raiders this summer, so the rumor that Narrow Sound shelters them lands on her family like an insult at a funeral.
+- **The old boatbuilder** — present only through letters from Harveston Vale, where he lives with his son, complaining that the country is too flat. His latest describes a town that held two festivals at once and ate everything.
 
 ## Problem
 
@@ -74,7 +74,7 @@ Someone has to ride the repaired boat on its test launch and bail if the new pla
 
 ## Soft landing
 
-On the walk home Rask tells the story of the test launch tagged *I saw it*, then says, "We'll take them next year" — and this time it is the "we" that includes Aldo. The bell stays across the headland. A last letter arrives from Greenvale: the builder asks whether the plank held. The Long Dark Feast is coming, and somebody wants a new barrel.
+On the walk home Rask tells the story of the test launch tagged *I saw it*, then says, "We'll take them next year" — and this time it is the "we" that includes Aldo. The bell stays across the headland. A last letter arrives from Greenvale: the builder asks whether the plank held. Before the race, the champion rower thanks Rask, briefly and without saying for what; three other coves have already left Narrow Sound out of their convoys. The Long Dark Feast is coming. Hild opens the first winter sack of Greenvale flour, stamped with a town square's two names, and Aldo laughs at something he doesn't explain. Somebody wants a new barrel.
 
 ## World anchors
 
@@ -164,18 +164,31 @@ reconsider if     the plank repair needs technical exposition; the elder's turn 
 
 World-tie changes to the plan: s4 adds Maris's call and the rumor; s5 sets the two rumors side by side; s7 adds the clan-hall vote; s8 has the coves race together.
 
+### Stage 1c — THINK: reserve methods
+
+Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [The Anthology](../Anthology.md#stage-1--think-collection-level) for the collection-level pass.
+
+| Method | Failure signal | Finding → change |
+| --- | --- | --- |
+| **Perspective shift** (Narrow Sound) | The rival cove is only a rival. | Narrow Sound has lost a boat to raiders too; the rumor wounds them. The rower's brief thanks carries what the regatta meant to them without a speech. |
+| **Inversion** (where does the nail still fall?) | One cove's refusal defeats the rumor. | Three other coves have already cut Narrow Sound out of their convoys ([World Threads](../World-Threads.md#where-the-nail-still-fell)). Kettle Cove holds; the coast doesn't. |
+| **Systems thinking** (cross-story flows) | Aldo's Greenvale is abstract. | Northwind imports grain in winter, so Harveston's stamped sacks can reach the cove's stores (C1); the retired builder lives in Harveston Vale, and his letter describes the double festival (C2). Aldo, homesick, recognizes both; nobody else needs to. |
+| **Counterexample search** on the links | Do the links make Greenvale feel close enough to undercut Aldo's outsiderness? | **Survives.** They make it feel far: a sack and a letter are all that arrive. |
+
+Changes to the plan: s1's letter describes the double festival; s8 adds the rower's thanks, the other coves, and the stamped sack.
+
 ### Stage 2 — PLAN
 
 | # | Place · clock | What happens | Must establish | Running element |
 | --- | --- | --- | --- | --- |
-| 1 | Slipway · 3 weeks out | Haul-out reveals the cracked plank. The builder's letter from Greenvale. Borrowing is raised and hated. | the problem; the rival; exclusive "we" | flat-country letter |
+| 1 | Slipway · 3 weeks out | Haul-out reveals the cracked plank. The builder's letter from Harveston Vale: too flat, and they held two festivals at once. Borrowing is raised and hated. | the problem; the rival; exclusive "we" | flat-country letter |
 | 2 | Cooperage · same day | Brenna comes to ask. Aldo refuses: "I make barrels." Hild laughs. | Aldo's skills; the steam box | "Greenvale butter" said once |
 | 3 | Boat shed · next day | He looks anyway, sees a plank is a long stave, and agrees. | plausibility of the repair | Hild's commentary |
 | 4 | Clan hall · week 1 | Rask objects: "we don't hand our boat to…" Planking is short. A messenger brings Maris Bleakshore's call to choose trusted convoy partners, and someone says Narrow Sound can't be trusted. | the objection; the timber shortage; the convoy call; the rumor begins | exclusive "we" |
 | 5 | Drying racks · week 2 | Gossip and spying children. Two rumors side by side: *it is said* the Greenvale man builds a barrel boat, and *it is said* Narrow Sound shelters raiders. | the evidential arc starts for both | *it is said* |
 | 6 | Boat shed · week 2, storm | Storms delay the launch. Rask brings his own saved planking, "for the cove." | Rask's shift, still exclusive | exclusive "we" |
 | 7 | Slipway, clan hall · 3 days out | Test launch: Aldo rides and bails the whole way, sick. Rask watches. It floats. That night the hall votes on the regatta; Rask asks who saw Narrow Sound shelter anyone. Nobody. | the witnessed act; the same standard applied to the rumor | *I saw it* |
-| 8 | Regatta, walk home · Last Sail | The coves race together. Lose narrowly. Rask: "We'll take them next year," inclusive. Final letter. | soft landing | inclusive "we" |
+| 8 | Regatta, walk home · Last Sail | The rower thanks Rask; other coves have already cut Narrow Sound out. The coves race together. Lose narrowly. Rask: "We'll take them next year," inclusive. Final letter. The stamped flour sack. | soft landing; the limit of the win | inclusive "we" |
 
 **Promise ledger**
 
@@ -189,6 +202,8 @@ World-tie changes to the plan: s4 adds Maris's call and the rumor; s5 sets the t
 | P6 Rask's planking | s4 shortage | s6 | s7 in the hull | relationship | planned |
 | P7 "Greenvale butter" | s2 | — | s7 disproved, unspoken | character | planned |
 | P8 the Narrow Sound rumor | s4 | s5 beside Aldo's rumor | s7 unwitnessed → s8 they race | world thread | planned |
+| C1 stamped sacks | [One Square, Two Harvests](One-Square-Two-Harvests.md) | — | s8 winter flour | cross-story | planned |
+| C2 the builder's letter | [One Square, Two Harvests](One-Square-Two-Harvests.md) | — | s1 | cross-story | planned |
 
 Candidate Writing Bible lenses applied, as research and not rules:
 

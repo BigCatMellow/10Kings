@@ -77,7 +77,16 @@ Run each only as far as it keeps changing the answer. These are THINK's fixed-fo
 3. **First principles.** State what the story must *do* for the reader, independent of the current plot. Strip genre conventions the story doesn't need, such as a villain in a Sunday Morning mystery. Rebuild the smallest mechanism that does the job.
 4. **Counterexample search.** Attack the resolution and the premise. Would each character accept this? Could a reader solve or dismiss it too early? Does it break canon, material limits, or Sunday Morning tone? Narrow or fix whatever fails.
 
-Other methods from THINK's twelve-method library (perspective shift, inversion, frame challenge, recombination, analogy and others) stay in reserve. Use one only when a specific failure calls for it, such as frame challenge when the concept keeps failing for the same reason.
+Other methods from THINK's twelve-method library (perspective shift, inversion, frame challenge, recombination, analogy, systems thinking and others) stay in reserve. Use one only when a specific failure calls for it, and name the failure. Worked examples: every story's **Stage 1c** table, and the collection-level pass in [The Anthology](Anthology.md#stage-1--think-collection-level). Signals that have earned a reserve method so far:
+
+| Signal | Method |
+| --- | --- |
+| a side character is only an obstacle | perspective shift |
+| every nail fails; the win is too tidy | inversion (where does it still fall?) |
+| a story connects to the web but not to other stories | systems thinking (which flow carries a link?) |
+| a protagonist's canon weakness never costs anything | inversion (premortem on the protagonist) |
+| the tradition or practice is spread across people | recombination |
+| the collection might be one work or seven | frame challenge |
 
 ### World-tie check
 

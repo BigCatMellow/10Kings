@@ -39,10 +39,11 @@ Recurring locations:
 
 - **Brisa Holloway** — Northwind-born innkeeper who feeds everyone snowed in, paying or not.
 - **Tove Marrick, a salt-fish trader** — tags every claim by how she knows it: *I saw it*; *someone I'd lend a boat to told me*; *it is said.*
-- **The customs chief** — wants no scandal whatsoever.
+- **The customs chief** — wants no scandal whatsoever. With fewer caravans this year his post's fees are down and his appointment is under review; he isn't corrupt, just frightened.
 - **The repair smith** — maintains the scale, rude, capable, and innocent.
 - **The shrine keeper** — pilgrim host and quiet historian of who went where.
-- **Samir Tareh** — a Highridge caravan negotiator who rides with the first caravan of the year. After a season of caravan attacks, merchants follow his advice on which passes are reliable, and he is famous for checking every scale from here to the lowlands.
+- **The caravan's cook** — a Deepwood man cooking for caravans since a blight took his village's mushroom harvest, grumbling about prices.
+- **Samir Tareh** — a Highridge caravan negotiator who rides with the first caravan of the year. After a season of caravan attacks, merchants follow his advice on which passes are reliable, and he is famous for checking every scale from here to the lowlands. He is tired: this year nearly every report he receives is exaggerated, and an honest one has become rare.
 
 ## Problem
 
@@ -81,7 +82,7 @@ Quill corrects the scale publicly as part of the Pass Opening ceremony, with Sam
 
 ## Soft landing
 
-Quill's report reads: *Error inspected and corrected. Cause: weather.* He apologizes to the smith, who is still rude about it. Samir writes one line in his route book: *Icestep — scale honest, corrected in public.* The supper runs late: [Icefire Brined Fish](../../Culture/Recipes/Border-Fusions.md#icefire-brined-fish), [Frost and Spice Fish Cakes](../../Culture/Recipes/Border-Fusions.md#frost-and-spice-fish-cakes), and caravan flatbread. Tove tells the story that night, tagged *I saw it*.
+Quill's report reads: *Error inspected and corrected. Cause: weather.* He apologizes to the smith, who is still rude about it. Samir writes one line in his route book, under an earlier entry that reads *Seven Wells — water and guides, one roof*: *Icestep — scale honest, corrected in public.* He mentions, without relish, a pass town further east whose scale was not honest and will not see his caravans this year. The chief takes the credit for the ceremony, and everyone lets him. The caravan's cook grumbles that the mushrooms cost more than the meat. The supper runs late: [Icefire Brined Fish](../../Culture/Recipes/Border-Fusions.md#icefire-brined-fish), [Frost and Spice Fish Cakes](../../Culture/Recipes/Border-Fusions.md#frost-and-spice-fish-cakes), and caravan flatbread. Tove tells the story that night, tagged *I saw it*.
 
 ## World anchors
 
@@ -176,6 +177,19 @@ reconsider if     readers can solve it by scene 3; the "stone" collision needs h
 
 World-tie changes to the plan: s2 adds news that Samir rides with the first caravan; s8 has him watch the correction; s9 adds his route-book line.
 
+### Stage 1c — THINK: reserve methods
+
+Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [The Anthology](../Anthology.md#stage-1--think-collection-level) for the collection-level pass.
+
+| Method | Failure signal | Finding → change |
+| --- | --- | --- |
+| **Perspective shift** (the chief) | The chief is only an obstacle to honesty. | Fewer caravans mean lower fees and a post under review. His fear is the town's fear in one man. He is allowed the credit at the end, which costs Quill nothing. |
+| **Perspective shift** (Samir) | Samir is only a judge. | In a year of exaggerated reports, an honestly corrected error is rarer than a correct scale. That is why a public correction earns the listing. |
+| **Inversion** (where does the nail still fall?) | Every town is rewarded. | Another pass town, with a genuinely bad scale, comes off Samir's list. One line, told without relish ([World Threads](../World-Threads.md#where-the-nail-still-fell)). |
+| **Systems thinking** (cross-story flows) | The caravan arrives from nowhere. | Samir was at Seven Wells' Ledger Closing last autumn ([The Goat File](The-Goat-File.md)); his route book shows it (C4). His cook is the Deepwood cook who later judges the stews in [Three Pots](Three-Pots-at-Three-Moon.md) (C5). |
+
+Changes to the plan: s1 adds the chief's fear; s9 adds the route book's earlier line, the other pass town, the chief's credit and the cook.
+
 ### Stage 2 — PLAN
 
 Decomposed to scenes only; nothing needs to be broken down further before drafting.
@@ -184,7 +198,7 @@ Decomposed to scenes only; nothing needs to be broken down further before drafti
 
 | # | Place · clock | What happens | Must establish | Running element |
 | --- | --- | --- | --- | --- |
-| 1 | Public scale · day 1 morning | Pre-season check: the scale reads heavy against Quill's reference set. The chief says "quietly." | fault exists; low winter traffic; the patched roof, glimpsed as texture | Quill quotes the chief back to him |
+| 1 | Public scale · day 1 morning | Pre-season check: the scale reads heavy against Quill's reference set. The chief says "quietly"; his post is under review. | fault exists; low winter traffic; the patched roof, glimpsed as texture | Quill quotes the chief back to him |
 | 2 | Second Gate · day 1 evening | Supper with the snowed-in. Meet Brisa and Tove. Word that Samir Tareh rides with the first caravan. | Tove's evidential habit; "the night of the big blow" as everyone's date marker; Samir's survey | Brisa feeds him; the first evidential tag |
 | 3 | Customs house · day 1 night | The ledger shows readings jumped mid-winter, but entries are dated only "after the blow." | a jump exists; dating it is now the puzzle (curiosity: something happened in the past) | — |
 | 4 | Repair shop · day 2 morning | Quill suspects the smith, who has maintenance access. The smith's own weights check out. Quill is thrown out. | red herring cleared; Quill's bias shown | Quill quotes the smith, badly timed |
@@ -192,7 +206,7 @@ Decomposed to scenes only; nothing needs to be broken down further before drafti
 | 6 | Second Gate · day 2 night | News: the pass opens a day early. Quill re-weighs his own set and doubts himself. A quiet talk with Brisa about honesty and kindness. | deadline tightened; Quill starting to look at people | Brisa feeds him (tender, not comic) |
 | 7 | Drifts under the eaves · day 3 dawn | The thaw uncovers the original counterweight. Quill reads the net-stone's Northwind "one stone" mark. | solution: substitute weight, one word for two masses | "the big blow," finally dated and explained |
 | 8 | Public scale · Pass Opening | Public correction in front of Samir Tareh. Brisa is mortified. The refund is argued by shouting, then settled as the supper. | honesty with kindness; town convergence | Quill quotes Brisa's kindest line back to her, well timed this time |
-| 9 | Second Gate · that night | Supper. Report line: *Cause: weather.* Apology to the smith. Samir's route-book line. Tove tells the story. | soft landing | *I saw it*, the callback now carrying the whole story |
+| 9 | Second Gate · that night | Supper. Report line: *Cause: weather.* Apology to the smith. Samir's route book (Seven Wells above Icestep); the bad pass town mentioned; the chief takes credit; the cook grumbles about mushrooms. Tove tells the story. | soft landing | *I saw it*, the callback now carrying the whole story |
 
 **Promise ledger**
 
@@ -205,6 +219,8 @@ Decomposed to scenes only; nothing needs to be broken down further before drafti
 | P5 Brisa feeding him | s2 | s6 tender version | s9 supper as refund | relationship | planned |
 | P6 the smith suspected | s4 | — | s9 apology | relationship | planned |
 | P7 Samir's survey | s2 | s8 watches | s9 route-book line | world thread | planned |
+| C4 Seven Wells in the route book | [The Goat File](The-Goat-File.md) | — | s9 | cross-story | planned |
+| C5 the Deepwood cook | s9 | — | [Three Pots](Three-Pots-at-Three-Moon.md) | cross-story | planned |
 
 Candidate Writing Bible lenses applied, as research and not rules:
 

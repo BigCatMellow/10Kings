@@ -45,8 +45,8 @@ Recurring locations:
 
 - **Contract** — a mule who refuses the surveyed line every time.
 - **The market master** — needs the path open before the herb fair.
-- **Hollis Varne** — the lender's grandson. An unnamed buyer has offered him good money for his family's old Twilighthollow pledge, so he arrives from the plateau to find out what it is worth, expecting sixty years of interest.
-- **Naruin Mossglade** — Sessa's senior warden, mostly offstage. Leaked plans for a large road through the district have convinced him every small path is the first step of it.
+- **Hollis Varne** — the lender's grandson. An unnamed buyer has offered him good money for his family's old Twilighthollow pledge, so he arrives from the plateau to find out what it is worth, expecting sixty years of interest. His family lends to caravans, and with the attacks this year half their loans have gone bad; he needs the money. His neighbors along the planned road have already sold theirs.
+- **Naruin Mossglade** — Sessa's senior warden, mostly offstage. Leaked plans for a large road through the district have convinced him every small path is the first step of it. He isn't paranoid: the plans are real, and he grew up on his grandmother's stories of the old timber tithes, when outside extraction went too far.
 - **A Weaver-path elder** — documenting everything for the community record, including things nobody asked to have recorded. See [Path of the Great Weaver](../../Politics/Religions.md#2-path-of-the-great-weaver).
 - **Pip** — a child who climbs the tree daily and knows where every root surfaces.
 
@@ -174,6 +174,19 @@ reconsider if     the clause twist needs a long explanation; the romance needs a
 
 World-tie changes to the plan: s1 adds Naruin's order; s5 adds the buyer's offer; s7 adds the clause's second edge and the torn offer; s8 adds the survey sent to Naruin.
 
+### Stage 1c — THINK: reserve methods
+
+Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [The Anthology](../Anthology.md#stage-1--think-collection-level) for the collection-level pass.
+
+| Method | Failure signal | Finding → change |
+| --- | --- | --- |
+| **Perspective shift** (Naruin) | Naruin reads as an alarmist the story proves wrong. | His fear is earned: the plans are real, and Deepwood remembers the [timber tithes](../../History/Contested-Memory.md#the-timber-tithes--deepwood-closure-traditions). Sessa explains this to Ismet during the vigil; the story never says Naruin is wrong, only that this path was negotiable. |
+| **Perspective shift** (Hollis) | Hollis's greed is the only reason he'd sell. | His family lends to caravans, and the [caravan attacks](../../Story/Current-Events.md#caravan-attacks) have soured their loans. Refusing the buyer costs him something real, which makes the guardianship a sacrifice. |
+| **Inversion** (where does the nail still fall?) | The road is stopped by one pledge. | The buyer already holds his neighbors' pledges; the road is still coming, just not through this tree ([World Threads](../World-Threads.md#where-the-nail-still-fell)). |
+| **Counterexample search** on the ending | Does Hollis's sacrifice make the ending sad? | **Narrows.** The town's gift of the principal and his new tea stall give him a livelihood here; he isn't ruined, just not rich. |
+
+Changes to the plan: s4 adds why Naruin is afraid; s5 adds Hollis's bad loans and the neighbors who sold.
+
 ### Stage 2 — PLAN
 
 | # | Place · clock | What happens | Must establish | Running element |
@@ -181,8 +194,8 @@ World-tie changes to the plan: s1 adds Naruin's order; s5 adds the buyer's offer
 | 1 | The tree · 9 days out | The market master pairs them. First disagreement: "Lot 14" versus a name in the animate class. Sessa mentions Naruin's order to block new paths. | two vocabularies; the fair deadline; Naruin's order | Ismet's footnotes |
 | 2 | Survey line · 8 days out | Stakes go in; Contract refuses the line. Sessa has four words for "old." | Contract's refusal; Sessa's precision | Contract |
 | 3 | Records office · 7 days out | Ismet finds the lien: no works on pledged collateral without consent. A letter goes to the lender's family. | the lien; the consent rule | footnotes |
-| 4 | Vigil grounds · Canopy Vigil | Forced stillness together. Debates audible. Pip in the tree; roots pointed out. | Pip knows the roots; the first quiet between them | debates over the vigil |
-| 5 | Market square · Midsummer Debates | Hollis arrives expecting sixty years of interest, with a buyer's offer; town panic; the Weaver elder writes it all down. | stakes; Hollis's expectation; the offer | Weaver elder |
+| 4 | Vigil grounds · Canopy Vigil | Forced stillness together. Debates audible. Pip in the tree; roots pointed out. Sessa tells Ismet why Naruin is afraid. | Pip knows the roots; the first quiet between them; Naruin's fear is earned | debates over the vigil |
+| 5 | Market square · Midsummer Debates | Hollis arrives expecting sixty years of interest, with a buyer's offer; his caravan loans have gone bad and his neighbors along the road have already sold. Town panic; the Weaver elder writes it all down. | stakes; Hollis's need; the offer; the road still coming | Weaver elder |
 | 6 | Tree, night · debates night | Separately, each rereads what they know; they meet at the tree and compare. Sessa hears "for as long as it stands." | clause discovered through both vocabularies | Sessa's words for old |
 | 7 | Records office · 2 days out | The clause read to Hollis, and what the buyer wanted becomes plain. He tears up the offer. The path follows Contract's line along Pip's roots. Pledge renewed as guardianship. | resolution; the nail that didn't fall | Contract vindicated |
 | 8 | New path · herb fair | Fair opens. Two names. Co-signed survey with one footnote; a copy goes to Naruin. Hollis's tea stall. | soft landing; outward effect | footnote pays off |

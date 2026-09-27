@@ -39,7 +39,7 @@ Recurring locations:
 - **Tamsin Rake** — an old smith who will not let anything leave her shop merely *attempted*. Dry, exact, secretly kind.
 - **Col Barrowfield** — an apprentice with a Greenvale mother and an Ironcrest father. His masterwork is a pump and settling trough that returns a forge's quench water to its own cistern instead of the farm ditches.
 - **Marta Dunnock** — the other apprentice presenting this year. Her masterwork is a traditional blade, and it is genuinely good.
-- **Master Oswin Vey** — the district guildmaster, who is also trying to keep short-hours crews from walking out. Overly serious, runs judgments by the book, and keeps a ledger of water and smoke complaints he is losing.
+- **Master Oswin Vey** — the district guildmaster, who is also trying to keep short-hours crews from walking out. He is not a snob: if repair work counts as a masterwork in a year like this, cheap repairs undercut every smith's rates, and his members are already on short hours. Overly serious, runs judgments by the book, and keeps a ledger of water and smoke complaints he is losing.
 - **Nell Haskett** — farmer, town gossip, and unofficial census-taker of everything broken in the valley.
 - **The Quench's keeper** — has heard every forge story ever told and believes none of them, including Wurdren's.
 
@@ -55,6 +55,7 @@ Without a third, unbound judge, the judgments slip past Forge Reawakening and Co
 4. The charcoal is late anyway: the road is mud.
 5. Tamsin inspects Wurdren's sword and finds ordinary steel that a smith long ago *guaranteed* as something better. Good steel is scarce this spring anyway; the best stock has gone to private contracts, so the weld will be ordinary too.
 6. The day after the guild calls Col's work plumbing, a letter arrives from an anonymous patron, offering to fund his methods "should the guild fail to recognize them."
+7. Col shows Wurdren the letter. Wurdren, remembering the recognition he never got, tells him to take it.
 
 ## Running elements
 
@@ -69,11 +70,11 @@ Competence deserves respect even when nobody sings about it. Col's useful, ungla
 
 ## Climax
 
-The guild rules say a masterwork must be *inspected*. Wurdren asks the one question that matters: do the rules say where? They don't. Nell walks the judges down the lane to see Col's work in service — the ditch running clear below a forge that installed his trough, and the census of repaired hinges and gates along the way. Both apprentices pass; judging was never a contest between them. The water complaint is answered by the masterwork itself, and the farmers help drag the charcoal carts out of the mud.
+The guild rules say a masterwork must be *inspected*. Wurdren asks the one question that matters: do the rules say where? They don't. Nell walks the judges down the lane to see Col's work in service — the ditch running clear below a forge that installed his trough, and the census of repaired hinges and gates along the way. Both apprentices pass; judging was never a contest between them. Vey concedes for his own reason: the census shows that farms which could only afford repairs this year stayed solvent, and solvent farms buy plowshares again. The water complaint is answered by the masterwork itself, and the farmers help drag the charcoal carts out of the mud.
 
 ## Soft landing
 
-The fires are relit and the names on the memorial wall are read. Tamsin welds the tang, re-hilts the sword and stamps it *inspected*, not *guaranteed*: a fine, ordinary sword. Col's patron letter sits on his bench, unanswered; Wurdren notices it and thinks nothing much of it. He eats [Forged Harvest Stew](../../Culture/Recipes/Border-Fusions.md#blacksmiths--forged-harvest-stew) at The Quench and stays two extra days for no stated reason. Nell has a gate that sticks.
+The fires are relit and the names on the memorial wall are read. Tamsin welds the tang, re-hilts the sword and stamps it *inspected*, not *guaranteed*: a fine, ordinary sword. Col's patron letter sits on his bench, unanswered. Wurdren notices it, remembers his advice, and is quietly glad nobody needed it. He eats [Forged Harvest Stew](../../Culture/Recipes/Border-Fusions.md#blacksmiths--forged-harvest-stew) at The Quench and stays two extra days for no stated reason. Nell has a gate that sticks.
 
 ## World anchors
 
@@ -167,6 +168,18 @@ reconsider if     Wurdren reads as the cleverest person in the room; the blockad
 
 World-tie changes to the plan: s2 adds short hours and the Slatehallow talk; s4 ends with the letter; s6 adds the steel shortage; s8 adds the unanswered letter.
 
+### Stage 1c — THINK: reserve methods
+
+Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [The Anthology](../Anthology.md#stage-1--think-collection-level) for the collection-level pass.
+
+| Method | Failure signal | Finding → change |
+| --- | --- | --- |
+| **Perspective shift** (Vey) | Vey is a flat obstacle. | Guilds exist partly to stop outsiders undercutting rates ([Guilds](../../Politics/Guilds.md#what-guilds-want)). In a short-hours year, counting repair as a masterwork threatens his members' wages. He concedes on evidence that serves that same interest: repaired farms stay solvent and buy again. |
+| **Inversion** (premortem: how would Wurdren fail here?) | Wurdren is too wise; his canon weaknesses never cost anything. | His desire for recognition makes him the one who tells Col to take the patron's money. The town's evidence, not Wurdren, keeps the domino standing. Canon: he tends "to treat immediate problems before understanding systems" ([Wurdren](../../Story/Wurdren.md#character-weakness)). |
+| **Counterexample search** on the new beat | Does bad advice make Wurdren unlikeable? | **Narrows.** He gives it kindly, from his own regret, and the sword reveal the next day shows him what he was really chasing. |
+
+Changes to the plan: s4 adds Vey's wage reason; s5 adds Col showing Wurdren the letter; s7 adds Vey's concession; s8 adds Wurdren's private relief.
+
 ### Stage 2 — PLAN
 
 Decomposed to scenes; no scene needs further breakdown.
@@ -176,10 +189,10 @@ Decomposed to scenes; no scene needs further breakdown.
 | 1 | Tamsin's shop · day 1 | Wurdren arrives. The cracked tang needs a weld, and the fires are cold until the relighting. | the four-way distinction; the week's wait; the cold town | Tamsin: "attempted." |
 | 2 | The Quench · day 1 night | Short-hours crews talk strike and "the Slatehallow lad." The usual unbound judge is stuck on a washed-out road; everyone local is kin to an apprentice, so Vey drafts Wurdren. | why the stranger qualifies; the complaint ledger; the Orin story as gossip | sword story #1 (long) |
 | 3 | Nell's farmyard · day 2 | Wurdren buys eggs and gets the census: broken things, who fixed them, and the fouled ditch below a forge. | Col's repairs everywhere; the quench-water problem | Nell's census starts |
-| 4 | Guild hall · day 3 | First viewing. Marta's blade is good; Col's pump and trough is called plumbing. Wurdren asks what "inspected" requires. Next morning, Col's patron letter arrives. | the rule's wording; Vey's traditionalism; the letter | sword story #2 (shorter) |
-| 5 | Charcoal road · day 4 | Wurdren rides out with the carters. Mud; carts stuck; the farmers' blockade threat. | the charcoal deadline; farmers' grievance is water | material limits |
+| 4 | Guild hall · day 3 | First viewing. Marta's blade is good; Col's pump and trough is called plumbing, and Vey says why: short hours, undercut rates. Wurdren asks what "inspected" requires. Next morning, Col's patron letter arrives. | the rule's wording; Vey's traditionalism; the letter | sword story #2 (shorter) |
+| 5 | Charcoal road · day 4 | Wurdren rides out with the carters; Col comes too. Mud; carts stuck; the farmers' blockade threat. On the ride back Col shows him the letter, and Wurdren tells him to take it. | the charcoal deadline; farmers' grievance is water; Wurdren's bad advice | material limits |
 | 6 | Tamsin's shop · day 5 | Tamsin inspects the sword: ordinary steel, false guarantee, well-kept edge. The good stock has gone to private contracts, so ordinary steel will mend it. | Wurdren's self-recognition; the steel shortage | sword story #3 (one line) |
-| 7 | Lane and ditch · relighting day | Nell walks the judges to Col's work in service: the clear ditch, the repaired gates. Both apprentices pass. | the climax evidence; Vey's reluctant "inspected" | census pays off |
+| 7 | Lane and ditch · relighting day | Nell walks the judges to Col's work in service: the clear ditch, the repaired gates. Both apprentices pass; Vey concedes on the solvency evidence. | the climax evidence; Vey's own reason to say "inspected" | census pays off |
 | 8 | Guild hall, The Quench · relighting night | Carts arrive with farmers pushing. Fires relit, names read, the sword stamped *inspected*. The letter lies unanswered on Col's bench. | soft landing; next small problem; the nail that didn't fall | no sword story told |
 
 **Promise ledger**
@@ -194,6 +207,7 @@ Decomposed to scenes; no scene needs further breakdown.
 | P6 late charcoal | s5 | s7 | s8 farmers push the carts | material / relationship | planned |
 | P7 Nell's sticking gate | s3 | — | s8 next small problem | soft landing | planned |
 | P8 the patron letter | s2 Orin gossip | s4 after the dismissal | s8 unanswered; Wurdren notices | world thread | planned |
+| P9 Wurdren's advice | s5 | s6 sword reveal | s8 quiet relief | character | planned |
 
 Candidate Writing Bible lenses applied, as research and not rules:
 

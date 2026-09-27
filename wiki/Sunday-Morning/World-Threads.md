@@ -63,12 +63,43 @@ The order follows the chain: grain fails in the autumn of year 1, the effects re
 
 ## Cross-story links
 
-These are provisional and can be dropped if a draft doesn't want them.
+These are provisional and can be dropped if a draft doesn't want them. The full cross-story promise ledger, with the flow each link rides, is owned by [The Anthology](Anthology.md#cross-story-promise-ledger).
 
 - **The newcomers in Three Pots** come from a Greenvale farm that *did* sell to a consolidator, the outcome Harveston Vale avoided a year earlier.
-- **The Deepwood cook in Three Pots** is on the caravans because the fungal blight took his village's mushroom harvest.
-- **Samir Tareh's route survey** in The Heavy Scale continues through the season; Seven Wells, newly able to offer water and guides after The Goat File, could appear on his next list.
+- **The Deepwood cook** is on the caravans because the fungal blight took his village's mushroom harvest. He cooks for the first caravan over Icestep in The Heavy Scale, and reaches Port in time for Three Pots.
+- **Samir Tareh** settles caravan accounts at Seven Wells' Ledger Closing in The Goat File and hears the goat ruling. By The Heavy Scale his route book already lists Seven Wells: water and guides under one roof.
+- **Harveston grain** turns up in Kettle Cove's winter stores in The Greenvale Man, in sacks stamped with both of the square's names.
 - **Wurdren** meets the anonymous-patron pattern for the first time in Inspected, Not Guaranteed. It is the first of the recurring "strange orders, inexplicable resources" his [middle arc](../Story/Wurdren.md#middle) turns on.
+
+## Where the nail still fell
+
+Every story holds its own ground, but the same nail succeeds somewhere just offstage. A web where every domino misses would be too tidy, and the Villain's plan would be too weak to matter. Each of these appears in its story as one line at most, and never as the story's subject.
+
+| Story | Holds here | Still falls elsewhere |
+| --- | --- | --- |
+| One Square, Two Harvests | No Vale farm sells to the land agent | Farms elsewhere in Greenvale do; the Ardens in Three Pots are one of them |
+| The Greenvale Man | Kettle Cove races Narrow Sound | Other coves take the rumor and leave Narrow Sound out of their convoy |
+| The Goat File | Seven Wells closes its file without ruin | In other towns, forced closures ruin families; the tea seller has heard of two |
+| Inspected, Not Guaranteed | Col never answers the letter | Orin Slatehallow already answered his |
+| The Heavy Scale | Icestep stays on Samir's list | Another pass town, with a genuinely bad scale, comes off it |
+| The Tree With a Debt | Hollis won't sell | The buyer has already bought other pledges along the planned road |
+| Three Pots at Three Moon | One street shares its space | The smuggling rumors keep running on the next street over |
+
+## The view from the desks
+
+Out of story. This is what each hidden power could conclude from the seven events, following [World Rules §12](../World-Rules.md#12-every-major-event-should-have-second--and-third-order-effects). It is written for the saga's use, and it is provisional because the Villain's plan is [open](../Open-Questions.md#villain).
+
+| Story | The Villain's desk sees | The Council's desk sees |
+| --- | --- | --- |
+| One Square, Two Harvests | A rumor that didn't take in one valley. Noise. | A Sunplains patron house buying Greenvale grain directly. It looks like the start of cross-border consolidation, and the Council might quietly tighten the Salve house's credit. The Villain could then point to that squeeze as proof that the Council punishes Sunplains cooperation. |
+| The Greenvale Man | One cove refused the Narrow Sound story. Noise. | Nothing. Northwind convoy patrols are growing, and one regatta changes no ledger. |
+| The Goat File | Nothing. | A town cleaned its books under credit pressure without a scandal: the system working as intended. |
+| Inspected, Not Guaranteed | One talent declined the patron. Noise, unless it repeats. | Nothing. |
+| The Heavy Scale | A pass he expected to lose traffic kept it. Mildly inconvenient. | A route stayed open. Welcome, and unexamined. |
+| The Tree With a Debt | Naruin has received something that argues against the escalation the leaks were meant to provoke. Worth watching. | If the buyer is a Council Works interest, one pledge short on a planned right of way. The road's planners may reroute, and that reroute could leak too. |
+| Three Pots at Three Moon | Nothing. | Nothing. |
+
+Individually, every entry is noise. Together they are the kind of pattern the [Villain's page](../Story/Villain.md#relationship-to-wurdren) says he eventually notices: people repairing connections without being paid or coerced. That realization belongs to the saga, not to any Sunday Morning story.
 
 ## What the web adds
 

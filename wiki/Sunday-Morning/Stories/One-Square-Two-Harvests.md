@@ -38,10 +38,10 @@ Recurring locations:
 ## Cast
 
 - **Bettany Corlew** — Harvest Home committee chair. Her pride is the public accounting of surplus, and this year the surplus is humiliating because nobody will buy grain.
-- **Idris Salve** — young heir of a patron house, running the Crush for the first time and terrified of doing it smaller than his mother did.
+- **Idris Salve** — young heir of a patron house, running the Crush for the first time and terrified of doing it smaller than his mother did. Buying a valley's grain stretches his house's credit, and he knows it.
 - **The miller** — caught between both sides and billing both for his patience.
 - **The canal gatekeeper** — painfully literal. Recites the schedule when nervous.
-- **A polite land agent from downriver** — buying up the notes of farms that can't meet their debts, and in no hurry.
+- **A polite land agent from downriver** — buying up the notes of farms that can't meet their debts, and in no hurry. His own house owes lenders who have tightened this year; he needs these notes as much as the farmers need to keep them.
 - **Pell's granddaughter** — finds the dispute absurd and eats [Sunlit Orchard Grain](../../Culture/Recipes/Border-Fusions.md#sunlit-orchard-grain) every day without thinking of it as "fusion" anything.
 
 ## Problem
@@ -70,11 +70,11 @@ Traditions matter, and they can change. Pell's granddaughter's generation alread
 
 ## Climax
 
-Pell refuses to rule. Instead he does what forty years taught him: he gets both chairs into the records room with the oldest ledger and leaves them there. Bettany and Idris find that the two festivals were once one. A post-Convergence administrator split them so each harvest could be filed under its proper regional heading, which echoes the [Convergence's cultural effect](../../History/The-Convergence.md#cultural-effect). They settle it themselves: one joint festival. Greenvale's redistribution custom and the Salve house's patronage together turn the unsellable surplus into public generosity: the house buys grain at a fair price, which lets the indebted farms pay their seed loans, and gives it to every household that asks. Harvest Home's public accounting becomes a public meal of the grain everyone was told not to eat.
+Pell refuses to rule. Instead he does what forty years taught him: he gets both chairs into the records room with the oldest ledger and leaves them there. Bettany and Idris find that the two festivals were once one. A post-Convergence administrator split them so each harvest could be filed under its proper regional heading, which echoes the [Convergence's cultural effect](../../History/The-Convergence.md#cultural-effect). They settle it themselves: one joint festival. Greenvale's redistribution custom and the Salve house's patronage together turn the unsellable surplus into public generosity: the house buys grain at a fair price, which lets the indebted farms pay their seed loans, and gives it to every household that asks. Bettany insists it is a sale, not a gift, and that the co-op keeps its own accounting; the Vale's pride survives the rescue. Harvest Home's public accounting becomes a public meal of the grain everyone was told not to eat.
 
 ## Soft landing
 
-The square keeps both names. Bettany and Idris read the surplus accounting together, and for once it sounds like good news. Downriver merchants notice a Sunplains patron house buying Vale grain, and the rumor starts to fade. The land agent leaves with nothing and a very good lunch. The barrels arrive on day two. When an out-of-town cousin calls the joint table "fusion food," Pell's granddaughter shrugs: "We always eat it like this." Pell's quince tree gets a visitor from the water court asking for "just one small opinion."
+The square keeps both names. Bettany and Idris read the surplus accounting together, and for once it sounds like good news. Downriver merchants notice a Sunplains patron house buying Vale grain, and the rumor starts to fade. The land agent leaves with nothing and a very good lunch, over which he tells Pell about his own lenders, and Pell, unable to help himself, arbitrates his troubles too. The grain goes out in sacks stamped with both of the square's names. At the joint table an old Northwind boatbuilder, retired here to live with his son, complains that the country is too flat. The barrels arrive on day two. When an out-of-town cousin calls the joint table "fusion food," Pell's granddaughter shrugs: "We always eat it like this." Pell's quince tree gets a visitor from the water court asking for "just one small opinion."
 
 ## World anchors
 
@@ -168,6 +168,19 @@ reconsider if     the ending needs Pell to decide; the surplus plot needs price 
 
 World-tie changes to the plan: s2 adds the rumor and the agent's visits; s3 has Idris hear the rumor from his merchants; s7's settlement includes buying the grain to pay the loans; s8 adds the public meal and the agent leaving.
 
+### Stage 1c — THINK: reserve methods
+
+Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [The Anthology](../Anthology.md#stage-1--think-collection-level) for the collection-level pass.
+
+| Method | Failure signal | Finding → change |
+| --- | --- | --- |
+| **Perspective shift** (the land agent) | The agent is a faceless threat. | He is one link further down the same [ripple chain](../../Story/Current-Events.md#example-ripple-chain): his lenders have tightened too. His lunch with Pell gives the chain a human face without explaining it. |
+| **Perspective shift** (Idris) | The patron house's generosity costs nothing. | Buying the grain stretches the house's credit. That is also what makes the Council's desk notice it ([World Threads](../World-Threads.md#the-view-from-the-desks)); inside the story it is simply a brave choice. |
+| **Inversion** (premortem: how would the ending fail?) | Sunplains money rescues Greenvale: a patronizing ending. | Bettany makes it a sale at a fair price and keeps the co-op's accounting. Greenvale's stewardship and Sunplains' public generosity meet as equals. |
+| **Systems thinking** (cross-story flows) | The story's grain goes nowhere after the festival. | The sacks, stamped with both names, travel north as winter grain ([Anthology C1](../Anthology.md#cross-story-promise-ledger)); the old builder at the table sets up [The Greenvale Man](The-Greenvale-Man.md)'s letters (C2). |
+
+Changes to the plan: s7 adds Bettany's terms; s8 adds the agent's lunch, the stamped sacks and the old builder.
+
 ### Stage 2 — PLAN
 
 | # | Place · clock | What happens | Must establish | Running element |
@@ -178,8 +191,8 @@ World-tie changes to the plan: s2 adds the rumor and the agent's visits; s3 has 
 | 4 | Mill · 7 days out | The miller bills both sides for his patience. On the walk, Pell settles three small disputes without meaning to. | Pell's compulsion; town suspects he's taken the case | Pell arbitrating |
 | 5 | Square · 6 days out | Both sides read the clause aloud in their languages. Pell notices the aspect difference and says nothing yet. | the clause; the ledger nobody reads | two names |
 | 6 | Bake-off · 4 days out | Hand pies versus honey pastries. The granddaughter eats one of each together. | a child already joins what adults keep apart | granddaughter's verdict |
-| 7 | Records room · 3 days out | Pell locks the two chairs in (gently) with the old ledger. They find the single festival and the split, then negotiate the joint festival and the grain plan: the house buys at a fair price, the farms pay their loans. | climax: the discovery is theirs; the agent's leverage gone | Pell not arbitrating |
-| 8 | Square · festival | Joint festival. Surplus read aloud together, then eaten in public. Barrels on day two. The agent leaves with nothing. "We always eat it like this." Water court at the quince tree. | soft landing; the nail that didn't fall | two names, kept |
+| 7 | Records room · 3 days out | Pell locks the two chairs in (gently) with the old ledger. They find the single festival and the split, then negotiate the joint festival and the grain plan: the house buys at a fair price, the farms pay their loans, and Bettany insists it is a sale, not a gift. | climax: the discovery is theirs; the agent's leverage gone | Pell not arbitrating |
+| 8 | Square · festival | Joint festival. Surplus read aloud together, then eaten in public. Barrels on day two. The agent, over lunch, confides his own lenders' squeeze. Grain goes out in sacks stamped with both names. An old Northwind boatbuilder complains about the flatness. "We always eat it like this." Water court at the quince tree. | soft landing; the nail that didn't fall | two names, kept |
 
 **Promise ledger**
 
@@ -194,6 +207,9 @@ World-tie changes to the plan: s2 adds the rumor and the agent's visits; s3 has 
 | P7 quince tree | s1 | — | s8 | soft landing | planned |
 | P8 unsafe-grain rumor | s2 | s3 Idris's merchants | s8 public meal | world thread | planned |
 | P9 the land agent | s2 | s7 loans paid | s8 leaves with lunch | world thread / comic | planned |
+| C1 stamped sacks | s8 | — | [The Greenvale Man](The-Greenvale-Man.md) | cross-story | planned |
+| C2 the old builder | s8 | — | [The Greenvale Man](The-Greenvale-Man.md) letters | cross-story | planned |
+| C3 the agent's manner | s2, s8 | — | [Three Pots](Three-Pots-at-Three-Moon.md), Mrs. Arden | cross-story | planned |
 
 Candidate Writing Bible lenses applied, as research and not rules:
 

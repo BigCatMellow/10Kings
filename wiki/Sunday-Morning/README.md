@@ -12,8 +12,9 @@ A Sunday Morning Story is a character-driven, human-scale story with a clear pre
 
 1. [Sunday Morning Story Writing Framework](Framework.md) — the imported framework, setting-agnostic.
 2. [Applying the Framework to Two Sons](Applying-to-Two-Sons.md) — how the framework maps onto this setting, the world-tie rule (connected, not driven), and the extra checklist.
-3. [World Threads](World-Threads.md) — how the seven stories sit on the dominoes and current events: a shared calendar, the ripple chain and each story's thread.
-4. [Story Pipeline](Story-Pipeline.md) — how to develop a story from concept to reviewed draft using MAPS_L with THINK and PLAN, and what the development levels L0–L4 mean.
+3. [The Anthology](Anthology.md) — the seven stories as one linked collection: reading order, cross-story promises, and the collection-level THINK and PLAN pass.
+4. [World Threads](World-Threads.md) — how the seven stories sit on the dominoes and current events: a shared calendar, the ripple chain and each story's thread.
+5. [Story Pipeline](Story-Pipeline.md) — how to develop a story from concept to reviewed draft using MAPS_L with THINK and PLAN, and what the development levels L0–L4 mean.
 
 ## Stories
 

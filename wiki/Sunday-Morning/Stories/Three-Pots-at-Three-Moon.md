@@ -40,8 +40,9 @@ Recurring locations:
 - **Tobiah** — from the docks. Makes it with preserved fish and a lot of pepper, since forest mushrooms cost a fortune this year; eats standing up.
 - **Ines** — from the merchant quarter. Makes it rich with imported spice, "the way great-grandmother would have if she could have afforded it."
 - **The permit clerk** — knows Jory professionally; enjoys this far too much.
-- **A Deepwood caravan cook** — on the caravans since a fungal blight took his village's mushroom harvest; tastes all three versions and declares none of them Guardian Stew.
-- **The Arden family** — newly arrived from a Greenvale farm they had to sell to a land agent last year, cooking at the next spot without a permit.
+- **The street's market inspector** — under orders to show numbers during the smuggling surge; fines unpermitted stalls because his superiors count fines, and is visibly relieved by anything properly filed.
+- **A Deepwood caravan cook** — on the caravans since a fungal blight took his village's mushroom harvest; he came over Icestep on the first caravan of spring and has been working his way to Port since; tastes all three versions and declares none of them Guardian Stew.
+- **The Arden family** — newly arrived from a Greenvale farm they had to sell to a land agent last year ("a very polite man," Mrs. Arden says, "he bought us lunch"), cooking at the next spot without a permit.
 
 ## Problem
 
@@ -72,7 +73,7 @@ Each grandchild remembers a different fragment of how Mother Seral served the st
 
 ## Soft landing
 
-The cousins run the stall together, three pots labeled by neighborhood. On the second night the kept-back bowl goes to the Ardens next door, and Jory helps them with their own permit the next morning. The Deepwood cook tries Ines's version, winces, and has a second bowl. Mother Seral finally tastes all three and says only, "Again next year."
+The cousins run the stall together, three pots labeled by neighborhood. On the second night the kept-back bowl goes to the Ardens next door, and Jory helps them with their own permit the next morning. The inspector signs off on both stalls and eats standing up. On the next street over, the smuggling rumors are still running; this street has simply stopped listening. The Deepwood cook tries Ines's version, winces, and has a second bowl. Mother Seral finally tastes all three and says only, "Again next year."
 
 ## World anchors
 
@@ -162,6 +163,19 @@ reconsider if     the ritual reads as a Deepwood-wide custom; the newcomers beco
 
 World-tie changes to the plan: s3 adds the mushroom prices; s5 adds the smuggling rumor alongside the inspector; s7's permit clears the rumor.
 
+### Stage 1c — THINK: reserve methods
+
+Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [The Anthology](../Anthology.md#stage-1--think-collection-level) for the collection-level pass.
+
+| Method | Failure signal | Finding → change |
+| --- | --- | --- |
+| **Perspective shift** (the inspector) | The inspector is a faceless threat. | He is counting fines because the smuggling surge made his superiors count them. A filed permit is a relief to him, which turns s7 from a victory over him into a favor to him. |
+| **Perspective shift** (the Ardens) | The newcomers are only recipients of kindness. | Mrs. Arden has her own dry humor about the polite man who bought their notes; the line also completes [One Square, Two Harvests](One-Square-Two-Harvests.md)'s land agent from the other side (C3). |
+| **Inversion** (where does the nail still fall?) | The whole of Port is healed by one bowl. | Only this street stops listening; the rumors keep running on the next one ([World Threads](../World-Threads.md#where-the-nail-still-fell)). |
+| **Systems thinking** (cross-story flows) | The cook appears from nowhere. | He crossed Icestep with Samir's caravan in [The Heavy Scale](The-Heavy-Scale.md) and worked his way to Port (C5). |
+
+Changes to the plan: s5 adds Mrs. Arden's line and the inspector's orders; s7 adds his relief; s8 adds the next street over.
+
 ### Stage 2 — PLAN
 
 | # | Place · clock | What happens | Must establish | Running element |
@@ -170,10 +184,10 @@ World-tie changes to the plan: s3 adds the mushroom prices; s5 adds the smugglin
 | 2 | Market Regulation · 5 days out | One name, three stamps, two offices; the clerk enjoys it. | the deadline: filed by night two | stamps |
 | 3 | Tobiah's kitchen · 4 days out | His version, among dock workers, with fish where mushrooms should be because the blight has made them dear. He remembers the pot going on at dawn. | fragment 1: timing; the mushroom prices | Jory translating |
 | 4 | Ines's kitchen · 3 days out | Her version and her aspiration speech. She remembers one bowl always kept back. | fragment 2: the kept-back bowl | excess vs aspiration |
-| 5 | Festival street · night 1 | The Ardens cook next door without a permit, and a street rumor calls them smugglers. The Deepwood cook tastes all three: none is Guardian Stew, but in his village the pot opens at the table and a guest eats first. | the outside clue; the inspector; the rumor | stamps |
+| 5 | Festival street · night 1 | The Ardens cook next door without a permit, and a street rumor calls them smugglers; Mrs. Arden jokes about the polite man who bought their farm. The inspector is out counting fines. The Deepwood cook tastes all three: none is Guardian Stew, but in his village the pot opens at the table and a guest eats first. | the outside clue; the inspector; the rumor | stamps |
 | 6 | Back room · night 1, late | The cousins argue. Jory finally remembers his part: he carried the first bowl to strangers. The three fragments are one ritual. | fragment 3; the recombination | food-question answer, now understood |
-| 7 | Market Regulation · day 2 | Jory finds the unused family-stall form and files three names, then starts the Ardens' application, which answers the rumor better than any argument. | clock met; clerk skill essential; the nail that didn't fall | stamps pay off |
-| 8 | Festival street · night 2 | Three pots, one stall. The kept-back bowl goes to the Ardens. "Again next year." | soft landing | kept-back bowl |
+| 7 | Market Regulation · day 2 | Jory finds the unused family-stall form and files three names, then starts the Ardens' application, which answers the rumor better than any argument. The inspector, relieved, stamps it. | clock met; clerk skill essential; the nail that didn't fall | stamps pay off |
+| 8 | Festival street · night 2 | Three pots, one stall. The kept-back bowl goes to the Ardens. The next street is still whispering. "Again next year." | soft landing; the limit of the win | kept-back bowl |
 
 **Promise ledger**
 
@@ -187,6 +201,8 @@ World-tie changes to the plan: s3 adds the mushroom prices; s5 adds the smugglin
 | P6 newcomers | s5 | s7 | s8 first bowl | relationship | planned |
 | P7 Deepwood cook's taste | s5 | — | s8 second bowl of Ines's | comic | planned |
 | P8 the smuggling rumor | s5 | s7 permit | s8 first bowl to the Ardens | world thread | planned |
+| C3 the polite land agent | [One Square, Two Harvests](One-Square-Two-Harvests.md) | — | s5 Mrs. Arden's line | cross-story | planned |
+| C5 the Deepwood cook | [The Heavy Scale](The-Heavy-Scale.md) | — | s5 his verdict | cross-story | planned |
 
 Candidate Writing Bible lenses applied, as research and not rules:
 

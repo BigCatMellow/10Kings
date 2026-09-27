@@ -38,9 +38,10 @@ Recurring locations:
 ## Cast
 
 - **Ebbe Tarrow** — retired caravan master; dignified everywhere except on this subject. His house's caravan trade has shrunk with the attacks.
-- **Mardin Kesh** — cistern-keeper; equally dignified; equally not.
-- **The senior arbiter** — assigned the file to Pim and is taking bets on the outcome.
-- **The tea seller** — knows everything, charges by the cup.
+- **Mardin Kesh** — cistern-keeper; equally dignified; equally not. The renewed credit would pay for his cracked cisterns, so he needs the file closed and cannot be seen to lose it.
+- **The senior arbiter** — assigned the file to Pim and is taking bets on the outcome. Thirty years ago he was handed the goat file as a junior, and failed.
+- **The tea seller** — knows everything, charges by the cup. She has heard of two towns where forced closures this year ruined families.
+- **Samir Tareh** — a caravan negotiator in town to settle accounts at Ledger Closing; in the gallery for the ruling.
 - **Lio Tarrow and Nessa Kesh** — a grandchild from each house, quietly courting, who fear a public ruling will wreck their chances.
 - **The archive custodian** — a [Silent Whisper](../../Politics/Religions.md#6-the-silent-whisper) observer who releases nothing during silence hours.
 
@@ -73,7 +74,7 @@ The tea seller mentions, several cups in, that the two elders' mothers used to w
 
 ## Soft landing
 
-Pim closes the file: *Completed. Pending wedding.* The ruling is lawful because the ownership is settled by a condition, and Highridge law is comfortable with conditions. The senior arbiter pays out. The tea seller already knew. Next spring's wedding requires a goat, and both houses insist on providing it. The administrator sends clean books to Port. And a caravan house joined to a cistern house can offer passing caravans water and guides under one roof, just as routes are being redrawn.
+Pim closes the file: *Completed. Pending wedding.* The ruling is lawful because the ownership is settled by a condition, and Highridge law is comfortable with conditions. The senior arbiter pays out. The tea seller already knew. Next spring's wedding requires a goat, and both houses insist on providing it. The administrator sends clean books to Port, and Mardin's cisterns will be mended. The senior arbiter tells Pim he failed this file thirty years ago, and buys him tea. And a caravan house joined to a cistern house can offer passing caravans water and guides under one roof. Samir Tareh, leaving the gallery, asks Pim one question about the water, and writes something down.
 
 ## World anchors
 
@@ -163,18 +164,31 @@ reconsider if     readers guess the wedding clause by s5; the custodian reads as
 
 World-tie changes to the plan: s1 has the administrator cite the lenders; s3 adds Ebbe's shrunken trade; s8 adds the clean books.
 
+### Stage 1c — THINK: reserve methods
+
+Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [The Anthology](../Anthology.md#stage-1--think-collection-level) for the collection-level pass.
+
+| Method | Failure signal | Finding → change |
+| --- | --- | --- |
+| **Perspective shift** (Mardin) | Both elders are equally stubborn for the same reason. | Mardin needs the credit for his cisterns, so he needs closure and can't afford to lose. That bind makes his stubbornness funnier and gives the wager reading real relief. |
+| **Perspective shift** (the senior arbiter) | The hazing is mean. | He failed the same file as a junior. The bet is his way of hoping Pim succeeds; the tea at the end says so. |
+| **Inversion** (where does the nail still fall?) | Forced closures are harmless everywhere. | The tea seller has heard of two towns where they ruined families ([World Threads](../World-Threads.md#where-the-nail-still-fell)). Seven Wells was lucky in its clerk. |
+| **Systems thinking** (cross-story flows) | The joined house's value is asserted, not seen. | Caravan negotiators settle debts at Ledger Closing, so Samir is plausibly in the gallery. His one question about water is the joined house's value, made visible, and it lands in his route book for [The Heavy Scale](The-Heavy-Scale.md) (C4). |
+
+Changes to the plan: s2 adds the tea seller's two towns; s8 adds Mardin's cisterns, the arbiter's confession and Samir's question.
+
 ### Stage 2 — PLAN
 
 | # | Place · clock | What happens | Must establish | Running element |
 | --- | --- | --- | --- | --- |
 | 1 | Arbitration hall · 10 days out | The new rule, and the reason: Port lenders want clean books. The senior arbiter hands Pim the file; the gallery laughs; a betting book opens. | the problem; the clock | the odds |
-| 2 | Tea stall · 9 days out | Pim reads the file over tea. Quoted testimony from the seventeenth year. | the file's contradictions | tea by the cup |
+| 2 | Tea stall · 9 days out | Pim reads the file over tea. Quoted testimony from the seventeenth year. The tea seller mentions two towns where forced closures ruined families. | the file's contradictions; what failure would cost | tea by the cup |
 | 3 | Caravan yards · 8 days out | Ebbe Tarrow's dignified, absurd account, in a yard emptier than it should be. | one house's version; the thinned trade | quoted testimony |
 | 4 | Cisterns · 7 days out | Mardin Kesh's account. Pim notices both men quote their mothers — identically, and differently. | the mothers were friends (clue) | quoted testimony |
 | 5 | Upland pasture · 6 days out | The goat census, pointless. Pim finds Lio and Nessa together; they beg him to rule for nobody. | the grandchildren; the stakes | goat census |
 | 6 | Archive · 4 days out | The custodian refuses until silence hours end. Pim waits. The tea seller: "Their mothers used to walk here together." | the deposit exists; patience | tea by the cup |
 | 7 | Archive · eve of ruling | "You are the first to ask." The sealed memorandum: the wager. | solution | quoted testimony, from the source |
-| 8 | Hall · Ledger Closing | Pim reads it aloud. The grandchildren stand. *Completed. Pending wedding.* Payouts. Clean books go to Port. Both houses provide the goat. | soft landing; the nail met | odds settled |
+| 8 | Hall · Ledger Closing | Pim reads it aloud. The grandchildren stand. *Completed. Pending wedding.* Payouts. Clean books go to Port; Mardin's cisterns will be mended. The arbiter confesses his own failure and buys tea. Samir, in the gallery, asks about the water. Both houses provide the goat. | soft landing; the nail met | odds settled |
 
 **Promise ledger**
 
@@ -187,6 +201,8 @@ World-tie changes to the plan: s1 has the administrator cite the lenders; s3 add
 | P5 the pointless census | s5 | — | s8 a goat for the wedding | comic callback | planned |
 | P6 silence hours | s6 | — | s7 released | clock | planned |
 | P7 the lenders' demand | s1 | — | s8 clean books | world thread | planned |
+| P8 the arbiter's bet | s1 | — | s8 his confession | character | planned |
+| C4 Samir at Ledger Closing | s8 | — | [The Heavy Scale](The-Heavy-Scale.md) route book | cross-story | planned |
 
 Candidate Writing Bible lenses applied, as research and not rules:
 
