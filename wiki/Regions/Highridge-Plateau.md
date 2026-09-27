@@ -142,6 +142,55 @@ The carrier community is durable.
 
 This distinction matters to High Roads law, trade and culture.
 
+### Central switching / arbitration city
+
+Focused Wave 3 work supports HR-C as a **switching-city type** whose importance comes from making different route / legal / carrier systems interoperable.
+
+See:
+
+- [Community Analogue Research — Wave 3](../Reference/Community-Analogue-Research-Wave-3.md);
+- [Community Profiles — P1 Wave 2](../Reference/Community-Profiles-P1-Wave-2.md);
+- [Community Spiderweb Test — P1 Wave 2](../Reference/Community-Spiderweb-Test-P1-Wave-2.md).
+
+It can concentrate:
+
+- arbitration;
+- interpreters;
+- weighing / measures;
+- warehouses;
+- animal markets;
+- lodging;
+- carrier brokers;
+- clerks.
+
+This does **not** make HR-C the capital of High Roads.
+
+Its authority remains functional and reputational, not sovereign over HR-N / HR-W.
+
+### Northern high-route settlements
+
+The same work supports permanent high-route communities where:
+
+- highland cultivation;
+- livestock;
+- route service;
+- seasonal herd movement;
+- winter storage
+
+coexist.
+
+Such a settlement is not merely a stop used by pastoralists.
+
+Some households remain year-round; others split seasonally.
+
+This preserves the distinction between:
+
+> **a permanent route settlement**
+
+and
+
+> **a transhumant pastoral network.**
+
 ## Food
 
 High Roads cuisine is unusually mixed because caravans bring ingredients.
