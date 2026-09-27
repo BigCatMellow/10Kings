@@ -45,7 +45,7 @@ Recurring locations:
 
 - **Contract** — a mule who refuses the surveyed line every time.
 - **The market master** — needs the path open before the herb fair.
-- **Hollis Varne** — the lender's grandson. An unnamed buyer has offered him good money for his family's old Twilighthollow pledge, so he arrives from the plateau to find out what it is worth, expecting sixty years of interest. His family lends to caravans, and with the attacks this year half their loans have gone bad; he needs the money. His neighbors along the planned road have already sold theirs.
+- **Hollis Varne** — the lender's grandson. An unnamed buyer has offered him good money for his family's old Twilighthollow pledge, in an unsigned letter on fine Port paper that urges him to sell "should the market fail to recognize its worth," so he arrives from the plateau to find out what it is worth, expecting sixty years of interest. His family lends to caravans, and with the attacks this year half their loans have gone bad; he needs the money. His neighbors along the planned road have already sold theirs.
 - **Naruin Mossglade** — Sessa's senior warden, mostly offstage. Leaked plans for a large road through the district have convinced him every small path is the first step of it. He isn't paranoid: the plans are real, and he grew up on his grandmother's stories of the old timber tithes, when outside extraction went too far.
 - **A Weaver-path elder** — documenting everything for the community record, including things nobody asked to have recorded. See [Path of the Great Weaver](../../Politics/Religions.md#2-path-of-the-great-weaver).
 - **Pip** — a child who climbs the tree daily and knows where every root surfaces.
@@ -103,7 +103,7 @@ Part of [World Threads](../World-Threads.md) — year 2, midsummer.
 | **Domino figure** | [Naruin Mossglade](../../Story/Villains-Dominoes.md#naruin-mossglade--deepwood), Sessa's senior warden, mostly offstage. His domino: leaked plans without context push him toward preemptive defense, and a local conservation dispute grows into a sovereignty crisis. |
 | **The nail** | An unnamed buyer's offer for the old pledge. Because of the "for as long as it stands" clause, the buyer would profit if the tree fell. |
 | **Independent reasons** | Speculators do buy rights along planned roads; Hollis's family does need money; Naruin's plans are real, just stripped of context. |
-| **Behind it (out of story)** | Buyer: `UNKNOWN`, possibly a Council infrastructure interest assembling a right of way. The leaks feeding Naruin fit the Villain's method; both provisional. |
+| **Behind it (out of story)** | The Villain, provisionally, through a Port intermediary — the same hand as Col's patron in [Inspected, Not Guaranteed](Inspected-Not-Guaranteed.md). Pledges that pay out when trees fall, bought with Port money, are the evidence his leaks to Naruin need. |
 | **Local outcome** | Hollis renews the pledge as a guardianship instead of selling, and the path is negotiated rather than blocked. |
 | **Outward effect** | Naruin receives a working counterexample: a path agreed in both vocabularies and a Highridge family pledged to protect a Deepwood tree. It is exactly the kind of direct contact between groups that [Wurdren's effect](../../Story/Villains-Dominoes.md#wurdrens-effect) describes — here made by ordinary people. |
 
@@ -170,7 +170,7 @@ reconsider if     the clause twist needs a long explanation; the romance needs a
 | Hollis turns up because a letter reached him | `ASSUMED` → **replaced** | A buyer's offer brings him, which ties the story to the road conflict and gives the clause a second edge. |
 | The clause only protects the tree | `ASSUMED` → **false** | Counterexample: whoever holds it profits if the tree falls. That is what the buyer wanted, and what makes Hollis's choice real. |
 | Naruin must appear on the page | `ASSUMED` → **narrowed** | Offstage, through his order and the survey Sessa sends him; his story belongs to the main saga. |
-| The buyer can be named | `ASSUMED` → **false** | Naming him would expose the pattern inside the story. Attribution stays out of story and `UNKNOWN`. |
+| The buyer can be named | `ASSUMED` → **false** | Naming him would expose the pattern inside the story. Attribution stays out of story. (Later decision: see the connected-offers record below.) |
 
 World-tie changes to the plan: s1 adds Naruin's order; s5 adds the buyer's offer; s7 adds the clause's second edge and the torn offer; s8 adds the survey sent to Naruin.
 
@@ -187,6 +187,19 @@ Run 2026-09-27 at James's request to use THINK more fully. Each method answers a
 
 Changes to the plan: s4 adds why Naruin is afraid; s5 adds Hollis's bad loans and the neighbors who sold.
 
+### Decision record — the connected offers
+
+**Routed to James** as a taste decision that changes the collection, then back to THINK. James decided on 2026-09-27 to connect the two anonymous offers.
+
+| | |
+| --- | --- |
+| **Shared markers** | Both letters are unsigned, on heavy cream paper bearing a Port stationer's watermark (a small ship's lantern), and both use the same turn of phrase: Col's patron writes "should the guild fail to recognize them"; Hollis's buyer writes "should the market fail to recognize its worth." |
+| **Who notices** | Nobody connects them in either story. Col only notices the paper is too fine for Stonefield. In Twilighthollow, Ismet, a records man, recognizes the watermark as Port's and thinks nothing more of it. The reader, having read both, can. |
+| **Attribution (out of story, provisional)** | One hand, working through a Port intermediary: the Villain. It is his method in canon: real opportunities, selective leaks, criminal and financial networks ([Villain](../../Story/Villain.md#method)). |
+| **Why he wants the pledges** | A record of Port money buying Deepwood forest pledges that pay out when trees fall is exactly the evidence that, leaked to Naruin without context, turns a road dispute into a sovereignty crisis. Every step has an ordinary explanation: speculators buy rights along planned roads. |
+| **Why he wants Col** | The same approach that caught Orin: dependence on a benefactor inside Ironcrest's production networks. |
+| **Canon limit** | This fixes one provisional method detail. The Villain's identity, grievance and goal stay [open](../../Open-Questions.md#villain). |
+
 ### Stage 2 — PLAN
 
 | # | Place · clock | What happens | Must establish | Running element |
@@ -195,7 +208,7 @@ Changes to the plan: s4 adds why Naruin is afraid; s5 adds Hollis's bad loans an
 | 2 | Survey line · 8 days out | Stakes go in; Contract refuses the line. Sessa has four words for "old." | Contract's refusal; Sessa's precision | Contract |
 | 3 | Records office · 7 days out | Ismet finds the lien: no works on pledged collateral without consent. A letter goes to the lender's family. | the lien; the consent rule | footnotes |
 | 4 | Vigil grounds · Canopy Vigil | Forced stillness together. Debates audible. Pip in the tree; roots pointed out. Sessa tells Ismet why Naruin is afraid. | Pip knows the roots; the first quiet between them; Naruin's fear is earned | debates over the vigil |
-| 5 | Market square · Midsummer Debates | Hollis arrives expecting sixty years of interest, with a buyer's offer; his caravan loans have gone bad and his neighbors along the road have already sold. Town panic; the Weaver elder writes it all down. | stakes; Hollis's need; the offer; the road still coming | Weaver elder |
+| 5 | Market square · Midsummer Debates | Hollis arrives expecting sixty years of interest, with a buyer's offer on fine Port paper (Ismet notes the lantern watermark and thinks nothing of it); his caravan loans have gone bad and his neighbors along the road have already sold. Town panic; the Weaver elder writes it all down. | stakes; Hollis's need; the offer; the road still coming | Weaver elder |
 | 6 | Tree, night · debates night | Separately, each rereads what they know; they meet at the tree and compare. Sessa hears "for as long as it stands." | clause discovered through both vocabularies | Sessa's words for old |
 | 7 | Records office · 2 days out | The clause read to Hollis, and what the buyer wanted becomes plain. He tears up the offer. The path follows Contract's line along Pip's roots. Pledge renewed as guardianship. | resolution; the nail that didn't fall | Contract vindicated |
 | 8 | New path · herb fair | Fair opens. Two names. Co-signed survey with one footnote; a copy goes to Naruin. Hollis's tea stall. | soft landing; outward effect | footnote pays off |
@@ -211,6 +224,7 @@ Changes to the plan: s4 adds why Naruin is afraid; s5 adds Hollis's bad loans an
 | P5 debates over the vigil | s4 | s5 | — (texture only) | world | planned |
 | P6 Ismet's footnotes | s1 | — | s8 the one footnote credits her | character / romance | planned |
 | P7 the buyer's offer | s5 | s6 clause | s7 torn up | world thread | planned |
+| C6 the connected offers | [Inspected, Not Guaranteed](Inspected-Not-Guaranteed.md), s4 | — | s5 (paper, watermark, phrase) | cross-story | planned |
 | P8 Naruin's order | s1 | — | s8 survey sent to him | world thread | planned |
 
 Candidate Writing Bible lenses applied, as research and not rules:

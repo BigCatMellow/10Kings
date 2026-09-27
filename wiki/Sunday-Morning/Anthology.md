@@ -23,7 +23,7 @@ Read in calendar order. Each story stands alone; read in order, they add up to a
 | 3 | [The Goat File](Stories/The-Goat-File.md) | Year 1, late autumn | Credit is tightening somewhere far away. Samir Tareh is in the gallery. |
 | 4 | [Inspected, Not Guaranteed](Stories/Inspected-Not-Guaranteed.md) | Year 2, early spring | An unsigned offer arrives at exactly the wrong moment. People gossip about someone who took one. |
 | 5 | [The Heavy Scale at Icestep Summit](Stories/The-Heavy-Scale.md) | Year 2, early spring | Samir's survey decides which passes live. The caravan cook complains about mushroom prices. |
-| 6 | [The Tree With a Debt](Stories/The-Tree-With-a-Debt.md) | Year 2, midsummer | A second unsigned offer, and plans that leaked. The attentive reader now suspects a hand. |
+| 6 | [The Tree With a Debt](Stories/The-Tree-With-a-Debt.md) | Year 2, midsummer | A second unsigned offer, on the same Port paper, in the same turn of phrase. The attentive reader now knows one hand wrote both; nobody in the story does. |
 | 7 | [Three Pots at Three Moon](Stories/Three-Pots-at-Three-Moon.md) | Year 2, early autumn | The polite land agent is mentioned by a family who didn't escape him. One street holds. The reader knows more than anyone in it. |
 
 ## How the stories connect
@@ -37,10 +37,10 @@ flowchart LR
   OS -->|the polite land agent| TP[Three Pots at Three Moon]
   GF[The Goat File] -->|Samir settles accounts at Ledger Closing| HS[The Heavy Scale]
   HS -->|the caravan cook| TP
-  IN[Inspected, Not Guaranteed] -.->|unsigned offer, same season| TD[The Tree With a Debt]
+  IN[Inspected, Not Guaranteed] -->|same paper, same phrase: one hand| TD[The Tree With a Debt]
 ```
 
-Solid lines are cross-story promises the reader can check. The dotted line is a deliberate question: two unsigned offers the reader may or may not connect.
+Every line is a cross-story promise the reader can check. The last one is the collection's only link to the hidden hand.
 
 ## Cross-story promise ledger
 
@@ -51,7 +51,7 @@ Solid lines are cross-story promises the reader can check. The dotted line is a 
 | C3 the polite land agent | One Square, s2 and s8 | Three Pots, Mrs. Arden: "a very polite man bought our notes" | Consolidation continues elsewhere in Greenvale | Optional — the line works without it |
 | C4 Samir Tareh | The Goat File, s8 (settling accounts at Ledger Closing) | The Heavy Scale, s9 (his route book already lists Seven Wells) | Caravan negotiators settle debts at Ledger Closing | No |
 | C5 the Deepwood caravan cook | The Heavy Scale, s9 (the first caravan's cook, grumbling about mushroom prices) | Three Pots, s5 (his verdict on the stews) | He cooks for caravans since the blight | No |
-| C6 unsigned offers | Inspected, s4 (Col's patron) | The Tree With a Debt, s5 (Hollis's buyer) | Offers by letter are ordinary | Open question — see below |
+| C6 the connected offers | Inspected, s4 (Col's patron) | The Tree With a Debt, s5 (Hollis's buyer) | Offers by letter are ordinary; both come through the same Port stationer | Yes, for the collection's payoff — the lantern watermark and "should … fail to recognize" must be salient in s4 |
 
 ## Development record
 
@@ -77,7 +77,7 @@ alternatives      A a shared protagonist (Wurdren) across stories — set aside:
                   B no links at all — set aside: the collection would not add up to a year
                   C every link explicit — set aside: stories would stop standing alone
 assumptions       calendar and all attributions provisional (World Threads)
-unknowns          whether the two unsigned offers share an author (question for James)
+decided           the two offers are connected (James, 2026-09-27)
 reconsider if     any story needs another to be understood; a link feels like coincidence in draft;
                   the reader's inference arrives before story 6 or never
 ```
@@ -93,7 +93,7 @@ reconsider if     any story needs another to be understood; a link feels like co
 | C1, C2, C3 | One Square, Two Harvests | sack stamp wording; festival details in the letter; the agent's manner |
 | C4 | The Goat File | Samir's reason for being at Ledger Closing |
 | C5 | The Heavy Scale | the cook's name and grievance |
-| C6 | open | only after James decides |
+| C6 | Inspected, Not Guaranteed | the watermark description and the exact phrase |
 
 **Expected reader state** (PLAN's expected-evidence idea applied to the reader): the reading-order table above states what each story should leave the reader knowing. JUDGE checks drafts against it.
 
@@ -103,6 +103,8 @@ reconsider if     any story needs another to be understood; a link feels like co
 - Readers of story 1 alone sense a conspiracy → the rumor reads too pointed; soften it (THINK on that story).
 - The collection reads as seven identical "the town holds" endings → vary the endings' cost (THINK).
 
-## Open question for James
+## Decision: the offers are connected
 
-The two unsigned offers (C6) could be written with a shared detail, such as the same good paper or the same phrasing, which tells the reader one hand is behind both. Or they could stay unconnected, leaving the reader to wonder. Their out-of-story attributions currently differ: Villain for Col's letter, `UNKNOWN` for Hollis's buyer.
+James decided on 2026-09-27 that the two anonymous offers share one hand. Both are unsigned, on heavy cream paper with a Port stationer's ship's-lantern watermark, and both use "should … fail to recognize." No character connects them; the reader who has read both can. Attribution, provisional: the Villain, working through a Port intermediary. The reasoning and canon limits are recorded in each story's *Decision record — the connected offers*.
+
+Writing Bible candidate lens applied: readers keep gist, not wording, so the phrase needs salience where it first appears (Col reads it aloud to Wurdren in s5), and the watermark gets one concrete sentence in each story.

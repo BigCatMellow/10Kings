@@ -54,7 +54,7 @@ Without a third, unbound judge, the judgments slip past Forge Reawakening and Co
 3. The farmers, tired of fouled ditches, threaten to stand in the charcoal road on relighting day.
 4. The charcoal is late anyway: the road is mud.
 5. Tamsin inspects Wurdren's sword and finds ordinary steel that a smith long ago *guaranteed* as something better. Good steel is scarce this spring anyway; the best stock has gone to private contracts, so the weld will be ordinary too.
-6. The day after the guild calls Col's work plumbing, a letter arrives from an anonymous patron, offering to fund his methods "should the guild fail to recognize them."
+6. The day after the guild calls Col's work plumbing, a letter arrives from an anonymous patron, offering to fund his methods "should the guild fail to recognize them." It is unsigned, on heavy cream paper with a small ship's-lantern watermark, far too fine for Stonefield.
 7. Col shows Wurdren the letter. Wurdren, remembering the recognition he never got, tells him to take it.
 
 ## Running elements
@@ -94,7 +94,7 @@ Part of [World Threads](../World-Threads.md) — year 2, early spring.
 | **Domino figure** | [Orin Slatehallow](../../Story/Villains-Dominoes.md#orin-slatehallow--ironcrest), mentioned only. At The Quench, the crews talk about "the Slatehallow lad" who took a mysterious patron's money after his guild refused him. |
 | **The nail** | Col's anonymous patron letter, timed the day after the guild dismisses his work. |
 | **Independent reasons** | Patrons do fund promising craftsmen; the guild's traditionalists really do dismiss repair work; Col really does need the money. |
-| **Behind it (out of story)** | The Villain, provisionally: the same approach used on Orin, "selective obstruction" followed by a convenient offer. |
+| **Behind it (out of story)** | The Villain, provisionally: the same approach used on Orin, "selective obstruction" followed by a convenient offer. The same hand, through the same Port intermediary, later makes Hollis's offer in [The Tree With a Debt](The-Tree-With-a-Debt.md); the paper and the phrasing match. |
 | **Local outcome** | Col passes his judgment on the evidence of his work in service, so he never needs to answer the letter. Nobody in town connects the letter to anything. |
 | **Outward effect** | One skilled repairer stays independent and in the town that needs him. Wurdren has now seen a "convenient offer" once; it is the first of the patterns his [middle arc](../../Story/Wurdren.md#middle) turns on. |
 
@@ -180,6 +180,19 @@ Run 2026-09-27 at James's request to use THINK more fully. Each method answers a
 
 Changes to the plan: s4 adds Vey's wage reason; s5 adds Col showing Wurdren the letter; s7 adds Vey's concession; s8 adds Wurdren's private relief.
 
+### Decision record — the connected offers
+
+**Routed to James** as a taste decision that changes the collection, then back to THINK. James decided on 2026-09-27 to connect the two anonymous offers.
+
+| | |
+| --- | --- |
+| **Shared markers** | Both letters are unsigned, on heavy cream paper bearing a Port stationer's watermark (a small ship's lantern), and both use the same turn of phrase: Col's patron writes "should the guild fail to recognize them"; Hollis's buyer writes "should the market fail to recognize its worth." |
+| **Who notices** | Nobody connects them in either story. Col only notices the paper is too fine for Stonefield. Wurdren sees the lantern watermark in s5 and it means nothing to him yet; he never sees the second letter. In Twilighthollow, Ismet, a records man, recognizes the watermark as Port's and thinks nothing more of it. The reader, having read both, can. |
+| **Attribution (out of story, provisional)** | One hand, working through a Port intermediary: the Villain. It is his method in canon: real opportunities, selective leaks, criminal and financial networks ([Villain](../../Story/Villain.md#method)). |
+| **Why he wants the pledges** | A record of Port money buying Deepwood forest pledges that pay out when trees fall is exactly the evidence that, leaked to Naruin without context, turns a road dispute into a sovereignty crisis. Every step has an ordinary explanation: speculators buy rights along planned roads. |
+| **Why he wants Col** | The same approach that caught Orin: dependence on a benefactor inside Ironcrest's production networks. |
+| **Canon limit** | This fixes one provisional method detail. The Villain's identity, grievance and goal stay [open](../../Open-Questions.md#villain). |
+
 ### Stage 2 — PLAN
 
 Decomposed to scenes; no scene needs further breakdown.
@@ -189,8 +202,8 @@ Decomposed to scenes; no scene needs further breakdown.
 | 1 | Tamsin's shop · day 1 | Wurdren arrives. The cracked tang needs a weld, and the fires are cold until the relighting. | the four-way distinction; the week's wait; the cold town | Tamsin: "attempted." |
 | 2 | The Quench · day 1 night | Short-hours crews talk strike and "the Slatehallow lad." The usual unbound judge is stuck on a washed-out road; everyone local is kin to an apprentice, so Vey drafts Wurdren. | why the stranger qualifies; the complaint ledger; the Orin story as gossip | sword story #1 (long) |
 | 3 | Nell's farmyard · day 2 | Wurdren buys eggs and gets the census: broken things, who fixed them, and the fouled ditch below a forge. | Col's repairs everywhere; the quench-water problem | Nell's census starts |
-| 4 | Guild hall · day 3 | First viewing. Marta's blade is good; Col's pump and trough is called plumbing, and Vey says why: short hours, undercut rates. Wurdren asks what "inspected" requires. Next morning, Col's patron letter arrives. | the rule's wording; Vey's traditionalism; the letter | sword story #2 (shorter) |
-| 5 | Charcoal road · day 4 | Wurdren rides out with the carters; Col comes too. Mud; carts stuck; the farmers' blockade threat. On the ride back Col shows him the letter, and Wurdren tells him to take it. | the charcoal deadline; farmers' grievance is water; Wurdren's bad advice | material limits |
+| 4 | Guild hall · day 3 | First viewing. Marta's blade is good; Col's pump and trough is called plumbing, and Vey says why: short hours, undercut rates. Wurdren asks what "inspected" requires. Next morning, Col's patron letter arrives: unsigned, fine Port paper, "should the guild fail to recognize them." | the rule's wording; Vey's traditionalism; the letter | sword story #2 (shorter) |
+| 5 | Charcoal road · day 4 | Wurdren rides out with the carters; Col comes too. Mud; carts stuck; the farmers' blockade threat. On the ride back Col shows him the letter and reads the phrase aloud, twice, as if testing it; Wurdren holds the paper to the light, sees the lantern watermark, and tells him to take it. | the charcoal deadline; farmers' grievance is water; Wurdren's bad advice; the phrase and watermark made salient (C6) | material limits |
 | 6 | Tamsin's shop · day 5 | Tamsin inspects the sword: ordinary steel, false guarantee, well-kept edge. The good stock has gone to private contracts, so ordinary steel will mend it. | Wurdren's self-recognition; the steel shortage | sword story #3 (one line) |
 | 7 | Lane and ditch · relighting day | Nell walks the judges to Col's work in service: the clear ditch, the repaired gates. Both apprentices pass; Vey concedes on the solvency evidence. | the climax evidence; Vey's own reason to say "inspected" | census pays off |
 | 8 | Guild hall, The Quench · relighting night | Carts arrive with farmers pushing. Fires relit, names read, the sword stamped *inspected*. The letter lies unanswered on Col's bench. | soft landing; next small problem; the nail that didn't fall | no sword story told |
@@ -208,6 +221,7 @@ Decomposed to scenes; no scene needs further breakdown.
 | P7 Nell's sticking gate | s3 | — | s8 next small problem | soft landing | planned |
 | P8 the patron letter | s2 Orin gossip | s4 after the dismissal | s8 unanswered; Wurdren notices | world thread | planned |
 | P9 Wurdren's advice | s5 | s6 sword reveal | s8 quiet relief | character | planned |
+| C6 the connected offers | s4 (paper, watermark, phrase) | — | [The Tree With a Debt](The-Tree-With-a-Debt.md), s5 | cross-story | planned |
 
 Candidate Writing Bible lenses applied, as research and not rules:
 
