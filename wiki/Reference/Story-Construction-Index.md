@@ -134,13 +134,32 @@ The raw uploaded books are project sources; the repo stores focused derivative n
   - current bounded-correction prose baseline.
 
 - [Opening Scene 2 — Records Office Test V1](Opening-Scene-2-Records-Office-Test-V1.md)
-  - Records Worker test;
-  - reciprocal warehouse recognition;
-  - guarantor handoff.
+  - original records-office continuation.
+
+- [Opening Scene 2 — Voice Differentiation Challenge V1](Opening-Scene-2-Voice-Differentiation-Challenge-V1.md)
+  - bounded challenge identifying authorial voice leakage.
+
+- [Opening Scene 2 — Records Office Test V2](Opening-Scene-2-Records-Office-Test-V2.md)
+  - current Scene 2 baseline;
+  - Records Worker = category precision;
+  - Grain Agent = cost / deadline logic;
+  - Wurdren = social / deflective humor.
+
+- [Opening Scene 3 — Guarantee and Hidden Triage Test V1](Opening-Scene-3-Guarantee-Triage-Test-V1.md)
+  - first guarantee / triage prose test.
+
+- [Opening Scene 3 — Guarantee / Triage Challenge V1](Opening-Scene-3-Guarantee-Triage-Challenge-V1.md)
+  - removes overly convenient adjacent harmed transaction.
+
+- [Opening Scene 3 — Guarantee and Hidden Triage Test V2](Opening-Scene-3-Guarantee-Triage-Test-V2.md)
+  - current Scene 3 baseline;
+  - grain problem genuinely resolved;
+  - Council remains invisible;
+  - hidden triage appears through later records rather than staged coincidence.
 
 Current next step:
 
-> **challenge Scene 2 for voice differentiation, then draft Scene 3: the commercial guarantee resolves the grain problem while exposing the first visible cost of hidden triage.**
+> **draft Scene 4: the person who stopped looking. Slow the opening enough for Port to become home / work / memory before the Longwood dispute arrives.**
 
 ---
 
