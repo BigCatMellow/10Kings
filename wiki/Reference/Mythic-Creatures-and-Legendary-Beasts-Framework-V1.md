@@ -20,7 +20,11 @@ Research implementation:
 - [Research Tranche 1 — Underpass / Mining and Maritime](Mythic-Creature-Research-Tranche-1-Underpass-Maritime.md);
 - [Research Tranche 2 — Wetlands, Forest Boundaries, and High Roads](Mythic-Creature-Research-Tranche-2-Wetland-Forest-HighRoads.md);
 - [Research Tranche 3 — Old Cities, Port / Estuary, and Mobile Routes](Mythic-Creature-Research-Tranche-3-OldCities-Port-Routes.md);
-- [Mythic Creature Legend Families — Synthesis V1](Mythic-Creature-Legend-Families-Synthesis-V1.md).
+- [Mythic Creature Legend Families — Synthesis V1](Mythic-Creature-Legend-Families-Synthesis-V1.md);
+- [Mythic Creature Community Variants — V1](Mythic-Creature-Community-Variants-V1.md);
+- [Mythic Creature Historical Evidence Dossiers — V1](Mythic-Creature-Historical-Evidence-Dossiers-V1.md);
+- [Mythic Creature Local Naming and Transmission — V1](Mythic-Creature-Local-Naming-and-Transmission-V1.md);
+- [Mythic Creature Scene Tests — Priority Four V1](Mythic-Creature-Scene-Tests-Priority-Four-V1.md).
 
 Relevant legacy sources:
 
