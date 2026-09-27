@@ -44,6 +44,31 @@ The Longwood compromise remains **author-side story architecture**, not general 
 
 ---
 
+## Movement II completion status
+
+The full first-pass movement now has bounded-correction baselines through Sequence 12:
+
+- [Sequence 7 — Dispersal Test V2](Movement-II-Sequence-7-Dispersal-Test-V2.md);
+- [Sequence 8 — Convoy Compromise Test V2](Movement-II-Sequence-8-Convoy-Compromise-Test-V2.md);
+- [Sequence 9 — Longwood Return Test V2](Movement-II-Sequence-9-Longwood-Return-Test-V2.md);
+- [Sequence 10 — Counter-Domino Works Test V2](Movement-II-Sequence-10-Counter-Domino-Test-V2.md);
+- [Sequence 11 — Help Has an Afterlife Test V2](Movement-II-Sequence-11-Help-Afterlife-Test-V2.md);
+- [Sequence 12 — Villain Revises the Board Test V2](Movement-II-Sequence-12-Villain-Revision-Test-V2.md).
+
+The movement now ends with a clear structural transition:
+
+~~~text
+several crises partially / fully contained
+→ protection mechanisms remain
+→ guarantees / priority / escort / inspection / reserve systems become more durable
+→ Villain shifts attention from local crisis production to protection-system hardening
+→ Movement III begins
+~~~
+
+This preserves the requirement that containment is real rather than a disguised Villain victory.
+
+---
+
 # 1. Movement objective
 
 The movement must prove four things.
