@@ -70,6 +70,14 @@ The setting should make it possible to follow one damaged bridge, missing carava
 - [Villain's Dominoes](Story/Villains-Dominoes.md)
 - [Character Roster](Story/Character-Roster.md)
 
+## Sunday Morning Stories
+
+Small, human-scale stories set in the world's border towns, festivals and neighborhoods, with the main conflict kept in the background. Writing reference and provisional concepts, not canon.
+
+- [Sunday Morning Stories](Sunday-Morning/README.md) — folder index and story list
+- [Sunday Morning Story Writing Framework](Sunday-Morning/Framework.md)
+- [Applying the Framework to Two Sons](Sunday-Morning/Applying-to-Two-Sons.md)
+
 ## Writing and provenance
 
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md) — scene-level writing guidance, not canon

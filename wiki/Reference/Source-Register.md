@@ -174,6 +174,7 @@ Use this instead of reopening the large compendia for normal work.
 | What seasonal festivals exist as working material? | [Festivals and Seasonal Life](../Culture/Festivals-and-Seasonal-Life.md) |
 | How does food change through migration? | [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md) |
 | How do I make a scene feel like the world existed yesterday? | [Worldbuilding Breath](Worldbuilding-Breath.md) |
+| How do I write a small, low-stakes story in this world? | [Sunday Morning Stories](../Sunday-Morning/README.md) |
 | Is an older fixed claim still canon? | Find the current owner page; if unresolved, [Open Questions](../Open-Questions.md) wins over legacy certainty |
 
 ## Known unresolved areas exposed by the import
@@ -230,3 +231,26 @@ Use it when:
 - a discarded name or branch may contain useful material;
 - an ecology/recipe claim needs its original reasoning;
 - the live wiki appears to have omitted a concept from this development pass.
+
+
+### 10. 2026-09-27 Sunday Morning Story framework and story concepts
+
+**Uploaded:** `sunday_morning_story_writing_framework.md`
+**SHA-256:** `2da82acf388908b76c30cd534a834d9bf8a5716c8b8c0b46a10b290c660be1a7`
+
+Disposition: **promoted as non-canon writing reference** to [Sunday Morning Story Writing Framework](../Sunday-Morning/Framework.md).
+
+The framework is setting-agnostic. It was classified as **compatible**: it adds a story mode without asserting anything about the world. Its text is preserved unchanged below a status header; it was not duplicated into `legacy-notes/`.
+
+The same session developed seven Sunday Morning story concepts and four premise seeds by applying the framework to the current wiki. These were added as **provisional story concepts**:
+
+- [Applying the Framework to Two Sons](../Sunday-Morning/Applying-to-Two-Sons.md) — mapping, background rule and checklist addendum (writing reference)
+- [Sunday Morning Stories](../Sunday-Morning/README.md) — folder index
+- seven story pages and [Story Seeds](../Sunday-Morning/Stories/Story-Seeds.md) under `Sunday-Morning/Stories/`
+
+Reconciliation notes:
+
+- No owner page was changed in substance. Border towns, festivals, recipes and language features are referenced by link; their existing status labels still govern.
+- Newly invented names — Kettle Cove, Narrow Sound, Seven Wells, and all characters, businesses and customs in the stories — are **provisional** and are not added to [Border Towns](../Places/Border-Towns.md), [Character Roster](../Story/Character-Roster.md) or other owners.
+- "Inspected, Not Guaranteed" features Wurdren but deliberately leaves his age, biography and starting point open, per [Open Questions](../Open-Questions.md).
+- "One Square, Two Harvests" uses a post-Convergence festival split as a story device consistent with [The Convergence](../History/The-Convergence.md#cultural-effect); it is not settled chronology for Harveston Vale.

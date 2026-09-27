@@ -89,3 +89,7 @@ Do not turn Wurdren into:
 - the only morally decent person.
 
 His influence must remain believable because people remember what he did and trust him.
+
+## Related pages
+
+- [Sunday Morning Stories](../Sunday-Morning/README.md) — small, low-stakes story concepts; [Inspected, Not Guaranteed](../Sunday-Morning/Stories/Inspected-Not-Guaranteed.md) features Wurdren (provisional, non-canon)

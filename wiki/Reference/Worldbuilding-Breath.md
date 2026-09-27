@@ -129,4 +129,5 @@ The existing wiki owns what the world **is**. Breath is primarily a prose techni
 - [Current Events](../Story/Current-Events.md)
 - [Regional Social Dynamics](../Culture/Regional-Social-Dynamics.md)
 - [Festivals and Seasonal Life](../Culture/Festivals-and-Seasonal-Life.md)
+- [Sunday Morning Stories](../Sunday-Morning/README.md) — whole stories built from the texture layer
 - [Source Register](Source-Register.md)

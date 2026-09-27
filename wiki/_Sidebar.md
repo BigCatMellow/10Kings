@@ -55,6 +55,12 @@
 - [Villain's Dominoes](Story/Villains-Dominoes.md)
 - [Character Roster](Story/Character-Roster.md)
 
+**Sunday Morning Stories**
+- [Index](Sunday-Morning/README.md)
+- [Framework](Sunday-Morning/Framework.md)
+- [Applying to Two Sons](Sunday-Morning/Applying-to-Two-Sons.md)
+- [Story Seeds](Sunday-Morning/Stories/Story-Seeds.md)
+
 **Reference**
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
 - [Source Register](Reference/Source-Register.md)

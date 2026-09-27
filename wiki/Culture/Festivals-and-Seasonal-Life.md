@@ -99,4 +99,5 @@ The world feels older when people argue about how a festival **used to be celebr
 - [Contested Historical Memory](../History/Contested-Memory.md)
 - [Trade and Dependencies](../Economy/Trade-and-Dependencies.md)
 - [Worldbuilding Breath](../Reference/Worldbuilding-Breath.md)
+- [Sunday Morning Stories](../Sunday-Morning/README.md) — festivals used as story deadlines
 - [Source Register](../Reference/Source-Register.md)
