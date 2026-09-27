@@ -247,6 +247,36 @@ A currently favored concept is an **Appalachian-influenced itinerant/nomadic peo
 
 This should not imply that historical Appalachians were generally nomadic. It is an inspiration for social texture that would be combined with genuinely mobile pastoral, trading, pilgrim, and itinerant traditions from elsewhere.
 
+## Contact zones can predate borders
+
+Focused contact-zone work now supports three structurally distinct mixed community types:
+
+- Stone Hills ↔ Low Rivers foothill labor / market communities;
+- Longwood ↔ High Roads forest-pass communities;
+- Low Rivers ↔ Old Cities water-market corridors.
+
+See:
+
+- [Contact-Zone Comparative Research — Wave 4A](../Reference/Contact-Zone-Comparative-Research-Wave-4A.md);
+- [Contact-Zone Community Profiles — P1 Wave 4A](../Reference/Contact-Zone-Community-Profiles-P1-Wave-4A.md);
+- [Contact-Zone Spiderweb Test — Wave 4A](../Reference/Contact-Zone-Spiderweb-Test-Wave-4A.md).
+
+The strongest general result is:
+
+> **a political border can be newer than the labor, marriage, market, pasture, route, or water system it crosses.**
+
+Therefore some border cultures should be understood as:
+
+~~~text
+older shared functional landscape
+→ border formalization
+→ old ties become cross-border
+→ people develop legal / linguistic / household workarounds
+→ distinct contact-zone culture
+~~~
+
+This is stronger than treating border communities as simple mixtures.
+
 ## Cultural blending
 
 Border populations should not look like "half of culture A plus half of culture B." Over generations, they develop their own institutions, accents, marriage patterns, foods, building types, jokes, prejudices, and identities.
