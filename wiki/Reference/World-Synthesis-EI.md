@@ -1472,6 +1472,134 @@ Passed twice:
 Do not generalize this into "interdependence causes peace."
 
 
+## Candidate 32 — Folklore can function as low-status knowledge infrastructure
+
+**Sources**
+
+- [Mythic Creatures and Legendary Beasts — Framework V1](Mythic-Creatures-and-Legendary-Beasts-Framework-V1.md)
+- [Mythic Creature Community Variants — V1](Mythic-Creature-Community-Variants-V1.md)
+- [Mythic Creature Historical Evidence Dossiers — V1](Mythic-Creature-Historical-Evidence-Dossiers-V1.md)
+- [Mythic Creature Scene Tests — Priority Four V1](Mythic-Creature-Scene-Tests-Priority-Four-V1.md)
+- [Philosophy Source Synthesis — V1](Philosophy-Sources/Philosophy-Source-Synthesis-V1.md)
+
+**Connection**
+
+The philosophy-source work establishes that collective knowledge depends on:
+
+- testimony;
+- records;
+- institutional process;
+- whose experience is treated as credible.
+
+The creature / folklore work independently produces several cases where a low-prestige explanation can preserve a high-value observation:
+
+- **Knocking Below** — miners may explain sounds mythically while preserving real acoustic / danger pattern recognition;
+- **Forest Owner / the Turning** — folk language preserves distinctions among passage, use and permission that outsiders flatten;
+- **Road Hound** — route stories preserve repeated travel / threshold patterns even when zoological claims are doubtful;
+- **Estuary Captive** — harbor-family memory preserves the ethical category failure that technical / zoological classification can obscure.
+
+**New implication**
+
+Folklore can function as a **low-status knowledge system**.
+
+Its causal explanation may be:
+
+- wrong;
+- embellished;
+- spiritual;
+- impossible to verify.
+
+Yet the practice / observation encoded inside it may remain valuable.
+
+A formal institution can therefore become epistemically weaker when it dismisses:
+
+> the observation
+
+because it rejects:
+
+> the explanation attached to the observation.
+
+This is especially plausible where expertise is practical and local:
+
+- mining;
+- routes;
+- floodplains;
+- forest use;
+- fishing;
+- pastoral weather.
+
+**Important restraint**
+
+Do **not** turn this into:
+
+> folk belief is secretly always right.
+
+Folklore can also preserve:
+
+- error;
+- prejudice;
+- fraud;
+- convenient blame;
+- obsolete hazard models.
+
+The useful distinction is:
+
+> **explanation and observation should be evaluated separately.**
+
+**Why it matters**
+
+This creates a grounded bridge among:
+
+- world culture;
+- epistemic injustice / standpoint themes;
+- Wurdren's human-scale method;
+- the Council's aggregate knowledge;
+- the Villain's information gathering.
+
+The Council may have better continental data.
+
+A local worker may still know one critical thing the Council's categories cannot see.
+
+Wurdren's usefulness need not be superior intelligence.
+
+It can be **corrigibility**:
+
+- he listens;
+- gets corrected;
+- revises;
+- connects people who possess different parts of the truth.
+
+**Concrete test**
+
+The Longwood counter-domino passes the smallest test.
+
+An outsider category treats:
+
+- passage authorization
+
+as though it implied:
+
+- cutting / clearing authority.
+
+Local folklore around **the Turning** preserves the practical statement:
+
+> a path is not permission.
+
+Wurdren does not resolve the dispute by believing the myth.
+
+He resolves part of it by hearing the distinction embedded in the myth, then checking it against:
+
+- records;
+- rights-holders;
+- actual route conditions.
+
+**Disposition**
+
+Strong candidate.
+
+The Longwood scene-level test supports it, but the general principle should remain E/I until at least one non-Longwood occupational example survives prose / story use.
+
+
 ## Promotion rule
 
 Nothing on this page becomes canon because it sounds useful.
