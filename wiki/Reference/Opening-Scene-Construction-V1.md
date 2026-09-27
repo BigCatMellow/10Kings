@@ -579,6 +579,36 @@ They can still love Three Moons.
 
 That contradiction matters.
 
+### Netman — opening breath seed
+
+Use the Port popular form of the old Estuary Captive story here as **background culture, not lore exposition**.
+
+Strongest working beat:
+
+- a child / stall / puppet booth uses the crude popular figure **Netman**;
+- the old Port acquaintance corrects one visual detail or rolls their eyes at how wrong the festival version is;
+- Wurdren learns only that the popular figure descends from an older harbor story.
+
+Do **not** explain the custody case in this scene.
+
+The useful contrast is:
+
+> Wurdren sees a ridiculous festival character before he knows it is attached to a serious Port memory.
+
+Possible tiny exchange class:
+
+> "Didn't have teeth like that."
+
+> "You saw it?"
+
+> "Nobody did. That's the point."
+
+Then move on.
+
+The acquaintance's family / neighborhood may know the older **Stranger in the Net** form while legal workers call the historical material the **Estuary Custody Case**.
+
+All exact labels remain provisional under [Mythic Creature Local Naming and Transmission — V1](Mythic-Creature-Local-Naming-and-Transmission-V1.md).
+
 ## Wurdren thematic pressure
 
 The acquaintance's life should contain things Wurdren cannot dismiss as failure:
@@ -664,6 +694,50 @@ Concerned with:
 - what Port can certify without pretending to decide Longwood local law.
 
 Each side needs a real point.
+
+## Folklore correction — the rights distinction in miniature
+
+Allow the rights-holder to correct an outsider phrase such as:
+
+> "Forest Owner."
+
+The local response should initially sound like skepticism:
+
+> "There isn't a Forest Owner. That's what road people call it."
+
+Their own translated usage may be closer to:
+
+- **the Turner**;
+- **the Turning**;
+- "you get turned."
+
+The correction matters because it exposes the same category error driving the dispute.
+
+A route / passage right is being treated as if it implies broader ownership / use authority.
+
+The local saying:
+
+> **A path is not permission.**
+
+can function simultaneously as:
+
+- ordinary legal shorthand;
+- folk wisdom;
+- explanation of the creature tradition.
+
+Do not let the folklore decide the case.
+
+The records / affected rights-holders still determine:
+
+- passage;
+- cutting;
+- widening;
+- compensation;
+- local implementation.
+
+The myth is useful because it preserves a distinction outsiders repeatedly flatten.
+
+See [Mythic Creature Scene Tests — Priority Four V1](Mythic-Creature-Scene-Tests-Priority-Four-V1.md).
 
 ## Wurdren function
 
