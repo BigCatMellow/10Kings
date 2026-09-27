@@ -169,6 +169,33 @@ The important cultural consequence is that:
 
 This is one valid estate form, not the universal Low Rivers model.
 
+### Foothill and southern water-market contact communities
+
+Focused contact-zone work now supports two additional mixed Low Rivers community types.
+
+#### Stone Hills foothill interface
+
+Households may combine:
+
+- agriculture;
+- seasonal mine / industrial labor;
+- repair;
+- cross-border market work.
+
+The resulting household calendar / food / speech can become locally distinct.
+
+#### Old Cities water-market interface
+
+Where older water / labor / market systems cross the present political boundary, communities can develop:
+
+- cross-recognized water witnesses;
+- canal / market brokers;
+- mixed maintenance crews;
+- hybrid water vocabulary;
+- locally born cuisine.
+
+These are contact-zone cultures in their own right, not transitional versions of either regional core.
+
 ## Food
 
 Low Rivers has the broadest everyday food base.
