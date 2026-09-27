@@ -182,6 +182,26 @@ OC-C must remain distinct from Port:
 
 Imported influence should become local culture rather than permanent visible collage.
 
+### Low Rivers water-market contact communities
+
+Focused contact-zone work also supports border corridors where:
+
+- older irrigation;
+- canal labor;
+- market gardening;
+- seasonal migration
+
+cross the modern Low Rivers / Old Cities political boundary.
+
+Such communities can develop:
+
+- mixed water-law practice;
+- hybrid water vocabulary;
+- cross-border kin / landholding;
+- cuisine produced by repeated agricultural / market exchange.
+
+They should be treated as distinct local cultures rather than as Old Cities minorities living in Low Rivers or vice versa.
+
 ## Food
 
 Old Cities cuisine is diverse:
