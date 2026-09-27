@@ -85,6 +85,28 @@ rather than only workplace conflict.
 
 No single faith is assigned to industrial districts. Religious charities, craft institutions, worker organizations and guild services can overlap.
 
+### Specialized craft towns
+
+Focused Wave 3 work also supports **small specialized craft towns** as a different Stone Hills community type.
+
+See:
+
+- [Community Analogue Research — Wave 3](../Reference/Community-Analogue-Research-Wave-3.md);
+- [Community Profiles — P1 Wave 2](../Reference/Community-Profiles-P1-Wave-2.md);
+- [Community Spiderweb Test — P1 Wave 2](../Reference/Community-Spiderweb-Test-P1-Wave-2.md).
+
+Their strength comes from a **production cluster**:
+
+- several interdependent specialist workshops;
+- apprenticeship;
+- quality reputation;
+- supplier / merchant relationships;
+- local inspection / guild institutions.
+
+A town may remain important even after some raw materials come from elsewhere because the difficult-to-replace asset is concentrated skill.
+
+Do not make such a town one hereditary caste or one-product monoculture. Entry through apprenticeship / migration remains possible, and non-craft households remain part of town life.
+
 ## Language
 
 See [Language and Thought](../Culture/Language-and-Thought.md).
