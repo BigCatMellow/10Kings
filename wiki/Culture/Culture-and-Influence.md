@@ -277,6 +277,37 @@ older shared functional landscape
 
 This is stronger than treating border communities as simple mixtures.
 
+## Diaspora is a two-way cultural edge
+
+Focused Port diaspora work now supports a stronger migration model:
+
+~~~text
+source community
+→ migration
+→ destination adaptation
+→ second / third generation
+→ new local form
+→ return / kin / trade circulation
+→ source region changes too
+~~~
+
+See:
+
+- [Port Diaspora Comparative Research — Wave 4B](../Reference/Port-Diaspora-Comparative-Research-Wave-4B.md);
+- [Port Diaspora Community Profiles — P1 Wave 4B](../Reference/Port-Diaspora-Community-Profiles-P1-Wave-4B.md);
+- [Port Diaspora Spiderweb Test — Wave 4B](../Reference/Port-Diaspora-Spiderweb-Test-Wave-4B.md).
+
+Do not treat diaspora as cultural preservation alone.
+
+Different things persist at different rates:
+
+- occupation may change quickly;
+- food / stories / names may persist longer;
+- mutual-aid / religious / family institutions may outlive the original job;
+- destination-born customs may later be exported back to the source region.
+
+This is now especially important for Port.
+
 ## Cultural blending
 
 Border populations should not look like "half of culture A plus half of culture B." Over generations, they develop their own institutions, accents, marriage patterns, foods, building types, jokes, prejudices, and identities.
