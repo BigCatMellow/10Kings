@@ -18,6 +18,9 @@ Research waves:
 - [Community Analogue Research — Wave 3](Community-Analogue-Research-Wave-3.md) — SH-3, LR-2, OC-3, HR-1, HR-3.
 - [Community Profiles — P1 Wave 2](Community-Profiles-P1-Wave-2.md) — provisional conversion of Wave 3 slots.
 - [Community Spiderweb Test — P1 Wave 2](Community-Spiderweb-Test-P1-Wave-2.md) — promotion / failure-mode test.
+- [Contact-Zone Comparative Research — Wave 4A](Contact-Zone-Comparative-Research-Wave-4A.md) — CZ-1/CZ-2/CZ-3.
+- [Contact-Zone Community Profiles — P1 Wave 4A](Contact-Zone-Community-Profiles-P1-Wave-4A.md).
+- [Contact-Zone Spiderweb Test — Wave 4A](Contact-Zone-Spiderweb-Test-Wave-4A.md).
 
 This page implements:
 
@@ -198,9 +201,9 @@ Especially:
 
 | Community slot | Existing support | Research need | Status |
 | --- | --- | --- | --- |
-| CZ-1 Stone Hills ↔ Low Rivers foothill community | existing contact zone | mining/farming border societies; seasonal labor; bilingual markets | R0 |
-| CZ-2 Longwood ↔ High Roads forest-pass community | existing contact zone | forest-road interface; guides; mixed jurisdiction | R0 |
-| CZ-3 Low Rivers ↔ Old Cities canal / migrant community | existing contact zone | irrigation migration; shared water work; hybrid household law | R0 |
+| CZ-1 Stone Hills ↔ Low Rivers foothill community | existing contact zone | borderland mining/agriculture; seasonal labor; cross-border market/legal translation | **R2 / P2 (type)** |
+| CZ-2 Longwood ↔ High Roads forest-pass community | existing contact zone | mountain communal-resource landscapes; local road custodianship; layered forest/pasture rights | **R2 / P2 (type)** |
+| CZ-3 Low Rivers ↔ Old Cities canal / migrant community | existing contact zone | irrigation landscapes; water-market corridors; cross-border maintenance / household ties | **R2 / P2 (type)** |
 
 ### Myth connections
 
