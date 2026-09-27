@@ -221,14 +221,36 @@ Current next step:
   - Longwood escalation branch is genuinely contained;
   - dissent / institutional residue remain.
 
-**Movement II milestone:** Sequences 7–10 now establish two real containment successes:
+- [Movement II — Sequence 11 Help Has an Afterlife Test V1](Movement-II-Sequence-11-Help-Afterlife-Test-V1.md)
+- [Movement II — Sequence 11 Help Has an Afterlife Challenge V1](Movement-II-Sequence-11-Help-Afterlife-Challenge-V1.md)
+- [Movement II — Sequence 11 Help Has an Afterlife Test V2](Movement-II-Sequence-11-Help-Afterlife-Test-V2.md)
+  - Low Rivers intervention buys time for some households without solving abundance distress;
+  - documentary traces accumulate;
+  - Port repair demand lands inside pre-existing Stone Hills priority-allocation conflict.
 
-1. maritime convoy branch partially stabilizes through its own institutions;
-2. Longwood road / extraction escalation is contained through local compromise.
+- [Movement II — Sequence 12 The Villain Revises the Board Test V1](Movement-II-Sequence-12-Villain-Revision-Test-V1.md)
+- [Movement II — Sequence 12 Villain Revision Challenge V1](Movement-II-Sequence-12-Villain-Revision-Challenge-V1.md)
+- [Movement II — Sequence 12 The Villain Revises the Board Test V2](Movement-II-Sequence-12-Villain-Revision-Test-V2.md)
+  - first direct Villain strategic POV;
+  - Longwood stays solved;
+  - maritime confrontation stays contained;
+  - Low Rivers partial stabilization remains real;
+  - strategic focus shifts from crises to the protection / allocation mechanisms crises leave behind;
+  - war objective becomes honestly legible to the reader.
+
+**Movement II milestone:** Sequences 7–12 now complete the first-pass movement.
+
+The movement proves:
+
+1. the world can solve important problems;
+2. successful solutions leave durable institutional residue;
+3. Three Moons disperses relationships / records / procedures outward;
+4. the Villain loses branches and adapts rather than erasing those losses;
+5. his next strategic object is no longer "make every crisis worse" but "watch protection harden into commitments people will defend."
 
 Current next step:
 
-> **Sequence 11 — Help has an afterlife: follow the opening grain / guarantee intervention into Low Rivers consequences while the Stone Hills repair request reaches its pressure field.**
+> **Movement III / Sequence 13 — The price of a good solution. Follow the Longwood compromise into its defensible downstream costs before security conversion accelerates.**
 
 ---
 
