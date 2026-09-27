@@ -191,6 +191,34 @@ and
 
 > **a transhumant pastoral network.**
 
+### Forest-pass contact communities
+
+Focused contact-zone work supports Longwood ↔ High Roads pass communities where:
+
+- route authority;
+- forest use rights;
+- pasture;
+- guide work;
+- bridge / road maintenance
+
+overlap without collapsing into one jurisdiction.
+
+A local route custodian may control or maintain:
+
+- a road segment;
+- bridge;
+- detour;
+
+without having authority to:
+
+- cut timber;
+- gather;
+- graze;
+
+beside it.
+
+These communities are especially likely to develop specialists in **jurisdiction translation** as well as ordinary language translation.
+
 ## Food
 
 High Roads cuisine is unusually mixed because caravans bring ingredients.
