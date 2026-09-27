@@ -25,7 +25,12 @@ Primary owners / constraints:
 - [Opening Character Packets — V1](Opening-Character-Packets-V1.md);
 - [Opening Scene 1 — Voice and Pacing Test V1](Opening-Scene-1-Voice-Test-V1.md);
 - [Opening Scene 1 — Voice and Pacing Test V2](Opening-Scene-1-Voice-Test-V2.md) — bounded correction and current prose baseline;
-- [Opening Scene 2 — Records Office Test V1](Opening-Scene-2-Records-Office-Test-V1.md) — first continuation using the V2 voice.
+- [Opening Scene 2 — Records Office Test V1](Opening-Scene-2-Records-Office-Test-V1.md) — original continuation;
+- [Opening Scene 2 — Voice Differentiation Challenge V1](Opening-Scene-2-Voice-Differentiation-Challenge-V1.md);
+- [Opening Scene 2 — Records Office Test V2](Opening-Scene-2-Records-Office-Test-V2.md) — current Scene 2 baseline;
+- [Opening Scene 3 — Guarantee and Hidden Triage Test V1](Opening-Scene-3-Guarantee-Triage-Test-V1.md);
+- [Opening Scene 3 — Guarantee / Triage Challenge V1](Opening-Scene-3-Guarantee-Triage-Challenge-V1.md);
+- [Opening Scene 3 — Guarantee and Hidden Triage Test V2](Opening-Scene-3-Guarantee-Triage-Test-V2.md) — current Scene 3 baseline.
 
 The purpose is to get close enough to prose that missing world decisions become obvious without inventing unnecessary lore.
 
@@ -1114,12 +1119,19 @@ The Scene 1 challenge pass produced a bounded-correction baseline:
 
 - [Opening Scene 1 — Voice and Pacing Test V2](Opening-Scene-1-Voice-Test-V2.md).
 
-Scene 2 has now been drafted against that baseline:
+Scene 2 was challenged for voice differentiation and corrected:
 
-- [Opening Scene 2 — Records Office Test V1](Opening-Scene-2-Records-Office-Test-V1.md).
+- [Opening Scene 2 — Voice Differentiation Challenge V1](Opening-Scene-2-Voice-Differentiation-Challenge-V1.md);
+- [Opening Scene 2 — Records Office Test V2](Opening-Scene-2-Records-Office-Test-V2.md).
+
+Scene 3 then tested the guarantee / hidden-triage handoff and received a bounded correction:
+
+- [Opening Scene 3 — Guarantee and Hidden Triage Test V1](Opening-Scene-3-Guarantee-Triage-Test-V1.md);
+- [Opening Scene 3 — Guarantee / Triage Challenge V1](Opening-Scene-3-Guarantee-Triage-Challenge-V1.md);
+- [Opening Scene 3 — Guarantee and Hidden Triage Test V2](Opening-Scene-3-Guarantee-Triage-Test-V2.md).
 
 The next smallest coherent task is:
 
-> **challenge Scene 2 for character-voice differentiation and then draft Scene 3, where the commercial guarantee resolves the grain problem and exposes the first visible cost of hidden triage.**
+> **draft Scene 4 — the person who stopped looking — using the Old Port Hand to make Port feel like home, work, memory, and chosen rooted life before the Longwood dispute arrives.**
 
-Do not scale beyond the opening movement until these first scenes establish a stable prose / character baseline.
+Do not scale beyond the opening movement until the Port relationship and Longwood scene establish the same prose / character baseline.
