@@ -157,6 +157,24 @@ Membership itself can be contested.
 
 This is now a major Longwood political / cultural distinction.
 
+### High Roads forest-pass contact communities
+
+Focused contact-zone work supports communities where Longwood use-right systems meet High Roads passage / pastoral systems.
+
+Their defining distinction is:
+
+> **authority over the road is not authority over the forest beside it.**
+
+Local households may combine:
+
+- guide work;
+- lodging;
+- forest products;
+- route repair;
+- seasonal grazing.
+
+These communities can therefore produce their own institutions and folklore rather than acting as simple regional transition zones.
+
 ## Food
 
 Longwood cuisine includes more cultivated food than outsiders assume.
