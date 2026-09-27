@@ -1065,6 +1065,54 @@ Their culture is also one important carrier of Port's non-elite historical memor
 
 ---
 
+## Multi-generation diaspora communities
+
+Focused diaspora work now supports Port as a city where migrant communities become **Port-native across generations** rather than remaining permanent regional enclaves.
+
+See:
+
+- [Port Diaspora Comparative Research — Wave 4B](../Reference/Port-Diaspora-Comparative-Research-Wave-4B.md);
+- [Port Diaspora Community Profiles — P1 Wave 4B](../Reference/Port-Diaspora-Community-Profiles-P1-Wave-4B.md);
+- [Port Diaspora Spiderweb Test — Wave 4B](../Reference/Port-Diaspora-Spiderweb-Test-Wave-4B.md).
+
+Working community types include:
+
+- North Coast-descended harbor / labor households;
+- High Roads merchant / clerk networks;
+- Low Rivers labor / food-market migration communities;
+- Stone Hills skilled-worker diaspora.
+
+The structural rule is:
+
+~~~text
+migration
+→ practical work / housing concentration
+→ local institutions
+→ second-generation occupational diversification
+→ mixed households
+→ Port-born culture
+→ transformed practice travels back outward
+~~~
+
+A resident can retain:
+
+- ancestry;
+- family food;
+- language fragments;
+- faith;
+- kin ties;
+- regional stories
+
+while being politically and socially **Port**, not a permanent representative of an ancestral region.
+
+This matters to the autonomy conflict.
+
+Port's population does not need one ancestry to have shared political interests.
+
+But it also means no reformer—including the Villain—can honestly treat "Port" as one unanimous constituency.
+
+---
+
 # 23. Neutrality does not mean cultural blandness
 
 The city is politically constrained externally while culturally intense internally.
