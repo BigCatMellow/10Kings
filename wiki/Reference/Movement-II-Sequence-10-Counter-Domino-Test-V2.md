@@ -1,0 +1,602 @@
+# Movement II — Sequence 10 Counter-Domino Works Test V2
+
+## Status
+
+**Bounded correction of V1 — author-side prose experiment, not canon.**
+
+Changes from V1:
+
+- Wurdren does not interpret the event through the story's thesis;
+- removes cross-POV author wink;
+- upper-turn compromise visibly remains slower / more expensive in use.
+
+Challenge source:
+
+- [Movement II — Sequence 10 Counter-Domino Challenge V1](Movement-II-Sequence-10-Counter-Domino-Challenge-V1.md)
+
+---
+
+# Prose test
+
+The third cutting-right holder arrived before breakfast and disliked everyone.
+
+This improved the meeting.
+
+They disliked the route representative because work had been planned before they were asked.
+
+They disliked the Longwood delegate because Port had been involved at all.
+
+They disliked the road custodian because the lower repairs had continued.
+
+They disliked Wurdren because nobody could explain why he was there without using the word witness.
+
+"To what?" the holder asked.
+
+Wurdren considered this.
+
+"Yesterday?"
+
+The holder stared.
+
+The delegate said:
+
+"He heard the Port agreement."
+
+"There was no agreement."
+
+"Exactly."
+
+The holder looked at Wurdren again.
+
+"Useful."
+
+Wurdren sighed.
+
+The meeting took place beside the first narrow section rather than inside.
+
+This made everyone slightly less willing to exaggerate what the place looked like.
+
+The four marked trees stood where they had stood the day before.
+
+The route representative pointed at them.
+
+"Those four."
+
+The holder walked to the first tree and examined the mark.
+
+Then the second.
+
+At the third, they scraped part of the paint away with a thumbnail.
+
+"Wrong tree."
+
+The route surveyor said:
+
+"It is inside the cut line."
+
+"It is not inside our cutting claim."
+
+The road custodian checked the local sketch.
+
+The surveyor checked the route sketch.
+
+They disagreed.
+
+Everyone began speaking.
+
+Wurdren waited.
+
+The third holder walked uphill twenty paces and pointed at a boundary mark half-hidden under moss.
+
+The road custodian followed.
+
+Then the surveyor.
+
+The argument moved away without Wurdren.
+
+This was encouraging.
+
+After several minutes, they returned.
+
+The surveyor said:
+
+"Three trees."
+
+The route representative said:
+
+"Yesterday you said four."
+
+"Yesterday I had the Port plan."
+
+The third holder said:
+
+"Port plan is wrong."
+
+"At one mark."
+
+"That is what wrong means."
+
+Wurdren liked them.
+
+The route representative did not.
+
+They began again.
+
+The cutting holders wanted:
+
+- payment for the claim;
+- the felled material handled under the local cutting arrangement;
+- the footpath moved before carts occupied the widened edge;
+- damage outside the agreed line repaired by the road contractor.
+
+The route representative wanted:
+
+- work to begin that day;
+- one price rather than separate negotiation with each household;
+- no later claim that widening itself had never been accepted.
+
+The road custodian wanted:
+
+- the route open;
+- the dispute out of their yard;
+- somebody else to write the final wording.
+
+The younger trader wanted:
+
+- more carts.
+
+The woman from the water trough still wanted:
+
+- less road.
+
+Nobody asked Wurdren what he wanted.
+
+This also improved the meeting.
+
+The first agreement happened almost by accident.
+
+The third holder said:
+
+"Three trees. The local cutters take them. You pay the road claim to the holders. You move the footpath first."
+
+The route representative said:
+
+"Work begins today."
+
+"After the path."
+
+"Today."
+
+"If the path moves today."
+
+The road custodian said:
+
+"I can put six people on it."
+
+The route representative looked at the surveyor.
+
+The surveyor shrugged.
+
+"Fine."
+
+The younger trader said:
+
+"Done."
+
+The woman by the trough said:
+
+"No."
+
+Everyone stopped.
+
+She looked annoyed by the attention.
+
+"I said no. I did not say they cannot agree."
+
+That mattered.
+
+The Longwood delegate said:
+
+"Record her objection."
+
+The road custodian did.
+
+Nobody asked her to pretend.
+
+By midday, people were moving the footpath.
+
+The first tree did not fall until after the new line had been marked.
+
+Wurdren watched the cutting crew check:
+
+- direction;
+- rope;
+- road traffic;
+- where the trunk would land.
+
+He had expected symbolism.
+
+It looked like work.
+
+---
+
+The second turn was harder.
+
+The route representative brought the cost comparison.
+
+The upper line cost substantially more.
+
+Nobody needed Wurdren to know the exact number.
+
+The faces were enough.
+
+The route representative put both hands on the table.
+
+"This is not a small difference."
+
+The woman from the trough said:
+
+"Neither is our ground."
+
+The representative ignored her.
+
+The compact official who had arrived from the wider LW-W authority that morning read:
+
+- the original concession;
+- the referenced schedule;
+- the Port certification;
+- the local wet-ground claims.
+
+They took a long time.
+
+This was unpopular.
+
+Eventually they said:
+
+"The compact granted the corridor."
+
+The delegate nodded.
+
+"The compact did not grant this wet-ground use."
+
+The route representative said:
+
+"The road cannot function under a rule where every improvement becomes a new concession."
+
+The official answered:
+
+"Then stop designing every improvement outside the road."
+
+Silence.
+
+The younger trader covered a smile.
+
+The official continued.
+
+"The upper turn stays within the road / slope authority already recognized?"
+
+The road custodian said:
+
+"Mostly."
+
+The delegate said:
+
+"Mostly is dangerous."
+
+They walked it again.
+
+This time:
+
+- road custodian;
+- route surveyor;
+- two local rights witnesses;
+- compact official
+
+went together.
+
+Wurdren stayed behind.
+
+He had learned.
+
+When they returned, the answer was:
+
+> yes, with one retaining edge requiring a separate short access permission during construction.
+
+The affected holder of that edge was present.
+
+They wanted:
+
+- payment for damage;
+- restoration after work;
+- no permanent storage there.
+
+The route contractor agreed.
+
+The route representative did not.
+
+"Do you know how much this has added?"
+
+The compact official said:
+
+"Yes."
+
+"Then who pays the difference?"
+
+There it was.
+
+The room stopped being about principle.
+
+The compact official looked unhappy.
+
+Good, Wurdren thought.
+
+Anyone comfortable at this point was probably not paying.
+
+The concession authority agreed to absorb part of the added public-road cost because:
+
+- it had issued the road relationship;
+- its commercial summary had helped flatten the rights distinction;
+- keeping the corridor functional served its own polity.
+
+The route contractor accepted the rest in exchange for:
+
+- no further delay once the specific permissions were signed;
+- use of the existing road labor arrangements;
+- a written route decision they could show future buyers.
+
+The local users did not contribute money.
+
+Affected holders received compensation where their rights were used.
+
+The woman from the trough said:
+
+"So the compact pays them for planning badly."
+
+The official answered:
+
+"The compact pays because it wants a road."
+
+"Same thing."
+
+"No."
+
+She did not agree.
+
+The deal proceeded anyway.
+
+---
+
+The final wording took longer than the road decision.
+
+Wurdren considered this appropriate.
+
+The document did not say:
+
+> Longwood rejects road widening.
+
+It did not say:
+
+> the road authority may do what is necessary.
+
+It said, in more words than Wurdren would have preferred:
+
+- existing passage and maintenance remain valid;
+- first-section widening proceeds under specified cutting / compensation terms;
+- lower wet-ground expansion is not authorized by the existing concession;
+- upper-turn work proceeds under the recognized road authority plus one temporary access permission;
+- future work beyond established bounds requires the relevant use right to be satisfied.
+
+The route representative read it twice.
+
+The third cutting holder read it once and asked someone else to read it aloud.
+
+The woman from the trough refused to sign because she still opposed the widening.
+
+Her objection was attached.
+
+The younger trader signed as witness.
+
+The road custodian signed.
+
+The compact official signed.
+
+The route contractor signed.
+
+The affected holders signed what actually required their agreement.
+
+That distinction took another hour.
+
+When it was done, nobody cheered.
+
+Wurdren was beginning to distrust problems that ended with cheering.
+
+---
+
+Work resumed the next morning.
+
+Not everywhere.
+
+That was the point.
+
+The lower repairs continued.
+
+The first section widened after the footpath moved.
+
+The upper-turn crew began work inside the agreed line.
+
+By midday the first heavily loaded cart tried the new approach.
+
+It made the grade.
+
+Slowly.
+
+A second animal had to be brought forward for the steepest part.
+
+The route representative watched from below with the expression of someone calculating money lost by the minute.
+
+The cart reached the turn.
+
+It cleared without entering the wet ground.
+
+The woman from the trough watched too.
+
+She did not smile.
+
+Neither did the route representative.
+
+The younger trader did enough smiling for everyone.
+
+The wet ground remained unstaked.
+
+That was the point too.
+
+Wurdren found the woman standing beside it later.
+
+"You still think the road shouldn't widen."
+
+"I think roads grow."
+
+"Roads do that."
+
+"So do offices."
+
+He thought of Port.
+
+She looked at him.
+
+"What?"
+
+"Nothing."
+
+"Good."
+
+---
+
+The Longwood delegate found Wurdren near the lodging yard.
+
+"We're done."
+
+"That sounds dangerous."
+
+"We're done with you."
+
+"Better."
+
+They handed him the final witness copy.
+
+Wurdren stared at it.
+
+"Why?"
+
+"You were paid to witness."
+
+"I was paid to keep people from hitting each other."
+
+"You did both."
+
+"I mostly stood around."
+
+"Yes."
+
+Wurdren waited.
+
+The delegate did not rescue him from the statement.
+
+He folded the copy and put it away.
+
+A cart passed on the road.
+
+Then another.
+
+The second slowed for the upper grade.
+
+Wurdren watched until it disappeared around the turn.
+
+He had spent two days on:
+
+- three trees;
+- a footpath;
+- wet ground;
+- an expensive bend in a road.
+
+He was, annoyingly, in a good mood.
+
+"What now?" he asked.
+
+The delegate shrugged.
+
+"Something else will be wrong tomorrow."
+
+"Comforting."
+
+"It is."
+
+That time they did smile.
+
+Wurdren would leave the next day.
+
+He was not sure where yet.
+
+For the first time since returning to the road, that did not bother him much.
+
+---
+
+# V2 assessment
+
+## Counter-domino
+
+**PASS.**
+
+The Longwood escalation branch is genuinely contained.
+
+## Compromise cost
+
+**PASS.**
+
+The upper turn visibly performs worse for loaded carts.
+
+The solution remains:
+
+- expensive;
+- slower;
+- administratively messier.
+
+It is chosen because it respects claims the cheaper route externalized.
+
+## Dissent
+
+**PASS.**
+
+No consensus.
+
+## Wurdren arc
+
+**STRONGER PASS.**
+
+He notices only:
+
+> he is in a good mood.
+
+He does not yet explain why this matters.
+
+## Structural disposition
+
+Longwood road / extraction escalation can now be marked:
+
+> **RED / contained**
+
+in the current movement.
+
+Residue survives:
+
+- road improvement;
+- written clarification;
+- compensation process;
+- relationship;
+- Wurdren witness copy;
+- remembered objection;
+- precedent that emergency / route need does not erase local rights.
+
+Next:
+
+> **Sequence 11 — Help has an afterlife** in Low Rivers / Port records, while the Stone Hills procurement request lands in its own pressure field.
