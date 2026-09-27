@@ -285,11 +285,45 @@ Current next step:
   - safety genuinely improves;
   - routine records now expose traffic / guard / escort capability.
 
-**Movement III first-half milestone:** Sequences 13–16 now establish protection becoming legible capability without anyone announcing mobilization.
+- [Movement III — Sequence 17 The Hidden Coordinators Test V1](Movement-III-Sequence-17-Hidden-Coordinators-Test-V1.md)
+- [Movement III — Sequence 17 Hidden Coordinators Challenge V1](Movement-III-Sequence-17-Hidden-Coordinators-Challenge-V1.md)
+- [Movement III — Sequence 17 The Hidden Coordinators Test V2](Movement-III-Sequence-17-Hidden-Coordinators-Test-V2.md)
+  - first meaningful Council-side POV;
+  - coordinated intervention genuinely reduces a purchase/storage feedback loop;
+  - results remain uneven and favor legible network participants;
+  - Council discovers a political-guarantee motive outside its initial market model.
+
+- [Movement III — Sequence 18 Guarantees Become Identities Test V1](Movement-III-Sequence-18-Guarantees-Identities-Test-V1.md)
+- [Movement III — Sequence 18 Guarantees Become Identities Challenge V1](Movement-III-Sequence-18-Guarantees-Identities-Challenge-V1.md)
+- [Movement III — Sequence 18 Guarantees Become Identities Test V2](Movement-III-Sequence-18-Guarantees-Identities-Test-V2.md)
+  - OC-C separately secures food, credit, and shipping continuity;
+  - overlapping counterparties emerge rather than being designed as one package;
+  - commercial relationships begin requiring diplomatic explanation.
+
+- [Movement III — Sequence 19 The Cost of Waiting Test V1](Movement-III-Sequence-19-Cost-Waiting-Test-V1.md)
+- [Movement III — Sequence 19 The Cost of Waiting Challenge V1](Movement-III-Sequence-19-Cost-Waiting-Challenge-V1.md)
+- [Movement III — Sequence 19 The Cost of Waiting Test V2](Movement-III-Sequence-19-Cost-Waiting-Test-V2.md)
+  - Villain exploits information-network latency rather than another confidential leak;
+  - OC-U adopts bounded city-linked commercial capacity review;
+  - hostile interpretation fails and technical cooperation survives;
+  - OC-C nevertheless preserves more future shipping access before clarification;
+  - branch becomes self-moving.
+
+**Movement III milestone:** Sequences 13–19 now complete the first-pass movement.
+
+The movement establishes:
+
+1. good solutions create real downstream costs;
+2. temporary protection becomes durable capability;
+3. priority / inspection / guarantee systems become politically legible;
+4. private Council coordination can genuinely reduce risk while remaining unauthorised;
+5. issue-specific counterparties begin overlapping into dependence clusters;
+6. waiting for certainty becomes costly enough that rational actors act early;
+7. reciprocal precaution now has momentum independent of the Villain.
 
 Current next step:
 
-> **Sequence 17 — The hidden coordinators: first meaningful Council-side POV comparing food, routes, metal, credit, and reserve behavior while disagreeing over transparency and intervention.**
+> **Movement IV / Sequence 20 — The Inspection. Create the small, legally ambiguous convoy dispute where inspection authority, strategic classification, protected passage, and guarantee credibility collide.**
 
 ---
 
