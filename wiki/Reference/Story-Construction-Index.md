@@ -157,9 +157,36 @@ The raw uploaded books are project sources; the repo stores focused derivative n
   - Council remains invisible;
   - hidden triage appears through later records rather than staged coincidence.
 
+- [Opening Scene 4 — The Person Who Stopped Looking Test V1](Opening-Scene-4-Old-Port-Hand-Test-V1.md)
+- [Opening Scene 4 — Old Port Hand Challenge V1](Opening-Scene-4-Old-Port-Hand-Challenge-V1.md)
+- [Opening Scene 4 — The Person Who Stopped Looking Test V2](Opening-Scene-4-Old-Port-Hand-Test-V2.md)
+  - current Scene 4 baseline;
+  - Port as home / work / memory;
+  - Old Port Hand as rooted-life mirror;
+  - Netman seed.
+
+- [Opening Scene 5 — Passage Is Not Cutting Test V1](Opening-Scene-5-Passage-Not-Cutting-Test-V1.md)
+- [Opening Scene 5 — Passage Is Not Cutting Challenge V1](Opening-Scene-5-Passage-Not-Cutting-Challenge-V1.md)
+- [Opening Scene 5 — Passage Is Not Cutting Test V2](Opening-Scene-5-Passage-Not-Cutting-Test-V2.md)
+  - current Scene 5 baseline;
+  - Wurdren's visible corrigibility;
+  - Longwood rights / copied-agreement narrowing;
+  - onward witness obligation.
+
+- [Opening Scene 6 — Everyone Has a Piece Test V1](Opening-Scene-6-Everyone-Has-Piece-Test-V1.md)
+- [Opening Scene 6 — Everyone Has a Piece Challenge V1](Opening-Scene-6-Everyone-Has-Piece-Challenge-V1.md)
+- [Opening Scene 6 — Everyone Has a Piece Test V2](Opening-Scene-6-Everyone-Has-Piece-Test-V2.md)
+  - current Scene 6 baseline;
+  - Three Moons information density;
+  - North Coast / Low Rivers / High Roads fragments;
+  - Stone Hills procurement handoff;
+  - Wurdren chooses a specific promise over higher-paid armed work.
+
+**Opening milestone:** Scenes 1–6 now form a coherent first-pass prose chain.
+
 Current next step:
 
-> **draft Scene 4: the person who stopped looking. Slow the opening enough for Port to become home / work / memory before the Longwood dispute arrives.**
+> **leave the opening and build Movement II / Sequence 7: Three Moons dispersal, then the Longwood on-site compromise / first full counter-domino.**
 
 ---
 
