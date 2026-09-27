@@ -79,6 +79,20 @@ Run each only as far as it keeps changing the answer. These are THINK's fixed-fo
 
 Other methods from THINK's twelve-method library (perspective shift, inversion, frame challenge, recombination, analogy and others) stay in reserve. Use one only when a specific failure calls for it, such as frame challenge when the concept keeps failing for the same reason.
 
+### World-tie check
+
+After the four methods, place the story in the domino web using the [world-tie rule](Applying-to-Two-Sons.md#the-world-tie-rule-connected-not-driven):
+
+1. Which [Current Events](../Story/Current-Events.md) item shapes the situation?
+2. What is the nail — the one small domino-scale pressure that lands here?
+3. Does every step have an ordinary, independent reason?
+4. Who is behind it, out of story: Villain, Council, ordinary life, or `UNKNOWN`?
+5. Do locals decide whether it falls, for local reasons?
+6. What happens next beyond the story, and how could the Villain or Council use it?
+7. Where does it sit on the [World Threads](World-Threads.md) calendar, and does it touch another story?
+
+Record the answers in the story's **Larger-world thread** section. Assumptions about canon go through assumption mapping like any other.
+
 ### PLAN handoff (end of THINK)
 
 Record only what changes later work:

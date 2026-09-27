@@ -8,9 +8,9 @@ This page explains how to use the [Sunday Morning Story Writing Framework](Frame
 
 ## Why the setting supports this mode
 
-Two Sons is built around a continental-scale engine: the [Economic Council](../Politics/Economic-Council.md), the [Villain's Dominoes](../Story/Villains-Dominoes.md) and the escalation described in [Main Conflict](../Story/Main-Conflict.md). That engine is the opposite of a Sunday Morning Story.
+Two Sons is built around a continental-scale engine: the [Economic Council](../Politics/Economic-Council.md), the [Villain's Dominoes](../Story/Villains-Dominoes.md) and the escalation described in [Main Conflict](../Story/Main-Conflict.md). Sunday Morning stories are that engine seen from the ground: the places where a domino lands on ordinary people who never learn it was one.
 
-But the setting's *texture* is already human-scale:
+That works because the setting's *texture* is already human-scale:
 
 - [Wurdren](../Story/Wurdren.md) exists to make large systems specific again: the widow, the apprentice, the farmer whose storehouse is empty.
 - [World Rules](../World-Rules.md) rule 20 says the world exists when the protagonists are absent, and that a town may solve its own problem before Wurdren arrives.
@@ -32,23 +32,35 @@ Sunday Morning stories live in that texture layer.
 | Gentle absurdity treated sincerely (§8) | old treaties, obsolete precedents, two-name towns, bureaucratic friction ([Worldbuilding Breath](../Reference/Worldbuilding-Breath.md) layer 7) |
 | Earnest emotional core (§9) | the setting's themes: interdependence, belonging at borders, tradition that changes, ordinary decency |
 
-## The background rule
+## The world-tie rule: connected, not driven
 
-The main conflict may be **present** in a Sunday Morning story, but only as weather. It must never become the engine.
+*Changed 2026-09-27 at James's direction. The earlier rule kept the main conflict as background only; Sunday Morning stories now belong to the domino web.*
 
-This is the framework's "the empire is at war somewhere far away" example (§3) applied to [Current Events](../Story/Current-Events.md).
+Every Sunday Morning story is a **node in the [Villain's Dominoes](../Story/Villains-Dominoes.md) and [Current Events](../Story/Current-Events.md) web**, told from the ground where the people involved cannot see the web. This is the setting's own design: the plot moves through causal handoffs, and [Wurdren](../Story/Wurdren.md) (and ordinary people like him) change the larger game "without understanding it at first" ([Main Conflict](../Story/Main-Conflict.md#plot-movement)).
 
-| Current event | Allowed as background | Not allowed as engine |
-| --- | --- | --- |
-| Greenvale abundance crisis | a granary nobody can sell from; an awkward surplus accounting at Harvest Home | land-consolidation conspiracy; farms seized |
-| Ironcrest labor unrest | strike talk at the tavern; a delayed order | Villain-timed strike; violence |
-| Northwind piracy | an extra lookout on the bell tower; higher insurance gossip | raids on the town |
-| Highridge caravan attacks | a caravan arriving late; a nervous route guard | the caravan disappearing |
-| Deepwood logging disputes | a surveyor and a warden disagreeing about one path | inter-regional sovereignty crisis |
-| Port refugee pressure | new neighbors at the next stall | displacement and hardship as the story |
-| Council / Villain | never named; at most a rumor that explains things badly | any appearance as an actor |
+At story scale the domino is always a **nail**, the smallest kind: a letter, a rumor, a delayed cart, a tightened loan, an offer to buy. The legacy domino notes use this term for the tier of moves that go unnoticed because they look like ordinary local trouble; the [Source Register](../Reference/Source-Register.md) records that those notes are evidence, not canon.
 
-A useful test: if you deleted the background reference entirely, would the story still work? It should.
+### What every story must carry
+
+| Element | Requirement |
+| --- | --- |
+| Current event | At least one [Current Events](../Story/Current-Events.md) item shapes the story's situation, not just its dialogue. |
+| Nail | One small, concrete domino-scale pressure lands in the community. |
+| Independent reasons | Every step has an ordinary reason a participant would give ([World Rules §10](../World-Rules.md#10-the-villains-schemes-must-survive-ordinary-scrutiny)). |
+| Attribution | Who is behind the nail — Villain, Council, ordinary life, or `UNKNOWN` — recorded **out of story**, and provisional. Not everything is the Villain; Current Events says the distinction is essential. |
+| Local outcome | The nail falls or doesn't because locals act for local reasons ([World Rules §20](../World-Rules.md#20-the-world-exists-when-the-protagonists-are-absent)). |
+| Outward effect | The second- and third-order effect beyond the story, including how the Villain or Council could use it ([World Rules §12](../World-Rules.md#12-every-major-event-should-have-second--and-third-order-effects)). |
+
+### What keeps it Sunday Morning
+
+- **Stakes on the page stay local.** The domino web raises what the outcome *means*, not what the characters risk.
+- **Nobody in the story sees the pattern.** Characters may repeat a rumor that explains things badly; no one exposes the Council or the Villain.
+- **The Villain never appears on the page as himself**, and the Council never acts as a named body. Domino characters (Orin, Maris, Rosana, Samir, Naruin, Bahriyya) may appear or be mentioned as ordinary people.
+- **No on-page harm from the scheme.** Hardship can exist as context (a displaced family, a lost contract), never as the story.
+- **Readers of the saga get the irony; Sunday readers don't need it.** Deleting the thread should leave a working story; keeping it should make the story matter more.
+- **Nothing here fixes the Villain's identity, grievance or plan.** Those stay [open](../Open-Questions.md#villain).
+
+The cross-story view — calendar, ripple chain and per-story threads — is [World Threads](World-Threads.md). Each story page owns its own thread.
 
 ## Wurdren in Sunday Morning stories
 
@@ -133,7 +145,9 @@ The Sunday Morning mode relaxes stakes, not worldbuilding discipline.
 
 Use the framework's [checklist](Framework.md#20-the-sunday-morning-story-checklist) first, then:
 
-- [ ] Could the story be told with every Council/Villain reference removed?
+- [ ] Does the story carry a current event, a nail, an out-of-story attribution, a local outcome and an outward effect ([world-tie rule](#the-world-tie-rule-connected-not-driven))?
+- [ ] Would the story still work with the thread deleted, and matter more with it kept?
+- [ ] Does no character see the pattern, and does the Villain stay off the page?
 - [ ] Is the setting one community, not a region?
 - [ ] Is there a festival, season or material limit acting as the clock?
 - [ ] Does at least one language or food habit recur as a running element?

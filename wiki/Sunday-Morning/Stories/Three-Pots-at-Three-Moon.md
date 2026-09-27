@@ -37,11 +37,11 @@ Recurring locations:
 ## Cast
 
 - **Mother Seral** — the grandmother. Her stew descends from a Deepwood [Guardian Stew](../../Culture/Recipes/Deepwood.md#2-guardian-stew) three generations back. Answers every question with a food question.
-- **Tobiah** — from the docks. Makes it with preserved fish and a lot of pepper; eats standing up.
+- **Tobiah** — from the docks. Makes it with preserved fish and a lot of pepper, since forest mushrooms cost a fortune this year; eats standing up.
 - **Ines** — from the merchant quarter. Makes it rich with imported spice, "the way great-grandmother would have if she could have afforded it."
 - **The permit clerk** — knows Jory professionally; enjoys this far too much.
-- **A Deepwood caravan cook** — passing through; tastes all three versions and declares none of them Guardian Stew.
-- **A newly arrived family of displaced workers** — cooking at the next spot without a permit.
+- **A Deepwood caravan cook** — on the caravans since a fungal blight took his village's mushroom harvest; tastes all three versions and declares none of them Guardian Stew.
+- **The Arden family** — newly arrived from a Greenvale farm they had to sell to a land agent last year, cooking at the next spot without a permit.
 
 ## Problem
 
@@ -52,7 +52,7 @@ A stall permit transfers to one named holder. If the family hasn't filed by the 
 1. The transfer needs one name, three stamps and two offices.
 2. Tobiah and Ines turn the stew into an argument about excess versus aspiration — see [Two common emotional directions](../../Culture/Food-Diaspora-and-Adaptation.md#two-common-emotional-directions).
 3. The Deepwood cook's verdict shakes everyone.
-4. A market inspector working the street could fine both the newcomers and the stall they're cooking beside.
+4. With smuggling up across Port, inspectors are fining unpermitted stalls, and a street rumor says the family next door are smugglers. A fine could land on both stalls.
 5. Mother Seral refuses to taste anyone's version until the festival itself.
 
 ## Running elements
@@ -72,7 +72,7 @@ Each grandchild remembers a different fragment of how Mother Seral served the st
 
 ## Soft landing
 
-The cousins run the stall together, three pots labeled by neighborhood. On the second night the kept-back bowl goes to the newcomers next door, and Jory helps them with their own permit the next morning. The Deepwood cook tries Ines's version, winces, and has a second bowl. Mother Seral finally tastes all three and says only, "Again next year."
+The cousins run the stall together, three pots labeled by neighborhood. On the second night the kept-back bowl goes to the Ardens next door, and Jory helps them with their own permit the next morning. The Deepwood cook tries Ines's version, winces, and has a second bowl. Mother Seral finally tastes all three and says only, "Again next year."
 
 ## World anchors
 
@@ -80,7 +80,21 @@ The cousins run the stall together, three pots labeled by neighborhood. On the s
 - [Food Diaspora and Adaptation](../../Culture/Food-Diaspora-and-Adaptation.md) — three-stage model; Guardian Stew path; excess versus aspiration.
 - [Festivals and Seasonal Life](../../Culture/Festivals-and-Seasonal-Life.md#port) — Three Moon Festival as incompatible groups sharing civic space.
 - [Language and Thought](../../Culture/Language-and-Thought.md#port) — native Port speech and heritage languages.
-- **Background only:** refugee and worker pressure in Port ([Current Events](../../Story/Current-Events.md#refugeeworker-pressure)) appears as new neighbors, not hardship as the story.
+- [Current Events](../../Story/Current-Events.md#port) — refugee and worker pressure, smuggling surge; and Deepwood's [fungal disruption](../../Story/Current-Events.md#fungalecological-disruption).
+
+## Larger-world thread
+
+Part of [World Threads](../World-Threads.md) — year 2, early autumn. The last story on the calendar.
+
+| | |
+| --- | --- |
+| **Current event** | [Refugee and worker pressure](../../Story/Current-Events.md#refugeeworker-pressure) and a [smuggling surge](../../Story/Current-Events.md#smuggling-surge) in Port; the end of the [ripple chain](../../Story/Current-Events.md#example-ripple-chain), where families who lost farms arrive. Deepwood's [fungal disruption](../../Story/Current-Events.md#fungalecological-disruption) explains the cook and the price of mushrooms. |
+| **Domino figure** | None on the page. |
+| **The nail** | A street rumor that the new family are smugglers, arriving while inspectors are hunting unpermitted stalls. |
+| **Independent reasons** | Smuggling really is up; the family really has no permit; strangers really do get blamed first. |
+| **Behind it (out of story)** | Ordinary prejudice. Port's rumors propagate everywhere, which the Villain can exploit, but nobody placed this one. |
+| **Local outcome** | The kept-back bowl goes to the Ardens, and Jory files their permit. |
+| **Outward effect** | Three Moon does its civic job on one street: incompatible people share one space. The Ardens are the other ending of [One Square, Two Harvests](One-Square-Two-Harvests.md): the farm that did sell. |
 
 ---
 
@@ -135,30 +149,44 @@ unknowns          Port ward governance of stalls stays vague
 reconsider if     the ritual reads as a Deepwood-wide custom; the newcomers become a lesson
 ```
 
+### Stage 1b — THINK: world-tie pass
+
+**Routed to THINK** by James's direction to tie every story into the domino web (a change of frame, not of execution).
+
+| Assumption | Status | Finding |
+| --- | --- | --- |
+| The newcomers are generic displaced workers | `ASSUMED` → **specified** | They come from a Greenvale farm lost to consolidation, the ripple chain's step 7 ([Current Events](../../Story/Current-Events.md#example-ripple-chain)). The year-2 calendar placement makes the timing work. |
+| The Deepwood cook is just passing through | `ASSUMED` → **grounded** | The fungal blight ([Current Events](../../Story/Current-Events.md#fungalecological-disruption)) gives him a reason to be cooking on caravans. |
+| Every nail needs a schemer | `ASSUMED` → **false** | This one is ordinary prejudice. The variety keeps the web believable. |
+| The Ardens' loss makes the story sad | `ASSUMED` → **narrowed** | Their loss is context, told in one line; the story is the stall. |
+
+World-tie changes to the plan: s3 adds the mushroom prices; s5 adds the smuggling rumor alongside the inspector; s7's permit clears the rumor.
+
 ### Stage 2 — PLAN
 
 | # | Place · clock | What happens | Must establish | Running element |
 | --- | --- | --- | --- | --- |
 | 1 | The stall · a week out | Mother Seral announces she is retiring: "whoever makes the right one." Jory is volunteered for the paperwork. A flash of him as a boy, carrying a bowl. | the rule; the dented pot; Jory's buried memory | food-question answer |
 | 2 | Market Regulation · 5 days out | One name, three stamps, two offices; the clerk enjoys it. | the deadline: filed by night two | stamps |
-| 3 | Tobiah's kitchen · 4 days out | His version, among dock workers. He remembers the pot going on at dawn. | fragment 1: timing | Jory translating |
+| 3 | Tobiah's kitchen · 4 days out | His version, among dock workers, with fish where mushrooms should be because the blight has made them dear. He remembers the pot going on at dawn. | fragment 1: timing; the mushroom prices | Jory translating |
 | 4 | Ines's kitchen · 3 days out | Her version and her aspiration speech. She remembers one bowl always kept back. | fragment 2: the kept-back bowl | excess vs aspiration |
-| 5 | Festival street · night 1 | The newcomers cook next door without a permit. The Deepwood cook tastes all three: none is Guardian Stew, but in his village the pot opens at the table and a guest eats first. | the outside clue; the inspector | stamps |
+| 5 | Festival street · night 1 | The Ardens cook next door without a permit, and a street rumor calls them smugglers. The Deepwood cook tastes all three: none is Guardian Stew, but in his village the pot opens at the table and a guest eats first. | the outside clue; the inspector; the rumor | stamps |
 | 6 | Back room · night 1, late | The cousins argue. Jory finally remembers his part: he carried the first bowl to strangers. The three fragments are one ritual. | fragment 3; the recombination | food-question answer, now understood |
-| 7 | Market Regulation · day 2 | Jory finds the unused family-stall form and files three names, then starts the newcomers' application. | clock met; clerk skill essential | stamps pay off |
-| 8 | Festival street · night 2 | Three pots, one stall. The kept-back bowl goes to the newcomers. "Again next year." | soft landing | kept-back bowl |
+| 7 | Market Regulation · day 2 | Jory finds the unused family-stall form and files three names, then starts the Ardens' application, which answers the rumor better than any argument. | clock met; clerk skill essential; the nail that didn't fall | stamps pay off |
+| 8 | Festival street · night 2 | Three pots, one stall. The kept-back bowl goes to the Ardens. "Again next year." | soft landing | kept-back bowl |
 
 **Promise ledger**
 
 | Promise | Set up | Triggered by | Pays off | Kind | Status |
 | --- | --- | --- | --- | --- | --- |
 | P1 "the right stew" | s1 | s5 Deepwood cook | s6 it was a practice | thematic | planned |
-| P2 kept-back bowl | s4 | s6 | s8 to the newcomers | object / ritual | planned |
+| P2 kept-back bowl | s4 | s6 | s8 to the Ardens | object / ritual | planned |
 | P3 dawn timing | s3 | s6 | s8 three pots started at dawn | fragment | planned |
 | P4 Jory carrying bowls | s1 glimpse | s5 | s6 remembered | character / clue | planned |
 | P5 stamps | s2 | s7 form | s7 filed | comic → plot | planned |
 | P6 newcomers | s5 | s7 | s8 first bowl | relationship | planned |
 | P7 Deepwood cook's taste | s5 | — | s8 second bowl of Ines's | comic | planned |
+| P8 the smuggling rumor | s5 | s7 permit | s8 first bowl to the Ardens | world thread | planned |
 
 Candidate Writing Bible lenses applied, as research and not rules:
 

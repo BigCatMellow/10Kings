@@ -72,11 +72,12 @@ The setting should make it possible to follow one damaged bridge, missing carava
 
 ## Sunday Morning Stories
 
-Small, human-scale stories set in the world's border towns, festivals and neighborhoods, with the main conflict kept in the background. Writing reference and provisional concepts, not canon.
+Small, human-scale stories set in the world's border towns, festivals and neighborhoods, each one a place where the main conflict's dominoes touch ordinary people who never see the pattern. Writing reference and provisional concepts, not canon.
 
 - [Sunday Morning Stories](Sunday-Morning/README.md) — folder index and story list
 - [Sunday Morning Story Writing Framework](Sunday-Morning/Framework.md)
 - [Applying the Framework to Two Sons](Sunday-Morning/Applying-to-Two-Sons.md)
+- [World Threads](Sunday-Morning/World-Threads.md) — where each story sits on the dominoes and current events
 - [Story Pipeline](Sunday-Morning/Story-Pipeline.md) — developing a story with MAPS_L, THINK and PLAN
 
 ## Writing and provenance

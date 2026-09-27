@@ -24,7 +24,7 @@ Kettle Cove's racing boat cracks a hull plank weeks before the Last Sail regatta
 
 ## Place
 
-A cove town built around a sheltered harbor, drying racks and inland gardens. Everyone is related to someone in Narrow Sound across the headland.
+A cove town built around a sheltered harbor, drying racks and inland gardens. Everyone is related to someone in Narrow Sound across the headland. It has been a bad year for raids up the coast, and Maris Bleakshore has called on every cove to choose convoy partners it can trust.
 
 Recurring locations:
 
@@ -54,6 +54,7 @@ Without a sound boat, Kettle Cove must forfeit the regatta or borrow a boat from
 3. Good seasoned planking is short at the end of the season.
 4. Narrow Sound's children spy on the shed.
 5. Storms push back the test launch. For weeks nobody has *seen* the boat float, so in Northwind grammar its seaworthiness can only be reported as rumor.
+6. *It is said* that Narrow Sound shelters raiders. Half the clan hall wants the regatta called off and Narrow Sound left out of any convoy.
 
 ## Running elements
 
@@ -69,7 +70,7 @@ Belonging can be built. Aldo has belonged for twenty years; the cove simply hasn
 
 ## Climax
 
-Someone has to ride the repaired boat on its test launch and bail if the new plank weeps. Aldo goes, seasick the whole way, bailing steadily while it takes up. Old Rask watches from the slipway. It floats. At the regatta Kettle Cove races hard and loses narrowly.
+Someone has to ride the repaired boat on its test launch and bail if the new plank weeps. Aldo goes, seasick the whole way, bailing steadily while it takes up. Old Rask watches from the slipway. It floats. That night the clan hall votes on calling off the regatta over the Narrow Sound rumor. Rask asks who saw it. Nobody did. "I have seen the Greenvale man bail a boat he mended," he says. "I have not seen Narrow Sound shelter anyone." The regatta goes ahead. Kettle Cove races hard and loses narrowly.
 
 ## Soft landing
 
@@ -81,7 +82,21 @@ On the walk home Rask tells the story of the test launch tagged *I saw it*, then
 - [Language and Thought](../../Culture/Language-and-Thought.md) — inclusive/exclusive "we"; evidentials.
 - [Festivals and Seasonal Life](../../Culture/Festivals-and-Seasonal-Life.md) — Last Sail, Long Dark Feast.
 - [Regional Social Dynamics](../../Culture/Regional-Social-Dynamics.md) — cross-regional marriage and sayings.
-- **Background only:** declining fish stocks and piracy ([Current Events](../../Story/Current-Events.md#northwind)) may appear as dock talk or an extra lookout.
+- [Villain's Dominoes](../../Story/Villains-Dominoes.md#maris-bleakshore--northwind) — Maris Bleakshore: selectively framed intelligence and defensive action.
+
+## Larger-world thread
+
+Part of [World Threads](../World-Threads.md) — year 1, late autumn.
+
+| | |
+| --- | --- |
+| **Current event** | [Piracy and convoy politics](../../Story/Current-Events.md#piracy-and-convoy-politics), plus Northwind's accusations that some clans cooperate with raiders ([Northwind](../../Regions/Northwind.md#current-pressures)). |
+| **Domino figure** | [Maris Bleakshore](../../Story/Villains-Dominoes.md#maris-bleakshore--northwind), offstage: her call for trusted convoy partners. Her domino: credible but selectively framed intelligence makes defensive action look necessary. |
+| **The nail** | "It is said" that Narrow Sound shelters raiders, arriving just as coves are choosing convoy partners. |
+| **Independent reasons** | Raids really are up; someone really must be sheltering raiders somewhere; cutting off a rival cove is emotionally easy. |
+| **Behind it (out of story)** | The rumor is amplified by the Villain, provisionally: exactly the kind of framed report his Maris domino runs on. |
+| **Local outcome** | Rask, who has just learned what "I saw it" is worth, applies the same test to the rumor. The regatta goes ahead and the coves sail together. |
+| **Outward effect** | Kettle Cove reports Narrow Sound as a convoy partner, not a suspect: one less "credible" report feeding the push toward patrols that others read as aggression. |
 
 ---
 
@@ -136,6 +151,19 @@ unknowns          Kettle Cove's clan structure stays vague
 reconsider if     the plank repair needs technical exposition; the elder's turn feels unearned
 ```
 
+### Stage 1b — THINK: world-tie pass
+
+**Routed to THINK** by James's direction to tie every story into the domino web (a change of frame, not of execution).
+
+| Assumption | Status | Finding |
+| --- | --- | --- |
+| The rivalry with Narrow Sound is only sport | `ASSUMED` → **extended** | Canon accusations that clans cooperate with raiders give the regatta real weight. |
+| The evidential arc only concerns Aldo | `ASSUMED` → **extended** | The same grammar tests the rumor. Belonging and the domino resolve through one standard: who saw it. |
+| Maris must appear | `ASSUMED` → **narrowed** | Her call arrives by messenger; her story belongs to the main saga. |
+| The rumor is disproved | `ASSUMED` → **false** | It is only shown to be unwitnessed. Nobody in the story learns whether anyone shelters raiders. |
+
+World-tie changes to the plan: s4 adds Maris's call and the rumor; s5 sets the two rumors side by side; s7 adds the clan-hall vote; s8 has the coves race together.
+
 ### Stage 2 — PLAN
 
 | # | Place · clock | What happens | Must establish | Running element |
@@ -143,11 +171,11 @@ reconsider if     the plank repair needs technical exposition; the elder's turn 
 | 1 | Slipway · 3 weeks out | Haul-out reveals the cracked plank. The builder's letter from Greenvale. Borrowing is raised and hated. | the problem; the rival; exclusive "we" | flat-country letter |
 | 2 | Cooperage · same day | Brenna comes to ask. Aldo refuses: "I make barrels." Hild laughs. | Aldo's skills; the steam box | "Greenvale butter" said once |
 | 3 | Boat shed · next day | He looks anyway, sees a plank is a long stave, and agrees. | plausibility of the repair | Hild's commentary |
-| 4 | Clan hall · week 1 | Rask objects: "we don't hand our boat to…" Planking is short. | the objection; the timber shortage | exclusive "we" |
-| 5 | Drying racks · week 2 | Gossip and spying children. Rumor: *it is said* the Greenvale man builds a barrel boat. | the evidential arc starts | *it is said* |
+| 4 | Clan hall · week 1 | Rask objects: "we don't hand our boat to…" Planking is short. A messenger brings Maris Bleakshore's call to choose trusted convoy partners, and someone says Narrow Sound can't be trusted. | the objection; the timber shortage; the convoy call; the rumor begins | exclusive "we" |
+| 5 | Drying racks · week 2 | Gossip and spying children. Two rumors side by side: *it is said* the Greenvale man builds a barrel boat, and *it is said* Narrow Sound shelters raiders. | the evidential arc starts for both | *it is said* |
 | 6 | Boat shed · week 2, storm | Storms delay the launch. Rask brings his own saved planking, "for the cove." | Rask's shift, still exclusive | exclusive "we" |
-| 7 | Slipway · 3 days out | Test launch: Aldo rides and bails the whole way, sick. Rask watches. It floats. | the witnessed act | *I saw it* |
-| 8 | Regatta, walk home · Last Sail | Lose narrowly. Rask: "We'll take them next year," inclusive. Final letter. | soft landing | inclusive "we" |
+| 7 | Slipway, clan hall · 3 days out | Test launch: Aldo rides and bails the whole way, sick. Rask watches. It floats. That night the hall votes on the regatta; Rask asks who saw Narrow Sound shelter anyone. Nobody. | the witnessed act; the same standard applied to the rumor | *I saw it* |
+| 8 | Regatta, walk home · Last Sail | The coves race together. Lose narrowly. Rask: "We'll take them next year," inclusive. Final letter. | soft landing | inclusive "we" |
 
 **Promise ledger**
 
@@ -160,6 +188,7 @@ reconsider if     the plank repair needs technical exposition; the elder's turn 
 | P5 borrowing humiliation | s1 | s3 | s8 avoided | stakes | planned |
 | P6 Rask's planking | s4 shortage | s6 | s7 in the hull | relationship | planned |
 | P7 "Greenvale butter" | s2 | — | s7 disproved, unspoken | character | planned |
+| P8 the Narrow Sound rumor | s4 | s5 beside Aldo's rumor | s7 unwitnessed → s8 they race | world thread | planned |
 
 Candidate Writing Bible lenses applied, as research and not rules:
 

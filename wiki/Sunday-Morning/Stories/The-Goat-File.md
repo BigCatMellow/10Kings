@@ -8,7 +8,7 @@
 
 ## Premise
 
-A reforming administrator rules that every deferred dispute must be closed at this year's Ledger Closing. The junior arbitration clerk is handed the oldest one as hazing: a forty-three-year feud between two respected houses over a goat.
+Lenders in Port will renew Seven Wells' credit this year only if its books are clean, so a reforming administrator rules that every deferred dispute must be closed at this year's Ledger Closing. The junior arbitration clerk is handed the oldest one as hazing: a forty-three-year feud between two respected houses over a goat.
 
 **Setting:** Seven Wells, a [Highridge](../../Regions/Highridge-Plateau.md) pass town (provisional name)
 **Clock:** [Ledger Closing](../../Culture/Festivals-and-Seasonal-Life.md#highridge), late autumn — about ten days
@@ -24,7 +24,7 @@ A reforming administrator rules that every deferred dispute must be closed at th
 
 ## Place
 
-A terraced pass town built around cisterns, caravan yards and an arbitration hall, where the end of the trade cycle means debts settled, renegotiated or publicly disputed before a brief period of relief.
+A terraced pass town built around cisterns, caravan yards and an arbitration hall, where the end of the trade cycle means debts settled, renegotiated or publicly disputed before a brief period of relief. Attacks up the route have thinned this year's caravans, and credit has tightened with them.
 
 Recurring locations:
 
@@ -37,7 +37,7 @@ Recurring locations:
 
 ## Cast
 
-- **Ebbe Tarrow** — retired caravan master; dignified everywhere except on this subject.
+- **Ebbe Tarrow** — retired caravan master; dignified everywhere except on this subject. His house's caravan trade has shrunk with the attacks.
 - **Mardin Kesh** — cistern-keeper; equally dignified; equally not.
 - **The senior arbiter** — assigned the file to Pim and is taking bets on the outcome.
 - **The tea seller** — knows everything, charges by the cup.
@@ -73,7 +73,7 @@ The tea seller mentions, several cups in, that the two elders' mothers used to w
 
 ## Soft landing
 
-Pim closes the file: *Completed. Pending wedding.* The ruling is lawful because the ownership is settled by a condition, and Highridge law is comfortable with conditions. The senior arbiter pays out. The tea seller already knew. Next spring's wedding requires a goat, and both houses insist on providing it.
+Pim closes the file: *Completed. Pending wedding.* The ruling is lawful because the ownership is settled by a condition, and Highridge law is comfortable with conditions. The senior arbiter pays out. The tea seller already knew. Next spring's wedding requires a goat, and both houses insist on providing it. The administrator sends clean books to Port. And a caravan house joined to a cistern house can offer passing caravans water and guides under one roof, just as routes are being redrawn.
 
 ## World anchors
 
@@ -82,6 +82,21 @@ Pim closes the file: *Completed. Pending wedding.* The ruling is lawful because 
 - [Festivals and Seasonal Life](../../Culture/Festivals-and-Seasonal-Life.md) — Ledger Closing.
 - [Language and Thought](../../Culture/Language-and-Thought.md) — exact quotation, conditionals and degrees of commitment.
 - [Worldbuilding Breath](../../Reference/Worldbuilding-Breath.md) — bureaucratic friction and off-camera relationships.
+- [Economic Council](../../Politics/Economic-Council.md#5-finance-and-exchange) — credit as leverage: "credit becomes scarce."
+
+## Larger-world thread
+
+Part of [World Threads](../World-Threads.md) — year 1, late autumn.
+
+| | |
+| --- | --- |
+| **Current event** | Step 2 of the [ripple chain](../../Story/Current-Events.md#example-ripple-chain): piracy raises shipping risk and Port credit tightens. Locally, [caravan attacks](../../Story/Current-Events.md#caravan-attacks) have thinned the route's trade. |
+| **Domino figure** | None on the page. |
+| **The nail** | Port lenders renew the town's credit only on clean books, which forces the forty-three-year file closed. |
+| **Independent reasons** | Lenders reasonably distrust books full of deferred claims; the administrator reasonably wants the credit. |
+| **Behind it (out of story)** | Council finance stabilizing lenders, provisionally: ordinary pressure, not a scheme. The Council works through credit and contracts ([Economic Council](../../Politics/Economic-Council.md#how-the-council-governs-without-governing)). |
+| **Local outcome** | The file closes with no house losing face, and the town gets its clean books. |
+| **Outward effect** | A caravan house and a cistern house will join, and Seven Wells can offer water and guides together while routes are redrawn. Samir Tareh's route survey in [The Heavy Scale](The-Heavy-Scale.md) could list it next spring. |
 
 ---
 
@@ -136,18 +151,30 @@ unknowns          Seven Wells' governance and the administrator's office stay va
 reconsider if     readers guess the wedding clause by s5; the custodian reads as a gatekeeper villain
 ```
 
+### Stage 1b — THINK: world-tie pass
+
+**Routed to THINK** by James's direction to tie every story into the domino web (a change of frame, not of execution).
+
+| Assumption | Status | Finding |
+| --- | --- | --- |
+| The administrator reforms for reform's sake | `ASSUMED` → **replaced** | Tightened Port credit gives the rule an ordinary, external reason ([Current Events](../../Story/Current-Events.md#example-ripple-chain), step 2). |
+| The wedding is purely sentimental | `ASSUMED` → **extended** | Joining a caravan house and a cistern house has practical value while caravan attacks redirect routes. |
+| This nail is a scheme | `ASSUMED` → **false** | It is ordinary Council-style finance. Some nails in the web should be nobody's plot. |
+
+World-tie changes to the plan: s1 has the administrator cite the lenders; s3 adds Ebbe's shrunken trade; s8 adds the clean books.
+
 ### Stage 2 — PLAN
 
 | # | Place · clock | What happens | Must establish | Running element |
 | --- | --- | --- | --- | --- |
-| 1 | Arbitration hall · 10 days out | The new rule. The senior arbiter hands Pim the file; the gallery laughs; a betting book opens. | the problem; the clock | the odds |
+| 1 | Arbitration hall · 10 days out | The new rule, and the reason: Port lenders want clean books. The senior arbiter hands Pim the file; the gallery laughs; a betting book opens. | the problem; the clock | the odds |
 | 2 | Tea stall · 9 days out | Pim reads the file over tea. Quoted testimony from the seventeenth year. | the file's contradictions | tea by the cup |
-| 3 | Caravan yards · 8 days out | Ebbe Tarrow's dignified, absurd account. | one house's version | quoted testimony |
+| 3 | Caravan yards · 8 days out | Ebbe Tarrow's dignified, absurd account, in a yard emptier than it should be. | one house's version; the thinned trade | quoted testimony |
 | 4 | Cisterns · 7 days out | Mardin Kesh's account. Pim notices both men quote their mothers — identically, and differently. | the mothers were friends (clue) | quoted testimony |
 | 5 | Upland pasture · 6 days out | The goat census, pointless. Pim finds Lio and Nessa together; they beg him to rule for nobody. | the grandchildren; the stakes | goat census |
 | 6 | Archive · 4 days out | The custodian refuses until silence hours end. Pim waits. The tea seller: "Their mothers used to walk here together." | the deposit exists; patience | tea by the cup |
 | 7 | Archive · eve of ruling | "You are the first to ask." The sealed memorandum: the wager. | solution | quoted testimony, from the source |
-| 8 | Hall · Ledger Closing | Pim reads it aloud. The grandchildren stand. *Completed. Pending wedding.* Payouts. Both houses provide the goat. | soft landing | odds settled |
+| 8 | Hall · Ledger Closing | Pim reads it aloud. The grandchildren stand. *Completed. Pending wedding.* Payouts. Clean books go to Port. Both houses provide the goat. | soft landing; the nail met | odds settled |
 
 **Promise ledger**
 
@@ -159,6 +186,7 @@ reconsider if     readers guess the wedding clause by s5; the custodian reads as
 | P4 Lio and Nessa | s5 | — | s8 they stand | relationship | planned |
 | P5 the pointless census | s5 | — | s8 a goat for the wedding | comic callback | planned |
 | P6 silence hours | s6 | — | s7 released | clock | planned |
+| P7 the lenders' demand | s1 | — | s8 clean books | world thread | planned |
 
 Candidate Writing Bible lenses applied, as research and not rules:
 

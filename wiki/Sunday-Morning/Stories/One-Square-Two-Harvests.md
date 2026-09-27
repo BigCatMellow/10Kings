@@ -24,7 +24,7 @@ The grain harvest is so large this year that it takes an extra week to bring in,
 
 ## Place
 
-A town where wetter mixed farmland turns into orchard and irrigation country. Grain and fruit, two water-law traditions, and a square that has two names depending on which end of town you grew up in.
+A town where wetter mixed farmland turns into orchard and irrigation country. Grain and fruit, two water-law traditions, and a square that has two names depending on which end of town you grew up in. Last year the co-op planted a new high-yield seed from Rosana Meadowcroft's trials; this year's enormous harvest is the result, and so is the rumor that grain from the new seed isn't safe to eat.
 
 Recurring locations:
 
@@ -41,6 +41,7 @@ Recurring locations:
 - **Idris Salve** — young heir of a patron house, running the Crush for the first time and terrified of doing it smaller than his mother did.
 - **The miller** — caught between both sides and billing both for his patience.
 - **The canal gatekeeper** — painfully literal. Recites the schedule when nervous.
+- **A polite land agent from downriver** — buying up the notes of farms that can't meet their debts, and in no hurry.
 - **Pell's granddaughter** — finds the dispute absurd and eats [Sunlit Orchard Grain](../../Culture/Recipes/Border-Fusions.md#sunlit-orchard-grain) every day without thinking of it as "fusion" anything.
 
 ## Problem
@@ -53,7 +54,8 @@ Custom says each festival "keeps the square in its own week." This year both nee
 2. The granary is full of grain nobody will buy, so Harvest Home's public accounting of surplus looks like a public accounting of failure.
 3. The Crush's barrels from Ironcrest are late.
 4. A bake-off between [Orchard Hand Pies](../../Culture/Recipes/Greenvale.md#6-orchard-hand-pies) and [Honey-Drizzled Nut Pastries](../../Culture/Recipes/Sunplains.md#3-honey-drizzled-nut-pastries) turns quietly vicious.
-5. Pell keeps settling small disputes on the way to not settling the big one, which convinces everyone he has secretly taken the case.
+5. Merchants won't buy while a rumor says Meadowcroft-seed grain is unsafe, and the land agent is quietly visiting the farms that can't pay their seed loans.
+6. Pell keeps settling small disputes on the way to not settling the big one, which convinces everyone he has secretly taken the case.
 
 ## Running elements
 
@@ -68,11 +70,11 @@ Traditions matter, and they can change. Pell's granddaughter's generation alread
 
 ## Climax
 
-Pell refuses to rule. Instead he does what forty years taught him: he gets both chairs into the records room with the oldest ledger and leaves them there. Bettany and Idris find that the two festivals were once one. A post-Convergence administrator split them so each harvest could be filed under its proper regional heading, which echoes the [Convergence's cultural effect](../../History/The-Convergence.md#cultural-effect). They settle it themselves: one joint festival. Greenvale's redistribution custom and the Salve house's patronage together turn the unsellable surplus into public generosity, with the house underwriting grain for every household that asks.
+Pell refuses to rule. Instead he does what forty years taught him: he gets both chairs into the records room with the oldest ledger and leaves them there. Bettany and Idris find that the two festivals were once one. A post-Convergence administrator split them so each harvest could be filed under its proper regional heading, which echoes the [Convergence's cultural effect](../../History/The-Convergence.md#cultural-effect). They settle it themselves: one joint festival. Greenvale's redistribution custom and the Salve house's patronage together turn the unsellable surplus into public generosity: the house buys grain at a fair price, which lets the indebted farms pay their seed loans, and gives it to every household that asks. Harvest Home's public accounting becomes a public meal of the grain everyone was told not to eat.
 
 ## Soft landing
 
-The square keeps both names. Bettany and Idris read the surplus accounting together, and for once it sounds like good news. The barrels arrive on day two. When an out-of-town cousin calls the joint table "fusion food," Pell's granddaughter shrugs: "We always eat it like this." Pell's quince tree gets a visitor from the water court asking for "just one small opinion."
+The square keeps both names. Bettany and Idris read the surplus accounting together, and for once it sounds like good news. Downriver merchants notice a Sunplains patron house buying Vale grain, and the rumor starts to fade. The land agent leaves with nothing and a very good lunch. The barrels arrive on day two. When an out-of-town cousin calls the joint table "fusion food," Pell's granddaughter shrugs: "We always eat it like this." Pell's quince tree gets a visitor from the water court asking for "just one small opinion."
 
 ## World anchors
 
@@ -81,7 +83,22 @@ The square keeps both names. Bettany and Idris read the surplus accounting toget
 - [Language and Thought](../../Culture/Language-and-Thought.md#greenvale-languages) — Greenvale aspect: recurring versus completed.
 - [The Convergence](../../History/The-Convergence.md) — cultural standardization after the settlement.
 - [Festivals and Seasonal Life](../../Culture/Festivals-and-Seasonal-Life.md#greenvale) — Harvest Home combines celebration with redistribution.
-- **Background:** the Greenvale abundance crisis ([Current Events](../../Story/Current-Events.md#abundance-crisis)) causes both the late harvest and the unsellable surplus, never a conspiracy.
+- [Current Events](../../Story/Current-Events.md#abundance-crisis) — the abundance crisis: late harvest, unsellable surplus, unsafe-grain rumors, land consolidation.
+- [Villain's Dominoes](../../Story/Villains-Dominoes.md#rosana-meadowcroft--greenvale) — Rosana Meadowcroft's seed work.
+
+## Larger-world thread
+
+Part of [World Threads](../World-Threads.md) — year 1, early autumn. The first story on the calendar.
+
+| | |
+| --- | --- |
+| **Current event** | The [abundance crisis](../../Story/Current-Events.md#abundance-crisis) at full strength: prices fall, storage fills, rumors say the grain is unsafe, merchants delay, and indebted farmers face [land consolidators](../../Story/Current-Events.md#land-and-seed-politics). |
+| **Domino figure** | [Rosana Meadowcroft](../../Story/Villains-Dominoes.md#rosana-meadowcroft--greenvale), offstage: the co-op planted her new seed. Her domino is "an agricultural innovation becomes a political fight over control." |
+| **The nail** | The unsafe-grain rumor, plus one land agent buying indebted farms' notes. |
+| **Independent reasons** | New seed makes people nervous; merchants delay when prices are falling anyway; buying distressed notes is ordinary business. |
+| **Behind it (out of story)** | Rumor: amplified by the Villain, provisionally. Land agent: `UNKNOWN` — Council-linked finance or ordinary speculators; Current Events says reformers accuse large interests without proof. |
+| **Local outcome** | The joint festival eats the grain in public, and the Salve house's purchase lets the farms pay their loans. No Vale farm sells to the agent. |
+| **Outward effect** | A Greenvale co-op and a Sunplains patron house now trade grain directly. That quietly weakens the consolidation domino here, but a cross-border grain arrangement is the kind of thing rivals could later read as a bloc forming, which is [Bahriyya Nazar's domino](../../Story/Villains-Dominoes.md#bahriyya-nazar--sunplains). Elsewhere in Greenvale, farms do sell; one of those families reaches Port in [Three Pots at Three Moon](Three-Pots-at-Three-Moon.md). |
 
 ---
 
@@ -137,18 +154,32 @@ unknowns          how Harveston is governed (town council? estate?) stays vague
 reconsider if     the ending needs Pell to decide; the surplus plot needs price mechanics to make sense
 ```
 
+### Stage 1b — THINK: world-tie pass
+
+**Routed to THINK** by James's direction to tie every story into the domino web (a change of frame, not of execution).
+
+| Assumption | Status | Finding |
+| --- | --- | --- |
+| Nobody buys the grain because prices fell | `ASSUMED` → **extended** | Canon adds the unsafe-grain rumor and merchants delaying purchases ([Current Events](../../Story/Current-Events.md#abundance-crisis)). The rumor now carries most of the weight. |
+| The bumper harvest is just good weather | `ASSUMED` → **extended** | Canon allows "a new strain, unusually good weather, or both." The co-op planted Rosana's seed, which ties her domino in without her appearing. |
+| A feast solves the problem | already **false** (Stage 1) | The patron house's purchase now also pays the farms' seed loans, which is what defeats the land agent. |
+| The Salve house deal is purely good news | `ASSUMED` → **narrowed** | World Rules §12: a cross-border grain deal is exactly what Bahriyya's domino can later use. Recorded as an outward effect, not shown in the story. |
+| The land agent is a villain | `ASSUMED` → **false** | He is polite, patient and legal. Attribution stays `UNKNOWN`. |
+
+World-tie changes to the plan: s2 adds the rumor and the agent's visits; s3 has Idris hear the rumor from his merchants; s7's settlement includes buying the grain to pay the loans; s8 adds the public meal and the agent leaving.
+
 ### Stage 2 — PLAN
 
 | # | Place · clock | What happens | Must establish | Running element |
 | --- | --- | --- | --- | --- |
 | 1 | Grain lanes, quince tree · 10 days out | Carts still coming in. Bettany announces Harvest Home must move, into Crush week. Pell, up his tree, refuses to help. | cause of the collision; two names of the square | gatekeeper's schedule |
-| 2 | Co-op granary · 9 days out | The full granary. Bettany rehearses a surplus accounting that sounds like failure. | the redistribution custom; the surplus shame | granddaughter eating orchard grain |
-| 3 | Salve courtyard · 8 days out | Idris, first year in charge; barrels late from Ironcrest; his mother's shadow. | patron generosity as prestige; the barrels | two names |
+| 2 | Co-op granary · 9 days out | The full granary. Bettany rehearses a surplus accounting that sounds like failure. Merchants cite the unsafe-grain rumor; the land agent is seen at an indebted farm. | the redistribution custom; the surplus shame; the rumor; the agent | granddaughter eating orchard grain |
+| 3 | Salve courtyard · 8 days out | Idris, first year in charge; barrels late from Ironcrest; his mother's shadow. His own merchants repeat the rumor about Vale grain. | patron generosity as prestige; the barrels; the rumor reaches the Sunplains side | two names |
 | 4 | Mill · 7 days out | The miller bills both sides for his patience. On the walk, Pell settles three small disputes without meaning to. | Pell's compulsion; town suspects he's taken the case | Pell arbitrating |
 | 5 | Square · 6 days out | Both sides read the clause aloud in their languages. Pell notices the aspect difference and says nothing yet. | the clause; the ledger nobody reads | two names |
 | 6 | Bake-off · 4 days out | Hand pies versus honey pastries. The granddaughter eats one of each together. | a child already joins what adults keep apart | granddaughter's verdict |
-| 7 | Records room · 3 days out | Pell locks the two chairs in (gently) with the old ledger. They find the single festival and the split, then negotiate the joint festival and the grain plan. | climax: the discovery is theirs | Pell not arbitrating |
-| 8 | Square · festival | Joint festival. Surplus read aloud together. Barrels on day two. "We always eat it like this." Water court at the quince tree. | soft landing | two names, kept |
+| 7 | Records room · 3 days out | Pell locks the two chairs in (gently) with the old ledger. They find the single festival and the split, then negotiate the joint festival and the grain plan: the house buys at a fair price, the farms pay their loans. | climax: the discovery is theirs; the agent's leverage gone | Pell not arbitrating |
+| 8 | Square · festival | Joint festival. Surplus read aloud together, then eaten in public. Barrels on day two. The agent leaves with nothing. "We always eat it like this." Water court at the quince tree. | soft landing; the nail that didn't fall | two names, kept |
 
 **Promise ledger**
 
@@ -161,6 +192,8 @@ reconsider if     the ending needs Pell to decide; the surplus plot needs price 
 | P5 aspect in the clause | s5 | s7 ledger | s7 both readings were half-right | clue | planned |
 | P6 granddaughter eats both | s2, s6 | — | s8 callback line | thematic / comic | planned |
 | P7 quince tree | s1 | — | s8 | soft landing | planned |
+| P8 unsafe-grain rumor | s2 | s3 Idris's merchants | s8 public meal | world thread | planned |
+| P9 the land agent | s2 | s7 loans paid | s8 leaves with lunch | world thread / comic | planned |
 
 Candidate Writing Bible lenses applied, as research and not rules:
 

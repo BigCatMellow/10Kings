@@ -42,11 +42,11 @@ Recurring locations:
 - **The customs chief** — wants no scandal whatsoever.
 - **The repair smith** — maintains the scale, rude, capable, and innocent.
 - **The shrine keeper** — pilgrim host and quiet historian of who went where.
-- **A caravan master** — arrives with the first caravan. Famous for disputing the weight on every scale from here to the lowlands.
+- **Samir Tareh** — a Highridge caravan negotiator who rides with the first caravan of the year. After a season of caravan attacks, merchants follow his advice on which passes are reliable, and he is famous for checking every scale from here to the lowlands.
 
 ## Problem
 
-A public scale that reads wrong makes every toll and sale weighed on it wrong. At Pass Opening the first caravan weighs in publicly, and the town's scale — and its reputation on the route — will either be trusted or become a joke told in every caravan yard on the plateau.
+A public scale that reads wrong makes every toll and sale weighed on it wrong. At Pass Opening the first caravan weighs in publicly, with Samir Tareh deciding which passes to recommend this season. A crooked scale would strike Icestep off his list, and caravans would take another pass.
 
 ## Complications
 
@@ -77,11 +77,11 @@ The thaw uncovers the original counterweight in the melting drift on the morning
 
 ## Climax
 
-Quill corrects the scale publicly as part of the Pass Opening ceremony, with the caravan master watching. Brisa is mortified; she had no idea. Quill has the ledger worked back to the storm night, dated by the shrine log, so he can name what was overcharged: a winter's worth of small household weighings and Tove's salt fish. The town decides — by shouting — to repay it as a free first-caravan supper at the Second Gate. Tove takes her refund in coin and puts it straight back into the supper.
+Quill corrects the scale publicly as part of the Pass Opening ceremony, with Samir Tareh watching. Brisa is mortified; she had no idea. Quill has the ledger worked back to the storm night, dated by the shrine log, so he can name what was overcharged: a winter's worth of small household weighings and Tove's salt fish. The town decides — by shouting — to repay it as a free first-caravan supper at the Second Gate. Tove takes her refund in coin and puts it straight back into the supper.
 
 ## Soft landing
 
-Quill's report reads: *Error inspected and corrected. Cause: weather.* He apologizes to the smith, who is still rude about it. The supper runs late: [Icefire Brined Fish](../../Culture/Recipes/Border-Fusions.md#icefire-brined-fish), [Frost and Spice Fish Cakes](../../Culture/Recipes/Border-Fusions.md#frost-and-spice-fish-cakes), and caravan flatbread. Tove tells the story that night, tagged *I saw it*.
+Quill's report reads: *Error inspected and corrected. Cause: weather.* He apologizes to the smith, who is still rude about it. Samir writes one line in his route book: *Icestep — scale honest, corrected in public.* The supper runs late: [Icefire Brined Fish](../../Culture/Recipes/Border-Fusions.md#icefire-brined-fish), [Frost and Spice Fish Cakes](../../Culture/Recipes/Border-Fusions.md#frost-and-spice-fish-cakes), and caravan flatbread. Tove tells the story that night, tagged *I saw it*.
 
 ## World anchors
 
@@ -90,7 +90,21 @@ Quill's report reads: *Error inspected and corrected. Cause: weather.* He apolog
 - [Trade and Dependencies](../../Economy/Trade-and-Dependencies.md#seasonal-stress) — passes reopen unevenly in spring.
 - [Language and Thought](../../Culture/Language-and-Thought.md) — evidentials, exact quotation, standardized Highridge measures.
 - [Religions](../../Politics/Religions.md#9-the-infinite-compass) — Compass road shrines and hospitality.
-- **Background only:** Highridge caravan attacks ([Current Events](../../Story/Current-Events.md)) can appear as the caravan master's grumbling.
+- [Villain's Dominoes](../../Story/Villains-Dominoes.md#samir-tareh--highridge) — Samir Tareh: route recommendations that can concentrate trade.
+
+## Larger-world thread
+
+Part of [World Threads](../World-Threads.md) — year 2, early spring.
+
+| | |
+| --- | --- |
+| **Current event** | [Caravan attacks](../../Story/Current-Events.md#caravan-attacks) make some routes seem unreliable; trade is redirected, and towns bypassed by new routes suffer at once. |
+| **Domino figure** | [Samir Tareh](../../Story/Villains-Dominoes.md#samir-tareh--highridge), on the page. He wants fair, predictable routes; his domino is that "safe" concentration makes one route vulnerable and impoverishes another. |
+| **The nail** | Samir's season survey. A doubtful scale is exactly the kind of true-but-partial fact that pushes traffic toward fewer passes. |
+| **Independent reasons** | Samir genuinely checks scales; a wrong scale genuinely is a reason to avoid a pass; the town genuinely wants the fault hushed. |
+| **Behind it (out of story)** | The scale fault is weather, not a scheme. The pressure toward concentrated routes is the Villain's pattern, provisionally. Not every nail was placed by someone. |
+| **Local outcome** | Quill chooses a public correction over the chief's quiet fix, and Samir lists Icestep as honest. |
+| **Outward effect** | Traffic stays spread over more than one pass, which blunts the concentration Samir's domino needs. His survey continues through the season; Seven Wells, after [The Goat File](The-Goat-File.md), could be on it. |
 
 ---
 
@@ -150,6 +164,18 @@ reconsider if     readers can solve it by scene 3; the "stone" collision needs h
                   Quill's precision reads as a copy of Tamsin's in Inspected, Not Guaranteed
 ```
 
+### Stage 1b — THINK: world-tie pass
+
+**Routed to THINK** by James's direction to tie every story into the domino web (a change of frame, not of execution).
+
+| Assumption | Status | Finding |
+| --- | --- | --- |
+| The caravan master is just deadline pressure | `ASSUMED` → **replaced** | He becomes Samir Tareh, whose canon role is judging route reliability. The stakes become concrete: the pass stays on the route or not. |
+| The scale fault should be the Villain's doing | `ASSUMED` → **false** | Current Events: some events are ordinary and only exploited. The storm stays weather; only the route pressure belongs to the domino. |
+| Samir can appear without settling his biography | `VERIFIED` by design | He is a provisional domino name; only his canon role is used. |
+
+World-tie changes to the plan: s2 adds news that Samir rides with the first caravan; s8 has him watch the correction; s9 adds his route-book line.
+
 ### Stage 2 — PLAN
 
 Decomposed to scenes only; nothing needs to be broken down further before drafting.
@@ -159,14 +185,14 @@ Decomposed to scenes only; nothing needs to be broken down further before drafti
 | # | Place · clock | What happens | Must establish | Running element |
 | --- | --- | --- | --- | --- |
 | 1 | Public scale · day 1 morning | Pre-season check: the scale reads heavy against Quill's reference set. The chief says "quietly." | fault exists; low winter traffic; the patched roof, glimpsed as texture | Quill quotes the chief back to him |
-| 2 | Second Gate · day 1 evening | Supper with the snowed-in. Meet Brisa and Tove. | Tove's evidential habit; "the night of the big blow" as everyone's date marker | Brisa feeds him; the first evidential tag |
+| 2 | Second Gate · day 1 evening | Supper with the snowed-in. Meet Brisa and Tove. Word that Samir Tareh rides with the first caravan. | Tove's evidential habit; "the night of the big blow" as everyone's date marker; Samir's survey | Brisa feeds him; the first evidential tag |
 | 3 | Customs house · day 1 night | The ledger shows readings jumped mid-winter, but entries are dated only "after the blow." | a jump exists; dating it is now the puzzle (curiosity: something happened in the past) | — |
 | 4 | Repair shop · day 2 morning | Quill suspects the smith, who has maintenance access. The smith's own weights check out. Quill is thrown out. | red herring cleared; Quill's bias shown | Quill quotes the smith, badly timed |
 | 5 | Compass shrine · day 2 afternoon | The pilgrim log dates the storm night. Tove clarifies she was *told*, not that she *saw*, that someone was on the Second Gate roof that night. | the date; the told-versus-saw distinction matters | evidential tag becomes a clue |
 | 6 | Second Gate · day 2 night | News: the pass opens a day early. Quill re-weighs his own set and doubts himself. A quiet talk with Brisa about honesty and kindness. | deadline tightened; Quill starting to look at people | Brisa feeds him (tender, not comic) |
 | 7 | Drifts under the eaves · day 3 dawn | The thaw uncovers the original counterweight. Quill reads the net-stone's Northwind "one stone" mark. | solution: substitute weight, one word for two masses | "the big blow," finally dated and explained |
-| 8 | Public scale · Pass Opening | Public correction in front of the caravan master. Brisa is mortified. The refund is argued by shouting, then settled as the supper. | honesty with kindness; town convergence | Quill quotes Brisa's kindest line back to her, well timed this time |
-| 9 | Second Gate · that night | Supper. Report line: *Cause: weather.* Apology to the smith. Tove tells the story. | soft landing | *I saw it*, the callback now carrying the whole story |
+| 8 | Public scale · Pass Opening | Public correction in front of Samir Tareh. Brisa is mortified. The refund is argued by shouting, then settled as the supper. | honesty with kindness; town convergence | Quill quotes Brisa's kindest line back to her, well timed this time |
+| 9 | Second Gate · that night | Supper. Report line: *Cause: weather.* Apology to the smith. Samir's route-book line. Tove tells the story. | soft landing | *I saw it*, the callback now carrying the whole story |
 
 **Promise ledger**
 
@@ -178,6 +204,7 @@ Decomposed to scenes only; nothing needs to be broken down further before drafti
 | P4 Quill quoting people | s1 | s4 misfire | s8 well-timed quote | character | planned |
 | P5 Brisa feeding him | s2 | s6 tender version | s9 supper as refund | relationship | planned |
 | P6 the smith suspected | s4 | — | s9 apology | relationship | planned |
+| P7 Samir's survey | s2 | s8 watches | s9 route-book line | world thread | planned |
 
 Candidate Writing Bible lenses applied, as research and not rules:
 

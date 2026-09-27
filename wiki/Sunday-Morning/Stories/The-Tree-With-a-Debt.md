@@ -20,7 +20,7 @@ A Deepwood forest warden and a Highridge route surveyor are ordered to route the
 
 - **Good at:** reading ground, water and animal sign; knowing what a place is doing.
 - **Small flaw:** treats every outsider's question as a threat until proven otherwise.
-- **Why she resists:** a path near that tree is exactly the kind of thing wardens exist to stop.
+- **Why she resists:** a path near that tree is exactly the kind of thing wardens exist to stop, and her senior warden has told every warden to block every new path this summer.
 
 **Ismet Carrow** — Highridge route surveyor.
 
@@ -45,7 +45,8 @@ Recurring locations:
 
 - **Contract** — a mule who refuses the surveyed line every time.
 - **The market master** — needs the path open before the herb fair.
-- **Hollis Varne** — the lender's grandson, who arrives from the plateau expecting sixty years of interest.
+- **Hollis Varne** — the lender's grandson. An unnamed buyer has offered him good money for his family's old Twilighthollow pledge, so he arrives from the plateau to find out what it is worth, expecting sixty years of interest.
+- **Naruin Mossglade** — Sessa's senior warden, mostly offstage. Leaked plans for a large road through the district have convinced him every small path is the first step of it.
 - **A Weaver-path elder** — documenting everything for the community record, including things nobody asked to have recorded. See [Path of the Great Weaver](../../Politics/Religions.md#2-path-of-the-great-weaver).
 - **Pip** — a child who climbs the tree daily and knows where every root surfaces.
 
@@ -57,9 +58,10 @@ In Sessa's language the tree belongs to the grammatical class of living particip
 
 1. Canopy Vigil halts all work: the two of them are obliged to sit together and simply observe the tree for a day, while the Highridge half of town debates at full volume across the square.
 2. They disagree on what the tree *is*, then on what a path *is*, then on what "around" means.
-3. Hollis arrives expecting payment with sixty years of interest; the town panics.
-4. The herb fair deadline moves closer.
-5. Contract still refuses the surveyed line.
+3. Hollis arrives expecting payment with sixty years of interest, with a buyer's offer in his pocket; the town panics.
+4. Naruin's order stands: wardens block new paths. Sessa is negotiating one anyway.
+5. The herb fair deadline moves closer.
+6. Contract still refuses the surveyed line.
 
 ## Running elements
 
@@ -75,11 +77,11 @@ Two professional vocabularies turn out to describe the same care. The border spe
 
 ## Climax
 
-Ismet reads the old pledge in the Highridge trade register it was written in, and Sessa hears what he doesn't: the tree was pledged "for as long as it stands." The debt only falls due if the tree falls. For sixty years the lender's family has held a legal interest in the tree *staying up*, the same interest the wardens have. The Highridge contract has been protecting the tree all along. The path follows Contract's line, which runs along the edge of the root zone Pip has been climbing over for years. The town pays the small original principal as a gift, and Hollis agrees to renew the pledge as a guardianship rather than collect.
+Ismet reads the old pledge in the Highridge trade register it was written in, and Sessa hears what he doesn't: the tree was pledged "for as long as it stands." The debt only falls due if the tree falls. For sixty years the lender's family has held a legal interest in the tree *staying up*, the same interest the wardens have. The Highridge contract has been protecting the tree all along. The path follows Contract's line, which runs along the edge of the root zone Pip has been climbing over for years. The clause also shows what the unnamed buyer was after: whoever holds the pledge profits only if the tree falls, and a road would fell it. Hollis tears up the offer. The town pays the small original principal as a gift, and Hollis renews the pledge as a guardianship rather than sell it.
 
 ## Soft landing
 
-The tree ends up with a name in both languages and a clean ledger. The herb fair opens on time. Sessa and Ismet co-sign the survey in a hybrid register neither of their guilds would accept alone; it carries exactly one footnote, and it credits her. Hollis decides to stay and open a tea stall by the new path, which is the next small problem.
+The tree ends up with a name in both languages and a clean ledger. The herb fair opens on time. Sessa and Ismet co-sign the survey in a hybrid register neither of their guilds would accept alone; it carries exactly one footnote, and it credits her. Sessa sends a copy of the survey to Naruin with no covering note. Hollis decides to stay and open a tea stall by the new path, which is the next small problem.
 
 ## World anchors
 
@@ -88,7 +90,22 @@ The tree ends up with a name in both languages and a clean ledger. The herb fair
 - [Highridge Plateau](../../Regions/Highridge-Plateau.md) and [Trade and Dependencies](../../Economy/Trade-and-Dependencies.md) — Highridge credit, records and arbitration.
 - [Language and Thought](../../Culture/Language-and-Thought.md) — Deepwood animacy; Highridge obligation and conditionals.
 - [Festivals and Seasonal Life](../../Culture/Festivals-and-Seasonal-Life.md) — Canopy Vigil and Midsummer Debates, both midsummer.
-- **Background only:** Deepwood logging and road conflict ([Current Events](../../Story/Current-Events.md#logging-and-road-conflict)) — this story is one footpath, never a sovereignty crisis.
+- [Villain's Dominoes](../../Story/Villains-Dominoes.md#naruin-mossglade--deepwood) — Naruin Mossglade: leaked expansion plans and preemptive defense.
+- [Economic Council](../../Politics/Economic-Council.md#4-infrastructure) — the Works seat's interest in roads and rights of way.
+
+## Larger-world thread
+
+Part of [World Threads](../World-Threads.md) — year 2, midsummer.
+
+| | |
+| --- | --- |
+| **Current event** | [Logging and road conflict](../../Story/Current-Events.md#logging-and-road-conflict): new infrastructure proposals cross disputed local boundaries, some legal under old treaties. |
+| **Domino figure** | [Naruin Mossglade](../../Story/Villains-Dominoes.md#naruin-mossglade--deepwood), Sessa's senior warden, mostly offstage. His domino: leaked plans without context push him toward preemptive defense, and a local conservation dispute grows into a sovereignty crisis. |
+| **The nail** | An unnamed buyer's offer for the old pledge. Because of the "for as long as it stands" clause, the buyer would profit if the tree fell. |
+| **Independent reasons** | Speculators do buy rights along planned roads; Hollis's family does need money; Naruin's plans are real, just stripped of context. |
+| **Behind it (out of story)** | Buyer: `UNKNOWN`, possibly a Council infrastructure interest assembling a right of way. The leaks feeding Naruin fit the Villain's method; both provisional. |
+| **Local outcome** | Hollis renews the pledge as a guardianship instead of selling, and the path is negotiated rather than blocked. |
+| **Outward effect** | Naruin receives a working counterexample: a path agreed in both vocabularies and a Highridge family pledged to protect a Deepwood tree. It is exactly the kind of direct contact between groups that [Wurdren's effect](../../Story/Villains-Dominoes.md#wurdrens-effect) describes — here made by ordinary people. |
 
 ---
 
@@ -144,18 +161,31 @@ unknowns          who governs Twilighthollow's works permits stays vague
 reconsider if     the clause twist needs a long explanation; the romance needs a declaration to land
 ```
 
+### Stage 1b — THINK: world-tie pass
+
+**Routed to THINK** by James's direction to tie every story into the domino web (a change of frame, not of execution).
+
+| Assumption | Status | Finding |
+| --- | --- | --- |
+| Hollis turns up because a letter reached him | `ASSUMED` → **replaced** | A buyer's offer brings him, which ties the story to the road conflict and gives the clause a second edge. |
+| The clause only protects the tree | `ASSUMED` → **false** | Counterexample: whoever holds it profits if the tree falls. That is what the buyer wanted, and what makes Hollis's choice real. |
+| Naruin must appear on the page | `ASSUMED` → **narrowed** | Offstage, through his order and the survey Sessa sends him; his story belongs to the main saga. |
+| The buyer can be named | `ASSUMED` → **false** | Naming him would expose the pattern inside the story. Attribution stays out of story and `UNKNOWN`. |
+
+World-tie changes to the plan: s1 adds Naruin's order; s5 adds the buyer's offer; s7 adds the clause's second edge and the torn offer; s8 adds the survey sent to Naruin.
+
 ### Stage 2 — PLAN
 
 | # | Place · clock | What happens | Must establish | Running element |
 | --- | --- | --- | --- | --- |
-| 1 | The tree · 9 days out | The market master pairs them. First disagreement: "Lot 14" versus a name in the animate class. | two vocabularies; the fair deadline | Ismet's footnotes |
+| 1 | The tree · 9 days out | The market master pairs them. First disagreement: "Lot 14" versus a name in the animate class. Sessa mentions Naruin's order to block new paths. | two vocabularies; the fair deadline; Naruin's order | Ismet's footnotes |
 | 2 | Survey line · 8 days out | Stakes go in; Contract refuses the line. Sessa has four words for "old." | Contract's refusal; Sessa's precision | Contract |
 | 3 | Records office · 7 days out | Ismet finds the lien: no works on pledged collateral without consent. A letter goes to the lender's family. | the lien; the consent rule | footnotes |
 | 4 | Vigil grounds · Canopy Vigil | Forced stillness together. Debates audible. Pip in the tree; roots pointed out. | Pip knows the roots; the first quiet between them | debates over the vigil |
-| 5 | Market square · Midsummer Debates | Hollis arrives expecting sixty years of interest; town panic; the Weaver elder writes it all down. | stakes; Hollis's expectation | Weaver elder |
+| 5 | Market square · Midsummer Debates | Hollis arrives expecting sixty years of interest, with a buyer's offer; town panic; the Weaver elder writes it all down. | stakes; Hollis's expectation; the offer | Weaver elder |
 | 6 | Tree, night · debates night | Separately, each rereads what they know; they meet at the tree and compare. Sessa hears "for as long as it stands." | clause discovered through both vocabularies | Sessa's words for old |
-| 7 | Records office · 2 days out | The clause read to Hollis. The path follows Contract's line along Pip's roots. Pledge renewed as guardianship. | resolution | Contract vindicated |
-| 8 | New path · herb fair | Fair opens. Two names. Co-signed survey with one footnote. Hollis's tea stall. | soft landing | footnote pays off |
+| 7 | Records office · 2 days out | The clause read to Hollis, and what the buyer wanted becomes plain. He tears up the offer. The path follows Contract's line along Pip's roots. Pledge renewed as guardianship. | resolution; the nail that didn't fall | Contract vindicated |
+| 8 | New path · herb fair | Fair opens. Two names. Co-signed survey with one footnote; a copy goes to Naruin. Hollis's tea stall. | soft landing; outward effect | footnote pays off |
 
 **Promise ledger**
 
@@ -167,6 +197,8 @@ reconsider if     the clause twist needs a long explanation; the romance needs a
 | P4 Pip and the roots | s4 | — | s7 route | clue | planned |
 | P5 debates over the vigil | s4 | s5 | — (texture only) | world | planned |
 | P6 Ismet's footnotes | s1 | — | s8 the one footnote credits her | character / romance | planned |
+| P7 the buyer's offer | s5 | s6 clause | s7 torn up | world thread | planned |
+| P8 Naruin's order | s1 | — | s8 survey sent to him | world thread | planned |
 
 Candidate Writing Bible lenses applied, as research and not rules:
 
