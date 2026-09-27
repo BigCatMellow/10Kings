@@ -254,7 +254,46 @@ Current next step:
 
 ---
 
-# 8. Supporting design / safeguards
+# 8. Movement III prose baselines — first half
+
+- [Movement III — Sequence 13 The Price of a Good Solution Test V1](Movement-III-Sequence-13-Price-Good-Solution-Test-V1.md)
+- [Movement III — Sequence 13 Price of a Good Solution Challenge V1](Movement-III-Sequence-13-Price-Good-Solution-Challenge-V1.md)
+- [Movement III — Sequence 13 The Price of a Good Solution Test V2](Movement-III-Sequence-13-Price-Good-Solution-Test-V2.md)
+  - Longwood compromise produces real downstream traffic / delay costs;
+  - Wurdren accepts partial consequence without renouncing the original compromise;
+  - route inspection remains defensible.
+
+- [Movement III — Sequence 14 Priority Test V1](Movement-III-Sequence-14-Priority-Test-V1.md)
+- [Movement III — Sequence 14 Priority Challenge V1](Movement-III-Sequence-14-Priority-Challenge-V1.md)
+- [Movement III — Sequence 14 Priority Test V2](Movement-III-Sequence-14-Priority-Test-V2.md)
+  - Stone Hills priority allocation becomes a labor / secrecy / safety question;
+  - workers and owners remain internally divided;
+  - a temporary local review package nearly contains the dispute.
+
+- [Movement III — Sequence 15 Truth at the Worst Time Test V1](Movement-III-Sequence-15-Truth-Worst-Time-Test-V1.md)
+- [Movement III — Sequence 15 Truth at the Worst Time Challenge V1](Movement-III-Sequence-15-Truth-Worst-Time-Challenge-V1.md)
+- [Movement III — Sequence 15 Truth at the Worst Time Test V2](Movement-III-Sequence-15-Truth-Worst-Time-Test-V2.md)
+  - bounded Villain intervention through true information + timing;
+  - guild-federalist ally independently verifies and chooses disclosure;
+  - disclosure has professional / confidentiality cost;
+  - Stone Hills is pushed toward clearer priority rules.
+
+- [Movement III — Sequence 16 Security Rules Test V1](Movement-III-Sequence-16-Security-Rules-Test-V1.md)
+- [Movement III — Sequence 16 Security Rules Challenge V1](Movement-III-Sequence-16-Security-Rules-Challenge-V1.md)
+- [Movement III — Sequence 16 Security Rules Test V2](Movement-III-Sequence-16-Security-Rules-Test-V2.md)
+  - High Roads corridor practices formalize over several weeks;
+  - safety genuinely improves;
+  - routine records now expose traffic / guard / escort capability.
+
+**Movement III first-half milestone:** Sequences 13–16 now establish protection becoming legible capability without anyone announcing mobilization.
+
+Current next step:
+
+> **Sequence 17 — The hidden coordinators: first meaningful Council-side POV comparing food, routes, metal, credit, and reserve behavior while disagreeing over transparency and intervention.**
+
+---
+
+# 9. Supporting design / safeguards
 
 - [Domino Design Evolution and Lessons](Domino-Design-Evolution-and-Lessons.md)
 - [Conspiracy Capability Ledger — V2](Conspiracy-Capability-Ledger-V2.md)
@@ -266,7 +305,7 @@ Current next step:
 
 ---
 
-# 9. Current thematic statements
+# 10. Current thematic statements
 
 ## Story-level declarative thesis
 
@@ -290,7 +329,7 @@ Shared bridge:
 
 ---
 
-# 10. Current ending direction
+# 11. Current ending direction
 
 Working structural ending:
 
@@ -315,7 +354,7 @@ The later world:
 
 ---
 
-# 11. Continuity rule
+# 12. Continuity rule
 
 Future story work should normally begin here, then route to the narrowest owner / reference page needed.
 
