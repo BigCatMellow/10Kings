@@ -12,18 +12,19 @@ A Sunday Morning Story is a character-driven, human-scale story with a clear pre
 
 1. [Sunday Morning Story Writing Framework](Framework.md) — the imported framework, setting-agnostic.
 2. [Applying the Framework to Two Sons](Applying-to-Two-Sons.md) — how the framework maps onto this setting, what stays in the background, and the extra checklist.
+3. [Story Pipeline](Story-Pipeline.md) — how to develop a story from concept to reviewed draft using MAPS_L with THINK and PLAN, and what the development levels L0–L4 mean.
 
 ## Stories
 
-| Story | Setting | Clock | Mode |
-| --- | --- | --- | --- |
-| [Inspected, Not Guaranteed](Stories/Inspected-Not-Guaranteed.md) | Stonefield Forge (Ironcrest / Greenvale) | Forge Reawakening, early spring | character / competition — features Wurdren |
-| [One Square, Two Harvests](Stories/One-Square-Two-Harvests.md) | Harveston Vale (Greenvale / Sunplains) | Harvest Home + Wine Crush, early autumn | community / competition |
-| [The Heavy Scale at Icestep Summit](Stories/The-Heavy-Scale.md) | Icestep Summit (Northwind / Highridge) | Pass Opening + Ice Breaking, early spring | mystery |
-| [Three Pots at Three Moon](Stories/Three-Pots-at-Three-Moon.md) | a Port neighborhood | Three Moon Festival, early autumn | family / food |
-| [The Tree With a Debt](Stories/The-Tree-With-a-Debt.md) | Twilighthollow (Deepwood / Highridge) | Canopy Vigil + Midsummer Debates | romance |
-| [The Greenvale Man](Stories/The-Greenvale-Man.md) | Kettle Cove, Northwind (provisional) | Last Sail, late autumn | competition / belonging |
-| [The Goat File](Stories/The-Goat-File.md) | Seven Wells, Highridge (provisional) | Ledger Closing, late autumn | comedy / mystery |
+| Story | Setting | Clock | Mode | Level |
+| --- | --- | --- | --- | --- |
+| [Inspected, Not Guaranteed](Stories/Inspected-Not-Guaranteed.md) | Stonefield Forge (Ironcrest / Greenvale) | Forge Reawakening, early spring | character / competition — features Wurdren | L0 Concept |
+| [One Square, Two Harvests](Stories/One-Square-Two-Harvests.md) | Harveston Vale (Greenvale / Sunplains) | Harvest Home + Wine Crush, early autumn | community / competition | L0 Concept |
+| [The Heavy Scale at Icestep Summit](Stories/The-Heavy-Scale.md) | Icestep Summit (Northwind / Highridge) | Pass Opening + Ice Breaking, early spring | mystery | L2 Outlined — pipeline pilot |
+| [Three Pots at Three Moon](Stories/Three-Pots-at-Three-Moon.md) | a Port neighborhood | Three Moon Festival, early autumn | family / food | L0 Concept |
+| [The Tree With a Debt](Stories/The-Tree-With-a-Debt.md) | Twilighthollow (Deepwood / Highridge) | Canopy Vigil + Midsummer Debates | romance | L0 Concept |
+| [The Greenvale Man](Stories/The-Greenvale-Man.md) | Kettle Cove, Northwind (provisional) | Last Sail, late autumn | competition / belonging | L0 Concept |
+| [The Goat File](Stories/The-Goat-File.md) | Seven Wells, Highridge (provisional) | Ledger Closing, late autumn | comedy / mystery | L0 Concept |
 
 Undeveloped premises: [Story Seeds](Stories/Story-Seeds.md).
 
@@ -40,7 +41,7 @@ Undeveloped premises: [Story Seeds](Stories/Story-Seeds.md).
 2. Fill in the framework's [writing template](Framework.md#23-writing-prompt-template).
 3. Run the framework [checklist](Framework.md#20-the-sunday-morning-story-checklist) and the [Two Sons addendum](Applying-to-Two-Sons.md#checklist-addendum).
 4. Create a page in `Stories/` using the existing pages' section order: Status, Premise, Protagonist, Place, Cast, Problem, Complications, Running elements, Emotional core, Climax, Soft landing, World anchors.
-5. Add it to the table above.
+5. Add it to the table above at **L0**, then develop it through the [Story Pipeline](Story-Pipeline.md), updating its level as it moves.
 
 ## Provenance
 

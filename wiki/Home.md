@@ -77,6 +77,7 @@ Small, human-scale stories set in the world's border towns, festivals and neighb
 - [Sunday Morning Stories](Sunday-Morning/README.md) — folder index and story list
 - [Sunday Morning Story Writing Framework](Sunday-Morning/Framework.md)
 - [Applying the Framework to Two Sons](Sunday-Morning/Applying-to-Two-Sons.md)
+- [Story Pipeline](Sunday-Morning/Story-Pipeline.md) — developing a story with MAPS_L, THINK and PLAN
 
 ## Writing and provenance
 

@@ -175,6 +175,7 @@ Use this instead of reopening the large compendia for normal work.
 | How does food change through migration? | [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md) |
 | How do I make a scene feel like the world existed yesterday? | [Worldbuilding Breath](Worldbuilding-Breath.md) |
 | How do I write a small, low-stakes story in this world? | [Sunday Morning Stories](../Sunday-Morning/README.md) |
+| How do I develop a story from concept to draft? | [Story Pipeline](../Sunday-Morning/Story-Pipeline.md) |
 | Is an older fixed claim still canon? | Find the current owner page; if unresolved, [Open Questions](../Open-Questions.md) wins over legacy certainty |
 
 ## Known unresolved areas exposed by the import
@@ -254,3 +255,26 @@ Reconciliation notes:
 - Newly invented names — Kettle Cove, Narrow Sound, Seven Wells, and all characters, businesses and customs in the stories — are **provisional** and are not added to [Border Towns](../Places/Border-Towns.md), [Character Roster](../Story/Character-Roster.md) or other owners.
 - "Inspected, Not Guaranteed" features Wurdren but deliberately leaves his age, biography and starting point open, per [Open Questions](../Open-Questions.md).
 - "One Square, Two Harvests" uses a post-Convergence festival split as a story device consistent with [The Convergence](../History/The-Convergence.md#cultural-effect); it is not settled chronology for Harveston Vale.
+
+
+### 11. 2026-09-27 MAPS_L / THINK / PLAN / Writing Bible review for story development
+
+**Reviewed sources** (read-only; nothing was changed in them):
+
+| Source | Revision |
+| --- | --- |
+| [`BigCatMellow/MAPS_Lean`](https://github.com/BigCatMellow/MAPS_Lean) `main` — `AGENTS.md`, `README.md`, `docs/wiki/What-MAPS_L-Is.md`, `playbook/INDEX.md`, `PROJECT_BOOTSTRAP.md`, `INFORMATION_LIFECYCLE.md`, `SPIDERWEB_AUDIT.md`, plus the openings of `REQUEST_COMPILATION`, `AGI_STANDARD`, `TASK_LIFECYCLE`, `ROADMAP_TRAJECTORY_CHECK`, `TENTH_SEAT_REVIEW`, `EMERGENCE` | `08cd0e8` |
+| [`BigCatMellow/Pilot_Projects`](https://github.com/BigCatMellow/Pilot_Projects) `main` — root README, `PORTFOLIO.md`, `project-control/` THINK / PLAN / Writing Bible cards, `THINK_PROJECT.md`, THINK roadmaps 03 and `think/01–03`, wave-1 method cards, PLAN roadmaps 05 and `plan/README.md`, `MAPSL_PLAN_BASELINE.md`, `SYSTEM_MAP.md` | `306b14d` |
+| Pilot_Projects branch `writing-bible-bootstrap` — `writing-bible/README.md`, `ROADMAP.md`, roadmap approval, and five research files (humor repetition and callbacks; narrative promises; reader memory; culture, status and expertise; revision and criticism) | `7c27621` |
+
+Disposition: **adapted as non-canon writing method** in [Story Pipeline](../Sunday-Morning/Story-Pipeline.md).
+
+Classification: **compatible**. The sources govern how work is done, not facts about Two Sons, so no owner page changed.
+
+Reconciliation notes:
+
+- Only methods were borrowed: DONE-first levels, the THINK fixed-four structured pass with reasoning allocation, PLAN's decompose-on-need and DO / PLAN / THINK / authority routing, independent review, and information-lifecycle reconciliation. Research instruments (preregistration, frozen benchmarks, blinded evaluators, experiment series, relays) were deliberately **not** adopted.
+- Source maturity is recorded on the pipeline page rather than upgraded: THINK is parked research; PLAN has no mechanism results; the Writing Bible is an unmerged branch with zero promoted rules. Writing Bible material is used only as labeled candidate lenses.
+- Using these methods here is not evidence about THINK or PLAN and should not be cited as such.
+- Pilot application: [The Heavy Scale at Icestep Summit](../Sunday-Morning/Stories/The-Heavy-Scale.md) moved from L0 to L2. Its THINK pass corrected four premise problems (winter traffic, the weight physics, the caravan master as victim, the confession). The L0 version is preserved in git history at `3427bdd`.
+

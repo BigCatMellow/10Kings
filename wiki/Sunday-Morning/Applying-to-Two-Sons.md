@@ -151,6 +151,7 @@ If a detail should graduate, promote it into its owner page (for example [Border
 
 - [Sunday Morning Stories](README.md)
 - [Sunday Morning Story Writing Framework](Framework.md)
+- [Story Pipeline](Story-Pipeline.md) — developing a story from concept to reviewed draft
 - [Worldbuilding Breath](../Reference/Worldbuilding-Breath.md)
 - [World Rules](../World-Rules.md)
 - [Wurdren](../Story/Wurdren.md)

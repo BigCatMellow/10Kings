@@ -59,6 +59,7 @@
 - [Index](Sunday-Morning/README.md)
 - [Framework](Sunday-Morning/Framework.md)
 - [Applying to Two Sons](Sunday-Morning/Applying-to-Two-Sons.md)
+- [Story Pipeline](Sunday-Morning/Story-Pipeline.md)
 - [Story Seeds](Sunday-Morning/Stories/Story-Seeds.md)
 
 **Reference**
