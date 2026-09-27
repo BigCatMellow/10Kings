@@ -139,6 +139,36 @@ This reinforces the regional rule:
 
 > water creates different communities even inside the same agricultural heartland.
 
+### Estate / tenant districts
+
+Focused Wave 3 work supports **estate / tenant districts** as another valid Low Rivers community type.
+
+See:
+
+- [Community Analogue Research — Wave 3](../Reference/Community-Analogue-Research-Wave-3.md);
+- [Community Profiles — P1 Wave 2](../Reference/Community-Profiles-P1-Wave-2.md);
+- [Community Spiderweb Test — P1 Wave 2](../Reference/Community-Spiderweb-Test-P1-Wave-2.md).
+
+An estate can structure ordinary life through:
+
+- leases;
+- crop-share / rent arrangements;
+- seed / grain / equipment advances;
+- storage;
+- employment;
+- private roads / facilities;
+- estate records / agents
+
+without becoming politically sovereign.
+
+Different estates should use different contracts.
+
+The important cultural consequence is that:
+
+> **land contracts can shape household strategy, debt, migration and who remains under one roof.**
+
+This is one valid estate form, not the universal Low Rivers model.
+
 ## Food
 
 Low Rivers has the broadest everyday food base.
