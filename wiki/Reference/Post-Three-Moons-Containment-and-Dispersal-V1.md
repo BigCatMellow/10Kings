@@ -23,6 +23,27 @@ It should be read with:
 
 ---
 
+## Current prose implementation — Sequences 7–10
+
+The first half of this movement now has bounded-correction prose baselines:
+
+- [Sequence 7 — Dispersal Test V2](Movement-II-Sequence-7-Dispersal-Test-V2.md);
+- [Sequence 8 — Convoy Compromise Test V2](Movement-II-Sequence-8-Convoy-Compromise-Test-V2.md);
+- [Sequence 9 — Longwood Return Test V2](Movement-II-Sequence-9-Longwood-Return-Test-V2.md);
+- [Sequence 10 — Counter-Domino Works Test V2](Movement-II-Sequence-10-Counter-Domino-Test-V2.md).
+
+These tests currently support:
+
+- Three Moons dispersal producing durable outward records / procedures;
+- a genuine maritime containment success;
+- Longwood local complexity surviving contact with Port paperwork;
+- a costly but workable local road / rights compromise;
+- the Longwood escalation branch dying rather than being secretly rerouted.
+
+The Longwood compromise remains **author-side story architecture**, not general Longwood law.
+
+---
+
 # 1. Movement objective
 
 The movement must prove four things.
