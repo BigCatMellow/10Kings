@@ -55,6 +55,39 @@ The next required epistemic turn is Council-side:
 
 ---
 
+## Movement III completion status
+
+The full first-pass movement now has bounded-correction baselines through Sequence 19:
+
+- [Sequence 13 — Price of a Good Solution Test V2](Movement-III-Sequence-13-Price-Good-Solution-Test-V2.md);
+- [Sequence 14 — Priority Test V2](Movement-III-Sequence-14-Priority-Test-V2.md);
+- [Sequence 15 — Truth at the Worst Time Test V2](Movement-III-Sequence-15-Truth-Worst-Time-Test-V2.md);
+- [Sequence 16 — Security Rules Test V2](Movement-III-Sequence-16-Security-Rules-Test-V2.md);
+- [Sequence 17 — Hidden Coordinators Test V2](Movement-III-Sequence-17-Hidden-Coordinators-Test-V2.md);
+- [Sequence 18 — Guarantees Become Identities Test V2](Movement-III-Sequence-18-Guarantees-Identities-Test-V2.md);
+- [Sequence 19 — Cost of Waiting Test V2](Movement-III-Sequence-19-Cost-Waiting-Test-V2.md).
+
+The movement now ends in the required war-permissive but still contingent state:
+
+~~~text
+successful protection
+→ durable records / procedures
+→ capability becomes legible
+→ overlapping counterparties
+→ commercial dependence gains political meaning
+→ precaution before certainty
+→ reciprocal observation
+→ security dilemma self-moves
+~~~
+
+Important:
+
+> **no actor has yet chosen general war, and several actors have explicitly rejected the easiest hostile interpretations.**
+
+Movement IV must therefore make war emerge from a small rule collision plus failed containment—not from a sudden change in everyone's motives.
+
+---
+
 # 1. Constraint — sphere sorting is not two clean alliances
 
 The current sphere research supports:
