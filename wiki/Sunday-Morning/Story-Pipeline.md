@@ -51,7 +51,7 @@ MAPS_L requires DONE to be defined before work starts. A story's target level is
 | **L3 Drafted** | Full prose draft exists | a separate draft file linked from the story page |
 | **L4 Reviewed** | Independent review done and findings reconciled; James has read it | story page + review notes |
 
-All seven stories started at L0.
+All seven stories started at L0 and were taken to L2 on 2026-09-27.
 
 ---
 
@@ -186,4 +186,16 @@ Follow MAPS_L's [Information Lifecycle](https://github.com/BigCatMellow/MAPS_Lea
 
 ## Worked example
 
-[The Heavy Scale at Icestep Summit](Stories/The-Heavy-Scale.md) went through Stages 1–2 as the pilot of this pipeline and is now at **L2 Outlined**. Its Development record shows what a THINK pass and a scene plan look like in practice, including four premise corrections the THINK pass found.
+[The Heavy Scale at Icestep Summit](Stories/The-Heavy-Scale.md) went through Stages 1–2 first, as the pilot, and its Development record shows what a THINK pass and a scene plan look like in practice. The other six followed the same day. Every THINK pass changed at least one load-bearing premise:
+
+| Story | What the THINK pass changed |
+| --- | --- |
+| [Inspected, Not Guaranteed](Stories/Inspected-Not-Guaranteed.md) | a re-hilt needs no fire, so the wait became a cracked tang; the dispute became quench water, which Col's work can answer; Wurdren asks a question instead of winning an argument |
+| [One Square, Two Harvests](Stories/One-Square-Two-Harvests.md) | festivals follow crops, so the bumper harvest causes the collision; a feast can't eat a granary, so patronage plus redistribution does; Pell makes the sides settle instead of ruling |
+| [The Heavy Scale](Stories/The-Heavy-Scale.md) | winter traffic, weight physics, the caravan master as victim, the confession |
+| [Three Pots at Three Moon](Stories/Three-Pots-at-Three-Moon.md) | the grandmother isn't testing anyone; the ritual belongs to one family, not all of Deepwood; Jory holds the missing fragment |
+| [The Tree With a Debt](Stories/The-Tree-With-a-Debt.md) | sixty years of interest can't be paid, so the pledge's own wording ("for as long as it stands") resolves it |
+| [The Greenvale Man](Stories/The-Greenvale-Man.md) | a cooper can't build a boat in weeks but can steam a plank; the elder's "we" must follow something he witnessed |
+| [The Goat File](Stories/The-Goat-File.md) | terms in the hall's own file would have been found; they now sit in a sealed archive deposit nobody asked for |
+
+None of the stories needed branching or a second route; every pass stayed a single path, consistent with THINK's own finding.

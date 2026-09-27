@@ -6,6 +6,8 @@
 
 When a seed is developed, give it its own page in this folder and list it in the [folder index](../README.md).
 
+All four seeds are `PARKED`: interesting, not yet given resources. Status labels follow the [Story Pipeline](../Story-Pipeline.md#stage-5--reconcile-keep-the-records-honest).
+
 ## Seeds
 
 ### The Mushrooms From Nowhere

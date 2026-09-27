@@ -4,9 +4,11 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, place names within the town and plot details are new and non-canon. The historical explanation for the festival split is a story device, not settled chronology.
 
+**Development level: L2 Outlined** — developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+
 ## Premise
 
-An upstream irrigation league shifts its canal-gate schedule, and Harveston Vale's two harvest festivals land on the same weekend. The town square holds one festival. Everyone asks the retired water-arbiter to decide — and he insists, loudly and repeatedly, that he is retired.
+The grain harvest is so large this year that it takes an extra week to bring in, and Harvest Home lands on the Wine Crush's weekend. The town square holds one festival. Everyone asks the retired water-arbiter to decide, and he insists, loudly and repeatedly, that he is retired.
 
 **Setting:** [Harveston Vale](../../Places/Border-Towns.md#harveston-vale--greenvale--sunplains) (Greenvale / Sunplains)
 **Clock:** [Harvest Home and Wine Crush](../../Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar), early autumn
@@ -16,7 +18,7 @@ An upstream irrigation league shifts its canal-gate schedule, and Harveston Vale
 
 **Pell Anwick** — forty years on the water court deciding upstream/downstream disputes.
 
-- **Good at:** hearing both sides out until each is embarrassed by its own position.
+- **Good at:** getting two sides to settle, which he knows is better than any ruling.
 - **Small flaw:** cannot stop arbitrating — who sits where, whose dog it is, how to cut a pie.
 - **Why he resists:** he promised his daughter he was done, and he has a quince tree that finally needs him.
 
@@ -28,30 +30,30 @@ Recurring locations:
 
 1. **The square** — the Commons to one side of town, the Press Yard to the other.
 2. **The mill on the canal** — its wheel sits exactly between both festivals' interests.
-3. **The co-op granary** — full this year, which is the problem.
+3. **The co-op granary** — full to the rafters, which is the problem.
 4. **The Salve house courtyard** — shaded, tiled, built to be seen in.
-5. **The gatekeeper's hut** — where the schedule lives.
-6. **The town records room** — dust, two languages, one missing ledger.
+5. **The town records room** — dust, two languages, one ledger nobody has read in living memory.
+6. **Pell's quince tree** — where he would rather be.
 
 ## Cast
 
 - **Bettany Corlew** — Harvest Home committee chair. Her pride is the public accounting of surplus, and this year the surplus is humiliating because nobody will buy grain.
-- **Idris Salve** — young heir of a patron house, determined to outdo last year's Crush in proper civic-generosity style.
+- **Idris Salve** — young heir of a patron house, running the Crush for the first time and terrified of doing it smaller than his mother did.
 - **The miller** — caught between both sides and billing both for his patience.
 - **The canal gatekeeper** — painfully literal. Recites the schedule when nervous.
-- **Pell's granddaughter** — finds the whole dispute absurd and eats [Sunlit Orchard Grain](../../Culture/Recipes/Border-Fusions.md#sunlit-orchard-grain) every day without thinking of it as a "fusion" anything.
+- **Pell's granddaughter** — finds the dispute absurd and eats [Sunlit Orchard Grain](../../Culture/Recipes/Border-Fusions.md#sunlit-orchard-grain) every day without thinking of it as "fusion" anything.
 
 ## Problem
 
-Custom says each festival gets the square "for its own week." This year there is only one week. If neither side yields, one festival moves to the mud behind the mill, and the town will talk about it for twenty years.
+Custom says each festival "keeps the square in its own week." This year both need the same week. If neither side yields, one festival moves to the mud behind the mill, and the town will talk about it for twenty years.
 
 ## Complications
 
-1. Both sides cite precedent from old documents written in two languages that translate the key clause differently.
-2. The granary is full of grain nobody will buy, which makes Harvest Home's public accounting of surplus look like a public accounting of failure.
+1. Both sides cite the same old clause, written in two languages, and each translation supports its own side.
+2. The granary is full of grain nobody will buy, so Harvest Home's public accounting of surplus looks like a public accounting of failure.
 3. The Crush's barrels from Ironcrest are late.
 4. A bake-off between [Orchard Hand Pies](../../Culture/Recipes/Greenvale.md#6-orchard-hand-pies) and [Honey-Drizzled Nut Pastries](../../Culture/Recipes/Sunplains.md#3-honey-drizzled-nut-pastries) turns quietly vicious.
-5. Pell keeps settling small disputes on the way to not settling the big one, which makes everyone certain he's secretly taken the case.
+5. Pell keeps settling small disputes on the way to not settling the big one, which convinces everyone he has secretly taken the case.
 
 ## Running elements
 
@@ -62,20 +64,112 @@ Custom says each festival gets the square "for its own week." This year there is
 
 ## Emotional core
 
-Traditions matter, and they can change. Pell's granddaughter's generation already lives the unified culture the adults are arguing about.
+Traditions matter, and they can change. Pell's granddaughter's generation already lives the joined culture the adults are arguing about.
 
 ## Climax
 
-Digging in the records room — against his will — Pell finds the two festivals were once one. A post-Convergence administrator split them while "standardizing regional customs," so each side could file its harvest under the proper regional heading. This echoes the [Convergence's cultural effect](../../History/The-Convergence.md#cultural-effect): some "ancient" regional traditions are later standardizations. The unsellable grain goes into the Crush feast, the barrels arrive in time for the second day, and both committees cook together, grudgingly and then not.
+Pell refuses to rule. Instead he does what forty years taught him: he gets both chairs into the records room with the oldest ledger and leaves them there. Bettany and Idris find that the two festivals were once one. A post-Convergence administrator split them so each harvest could be filed under its proper regional heading, which echoes the [Convergence's cultural effect](../../History/The-Convergence.md#cultural-effect). They settle it themselves: one joint festival. Greenvale's redistribution custom and the Salve house's patronage together turn the unsellable surplus into public generosity, with the house underwriting grain for every household that asks.
 
 ## Soft landing
 
-The square keeps both names. When an out-of-town cousin calls the joint table "fusion food," Pell's granddaughter shrugs: "We always eat it like this." Pell's quince tree gets a visitor from the water court asking for "just one small opinion."
+The square keeps both names. Bettany and Idris read the surplus accounting together, and for once it sounds like good news. The barrels arrive on day two. When an out-of-town cousin calls the joint table "fusion food," Pell's granddaughter shrugs: "We always eat it like this." Pell's quince tree gets a visitor from the water court asking for "just one small opinion."
 
 ## World anchors
 
 - [Border Towns](../../Places/Border-Towns.md) — Harveston Vale: grain plus fruit, mixed water law, multiple harvest calendars.
 - [Naming](../../Culture/Naming.md#border-names) — border towns with two accepted names.
+- [Language and Thought](../../Culture/Language-and-Thought.md#greenvale-languages) — Greenvale aspect: recurring versus completed.
 - [The Convergence](../../History/The-Convergence.md) — cultural standardization after the settlement.
-- [Food](../../Culture/Food.md) and [Border Fusions](../../Culture/Recipes/Border-Fusions.md).
-- **Background only:** the Greenvale abundance crisis ([Current Events](../../Story/Current-Events.md)) appears as the unsellable surplus, never as conspiracy.
+- [Festivals and Seasonal Life](../../Culture/Festivals-and-Seasonal-Life.md#greenvale) — Harvest Home combines celebration with redistribution.
+- **Background:** the Greenvale abundance crisis ([Current Events](../../Story/Current-Events.md#abundance-crisis)) causes both the late harvest and the unsellable surplus, never a conspiracy.
+
+---
+
+## Development record
+
+Developed through the [Story Pipeline](../Story-Pipeline.md), 2026-09-27.
+
+### Stage 1 — THINK
+
+**Reasoning allocation:** structured single path. The premise depends on a timing mechanism and a historical claim that touches canon.
+
+**Decomposition.** Separable problems:
+
+1. why the festivals collide;
+2. what the precedent actually says;
+3. what to do about the surplus;
+4. Pell's arc;
+5. the historical reveal;
+6. the joint resolution.
+
+Connection to keep: the surplus problem and the festival problem must be solved by the same move, or the ending splits in two.
+
+**Assumption mapping**
+
+| Assumption | Status | Finding |
+| --- | --- | --- |
+| An upstream canal-gate change makes the festivals collide | `ASSUMED` → **false** | Festivals follow crops, not canal gates. The collision now comes from the bumper harvest taking an extra week ([Current Events](../../Story/Current-Events.md#abundance-crisis): unusually good weather, high yields). |
+| Both festivals fall in early autumn | `VERIFIED` (provisional festivals) | [Seasonal calendar](../../Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar). |
+| The clause can be read two ways | `ASSUMED` → **grounded** | Greenvale grammar marks recurring versus completed aspect ([Language](../../Culture/Language-and-Thought.md#greenvale-languages)): "keeps, each year" versus "kept, once." |
+| A joint feast solves the surplus | `ASSUMED` → **false** | A feast eats very little of a full granary. Replaced by patronage plus redistribution. |
+| The festivals were split after the Convergence | `ASSUMED` | Consistent with [The Convergence](../../History/The-Convergence.md#cultural-effect); kept as a story device, not Harveston chronology. |
+
+**First principles.** An arbiter's best outcome is a settlement both sides make, not a ruling handed down. Pell discovering the answer and deciding would waste his defining skill. So he engineers the conditions and lets them discover it. Removed convention: the wise elder who pronounces the solution.
+
+**Counterexample search**
+
+| Attack | Result |
+| --- | --- |
+| Pell finds the ledger and rules | **Contradicts** the character: he makes the parties find it. |
+| Would a patron house give grain away? | **Survives.** [Sunplains](../../Regions/Sunplains.md) civic generosity is competitive prestige; underwriting the Vale's grain outdoes his mother's Crush. |
+| Does "fusion" resolve too neatly? | **Narrows.** The joint festival is awkward on day one; it works by day two. |
+| Is the abundance crisis turned into plot machinery? | **Survives as background.** It sets up the timing and the embarrassment, and the story never explains it. |
+
+**PLAN handoff**
+
+```text
+frame             a bumper harvest makes two festivals collide; the arbiter makes the sides settle it themselves
+selected strategy aspect-ambiguous clause; records-room discovery by both chairs; patronage + redistribution
+alternatives      A canal-gate cause — set aside: festivals follow crops
+                  B Pell rules — set aside: wastes his skill and the theme
+assumptions       festival-split history is a story device only
+unknowns          how Harveston is governed (town council? estate?) stays vague
+reconsider if     the ending needs Pell to decide; the surplus plot needs price mechanics to make sense
+```
+
+### Stage 2 — PLAN
+
+| # | Place · clock | What happens | Must establish | Running element |
+| --- | --- | --- | --- | --- |
+| 1 | Grain lanes, quince tree · 10 days out | Carts still coming in. Bettany announces Harvest Home must move, into Crush week. Pell, up his tree, refuses to help. | cause of the collision; two names of the square | gatekeeper's schedule |
+| 2 | Co-op granary · 9 days out | The full granary. Bettany rehearses a surplus accounting that sounds like failure. | the redistribution custom; the surplus shame | granddaughter eating orchard grain |
+| 3 | Salve courtyard · 8 days out | Idris, first year in charge; barrels late from Ironcrest; his mother's shadow. | patron generosity as prestige; the barrels | two names |
+| 4 | Mill · 7 days out | The miller bills both sides for his patience. On the walk, Pell settles three small disputes without meaning to. | Pell's compulsion; town suspects he's taken the case | Pell arbitrating |
+| 5 | Square · 6 days out | Both sides read the clause aloud in their languages. Pell notices the aspect difference and says nothing yet. | the clause; the ledger nobody reads | two names |
+| 6 | Bake-off · 4 days out | Hand pies versus honey pastries. The granddaughter eats one of each together. | a child already joins what adults keep apart | granddaughter's verdict |
+| 7 | Records room · 3 days out | Pell locks the two chairs in (gently) with the old ledger. They find the single festival and the split, then negotiate the joint festival and the grain plan. | climax: the discovery is theirs | Pell not arbitrating |
+| 8 | Square · festival | Joint festival. Surplus read aloud together. Barrels on day two. "We always eat it like this." Water court at the quince tree. | soft landing | two names, kept |
+
+**Promise ledger**
+
+| Promise | Set up | Triggered by | Pays off | Kind | Status |
+| --- | --- | --- | --- | --- | --- |
+| P1 two names | s1 | s5 clause | s8 both names kept | world / comic | planned |
+| P2 surplus shame | s2 | s3 patronage | s7 grain plan → s8 good news | plot / emotional | planned |
+| P3 late barrels | s3 | — | s8 day two | material | planned |
+| P4 Pell can't stop arbitrating | s1, s4 | s7 he refuses to rule | s8 water court visit | character / comic | planned |
+| P5 aspect in the clause | s5 | s7 ledger | s7 both readings were half-right | clue | planned |
+| P6 granddaughter eats both | s2, s6 | — | s8 callback line | thematic / comic | planned |
+| P7 quince tree | s1 | — | s8 | soft landing | planned |
+
+Candidate Writing Bible lenses applied, as research and not rules:
+
+- **Callback with changed context.** P6's line moves from a child's habit to the story's thesis.
+- **Curiosity gap.** P5 opens a question about the past (what did the clause mean?) that is answered only in s7.
+
+**Reconsideration triggers**
+
+- The clause's language point needs more than two lines to explain → simplify it to a copying error (THINK).
+- Scene 4 and 6 both read as "comic interlude" → merge them (PLAN).
+
+**Next level:** L3 draft.

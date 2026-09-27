@@ -277,4 +277,5 @@ Reconciliation notes:
 - Source maturity is recorded on the pipeline page rather than upgraded: THINK is parked research; PLAN has no mechanism results; the Writing Bible is an unmerged branch with zero promoted rules. Writing Bible material is used only as labeled candidate lenses.
 - Using these methods here is not evidence about THINK or PLAN and should not be cited as such.
 - Pilot application: [The Heavy Scale at Icestep Summit](../Sunday-Morning/Stories/The-Heavy-Scale.md) moved from L0 to L2. Its THINK pass corrected four premise problems (winter traffic, the weight physics, the caravan master as victim, the confession). The L0 version is preserved in git history at `3427bdd`.
+- Full application, same day: the other six stories were taken to L2 the same way. Each story page's Development record holds its THINK pass, PLAN handoff, scene plan and promise ledger; no story detail was promoted to canon.
 

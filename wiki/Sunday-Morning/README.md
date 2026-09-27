@@ -18,13 +18,13 @@ A Sunday Morning Story is a character-driven, human-scale story with a clear pre
 
 | Story | Setting | Clock | Mode | Level |
 | --- | --- | --- | --- | --- |
-| [Inspected, Not Guaranteed](Stories/Inspected-Not-Guaranteed.md) | Stonefield Forge (Ironcrest / Greenvale) | Forge Reawakening, early spring | character / competition — features Wurdren | L0 Concept |
-| [One Square, Two Harvests](Stories/One-Square-Two-Harvests.md) | Harveston Vale (Greenvale / Sunplains) | Harvest Home + Wine Crush, early autumn | community / competition | L0 Concept |
-| [The Heavy Scale at Icestep Summit](Stories/The-Heavy-Scale.md) | Icestep Summit (Northwind / Highridge) | Pass Opening + Ice Breaking, early spring | mystery | L2 Outlined — pipeline pilot |
-| [Three Pots at Three Moon](Stories/Three-Pots-at-Three-Moon.md) | a Port neighborhood | Three Moon Festival, early autumn | family / food | L0 Concept |
-| [The Tree With a Debt](Stories/The-Tree-With-a-Debt.md) | Twilighthollow (Deepwood / Highridge) | Canopy Vigil + Midsummer Debates | romance | L0 Concept |
-| [The Greenvale Man](Stories/The-Greenvale-Man.md) | Kettle Cove, Northwind (provisional) | Last Sail, late autumn | competition / belonging | L0 Concept |
-| [The Goat File](Stories/The-Goat-File.md) | Seven Wells, Highridge (provisional) | Ledger Closing, late autumn | comedy / mystery | L0 Concept |
+| [Inspected, Not Guaranteed](Stories/Inspected-Not-Guaranteed.md) | Stonefield Forge (Ironcrest / Greenvale) | Forge Reawakening, early spring | character / competition — features Wurdren | L2 Outlined |
+| [One Square, Two Harvests](Stories/One-Square-Two-Harvests.md) | Harveston Vale (Greenvale / Sunplains) | Harvest Home + Wine Crush, early autumn | community / competition | L2 Outlined |
+| [The Heavy Scale at Icestep Summit](Stories/The-Heavy-Scale.md) | Icestep Summit (Northwind / Highridge) | Pass Opening + Ice Breaking, early spring | mystery | L2 Outlined (pipeline pilot) |
+| [Three Pots at Three Moon](Stories/Three-Pots-at-Three-Moon.md) | a Port neighborhood | Three Moon Festival, early autumn | family / food | L2 Outlined |
+| [The Tree With a Debt](Stories/The-Tree-With-a-Debt.md) | Twilighthollow (Deepwood / Highridge) | Canopy Vigil + Midsummer Debates | romance | L2 Outlined |
+| [The Greenvale Man](Stories/The-Greenvale-Man.md) | Kettle Cove, Northwind (provisional) | Last Sail, late autumn | competition / belonging | L2 Outlined |
+| [The Goat File](Stories/The-Goat-File.md) | Seven Wells, Highridge (provisional) | Ledger Closing, late autumn | comedy / mystery | L2 Outlined |
 
 Undeveloped premises: [Story Seeds](Stories/Story-Seeds.md).
 
