@@ -107,6 +107,26 @@ A town may remain important even after some raw materials come from elsewhere be
 
 Do not make such a town one hereditary caste or one-product monoculture. Entry through apprenticeship / migration remains possible, and non-craft households remain part of town life.
 
+### Foothill contact communities
+
+Focused contact-zone work supports Stone Hills ↔ Low Rivers foothill communities whose households can combine:
+
+- farming;
+- seasonal mine / haulage work;
+- repair;
+- market trade.
+
+Their defining institutions arise from translating:
+
+- wages;
+- contracts;
+- guild credentials;
+- tax / inheritance questions
+
+across a political boundary that may be newer than the local labor market.
+
+These communities should develop their own food, speech and work identity rather than reading as "half Stone Hills / half Low Rivers."
+
 ## Language
 
 See [Language and Thought](../Culture/Language-and-Thought.md).
