@@ -1130,8 +1130,16 @@ Scene 3 then tested the guarantee / hidden-triage handoff and received a bounded
 - [Opening Scene 3 — Guarantee / Triage Challenge V1](Opening-Scene-3-Guarantee-Triage-Challenge-V1.md);
 - [Opening Scene 3 — Guarantee and Hidden Triage Test V2](Opening-Scene-3-Guarantee-Triage-Test-V2.md).
 
-The next smallest coherent task is:
+Scenes 4–6 now also have bounded-correction baselines:
 
-> **draft Scene 4 — the person who stopped looking — using the Old Port Hand to make Port feel like home, work, memory, and chosen rooted life before the Longwood dispute arrives.**
+- [Opening Scene 4 — The Person Who Stopped Looking Test V2](Opening-Scene-4-Old-Port-Hand-Test-V2.md);
+- [Opening Scene 5 — Passage Is Not Cutting Test V2](Opening-Scene-5-Passage-Not-Cutting-Test-V2.md);
+- [Opening Scene 6 — Everyone Has a Piece Test V2](Opening-Scene-6-Everyone-Has-Piece-Test-V2.md).
 
-Do not scale beyond the opening movement until the Port relationship and Longwood scene establish the same prose / character baseline.
+The first-pass opening chain is now complete.
+
+Next:
+
+> **move into post-Three-Moons dispersal and the Longwood on-site compromise.**
+
+Do not reopen opening mechanics unless later prose exposes a concrete contradiction.
