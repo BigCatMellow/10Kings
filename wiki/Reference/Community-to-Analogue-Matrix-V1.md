@@ -15,6 +15,7 @@ Research waves:
 - [Community Profiles — P1 Wave 1](Community-Profiles-P1-Wave-1.md) — first conversion of researched slots into provisional in-world communities.
 - [Community Spiderweb Test — P1 Wave 1](Community-Spiderweb-Test-P1-Wave-1.md) — causal stress test and promotion gate.
 - [Community Hold Resolutions — V1](Community-Hold-Resolutions-V1.md) — bounded resolution of SH-1, LR-4, M-1, and M-2 holds.
+- [Community Analogue Research — Wave 3](Community-Analogue-Research-Wave-3.md) — SH-3, LR-2, OC-3, HR-1, HR-3.
 
 This page implements:
 
@@ -57,7 +58,7 @@ Every final community should combine:
 | --- | --- | --- | --- | --- |
 | SH-1 Major industrial mine / civic district | SH-A polity; mine holders; workers; guilds; strategic metal | South Wales mining communities/workmen's institutes; Butte mining-city social structure | worker civic institutions; mutual aid; owner concentration; migrant neighborhoods; safety/labor culture | **R2 / P2** |
 | SH-2 Upland mixed mine-smallholder settlement | Stone Hills mixed economy; highland farms | Andean mining settlements; Appalachian mixed homestead; Ethiopian/Yemeni highland settlement | farm + extraction household economy; seasonal labor; highland transport; stone building | R1 |
-| SH-3 Small hereditary craft town | guild/craft owners | Japanese / Chinese craft lineages; Central European guild towns | apprenticeship residence; workshop inheritance; reputation; quality control | R1 |
+| SH-3 Small hereditary craft town | guild/craft owners | Wajima craft production cluster; Echizen specialized craft village; wider guild-town pool | production-chain specialization; apprenticeship; material merchants; quality reputation; cluster vulnerability | **R2** |
 | SH-4 Western foothill contact community | Stone Hills ↔ Low Rivers / Longwood contact | Appalachian foothill; Balkan borderland; mixed farming/craft communities | bilingualism; migrant labor; mixed food/craft; anti-centralization | R0 |
 
 ### Myth connections
@@ -90,7 +91,7 @@ Every final community should combine:
 | Community slot | Existing support | Comparator candidates | Mechanisms to research | Status |
 | --- | --- | --- | --- | --- |
 | LR-1 Cooperative irrigation village | water associations; village rights | Balinese subak institutional comparison; wider irrigation pool | water-user institutions; nested coordination; maintenance; allocation | **R2 / P2** |
-| LR-2 Estate / tenant district | estate authority; debt; tenants | Irish rural tenancy; Eastern European estate agriculture; other landlord-tenant cases | rent; patronage; debt; labor; household autonomy | R1 |
+| LR-2 Estate / tenant district | estate authority; debt; tenants | Irish landlord/tenant systems; Tuscan mezzadria/sharecropping | estate records; rent/share contracts; advances; household labor structure; tenancy insecurity | **R2** |
 | LR-3 River-market / mill town | LR-M / Last Quay; G1 traffic | river-market societies; mill towns; inland ports | storage; milling; boarding; seasonal labor; market law | R0 |
 | LR-4 Floodplain settlement | flood ecology | Bangladesh floating gardens; Ahwar wetland adaptation; wider floodplain research | persistent-water agriculture; seasonal landscape change; fish/livestock/crop adaptation | **R2 / P2 (type)** |
 | LR-5 Orchard / mixed contact community | cross-regional food bleed | orchard traditions; seasonal labor systems | harvest labor; fruit preservation; migration; mixed cuisine | R0 |
@@ -106,9 +107,9 @@ Every final community should combine:
 
 | Community slot | Existing support | Comparator candidates | Mechanisms to research | Status |
 | --- | --- | --- | --- | --- |
-| HR-1 Central switching / arbitration city | HR-C | Persian / Silk Road caravan cities; Caucasus trade towns | multilingual brokerage; lodging; arbitration; diaspora merchants | R1 |
+| HR-1 Central switching / arbitration city | HR-C | Samarkand/Bukhara Silk Roads city mechanisms | route switching; neighborhood specialization; multilingual brokerage; lodging; arbitration; knowledge exchange | **R2** |
 | HR-2 Western Gate pass polity | HR-W | Caucasus / Himalayan pass settlements; fortified trade gates | toll rights; strategic neutrality; pass defense; local autonomy | R1 |
-| HR-3 Northern high-route settlement | HR-N | Tibetan/Himalayan; Andean highland | high-altitude agriculture; winter isolation; pack animals; storage | R1 |
+| HR-3 Northern high-route settlement | HR-N | Khinalig high-mountain/transhumance landscape; wider highland pool | permanent village + seasonal movement; terraces; winter storage; route infrastructure; resident/mobile distinction | **R2** |
 | HR-4 Transhumant pastoral circuit | Mobile Circuit B | Qashqai; Rabari; Fulani/Wodaabe | seasonal bases; split households; access law; herd economy | **R2 / P1** |
 | HR-5 Caravan-service families | Mobile Circuit C | Banjara; Persian/Central Asian caravan organization | freight expertise; animal handling; temporary caravan authority; handoff | **R2 / P1** |
 
@@ -143,7 +144,7 @@ Every final community should combine:
 | --- | --- | --- | --- | --- |
 | OC-1 Upstream city civic / water culture | OC-U | Omani aflaj; acequia common-property systems; irrigation tribunals | headworks responsibility; water shares; maintenance obligations; specialist dispute authority | **R2 / P2 (type)** |
 | OC-2 Downstream canal-city neighborhoods | OC-D | Omani aflaj; acequia common-property systems; irrigation tribunals | downstream transparency; maintenance labor; shared records; public water disputes; mutual aid | **R2 / P2** |
-| OC-3 Coastal merchant city | OC-C | Mediterranean merchant republics; Maghrebi/Levantine ports | merchant dynasties; maritime law; cosmopolitan neighborhoods | R1 |
+| OC-3 Coastal merchant city | OC-C | Stone Town of Zanzibar trade-city fusion; Dubrovnik/Venice maritime-city mechanisms | diaspora-to-local culture; merchant institutions; maritime leverage; neighborhood/religious layering | **R2** |
 | OC-4 Hinterland irrigation community | uneven hinterlands | village irrigation systems; estate-water systems | city dependence; rural rights; labor; canal upkeep | R1 |
 
 ### Myth connections
@@ -261,7 +262,7 @@ Recommended order:
 - OC-1 / OC-2 water cultures;
 - LW-1 western edge.
 
-## Next research wave — remaining economic / political counterweights
+## Wave 3 — completed economic / political counterweights
 
 - SH-3 craft town;
 - LR-2 estate district;
@@ -269,7 +270,7 @@ Recommended order:
 - HR-1 central switching city;
 - HR-3 northern high-route settlement.
 
-However, enough R2 coverage now exists to begin **P1 provisional community profiles** before another broad research wave.
+The next step is P1 conversion and Spiderweb testing for these five before moving to contact / diaspora work.
 
 ## Wave 4 — contact / diaspora
 
