@@ -190,7 +190,49 @@ Current next step:
 
 ---
 
-# 7. Supporting design / safeguards
+# 7. Movement II prose baselines
+
+- [Movement II — Sequence 7 Dispersal Test V1](Movement-II-Sequence-7-Dispersal-Test-V1.md)
+- [Movement II — Sequence 7 Dispersal Challenge V1](Movement-II-Sequence-7-Dispersal-Challenge-V1.md)
+- [Movement II — Sequence 7 Dispersal Test V2](Movement-II-Sequence-7-Dispersal-Test-V2.md)
+  - Three Moons dispersal;
+  - Longwood records leave Port;
+  - maritime procedures / guild persistence / Stone Hills procurement move outward.
+
+- [Movement II — Sequence 8 Convoy Compromise Test V1](Movement-II-Sequence-8-Convoy-Compromise-Test-V1.md)
+- [Movement II — Sequence 8 Convoy Compromise Challenge V1](Movement-II-Sequence-8-Convoy-Compromise-Challenge-V1.md)
+- [Movement II — Sequence 8 Convoy Compromise Test V2](Movement-II-Sequence-8-Convoy-Compromise-Test-V2.md)
+  - maritime branch genuinely weakens;
+  - temporary convoy coordination works enough to leave institutional residue without settling legitimacy.
+
+- [Movement II — Sequence 9 Longwood Return Test V1](Movement-II-Sequence-9-Longwood-Return-Test-V1.md)
+- [Movement II — Sequence 9 Longwood Return Challenge V1](Movement-II-Sequence-9-Longwood-Return-Challenge-V1.md)
+- [Movement II — Sequence 9 Longwood Return Test V2](Movement-II-Sequence-9-Longwood-Return-Test-V2.md)
+  - Port paperwork meets local complexity;
+  - delegate ≠ community;
+  - cheaper lower turn externalizes rights / drainage costs.
+
+- [Movement II — Sequence 10 Counter-Domino Test V1](Movement-II-Sequence-10-Counter-Domino-Test-V1.md)
+- [Movement II — Sequence 10 Counter-Domino Challenge V1](Movement-II-Sequence-10-Counter-Domino-Challenge-V1.md)
+- [Movement II — Sequence 10 Counter-Domino Test V2](Movement-II-Sequence-10-Counter-Domino-Test-V2.md)
+  - first full Wurdren-linked counter-domino;
+  - road still improves;
+  - rights / compensation / route geometry are narrowed;
+  - Longwood escalation branch is genuinely contained;
+  - dissent / institutional residue remain.
+
+**Movement II milestone:** Sequences 7–10 now establish two real containment successes:
+
+1. maritime convoy branch partially stabilizes through its own institutions;
+2. Longwood road / extraction escalation is contained through local compromise.
+
+Current next step:
+
+> **Sequence 11 — Help has an afterlife: follow the opening grain / guarantee intervention into Low Rivers consequences while the Stone Hills repair request reaches its pressure field.**
+
+---
+
+# 8. Supporting design / safeguards
 
 - [Domino Design Evolution and Lessons](Domino-Design-Evolution-and-Lessons.md)
 - [Conspiracy Capability Ledger — V2](Conspiracy-Capability-Ledger-V2.md)
@@ -202,7 +244,7 @@ Current next step:
 
 ---
 
-# 8. Current thematic statements
+# 9. Current thematic statements
 
 ## Story-level declarative thesis
 
@@ -226,7 +268,7 @@ Shared bridge:
 
 ---
 
-# 9. Current ending direction
+# 10. Current ending direction
 
 Working structural ending:
 
@@ -251,7 +293,7 @@ The later world:
 
 ---
 
-# 10. Continuity rule
+# 11. Continuity rule
 
 Future story work should normally begin here, then route to the narrowest owner / reference page needed.
 
