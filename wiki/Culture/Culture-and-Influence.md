@@ -148,7 +148,10 @@ Current community-level work now uses:
 - [Cultural Analogue Coverage Assessment — V1](../Reference/Cultural-Analogue-Coverage-Assessment-V1.md);
 - [Community-to-Analogue Matrix — V1](../Reference/Community-to-Analogue-Matrix-V1.md);
 - [Community Profiles — P1 Wave 1](../Reference/Community-Profiles-P1-Wave-1.md);
-- [Community Spiderweb Test — P1 Wave 1](../Reference/Community-Spiderweb-Test-P1-Wave-1.md).
+- [Community Spiderweb Test — P1 Wave 1](../Reference/Community-Spiderweb-Test-P1-Wave-1.md);
+- [Community Analogue Research — Wave 3](../Reference/Community-Analogue-Research-Wave-3.md);
+- [Community Profiles — P1 Wave 2](../Reference/Community-Profiles-P1-Wave-2.md);
+- [Community Spiderweb Test — P1 Wave 2](../Reference/Community-Spiderweb-Test-P1-Wave-2.md).
 
 The working method is:
 
