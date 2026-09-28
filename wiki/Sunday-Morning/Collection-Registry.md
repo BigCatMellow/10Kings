@@ -154,8 +154,8 @@ The collection is Sunday Morning first. Check every pass against the [Framework]
 
 For every future pass, in this order of priority:
 
-1. **Tell it like the sequel, then stop.** The most common remaining fault is explaining after showing. Run the [Storytelling Principles](Storytelling.md) diagnostic, and prefer cuts.
-2. **Sunday Morning first.** Tone and stakes follow the Framework; the voice guide shapes sentences inside it. See the guardrails above.
+1. **Sunday Morning first.** Tone and stakes follow the Framework; the voice guide shapes sentences inside it. See the guardrails above.
+2. **Tell it like the sequel, then stop.** The most common remaining fault is explaining after showing. Run the [Storytelling Principles](Storytelling.md) diagnostic, and prefer cuts.
 3. **Resolution variety over prose polish.** The costliest sameness so far was structural. Check the Story shapes table before touching sentences.
 4. **Let each story take only what it wants from the voice guide.** No beat checklist.
 5. **Name hygiene at L0.** Register every new name here when it's invented, not after drafting.
