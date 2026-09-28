@@ -71,6 +71,39 @@ Possible governing units:
 
 Surface kingdoms claim some entrances and sections but rarely control the entire network.
 
+## Route-control legitimacy
+
+Legacy Underpass notes preserve a useful political ambiguity:
+
+> the same guarded chokepoint can be experienced as **protection** by one traveler and **extraction** by another.
+
+A fort, gate, guide post, or toll station may provide real services:
+
+- lights / markers;
+- rescue;
+- ventilation maintenance;
+- clearing collapses;
+- guard patrols;
+- dispute mediation.
+
+It may also:
+
+- charge high tolls;
+- privilege allied merchants;
+- restrict outsiders;
+- claim authority farther than it can actually enforce.
+
+This makes route politics more than "bandits versus law."
+
+A local authority can be both:
+
+- genuinely necessary;
+- resented for monetizing necessity.
+
+That distinction is especially important when surface governments or the Council attempt to "regularize" Underpass traffic.
+
+---
+
 ## Current events
 
 - rival enclaves are fighting over profitable corridors;

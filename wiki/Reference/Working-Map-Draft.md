@@ -14,6 +14,8 @@ It deliberately separates:
 
 The purpose is not to make a pretty final map. It is to discover whether one actual arrangement can satisfy the world's trade, ecology, borders, and story pressures without contradiction.
 
+**Political overlay test:** [Working Political Geography — V1](Working-Political-Geography-V1.md) now places the minimum currently required political actors and functional jurisdictions onto this network without treating cultural regions as states.
+
 ## Visual draft
 
 ![Working rough map V1](Working-Map-v1.svg)
@@ -24,11 +26,11 @@ The SVG is schematic. Coastlines, borders, distances, and labels are intentional
 
 This draft succeeds if a single rough geometry can plausibly explain:
 
-1. why Northwind is maritime but still has a consequential overland connection to Highridge;
-2. why Highridge matters to overland circulation;
-3. why Ironcrest can interact directly with eastern regions without making The Spine irrelevant;
-4. why Greenvale can support major river agriculture and bulk transport;
-5. why Sunplains water politics are structurally important;
+1. why North Coast is maritime but still has a consequential overland connection to High Roads;
+2. why High Roads matters to overland circulation;
+3. why Stone Hills can interact directly with eastern regions without making The Spine irrelevant;
+4. why Low Rivers can support major river agriculture and bulk transport;
+5. why Old Cities water politics are structurally important;
 6. why Port becomes a multimodal exchange hub;
 7. why the Underpass is useful without replacing surface geography;
 8. why alternative routes exist but have real cost.
@@ -43,9 +45,9 @@ This preserves the old idea of three recognizable continental masses without req
 
 The Spine occupies the difficult high ground around the meeting zone and extends into:
 
-- Ironcrest-facing western uplands;
-- the Highridge plateau and northern approaches;
-- forested southeastern shoulders toward Deepwood.
+- Stone Hills-facing western uplands;
+- the High Roads plateau and northern approaches;
+- forested southeastern shoulders toward Longwood.
 
 The result is a geography where the continents are visually and historically distinct, but actual travel depends on a small number of land corridors, passes, straits, and coastal approaches.
 
@@ -53,16 +55,16 @@ The result is a geography where the continents are visually and historically dis
 
 ### VERIFIED / working canon
 
-- Northwind occupies most of the Northern Continent.
+- North Coast occupies most of the Northern Continent.
 - The coastline is irregular, cold, and maritime.
-- Southward overland movement toward Highridge exists but is constrained.
-- Northwind also has strong maritime alternatives.
+- Southward overland movement toward High Roads exists but is constrained.
+- North Coast also has strong maritime alternatives.
 
 ### PROVISIONAL V1 solution
 
 The southern coast contains a deep fissure / drowned valley system that cuts most easy land access away from the central mountains.
 
-One narrow **southeastern highland shoulder** remains usable as the principal Northwind ↔ Highridge overland approach.
+One narrow **southeastern highland shoulder** remains usable as the principal North Coast ↔ High Roads overland approach.
 
 This is not one road. It is a corridor containing:
 
@@ -70,13 +72,13 @@ This is not one road. It is a corridor containing:
 - smaller seasonal paths;
 - sheltered valleys;
 - settlements controlling resupply;
-- possible Underpass entrances.
+- possible Tunnels entrances.
 
-This solves the apparent tension between older material describing a dramatic fissure and later material requiring meaningful Northwind ↔ Highridge pass traffic.
+This solves the apparent tension between older material describing a dramatic fissure and later material requiring meaningful North Coast ↔ High Roads pass traffic.
 
 ### Test consequence
 
-Closing this corridor should not isolate Northwind completely.
+Closing this corridor should not isolate North Coast completely.
 
 Instead it should:
 
@@ -84,16 +86,16 @@ Instead it should:
 - raise convoy and Port dependence;
 - increase prices for inland imports;
 - make smuggling and lesser passes more attractive;
-- create a reason for Highridge and Northwind to care about the same local crisis.
+- create a reason for High Roads and North Coast to care about the same local crisis.
 
 ## Western Continent
 
 ### VERIFIED / working canon
 
-- Ironcrest dominates the western uplands.
+- Stone Hills dominates the western uplands.
 - Terrain rises toward The Spine.
 - Rivers descend through settled valleys.
-- Ironcrest has meaningful eastern and southeastern economic frontiers.
+- Stone Hills has meaningful eastern and southeastern economic frontiers.
 
 ### PROVISIONAL V1 solution
 
@@ -101,14 +103,14 @@ The Western Continent bulges west from the central mountain system.
 
 Its eastern edge does not meet the Eastern Continent along one broad flat border. Instead it approaches through **mountain shoulders and narrow intermontane corridors**.
 
-V1 gives Ironcrest:
+V1 gives Stone Hills:
 
-- one principal eastbound highland corridor toward Greenvale / Highridge;
-- smaller forest-margin approaches toward Deepwood;
+- one principal eastbound highland corridor toward Low Rivers / High Roads;
+- smaller forest-margin approaches toward Longwood;
 - western rivers draining away from The Spine;
 - secondary southern and western ports that prevent Port from becoming the only maritime option.
 
-This keeps Ironcrest connected while preserving the strategic importance of route control.
+This keeps Stone Hills connected while preserving the strategic importance of route control.
 
 ## Eastern Continent
 
@@ -116,23 +118,23 @@ This keeps Ironcrest connected while preserving the strategic importance of rout
 
 The Eastern Continent contains the largest mixture of environments:
 
-- Greenvale lowlands;
-- Highridge plateau / route country;
-- Deepwood forest systems;
-- Sunplains warmer southern and eastern country.
+- Low Rivers lowlands;
+- High Roads plateau / route country;
+- Longwood forest systems;
+- Old Cities warmer southern and eastern country.
 
 ### PROVISIONAL V1 order
 
 From northwest / central highlands toward the southeast:
 
 ```text
-Spine / Highridge
+The Spine / High Roads
         ↓
-Greenvale river lowlands
+Low Rivers river lowlands
         ↓ ↘
- Deepwood  warmer transition
+ Longwood  warmer transition
         ↓        ↓
-     Sunplains coast
+     Old Cities coast
 ```
 
 This is not intended as four boxes. The actual boundaries follow:
@@ -149,7 +151,7 @@ This is not intended as four boxes. The actual boundaries follow:
 
 ### PROVISIONAL V1 choice — estuary/island complex
 
-V1 places Port **just south of the central mountain junction**, where a major Greenvale river reaches a protected inner bay / strait.
+V1 places Port **just south of the central mountain junction**, where a major Low Rivers river reaches a protected inner bay / strait.
 
 The city occupies an island, low peninsula, or closely connected harbor complex immediately beside the estuary.
 
@@ -157,25 +159,25 @@ The exact legal footprint remains unresolved.
 
 This location is being tested because it gives Port access to:
 
-- Greenvale river-borne grain and bulk goods;
-- Highridge roads descending from the plateau;
-- Northwind shipping approaching from northern waters;
-- Sunplains coastal shipping approaching from the south/east;
-- Ironcrest maritime and short overland/ferry connections;
-- Underpass exits near, but not inside, the city.
+- Low Rivers river-borne grain and bulk goods;
+- High Roads roads descending from the plateau;
+- North Coast shipping approaching from northern waters;
+- Old Cities coastal shipping approaching from the south/east;
+- Stone Hills maritime and short overland/ferry connections;
+- Tunnels exits near, but not inside, the city.
 
 ### Why this is stronger than "Port is in the middle"
 
 Port becomes central through **route intersection**:
 
 ```text
-Northwind sea lanes
+North Coast sea lanes
         ↓
-   Highridge road
+   High Roads road
         ↓
-Greenvale river → PORT ← Ironcrest coastal / overland traffic
+Low Rivers river → PORT ← Stone Hills coastal / overland traffic
         ↑
-Sunplains sea lanes
+Old Cities sea lanes
 ```
 
 No one route is enough by itself.
@@ -185,9 +187,9 @@ No one route is enough by itself.
 Reject this Port site if later map work shows that:
 
 - it requires implausible river behavior;
-- Highridge roads would naturally terminate somewhere else;
-- Northwind and Sunplains routes do not actually converge nearby;
-- Ironcrest has a much cheaper equivalent hub;
+- High Roads roads would naturally terminate somewhere else;
+- North Coast and Old Cities routes do not actually converge nearby;
+- Stone Hills has a much cheaper equivalent hub;
 - the city cannot obtain fresh water / food;
 - neutrality would be strategically nonsensical.
 
@@ -195,9 +197,9 @@ Reject this Port site if later map work shows that:
 
 V1 uses **unnamed river systems** rather than prematurely naming them.
 
-### G1 — Greenvale trunk river
+### G1 — Low Rivers trunk river
 
-A large river rises in the Highridge / Spine-facing uplands and crosses Greenvale before reaching the Port estuary.
+A large river rises in the High Roads / The Spine-facing uplands and crosses Low Rivers before reaching the Port estuary.
 
 Required functions:
 
@@ -210,9 +212,9 @@ Required functions:
 
 This river is one of the strongest reasons for the V1 Port location.
 
-### G2 — eastern Greenvale / Deepwood tributary system
+### G2 — eastern Low Rivers / Longwood tributary system
 
-A major tributary drains wetter Deepwood margins into the Greenvale system.
+A major tributary drains wetter Longwood margins into the Low Rivers system.
 
 This creates shared stakes in:
 
@@ -223,9 +225,9 @@ This creates shared stakes in:
 - fisheries;
 - bridge and road placement.
 
-It also ensures Deepwood water decisions can matter outside Deepwood.
+It also ensures Longwood water decisions can matter outside Longwood.
 
-### S1 — Sunplains river
+### S1 — Old Cities river
 
 A separate system descends toward the southern/eastern coast.
 
@@ -239,9 +241,9 @@ It should have:
 
 Its exact source is intentionally unresolved.
 
-### W1 / W2 — Ironcrest drainages
+### W1 / W2 — Stone Hills drainages
 
-Several shorter rivers descend westward from the Spine-facing uplands.
+Several shorter rivers descend westward from The Spine-facing uplands.
 
 They support:
 
@@ -255,15 +257,15 @@ They support:
 
 ### R1 — Western Gate
 
-Ironcrest ↔ Greenvale / Highridge.
+Stone Hills ↔ Low Rivers / High Roads.
 
-A major maintained corridor through lower Spine terrain.
+A major maintained corridor through lower The Spine terrain.
 
 It should be expensive enough that tolls, maintenance, snow, landslides, and security matter.
 
 ### R2 — North Shoulder / Icestep corridor
 
-Northwind ↔ Highridge.
+North Coast ↔ High Roads.
 
 The principal constrained northern overland route.
 
@@ -271,7 +273,7 @@ Its importance comes from being **one of few**, not the only imaginable path.
 
 ### R3 — River Road
 
-Highridge / Greenvale ↔ Port.
+High Roads / Low Rivers ↔ Port.
 
 A road-and-river transport corridor following G1.
 
@@ -279,13 +281,13 @@ Bulk goods favor water; high-value, time-sensitive, military, and passenger traf
 
 ### R4 — Forest Edge Road
 
-Ironcrest / Greenvale ↔ Deepwood margins.
+Stone Hills / Low Rivers ↔ Longwood margins.
 
 This route should repeatedly cross political and ecological boundaries rather than forming one clean imperial highway.
 
 ### R5 — Southern Market Road
 
-Greenvale / Deepwood transition ↔ Sunplains city-state network.
+Low Rivers / Longwood transition ↔ Old Cities city-state network.
 
 This becomes important when coastal shipping is risky or when inland agricultural exchange is cheaper than Port transshipment.
 
@@ -293,23 +295,23 @@ This becomes important when coastal shipping is risky or when inland agricultura
 
 ### M1 — Northern lane
 
-Northwind ports and islands ↔ Port.
+North Coast ports and islands ↔ Port.
 
 Seasonal storms, convoy politics, and piracy affect this route strongly.
 
 ### M2 — Southern / eastern lane
 
-Sunplains coastal cities ↔ Port.
+Old Cities coastal cities ↔ Port.
 
 This is a chain of coastal markets, not a single origin-to-destination line.
 
 ### M3 — Western feeder lanes
 
-Ironcrest's secondary ports ↔ Port and other markets.
+Stone Hills's secondary ports ↔ Port and other markets.
 
 They provide alternatives while still making Port attractive for transactions requiring finance, warehousing, arbitration, or onward connections.
 
-## Underpass skeleton
+## Tunnels skeleton
 
 V1 does **not** map the Underpass completely.
 
@@ -328,13 +330,13 @@ Useful for winter or political closures, but:
 
 ### U2 — Northern branch
 
-A difficult branch associated with the Northwind / Highridge approach.
+A difficult branch associated with the North Coast / High Roads approach.
 
 It should never make the surface pass irrelevant.
 
 ### U3 — Forest branch
 
-A set of poorly unified routes connecting Deepwood-side communities to central mountain routes.
+A set of poorly unified routes connecting Longwood-side communities to central mountain routes.
 
 This is the best candidate for hidden movement, local trade, refugees, guides, and smuggling.
 
@@ -344,28 +346,28 @@ The draft naturally creates several different chokepoint types:
 
 | Chokepoint | Why it matters | Main failure mode |
 | --- | --- | --- |
-| North Shoulder | scarce Northwind overland access | winter / landslide / conflict |
+| North Shoulder | scarce North Coast overland access | winter / landslide / conflict |
 | Western Gate | bulk west-east land trade | tolls / damage / military control |
-| Highridge junctions | route switching and brokerage | attack / finance / road closure |
-| G1 crossings | Greenvale bulk movement | flood / bridge loss / seizure |
+| High Roads junctions | route switching and brokerage | attack / finance / road closure |
+| G1 crossings | Low Rivers bulk movement | flood / bridge loss / seizure |
 | Port estuary | multimodal transfer | blockade / labor / finance / rumor |
-| Sunplains waterworks | agricultural survival | drought / diversion / sabotage |
-| Underpass junctions | bypass capacity | collapse / control / secrecy |
+| Old Cities waterworks | agricultural survival | drought / diversion / sabotage |
+| Tunnels junctions | bypass capacity | collapse / control / secrecy |
 
 This is preferable to one universal chokepoint because different crises can redirect pressure rather than simply stop the world.
 
 ## First causal tests
 
-### Test A — Northwind piracy
+### Test A — North Coast piracy
 
 ```text
 piracy rises on M1
 → convoy cost rises
 → Port credit tightens
-→ some high-value traffic tries R2 through Highridge
-→ Highridge transport prices rise
-→ Greenvale / Ironcrest traders compete for caravan capacity
-→ Underpass alternatives become more valuable
+→ some high-value traffic tries R2 through High Roads
+→ High Roads transport prices rise
+→ Low Rivers / Stone Hills traders compete for caravan capacity
+→ Tunnels alternatives become more valuable
 ```
 
 **Result:** V1 supports the existing systemic example without requiring Port to monopolize all trade.
@@ -374,16 +376,16 @@ piracy rises on M1
 
 ```text
 R1 closes
-→ Ironcrest food imports become more expensive
+→ Stone Hills food imports become more expensive
 → some traffic shifts to western ports + Port
 → some traffic shifts to U1
-→ Highridge loses some toll / brokerage traffic but gains rerouting work
-→ Deepwood forest-edge paths attract legal and illegal movement
+→ High Roads loses some toll / brokerage traffic but gains rerouting work
+→ Longwood forest-edge paths attract legal and illegal movement
 ```
 
 **Result:** the map produces substitution rather than binary isolation.
 
-### Test C — Sunplains drought
+### Test C — Old Cities drought
 
 ```text
 S1 flow declines
@@ -391,11 +393,11 @@ S1 flow declines
 → irrigated output falls
 → coastal imports rise
 → M2 traffic toward Port increases
-→ Greenvale food prices rise from external demand
+→ Low Rivers food prices rise from external demand
 → water-control politics become continental economics
 ```
 
-**Result:** Sunplains hydrology connects naturally to the world system.
+**Result:** Old Cities hydrology connects naturally to the world system.
 
 ## Decisions V1 intentionally does not make
 
@@ -408,22 +410,57 @@ Still UNKNOWN:
 - exact capital locations;
 - exact political borders;
 - exact number of major passes;
-- exact Underpass entrances;
-- whether Highridge has a direct Sunplains border;
+- exact Tunnels entrances;
+- whether High Roads has a direct Old Cities border;
 - travel times;
 - prevailing winds and currents;
 - which settlements from the legacy name bank survive.
 
+## Scale test result — 2026-09-23
+
+[Working Map — Scale and Travel-Time Test V1](Working-Map-Scale-and-Travel-Test.md) has now tested this geometry against:
+
+- walking / pack / cart travel;
+- mounted dispatch;
+- river movement;
+- coastal sailing;
+- seasonal delay;
+- Underpass capacity;
+- rerouting after closures.
+
+**Result: V1 passes at the network level.**
+
+Strong surviving geometry:
+
+- the Y-shaped central convergence remains viable;
+- Port works best at the G1 estuary / strait system just south of the central junction;
+- the southeastern North Coast shoulder remains the strongest constrained overland solution;
+- Western Gate remains important without becoming the only west/east route;
+- Underpass branches remain useful because capacity, reliability and secrecy differ from surface routes.
+
+Still provisional:
+
+- exact coastlines;
+- island vs peninsula vs mainland Port footprint;
+- exact miles;
+- exact river endpoints;
+- exact road engineering;
+- final pass / entrance locations.
+
+## Capacity / endpoint test result — 2026-09-23
+
+[Working Map — Network Endpoints and Capacity Test V1](Working-Map-Network-Endpoints-and-Capacity.md) now resolves the next layer: where bulk river navigation ends, which roads carry carts end-to-end, how North Shoulder transshipment works, and why Port is best treated as an estuary / channel complex.
+
+Its strongest result is that **mode-conversion points are strategic chokepoints** because unloading, storage, animals, labor, inspection and finance cluster there.
+
 ## What should happen next
 
-The next geography pass should test **scale and travel time** against V1.
+The next geography pass should resolve **network endpoints and capacity**, especially:
 
-That pass should answer:
+- where G1 stops being navigable upstream;
+- which surface roads carry heavy carts end-to-end;
+- final Port local harbor / estuary geometry;
+- which chokepoints have enough throughput to become strategic;
+- where the major Underpass entrances actually meet surface settlements.
 
-- how many days between the major hubs by ordinary travel;
-- which routes are cart-capable;
-- where river navigation stops;
-- how season changes those times;
-- whether Port / Highridge substitution still works once time and transport capacity are quantified.
-
-If V1 survives that test, its major geometry can be promoted from provisional draft into the geography owner. If not, revise the geometry rather than bending logistics to preserve the picture.
+Do not redraw the whole topology unless one of those tests creates a contradiction.

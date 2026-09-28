@@ -123,6 +123,10 @@ Do **not** respond to this method by creating fifty more canonical lore pages.
 
 The existing wiki owns what the world **is**. Breath is primarily a prose technique for revealing that material incompletely, locally and incidentally.
 
+## Applied seed bank
+
+[Culture Phase 8 — Breath Pass Scene Seeds](Culture-Phase-8-Breath-Scene-Seeds.md) demonstrates this method across seven ordinary community contexts. Its individual details are writing seeds, not canon.
+
 ## Related pages
 
 - [World Rules](../World-Rules.md)

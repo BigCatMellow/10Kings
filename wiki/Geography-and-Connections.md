@@ -8,15 +8,17 @@ The broad physical arrangement and the major circulation pressures are now estab
 
 This page owns the current geography model. Older source material remains useful as provenance, but it does not override this page.
 
+See [Foundations Legacy Reconciliation](Reference/Foundations-Legacy-Reconciliation.md) for the deliberate Volume 01 pass, including the preserved tectonic / Underpass formation hypothesis and superseded map/cosmology material.
+
 **Current spatial test:** [Working Map Draft — Geometry V1](Reference/Working-Map-Draft.md). The map is provisional and tests one physical solution against the constraints on this page; it does not yet promote exact coastlines, routes, or Port's final site.
 
 ## What is now established
 
 The known setting is organized around:
 
-- a **Western Continent** dominated by Ironcrest;
-- a **Northern Continent** dominated by Northwind;
-- a larger **Eastern Continent** containing Greenvale, Deepwood, Sunplains, and most or all of Highridge's settled plateau system;
+- a **Western Continent** dominated by Stone Hills;
+- a **Northern Continent** dominated by North Coast;
+- a larger **Eastern Continent** containing Low Rivers, Longwood, Old Cities, and most or all of High Roads's settled plateau system;
 - the central mountain system called **The Spine**;
 - branching subterranean routes called **The Underpass**;
 - the neutral commercial city **Port**, positioned where northern and southern maritime systems can meet interior routes.
@@ -42,10 +44,10 @@ This is a topology diagram, not a scale map and not a statement of exact borders
             |                                  |
        THE SPINE /                         EASTERN
        HIGHRIDGE NEXUS                    CONTINENT
-            |                         Greenvale lowlands
- WESTERN    |                         Deepwood forest belt
-CONTINENT   |                         Sunplains south/coast
-Ironcrest   |                                  |
+            |                         Low Rivers lowlands
+ WESTERN    |                         Longwood forest belt
+CONTINENT   |                         Old Cities south/coast
+Stone Hills   |                                  |
     \       |                                 /
      \------|------ surface / river ---------/
             |
@@ -53,7 +55,7 @@ Ironcrest   |                                  |
      branching bypasses
 
  Maritime circulation:
- Northwind  <---->  PORT  <---->  Sunplains
+ North Coast  <---->  PORT  <---->  Old Cities
                       |
               inland/river/road
                  connections
@@ -69,17 +71,17 @@ The Western Continent is the smaller rounded western landmass in the older sourc
 
 Current working features:
 
-- Ironcrest occupies much of it;
-- terrain rises toward the Spine-facing side;
-- mineral-rich uplands and older mountain geology support Ironcrest's mining and metalworking emphasis;
+- Stone Hills occupies much of it;
+- terrain rises toward The Spine-facing side;
+- mineral-rich uplands and older mountain geology support Stone Hills's mining and metalworking emphasis;
 - rivers and streams descend from higher ground through settled valleys;
-- western and southwestern coasts can support secondary maritime routes without making Ironcrest primarily maritime.
+- western and southwestern coasts can support secondary maritime routes without making Stone Hills primarily maritime.
 
 The exact width of the channel or separation between the western landmass and the central mountain system remains open.
 
 ### Northern Continent
 
-The Northern Continent sits north of the central system and contains Northwind's core lands.
+The Northern Continent sits north of the central system and contains North Coast's core lands.
 
 Current working features:
 
@@ -88,9 +90,9 @@ Current working features:
 - colder inland plateaus and tundra-like country;
 - southern forests and more sheltered valleys;
 - partially freezing waters and strong seasonal storm effects;
-- one or a few constrained approaches toward Highridge and the central route system.
+- one or a few constrained approaches toward High Roads and the central route system.
 
-Older material describes a dramatic fissure between the Northern Continent and the Spine while later worldbuilding establishes a Northwind ↔ Highridge pass relationship. The exact physical solution is therefore **not locked**. The final map must preserve both ideas by making southward access narrow and consequential without inventing a broad easy frontier.
+Older material describes a dramatic fissure between the Northern Continent and The Spine while later worldbuilding establishes a North Coast ↔ High Roads pass relationship. The exact physical solution is therefore **not locked**. The final map must preserve both ideas by making southward access narrow and consequential without inventing a broad easy frontier.
 
 ### Eastern Continent
 
@@ -98,10 +100,10 @@ The Eastern Continent is the largest and most internally varied landmass.
 
 Its broad order is:
 
-- **Greenvale** in the temperate agricultural lowlands and rolling interior;
-- **Highridge** near the Spine-facing elevated crossroads;
-- **Deepwood** across major inland forest belts and forested uplands;
-- **Sunplains** toward the warmer, drier southern and eastern country, including important coasts.
+- **Low Rivers** in the temperate agricultural lowlands and rolling interior;
+- **High Roads** near The Spine-facing elevated crossroads;
+- **Longwood** across major inland forest belts and forested uplands;
+- **Old Cities** toward the warmer, drier southern and eastern country, including important coasts.
 
 This arrangement should not look like four clean color blocks. Rivers, forest margins, uplands, old roads, migration, and historical conquest should create broad transition zones.
 
@@ -132,18 +134,18 @@ The exact rivers are not yet named or drawn, but the world already requires seve
 
 ### Western drainage
 
-Water descends from the Spine-facing uplands into Ironcrest valleys and toward the western sea.
+Water descends from The Spine-facing uplands into Stone Hills valleys and toward the western sea.
 
 This supports:
 
 - river settlements;
 - mills and water power;
 - ore and bulk-goods movement where channels allow;
-- fertile lower valleys that complicate the stereotype of Ironcrest as only mining country.
+- fertile lower valleys that complicate the stereotype of Stone Hills as only mining country.
 
-### Eastern / Greenvale drainage
+### Eastern / Low Rivers drainage
 
-Greenvale needs one or more major river systems fed partly by uplands.
+Low Rivers needs one or more major river systems fed partly by uplands.
 
 These rivers should support:
 
@@ -153,9 +155,9 @@ These rivers should support:
 - grain and livestock movement;
 - crossings important enough to become political and commercial centers.
 
-### Southern / Sunplains drainage
+### Southern / Old Cities drainage
 
-Sunplains needs fewer dependable water systems, but those rivers and tributaries matter disproportionately.
+Old Cities needs fewer dependable water systems, but those rivers and tributaries matter disproportionately.
 
 They should support:
 
@@ -165,9 +167,9 @@ They should support:
 - downstream/upstream disputes;
 - coastal ports or river-mouth markets.
 
-### Deepwood waters
+### Longwood waters
 
-Deepwood should contain substantial river valleys, wetlands, springs, and forest watersheds.
+Longwood should contain substantial river valleys, wetlands, springs, and forest watersheds.
 
 These waterways are not merely scenery. They determine:
 
@@ -184,6 +186,20 @@ The final map should make some water systems cross political boundaries. Water p
 
 See [Port](Places/Port.md).
 
+### Scale and travel-time test
+
+[Working Map — Scale and Travel-Time Test V1](Reference/Working-Map-Scale-and-Travel-Test.md) tested the provisional geometry against ordinary commercial travel, water transport, seasonal delay and Underpass substitution.
+
+The general V1 placement now has **strong working support**:
+
+- Port lies at or immediately beside the major Low Rivers trunk-river estuary / strait system;
+- this harbor system sits just south of the central Spine / High Roads convergence;
+- exact island / peninsula / mainland geometry remains open.
+
+The same test strongly supports a **southeastern highland shoulder** as the principal North Coast ↔ High Roads overland approach.
+
+Exact route distances and coastlines remain provisional.
+
 Port should be placed only where all of the following can plausibly coexist:
 
 1. a sheltered deep-water harbor, estuary, or strait;
@@ -196,11 +212,29 @@ Port should be placed only where all of the following can plausibly coexist:
 
 The older notes place Port at a **strategic strait between the continental systems**. That remains the strongest placement candidate, but the exact shore, island, peninsula, or estuary has not been promoted into canon.
 
+## Network endpoints and capacity
+
+[Working Map — Network Endpoints and Capacity Test V1](Reference/Working-Map-Network-Endpoints-and-Capacity.md) adds a second constraint beyond travel time:
+
+> a route matters according to **what can move end-to-end without changing mode**.
+
+Strong working conclusions:
+
+- G1 supports bulk navigation through much of Low Rivers but loses reliable large-craft navigation before the High Roads uplands;
+- this creates a major head-of-navigation transfer market somewhere in upper / central Low Rivers;
+- R1 / Western Gate and R3 / River Road are principal cart-capable trunks;
+- R2 / North Shoulder requires meaningful cart ↔ pack transshipment at its highland bottleneck;
+- R4 / Forest Edge Road is not continuously heavy-cart capable;
+- Port is best modeled as an estuary / channel complex where river, sea and road traffic transfer; this now has a strong physical-layout pass in [Port Estuary and Harbor Geometry — Middle-Worldbuilding Test](Reference/Port-Estuary-Harbor-Geometry-Test.md);
+- Underpass branches meet surface transport through multiple interface types rather than one universal gate.
+
+A strategic chokepoint may therefore be a **mode-conversion point** rather than a narrow piece of terrain.
+
 ## Major circulation skeleton
 
 The final map should make the following flows physically believable.
 
-### 1. Ironcrest ↔ Greenvale
+### 1. Stone Hills ↔ Low Rivers
 
 **Established.**
 
@@ -214,11 +248,11 @@ Typical movement:
 
 This needs at least one dependable route and several lesser local crossings.
 
-### 2. Northwind ↔ Highridge
+### 2. North Coast ↔ High Roads
 
 **Established but geographically constrained.**
 
-Northwind's southern movement reaches Highridge through one or a few important approaches.
+North Coast's southern movement reaches High Roads through one or a few important approaches.
 
 The exact form remains open, but it must be narrow enough that:
 
@@ -227,7 +261,7 @@ The exact form remains open, but it must be narrow enough that:
 - Icestep-type pass settlements make sense;
 - maritime alternatives remain attractive.
 
-### 3. Greenvale ↔ Sunplains
+### 3. Low Rivers ↔ Old Cities
 
 **Established.**
 
@@ -235,7 +269,7 @@ The transition should follow warmer lowlands, river systems, and agricultural co
 
 This is where grain country, orchards, irrigation, livestock, and market towns overlap.
 
-### 4. Deepwood ↔ Highridge
+### 4. Longwood ↔ High Roads
 
 **Established.**
 
@@ -248,7 +282,7 @@ This should create:
 - mixed settlements;
 - tension over extraction versus route expansion.
 
-### 5. Deepwood ↔ Ironcrest
+### 5. Longwood ↔ Stone Hills
 
 **Established in at least one direct or near-direct frontier.**
 
@@ -256,7 +290,7 @@ Logging, charcoal, ore, tools, and forest-edge conflict require a plausible conn
 
 This need not be a long border. A mountain corridor or forested shoulder is enough.
 
-### 6. Greenvale ↔ Deepwood
+### 6. Low Rivers ↔ Longwood
 
 **Strong working relationship.**
 
@@ -264,13 +298,13 @@ Field-to-forest transition, historical encroachment, rivers, and forest-edge mar
 
 Treat it as part of the working topology unless later map evidence contradicts it.
 
-### 7. Deepwood ↔ Sunplains
+### 7. Longwood ↔ Old Cities
 
 **Strong working relationship.**
 
-A southern forest transition into drier woodland and cultivated Sunplains supports orchard expansion, timber demand, water questions, and ecological conflict.
+A southern forest transition into drier woodland and cultivated Old Cities supports orchard expansion, timber demand, water questions, and ecological conflict.
 
-### 8. Highridge ↔ Sunplains
+### 8. High Roads ↔ Old Cities
 
 **Unresolved.**
 
@@ -278,17 +312,17 @@ This can become:
 
 - a direct southern plateau corridor;
 - a narrow pass;
-- or an indirect route through Greenvale / Deepwood.
+- or an indirect route through Low Rivers / Longwood.
 
 Do not lock this merely because it makes the map tidier.
 
 ## Maritime skeleton
 
-Northwind and Sunplains are major maritime systems for different reasons.
+North Coast and Old Cities are major maritime systems for different reasons.
 
 ### Northern lanes
 
-Northwind's sea routes connect:
+North Coast's sea routes connect:
 
 - island and coastal communities;
 - secondary harbors;
@@ -298,7 +332,7 @@ Northwind's sea routes connect:
 
 ### Southern lanes
 
-Sunplains sea routes connect:
+Old Cities sea routes connect:
 
 - competing coastal city-states;
 - irrigated/orchard export regions;
@@ -341,16 +375,16 @@ The final map should therefore show only major known entrances and important cor
 
 | Relationship | Current confidence | Map treatment |
 | --- | --- | --- |
-| Ironcrest ↔ Greenvale | Established | direct meaningful frontier / corridor |
-| Northwind ↔ Highridge | Established | narrow consequential access |
-| Greenvale ↔ Sunplains | Established | broad agricultural transition |
-| Deepwood ↔ Highridge | Established | forest-to-plateau frontier |
-| Deepwood ↔ Ironcrest | Established at least locally | direct or near-direct corridor |
-| Greenvale ↔ Deepwood | Strong working | direct unless contradicted |
-| Deepwood ↔ Sunplains | Strong working | southern forest transition |
-| Greenvale ↔ Highridge | Likely | exact length unresolved |
-| Ironcrest ↔ Highridge | Likely | pass / mountain corridor |
-| Highridge ↔ Sunplains | Unknown | do not force |
+| Stone Hills ↔ Low Rivers | Established | direct meaningful frontier / corridor |
+| North Coast ↔ High Roads | Established | narrow consequential access |
+| Low Rivers ↔ Old Cities | Established | broad agricultural transition |
+| Longwood ↔ High Roads | Established | forest-to-plateau frontier |
+| Longwood ↔ Stone Hills | Established at least locally | direct or near-direct corridor |
+| Low Rivers ↔ Longwood | Strong working | direct unless contradicted |
+| Longwood ↔ Old Cities | Strong working | southern forest transition |
+| Low Rivers ↔ High Roads | Likely | exact length unresolved |
+| Stone Hills ↔ High Roads | Likely | pass / mountain corridor |
+| High Roads ↔ Old Cities | Unknown | do not force |
 
 ## Map-drafting rules
 
@@ -359,10 +393,10 @@ A future map should be rejected if it makes any of these true:
 - every region has a neat equal-sized territory;
 - every important relationship is a long clean border;
 - Port is central only because a label says so;
-- Highridge can be bypassed overland without meaningful cost everywhere;
-- Northwind's southern access is broad and easy;
-- Sunplains water politics have no upstream geography;
-- Greenvale lacks navigable or commercially important river systems;
+- High Roads can be bypassed overland without meaningful cost everywhere;
+- North Coast's southern access is broad and easy;
+- Old Cities water politics have no upstream geography;
+- Low Rivers lacks navigable or commercially important river systems;
 - The Spine is either trivial to cross or completely impassable;
 - the Underpass solves every mountain problem;
 - borders perfectly match cultures;
@@ -373,12 +407,12 @@ A future map should be rejected if it makes any of these true:
 The broad topology is no longer the main unknown. The remaining geography work is more specific:
 
 - exact coastlines and continental proportions;
-- exact form of the Northwind ↔ Spine / Highridge connection;
-- exact location and territorial form of Port;
+- exact form of the North Coast ↔ The Spine / High Roads connection;
+- exact internal island / channel shape and municipal boundary of the now-supported Port estuary complex;
 - named major rivers and watersheds;
 - exact major passes and old roads;
 - exact major Underpass entrances and branches;
-- whether Highridge directly borders Sunplains;
+- whether High Roads directly borders Old Cities;
 - which regional borders are broad transition zones versus narrow corridors;
 - approximate travel times between major hubs;
 - seasonal route reliability.

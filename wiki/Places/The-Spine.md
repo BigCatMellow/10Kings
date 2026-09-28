@@ -31,8 +31,8 @@ The range creates political choke points.
 A pass can matter more than a hundred miles of open border.
 
 This explains:
-- Highridge's importance;
-- Underpass development;
+- the High Roads' importance;
+- development of the Underpass;
 - ancient toll states;
 - strategic fortresses;
 - migration corridors;
@@ -51,7 +51,7 @@ Recent earthquakes or rock shifts have:
 - damaged routes;
 - revealed old ruins or sealed spaces;
 - created arguments over newly accessible resources;
-- changed Underpass conditions;
+- changed conditions in the Underpass;
 - attracted explorers, guilds, religious groups, criminals, and Council attention.
 
 ## Story function

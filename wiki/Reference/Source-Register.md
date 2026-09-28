@@ -21,6 +21,16 @@ Incoming source material was classified as:
 
 This follows MAPS_L's “one concept, one owner” and information-lifecycle rules.
 
+## Active retrieval layer
+
+Use [Legacy Source Audit and Retrieval Index](Legacy-Source-Audit.md) and [Legacy Master Salvage Pass — V2](Legacy-Master-Salvage-Pass-V2.md) before substantial legacy retrieval. The first reconciliation was structural; the V2 source-level pass now tracks all 220 original Markdown sources individually in [Legacy Source-Level V2 Ledger](Legacy-Source-Level-V2-Ledger.md).
+
+The audit distinguishes:
+- cold provenance;
+- reconciled quarry material;
+- partially reconciled sources;
+- high-salvage unreconciled sources.
+
 ## Import set
 
 ### 1. Historical conversion summary
@@ -116,6 +126,27 @@ Disposition: **promoted as a design method** to [Food Diaspora and Adaptation](.
 
 The generational adaptation model and functional-substitution method were retained. Exact modern ingredient analogues remain illustrative so they do not accidentally hard-code a real-world cuisine into a region.
 
+### 8. Audience-movement / Ron & Fez cult concept
+
+**Uploaded:** `RnFClt.txt`
+
+Disposition: **preserved source + provisional social-worldbuilding input.**
+
+The file develops a fantasy translation of two related participatory communities:
+
+- an R&F-derived movement organized around belonging, accumulated lore, relationships, memory and civilian-to-character permeability;
+- an O&A-derived neighboring movement organized around participation, mobilization, ranks, campaigns and action.
+
+It also emphasizes crossover members, shared founders, later theological reinterpretation, archival factions, splinter sects and the possibility that followers make the rivalry sharper than the founders did.
+
+The raw supplied file is preserved at [legacy-notes/2026-09-22/direct-uploads/RnFClt.txt](../../legacy-notes/2026-09-22/direct-uploads/RnFClt.txt).
+
+The live synthesis is [Audience Movements](../Culture/Audience-Movements.md).
+
+The deeper real-world structural research source is the separate [BigCatMellow/RonFez](https://github.com/BigCatMellow/RonFez) repository, especially its reconstruction of the secondary universe, civilian cast, fan status, physical events, archive culture and community afterlife.
+
+No real-world personality, event, magical broadcast mechanism or final cult name is automatically setting canon.
+
 ## SHA-256 evidence
 
 Hashes identify the exact files reviewed in this pass.
@@ -130,6 +161,7 @@ Hashes identify the exact files reviewed in this pass.
 | `Two_Sons_-_Complete_Reference.md` | `6f167a6de74b6a1ec270ec18815d30fe93f644932ab7fae2dbe6f9cdc79311e9` |
 | `two_sons_world_dynamics.md` | `3f2deb358dc1fcfdca1b7dddbfde6c932c5c2fac98b8d9e79749842d2b2882b8` |
 | `Worldbuilding_Breath_Notes.md` | `cb8653ac2b64cebba29f19875c062362b8b8c1fabf744a6e4e221e0911b8fccb` |
+| `RnFClt.txt` | `b3a0ed71bf12322c069572de64dd6050965cb8b7e872a20aadc1a5061baef363` |
 
 ### Files inside the consolidated package
 
@@ -171,10 +203,668 @@ Use this instead of reopening the large compendia for normal work.
 | How do regions depend on each other? | [Trade and Dependencies](../Economy/Trade-and-Dependencies.md) |
 | What old wars/grudges can people remember differently? | [Contested Historical Memory](../History/Contested-Memory.md) |
 | What ordinary prejudice/jokes/social friction can appear? | [Regional Social Dynamics](../Culture/Regional-Social-Dynamics.md) |
+| How should culture, food, naming, language and daily life be deepened? | [Culture Deepening Plan](Culture-Deepening-Plan.md) |
+| How are current place names being grounded / renamed? | [Grounded Naming Realignment](Grounded-Naming-Realignment.md) |
 | What seasonal festivals exist as working material? | [Festivals and Seasonal Life](../Culture/Festivals-and-Seasonal-Life.md) |
 | How does food change through migration? | [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md) |
+| How is the food system being deepened? | [Culture Phase 3 — Food Vertical Slices](Culture-Phase-3-Food-Vertical-Slices.md) |
+| How is architecture being deepened? | [Culture Phase 4 — Architecture Vertical Slices](Culture-Phase-4-Architecture-Vertical-Slices.md) |
+| How do overlapping identities and institutions fit together? | [Social Fabric](../Social-Fabric.md) |
+| How could a participatory cult/social movement work? | [Audience Movements](../Culture/Audience-Movements.md) |
+| How should the WWF/WCW/ECW analogy be translated? | [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md) |
 | How do I make a scene feel like the world existed yesterday? | [Worldbuilding Breath](Worldbuilding-Breath.md) |
 | Is an older fixed claim still canon? | Find the current owner page; if unresolved, [Open Questions](../Open-Questions.md) wins over legacy certainty |
+
+## Legacy V2 salvage pass — 2026-09-25
+
+A second source-level pass was opened after later work demonstrated that the earlier volume-level reconciliation could still hide useful middle-layer material.
+
+Active controls:
+
+- [Legacy Master Salvage Pass — V2](Legacy-Master-Salvage-Pass-V2.md);
+- [Legacy Source-Level V2 Ledger](Legacy-Source-Level-V2-Ledger.md);
+- [Legacy High-Salvage Deep Review — V2](Legacy-High-Salvage-Deep-Review-V2.md).
+
+The V2 ledger accounts for all **220 original source entries** in the consolidated package.
+
+The purpose was salvage, not restoration.
+
+Current owner pages remain authoritative.
+
+---
+
+## Culture-depth audit — 2026-09-23
+
+A follow-up audit compared the current Culture owners against legacy Volumes 03, 04, 05, 07 and the culture/worldbuilding guidance in Volume 13.
+
+Disposition:
+
+- current Culture / World Rules remain authoritative;
+- legacy material is retained as a research quarry rather than restored wholesale;
+- current methodology is stronger than the old material, but daily-life detail was compressed too far during reconciliation;
+- highest-priority gaps are naming systems, language history, daily customs, clothing/material culture, food history, architecture by class/history, and arts/leisure;
+- older region-personality mappings and exaggerated accent/cuisine stereotypes are specifically **not** candidates for automatic restoration.
+
+Roadmap: [Culture Deepening Plan](Culture-Deepening-Plan.md).
+
+### Phase 1 — language and naming
+
+The first culture-deepening execution pass reconciled current history and social structure with the legacy Linguistics / Naming material.
+
+Outputs:
+
+- [Language History and Naming Audit](Language-History-and-Naming-Audit.md)
+- [Naming History Vertical Slices](Naming-History-Vertical-Slices.md)
+- [Personal Naming Framework](Personal-Naming-Framework.md)
+
+Promoted structural conclusions:
+
+- modern regions do not map one-to-one onto ancient languages;
+- pre-Convergence language geography should be fragmented along local social / geographic networks;
+- Convergence-era law and trade likely encouraged standardized spellings and interregional registers;
+- active macro labels were deliberately replaced with plainer common-language forms; local endonyms remain open;
+- Port develops native mixed speech rather than a mechanical blend of regional stereotypes;
+- legacy accent caricatures and theme-first naming outputs remain reference only.
+
+No native language names or conlang phonologies were promoted.
+
+The first grounded-name correction replaced the fantasy-branded macro labels with intentionally generic common-language labels:
+
+- Ironcrest → Western Uplands;
+- Northwind → North Country;
+- Greenvale → River Country;
+- Highridge → High Country;
+- Deepwood → Forest Country;
+- Sunplains → South Country;
+- The Spine → The Spine;
+- The Underpass → The Underpass.
+
+See [Grounded Naming Realignment](Grounded-Naming-Realignment.md).
+
+**Second-pass grounded names — 2026-09-23**
+
+The first correction (Western Uplands / North Country / Low Rivers-style labels) proved too generic as a final cultural vocabulary. A second pass kept the ordinary naming rule but gave the six cultural cores more historically specific common names:
+
+- Western Uplands → Stone Hills;
+- North Country → North Coast;
+- River Country → Low Rivers;
+- High Country → High Roads;
+- Forest Country → Longwood;
+- South Country → Old Cities.
+
+These remain common-language cultural-geographic names, not exclusive ethnic territories.
+
+### Phase 2 — daily life and material culture
+
+The next culture pass reviewed legacy Volume 04 against the current region, social, food, architecture, guild and trade owners.
+
+Outputs:
+
+- [Daily Life and Customs](../Culture/Daily-Life-and-Customs.md)
+- [Clothing and Material Culture](../Culture/Clothing-and-Material-Culture.md)
+- [Culture Phase 2 — Ordinary-Life Vertical Slices](Culture-Phase-2-Vertical-Slices.md)
+- [Material Culture Supply Chains](Material-Culture-Supply-Chains.md)
+
+Disposition of legacy material:
+
+**Compatible mechanisms retained**
+- workwear and weather adaptation;
+- class / occupation differences;
+- repair and reuse;
+- guild / household identity markers;
+- market-day social life;
+- profession-linked coming-of-age as one possible pattern;
+- imported textiles / secondhand goods / trade influence.
+
+**Not promoted**
+- one signature regional costume;
+- fixed regional palettes;
+- universal wave / vine / flame / leaf / sun motifs;
+- “stoic,” “gritty,” “elegant,” “mystical” clothing psychology;
+- direct Earth-culture costume mapping;
+- universal regional marriage / household / funeral systems.
+
+The older source remains provenance and an idea quarry, not a style bible.
+
+### Phase 3 — food
+
+Legacy Volume 05 and the food adaptation package were reconciled against the current trade, household, material-culture and naming owners.
+
+Outputs:
+
+- [Food](../Culture/Food.md) — substantially deepened owner;
+- [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md) — revised migration method;
+- [Culture Phase 3 — Food Vertical Slices](Culture-Phase-3-Food-Vertical-Slices.md).
+
+**Compatible mechanisms retained**
+- smoking, drying, salting, brining, fermentation and pickling;
+- cellar / cool storage and ice storage where climate supports it;
+- communal ovens;
+- cauldron / hearth / griddle cooking;
+- portable cooking around travel;
+- work food and market food;
+- imported ingredients as class / status signals;
+- household and communal preservation.
+
+**Demoted or rejected as automatic canon**
+- forge / frost / forest / sun themed cuisine;
+- one flavor personality per region;
+- direct copies of named modern cuisines or cooking vessels;
+- “canning days” without independently established sealing technology;
+- universal regional dining etiquette;
+- regional signature-dish lists;
+- ornate fantasy dish names.
+
+Food now follows material causes first.
+
+### Phase 4 — architecture
+
+Legacy Volume 03 was reconciled against current geography, household, food, trade and world-rule owners.
+
+Outputs:
+
+- [Architecture](../Culture/Architecture.md) — substantially rebuilt owner;
+- [Culture Phase 4 — Architecture Vertical Slices](Culture-Phase-4-Architecture-Vertical-Slices.md).
+
+**Compatible mechanisms retained**
+- retaining walls;
+- stone / timber / earth construction;
+- raised floors in flood-prone districts;
+- courtyards;
+- roof terraces where climate supports them;
+- steep roofs where weather requires them;
+- cisterns / wells / canals;
+- mixed workshop-housing;
+- caravan yards;
+- warehouses;
+- ventilation;
+- city / town / household scale differences.
+
+**Demoted or rejected as automatic canon**
+- one architectural style per cultural core;
+- industrial-fortress Stone Hills;
+- Scandinavian North Coast;
+- agrarian-village Low Rivers;
+- Tibetan/Andean High Roads;
+- forest-integrated “tribal” Longwood;
+- Moorish/Mediterranean Old Cities;
+- Port as six themed ethnic quarters;
+- decorative regional motifs chosen mainly to signal identity;
+- unsupported geothermal / glass / industrial-metal systems.
+
+Architecture now follows infrastructure and history first.
+
+
+### Phase 5 — arts, music, leisure and public culture
+
+Legacy Volume 04 was reconciled against current social, trade, migration, guild, Port and competitive-sphere owners.
+
+Outputs:
+
+- [Arts, Music and Leisure](../Culture/Arts-Music-and-Leisure.md) — new structural owner;
+- [Culture Phase 5 — Arts, Leisure and Public-Culture Vertical Slices](Culture-Phase-5-Arts-Leisure-Vertical-Slices.md).
+
+**Compatible mechanisms retained**
+- market storytellers and performers;
+- occupational and guild competitions;
+- oral songs / stories as social memory;
+- traveling musicians and entertainers;
+- patronage;
+- communal dancing and performance;
+- children's games;
+- portable performance traditions among itinerant groups.
+
+**Demoted or rejected as automatic canon**
+- one musical / artistic personality per region;
+- direct copies of Appalachian, Gaelic, gamelan or other named Earth forms;
+- fantasy-theme arts such as forge / frost / forest aesthetics assigned by region;
+- songs functioning as perfectly reliable historical archives;
+- every major art form beginning with elite patronage;
+- Port as a simple collage of six regional traditions.
+
+Public culture now follows venue, audience, work, money, travel, memory and repeated contact first.
+
+### Phase 6 — festivals, seasonal life and life-cycle ritual
+
+Legacy Volumes 04 and 06 were reconciled against current Daily Life, Religions, Food, Architecture, Arts, Naming, trade and historical-memory owners.
+
+Outputs:
+
+- [Festivals, Seasonal Life and Public Ritual](../Culture/Festivals-and-Seasonal-Life.md) — rebuilt structural owner;
+- [Culture Phase 6 — Festivals and Life-Cycle Ritual Vertical Slices](Culture-Phase-6-Festivals-Life-Cycle-Vertical-Slices.md).
+
+**Compatible mechanisms retained**
+- harvest and seasonal gatherings;
+- profession-linked responsibility changes;
+- guild / occupational rites;
+- pilgrimage and departure observances;
+- public memory and mourning;
+- market and civic gatherings;
+- fasting / restraint as possible faith practices where current religious owners support them;
+- household and community celebration around life transitions.
+
+**Demoted or rejected as automatic canon**
+- one festival calendar per region;
+- theme-first festival names;
+- universal regional wedding, funeral or coming-of-age systems;
+- direct promotion of older deity-specific ritual scripts;
+- Three Moon Festival as a named Port canon event without current cosmological support;
+- aurora, crop, wine or other environmental festival premises where the underlying local condition is not yet established;
+- dramatic skill trials as the default route to adulthood.
+
+Recurring ritual now follows actual coordination problems, material cycles, institutions and local history first.
+
+### Phase 7 — cross-regional cultural transmission
+
+Current culture owners were tested against one another rather than against a new legacy source.
+
+Output:
+
+- [Culture Phase 7 — Cross-Regional Cultural Transmission](Culture-Phase-7-Cross-Regional-Transmission.md).
+
+Seven provisional forms were traced through actual social / economic networks:
+
+- food;
+- garment;
+- word;
+- place-name usage;
+- song;
+- game;
+- ritual.
+
+**Structural findings promoted**
+- cultural diffusion is carrier-specific;
+- different cultural forms have different transmission costs;
+- proximity is weaker than repeated contact;
+- contact zones generate culture rather than merely receiving it;
+- return influence from diaspora / prestige adoption can alter source communities;
+- cultural borders behave as selective filters rather than walls.
+
+**Still provisional**
+- every exact dish, garment, word, song, game and ritual used in the traces;
+- Port's exact historical naming sequence;
+- exact transmission dates and route chronology.
+
+The pass also corrected stale pre-realignment region terminology in active Border Towns and Trade owners and demoted older theme-first border-town names to legacy / provisional prompts.
+
+## Legacy retrieval audit — 2026-09-23
+
+A deliberate audit of `legacy-notes/` found that the archive contains three different classes of material:
+
+- **cold provenance** that should remain historical only;
+- **reconciled quarry material** whose useful mechanisms already have active owners;
+- **partially / unreconciled material** that still contains forward-relevant mechanisms.
+
+The active routing owner is [Legacy Source Audit and Retrieval Index](Legacy-Source-Audit.md).
+
+Highest-salvage areas identified:
+
+- Volume 02 — regional/local institutions, minor polities, education and law;
+- Volume 06 — religious institutional depth, teaching, archives, charity, sects and pilgrimage;
+- Volume 08 — Council stress tests, guild class/economic functions and underworld structure;
+- Volume 09 — military/logistics material requiring a current-tech pass;
+- Volume 12 — grounded domino design and historical escalation research.
+
+Volume 13 also exposed underdeveloped current systems: education/knowledge transmission, medicine/healing institutions, law/justice, folk belief/taboo and timekeeping. These were added to [Open Questions](../Open-Questions.md) as gaps rather than promoted as old lore.
+
+One forward-relevant method was extracted immediately into [Grounded Domino Design Method](Grounded-Domino-Design.md).
+
+The audit also found superseded region labels still present in active Crime, Weapons, Character, Villain-Domino and Guild pages. Those labels were aligned to the current regional naming set.
+
+Duplicate all-in-one / nested package files remain provenance but should not be normal retrieval targets; the thematic volumes are preferred.
+
+## Religion legacy reconciliation — 2026-09-23
+
+Volume 06 received a full structural review rather than remaining a generic "legacy religion" bucket.
+
+Outputs:
+
+- [Religions](../Politics/Religions.md) — expanded active owner;
+- [Religion Legacy Reconciliation](Religion-Legacy-Reconciliation.md) — faith-by-faith preservation layer;
+- [Religious Artifacts Framework](Religious-Artifacts-Framework.md) — recovered artifact method and named seed bank.
+
+**Retained**
+- nine major trans-regional traditions;
+- principle-centered and deity-free revisions already present in the source;
+- named deities / spirits / saints / sages as possible in-world personifications or branch-specific theology;
+- sects, schools, texts and institutions as provisional vocabulary;
+- schools, archives, charity, mediation, pilgrimage, craft ethics, counseling, nonviolent reform and knowledge preservation;
+- six old philosophical schools as provisional cross-faith intellectual traditions;
+- religious artifacts as culturally embedded, communal, subtle / conditional objects rather than game-style loot.
+
+**Important source defects recorded**
+- the "Dual Flame (No Gods)" block is partially contaminated with Infinite Compass pilgrimage / cartography material;
+- the Harmonious Path no-gods draft retains deity references and duplicated flame/equinox festival material;
+- the 168-god pantheon over-systematizes divine domains and sometimes conflates divine structure with old Council logic.
+
+**Not promoted as objective fact**
+- literal existence of the named gods;
+- the 168-god pantheon as cosmological truth;
+- universal temple styles;
+- universal named festivals;
+- old region-to-faith mappings;
+- exact supernatural effects of artifacts.
+
+The goal is preservation without accidental canonization.
+
+## Council, guild and underworld legacy reconciliation — 2026-09-23
+
+Volume 08 received a full structural review.
+
+Outputs:
+
+- [Economic Council](../Politics/Economic-Council.md) — expanded with operational layers, aid/dependency, failure modes and unresolved succession;
+- [Council Legacy Reconciliation](Council-Legacy-Reconciliation.md);
+- [Guilds](../Politics/Guilds.md) — expanded with governance variation, certification, branches, cross-guild agreements and member-economic gaps;
+- [Guild Legacy Reconciliation](Guild-Legacy-Reconciliation.md);
+- [Crime and the Underworld](../Politics/Crime-and-Underworld.md) — expanded with criminal economics, cells, information crime and preserved faction seeds;
+- [Underworld Legacy Reconciliation](Underworld-Legacy-Reconciliation.md).
+
+**Council material retained**
+- generational institutional memory of pre-Convergence instability;
+- dependency / bottleneck control rather than direct government;
+- intermediaries, fronts and plausible deniability;
+- aid that creates long-term dependency;
+- gradual pressure;
+- use of real crises rather than secretly causing every crisis;
+- alternate supply chains, coalitions, exposure and internal rivalry as failure modes;
+- Circle of Mirrors concept preserved as a possible red-team / adversarial-feedback mechanism.
+
+**Guild material retained**
+- varied leadership models;
+- apprenticeship and professional progression;
+- quality seals, certification and blacklisting;
+- branch autonomy;
+- contract leverage;
+- cross-guild agreements;
+- guilds as cultural / technical transmission networks;
+- two-way bargaining with rulers and Council-linked interests.
+
+**Underworld material retained**
+- cellular networks;
+- ordinary trade fronts;
+- document / seal / art forgery;
+- smuggling as logistics;
+- information brokerage;
+- relic / provenance crime;
+- ideologically motivated clandestine groups;
+- provisional named seed bank including Black Tapestry, Painted Moon, Tallow Runners and Ebony Doves.
+
+**Demoted / rejected**
+- omnipotent Council control;
+- one Council family per old region;
+- old Dominus structure as current fact;
+- RPG-style Warriors / Assassins / Adventurers guild system;
+- one themed gang per region;
+- high-magic contraband and technology unsupported by World Rules;
+- detailed old faction leaders / symbols / branches as automatic canon.
+
+## Council review branch integration — 2026-09-23
+
+The separate `council-review-2026-09-23` branch contained a substantially newer Council design than the short Council owner previously present on the culture branch.
+
+That work is now integrated into the active branch.
+
+Authority:
+
+1. [Economic Council](../Politics/Economic-Council.md) — authoritative structural owner;
+2. [Economic Council — Internal Structure](../Politics/Economic-Council-Internal-Structure.md) — authoritative for supported / derived / open internal mechanics;
+3. [Movement and Information](../Movement-and-Information.md) — authoritative for information propagation and Council information limits;
+4. [Council Legacy Reconciliation](Council-Legacy-Reconciliation.md) — supplemental provenance and salvage only.
+
+The Council owner is preserved from the review branch verbatim except for one added link to the supplemental legacy reconciliation page.
+
+Supporting Council-review changes were also merged into:
+
+- The Convergence;
+- Home;
+- Open Questions;
+- World Synthesis — E/I Candidates 3 and 4;
+- Social Fabric;
+- World System;
+- Sidebar.
+
+Where the culture branch had additional later material, the files were merged as supersets rather than wholesale replaced.
+
+## Regions / kingdoms legacy reconciliation — 2026-09-23
+
+Volume 02 received a deliberate pass after first integrating the newer `post-convergence-political-order-2026-09-23` work.
+
+Authoritative political owners now include:
+
+- [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md);
+- [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md);
+- [The Convergence](../History/The-Convergence.md);
+- [Regional and Polity Legacy Reconciliation](Regional-Polity-Legacy-Reconciliation.md).
+
+**Retained from Volume 02**
+- multiple polities inside one cultural region;
+- buffer marches;
+- pass / route polities;
+- guild- or merchant-run cities;
+- confederations and protectorates;
+- rotating federation leadership;
+- hereditary succession with institutional confirmation;
+- elective / clan-confirmed leadership;
+- local councils and overlapping border administration;
+- minor polities as real systemic actors rather than map decoration;
+- education through apprenticeship, guilds, religion and specialist schools as mechanisms needing a future owner.
+
+**Preserved only as provisional quarry**
+- names such as Moorcrest Marches, Cliffhaven, Foxglove March, Rashira, Marabel, Redwater, Silvercrag, Whitepeak, Willowdeep and others;
+- old ruler names and constitutional examples.
+
+**Rejected / superseded**
+- one state per cultural region;
+- rulers designed as embodiments of regional personality;
+- unsupported railways / industrial technology;
+- direct Earth-culture state templates;
+- magical or theatrical succession rules as regional defaults;
+- generic warlords without a revenue / logistics basis.
+
+## Military / weapons legacy reconciliation — 2026-09-23
+
+Volume 09 received a deliberate pass.
+
+Outputs:
+
+- [Weapons and Elite Troops](../Culture/Weapons-and-Elite-Troops.md) — expanded active owner;
+- [Military and Weapons Legacy Reconciliation](Military-Weapons-Legacy-Reconciliation.md).
+
+**Retained**
+- maintainability and field repair;
+- common equipment following material life rather than fantasy identity;
+- militia / levy versus professional-force tradeoffs;
+- specialist marines, route guards, engineers, harbor patrols, scouts and levy cadres;
+- trade / convoy defense as a mixed civilian-military institution;
+- border equipment and repair techniques hybridizing through workshops;
+- logistics as a future owner problem;
+- named elite units retained only as provisional seed material.
+
+**Rejected / demoted**
+- one army per cultural region;
+- mechanized / rapid-fire equipment beyond the technology baseline;
+- magical troop types unsupported by World Rules;
+- "poor workers use scrap fantasy weapons";
+- mobile / indigenous peoples treated as technologically primitive;
+- region-coded signature weapons and theme-first elite-unit names.
+
+## Linguistics legacy reconciliation — 2026-09-23
+
+Volume 07 received a deliberate pass after integrating the newer `language-families-contact-2026-09-23` owners.
+
+Outputs:
+
+- [Language and Thought](../Culture/Language-and-Thought.md);
+- [Language Families, Contact, and Mutual Intelligibility](../Language-Families-and-Contact.md);
+- [Linguistics Legacy Reconciliation](Linguistics-Legacy-Reconciliation.md).
+
+**Retained**
+- micro-dialects and local speech pockets;
+- isolation preserving older forms;
+- migration-created language enclaves;
+- code-switching and stable contact varieties;
+- guild / professional / trade registers;
+- class and prestige effects;
+- translation as labor;
+- contact speech and generational language change;
+- evidentiality, honorifics, directional systems and similar features as optional linguistic candidates;
+- the source's own caution against strong linguistic determinism.
+
+**Rejected / demoted**
+- one language or accent per cultural region;
+- grammar mechanically expressing regional personality;
+- heavy phonetic eye-dialect;
+- direct mapping of "industrial = blunt," "forest = soft," "scholarly = logical";
+- old language / place names generated from those stereotypes.
+
+## Current-events legacy reconciliation — 2026-09-23
+
+Volume 10 was reviewed against the current opening-state owner.
+
+Output:
+
+- [Current Events Legacy Reconciliation](Current-Events-Legacy-Reconciliation.md).
+
+**Retained as compatible event / mechanism quarry**
+- mine collapse;
+- severe winter;
+- flood / crop rot;
+- Underpass gas / bad-air incidents;
+- guild walkouts;
+- emergency merchant summits;
+- rerouting around tolls / danger;
+- refugee and labor movement;
+- multi-step economic ripple chains;
+- guild and religious responses;
+- rumor / attribution conflict;
+- Wurdren affecting local problems without controlling the whole system.
+
+**Rejected / held**
+- Starlight Harvest / cosmic-energy economy;
+- unestablished rail sabotage;
+- mechanical harvester modernization;
+- industry-changing alchemical miracle cures;
+- unsupported magical ecological attacks;
+- conspiracy saturation where Council, Villain, guilds and religions all secretly cause the same event.
+
+[Current Events](../Story/Current-Events.md) remains authoritative for what is actually happening.
+
+## Story core / character legacy reconciliation — 2026-09-23
+
+Volume 11 received a deliberate pass.
+
+Output:
+
+- [Story Core and Character Legacy Reconciliation](Story-Core-Legacy-Reconciliation.md).
+
+**Promoted structurally**
+- Wurdren should accumulate recurring relationships rather than pass through disposable quest locations;
+- his moral ambiguity should appear through concrete choices;
+- the Villain needs some tangible legitimacy / benefit for supporters rather than pure deception;
+- grounded recurring-antagonist roles can be reused as seed archetypes.
+
+**Preserved provisionally**
+- Wurdren's proposed late wife, adult children, letters, engraved sword and failed-aid backstory;
+- "homeland for his people" as one possible Villain grievance;
+- grounded antagonist seeds such as information thief/extortionist, pirate political leader, radical agrarian organizer, industrial saboteur, caravan outlaw, merchant monopolist and distributed secret-broker network.
+
+**Rejected / superseded**
+- the older model where the Villain does not know the Economic Council exists;
+- unsupported high-magic recurring villains;
+- obsolete plot outline treated as current;
+- character designs whose main function is to personify an old region.
+
+The WWF/WCW/ECW material is already actively reconciled through [Competitive Kingdom Dynamics](Competitive-Kingdom-Dynamics.md).
+
+## Foundations / myth / history legacy reconciliation — 2026-09-23
+
+Volume 01 received a deliberate pass.
+
+Output:
+
+- [Foundations Legacy Reconciliation](Foundations-Legacy-Reconciliation.md).
+
+**Retained as compatible hypotheses / mechanisms**
+- ancient joined-land / supercontinent possibility;
+- tectonic uplift / rifting as a mundane explanation for the continental topology and The Spine;
+- faults, caves, water erosion and human excavation as a plausible mixed origin for The Underpass;
+- seismic instability;
+- climate derived from latitude, currents, elevation, mountain barriers and watersheds;
+- Port-at-strait / harbor as the strongest placement candidate;
+- pre-Convergence wars over resources, shifting borders, local compacts and failed larger states;
+- "the Mother" as mythology quarry distinct from geological fact.
+
+**Superseded / held**
+- literal Three Sons cosmology versus the current Two Sons / twin-sun model;
+- fixed old capital map;
+- exact old negative-year chronology;
+- one cultural region = one kingdom;
+- old Deepwell / Underpass unified-state assumptions;
+- unsupported industrial / magical infrastructure.
+
+## Writing/worldbuilding guide gap extraction — 2026-09-23
+
+Volume 13 was reviewed as a **design checklist source**, not a lore source.
+
+It repeatedly flagged education, medicine, law, folk belief and timekeeping as categories a complete world should answer. Those categories are now actively routed through:
+
+- [Education and Knowledge Transmission](../Education-and-Knowledge-Transmission.md) — new structural synthesis;
+- [Medicine and Healing](../Medicine-and-Healing.md) — new structural synthesis;
+- [Law, Jurisdiction, and Dispute Resolution](../Law-and-Jurisdiction.md) — reviewed political-order owner;
+- [Folk Belief, Taboo, and Superstition](../Culture/Folk-Belief-Taboo-and-Superstition.md) — new structural synthesis;
+- [Calendars, Timekeeping, and Seasonal Coordination](../Calendar-and-Timekeeping.md) — reviewed language/contact owner.
+
+The generic Volume 13 examples are **not canon**. Its useful role was gap detection and design-question recovery.
+
+## Philosophy / reading-list extraction — 2026-09-23
+
+Volume 14 remains non-canon, but its useful research routing has been extracted into [Philosophy and Research Index](Philosophy-and-Research-Index.md).
+
+The active index organizes research around:
+- Council / institutional power;
+- Villain / ends and means;
+- Wurdren / ordinary responsibility;
+- systems and interdependence;
+- guilds / labor / economic power;
+- law / punishment;
+- religion;
+- war / political violence.
+
+The old book summaries and quotation collections are **not authoritative scholarship**. Any quotation or philosophical claim used in actual design work should be checked against the original source or reliable scholarship first.
+
+## Cities / cultures final legacy cleanup — 2026-09-23
+
+Volumes 03 and 04 received a final targeted review after their main architecture, daily-life and mobile-peoples material had already been reconciled elsewhere.
+
+### Volume 03
+
+[Legacy Settlement Seed Bank](Legacy-Settlement-Seed-Bank.md) preserves useful **site-driven settlement mechanisms** from old city drafts without reviving the old one-style-per-region architecture.
+
+Strong seeds include:
+- geothermal mountain settlement;
+- mine-centered guild city;
+- isolated cold-weather settlement;
+- cliff harbor with vertical circulation;
+- river-island settlement where bridge maintenance is political;
+- pass settlement dependent on traffic;
+- wetland settlement on stilts / boardwalks;
+- oasis settlement organized around water control;
+- temporary / institutional mask-use salvaged from the over-totalized City of Masks concept.
+
+The retained design sequence is:
+
+`site constraint -> infrastructure -> work -> movement -> institution -> neighborhood -> local culture`.
+
+### Volume 04
+
+The newer [Nomads](../Culture/Nomads.md) owner already absorbs the useful comparative mobile-peoples research.
+
+A remaining useful mechanism was promoted to [Social Fabric](../Social-Fabric.md): people can remain rooted because moving means losing accumulated kin, care networks, property/use rights, guild standing, credit, legal status, specialized infrastructure, local knowledge and community relationships.
+
+This does **not** restore the old claim that people naturally belong to one region. Migration remains common when opportunity, marriage, recruitment, debt, displacement, persecution, war, ecological change or preference outweigh those costs.
+
+Regional "collective motivator" drafts remain legacy because they assign one psychology to whole cultures.
 
 ## Known unresolved areas exposed by the import
 
@@ -188,3 +878,76 @@ The import did **not** settle these:
 - which named festivals, wars, towns and dishes graduate from provisional texture into established canon.
 
 Do not promote them merely because an old compendium states them confidently.
+
+## Uploaded philosophy-source review — 2026-09-25
+
+A new project-source pass reviewed the philosophy PDFs uploaded for the current story / ending work.
+
+Disposition: **research/reference only — not setting canon.**
+
+The raw books remain project source material. They were **not copied into the repository**. The repository stores only focused derivative research notes and routing.
+
+### Unique sources reviewed
+
+Duplicate uploads of the same title / file size were treated as duplicate packaging rather than separate authorities.
+
+| Source | Disposition | Repo note |
+| --- | --- | --- |
+| Paul Kleinman, *Philosophy 101* | broad introductory concept map | [source note](Philosophy-Sources/Paul-Kleinman-Philosophy-101.md) |
+| Nigel Warburton, *Philosophy: The Classics*, 4th ed. | primary uploaded work-by-work political / ethical reference | [source note](Philosophy-Sources/Nigel-Warburton-Philosophy-The-Classics.md) |
+| OpenStax, *Introduction to Philosophy* (2022) | primary uploaded thematic reference; especially social epistemology / legitimacy / ethics | [source note](Philosophy-Sources/OpenStax-Introduction-to-Philosophy.md) |
+| A. P. Martinich & David Sosa, eds., *Analytic Philosophy: An Anthology* | limited to actually present language / metaphysics material | [source note](Philosophy-Sources/Martinich-Sosa-Analytic-Philosophy-An-Anthology.md) |
+| *Compact Anthology of World Literature, Part One* | adjacent literary / cultural research, not philosophy authority | [source note](Philosophy-Sources/Compact-Anthology-World-Literature-Part-1.md) |
+
+Cross-source synthesis:
+
+- [Philosophy Source Synthesis — V1](Philosophy-Sources/Philosophy-Source-Synthesis-V1.md).
+
+### Important source limitation
+
+The uploaded *Analytic Philosophy: An Anthology* PDF is **truncated**.
+
+Its table of contents lists later parts on:
+
+- freedom / personal identity;
+- ethics;
+- methodology;
+- philosophy and science.
+
+But the actual uploaded PDF ends around printed p. 141 during Quine's “On What There Is.”
+
+Those later listed sections were therefore **not treated as reviewed evidence**.
+
+### Source-grounding rule
+
+Future philosophy work should route:
+
+~~~text
+story / world question
+→ Philosophy and Research Index
+→ verified uploaded source note where available
+→ actual uploaded text if the claim matters
+→ setting-specific synthesis
+~~~
+
+Do not convert:
+
+- a table-of-contents title;
+- an old AI summary;
+- a remembered doctrine;
+- or a 10Kings application
+
+into a philosopher's asserted position without checking the source.
+
+### Current research gaps exposed by the pass
+
+The uploaded packet still does not adequately ground:
+
+- dirty-hands theory / political necessity;
+- moral luck;
+- republican non-domination;
+- Arendt's distinction between power and violence;
+- Camus / Beauvoir on limits of revolutionary action.
+
+These are retained as research targets in the synthesis rather than silently supplemented from general model knowledge.
+

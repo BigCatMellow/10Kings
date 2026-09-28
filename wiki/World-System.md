@@ -49,12 +49,12 @@ The regions are ecosystems with distinctive emphases, not single-resource states
 
 | Region | Strong pressures / capabilities | What makes it systemically important |
 | --- | --- | --- |
-| [Ironcrest](Regions/Ironcrest.md) | mineral-rich uplands, metalwork, dangerous labor, concentrated productive capacity | tools, strategic materials, craft capacity, weapons, ownership/labor politics |
-| [Northwind](Regions/Northwind.md) | cold seas, fisheries, shipping, seasonal risk, clan and harbor obligations | maritime capacity, preserved foods, salt, ships, convoy politics |
-| [Greenvale](Regions/Greenvale.md) | productive lowlands, storage, seed, land and water systems | bulk food, livestock/agricultural goods, price and storage stability |
-| [Highridge](Regions/Highridge-Plateau.md) | plateau routes, passes, caravans, arbitration, multilingual exchange | overland movement, brokerage, credit, records, route law |
-| [Deepwood](Regions/Deepwood.md) | forest ecology, timber, medicinal/forest goods, local stewardship systems | timber/fuel, specialist ecological goods and knowledge, contested extraction |
-| [Sunplains](Regions/Sunplains.md) | dry-climate agriculture, irrigation, city-states, coastal exchange | southern maritime access, irrigated/orchard goods, civic and merchant networks |
+| [Stone Hills](Regions/Ironcrest.md) | mineral-rich uplands, metalwork, dangerous labor, concentrated productive capacity | tools, strategic materials, craft capacity, weapons, ownership/labor politics |
+| [North Coast](Regions/Northwind.md) | cold seas, fisheries, shipping, seasonal risk, clan and harbor obligations | maritime capacity, preserved foods, salt, ships, convoy politics |
+| [Low Rivers](Regions/Greenvale.md) | productive lowlands, storage, seed, land and water systems | bulk food, livestock/agricultural goods, price and storage stability |
+| [High Roads](Regions/Highridge-Plateau.md) | plateau routes, passes, caravans, arbitration, multilingual exchange | overland movement, brokerage, credit, records, route law |
+| [Longwood](Regions/Deepwood.md) | forest ecology, timber, medicinal/forest goods, local stewardship systems | timber/fuel, specialist ecological goods and knowledge, contested extraction |
+| [Old Cities](Regions/Sunplains.md) | dry-climate agriculture, irrigation, city-states, coastal exchange | southern maritime access, irrigated/orchard goods, civic and merchant networks |
 | [Port](Places/Port.md) | neutral harbor, repair, storage, finance, arbitration, information | exchange hub where many otherwise separate systems meet |
 
 None of these relationships are absolute monopolies. The pattern is **comparative advantage plus dependency**, not "one region makes one thing."
@@ -76,7 +76,9 @@ Before the Convergence, the world was politically fragmented. Control changed th
 - control of passes, harbors, mines, rivers, or productive land;
 - local agreements that did not match later borders.
 
-The Convergence did not create a unified empire. It created a **shared political-economic settlement** in which borders, trade, access, and dispute became more predictable.
+The Convergence did not create a unified empire. It created a **shared political-economic settlement** built around recognized claims, protected exchange, route security, arbitration, Port neutrality, and continued local autonomy. The exact signatories and treaty machinery remain open.
+
+See [Convergence Layered Settlement Model](Reference/Convergence-Layered-Settlement-Model.md). The modern order is best understood as a **layered legal-political ecosystem rather than one constitution**: core guarantees sit underneath narrower agreements, later interoperability standards, accumulated precedent, and continuing local law.
 
 That changed conflict rather than ending it.
 
@@ -106,9 +108,35 @@ Credit, debt, contracts, tolls, storage claims, insurance-like arrangements, pat
 
 ### Information
 
+See [Movement and Information](Movement-and-Information.md).
+
 Market reports, rumors, maps, religious messages, guild knowledge, political intelligence, family news, technical knowledge, propaganda, and records.
 
+Information follows physical and social routes rather than spreading evenly. Its effective speed depends on departure delay, travel, handoffs, translation/copying, verification, and political friction. A rumor may therefore outrun a verified report without physically moving faster than its human carriers.
+
 A disruption in one flow can alter all the others.
+
+
+### Credit and obligations
+
+See [Money, Credit, and Market Infrastructure](Economy/Money-Credit-and-Market-Infrastructure.md).
+
+Movement through the world is financed before it is completed.
+
+That means circulation also depends on:
+
+- credit;
+- guarantees;
+- debt;
+- trusted records;
+- measures / quality standards;
+- enforceable contracts.
+
+A physical route can remain open while commerce through it collapses because nobody will finance the risk.
+
+Conversely, a strong guarantee can keep trade moving through a dangerous period.
+
+This is one of the major ways political fear becomes material behavior.
 
 ## 5. Chokepoints and bypasses
 
@@ -117,14 +145,14 @@ The world has no single switch that controls everything. It has **chokepoints**.
 Important examples include:
 
 - Port's harbor, warehouses, courts, repair capacity, finance, and information;
-- Highridge passes and caravan systems;
-- major Spine crossings;
+- High Roads passes and caravan systems;
+- major The Spine crossings;
 - Underpass branches;
 - bridges, canals, river crossings, irrigation gates, and important roads;
 - food storage and seed networks;
 - mines, foundries, timber/fuel supply, and strategic workshops;
 - credit and exchange;
-- records, maps, and trusted information networks.
+- records, maps, and trusted information networks; see [Movement and Information](Movement-and-Information.md).
 
 A chokepoint matters because many independent actors rely on it.
 
@@ -135,6 +163,8 @@ That makes the [Underpass](Places/The-Underpass.md), smuggling, alternative rout
 ## 6. Visible government and cross-border institutions
 
 The world is politically plural.
+
+See [Kingdoms and Politics](Politics/Kingdoms-and-Politics.md). The six cultural-geographic regions are **not** six equivalent states. Political units vary in scale and form, and should be understood by the functions they actually perform rather than being forced into one constitutional template.
 
 Visible authority includes some combination of:
 
@@ -148,7 +178,21 @@ Visible authority includes some combination of:
 - treaty bodies;
 - Port institutions.
 
+The current provisional political-geography tests now demonstrate several different mature political solutions rather than one state template:
+
+- Stone Hills — composite territorial polity;
+- North Coast — maritime compact polity;
+- Low Rivers — basin-centered administrative polity;
+- High Roads — polycentric route order with no superior regional state;
+- Longwood — layered jurisdictional mosaic;
+- Old Cities — sovereign city-state system with delegated functional institutions;
+- Port — self-governing neutral special polity.
+
+See [Working Political Geography — V1](Reference/Working-Political-Geography-V1.md). These are **provisional implementation models**, not final polity names, borders, constitutions, or cultural definitions.
+
 But much of daily life is also governed by institutions that cross political borders.
+
+See [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md). The post-Convergence world has **layered jurisdiction**: local governments, rulers, guilds, faiths, Port, route institutions, and treaty obligations can all possess legitimate but limited claims over different disputes. Enforcement and recognition matter as much as abstract legal authority.
 
 ### Guilds
 
@@ -162,6 +206,14 @@ But much of daily life is also governed by institutions that cross political bor
 
 [Crime and the Underworld](Politics/Crime-and-Underworld.md) exploit gaps between legal jurisdictions and formal markets, but can also provide work, credit, protection, transport, or dispute resolution to people excluded from legal institutions.
 
+### Cross-cutting social identity
+
+[Social Fabric](Social-Fabric.md) owns the rule that political, regional, religious, professional, class, family and voluntary identities overlap rather than nesting cleanly.
+
+That overlap is another part of the circulation system. A guild branch, faith network, marriage, pilgrimage, social movement, or old friendship can connect populations that their governments describe as rivals.
+
+[Audience Movements](Culture/Audience-Movements.md) is a provisional example of how a community can become a durable trans-regional institution through accumulated participation rather than territory.
+
 ### Port
 
 Port concentrates foreign enclaves, merchants, workers, courts, guilds, migrants, information, and contraband in one place. It functions as a compressed model of the larger world.
@@ -172,7 +224,9 @@ See [Economic Council](Politics/Economic-Council.md).
 
 The Council's power is not ordinary sovereignty.
 
-It influences six broad dependency domains:
+It is a private interregional coordination layer built around member houses whose wealth and relationships already cross political borders.
+
+The current six working portfolios are:
 
 - food and biological supply;
 - materials and production;
@@ -181,17 +235,27 @@ It influences six broad dependency domains:
 - finance and exchange;
 - knowledge and information.
 
-It works because the world already depends on coordination.
+These are **coordination portfolios**, not six monopolies.
 
-A ruler can reject a demand, but that choice can interact with credit, shipping, grain contracts, repairs, insurance-like arrangements, information, rival access, and guild politics.
+The Council's strongest advantage is combinatorial:
 
-This makes Council influence difficult to prove from any one event.
+```text
+information from several systems
++ long institutional memory
++ access to capital
++ cross-border relationships
+→ coordinated intervention
+```
 
-The Council's strongest justification is also its greatest danger:
+A ruler can reject a Council-backed proposal, but that decision can interact with credit, shipping, grain contracts, repairs, insurance-like arrangements, information, rival access, and guild politics.
+
+The Council cannot simply command those systems. It influences the **cost and availability of choices** inside them.
+
+Its strongest justification is also its greatest danger:
 
 **it may genuinely solve coordination problems that visible political institutions cannot solve easily.**
 
-Its moral problem is whether solving those problems gives private actors the right to shape everyone else's choices.
+Its moral problem is whether competence at coordination creates the right to make consequential decisions for people who never consented to that authority.
 
 ## 8. Feedback loops
 
@@ -255,91 +319,222 @@ restriction / shortage / route failure
 
 See [Current Events](Story/Current-Events.md).
 
-Several unrelated-looking stresses are occurring at the same time:
+The current crisis field has now been rebuilt against the tested political / logistical world.
 
-- Ironcrest labor unrest and unusual metal movement;
-- Northwind fish-stock pressure, piracy, and convoy politics;
-- Greenvale abundance, price collapse, debt, seed, and land conflict;
-- Highridge caravan attacks and route redirection;
-- Deepwood logging disputes and ecological disruption;
-- Sunplains drought anxiety and city-state coordination;
-- Port smuggling, merchant conflict, and refugee/worker pressure;
-- Spine land movement and route/ruin discovery;
-- Underpass route wars;
-- trans-regional religious interpretation of the crises.
+The active pressures are not one manufactured emergency.
 
-Some are ordinary problems. Some are manipulated. Some are Council responses. Some become useful to the Villain only after they already exist.
+They include:
 
-That uncertainty is important: the world must remain capable of producing trouble without a mastermind.
+- real North Coast fish-stock movement and real piracy;
+- a Low Rivers abundance / price / debt shock;
+- SH-M labor grievances and opaque strategic-metal movement;
+- High Roads route insecurity;
+- Longwood ecological stress and layered-rights conflict;
+- Old Cities drought anxiety and functional cooperation;
+- Port credit / shipping / merchant pressure;
+- Spine land movement and Underpass instability.
+
+The important distinction is causal:
+
+- some pressures are **baseline**;
+- some are **pushed** by the Villain;
+- some are institutional **responses**;
+- some are **cascades** produced by earlier events.
+
+The world remains capable of producing trouble without a mastermind.
+
+---
 
 ## 10. The story is embedded in the system
 
-See [Main Conflict](Story/Main-Conflict.md).
+See [Main Conflict](Story/Main-Conflict.md) and [Villain's Dominoes](Story/Villains-Dominoes.md).
 
 The three central narrative forces operate at different scales.
 
 ### Council — system maintenance
 
-The Council thinks in flows, shortages, routes, credit, and equilibrium.
+The Council thinks in flows, shortages, routes, credit, storage, materials, infrastructure, and equilibrium.
 
-### Villain — strategic disruption
+Its strongest advantage is cross-domain comparison.
 
-The Villain attacks relationships and incentives. His strongest moves make other actors choose actions that already make sense from their own perspective.
+Its central weakness is political:
 
-### Wurdren — lived consequence
+> useful coordination does not automatically create legitimate authority.
 
-Wurdren sees what a "necessary adjustment" means to a worker, family, village, caravan, refugee, or neighborhood.
+### Villain — Port-centered strategic coupling
 
-That structure makes the world itself part of the plot engine.
+The Villain's grievance is now specifically tied to **Port**.
 
-## 11. A problem can be followed through the world
+He sees Port as:
+
+- protected by neutrality;
+- constrained by neutrality;
+- heavily used by outsiders;
+- burdened with the costs of being indispensable;
+- unable to retain enough value / authority to answer its own needs as quickly as the wider system can act through it.
+
+He couples real pressures so that Port's need for action becomes more urgent while outside public actors remain cautious and Council-linked private actors move quickly to protect system stability.
+
+His operational objective is now established:
+
+> **force renegotiation of Port's political / economic settlement by making the neutrality trap impossible to ignore.**
+
+The exact constitutional package and his exact biography remain open.
+
+### Wurdren — lived consequence and trust repair
+
+Wurdren sees what a "necessary adjustment" means to a worker, family, village, caravan, refugee, merchant, fisher, or neighborhood.
+
+His strongest interventions alter:
+
+- trust;
+- evidence;
+- direct contact;
+- local cooperation.
+
+He repeatedly demonstrates that coordination can occur without either hidden technocracy or coercive revolutionary control.
+
+---
+
+## 11. The current braided causal architecture
+
+The active story pressure is now organized into several braids rather than six regional plots.
+
+### Maritime / finance / food / labor
+
+~~~text
+piracy / maritime fear
+→ Port risk / credit tightening
+→ weaker distant demand for Low Rivers abundance
+→ defaults / land pressure
+→ Stone Hills order changes
+→ SH-M labor / strategic-material suspicion
+~~~
+
+### Route / infrastructure / sovereignty
+
+~~~text
+High Roads insecurity
+→ traffic rerouting
+→ demand for redundancy
+→ road / route projects
+→ Longwood layered-rights conflict
+~~~
+
+### Water / diplomacy
+
+~~~text
+Old Cities drought anxiety
+→ functional cooperation
+→ rival bloc anxiety
+→ defensive counter-arrangements
+→ cooperation becomes more political because rivals treat it as political
+~~~
+
+### Alternate logistics
+
+~~~text
+Spine / Underpass disruption
+→ secondary routes gain value
+→ non-Council carriers / relief / direct trade gain capacity
+→ the Villain can build an alternative network rather than merely sabotage
+~~~
+
+These braids do not stop at economic / political stress.
+
+[Adaptive War Escalation Graph — V2](Reference/Adaptive-War-Escalation-Graph-V2.md) now tests the required tail as a **branching pressure graph**, not a fixed sequence:
+
+~~~text
+commercial precautions
+→ reciprocal restrictions
+→ reserve buying
+→ strategic-material / route controls
+→ trade sorting into competitive spheres
+→ security guarantees
+→ armed escorts / readiness measures
+→ partial mobilization
+→ counter-mobilization
+→ armed incident
+→ limited retaliation
+→ guarantee activation
+→ war
+~~~
+
+The Council's secrecy / stability problem remains important because its normal coordination tools could interrupt some of those transitions.
+
+The Villain therefore benefits when Council intervention becomes:
+
+- politically distrusted;
+- too slow;
+- misinterpreted;
+- or selectively exposed.
+
+The war is not a leap from "tension."
+
+It is the end of a material security dilemma built through accumulated precautions.
+
+The Villain does not need every branch to succeed. The active model assumes:
+
+- some pressures resolve;
+- some Council interventions work;
+- some Villain nudges fail;
+- useful surprises create new routes;
+- several independent paths can still feed the same readiness / alliance / security conditions.
+
+His advantage is adaptation, not perfect foresight.
+
+---
+
+## 12. A problem can be followed through the world
 
 A useful reading and writing method is:
 
 1. start with a concrete event;
-2. identify the local owner page;
+2. identify the local owner;
 3. identify what flow it changes;
-4. follow the route or dependency outward;
-5. identify institutions that respond;
+4. follow the route / dependency outward;
+5. identify which actual polity or functional jurisdiction responds;
 6. identify who benefits and who pays;
-7. follow the information people receive about it;
-8. check Council and Villain incentives;
+7. identify the Council response, if any;
+8. identify what part of that response the Villain can expose / exploit;
 9. return to the people living with the result.
 
 Example:
 
-```text
-Northwind piracy rises
-→ shipping risk rises
-→ Port finance tightens
-→ Greenvale buyers cancel distant grain contracts
-→ local grain prices fall
-→ farmers default
-→ land consolidation accelerates
-→ guild/religious protests grow
-→ Ironcrest orders decline
-→ labor conflict worsens
-→ Council intervention becomes visible enough to feed suspicion
-```
+~~~text
+North Coast piracy rises
+→ NC-M convoy pressure increases
+→ Port risk terms tighten
+→ Low Rivers distant purchases weaken
+→ abundance becomes debt / ownership crisis
+→ Council-linked stabilization favors selected flows / clients
+→ Stone Hills ordinary orders weaken while strategic metal still moves
+→ labor suspicion rises
+→ selective evidence makes several local losses look like one hidden political decision
+~~~
 
-See [Current Events](Story/Current-Events.md) for the current worked example.
+See [Current Events](Story/Current-Events.md) and [Villain's Dominoes](Story/Villains-Dominoes.md).
 
-## 12. What is still deliberately unresolved
+---
+
+## 13. What is still deliberately unresolved
 
 This synthesis should not make unsettled details look settled.
 
 Major open areas include:
 
 - exact map, rivers, and route geometry;
-- exact constitutional forms of the six regions;
-- Port citizenship and treaty structure;
+- remaining exact constitutional / jurisdictional details of the tested political actors;
+- Port citizenship and treaty machinery;
 - exact Council membership, history, visibility, and succession;
-- the Villain's exact grievance and desired political end state;
+- the Villain's identity / biography and exact constitutional demands for the new Port settlement;
+- which manufactured escalation becomes his unmistakable moral break;
 - Wurdren's exact biography and starting situation;
 - magic prevalence and limits;
 - language families and naming systems;
-- the structure and legal status of nomadic/itinerant peoples;
-- which current-event candidates are finally selected.
+- the structure and legal status of nomadic / itinerant peoples.
+
+The **current-event field and Villain's operational architecture are no longer open at the generic level**.
 
 See [Open Questions](Open-Questions.md).
 

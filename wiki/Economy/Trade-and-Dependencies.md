@@ -10,6 +10,7 @@ Canonical neighbors:
 - [Economic Council](../Politics/Economic-Council.md) owns Council leverage over bottlenecks.
 - [Current Events](../Story/Current-Events.md) owns the opening-story crisis snapshot.
 - [Port](../Places/Port.md) owns Port's institutions and political position.
+- [Money, Credit, and Market Infrastructure](Money-Credit-and-Market-Infrastructure.md) owns ordinary credit, debt, guarantees, records, standards, and financial plumbing.
 
 ## Core model
 
@@ -17,58 +18,124 @@ No major region is self-sufficient, but none should be reduced to one export or 
 
 | Region | Common imports / pressures | Common exports / leverage |
 | --- | --- | --- |
-| **Ironcrest** | substantial food imports in industrial districts, timber/fuel, seasonal labor, selected luxury goods | ores, metalwork, tools, weapons, industrial craft capacity |
-| **Northwind** | grain, metal goods, medicines, warmer-climate produce | fish, salt and preserved foods, furs/animal products, ships and maritime capacity |
-| **Greenvale** | metal tools, preservation salt, shipping and caravan access | grain, produce, livestock products, textiles and other agricultural goods |
-| **Highridge** | many lowland/coastal goods beyond what plateau farms, herds, and workshops provide | route access, caravan services, brokerage, arbitration, credit, records and specialist knowledge |
-| **Deepwood** | selected metal tools, salt, grain and urban goods | timber, herbs/medicinals, dyes, forest products and specialist ecological knowledge |
-| **Sunplains** | selected timber, metal, furs and northern goods | orchard and irrigated crops, oils/wines where culturally appropriate, craft/luxury goods, southern maritime access |
+| **Stone Hills** | substantial food imports in industrial districts, timber/fuel, seasonal labor, selected luxury goods | ores, metalwork, tools, weapons, industrial craft capacity |
+| **North Coast** | grain, metal goods, medicines, warmer-climate produce | fish, salt and preserved foods, furs/animal products, ships and maritime capacity |
+| **Low Rivers** | metal tools, preservation salt, shipping and caravan access | grain, produce, livestock products, textiles and other agricultural goods |
+| **High Roads** | many lowland/coastal goods beyond what plateau farms, herds, and workshops provide | route access, caravan services, brokerage, arbitration, credit, records and specialist knowledge |
+| **Longwood** | selected metal tools, salt, grain and urban goods | timber, herbs/medicinals, dyes, forest products and specialist ecological knowledge |
+| **Old Cities** | selected timber, metal, furs and northern goods | orchard and irrigated crops, oils/wines where culturally appropriate, craft/luxury goods, southern maritime access |
 | **Port** | significant food and raw-material inflows | shipping access, repair, warehousing, processing, finance, arbitration, information and neutral exchange |
 
 These are tendencies, not universal household economies. See [World Rules](../World-Rules.md): a famous specialty is what outsiders notice first, not all that exists there.
 
 ## High-value dependency pairs
 
-### Ironcrest ↔ Greenvale
+### Stone Hills ↔ Low Rivers
 
 This is one of the strongest recurring relationships.
 
-- Industrial settlements in Ironcrest buy food, timber, animals and labor.
-- Greenvale farms and workshops buy Ironcrest tools, hardware and metal goods.
+- Industrial settlements in Stone Hills buy food, timber, animals and labor.
+- Low Rivers farms and workshops buy Stone Hills tools, hardware and metal goods.
 - Price movements on either side can become political disputes.
 - Border communities can contain mixed families, shared workshops and competing historical memories.
 
+The [Stone Hills Functional Governance Test](../Reference/Stone-Hills-Functional-Governance-Test.md) clarifies the political consequence. Control of mines or armies does not make Stone Hills self-sufficient: food, fuel, transport, credit, skilled labor, and market access constrain what rulers and owners can actually do.
+
 This relationship should feel like a long marriage of necessity: useful, intimate and periodically resentful.
 
-### Northwind and maritime access
+### North Coast and maritime access
 
-Northwind has **leverage**, not an automatic shipping monopoly.
+North Coast has **leverage**, not an automatic shipping monopoly.
 
-Its shipbuilding, sailors, ports and knowledge of difficult northern waters make it unusually important to some routes. Storms, fishery disputes, convoy policy or piracy can therefore propagate beyond Northwind without implying that every coastal shipment belongs to it.
+Its shipbuilding, sailors, ports and knowledge of difficult northern waters make it unusually important to some routes. Storms, fishery disputes, convoy policy or piracy can therefore propagate beyond North Coast without implying that every coastal shipment belongs to it.
 
-### Deepwood and controlled extraction
+The [North Coast Functional Governance Test](../Reference/North-Coast-Functional-Governance-Test.md) also shows why this leverage is politically distributed. Harbor authorities, vessel owners, clans, fishery-access systems, merchants, and larger rulers can control different pieces of maritime capacity. A ruler who announces a convoy or access policy still needs ships, crews, pilots, ports, credit, and local cooperation to make it real.
 
-Deepwood can matter disproportionately because some forest products are difficult to replace quickly.
+### Longwood and controlled extraction
 
-Export restrictions may be ecological, religious, political, local or commercial. Other regions may misread those motives. This creates bargaining friction without making Deepwood a single-minded “resource faction.”
+Longwood can matter disproportionately because some forest products are difficult to replace quickly.
 
-### Highridge as intermediary
+Export restrictions may be ecological, religious, political, local or commercial. Other regions may misread those motives. This creates bargaining friction without making Longwood a single-minded “resource faction.”
 
-Highridge's route position supports tolls, banking, arbitration, caravan services and information exchange. It still has farms, herds, workshops and ordinary local production.
+The [Longwood Functional Governance Test](../Reference/Longwood-Functional-Governance-Test.md) makes this deliberately plural: cutting, gathering, hunting, passage, water, and restricted-use rights can belong to different actors. A merchant with permission to buy a product therefore does not automatically possess permission to harvest it, build a road to it, or settle the land around it.
+
+### High Roads as intermediary
+
+High Roads's route position supports tolls, banking, arbitration, caravan services and information exchange. It still has farms, herds, workshops and ordinary local production.
 
 Its leverage comes from **making movement easier or harder**, not from “producing nothing.”
 
-### Sunplains as a competitive market
+### Old Cities as a competitive market
 
-Sunplains city-states can concentrate wealth, patronage and demand for imported goods while also competing fiercely with one another over water, ports, prestige and trade.
+Old Cities city-states can concentrate wealth, patronage and demand for imported goods while also competing fiercely with one another over water, ports, prestige and trade.
 
-There is no single Sunplains market actor.
+There is no single Old Cities market actor.
 
 ### Port as network hub
 
 Port's dependence on inflows is real but should not be exaggerated into helplessness. Its power comes from accumulated institutions and network effects: ships, warehouses, credit, repair, translators, courts, guilds and information all meet there.
 
 A disruption in Port can therefore become a continental event even when the original problem is local.
+
+## Transfer cost and mode change
+
+A concrete application now exists in [G1 Head-of-Navigation Market — Middle-Worldbuilding Test](../Reference/G1-Head-of-Navigation-Market-Test.md). It shows how storage access, weighing, labor, custody records, and onward transport can change bargaining power even when production is abundant.
+
+See [Working Map — Network Endpoints and Capacity Test V1](../Reference/Working-Map-Network-Endpoints-and-Capacity.md).
+
+Trade cost is not only distance.
+
+Each change between:
+- river craft;
+- seagoing vessel;
+- cart;
+- pack animal;
+- ferry;
+- Underpass route
+
+can add:
+
+- labor;
+- storage;
+- weighing;
+- delay;
+- damage risk;
+- fees;
+- paperwork;
+- credit need.
+
+Therefore:
+
+> **shorter route does not automatically mean cheaper route.**
+
+A continuous river route may beat a geographically shorter route that requires several unloads.
+
+This creates economic power at:
+- heads of navigation;
+- roadheads;
+- ferry complexes;
+- major pass transfer towns;
+- Port's river / sea interface.
+
+The [Low Rivers Functional Governance Test](../Reference/Low-Rivers-Functional-Governance-Test.md) adds a political consequence: trade policy cannot be modeled separately from capacity. A ruler may change taxes, export rules, public purchases, or reserve policy, but cannot create warehouse space, carts, river depth, solvent buyers, or trusted records by decree. Effective intervention therefore depends on the institutions that operate the bottlenecks.
+
+## Dependency can stabilize or coerce
+
+Two concrete world tests show that shared systems can produce both:
+
+- pressure for continuity;
+- leverage over the dependent side.
+
+See:
+
+- [North Shoulder Paired Roadheads](../Reference/North-Shoulder-Paired-Roadheads-Test.md);
+- [Old Cities Shared Irrigation](../Reference/Old-Cities-Shared-Irrigation-Test.md).
+
+A shared route or water system may encourage cooperation because many livelihoods depend on it.
+
+But if one side controls the critical input and can absorb the cost of disruption more easily, the same dependency can become coercive.
+
+Do not treat interdependence as inherently peaceful.
 
 ## Seasonal stress
 

@@ -6,22 +6,38 @@ The setting is currently called **Two Sons**, named for its twin suns. The world
 
 The known world is organized around three broad landmasses — the **Western, Northern, and Eastern Continents** — and a central mountain system called **The Spine**. Beneath parts of The Spine runs **The Underpass**, a natural-and-worked network of caves, tunnels, settlements, trade routes, and illicit passages. **Port** is the major neutral commercial city whose location and institutions make it unusually important to world trade.
 
-The six major cultural-political regions are:
+The six major cultural-geographic traditions and their strongest core areas are:
 
-- **Ironcrest** — western highlands and hills, unusually rich in useful ores and with a long tradition of mining, metalworking, organized labor, and fortified settlements.
-- **Northwind** — colder northern coasts and interior margins, shaped by difficult seas, fisheries, shipping, clan and community obligations, and seasonal risk.
-- **Greenvale** — broad temperate agricultural country, with strong village networks, mixed farming, storage traditions, and cultural memory of crop disasters.
-- **Highridge Plateau** — elevated crossroads country whose people became experts in caravan travel, mediation, market law, tolls, hospitality, and the management of routes.
-- **Deepwood** — large forested country where settlement, cultivation, hunting, timber, foraging, and spiritual traditions developed around the problem of living inside a powerful ecosystem rather than simply clearing it.
-- **Sunplains** — warmer and more arid southern/eastern country of mixed agriculture, orchards, irrigation, towns and city-states, coastal exchange, and highly developed civic cultures.
+These labels do **not** mean six exclusive peoples occupying six exclusive territories. They identify broad historical concentrations. People carrying these cultures live throughout the known world, especially along trade routes, in cities, in border districts, and in ecologies where their inherited skills and institutions remain useful.
 
-These are **emphases, not total definitions**. Greenvale has smiths. Ironcrest has farms. Northwind has inland villages. Sunplains has poor laborers and dry pastoral country beyond wealthy orchard belts. Deepwood has market towns and politics. Highridge has families who never see a caravan.
+- **Stone Hills** — western highlands and hills, unusually rich in useful ores and with a long tradition of mining, metalworking, organized labor, and fortified settlements.
+- **North Coast** — colder northern coasts and interior margins, shaped by difficult seas, fisheries, shipping, clan and community obligations, and seasonal risk.
+- **Low Rivers** — broad temperate agricultural country, with strong village networks, mixed farming, storage traditions, and cultural memory of crop disasters.
+- **High Roads** — elevated crossroads country whose people became experts in caravan travel, mediation, market law, tolls, hospitality, and the management of routes.
+- **Longwood** — large forested country where settlement, cultivation, hunting, timber, foraging, and spiritual traditions developed around the problem of living inside a powerful ecosystem rather than simply clearing it.
+- **Old Cities** — warmer and more arid southern/eastern country of mixed agriculture, orchards, irrigation, towns and city-states, coastal exchange, and highly developed civic cultures.
+
+These are **emphases, not total definitions**. The Low Rivers have smiths. Stone Hills has farms. North Coast has inland villages. The Old Cities have forests, uplands and poor pastoral districts beyond wealthy irrigated belts. Longwood has farms, cities and open country. The High Roads include families who never see a caravan.
+
+The reverse matters just as much: **the cultures are not confined to their core ecologies**. Longwood-descended communities can exist in large forests elsewhere. Low Rivers families can establish farming and mill communities outside the Low Rivers core. North Coast maritime families can form old neighborhoods in distant ports. A Stone Hills craft lineage can remain culturally western after generations in Port.
+
+Similar landscape does not automatically create the same culture, but migration and settlement can carry a culture into similar landscapes.
 
 ## How the world fits together
 
 The regions are parts of one interdependent network rather than six isolated settings. Geography channels movement; specialization creates trade; trade creates dependencies; dependencies create institutions; institutions accumulate power; and disruptions spread through routes, prices, credit, migration, politics, religion, guilds, and information.
 
 For the full causal model, see [The World as a System](World-System.md).
+
+## The social fabric
+
+The same world is also a network of **overlapping identities**.
+
+People belong simultaneously to places, polities, families, classes, guilds, faiths, professions, informal networks and voluntary movements. Those affiliations frequently cross regional and political borders.
+
+This means a North Coast sailor and an Old Cities merchant may share a guild; a Stone Hills worker and a High Roads scholar may share a faith; a Port resident may feel stronger loyalty to a trans-regional social movement than to any kingdom.
+
+See [Social Fabric](Social-Fabric.md) for the structural model and [Audience Movements](Culture/Audience-Movements.md) for one provisional example of a participatory movement that can cut across older institutions.
 
 ## The political order
 

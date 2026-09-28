@@ -1,14 +1,18 @@
-# Northwind
+# North Coast
 
 ## Status
 
 **Working canon.**
 
-Northwind is colder than most of the known world and unusually maritime, but its people are not uniformly fishers or stoic seafarers. The region includes coastal towns, sheltered inland valleys, grazing country, forests in milder zones, craft centers, small farms, shipping ports, islands, and old clan territories.
+North Coast is colder than most of the known world and unusually maritime, but its people are not uniformly fishers or stoic seafarers. The region includes coastal towns, sheltered inland valleys, grazing country, forests in milder zones, craft centers, small farms, shipping ports, islands, and old clan territories.
+
+## Cultural reach
+
+North Coast is a **cultural core and historical concentration**, not the only place where North Coast people live. Maritime families, harbor communities and clan-descended groups can persist in distant ports and coastal settlements. The geographic North Coast also contains inland, migrant and mixed communities that do not share one cultural identity.
 
 ## Geography
 
-Northwind occupies much of the Northern Continent and associated coasts and islands.
+North Coast occupies much of the Northern Continent and associated coasts and islands.
 
 Important environmental facts:
 - cold seas;
@@ -17,13 +21,13 @@ Important environmental facts:
 - rocky coasts;
 - sheltered coves;
 - some partially freezing waters;
-- inland routes toward Highridge.
+- inland routes toward High Roads.
 
 Its settlements cluster where geography offers a reason to stay: a good harbor, a protected bay, a navigable river, a reliable fishery, pasture, timber, or a route south.
 
 ## Historical identity
 
-Northwind's pre-Convergence politics were fragmented among:
+North Coast's pre-Convergence politics were fragmented among:
 - coastal clans;
 - fishing confederacies;
 - harbor towns;
@@ -35,7 +39,7 @@ Control of land mattered, but control of **water and seasonal access** often mat
 
 A clan might lose a harbor yet retain boats, kin alliances, and offshore rights. A political border on shore did not necessarily define who fished a bank or used a winter anchorage.
 
-This history explains why modern Northwind politics remain sensitive to:
+This history explains why modern North Coast politics remain sensitive to:
 - access rights;
 - clan obligation;
 - shared rescue;
@@ -52,9 +56,54 @@ Research pools include:
 
 Avoid generic "Viking culture."
 
+## Community differentiation — islands and major harbors
+
+Focused community work now distinguishes at least two strong North Coast social formations.
+
+See:
+
+- [Community Analogue Research — Wave 1](../Reference/Community-Analogue-Research-Wave-1.md);
+- [Community Analogue Research — Wave 2](../Reference/Community-Analogue-Research-Wave-2.md);
+- [Community Profiles — P1 Wave 1](../Reference/Community-Profiles-P1-Wave-1.md).
+
+### Outer-island / skerry fishing communities
+
+Can combine:
+
+- permanent resident households;
+- seasonal fishing influx;
+- shore preservation / repair;
+- small-scale farming / pastoral support;
+- local fishery / rescue rights;
+- strong island-specific historical memory.
+
+### Major compact harbors
+
+Are more institutionally layered:
+
+- shipowners;
+- crews;
+- warehouses;
+- merchants;
+- pilots;
+- repair;
+- seasonal workers;
+- harbor-wide administration.
+
+Their culture is shaped more strongly by:
+
+- records;
+- merchant power;
+- class difference;
+- repeated outside contact.
+
+Therefore:
+
+> **North Coast maritime culture should vary harbor by harbor and island by island.**
+
 ## Language
 
-Northwind languages may include:
+North Coast languages may include:
 - inclusive/exclusive "we";
 - strong evidential markers;
 - directional vocabulary tied to coast, wind, and slope;
@@ -99,7 +148,7 @@ Remote families build for insulation, repairability, and available material. Dri
 
 ## Food
 
-Northwind food should show both scarcity management and trade.
+North Coast food should show both scarcity management and trade.
 
 Common techniques:
 - drying;
@@ -117,13 +166,13 @@ Foods may include:
 - dairy where herding is possible;
 - berries;
 - preserved meats;
-- imported Greenvale flour and Sunplains oils or fruit in wealthier ports.
+- imported Low Rivers flour and Old Cities oils or fruit in wealthier ports.
 
 Alcohol can include grain ales, berry ferments, mead-like drinks, and imported spirits.
 
 ## Politics
 
-Northwind's political tensions often revolve around:
+North Coast's political tensions often revolve around:
 - fishing rights;
 - harbor control;
 - convoy protection;
@@ -132,6 +181,31 @@ Northwind's political tensions often revolve around:
 - merchant investment;
 - food dependence;
 - Council influence over shipping and finance.
+
+See:
+
+- [North Coast Functional Governance Test](../Reference/North-Coast-Functional-Governance-Test.md)
+- [North Coast Polity Vertical Slice — V1](../Reference/North-Coast-Polity-Vertical-Slice-V1.md) for the current provisional NC-M / NC-I concrete-state test.
+
+The strongest current structural conclusion is that North Coast is a **layered maritime political order**.
+
+- harbor and island authorities retain strong local functions;
+- clan / kin obligations can cross territorial boundaries;
+- fishery and anchorage rights do not map cleanly onto shore borders;
+- larger polities or coalitions are needed for some war, diplomatic, convoy, piracy-suppression, and strategic trade functions;
+- those larger authorities still depend on local harbors, crews, pilots, clans, and merchants.
+
+This leaves open whether one crown, confederation, or other large polity currently dominates the region.
+
+## North Shoulder roadhead system
+
+The tested physical network now strongly supports a North Coast-side roadhead at the lower approach to the principal High Roads pass.
+
+See [North Shoulder Paired Roadheads — Middle-Worldbuilding Test](../Reference/North-Shoulder-Paired-Roadheads-Test.md).
+
+Its role is not simply a border gate. It converts cart traffic into pack traffic, stores cargo during closure, concentrates guides and animal services, and exchanges maritime information with the High Roads-side roadhead.
+
+Exact settlement name, polity, guide institutions, and pass rules remain open.
 
 ## Current pressures
 
@@ -144,6 +218,6 @@ Northwind's political tensions often revolve around:
 
 ## Story function
 
-Northwind lets the story ask: **when survival requires cooperation, who gets to define the group?**
+North Coast lets the story ask: **when survival requires cooperation, who gets to define the group?**
 
 Its social strength can become political vulnerability when false information changes who people believe threatens that group.
