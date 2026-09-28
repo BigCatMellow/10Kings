@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, place names within the town and plot details are new and non-canon. The historical explanation for the festival split is a story device, not settled chronology.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/One-Square-Two-Harvests.md) (third pass, revised against James's full voice guide; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/One-Square-Two-Harvests.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -32,7 +32,7 @@ Recurring locations:
 2. **The mill on the canal** — its wheel sits exactly between both festivals' interests.
 3. **The co-op granary** — full to the rafters, which is the problem.
 4. **The Salve house courtyard** — shaded, tiled, built to be seen in.
-5. **The town records room** — dust, two languages, one ledger nobody has read in living memory.
+5. **Hobb's mill loft** — flour dust and old rope; each festival's old banner in its own chest, neither unrolled in living memory. *(Was the town records room until the fourth drafting pass; see Stage 3.)*
 6. **Pell's quince tree** — where he would rather be.
 
 ## Cast
@@ -70,7 +70,7 @@ Traditions matter, and they can change. Pell's granddaughter's generation alread
 
 ## Climax
 
-Pell refuses to rule. Instead he does what forty years taught him: he gets both chairs into the records room with the oldest ledger and leaves them there. Bettany and Idris find that the two festivals were once one. A post-Convergence administrator split them so each harvest could be filed under its proper regional heading, which echoes the [Convergence's cultural effect](../../History/The-Convergence.md#cultural-effect). They settle it themselves: one joint festival. Greenvale's redistribution custom and the Salve house's patronage together turn the unsellable surplus into public generosity: the house buys grain at a fair price, which lets the indebted farms pay their seed loans, and gives it to every household that asks. Bettany insists it is a sale, not a gift, and that the co-op keeps its own accounting; the Vale's pride survives the rescue. Harvest Home's public accounting becomes a public meal of the grain everyone was told not to eat.
+Pell refuses to rule. Instead he does what forty years taught him: he gets both chairs into Hobb's mill loft, where each festival's old banner is stored, and leaves them there. *(Fourth drafting pass: the two banners turn out to be halves of one, cut for filing and tagged with the year after the settlement. Earlier plans had an old ledger.)* Bettany and Idris find that the two festivals were once one. A post-Convergence administrator split them so each harvest could be filed under its proper regional heading, which echoes the [Convergence's cultural effect](../../History/The-Convergence.md#cultural-effect). They settle it themselves: one joint festival. Greenvale's redistribution custom and the Salve house's patronage together turn the unsellable surplus into public generosity: the house buys grain at a fair price, which lets the indebted farms pay their seed loans, and gives it to every household that asks. Bettany insists it is a sale, not a gift, and that the co-op keeps its own accounting; the Vale's pride survives the rescue. Harvest Home's public accounting becomes a public meal of the grain everyone was told not to eat.
 
 ## Soft landing
 
@@ -189,9 +189,9 @@ Changes to the plan: s7 adds Bettany's terms; s8 adds the agent's lunch, the sta
 | 2 | Co-op granary · 9 days out | The full granary. Bettany rehearses a surplus accounting that sounds like failure. Merchants cite the unsafe-grain rumor; the land agent is seen at an indebted farm. | the redistribution custom; the surplus shame; the rumor; the agent | granddaughter eating orchard grain |
 | 3 | Salve courtyard · 8 days out | Idris, first year in charge; barrels late from Ironcrest; his mother's shadow. His own merchants repeat the rumor about Vale grain. | patron generosity as prestige; the barrels; the rumor reaches the Sunplains side | two names |
 | 4 | Mill · 7 days out | The miller bills both sides for his patience. On the walk, Pell settles three small disputes without meaning to. | Pell's compulsion; town suspects he's taken the case | Pell arbitrating |
-| 5 | Square · 6 days out | Both sides read the clause aloud in their languages. Pell notices the aspect difference and says nothing yet. | the clause; the ledger nobody reads | two names |
+| 5 | Square · 6 days out | Both sides read the clause aloud in their languages. Pell notices the aspect difference and says nothing yet. | the clause; the banners nobody unrolls (Hobb's hint) | two names |
 | 6 | Bake-off · 4 days out | Hand pies versus honey pastries. The granddaughter eats one of each together. | a child already joins what adults keep apart | granddaughter's verdict |
-| 7 | Records room · 3 days out | Pell locks the two chairs in (gently) with the old ledger. They find the single festival and the split, then negotiate the joint festival and the grain plan: the house buys at a fair price, the farms pay their loans, and Bettany insists it is a sale, not a gift. | climax: the discovery is theirs; the agent's leverage gone | Pell not arbitrating |
+| 7 | Mill loft · 3 days out | Pell sits on the loft ladder while the two chairs unroll the old banners and find two halves of one. They find the single festival and the split, then negotiate the joint festival and the grain plan: the house buys at a fair price, the farms pay their loans, and Bettany insists it is a sale, not a gift. | climax: the discovery is theirs; the agent's leverage gone | Pell not arbitrating |
 | 8 | Square · festival | Joint festival. Surplus read aloud together, then eaten in public. Barrels on day two. The agent, over lunch, confides his own lenders' squeeze. Grain goes out in sacks stamped with both names. An old Northwind boatbuilder complains about the flatness. "We always eat it like this." Water court at the quince tree. | soft landing; the nail that didn't fall | two names, kept |
 
 **Promise ledger**
@@ -230,5 +230,6 @@ Drafted 2026-09-27: [One Square Two Harvests](../Drafts/One-Square-Two-Harvests.
 - **DO** — the land agent's lunch names only his lenders' squeeze, not the ripple chain, so story 1 doesn't read as a conspiracy.
 - **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide: medium sentences, fewer button endings, humor by character. Bettany calls Pell on the records-room trick. There is a new last line. A late-wife backstory was drafted and then removed at James's direction: the guide is a sensibility, not a checklist. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
+- **DO, fourth pass (uniqueness)** — The discovery changes from an old ledger to an object: each festival's old banner, stored in Hobb's mill loft, turns out to be half of one banner. It was cut for filing and tagged with the year after the settlement. The joined banner hangs over the square at the festival. This takes the story off the collection's repeated "read an old record" reveal. The land agent also names a valley where the farms did sell (World Threads: where the nail still fell). A review of the whole collection followed. The clause's date now comes from the committee copy Bettany has read eleven times without looking at the year. The joined banner hangs over the well-head, not either side's steps. The water court's request moves into the festival (plan s8), and the story ends with Pell alone in the tree, climbing down twice to see whether anyone is coming. That avoids a favor ending right before The Greenvale Man's.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

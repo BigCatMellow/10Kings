@@ -4,7 +4,9 @@
 
 **L3 draft, third pass: revised against James's author voice guide ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [Inspected, Not Guaranteed](../Stories/Inspected-Not-Guaranteed.md). History, 2026-09-27 to 28: first written from the story page's scene plan and promise ledger; checked independently; rewritten to notes from James's sample chapters; revised against his full voice guide after he approved the test revision of [The Goat File](The-Goat-File.md). Not yet reviewed at L4. All characters except Wurdren, the guild rule and every business are provisional; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule).
 
-**What this pass changes:** prose only. It uses medium sentences by default, fewer punchline scene endings, and humor that differs by character. Tamsin is exact about categories. Vey is a rule-book man with a reason. The keeper disbelieves everything. Nell's census never stops. Wurdren's sword story shrinks. No beats were added.
+**Fourth pass (uniqueness):** the climax no longer turns on the rule's wording, which the collection had already used too often. On relighting morning the farmers block the charcoal road. Wurdren finally passes on the message he'd refused to carry ("your fires don't light until their water runs clean"), Nell offers the walk, and Vey takes it because he needs the charcoal. Wurdren still doesn't solve anything; he only stops keeping quiet. Tamsin's small punch is hers, borrowed by the guild every year and returned late, which pays off scene 1. Vey orders a trough for every forge on the lane, Col's first commission, which answers the farmers' actual demand. The story ends on Nell's gate, "very nearly right", not on a favor punchline and not on a restored object, which The Heavy Scale now does.
+
+**Third pass:** prose only. It uses medium sentences by default, fewer punchline scene endings, and humor that differs by character. Tamsin is exact about categories. Vey is a rule-book man with a reason. The keeper disbelieves everything. Nell's census never stops. Wurdren's sword story shrinks. No beats were added.
 
 Canon limits kept in this draft:
 - Nothing about [Wurdren](../../Story/Wurdren.md)'s origin, age, family or past career is stated. His sword story is hearsay about the sword and is always cut off before it reaches him.
@@ -283,23 +285,35 @@ He heard himself, and stopped.
 
 ---
 
-On relighting day the whole town was out. The names would be read at dusk and the fires lit after. Before that, at noon, the judges would announce their decision. And before that, in the middle of the morning, Wurdren went to find Vey.
+On relighting day the whole town was out. The names would be read at dusk and the fires lit after, and before that the judges would give their decision on the apprentices. The ground on the charcoal road had dried overnight, and the fourth cart could be dug out at last.
 
-"The rule says *inspected*, by three judges," he said. "Does it say where?"
+It didn't come down. By the middle of the morning word reached the guild hall that the farmers from the flat were standing in the road below the woods, thirty of them, with their arms folded, and the carts were sitting behind them.
 
-Vey opened the old book and read the rule again, slowly, and closed it. "No."
+Vey took it badly. He stood at the long window of the hall with his ledger under his arm, saying that the fires had been lit on Reawakening day every year since the memorial wall was started, that he would not be the guildmaster who lit them a day late because of a ditch, and that somebody had better go and talk sense into them.
 
-"Then could we inspect it where it works?"
+Wurdren had been sitting on the judges' bench, waiting for noon. He stood up.
 
-Vey looked at him for a long time. Then he looked out of the window, down the hill, to where Nell Haskett was standing at the foot of the guild hall steps with her arms full of something and her face full of purpose. According to the porter she had been standing there for an hour.
+"One of them asked me to tell you something," he said. "On the charcoal road. I didn't."
 
-"Is this your idea," said Vey, "or hers?"
+Vey turned around.
 
-"Hers, I think," said Wurdren. "I only asked where."
+"He said: relighting day, they'll be in the road. Your fires don't light until their water runs clean." Wurdren shrugged. "I told myself it wasn't my quarrel. I should have told you anyway."
+
+"Their water can't run clean by tonight."
+
+"No," said Wurdren. He had no idea what came next, and he said so.
+
+Nell Haskett came in at the hall door, with her arms full of something and her face full of purpose. According to the porter she had been standing at the foot of the steps for an hour, waiting for somebody to say the word *water* loudly enough to give her an excuse.
+
+"Then come and look at it," she said. "All three of you. It's a short walk. Some of it already runs clean." She looked at Vey. "The farmers will move for a guildmaster who's seen the ditch. They won't move for one who hasn't."
+
+Vey looked at her, and at the window, and at the road beyond it where his charcoal was not coming down. For a moment Wurdren thought he would refuse on principle. Then he put the ledger down on the bench.
+
+"A short walk," he said.
 
 ---
 
-Nell led the three judges down the lane as if she had been planning the route all winter, and perhaps she had. She took them first to her own gate and made each master swing it on the hinge Col had mended. Then the Pellows' pump, which ran, and the mill, where the sluice winch turned on a gear cut from scrap, and four more farms, a smithy and a chapel door. At every stop she named what had broken and who had mended it and when, and what a new one would have cost in a year when nobody on the flat had that kind of money.
+It was not a short walk. Nell led the three judges down the lane as if she had been planning the route all winter, and perhaps she had. She took them first to her own gate and made each master swing it on the hinge Col had mended. Then the Pellows' pump, which ran, and the mill, where the sluice winch turned on a gear cut from scrap, and four more farms, a smithy and a chapel door. At every stop she named what had broken and who had mended it and when, and what a new one would have cost in a year when nobody on the flat had that kind of money.
 
 Then she took them to the ditch below the Bracket forge.
 
@@ -315,11 +329,11 @@ The three judges stood and looked at it for a long time.
 
 Wurdren watched Vey work it through the way he worked through everything, by the book. Repairs had kept the farms solvent. Solvent farms bought tools. Tools paid his members. The rates he had spent all winter protecting had been protected all winter by the plumbing.
 
-"Inspected," Vey said to the ditch. "In service."
+"Inspected," Vey said to the ditch. "In service." He turned to the other two masters. "And every forge on this lane puts in one of Barrowfield's troughs before the harvest. Enter it in the book." He looked at Nell. "Tell your farmers that."
 
 The other two masters looked at each other and nodded.
 
-Both apprentices passed. Marta's blade was inspected in the hall and Col's work was inspected in the valley, and the guild book recorded them on the same page. When Vey read the decision out at noon, Marta walked straight across the hall and shook Col's hand, and said something to him that nobody else heard, and he laughed for the first time all week.
+Both apprentices passed. Marta's blade was inspected in the hall and Col's work was inspected in the valley, and the guild book recorded them on the same page. When Vey read the decision out in the hall that afternoon, Marta walked straight across the hall and shook Col's hand, and said something to him that nobody else heard, and he laughed for the first time all week.
 
 ---
 
@@ -329,7 +343,7 @@ They had gone up that morning to stand in the road. Somehow, the way news travel
 
 At dusk the guild read the names. It took hours, well into the dark. Wurdren stood at the back of the long hall and listened to every one of them, and nobody hurried and nobody coughed. Then the masters carried coals from the guild hearth down the lane to every forge in Stonefield, one after another, and the chimneys began to smoke, and the town smelled like itself for the first time since autumn.
 
-Tamsin welded the tang that night. She used ordinary steel and did it perfectly, and fitted a new grip of plain ash, and on the flat of the blade just above the guard, beside the old guarantee mark, she struck a mark of her own. It was the stamp for *inspected*.
+Tamsin welded the tang that night. She used ordinary steel and did it perfectly, and fitted a new grip of plain ash. Then she took a small punch out of her apron pocket. It was hers. The guild borrowed it every Reawakening to mark its judgments and always brought it back late, and this year, she said, somebody had heard about it. On the flat of the blade just above the guard, beside the old guarantee mark, she struck a mark of her own. It was the stamp for *inspected*.
 
 "Not guaranteed," she said, handing it back. "I won't answer for the steel. I'll answer for what's been done to it."
 
@@ -349,4 +363,4 @@ The keeper watched him for a while, waiting. Nothing else came.
 
 He meant to leave the next morning. He stayed two more days instead.
 
-On the second morning Nell Haskett came up the lane to find him. "My gate's sticking," she said. "The other one, on the far field."
+On the second morning Nell Haskett came up the lane to find him and said that her other gate was sticking, the one on the far field. He spent the day on it and got it very nearly right.

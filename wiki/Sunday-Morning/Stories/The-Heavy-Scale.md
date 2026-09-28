@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, businesses and plot details are new and non-canon.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Heavy-Scale.md) (third pass, revised against James's full voice guide; not yet reviewed). Outlined at L2; the pilot of the [Story Pipeline](../Story-Pipeline.md). The concept below reflects the THINK pass; the original L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Heavy-Scale.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; the pilot of the [Story Pipeline](../Story-Pipeline.md). The concept below reflects the THINK pass; the original L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -243,5 +243,6 @@ Drafted 2026-09-27: [The Heavy Scale](../Drafts/The-Heavy-Scale.md). An independ
 - **DO** — length about 5,800 words, under the 6–9k target; no scene needed more room. JUDGE can say whether s6 or s9 wants it.
 - **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. The ledger no longer counts entries before the change, which fixes a contradiction with the shrine log. The report reads *Error inspected and corrected*. The ending still lands on Tove's "I saw it", a plan item that echoes The Greenvale Man's sight-form walk home. That is for James to decide. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
+- **DO, fourth pass (uniqueness)** — Tove's "I saw it" moves mid-supper, so The Greenvale Man keeps the collection's sight-form ending to itself. The story closes the next morning on the scale reading true ("Ten stone. True to a hair."), echoing the opening and Grell's phrase. A review of the whole collection followed. Quill closes his book and says Brisa's line from memory (P4 kept, and distinct from Pim reading aloud in The Goat File). The report reads *Error found and corrected*; the soft landing above says "inspected", which is superseded, to keep that word for Inspected, Not Guaranteed.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

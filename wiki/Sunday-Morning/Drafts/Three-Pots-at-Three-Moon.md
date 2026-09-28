@@ -4,7 +4,9 @@
 
 **L3 draft, third pass: revised against James's author voice guide ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [Three Pots at Three Moon](../Stories/Three-Pots-at-Three-Moon.md). History, 2026-09-27 to 28: first written from the story page's scene plan and promise ledger; checked independently; rewritten to notes from James's sample chapters; revised against his full voice guide after he approved the test revision of [The Goat File](The-Goat-File.md). Not yet reviewed at L4. The neighborhood, the permit rules, the family and its serving ritual are provisional. The ritual belongs to this family and to one Deepwood village, not to Deepwood as a whole. See the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule).
 
-**What this pass changes:** prose only. It uses medium sentences by default, fewer punchline scene endings, and humor that differs by character:
+**Fourth pass (uniqueness):** Jory wears an interpreter's collar, not ink, to separate him from Pim in The Goat File. The stall form comes out of Amaranth Doss's own desk drawer, not a forgotten cabinet, so it doesn't echo The Goat File's untouched archive.
+
+**Third pass:** prose only. It uses medium sentences by default, fewer punchline scene endings, and humor that differs by character:
 - Jory defends not cooking at length.
 - Mother Seral answers every question with a food question.
 - Tobiah is practical.
@@ -26,7 +28,7 @@ Story 7 of 7 in [The Anthology](../Anthology.md). Year 2, early autumn.
 
 "I'm done," said Mother Seral. "After this year. The permit goes to whichever of you makes the right one."
 
-She said it the way she said *the stew's ready*, between the lunch crowd and the dinner crowd, a week before the Three Moon Festival. Her three grandchildren were at the stall because she had told them to be. Tobiah, the eldest, had come straight from the docks in his work clothes and was eating a bowl of yesterday's stew standing up, as he ate everything. Ines had come from the merchant quarter in a good coat and was not eating, because she had been told it was yesterday's. Jory had come from the courts with ink on his cuff, hoping to be told nothing in particular so that he could go home.
+She said it the way she said *the stew's ready*, between the lunch crowd and the dinner crowd, a week before the Three Moon Festival. Her three grandchildren were at the stall because she had told them to be. Tobiah, the eldest, had come straight from the docks in his work clothes and was eating a bowl of yesterday's stew standing up, as he ate everything. Ines had come from the merchant quarter in a good coat and was not eating, because she had been told it was yesterday's. Jory had come from the courts in his interpreter's collar, hoping to be told nothing in particular so that he could go home.
 
 "The right what?" said Ines.
 
@@ -224,9 +226,9 @@ He didn't leave. He had spent most of the night awake, and somewhere around the 
 
 "Family Stalls, Mixed Holding," he said.
 
-Amaranth Doss looked at him for a long moment. Then she went to a cabinet at the back of the office that he suspected nobody had opened since the fish-stall brothers, and came back with a single printed sheet, and put it on the counter in front of him with something very close to respect.
+Amaranth Doss looked at him for a long moment. Then she opened the drawer of her own desk and took out a single printed sheet and put it on the counter in front of him, with something very close to respect.
 
-It was a family stall permit. It allowed a festival-street spot to be held jointly by up to three named members of one household, provided all three signed it and all three served at the stall on at least one festival night. It had never been repealed.
+It was a family stall permit. It allowed a festival-street spot to be held jointly by up to three named members of one household, provided all three signed it and all three served at the stall on at least one festival night.
 
 He filled it in on the counter with three names, and Amaranth Doss read it through twice and then, with an expression of profound professional satisfaction, stamped it green. He had the blue stamp from the ward office across the square before noon.
 

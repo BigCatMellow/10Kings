@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, businesses and plot details are new and non-canon. The stew lineage illustrates the [Food Diaspora](../../Culture/Food-Diaspora-and-Adaptation.md) model; it is not a canonical dish history, and the serving ritual belongs to one family, not to Deepwood as a whole.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/Three-Pots-at-Three-Moon.md) (third pass, revised against James's full voice guide; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/Three-Pots-at-Three-Moon.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -222,5 +222,6 @@ Drafted 2026-09-27: [Three Pots at Three Moon](../Drafts/Three-Pots-at-Three-Moo
 - **DO** — the s1 flash is kept as a single physical image (a heavy bowl, a crowded street), per the reconsideration trigger.
 - **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. The family-stall form now requires all three to *serve* one night, not cook, so Jory can meet it. Jory finds the form from memory of a court case instead of an archive search, which keeps his clerk skill essential without repeating the collection's dusty-record reveal. The "understood she'd been answering all along" clause, both "wrote it down" closers, and Ilo's repeated cinnamon exchange are cut. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
+- **DO, fourth pass (uniqueness)** — Jory wears an interpreter's collar, not ink, and the stall form comes from Amaranth Doss's own drawer, not a forgotten cabinet. Both changes separate this story from The Goat File.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). Kettle Cove, Narrow Sound, all characters and plot details are new and non-canon. The regatta is a story detail attached to the provisional Last Sail festival, not established custom.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Greenvale-Man.md) (third pass, revised against James's full voice guide; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Greenvale-Man.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -223,5 +223,6 @@ Drafted 2026-09-27: [The Greenvale Man](../Drafts/The-Greenvale-Man.md). An inde
 - **DO** — new provisional name: Sigra Holm, Narrow Sound's champion rower. The flour sack carries the Salve house's hurried purchase stamp, matching [One Square](One-Square-Two-Harvests.md) (C1).
 - **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. Rask's absolute ("never once used the wide one when Aldo could hear") is kept for the payoff. A flour-smell beat was tried and cut as formula. Silence closers were thinned. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
+- **DO, fourth pass (uniqueness)** — The story opens on the haul-out rather than a line of dialogue, to vary the collection's openings.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

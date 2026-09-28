@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, the tree, the lien and plot details are new and non-canon.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Tree-With-a-Debt.md) (third pass, revised against James's full voice guide; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Tree-With-a-Debt.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -246,5 +246,6 @@ Drafted 2026-09-27: [The Tree With a Debt](../Drafts/The-Tree-With-a-Debt.md). A
 - **DO** — Ismet names the watermark as a Port stationer's and thinks nothing more of it, as C6 requires.
 - **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. Narrator jokes were cut to one ("cured nothing but money"). Ismet doesn't write down the fourth word for old. Hollis's next small problem is a cold mint-water stall instead of tea, to avoid echoing The Goat File's tea seller. The story ends on "I'd hope so." A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
+- **DO, fourth pass (uniqueness)** — The story opens on the market master's plan rather than a line of dialogue, to vary the collection's openings. The gift-or-debt argument is left unresolved rather than written side by side, which is One Square's device.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

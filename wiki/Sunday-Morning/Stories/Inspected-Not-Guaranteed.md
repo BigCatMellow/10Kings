@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, businesses and plot details are new and non-canon. Wurdren's biography is not settled by anything here.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/Inspected-Not-Guaranteed.md) (third pass, revised against James's full voice guide; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/Inspected-Not-Guaranteed.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -70,7 +70,7 @@ Competence deserves respect even when nobody sings about it. Col's useful, ungla
 
 ## Climax
 
-The guild rules say a masterwork must be *inspected*. Wurdren asks the one question that matters: do the rules say where? They don't. Nell walks the judges down the lane to see Col's work in service — the ditch running clear below a forge that installed his trough, and the census of repaired hinges and gates along the way. Both apprentices pass; judging was never a contest between them. Vey concedes for his own reason: the census shows that farms which could only afford repairs this year stayed solvent, and solvent farms buy plowshares again. The water complaint is answered by the masterwork itself, and the farmers help drag the charcoal carts out of the mud.
+*(Fourth drafting pass: on relighting morning the farmers block the charcoal road. Wurdren finally passes on the message he had refused to carry, and Vey agrees to see the water because he needs the charcoal. The earlier version below, turning on the rule's wording, is kept for the record.)* The guild rules say a masterwork must be *inspected*. Wurdren asks the one question that matters: do the rules say where? They don't. Nell walks the judges down the lane to see Col's work in service — the ditch running clear below a forge that installed his trough, and the census of repaired hinges and gates along the way. Both apprentices pass; judging was never a contest between them. Vey concedes for his own reason: the census shows that farms which could only afford repairs this year stayed solvent, and solvent farms buy plowshares again. The water complaint is answered by the masterwork itself, and the farmers help drag the charcoal carts out of the mud.
 
 ## Soft landing
 
@@ -243,5 +243,6 @@ Drafted 2026-09-27: [Inspected Not Guaranteed](../Drafts/Inspected-Not-Guarantee
 - **DO** — three carts reach the washout on day 4 and wait for the fourth, so the charcoal deadline still binds on relighting day.
 - **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. The name-reading takes "hours" in both places. The ending stops at Nell's request, without the rate punchline, so it no longer repeats One Square's favor joke. Explaining clauses were cut. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
+- **DO, fourth pass (uniqueness)** — The climax no longer turns on the rule's wording. The farmers block the charcoal road. Wurdren carries the message he'd refused to deliver on the road, which is behavior changed rather than cleverness. Nell offers the walk, and Vey takes it because he needs the charcoal. The story ends on Tamsin's small punch back in its outline, set up in scene 1; Nell's gate becomes a line in the soft landing. A review of the whole collection followed. Vey orders a Barrowfield trough for every forge on the lane, which answers the farmers' demand and gives Col his first commission. The punch is Tamsin's, borrowed by the guild each year. The ending returns to Nell's gate (P7), "very nearly right", so it isn't a restored object just before The Heavy Scale's.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

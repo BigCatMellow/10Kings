@@ -4,7 +4,9 @@
 
 **L3 draft, third pass: revised against James's author voice guide ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [The Tree With a Debt](../Stories/The-Tree-With-a-Debt.md). History, 2026-09-27 to 28: first written from the story page's scene plan and promise ledger; checked independently; rewritten to notes from James's sample chapters; revised against his full voice guide after he approved the test revision of [The Goat File](The-Goat-File.md). Not yet reviewed at L4. Every character except Naruin Mossglade is provisional, as are the tree, the pledge and its wording, and the lien practice; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule). Naruin stays offstage. Deepwood's animacy classes are rendered in English, following [Language and Thought](../../Culture/Language-and-Thought.md#deepwood-languages); no conlang words are invented.
 
-**What this pass changes:** prose only. It uses medium sentences by default, fewer punchline scene endings, and humor that differs by character. Ismet footnotes himself. Sessa is guarded. The market master is harried. The Weaver-path elder writes everything down. Contract refuses. No beats were added; the story stays a light romance.
+**Fourth pass (uniqueness):** the story opens on the market master's plan, not on a line of dialogue, since five of the seven drafts opened that way. The gift-or-debt argument no longer ends with both words written side by side; that device belongs to One Square's sacks.
+
+**Third pass:** prose only. It uses medium sentences by default, fewer punchline scene endings, and humor that differs by character. Ismet footnotes himself. Sessa is guarded. The market master is harried. The Weaver-path elder writes everything down. Contract refuses. No beats were added; the story stays a light romance.
 
 The buyer's letter carries the connected-offer markers, matching the authoritative draft, [Inspected, Not Guaranteed](Inspected-Not-Guaranteed.md): unsigned, heavy cream paper with a ship's-lantern watermark, and "should the market fail to recognize its worth" ([Anthology C6](../Anthology.md#cross-story-promise-ledger)). The clause mechanism is recorded on the story page, Stage 3.
 
@@ -14,11 +16,13 @@ Story 6 of 7 in [The Anthology](../Anthology.md). Year 2, midsummer.
 
 ## The Tree With a Debt
 
+The market master of Twilighthollow had been given nine days to put a mule path round the oldest tree in the district, and he had decided that the fastest way to do it was to introduce the two people who would have to agree on it, under the tree itself, and then step back.
+
+He did not get as far as stepping back.
+
 "Around Lot Fourteen," said the surveyor.
 
 "It isn't a lot," said the warden.
-
-The market master had not finished introducing them.
 
 "Warden Sessa Alderwater," he went on, a little louder, "Surveyor Ismet Carrow. The mule path from the upper market down to the herb yards. It goes around the tree, and you'll do it together. The herb fair opens in nine days, and the carts need to come down something that isn't a goat track."
 
@@ -208,7 +212,7 @@ They told Hollis in the records office in the morning, two days before the fair.
 
 Hollis tore the letter in half, and in half again, and put the pieces into the records office stove. The Weaver-path elder wrote that down too.
 
-The town settled the rest by lunchtime. The Highridge side proposed, in proper Debates form, that the original sum be repaid — the small principal only, sixty years late, and no interest. The Deepwood side proposed that it be paid as a gift and not a debt, since nothing had ever actually been owed. Everyone agreed about the amount, which was small, and argued about the word, which was large, until the market master made them write both words in the register side by side. Hollis took the money. He had the look of a man who had expected to be rich and was surprised to find he was relieved instead.
+The town settled the rest by lunchtime. The Highridge side proposed, in proper Debates form, that the original sum be repaid — the small principal only, sixty years late, and no interest. The Deepwood side proposed that it be paid as a gift and not a debt, since nothing had ever actually been owed. Everyone agreed about the amount, which was small, and argued about the word, which was large, and were still arguing about it when Hollis took the money. He had the look of a man who had expected to be rich and was surprised to find he was relieved instead.
 
 Then he did something nobody had asked him to do, which was to renew the pledge. He had it rewritten in both registers, the old trade tongue and Sessa's, as a guardianship: the house of Varne would hold the tree for as long as it stood, the interest was waived and the debt discharged, and the consent right was kept, so that no works could be done on the tree or within its roots without the agreement of the house of Varne and the wardens of Twilighthollow together. Sessa read it through twice in her own language. The tree was the subject of every sentence.
 

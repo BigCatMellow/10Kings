@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 prose drafts, third pass — provisional, non-canon.** First written 2026-09-27 from each story page's scene plan and promise ledger, through the [Story Pipeline](../Story-Pipeline.md)'s DO stage. Then rewritten to notes from two of James's sample chapters. Then revised against his full author voice guide ([Voice](../Voice.md#the-author-voice-guide)): The Goat File first, as a test James approved, and the other six after it. The guide is applied as a sensibility, not a checklist. None has had its L4 review yet: an independent JUDGE pass and James's reading.
+**L3 prose drafts, fourth pass — provisional, non-canon.** First written 2026-09-27 from each story page's scene plan and promise ledger, through the [Story Pipeline](../Story-Pipeline.md)'s DO stage. Then rewritten to notes from two of James's sample chapters. Then revised against his full author voice guide ([Voice](../Voice.md#the-author-voice-guide)): The Goat File first, as a test James approved, and the other six after it. The guide is applied as a sensibility, not a checklist. A fourth pass (2026-09-28) checked every story against the project's goals and against the others for uniqueness. None has had its L4 review yet: an independent JUDGE pass and James's reading.
 
 Each story page owns its story; the draft is that page's L3 output, linked from its Development level line. Nothing in a draft is setting canon ([promotion rule](../Applying-to-Two-Sons.md#promotion-rule)). Collection-level rules are owned by [The Anthology](../Anthology.md).
 
@@ -20,7 +20,7 @@ Calendar order, as [The Anthology](../Anthology.md#reading-order) sets it. Each 
 | 6 | [The Tree With a Debt](The-Tree-With-a-Debt.md) | Year 2, midsummer | ~4,300 | [plan](../Stories/The-Tree-With-a-Debt.md) |
 | 7 | [Three Pots at Three Moon](Three-Pots-at-Three-Moon.md) | Year 2, early autumn | ~4,400 | [plan](../Stories/Three-Pots-at-Three-Moon.md) |
 
-About 31,000 words in all.
+About 32,000 words in all.
 
 ## What was checked
 
@@ -31,7 +31,16 @@ An independent pass, one that did not write the drafts, read all seven against t
 
 A second independent pass then compared the voice rewrites with the first pass. It found no lost cross-story links, no canon breaks and consistent timings. It flagged a few small losses: a custom that read as all of Deepwood's rather than one village's, a missing step in The Goat File's mystery, dropped countdowns, an orphaned callback, one lost joke and some narrator wit. All of those were fixed.
 
-A third independent pass checked the voice-guide revisions for drift, canon and repetition across the whole collection. It found no lost cross-story details. It found three continuity holes (the stall-form condition, the "we" set-up, the ledger dating) and a set of repeated moves: old records read aloud, "wrote it down" and silence as scene endings, two favor-asking endings, the thirty-year custodian, and tea twice. Those are fixed. One is left for James: The Heavy Scale and The Greenvale Man both close on Northwind's sight form ("I saw it"), which is in both plans.
+A third independent pass checked the voice-guide revisions for drift, canon and repetition across the whole collection. It found no lost cross-story details. It found three continuity holes (the stall-form condition, the "we" set-up, the shrine-log dating in The Heavy Scale) and a set of repeated moves: old records read aloud, "wrote it down" and silence as scene endings, two favor-asking endings, the thirty-year custodian, and tea twice. Those are fixed.
+
+The fourth pass, for fit and uniqueness, found that six of the seven stories were solved by reading a document closely. It also found repeated openings on a line of dialogue, back-to-back favor endings, two Northwind "I saw it" endings, and pairs of stories sharing devices. The changes:
+
+- **One Square:** the discovery is now two halves of one banner in the mill loft, and the story ends with Pell alone in his tree.
+- **Inspected:** the climax turns on the farmers' blockade and on Wurdren finally passing on their message.
+- **The Heavy Scale:** Tove's line moves mid-supper, and the story ends on the scale reading true.
+- **The Greenvale Man and The Tree:** new narrative openings.
+
+A fresh review then checked each story against the Framework, the world-tie rule, the Anthology and the voice guide, and every one passed. It built a uniqueness matrix and caught the continuity slips the changes had introduced. Those are fixed.
 
 Drafting decisions that change a plan are recorded in each story page's **Stage 3 — DO** section.
 

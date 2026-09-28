@@ -4,7 +4,9 @@
 
 **L3 draft, third pass: revised against James's author voice guide ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [The Greenvale Man](../Stories/The-Greenvale-Man.md). History, 2026-09-27 to 28: first written from the story page's scene plan and promise ledger; checked independently; rewritten to notes from James's sample chapters; revised against his full voice guide after he approved the test revision of [The Goat File](The-Goat-File.md). Not yet reviewed at L4. Kettle Cove, Narrow Sound, the regatta and every character are provisional; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule). Northwind's two "we"s and its evidential forms are rendered in English, following [Language and Thought](../../Culture/Language-and-Thought.md#northwind-languages); no conlang words are invented.
 
-**What this pass changes:** prose only. It uses medium sentences by default, fewer punchline scene endings, and humor that differs by character. Hild collects rumors the way other people collect shells. Aldo is polite to a fault. Rask uses grammar as a weapon. Brenna is blunt. No beats were added; the story's weight is already in the "we" and in Narrow Sound's lost boat.
+**Fourth pass (uniqueness):** the story opens on the haul-out, not on a line of dialogue, since five of the seven drafts opened that way.
+
+**Third pass:** prose only. It uses medium sentences by default, fewer punchline scene endings, and humor that differs by character. Hild collects rumors the way other people collect shells. Aldo is polite to a fault. Rask uses grammar as a weapon. Brenna is blunt. No beats were added; the story's weight is already in the "we" and in Narrow Sound's lost boat.
 
 Story 2 of 7 in [The Anthology](../Anthology.md). Year 1, late autumn.
 
@@ -12,13 +14,13 @@ Story 2 of 7 in [The Anthology](../Anthology.md). Year 1, late autumn.
 
 ## The Greenvale Man
 
+They hauled the *Kittiwake* out three weeks before Last Sail, and half of Kettle Cove came down to the slipway to watch, because that was how the cove did things: nobody could fix anything until everybody had seen it. The crack was on the landward side, along the fourth plank below the gunwale, as fine as a hair and as long as a man's arm.
+
 "That's sprung," said somebody.
 
 "That's rot," said somebody else.
 
 "That's neither." Brenna Scarth was on her knees in the shingle with her face an inch from the hull. "Something hit it. Ice, probably, in the spring. It's opened along the grain."
-
-Half of Kettle Cove had come down to the slipway to look at the crack, because that was how the cove did things: nobody could fix anything until everybody had seen it. It ran along the fourth plank below the gunwale on the landward side, as fine as a hair and as long as a man's arm.
 
 Aldo Fenwright stood at the back of the crowd. He had lived in the cove for twenty years and had learned in the first of them that the back of a Kettle Cove crowd was where a Greenvale man stood.
 
@@ -26,7 +28,7 @@ Brenna sat back on her heels. "It'll hold on a calm day. It won't hold for a rac
 
 The whole slipway breathed out at once.
 
-Last Sail was three weeks away, and with it the regatta against Narrow Sound, across the headland. Narrow Sound had beaten the *Kittiwake* three years running, and the regatta bell hung in their tower now, and everybody in Kettle Cove knew to the day how long it had been there.
+Last Sail meant the regatta against Narrow Sound, across the headland. Narrow Sound had beaten the *Kittiwake* three years running, and the regatta bell hung in their tower now, and everybody in Kettle Cove knew to the day how long it had been there.
 
 "We'll write to your father," said Old Rask.
 
