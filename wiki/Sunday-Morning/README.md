@@ -18,6 +18,7 @@ A Sunday Morning Story is a character-driven, human-scale story with a clear pre
 6. [The Drafts](Drafts/README.md) — the seven stories in prose, in reading order.
 7. [Voice](Voice.md) — how James's prose sounds; the drafts follow it.
 8. [Process Notes](Process-Notes.md) — how the stories were actually made, what went wrong, and the lessons now in the pipeline.
+9. [Collection Registry](Collection-Registry.md) — names, story shapes, devices and stock phrases already used, plus the freshness checker.
 
 ## Stories
 

@@ -220,7 +220,7 @@ Candidate Writing Bible lenses applied, as research and not rules:
 Drafted 2026-09-27: [The Greenvale Man](../Drafts/The-Greenvale-Man.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
 
 - **DO** — Rask's oak is the plank that goes into the hull (P6); the green plank goes on the fire.
-- **DO** — new provisional name: Sigra Holm, Narrow Sound's champion rower. The flour sack carries the Salve house's hurried purchase stamp, matching [One Square](One-Square-Two-Harvests.md) (C1).
+- **DO** — new provisional name: Sigra Ulfsen, Narrow Sound's champion rower. The flour sack carries the Salve house's hurried purchase stamp, matching [One Square](One-Square-Two-Harvests.md) (C1).
 - **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. Rask's absolute ("never once used the wide one when Aldo could hear") is kept for the payoff. A flour-smell beat was tried and cut as formula. Silence closers were thinned. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — The story opens on the haul-out rather than a line of dialogue, to vary the collection's openings.

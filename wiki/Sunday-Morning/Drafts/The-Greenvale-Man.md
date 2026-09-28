@@ -152,7 +152,7 @@ The second rumor was about Narrow Sound, and nobody brought that one home for fu
 
 Narrow Sound's children spied on the boat shed that week. Everybody's children spied on everybody's sheds before Last Sail; it was practically part of the festival. Two of them lay on the shingle bank above the shed door every afternoon in plain view and carried everything they saw back across the headland. Aldo waved at them. After a few days they waved back.
 
-One of them was the niece of Narrow Sound's champion rower, Sigra Holm, who was fast and tall and everybody's cousin, Brenna's included. Her uncle had lost his boat to raiders that summer. Kettle Cove had sent food.
+One of them was the niece of Narrow Sound's champion rower, Sigra Ulfsen, who was fast and tall and everybody's cousin, Brenna's included. Her uncle had lost his boat to raiders that summer. Kettle Cove had sent food.
 
 "And now it is said they shelter them," Hild said, turning fish beside him on the one afternoon he came to help. It wasn't her shell voice. "Her uncle's boat went down this summer. And it is said."
 
@@ -178,7 +178,7 @@ It was the narrow *we*. But he had carried it through a snowstorm to the Greenva
 
 The storms broke four days before Last Sail. The new plank went in the next morning, and it was Rask's father's oak, steamed slow over two storm nights; the green plank had gone on the cooperage fire. It was fitted, taken out, fitted again and fastened, and by the afternoon the joins had disappeared.
 
-A boat with a new plank always weeps at first. The wood drinks and swells and closes the last gaps, and until it does somebody has to be aboard to bail, and to watch the seam, and to say whether the weeping is the ordinary kind or the kind that means the plank comes out again. Brenna would sail her, and Brenna said in front of the whole slipway that she wanted the man who'd fitted the plank aboard to watch it.
+A boat with a new plank always weeps at first. The wood drinks and swells and closes the last gaps, and until it does somebody has to be aboard to bail, and to watch the seam, and to say whether the weeping is the ordinary kind or the kind that means the plank comes out again. Brenna would sail her, and Brenna said, loud enough for the whole slipway, that she wanted the man who'd fitted the plank aboard to watch it.
 
 Aldo went.
 
@@ -214,7 +214,7 @@ Somebody coughed.
 
 Last Sail came in cold and clear. Half of Narrow Sound walked round the headland to watch from Kettle Cove's shingle, because the course ran past it, as it always had.
 
-Before the start, Sigra Holm came down Kettle Cove's slipway in her racing gear, found Rask, and said, "Thank you." She didn't say what for. Rask nodded once.
+Before the start, Sigra Ulfsen came down Kettle Cove's slipway in her racing gear, found Rask, and said, "Thank you." She didn't say what for. Rask nodded once.
 
 Brenna heard later from a cousin that three coves up the coast had already sent their convoy lists to Maris Bleakshore, and none of them had Narrow Sound on it. Kettle Cove put Narrow Sound on its list that week. It was one list, and it was a long coast.
 

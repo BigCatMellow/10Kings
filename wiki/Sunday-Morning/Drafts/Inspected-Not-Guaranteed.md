@@ -75,7 +75,7 @@ The keeper was wiping a cup. He had been wiping the same cup since Wurdren came 
 
 It was a story about a stranger a long way off, and Wurdren let it go.
 
-A little after that, the district guildmaster came in, shaking rain off his coat. Master Oswin Vey was a narrow, upright man with a ledger under one arm, and he announced to the room that the road from the upper district had washed out, that the unbound judge would not be coming, and that the apprenticeship judgments would therefore have to be deferred.
+A little after that, the district guildmaster came in, shaking rain off his coat. Master Oswin Vey was a narrow, upright man with his ledger held flat against his chest, and he announced to the room that the road from the upper district had washed out, that the unbound judge would not be coming, and that the apprenticeship judgments would therefore have to be deferred.
 
 The room went quiet in a way Wurdren recognized.
 
@@ -141,7 +141,7 @@ Nell Haskett sold eggs from a table by her farmyard gate, and Wurdren went to bu
 
 "And Marta?"
 
-"Marta makes swords. Lovely ones. Nobody down here needs a sword." She saw his face and laughed. "Well. Almost nobody."
+"Marta makes swords. Lovely ones. Nobody down here needs a sword." She looked him up and down and laughed. "Well. Almost nobody."
 
 She walked him down to the bottom of the yard, where a ditch ran along the edge of her land, carrying water down from the foothills to the fields. It was gray and scummed over, and a line of dead grass along the bank showed how high it had risen in the winter. It smelled flat and metallic, like the inside of a bucket that has held nails.
 
@@ -233,7 +233,7 @@ Col took it out of his coat. It was folded small and a little damp at the edges.
 
 "May I?"
 
-Col handed it up. Wurdren held it against the last of the light in the west, the way you might hold up a coin to see whether it had been clipped. The paper was heavy and cream-colored and far too fine for Stonefield, and in the grain of it was a watermark: a small ship's lantern, the kind that hangs from a stern rail. He didn't know what it meant. Some papermaker somewhere with ships, he supposed. He handed it back.
+Col handed it up. Wurdren held it against the last of the light in the west, as a moneychanger holds up a coin to see whether it has been clipped. The paper was heavy and cream-colored and far too fine for Stonefield, and in the grain of it was a watermark: a small ship's lantern, the kind that hangs from a stern rail. He didn't know what it meant. Some papermaker somewhere with ships, he supposed. He handed it back.
 
 "Take it," he said.
 
@@ -303,7 +303,7 @@ Vey turned around.
 
 "No," said Wurdren. He had no idea what came next, and he said so.
 
-Nell Haskett came in at the hall door, with her arms full of something and her face full of purpose. According to the porter she had been standing at the foot of the steps for an hour, waiting for somebody to say the word *water* loudly enough to give her an excuse.
+Nell Haskett came in at the hall door, with her arms full of something and her face full of purpose. According to the porter she had been waiting on the steps for an hour, waiting for somebody to say the word *water* loudly enough to give her an excuse.
 
 "Then come and look at it," she said. "All three of you. It's a short walk. Some of it already runs clean." She looked at Vey. "The farmers will move for a guildmaster who's seen the ditch. They won't move for one who hasn't."
 
@@ -341,7 +341,7 @@ The charcoal carts came down the hill late in the afternoon, all four of them, a
 
 They had gone up that morning to stand in the road. Somehow, the way news travels in a town like Stonefield, they had heard that the judges had walked the ditch and passed the plumbing, and by the time the last cart came out of the mud they had their shoulders to its tailboard. They pushed it all the way to the guild hall, and nobody mentioned standing in the road again.
 
-At dusk the guild read the names. It took hours, well into the dark. Wurdren stood at the back of the long hall and listened to every one of them, and nobody hurried and nobody coughed. Then the masters carried coals from the guild hearth down the lane to every forge in Stonefield, one after another, and the chimneys began to smoke, and the town smelled like itself for the first time since autumn.
+At dusk the guild read the names. It took hours, well into the dark. Wurdren stood near the door of the long hall and listened to every one of them, and nobody hurried and nobody coughed. Then the masters carried coals from the guild hearth down the lane to every forge in Stonefield, one after another, and the chimneys began to smoke, and the town smelled like itself for the first time since autumn.
 
 Tamsin welded the tang that night. She used ordinary steel and did it perfectly, and fitted a new grip of plain ash. Then she took a small punch out of her apron pocket. It was hers. The guild borrowed it every Reawakening to mark its judgments and always brought it back late, and this year, she said, somebody had heard about it. On the flat of the blade just above the guard, beside the old guarantee mark, she struck a mark of her own. It was the stamp for *inspected*.
 

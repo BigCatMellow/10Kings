@@ -30,14 +30,14 @@ Recurring locations:
 
 1. **The public scale** — the town's honor, beam and pans under a slate roof.
 2. **The customs house** — ledgers, stamps, one stove, and a window facing the Second Gate's patched roof.
-3. **The Second Gate** — Brisa Holloway's inn, where stranded travelers winter.
+3. **The Second Gate** — Brisa Zell's inn, where stranded travelers winter.
 4. **The repair shop** — gruff smith, every tool the pass needs.
 5. **An Infinite Compass road shrine** — with a pilgrim log going back decades.
 6. **The drifts under the Second Gate's eaves** — melting.
 
 ## Cast
 
-- **Brisa Holloway** — Northwind-born innkeeper who feeds everyone snowed in, paying or not.
+- **Brisa Zell** — Northwind-born innkeeper who feeds everyone snowed in, paying or not.
 - **Tove Marrick, a salt-fish trader** — tags every claim by how she knows it: *I saw it*; *someone I'd lend a boat to told me*; *it is said.*
 - **The customs chief** — wants no scandal whatsoever. With fewer caravans this year his post's fees are down and his appointment is under review; he isn't corrupt, just frightened.
 - **The repair smith** — maintains the scale, rude, capable, and innocent.
@@ -239,10 +239,10 @@ Candidate Writing Bible lenses applied, as research and not rules:
 Drafted 2026-09-27: [The Heavy Scale](../Drafts/The-Heavy-Scale.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
 
 - **DO** — mechanism made concrete: a steelyard whose one-stone poise rides in a latched cradle nobody opens between services; Grell's two services both fall before the storm. Brisa took the stone to tie down a roof corner. The lighter Northwind net-stone reads about a tenth heavy.
-- **DO** — new provisional names: Chief Dorran Pike, Grell (smith), Maudie Vance (shrine keeper), Ilo Sedgewater (the cook; authoritative for C5).
+- **DO** — new provisional names: Chief Dorran Pike, Grell (smith), Maudie Vance (shrine keeper), Garro Sedgewater (the cook; authoritative for C5).
 - **DO** — length about 5,800 words, under the 6–9k target; no scene needed more room. JUDGE can say whether s6 or s9 wants it.
 - **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. The ledger no longer counts entries before the change, which fixes a contradiction with the shrine log. The report reads *Error inspected and corrected*. The ending still lands on Tove's "I saw it", a plan item that echoes The Greenvale Man's sight-form walk home. That is for James to decide. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
-- **DO, fourth pass (uniqueness)** — Tove's "I saw it" moves mid-supper, so The Greenvale Man keeps the collection's sight-form ending to itself. The story closes the next morning on the scale reading true ("Ten stone. True to a hair."), echoing the opening and Grell's phrase. A review of the whole collection followed. Quill closes his book and says Brisa's line from memory (P4 kept, and distinct from Pim reading aloud in The Goat File). The report reads *Error found and corrected*; the soft landing above says "inspected", which is superseded, to keep that word for Inspected, Not Guaranteed.
+- **DO, fourth pass (uniqueness)** — Tove's "I saw it" moves mid-supper, so The Greenvale Man keeps the collection's sight-form ending to itself. The story closes the next morning on the scale reading true ("Ten stone. True to a hair."), echoing the opening and Grell's phrase. A review of the whole collection followed. Quill closes his book and says Brisa's line from memory (P4 kept, and distinct from Wen reading aloud in The Goat File). The report reads *Error found and corrected*; the soft landing above says "inspected", which is superseded, to keep that word for Inspected, Not Guaranteed.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

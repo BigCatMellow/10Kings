@@ -28,6 +28,7 @@ The most important lesson: **get the author's own voice before drafting a word.*
 | 10. Test story | Rather than rewrite all seven again, one story (The Goat File) was revised against the guide. James approved it. | `c990867` |
 | 11. "That sounds pretty formulaic" | When the plan was to give every story the same set of guide-driven beats, James pointed out it would be predictable. The guide was applied as a sensibility instead. Two beats added as formula (a late wife and a smell-of-home moment) were removed. | `e1f2d8d` |
 | 12. Fit and uniqueness | A pass over all seven against the project's goals and against each other. It found that six of seven stories were resolved by reading a document closely, and it changed two climaxes and several openings and endings. | `98c84da` |
+| 13. Names and phrases | James noticed two protagonists with the same initials (Pell Anwick, Pim Aldash). A name audit found more clashes. Six names changed, and one of the replacements created a new clash that the new checker caught. The checker also found repeated five-word phrases across stories that no reading pass had noticed. The [Collection Registry](Collection-Registry.md) and `tools/sunday_morning_check.py` were added. | see git log, 2026-09-28 |
 
 ## What worked
 
@@ -54,6 +55,7 @@ The most important lesson: **get the author's own voice before drafting a word.*
 | Six of seven stories were solved by reading a document | Each plan was sensible on its own. The running element (language habits) pulled every story toward textual precision, and nobody compared the stories' shapes. | Check the collection's *shapes*, not just its details, before drafting |
 | Scene endings became a new habit after each fix (punchlines, then silences, then "wrote it down") | Removing one tic in bulk invites a replacement tic | After fixing a pattern, look for the new pattern that replaced it |
 | Several claims in status notes drifted from the text (for example "no beats added") | Notes were written from intent, not from the diff | Write change notes from the diff |
+| Two protagonists shared initials, and other names clustered (Ald-, Hol-, Seraph/Seral) | Names were invented story by story with no shared list. Even the fix introduced a new clash (Wen / Wendmere). | Register names at L0 in the [Collection Registry](Collection-Registry.md) and run the checker. Mechanical checks catch what careful readers miss. |
 
 ## Lessons carried into the method
 
@@ -65,6 +67,7 @@ These are now part of the [Story Pipeline](Story-Pipeline.md):
 4. **A collection shape check at PLAN.** Before drafting a collection, compare the plans for protagonist type, engine, how the problem is resolved, register, opening and ending, and vary them there. It is much cheaper than fixing prose.
 5. **An independent check after every pass,** comparing against the previous version (drift) and across the collection (repetition), not just against the plan.
 6. **Change notes from the diff,** not from intention.
+7. **A registry and a checker for the collection.** Names, shapes, devices and stock phrases live in the [Collection Registry](Collection-Registry.md). `tools/sunday_morning_check.py` runs after every pass.
 
 ## AI's role, as James's guide defines it
 

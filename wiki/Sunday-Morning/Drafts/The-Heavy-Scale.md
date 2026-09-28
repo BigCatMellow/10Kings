@@ -4,11 +4,11 @@
 
 **L3 draft, third pass: revised against James's author voice guide ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [The Heavy Scale at Icestep Summit](../Stories/The-Heavy-Scale.md). History, 2026-09-27 to 28: first written from the story page's scene plan and promise ledger; checked independently; rewritten to notes from James's sample chapters, with an opening he approved; revised against his full voice guide after he approved the test revision of [The Goat File](The-Goat-File.md). Not yet reviewed at L4. Every character except Samir Tareh is provisional, as are the businesses and the shared unit name "stone"; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule). The weigher's employer stays "the pass authority," as the story page leaves it. Samir appears only as an ordinary caravan negotiator.
 
-**Fourth pass (uniqueness):** Tove's "I saw it" now falls mid-scene, so the collection doesn't end two Northwind stories on the same sight-form line; *The Greenvale Man* keeps its own. The story now closes on the morning after, with the scale reading true: "Ten stone. True to a hair." That echoes the opening and Grell's own phrase. At the climax Quill closes his book and says Brisa's line from memory, so he isn't a clerk reading aloud to a crowd as Pim is in The Goat File. The report now reads *Error found and corrected*, keeping the word *inspected* for Inspected, Not Guaranteed.
+**Fourth pass (uniqueness):** Tove's "I saw it" now falls mid-scene, so the collection doesn't end two Northwind stories on the same sight-form line; *The Greenvale Man* keeps its own. The story now closes on the morning after, with the scale reading true: "Ten stone. True to a hair." That echoes the opening and Grell's own phrase. At the climax Quill closes his book and says Brisa's line from memory, so he isn't a clerk reading aloud to a crowd as Wen is in The Goat File. The report now reads *Error found and corrected*, keeping the word *inspected* for Inspected, Not Guaranteed.
 
-**Third pass:** prose only. The approved opening keeps its quick comic timing. Everything after it runs in medium sentences by default, with fewer punchline scene endings and humor that differs by character. Quill is literal. Tove is strict about how anyone knows anything. Brisa feeds people instead of joking. The chief is frightened. Grell is rude. Ilo grumbles. No beats were added.
+**Third pass:** prose only. The approved opening keeps its quick comic timing. Everything after it runs in medium sentences by default, with fewer punchline scene endings and humor that differs by character. Quill is literal. Tove is strict about how anyone knows anything. Brisa feeds people instead of joking. The chief is frightened. Grell is rude. Garro grumbles. No beats were added.
 
-This draft is authoritative for [Anthology C5](../Anthology.md#cross-story-promise-ledger): the caravan cook is **Ilo Sedgewater**, from a Deepwood village whose mushroom harvest the blight took; his grievance is that mushrooms now cost more than meat.
+This draft is authoritative for [Anthology C5](../Anthology.md#cross-story-promise-ledger): the caravan cook is **Garro Sedgewater**, from a Deepwood village whose mushroom harvest the blight took; his grievance is that mushrooms now cost more than meat.
 
 Story 5 of 7 in [The Anthology](../Anthology.md). Year 2, early spring.
 
@@ -70,7 +70,7 @@ Across the yard, the drift under the eaves of the inn stood higher than a man. S
 
 "Nobody orders. There's what there is. Eat it."
 
-Brisa Holloway put the bowl down in front of him and didn't wait to see whether he would. It was barley with salt fish and some dried green herb that tasted of the sea.
+Brisa Zell put the bowl down in front of him and didn't wait to see whether he would. It was barley with salt fish and some dried green herb that tasted of the sea.
 
 The Second Gate was the only inn in Icestep, and in winter it was the only warm place, so everyone who was stranded or snowed in or simply had nowhere better to be ended up in its long, low common room by evening. Brisa was Northwind-born, with flour to the elbows and a voice pitched for a room full of weather. She had run the Gate for twenty years and fed everyone who came through the door, whether they could pay or not.
 
@@ -208,7 +208,7 @@ The news came up from the yard at dusk: the plateau side of the pass was clear, 
 
 Quill spent the night weighing his own reference set against itself. He had been taught to do it whenever he doubted his instruments, and that night he doubted them for the first time. Perhaps the scale was true and he was the one who was wrong. Perhaps his ten-stone had been knocked or chipped or corroded on the long ride up from the plateau, and he had spent two days insulting a town's honor with light weights. So he sat at the end of the common room with his hand balance and his box and weighed ten against five and five, five against two and two and one, one against the halves, around and around again until the brass was warm from his hands. They were true. They had always been true. He did it all again anyway.
 
-Some time after midnight, when the room had emptied and the fire had burned low, Brisa sat down across from him. She hadn't brought a bowl this time. She had two cups of something hot, and she set one beside the hand balance and watched him set the five-stone against the two-and-two-and-one for what he suspected was the eleventh time.
+Some time after midnight, when the room had emptied and the fire had burned low, Brisa pulled out the bench opposite and sat. She hadn't brought a bowl this time. She had two cups of something hot, and she set one beside the hand balance and watched him set the five-stone against the two-and-two-and-one for what he suspected was the eleventh time.
 
 "Is it you," she asked, "or the scale?"
 
@@ -222,7 +222,7 @@ Some time after midnight, when the room had emptied and the fire had burned low,
 
 "Every sack of flour in that ledger after the storm was weighed heavy. Families paid for a tenth more than they got, all winter, and they don't know it." He hesitated. "It isn't much. A tenth of a sack. But they paid for it."
 
-Brisa looked at him for a long time.
+Brisa considered him.
 
 "You're not what I thought," she said. "The first night, with your book and your little weights, I thought you'd be one of those who's right about everything and kind about nothing."
 
@@ -268,13 +268,13 @@ The yard went silent. The chief made a small noise.
 
 Quill reported it plainly and exactly, and he didn't hurry. The scale had read heavy by a tenth since the morning after the storm. He named the date from the shrine book, and all round the yard he heard the murmur of people who had spent the winter arguing about that date and had just lost. Then he gave the cause: the town's stone lost off the Second Gate's roof in the storm, and replaced before morning with a Northwind net-stone that also said *one stone* and was not. He held them up, one in each hand, so the whole yard could see.
 
-He didn't say who. He didn't need to. Brisa Holloway was standing near the front of the crowd with flour on her forearms, and he watched her understand.
+He didn't say who. He didn't need to. Brisa Zell was standing near the front of the crowd with flour on her forearms, and he watched her understand.
 
 "I didn't know," she said. It came out very small for that big voice. "The roof was going. I needed something heavy, so I took the stone, and then the wind took the stone, and I thought one stone was one stone. I put ours in. I didn't *know*."
 
 Quill opened his book. The whole yard watched him do it, and he saw Brisa flinch, and he closed it again. He didn't need it. He had it by heart.
 
-"*Precise isn't the same as unkind*," he said. "*Not if you're being precise for somebody.* Brisa Holloway said that to me, at the Second Gate, last night."
+"*Precise isn't the same as unkind*," he said. "*Not if you're being precise for somebody.* Brisa Zell said that to me, at the Second Gate, last night."
 
 He closed the book.
 
@@ -292,7 +292,7 @@ He told her. It was not a small sum; salt fish is heavy, and she had sold a grea
 
 "Coin," said Tove. "I want it in coin. I saw what I was charged, and I want to see what I'm paid."
 
-The chief, visibly suffering, counted it out of the customs chest into her hand. Tove weighed the coins in her palm for a moment. Then she walked across the yard and tipped every one of them into Brisa Holloway's floury hands.
+The chief, visibly suffering, counted it out of the customs chest into her hand. Tove weighed the coins in her palm for a moment. Then she walked across the yard and tipped every one of them into Brisa Zell's floury hands.
 
 "For the supper," she said. "Buy something that isn't salt fish."
 
@@ -310,9 +310,9 @@ Then he took his bowl across the room to where Grell was sitting alone near the 
 
 Grell looked at him over his fish. "You were," he said. "You did." He went back to his fish. After a while, without looking up, he added, "Your ten-stone's got a scratch on the base. Bring it round in the morning and I'll dress it."
 
-The chief stood up in the middle of the room, called for quiet, and made a short speech about the pass authority's commitment to honest weights, the town's pride in its public scale, and how very proud he was that Icestep had chosen to correct its error openly, in front of the whole season's trade. Everyone let him. Quill, who had the whole morning written down, let him too.
+The chief stood up in the middle of the room, called for quiet, and made a short speech about the pass authority's commitment to honest weights, the town's pride in its public scale, and how very proud he was that Icestep had chosen to correct its error openly, before the whole season's trade. Everyone let him. Quill, who had the whole morning written down, let him too.
 
-By the fire, Tove Marrick had her boots on the rail and her pipe going, and a ring of stranded travelers and caravan hands and customs clerks around her, and she was telling the story of the scale. She told all of it, from the storm to the stone in the drift, and she tagged every part of it properly. "And then the weigher stood in that yard with a stone in each hand," she was saying, as Quill went past with his bowl, "in front of the whole town and Samir Tareh, and told everybody exactly what they were owed. I saw it." Then she went straight on to the part about the chief, which she had not seen, and tagged it accordingly, and the whole ring laughed.
+By the fire, Tove Marrick had her boots on the rail and her pipe going, and a ring of stranded travelers and caravan hands and customs clerks around her, and she was telling the story of the scale. She told all of it, from the storm to the stone in the drift, and she tagged every part of it properly. "And then the weigher stood in that yard with a stone in each hand," she was saying, as Quill went past with his bowl, "with the town and Samir Tareh watching, and told everybody exactly what they were owed. I saw it." Then she went straight on to the part about the chief, which she had not seen, and tagged it accordingly, and the whole ring laughed.
 
 Late in the evening Samir Tareh took the seat beside Quill with his route book open, and turned it so that Quill could see the page. The entries were short and written in a neat plateau hand: passes, towns, water, yards and scales, a line or two for each. The line above the last one read *Seven Wells — water and guides, one roof*. Below it, in fresh ink, he had written *Icestep — scale honest, corrected in public*.
 
@@ -322,13 +322,13 @@ Late in the evening Samir Tareh took the seat beside Quill with his route book o
 
 Samir was quiet for a moment. "There's a pass town further east whose scale has been reading wrong all winter, always in the town's favor. They showed me the stamp on it and swore to it." There was no pleasure in his voice at all. "It won't see my caravans this year, and that will cost them a great deal, and I'm sorry for it. But I can't send people where the weights lie."
 
-At the other end of the table the caravan's cook had been given a bowl of Brisa's fish and was eating it like a man taking professional notes. He was a Deepwood man called Ilo Sedgewater, who had cooked for the caravans since the blight took his village's mushroom harvest the summer before, and he had been complaining since the moment he came through the gate.
+At the other end of the table the caravan's cook had been given a bowl of Brisa's fish and was eating it like a man taking professional notes. He was a Deepwood man called Garro Sedgewater, who had cooked for the caravans since the blight took his village's mushroom harvest the summer before, and he had been complaining since the moment he came through the gate.
 
-"Mushrooms," he said, to nobody in particular. "Have you seen what they want for mushrooms on the plateau? Forest mushrooms? More than meat. More than *meat*. Forty years I've been cooking, and I never thought I'd see a mushroom cost more than a goat." He chewed, and considered. "This is good," he admitted. "Too much pepper."
+"Mushrooms," he told the room. "You know what they're asking for mushrooms on the plateau? Forest mushrooms? More than meat. More than *meat*. Forty years I've been cooking, and I never thought I'd see a mushroom cost more than a goat." He chewed, and considered. "This is good," he admitted. "Too much pepper."
 
 "It's the plateau spice," said Brisa, going past with bread.
 
-"It's too much of it," said Ilo Sedgewater, and held out his bowl for more.
+"It's too much of it," said Garro Sedgewater, and held out his bowl for more.
 
 ---
 

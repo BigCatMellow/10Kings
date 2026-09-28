@@ -16,7 +16,7 @@ A Deepwood forest warden and a Highridge route surveyor are ordered to route the
 
 ## Protagonists
 
-**Sessa Alderwater** — forest warden.
+**Sessa Yewbrook** — forest warden.
 
 - **Good at:** reading ground, water and animal sign; knowing what a place is doing.
 - **Small flaw:** treats every outsider's question as a threat until proven otherwise.

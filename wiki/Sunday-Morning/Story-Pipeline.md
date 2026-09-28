@@ -160,6 +160,8 @@ Name the evidence that would make the plan wrong. For example: "if the midpoint 
 
 ### Collection shape check (for a set of stories)
 
+Use the [Collection Registry](Collection-Registry.md). It records every name, story shape, device and stock phrase already used. Register new names at L0, when they are invented.
+
 Added 2026-09-28 from [Process Notes](Process-Notes.md). Before drafting several stories that will be read together, lay their plans side by side and compare:
 
 - protagonist type;
@@ -201,7 +203,7 @@ This is PLAN's DO / PLAN / THINK / authority routing, applied to prose.
 
 MAPS_L: **no owner approves their own substantive work.** The draft is reviewed by a fresh pass that did not write it, working only from the story page and the draft.
 
-After **every** drafting pass, not only at L4, run a fresh check that compares the new version with the previous one (drift) and, for a collection, the stories with each other (repetition). After fixing a repeated pattern, look for the new pattern that replaced it. Write change notes from the diff, not from intention.
+After **every** drafting pass, run `python3 tools/sunday_morning_check.py` from the repository root. It flags name clashes, five-word phrases shared across stories, and registered stock phrases. Then, not only at L4, run a fresh check that compares the new version with the previous one (drift) and, for a collection, the stories with each other (repetition). After fixing a repeated pattern, look for the new pattern that replaced it. Write change notes from the diff, not from intention.
 
 The review checks:
 

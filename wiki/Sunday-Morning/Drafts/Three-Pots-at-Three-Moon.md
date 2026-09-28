@@ -4,7 +4,7 @@
 
 **L3 draft, third pass: revised against James's author voice guide ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [Three Pots at Three Moon](../Stories/Three-Pots-at-Three-Moon.md). History, 2026-09-27 to 28: first written from the story page's scene plan and promise ledger; checked independently; rewritten to notes from James's sample chapters; revised against his full voice guide after he approved the test revision of [The Goat File](The-Goat-File.md). Not yet reviewed at L4. The neighborhood, the permit rules, the family and its serving ritual are provisional. The ritual belongs to this family and to one Deepwood village, not to Deepwood as a whole. See the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule).
 
-**Fourth pass (uniqueness):** Jory wears an interpreter's collar, not ink, to separate him from Pim in The Goat File. The stall form comes out of Amaranth Doss's own desk drawer, not a forgotten cabinet, so it doesn't echo The Goat File's untouched archive.
+**Fourth pass (uniqueness):** Jory wears an interpreter's collar, not ink, to separate him from Wen in The Goat File. The stall form comes out of Amaranth Doss's own desk drawer, not a forgotten cabinet, so it doesn't echo The Goat File's untouched archive.
 
 **Third pass:** prose only. It uses medium sentences by default, fewer punchline scene endings, and humor that differs by character:
 - Jory defends not cooking at length.
@@ -13,12 +13,12 @@
 - Ines aspires.
 - Amaranth Doss enjoys bureaucracy far too much.
 - Halloran is tired.
-- Ilo criticizes everything.
+- Garro criticizes everything.
 - Mrs. Arden is dry.
 
 No beats were added; the story's weight is already in Jory's bowl.
 
-Cross-story details match the drafts they come from: the caravan cook is Ilo Sedgewater from [The Heavy Scale](The-Heavy-Scale.md) (C5), and Mrs. Arden's polite man is the land agent from [One Square, Two Harvests](One-Square-Two-Harvests.md) (C3), unnamed in both.
+Cross-story details match the drafts they come from: the caravan cook is Garro Sedgewater from [The Heavy Scale](The-Heavy-Scale.md) (C5), and Mrs. Arden's polite man is the land agent from [One Square, Two Harvests](One-Square-Two-Harvests.md) (C3), unnamed in both.
 
 Story 7 of 7 in [The Anthology](../Anthology.md). Year 2, early autumn.
 
@@ -92,7 +92,7 @@ It was a good stew, dark and rich and hot with pepper. And where Jory remembered
 
 "It's fish," he said.
 
-"It's fish," Tobiah agreed. "Have you seen what they want for mushrooms this year? Forest mushrooms? There's a blight up in the uplands — two summers now. Half the villages lost their whole crop. You can get them, but you'd pay more than you would for the meat." He added more pepper. "Down here we've got fish. The lads like it."
+"It's fish," Tobiah agreed. "You priced mushrooms lately? Forest mushrooms? There's a blight up in the uplands — two summers now. Half the villages lost their whole crop. You can get them, but you'd pay more than you would for the meat." He added more pepper. "Down here we've got fish. The lads like it."
 
 The lads did like it. The man at Jory's elbow was on his third bowl. An older worker from somewhere up the coast said something to Tobiah in harbor creole that Jory only half caught, and Tobiah laughed and answered in the same, and without anyone asking, Jory turned to the man at his elbow and put the joke into ordinary Port speech. The man laughed, and so did Tobiah.
 
@@ -114,7 +114,7 @@ Jory ate it. It was magnificent, and it didn't taste like Nana's.
 
 "Tobiah says you're doing it all wrong," he said, which was a translation, and a gentle one, of what Tobiah had actually said.
 
-"Tobiah is cooking it the way she did because she was poor, and calling that tradition." Ines sat down across from him. "I'm cooking it the way she would have if she weren't, and calling that respect. We're both right, and we're both being ridiculous." She turned her own bowl slowly on the table. "Do you know what I remember about Nana's stew? It isn't the taste."
+"Tobiah is cooking it the way she did because she was poor, and calling that tradition." Ines took the stool opposite. "I'm cooking it the way she would have if she weren't, and calling that respect. We're both right, and we're both being ridiculous." She turned her own bowl slowly on the table. "Do you know what I remember about Nana's stew? It isn't the taste."
 
 "What is it?"
 
@@ -148,7 +148,7 @@ When he had gone, the woman next door caught Jory's eye across the gap between t
 
 "We're the Ardens," she said. "From Greenvale. We had a farm, up the valleys." She stirred her pot. "Bad year. Couldn't pay the seed loan. So a very polite man came round and bought our notes." She smiled without much in it. "Ever so polite. He bought us lunch."
 
-Tobiah laughed out loud, and after a moment so did Mrs. Arden.
+Tobiah laughed out loud, and Mrs. Arden, a beat later, laughed with him.
 
 ---
 
@@ -158,7 +158,7 @@ It was a little after that when the caravan cook came down the lane. Jory didn't
 
 "Taste it," said Mother Seral.
 
-He tasted all three, slowly and professionally, from three separate spoons, with a sip of water between each. He was a cook, he told them — Ilo Sedgewater, from the uplands. He had cooked for the caravans since the blight took his village's mushrooms the summer before last, and had come over the pass at Icestep with the first caravan of the spring ("Honest scale there, if you're ever through") and worked his way down the routes to Port one job at a time. He had been cooking for forty years, and he knew Guardian Stew.
+He tasted all three, slowly and professionally, from three separate spoons, with a sip of water between each. He was a cook, he told them — Garro Sedgewater, from the uplands. He had cooked for the caravans since the blight took his village's mushrooms the summer before last, and had come over the pass at Icestep with the first caravan of the spring ("Honest scale there, if you're ever through") and worked his way down the routes to Port one job at a time. He had been cooking for forty years, and he knew Guardian Stew.
 
 He put down the third spoon. "None of these is Guardian Stew."
 
@@ -168,7 +168,7 @@ The silence at the family stall was so complete that the Ardens looked over.
 
 "What do you do with the pot?" asked Jory.
 
-Ilo Sedgewater looked at him with the faint surprise of a man who has been asked something everybody knows.
+Garro Sedgewater looked at him with the faint surprise of a man who has been asked something everybody knows.
 
 "You open it at the table, not in the kitchen. You bring it out with the lid on and open it where everyone can see. And the first bowl goes to a guest, somebody who isn't family." He picked up his pack. "In my village, if there's no guest at the table, you keep a bowl back, and you wait." He started off down the lane. "That's Guardian Stew. The rest is just stew."
 
@@ -226,7 +226,7 @@ He didn't leave. He had spent most of the night awake, and somewhere around the 
 
 "Family Stalls, Mixed Holding," he said.
 
-Amaranth Doss looked at him for a long moment. Then she opened the drawer of her own desk and took out a single printed sheet and put it on the counter in front of him, with something very close to respect.
+Amaranth Doss's eyebrows went up by a very small, very satisfied amount. Then she opened the drawer of her own desk and took out a single printed sheet and put it on the counter in front of him, with something very close to respect.
 
 It was a family stall permit. It allowed a festival-street spot to be held jointly by up to three named members of one household, provided all three signed it and all three served at the stall on at least one festival night.
 
@@ -270,7 +270,7 @@ Up the lane, on the next street over, someone was telling someone else that the 
 
 Halloran came by at the fourth bell with his book closed under his arm. He looked at both posts and both stamps and the three pots, bought a bowl of Tobiah's fish and pepper, and ate it standing up at the end of the counter without a word.
 
-Ilo Sedgewater came back at the fifth bell and tried Ines's again, like a man checking his own judgment. He winced, and held out the bowl for a second one, and ate that to the bottom too.
+Garro Sedgewater came back at the fifth bell and tried Ines's again, like a man checking his own judgment. He winced, and held out the bowl for a second one, and ate that to the bottom too.
 
 Last of all, when the street was emptying and the charcoal was going gray, Mother Seral came out from behind the counter with a spoon and tasted all three pots at last — the docks, the merchant quarter and festival street — slowly, one after another, with no water between. Her three grandchildren watched her do it and didn't breathe.
 

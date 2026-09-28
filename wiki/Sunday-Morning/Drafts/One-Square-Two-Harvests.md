@@ -18,7 +18,7 @@ Pell Anwick did not look down. He had decided years ago that a man in a tree was
 
 "Pell Anwick, I know you can hear me. You've got your court face on."
 
-He looked down. Bettany Corlew was standing at the foot of the quince tree with her fists on her hips and a ledger under one arm. She had chaired the Harvest Home committee for eleven years, and in all that time he had never once seen her shout up a tree.
+He looked down. Bettany Corlew was planted under the quince tree with her fists on her hips and the committee ledger clamped to her side. She had chaired the Harvest Home committee for eleven years, and not once in all those years had she shouted up a tree.
 
 "I'm retired," he said.
 
@@ -142,7 +142,7 @@ At the gate on the way out, the Salves' gardener and cook were arguing about a d
 
 He meant to walk straight to the mill. He did not manage it.
 
-There was a cart with a broken wheel blocking the lane, a man behind it who wanted to drive around through somebody's garden, and the woman who owned the garden standing in it with a rake. It took Pell a minute to find out that the carter had a spare wheel, the man behind him had a strong back, and the woman with the rake had been wanting the lane clear for an hour. They changed the wheel together. The woman held the horse.
+There was a cart with a broken wheel blocking the lane, a man behind it who wanted to drive around through somebody's garden, and the woman who owned the garden standing in it with a rake. It took Pell a minute to find out that the carter had a spare wheel, the man behind him had shoulders like a door, and the woman with the rake had been wanting the lane clear for an hour. They changed the wheel together. The woman held the horse.
 
 Then there were the sisters and the hedge. Their father had planted it along a line he'd drawn with a stick forty years ago, and neither of them had the stick. Pell asked who trimmed it. Both of them did, it turned out, from their own sides, exactly to the middle, and had for twenty years without either of them ever mentioning it to the other. The sisters looked at the hedge as if they had never seen it before and went back inside, still arguing, but about something else.
 
@@ -204,7 +204,7 @@ Orchard hand pies stood on one table, crimped with each family's pattern. Honey-
 
 This year it was vicious, though only politely. A Salve cousin said the hand pies were "very honest." A committee member said the honey pastries were "so ambitious." An old man said he preferred the pies of forty years ago, which had been made with lard, and three people turned on him at once.
 
-Lissa ate one of each. She did it at the same time, one in each hand — a bite of pie, a bite of pastry, and then both together — and when she was finished she licked honey and fruit off her fingers and said, to nobody in particular, "They're better together. You should just make one with both."
+Lissa ate one of each. She did it at the same time, one in each hand — a bite of pie, a bite of pastry, and then both together — and when she was finished she licked honey and fruit off her fingers and announced, to the table at large, "They're better together. You should just make one with both."
 
 Several adults heard her. None of them looked at each other.
 
@@ -302,7 +302,7 @@ Bettany was kneeling on the boards with one hand flat on the seam where the two 
 
 "You arranged."
 
-He held out the tray. After a moment she took a cup, and drank from it, and gave him a look that meant she would be bringing this up again at some point in the next twenty years.
+He held out the tray. After a moment she took a cup, and drank from it, and made it quite plain that she would be bringing this up again at some point in the next twenty years.
 
 ---
 
@@ -312,7 +312,7 @@ The first morning was awkward. Harvest Home families had always set up on the no
 
 Then Bettany and Idris climbed the north steps together and read out the surplus.
 
-They took turns. Bettany read what had come in, which was more than anyone living had seen. Idris read what had been bought, by whom, and at what price, and each time he said *bought*, Bettany added *sold* in her committee voice. People laughed without being able to say why. They could simply hear that something was happening between the two of them. And for once the public accounting of the Vale's surplus sounded like good news.
+They took turns. Bettany read what had come in, which was more than anyone living had seen. Idris read what had been bought, by whom, and at what price, and each time he said *bought*, Bettany added *sold* in her committee voice. People laughed and couldn't have told you why. They could simply hear that something was happening between the two of them. And for once the public accounting of the Vale's surplus sounded like good news.
 
 Then they ate it. The grain the river merchants had said was unsafe was boiled with apricots and honey and laid out on long tables down the middle of the square, and the whole Vale sat down and ate it in front of each other. Nobody was sick. Everybody knew nobody was sick. By evening there were two downriver merchants standing at the edge of the crowd, looking thoughtful.
 
@@ -338,7 +338,7 @@ Pell made one. The agent ate orchard grain and a hand pie and two honey pastries
 
 Pell listened. He didn't want to. He had a quince tree. But he had spent forty years unable to hear two parties in a mess without looking for the place where they might meet, and by the second glass he had asked how many notes the agent's house actually needed, and by when, and whether its lenders might extend the terms against a smaller purchase at a fair price somewhere that was actually selling.
 
-The agent looked at him for a long moment. "You should do this for a living."
+The agent put down his glass. "You should do this for a living."
 
 "I did," said Pell. "I stopped."
 

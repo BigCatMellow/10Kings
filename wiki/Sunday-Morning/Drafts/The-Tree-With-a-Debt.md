@@ -24,7 +24,7 @@ He did not get as far as stepping back.
 
 "It isn't a lot," said the warden.
 
-"Warden Sessa Alderwater," he went on, a little louder, "Surveyor Ismet Carrow. The mule path from the upper market down to the herb yards. It goes around the tree, and you'll do it together. The herb fair opens in nine days, and the carts need to come down something that isn't a goat track."
+"Warden Sessa Yewbrook," he went on, a little louder, "Surveyor Ismet Carrow. The mule path from the upper market down to the herb yards. It goes around the tree, and you'll do it together. The herb fair opens in nine days, and the carts need to come down something that isn't a goat track."
 
 Ismet unfolded a plan. "Lot Fourteen is — I should say, as a footnote — the plot designation in the district survey. The plan has the path passing twelve paces from the trunk, which is the standard allowance for—"
 
@@ -56,7 +56,7 @@ Ismet looked at her, then at his plan, and made a note in the margin.
 
 ---
 
-The mule was called Contract. He had carried herb panniers between the market and the drying sheds for eleven years, and he had been named, the yard master explained with some pride, because he never did anything he hadn't agreed to.
+The mule was called Contract. He had carried herb panniers between the market and the drying sheds for nine years, and he had been named, the yard master explained with some pride, because he never did anything he hadn't agreed to.
 
 Ismet walked him along the staked line with a loaded pannier to test the grade. Contract went three paces, stopped, looked at the ground, and walked calmly off the line to the left. Ismet led him back. Contract went three paces, stopped, looked at the ground, and walked calmly off to the left.
 
@@ -98,7 +98,7 @@ Ismet read it twice, and then he read the practice cited in its margin, which he
 
 "I know. I'll write today."
 
-Sessa didn't say anything. She put her hand on the bark near the faint carved *14*, the way you might put a hand on a friend's shoulder after somebody had told her something unwelcome about herself.
+Sessa didn't say anything. She put her hand on the bark near the faint carved *14*, as if steadying a friend who had just been told something unwelcome about herself.
 
 ---
 
@@ -146,7 +146,7 @@ The Weaver-path elder had spent the week under the market arcade writing up the 
 
 He took a letter out of his satchel.
 
-"And then this came. Somebody wants to buy the pledge, our old pledge on your tree, and they're offering a good price. Better than good. More than I thought it could possibly be worth." He looked around the square. "Every other plateau family with an old pledge along the road line got the same letter. My neighbors. They've all sold. I'm the last, so I came to see what it was worth before I did the same."
+"And then this came. Somebody wants to buy the pledge, our old pledge on your tree, and they're offering a good price. Better than good. More than I thought it could possibly be worth." He glanced round at the stalls. "Every other plateau family with an old pledge along the road line got the same letter. My neighbors. They've all sold. I'm the last, so I came to see what it was worth before I did the same."
 
 Ismet held out his hand, and Hollis gave him the letter.
 
@@ -154,7 +154,7 @@ It was heavy paper, cream-colored and very fine, far finer than any plateau lend
 
 He held it up to the light. There was a watermark in the grain: a small ship's lantern of the kind that hangs from a stern rail.
 
-"Port paper," he said, to nobody in particular. "One of the harbor stationers uses that mark. Half the counting houses in Port write on it." It was the kind of thing he knew. He handed the letter back and thought nothing more of it.
+"Port paper," he said, mostly to himself. "One of the harbor stationers uses that mark. Half the counting houses in Port write on it." It was the kind of thing he knew. He handed the letter back and thought nothing more of it.
 
 The town, meanwhile, was panicking. The Weaver-path elder had filled two pages. The market master had his head in his hands. Somebody on the Highridge side had already proposed a debate on the matter, and somebody on the Deepwood side had said that if the plateau wanted the tree, they were welcome to come and carry it off themselves. Sessa stood in the middle of it, very still, looking at Hollis Varne, who was looking at the tree.
 
@@ -230,7 +230,7 @@ The survey was filed that morning, co-signed by the warden and the surveyor in a
 
 It had exactly one footnote, at the bottom of the second page, under the route description, in Ismet's small, precise hand:
 
-*¹ The route follows the root edge as identified by Warden S. Alderwater from ground evidence, with assistance from a resident (Pip) and a mule (Contract). The surveyor concurs in every particular.*
+*¹ The route follows the root edge as identified by Warden S. Yewbrook from ground evidence, with assistance from a resident (Pip) and a mule (Contract). The surveyor concurs in every particular.*
 
 Sessa read it at the counter twice. Then she looked at Ismet, who was very busy checking a column of figures.
 
@@ -240,7 +240,7 @@ Sessa read it at the counter twice. Then she looked at Ismet, who was very busy 
 
 "It is not."
 
-"No," Ismet agreed, and kept checking his figures, and after a moment she took the pen and initialed the footnote beside his.
+"No," Ismet agreed, and kept checking his figures, and presently she reached across for the pen and initialed the footnote beside his.
 
 That afternoon she sent a fair copy of the survey up into the forest by the warden's post, to Naruin Mossglade. She didn't write a covering note. She thought the survey said everything she could have said, and in both languages, which was more than she could have managed herself.
 
