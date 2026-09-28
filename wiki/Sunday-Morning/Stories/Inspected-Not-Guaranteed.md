@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, businesses and plot details are new and non-canon. Wurdren's biography is not settled by anything here.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/Inspected-Not-Guaranteed.md) (second pass, in James's voice; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/Inspected-Not-Guaranteed.md) (third pass, revised against James's full voice guide; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -242,5 +242,6 @@ Drafted 2026-09-27: [Inspected Not Guaranteed](../Drafts/Inspected-Not-Guarantee
 - **DO** — the connected-offer markers appear in s4 (the letter's arrival) and s5 (Col reads the phrase aloud; Wurdren sees the watermark), as C6 requires.
 - **DO** — three carts reach the washout on day 4 and wait for the fourth, so the charcoal deadline still binds on relighting day.
 - **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, third pass** — Prose revised against the full guide. The name-reading takes "hours" in both places. The ending stops at Nell's request, without the rate punchline, so it no longer repeats One Square's favor joke. Explaining clauses were cut. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

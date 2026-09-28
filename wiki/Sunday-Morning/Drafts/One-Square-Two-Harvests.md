@@ -2,7 +2,9 @@
 
 ## Status
 
-**L3 draft, second pass: rewritten in James's voice ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [One Square, Two Harvests](../Stories/One-Square-Two-Harvests.md), first written 2026-09-27 from that page's scene plan and promise ledger, checked independently, then rewritten the same day to James's voice notes. Not yet reviewed at L4. Every name, custom and historical detail here is provisional and follows the story page's canon limits; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule).
+**L3 draft, third pass: revised against James's author voice guide ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [One Square, Two Harvests](../Stories/One-Square-Two-Harvests.md). History, all 2026-09-27 to 28: first written from the story page's scene plan and promise ledger; checked independently; rewritten to notes from James's sample chapters; revised against his full voice guide after he approved the test revision of [The Goat File](The-Goat-File.md). Not yet reviewed at L4. Every name, custom and historical detail is provisional and follows the story page's canon limits; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule).
+
+**What this pass changes:** mostly prose. It uses medium sentences by default, fewer punchline scene endings, and humor that differs by character. Pell insists he's retired while arbitrating everything. Bettany wields her ledger. Idris hides terror inside ornate courtesy. Hobb bills for his patience. Aurel recites the sluice schedule when he's nervous. Lissa is simply blunt. The one addition the story itself suggested: Bettany calls Pell on the trick that got her into the records room. The guide is applied as a sensibility, not a checklist, so no stock grief or choice beat is added. There are two small changes to judge: Lissa's "I just did" in scene 1, and a new last line ("Bring it up. There's room on the second branch.") in place of Pell starting to climb down.
 
 Story 1 of 7 in [The Anthology](../Anthology.md). Year 1, early autumn.
 
@@ -12,85 +14,79 @@ Story 1 of 7 in [The Anthology](../Anthology.md). Year 1, early autumn.
 
 "Pell!"
 
-Pell Anwick did not look down. A man in a tree was not obliged to hear anything below the second branch. He had decided that years ago, and he'd waited forty years to try it.
+Pell Anwick did not look down. He had decided years ago that a man in a tree was not obliged to hear anything said below the second branch, and he had waited forty years for the chance to find out if it was true.
 
 "Pell Anwick, I know you can hear me. You've got your court face on."
 
-He looked down.
+He looked down. Bettany Corlew was standing at the foot of the quince tree with her fists on her hips and a ledger under one arm. She had chaired the Harvest Home committee for eleven years, and in all that time he had never once seen her shout up a tree.
 
-Bettany Corlew stood at the foot of his quince tree with her fists on her hips and a ledger under one arm. Eleven years she'd chaired the Harvest Home committee. Eleven years, and he'd never once seen her shout up a tree.
-
-"I'm retired," Pell said.
+"I'm retired," he said.
 
 "I know you're retired. Everyone knows you're retired. You had a party."
 
-"Then you know I'm busy." He held up the quince in his hand. Small brown bruise on one side. He'd been trying to decide for an hour whether it was the tree's fault or the wasp's.
+"Then you know I'm busy." He held up the quince he had been turning over for most of an hour. There was a small brown bruise on one side of it, and he had been trying to decide whether it was the tree's fault or a wasp's.
 
 "The harvest's late."
 
-"I noticed."
+"I'd noticed."
 
-From the third branch he could see most of Harveston Vale. Grain lanes running north toward the wet fields. Orchard terraces climbing south into the dry country. The canal feeding both. And in the middle, the square, where the lanes and the terraces met and pretended to get along.
+From the third branch he could see most of Harveston Vale: the grain lanes running north into the wetter fields, the orchard terraces climbing south toward the dry country, the canal that fed both of them, and the square in the middle where the lanes and the terraces met and pretended to get along. There were carts on every lane. There had been carts on every lane for three weeks. Nobody in the Vale could remember a harvest that took three weeks to bring in, and Harvest Home was ten days off.
 
-Carts on every lane. Three weeks of carts. Nobody in the Vale could remember a harvest that took three weeks to bring in.
-
-And Harvest Home was ten days off.
-
-"It's late because it's big," Bettany said. "Biggest anyone's seen. And Harvest Home follows the harvest. You can't hold the accounting before the grain's in."
+"It's late because it's big," Bettany said. "It's the biggest anyone's seen. And Harvest Home follows the harvest. You can't hold the accounting before the grain's in."
 
 "No."
 
-"So it moves back a week." She lifted the ledger, as though he could read it from up there. "Into the Crush's week."
+"So it moves back a week." She lifted the ledger toward him as if he could read it from up there. "Into the Crush's week."
 
-At the far end of the square, the Salve house gate was already hung with vine garlands for the Wine Crush.
+At the far end of the square, the gate of the Salve house was already hung with vine garlands for the Wine Crush.
 
-"The square belongs to each festival in its own week," Bettany said. "That's the clause. Our week is whenever the harvest is in. This year that's their week. I'm telling Idris Salve this afternoon. He's going to say it's their square. Someone has to tell him he's wrong."
+"The square belongs to each festival in its own week," Bettany said. "That's the clause. Our week is whenever the harvest is in, and this year that's their week. I'm telling Idris Salve this afternoon, and he's going to say it's their square, and somebody has to tell him he's wrong."
 
-"Someone."
+"Somebody."
 
 "You've been telling people they're wrong for forty years."
 
-"I've been getting people to agree for forty years." He turned the quince over. "Not the same thing. Not even close."
+"I've been getting people to agree for forty years," Pell said. "It isn't the same thing. It isn't even close."
 
-Below the tree, the canal gatekeeper went past with his hands clasped behind his back, reciting. Aurel always recited when a conversation near him went badly.
+Below the tree, Aurel the canal gatekeeper went past with his hands clasped behind his back, reciting. Aurel recited the sluice schedule whenever a conversation anywhere near him went badly, and he had clearly heard this one from the lane.
 
 "North sluice opens at first bell, closes at third. South sluice at second, closes at fourth. Mill race on the half—"
 
 "Morning, Aurel."
 
-"Morning, Arbiter." He didn't stop. "—on the half, except market days, when the mill race—"
+"Morning, Arbiter." He didn't break stride. "—on the half, except market days, when the mill race—"
 
-"Not an arbiter anymore," Pell called after him.
+"I'm not an arbiter anymore," Pell called after him, but Aurel was already round the corner.
 
-Bettany waited. Long enough to make sure he knew she was waiting.
+Bettany waited long enough to make sure he knew she was waiting, and then she went.
 
-Then she went.
+He stayed in the tree until his granddaughter came to tell him lunch was ready. Lissa was nine. She called the square the Commons in the morning and the Press Yard in the afternoon and had never once noticed that she did it.
 
-Pell stayed in the tree until his granddaughter came to tell him lunch was ready. Lissa was nine. She called the square the Commons in the morning and the Press Yard after lunch, and she'd never once noticed that she did.
+"Why do you always sit in that tree?" she asked, on the way in.
+
+"Because nobody can ask me anything up there."
+
+Lissa considered this. "I just did," she said, and went in to lunch.
 
 ---
 
-The co-op granary was full to the rafters.
+The co-op granary was full to the rafters, and that was the problem.
 
-That was the problem.
+"Listen to this," Bettany said, and read from her ledger. "'The co-op holds four times its usual surplus. Of this surplus, none has been sold.'" She shut the book. "It sounds like we're announcing a funeral."
 
-"Listen to this," Bettany said, and read from the ledger. "'The co-op holds four times its usual surplus. Of this surplus, none has been sold.'" She shut it. "It sounds like we're announcing a funeral."
+Every Harvest Home, the committee stood on the steps of the square and read out the year: what had come in, what was stored, what was owed, and what would go to every household that asked. The Vale had done it for longer than it had had a mill. Bettany had read it out for eleven years, and he knew she was proud of it in the particular way that people are proud of something they do well in public.
 
-Every Harvest Home, the committee stood on the square's steps and read the year out loud. What came in. What was stored. What was owed. What would go to the households that asked. The Vale had done it longer than it had had a mill.
+"A big harvest is good news," Pell said.
 
-"It's a big harvest," Pell said. "That's good news."
-
-"In a year when everyone has a big harvest and nobody's buying." She sat down on a sack, which he'd never seen her do in eleven years of committees. "The river merchants won't even make an offer. Prices are falling, they say. Wait a month. And then they say the other thing."
+"In a year when everybody has a big harvest and nobody's buying." She sat down on a sack of grain, which he had never seen her do. "The river merchants won't even make an offer. Prices are falling, they say, wait a month. And then they say the other thing."
 
 "What other thing?"
 
-She lowered her voice. Like the grain might hear.
+She lowered her voice as though the grain might overhear. "That the new seed isn't safe."
 
-"That the new seed isn't safe."
+Lissa was sitting in the doorway with a bowl of orchard grain — barley cooked in last year's apricot syrup with a spoonful of sour cream on top — and eating it with the concentration of someone who had no intention of being sent home.
 
-Lissa was in the doorway with a bowl of orchard grain — barley cooked in last year's apricot syrup, a spoon of sour cream on top — eating with the focus of someone who did not intend to be sent home.
-
-"We planted the new strain last year," Bettany said. "From the Meadowcroft trials. That's why the harvest's so big. Now half the merchants on the river have heard it makes people sick."
+"We planted the new strain last year," Bettany said. "From the Meadowcroft trials. That's why the harvest's so big. And now half the merchants on the river have heard that it makes people sick."
 
 "Has anyone been sick?"
 
@@ -98,157 +94,101 @@ Lissa was in the doorway with a bowl of orchard grain — barley cooked in last 
 
 "Does anyone know anyone who's been sick?"
 
-"No. But they've *heard*."
+"No. But they've heard."
 
-Pell looked at the sacks. Then at Lissa's bowl. Last year's barley. Not the new seed. He felt relieved about that, and was annoyed with himself for feeling it.
+Pell looked at the sacks, and then at Lissa's bowl, which was last year's barley and not the new seed, and felt relieved about it, and was annoyed with himself for feeling relieved.
 
 "And there's a man," Bettany said.
 
 "There's always a man."
 
-"A land agent. From downriver. Very polite. He's been to the Thistle farm, and the Orrins, and I think the Brays." She turned the ledger over in her lap. "The ones who took seed loans for the new strain and can't sell the grain to pay them. He doesn't threaten anybody. He sits in their kitchens and says how sorry he is. Offers to take the notes off their hands." She looked at the sacks. "And he waits."
+"A land agent from downriver. Very polite. He's been to the Thistles, and the Orrins, and I think the Brays. The farms that took seed loans for the new strain and can't sell the grain to pay them back." She turned the ledger over in her lap. "He doesn't threaten anybody. He sits in their kitchens and tells them how sorry he is, and he offers to take the notes off their hands. And then he waits."
 
 "Has anyone sold?"
 
-"Not yet."
-
-A long pause.
-
-"Not yet," she said again.
+"Not yet," Bettany said, and then, after a while, as if she were checking, "Not yet."
 
 ---
 
-The Salve house received everyone in its courtyard. That was what the courtyard was for.
+The Salve house received everyone in its courtyard, because that was what the courtyard was for. It was tiled in blue and ochre, shaded by a vine older than anyone in the Vale, and built less to be sat in than to be seen sitting in. Idris Salve sat in it badly. He was twenty-three and had been running the Crush for three weeks, since his mother had decided it was time, and he gave the impression of a young man who could feel her portrait watching him from the hall.
 
-Blue and ochre tiles. A vine older than anyone in the Vale. Built less to be sat in than to be seen sitting in. Idris Salve sat in it badly. Twenty-three, three weeks in charge of the Crush, and very aware of his mother's portrait watching from the hall.
-
-"The barrels are late," he said, before anyone else said anything. "Did you know that? Forty barrels from Ironcrest, ordered in spring. Their forges are on short hours, their coopers are fighting their carters, and I have a harvest of grapes and nothing to put it in."
+"The barrels are late," he said, before anyone else had said anything at all. "Did you know that? Forty barrels from Ironcrest, ordered in the spring. Their forges are on short hours and their coopers are quarreling with their carters, and I have a harvest of grapes and nothing to put it in."
 
 "We came about the square," Bettany said.
 
-"I know you came about the square." He spread his hands. The Sunplains gesture for *I am about to refuse you so politely you'll thank me for it.* "The honored committee must of course hold its accounting when the harvest permits. The Crush would never wish to inconvenience the honored committee. Only, the Crush has kept its week in that square since before either of our grandmothers, and the Crush would find it very difficult to explain to the city why it was pressing grapes behind the mill."
+"I know you came about the square." He spread his hands in the particular Sunplains way that meant he was about to refuse her so politely she would thank him for it. "The honored committee must of course hold its accounting when the harvest permits. The Crush would never wish to inconvenience the honored committee. It's only that the Crush has kept its own week in that square since before either of our grandmothers, and the Crush would find it very difficult to explain to the city why it was pressing grapes behind the mill."
 
-"Nobody said behind the mill."
+"Nobody said anything about the mill."
 
 "Nobody needed to. Where else is there?"
 
-Nowhere. That was the trouble. The mill yard was mud from the first rain to the last frost. Whoever lost the square got the mud, and the Vale would talk about it at every wedding for twenty years.
+There was nowhere else, and all three of them knew it. The mill yard was mud from the first autumn rain until the last frost. Whichever festival lost the square would be held in the mud, and the Vale would talk about it at every wedding for twenty years.
 
-"My mother fed four hundred people in that square," Idris said. "The year I was born, six hundred. I am not feeding them in a mill yard."
+"My mother fed four hundred people in that square," Idris said. "The year I was born she fed six hundred. I am not feeding them in a mill yard."
 
-Then, quieter. Plain speech, the kind Sunplains families used at home.
+Then he dropped the courtyard voice and spoke in the plain one Sunplains families used at home, and he looked much younger in it.
 
-"And my merchants won't touch your grain, Bettany. I asked. They say the new seed makes people ill. I told them that was nonsense." He looked at the vine. "They said the price was falling anyway."
+"And my merchants won't touch your grain, Bettany. I asked them. They say the new seed makes people ill. I told them that was nonsense." He looked up at the vine. "They said the price was falling anyway."
 
-Bettany went very still.
+Bettany went very still. Pell watched her decide not to be offended by the only kind thing anyone had said to her all week.
 
-Pell watched her decide not to be offended by the only kind thing anyone had said to her all week.
+At the gate on the way out, the Salves' gardener and cook were arguing about a dog. It slept in the courtyard and ate in the lane, and they could not agree which it belonged to. Pell asked when it had first appeared, and who fed it in winter, and when they had both admitted that they each fed it in winter without telling the other, he suggested that it belonged to whoever walked it on mornings when it rained. They looked at each other, and the cook said she supposed that was fair.
 
-On the way out, the gardener and the cook were arguing at the gate about a dog. Did it belong to the house or the lane? It slept in the courtyard. It ate in the lane.
-
-"When did it first turn up?" Pell asked.
-
-"Spring."
-
-"Who feeds it in winter?"
-
-They looked at each other.
-
-"Then it belongs to whoever walks it when it rains," Pell said.
-
-The cook thought about that. "Fair."
-
-Outside the gate, Bettany stared at him.
-
-"You just ruled on a dog."
+"You just ruled on a dog," Bettany said outside.
 
 "I didn't rule. They agreed."
 
 ---
 
-He meant to walk straight to the mill.
+He meant to walk straight to the mill. He did not manage it.
 
-He didn't pass the cart with the broken wheel. The carter had a spare, the man stuck behind him had a strong back, and the woman whose garden they were about to drive through had a rake and an opinion. It took Pell a minute to introduce them. They changed the wheel together. The woman held the horse.
+There was a cart with a broken wheel blocking the lane, a man behind it who wanted to drive around through somebody's garden, and the woman who owned the garden standing in it with a rake. It took Pell a minute to find out that the carter had a spare wheel, the man behind him had a strong back, and the woman with the rake had been wanting the lane clear for an hour. They changed the wheel together. The woman held the horse.
 
-He didn't pass the sisters and the hedge either. Their father had planted it along a line he'd drawn with a stick forty years ago. Neither of them had the stick.
+Then there were the sisters and the hedge. Their father had planted it along a line he'd drawn with a stick forty years ago, and neither of them had the stick. Pell asked who trimmed it. Both of them did, it turned out, from their own sides, exactly to the middle, and had for twenty years without either of them ever mentioning it to the other. The sisters looked at the hedge as if they had never seen it before and went back inside, still arguing, but about something else.
 
-"Who trims it?" Pell asked.
+The third dispute was about a pie. He would not describe it afterward to anyone.
 
-"I do," said one.
+Hobb the miller was waiting in the doorway of the mill with a slate. His wheel sat exactly halfway between the grain lanes and the orchard terraces, he ground for both festivals, and he had been caught between them every autumn of his life.
 
-"*I* do," said the other.
-
-Both of them, it turned out. From their own sides. To exactly the middle. For twenty years, without either one mentioning it.
-
-The sisters looked at the hedge like they'd never seen it before, and went inside. Still arguing. About something else now.
-
-The third one was about a pie.
-
-He would not describe it afterward.
-
-Hobb the miller was waiting at the mill door with a slate.
-
-"I've written it down," Hobb said. Two columns. *Time listening to the committee.* *Time listening to the Salve house.* "I'll bill whichever of you loses."
+"I've written it down," Hobb said. The slate had two columns, headed *Committee* and *Salve house*, with a great many marks in each. "Time spent listening. I'll bill whichever of you loses."
 
 "That's not how billing works," Bettany said.
 
-"It is this year." Hobb squinted at Pell. "So you've taken it, then."
+"It is this year." Hobb looked at Pell. "So you've taken the case, then."
 
-"Taken what?"
+"I haven't taken anything."
 
-"The case. Everyone says so. Aurel says you've ruled on six things since breakfast."
+"Aurel says you've ruled on six things since breakfast."
 
-"Three. And I didn't rule on any of them."
+"Three," said Pell. "And I didn't rule on any of them."
 
-"Aurel counts the pie twice. Says it was two disputes."
+"Aurel counts the pie twice. He says it was really two disputes."
 
-Pell opened his mouth.
-
-Closed it.
-
-He could not, in good conscience, argue with that.
+Pell opened his mouth to answer that, thought about the pie, and found that he could not in good conscience disagree.
 
 ---
 
 Six days out, both sides read the clause aloud in the square.
 
-Not Pell's idea. Nothing that week had been Pell's idea. But half the Vale wanted to hear it, so on a bright, cold afternoon Bettany stood on the north steps with the Greenvale text and Idris stood on the south steps with the Sunplains text, and the town filled in between.
+It wasn't Pell's idea. Nothing that week had been Pell's idea. But half the Vale wanted to hear it, so on a bright, cold afternoon Bettany stood on the north steps with the Greenvale text and Idris stood on the south steps with the Sunplains text, and the town filled in the space between. Aurel stood by the canal wall reciting under his breath. Lissa sat on the well-head eating a honey pastry. Pell stood at the back near the lane, where a retired man could leave whenever he liked.
 
-Aurel by the canal wall, reciting under his breath. Lissa on the well-head with a honey pastry. Pell at the very back, near the lane. Where a retired man could leave.
+Bettany read first, in plain old Greenvale. *Each harvest kept the square in its own week.*
 
-Bettany read first. Old, plain Greenvale.
+Idris read second. The Sunplains version was later, and ornate in the way of documents meant to be read aloud in courtyards. *Each festival shall hold the square in its appointed week, and neither shall trespass upon the other.*
 
-*Each harvest kept the square in its own week.*
+"'Appointed week'!" somebody shouted from the south side. "That's the Crush's week!"
 
-Idris read second. Later, and ornate, the way documents were written when they were meant to be read out in courtyards.
+"'Its own week'!" somebody shouted back from the north. "Harvest Home's week is whenever the harvest's in!"
 
-*Each festival shall hold the square in its appointed week, and neither shall trespass upon the other.*
+It went on like that for some time. Pell wasn't listening to it. He was listening to the verb.
 
-"'Appointed week,'" someone shouted from the south side. "That's the Crush's week!"
+Greenvale grammar did not let you say that something happened without saying what kind of happening it was. A thing that came round every year took one form, and a thing that had happened once and was finished took another, and every child in the Vale got it wrong at five and never again. The clause did not say that each harvest *keeps* the square, the way the sun keeps rising. It said each harvest *kept* it, in the form for a thing done once and finished.
 
-"'Its own week,'" someone shouted back from the north. "Harvest Home's week is whenever the harvest's in!"
+That wasn't a rule. It was somebody writing down what had happened in one particular year. And Sunplains had no neat way to carry that difference, so somewhere, long ago, a translator had made a finished thing into a standing law with a stroke of the pen and never known it.
 
-It went on like that.
+He said nothing. Bettany saw his face anyway, all the way across the square from the north steps, and for a moment she looked hopeful. Then he turned away, and she looked furious instead.
 
-Pell wasn't listening to it. He was listening to the verb.
-
-*Kept.*
-
-Not *keeps*. Greenvale grammar didn't let you get away with that. A thing that happened every year took one form. A thing that happened once, and was done, took another. Every child in the Vale got it wrong at five and never again.
-
-*Kept.* Once. Finished.
-
-That wasn't a rule. That was somebody writing down what happened one particular year.
-
-And Sunplains had no neat way to carry the difference. Somebody, long ago, had turned a finished thing into a standing law with one stroke of a pen, and never known it.
-
-He said nothing.
-
-Bettany saw his face anyway. All the way across the square, from the north steps. For a second she looked hopeful.
-
-Then he turned away, and she looked furious.
-
-"There's a ledger in the records room," Hobb said at his elbow. "The old one. Nobody's opened it since my grandfather's time. It'll have that year in it."
+"There's a ledger in the records room," Hobb said at his elbow. "The old one. Nobody's opened it since my grandfather's time. It'll have the year in it."
 
 "Then someone should open it."
 
@@ -258,222 +198,158 @@ Then he turned away, and she looked furious.
 
 ---
 
-The bake-off wasn't officially part of either festival.
+The bake-off was not officially part of either festival. "It's an argument," Lissa had explained to him that morning, with great patience, "but they call it a competition so nobody has to say it's an argument."
 
-"It's an argument," Lissa had explained to Pell that morning, "but they call it a competition so nobody has to say it's an argument."
+Orchard hand pies stood on one table, crimped with each family's pattern. Honey-drizzled nut pastries stood on the other, layered as thin as letters. Three judges tasted everything and chose nothing, because choosing was not the point. The point was deciding afterward who had been robbed.
 
-Orchard hand pies on one table, crimped with each family's pattern. Honey-drizzled nut pastries on the other, layered thin as letters. Three judges tasted everything and picked nothing. Picking wasn't the point. The point was deciding afterward who'd been robbed.
+This year it was vicious, though only politely. A Salve cousin said the hand pies were "very honest." A committee member said the honey pastries were "so ambitious." An old man said he preferred the pies of forty years ago, which had been made with lard, and three people turned on him at once.
 
-This year it was vicious.
-
-Politely.
-
-A Salve cousin said the hand pies were "very honest." A committee member said the honey pastries were "so ambitious." An old man said he preferred the pies of forty years ago, made with lard, and three people turned on him at once.
-
-Lissa ate one of each.
-
-At the same time. One in each hand. A bite of pie. A bite of pastry. Then both together.
-
-She licked honey and fruit off her fingers.
-
-"They're better together," she said, to nobody. "You should just make one with both."
+Lissa ate one of each. She did it at the same time, one in each hand — a bite of pie, a bite of pastry, and then both together — and when she was finished she licked honey and fruit off her fingers and said, to nobody in particular, "They're better together. You should just make one with both."
 
 Several adults heard her. None of them looked at each other.
 
-Across the judges' table, Bettany and Idris had both heard it too. Each of them opened their mouth. Each of them waited for the other to say it first.
-
-Nobody did.
-
-Pell knew that look. Forty years of it. Two people standing right next to the same thought, and neither one willing to be the one who said it out loud.
+Across the judges' table, Bettany and Idris had both heard it. Each of them opened their mouth, and each of them waited for the other to speak first, and so neither did. Pell had seen that look for forty years: two people standing right beside the same thought, and neither willing to be the one who said it out loud.
 
 That was when he decided.
 
 ---
 
-Three days out.
+Three days out, he got them both into the records room.
 
-The records room was at the top of the old weighhouse, up a stair built for sacks, not people. Dust. Ink. A hundred years of paper kept dry by people who meant well.
+He did it the way he had done it a hundred times on the water court. He let Bettany believe Idris had asked for the meeting and let Idris believe it was Bettany, and neither of these things was quite a lie, and he had never in forty years felt entirely good about doing it.
 
-He let Bettany think Idris had asked for the meeting. He let Idris think Bettany had. Not quite a lie. He'd done it a hundred times on the water court and never once felt entirely good about it.
+The records room was at the top of the old weighhouse, up a stair built for sacks rather than people. It smelled of dust and ink and a hundred years of paper kept dry by people who meant well. The old ledger was already on the table when they came in, bound in board and leather, written in two hands, Greenvale on the left page and Sunplains on the right.
 
-The old ledger was on the table when they came in. Board and leather. Two hands in it: Greenvale on the left page, Sunplains on the right.
+"I'm not ruling," Pell said. "I want that understood. I'm retired, and I'm going to go and look at my tree." He went to the door. "You'll want the years just after the Convergence settlement. Aurel will bring you tea."
 
-"I'm not ruling," Pell said. "Let's be clear. I'm retired. I'm going to go look at my tree." He went to the door. "You'll want the years just after the Convergence settlement. Aurel will bring tea."
+"Pell—" said Bettany.
 
-"Pell—"
+"Arbiter—" said Idris.
 
-"Arbiter—"
+He shut the door. He didn't lock it. He had never locked a door on anyone in forty years. He sat down on the top step outside it instead, which in a building with only one stair came to much the same thing.
 
-He shut the door.
-
-He didn't lock it. He'd never locked a door on anyone in forty years. He just sat down on the top step outside it, which in a building with one stair came to about the same thing.
-
-It took them two hours.
-
-First, silence. Two people each waiting for the other to read.
-
-Then pages.
-
-Then Bettany, reading the Greenvale out loud, slow. Then Idris, the Sunplains. Then both of them stopping at the same place.
+It took them two hours. He heard most of it through the door: the stiff silence of two people each waiting for the other to begin, then the sound of pages, then Bettany reading the Greenvale aloud, slowly, and Idris reading the Sunplains, and both of them stopping at the same place.
 
 "This is one festival," Idris said.
 
-"It's one festival. Look. 'The harvests of the Vale, grain and fruit, are brought to the square together, and accounted together, and eaten together.' That's the every-year form. Every year. For how far back does this—"
+"It's one festival. Look — 'The harvests of the Vale, grain and fruit, are brought to the square together, and accounted together, and eaten together.' That's the every-year form. Every year, going back to — how far back does this go?"
 
 Pages.
 
-"Here," Idris said. "The year after the settlement. An administrator's note. 'For the proper filing of the regional returns, the Greenvale harvest and the Sunplains harvest shall be separately recorded.'" A pause. "He needed two columns. He split the festival so he could split the paperwork."
+"Here," said Idris. "The year after the settlement. There's an administrator's note. 'For the proper filing of the regional returns, the Greenvale harvest and the Sunplains harvest shall be separately recorded.'" A pause. "He needed two columns. He split the festival so he could split the paperwork."
 
-"And the clause is from that year." Bettany's voice had gone strange. "'Each harvest kept the square in its own week.' That's what they did. That year. It's not a rule. It never was."
+"And the clause is from that year." Bettany's voice had gone strange. "'Each harvest kept the square in its own week.' That's what they did, that one year. It's not a rule. It was never a rule."
 
 "And in my language," Idris said slowly, "it became one."
 
-Nobody said anything for a long time.
+For a long time neither of them said anything.
 
-Aurel came up the stair with a tray of tea, and stopped when he saw Pell on the step.
+Aurel came up the stair with a tray of tea and stopped when he saw Pell on the step.
 
 "Is it going well?"
 
 "I don't know. I'm not in there."
 
-Aurel thought about that. "North sluice at first bell," he said, very softly, and set the tray down beside Pell, and went back down.
+Aurel thought about that. "North sluice at first bell," he said, very quietly, and set the tray down beside Pell and went back down the stairs.
 
-When the voices started again, they weren't arguing about the square anymore. That had been settled in the silence. Pell could hear it.
+When the voices started again they were no longer arguing about the square. That had been settled somewhere in the silence; Pell could hear it. They were arguing about the grain.
 
-They were arguing about the grain.
+"If it's one festival, then it's one accounting," Idris said. "Your surplus is the Vale's surplus."
 
-"If it's one festival, it's one accounting," Idris said. "Your surplus is the Vale's surplus."
-
-"My surplus is four granaries nobody will buy."
+"My surplus is four granaries of grain that nobody will buy."
 
 "Then I'll buy it."
 
 "You can't afford it."
 
-"No. Not easily. It'll stretch the house. My mother will have things to say." A pause. "But she fed six hundred people. So this year the Salve house buys the Vale's grain at a fair price and gives it to every household that asks. The farms pay their seed loans. And your polite land agent can go home."
+"No. Not easily. It'll stretch the house, and my mother will have things to say about it." A pause. "But she fed six hundred people. So this year the Salve house buys the Vale's grain at a fair price and gives it to every household in the square that asks. The farms pay their seed loans. And your polite land agent can go home."
 
-The silence this time was different.
+The silence this time was a different kind.
 
 "No," said Bettany.
 
 "No?"
 
-"Not a gift." Three steps each way, the length of the table. Pell could hear her pacing. "I won't stand on my own steps and read out that Sunplains rescued the Vale. A sale. At a good year's price, not this year's. Written in our ledger as a sale. The co-op keeps its own books. What you do with the grain once it's yours is up to you. If you want to give it away in the square, that's the Salve house being generous, and the Vale will thank you. But it's *bought*."
+He could hear her pacing, three steps each way, the length of the table. "Not a gift. I won't stand on my own steps and read out to the whole Vale that Sunplains rescued us. A sale. At a good year's price, not this year's. Written in our ledger as a sale, and the co-op keeps its own books. What you do with the grain once it's yours is your business. If you want to give it away in the square, that's the Salve house's generosity, and the Vale will thank you for it. But it's *bought*."
 
-"That," said Idris, after a moment, "is a great deal more expensive than a gift."
+"That," Idris said after a moment, "is a great deal more expensive than a gift."
 
 "Yes."
 
 Another silence.
 
-"My mother," Idris said, "would have loved you."
+"My mother," said Idris, "would have loved you."
 
-Pell stood up, knees complaining, picked up the tea tray, and knocked on the door like he'd only just arrived.
+Pell got up, knees complaining, picked up the tea tray, and knocked on the door as if he had only just arrived.
 
----
+Bettany opened it. She looked at the tray, and then at the step where he had so obviously been sitting for two hours, and then at him.
 
-On the day of the festival, the square had both names.
+"You lied to get us in here," she said.
 
-So did the banners. Nobody could agree which name went first, so Idris had them painted in a ring.
+"I didn't lie."
 
-The first morning was awkward. Harvest Home families had always set up on the north side, Crush families on the south, and nobody wanted to be first to move. The Salve cousins brought out the pressing troughs and remembered there were no barrels. Someone counted the benches twice and announced there weren't enough.
+"You arranged."
 
-Then Bettany and Idris climbed the north steps together and read the surplus.
-
-They took turns. Bettany read what had come in. Idris read what had been bought, and by whom, and at what price. Every time he said *bought*, Bettany added *sold*, in her committee voice.
-
-People laughed. They couldn't have said why. They could just hear something happening between the two of them.
-
-And for once, the public accounting of the Vale's surplus sounded like good news.
-
-Then they ate it.
-
-The grain the river merchants said was unsafe got boiled with apricots and honey and laid out on long tables down the middle of the square, and the whole Vale sat down and ate it in front of each other.
-
-Nobody got sick.
-
-Everybody knew nobody got sick.
-
-By evening there were two downriver merchants at the edge of the crowd, looking thoughtful.
+He held out the tray. After a moment she took a cup, and drank from it, and gave him a look that meant she would be bringing this up again at some point in the next twenty years.
 
 ---
 
-The barrels arrived on the second day. Forty of them, six carts, and a carter who apologized all the way down the lane.
+On the day of the festival the square had both names, and so did the banners, because nobody could agree which name went first and Idris had solved it by having them painted in a ring.
 
-Pell sat at the joint table, where people from both ends of town were learning to pass each other bowls. Beside him was an old man he didn't know. Broad shoulders. Boatbuilder's hands. A Northwind accent the Vale hadn't managed to sand down.
+The first morning was awkward. Harvest Home families had always set up on the north side of the square and Crush families on the south, and nobody wanted to be the first to move. The Salve cousins wheeled out the pressing troughs and then remembered there were no barrels. Somebody counted the benches twice and announced there weren't enough.
 
-"Too flat," the old man said. "Whole country. You can't see anything coming."
+Then Bettany and Idris climbed the north steps together and read out the surplus.
 
-"You're Mattie Scarth's father," Pell said. He knew everybody's son.
+They took turns. Bettany read what had come in, which was more than anyone living had seen. Idris read what had been bought, by whom, and at what price, and each time he said *bought*, Bettany added *sold* in her committee voice. People laughed without being able to say why. They could simply hear that something was happening between the two of them. And for once the public accounting of the Vale's surplus sounded like good news.
 
-"I'm the Scarth from Kettle Cove. My boy brought me here to rest." He looked around. "Nothing to rest from."
+Then they ate it. The grain the river merchants had said was unsafe was boiled with apricots and honey and laid out on long tables down the middle of the square, and the whole Vale sat down and ate it in front of each other. Nobody was sick. Everybody knew nobody was sick. By evening there were two downriver merchants standing at the edge of the crowd, looking thoughtful.
 
-He took in the square. The ring of names. The long tables. Salve cousins with their sleeves rolled up at the troughs, right next to the committee's grain carts.
+The barrels from Ironcrest arrived on the second day, forty of them on six carts, with a carter who apologized all the way down the lane.
 
-"Two festivals at once," he said. "And they've eaten everything." He shook his head. "I'm writing to the cove. They won't believe it."
+Pell sat at the joint table, where people from both ends of town were learning to pass each other bowls. Next to him sat an old man he didn't know — broad in the shoulders, with a boatbuilder's hands and a Northwind accent the Vale had not managed to wear down.
 
-Late in the afternoon, the polite man from downriver found Pell.
+"Too flat," the old man said, to nobody. "The whole country. You can't see anything coming."
 
-He was exactly what Bettany had said. Good coat. Soft voice. Sorry about everything. He'd been to the Thistle farm that morning. The Thistles had paid their seed loan in full the night before, in coin, from selling their grain to the Salve house. He'd tried the Orrins. Same.
+"You're Mattie Scarth's father," said Pell, who knew everybody's son.
 
-He hadn't bothered with the Brays.
+"I'm the Scarth from Kettle Cove. My boy brought me here to rest." He looked around the square: the ring of names, the long tables, the Salve cousins with their sleeves rolled up at the troughs beside the committee's grain carts. "Two festivals at once, and they've eaten everything," he said. "I'm going to write to the cove about this. They won't believe it."
+
+Late in the afternoon the polite man from downriver found Pell.
+
+He was exactly as Bettany had described him: a good coat, a soft voice, sorry about everything. He had gone out to the Thistle farm that morning and found that the Thistles had paid their seed loan in full the evening before, in coin, from the sale of their grain to the Salve house. He had gone on to the Orrins and found the same. He had not bothered with the Brays.
 
 "I don't suppose," he said, "there's a seat?"
 
-Pell made one.
+Pell made one. The agent ate orchard grain and a hand pie and two honey pastries, drank the first of the new Crush wine, and after a while, without being asked, began to talk about his lenders. They had tightened this year, he said, and they were being pulled as well. His house had borrowed to buy notes, and now it needed notes to pay back what it had borrowed.
 
-The agent ate orchard grain, a hand pie and two honey pastries, and drank the first of the new Crush wine. After a while, without being asked, he started talking about his lenders.
+"I'm not a bad man," he said. "I'd like you to understand that. I'm a link in a chain, and I'm being pulled."
 
-They'd tightened this year, he said. They were being pulled too. His house had borrowed to buy notes, and now it needed the notes to pay back what it had borrowed.
+Pell listened. He didn't want to. He had a quince tree. But he had spent forty years unable to hear two parties in a mess without looking for the place where they might meet, and by the second glass he had asked how many notes the agent's house actually needed, and by when, and whether its lenders might extend the terms against a smaller purchase at a fair price somewhere that was actually selling.
 
-"I'm not a bad man," he said. "I want you to understand that. I'm a link in a chain. And I'm being pulled."
-
-Pell listened.
-
-He did not want to listen. He had a quince tree.
-
-But forty years. He could not hear two parties in a mess without looking for the spot where they might meet. By the second glass he'd asked how many notes the house actually needed, and by when, and whether the lenders might extend the terms against a smaller purchase, at a fair price, somewhere that was actually selling.
-
-The agent looked at him. "You should do this for a living."
+The agent looked at him for a long moment. "You should do this for a living."
 
 "I did," said Pell. "I stopped."
 
-At dusk the grain went out.
+At dusk the grain went out. Every household that asked got a sack filled from the co-op granary and marked with the Salve house's purchase stamp. Idris had had the stamp cut that morning in a hurry and hadn't been able to decide which name went first, so the sacks read COMMONS / PRESS YARD on one line and PRESS YARD / COMMONS on the next. The stamp-cutter considered it a disgrace. Aurel, reading one of the sacks, said it was correct, and went back to reciting the sluice schedule. Whatever the households didn't want went down to the river barges to be sold on for winter stores up the coast, where nobody would know what the stamp meant.
 
-Every household that asked got a sack, filled from the co-op granary, marked with the Salve house purchase stamp. Idris had had the stamp cut that morning in a hurry, and hadn't been able to decide which name went first. So the sacks said COMMONS / PRESS YARD on one line and PRESS YARD / COMMONS on the next.
+A cousin from the city, visiting for the Crush, stood at the joint table with a plate of orchard grain and hand pie and honey pastry and said, delighted, "Oh, this is that fusion food, isn't it? Greenvale and Sunplains together?"
 
-The stamp-cutter called it a disgrace.
-
-"It's correct," said Aurel, reading a sack, and went back to reciting the sluice schedule.
-
-Whatever the households didn't want went to the river barges, sold on for winter stores up the coast, where nobody would know what the stamp meant.
-
-A cousin from the city, down for the Crush, stood at the joint table with a plate of orchard grain and hand pie and honey pastry, delighted.
-
-"Oh, this is that fusion food, isn't it? Greenvale and Sunplains together?"
-
-Lissa didn't look up from her bowl.
-
-"We always eat it like this."
+Lissa didn't look up from her bowl. "We always eat it like this."
 
 ---
 
-Four mornings after the festival, Pell was up the tree.
+Four mornings after the festival, Pell was up the quince tree again.
 
-The quince in his hand had a small brown bruise on one side. He'd decided, over four days, that it was the wasp's fault after all.
+The quince in his hand had a small brown bruise on one side. Over four days he had decided that it was the wasp's fault after all.
 
-A young woman was coming up the lane. Gray water-court coat. Folder under one arm. She walked the way people walk when they've been told they'll find someone in a tree.
+A young woman was coming up the lane in the gray coat of the water court, with a folder under her arm, walking the way people walk when they have been told they will find someone in a tree.
 
 "Arbiter Anwick?"
 
 "Retired."
 
-"Yes, sir. Everyone said." She held up the folder. "It's the upper sluice and the Thistle orchard. A very small matter. They said to ask if you might give just one small opinion."
+"Yes, sir. Everybody said." She held up the folder. "It's the upper sluice and the Thistle orchard. A very small matter. They said to ask if you might give just one small opinion."
 
-Pell looked at the quince.
+Pell looked at the quince, and at the folder, and at the rest of the tree, which was heavy with fruit that wanted picking this week or not at all.
 
-Then at the folder.
-
-He sighed.
-
-And started to climb down.
+"Bring it up," he said. "There's room on the second branch."

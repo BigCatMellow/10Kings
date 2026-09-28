@@ -28,7 +28,7 @@ The sample-chapter habits still hold where the guide agrees with them: starting 
 
 ## Where the current drafts stand against the guide
 
-Assessed 2026-09-27 against [the drafts](Drafts/README.md) (second pass):
+Assessed 2026-09-27 against [the drafts](Drafts/README.md) (second pass). The third pass (2026-09-28) addressed the rhythm, endings and shared-humor gaps. James also directed that the guide be applied as a sensibility, not as a checklist of beats per story.
 
 | Guide says | The drafts | Gap |
 | --- | --- | --- |

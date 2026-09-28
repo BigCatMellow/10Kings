@@ -2,7 +2,9 @@
 
 ## Status
 
-**L3 draft, second pass: rewritten in James's voice ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [The Heavy Scale at Icestep Summit](../Stories/The-Heavy-Scale.md), first written 2026-09-27 from that page's scene plan and promise ledger, checked independently, then rewritten the same day to James's voice notes. The opening is the sample James approved. Not yet reviewed at L4. Every character except Samir Tareh is provisional, as are the businesses and the shared unit name "stone"; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule). The weigher's employer stays "the pass authority," as the story page leaves it. Samir appears only as an ordinary caravan negotiator.
+**L3 draft, third pass: revised against James's author voice guide ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [The Heavy Scale at Icestep Summit](../Stories/The-Heavy-Scale.md). History, 2026-09-27 to 28: first written from the story page's scene plan and promise ledger; checked independently; rewritten to notes from James's sample chapters, with an opening he approved; revised against his full voice guide after he approved the test revision of [The Goat File](The-Goat-File.md). Not yet reviewed at L4. Every character except Samir Tareh is provisional, as are the businesses and the shared unit name "stone"; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule). The weigher's employer stays "the pass authority," as the story page leaves it. Samir appears only as an ordinary caravan negotiator.
+
+**What this pass changes:** prose only. The approved opening keeps its quick comic timing. Everything after it runs in medium sentences by default, with fewer punchline scene endings and humor that differs by character. Quill is literal. Tove is strict about how anyone knows anything. Brisa feeds people instead of joking. The chief is frightened. Grell is rude. Ilo grumbles. No beats were added.
 
 This draft is authoritative for [Anthology C5](../Anthology.md#cross-story-promise-ledger): the caravan cook is **Ilo Sedgewater**, from a Deepwood village whose mushroom harvest the blight took; his grievance is that mushrooms now cost more than meat.
 
@@ -32,13 +34,11 @@ Eleven stone. And a little over.
 
 "Everything."
 
-Quill had tried the five-stone. The two. The one. The half. Every one of them read heavy by the same share. As though the whole world had quietly put on weight over the winter while the pass was shut.
+He had already tried the five-stone, the two, the one and the half, and every one of them read heavy by the same share, as though the whole world had quietly put on weight over the winter while the pass was shut.
 
-It was a beautiful scale. A steelyard of the old plateau pattern: one great black iron beam on a knife-edge, goods pan hanging off the short arm, the long arm notched and numbered in brass. The counterweight, the town's one stone, rode in a lidded iron cradle that hooked into the notches, latched shut against the ice. Nobody opened that lid from one season's service to the next.
+It was a beautiful scale. It was a steelyard of the old plateau pattern: a single great beam of black iron on a knife-edge, with the goods pan hanging from the short arm and the long arm notched and numbered in brass. The counterweight, the town's one stone, rode in a lidded iron cradle that hooked into the notches and was latched shut against the ice, and nobody opened that lid from one season's service to the next. The beam was polished where a century of hands had nudged it. It was, as the chief had told Quill three times since he arrived the afternoon before, the pride of the town.
 
-A hundred years old. Polished where a century of hands had nudged the beam. It was, the chief had told Quill three times since yesterday, the pride of the town.
-
-The chief closed his eyes. "Long winter. Iron shrinks in the cold. I'm sure it can be resolved quietly."
+The chief closed his eyes. "It's been a long winter. Iron shrinks in the cold. I'm sure it can be resolved quietly."
 
 Quill wrote it down. "*I'm sure it can be resolved quietly.*"
 
@@ -50,21 +50,17 @@ Quill wrote it down. "*I'm sure it can be resolved quietly.*"
 
 "I know." He turned the page. "I've got most of them."
 
-They'd trained him to do it at the weights school on the plateau. A weigher who misquoted a witness could lose his license. He'd never found the place in himself where the habit switched off.
+They had trained him to do that at the weights school on the plateau, where a weigher who misquoted a witness could lose his license, and he had never found the place in himself where the habit could be switched off.
 
-"What does *quietly* mean?" he said.
+"What does *quietly* mean?" he asked.
 
-Chief Dorran Pike looked at the scale like a man watching a doctor examine a relative.
+Chief Dorran Pike looked at the scale the way a man looks at a doctor examining a relative. "The pass opens in three days," he said. "The first caravan of the year comes up from the plateau and weighs in here, in public, with the whole town watching. It always has. And the caravans are thin this year. There were attacks on the routes all last season, houses losing loads, half the plateau merchants choosing other passes or not coming up at all. My fees are down by a third. The authority is reviewing my post."
 
-"The pass opens in three days. The first caravan of the year comes up from the plateau and weighs in here. In public. Whole town watching. Always has." He rubbed his face. "And the caravans are thin this year. Attacks on the routes all last season. Houses losing loads. Half the plateau merchants choosing other passes, or not coming up at all. My fees are down a third. The authority's reviewing my post."
+"The scale isn't cheating anyone," said Quill. "It's reading heavy. That isn't the same thing."
 
-"The scale isn't cheating anyone. It's reading heavy. That's not the same thing."
+"It'll sound the same," said the chief, "when they tell it in the next town."
 
-"It'll sound the same," the chief said, "when they tell it in the next town."
-
-Across the yard, the drift under the inn's eaves stood higher than a man. Somebody had patched that roof with tarred sailcloth, weighted at the edges with stones.
-
-Recently.
+Across the yard, the drift under the eaves of the inn stood higher than a man. Somebody had patched the inn's roof with tarred sailcloth, weighted along the edges with stones, and not long ago.
 
 ---
 
@@ -72,131 +68,91 @@ Recently.
 
 "Nobody orders. There's what there is. Eat it."
 
-Brisa Holloway put the bowl down in front of him and didn't wait to see if he would. Barley. Salt fish. Some dried green herb that tasted like the sea.
+Brisa Holloway put the bowl down in front of him and didn't wait to see whether he would. It was barley with salt fish and some dried green herb that tasted of the sea.
 
-The Second Gate was the only inn in Icestep, and in winter it was the only warm place. So everyone who was stranded or snowed in or had nowhere better to be ended up in its long low common room by evening. Brisa was Northwind-born, flour to the elbows, with a voice pitched for a room full of weather. She'd run the Gate twenty years. She fed everyone who came through the door. Paying or not.
+The Second Gate was the only inn in Icestep, and in winter it was the only warm place, so everyone who was stranded or snowed in or simply had nowhere better to be ended up in its long, low common room by evening. Brisa was Northwind-born, with flour to the elbows and a voice pitched for a room full of weather. She had run the Gate for twenty years and fed everyone who came through the door, whether they could pay or not.
 
 "You're the weigher."
 
 "I'm the weigher."
 
-"Find anything?"
+"Found anything?"
 
 Quill looked at his bowl. "I'm not able to say."
 
-"That means yes," said a woman down the bench.
+"That means yes," said a woman down the bench. She had her boots up on the rail by the fire and a pipe in one hand and wore a sealskin coat. Tove Marrick had come up from the coast in late autumn with a cartload of salt fish for the plateau, been caught by the first snow, and stayed, and she had been selling fish to the town ever since.
 
-Boots up on the rail by the fire. Pipe in one hand. Sealskin coat. Tove Marrick had come up from the coast in late autumn with a cartload of salt fish for the plateau, got caught by the first snow, and simply stayed. She'd sold fish to the town all winter.
-
-"I'm not able to say," Quill said again.
+"I'm not able to say," Quill repeated.
 
 "It is said the scale's off." She tapped her pipe on the rail. "Don't look at me like that. I didn't see it. I don't know anyone who saw it. *It is said.* There's a difference."
 
-Tove sorted everything she said into three piles. What she'd seen herself. What she'd been told by someone she'd lend a boat to. And what was merely *said*.
-
-She was very strict about the piles.
+Tove sorted everything she said into three piles: what she had seen herself, what she had been told by someone she would lend a boat to, and what was merely *said*. She was very strict about the piles, and she expected other people to be.
 
 "When did it go off?" Quill asked, before he could stop himself.
 
-"It is said — after the big blow."
+"It is said, after the big blow."
 
 "The big blow?"
 
-"The storm," said Brisa, putting down bread. "Worst of the winter. Everybody dates everything by it. You'll hear."
+"The storm," said Brisa, putting down a loaf. "The worst of the winter. Everybody dates everything by it. You'll hear."
 
 "When was it?"
 
 "Midwinter," said Brisa.
 
-"Before midwinter," said a clerk.
+"Before midwinter," said a customs clerk.
 
 "A week after," said somebody else.
 
-"The night my cart lost its wheel," said a quiet pilgrim with a Compass badge on his coat. Which helped no one.
+"The night my cart lost its wheel," said a quiet pilgrim with a Compass badge on his coat, which helped no one.
 
-"It was the night of the big blow," said Tove, with finality. "And I'll tell you what I saw. I saw the snow come off the eaves in a sheet and fill the yard. *That* I saw. The rest, it is said."
+"It was the night of the big blow," said Tove firmly, "and I'll tell you what I saw. I saw the snow come off the eaves in a sheet and fill the yard. That I saw. The rest, it is said."
 
-Brisa refilled his bowl. He hadn't finished it.
+Brisa refilled his bowl, though he had not finished it, and sat down across the table from him.
 
-She sat down across from him, elbows on the table.
-
-"You heard about the caravan?"
+"Have you heard about the caravan?"
 
 "The first one?"
 
-"Rider came over the lower pass today. Says Samir Tareh's riding with it."
+"A rider came over the lower pass today. He says Samir Tareh is riding with it."
 
-The name went down the benches like a draft.
+The name went down the benches like a draft. Quill didn't know it, and Brisa, seeing that, explained. Samir Tareh was a caravan negotiator from the plateau, and half the merchant houses on the routes listened to him about which passes to use. After last season everybody wanted to know which roads could be trusted, and every spring Samir Tareh rode the passes and wrote down which towns kept honest scales and honest tolls and safe yards. Where he said go, the caravans went.
 
-Quill didn't know it. Brisa saw that and explained. Plateau caravan negotiator. Half the merchant houses on the routes listened to him about which passes to use, and after last season, everyone wanted to know which roads were safe. Every spring he rode the passes and wrote down which towns kept honest scales, honest tolls, safe yards. Where he said go, the caravans went.
+"He checks every scale," said Brisa. "Every single one, from here to the lowlands."
 
-"He checks every scale," said Brisa. "Every single one. From here to the lowlands."
-
-Quill looked at his bowl.
-
-It was full again.
+Quill looked down at his bowl. It was full again.
 
 "Eat," said Brisa.
 
 ---
 
-The customs house had one stove, one lamp worth reading by, and a window facing straight across the yard at the Second Gate's patched roof.
+The customs house had one stove, one lamp worth reading by, and a window that looked straight across the yard at the Second Gate's patched roof. Quill sat with the winter ledger under the lamp until the lamp burned down.
 
-The winter ledger. The lamp. Quill, until the lamp burned down.
+Almost nothing had crossed the scale all winter. There had been no caravans, since the pass had been shut from the first heavy snow, but the town used the public scale for its own weighing and every weighing was written down: flour from the winter stores, measured out to households; Tove's salt fish, weighed for the toll on each sale; firewood; once, a pig. Through the early part of the winter the entries were steady, and when he checked them against the stores' own measures they agreed near enough.
 
-Almost nothing had crossed the scale all winter. No caravans. The pass had been shut since the first heavy snow. But the town used the public scale for its own weighing, and every weighing was written down. Flour from the winter stores, measured out to households. Tove's salt fish, weighed for the toll on each sale. Firewood. A pig.
+Then, partway through the winter, they didn't. The flour weighed out to households began reading heavy against the stores by a tenth, every entry, from one line to the next, as though somebody had pulled a lever.
 
-Steady through early winter. He checked them against the stores' own measures. Near enough.
+The clerk had dated nothing that month except *before the blow* or *after the blow*, in the same cramped hand, and the change fell somewhere on the *after* side of the line.
 
-Then, halfway through the winter, not.
-
-The household flour started reading heavy against the stores. A tenth. Every entry. From one line to the next. Like someone had pulled a lever.
-
-The entry where it changed was dated in the clerk's cramped hand:
-
-*After the blow.*
-
-So were the six entries before it.
-
-So were the forty after it.
-
-Quill sat back.
-
-Something had happened to the scale. Once. On or near a night nobody in town could agree on.
-
-He wrote *after the blow = ?* in his book.
-
-Underlined it twice.
-
-Went to bed.
+Quill sat back from the ledger. Something had happened to the scale once, on or near a night that nobody in the town could agree about. He wrote *after the blow = ?* in his book, underlined it twice, and went to bed.
 
 ---
 
-"I know why you're here."
+"I know why you're here," said the repair smith, without turning around from his forge.
 
-The repair smith didn't turn around from his forge.
+Grell maintained everything in Icestep that had a moving part: the pumps, the gate hinges, the great sliding door of the customs yard, the winch on the well, and the scale. He was the only man in town who ever opened the scale's cradle. He had been rude to Quill on the afternoon he arrived for no reason Quill could work out. And according to the ledger he had serviced the scale twice that winter, both times in the first weeks of the cold, and a month after the second service the readings had jumped.
 
-Grell maintained everything with moving parts in Icestep. Pumps. Gate hinges. The customs yard's great sliding door. The winch on the well. And the scale. He was the only man in town who ever opened its cradle. He'd been rude to Quill the afternoon he arrived, for no reason Quill could work out. And according to the ledger, he'd serviced the scale twice that winter. Both times in the first weeks of the cold.
-
-A month after the second time, the readings jumped.
-
-Quill had already decided what he'd find here. He knew that, even walking in.
+Quill had decided what he would find before he walked in, and he knew he had.
 
 "I'm here about the scale," he said.
 
-"I know you're here about the scale. You're the weigher." Hammer. "You think I've been at it."
+"I know you're here about the scale. You're the weigher." Grell struck something twice. "You think I've been at it."
 
 "I'd like to see your weights."
 
-Grell turned around.
+Grell turned around then. He was a squat, grizzled man with forearms like ship's cable, and he looked at Quill for a long, contemptuous moment before taking a box down from a shelf, opening it on the bench and stepping back.
 
-Squat. Grizzled. Forearms like ship's cable. He looked at Quill for a long, contemptuous moment. Then he took a box off the shelf, opened it on the bench and stepped back.
-
-A service set. Brass weights, the full range. Quill checked every one against his own reference set with his hand balance, all the way down.
-
-True. Every one.
-
-Better kept than his own, actually.
+It was a service set: brass weights in the full range, the kind a scale's keeper uses to check the beam after cleaning. Quill checked every one of them against his own reference set with his hand balance, all the way down. Every one was true. They were better kept, in fact, than his own.
 
 "Well?" said Grell.
 
@@ -204,348 +160,176 @@ Better kept than his own, actually.
 
 "They're true."
 
-And that should have been the end of it. But Quill had his book open already.
+That should have been the end of it. But Quill already had his book open.
 
-"When you serviced it the second time, you told the chief — I'm quoting the clerk's note — *the old girl's in fine fettle, true to a hair.*" He looked up. "Then why is she reading heavy?"
+"The second time you serviced it, you told the chief — I'm quoting the clerk's note — *the old girl's in fine fettle, true to a hair*." He looked up. "Then why is she reading heavy?"
 
-A reasonable question.
+It was a reasonable question, asked at the worst possible moment in the worst possible way. Grell looked at him, and at the open book, and at his own words written down in it.
 
-Asked at the worst possible moment, in the worst possible way.
-
-Grell looked at him. At the open book. At his own words, written down.
-
-"Out."
+"Out," he said.
 
 "I only—"
 
 "*Out.*"
 
-Quill went out. He stood in the cold yard for some time with his book in his hand, wondering why he'd been so sure.
+Quill went out. He stood in the cold yard for some time with the book in his hand, wondering why he had been so sure.
 
 ---
 
-The shrine of the Infinite Compass sat at the top of town, where the pass road left Icestep and started to climb. One room of piled stone. A compass rose painted on the floor. Pegs for coats. And a great book on a lectern, kept as long as the shrine had stood.
+The shrine of the Infinite Compass stood at the top of the town, where the pass road left Icestep and began to climb. It was one room of piled stone with a compass rose painted on the floor, pegs for coats, and a great book on a lectern that had been kept for as long as the shrine had stood. Every traveler who passed through signed it, with where they'd come from and where they were going, and every evening the keeper wrote in what the road had done that day, because the Compass held that a traveler setting out deserved to know what the road had done to the ones before.
 
-Every traveler signed it. Name. Where they'd come from. Where they were going. And every evening the keeper wrote in what the road had done that day, because the Compass held that a traveler setting out deserved to know what the road had done to the ones before.
+"The blow," said Maudie Vance, who had kept the shrine since her hair was dark. "The night of the big blow. Everybody wants that one. Let me see." She turned back the heavy pages and ran a finger down a column. "Here."
 
-"The blow," said Maudie Vance, delighted to be asked. Thirty years she'd kept the shrine. "The night of the big blow. Everybody wants that one. Let me see."
+It was dated exactly: day, month and year. *Great wind from the northwest from dusk. Worst of the winter. The Second Gate's roof covering loose at midnight. Snow off every roof by dawn. Pass impassable.* Underneath, in a different hand, a pilgrim had added: *Stayed up all night. The Compass keep the innkeeper and her roof.*
 
-The pages were heavy. Her finger ran down a column.
+Quill copied the date and underlined it. Then he counted forward through the notes he had made from the ledger to the first entry that read heavy. It was the first weighing after the storm — the very next morning.
 
-"Here."
-
-An exact date. Day, month, year.
-
-*Great wind from the northwest from dusk. Worst of the winter. The Second Gate's roof covering loose at midnight. Snow off every roof by dawn. Pass impassable.*
-
-Underneath, in a different hand, a pilgrim had added:
-
-*Stayed up all night. The Compass keep the innkeeper and her roof.*
-
-Quill copied the date. Underlined it.
-
-Then he counted forward through last night's notes to the first heavy entry in the ledger.
-
-The first weighing after the storm.
-
-The very next morning.
-
-"Is that useful?" said Maudie.
+"Is that useful?" asked Maudie.
 
 "Very."
 
-Tove Marrick came in while he was still writing. A coin for the shrine, she said, every week. The Compass looked after people on roads, and she'd been stuck on this one since autumn. She saw the date and leaned over his shoulder.
+Tove Marrick came in while he was still writing, to leave a coin for the shrine as she did every week, because the Compass looked after people on roads and she had been stuck on this one since autumn. She saw the date and leaned over his shoulder.
 
-"There. The night I saw the Gate's roof go."
+"There. That's the night I saw the Gate's roof go."
 
-Quill turned back in his book.
+Quill turned back through his book. "You said you saw the snow come off the eaves. Your first night at the Gate, you said, *I saw the snow come off the eaves in a sheet and fill the yard. That I saw. The rest, it is said.*"
 
-"You said you saw the snow come off the eaves. First night at the Gate. You said, *I saw the snow come off the eaves in a sheet and fill the yard. That I saw. The rest, it is said.*"
+Tove stopped. She looked at him with something like respect.
 
-Tove stopped.
+"That's exactly what I said." She frowned. "I saw the snow. The roof—" She shook her head. "No. I was told about the roof. I was asleep for the roof. Brisa's stable boy told me in the morning that somebody had been up on the Gate's roof half the night, holding it down against the wind." She took care to use the right form. "Someone I'd lend a boat to told me. I didn't see it."
 
-She looked at him with something like respect.
-
-"That's exactly what I said." She frowned. "I saw the snow. The roof—" She shook her head. "No. I was *told* about the roof. I was asleep for the roof. Brisa's stable boy told me in the morning. Said someone was up on the Gate's roof half the night, holding it down in the wind." Carefully, the right form: "Someone I'd lend a boat to told me. I didn't see it."
-
-Quill wrote it down.
-
-*Told. Not saw. Someone on the Gate's roof, the night of the storm.*
-
-He didn't know yet why it mattered.
-
-He only knew he was suddenly, enormously glad that Tove Marrick sorted her knowledge into piles.
+Quill wrote it down: *told, not saw — someone on the Gate's roof, the night of the storm*. He didn't yet know why it mattered. He only knew he was suddenly, enormously glad that Tove Marrick kept her knowledge in piles.
 
 ---
 
-Dusk. News up from the yard.
+The news came up from the yard at dusk: the plateau side of the pass was clear, the first caravan had set out early, and the pass would open a day ahead of schedule. Samir Tareh would be at the scale tomorrow at noon.
 
-The plateau side was clear. The first caravan had started early.
+Quill spent the night weighing his own reference set against itself. He had been taught to do it whenever he doubted his instruments, and that night he doubted them for the first time. Perhaps the scale was true and he was the one who was wrong. Perhaps his ten-stone had been knocked or chipped or corroded on the long ride up from the plateau, and he had spent two days insulting a town's honor with light weights. So he sat at the end of the common room with his hand balance and his box and weighed ten against five and five, five against two and two and one, one against the halves, around and around again until the brass was warm from his hands. They were true. They had always been true. He did it all again anyway.
 
-The pass would open a day ahead of schedule. Samir Tareh at the scale tomorrow, noon.
+Some time after midnight, when the room had emptied and the fire had burned low, Brisa sat down across from him. She hadn't brought a bowl this time. She had two cups of something hot, and she set one beside the hand balance and watched him set the five-stone against the two-and-two-and-one for what he suspected was the eleventh time.
 
-Quill spent the night weighing his own reference set against itself.
+"Is it you," she asked, "or the scale?"
 
-Because what if? What if the scale was true and *he* was wrong? What if his ten-stone had been knocked, or chipped, or corroded on the long ride up, and he'd spent two days insulting a town's honor with light weights?
-
-Ten against five and five. Five against two, two and one. One against the halves.
-
-Around. Around again.
-
-Until the brass was warm from his hands.
-
-True. They'd always been true.
-
-He did it all again anyway.
-
-Some time after midnight, when the common room had emptied and the fire was low, Brisa sat down across from him. No bowl this time. Two cups of something hot. She set one beside the hand balance and watched him put the five-stone against the two-and-two-and-one for what he suspected was the eleventh time.
-
-"Is it you?" she said. "Or the scale?"
-
-"The scale. It was always the scale." He set the weights down. "I just don't know *why*."
+"The scale. It was always the scale." He put the weights down. "I just don't know why."
 
 "And when you do?"
 
-"Then I'll know who was overcharged, and by how much. And I'll have to say it. At Pass Opening. In front of Samir Tareh." He looked at his hands. "The chief wants it quiet."
+"Then I'll know who was overcharged and by how much, and I'll have to say it at Pass Opening in front of Samir Tareh." He looked at his hands. "The chief wants it kept quiet."
 
-"And you don't."
+"And you don't?"
 
-"Every sack of flour in that ledger after the storm was weighed heavy. Families. They paid for a tenth more than they got, all winter, and they don't know." A pause. "It isn't much. A tenth of a sack. But they paid for it."
+"Every sack of flour in that ledger after the storm was weighed heavy. Families paid for a tenth more than they got, all winter, and they don't know it." He hesitated. "It isn't much. A tenth of a sack. But they paid for it."
 
 Brisa looked at him for a long time.
 
-"You're not what I thought," she said. "First night, with your book and your little weights. I thought you'd be one of those who's right about everything and kind about nothing."
+"You're not what I thought," she said. "The first night, with your book and your little weights, I thought you'd be one of those who's right about everything and kind about nothing."
 
 "I usually am."
 
-"Precise isn't the same as unkind." She pushed the cup closer. "Not if you're being precise *for* somebody. Drink that. Long way to noon."
+"Precise isn't the same as unkind." She pushed the cup closer to him. "Not if you're being precise *for* somebody. Drink that. It's a long way to noon."
 
-He drank it.
-
-After she'd gone, he found he'd written down what she said. Exactly. Without meaning to.
-
-He didn't mind.
+He drank it. After she had gone he found that he had written down what she said, exactly, without meaning to, and that he didn't mind at all.
 
 ---
 
-He woke before dawn to a sound he didn't recognize.
+He woke before dawn to a sound he didn't recognize and lay listening to it for some time before he understood that it was water. The wind had gone round to the south in the night, warm off the plateau, and every roof in Icestep was dripping. Out in the yard the drifts had turned gray and soft and were sinking into themselves.
 
-Water.
-
-Dripping. Everywhere. The wind had swung south in the night, warm off the plateau, and every roof in Icestep was running. In the yard, the drifts had gone gray and soft and were sinking into themselves.
-
-He went out with his coat over his nightshirt. He couldn't have said why.
-
-The drift under the Second Gate's eaves had dropped by half in the night. Something dark stood out of it at the bottom, against the wall.
-
-Right where the snow had slid off the roof in the storm.
+He went out with his coat over his nightshirt, without being able to say why, and stood looking at the Second Gate. The drift under its eaves had dropped by half overnight, and something dark stood out of the bottom of it, close against the wall, where the snow had come down off the roof in the storm.
 
 He waded in to his knees and dug it out with his hands.
 
-A block of dressed stone the size of a loaf. Far heavier than it looked. An iron ring set in the top. The Icestep mark on its face, and under it, in the plateau figures every weigher learns before he learns to read:
+It was a block of dressed stone the size of a loaf, far heavier than it looked, with an iron ring set into the top. The Icestep mark was cut into its face, and under the mark, in the plateau figures every weigher learns before he learns to read, it said *1 stone*. It was the town's stone. It had ridden in the scale's cradle for a hundred years, and he knew it the way he would have known the scale itself.
 
-*1 stone.*
+He left it standing in the slush, went over to the scale, unlatched the cradle and lifted the lid.
 
-The town's stone. A hundred years in the scale's cradle. He knew it the way he'd have known the scale itself.
+Inside, round and smooth, sat a Northwind net-stone. He had seen them on the coast in his school year, strung by the dozen along the foot-ropes of drift nets to sink them: a sea-stone with a hole bored through it for the rope. Cut neatly into its face, in coastal lettering, was the Northwind mark for *one stone*.
 
-He left it standing in the slush and went to the scale. Unlatched the cradle.
+Northwind and the plateau both called their unit of weight a stone. It was the same word in both trade tongues, and it had never been the same weight. He had learned that at school too, on the day the teacher warned them about false friends between measures, and had forgotten it by lunch, because who would ever mix up a sea-stone and a scale-stone? The net-stone was lighter by about a tenth. Every sack weighed against it since the storm had needed it hung a tenth further out along the beam to balance, and so every sack had read a tenth heavy.
 
-Lifted the lid.
+Nobody had lied. Somebody had put one stone where another had been, and both stones said *one stone*, and both were telling the truth.
 
-Inside, round and smooth, sat a Northwind net-stone. He'd seen them on the coast in his school year, strung by the dozen along the foot-ropes of drift nets to sink them. A sea-stone with a hole bored through for the rope.
-
-Cut neatly into its face, in coastal letters: the Northwind mark for *one stone*.
-
-Northwind and the plateau both called their unit of weight a stone. Same word, both trade tongues.
-
-Never the same weight.
-
-He'd learned that in school, too. The day the teacher warned them about false friends between measures. He'd forgotten it by lunch. Who would ever mix up a sea-stone and a scale-stone?
-
-The net-stone was lighter. About a tenth. Every sack weighed against it since the storm had needed it hung a tenth further out along the beam to balance.
-
-So every sack had read a tenth heavy.
-
-Nobody lied.
-
-Somebody had put one stone where another had been. Both said *one stone*. Both were telling the truth.
-
-He stood in the cold yard between them.
-
-Then he looked up. At the Gate's patched roof. The tarred sailcloth, weighted along its edges with stones. And he thought of a woman up there in the worst wind of the winter, looking for anything heavy enough to tie a corner down and small enough to carry up a ladder.
-
-There was nothing in the yard that fitted better than the scale's counterweight.
+He stood in the cold yard between them for a long time. Then he looked up at the patched roof of the Second Gate, at the tarred sailcloth weighted along its edges, and thought about a woman up there in the worst wind of the winter, looking for something heavy enough to tie down a corner and small enough to carry up a ladder. There had been nothing in the yard that fitted better than the scale's counterweight.
 
 *The Compass keep the innkeeper and her roof.*
 
 ---
 
-The first caravan came over the pass at noon, and all of Icestep was in the customs yard to watch it weigh in.
+The first caravan came over the pass at noon, and the whole of Icestep was in the customs yard to see it weigh in, as it had been every spring for a hundred years: the first bells on the road, the first beasts through the gate, the first loads on the public scale with the town watching to see it done right. After that the ice would break on the tarn below the town, and there would be supper, and the season would begin.
 
-It always had been. First bells up the road. First beasts through the gate. First loads on the public scale with the whole town watching to see it done right. Then the ice breaking on the tarn below town. Then supper. Then the season.
+Samir Tareh rode at the head of the caravan. He was tall and quiet, in a traveling coat, with a route book in a satchel over one shoulder, and he looked, Quill thought, a great deal more tired than a man ought to look at noon on the first day of a season. He dismounted, greeted the chief, and walked straight to the scale.
 
-Samir Tareh rode in at the front. Tall. Quiet. Traveling coat, route book in a satchel over one shoulder. He looked, Quill thought, much more tired than a man should at noon on the first day of a season.
+The chief had spent the whole morning trying to persuade Quill to weigh the caravan's goods discreetly against his reference set, inside the customs house, and correct the figures afterward on paper. Quill had listened to every word of it and written every word of it down.
 
-He got down, greeted the chief and walked straight to the scale.
+"Master Tareh," he said, "before anything is weighed, the pass authority's weigher has a fault to report on this scale."
 
-The chief had spent the whole morning trying to get Quill to weigh the caravan's goods discreetly, against his reference set, in the customs house. Fix the figures afterward on paper. Quill had listened to all of it.
+The yard went silent. The chief made a small noise.
 
-And written it all down.
+Quill reported it plainly and exactly, and he didn't hurry. The scale had read heavy by a tenth since the morning after the storm. He named the date from the shrine book, and all round the yard he heard the murmur of people who had spent the winter arguing about that date and had just lost. Then he gave the cause: the town's stone lost off the Second Gate's roof in the storm, and replaced before morning with a Northwind net-stone that also said *one stone* and was not. He held them up, one in each hand, so the whole yard could see.
 
-"Master Tareh," Quill said. "Before we weigh anything, the pass authority's weigher has a fault to report on this scale."
+He didn't say who. He didn't need to. Brisa Holloway was standing near the front of the crowd with flour on her forearms, and he watched her understand.
 
-The yard went silent.
+"I didn't know," she said. It came out very small for that big voice. "The roof was going. I needed something heavy, so I took the stone, and then the wind took the stone, and I thought one stone was one stone. I put ours in. I didn't *know*."
 
-The chief made a small sound.
+Quill opened his book. The whole yard watched him do it, and he saw Brisa flinch.
 
-Quill reported it. Plainly. Exactly. He didn't hurry. Heavy by a tenth since the morning after the storm. He named the date from the shrine book, and around the yard he heard the murmur of people who'd argued about that date all winter and had just lost.
-
-Then the cause. The town's stone, lost off the Second Gate's roof in the storm. Replaced before morning with a Northwind net-stone that also said *one stone*.
-
-And wasn't.
-
-He held them up. One in each hand. So the whole yard could see.
-
-He didn't say who.
-
-He didn't have to.
-
-Brisa Holloway was near the front, flour on her forearms. He watched her understand. It was one of the worst things he'd ever seen.
-
-"I didn't know." It came out very small in that big voice. "The roof was going. I needed something heavy. I took the stone, and then the wind took the stone, and I thought — one stone is one stone. I put ours in. I didn't *know*."
-
-Quill opened his book.
-
-The whole yard watched him do it. He saw Brisa flinch.
-
-He read it out exactly as he'd written it. The words, the speaker, the place.
-
-"*Precise isn't the same as unkind. Not if you're being precise for somebody.* Brisa Holloway. The Second Gate. Last night."
+He read it out exactly as he had written it, with the speaker and the place. "*Precise isn't the same as unkind. Not if you're being precise for somebody.* Brisa Holloway, at the Second Gate, last night."
 
 He closed the book.
 
-"The ledger's worked back to the storm," he told the yard. "Every weighing since is recorded. I can tell every household what it was overcharged for flour, to the half-measure. I can tell Tove Marrick what she was overcharged in tolls on her fish. It's all written down. It can all be paid back."
+"The ledger's been worked back to the storm," he told the yard, "and every weighing since is recorded. I can tell every household what it was overcharged for its flour, to the half-measure. I can tell Tove Marrick what she was overcharged in tolls on her fish. It's all written down, and it can all be paid back."
 
-A pause.
+There was a pause, and then the whole town started shouting at once.
 
-Then the entire town started shouting at once.
+He had been warned that Icestep settled things by shouting. The town should pay; the authority should pay; the chief said loudly that the authority would certainly not pay and also that it was nobody's fault; somebody said it was the storm's fault and the storm could pay. Brisa said she would pay it all herself, and at least forty people shouted her down. Then somebody pointed out that a tenth of a sack of flour came to less than a bowl of supper a household, near enough, and somebody else said then give them supper. The Gate always fed everyone at Pass Opening anyway. This year the town could pay for it, and every overcharged household could eat what it was owed.
 
-Icestep settled things by shouting. He'd been warned.
+Quill did the sum in his book while they shouted, and it came out close enough that he said so, and the yard cheered as though he had done something clever.
 
-The town should pay. The authority should pay. The chief said loudly that the authority would certainly *not* pay, and also that it was nobody's fault. Somebody said it was the storm's fault, and the storm should pay. Brisa said she'd pay it all herself, and at least forty people shouted her down.
+Tove Marrick pushed through the crowd to him. "My tolls. What does it come to?"
 
-Then somebody said a tenth of a sack of flour came to less than a bowl of supper per house, near enough.
+He told her. It was not a small sum; salt fish is heavy, and she had sold a great deal of it.
 
-Somebody else said, then give them supper, then.
+"Coin," said Tove. "I want it in coin. I saw what I was charged, and I want to see what I'm paid."
 
-The Gate always fed everyone at Pass Opening anyway. This year the town could pay for it, and every overcharged house could eat what it was owed.
-
-Quill did the arithmetic in the middle of the shouting. It came out close enough that he said so.
-
-The yard cheered. As if he'd done something clever.
-
-Tove Marrick pushed through the crowd.
-
-"My tolls. What's it come to?"
-
-He told her. Not a small sum. Salt fish was heavy, and she'd sold a lot of it.
-
-"Coin," said Tove. "I want it in coin. I saw what I was charged. I want to see what I'm paid."
-
-The chief, visibly in pain, counted it out of the customs chest into her hand.
-
-Tove weighed the coins in her palm a moment.
-
-Then she walked across the yard and put every one of them into Brisa Holloway's floury hands.
+The chief, visibly suffering, counted it out of the customs chest into her hand. Tove weighed the coins in her palm for a moment. Then she walked across the yard and tipped every one of them into Brisa Holloway's floury hands.
 
 "For the supper," she said. "Buy something that isn't salt fish."
 
-Samir Tareh had watched all of it without a word. When the yard quieted, and Grell had been sent for, and the town's own stone had been washed and hung back in its cradle, and the reference weights read true on the beam, Samir weighed his caravan's first bale himself.
-
-He watched the beam settle.
-
-Nodded once to Quill.
-
-And took out his route book.
+Samir Tareh had watched all of it without a word. When the yard had quieted, and Grell had been sent for, and the town's own stone had been washed and hung back in its cradle and the reference weights read true on the beam, Samir weighed his caravan's first bale himself. He watched the beam settle, nodded once to Quill, and took out his route book.
 
 ---
 
-The supper at the Second Gate ran late. It was always going to.
+The supper at the Second Gate ran late. It was always going to. Brisa cooked as though she meant to outdo the storm: brined fish crusted in plateau spice, which the coast people said was too hot and the plateau people said was nowhere near hot enough, fish cakes fried in stacks, and caravan flatbread by the basket. Everyone who had been overcharged ate what they were owed, and then went on eating what they weren't, and nobody counted.
 
-Brisa cooked like she was trying to outdo the storm. Brined fish crusted in plateau spice, which the coast folk said was too hot and the plateau folk said wasn't nearly hot enough. Fish cakes, fried in stacks. Caravan flatbread by the basket. Everyone who'd been overcharged ate what they were owed.
+Quill wrote his report at the end of a bench, with a bowl at his elbow that Brisa kept refilling. It was short: *Error inspected and corrected*, with the date and the amount. Under *Cause*, after some thought, he wrote *Weather*.
 
-Then kept eating what they weren't.
+Then he took his bowl across the room to where Grell was sitting alone near the door, and sat down opposite him.
 
-Nobody counted.
+"I was wrong about you," he said. "I'd made up my mind before I ever came to your shop. I'm sorry."
 
-Quill wrote his report at the end of a bench, with a bowl at his elbow that Brisa kept refilling. It was short. Scale tested. Found heavy. Corrected. Date. Amount. Under *Cause*, after some thought, he wrote:
+Grell looked at him over his fish. "You were," he said. "You did." He went back to his fish. After a while, without looking up, he added, "Your ten-stone's got a scratch on the base. Bring it round in the morning and I'll dress it."
 
-*Weather.*
+The chief stood up in the middle of the room, called for quiet, and made a short speech about the pass authority's commitment to honest weights, the town's pride in its public scale, and how very proud he was that Icestep had chosen to correct its error openly, in front of the whole season's trade. Everyone let him. Quill, who had the whole morning written down, let him too.
 
-He took his bowl across the room to where Grell sat alone near the door, and sat down across from him.
+Late in the evening Samir Tareh took the seat beside Quill with his route book open, and turned it so that Quill could see the page. The entries were short and written in a neat plateau hand: passes, towns, water, yards and scales, a line or two for each. The line above the last one read *Seven Wells — water and guides, one roof*. Below it, in fresh ink, he had written *Icestep — scale honest, corrected in public*.
 
-"I was wrong about you. I'd decided before I ever came to your shop." He put the bowl down. "I'm sorry."
-
-Grell looked at him over his fish.
-
-"You were," he said. "You did."
-
-He went back to his fish.
-
-After a while, without looking up: "Your ten-stone's got a scratch on the base. Bring it round in the morning. I'll dress it."
-
-The chief stood up in the middle of the room, called for quiet, and gave a short speech about the pass authority's commitment to honest weights. And the town's pride in its public scale. And how very proud he was that Icestep had chosen to correct its error openly, in front of the whole season's trade.
-
-Everyone let him.
-
-Quill, who had the whole morning written down, let him too.
-
-Late in the evening, Samir Tareh found the seat next to Quill. He had the route book open. He turned it so Quill could see.
-
-Short entries in a neat plateau hand. Passes. Towns. Water. Yards. Scales. A line or two each. The line above the last one read:
-
-*Seven Wells — water and guides, one roof.*
-
-Below it, the ink still fresh:
-
-*Icestep — scale honest, corrected in public.*
-
-"Most years I find a wrong scale somewhere, and the town swears it's right," Samir said. "This year every report I get is worse than the truth. Or better. Every pass says the other passes are unsafe. Every yard says it's the only honest one." He closed the book. "An honest scale is useful. A town that tells me its scale was wrong, in front of everyone, before I can find out for myself?" He shook his head. "That's rarer. I can send caravans to a town like that."
+"Most years I find a wrong scale somewhere and the town swears it's right," Samir said. "This year every report I get is worse than the truth, or better than it. Every pass says the other passes are unsafe, and every yard says it's the only honest one." He closed the book. "An honest scale is useful. A town that tells me its scale was wrong, in front of everyone, before I can find out for myself, is rarer. I can send caravans to a town like that."
 
 "And the others?"
 
-Samir was quiet for a moment.
+Samir was quiet for a moment. "There's a pass town further east whose scale has been reading wrong all winter, always in the town's favor. They showed me the stamp on it and swore to it." There was no pleasure in his voice at all. "It won't see my caravans this year, and that will cost them a great deal, and I'm sorry for it. But I can't send people where the weights lie."
 
-"There's a pass town further east. Their scale's been reading wrong all winter. Always in the town's favor. They showed me the stamp on it and swore to it." No pleasure in his voice at all. "It won't see my caravans this year. That'll cost them a great deal. I'm sorry for it."
+At the other end of the table the caravan's cook had been given a bowl of Brisa's fish and was eating it like a man taking professional notes. He was a Deepwood man called Ilo Sedgewater, who had cooked for the caravans since the blight took his village's mushroom harvest the summer before, and he had been complaining since the moment he came through the gate.
 
-A pause.
-
-"But I can't send people where the weights lie."
-
-At the other end of the table, the caravan's cook had a bowl of Brisa's fish and was eating it like a man taking professional notes. A Deepwood man called Ilo Sedgewater, who'd cooked for the caravans since the blight took his village's mushroom harvest the summer before. He'd been complaining since he came through the gate.
-
-"Mushrooms," he said, to nobody. "Have you *seen* what they want for mushrooms on the plateau? Forest mushrooms? More than meat. More than *meat*. Forty years I've cooked. Never thought I'd see a mushroom cost more than a goat."
-
-He chewed. Considered.
-
-"This is good," he admitted. "Too much pepper."
+"Mushrooms," he said, to nobody in particular. "Have you seen what they want for mushrooms on the plateau? Forest mushrooms? More than meat. More than *meat*. Forty years I've been cooking, and I never thought I'd see a mushroom cost more than a goat." He chewed, and considered. "This is good," he admitted. "Too much pepper."
 
 "It's the plateau spice," said Brisa, going past with bread.
 
 "It's too much of it," said Ilo Sedgewater, and held out his bowl for more.
 
----
+By the fire, Tove Marrick had her boots on the rail and her pipe going, and a ring of stranded travelers and caravan hands and customs clerks around her, and she was telling the story of the scale. She told all of it, from the storm to the stone in the drift, and she tagged every part of it properly.
 
-By the fire, Tove Marrick had her boots on the rail and her pipe going, with a ring of stranded travelers and caravan hands and customs clerks around her.
+"And then the weigher," she said, "stood in that yard with a stone in each hand, in front of the whole town and Samir Tareh, and told everybody exactly what they were owed."
 
-She was telling the story of the scale.
+She drew on her pipe and looked across the room at Quill, and at Brisa beside him with the breadbasket, and at the chief, who was giving his speech again to a table that had missed it.
 
-All of it. The storm, the stone in the drift. And every part tagged properly.
-
-"And then the weigher," she said, "stood in that yard with a stone in each hand. In front of the whole town. In front of Samir Tareh. And told everybody exactly what they were owed."
-
-She drew on her pipe.
-
-Looked across the room. At Quill. At Brisa beside him with the breadbasket. At the chief, finishing his speech for the second time.
-
-"I saw it."
+"I saw it," she said.

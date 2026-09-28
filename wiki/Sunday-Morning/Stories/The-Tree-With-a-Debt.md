@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, the tree, the lien and plot details are new and non-canon.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Tree-With-a-Debt.md) (second pass, in James's voice; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Tree-With-a-Debt.md) (third pass, revised against James's full voice guide; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -81,7 +81,7 @@ Ismet reads the old pledge in the Highridge trade register it was written in, an
 
 ## Soft landing
 
-The tree ends up with a name in both languages and a clean ledger. The herb fair opens on time. Sessa and Ismet co-sign the survey in a hybrid register neither of their guilds would accept alone; it carries exactly one footnote, and it credits her. Sessa sends a copy of the survey to Naruin with no covering note. Hollis decides to stay and open a tea stall by the new path, which is the next small problem.
+The tree ends up with a name in both languages and a clean ledger. The herb fair opens on time. Sessa and Ismet co-sign the survey in a hybrid register neither of their guilds would accept alone; it carries exactly one footnote, and it credits her. Sessa sends a copy of the survey to Naruin with no covering note. Hollis decides to stay and open a cold mint-water stall by the new path, which is the next small problem.
 
 ## World anchors
 
@@ -183,7 +183,7 @@ Run 2026-09-27 at James's request to use THINK more fully. Each method answers a
 | **Perspective shift** (Naruin) | Naruin reads as an alarmist the story proves wrong. | His fear is earned: the plans are real, and Deepwood remembers the [timber tithes](../../History/Contested-Memory.md#the-timber-tithes--deepwood-closure-traditions). Sessa explains this to Ismet during the vigil; the story never says Naruin is wrong, only that this path was negotiable. |
 | **Perspective shift** (Hollis) | Hollis's greed is the only reason he'd sell. | His family lends to caravans, and the [caravan attacks](../../Story/Current-Events.md#caravan-attacks) have soured their loans. Refusing the buyer costs him something real, which makes the guardianship a sacrifice. |
 | **Inversion** (where does the nail still fall?) | The road is stopped by one pledge. | The buyer already holds his neighbors' pledges; the road is still coming, just not through this tree ([World Threads](../World-Threads.md#where-the-nail-still-fell)). |
-| **Counterexample search** on the ending | Does Hollis's sacrifice make the ending sad? | **Narrows.** The town's gift of the principal and his new tea stall give him a livelihood here; he isn't ruined, just not rich. |
+| **Counterexample search** on the ending | Does Hollis's sacrifice make the ending sad? | **Narrows.** The town's gift of the principal and his new cold mint-water stall give him a livelihood here; he isn't ruined, just not rich. |
 
 Changes to the plan: s4 adds why Naruin is afraid; s5 adds Hollis's bad loans and the neighbors who sold.
 
@@ -211,7 +211,7 @@ Changes to the plan: s4 adds why Naruin is afraid; s5 adds Hollis's bad loans an
 | 5 | Market square · Midsummer Debates | Hollis arrives expecting sixty years of interest, with a buyer's offer on fine Port paper (Ismet notes the lantern watermark and thinks nothing of it); his caravan loans have gone bad and his neighbors along the road have already sold. Town panic; the Weaver elder writes it all down. | stakes; Hollis's need; the offer; the road still coming | Weaver elder |
 | 6 | Tree, night · debates night | Separately, each rereads what they know; they meet at the tree and compare. Sessa hears "for as long as it stands." | clause discovered through both vocabularies | Sessa's words for old |
 | 7 | Records office · 2 days out | The clause read to Hollis, and what the buyer wanted becomes plain. He tears up the offer. The path follows Contract's line along Pip's roots. Pledge renewed as guardianship. | resolution; the nail that didn't fall | Contract vindicated |
-| 8 | New path · herb fair | Fair opens. Two names. Co-signed survey with one footnote; a copy goes to Naruin. Hollis's tea stall. | soft landing; outward effect | footnote pays off |
+| 8 | New path · herb fair | Fair opens. Two names. Co-signed survey with one footnote; a copy goes to Naruin. Hollis's cold mint-water stall. | soft landing; outward effect | footnote pays off |
 
 **Promise ledger**
 
@@ -245,5 +245,6 @@ Drafted 2026-09-27: [The Tree With a Debt](../Drafts/The-Tree-With-a-Debt.md). A
 - **DO** — Hollis's early kind act (the reconsideration trigger): he unloads the mail cart and gives Pip a honey stick before naming his sum. The Vigil falls on the Debates' opening day; Hollis arrives at their close.
 - **DO** — Ismet names the watermark as a Port stationer's and thinks nothing more of it, as C6 requires.
 - **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, third pass** — Prose revised against the full guide. Narrator jokes were cut to one ("cured nothing but money"). Ismet doesn't write down the fourth word for old. Hollis's next small problem is a cold mint-water stall instead of tea, to avoid echoing The Goat File's tea seller. The story ends on "I'd hope so." A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

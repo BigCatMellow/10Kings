@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, place names within the town and plot details are new and non-canon. The historical explanation for the festival split is a story device, not settled chronology.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/One-Square-Two-Harvests.md) (second pass, in James's voice; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/One-Square-Two-Harvests.md) (third pass, revised against James's full voice guide; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -229,5 +229,6 @@ Drafted 2026-09-27: [One Square Two Harvests](../Drafts/One-Square-Two-Harvests.
 - **DO** — new provisional names: Lissa (Pell's granddaughter), Aurel (gatekeeper), Hobb (miller), the Thistle, Orrin and Bray farms; the old builder is "the Scarth from Kettle Cove," matching [The Greenvale Man](The-Greenvale-Man.md) (C2).
 - **DO** — the land agent's lunch names only his lenders' squeeze, not the ripple chain, so story 1 doesn't read as a conspiracy.
 - **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, third pass** — Prose revised against the full guide: medium sentences, fewer button endings, humor by character. Bettany calls Pell on the records-room trick. There is a new last line. A late-wife backstory was drafted and then removed at James's direction: the guide is a sensibility, not a checklist. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.
