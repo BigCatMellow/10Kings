@@ -9,6 +9,8 @@
 
 The [Framework](Framework.md) says *what* a Sunday Morning story does; this page says how the prose sounds while it does it. Where they pull apart, the voice wins on the sentence and the framework wins on the story's shape.
 
+**Tone and stakes belong to the Framework (James, 2026-09-28: "we need to stick to the Sunday Morning style").** The guide's "that was unexpectedly sad" is welcome only inside the Framework's core promise, "You do not need to brace yourself". A sad moment is said once, briefly, and then the story gives the reader warmth, absurdity or a meal. Nothing punishes a character in public, and hardship stays in the background as context.
+
 Provenance: [Source Register](../Reference/Source-Register.md) §11.
 
 ## How AI should work with this voice

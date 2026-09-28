@@ -56,7 +56,7 @@ They had trained him to do that at the weights school on the plateau, where a we
 
 "What does *quietly* mean?" he asked.
 
-Chief Dorran Pike looked at the scale the way a man looks at a doctor examining a relative. "The pass opens in three days," he said. "The first caravan of the year comes up from the plateau and weighs in here, in public, with the whole town watching. It always has. And the caravans are thin this year. There were attacks on the routes all last season, houses losing loads, half the plateau merchants choosing other passes or not coming up at all. My fees are down by a third. The authority is reviewing my post."
+Chief Dorran Pike looked at the scale the way a man looks at a doctor examining a relative. "The pass opens in three days," he said. "The first caravan of the year comes up from the plateau and weighs in here, in public, with the whole town watching. It always has. And the caravans are thin this year; half the plateau merchants are choosing other passes. My fees are down by a third. The authority is reviewing my post."
 
 "The scale isn't cheating anyone," said Quill. "It's reading heavy. That isn't the same thing."
 
@@ -82,7 +82,7 @@ The Second Gate was the only inn in Icestep, and in winter it was the only warm 
 
 Quill looked at his bowl. "I'm not able to say."
 
-"That means yes," said a woman down the bench. She had her boots up on the rail by the fire and a pipe in one hand and wore a sealskin coat. Tove Marrick had come up from the coast in late autumn with a cartload of salt fish for the plateau, been caught by the first snow, and stayed, and she had been selling fish to the town ever since.
+"That means yes," said a woman down the bench. She had her boots up on the rail by the fire and a pipe in one hand and wore a sealskin coat. Tove Askell had come up from the coast in late autumn with a cartload of salt fish for the plateau, been caught by the first snow, and stayed, and she had been selling fish to the town ever since.
 
 "I'm not able to say," Quill repeated.
 
@@ -190,7 +190,7 @@ Quill copied the date and underlined it. Then he counted forward through the not
 
 "Very."
 
-Tove Marrick came in while he was still writing, to leave a coin for the shrine as she did every week, because the Compass looked after people on roads and she had been stuck on this one since autumn. She saw the date and leaned over his shoulder.
+Tove Askell came in while he was still writing, to leave a coin for the shrine as she did every week, because the Compass looked after people on roads and she had been stuck on this one since autumn. She saw the date and leaned over his shoulder.
 
 "There. That's the night I saw the Gate's roof go."
 
@@ -200,7 +200,7 @@ Tove stopped. She looked at him with something like respect.
 
 "That's exactly what I said." She frowned. "I saw the snow. The roof—" She shook her head. "No. I was told about the roof. I was asleep for the roof. Brisa's stable boy told me in the morning that somebody had been up on the Gate's roof half the night, holding it down against the wind." She took care to use the right form. "Someone I'd lend a boat to told me. I didn't see it."
 
-Quill wrote it down: *told, not saw — someone on the Gate's roof, the night of the storm*. He didn't yet know why it mattered. He only knew he was suddenly, enormously glad that Tove Marrick kept her knowledge in piles.
+Quill wrote it down: *told, not saw — someone on the Gate's roof, the night of the storm*. He didn't yet know why it mattered. He only knew he was suddenly, enormously glad that Tove Askell kept her knowledge in piles.
 
 ---
 
@@ -266,19 +266,15 @@ The chief had spent the whole morning trying to persuade Quill to weigh the cara
 
 The yard went silent. The chief made a small noise.
 
-Quill reported it plainly and exactly, and he didn't hurry. The scale had read heavy by a tenth since the morning after the storm. He named the date from the shrine book, and all round the yard he heard the murmur of people who had spent the winter arguing about that date and had just lost. Then he gave the cause: the town's stone lost off the Second Gate's roof in the storm, and replaced before morning with a Northwind net-stone that also said *one stone* and was not. He held them up, one in each hand, so the whole yard could see.
+Quill reported it plainly and exactly, and he didn't hurry. The scale had read heavy by a tenth since the morning after the storm. He named the date from the shrine book, and all round the yard he heard the murmur of people who had spent the winter arguing about that date and had just lost. Then he gave the cause, and he began with the roof. On the night of the big blow, he said, the Second Gate's roof covering had started to tear loose over a common room full of stranded travelers, and somebody had gone up in the worst wind of the winter and held it down until morning. The shrine book had a pilgrim's note about it: *The Compass keep the innkeeper and her roof.* To hold it, she had tied the corner to the heaviest small thing in the yard, which was the town's stone. The wind took the covering and the stone together. Before morning she put a stone back in the cradle, a Northwind net-stone that also said *one stone*, and was not. He held them both up, one in each hand, so the whole yard could see.
 
-He didn't say who. He didn't need to. Brisa Zell was standing near the front of the crowd with flour on her forearms, and he watched her understand.
+Several people turned to look at Brisa Zell, who was standing near the front of the crowd with flour on her forearms.
 
-"I didn't know," she said. It came out very small for that big voice. "The roof was going. I needed something heavy, so I took the stone, and then the wind took the stone, and I thought one stone was one stone. I put ours in. I didn't *know*."
+"I thought one stone was one stone," she said. "I didn't know."
 
-Quill opened his book. The whole yard watched him do it, and he saw Brisa flinch, and he closed it again. He didn't need it. He had it by heart.
+"Nobody knew," said Quill. He didn't open his book. He didn't need it. "*Precise isn't the same as unkind*," he said. "*Not if you're being precise for somebody.* Brisa Zell said that to me, at the Second Gate, last night. So here it is, precisely.
 
-"*Precise isn't the same as unkind*," he said. "*Not if you're being precise for somebody.* Brisa Zell said that to me, at the Second Gate, last night."
-
-He closed the book.
-
-"The ledger's been worked back to the storm," he told the yard, "and every weighing since is recorded. I can tell every household what it was overcharged for its flour, to the half-measure. I can tell Tove Marrick what she was overcharged in tolls on her fish. It's all written down, and it can all be paid back."
+"The ledger's been worked back to the storm," he told the yard, "and every weighing since is recorded. I can tell every household what it was overcharged for its flour, to the half-measure. I can tell Tove Askell what she was overcharged in tolls on her fish. It's all written down, and it can all be paid back."
 
 There was a pause, and then the whole town started shouting at once.
 
@@ -286,7 +282,7 @@ He had been warned that Icestep settled things by shouting. The town should pay;
 
 Quill did the sum in his book while they shouted, and it came out close enough that he said so, and the yard cheered as though he had done something clever.
 
-Tove Marrick pushed through the crowd to him. "My tolls. What does it come to?"
+Tove Askell pushed through the crowd to him. "My tolls. What does it come to?"
 
 He told her. It was not a small sum; salt fish is heavy, and she had sold a great deal of it.
 
@@ -312,7 +308,7 @@ Grell looked at him over his fish. "You were," he said. "You did." He went back 
 
 The chief stood up in the middle of the room, called for quiet, and made a short speech about the pass authority's commitment to honest weights, the town's pride in its public scale, and how very proud he was that Icestep had chosen to correct its error openly, before the whole season's trade. Everyone let him. Quill, who had the whole morning written down, let him too.
 
-By the fire, Tove Marrick had her boots on the rail and her pipe going, and a ring of stranded travelers and caravan hands and customs clerks around her, and she was telling the story of the scale. She told all of it, from the storm to the stone in the drift, and she tagged every part of it properly. "And then the weigher stood in that yard with a stone in each hand," she was saying, as Quill went past with his bowl, "with the town and Samir Tareh watching, and told everybody exactly what they were owed. I saw it." Then she went straight on to the part about the chief, which she had not seen, and tagged it accordingly, and the whole ring laughed.
+By the fire, Tove Askell had her boots on the rail and her pipe going, and a ring of stranded travelers and caravan hands and customs clerks around her, and she was telling the story of the scale. She told all of it, from the storm to the stone in the drift, and she tagged every part of it properly. "And then the weigher stood in that yard with a stone in each hand," she was saying, as Quill went past with his bowl, "with the town and Samir Tareh watching, and told everybody exactly what they were owed. I saw it." Then she went straight on to the part about the chief, which she had not seen, and tagged it accordingly, and the whole ring laughed.
 
 Late in the evening Samir Tareh took the seat beside Quill with his route book open, and turned it so that Quill could see the page. The entries were short and written in a neat plateau hand: passes, towns, water, yards and scales, a line or two for each. The line above the last one read *Seven Wells — water and guides, one roof*. Below it, in fresh ink, he had written *Icestep — scale honest, corrected in public*.
 

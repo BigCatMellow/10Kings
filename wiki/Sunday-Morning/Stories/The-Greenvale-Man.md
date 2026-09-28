@@ -224,5 +224,6 @@ Drafted 2026-09-27: [The Greenvale Man](../Drafts/The-Greenvale-Man.md). An inde
 - **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. Rask's absolute ("never once used the wide one when Aldo could hear") is kept for the payoff. A flour-smell beat was tried and cut as formula. Silence closers were thinned. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — The story opens on the haul-out rather than a line of dialogue, to vary the collection's openings.
+- **Sunday Morning pass:** the convoy-list aside moves out of the race to the morning after the vote. Aldo's twenty years get a counterweight: they won him Hild.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

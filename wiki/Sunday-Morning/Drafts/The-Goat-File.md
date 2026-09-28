@@ -32,7 +32,7 @@ The gallery laughed the first time the administrator read the new rule, so she r
 
 Nobody laughed the second time.
 
-Seven Wells was a pass town, and pass towns ran on credit the way cisterns ran on rain. The caravans had been thin all year. There had been attacks up the route, houses had lost whole loads, and half the town had borrowed through the summer against an autumn that never came. Everyone in the gallery knew someone who needed that renewal. A good number of them were sitting next to that someone.
+Seven Wells was a pass town, and pass towns ran on credit the way cisterns ran on rain. The caravans had been thin all year, and half the town had borrowed through the summer against an autumn that never came. Everyone in the gallery knew someone who needed that renewal. A good number of them were sitting next to that someone.
 
 Then the senior arbiter stood up with a file under his arm, and the laughter came back, because everyone knew which file it was.
 
@@ -242,7 +242,7 @@ He broke the seals in the reading room under the lamp, with her standing beside 
 
 Wen read it three times.
 
-The first time, he laughed, and put his hand over his mouth because of where he was. The second time he didn't laugh. He thought about the spring before the dry summer, and two young women walking down these stairs arm in arm to seal a joke they expected to collect on together, and then the summer, and then forty years of neither of them saying the other's name. The wager had sat here waiting the whole time. Neither of them had come back to tear it up.
+The first time, he laughed, and put his hand over his mouth because of where he was. The second time he looked at the signatures. Hanne's stood up straight, like a fence post. Dalia's leaned so far forward it seemed to be hurrying to catch up. Under *We each expect to win*, somebody had underlined *each*, twice, and somebody else had underlined it a third time.
 
 The third time he read it, he read it as a clerk.
 
@@ -296,13 +296,15 @@ The ruling was lawful, and the senior arbiter confirmed it from the upper bench 
 
 The senior arbiter paid out at eleven to one to the three people in the gallery who had bet on a ruling. One of them was the tea seller. Wen found out later that she had placed her bet on the first afternoon, before he had even opened the file.
 
+That night the brief relief began, as it always did after Ledger Closing, with the hall's long tables carried out into the square: flatbread and spiced lentils and dried apricots from the caravans, and the whole town arguing over who had always said it would end like this. Several people who had bet against a ruling claimed to have known all along. The tea seller let them.
+
 The administrator sent the hall's books to Port with every deferred claim closed. The lenders renewed the town's credit within the month. Mardin Kesh hired masons for the spring.
 
 The wedding was set for the spring as well. Both houses announced that they would host it, and both houses announced, separately and on the same day, that they would provide the goat. When it was pointed out to each house that the other had also offered a goat, each house replied that the other was of course welcome to provide *a* goat, but that *the* goat would come from them. The matter went to the tea stall. It was expected to stay there for some time.
 
 ---
 
-The senior arbiter found Wen at the counter that evening and sat down on the stool beside him. He had never done that before. He had never, as far as Wen knew, sat down at the tea stall at all.
+The senior arbiter found Wen at the counter late that evening, when the tables were being cleared, and sat down on the stool beside him with a plate of the last of the lentils. He had never done that before. He had never, as far as Wen knew, sat down at the tea stall at all.
 
 He didn't open his book. He put two coins on the counter and didn't say anything for a while.
 
@@ -314,7 +316,13 @@ Wen didn't know what to say to that, so he didn't say anything.
 
 "You bet against me," said Wen.
 
-"I bet against the file." For a moment the showman came back into his face, and then went away again. "It's a different thing. It took me thirty years to see that."
+"I bet against the file." For a moment the showman came back into his face. "It's a different thing. It took me thirty years to see that."
+
+Then he wiped his fingers, opened the little leather book after all, and found a clean page.
+
+"Now," he said. "The matter of which goat. I'm offering evens on the Keshes."
+
+"I'll take the Tarrows," said the tea seller, without looking up.
 
 As the gallery emptied, one of the caravan negotiators came down the stairs and stopped at the counter. He was a tall, quiet man in a traveling coat with a route book under his arm. Wen had noticed him during the reading because he had been the only person in the gallery taking notes.
 

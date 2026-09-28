@@ -54,7 +54,7 @@ There was only one place near enough to borrow a racing boat from, and it was Na
 
 "You're going to. I make barrels."
 
-The cooperage stood at the landward end of the drying racks, out of the wind. Everyone who came in said first that it was warm and then that it was quiet. Along one wall stood the steam box Aldo had built his first winter in the cove, back when he still believed good work was enough to win a town over.
+The cooperage stood at the landward end of the drying racks, out of the wind. Everyone who came in said first that it was warm and then that it was quiet. Along one wall stood the steam box Aldo had built his first winter in the cove, back when he still believed good work was enough to win a town over. It had won him Hild, at least, which he privately considered the better half of the bargain.
 
 Brenna held her hands over the steam box. "You steam oak till it bends and you fit it so tight it holds water without pitch. I've watched you do it."
 
@@ -210,13 +210,13 @@ Somebody coughed.
 
 "I have seen the Greenvale man bail a boat he mended." He used the sight form, the one reserved for what had passed in front of your own eyes, and said it slowly so the whole hall could hear which form it was. "I saw it today, from the slipway. I have not seen Narrow Sound shelter anyone. It is said. That's all it is." He sat down. "We race."
 
+Brenna heard the next morning from a cousin that three coves up the coast had already sent Maris Bleakshore their convoy lists without Narrow Sound on them. Kettle Cove put Narrow Sound on its list that week.
+
 ---
 
 Last Sail came in cold and clear. Half of Narrow Sound walked round the headland to watch from Kettle Cove's shingle, because the course ran past it, as it always had.
 
 Before the start, Sigra Ulfsen came down Kettle Cove's slipway in her racing gear, found Rask, and said, "Thank you." She didn't say what for. Rask nodded once.
-
-Brenna heard later from a cousin that three coves up the coast had already sent their convoy lists to Maris Bleakshore, and none of them had Narrow Sound on it. Kettle Cove put Narrow Sound on its list that week. It was one list, and it was a long coast.
 
 The race was close. Frosted mead cakes went round the shingle in baskets and people ate them with cold fingers and shouted. The *Kittiwake* was ahead at the point, behind at the turn and level on the long run home. Aldo watched from the roof of the cooperage, which Hild said was the only place in the cove high enough to see the race and low enough that he wouldn't be sick.
 

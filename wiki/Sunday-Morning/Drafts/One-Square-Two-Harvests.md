@@ -332,7 +332,7 @@ He was exactly as Bettany had described him: a good coat, a soft voice, sorry ab
 
 "I don't suppose," he said, "there's a seat?"
 
-Pell made one. The agent ate orchard grain and a hand pie and two honey pastries, drank the first of the new Crush wine, and after a while, without being asked, began to talk about his lenders. They had tightened this year, he said, and they were being pulled as well. His house had borrowed to buy notes, and now it needed notes to pay back what it had borrowed. Two valleys over, he said, not unkindly, half the farms had sold to him since the harvest, and he had bought them lunch too.
+Pell made one. The agent ate orchard grain and a hand pie and two honey pastries, drank the first of the new Crush wine, and after a while, without being asked, began to talk about his lenders, who had tightened this year and were pulling on him in turn. Two valleys over, he said, not unkindly, half the farms had sold to him since the harvest, and he had bought them lunch too.
 
 "I'm not a bad man," he said. "I'd like you to understand that. I'm a link in a chain, and I'm being pulled."
 
@@ -359,3 +359,5 @@ The quince in his hand had a small brown bruise on one side. Over four days he h
 Nobody came up the lane. Nobody came all morning. The water court had nothing for him, the committee had nothing for him, and Bettany, who was speaking to him again, was busy counting sacks at the co-op with Idris Salve, who was apparently also counting sacks at the co-op. He had the whole tree and the whole morning, which was exactly what he had wanted for forty years.
 
 He climbed down twice before noon to see whether anyone was coming.
+
+The second time, the Salves' dog was asleep at the foot of the tree, and it had just started to rain, which by his own ruling made it his morning to walk it. He went to find a length of rope.

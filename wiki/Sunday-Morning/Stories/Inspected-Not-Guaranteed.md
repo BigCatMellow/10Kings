@@ -38,14 +38,14 @@ Recurring locations:
 
 - **Tamsin Rake** — an old smith who will not let anything leave her shop merely *attempted*. Dry, exact, secretly kind.
 - **Col Barrowfield** — an apprentice with a Greenvale mother and an Ironcrest father. His masterwork is a pump and settling trough that returns a forge's quench water to its own cistern instead of the farm ditches.
-- **Marta Dunnock** — the other apprentice presenting this year. Her masterwork is a traditional blade, and it is genuinely good.
+- **Kerra Dunnock** — the other apprentice presenting this year. Her masterwork is a traditional blade, and it is genuinely good.
 - **Master Oswin Vey** — the district guildmaster, who is also trying to keep short-hours crews from walking out. He is not a snob: if repair work counts as a masterwork in a year like this, cheap repairs undercut every smith's rates, and his members are already on short hours. Overly serious, runs judgments by the book, and keeps a ledger of water and smoke complaints he is losing.
 - **Nell Haskett** — farmer, town gossip, and unofficial census-taker of everything broken in the valley.
 - **The Quench's keeper** — has heard every forge story ever told and believes none of them, including Wurdren's.
 
 ## Problem
 
-Without a third, unbound judge, the judgments slip past Forge Reawakening and Col and Marta both wait another season. Col's piece may be refused anyway, as plumbing rather than smithing.
+Without a third, unbound judge, the judgments slip past Forge Reawakening and Col and Kerra both wait another season. Col's piece may be refused anyway, as plumbing rather than smithing.
 
 ## Complications
 
@@ -130,7 +130,7 @@ Connection to keep: Col's arc and Wurdren's arc are the same story told twice, a
 | Col's pump "settles the smoke dispute" | `ASSUMED` → **false** | A pump can't fix smoke. The dispute becomes quench-water runoff into farm ditches, which canon lists alongside smoke. |
 | Wurdren's past can be referenced | `UNKNOWN` — [Open Questions](../../Open-Questions.md#wurdren) | Only the sword's age is used. No origin, age, or career events are stated. |
 
-**First principles.** The story must let unglamorous competence win by evidence, give Wurdren a quiet self-recognition, and land at the relighting. Removed convention: a rival apprentice as antagonist. Marta is good, and both pass. The contest is against the guild's definition of craft, not against a person.
+**First principles.** The story must let unglamorous competence win by evidence, give Wurdren a quiet self-recognition, and land at the relighting. Removed convention: a rival apprentice as antagonist. Kerra is good, and both pass. The contest is against the guild's definition of craft, not against a person.
 
 **Counterexample search**
 
@@ -202,7 +202,7 @@ Decomposed to scenes; no scene needs further breakdown.
 | 1 | Tamsin's shop · day 1 | Wurdren arrives. The cracked tang needs a weld, and the fires are cold until the relighting. | the four-way distinction; the week's wait; the cold town | Tamsin: "attempted." |
 | 2 | The Quench · day 1 night | Short-hours crews talk strike and "the Slatehallow lad." The usual unbound judge is stuck on a washed-out road; everyone local is kin to an apprentice, so Vey drafts Wurdren. | why the stranger qualifies; the complaint ledger; the Orin story as gossip | sword story #1 (long) |
 | 3 | Nell's farmyard · day 2 | Wurdren buys eggs and gets the census: broken things, who fixed them, and the fouled ditch below a forge. | Col's repairs everywhere; the quench-water problem | Nell's census starts |
-| 4 | Guild hall · day 3 | First viewing. Marta's blade is good; Col's pump and trough is called plumbing, and Vey says why: short hours, undercut rates. Wurdren asks what "inspected" requires. Next morning, Col's patron letter arrives: unsigned, fine Port paper, "should the guild fail to recognize them." | the rule's wording; Vey's traditionalism; the letter | sword story #2 (shorter) |
+| 4 | Guild hall · day 3 | First viewing. Kerra's blade is good; Col's pump and trough is called plumbing, and Vey says why: short hours, undercut rates. Wurdren asks what "inspected" requires. Next morning, Col's patron letter arrives: unsigned, fine Port paper, "should the guild fail to recognize them." | the rule's wording; Vey's traditionalism; the letter | sword story #2 (shorter) |
 | 5 | Charcoal road · day 4 | Wurdren rides out with the carters; Col comes too. Mud; carts stuck; the farmers' blockade threat. On the ride back Col shows him the letter and reads the phrase aloud, twice, as if testing it; Wurdren holds the paper to the light, sees the lantern watermark, and tells him to take it. | the charcoal deadline; farmers' grievance is water; Wurdren's bad advice; the phrase and watermark made salient (C6) | material limits |
 | 6 | Tamsin's shop · day 5 | Tamsin inspects the sword: ordinary steel, false guarantee, well-kept edge. The good stock has gone to private contracts, so ordinary steel will mend it. | Wurdren's self-recognition; the steel shortage | sword story #3 (one line) |
 | 7 | Lane and ditch · relighting day | Nell walks the judges to Col's work in service: the clear ditch, the repaired gates. Both apprentices pass; Vey concedes on the solvency evidence. | the climax evidence; Vey's own reason to say "inspected" | census pays off |
@@ -244,5 +244,6 @@ Drafted 2026-09-27: [Inspected Not Guaranteed](../Drafts/Inspected-Not-Guarantee
 - **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. The name-reading takes "hours" in both places. The ending stops at Nell's request, without the rate punchline, so it no longer repeats One Square's favor joke. Explaining clauses were cut. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — The climax no longer turns on the rule's wording. The farmers block the charcoal road. Wurdren carries the message he'd refused to deliver on the road, which is behavior changed rather than cleverness. Nell offers the walk, and Vey takes it because he needs the charcoal. The story ends on Tamsin's small punch back in its outline, set up in scene 1; Nell's gate becomes a line in the soft landing. A review of the whole collection followed. Vey orders a Barrowfield trough for every forge on the lane, which answers the farmers' demand and gives Col his first commission. The punch is Tamsin's, borrowed by the guild each year. The ending returns to Nell's gate (P7), "very nearly right", so it isn't a restored object just before The Heavy Scale's.
+- **Sunday Morning pass:** Tamsin says "Some other time" instead of "Good". At The Quench the keeper asks for "the medium one", and Wurdren's whole sword story is now "It's an ordinary sword. Somebody looks after it." That is P5's payoff, told truly instead of untold.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

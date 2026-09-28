@@ -50,13 +50,13 @@ Every named character in the drafts. Mark canon figures `canon`: the script repo
 | Inspected | Wurdren | protagonist of the saga | canon |
 | Inspected | Tamsin Rake | smith | cast |
 | Inspected | Col Barrowfield | apprentice | cast |
-| Inspected | Marta Dunnock | apprentice | cast |
+| Inspected | Kerra Dunnock | apprentice | cast |
 | Inspected | Oswin Vey | guildmaster | cast |
 | Inspected | Nell Haskett | farmer, census-taker | cast |
 | Inspected | Orin Slatehallow | Ironcrest domino figure (gossip) | canon |
 | Heavy Scale | Anselm Quill | weigher | protagonist |
 | Heavy Scale | Brisa Zell | innkeeper | cast |
-| Heavy Scale | Tove Marrick | salt-fish trader | cast |
+| Heavy Scale | Tove Askell | salt-fish trader | cast |
 | Heavy Scale | Dorran Pike | customs chief | cast |
 | Heavy Scale | Grell | repair smith | cast |
 | Heavy Scale | Maudie Vance | shrine keeper | cast |
@@ -81,13 +81,14 @@ Every named character in the drafts. Mark canon figures `canon`: the script repo
 - **No two protagonists share initials,** or a first name's first three letters.
 - **No two names anywhere in the collection share a first name's or surname's first three letters,** unless one is canon or the characters are family in the same story (Ebbe, Lio and Hanne Tarrow).
 - **Don't repeat surname endings** such as -water, -wright or -brook.
-- **Watch crowded letters.** T is crowded (Tamsin, Tarrow, Tareh, Tobiah, Tove). So are H (Hobb, Hild, Hanne, Haskett, Hollis, Halloran) and M (Mardin, Marta, Maris, Marrick, Maudie). Pick a new name from an open letter: U, X, Y, Z, K, Q, and V for first names.
+- **Watch crowded letters.** T is crowded (Tamsin, Tarrow, Tareh, Tobiah, Tove). So is H (Hobb, Hild, Hanne, Haskett, Hollis, Halloran), and A (Aurel, Aldo, Anselm, Amaranth, Arden). Pick a new name from an open letter: U, X, Y, Z, K, Q, and V for first names.
 - **Rename log:**
   - Pim Aldash became **Wen Ostry**: a P.A. clash with Pell Anwick, and crowding with Pell and Pip.
   - Seraph Kesh became **Dalia Kesh**: too close to Mother Seral.
   - Sessa Alderwater became **Sessa Yewbrook**: the Ald- cluster, a second "-water", and then a clash with Wen.
   - Ilo Sedgewater became **Garro Sedgewater**: four I names.
   - Sigra Holm became **Sigra Ulfsen** and Brisa Holloway became **Brisa Zell**: with Hollis, three Hol- names in three stories. The checker caught this on its first run.
+  - Marta Dunnock became **Kerra Dunnock** and Tove Marrick became **Tove Askell**: four Mar- names, one of them canon (Maris).
 - **Expected checker notes:** Scarth appears in One Square and The Greenvale Man on purpose (C2). Tareh and Tarrow share a prefix in one story, but Samir Tareh is canon.
 
 ## Story shapes
@@ -137,10 +138,23 @@ These became tics during drafting. The checker also reports any five-word phrase
 - "the way you might…" similes, more than one per story
 - "a very polite man"; keep it for the C3 callback only
 
+## Sunday Morning guardrails
+
+The collection is Sunday Morning first. Check every pass against the [Framework](Framework.md)'s core promise, "You do not need to brace yourself", before checking it against the voice guide.
+
+- **One sad moment, said once.** Don't tell the same loss two or three ways (The Goat File's estrangement was cut from three tellings to one).
+- **Then give the reader somewhere soft to land:** warmth, absurdity or food right after.
+- **No public shaming.** When a character's mistake is revealed, lead with what they were doing right (Brisa holding the roof before the swapped stone).
+- **Hardship is background, in one line.** No repeated "bad year" paragraphs from story to story. "Still fell elsewhere" gets one line, ideally carried by an object.
+- **Stakes stay human-scale.** One tree, one stall, one boat. Characters don't list the region-wide damage (The Tree's "every stand of forest" was cut).
+- **Every story has a meal and a moment where nothing dramatic happens** (Framework §12 and §21).
+- **Endings land warm.** A showman goes back to being a showman; a lonely morning ends with a dog to walk.
+
 ## Directions to keep improving
 
 For every future pass, in this order of priority:
 
+0. **Sunday Morning first.** Tone and stakes follow the Framework; the voice guide shapes sentences inside it. See the guardrails above.
 1. **Resolution variety over prose polish.** The costliest sameness so far was structural. Check the Story shapes table before touching sentences.
 2. **Let each story take only what it wants from the voice guide.** No beat checklist.
 3. **Name hygiene at L0.** Register every new name here when it's invented, not after drafting.

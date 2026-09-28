@@ -124,7 +124,11 @@ Ismet looked. He had walked that ground three times with a chain and a staff and
 
 In the afternoon, without looking at him, Sessa began to talk. She talked quietly, because of the vigil, and because it was easier to say things to a tree than to a surveyor.
 
-"Naruin's not a fool," she said. "And he isn't paranoid. Plans came through the district this spring, wardens passing them hand to hand. A real road, wide enough for timber wagons, straight through here and up into the forest. Surveyed by people nobody knows, and nobody's said why." A beetle crossed the toe of her boot, and she let it. "His grandmother used to tell him about the timber tithes. Outsiders taking the forest by the wagonload, under agreements the villages were in no position to refuse. So when the plans came, he read them the way she would have. Every path is the first stake of the road, so every warden stands in front of every stake." She looked up at the canopy. "And he isn't wrong. I've seen those plans. Somebody wants that road."
+"Naruin's not a fool," she said. "And he isn't paranoid. Plans came through the district this spring, wardens passing them hand to hand. A real road, wide enough for timber wagons, straight through here and up into the forest. Surveyed by people nobody knows, and nobody's said why." A beetle crossed the toe of her boot, and she let it. "He grew up on his grandmother's stories about the old timber tithes, so when the plans came, he read them the way she would have. Every path is the first stake of the—"
+
+"—*and I will not be told*," roared the debate hall, "*that a conditional is a promise!*"
+
+Sessa waited it out. "Every path is the first stake of the road," she finished. "So every warden stands in front of every stake." She looked up at the canopy. "And he isn't wrong. I've seen those plans. Somebody wants that road."
 
 "And this path?"
 
@@ -142,11 +146,11 @@ He had come to find out what the pledge was worth. It was sixty years old and it
 
 The Weaver-path elder had spent the week under the market arcade writing up the Debates for the community record. She wrote everything down, including a great many things nobody had asked her to. She turned to a fresh page and started writing very fast.
 
-"I'm sorry," Hollis said, and he looked as though he meant it. He was a young man in an old coat with a tired face. "I know how it sounds. My family lends to caravans. We've lent to caravans for a hundred years, and this last season—" He spread his hands. "The attacks. Half our loans went down with the loads. We're not ruined. We're not far off."
+"I'm sorry," Hollis said, and he looked as though he meant it. He was a young man in an old coat with a tired face. "I know how it sounds. My family lends to caravans. It's been a poor year for lending to caravans." He spread his hands. "We're not ruined. We'd just like not to be nearer it."
 
 He took a letter out of his satchel.
 
-"And then this came. Somebody wants to buy the pledge, our old pledge on your tree, and they're offering a good price. Better than good. More than I thought it could possibly be worth." He glanced round at the stalls. "Every other plateau family with an old pledge along the road line got the same letter. My neighbors. They've all sold. I'm the last, so I came to see what it was worth before I did the same."
+"And then this came. Somebody wants to buy the pledge, our old pledge on your tree, and they're offering a good price. Better than good. More than I thought it could possibly be worth." He glanced round at the stalls. "So I came to see what it was worth before I sold it."
 
 Ismet held out his hand, and Hollis gave him the letter.
 
@@ -206,7 +210,7 @@ They told Hollis in the records office in the morning, two days before the fair.
 
 "Whoever buys it profits when the tree comes down," said Ismet, "and holds the right to say yes to whatever brings it down."
 
-"My neighbors sold theirs. All along the line — every old plateau pledge on every stand of forest from here to the uplands. I thought they were the lucky ones." He turned the letter over in his hands. "I suppose the road's coming anyway."
+"My neighbors had letters like this for their old pledges. They sold. I thought they were the lucky ones." He turned the letter over in his hands. "I suppose the road's coming anyway."
 
 "Maybe," said Sessa. "But not through her."
 

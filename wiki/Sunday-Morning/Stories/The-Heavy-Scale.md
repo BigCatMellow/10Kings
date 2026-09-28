@@ -38,7 +38,7 @@ Recurring locations:
 ## Cast
 
 - **Brisa Zell** — Northwind-born innkeeper who feeds everyone snowed in, paying or not.
-- **Tove Marrick, a salt-fish trader** — tags every claim by how she knows it: *I saw it*; *someone I'd lend a boat to told me*; *it is said.*
+- **Tove Askell, a salt-fish trader** — tags every claim by how she knows it: *I saw it*; *someone I'd lend a boat to told me*; *it is said.*
 - **The customs chief** — wants no scandal whatsoever. With fewer caravans this year his post's fees are down and his appointment is under review; he isn't corrupt, just frightened.
 - **The repair smith** — maintains the scale, rude, capable, and innocent.
 - **The shrine keeper** — pilgrim host and quiet historian of who went where.
@@ -244,5 +244,6 @@ Drafted 2026-09-27: [The Heavy Scale](../Drafts/The-Heavy-Scale.md). An independ
 - **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. The ledger no longer counts entries before the change, which fixes a contradiction with the shrine log. The report reads *Error inspected and corrected*. The ending still lands on Tove's "I saw it", a plan item that echoes The Greenvale Man's sight-form walk home. That is for James to decide. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — Tove's "I saw it" moves mid-supper, so The Greenvale Man keeps the collection's sight-form ending to itself. The story closes the next morning on the scale reading true ("Ten stone. True to a hair."), echoing the opening and Grell's phrase. A review of the whole collection followed. Quill closes his book and says Brisa's line from memory (P4 kept, and distinct from Wen reading aloud in The Goat File). The report reads *Error found and corrected*; the soft landing above says "inspected", which is superseded, to keep that word for Inspected, Not Guaranteed.
+- **Sunday Morning pass:** the reveal leads with Brisa holding the roof over the stranded travelers, so the crowd hears a hero before a mistake. Quill never opens his book at her. "I didn't know" is said once. The chief's hardship line is shortened.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

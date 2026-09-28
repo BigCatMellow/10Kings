@@ -85,7 +85,7 @@ The room went quiet in a way Wurdren recognized.
 
 "You can't defer Col. He's been waiting two years."
 
-"Nor Marta."
+"Nor Kerra."
 
 "The rule is the rule." Vey opened his ledger on the bar as though the rule were written in it. It wasn't. What the ledger held, Wurdren later learned, was forty-one pages of farmers' complaints about smoke and water, which Vey was losing one page at a time. "Three judges. Two from the guild, and one bound to no apprentice by blood, craft or debt." He looked around the room. "You'll forgive me. In this town every soul I know is somebody's aunt."
 
@@ -139,9 +139,9 @@ Nell Haskett sold eggs from a table by her farmyard gate, and Wurdren went to bu
 
 "Col's the one who fixes things. Presenting is what the guild calls it."
 
-"And Marta?"
+"And Kerra?"
 
-"Marta makes swords. Lovely ones. Nobody down here needs a sword." She looked him up and down and laughed. "Well. Almost nobody."
+"Kerra makes swords. Lovely ones. Nobody down here needs a sword." She looked him up and down and laughed. "Well. Almost nobody."
 
 She walked him down to the bottom of the yard, where a ditch ran along the edge of her land, carrying water down from the foothills to the fields. It was gray and scummed over, and a line of dead grass along the bank showed how high it had risen in the winter. It smelled flat and metallic, like the inside of a bucket that has held nails.
 
@@ -159,7 +159,7 @@ Wurdren put the eggs very carefully into his coat. "Who says?"
 
 The guild hall had a long, cold room with three judges' benches at one end, and the whole wall opposite the windows was the memorial: row after row of names cut into slate, forge workers who had died on the job or of it, going back further than the oldest house in town. At Forge Reawakening the guild read every one of them aloud before the fires were lit. It took hours, and nobody had ever suggested shortening it.
 
-Marta Dunnock presented first, and her blade was good. Wurdren knew that much. It came up light and alive in his hand, balanced just forward of the guard, and its edge caught the window light in one clean line from heel to point. The two guild masters passed it back and forth between them and said *inspected* to each other in the voice Ironcrest people used for *very, very good*. Marta stood very straight and didn't smile, and Wurdren liked her.
+Kerra Dunnock presented first, and her blade was good. Wurdren knew that much. It came up light and alive in his hand, balanced just forward of the guard, and its edge caught the window light in one clean line from heel to point. The two guild masters passed it back and forth between them and said *inspected* to each other in the voice Ironcrest people used for *very, very good*. Kerra stood very straight and didn't smile, and Wurdren liked her.
 
 Col Barrowfield presented second, and he brought a pump.
 
@@ -281,7 +281,7 @@ At the door he turned back. He started to tell her how he'd come by it.
 
 He heard himself, and stopped.
 
-"Good," said Tamsin, and went back to the blade.
+"Some other time," said Tamsin, not unkindly, and went back to the blade.
 
 ---
 
@@ -333,7 +333,7 @@ Wurdren watched Vey work it through the way he worked through everything, by the
 
 The other two masters looked at each other and nodded.
 
-Both apprentices passed. Marta's blade was inspected in the hall and Col's work was inspected in the valley, and the guild book recorded them on the same page. When Vey read the decision out in the hall that afternoon, Marta walked straight across the hall and shook Col's hand, and said something to him that nobody else heard, and he laughed for the first time all week.
+Both apprentices passed. Kerra's blade was inspected in the hall and Col's work was inspected in the valley, and the guild book recorded them on the same page. When Vey read the decision out in the hall that afternoon, Kerra walked straight across the hall and shook Col's hand, and said something to him that nobody else heard, and he laughed for the first time all week.
 
 ---
 
@@ -349,7 +349,7 @@ Tamsin welded the tang that night. She used ordinary steel and did it perfectly,
 
 Wurdren weighed it in his hand. It was a fine, ordinary sword, and it balanced exactly as it always had.
 
-On his way to The Quench he passed Col's bench, where the new master's tools were laid out for the morning, and saw the letter lying among them: cream paper, folded small, still a little damp at the edges, and unanswered. Col was across the lane with Marta and half the upper street, arguing happily about something, and didn't see him look.
+On his way to The Quench he passed Col's bench, where the new master's tools were laid out for the morning, and saw the letter lying among them: cream paper, folded small, still a little damp at the edges, and unanswered. Col was across the lane with Kerra and half the upper street, arguing happily about something, and didn't see him look.
 
 Wurdren thought about what he had said on the charcoal road. He thought about the ditch and the gates and the pumps and the gear cut from scrap, and about how nobody had needed his advice after all.
 
@@ -357,9 +357,11 @@ At The Quench the keeper put a bowl of forged harvest stew in front of him: barl
 
 "Mended," said Wurdren, and ate his stew.
 
-The keeper watched him for a while, waiting. Nothing else came.
+"Go on, then," said the keeper, when nothing else came. "The medium one."
 
-"Well," said the keeper eventually, sounding almost disappointed. "That's a first." He gave him more stew.
+Wurdren thought about it. "It's an ordinary sword," he said. "Somebody looks after it."
+
+The keeper waited for the rest. There wasn't any. "Well," he said, sounding almost disappointed. "That's a first." He gave him more stew.
 
 He meant to leave the next morning. He stayed two more days instead.
 
