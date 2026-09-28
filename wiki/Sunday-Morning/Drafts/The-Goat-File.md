@@ -18,6 +18,8 @@
 - **One choice with a consequence:** Pim reads the memorandum's last line aloud when he could have skipped it.
 - **One character stops joking:** the senior arbiter.
 
+**Deliberately open (James, 2026-09-28):** whether Hanne and Seraph were more than friends, and whose wedding they expected. Don't resolve it.
+
 Story 3 of 7 in [The Anthology](../Anthology.md). Year 1, late autumn.
 
 ---
