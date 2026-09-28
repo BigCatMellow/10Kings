@@ -2,9 +2,9 @@
 
 ## Status
 
-**Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, businesses and plot details are new and non-canon.
+**Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, businesses and plot details are new and non-canon.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Heavy-Scale.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; the pilot of the [Story Pipeline](../Story-Pipeline.md). The concept below reflects the THINK pass; the original L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Heavy-Scale.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; the pilot of the [Story Pipeline](../Notes/Pipeline.md). The concept below reflects the THINK pass; the original L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -95,7 +95,7 @@ Quill's report reads: *Error inspected and corrected. Cause: weather.* He apolog
 
 ## Larger-world thread
 
-Part of [World Threads](../World-Threads.md) — year 2, early spring.
+Part of [Collection](../Notes/Collection.md#the-web) — year 2, early spring.
 
 | | |
 | --- | --- |
@@ -111,7 +111,7 @@ Part of [World Threads](../World-Threads.md) — year 2, early spring.
 
 ## Development record
 
-Pilot run of the [Story Pipeline](../Story-Pipeline.md). Stage outputs are recorded here so the story page remains the single owner of this story.
+Pilot run of the [Story Pipeline](../Notes/Pipeline.md). Stage outputs are recorded here so the story page remains the single owner of this story.
 
 ### Stage 1 — THINK
 
@@ -179,13 +179,13 @@ World-tie changes to the plan: s2 adds news that Samir rides with the first cara
 
 ### Stage 1c — THINK: reserve methods
 
-Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [The Anthology](../Anthology.md#stage-1--think-collection-level) for the collection-level pass.
+Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
 
 | Method | Failure signal | Finding → change |
 | --- | --- | --- |
 | **Perspective shift** (the chief) | The chief is only an obstacle to honesty. | Fewer caravans mean lower fees and a post under review. His fear is the town's fear in one man. He is allowed the credit at the end, which costs Quill nothing. |
 | **Perspective shift** (Samir) | Samir is only a judge. | In a year of exaggerated reports, an honestly corrected error is rarer than a correct scale. That is why a public correction earns the listing. |
-| **Inversion** (where does the nail still fall?) | Every town is rewarded. | Another pass town, with a genuinely bad scale, comes off Samir's list. One line, told without relish ([World Threads](../World-Threads.md#where-the-nail-still-fell)). |
+| **Inversion** (where does the nail still fall?) | Every town is rewarded. | Another pass town, with a genuinely bad scale, comes off Samir's list. One line, told without relish ([Collection](../Notes/Collection.md#where-the-nail-still-fell)). |
 | **Systems thinking** (cross-story flows) | The caravan arrives from nowhere. | Samir was at Seven Wells' Ledger Closing last autumn ([The Goat File](The-Goat-File.md)); his route book shows it (C4). His cook is the Deepwood cook who later judges the stews in [Three Pots](Three-Pots-at-Three-Moon.md) (C5). |
 
 Changes to the plan: s1 adds the chief's fear; s9 adds the route book's earlier line, the other pass town, the chief's credit and the cook.
@@ -241,7 +241,7 @@ Drafted 2026-09-27: [The Heavy Scale](../Drafts/The-Heavy-Scale.md). An independ
 - **DO** — mechanism made concrete: a steelyard whose one-stone poise rides in a latched cradle nobody opens between services; Grell's two services both fall before the storm. Brisa took the stone to tie down a roof corner. The lighter Northwind net-stone reads about a tenth heavy.
 - **DO** — new provisional names: Chief Dorran Pike, Grell (smith), Maudie Vance (shrine keeper), Garro Sedgewater (the cook; authoritative for C5).
 - **DO** — length about 5,800 words, under the 6–9k target; no scene needed more room. JUDGE can say whether s6 or s9 wants it.
-- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. The ledger no longer counts entries before the change, which fixes a contradiction with the shrine log. The report reads *Error inspected and corrected*. The ending still lands on Tove's "I saw it", a plan item that echoes The Greenvale Man's sight-form walk home. That is for James to decide. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — Tove's "I saw it" moves mid-supper, so The Greenvale Man keeps the collection's sight-form ending to itself. The story closes the next morning on the scale reading true ("Ten stone. True to a hair."), echoing the opening and Grell's phrase. A review of the whole collection followed. Quill closes his book and says Brisa's line from memory (P4 kept, and distinct from Wen reading aloud in The Goat File). The report reads *Error found and corrected*; the soft landing above says "inspected", which is superseded, to keep that word for Inspected, Not Guaranteed.
 - **Sunday Morning pass:** the reveal leads with Brisa holding the roof over the stranded travelers, so the crowd hears a hero before a mistake. Quill never opens his book at her. "I didn't know" is said once. The chief's hardship line is shortened.

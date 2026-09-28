@@ -56,17 +56,15 @@
 - [Character Roster](Story/Character-Roster.md)
 
 **Sunday Morning Stories**
-- [Index](Sunday-Morning/README.md)
-- [Framework](Sunday-Morning/Framework.md)
-- [Applying to Two Sons](Sunday-Morning/Applying-to-Two-Sons.md)
-- [The Anthology](Sunday-Morning/Anthology.md)
-- [World Threads](Sunday-Morning/World-Threads.md)
-- [Story Pipeline](Sunday-Morning/Story-Pipeline.md)
-- [The Drafts](Sunday-Morning/Drafts/README.md)
-- [Voice](Sunday-Morning/Voice.md)
-- [Process Notes](Sunday-Morning/Process-Notes.md)
-- [Collection Registry](Sunday-Morning/Collection-Registry.md)
-- [Storytelling Principles](Sunday-Morning/Storytelling.md)
+- [Stories](Sunday-Morning/README.md)
+- [Drafts](Sunday-Morning/Drafts/README.md)
+- [Notes index](Sunday-Morning/Notes/README.md)
+- [Rules](Sunday-Morning/Notes/Rules.md)
+- [Craft](Sunday-Morning/Notes/Craft.md)
+- [Pipeline](Sunday-Morning/Notes/Pipeline.md)
+- [Collection](Sunday-Morning/Notes/Collection.md)
+- [Registry](Sunday-Morning/Notes/Registry.md)
+- [Decisions](Sunday-Morning/Notes/Decisions.md)
 - [Story Seeds](Sunday-Morning/Stories/Story-Seeds.md)
 
 **Reference**

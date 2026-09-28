@@ -2,11 +2,11 @@
 
 ## Status
 
-**Provisional premise bank.** One-line Sunday Morning premises not yet developed with the full [writing template](../Framework.md#23-writing-prompt-template). Names and details are non-canon.
+**Provisional premise bank.** One-line Sunday Morning premises not yet developed with the full [writing template](../Notes/Sources/Framework.md#23-writing-prompt-template). Names and details are non-canon.
 
 When a seed is developed, give it its own page in this folder and list it in the [folder index](../README.md).
 
-All four seeds are `PARKED`: interesting, not yet given resources. Each carries a possible world thread; when a seed is developed, its thread goes through the pipeline's [world-tie check](../Story-Pipeline.md#world-tie-check). Status labels follow the [Story Pipeline](../Story-Pipeline.md#stage-5--reconcile-keep-the-records-honest).
+All four seeds are `PARKED`: interesting, not yet given resources. Each carries a possible world thread; when a seed is developed, its thread goes through the pipeline's [world-tie check](../Notes/Pipeline.md#world-tie-check). Status labels follow the [Story Pipeline](../Notes/Pipeline.md#stage-5--reconcile-keep-the-records-honest).
 
 ## Seeds
 
@@ -53,4 +53,4 @@ Possible thread: the trader is buying forest goods made scarce by the [fungal di
 ## Related pages
 
 - [Sunday Morning Stories](../README.md)
-- [Applying the Framework to Two Sons](../Applying-to-Two-Sons.md)
+- [Rules](../Notes/Rules.md)

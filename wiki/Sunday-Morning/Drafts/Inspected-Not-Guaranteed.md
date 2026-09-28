@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft, third pass: revised against James's author voice guide ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [Inspected, Not Guaranteed](../Stories/Inspected-Not-Guaranteed.md). History, 2026-09-27 to 28: first written from the story page's scene plan and promise ledger; checked independently; rewritten to notes from James's sample chapters; revised against his full voice guide after he approved the test revision of [The Goat File](The-Goat-File.md). Not yet reviewed at L4. All characters except Wurdren, the guild rule and every business are provisional; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule).
+**L3 draft. Provisional, non-canon.** Prose draft of [Inspected, Not Guaranteed](../Stories/Inspected-Not-Guaranteed.md). Its pass history is in the story page's Stage 3 — DO section. Not yet reviewed at L4. All characters except Wurdren, the guild rule and every business are provisional; see the [promotion rule](../Notes/Rules.md#promotion-rule).
 
 **Fourth pass (uniqueness):** the climax no longer turns on the rule's wording, which the collection had already used too often. On relighting morning the farmers block the charcoal road. Wurdren finally passes on the message he'd refused to carry ("your fires don't light until their water runs clean"), Nell offers the walk, and Vey takes it because he needs the charcoal. Wurdren still doesn't solve anything; he only stops keeping quiet. Tamsin's small punch is hers, borrowed by the guild every year and returned late, which pays off scene 1. Vey orders a trough for every forge on the lane, Col's first commission, which answers the farmers' actual demand. The story ends on Nell's gate, "very nearly right", not on a favor punchline and not on a restored object, which The Heavy Scale now does.
 
@@ -11,9 +11,9 @@
 Canon limits kept in this draft:
 - Nothing about [Wurdren](../../Story/Wurdren.md)'s origin, age, family or past career is stated. His sword story is hearsay about the sword and is always cut off before it reaches him.
 - [Orin Slatehallow](../../Story/Villains-Dominoes.md#orin-slatehallow--ironcrest) appears only as gossip.
-- The patron letter carries the connected-offer markers: unsigned, heavy cream paper with a ship's-lantern watermark, and the phrase "should the guild fail to recognize them." This draft is authoritative for [Anthology C6](../Anthology.md#cross-story-promise-ledger).
+- The patron letter carries the connected-offer markers: unsigned, heavy cream paper with a ship's-lantern watermark, and the phrase "should the guild fail to recognize them." This draft is authoritative for [Collection C6](../Notes/Collection.md#cross-story-promise-ledger).
 
-Story 4 of 7 in [The Anthology](../Anthology.md). Year 2, early spring.
+Story 4 of 7 in [Collection](../Notes/Collection.md). Year 2, early spring.
 
 ---
 

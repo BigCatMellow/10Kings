@@ -74,17 +74,8 @@ The setting should make it possible to follow one damaged bridge, missing carava
 
 Small, human-scale stories set in the world's border towns, festivals and neighborhoods, each one a place where the main conflict's dominoes touch ordinary people who never see the pattern. Writing reference and provisional concepts, not canon.
 
-- [Sunday Morning Stories](Sunday-Morning/README.md) — folder index and story list
-- [Sunday Morning Story Writing Framework](Sunday-Morning/Framework.md)
-- [Applying the Framework to Two Sons](Sunday-Morning/Applying-to-Two-Sons.md)
-- [The Anthology](Sunday-Morning/Anthology.md) — the seven stories as one linked collection
-- [World Threads](Sunday-Morning/World-Threads.md) — where each story sits on the dominoes and current events
-- [Story Pipeline](Sunday-Morning/Story-Pipeline.md) — developing a story with MAPS_L, THINK and PLAN
-- [The Drafts](Sunday-Morning/Drafts/README.md) — all seven stories in prose, in reading order
-- [Voice](Sunday-Morning/Voice.md) — notes on James's prose voice, used for every draft
-- [Process Notes](Sunday-Morning/Process-Notes.md) — how the stories were made and what the process learned
-- [Collection Registry](Sunday-Morning/Collection-Registry.md) — what's already been used, to keep new stories fresh
-- [Storytelling Principles](Sunday-Morning/Storytelling.md) — how to tell the story, from James's Pathwell notes
+- [Sunday Morning Stories](Sunday-Morning/README.md) — the seven stories and drafts, in reading order
+- [Sunday Morning Notes](Sunday-Morning/Notes/README.md) — one index for every note: framework, rules, craft and voice, pipeline, collection, registry, decisions, history
 
 ## Writing and provenance
 

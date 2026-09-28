@@ -2,9 +2,9 @@
 
 ## Status
 
-**Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). Seven Wells, the two houses, all characters and plot details are new and non-canon.
+**Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). Seven Wells, the two houses, all characters and plot details are new and non-canon.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Goat-File.md) (third pass, revised against James's full voice guide as the test story; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Goat-File.md) (third pass, revised against James's full voice guide as the test story; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -87,7 +87,7 @@ Wen closes the file: *Completed. Pending wedding.* The ruling is lawful because 
 
 ## Larger-world thread
 
-Part of [World Threads](../World-Threads.md) — year 1, late autumn.
+Part of [Collection](../Notes/Collection.md#the-web) — year 1, late autumn.
 
 | | |
 | --- | --- |
@@ -103,7 +103,7 @@ Part of [World Threads](../World-Threads.md) — year 1, late autumn.
 
 ## Development record
 
-Developed through the [Story Pipeline](../Story-Pipeline.md), 2026-09-27.
+Developed through the [Story Pipeline](../Notes/Pipeline.md), 2026-09-27.
 
 ### Stage 1 — THINK
 
@@ -166,13 +166,13 @@ World-tie changes to the plan: s1 has the administrator cite the lenders; s3 add
 
 ### Stage 1c — THINK: reserve methods
 
-Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [The Anthology](../Anthology.md#stage-1--think-collection-level) for the collection-level pass.
+Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
 
 | Method | Failure signal | Finding → change |
 | --- | --- | --- |
 | **Perspective shift** (Mardin) | Both elders are equally stubborn for the same reason. | Mardin needs the credit for his cisterns, so he needs closure and can't afford to lose. That bind makes his stubbornness funnier and gives the wager reading real relief. |
 | **Perspective shift** (the senior arbiter) | The hazing is mean. | He failed the same file as a junior. The bet is his way of hoping Wen succeeds; the tea at the end says so. |
-| **Inversion** (where does the nail still fall?) | Forced closures are harmless everywhere. | The tea seller has heard of two towns where they ruined families ([World Threads](../World-Threads.md#where-the-nail-still-fell)). Seven Wells was lucky in its clerk. |
+| **Inversion** (where does the nail still fall?) | Forced closures are harmless everywhere. | The tea seller has heard of two towns where they ruined families ([Collection](../Notes/Collection.md#where-the-nail-still-fell)). Seven Wells was lucky in its clerk. |
 | **Systems thinking** (cross-story flows) | The joined house's value is asserted, not seen. | Caravan negotiators settle debts at Ledger Closing, so Samir is plausibly in the gallery. His one question about water is the joined house's value, made visible, and it lands in his route book for [The Heavy Scale](The-Heavy-Scale.md) (C4). |
 
 Changes to the plan: s2 adds the tea seller's two towns; s8 adds Mardin's cisterns, the arbiter's confession and Samir's question.
@@ -220,8 +220,8 @@ Drafted 2026-09-27: [The Goat File](../Drafts/The-Goat-File.md). An independent 
 
 - **DO** — the s4 clue is made concrete: both elders quote their mothers in the same ten words ("She is only lent. She'll come home in time."). New provisional names: Oriel (custodian), Hanne Tarrow and Dalia Kesh (the mothers). The memorandum dates from the spring before the dry summer.
 - **Open for review** — whether a reader guesses the wedding clause at s5, the story's reconsideration trigger. The draft keeps s5 before s6.
-- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
-- **DO, third pass (test)** — revised against James's [author voice guide](../Voice.md#the-author-voice-guide). Medium sentences by default. Quiet scene endings. Humor distinct per character. The mothers' ended friendship is left as a quiet sad beat, with both sons' lines "She never said your mother's name again" / "Mine neither." Wen chooses to read the memorandum's last line aloud rather than spare the elders, because exact words are how Seven Wells takes people seriously. The senior arbiter drops the showman act for his confession. The tea seller's paid cups turn, once, into a free one, and she bet on a ruling on the first afternoon. The plot and all ledger items are unchanged.
+- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, third pass (test)** — revised against James's [author voice guide](../Notes/Sources/Voice-Guide.md). Medium sentences by default. Quiet scene endings. Humor distinct per character. The mothers' ended friendship is left as a quiet sad beat, with both sons' lines "She never said your mother's name again" / "Mine neither." Wen chooses to read the memorandum's last line aloud rather than spare the elders, because exact words are how Seven Wells takes people seriously. The senior arbiter drops the showman act for his confession. The tea seller's paid cups turn, once, into a free one, and she bet on a ruling on the first afternoon. The plot and all ledger items are unchanged.
 - **Decision (James, 2026-09-28): the mothers' relationship stays open.** The memorandum never says whose wedding Hanne and Dalia expected, and the draft leaves room to read them as more than friends: arm in arm, never apart, the quarrel, "She never said your mother's name again." Keep it that way. Future passes must not add a line that names the intended couple or settles the relationship either way.
 - **Sunday Morning pass (James, 2026-09-28: "stick to the Sunday Morning style"):** the mothers' estrangement is now told once, in the hall. In the archive, Wen notices their signatures and the triple-underlined *each*. The Ledger Closing relief gets its meal. The senior arbiter's confession ends with the showman back, taking evens on which goat. The "bad year" exposition is cut to a clause.
 

@@ -2,20 +2,15 @@
 
 ## Status
 
-**Writing reference, not setting canon.** This page tracks what the Sunday Morning collection has already used — names, story shapes, devices and stock phrases — so new stories and new passes stay fresh instead of quietly repeating the last ones. It was created 2026-09-28, after James noticed two protagonists with the same initials.
+**Writing reference, not setting canon.** This page owns what the Sunday Morning collection has already used (names, story shapes, devices and stock phrases) so new stories and new passes stay fresh instead of quietly repeating the last ones. It was created 2026-09-28, after James noticed two protagonists with the same initials ([D8](Decisions.md)).
 
-It works with:
-- [Process Notes](Process-Notes.md) — the history and the lessons;
-- the [Story Pipeline](Story-Pipeline.md) — the method, which now requires a registry check at PLAN and after every drafting pass;
-- the checker script, `tools/sunday_morning_check.py` at the repository root. It reads the Names table below and the drafts, and reports clashes and repeated phrases.
-
-Run it from the repository root:
+The checker, `tools/sunday_morning_check.py`, reads the Names table below and the drafts, and reports clashes, repeated phrases and filter verbs. Run it from the repository root:
 
 ```text
 python3 tools/sunday_morning_check.py
 ```
 
-**Update this page whenever a story adds or renames a character, or changes its shape.** The script only knows what is written here.
+**Update this page whenever a story adds or renames a character, or changes its shape.** The script only knows what is written here. When to run it is part of the [Pipeline](Pipeline.md#after-every-pass).
 
 ## Names
 
@@ -138,27 +133,15 @@ These became tics during drafting. The checker also reports any five-word phrase
 - "the way you might…" similes, more than one per story
 - "a very polite man"; keep it for the C3 callback only
 
-## Sunday Morning guardrails
+## Checker exceptions
 
-The collection is Sunday Morning first. Check every pass against the [Framework](Framework.md)'s core promise, "You do not need to brace yourself", before checking it against the voice guide.
+The checker's `ALLOW` and `LINKED` lists hold deliberate exceptions. Keep them short, and give each a reason here.
 
-- **One sad moment, said once.** Don't tell the same loss two or three ways (The Goat File's estrangement was cut from three tellings to one).
-- **Then give the reader somewhere soft to land:** warmth, absurdity or food right after.
-- **No public shaming.** When a character's mistake is revealed, lead with what they were doing right (Brisa holding the roof before the swapped stone).
-- **Hardship is background, in one line.** No repeated "bad year" paragraphs from story to story. "Still fell elsewhere" gets one line, ideally carried by an object.
-- **Stakes stay human-scale.** One tree, one stall, one boat. Characters don't list the region-wide damage (The Tree's "every stand of forest" was cut).
-- **Every story has a meal and a moment where nothing dramatic happens** (Framework §12 and §21).
-- **Endings land warm.** A showman goes back to being a showman; a lonely morning ends with a dog to walk.
-
-## Directions to keep improving
-
-For every future pass, in this order of priority:
-
-1. **Sunday Morning first.** Tone and stakes follow the Framework; the voice guide shapes sentences inside it. See the guardrails above.
-2. **Tell it like the sequel, then stop.** The most common remaining fault is explaining after showing. Run the [Storytelling Principles](Storytelling.md) diagnostic, and prefer cuts.
-3. **Resolution variety over prose polish.** The costliest sameness so far was structural. Check the Story shapes table before touching sentences.
-4. **Let each story take only what it wants from the voice guide.** No beat checklist.
-5. **Name hygiene at L0.** Register every new name here when it's invented, not after drafting.
-6. **Look for the replacement tic.** After removing a repeated move, check that another hasn't taken its place (punchlines became silences, which became "wrote it down").
-7. **Leave deliberate ambiguity alone.** Some gaps are decisions. The mothers' relationship in The Goat File stays open (James, 2026-09-28).
-8. **James's guide sets AI's role.** Structure, continuity and repetition are AI's strengths here. Jokes, emotional lines and final rhythm are James's to own.
+| Exception | Where | Reason |
+| --- | --- | --- |
+| "wrote it down" | The Goat File, The Heavy Scale | Wen's and Quill's exact-quotation trait, not a scene-ending tic |
+| "for thirty years" | The Goat File | Approved test-story text (Oriel, the senior arbiter) |
+| "the way you might" | The Goat File | Approved test-story text; once only |
+| "very polite man" | Three Pots | The C3 callback to One Square |
+| Linked phrases (commons, press yard, route book, first caravan, blight took, and others) | across stories | Cross-story promises C1–C6 on [Collection](Collection.md#cross-story-promise-ledger) repeat on purpose |
+| "traveling coat" | across stories | One character described in two stories |

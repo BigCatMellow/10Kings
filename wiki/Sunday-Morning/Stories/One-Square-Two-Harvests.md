@@ -2,9 +2,9 @@
 
 ## Status
 
-**Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, place names within the town and plot details are new and non-canon. The historical explanation for the festival split is a story device, not settled chronology.
+**Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, place names within the town and plot details are new and non-canon. The historical explanation for the festival split is a story device, not settled chronology.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/One-Square-Two-Harvests.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/One-Square-Two-Harvests.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -88,7 +88,7 @@ The square keeps both names. Bettany and Idris read the surplus accounting toget
 
 ## Larger-world thread
 
-Part of [World Threads](../World-Threads.md) — year 1, early autumn. The first story on the calendar.
+Part of [Collection](../Notes/Collection.md#the-web) — year 1, early autumn. The first story on the calendar.
 
 | | |
 | --- | --- |
@@ -104,7 +104,7 @@ Part of [World Threads](../World-Threads.md) — year 1, early autumn. The first
 
 ## Development record
 
-Developed through the [Story Pipeline](../Story-Pipeline.md), 2026-09-27.
+Developed through the [Story Pipeline](../Notes/Pipeline.md), 2026-09-27.
 
 ### Stage 1 — THINK
 
@@ -170,14 +170,14 @@ World-tie changes to the plan: s2 adds the rumor and the agent's visits; s3 has 
 
 ### Stage 1c — THINK: reserve methods
 
-Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [The Anthology](../Anthology.md#stage-1--think-collection-level) for the collection-level pass.
+Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
 
 | Method | Failure signal | Finding → change |
 | --- | --- | --- |
 | **Perspective shift** (the land agent) | The agent is a faceless threat. | He is one link further down the same [ripple chain](../../Story/Current-Events.md#example-ripple-chain): his lenders have tightened too. His lunch with Pell gives the chain a human face without explaining it. |
-| **Perspective shift** (Idris) | The patron house's generosity costs nothing. | Buying the grain stretches the house's credit. That is also what makes the Council's desk notice it ([World Threads](../World-Threads.md#the-view-from-the-desks)); inside the story it is simply a brave choice. |
+| **Perspective shift** (Idris) | The patron house's generosity costs nothing. | Buying the grain stretches the house's credit. That is also what makes the Council's desk notice it ([Collection](../Notes/Collection.md#the-view-from-the-desks)); inside the story it is simply a brave choice. |
 | **Inversion** (premortem: how would the ending fail?) | Sunplains money rescues Greenvale: a patronizing ending. | Bettany makes it a sale at a fair price and keeps the co-op's accounting. Greenvale's stewardship and Sunplains' public generosity meet as equals. |
-| **Systems thinking** (cross-story flows) | The story's grain goes nowhere after the festival. | The sacks, stamped with both names, travel north as winter grain ([Anthology C1](../Anthology.md#cross-story-promise-ledger)); the old builder at the table sets up [The Greenvale Man](The-Greenvale-Man.md)'s letters (C2). |
+| **Systems thinking** (cross-story flows) | The story's grain goes nowhere after the festival. | The sacks, stamped with both names, travel north as winter grain ([Collection C1](../Notes/Collection.md#cross-story-promise-ledger)); the old builder at the table sets up [The Greenvale Man](The-Greenvale-Man.md)'s letters (C2). |
 
 Changes to the plan: s7 adds Bettany's terms; s8 adds the agent's lunch, the stamped sacks and the old builder.
 
@@ -228,7 +228,7 @@ Drafted 2026-09-27: [One Square Two Harvests](../Drafts/One-Square-Two-Harvests.
 - **DO** — the clause point stays within two lines: the Greenvale text uses the form for a thing done once ("kept"), the later Sunplains translation made it a standing rule. The reconsideration trigger did not fire.
 - **DO** — new provisional names: Lissa (Pell's granddaughter), Aurel (gatekeeper), Hobb (miller), the Thistle, Orrin and Bray farms; the old builder is "the Scarth from Kettle Cove," matching [The Greenvale Man](The-Greenvale-Man.md) (C2).
 - **DO** — the land agent's lunch names only his lenders' squeeze, not the ripple chain, so story 1 doesn't read as a conspiracy.
-- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide: medium sentences, fewer button endings, humor by character. Bettany calls Pell on the records-room trick. There is a new last line. A late-wife backstory was drafted and then removed at James's direction: the guide is a sensibility, not a checklist. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — The discovery changes from an old ledger to an object: each festival's old banner, stored in Hobb's mill loft, turns out to be half of one banner. It was cut for filing and tagged with the year after the settlement. The joined banner hangs over the square at the festival. This takes the story off the collection's repeated "read an old record" reveal. The land agent also names a valley where the farms did sell (World Threads: where the nail still fell). A review of the whole collection followed. The clause's date now comes from the committee copy Bettany has read eleven times without looking at the year. The joined banner hangs over the well-head, not either side's steps. The water court's request moves into the festival (plan s8), and the story ends with Pell alone in the tree, climbing down twice to see whether anyone is coming. That avoids a favor ending right before The Greenvale Man's.
 - **Sunday Morning pass:** the land agent's lenders are trimmed to one clause. The lonely last morning ends with the Salves' dog, rain, and Pell's own ruling that it's his morning to walk it.

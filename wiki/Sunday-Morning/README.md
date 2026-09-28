@@ -2,54 +2,34 @@
 
 ## Status
 
-**Writing reference and provisional story concepts — not setting canon.**
+**Writing reference and provisional story concepts, not setting canon.**
 
-This folder collects the Sunday Morning Story framework and the small, human-scale Two Sons stories developed with it.
-
-A Sunday Morning Story is a character-driven, human-scale story with a clear premise, manageable stakes, a memorable community, a strong supporting cast, gentle absurdity, and enough warmth that spending time in the world is as enjoyable as finding out what happens. In Two Sons, these stories live in the texture layer of the setting — border towns, festivals, food, language habits — and each one is also a place where the [main conflict](../Story/Main-Conflict.md)'s domino web touches a single community, unseen by the people there.
+A Sunday Morning Story is a character-driven, human-scale story with a clear premise, manageable stakes, a memorable community, a strong supporting cast, gentle absurdity, and enough warmth that spending time in the world is as enjoyable as finding out what happens. In Two Sons these stories live in the texture layer of the setting (border towns, festivals, food, language habits), and each is also a place where the [main conflict](../Story/Main-Conflict.md)'s domino web touches a single community, unseen by the people there.
 
 ## Start here
 
-1. [Sunday Morning Story Writing Framework](Framework.md) — the imported framework, setting-agnostic.
-2. [Applying the Framework to Two Sons](Applying-to-Two-Sons.md) — how the framework maps onto this setting, the world-tie rule (connected, not driven), and the extra checklist.
-3. [The Anthology](Anthology.md) — the seven stories as one linked collection: reading order, cross-story promises, and the collection-level THINK and PLAN pass.
-4. [World Threads](World-Threads.md) — how the seven stories sit on the dominoes and current events: a shared calendar, the ripple chain and each story's thread.
-5. [Story Pipeline](Story-Pipeline.md) — how to develop a story from concept to reviewed draft using MAPS_L with THINK and PLAN, and what the development levels L0–L4 mean.
-6. [The Drafts](Drafts/README.md) — the seven stories in prose, in reading order.
-7. [Voice](Voice.md) — how James's prose sounds; the drafts follow it.
-8. [Process Notes](Process-Notes.md) — how the stories were actually made, what went wrong, and the lessons now in the pipeline.
-9. [Collection Registry](Collection-Registry.md) — names, story shapes, devices and stock phrases already used, plus the freshness checker.
-10. [Storytelling Principles](Storytelling.md) — how to tell the story: James's principles from Pathwell (write it like the sequel, therefore/but, memory before loss), adapted for Sunday Morning.
+**[Sunday Morning Notes](Notes/README.md)** is the one index for everything about how these stories are written: the framework, the rules, craft and voice, the pipeline, the collection, the registry, James's decisions and the history. It also has a question-by-question router.
+
+Every story page and draft is **Provisional**; see [canon discipline](Notes/Rules.md#canon-discipline).
 
 ## Stories
 
-| Story | Setting | Clock | Mode | World thread | Level |
+In reading order. Why this order, and what the reader knows after each, is on [Collection](Notes/Collection.md#reading-order).
+
+| # | Story | Setting | Mode | Draft | Level |
 | --- | --- | --- | --- | --- | --- |
-| [Inspected, Not Guaranteed](Stories/Inspected-Not-Guaranteed.md) | Stonefield Forge (Ironcrest / Greenvale) | Forge Reawakening, early spring | character / competition — features Wurdren | short hours; a patron letter (Orin's pattern) | [L3 Drafted](Drafts/Inspected-Not-Guaranteed.md) |
-| [One Square, Two Harvests](Stories/One-Square-Two-Harvests.md) | Harveston Vale (Greenvale / Sunplains) | Harvest Home + Wine Crush, early autumn | community / competition | grain collapse; unsafe-grain rumor (Rosana's seed) | [L3 Drafted](Drafts/One-Square-Two-Harvests.md) |
-| [The Heavy Scale at Icestep Summit](Stories/The-Heavy-Scale.md) | Icestep Summit (Northwind / Highridge) | Pass Opening + Ice Breaking, early spring | mystery | caravan attacks; Samir Tareh's route survey | [L3 Drafted](Drafts/The-Heavy-Scale.md) (pipeline pilot) |
-| [Three Pots at Three Moon](Stories/Three-Pots-at-Three-Moon.md) | a Port neighborhood | Three Moon Festival, early autumn | family / food | displaced families; smuggling rumor | [L3 Drafted](Drafts/Three-Pots-at-Three-Moon.md) |
-| [The Tree With a Debt](Stories/The-Tree-With-a-Debt.md) | Twilighthollow (Deepwood / Highridge) | Canopy Vigil + Midsummer Debates | romance | road plans; a buyer for the pledge (Naruin) | [L3 Drafted](Drafts/The-Tree-With-a-Debt.md) |
-| [The Greenvale Man](Stories/The-Greenvale-Man.md) | Kettle Cove, Northwind (provisional) | Last Sail, late autumn | competition / belonging | piracy; the Narrow Sound rumor (Maris) | [L3 Drafted](Drafts/The-Greenvale-Man.md) |
-| [The Goat File](Stories/The-Goat-File.md) | Seven Wells, Highridge (provisional) | Ledger Closing, late autumn | comedy / mystery | Port credit tightening | [L3 Drafted](Drafts/The-Goat-File.md) |
+| 1 | [One Square, Two Harvests](Stories/One-Square-Two-Harvests.md) | Harveston Vale (Greenvale / Sunplains) | community / competition | [~5,000 words](Drafts/One-Square-Two-Harvests.md) | L3, fourth pass |
+| 2 | [The Greenvale Man](Stories/The-Greenvale-Man.md) | Kettle Cove, Northwind (provisional) | competition / belonging | [~3,400 words](Drafts/The-Greenvale-Man.md) | L3, fourth pass |
+| 3 | [The Goat File](Stories/The-Goat-File.md) | Seven Wells, Highridge (provisional) | comedy / mystery | [~4,800 words](Drafts/The-Goat-File.md) | L3, third pass (the test story) |
+| 4 | [Inspected, Not Guaranteed](Stories/Inspected-Not-Guaranteed.md) | Stonefield Forge (Ironcrest / Greenvale) | character / competition; features Wurdren | [~5,000 words](Drafts/Inspected-Not-Guaranteed.md) | L3, fourth pass |
+| 5 | [The Heavy Scale at Icestep Summit](Stories/The-Heavy-Scale.md) | Icestep Summit (Northwind / Highridge) | mystery; the pipeline pilot | [~5,100 words](Drafts/The-Heavy-Scale.md) | L3, fourth pass |
+| 6 | [The Tree With a Debt](Stories/The-Tree-With-a-Debt.md) | Twilighthollow (Deepwood / Highridge) | romance | [~4,200 words](Drafts/The-Tree-With-a-Debt.md) | L3, fourth pass |
+| 7 | [Three Pots at Three Moon](Stories/Three-Pots-at-Three-Moon.md) | a Port neighborhood | family / food | [~4,300 words](Drafts/Three-Pots-at-Three-Moon.md) | L3, fourth pass |
 
-Undeveloped premises: [Story Seeds](Stories/Story-Seeds.md).
+About 31,800 words in all. Every draft has also had the Sunday Morning and storytelling passes; none has had its L4 review ([what L4 needs](Notes/Pipeline.md#stage-4--judge-review-independently)).
 
-## Canon discipline
-
-- Every story page is **Provisional**. Characters, new towns, businesses, customs and plot details invented for a story are not setting canon.
-- Linked owner pages remain authoritative. The festivals, border-town details and recipes these stories use carry their own status labels there, and several are themselves provisional.
-- Stories must not settle items in [Open Questions](../Open-Questions.md), including Wurdren's biography.
-- To promote a story detail into canon, add it to its owner page with an explicit status and link back here. See [Promotion rule](Applying-to-Two-Sons.md#promotion-rule).
-
-## Adding a story
-
-1. Pick a single community and a clock (festival, season or material limit).
-2. Fill in the framework's [writing template](Framework.md#23-writing-prompt-template).
-3. Run the framework [checklist](Framework.md#20-the-sunday-morning-story-checklist) and the [Two Sons addendum](Applying-to-Two-Sons.md#checklist-addendum).
-4. Create a page in `Stories/` using the existing pages' section order: Status, Premise, Protagonist, Place, Cast, Problem, Complications, Running elements, Emotional core, Climax, Soft landing, World anchors.
-5. Add it to the table above at **L0**, then develop it through the [Story Pipeline](Story-Pipeline.md), updating its level as it moves.
+Undeveloped premises: [Story Seeds](Stories/Story-Seeds.md). To add a story: [Pipeline, Stage 0](Notes/Pipeline.md#stage-0--add-a-story).
 
 ## Provenance
 
-The framework was imported on 2026-09-27; the stories were developed in the same session. See [Source Register](../Reference/Source-Register.md) §10.
+The framework was imported on 2026-09-27, and the stories were developed over 2026-09-27 and 2026-09-28. See [Source Register](../Reference/Source-Register.md) §10–11 and [History](Notes/History.md).

@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft, third pass: revised against James's author voice guide ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [Three Pots at Three Moon](../Stories/Three-Pots-at-Three-Moon.md). History, 2026-09-27 to 28: first written from the story page's scene plan and promise ledger; checked independently; rewritten to notes from James's sample chapters; revised against his full voice guide after he approved the test revision of [The Goat File](The-Goat-File.md). Not yet reviewed at L4. The neighborhood, the permit rules, the family and its serving ritual are provisional. The ritual belongs to this family and to one Deepwood village, not to Deepwood as a whole. See the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule).
+**L3 draft. Provisional, non-canon.** Prose draft of [Three Pots at Three Moon](../Stories/Three-Pots-at-Three-Moon.md). Its pass history is in the story page's Stage 3 — DO section. Not yet reviewed at L4. The neighborhood, the permit rules, the family and its serving ritual are provisional. The ritual belongs to this family and to one Deepwood village, not to Deepwood as a whole. See the [promotion rule](../Notes/Rules.md#promotion-rule).
 
 **Fourth pass (uniqueness):** Jory wears an interpreter's collar, not ink, to separate him from Wen in The Goat File. The stall form comes out of Amaranth Doss's own desk drawer, not a forgotten cabinet, so it doesn't echo The Goat File's untouched archive.
 
@@ -20,7 +20,7 @@ No beats were added; the story's weight is already in Jory's bowl.
 
 Cross-story details match the drafts they come from: the caravan cook is Garro Sedgewater from [The Heavy Scale](The-Heavy-Scale.md) (C5), and Mrs. Arden's polite man is the land agent from [One Square, Two Harvests](One-Square-Two-Harvests.md) (C3), unnamed in both.
 
-Story 7 of 7 in [The Anthology](../Anthology.md). Year 2, early autumn.
+Story 7 of 7 in [Collection](../Notes/Collection.md). Year 2, early autumn.
 
 ---
 

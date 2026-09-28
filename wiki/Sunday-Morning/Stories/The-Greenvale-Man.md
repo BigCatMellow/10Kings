@@ -2,9 +2,9 @@
 
 ## Status
 
-**Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). Kettle Cove, Narrow Sound, all characters and plot details are new and non-canon. The regatta is a story detail attached to the provisional Last Sail festival, not established custom.
+**Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). Kettle Cove, Narrow Sound, all characters and plot details are new and non-canon. The regatta is a story detail attached to the provisional Last Sail festival, not established custom.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Greenvale-Man.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Greenvale-Man.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -86,7 +86,7 @@ On the walk home Rask tells the story of the test launch tagged *I saw it*, then
 
 ## Larger-world thread
 
-Part of [World Threads](../World-Threads.md) — year 1, late autumn.
+Part of [Collection](../Notes/Collection.md#the-web) — year 1, late autumn.
 
 | | |
 | --- | --- |
@@ -102,7 +102,7 @@ Part of [World Threads](../World-Threads.md) — year 1, late autumn.
 
 ## Development record
 
-Developed through the [Story Pipeline](../Story-Pipeline.md), 2026-09-27.
+Developed through the [Story Pipeline](../Notes/Pipeline.md), 2026-09-27.
 
 ### Stage 1 — THINK
 
@@ -166,12 +166,12 @@ World-tie changes to the plan: s4 adds Maris's call and the rumor; s5 sets the t
 
 ### Stage 1c — THINK: reserve methods
 
-Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [The Anthology](../Anthology.md#stage-1--think-collection-level) for the collection-level pass.
+Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
 
 | Method | Failure signal | Finding → change |
 | --- | --- | --- |
 | **Perspective shift** (Narrow Sound) | The rival cove is only a rival. | Narrow Sound has lost a boat to raiders too; the rumor wounds them. The rower's brief thanks carries what the regatta meant to them without a speech. |
-| **Inversion** (where does the nail still fall?) | One cove's refusal defeats the rumor. | Three other coves have already cut Narrow Sound out of their convoys ([World Threads](../World-Threads.md#where-the-nail-still-fell)). Kettle Cove holds; the coast doesn't. |
+| **Inversion** (where does the nail still fall?) | One cove's refusal defeats the rumor. | Three other coves have already cut Narrow Sound out of their convoys ([Collection](../Notes/Collection.md#where-the-nail-still-fell)). Kettle Cove holds; the coast doesn't. |
 | **Systems thinking** (cross-story flows) | Aldo's Greenvale is abstract. | Northwind imports grain in winter, so Harveston's stamped sacks can reach the cove's stores (C1); the retired builder lives in Harveston Vale, and his letter describes the double festival (C2). Aldo, homesick, recognizes both; nobody else needs to. |
 | **Counterexample search** on the links | Do the links make Greenvale feel close enough to undercut Aldo's outsiderness? | **Survives.** They make it feel far: a sack and a letter are all that arrive. |
 
@@ -221,7 +221,7 @@ Drafted 2026-09-27: [The Greenvale Man](../Drafts/The-Greenvale-Man.md). An inde
 
 - **DO** — Rask's oak is the plank that goes into the hull (P6); the green plank goes on the fire.
 - **DO** — new provisional name: Sigra Ulfsen, Narrow Sound's champion rower. The flour sack carries the Salve house's hurried purchase stamp, matching [One Square](One-Square-Two-Harvests.md) (C1).
-- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. Rask's absolute ("never once used the wide one when Aldo could hear") is kept for the payoff. A flour-smell beat was tried and cut as formula. Silence closers were thinned. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — The story opens on the haul-out rather than a line of dialogue, to vary the collection's openings.
 - **Sunday Morning pass:** the convoy-list aside moves out of the race to the morning after the vote. Aldo's twenty years get a counterweight: they won him Hild.

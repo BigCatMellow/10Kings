@@ -174,8 +174,8 @@ Use this instead of reopening the large compendia for normal work.
 | What seasonal festivals exist as working material? | [Festivals and Seasonal Life](../Culture/Festivals-and-Seasonal-Life.md) |
 | How does food change through migration? | [Food Diaspora and Adaptation](../Culture/Food-Diaspora-and-Adaptation.md) |
 | How do I make a scene feel like the world existed yesterday? | [Worldbuilding Breath](Worldbuilding-Breath.md) |
-| How do I write a small, low-stakes story in this world? | [Sunday Morning Stories](../Sunday-Morning/README.md) |
-| How do I develop a story from concept to draft? | [Story Pipeline](../Sunday-Morning/Story-Pipeline.md) |
+| How do I write a small, low-stakes story in this world? | [Sunday Morning Stories](../Sunday-Morning/README.md), then the [Sunday Morning Notes](../Sunday-Morning/Notes/README.md) index |
+| How do I develop a story from concept to draft? | [Story Pipeline](../Sunday-Morning/Notes/Pipeline.md) |
 | Is an older fixed claim still canon? | Find the current owner page; if unresolved, [Open Questions](../Open-Questions.md) wins over legacy certainty |
 
 ## Known unresolved areas exposed by the import
@@ -239,13 +239,13 @@ Use it when:
 **Uploaded:** `sunday_morning_story_writing_framework.md`
 **SHA-256:** `2da82acf388908b76c30cd534a834d9bf8a5716c8b8c0b46a10b290c660be1a7`
 
-Disposition: **promoted as non-canon writing reference** to [Sunday Morning Story Writing Framework](../Sunday-Morning/Framework.md).
+Disposition: **promoted as non-canon writing reference** to [Sunday Morning Story Writing Framework](../Sunday-Morning/Notes/Sources/Framework.md).
 
 The framework is setting-agnostic. It was classified as **compatible**: it adds a story mode without asserting anything about the world. Its text is preserved unchanged below a status header; it was not duplicated into `legacy-notes/`.
 
 The same session developed seven Sunday Morning story concepts and four premise seeds by applying the framework to the current wiki. These were added as **provisional story concepts**:
 
-- [Applying the Framework to Two Sons](../Sunday-Morning/Applying-to-Two-Sons.md) — mapping, background rule and checklist addendum (writing reference)
+- Applying the Framework to Two Sons — mapping, background rule and checklist addendum (writing reference); now [Rules](../Sunday-Morning/Notes/Rules.md)
 - [Sunday Morning Stories](../Sunday-Morning/README.md) — folder index
 - seven story pages and [Story Seeds](../Sunday-Morning/Stories/Story-Seeds.md) under `Sunday-Morning/Stories/`
 
@@ -267,7 +267,7 @@ Reconciliation notes:
 | [`BigCatMellow/Pilot_Projects`](https://github.com/BigCatMellow/Pilot_Projects) `main` — root README, `PORTFOLIO.md`, `project-control/` THINK / PLAN / Writing Bible cards, `THINK_PROJECT.md`, THINK roadmaps 03 and `think/01–03`, wave-1 method cards, PLAN roadmaps 05 and `plan/README.md`, `MAPSL_PLAN_BASELINE.md`, `SYSTEM_MAP.md` | `306b14d` |
 | Pilot_Projects branch `writing-bible-bootstrap` — `writing-bible/README.md`, `ROADMAP.md`, roadmap approval, and five research files (humor repetition and callbacks; narrative promises; reader memory; culture, status and expertise; revision and criticism) | `7c27621` |
 
-Disposition: **adapted as non-canon writing method** in [Story Pipeline](../Sunday-Morning/Story-Pipeline.md).
+Disposition: **adapted as non-canon writing method** in [Story Pipeline](../Sunday-Morning/Notes/Pipeline.md).
 
 Classification: **compatible**. The sources govern how work is done, not facts about Two Sons, so no owner page changed.
 
@@ -278,10 +278,11 @@ Reconciliation notes:
 - Using these methods here is not evidence about THINK or PLAN and should not be cited as such.
 - Pilot application: [The Heavy Scale at Icestep Summit](../Sunday-Morning/Stories/The-Heavy-Scale.md) moved from L0 to L2. Its THINK pass corrected four premise problems (winter traffic, the weight physics, the caravan master as victim, the confession). The L0 version is preserved in git history at `3427bdd`.
 - Full application, same day: the other six stories were taken to L2 the same way. Each story page's Development record holds its THINK pass, PLAN handoff, scene plan and promise ledger; no story detail was promoted to canon.
-- World integration, same day, at James's direction: the "background only" rule was replaced by [connected, not driven](../Sunday-Morning/Applying-to-Two-Sons.md#the-world-tie-rule-connected-not-driven), and every story gained a Larger-world thread ([World Threads](../Sunday-Morning/World-Threads.md)). The legacy domino notes (`legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md`) supplied only the idea of tiny "nail" dominoes; their Villain goal, peace-summit plan and named guilds conflict with or go beyond the live wiki and were **not** used. The story calendar and all attributions are provisional.
-- Deeper THINK and PLAN, same day, at James's request: a collection-level pass ([The Anthology](../Sunday-Morning/Anthology.md)) and a reserve-method pass on every story (each page's Stage 1c). Every reserve method is tied to a named failure signal, following THINK's rule that extra methods must be earned; this is hands-on use, not THINK evidence.
+- World integration, same day, at James's direction: the "background only" rule was replaced by [connected, not driven](../Sunday-Morning/Notes/Rules.md#the-world-tie-rule-connected-not-driven), and every story gained a Larger-world thread ([Collection](../Sunday-Morning/Notes/Collection.md#the-web)). The legacy domino notes (`legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md`) supplied only the idea of tiny "nail" dominoes; their Villain goal, peace-summit plan and named guilds conflict with or go beyond the live wiki and were **not** used. The story calendar and all attributions are provisional.
+- Deeper THINK and PLAN, same day, at James's request: a collection-level pass ([Collection](../Sunday-Morning/Notes/Collection.md)) and a reserve-method pass on every story (each page's Stage 1c). Every reserve method is tied to a named failure signal, following THINK's rule that extra methods must be earned; this is hands-on use, not THINK evidence.
 - Drafting, same day, at James's request: all seven stories were drafted to L3 ([The Drafts](../Sunday-Morning/Drafts/README.md)), each from its own scene plan. A fresh subagent pass checked the drafts against their plans and the cross-story ledger, and its findings were fixed. Drafting decisions that change a plan are recorded in each story page's Stage 3 section. No detail was promoted to canon.
-- Voice, same day: James shared two short chapters of his own fiction as voice samples. They are **not** stored in the repo. Only the observed habits are recorded, in [Voice](../Sunday-Morning/Voice.md), and all seven drafts were rewritten to them. The sample chapters contribute no setting facts.
-- Pathwell storytelling principles, 2026-09-28: read from the public repository [BigCatMellow-Archive/Pathwell](https://github.com/BigCatMellow-Archive/Pathwell) at commit `085fd77` (`Writing-Principles.md`, `Quick-Diagnostic.md`, `Story/Story_Files/forbidden_patterns.md`, `Story/Story_Files/pathwell_prose_voice.md`, `Story/insights/INS-0001-unpaid-plot-debts-must-be-paid-on-page.md`). Classification: **compatible**, craft only, with no setting facts. Adapted in [Storytelling Principles](../Sunday-Morning/Storytelling.md), with each principle marked as carrying over, adapted, or in tension with the Sunday Morning Framework. Nothing in the Pathwell repository was changed.
-- Author voice guide, same day: James supplied an in-depth analysis of his writing style (`Aspirational Author Voice Handoff`, SHA-256 `a2542d19f98e1afcb1ed842fd85d157e823d847f229894d2ce129fdae85cd75d`). It is reproduced verbatim in [Voice](../Sunday-Morning/Voice.md) and is now that page's authority; the sample-chapter notes are secondary. Classification: **compatible**, about craft only, with no setting facts. It corrects the earlier notes' overweighting of fragments.
+- Voice, same day: James shared two short chapters of his own fiction as voice samples. They are **not** stored in the repo. Only the observed habits are recorded, now on [Craft](../Sunday-Morning/Notes/Craft.md#voice), and all seven drafts were rewritten to them. The sample chapters contribute no setting facts.
+- Pathwell storytelling principles, 2026-09-28: read from the public repository [BigCatMellow-Archive/Pathwell](https://github.com/BigCatMellow-Archive/Pathwell) at commit `085fd77` (`Writing-Principles.md`, `Quick-Diagnostic.md`, `Story/Story_Files/forbidden_patterns.md`, `Story/Story_Files/pathwell_prose_voice.md`, `Story/insights/INS-0001-unpaid-plot-debts-must-be-paid-on-page.md`). Classification: **compatible**, craft only, with no setting facts. Adapted in [Craft](../Sunday-Morning/Notes/Craft.md), with each principle marked as carrying over, adapted, or in tension with the Sunday Morning Framework. Nothing in the Pathwell repository was changed.
+- Author voice guide, same day: James supplied an in-depth analysis of his writing style (`Aspirational Author Voice Handoff`, SHA-256 `a2542d19f98e1afcb1ed842fd85d157e823d847f229894d2ce129fdae85cd75d`). It is reproduced verbatim in [Author Voice Guide](../Sunday-Morning/Notes/Sources/Voice-Guide.md) and is the authority on how the prose sounds; the sample-chapter notes, now on [Craft](../Sunday-Morning/Notes/Craft.md#voice), are secondary. Classification: **compatible**, about craft only, with no setting facts. It corrects the earlier notes' overweighting of fragments.
+- Notes reorganized, 2026-09-28, at James's request: the nine flat Sunday Morning note pages were consolidated into [Sunday Morning Notes](../Sunday-Morning/Notes/README.md), one owner per concept under MAPS_L's information lifecycle. Both imported sources (the framework and the voice guide) moved unchanged to `Sunday-Morning/Notes/Sources/`. Duplicated rules, lessons, reading orders and check logs were merged into their owners; the old-to-new page map is in [History](../Sunday-Morning/Notes/History.md#where-the-old-pages-went). No content about the setting changed.
 

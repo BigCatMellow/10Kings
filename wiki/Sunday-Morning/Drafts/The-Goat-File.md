@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft, third pass: revised against James's author voice guide ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [The Goat File](../Stories/The-Goat-File.md). History, all 2026-09-27: first written from the story page's scene plan and promise ledger; checked independently; rewritten to notes from James's sample chapters; then revised against his full voice guide as a single test story, before the other six are touched. Not yet reviewed at L4. Seven Wells, both houses, the archive deposit practice and every character except Samir Tareh are provisional; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule). Samir appears only as an ordinary caravan negotiator.
+**L3 draft. Provisional, non-canon.** Prose draft of [The Goat File](../Stories/The-Goat-File.md). Its pass history is in the story page's Stage 3 — DO section. Not yet reviewed at L4. Seven Wells, both houses, the archive deposit practice and every character except Samir Tareh are provisional; see the [promotion rule](../Notes/Rules.md#promotion-rule). Samir appears only as an ordinary caravan negotiator.
 
 **What this pass changed** (for James to judge against the guide):
 - **Rhythm:** medium sentences for ordinary movement; fragments only for comic timing and the reveal.
@@ -20,7 +20,7 @@
 
 **Deliberately open (James, 2026-09-28):** whether Hanne and Dalia were more than friends, and whose wedding they expected. Don't resolve it.
 
-Story 3 of 7 in [The Anthology](../Anthology.md). Year 1, late autumn.
+Story 3 of 7 in [Collection](../Notes/Collection.md). Year 1, late autumn.
 
 ---
 

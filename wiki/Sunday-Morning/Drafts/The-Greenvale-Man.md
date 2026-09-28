@@ -2,13 +2,13 @@
 
 ## Status
 
-**L3 draft, third pass: revised against James's author voice guide ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [The Greenvale Man](../Stories/The-Greenvale-Man.md). History, 2026-09-27 to 28: first written from the story page's scene plan and promise ledger; checked independently; rewritten to notes from James's sample chapters; revised against his full voice guide after he approved the test revision of [The Goat File](The-Goat-File.md). Not yet reviewed at L4. Kettle Cove, Narrow Sound, the regatta and every character are provisional; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule). Northwind's two "we"s and its evidential forms are rendered in English, following [Language and Thought](../../Culture/Language-and-Thought.md#northwind-languages); no conlang words are invented.
+**L3 draft. Provisional, non-canon.** Prose draft of [The Greenvale Man](../Stories/The-Greenvale-Man.md). Its pass history is in the story page's Stage 3 — DO section. Not yet reviewed at L4. Kettle Cove, Narrow Sound, the regatta and every character are provisional; see the [promotion rule](../Notes/Rules.md#promotion-rule). Northwind's two "we"s and its evidential forms are rendered in English, following [Language and Thought](../../Culture/Language-and-Thought.md#northwind-languages); no conlang words are invented.
 
 **Fourth pass (uniqueness):** the story opens on the haul-out, not on a line of dialogue, since five of the seven drafts opened that way.
 
 **Third pass:** prose only. It uses medium sentences by default, fewer punchline scene endings, and humor that differs by character. Hild collects rumors the way other people collect shells. Aldo is polite to a fault. Rask uses grammar as a weapon. Brenna is blunt. No beats were added; the story's weight is already in the "we" and in Narrow Sound's lost boat.
 
-Story 2 of 7 in [The Anthology](../Anthology.md). Year 1, late autumn.
+Story 2 of 7 in [Collection](../Notes/Collection.md). Year 1, late autumn.
 
 ---
 

@@ -2,13 +2,14 @@
 
 ## Status
 
-**Writing reference — not setting canon.**
+**Source, kept verbatim. Writing reference, not setting canon.**
 
 This page preserves the Sunday Morning Story framework as imported on 2026-09-27. It is setting-agnostic: it describes a story *mode*, not facts about Two Sons.
 
-- How the framework maps onto this setting: [Applying the Framework to Two Sons](Applying-to-Two-Sons.md)
-- Story concepts developed with it: [Sunday Morning Stories](README.md)
-- Provenance: [Source Register](../Reference/Source-Register.md) §10
+- How it applies to Two Sons, and the tone guardrails the collection learned: [Rules](../Rules.md)
+- Where it sits among the notes: [Notes index](../README.md#order-of-authority). It decides tone and stakes.
+- Story concepts developed with it: [Sunday Morning Stories](../../README.md)
+- Provenance: [Source Register](../../../Reference/Source-Register.md) §10
 
 The text below is the imported framework, unchanged.
 

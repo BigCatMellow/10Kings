@@ -2,15 +2,15 @@
 
 ## Status
 
-**L3 draft, third pass: revised against James's author voice guide ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [The Tree With a Debt](../Stories/The-Tree-With-a-Debt.md). History, 2026-09-27 to 28: first written from the story page's scene plan and promise ledger; checked independently; rewritten to notes from James's sample chapters; revised against his full voice guide after he approved the test revision of [The Goat File](The-Goat-File.md). Not yet reviewed at L4. Every character except Naruin Mossglade is provisional, as are the tree, the pledge and its wording, and the lien practice; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule). Naruin stays offstage. Deepwood's animacy classes are rendered in English, following [Language and Thought](../../Culture/Language-and-Thought.md#deepwood-languages); no conlang words are invented.
+**L3 draft. Provisional, non-canon.** Prose draft of [The Tree With a Debt](../Stories/The-Tree-With-a-Debt.md). Its pass history is in the story page's Stage 3 — DO section. Not yet reviewed at L4. Every character except Naruin Mossglade is provisional, as are the tree, the pledge and its wording, and the lien practice; see the [promotion rule](../Notes/Rules.md#promotion-rule). Naruin stays offstage. Deepwood's animacy classes are rendered in English, following [Language and Thought](../../Culture/Language-and-Thought.md#deepwood-languages); no conlang words are invented.
 
 **Fourth pass (uniqueness):** the story opens on the market master's plan, not on a line of dialogue, since five of the seven drafts opened that way. The gift-or-debt argument no longer ends with both words written side by side; that device belongs to One Square's sacks.
 
 **Third pass:** prose only. It uses medium sentences by default, fewer punchline scene endings, and humor that differs by character. Ismet footnotes himself. Sessa is guarded. The market master is harried. The Weaver-path elder writes everything down. Contract refuses. No beats were added; the story stays a light romance.
 
-The buyer's letter carries the connected-offer markers, matching the authoritative draft, [Inspected, Not Guaranteed](Inspected-Not-Guaranteed.md): unsigned, heavy cream paper with a ship's-lantern watermark, and "should the market fail to recognize its worth" ([Anthology C6](../Anthology.md#cross-story-promise-ledger)). The clause mechanism is recorded on the story page, Stage 3.
+The buyer's letter carries the connected-offer markers, matching the authoritative draft, [Inspected, Not Guaranteed](Inspected-Not-Guaranteed.md): unsigned, heavy cream paper with a ship's-lantern watermark, and "should the market fail to recognize its worth" ([Collection C6](../Notes/Collection.md#cross-story-promise-ledger)). The clause mechanism is recorded on the story page, Stage 3.
 
-Story 6 of 7 in [The Anthology](../Anthology.md). Year 2, midsummer.
+Story 6 of 7 in [Collection](../Notes/Collection.md). Year 2, midsummer.
 
 ---
 

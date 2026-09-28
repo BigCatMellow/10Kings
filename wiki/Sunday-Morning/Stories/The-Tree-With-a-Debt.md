@@ -2,9 +2,9 @@
 
 ## Status
 
-**Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, the tree, the lien and plot details are new and non-canon.
+**Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, the tree, the lien and plot details are new and non-canon.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Tree-With-a-Debt.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Tree-With-a-Debt.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -95,7 +95,7 @@ The tree ends up with a name in both languages and a clean ledger. The herb fair
 
 ## Larger-world thread
 
-Part of [World Threads](../World-Threads.md) — year 2, midsummer.
+Part of [Collection](../Notes/Collection.md#the-web) — year 2, midsummer.
 
 | | |
 | --- | --- |
@@ -111,7 +111,7 @@ Part of [World Threads](../World-Threads.md) — year 2, midsummer.
 
 ## Development record
 
-Developed through the [Story Pipeline](../Story-Pipeline.md), 2026-09-27.
+Developed through the [Story Pipeline](../Notes/Pipeline.md), 2026-09-27.
 
 ### Stage 1 — THINK
 
@@ -176,13 +176,13 @@ World-tie changes to the plan: s1 adds Naruin's order; s5 adds the buyer's offer
 
 ### Stage 1c — THINK: reserve methods
 
-Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [The Anthology](../Anthology.md#stage-1--think-collection-level) for the collection-level pass.
+Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
 
 | Method | Failure signal | Finding → change |
 | --- | --- | --- |
 | **Perspective shift** (Naruin) | Naruin reads as an alarmist the story proves wrong. | His fear is earned: the plans are real, and Deepwood remembers the [timber tithes](../../History/Contested-Memory.md#the-timber-tithes--deepwood-closure-traditions). Sessa explains this to Ismet during the vigil; the story never says Naruin is wrong, only that this path was negotiable. |
 | **Perspective shift** (Hollis) | Hollis's greed is the only reason he'd sell. | His family lends to caravans, and the [caravan attacks](../../Story/Current-Events.md#caravan-attacks) have soured their loans. Refusing the buyer costs him something real, which makes the guardianship a sacrifice. |
-| **Inversion** (where does the nail still fall?) | The road is stopped by one pledge. | The buyer already holds his neighbors' pledges; the road is still coming, just not through this tree ([World Threads](../World-Threads.md#where-the-nail-still-fell)). |
+| **Inversion** (where does the nail still fall?) | The road is stopped by one pledge. | The buyer already holds his neighbors' pledges; the road is still coming, just not through this tree ([Collection](../Notes/Collection.md#where-the-nail-still-fell)). |
 | **Counterexample search** on the ending | Does Hollis's sacrifice make the ending sad? | **Narrows.** The town's gift of the principal and his new cold mint-water stall give him a livelihood here; he isn't ruined, just not rich. |
 
 Changes to the plan: s4 adds why Naruin is afraid; s5 adds Hollis's bad loans and the neighbors who sold.
@@ -244,7 +244,7 @@ Drafted 2026-09-27: [The Tree With a Debt](../Drafts/The-Tree-With-a-Debt.md). A
 - **Routed to THINK and resolved in draft** — the clause mechanism, which the Climax above leaves implicit. The pledge text says only "for as long as it stands." An old plateau convention carries a standing pledge's debt, uncallable, until the condition ends, so nothing is owed while the tree stands and everything comes due when it falls. The pledge also carries the consent right. For sixty years the holder has had every reason to want the tree down and the only legal power to stop anyone felling it; nobody knew. Renewing it as a guardianship keeps the power and waives the payout. The Climax above has been updated to match.
 - **DO** — Hollis's early kind act (the reconsideration trigger): he unloads the mail cart and gives Pip a honey stick before naming his sum. The Vigil falls on the Debates' opening day; Hollis arrives at their close.
 - **DO** — Ismet names the watermark as a Port stationer's and thinks nothing more of it, as C6 requires.
-- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. Narrator jokes were cut to one ("cured nothing but money"). Ismet doesn't write down the fourth word for old. Hollis's next small problem is a cold mint-water stall instead of tea, to avoid echoing The Goat File's tea seller. The story ends on "I'd hope so." A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — The story opens on the market master's plan rather than a line of dialogue, to vary the collection's openings. The gift-or-debt argument is left unresolved rather than written side by side, which is One Square's device.
 - **Sunday Morning pass:** the stakes come back to one tree. Hollis's neighbors are one line, not the whole road line or "every stand of forest". The timber-tithe history is cut to a clause, and the debate hall interrupts it. The caravan-attack exposition is cut.

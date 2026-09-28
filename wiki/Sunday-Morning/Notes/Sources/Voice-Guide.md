@@ -1,49 +1,12 @@
-# Voice
+# Author Voice Guide
 
 ## Status
 
-**Writing reference — not setting canon.** This page owns how James's prose should sound. It has two sources:
+**Source, kept verbatim. Writing reference, not setting canon.** This is James's in-depth analysis of his own writing style, supplied on 2026-09-27 as `Aspirational Author Voice Handoff`. SHA-256 of the file as received: `a2542d19f98e1afcb1ed842fd85d157e823d847f229894d2ce129fdae85cd75d`. Don't edit the text below. How to use it is on [Craft](../Craft.md#voice). In the [order of authority](../README.md#order-of-authority), it decides how sentences sound, inside the tone and stakes the [Framework](Framework.md) sets.
 
-1. **The author voice guide** (below, verbatim). James supplied it on 2026-09-27 as an in-depth analysis of his writing style. **It is the authority.** SHA-256 of the file as received: `a2542d19f98e1afcb1ed842fd85d157e823d847f229894d2ce129fdae85cd75d`.
-2. **Observations from two sample chapters** of his (a Pathwell and Elizabeth story), shared the same day. The chapters are not stored here. These notes are secondary evidence and give way to the guide wherever the two disagree.
+Provenance: [Source Register](../../../Reference/Source-Register.md) §11.
 
-The [Framework](Framework.md) says *what* a Sunday Morning story does; this page says how the prose sounds while it does it. Where they pull apart, the voice wins on the sentence and the framework wins on the story's shape.
-
-**Tone and stakes belong to the Framework (James, 2026-09-28: "we need to stick to the Sunday Morning style").** The guide's "that was unexpectedly sad" is welcome only inside the Framework's core promise, "You do not need to brace yourself". A sad moment is said once, briefly, and then the story gives the reader warmth, absurdity or a meal. Nothing punishes a character in public, and hardship stays in the background as context.
-
-Provenance: [Source Register](../Reference/Source-Register.md) §11.
-
-## How AI should work with this voice
-
-The guide sets the division of labor ("AI Collaboration Guidance", below): lean on AI for continuity, structure, motivation, pacing, action clarity, repeated beats and thematic consistency; be **cautious** with AI for jokes, emotional language, philosophical statements, character-defining dialogue, metaphors, narrator commentary and final sentence rhythm. Every AI-drafted Sunday Morning story sits inside that caution: it is a scaffold for James to write over, not a substitute voice.
-
-## Correction to the first voice notes
-
-The first version of this page, taken from the sample chapters alone, overweighted fragments and one-line paragraphs. The guide is explicit:
-
-- **Ordinary movement:** mostly clean, medium-length sentences.
-- **Fragments:** for danger and comic timing, not the default.
-- **Reflection and emotion:** longer sentences that carry accumulation and memory.
-- **Avoid** a manuscript made entirely of rapid fragments, and avoid every scene ending on a joke.
-
-The sample-chapter habits still hold where the guide agrees with them: starting in motion, dialogue carrying scenes, humor from character contrast and mundane worries, feeling through smell and taste, grief carried by objects, callbacks, and a turn on the last line.
-
-## Where the current drafts stand against the guide
-
-Assessed 2026-09-27 against [the drafts](Drafts/README.md) (second pass). The third pass (2026-09-28) addressed the rhythm, endings and shared-humor gaps. James also directed that the guide be applied as a sensibility, not as a checklist of beats per story.
-
-| Guide says | The drafts | Gap |
-| --- | --- | --- |
-| Rhythm varies: medium sentences by default, fragments for danger and comedy | Fragments and one-line paragraphs almost everywhere; a "Then X." habit | **Large** |
-| Not every scene ends on a joke; not every line is quotable | Most scenes end on a button line | **Large** |
-| Not everyone shares the same sense of humor | Tamsin, Hild, the tea seller, Brisa, the keeper and the permit clerk all use the same dry deadpan | **Large** |
-| "That was unexpectedly sad": laughter and grief close together | Present in places (Brisa at the scale, Jory's bowl, the sword), but rarely allowed to stay quiet | Medium |
-| Philosophy through question → choice → consequence, discovered, not delivered | The questions are there (what makes something irreplaceable, ownership, protecting versus controlling), but mostly implicit in the plot | Medium |
-| The comic character sometimes stops joking | Few characters drop the act (Pell nearly; Mother Seral once) | Medium |
-| Emotion arrives through objects and small things | Mostly met: the quince, the sword, the chipped bowl, the stamped sack | Small |
-| Mundane concerns during big events | Mostly met | Small |
-
-## The author voice guide
+## The guide
 
 ### North Star
 
@@ -586,10 +549,3 @@ Beautiful without constantly trying to be beautiful.
 The reader should come for the characters and the strange things happening to them.
 
 The deeper questions should follow them home.
-
-## Related pages
-
-- [Sunday Morning Story Writing Framework](Framework.md)
-- [Story Pipeline](Story-Pipeline.md) — voice problems route to DO (a line) or to James (taste)
-- [The Drafts](Drafts/README.md)
-- [Worldbuilding Breath](../Reference/Worldbuilding-Breath.md) — scene-level texture guidance

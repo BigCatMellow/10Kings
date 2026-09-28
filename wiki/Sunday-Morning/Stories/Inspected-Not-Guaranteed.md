@@ -2,9 +2,9 @@
 
 ## Status
 
-**Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, businesses and plot details are new and non-canon. Wurdren's biography is not settled by anything here.
+**Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, businesses and plot details are new and non-canon. Wurdren's biography is not settled by anything here.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/Inspected-Not-Guaranteed.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/Inspected-Not-Guaranteed.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -86,7 +86,7 @@ The fires are relit and the names on the memorial wall are read. Tamsin welds th
 
 ## Larger-world thread
 
-Part of [World Threads](../World-Threads.md) — year 2, early spring.
+Part of [Collection](../Notes/Collection.md#the-web) — year 2, early spring.
 
 | | |
 | --- | --- |
@@ -102,7 +102,7 @@ Part of [World Threads](../World-Threads.md) — year 2, early spring.
 
 ## Development record
 
-Developed through the [Story Pipeline](../Story-Pipeline.md), 2026-09-27.
+Developed through the [Story Pipeline](../Notes/Pipeline.md), 2026-09-27.
 
 ### Stage 1 — THINK
 
@@ -170,7 +170,7 @@ World-tie changes to the plan: s2 adds short hours and the Slatehallow talk; s4 
 
 ### Stage 1c — THINK: reserve methods
 
-Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [The Anthology](../Anthology.md#stage-1--think-collection-level) for the collection-level pass.
+Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
 
 | Method | Failure signal | Finding → change |
 | --- | --- | --- |
@@ -241,7 +241,7 @@ Drafted 2026-09-27: [Inspected Not Guaranteed](../Drafts/Inspected-Not-Guarantee
 - **DO** — Wurdren's sword story is hearsay about the sword and is always interrupted before it reaches him; no origin, age, family or career event is stated (human boundary respected).
 - **DO** — the connected-offer markers appear in s4 (the letter's arrival) and s5 (Col reads the phrase aloud; Wurdren sees the watermark), as C6 requires.
 - **DO** — three carts reach the washout on day 4 and wait for the fourth, so the charcoal deadline still binds on relighting day.
-- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. The name-reading takes "hours" in both places. The ending stops at Nell's request, without the rate punchline, so it no longer repeats One Square's favor joke. Explaining clauses were cut. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — The climax no longer turns on the rule's wording. The farmers block the charcoal road. Wurdren carries the message he'd refused to deliver on the road, which is behavior changed rather than cleverness. Nell offers the walk, and Vey takes it because he needs the charcoal. The story ends on Tamsin's small punch back in its outline, set up in scene 1; Nell's gate becomes a line in the soft landing. A review of the whole collection followed. Vey orders a Barrowfield trough for every forge on the lane, which answers the farmers' demand and gives Col his first commission. The punch is Tamsin's, borrowed by the guild each year. The ending returns to Nell's gate (P7), "very nearly right", so it isn't a restored object just before The Heavy Scale's.
 - **Sunday Morning pass:** Tamsin says "Some other time" instead of "Good". At The Quench the keeper asks for "the medium one", and Wurdren's whole sword story is now "It's an ordinary sword. Somebody looks after it." That is P5's payoff, told truly instead of untold.

@@ -2,11 +2,11 @@
 
 ## Status
 
-**L3 draft, third pass: revised against James's author voice guide ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [One Square, Two Harvests](../Stories/One-Square-Two-Harvests.md). History, all 2026-09-27 to 28: first written from the story page's scene plan and promise ledger; checked independently; rewritten to notes from James's sample chapters; revised against his full voice guide after he approved the test revision of [The Goat File](The-Goat-File.md). Not yet reviewed at L4. Every name, custom and historical detail is provisional and follows the story page's canon limits; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule).
+**L3 draft. Provisional, non-canon.** Prose draft of [One Square, Two Harvests](../Stories/One-Square-Two-Harvests.md). Its pass history is in the story page's Stage 3 — DO section. Not yet reviewed at L4. Every name, custom and historical detail is provisional and follows the story page's canon limits; see the [promotion rule](../Notes/Rules.md#promotion-rule).
 
 **What this pass changes:** mostly prose. It uses medium sentences by default, fewer punchline scene endings, and humor that differs by character. Pell insists he's retired while arbitrating everything. Bettany wields her ledger. Idris hides terror inside ornate courtesy. Hobb bills for his patience. Aurel recites the sluice schedule when he's nervous. Lissa is simply blunt. The one addition the story itself suggested: Bettany calls Pell on the trick that got her into the mill loft. The guide is applied as a sensibility, not a checklist, so no stock grief or choice beat is added. Also new in scene 1: Lissa's "I just did". **Fourth pass (uniqueness):** the discovery is now an object, not a document. The two festivals' old banners, stored in Hobb's mill loft, turn out to be halves of one banner, cut for filing. This moves the story off the collection's repeated "read an old record" reveal. The land agent also mentions a valley where the farms did sell. The water court's request moves into the festival, so the story no longer ends on a favor, which The Greenvale Man does next. It now ends with Pell alone in his tree, climbing down twice to see whether anyone is coming.
 
-Story 1 of 7 in [The Anthology](../Anthology.md). Year 1, early autumn.
+Story 1 of 7 in [Collection](../Notes/Collection.md). Year 1, early autumn.
 
 ---
 

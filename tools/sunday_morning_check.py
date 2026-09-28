@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Freshness checker for the Sunday Morning story collection.
 
-Reads the Names table in wiki/Sunday-Morning/Collection-Registry.md and the
+Reads the Names table in wiki/Sunday-Morning/Notes/Registry.md and the
 prose drafts in wiki/Sunday-Morning/Drafts/, then reports:
 
   1. name clashes: protagonists sharing initials; names in different stories
@@ -18,7 +18,7 @@ import collections, glob, os, re, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SM = os.path.join(ROOT, "wiki", "Sunday-Morning")
-REGISTRY = os.path.join(SM, "Collection-Registry.md")
+REGISTRY = os.path.join(SM, "Notes", "Registry.md")
 DRAFTS = os.path.join(SM, "Drafts")
 
 STOCK = [
@@ -27,7 +27,7 @@ STOCK = [
     r"\bthe way you might\b", r"\bvery polite man\b",
 ]
 # Deliberate exceptions: (story file stem, stock-phrase pattern). Keep this short,
-# and give each entry a reason in Collection-Registry.md.
+# and give each entry a reason under "Checker exceptions" in Notes/Registry.md.
 ALLOW = {
     ("The-Goat-File", r"\bwrote it down\b"),        # Wen's exact-quotation trait; approved text
     ("The-Goat-File", r"\bfor thirty years\b"),     # approved text (Oriel, the senior arbiter)
@@ -50,7 +50,7 @@ def load_names():
     text = open(REGISTRY, encoding="utf-8").read()
     m = re.search(r"<!-- registry:names:start -->(.*?)<!-- registry:names:end -->", text, re.S)
     if not m:
-        sys.exit("Names table markers not found in Collection-Registry.md")
+        sys.exit("Names table markers not found in Notes/Registry.md")
     rows = []
     for line in m.group(1).splitlines():
         cells = [c.strip() for c in line.strip().strip("|").split("|")]

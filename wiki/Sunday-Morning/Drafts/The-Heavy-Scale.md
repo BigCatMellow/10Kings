@@ -2,15 +2,15 @@
 
 ## Status
 
-**L3 draft, third pass: revised against James's author voice guide ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [The Heavy Scale at Icestep Summit](../Stories/The-Heavy-Scale.md). History, 2026-09-27 to 28: first written from the story page's scene plan and promise ledger; checked independently; rewritten to notes from James's sample chapters, with an opening he approved; revised against his full voice guide after he approved the test revision of [The Goat File](The-Goat-File.md). Not yet reviewed at L4. Every character except Samir Tareh is provisional, as are the businesses and the shared unit name "stone"; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule). The weigher's employer stays "the pass authority," as the story page leaves it. Samir appears only as an ordinary caravan negotiator.
+**L3 draft. Provisional, non-canon.** Prose draft of [The Heavy Scale at Icestep Summit](../Stories/The-Heavy-Scale.md). Its pass history is in the story page's Stage 3 — DO section. Not yet reviewed at L4. Every character except Samir Tareh is provisional, as are the businesses and the shared unit name "stone"; see the [promotion rule](../Notes/Rules.md#promotion-rule). The weigher's employer stays "the pass authority," as the story page leaves it. Samir appears only as an ordinary caravan negotiator.
 
 **Fourth pass (uniqueness):** Tove's "I saw it" now falls mid-scene, so the collection doesn't end two Northwind stories on the same sight-form line; *The Greenvale Man* keeps its own. The story now closes on the morning after, with the scale reading true: "Ten stone. True to a hair." That echoes the opening and Grell's own phrase. At the climax Quill closes his book and says Brisa's line from memory, so he isn't a clerk reading aloud to a crowd as Wen is in The Goat File. The report now reads *Error found and corrected*, keeping the word *inspected* for Inspected, Not Guaranteed.
 
 **Third pass:** prose only. The approved opening keeps its quick comic timing. Everything after it runs in medium sentences by default, with fewer punchline scene endings and humor that differs by character. Quill is literal. Tove is strict about how anyone knows anything. Brisa feeds people instead of joking. The chief is frightened. Grell is rude. Garro grumbles. No beats were added.
 
-This draft is authoritative for [Anthology C5](../Anthology.md#cross-story-promise-ledger): the caravan cook is **Garro Sedgewater**, from a Deepwood village whose mushroom harvest the blight took; his grievance is that mushrooms now cost more than meat.
+This draft is authoritative for [Collection C5](../Notes/Collection.md#cross-story-promise-ledger): the caravan cook is **Garro Sedgewater**, from a Deepwood village whose mushroom harvest the blight took; his grievance is that mushrooms now cost more than meat.
 
-Story 5 of 7 in [The Anthology](../Anthology.md). Year 2, early spring.
+Story 5 of 7 in [Collection](../Notes/Collection.md). Year 2, early spring.
 
 ---
 

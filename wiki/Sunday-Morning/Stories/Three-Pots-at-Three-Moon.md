@@ -2,9 +2,9 @@
 
 ## Status
 
-**Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, businesses and plot details are new and non-canon. The stew lineage illustrates the [Food Diaspora](../../Culture/Food-Diaspora-and-Adaptation.md) model; it is not a canonical dish history, and the serving ritual belongs to one family, not to Deepwood as a whole.
+**Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, businesses and plot details are new and non-canon. The stew lineage illustrates the [Food Diaspora](../../Culture/Food-Diaspora-and-Adaptation.md) model; it is not a canonical dish history, and the serving ritual belongs to one family, not to Deepwood as a whole.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/Three-Pots-at-Three-Moon.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/Three-Pots-at-Three-Moon.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -85,7 +85,7 @@ The cousins run the stall together, three pots labeled by neighborhood. On the s
 
 ## Larger-world thread
 
-Part of [World Threads](../World-Threads.md) — year 2, early autumn. The last story on the calendar.
+Part of [Collection](../Notes/Collection.md#the-web) — year 2, early autumn. The last story on the calendar.
 
 | | |
 | --- | --- |
@@ -101,7 +101,7 @@ Part of [World Threads](../World-Threads.md) — year 2, early autumn. The last 
 
 ## Development record
 
-Developed through the [Story Pipeline](../Story-Pipeline.md), 2026-09-27.
+Developed through the [Story Pipeline](../Notes/Pipeline.md), 2026-09-27.
 
 ### Stage 1 — THINK
 
@@ -165,13 +165,13 @@ World-tie changes to the plan: s3 adds the mushroom prices; s5 adds the smugglin
 
 ### Stage 1c — THINK: reserve methods
 
-Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [The Anthology](../Anthology.md#stage-1--think-collection-level) for the collection-level pass.
+Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
 
 | Method | Failure signal | Finding → change |
 | --- | --- | --- |
 | **Perspective shift** (the inspector) | The inspector is a faceless threat. | He is counting fines because the smuggling surge made his superiors count them. A filed permit is a relief to him, which turns s7 from a victory over him into a favor to him. |
 | **Perspective shift** (the Ardens) | The newcomers are only recipients of kindness. | Mrs. Arden has her own dry humor about the polite man who bought their notes; the line also completes [One Square, Two Harvests](One-Square-Two-Harvests.md)'s land agent from the other side (C3). |
-| **Inversion** (where does the nail still fall?) | The whole of Port is healed by one bowl. | Only this street stops listening; the rumors keep running on the next one ([World Threads](../World-Threads.md#where-the-nail-still-fell)). |
+| **Inversion** (where does the nail still fall?) | The whole of Port is healed by one bowl. | Only this street stops listening; the rumors keep running on the next one ([Collection](../Notes/Collection.md#where-the-nail-still-fell)). |
 | **Systems thinking** (cross-story flows) | The cook appears from nowhere. | He crossed Icestep with Samir's caravan in [The Heavy Scale](The-Heavy-Scale.md) and worked his way to Port (C5). |
 
 Changes to the plan: s5 adds Mrs. Arden's line and the inspector's orders; s7 adds his relief; s8 adds the next street over.
@@ -220,7 +220,7 @@ Drafted 2026-09-27: [Three Pots at Three Moon](../Drafts/Three-Pots-at-Three-Moo
 
 - **DO** — new provisional names: Amaranth Doss (permit clerk), Halloran (inspector); the old *Family Stalls (Mixed Holding)* form. Mother Seral's mother is the one who came to Port with the clay pot.
 - **DO** — the s1 flash is kept as a single physical image (a heavy bowl, a crowded street), per the reconsideration trigger.
-- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. The family-stall form now requires all three to *serve* one night, not cook, so Jory can meet it. Jory finds the form from memory of a court case instead of an archive search, which keeps his clerk skill essential without repeating the collection's dusty-record reveal. The "understood she'd been answering all along" clause, both "wrote it down" closers, and Garro's repeated cinnamon exchange are cut. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — Jory wears an interpreter's collar, not ink, and the stall form comes from Amaranth Doss's own drawer, not a forgotten cabinet. Both changes separate this story from The Goat File.
 
