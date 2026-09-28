@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, businesses and plot details are new and non-canon. Wurdren's biography is not settled by anything here.
 
-**Development level: L2 Outlined** — developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/Inspected-Not-Guaranteed.md) (first pass, not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -234,4 +234,12 @@ Candidate Writing Bible lenses applied, as research and not rules:
 - Scene 5 reads as travel filler → merge the blockade into s3 (PLAN).
 - Any draft line needs Wurdren's past → stop and ask James (human boundary).
 
-**Next level:** L3 draft.
+### Stage 3 — DO
+
+Drafted 2026-09-27: [Inspected Not Guaranteed](../Drafts/Inspected-Not-Guaranteed.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
+
+- **DO** — Wurdren's sword story is hearsay about the sword and is always interrupted before it reaches him; no origin, age, family or career event is stated (human boundary respected).
+- **DO** — the connected-offer markers appear in s4 (the letter's arrival) and s5 (Col reads the phrase aloud; Wurdren sees the watermark), as C6 requires.
+- **DO** — three carts reach the washout on day 4 and wait for the fourth, so the charcoal deadline still binds on relighting day.
+
+**Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

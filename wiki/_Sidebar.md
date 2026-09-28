@@ -62,6 +62,7 @@
 - [The Anthology](Sunday-Morning/Anthology.md)
 - [World Threads](Sunday-Morning/World-Threads.md)
 - [Story Pipeline](Sunday-Morning/Story-Pipeline.md)
+- [The Drafts](Sunday-Morning/Drafts/README.md)
 - [Story Seeds](Sunday-Morning/Stories/Story-Seeds.md)
 
 **Reference**

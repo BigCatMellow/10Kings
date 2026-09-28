@@ -4,7 +4,7 @@
 
 **Provisional collection design — writing reference, not setting canon.** This page owns how the seven Sunday Morning stories work *as a collection*: reading order, arc, recurring elements and cross-story promises. Each story page still owns its own story, and [World Threads](World-Threads.md) owns how the stories sit on the domino web.
 
-**Development level: L2 Outlined** — the collection-level THINK and PLAN pass below, run 2026-09-27 at James's request to use THINK and PLAN more fully.
+**Development level: L2 Outlined** — the collection-level THINK and PLAN pass below, run 2026-09-27 at James's request to use THINK and PLAN more fully. All seven stories now have first-pass prose drafts (L3): [The Drafts](Drafts/README.md), in reading order.
 
 ## The collection in one sentence
 

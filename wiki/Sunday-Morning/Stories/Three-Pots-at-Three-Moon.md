@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, businesses and plot details are new and non-canon. The stew lineage illustrates the [Food Diaspora](../../Culture/Food-Diaspora-and-Adaptation.md) model; it is not a canonical dish history, and the serving ritual belongs to one family, not to Deepwood as a whole.
 
-**Development level: L2 Outlined** — developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/Three-Pots-at-Three-Moon.md) (first pass, not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -214,4 +214,11 @@ Candidate Writing Bible lenses applied, as research and not rules:
 - The s1 flash makes the ending obvious → cut it to a single physical detail (PLAN).
 - Three kitchen scenes feel repetitive → merge s3 and s4 into one market-day scene (PLAN).
 
-**Next level:** L3 draft.
+### Stage 3 — DO
+
+Drafted 2026-09-27: [Three Pots at Three Moon](../Drafts/Three-Pots-at-Three-Moon.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
+
+- **DO** — new provisional names: Amaranth Doss (permit clerk), Halloran (inspector); the old *Family Stalls (Mixed Holding)* form. Mother Seral's mother is the one who came to Port with the clay pot.
+- **DO** — the s1 flash is kept as a single physical image (a heavy bowl, a crowded street), per the reconsideration trigger.
+
+**Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

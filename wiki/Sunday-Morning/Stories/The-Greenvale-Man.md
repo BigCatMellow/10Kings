@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). Kettle Cove, Narrow Sound, all characters and plot details are new and non-canon. The regatta is a story detail attached to the provisional Last Sail festival, not established custom.
 
-**Development level: L2 Outlined** — developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Greenvale-Man.md) (first pass, not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -215,4 +215,11 @@ Candidate Writing Bible lenses applied, as research and not rules:
 - The plank repair needs more than a paragraph of craft detail → cut to Brenna directing and Aldo fitting (PLAN).
 - Losing reads as flat in draft → move the payoff earlier on the walk home (PLAN), not by winning (THINK decision).
 
-**Next level:** L3 draft.
+### Stage 3 — DO
+
+Drafted 2026-09-27: [The Greenvale Man](../Drafts/The-Greenvale-Man.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
+
+- **DO** — Rask's oak is the plank that goes into the hull (P6); the green plank goes on the fire.
+- **DO** — new provisional name: Sigra Holm, Narrow Sound's champion rower. The flour sack carries the Salve house's hurried purchase stamp, matching [One Square](One-Square-Two-Harvests.md) (C1).
+
+**Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

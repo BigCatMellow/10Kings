@@ -51,7 +51,7 @@ MAPS_L requires DONE to be defined before work starts. A story's target level is
 | **L3 Drafted** | Full prose draft exists | a separate draft file linked from the story page |
 | **L4 Reviewed** | Independent review done and findings reconciled; James has read it | story page + review notes |
 
-All seven stories started at L0 and were taken to L2 on 2026-09-27.
+All seven stories started at L0 and were taken to L2 on 2026-09-27, then drafted to L3 the same day ([The Drafts](Drafts/README.md)). An independent check was run on the drafts and its findings were fixed; the full L4 review is still to come.
 
 ---
 

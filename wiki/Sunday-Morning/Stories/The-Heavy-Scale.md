@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, businesses and plot details are new and non-canon.
 
-**Development level: L2 Outlined** — the pilot of the [Story Pipeline](../Story-Pipeline.md). The concept below reflects the THINK pass; the original L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Heavy-Scale.md) (first pass, not yet reviewed). Outlined at L2; the pilot of the [Story Pipeline](../Story-Pipeline.md). The concept below reflects the THINK pass; the original L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -234,4 +234,12 @@ Candidate Writing Bible lenses applied, as research and not rules:
 - Explaining the two meanings of "stone" takes more than a few lines in s7 → simplify it to a misread mark (THINK).
 - Scene 6 reads as a lull rather than a character beat → merge it into s5/s7 (PLAN).
 
-**Next level:** L3 draft. Target length about 6–9k words, one sitting per two scenes.
+### Stage 3 — DO
+
+Drafted 2026-09-27: [The Heavy Scale](../Drafts/The-Heavy-Scale.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
+
+- **DO** — mechanism made concrete: a steelyard whose one-stone poise rides in a latched cradle nobody opens between services; Grell's two services both fall before the storm. Brisa took the stone to tie down a roof corner. The lighter Northwind net-stone reads about a tenth heavy.
+- **DO** — new provisional names: Chief Dorran Pike, Grell (smith), Maudie Vance (shrine keeper), Ilo Sedgewater (the cook; authoritative for C5).
+- **DO** — length about 5,800 words, under the 6–9k target; no scene needed more room. JUDGE can say whether s6 or s9 wants it.
+
+**Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

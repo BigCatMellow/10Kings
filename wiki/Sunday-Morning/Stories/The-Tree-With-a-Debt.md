@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, the tree, the lien and plot details are new and non-canon.
 
-**Development level: L2 Outlined** — developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Tree-With-a-Debt.md) (first pass, not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -77,7 +77,7 @@ Two professional vocabularies turn out to describe the same care. The border spe
 
 ## Climax
 
-Ismet reads the old pledge in the Highridge trade register it was written in, and Sessa hears what he doesn't: the tree was pledged "for as long as it stands." The debt only falls due if the tree falls. For sixty years the lender's family has held a legal interest in the tree *staying up*, the same interest the wardens have. The Highridge contract has been protecting the tree all along. The path follows Contract's line, which runs along the edge of the root zone Pip has been climbing over for years. The clause also shows what the unnamed buyer was after: whoever holds the pledge profits only if the tree falls, and a road would fell it. Hollis tears up the offer. The town pays the small original principal as a gift, and Hollis renews the pledge as a guardianship rather than sell it.
+Ismet reads the old pledge in the Highridge trade register it was written in, and Sessa hears what he doesn't: the tree was pledged "for as long as it stands." The debt only falls due if the tree falls. For sixty years the lender's family has held the only legal power to stop anyone felling it, the consent right on pledged collateral, even though the payout gave them every reason to want it down. The Highridge contract has been protecting the tree all along, and nobody knew. The path follows Contract's line, which runs along the edge of the root zone Pip has been climbing over for years. The clause also shows what the unnamed buyer was after: whoever holds the pledge profits only if the tree falls, and a road would fell it. Hollis tears up the offer. The town pays the small original principal as a gift, and Hollis renews the pledge as a guardianship rather than sell it.
 
 ## Soft landing
 
@@ -237,4 +237,12 @@ Candidate Writing Bible lenses applied, as research and not rules:
 - Readers can't tell why the clause protects the tree in two lines → simplify the wording (THINK).
 - Hollis reads as a villain in s5 → give him one kind act early (PLAN).
 
-**Next level:** L3 draft.
+### Stage 3 — DO
+
+Drafted 2026-09-27: [The Tree With a Debt](../Drafts/The-Tree-With-a-Debt.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
+
+- **Routed to THINK and resolved in draft** — the clause mechanism, which the Climax above leaves implicit. The pledge text says only "for as long as it stands." An old plateau convention carries a standing pledge's debt, uncallable, until the condition ends, so nothing is owed while the tree stands and everything comes due when it falls. The pledge also carries the consent right. For sixty years the holder has had every reason to want the tree down and the only legal power to stop anyone felling it; nobody knew. Renewing it as a guardianship keeps the power and waives the payout. The Climax above has been updated to match.
+- **DO** — Hollis's early kind act (the reconsideration trigger): he unloads the mail cart and gives Pip a honey stick before naming his sum. The Vigil falls on the Debates' opening day; Hollis arrives at their close.
+- **DO** — Ismet names the watermark as a Port stationer's and thinks nothing more of it, as C6 requires.
+
+**Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

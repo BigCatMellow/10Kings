@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, place names within the town and plot details are new and non-canon. The historical explanation for the festival split is a story device, not settled chronology.
 
-**Development level: L2 Outlined** — developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/One-Square-Two-Harvests.md) (first pass, not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -221,4 +221,12 @@ Candidate Writing Bible lenses applied, as research and not rules:
 - The clause's language point needs more than two lines to explain → simplify it to a copying error (THINK).
 - Scene 4 and 6 both read as "comic interlude" → merge them (PLAN).
 
-**Next level:** L3 draft.
+### Stage 3 — DO
+
+Drafted 2026-09-27: [One Square Two Harvests](../Drafts/One-Square-Two-Harvests.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
+
+- **DO** — the clause point stays within two lines: the Greenvale text uses the form for a thing done once ("kept"), the later Sunplains translation made it a standing rule. The reconsideration trigger did not fire.
+- **DO** — new provisional names: Lissa (Pell's granddaughter), Aurel (gatekeeper), Hobb (miller), the Thistle, Orrin and Bray farms; the old builder is "the Scarth from Kettle Cove," matching [The Greenvale Man](The-Greenvale-Man.md) (C2).
+- **DO** — the land agent's lunch names only his lenders' squeeze, not the ripple chain, so story 1 doesn't read as a conspiracy.
+
+**Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

@@ -80,6 +80,7 @@ Small, human-scale stories set in the world's border towns, festivals and neighb
 - [The Anthology](Sunday-Morning/Anthology.md) — the seven stories as one linked collection
 - [World Threads](Sunday-Morning/World-Threads.md) — where each story sits on the dominoes and current events
 - [Story Pipeline](Sunday-Morning/Story-Pipeline.md) — developing a story with MAPS_L, THINK and PLAN
+- [The Drafts](Sunday-Morning/Drafts/README.md) — all seven stories in prose, in reading order
 
 ## Writing and provenance
 

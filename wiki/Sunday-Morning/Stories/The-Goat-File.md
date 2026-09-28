@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). Seven Wells, the two houses, all characters and plot details are new and non-canon.
 
-**Development level: L2 Outlined** — developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Goat-File.md) (first pass, not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -214,4 +214,11 @@ Candidate Writing Bible lenses applied, as research and not rules:
 - Readers guess the wedding clause at s5 → move Lio and Nessa's scene after s6 (PLAN).
 - The custodian reads as obstructive → give the silence a stated reason she offers kindly (PLAN).
 
-**Next level:** L3 draft.
+### Stage 3 — DO
+
+Drafted 2026-09-27: [The Goat File](../Drafts/The-Goat-File.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
+
+- **DO** — the s4 clue is made concrete: both elders quote their mothers in the same ten words ("She is only lent. She'll come home in time."). New provisional names: Oriel (custodian), Hanne Tarrow and Seraph Kesh (the mothers). The memorandum dates from the spring before the dry summer.
+- **Open for review** — whether a reader guesses the wedding clause at s5, the story's reconsideration trigger. The draft keeps s5 before s6.
+
+**Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

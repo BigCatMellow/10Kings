@@ -15,18 +15,19 @@ A Sunday Morning Story is a character-driven, human-scale story with a clear pre
 3. [The Anthology](Anthology.md) — the seven stories as one linked collection: reading order, cross-story promises, and the collection-level THINK and PLAN pass.
 4. [World Threads](World-Threads.md) — how the seven stories sit on the dominoes and current events: a shared calendar, the ripple chain and each story's thread.
 5. [Story Pipeline](Story-Pipeline.md) — how to develop a story from concept to reviewed draft using MAPS_L with THINK and PLAN, and what the development levels L0–L4 mean.
+6. [The Drafts](Drafts/README.md) — the seven stories in prose, in reading order.
 
 ## Stories
 
 | Story | Setting | Clock | Mode | World thread | Level |
 | --- | --- | --- | --- | --- | --- |
-| [Inspected, Not Guaranteed](Stories/Inspected-Not-Guaranteed.md) | Stonefield Forge (Ironcrest / Greenvale) | Forge Reawakening, early spring | character / competition — features Wurdren | short hours; a patron letter (Orin's pattern) | L2 Outlined |
-| [One Square, Two Harvests](Stories/One-Square-Two-Harvests.md) | Harveston Vale (Greenvale / Sunplains) | Harvest Home + Wine Crush, early autumn | community / competition | grain collapse; unsafe-grain rumor (Rosana's seed) | L2 Outlined |
-| [The Heavy Scale at Icestep Summit](Stories/The-Heavy-Scale.md) | Icestep Summit (Northwind / Highridge) | Pass Opening + Ice Breaking, early spring | mystery | caravan attacks; Samir Tareh's route survey | L2 Outlined (pipeline pilot) |
-| [Three Pots at Three Moon](Stories/Three-Pots-at-Three-Moon.md) | a Port neighborhood | Three Moon Festival, early autumn | family / food | displaced families; smuggling rumor | L2 Outlined |
-| [The Tree With a Debt](Stories/The-Tree-With-a-Debt.md) | Twilighthollow (Deepwood / Highridge) | Canopy Vigil + Midsummer Debates | romance | road plans; a buyer for the pledge (Naruin) | L2 Outlined |
-| [The Greenvale Man](Stories/The-Greenvale-Man.md) | Kettle Cove, Northwind (provisional) | Last Sail, late autumn | competition / belonging | piracy; the Narrow Sound rumor (Maris) | L2 Outlined |
-| [The Goat File](Stories/The-Goat-File.md) | Seven Wells, Highridge (provisional) | Ledger Closing, late autumn | comedy / mystery | Port credit tightening | L2 Outlined |
+| [Inspected, Not Guaranteed](Stories/Inspected-Not-Guaranteed.md) | Stonefield Forge (Ironcrest / Greenvale) | Forge Reawakening, early spring | character / competition — features Wurdren | short hours; a patron letter (Orin's pattern) | [L3 Drafted](Drafts/Inspected-Not-Guaranteed.md) |
+| [One Square, Two Harvests](Stories/One-Square-Two-Harvests.md) | Harveston Vale (Greenvale / Sunplains) | Harvest Home + Wine Crush, early autumn | community / competition | grain collapse; unsafe-grain rumor (Rosana's seed) | [L3 Drafted](Drafts/One-Square-Two-Harvests.md) |
+| [The Heavy Scale at Icestep Summit](Stories/The-Heavy-Scale.md) | Icestep Summit (Northwind / Highridge) | Pass Opening + Ice Breaking, early spring | mystery | caravan attacks; Samir Tareh's route survey | [L3 Drafted](Drafts/The-Heavy-Scale.md) (pipeline pilot) |
+| [Three Pots at Three Moon](Stories/Three-Pots-at-Three-Moon.md) | a Port neighborhood | Three Moon Festival, early autumn | family / food | displaced families; smuggling rumor | [L3 Drafted](Drafts/Three-Pots-at-Three-Moon.md) |
+| [The Tree With a Debt](Stories/The-Tree-With-a-Debt.md) | Twilighthollow (Deepwood / Highridge) | Canopy Vigil + Midsummer Debates | romance | road plans; a buyer for the pledge (Naruin) | [L3 Drafted](Drafts/The-Tree-With-a-Debt.md) |
+| [The Greenvale Man](Stories/The-Greenvale-Man.md) | Kettle Cove, Northwind (provisional) | Last Sail, late autumn | competition / belonging | piracy; the Narrow Sound rumor (Maris) | [L3 Drafted](Drafts/The-Greenvale-Man.md) |
+| [The Goat File](Stories/The-Goat-File.md) | Seven Wells, Highridge (provisional) | Ledger Closing, late autumn | comedy / mystery | Port credit tightening | [L3 Drafted](Drafts/The-Goat-File.md) |
 
 Undeveloped premises: [Story Seeds](Stories/Story-Seeds.md).
 
