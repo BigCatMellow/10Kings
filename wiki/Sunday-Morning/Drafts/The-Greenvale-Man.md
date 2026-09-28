@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft, first pass — provisional, non-canon.** Prose draft of [The Greenvale Man](../Stories/The-Greenvale-Man.md), written 2026-09-27 from that page's scene plan and promise ledger. Not yet independently reviewed (L4). Kettle Cove, Narrow Sound, the regatta and every character are provisional; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule). Northwind's two "we"s and its evidential forms are rendered in English and follow [Language and Thought](../../Culture/Language-and-Thought.md#northwind-languages); no conlang words are invented.
+**L3 draft, second pass: rewritten in James's voice ([Voice](../Voice.md)). Provisional, non-canon.** Prose draft of [The Greenvale Man](../Stories/The-Greenvale-Man.md), first written 2026-09-27 from that page's scene plan and promise ledger, checked independently, then rewritten the same day to James's voice notes. Not yet reviewed at L4. Kettle Cove, Narrow Sound, the regatta and every character are provisional; see the [promotion rule](../Applying-to-Two-Sons.md#promotion-rule). Northwind's two "we"s and its evidential forms are rendered in English, following [Language and Thought](../../Culture/Language-and-Thought.md#northwind-languages); no conlang words are invented.
 
 Story 2 of 7 in [The Anthology](../Anthology.md). Year 1, late autumn.
 
@@ -10,224 +10,422 @@ Story 2 of 7 in [The Anthology](../Anthology.md). Year 1, late autumn.
 
 ## The Greenvale Man
 
-They hauled the *Kittiwake* out three weeks before Last Sail, and there was the crack, running along the fourth plank below the gunwale on the landward side, fine as a hair and as long as a man's arm.
+"That's sprung."
 
-Half the cove came down to the slipway to look at it. That was how Kettle Cove did things: nobody could fix anything until everybody had seen it. Aldo Fenwright came because his wife sent him, and stood at the back, because in twenty years he had learned that the back of a Kettle Cove crowd was where a Greenvale man stood.
+"That's rot."
 
-"That's sprung," said somebody.
+"That's neither." Brenna Scarth was on her knees in the shingle, face an inch from the hull. "Something hit it. Ice, probably. In the spring."
 
-"That's rot," said somebody else.
+Half of Kettle Cove had come down to the slipway to look at the crack. That was how the cove did things. Nobody could fix anything until everybody had seen it.
 
-"That's neither," said Brenna Scarth, who was on her knees in the shingle with her face an inch from the hull. "That's a plank that's been hit by something. Ice, most likely, from the spring. It's opened along the grain." She sat back on her heels. "It'll hold on a calm day. It won't hold for a race."
+It ran along the fourth plank below the gunwale. Fine as a hair. Long as a man's arm.
 
-The cove breathed out all at once, the way a crowd does when it has heard what it was afraid of.
+Aldo Fenwright stood at the back of the crowd. Twenty years in the cove, and he'd learned that the back was where a Greenvale man stood.
 
-Brenna's father had built the *Kittiwake*. He had built most of the boats in the cove, and a good many in Narrow Sound across the headland, and two summers ago he had gone inland to live with his son in Greenvale because his knees had gone and his son had asked. Brenna could sail anything with a hull. She had never learned to build one. Her father had meant to teach her, and then there had always been another boat to finish first.
+Brenna sat back on her heels.
 
-"We'll write to him," said Old Rask.
+"It'll hold on a calm day. It won't hold for a race."
 
-Rask was the oldest member of the clan hall and the only person in the cove who still said *we* the narrow way as a matter of course. Northwind speech had two ways of saying it: a wide *we* that took in whoever was listening, and a narrow one that stopped short of them. Most people used the narrow form for family and the wide one for the cove. Rask used the narrow form for the cove, and when Aldo was near enough to hear, he used it with some care.
+The whole slipway breathed out at once.
 
-"We have a letter from him already," Brenna said. She pulled it out of her coat. "Came yesterday."
+Three weeks to Last Sail. Three weeks to the regatta against Narrow Sound, across the headland. The *Kittiwake* had lost to them three years running. The regatta bell hung in Narrow Sound's tower now. Everybody knew exactly how long it had been there.
 
-She read it aloud, because that was also how the cove did things. Old Scarth wrote the way he talked, in short sentences that sounded like planks being dropped. The country was too flat. You could see a storm coming for a day and a half and there was nothing to do about it but watch. His son was well. His knees were no better. The town he lived in, Harveston Vale, where even the square had two names, had just held two festivals at the same time in the same square, and eaten everything, and he had never seen anything like it. He hoped the *Kittiwake* was sound for Last Sail.
+"We'll write to your father," said Old Rask.
 
-"He'd want to know," said somebody, not unkindly.
+There were two ways to say *we* in Northwind. One had room in it for whoever you were talking to. One didn't.
 
-"We could borrow," said somebody else, and the whole slipway went quiet in a different way.
+Rask never used the first one when Aldo could hear.
 
-There was only one place in reach to borrow a racing boat, and it was Narrow Sound, whose boat had beaten the *Kittiwake* at Last Sail three years running, and whose bell tower held the regatta bell that had hung in Kettle Cove for the eleven years before that. To race against Narrow Sound in Narrow Sound's own spare boat would be discussed, Hild said later, until the sea dried up, and then they'd discuss that.
+"We've already got a letter from him," Brenna said, and pulled it out of her coat. "Came yesterday."
 
-"We don't borrow from them," said Rask. He said *we* the narrow way. He was looking at the crack, and Aldo was standing behind him, and Aldo heard it.
+She read it out loud. That was also how the cove did things.
 
-* * *
+Old Scarth wrote the way he talked. Short sentences, dropped like planks. The country was too flat. You could see a storm coming for a day and a half and do nothing but watch it. His knees were no better. His son was well. The town he lived in, Harveston Vale — where even the square had two names — had just held two festivals at once, in the same square, and eaten everything. He'd never seen anything like it.
 
-The cooperage was warm, which was the first thing everyone said when they came in, and quiet, which was the second. It stood at the landward end of the drying racks, out of the wind, with a steam box along one wall that Aldo had built himself his first winter in the cove, when he still thought a man could win a town over with good work and hadn't yet learned that a town had to decide to be won.
+He hoped the *Kittiwake* was sound for Last Sail.
 
-Brenna came in that afternoon with the cold on her, and stood by the steam box warming her hands, and didn't say anything for long enough that Aldo put down his drawknife.
+"He'd want to know," somebody said.
 
-"No," he said.
+"We could borrow," said somebody else.
 
-"I didn't ask."
+The slipway went quiet.
+
+There was one place to borrow a racing boat. Narrow Sound. Racing Narrow Sound in Narrow Sound's own spare boat would be talked about, Hild said later, until the sea dried up. And then they'd talk about that.
+
+"We don't borrow from them," said Rask.
+
+The narrow *we*. He was looking at the crack. Aldo was standing right behind him.
+
+---
+
+"No," Aldo said.
+
+"I didn't ask," said Brenna.
 
 "You're going to. I make barrels."
 
-"You make barrels," Brenna agreed. "You steam oak till it bends and you fit it so tight it holds water without pitch. I've watched you."
+The cooperage was warm. Everybody said so when they came in, and then they said it was quiet. It sat at the landward end of the drying racks, out of the wind, with a steam box along one wall that Aldo had built his first winter here. Back when he still thought good work would win a town over.
+
+Brenna warmed her hands over the steam box.
+
+"You steam oak till it bends," she said. "You fit it so tight it holds water without pitch. I've watched you."
 
 "A barrel is not a boat."
 
-"A plank is a long stave," Brenna said. "My father used to say so."
+"A plank's a long stave. My father used to say so."
 
-"Your father was being kind to me," said Aldo. "And I get seasick. I get seasick on the ferry. I got seasick on the slipway once, when it was windy."
+"Your father was being kind to me." Aldo picked up his drawknife. "And I get seasick. On the ferry. On the slipway, once, when it was windy."
 
-From the back of the cooperage, where she was mending a net across two trestles, Hild Fenwright laughed. She had been laughing since she heard about the crack. Hild was Kettle Cove born, a net-mender like her mother, and in twenty years of marriage she had never once let Aldo take himself seriously for long.
+From the back of the room, where she was mending a net across two trestles, Hild laughed.
 
 "He did," she said. "On the slipway. I saw it."
 
-"Thank you," said Aldo.
+"Thank you."
 
-"You're soft as Greenvale butter," said a voice from the doorway. It was one of the young rowers, come to see what Brenna wanted, and he meant it as a joke, mostly; it was the kind of thing the cove said. Brenna turned and looked at him until he went away.
+"Anytime."
 
-Aldo picked up his drawknife again. He did not say anything. He never did when somebody said that. But he thought about the crack in the fourth plank for the rest of the afternoon, and Hild, watching him from the net, knew he would.
+A young rower had come to the door behind Brenna to see what she wanted. He grinned.
 
-* * *
+"Soft as Greenvale butter."
 
-The next morning he went to the boat shed to look, just to look, and saw at once that Brenna's father had been right.
+He meant it as a joke. Mostly. It was the kind of thing the cove said.
 
-A hull plank on a racing boat was a long stave: thin, curved in two directions at once, fastened edge to edge with its neighbors so the whole thing held water by being tight. He could see where it would have to come out. He could see how the new piece would have to be steamed, and bent over a form, and left to set, and then fitted and fitted and fitted again until the joins disappeared. He could see every step of it the way he could see a barrel in a pile of oak.
+Brenna turned and looked at him until he went away.
 
-"Well?" said Brenna, behind him.
+Aldo didn't say anything. He never did, when someone said that.
 
-"I'll need you to tell me how it's fastened," said Aldo. "And where it has to flex. I don't know boats."
+He went back to his stave.
 
-"I know boats," said Brenna. "I can't make them."
+But he thought about the crack in the fourth plank for the rest of the afternoon, and Hild watched him think about it, and didn't say a word.
 
-"Then between us we know one boat," said Aldo, and he heard himself say it, and was already sorry.
+---
 
-Hild, who had followed them down with a basket of bread, said: "He's saying yes. That's what yes sounds like in Greenvale. It sounds like complaining."
+He went to the boat shed the next morning. Just to look.
 
-* * *
+Just to look.
 
-The clan hall met the first week, and Rask objected.
+A racing hull, up close. Thin planks, curved two ways at once, fastened edge to edge, holding water by being tight.
 
-He did it properly, standing, with his hands on the back of the bench in front of him. He said the *Kittiwake* was the cove's boat, and had been built by a cove man, and had been sailed by cove crews for twenty years, and we did not hand our boat to — here he paused, and everyone heard the pause — to a barrel-maker, however good his barrels. He said *we* the narrow way. He did not look at Aldo. Aldo sat at the back of the hall, where he always sat.
+He could see where the cracked one would come out. How the new piece would have to be steamed. Bent over a form. Left to set. Fitted, and fitted, and fitted again, until the joins disappeared.
 
-Brenna said the choice was the Greenvale man or Narrow Sound's spare boat. Rask said there was a third choice, which was not to race. That got a murmur, some for and some against.
+He could see all of it, the way he could see a barrel in a pile of oak.
 
-Then the planking came up. There was none. Good seasoned oak was short everywhere at the end of the season. The yards up the coast had sold what they had to the convoys, and what was left was green and would split in the steam box. Aldo said so. Rask said so too, and seemed pleased.
+"Well?" Brenna said behind him.
 
-And then the door opened and a messenger came in from the headland road with salt on his coat and a letter under his arm, and the hall stopped arguing about the *Kittiwake* entirely.
+"You'll have to tell me how it's fastened. Where it has to flex. I don't know boats."
 
-The letter was from Maris Bleakshore. Everyone in the hall knew the name. She had been speaking up and down the coast all summer about the raids. There had been more of them this year than anyone could remember: boats taken, drying racks burned, a whole catch lost off the northern skerries. She was asking every cove to name the others it would sail with in convoy next season. Only coves it could trust, the letter said. Coves whose waters were clean.
+"I know boats. I can't build them."
 
-The messenger stayed for a cup of something hot and talked, as messengers did. He had come through three coves in three days. In each one, he said, people had been asking about Narrow Sound.
+"So between us," Aldo said, "we know one boat."
+
+He heard himself say it. He was already sorry.
+
+Hild had followed them down with a basket of bread.
+
+"He's saying yes," she told Brenna. "That's what yes sounds like in Greenvale. It sounds like complaining."
+
+---
+
+The clan hall met the first week. Rask stood up to object.
+
+He did it properly. Standing. Hands on the bench in front of him.
+
+"The *Kittiwake* is the cove's boat. Built by a cove man. Sailed by cove crews for twenty years. And we do not hand our boat to—"
+
+A pause. Everyone heard the pause.
+
+"—to a barrel-maker. However good his barrels."
+
+He didn't look at Aldo. Aldo was at the back of the hall, where he always sat.
+
+"It's the Greenvale man or Narrow Sound's spare," Brenna said.
+
+"Or we don't race."
+
+A murmur. Some for. Some against.
+
+Then the planking came up. There wasn't any. Good seasoned oak was gone everywhere this late in the year. The yards up the coast had sold what they had to the convoys. What was left was green, and green wood split in a steam box.
+
+Aldo said so. Rask said so too, and looked pleased about it.
+
+Then the door opened.
+
+A messenger, off the headland road, salt on his coat, a letter under his arm. The hall stopped arguing about the boat.
+
+The letter was from Maris Bleakshore.
+
+Everyone knew the name. She'd been up and down the coast all summer about the raids. More of them this year than anyone could remember. Boats taken. Drying racks burned. A whole catch gone off the northern skerries. Now she was asking every cove to name the coves it would sail with in convoy next season.
+
+Coves it could trust, the letter said.
+
+Coves whose waters were clean.
+
+The messenger stayed for a cup of something hot. He'd been through three coves in three days, he said, and in every one of them people were asking about Narrow Sound.
 
 "Asking what?"
 
-The messenger shrugged. "It is said they've given water to raiders. That their headland has a cove nobody watches. It is said."
+He shrugged.
 
-He used the rumor form carefully, the way anyone in Northwind would. He was not telling them anything he had seen. He was not even telling them anything someone he trusted had seen. He was telling them what was said.
+"It is said they've given water to raiders. That their headland has a cove nobody watches." He took a sip. "It is said."
 
-But the hall heard it anyway. Aldo watched it land. He watched Rask's face, which did not change, and he watched the young rower who had called him Greenvale butter turn to his neighbor and say something low, and he watched the thing that had been an argument about a boat become, for a moment, an argument about who could be trusted. Then Brenna asked about the planking again, and the moment passed, and the hall went back to shouting about oak.
+He was careful about it. The rumor form. Northwind speech made you mark how you knew a thing: *I saw it*, or *someone I trust told me*, or *it is said*. He wasn't saying he'd seen anything. He wasn't even saying someone he trusted had.
 
-"We'll talk about Narrow Sound," said Rask, "before Last Sail." He said *we* the narrow way.
+The hall heard it anyway.
 
-* * *
+Aldo watched it land. Watched Rask's face not change. Watched the young butter rower lean over and say something low to his neighbor. For a moment an argument about a boat turned into an argument about who could be trusted.
+
+Then Brenna asked about the planking again, and the moment passed.
+
+"We'll talk about Narrow Sound," said Rask, "before Last Sail."
+
+The narrow *we*.
+
+---
 
 Gossip in Kettle Cove moved at the speed of fish-turning.
 
-The drying racks ran the length of the harbor wall, and all autumn the cove turned the split fish on them by hand, twice a day, down one row and up the next. It was slow, cold work, and you could not do it without talking, and whatever was said at the top of the racks in the morning reached the bottom by the afternoon turn.
+The drying racks ran the whole length of the harbor wall. All autumn the cove turned the split fish by hand, twice a day, down one row and up the next. Cold, slow work. You couldn't do it without talking. Whatever got said at the top of the racks in the morning reached the bottom by the afternoon turn.
 
 By the second week there were two rumors on the racks.
 
-The first was that the Greenvale man was building a barrel boat. It is said, people told each other, that he's taken out the whole side of the *Kittiwake* and put in staves. It is said he's hooping it. It is said it'll roll. Aldo heard all of this from Hild, who heard it on the racks and brought it home every evening with the pleasure of a woman collecting shells.
+The first one was about Aldo.
 
-"Hooping it," she said. "I like that one. I'm going to tell them you've found a bung-hole."
+Hild brought the rumors home every evening like shells off the beach.
 
-"Please don't."
+"It is said," she reported, delighted, "that you've pulled the whole side off the *Kittiwake* and put in staves."
 
-"It is said," Hild said, "that the Greenvale man—"
+"I haven't."
+
+"It is said you're hooping it."
+
+"I'm not."
+
+"It is said it'll roll."
 
 "Hild."
 
-The second rumor was that Narrow Sound sheltered raiders, and nobody made jokes about that one.
+"I'm going to tell them you've found a bung-hole."
 
-Narrow Sound's children spied on the shed that week. Everybody's children spied on everybody's sheds before Last Sail; it was practically part of the festival. Two of them lay on the shingle bank above the shed door every afternoon, perfectly visible, and reported everything they saw back across the headland. Aldo waved at them. After a while they waved back. One of them was the niece of Narrow Sound's champion rower, a tall young woman named Sigra Holm who was everybody's cousin, including, it turned out, Brenna's. Her uncle had lost a boat to raiders in the summer. The cove had sent food.
+"Please don't."
 
-"And now it is said they shelter them," said Hild, turning fish beside Aldo on one of the rare afternoons he came to help. She did not say it in her shell-collecting voice. "Her uncle's boat. It is said."
+"It is said—"
 
-Aldo turned a fish. He thought about the barrel boat and the hoops and the bung-hole, and how quickly a thing that was said became a thing that everybody knew, and how nobody in the cove had actually seen the inside of the shed except Brenna, and Hild, and Rask, once, from the door.
+"*Hild.*"
 
-* * *
+The second rumor was about Narrow Sound. Nobody made jokes about that one.
+
+Narrow Sound's children spied on the shed that week. Everybody's children spied on everybody's sheds before Last Sail. It was practically part of the festival. Two of them lay on the shingle bank above the shed door every afternoon, perfectly visible, and reported everything back across the headland.
+
+Aldo waved at them.
+
+After a while, they waved back.
+
+One of them was the niece of Narrow Sound's champion rower. Sigra Holm. Tall, fast, and everybody's cousin, including Brenna's. Her uncle had lost his boat to raiders that summer. The cove had sent food.
+
+"And now it is said they shelter them," Hild said, turning fish beside him on the one afternoon he came to help. Not her shell-collecting voice. "Her uncle's boat. And it is said."
+
+Aldo turned a fish.
+
+He thought about staves and hoops and bung-holes. How fast a thing that was said became a thing everybody knew. And how nobody in the cove had actually been inside the shed except Brenna, and Hild, and Rask. Once. From the doorway.
+
+---
 
 The storms came in the second week and kept coming.
 
-There was no launching in them. The *Kittiwake* sat in the shed with the old plank out and a gap in her side like a missing tooth, and the new plank hung in its form by the steam box in the cooperage, setting, and nobody had seen it on the boat because it was not on the boat yet, and nobody had seen the boat float because there was no weather to float it in. So by every rule of Northwind speech, the *Kittiwake*'s seaworthiness could only be spoken of in the rumor form. It is said she'll float. Aldo found this funnier than anyone else did.
+No launching in that. The *Kittiwake* sat in the shed with a gap in her side like a missing tooth. The new plank hung in its form by the steam box, setting. Nobody had seen it on the boat, because it wasn't on the boat. Nobody had seen the boat float, because there was no weather to float it in.
 
-What they had was green oak, too green. He had got one good plank out of it by steaming it slower than he liked and bending it in stages, and it had held in the form, but he did not trust it. He said so to Brenna, who did not trust it either.
+So by every rule of Northwind speech, the *Kittiwake*'s seaworthiness was a rumor.
 
-On the fourth night of the storms somebody knocked at the cooperage door, and it was Rask, with snow on his shoulders and a long bundle wrapped in sailcloth.
+*It is said she'll float.*
 
-He unwrapped it on the bench without a word. It was a length of oak, pale and close-grained and old, seasoned for years in somebody's rafters.
+Aldo found this funnier than anyone else did.
 
-"My father's," Rask said. "He put it by for a boat he never built. It's been in my roof since before you came." He did not look at Aldo. He looked at the oak. "It's for the cove," he said. "For the cove's boat. We look after our own."
+He didn't find the plank funny. Green oak. Too green. He'd got one piece out of it, steamed slower than he liked, bent in stages. It held the form. He didn't trust it.
 
-He said *we* the narrow way. But he had carried the oak through a snowstorm to the Greenvale man's door, and Hild, at the back of the cooperage, stopped mending and watched him go with an expression Aldo had not seen on her face before.
+Neither did Brenna.
 
-"That," she said, when the door had shut, "is the most anyone in his family has ever given anyone."
+Fourth night of the storms, someone knocked on the cooperage door.
 
-* * *
+Rask. Snow on his shoulders. A long bundle in sailcloth under one arm.
 
-The storms broke four days before Last Sail. The new plank went into the *Kittiwake* the next morning. It was Rask's father's oak, steamed slow over two storm nights; the green plank had gone on the cooperage fire. It was fitted, taken out, fitted again, and fastened, and by the afternoon the joins had disappeared.
+He unwrapped it on the bench without a word.
 
-Somebody had to ride the test launch. A boat with a new plank always wept at first. The wood took up water and swelled and closed the last gaps, and until it did, someone had to be aboard to bail and to watch the seams and say whether the weeping was the ordinary kind or the kind that meant the plank would have to come out again. Brenna would sail her. And Brenna said, in front of the whole slipway, that she wanted the man who had fitted the plank aboard to watch it.
+Oak. Pale, close-grained, old. Seasoned for years in somebody's rafters.
+
+"My father's," Rask said. "Put it by for a boat he never built. It's been in my roof since before you came."
+
+He didn't look at Aldo. He looked at the oak.
+
+"It's for the cove. The cove's boat." A pause. "We look after our own."
+
+The narrow *we*.
+
+But he'd carried it through a snowstorm to the Greenvale man's door.
+
+The door shut behind him. Hild had stopped mending. She was looking at the door with an expression Aldo had never seen on her before.
+
+"That," she said, "is the most anyone in his family has ever given anyone."
+
+---
+
+The storms broke four days before Last Sail.
+
+The new plank went in the next morning. Rask's father's oak, steamed slow over two storm nights. The green plank went on the cooperage fire.
+
+Fitted. Taken out. Fitted again. Fastened.
+
+By afternoon the joins were gone.
+
+A boat with a new plank always weeps at first. The wood drinks, swells and closes the last gaps. Until it does, somebody has to be aboard to bail, and to watch the seam, and to say whether the weeping is the normal kind or the kind that means the plank comes out again.
+
+Brenna would sail her.
+
+And Brenna said, in front of the whole slipway, that she wanted the man who fitted the plank aboard to watch it.
 
 Aldo went.
 
-He was sick before they cleared the harbor mouth. He was sick three more times on the way out to the point and twice on the way back. In between, he bailed. He bailed with a cooper's wooden scoop, steadily, not fast, watching the seam along the fourth plank as the water beaded through and ran and then, slowly, beaded less, and ran less, and stopped. When it stopped he put his hand flat against the plank from inside and held it there, and felt the boat go stiff and sure under him the way a barrel did when the staves took up. Then he was sick again.
+He was sick before they cleared the harbor mouth.
 
-Old Rask watched the whole launch from the end of the slipway. He did not go back to the clan hall for his coat when the wind got up. He stood with his hands in his sleeves and watched the *Kittiwake* go out to the point and come back, and watched the Greenvale man bailing in the bottom of it, gray-faced, with one hand on the new plank.
+He was sick three more times on the way out to the point.
 
-When they brought her in, Rask walked down the slipway into the shallows, in his boots, and looked at the seam. It was dry.
+In between, he bailed. A cooper's wooden scoop. Steady. Not fast. Eyes on the seam along the fourth plank, where the water beaded through, and ran, and then beaded less.
 
-He did not say anything. He walked back up the slipway and went home.
+And ran less.
+
+And stopped.
+
+He put his hand flat on the plank from inside and held it there, and felt the boat go stiff and sure under him. The way a barrel did when the staves took up.
+
+Then he was sick again.
+
+Old Rask watched from the end of the slipway the whole time. He didn't go back for his coat when the wind got up. He stood with his hands in his sleeves and watched the *Kittiwake* go out to the point and come back, the Greenvale man gray-faced in the bottom of her, one hand on the new plank.
+
+When they brought her in, Rask walked down the slipway into the shallows. In his boots.
+
+He looked at the seam.
+
+It was dry.
+
+He didn't say anything. He walked back up the slipway and went home.
+
+---
 
 That night the clan hall met to vote on Last Sail.
 
-It was a full hall. The convoy letter was on the table. The messenger had come through again that afternoon with more news from up the coast: it is said Narrow Sound's headland hid raiders' boats in the summer; it is said a Narrow Sound family took payment. Half the hall wanted the regatta called off. You didn't race people you couldn't trust, they said, and you didn't sail with them in convoy either, and the sooner the cove said so plainly to Maris Bleakshore, the better.
+Full hall. The convoy letter on the table. The messenger had come back through that afternoon with more from up the coast. *It is said* Narrow Sound's headland hid raiders' boats in the summer. *It is said* a Narrow Sound family took payment.
 
-Rask stood up. He did it properly, with his hands on the bench in front of him.
+Half the hall wanted the regatta called off. You didn't race people you couldn't trust. You didn't sail with them either. And the sooner the cove told Maris Bleakshore so, the better.
 
-"Who saw it?" he said.
+Rask stood up. Hands on the bench.
 
-The hall was quiet.
+"Who saw it?"
 
-"Narrow Sound," said Rask. "Sheltering raiders. Who in this hall saw it?"
+Quiet.
 
-Nobody spoke.
+"Narrow Sound. Sheltering raiders. Who in this hall saw it?"
+
+Nobody.
 
 "Who heard it from someone they'd trust with their boat?"
 
 Somebody coughed.
 
-"I have seen the Greenvale man bail a boat he mended," said Rask. He used the sight form, the one you used only for what had passed in front of your own eyes, and he said it slowly so that everyone could hear which form it was. "I saw it today, from the slipway. I have not seen Narrow Sound shelter anyone. It is said. That is all it is." He sat down. "We race."
+"I have seen the Greenvale man bail a boat he mended."
 
-The hall voted, and the cove would race.
+He used the sight form. The one you only used for what had passed in front of your own eyes. He said it slowly, so the whole hall could hear which form it was.
 
-* * *
+"I saw it today. From the slipway. I have not seen Narrow Sound shelter anyone. It is said. That's all it is."
 
-Last Sail came in cold and clear. Both coves were on the water by midmorning, and half of Narrow Sound had come around the headland on foot to watch from Kettle Cove's shingle, because the course ran past it, and because it always had.
+He sat down.
 
-Before the start, Sigra Holm walked down Kettle Cove's slipway in her racing gear, found Rask, and said, "Thank you." She did not say what for. Rask nodded once. Everybody on the slipway who saw it understood, and nobody said so.
+"We race."
 
-Brenna heard later, from a cousin, that three coves up the coast had already sent their convoy lists to Maris Bleakshore, and that none of them had put Narrow Sound on theirs. Kettle Cove put Narrow Sound on its list that week. It was one list. The coast was long.
+---
 
-The race was close. Frosted mead cakes went round the shingle in baskets, and people ate them with cold fingers and shouted. The *Kittiwake* was ahead at the point and behind at the turn and level on the long run home. Aldo watched from the cooperage roof, which Hild said was the only place in the cove high enough to see the race and low enough that he wouldn't be sick.
+Last Sail came in cold and clear.
 
-Narrow Sound won by half a length. The bell stayed across the headland.
+Half of Narrow Sound came round the headland on foot to watch from Kettle Cove's shingle. The course ran past it. It always had.
 
-On the walk back along the harbor wall, the cove went slowly, in the long cold light, and Rask told the story of the test launch to anyone who would listen. He told it in the sight form all the way through. I saw him go out. I saw him sick at the harbor mouth. I saw the seam dry.
+Before the start, Sigra Holm walked down Kettle Cove's slipway in her racing gear, found Rask, and said, "Thank you."
 
-At the end of the wall, where the path turned up toward the clan hall and down toward the cooperage, Rask stopped, and looked at the water, and then at Aldo.
+She didn't say what for.
 
-"We'll take them next year," he said.
+Rask nodded, once.
 
-He said *we* the wide way, the way that took in whoever was listening, and Aldo was the one listening.
+Everyone on the slipway understood. Nobody said so.
 
-Aldo did not say anything. Hild took his arm.
+Brenna heard later, from a cousin, that three coves up the coast had already sent their convoy lists to Maris Bleakshore. None of them had Narrow Sound on it.
 
-* * *
+Kettle Cove put Narrow Sound on its list that week.
 
-A letter came from Greenvale the week after Last Sail. Old Scarth hoped they had raced. The country was still flat. He wanted to know one thing: had the plank held?
+One list. It was a long coast.
 
-Brenna wrote back and said it had, and who had fitted it, and that the Greenvale man had been sick the whole way out and bailed anyway. She did not know whether her father would laugh at that. She thought he probably would.
+The race was close. Frosted mead cakes went round the shingle in baskets, and people ate them with cold fingers and shouted. The *Kittiwake* was ahead at the point, behind at the turn, level on the long run home.
 
-The Long Dark Feast was a month off. The first winter grain had come up the coast on the last barges before the ice, and the cove's share was stacked in the clan hall's storeroom, and Hild brought home a sack of flour to start the feast bread. She dropped it on the cooperage bench and went to get the bowl.
+Aldo watched from the cooperage roof. Hild said it was the only spot in the cove high enough to see the race and low enough that he wouldn't be sick.
 
-Aldo looked at the sack. It carried a Sunplains house's purchase stamp, cut in a hurry: COMMONS / PRESS YARD on one line, PRESS YARD / COMMONS on the next.
+Narrow Sound won by half a length.
 
-He laughed. He did not explain it. Hild, coming back with the bowl, asked what was funny, and he said it was nothing, it was just a Greenvale thing, and she said, "Everything's a Greenvale thing with you," and started on the bread.
+The bell stayed across the headland.
 
-That afternoon somebody knocked at the cooperage door. It was one of the young rowers, the one who had said the thing about butter, with his cap in his hands. His family needed a new water barrel before the ice, he said, if the Greenvale man had time.
+---
 
-Aldo said he had time.
+The cove walked home slowly along the harbor wall in the long cold light, and Rask told the story of the test launch to anyone who'd listen.
+
+All of it in the sight form.
+
+*I saw him go out. I saw him sick at the harbor mouth. I saw the seam dry.*
+
+At the end of the wall the path split. Up to the clan hall. Down to the cooperage.
+
+Rask stopped. Looked at the water.
+
+Then at Aldo.
+
+"We'll take them next year."
+
+The wide *we*. The one with room in it for whoever was listening.
+
+Aldo was the one listening.
+
+He didn't say anything.
+
+Hild took his arm.
+
+---
+
+A letter came from Greenvale the week after Last Sail.
+
+Old Scarth hoped they'd raced. The country was still flat. He only wanted to know one thing.
+
+Had the plank held?
+
+Brenna wrote back. It held. She told him who fitted it. She told him the Greenvale man had been sick the whole way out and bailed anyway.
+
+She thought her father would probably laugh at that.
+
+The Long Dark Feast was a month off. The first winter grain had come up the coast on the last barges before the ice, and Hild brought home a sack of flour for the feast bread. She dropped it on the cooperage bench and went for the bowl.
+
+Aldo looked at the sack.
+
+A Sunplains house's purchase stamp, cut in a hurry. COMMONS / PRESS YARD on one line. PRESS YARD / COMMONS on the next.
+
+He laughed.
+
+Hild came back with the bowl. "What?"
+
+"Nothing. Greenvale thing."
+
+"Everything's a Greenvale thing with you."
+
+She started on the bread.
+
+That afternoon, somebody knocked on the cooperage door.
+
+The young rower. The butter one. Cap in his hands.
+
+His family needed a new water barrel before the ice, he said. If the Greenvale man had time.
+
+Aldo put down his drawknife.
+
+He had time.

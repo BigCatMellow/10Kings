@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, businesses and plot details are new and non-canon. The stew lineage illustrates the [Food Diaspora](../../Culture/Food-Diaspora-and-Adaptation.md) model; it is not a canonical dish history, and the serving ritual belongs to one family, not to Deepwood as a whole.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/Three-Pots-at-Three-Moon.md) (first pass, not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/Three-Pots-at-Three-Moon.md) (second pass, in James's voice; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -220,5 +220,6 @@ Drafted 2026-09-27: [Three Pots at Three Moon](../Drafts/Three-Pots-at-Three-Moo
 
 - **DO** — new provisional names: Amaranth Doss (permit clerk), Halloran (inspector); the old *Family Stalls (Mixed Holding)* form. Mother Seral's mother is the one who came to Port with the clay pot.
 - **DO** — the s1 flash is kept as a single physical image (a heavy bowl, a crowded street), per the reconsideration trigger.
+- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

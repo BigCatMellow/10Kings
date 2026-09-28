@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). All characters, the tree, the lien and plot details are new and non-canon.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Tree-With-a-Debt.md) (first pass, not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Tree-With-a-Debt.md) (second pass, in James's voice; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -244,5 +244,6 @@ Drafted 2026-09-27: [The Tree With a Debt](../Drafts/The-Tree-With-a-Debt.md). A
 - **Routed to THINK and resolved in draft** — the clause mechanism, which the Climax above leaves implicit. The pledge text says only "for as long as it stands." An old plateau convention carries a standing pledge's debt, uncallable, until the condition ends, so nothing is owed while the tree stands and everything comes due when it falls. The pledge also carries the consent right. For sixty years the holder has had every reason to want the tree down and the only legal power to stop anyone felling it; nobody knew. Renewing it as a guardianship keeps the power and waives the payout. The Climax above has been updated to match.
 - **DO** — Hollis's early kind act (the reconsideration trigger): he unloads the mail cart and gives Pip a honey stick before naming his sum. The Vigil falls on the Debates' opening day; Hollis arrives at their close.
 - **DO** — Ismet names the watermark as a Port stationer's and thinks nothing more of it, as C6 requires.
+- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

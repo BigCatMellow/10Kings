@@ -81,6 +81,7 @@ Small, human-scale stories set in the world's border towns, festivals and neighb
 - [World Threads](Sunday-Morning/World-Threads.md) — where each story sits on the dominoes and current events
 - [Story Pipeline](Sunday-Morning/Story-Pipeline.md) — developing a story with MAPS_L, THINK and PLAN
 - [The Drafts](Sunday-Morning/Drafts/README.md) — all seven stories in prose, in reading order
+- [Voice](Sunday-Morning/Voice.md) — notes on James's prose voice, used for every draft
 
 ## Writing and provenance
 
