@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Framework.md). Seven Wells, the two houses, all characters and plot details are new and non-canon.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Goat-File.md) (second pass, in James's voice; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Goat-File.md) (third pass, revised against James's full voice guide as the test story; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Story-Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -221,5 +221,6 @@ Drafted 2026-09-27: [The Goat File](../Drafts/The-Goat-File.md). An independent 
 - **DO** — the s4 clue is made concrete: both elders quote their mothers in the same ten words ("She is only lent. She'll come home in time."). New provisional names: Oriel (custodian), Hanne Tarrow and Seraph Kesh (the mothers). The memorandum dates from the spring before the dry summer.
 - **Open for review** — whether a reader guesses the wedding clause at s5, the story's reconsideration trigger. The draft keeps s5 before s6.
 - **DO, second pass** — rewritten the same day in James's voice ([Voice](../Voice.md)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, third pass (test)** — revised against James's [author voice guide](../Voice.md#the-author-voice-guide). Medium sentences by default. Quiet scene endings. Humor distinct per character. The mothers' ended friendship is left as a quiet sad beat, with both sons' lines "She never said your mother's name again" / "Mine neither." Pim chooses to read the memorandum's last line aloud rather than spare the elders, because exact words are how Seven Wells takes people seriously. The senior arbiter drops the showman act for his confession. The tea seller's paid cups turn, once, into a free one, and she bet on a ruling on the first afternoon. The plot and all ledger items are unchanged.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

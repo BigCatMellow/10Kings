@@ -14,13 +14,13 @@ Calendar order, as [The Anthology](../Anthology.md#reading-order) sets it. Each 
 | --- | --- | --- | --- | --- |
 | 1 | [One Square, Two Harvests](One-Square-Two-Harvests.md) | Year 1, early autumn | ~3,900 | [plan](../Stories/One-Square-Two-Harvests.md) |
 | 2 | [The Greenvale Man](The-Greenvale-Man.md) | Year 1, late autumn | ~3,000 | [plan](../Stories/The-Greenvale-Man.md) |
-| 3 | [The Goat File](The-Goat-File.md) | Year 1, late autumn | ~3,300 | [plan](../Stories/The-Goat-File.md) |
+| 3 | [The Goat File](The-Goat-File.md) | Year 1, late autumn | ~4,600 (third pass: test against the full voice guide) | [plan](../Stories/The-Goat-File.md) |
 | 4 | [Inspected, Not Guaranteed](Inspected-Not-Guaranteed.md) | Year 2, early spring | ~4,000 | [plan](../Stories/Inspected-Not-Guaranteed.md) |
 | 5 | [The Heavy Scale at Icestep Summit](The-Heavy-Scale.md) | Year 2, early spring | ~4,500 | [plan](../Stories/The-Heavy-Scale.md) |
 | 6 | [The Tree With a Debt](The-Tree-With-a-Debt.md) | Year 2, midsummer | ~4,000 | [plan](../Stories/The-Tree-With-a-Debt.md) |
 | 7 | [Three Pots at Three Moon](Three-Pots-at-Three-Moon.md) | Year 2, early autumn | ~3,900 | [plan](../Stories/Three-Pots-at-Three-Moon.md) |
 
-About 27,000 words in all.
+About 28,000 words in all. **The Goat File** is the test story for James's full [voice guide](../Voice.md#the-author-voice-guide): it was revised against it on its own so James can judge the result before the other six are revised the same way.
 
 ## What was checked
 
