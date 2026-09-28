@@ -173,9 +173,9 @@ Col went red to the ears.
 
 "It's good plumbing," Vey said, and he did not say it unkindly. "I won't pretend it isn't. But a masterwork is a smith's work, Barrowfield, and this is a tinker's. If the guild passes this, then next year every lad who can patch a kettle comes up for his mastery, and then a patched kettle is a master's work, and a master's rate goes down to a tinker's rate." He looked out of the long window at the cold chimneys along the lane. "Half my members are on short hours. I won't be the one who tells them their rates are halved as well."
 
-Nobody said anything. Wurdren had not expected Vey to have a reason, and found that he liked the reason no less for its being a fair one.
+Wurdren had not expected Vey to have a reason, and found that he liked the reason no less for its being a fair one.
 
-"What does the rule actually say?" he asked, and then realized he had said it out loud. The three masters were looking at him. "The rule for a masterwork. What does it say the work has to be?"
+"What does the rule actually say?" he asked, and then realized he had said it out loud. Both masters were looking at him. "The rule for a masterwork. What does it say the work has to be?"
 
 Vey opened the guild's book — not his ledger, but the old book, bound in leather gone soft with handling — and read in the formal register. "*A masterwork shall be the apprentice's own work, completed, and inspected by three judges before it is passed.*"
 
@@ -251,7 +251,7 @@ The sword lay on her bench under the good light from the door, stripped to the b
 
 "Sit," she said, and he sat.
 
-"This was sold to you as something special."
+"This was sold as something special."
 
 "The smith swore it was the finest steel she'd ever—"
 
@@ -267,7 +267,7 @@ He found he couldn't look at the sword. He looked at the wall instead, at the em
 
 He looked.
 
-"Look at it properly. Thirty years, and it's hardly been ground at all. You've honed it — every week, I'd say, from the wear — and you've never once let it go dull enough to need the wheel. The fuller's clean. There's not a pit of rust on it. It's as straight as the day she made it." She picked up the glass and put it down again. "That isn't the steel. That's you. The steel's nothing special. The upkeep is." She paused. "That's inspected. I'd put my own mark to it."
+"Look at it properly. Thirty years, and it's hardly been ground at all. You've honed it — every week, I'd say, from the wear — and you've never once let it go dull enough to need the wheel. The fuller's clean. There's not a pit of rust on it. It's as straight as the day she made it." She picked up the glass and put it down again. "That isn't the steel. That's you." She paused. "That's inspected. I'd put my own mark to it."
 
 Wurdren swallowed. "Can you mend it?"
 
@@ -313,7 +313,7 @@ Vey looked at her, and at the window, and at the road beyond it where his charco
 
 ---
 
-It was not a short walk. Nell led the three judges down the lane as if she had been planning the route all winter, and perhaps she had. She took them first to her own gate and made each master swing it on the hinge Col had mended. Then the Pellows' pump, which ran, and the mill, where the sluice winch turned on a gear cut from scrap, and four more farms, a smithy and a chapel door. At every stop she named what had broken and who had mended it and when, and what a new one would have cost in a year when nobody on the flat had that kind of money.
+It was not a short walk. Nell led the three judges down the lane as if she had been planning the route all winter, and perhaps she had. She took them first to her own gate and made each of them swing it on the hinge Col had mended. Then the Pellows' pump, which ran, and the mill, where the sluice winch turned on a gear cut from scrap, and four more farms, a smithy and a chapel door. At every stop she named what had broken and who had mended it and when, and what a new one would have cost in a year when nobody on the flat had that kind of money.
 
 Then she took them to the ditch below the Bracket forge.
 
@@ -327,11 +327,9 @@ The three judges stood and looked at it for a long time.
 
 "Every farm on this flat," said Nell, "is still a farm. Did you know that? Not one of us sold. Farms further up the valley sold out this winter, when the grain went for nothing. Not us. We couldn't afford a new plow, or a new pump, or a new gate, so we had them mended." She looked straight at him. "And when the grain comes back, Oswin Vey, we'll buy plowshares again. From you and your members. At a master's rate."
 
-Vey said nothing for a moment. The rates he had spent all winter protecting had been protected all winter by the plumbing.
+"Inspected," Vey said to the ditch. "In service." He turned to the other two judges. "And every forge on this lane puts in one of Barrowfield's troughs before the harvest. Enter it in the book." He looked at Nell. "Tell your farmers that."
 
-"Inspected," Vey said to the ditch. "In service." He turned to the other two masters. "And every forge on this lane puts in one of Barrowfield's troughs before the harvest. Enter it in the book." He looked at Nell. "Tell your farmers that."
-
-The other two masters looked at each other and nodded.
+The other two judges looked at each other and nodded.
 
 Both apprentices passed. Kerra's blade was inspected in the hall and Col's work was inspected in the valley, and the guild book recorded them on the same page. When Vey read the decision out in the hall that afternoon, Kerra walked straight across the hall and shook Col's hand, and said something to him that nobody else heard, and he laughed for the first time all week.
 
@@ -339,7 +337,7 @@ Both apprentices passed. Kerra's blade was inspected in the hall and Col's work 
 
 The charcoal carts came down the hill late in the afternoon, all four of them, and the farmers were pushing.
 
-They had gone up that morning to stand in the road. Somehow, the way news travels in a town like Stonefield, they had heard that the judges had walked the ditch and passed the plumbing, and by the time the last cart came out of the mud they had their shoulders to its tailboard. They pushed it all the way to the guild hall, and nobody mentioned standing in the road again.
+Nell had walked up to the farmers in the road with Vey's word about the troughs, and by the time the last cart came out of the mud they had their shoulders to its tailboard. They pushed it all the way to the guild hall, and nobody mentioned standing in the road again.
 
 At dusk the guild read the names. It took hours, well into the dark. Wurdren stood near the door of the long hall and listened to every one of them, and nobody hurried and nobody coughed. Then the masters carried coals from the guild hearth down the lane to every forge in Stonefield, one after another, and the chimneys began to smoke, and the town smelled like itself for the first time since autumn.
 

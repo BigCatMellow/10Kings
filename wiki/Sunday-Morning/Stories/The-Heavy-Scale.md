@@ -214,7 +214,7 @@ Decomposed to scenes only; nothing needs to be broken down further before drafti
 | --- | --- | --- | --- | --- | --- |
 | P1 the patched roof | s1 (texture) | s5 roof mention | s7 thaw | clue | planned |
 | P2 "the night of the big blow" | s2 | s3 ledger | s5 dated → s9 *cause: weather* | clue / comic | planned |
-| P3 evidential tags | s2 | s5 told vs saw | s9 *I saw it* | comic → resolution | planned |
+| P3 evidential tags | s2 | s5 told vs saw | s8 *I saw what I was charged* | comic → resolution | paid (notes pass moved it from s9) |
 | P4 Quill quoting people | s1 | s4 misfire | s8 well-timed quote | character | planned |
 | P5 Brisa feeding him | s2 | s6 tender version | s9 supper as refund | relationship | planned |
 | P6 the smith suspected | s4 | — | s9 apology | relationship | planned |
@@ -245,5 +245,6 @@ Drafted 2026-09-27: [The Heavy Scale](../Drafts/The-Heavy-Scale.md). An independ
 - **DO, third pass** — Prose revised against the full guide. The ledger no longer counts entries before the change, which fixes a contradiction with the shrine log. The report reads *Error inspected and corrected*. The ending still lands on Tove's "I saw it", a plan item that echoes The Greenvale Man's sight-form walk home. That is for James to decide. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — Tove's "I saw it" moves mid-supper, so The Greenvale Man keeps the collection's sight-form ending to itself. The story closes the next morning on the scale reading true ("Ten stone. True to a hair."), echoing the opening and Grell's phrase. A review of the whole collection followed. Quill closes his book and says Brisa's line from memory (P4 kept, and distinct from Wen reading aloud in The Goat File). The report reads *Error found and corrected*; the soft landing above says "inspected", which is superseded, to keep that word for Inspected, Not Guaranteed.
 - **Sunday Morning pass:** the reveal leads with Brisa holding the roof over the stranded travelers, so the crowd hears a hero before a mistake. Quill never opens his book at her. "I didn't know" is said once. The chief's hardship line is shortened.
+- **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; James left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Quill now tries the cradle latch on day one; it is frozen, and the chief won't allow a brazier. That explains why the counterweight isn't checked for three days, and in s7 he goes out because the thaw means the latch will give. The ledger now shows the jump at the first weighing after the blow line, so the shrine date alone dates it. Cut "He didn't open his book. He didn't need it." (shared with The Goat File) and Tove's fireside retelling, which repeated Rask's in The Greenvale Man.
 
 **Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.

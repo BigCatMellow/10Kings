@@ -4,7 +4,7 @@
 
 **L3 draft. Provisional, non-canon.** Prose draft of [The Heavy Scale at Icestep Summit](../Stories/The-Heavy-Scale.md). Its pass history is in the story page's Stage 3 — DO section. Not yet reviewed at L4. Every character except Samir Tareh is provisional, as are the businesses and the shared unit name "stone"; see the [promotion rule](../Notes/Rules.md#promotion-rule). The weigher's employer stays "the pass authority," as the story page leaves it. Samir appears only as an ordinary caravan negotiator.
 
-**Fourth pass (uniqueness):** Tove's "I saw it" now falls mid-scene, so the collection doesn't end two Northwind stories on the same sight-form line; *The Greenvale Man* keeps its own. The story now closes on the morning after, with the scale reading true: "Ten stone. True to a hair." That echoes the opening and Grell's own phrase. At the climax Quill closes his book and says Brisa's line from memory, so he isn't a clerk reading aloud to a crowd as Wen is in The Goat File. The report now reads *Error found and corrected*, keeping the word *inspected* for Inspected, Not Guaranteed.
+**Fourth pass (uniqueness):** Tove's evidential habit pays off in the yard ("I saw what I was charged"), not in a retelling, so the sight-form retelling stays *The Greenvale Man*'s. The story now closes on the morning after, with the scale reading true: "Ten stone. True to a hair." That echoes the opening and Grell's own phrase. At the climax Quill's book stays in his pocket and he says Brisa's line from memory, so he isn't a clerk reading aloud to a crowd as Wen is in The Goat File. The report now reads *Error found and corrected*, keeping the word *inspected* for Inspected, Not Guaranteed.
 
 **Third pass:** prose only. The approved opening keeps its quick comic timing. Everything after it runs in medium sentences by default, with fewer punchline scene endings and humor that differs by character. Quill is literal. Tove is strict about how anyone knows anything. Brisa feeds people instead of joking. The chief is frightened. Grell is rude. Garro grumbles. No beats were added.
 
@@ -38,7 +38,7 @@ Eleven stone. And a little over.
 
 He had already tried the five-stone, the two, the one and the half, and every one of them read heavy by the same share, as though the whole world had quietly put on weight over the winter while the pass was shut.
 
-It was a beautiful scale. It was a steelyard of the old plateau pattern: a single great beam of black iron on a knife-edge, with the goods pan hanging from the short arm and the long arm notched and numbered in brass. The counterweight, the town's one stone, rode in a lidded iron cradle that hooked into the notches and was latched shut against the ice, and nobody opened that lid from one season's service to the next. The beam was polished where a century of hands had nudged it. It was, as the chief had told Quill three times since he arrived the afternoon before, the pride of the town.
+It was a beautiful scale. It was a steelyard of the old plateau pattern: a single great beam of black iron on a knife-edge, with the goods pan hanging from the short arm and the long arm notched and numbered in brass. The counterweight, the town's one stone, rode in a lidded iron cradle that hooked into the notches and was latched shut against the ice, and nobody opened that lid from one season's service to the next. The beam was polished where a century of hands had nudged it. It was, as the chief had told Quill three times since he arrived the afternoon before, the pride of the town. Quill had already tried the latch. It had frozen solid into its hasp in the big blow, and when he asked for a brazier the chief went pale, as if Quill had offered to take a torch to the town's pride. It would thaw, the chief said, like everything else.
 
 The chief closed his eyes. "It's been a long winter. Iron shrinks in the cold. I'm sure it can be resolved quietly."
 
@@ -132,7 +132,7 @@ Almost nothing had crossed the scale all winter. There had been no caravans, sin
 
 Then, partway through the winter, they didn't. The flour weighed out to households began reading heavy against the stores by a tenth, every entry, from one line to the next, as though somebody had pulled a lever.
 
-The clerk had dated nothing that month except *before the blow* or *after the blow*, in the same cramped hand, and the change fell somewhere on the *after* side of the line.
+The clerk had dated nothing that month except *before the blow* or *after the blow*, in the same cramped hand, and the change fell on the very first weighing after the line, the next morning's flour.
 
 Quill sat back from the ledger. Something had happened to the scale once, on or near a night that nobody in the town could agree about. He wrote *after the blow = ?* in his book, underlined it twice, and went to bed.
 
@@ -182,7 +182,7 @@ The shrine of the Infinite Compass stood at the top of the town, where the pass 
 
 It was dated exactly: day, month and year. *Great wind from the northwest from dusk. Worst of the winter. The Second Gate's roof covering loose at midnight. Snow off every roof by dawn. Pass impassable.* Underneath, in a different hand, a pilgrim had added: *Stayed up all night. The Compass keep the innkeeper and her roof.*
 
-Quill copied the date and underlined it. Then he counted forward through the notes he had made from the ledger to the first entry that read heavy. It was the first weighing after the storm — the very next morning.
+Quill copied the date and underlined it.
 
 "Is that useful?" asked Maudie.
 
@@ -234,11 +234,11 @@ He drank it. After she had gone he found that he had written down what she said,
 
 He woke before dawn to a sound he didn't recognize and lay listening to it for some time before he understood that it was water. The wind had gone round to the south in the night, warm off the plateau, and every roof in Icestep was dripping. Out in the yard the drifts had turned gray and soft and were sinking into themselves.
 
-He went out with his coat over his nightshirt, without being able to say why, and stood looking at the Second Gate. The drift under its eaves had dropped by half overnight, and something dark stood out of the bottom of it, close against the wall, where the snow had come down off the roof in the storm.
+He went out with his coat over his nightshirt, because a dripping roof meant a thawing latch, and on his way to the scale he stopped and stood looking at the Second Gate. The drift under its eaves had dropped by half overnight, and something dark stood out of the bottom of it, close against the wall, where the snow had come down off the roof in the storm.
 
 He waded in to his knees and dug it out with his hands.
 
-It was a block of dressed stone the size of a loaf, far heavier than it looked, with an iron ring set into the top. The Icestep mark was cut into its face, and under the mark, in the plateau figures every weigher learns before he learns to read, it said *1 stone*. It was the town's stone. It had ridden in the scale's cradle for a hundred years, and he knew it the way he would have known the scale itself.
+It was a block of dressed stone the size of a loaf, far heavier than it looked, with an iron ring set into the top. The Icestep mark was cut into its face, and under the mark, in the plateau figures every weigher learns before he learns to read, it said *1 stone*. It was the town's stone. It had ridden in the scale's cradle for a hundred years.
 
 He left it standing in the slush, went over to the scale, unlatched the cradle and lifted the lid.
 
@@ -270,7 +270,7 @@ Several people turned to look at Brisa Zell, who was standing near the front of 
 
 "I thought one stone was one stone," she said. "I didn't know."
 
-"Nobody knew," said Quill. He didn't open his book. He didn't need it. "*Precise isn't the same as unkind*," he said. "*Not if you're being precise for somebody.* Brisa Zell said that to me, at the Second Gate, last night. So here it is, precisely.
+"Nobody knew," said Quill. His book stayed in his pocket. "*Precise isn't the same as unkind. Not if you're being precise for somebody.* Brisa Zell said that to me, at the Second Gate, last night. So here it is, precisely.
 
 "The ledger's been worked back to the storm," he told the yard, "and every weighing since is recorded. I can tell every household what it was overcharged for its flour, to the half-measure. I can tell Tove Askell what she was overcharged in tolls on her fish. It's all written down, and it can all be paid back."
 
@@ -290,7 +290,7 @@ The chief, visibly suffering, counted it out of the customs chest into her hand.
 
 "For the supper," she said. "Buy something that isn't salt fish."
 
-Samir Tareh had watched all of it without a word. When the yard had quieted, and Grell had been sent for, and the town's own stone had been washed and hung back in its cradle and the reference weights read true on the beam, Samir weighed his caravan's first bale himself. The beam settled. He nodded once to Quill and took out his route book.
+Samir Tareh had watched all of it. When the yard had quieted, and Grell had been sent for, and the town's own stone had been washed and hung back in its cradle and the reference weights read true on the beam, Samir weighed his caravan's first bale himself. The beam settled. He nodded once to Quill and took out his route book.
 
 ---
 
@@ -305,8 +305,6 @@ Then he took his bowl across the room to where Grell was sitting alone near the 
 Grell looked at him over his fish. "You were," he said. "You did." He went back to his fish. After a while, without looking up, he added, "Your ten-stone's got a scratch on the base. Bring it round in the morning and I'll dress it."
 
 The chief stood up in the middle of the room, called for quiet, and made a short speech about the pass authority's commitment to honest weights, the town's pride in its public scale, and how very proud he was that Icestep had chosen to correct its error openly, before the whole season's trade. Everyone let him. Quill, who had the whole morning written down, let him too.
-
-By the fire, Tove Askell had her boots on the rail and her pipe going, and a ring of stranded travelers and caravan hands and customs clerks around her, and she was telling the story of the scale. She told all of it, from the storm to the stone in the drift, and she tagged every part of it properly. "And then the weigher stood in that yard with a stone in each hand," she was saying, as Quill went past with his bowl, "with the town and Samir Tareh watching, and told everybody exactly what they were owed. I saw it." Then she went straight on to the part about the chief, which she had not seen, and tagged it accordingly, and the whole ring laughed.
 
 Late in the evening Samir Tareh took the seat beside Quill with his route book open, and turned it so that Quill could see the page. The entries were short and written in a neat plateau hand: passes, towns, water, yards and scales, a line or two for each. The line above the last one read *Seven Wells — water and guides, one roof*. Below it, in fresh ink, he had written *Icestep — scale honest, corrected in public*.
 

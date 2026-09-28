@@ -19,6 +19,7 @@
 | D9 | 2026-09-28 | "We need to stick to the Sunday Morning style": the Framework's tone comes first. | [Order of authority](README.md#order-of-authority), [tone guardrails](Rules.md#tone-guardrails) |
 | D10 | 2026-09-28 | Bring in the Pathwell storytelling notes ("like writing the sequel"). | [Craft](Craft.md#telling) |
 | D11 | 2026-09-28 | Keep all the notes in one organized, indexed folder instead of a growing set of flat pages. | [Notes index](README.md) |
+| D12 | 2026-09-28 | Apply the notes to the stories only where they genuinely improve them ("We don't need to make changes for the sake of changes"); the taste calls in that pass are left to AI judgment ("I trust you to make the right call"). | the notes pass, recorded in each story page's Stage 3 |
 
 ## Working decisions (made in the work, waiting for James's reading)
 
@@ -33,6 +34,7 @@ These were decided while drafting or reorganizing. Each is reversible from the r
 | W5 | Inspected: the climax turns on the farmers' blockade and on Wurdren passing on their message. | Same; also shows changed behavior rather than cleverness. | [Inspected](../Stories/Inspected-Not-Guaranteed.md), Stage 3, fourth pass |
 | W6 | The Tree's clause: an old plateau convention carries a standing pledge's debt, uncallable, until the condition ends; the pledge also carries the consent right. | The pledge text alone left the mechanism implicit. | [The Tree](../Stories/The-Tree-With-a-Debt.md), Stage 3 |
 | W7 | The full order of authority on the [Notes index](README.md#order-of-authority): Decisions, Framework, Rules, Craft (telling, then voice), Registry. | D9 puts the Framework first; the rest was set when the Pathwell principles were adapted (old Storytelling page) and when the notes were reorganized. | [Notes index](README.md#order-of-authority) |
+| W8 | Notes pass taste calls (under D12): keep Inspected's asked-for-a-job ending; cut Tove's fireside retelling; keep one silence per story at its peak; cut narration that restates a moment; keep Three Pots' three "That's mine" lines. | Each keeps one story's own shape, or removes an echo of another story. | story pages, Stage 3 |
 
 ## Open for James
 

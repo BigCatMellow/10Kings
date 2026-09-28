@@ -98,7 +98,7 @@ Pell looked at the sacks, and then at Lissa's bowl, which was last year's barley
 
 "There's always a man."
 
-"A land agent from downriver. Very polite. He's been to the Thistles, and the Orrins, and I think the Brays. The farms that took seed loans for the new strain and can't sell the grain to pay them back." She turned the ledger over in her lap. "He doesn't threaten anybody. He sits in their kitchens and tells them how sorry he is, and he offers to take the notes off their hands. And then he waits."
+"A land agent from downriver. Very polite. He's been to the Thistles, and the Upcotts, and I think the Brays. The farms that took seed loans for the new strain and can't sell the grain to pay them back." She turned the ledger over in her lap. "He doesn't threaten anybody. He sits in their kitchens and tells them how sorry he is, and he offers to take the notes off their hands. And then he waits."
 
 "Has anyone sold?"
 
@@ -314,7 +314,7 @@ The barrels from Ironcrest arrived on the second day, forty of them on six carts
 
 Pell sat at the joint table, where people from both ends of town were learning to pass each other bowls. Next to him sat an old man he didn't know — broad in the shoulders, with a boatbuilder's hands and a Northwind accent the Vale had not managed to wear down.
 
-"Too flat," the old man said, to nobody. "The whole country. You can't see anything coming."
+"Too flat," the old man said, to nobody. "The whole country."
 
 "You're Mattie Scarth's father," said Pell, who knew everybody's son.
 
@@ -322,13 +322,13 @@ Pell sat at the joint table, where people from both ends of town were learning t
 
 Late in the afternoon the polite man from downriver found Pell.
 
-He was exactly as Bettany had described him: a good coat, a soft voice, sorry about everything. He had gone out to the Thistle farm that morning and found that the Thistles had paid their seed loan in full the evening before, in coin, from the sale of their grain to the Salve house. He had gone on to the Orrins and found the same. He had not bothered with the Brays.
+He was exactly as Bettany had described him: a good coat, a soft voice, sorry about everything. He had gone out to the Thistle farm that morning and found that the Thistles had paid their seed loan in full the evening before, in coin, from the sale of their grain to the Salve house. He had gone on to the Upcotts and found the same. He had not bothered with the Brays.
 
 "I don't suppose," he said, "there's a seat?"
 
 Pell made one. The agent ate orchard grain and a hand pie and two honey pastries, drank the first of the new Crush wine, and after a while, without being asked, began to talk about his lenders, who had tightened this year and were pulling on him in turn. Two valleys over, he said, not unkindly, half the farms had sold to him since the harvest, and he had bought them lunch too.
 
-"I'm not a bad man," he said. "I'd like you to understand that. I'm a link in a chain, and I'm being pulled."
+"I'm not a bad man," he said. "I'd like you to understand that."
 
 Pell listened. He didn't want to. He had a quince tree. But he had spent forty years unable to hear two parties in a mess without looking for the place where they might meet, and by the second glass he had asked how many notes the agent's house actually needed, and by when, and whether its lenders might extend the terms against a smaller purchase at a fair price somewhere that was actually selling.
 

@@ -26,6 +26,9 @@ Every named character in the drafts. Mark canon figures `canon`: the script repo
 | One Square | Aurel | canal gatekeeper | cast |
 | One Square | Lissa | Pell's granddaughter | cast |
 | One Square | Mattie Scarth | old Scarth's son (mentioned) | minor |
+| One Square | Thistle | farm family (mentioned) | minor |
+| One Square | Upcott | farm family (mentioned) | minor |
+| One Square | Bray | farm family (mentioned) | minor |
 | Greenvale Man | Aldo Fenwright | cooper | protagonist |
 | Greenvale Man | Hild Fenwright | net-mender, Aldo's wife | cast |
 | Greenvale Man | Brenna Scarth | sailor, builder's daughter | cast |
@@ -83,6 +86,7 @@ Every named character in the drafts. Mark canon figures `canon`: the script repo
   - Sessa Alderwater became **Sessa Yewbrook**: the Ald- cluster, a second "-water", and then a clash with Wen.
   - Ilo Sedgewater became **Garro Sedgewater**: four I names.
   - Sigra Holm became **Sigra Ulfsen** and Brisa Holloway became **Brisa Zell**: with Hollis, three Hol- names in three stories. The checker caught this on its first run.
+  - The Orrin farm became the **Upcott** farm (notes pass): a false echo of Orin Slatehallow, who took an outsider's money two stories later.
   - Marta Dunnock became **Kerra Dunnock** and Tove Marrick became **Tove Askell**: four Mar- names, one of them canon (Maris).
 - **Expected checker notes:** Scarth appears in One Square and The Greenvale Man on purpose (C2). Tareh and Tarrow share a prefix in one story, but Samir Tareh is canon.
 
@@ -92,7 +96,7 @@ The collection's variety lives here. A new story should differ from its neighbor
 
 | # | Story | Protagonist type | Engine | Resolved by | Register | Opening | Final line |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | One Square | retired expert who can't stop | scheduling clash, unsellable grain | an object (the split banner), then the parties negotiate | warm civic farce | a shout up a tree | Pell alone, climbing down to see if anyone's coming |
+| 1 | One Square | retired expert who can't stop | scheduling clash, unsellable grain | an object (the split banner), then the parties negotiate | warm civic farce | a shout up a tree | Pell alone, then the Salves' dog to walk in the rain |
 | 2 | Greenvale Man | outsider craftsman | repair against a clock, rumor vote | a physical act witnessed (the plank holds) | stoic, belonging | the haul-out, narrated | someone asks for a barrel |
 | 3 | Goat File | junior clerk | a deadline file | a sealed memo, then the grandchildren | comic, then bittersweet | a rule read twice | the herd in the dark, "lent to both" |
 | 4 | Inspected | drafted stranger (Wurdren) | a judgment, a blockade | people: a message carried, a walk to the ditch | wistful, self-deflating | the smith's one-word verdict | Nell's gate, "very nearly right" |
@@ -114,7 +118,7 @@ Reuse one of these only on purpose, and never in the next story in reading order
 | A child who sees what adults won't | One Square (Lissa), Tree (Pip) |
 | An elder who answers sideways | Goat File (tea seller), Three Pots (Mother Seral) |
 | Food as the soft landing | One Square, Heavy Scale, Three Pots, Inspected |
-| Someone asks the hero for the next small job | Greenvale Man |
+| Someone asks the hero for the next small job | Greenvale Man (the barrel), Inspected (Nell's gate). Kept in both on purpose: being asked is the point for an outsider and for Wurdren. Don't use it a third time. |
 | A bookend of the opening line | Heavy Scale |
 | A public reading or telling to a crowd | Goat File (the memo), Heavy Scale (the correction) |
 | Two names or two words kept side by side | One Square (the stamp, the square) |

@@ -92,7 +92,7 @@ It was a good stew, dark and rich and hot with pepper. And where Jory remembered
 
 "It's fish," he said.
 
-"It's fish," Tobiah agreed. "You priced mushrooms lately? Forest mushrooms? There's a blight up in the uplands — two summers now. Half the villages lost their whole crop. You can get them, but you'd pay more than you would for the meat." He added more pepper. "Down here we've got fish. The lads like it."
+"It's fish," Tobiah agreed. "There's a blight up in the uplands — two summers now. Half the villages lost their whole crop." He added more pepper. "Down here we've got fish. The lads like it."
 
 The lads did like it. The man at Jory's elbow was on his third bowl. An older worker from somewhere up the coast said something to Tobiah in harbor creole that Jory only half caught, and Tobiah laughed and answered in the same, and without anyone asking, Jory turned to the man at his elbow and put the joke into ordinary Port speech. The man laughed, and so did Tobiah.
 
@@ -132,9 +132,9 @@ The family stall ran three pots that night, because nobody had said not to. Tobi
 
 "On the second night," she said, when they asked. "Did you eat?"
 
-The spot next door had been empty for two years. Tonight a family was cooking in it, with a borrowed brazier, a single iron pot and no awning: a woman of about fifty with work-roughened hands, a man who seemed to be her husband, and two half-grown children. They were making a thick barley porridge with apples and cream, the kind of thing a Greenvale farm kitchen made in the autumn, and selling it at a copper a cup. There was no permit on their post. Jory noticed that at once, because noticing things like that was his job.
+The spot next door had been empty all summer. Tonight a family was cooking in it, with a borrowed brazier, a single iron pot and no awning: a woman of about fifty with work-roughened hands, a man who seemed to be her husband, and two half-grown children. They were making a thick barley porridge with apples and cream, the kind of thing a Greenvale farm kitchen made in the autumn, and selling it at a copper a cup. There was no permit on their post. Jory noticed that at once, because noticing things like that was his job.
 
-By the middle of the evening he had heard three different people call them smugglers. He heard it the way you heard everything on festival street, over his shoulder while he was doing something else. *It is said the new lot are running goods through the fish market. Nobody knows them. They turned up with nothing and now they've got a stall — where did the money come from?* Smuggling was up all over Port that year; everybody knew it. The harbor watch had been doubled, and the Market Regulation office had sent its inspectors out onto the festival streets with orders to fine every stall that couldn't show a permit, because, the rumor went, the people upstairs had started counting fines to prove they were doing something.
+By the middle of the evening he had heard three different people call them smugglers. He heard it the way you heard everything on festival street, over his shoulder while he was doing something else. *It is said the new lot are running goods through the fish market. Nobody knows them. They turned up with nothing and now they've got a stall — where did the money come from?* Smuggling was up all over Port that year; everybody knew it. The harbor watch had been doubled, and the Market Regulation office had sent its inspectors out onto the festival streets with orders to fine every stall that couldn't show a permit.
 
 The street's inspector came down the lane at the second bell with his book and his stamp. His name was Halloran, a tired, round-shouldered man Jory knew from the office. He looked at the new family's bare post, and at the family, and at the three people who had followed him down the lane to see what he would do, and then down at his book, unhappily.
 
@@ -232,7 +232,7 @@ It was a family stall permit. It allowed a festival-street spot to be held joint
 
 He filled it in on the counter with three names, and Amaranth Doss read it through twice and then, with an expression of profound professional satisfaction, stamped it green. He had the blue stamp from the ward office across the square before noon.
 
-Then, because he was a clerk and couldn't help it, he went back up to her counter and asked for a second form: a new stall application for festival street, for the empty spot beside his family's. The applicants had no permanent address yet and a farm's worth of cooking. He filled in everything he could, and wrote out a list of what he couldn't so that the Ardens could finish it that night.
+Then, because he was a clerk and couldn't help it, he went back up to her counter and asked for a second form: a festival-nights license for the empty spot beside his family's, the kind the committee granted for the festival nights and no longer. The applicants had no permanent address yet and a farm's worth of cooking. He filled in everything he could, and wrote out a list of what he couldn't so that the Ardens could finish it that night.
 
 He was still at the counter when Inspector Halloran came in off his rounds, gray with the morning, his book fat with fines. Halloran read the form over Jory's shoulder, and read the name, and read it again.
 
@@ -244,7 +244,7 @@ He was still at the counter when Inspector Halloran came in off his rounds, gray
 
 "Starting it. They'll need the committee stamp tonight. So will we."
 
-Halloran said nothing for a moment. Then he let out a long breath, like a man setting down something heavy that he had carried all the way up a hill.
+Halloran let out a long breath, like a man setting down something heavy that he had carried all the way up a hill.
 
 "Thank the tides," he said. "Do you know how many fines I've written this week? Every one of them to somebody who couldn't read the form, or couldn't find the office, or couldn't pay for the stamp. Every one of them goes in a column, and somebody upstairs adds up the column and says, look how many smugglers." He shook his head. "A filed permit is the best thing I've seen all week."
 
@@ -268,7 +268,7 @@ Mrs. Arden looked at the bowl, and at him, and at the three pots with their thre
 
 Up the lane, on the next street over, someone was telling someone else that the new lot on festival street were running goods through the fish market. Jory heard it over his shoulder while he was doing something else. On this street, nobody was listening.
 
-Halloran came by at the fourth bell with his book closed under his arm. He looked at both posts and both stamps and the three pots, bought a bowl of Tobiah's fish and pepper, and ate it standing up at the end of the counter without a word.
+Halloran came by at the fourth bell with his book closed under his arm. He looked at both posts and both stamps and the three pots, bought a bowl of Tobiah's fish and pepper, and ate it standing up at the end of the counter.
 
 Garro Sedgewater came back at the fifth bell and tried Ines's again, like a man checking his own judgment. He winced, and held out the bowl for a second one, and ate that to the bottom too.
 

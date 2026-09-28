@@ -202,7 +202,7 @@ Wen went back up the stairs. He didn't go home. He went to the tea stall and sat
 
 "The two of them?"
 
-"Hanne Tarrow and Dalia Kesh. Ebbe's mother and Mardin's. When they were young, they'd walk down to the archive arm in arm, laughing at something. My mother said you never saw one without the other." She turned the teapot a little on the counter, so its handle faced the other way. "Then came the dry summer. There was a quarrel about the wells — there was always going to be a quarrel about the wells, that summer. And after that you never saw them together again. Not once. Not at weddings, not at burials. Then they were both gone, and the goat business started, with their boys."
+"Hanne Tarrow and Dalia Kesh. Ebbe's mother and Mardin's. When they were young, they'd walk down to the archive arm in arm, laughing at something. My mother said you never saw one without the other." She turned the teapot a little on the counter, so its handle faced the other way. "Then came the dry summer. There was a quarrel about the wells — there was always going to be a quarrel about the wells, that summer. And after that you never saw them together again. Not once. Not at weddings, not at burials. Then the goat business started, with their boys."
 
 She looked at the stairs going down to the archive.
 
@@ -304,9 +304,9 @@ The wedding was set for the spring as well. Both houses announced that they woul
 
 The senior arbiter found Wen at the counter late that evening, when the tables were being cleared, and sat down on the stool beside him with a plate of the last of the lentils. He had never done that before. He had never, as far as Wen knew, sat down at the tea stall at all.
 
-He didn't open his book. He put two coins on the counter and didn't say anything for a while.
+He didn't open his book. He put two coins on the counter.
 
-"I was given that file thirty years ago," he said at last. "My first year. Same as you. The senior arbiter then was taking bets on it, same as me. I read every page. I counted the goats." He turned one of the coins over. "I never asked the tea seller anything. It didn't occur to me that she'd know. I never went down to the archive. I read every page and I counted the goats, and at Ledger Closing I stood up in front of the hall and said *deferred*, and they laughed, and I sat down."
+"I was given that file thirty years ago," he said. "My first year. Same as you. The senior arbiter then was taking bets on it, same as me. I read every page. I counted the goats." He turned one of the coins over. "I never asked the tea seller anything. It didn't occur to me that she'd know. I never went down to the archive. I read every page and I counted the goats, and at Ledger Closing I stood up in front of the hall and said *deferred*, and they laughed, and I sat down."
 
 Wen didn't know what to say to that, so he didn't say anything.
 
@@ -322,7 +322,7 @@ Then he wiped his fingers, opened the little leather book after all, and found a
 
 "I'll take the Tarrows," said the tea seller, without looking up.
 
-As the gallery emptied, one of the caravan negotiators came down the stairs and stopped at the counter. He was a tall, quiet man in a traveling coat with a route book under his arm. Wen had noticed him during the reading because he had been the only person in the gallery taking notes.
+Before the stall closed, one of the caravan negotiators stopped at the counter. He was a tall, quiet man in a traveling coat with a route book under his arm. Wen had noticed him during the reading because he had been the only person in the gallery taking notes.
 
 "Samir Tareh," the man said, with a small nod. "I settle accounts here for three caravan houses. May I ask you one question, clerk?"
 

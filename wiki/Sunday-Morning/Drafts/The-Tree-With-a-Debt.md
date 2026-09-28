@@ -80,11 +80,11 @@ He had said *old* the way plateau people did, one flat word for anything with to
 
 "Old," said Sessa, "and still deciding things."
 
-Ismet, who wrote everything down, didn't write that one down.
+Ismet didn't write that one down.
 
 ---
 
-The lien register was on the bottom shelf in the back room of the records office, under a quarter of an inch of dust. It was a Highridge credit entry in the old form, sixty years old. The town of Twilighthollow had borrowed a sum from the house of Varne, a plateau lending family, to rebuild the herb weighhouse after a fire, and as security it had pledged *the great tree at the head of the square, recorded in the district survey as Lot 14*.
+The lien register was on the bottom shelf in the back room of the records office, under a quarter of an inch of dust. It was a Highridge credit entry in the old form, sixty years old. The town of Twilighthollow had borrowed a sum from the house of Varne, a plateau lending family, to rebuild the herb weighhouse after a fire, and as security it had pledged *the great tree at the head of the square, recorded in the district survey as Lot 14, for as long as it stands*.
 
 Ismet read it twice, and then he read the practice cited in its margin, which he knew by heart and read anyway: *no works may be undertaken on pledged collateral without the consent of the holder of the pledge.*
 
@@ -98,7 +98,7 @@ Ismet read it twice, and then he read the practice cited in its margin, which he
 
 "I know. I'll write today."
 
-Sessa didn't say anything. She put her hand on the bark near the faint carved *14*, as if steadying a friend who had just been told something unwelcome about herself.
+Sessa put her hand on the bark near the faint carved *14*, as if steadying a friend who had just been told something unwelcome about herself.
 
 ---
 
@@ -136,6 +136,8 @@ Sessa waited it out. "Every path is the first stake of the road," she finished. 
 
 Ismet didn't answer, because it was the vigil. He sat beside her, watching the tree and listening to the debate hall.
 
+At dusk the vigil ended, and the Deepwood half of the square carried its supper out under the trees to compare notes: flatbread, a pot of greens cooked with wild garlic, and river trout baked in leaves. Somebody put a bowl in Ismet's hands without asking whether a surveyor was entitled to one. When the notes came round to the two of them, Sessa said the beetles had been busy in the bark. Ismet, who had not been asked, said that the mule had been right all along. Sessa looked round at him properly for the first time that day.
+
 ---
 
 Hollis Varne arrived on the last day of the Debates with a satchel of papers and a very good coat that had seen better years. He came up from the plateau on the mail cart, and before he said a word to anyone he helped the carter unload it, and he gave Pip, who had come down from her tree to stare at him, a honey stick out of his own pocket.
@@ -144,7 +146,7 @@ Then he found the market master. "Your surveyor's letter reached my family," he 
 
 He had come to find out what the pledge was worth. It was sixty years old and it had never been repaid, and on the cart he had worked out sixty years of interest on the original sum, compounded at the plateau rate. He said the figure aloud in the market square. The market master sat down on the edge of the fountain, and the herb sellers stopped selling.
 
-The Weaver-path elder had spent the week under the market arcade writing up the Debates for the community record. She wrote everything down, including a great many things nobody had asked her to. She turned to a fresh page and started writing very fast.
+The Weaver-path elder had spent the week under the market arcade writing up the Debates for the community record. She turned to a fresh page and started writing very fast.
 
 "I'm sorry," Hollis said, and he looked as though he meant it. He was a young man in an old coat with a tired face. "I know how it sounds. My family lends to caravans. It's been a poor year for lending to caravans." He spread his hands. "We're not ruined. We'd just like not to be nearer it."
 
@@ -204,7 +206,7 @@ Sessa looked up into the canopy, black against the stars.
 
 ---
 
-They told Hollis in the records office in the morning, two days before the fair. Ismet read the pledge in the old register and then in the new, and Sessa said what it meant in hers, and the Weaver-path elder wrote down every word. Hollis listened to all of it without speaking. When they had finished, he took the buyer's letter out of his satchel and looked at it for a long time.
+They told Hollis in the records office in the morning, two days before the fair. Ismet read the pledge in the old register and then in the new, and Sessa said what it meant in hers. Hollis listened to all of it without speaking. When they had finished, he took the buyer's letter out of his satchel and looked at it for a long time.
 
 "If I sell this," he said at last, "whoever buys it wants the road."
 
@@ -214,13 +216,13 @@ They told Hollis in the records office in the morning, two days before the fair.
 
 "Maybe," said Sessa. "But not through her."
 
-Hollis tore the letter in half, and in half again, and put the pieces into the records office stove. The Weaver-path elder wrote that down too.
+Hollis tore the letter in half, and in half again, and put the pieces into the records office stove. The Weaver-path elder, who had followed them in, wrote that down.
 
 The town settled the rest by lunchtime. The Highridge side proposed, in proper Debates form, that the original sum be repaid — the small principal only, sixty years late, and no interest. The Deepwood side proposed that it be paid as a gift and not a debt, since nothing had ever actually been owed. Everyone agreed about the amount, which was small, and argued about the word, which was large, and were still arguing about it when Hollis took the money. He had the look of a man who had expected to be rich and was surprised to find he was relieved instead.
 
 Then he did something nobody had asked him to do, which was to renew the pledge. He had it rewritten in both registers, the old trade tongue and Sessa's, as a guardianship: the house of Varne would hold the tree for as long as it stood, the interest was waived and the debt discharged, and the consent right was kept, so that no works could be done on the tree or within its roots without the agreement of the house of Varne and the wardens of Twilighthollow together. Sessa read it through twice in her own language. The tree was the subject of every sentence.
 
-The path was staked that afternoon. It did not run twelve paces from the trunk. It ran along the edge of the root zone that Pip had been climbing over for years, where the humped ridges in the grass gave out onto smooth ground. When Ismet led Contract along it with a loaded pannier, the mule walked the whole length from the upper market to the herb yards without stopping once.
+Sessa staked the path herself that afternoon, walking the root edge a step at a time with her eyes on the grass, while Ismet came behind her with the chain. It did not run twelve paces from the trunk. It ran along the edge of the root zone that Pip had been climbing over for years, where the humped ridges in the grass gave out onto smooth ground. When Ismet led Contract along it with a loaded pannier, the mule walked the whole length from the upper market to the herb yards without stopping once.
 
 "He agrees," said the yard master, deeply satisfied.
 
@@ -246,7 +248,7 @@ Sessa read it at the counter twice. Then she looked at Ismet, who was very busy 
 
 "No," Ismet agreed, and kept checking his figures, and presently she reached across for the pen and initialed the footnote beside his.
 
-That afternoon she sent a fair copy of the survey up into the forest by the warden's post, to Naruin Mossglade. She didn't write a covering note. She thought the survey said everything she could have said, and in both languages, which was more than she could have managed herself.
+That afternoon she sent a fair copy of the survey up into the forest by the warden's post, to Naruin Mossglade. She didn't write a covering note.
 
 By the end of the fair's first day Hollis Varne had decided not to go back to the plateau. He had the principal and nobody to lend it to, and a family that could spare him for a season. And there was a very good spot, he pointed out to the market master, right at the bend of the new path, just past the root edge, where every herb seller and buyer in the district would walk past twice a day, hot and thirsty and arguing.
 

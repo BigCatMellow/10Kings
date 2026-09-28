@@ -154,9 +154,9 @@ Narrow Sound's children spied on the boat shed that week. Everybody's children s
 
 One of them was the niece of Narrow Sound's champion rower, Sigra Ulfsen, who was fast and tall and everybody's cousin, Brenna's included. Her uncle had lost his boat to raiders that summer. Kettle Cove had sent food.
 
-"And now it is said they shelter them," Hild said, turning fish beside him on the one afternoon he came to help. It wasn't her shell voice. "Her uncle's boat went down this summer. And it is said."
+"And now it is said they shelter them," Hild said, turning fish beside him on the one afternoon he came to help. It wasn't her shell voice.
 
-Aldo turned a fish and didn't answer. He was thinking about staves and hoops, and how fast a thing that was said became a thing everybody knew, and how nobody in the cove had actually been inside the shed except Brenna and Hild and, once, from the doorway, Rask.
+Aldo turned a fish and didn't answer. He was thinking about staves and hoops, and how nobody in the cove had actually been inside the shed except Brenna and Hild and, once, from the doorway, Rask.
 
 ---
 
