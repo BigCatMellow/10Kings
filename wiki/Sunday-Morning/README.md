@@ -19,6 +19,7 @@ A Sunday Morning Story is a character-driven, human-scale story with a clear pre
 7. [Voice](Voice.md) — how James's prose sounds; the drafts follow it.
 8. [Process Notes](Process-Notes.md) — how the stories were actually made, what went wrong, and the lessons now in the pipeline.
 9. [Collection Registry](Collection-Registry.md) — names, story shapes, devices and stock phrases already used, plus the freshness checker.
+10. [Storytelling Principles](Storytelling.md) — how to tell the story: James's principles from Pathwell (write it like the sequel, therefore/but, memory before loss), adapted for Sunday Morning.
 
 ## Stories
 

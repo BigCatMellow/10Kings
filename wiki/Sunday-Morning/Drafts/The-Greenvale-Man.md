@@ -118,7 +118,7 @@ The messenger stayed for a cup of something hot. He'd been through three coves i
 
 He shrugged. "It is said they've given water to raiders. That their headland has a cove nobody watches." He drank. "It is said."
 
-He was careful about it. Northwind speech made you mark how you knew a thing — whether you had seen it, or someone you trusted had told you, or it was only said — and he used the rumor form every time. He wasn't claiming he had seen anything. He wasn't even claiming someone he trusted had.
+He was careful about it, and used the rumor form every time.
 
 The hall heard it anyway. Aldo watched it land. He watched Rask's face not change, and the young rower lean over and say something low to the man beside him, and for a moment the argument about a boat turned into an argument about who could be trusted. Then Brenna asked about the planking again and the moment passed.
 
@@ -208,7 +208,7 @@ Nobody.
 
 Somebody coughed.
 
-"I have seen the Greenvale man bail a boat he mended." He used the sight form, the one reserved for what had passed in front of your own eyes, and said it slowly so the whole hall could hear which form it was. "I saw it today, from the slipway. I have not seen Narrow Sound shelter anyone. It is said. That's all it is." He sat down. "We race."
+"I have seen the Greenvale man bail a boat he mended." He used the sight form, and said it slowly so the whole hall could hear which form it was. "I saw it today, from the slipway. I have not seen Narrow Sound shelter anyone. It is said. That's all it is." He sat down. "We race."
 
 Brenna heard the next morning from a cousin that three coves up the coast had already sent Maris Bleakshore their convoy lists without Narrow Sound on them. Kettle Cove put Narrow Sound on its list that week.
 
@@ -228,7 +228,7 @@ At the end of the wall, where the path split up toward the clan hall and down to
 
 "We'll take them next year," he said.
 
-It was the wide *we*, the one with room in it for whoever was listening, and Aldo was the one listening. Hild took his arm, and they went down the path.
+It was the wide *we*, and Aldo was the one listening. Hild took his arm, and they went down the path.
 
 ---
 

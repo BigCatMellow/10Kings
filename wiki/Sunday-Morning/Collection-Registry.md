@@ -154,10 +154,11 @@ The collection is Sunday Morning first. Check every pass against the [Framework]
 
 For every future pass, in this order of priority:
 
-0. **Sunday Morning first.** Tone and stakes follow the Framework; the voice guide shapes sentences inside it. See the guardrails above.
-1. **Resolution variety over prose polish.** The costliest sameness so far was structural. Check the Story shapes table before touching sentences.
-2. **Let each story take only what it wants from the voice guide.** No beat checklist.
-3. **Name hygiene at L0.** Register every new name here when it's invented, not after drafting.
-4. **Look for the replacement tic.** After removing a repeated move, check that another hasn't taken its place (punchlines became silences, which became "wrote it down").
-5. **Leave deliberate ambiguity alone.** Some gaps are decisions. The mothers' relationship in The Goat File stays open (James, 2026-09-28).
-6. **James's guide sets AI's role.** Structure, continuity and repetition are AI's strengths here. Jokes, emotional lines and final rhythm are James's to own.
+1. **Tell it like the sequel, then stop.** The most common remaining fault is explaining after showing. Run the [Storytelling Principles](Storytelling.md) diagnostic, and prefer cuts.
+2. **Sunday Morning first.** Tone and stakes follow the Framework; the voice guide shapes sentences inside it. See the guardrails above.
+3. **Resolution variety over prose polish.** The costliest sameness so far was structural. Check the Story shapes table before touching sentences.
+4. **Let each story take only what it wants from the voice guide.** No beat checklist.
+5. **Name hygiene at L0.** Register every new name here when it's invented, not after drafting.
+6. **Look for the replacement tic.** After removing a repeated move, check that another hasn't taken its place (punchlines became silences, which became "wrote it down").
+7. **Leave deliberate ambiguity alone.** Some gaps are decisions. The mothers' relationship in The Goat File stays open (James, 2026-09-28).
+8. **James's guide sets AI's role.** Structure, continuity and repetition are AI's strengths here. Jokes, emotional lines and final rhythm are James's to own.

@@ -207,6 +207,8 @@ After **every** drafting pass, run `python3 tools/sunday_morning_check.py` from 
 
 The review checks:
 
+- the [Storytelling Principles](Storytelling.md) scene diagnostic and James's own watch-list (exposition as dialogue, the docent, telling what the scene just showed);
+
 - every "must establish" item and every ledger promise: paid off, transformed, or deliberately left open;
 - the [framework checklist](Framework.md#20-the-sunday-morning-story-checklist) and the [Two Sons addendum](Applying-to-Two-Sons.md#checklist-addendum);
 - canon: no Open Question settled, and every new name marked provisional;

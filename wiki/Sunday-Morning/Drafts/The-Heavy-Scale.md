@@ -88,8 +88,6 @@ Quill looked at his bowl. "I'm not able to say."
 
 "It is said the scale's off." She tapped her pipe on the rail. "Don't look at me like that. I didn't see it. I don't know anyone who saw it. *It is said.* There's a difference."
 
-Tove sorted everything she said into three piles: what she had seen herself, what she had been told by someone she would lend a boat to, and what was merely *said*. She was very strict about the piles, and she expected other people to be.
-
 "When did it go off?" Quill asked, before he could stop himself.
 
 "It is said, after the big blow."
@@ -190,7 +188,7 @@ Quill copied the date and underlined it. Then he counted forward through the not
 
 "Very."
 
-Tove Askell came in while he was still writing, to leave a coin for the shrine as she did every week, because the Compass looked after people on roads and she had been stuck on this one since autumn. She saw the date and leaned over his shoulder.
+Tove Askell came in while he was still writing, to leave a coin for the shrine as she did every week, because the Compass looked after people on roads and she had been stuck on this one since autumn. She spotted the date and leaned over his shoulder.
 
 "There. That's the night I saw the Gate's roof go."
 
@@ -266,7 +264,7 @@ The chief had spent the whole morning trying to persuade Quill to weigh the cara
 
 The yard went silent. The chief made a small noise.
 
-Quill reported it plainly and exactly, and he didn't hurry. The scale had read heavy by a tenth since the morning after the storm. He named the date from the shrine book, and all round the yard he heard the murmur of people who had spent the winter arguing about that date and had just lost. Then he gave the cause, and he began with the roof. On the night of the big blow, he said, the Second Gate's roof covering had started to tear loose over a common room full of stranded travelers, and somebody had gone up in the worst wind of the winter and held it down until morning. The shrine book had a pilgrim's note about it: *The Compass keep the innkeeper and her roof.* To hold it, she had tied the corner to the heaviest small thing in the yard, which was the town's stone. The wind took the covering and the stone together. Before morning she put a stone back in the cradle, a Northwind net-stone that also said *one stone*, and was not. He held them both up, one in each hand, so the whole yard could see.
+Quill reported it plainly and exactly, and he didn't hurry. The scale had read heavy by a tenth since the morning after the storm. He named the date from the shrine book, and a murmur went round the yard from people who had spent the winter arguing about that date and had just lost. Then he gave the cause, and he began with the roof: the night of the big blow, a covering tearing loose over a room full of stranded travelers, and somebody up there in the worst wind of the winter, holding it down until morning with the heaviest small thing in the yard. Then he held up the two stones, the town's and the Northwind net-stone that had taken its place, one in each hand, so the whole yard could see.
 
 Several people turned to look at Brisa Zell, who was standing near the front of the crowd with flour on her forearms.
 
@@ -292,7 +290,7 @@ The chief, visibly suffering, counted it out of the customs chest into her hand.
 
 "For the supper," she said. "Buy something that isn't salt fish."
 
-Samir Tareh had watched all of it without a word. When the yard had quieted, and Grell had been sent for, and the town's own stone had been washed and hung back in its cradle and the reference weights read true on the beam, Samir weighed his caravan's first bale himself. He watched the beam settle, nodded once to Quill, and took out his route book.
+Samir Tareh had watched all of it without a word. When the yard had quieted, and Grell had been sent for, and the town's own stone had been washed and hung back in its cradle and the reference weights read true on the beam, Samir weighed his caravan's first bale himself. The beam settled. He nodded once to Quill and took out his route book.
 
 ---
 
@@ -312,7 +310,7 @@ By the fire, Tove Askell had her boots on the rail and her pipe going, and a rin
 
 Late in the evening Samir Tareh took the seat beside Quill with his route book open, and turned it so that Quill could see the page. The entries were short and written in a neat plateau hand: passes, towns, water, yards and scales, a line or two for each. The line above the last one read *Seven Wells — water and guides, one roof*. Below it, in fresh ink, he had written *Icestep — scale honest, corrected in public*.
 
-"Most years I find a wrong scale somewhere and the town swears it's right," Samir said. "This year every report I get is worse than the truth, or better than it. Every pass says the other passes are unsafe, and every yard says it's the only honest one." He closed the book. "An honest scale is useful. A town that tells me its scale was wrong, in front of everyone, before I can find out for myself, is rarer. I can send caravans to a town like that."
+"Most years I find a wrong scale somewhere and the town swears it's right," Samir said. "This year every report I get is worse than the truth, or better than it. Every pass says the other passes are unsafe, and every yard says it's the only honest one." He closed the book.
 
 "And the others?"
 

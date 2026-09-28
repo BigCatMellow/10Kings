@@ -8,7 +8,8 @@ prose drafts in wiki/Sunday-Morning/Drafts/, then reports:
      sharing their first three letters; repeated surname endings; crowded
      first letters;
   2. repeated phrases: five-word phrases that appear in two or more stories;
-  3. registered stock phrases that still appear in the drafts.
+  3. registered stock phrases that still appear in the drafts;
+  4. filter verbs (Pathwell forbidden pattern #3), per 1,000 words.
 
 It reports; it never edits. Canon names are shown but never flagged as must-fix.
 Run from the repository root:  python3 tools/sunday_morning_check.py
@@ -151,6 +152,20 @@ def check_stock(texts):
     return hits
 
 
+FILTERS = r"\b(?:he|she|they)\s+(?:saw|felt|heard|noticed|watched)\b"
+
+
+def check_filters(texts):
+    """Pathwell forbidden pattern #3: filtering through perception verbs."""
+    out = []
+    for story, t in texts.items():
+        words = len(re.findall(r"\w+", t))
+        narration = re.sub(r"[\"\u201c][^\"\u201d]*[\"\u201d]", " ", t)  # ignore dialogue
+        hits = re.findall(FILTERS, narration, re.I)
+        out.append((story, len(hits), round(1000 * len(hits) / max(words, 1), 1)))
+    return out
+
+
 def main():
     rows = load_names()
     texts = draft_texts()
@@ -172,6 +187,10 @@ def main():
     print("\n== Registered stock phrases still present ==")
     for story, pat, c in check_stock(texts):
         print(f"  {story}: {pat} ×{c}")
+    print("\n== Filter verbs in narration (he saw / she felt / they heard / noticed / watched) ==")
+    print("   Pathwell forbidden pattern #3. Not all are wrong; review any story above ~2 per 1,000 words.")
+    for story, n, rate in sorted(check_filters(texts), key=lambda x: -x[2]):
+        print(f"  {story}: {n} ({rate} per 1,000 words)")
     must = sum(1 for lv, _ in res if lv == "MUST-FIX")
     return 1 if must else 0
 

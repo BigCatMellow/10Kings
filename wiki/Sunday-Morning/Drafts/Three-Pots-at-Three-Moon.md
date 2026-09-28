@@ -50,7 +50,7 @@ Mother Seral ladled a bowl of yesterday's stew and handed it to him. "Did you ea
 
 "Bread."
 
-"Bread," said Mother Seral, with enormous contempt, and didn't answer his question. She never answered questions. She answered them with other questions, always about food, and she had done it so steadily all their lives that the three of them had long ago stopped noticing it was a way of not answering.
+"Bread," said Mother Seral, with enormous contempt, and didn't answer his question.
 
 Jory stood with the bowl in his hands, and for no reason he could name he felt very small, and the bowl felt very heavy, and he was carrying it somewhere, carefully, in both hands, across a crowded street. Then the feeling was gone.
 
@@ -216,7 +216,7 @@ None of them had heard Mother Seral come in. She was standing in the doorway wit
 
 ---
 
-On the morning of the second day Jory went back to the Market Regulation office with his form and a problem that was, by any reasonable standard, unsolvable. The permit could go to one name. There were three of them. And the thing that made the stew right had turned out to belong to all three of them, and to none of them on their own.
+On the morning of the second day Jory went back to the Market Regulation office with his form and a problem that was, by any reasonable standard, unsolvable. The permit could go to one name. There were three of them.
 
 Amaranth Doss was delighted to see him. "One name," she said.
 

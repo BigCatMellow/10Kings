@@ -134,8 +134,6 @@ He turned back one page, to the caravan yards, and there it was in his own hand,
 
 The same ten words. Two women, two houses, two sons who had spent forty years being furious with each other, and the same ten words. Only the names were different.
 
-In a Highridge town, where people quoted each other exactly for a living, that did not happen by chance. Two people did not say the same sentence word for word unless they had said it to each other first.
-
 "Something wrong, clerk?"
 
 "No, sir." Wen closed his book very carefully, as if the sentence might get out. "I think your mother and Master Tarrow's mother might have known each other rather well."
@@ -292,7 +290,7 @@ Wen picked up his pen. In the column for rulings, in the formal register, he wro
 
 ---
 
-The ruling was lawful, and the senior arbiter confirmed it from the upper bench within the hour. Highridge law was entirely comfortable with a condition, provided the condition was stated exactly, and this one had been stated exactly for forty-four years. The ownership of the Ledger Goat was settled. It simply hadn't happened yet.
+The ruling was lawful, and the senior arbiter confirmed it from the upper bench within the hour. The ownership of the Ledger Goat was settled. It simply hadn't happened yet.
 
 The senior arbiter paid out at eleven to one to the three people in the gallery who had bet on a ruling. One of them was the tea seller. Wen found out later that she had placed her bet on the first afternoon, before he had even opened the file.
 

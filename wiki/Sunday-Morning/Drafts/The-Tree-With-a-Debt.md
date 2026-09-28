@@ -36,7 +36,7 @@ She said a word in her own speech, saw his face, and tried again in trade tongue
 
 The tree stood at the head of the square, exactly between Twilighthollow's two halves, where the Deepwood forest came down off the uplands and met the first bare shoulder of the Highridge plateau. It was older than the town and older than the town's oldest argument. Its trunk was wider than a cart was long, and its bark was carved with the marks of several centuries: tallies, a lovers' knot, a boundary sign in a script nobody could read anymore, and near the base, very faint, the Highridge figure *14*.
 
-In Sessa's grammar, old trees belonged in the same class as people and animals and some rivers — things that did things, rather than the ground things happened on. It didn't make her mystical. She had grown up on the Highridge side of town and gone to the Deepwood school and had never felt mystical about anything in her life. It only meant that when she talked about the tree, the grammar made her say what the tree was doing. In Ismet's paperwork the tree wasn't doing anything. It was Lot Fourteen.
+Sessa had grown up on the Highridge side of town and gone to the Deepwood school, and had never felt mystical about anything in her life. She simply knew what the tree was doing. In Ismet's paperwork, the tree wasn't doing anything. It was Lot Fourteen.
 
 "Then we'll need to settle," Ismet said carefully, "exactly what is being gone around."
 
@@ -180,19 +180,19 @@ He held the lamp up to his notes and read it in the old register and then, slowl
 
 "That's what I thought you said." She took her hand off the bark. "Ismet, in my language that isn't a length of time. It's something she does. Standing is her verb. The pledge is only true while she's doing it." She turned to him. "So what happens to the debt while she's doing it?"
 
-Ismet looked down at his notes. He had read *for as long as it stands* three times in the records office and heard a term, a duration — how long the pledge was good for. In the old register it was that. It was also a condition, and every condition has a subject. And there was an old plateau convention for a pledge that stood on a condition, one his grandfather's generation had used and his own had forgotten: the debt was carried, not called. It could not be demanded while the condition held. It fell due when the condition ended.
+Ismet looked down at his notes. He had read *for as long as it stands* three times in the records office and heard a term, a duration — how long the pledge was good for. In the old register it was that. It was also a condition, and every condition has a subject. And there was an old plateau convention for a pledge that stood on a condition, one his grandfather's generation had used and his own had forgotten: the debt was carried, not called.
 
 "Nothing," he said slowly. "Nothing happens to it. It can't be called while she stands — not the interest, not the principal, nothing, for sixty years. It comes due the day she falls. It's all waiting on the tree."
 
 "And that," said Sessa, "is what they're buying."
 
-It took him a moment, and then it didn't. Whoever held the pledge was owed nothing while the tree stood and sixty years of compound interest the day it fell, and a road for timber wagons, straight through the square, would take the tree at its head on the first morning. And whoever held the pledge also held the consent right. They could say yes to the works that brought the tree down, and be paid handsomely for saying it.
+It took him a moment, and then it didn't.
 
 "The buyer isn't buying a debt," Ismet said. "He's buying the day she falls."
 
 "And the Varnes, all this time—"
 
-"For sixty years the Varnes have held the only legal power there is to stop anyone felling her." He laughed once, very quietly, in the dark. "Nobody could touch this tree without their consent. Not the town, not the district, not a road. A plateau lending house has held the only power to stop anyone felling a Deepwood tree for sixty years, with every reason to let it fall, and nobody on either side knew."
+"For sixty years the Varnes have held the only legal power there is to stop anyone felling her." He laughed once, very quietly, in the dark. "Nobody could touch this tree without their consent. Not the town, not the district, not a road. And every reason to let her fall."
 
 Sessa looked up into the canopy, black against the stars.
 

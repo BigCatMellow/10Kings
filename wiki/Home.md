@@ -84,6 +84,7 @@ Small, human-scale stories set in the world's border towns, festivals and neighb
 - [Voice](Sunday-Morning/Voice.md) — notes on James's prose voice, used for every draft
 - [Process Notes](Sunday-Morning/Process-Notes.md) — how the stories were made and what the process learned
 - [Collection Registry](Sunday-Morning/Collection-Registry.md) — what's already been used, to keep new stories fresh
+- [Storytelling Principles](Sunday-Morning/Storytelling.md) — how to tell the story, from James's Pathwell notes
 
 ## Writing and provenance
 

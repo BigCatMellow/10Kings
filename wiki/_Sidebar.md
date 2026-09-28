@@ -66,6 +66,7 @@
 - [Voice](Sunday-Morning/Voice.md)
 - [Process Notes](Sunday-Morning/Process-Notes.md)
 - [Collection Registry](Sunday-Morning/Collection-Registry.md)
+- [Storytelling Principles](Sunday-Morning/Storytelling.md)
 - [Story Seeds](Sunday-Morning/Stories/Story-Seeds.md)
 
 **Reference**

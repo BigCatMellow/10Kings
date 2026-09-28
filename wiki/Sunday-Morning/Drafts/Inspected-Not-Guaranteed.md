@@ -327,7 +327,7 @@ The three judges stood and looked at it for a long time.
 
 "Every farm on this flat," said Nell, "is still a farm. Did you know that? Not one of us sold. Farms further up the valley sold out this winter, when the grain went for nothing. Not us. We couldn't afford a new plow, or a new pump, or a new gate, so we had them mended." She looked straight at him. "And when the grain comes back, Oswin Vey, we'll buy plowshares again. From you and your members. At a master's rate."
 
-Wurdren watched Vey work it through the way he worked through everything, by the book. Repairs had kept the farms solvent. Solvent farms bought tools. Tools paid his members. The rates he had spent all winter protecting had been protected all winter by the plumbing.
+Vey said nothing for a moment. The rates he had spent all winter protecting had been protected all winter by the plumbing.
 
 "Inspected," Vey said to the ditch. "In service." He turned to the other two masters. "And every forge on this lane puts in one of Barrowfield's troughs before the harvest. Enter it in the book." He looked at Nell. "Tell your farmers that."
 
@@ -350,8 +350,6 @@ Tamsin welded the tang that night. She used ordinary steel and did it perfectly,
 Wurdren weighed it in his hand. It was a fine, ordinary sword, and it balanced exactly as it always had.
 
 On his way to The Quench he passed Col's bench, where the new master's tools were laid out for the morning, and saw the letter lying among them: cream paper, folded small, still a little damp at the edges, and unanswered. Col was across the lane with Kerra and half the upper street, arguing happily about something, and didn't see him look.
-
-Wurdren thought about what he had said on the charcoal road. He thought about the ditch and the gates and the pumps and the gear cut from scrap, and about how nobody had needed his advice after all.
 
 At The Quench the keeper put a bowl of forged harvest stew in front of him: barley and beef and roots in a dark, smoky broth that forge towns and farm towns both claimed to have invented. Somebody at the fire end asked about his sword.
 

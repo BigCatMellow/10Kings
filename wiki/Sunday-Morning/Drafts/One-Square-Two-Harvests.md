@@ -32,11 +32,7 @@ He looked down. Bettany Corlew was planted under the quince tree with her fists 
 
 From the third branch he could see most of Harveston Vale: the grain lanes running north into the wetter fields, the orchard terraces climbing south toward the dry country, the canal that fed both of them, and the square in the middle where the lanes and the terraces met and pretended to get along. There were carts on every lane. There had been carts on every lane for three weeks. Nobody in the Vale could remember a harvest that took three weeks to bring in, and Harvest Home was ten days off.
 
-"It's late because it's big," Bettany said. "It's the biggest anyone's seen. And Harvest Home follows the harvest. You can't hold the accounting before the grain's in."
-
-"No."
-
-"So it moves back a week." She lifted the ledger toward him as if he could read it from up there. "Into the Crush's week."
+"It's late because it's big," Bettany said. "It's the biggest anyone's seen. So Harvest Home moves back a week." She lifted the ledger toward him as if he could read it from up there. "Into the Crush's week."
 
 At the far end of the square, the gate of the Salve house was already hung with vine garlands for the Wine Crush.
 
@@ -182,13 +178,11 @@ Idris read second. The Sunplains version was later, and ornate in the way of doc
 
 It went on like that for some time. Pell wasn't listening to it. He was listening to the verb.
 
-Greenvale grammar did not let you say that something happened without saying what kind of happening it was. A thing that came round every year took one form, and a thing that had happened once and was finished took another, and every child in the Vale got it wrong at five and never again. The clause did not say that each harvest *keeps* the square, the way the sun keeps rising. It said each harvest *kept* it, in the form for a thing done once and finished.
-
-That wasn't a rule. It was somebody writing down what had happened in one particular year. And Sunplains had no neat way to carry that difference, so somewhere, long ago, a translator had made a finished thing into a standing law with a stroke of the pen and never known it.
+*Kept.* Not *keeps*.
 
 He said nothing. Bettany saw his face anyway, all the way across the square from the north steps, and for a moment she looked hopeful. Then he turned away, and she looked furious instead.
 
-"You know both lots keep their old banners in my loft," Hobb said at his elbow. "Always have. My mill's the only roof in the Vale neither side will accuse of taking sides. Two chests. Each lot swears theirs is the original, and neither's unrolled theirs in my lifetime, in case it turns out to be moth." He sniffed. "I charge them both for the space."
+"Both lots keep their old banners in my loft," Hobb said at his elbow. "Always have. Two chests. Each lot swears theirs is the original, and neither's unrolled theirs in my lifetime, in case it turns out to be moth." He sniffed. "I charge them both for the space."
 
 "Then someone should unroll them."
 
@@ -312,7 +306,7 @@ The first morning was awkward. Harvest Home families had always set up on the no
 
 Then Bettany and Idris climbed the north steps together and read out the surplus.
 
-They took turns. Bettany read what had come in, which was more than anyone living had seen. Idris read what had been bought, by whom, and at what price, and each time he said *bought*, Bettany added *sold* in her committee voice. People laughed and couldn't have told you why. They could simply hear that something was happening between the two of them. And for once the public accounting of the Vale's surplus sounded like good news.
+They took turns. Bettany read what had come in, which was more than anyone living had seen. Idris read what had been bought, by whom, and at what price, and each time he said *bought*, Bettany added *sold* in her committee voice. People laughed and couldn't have told you why. And for once the public accounting of the Vale's surplus sounded like good news.
 
 Then they ate it. The grain the river merchants had said was unsafe was boiled with apricots and honey and laid out on long tables down the middle of the square, and the whole Vale sat down and ate it in front of each other. Nobody was sick. Everybody knew nobody was sick. By evening there were two downriver merchants standing at the edge of the crowd, looking thoughtful.
 
