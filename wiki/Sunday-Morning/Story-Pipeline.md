@@ -48,10 +48,10 @@ MAPS_L requires DONE to be defined before work starts. A story's target level is
 | **L0 Concept** | Framework template filled; checklist passes | the story's page |
 | **L1 Hardened** | THINK pass recorded; alternatives and unknowns explicit; handoff written | story page → Development record |
 | **L2 Outlined** | Scene plan, promise ledger and reconsideration triggers recorded | story page → Development record |
-| **L3 Drafted** | Full prose draft exists | a separate draft file linked from the story page |
+| **L3 Drafted** | Full prose draft exists, written from a recorded voice source ([Voice](Voice.md)) and checked independently against the plan | a separate draft file linked from the story page |
 | **L4 Reviewed** | Independent review done and findings reconciled; James has read it | story page + review notes |
 
-All seven stories started at L0 and were taken to L2 on 2026-09-27, then drafted to L3 the same day ([The Drafts](Drafts/README.md)) and rewritten in James's voice ([Voice](Voice.md)). An independent check was run on the drafts and its findings were fixed; the full L4 review is still to come.
+All seven stories started at L0 and were taken to L2 on 2026-09-27. They were then drafted to L3 and revised over four passes ([The Drafts](Drafts/README.md)), ending with a voice-guide pass and a fit-and-uniqueness pass on 2026-09-28. The full L4 review is still to come. How the drafting actually went, and what it taught, is in [Process Notes](Process-Notes.md). Those lessons are built into the stages below.
 
 ---
 
@@ -158,7 +158,31 @@ Name the evidence that would make the plan wrong. For example: "if the midpoint 
 
 ---
 
+### Collection shape check (for a set of stories)
+
+Added 2026-09-28 from [Process Notes](Process-Notes.md). Before drafting several stories that will be read together, lay their plans side by side and compare:
+
+- protagonist type;
+- the engine of the plot;
+- how the problem is resolved (a document, an object, a physical event, people, memory);
+- emotional register;
+- opening;
+- the shape of the final line.
+
+Vary them here. In the first collection, six of seven plans resolved by reading a document closely, and it took a drafting pass to undo that.
+
+---
+
 ## Stage 3 — DO: draft
+
+### Before the first draft
+
+Added 2026-09-28 from [Process Notes](Process-Notes.md):
+
+- **Voice source first.** Record the author's voice on [Voice](Voice.md), from samples or a guide, before drafting. A draft written without one will be in a substitute voice, however good it is.
+- **Test before batch.** In a collection, draft or revise one story, get the author's verdict, then do the rest.
+- **Sensibility, not checklist.** Voice and craft guidance shapes the prose. It does not assign the same beats to every story.
+- **Respect the author's AI boundaries.** Where the voice guide asks for caution (jokes, emotional language, character-defining dialogue, final sentence rhythm), treat those lines as scaffolding for the author and flag them for review.
 
 Draft scene by scene from the plan. Preserve the plan's "must establish" items. When drafting surfaces a problem, route it to the right level instead of patching it where it shows up:
 
@@ -176,6 +200,8 @@ This is PLAN's DO / PLAN / THINK / authority routing, applied to prose.
 ## Stage 4 — JUDGE: review independently
 
 MAPS_L: **no owner approves their own substantive work.** The draft is reviewed by a fresh pass that did not write it, working only from the story page and the draft.
+
+After **every** drafting pass, not only at L4, run a fresh check that compares the new version with the previous one (drift) and, for a collection, the stories with each other (repetition). After fixing a repeated pattern, look for the new pattern that replaced it. Write change notes from the diff, not from intention.
 
 The review checks:
 

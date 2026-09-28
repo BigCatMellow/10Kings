@@ -17,6 +17,7 @@ A Sunday Morning Story is a character-driven, human-scale story with a clear pre
 5. [Story Pipeline](Story-Pipeline.md) — how to develop a story from concept to reviewed draft using MAPS_L with THINK and PLAN, and what the development levels L0–L4 mean.
 6. [The Drafts](Drafts/README.md) — the seven stories in prose, in reading order.
 7. [Voice](Voice.md) — how James's prose sounds; the drafts follow it.
+8. [Process Notes](Process-Notes.md) — how the stories were actually made, what went wrong, and the lessons now in the pipeline.
 
 ## Stories
 
