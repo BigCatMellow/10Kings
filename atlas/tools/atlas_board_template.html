@@ -134,6 +134,37 @@ aside.panel { background: var(--surface); border: 1px solid var(--line); border-
 .below h3:first-of-type { margin-top: 0; }
 .below ul { margin: 0; padding-left: 1.1em; display: grid; gap: 6px; }
 .note { font-size: 12px; color: var(--muted); margin: 8px 0 0; }
+/* project health: status is ordinal (how settled), so one hue light-to-dark; non-canon is hatched, no label is gray */
+:root { --h-est: var(--focus); --h-work: color-mix(in oklab, var(--focus) 62%, var(--surface)); --h-prov: color-mix(in oklab, var(--focus) 30%, var(--surface));
+  --h-none: color-mix(in oklab, var(--muted) 38%, var(--surface)); --h-ref: repeating-linear-gradient(135deg, var(--muted) 0 1.5px, transparent 1.5px 5px); }
+.below section.health { grid-column: 1 / -1; }
+.tiles { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 12px; }
+.tile { border: 1px solid var(--line); border-radius: 6px; padding: 6px 12px; min-width: 120px; }
+.tile b { display: block; font-family: var(--font-display); font-size: 1.6rem; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.tile span { font-size: 12px; color: var(--muted); }
+.hgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 12px 24px; }
+.legend { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 12px; color: var(--muted); margin: 0 0 8px; }
+.legend i, .seg i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; vertical-align: -2px; margin-right: 5px; border: 1px solid var(--line); }
+.srow { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 2px 10px; align-items: center; margin-bottom: 7px; font-size: 12px; }
+.srow .lbl { color: var(--ink); font-weight: 600; }
+.sbar { display: flex; gap: 2px; height: 14px; }
+.sbar span { display: block; height: 100%; min-width: 2px; }
+.sbar span:first-child { border-radius: 4px 0 0 4px; } .sbar span:last-child { border-radius: 0 4px 4px 0; } .sbar span:only-child { border-radius: 4px; }
+.srow small { grid-column: 2; color: var(--muted); font-size: 11px; }
+table.cov { border-collapse: separate; border-spacing: 2px; font-size: 12px; font-variant-numeric: tabular-nums; }
+table.cov th { font-weight: 600; color: var(--muted); text-align: left; padding: 2px 6px; white-space: nowrap; }
+table.cov thead th { font-family: var(--font-display); letter-spacing: .04em; text-transform: uppercase; font-size: 11px; text-align: center; }
+table.cov td { text-align: center; padding: 3px 6px; border-radius: 4px; color: var(--ink); min-width: 34px; }
+table.cov td.zero { color: var(--muted); background: transparent; outline: 1px dashed var(--line); outline-offset: -1px; }
+.covwrap { overflow-x: auto; }
+.hlist { display: flex; flex-wrap: wrap; gap: 4px; }
+.hdet { margin: 0 0 4px; } .hdet summary { cursor: pointer; font-size: 13px; font-weight: 600; padding: 2px 0; } .hdet summary small { color: var(--muted); font-weight: 400; margin-left: 4px; } .hdet .hlist { margin: 4px 0 6px; }
+.hlist button { text-align: left; font: inherit; font-size: 12px; border: 1px solid var(--line); background: var(--bg); border-radius: 999px; padding: 2px 8px; cursor: pointer; color: var(--ink); }
+.hlist button:hover { border-color: var(--focus); }
+.hlist button:focus-visible { outline: 2px solid var(--focus); outline-offset: 1px; }
+.hlist button small { color: var(--muted); }
+.health h3 { font-family: var(--font-display); font-size: 1rem; margin: 4px 0 6px; }
+.lonelyOn .card.lonely { outline: 2px dashed var(--inferred); outline-offset: 1px; }
 @media (prefers-reduced-motion: reduce) { .card, .chev { transition: none; } }
 </style>
 
@@ -151,6 +182,7 @@ aside.panel { background: var(--surface); border: 1px solid var(--line); border-
     <span class="seg" id="groupBy">Group by <span class="segs" role="group" aria-label="Group cards by"><button type="button" data-mode="region" aria-pressed="true">Region</button><button type="button" data-mode="kind" aria-pressed="false">Kind</button></span></span>
     <span class="parts" id="parts"></span>
     <label><input type="checkbox" id="optInferred"> Show inferred connections</label>
+    <label><input type="checkbox" id="optLonely"> Mark unconnected cards</label>
     <button type="button" class="btn" id="expandAll">Open all cards</button>
   </div>
   <div class="layout">
@@ -158,6 +190,7 @@ aside.panel { background: var(--surface); border: 1px solid var(--line); border-
     <aside class="panel" id="panel" aria-live="polite"></aside>
   </div>
   <div class="below">
+    <section class="health" id="health" aria-labelledby="healthTitle"><h2 id="healthTitle">Project health</h2><div id="healthBody"></div><p class="note">Counted from the cards themselves, so it updates whenever the Atlas is rebuilt. Status is each card's wiki page label.</p></section>
     <section><h2>Gaps the wiki leaves open</h2><div id="gaps"></div><p class="note">What the wiki doesn't settle yet. Listed for decisions, never filled in.</p></section>
   </div>
 </div>
@@ -469,6 +502,61 @@ const DATA = /*ATLAS_DATA*/null;
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { if (current) drawLinks(current); });
 
   $("gaps").innerHTML = DATA.gaps.filter((g) => g.items.length).map((g) => `<div data-part="${esc(g.part)}"><h3>${esc(g.title)}</h3><ul>${g.items.map((x) => `<li>${esc(x).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>")}</li>`).join("")}</ul></div>`).join("");
+  // ---- project health, computed from the same data the cards use ----
+  const degree = {};
+  DATA.edges.forEach((e) => { degree[e.from] = (degree[e.from] || 0) + 1; degree[e.to] = (degree[e.to] || 0) + 1; });
+  function blanks(n) {
+    const sch = SCHEMA[n.kind] || { rows: [], facts: [] };
+    const have = new Set();
+    DATA.edges.forEach((e) => { if (e.from === n.id) have.add(end(e, true).row); if (e.to === n.id) have.add(end(e, false).row); });
+    const rows = sch.rows.filter((r) => r.always && !(n.skip_rows || []).includes(r.label) && !have.has(r.label)).map((r) => r.label);
+    const facts = (sch.facts || []).filter((f) => f.always && !(n.facts || {})[f.key]).map((f) => f.key);
+    return rows.concat(facts);
+  }
+  const BUCKETS = [["Established", "var(--h-est)"], ["Working canon", "var(--h-work)"], ["Provisional", "var(--h-prov)"], ["No status label", "var(--h-none)"], ["Writing reference", "var(--h-ref)"]];
+  const BUCKET_NOTE = { "Writing reference": "Writing reference (Sunday Morning, not canon)" };
+  const bucketOf = (s) => { s = s.toLowerCase(); return s.startsWith("established") || s.startsWith("core function established") ? "Established" : s.startsWith("working canon") ? "Working canon" : s.startsWith("provisional") ? "Provisional" : s.startsWith("writing reference") ? "Writing reference" : "No status label"; };
+  const swatch = (c) => `<i style="background:${c}"></i>`;
+  function health() {
+    const N = DATA.nodes, stated = DATA.edges.filter((e) => e.basis === "stated").length;
+    const qs = N.filter((n) => n.kind === "question").length;
+    const gapCount = DATA.gaps.reduce((a, g) => a + g.items.length, 0);
+    const lonely = N.filter((n) => !degree[n.id]);
+    const tiles = [[N.length, "things mapped"], [DATA.edges.length, `connections (${Math.round(100 * stated / DATA.edges.length)}% stated in the wiki)`],
+      [qs, "open questions"], [gapCount, "gaps listed"], [lonely.length, "cards with no connection yet"]];
+    const status = DATA.parts.map((p) => {
+      const inP = N.filter((n) => n.part === p.short), c = {};
+      inP.forEach((n) => { const b = bucketOf(n.status); c[b] = (c[b] || 0) + 1; });
+      const segs = BUCKETS.filter(([b]) => c[b]).map(([b, col]) => `<span style="flex:${c[b]};background:${col}" title="${esc(p.short)}: ${c[b]} ${esc(b)}"></span>`).join("");
+      const words = BUCKETS.filter(([b]) => c[b]).map(([b]) => `${c[b]} ${b.toLowerCase()}`).join(" · ");
+      return `<div class="srow"><span class="lbl">${esc(p.short)}</span><span class="sbar" role="img" aria-label="${esc(p.short)}: ${esc(words)}">${segs}</span><small>${esc(words)}</small></div>`;
+    }).join("");
+    const lanesUsed = DATA.lanes.filter((l) => N.some((n) => n.lane === l.id));
+    let max = 0;
+    const cnt = (l, p) => N.filter((n) => n.lane === l && n.part === p).length;
+    lanesUsed.forEach((l) => DATA.parts.forEach((p) => { max = Math.max(max, cnt(l.id, p.short)); }));
+    const cov = `<div class="covwrap"><table class="cov"><caption class="note" style="caption-side:bottom;text-align:left">Cards per column and part. Dashed cells are empty: nothing from that part lives in that column yet.</caption><thead><tr><th></th>${DATA.parts.map((p) => `<th scope="col">${esc(p.short)}</th>`).join("")}</tr></thead><tbody>` +
+      lanesUsed.map((l) => `<tr><th scope="row">${esc(l.label)}</th>${DATA.parts.map((p) => { const v = cnt(l.id, p.short);
+        return v ? `<td style="background:color-mix(in oklab, var(--focus) ${Math.round(8 + 40 * v / max)}%, var(--surface))" title="${esc(l.label)} · ${esc(p.short)}: ${v}">${v}</td>` : `<td class="zero" title="${esc(l.label)} · ${esc(p.short)}: none">·</td>`; }).join("")}</tr>`).join("") + `</tbody></table></div>`;
+    const btn = (n, extra) => `<button type="button" data-hgo="${esc(n.id)}">${esc(n.label)}${extra ? ` <small>${esc(extra)}</small>` : ""}</button>`;
+    const lonelyHtml = DATA.parts.map((p) => { const xs = lonely.filter((n) => n.part === p.short); return xs.length ? `<details class="hdet"><summary>${esc(p.short)} <small>${xs.length}</small></summary><div class="hlist">${xs.map((n) => btn(n)).join("")}</div></details>` : ""; }).join("") || `<p class="note">Every card has at least one connection.</p>`;
+    const blanky = N.map((n) => [n, blanks(n)]).filter(([, b]) => b.length).sort((a, b) => b[1].length - a[1].length).slice(0, 18);
+    const blankHtml = `<div class="hlist">${blanky.map(([n, b]) => btn(n, `${b.length} blank`)).join("")}</div>`;
+    $("healthBody").innerHTML = `<div class="tiles">${tiles.map(([v, t]) => `<div class="tile"><b>${v}</b><span>${esc(t)}</span></div>`).join("")}</div>
+      <div class="hgrid"><div><h3>How settled each part is</h3><div class="legend">${BUCKETS.map(([b, c]) => `<span>${swatch(c)}${esc(BUCKET_NOTE[b] || b)}</span>`).join("")}</div>${status}</div>
+      <div><h3>Where the cards are</h3>${cov}</div></div>
+      <div class="hgrid" style="margin-top:10px"><div><h3>No connections yet</h3>${lonelyHtml}<p class="note">Some are fine on their own (a saying, a festival); others are things the wiki hasn't tied to anything yet. "Mark unconnected cards" outlines them on the board.</p></div>
+      <div><h3>Most "none stated" rows and missing facts</h3>${blankHtml}<p class="note">A card's always-shown rows and facts that the wiki leaves empty.</p></div></div>`;
+    $("healthBody").querySelectorAll("[data-hgo]").forEach((b) => b.addEventListener("click", () => {
+      const n = byId[b.dataset.hgo];
+      if (!partOn[n.part]) { partOn[n.part] = true; document.querySelectorAll(`input[data-part="${n.part}"]`).forEach((c) => { c.checked = true; }); refresh(); }
+      select(n.id); scrollToCard(n.id); board.scrollIntoView({ block: "nearest" });
+    }));
+  }
+  Object.entries(cardEls).forEach(([id, c]) => c.classList.toggle("lonely", !degree[id]));
+  $("optLonely").addEventListener("change", () => document.body.classList.toggle("lonelyOn", $("optLonely").checked));
+  health();
+
   const start = readHash();
   let group = start.group === "kind" || start.group === "region" ? start.group : null;
   if (!group) { try { group = localStorage.getItem("atlas-group"); } catch (e) { group = null; } }

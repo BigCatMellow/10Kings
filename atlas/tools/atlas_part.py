@@ -376,6 +376,87 @@ def shoot(html, shots):
         os.remove(tmp)
 
 
+HEALTH = os.path.join(ATLAS, "health")
+BUCKETS = ["Established", "Working canon", "Provisional", "No status label", "Writing reference"]
+
+
+def bucket(status):
+    s = status.lower()
+    if s.startswith("established") or s.startswith("core function established"):
+        return "Established"
+    for b in ("Working canon", "Provisional", "Writing reference"):
+        if s.startswith(b.lower()):
+            return b
+    return "No status label"
+
+
+def write_health(data):
+    """The project-health page: the same numbers the board's Project health section computes."""
+    nodes, edges, schema = data["nodes"], data["edges"], data["schema"]
+    deg = collections.Counter()
+    rows_of = collections.defaultdict(set)
+    for e in edges:
+        deg[e["from"]] += 1
+        deg[e["to"]] += 1
+        rows_of[e["from"]].add(e.get("chip") or e["type"])
+        rows_of[e["to"]].add(e.get("chipBack") or e.get("chip") or e["type"])
+
+    def blanks(n):
+        sk = schema.get(n["kind"], {"rows": [], "facts": []})
+        r = [x["label"] for x in sk["rows"] if x.get("always") and x["label"] not in n.get("skip_rows", []) and x["label"] not in rows_of[n["id"]]]
+        f = [x["key"] for x in sk["facts"] if x.get("always") and not n.get("facts", {}).get(x["key"])]
+        return r + f
+
+    parts = [p["short"] for p in data["parts"]]
+    stated = sum(1 for e in edges if e["basis"] == "stated")
+    qs = [n for n in nodes if n["kind"] == "question"]
+    gap_n = sum(len(g["items"]) for g in data["gaps"])
+    lonely = [n for n in nodes if not deg[n["id"]]]
+    out = ["# Atlas: Project health", "", "## Status", "",
+           "**Derived view, not canon. Generated; don't edit by hand.** Rebuilt by `python3 atlas/tools/atlas_part.py` from the same data as the [board](../board/README.md), whose Project health section shows these numbers interactively. Part of the [Atlas](../README.md).", "",
+           "## At a glance", "",
+           f"- **{len(nodes)}** things mapped, **{len(edges)}** connections ({round(100 * stated / len(edges))}% stated in the wiki, the rest inferred)",
+           f"- **{len(qs)}** open questions ([Part 8](../questions/README.md))",
+           f"- **{gap_n}** gaps listed across the parts",
+           f"- **{len(lonely)}** cards with no connection yet", "",
+           "## How settled each part is", "",
+           "Each card carries its wiki page's status label. \"Writing reference\" is the Sunday Morning cast, which is not canon.", "",
+           "| Part | " + " | ".join(BUCKETS) + " | Total |", "| --- | " + " | ".join("---:" for _ in BUCKETS) + " | ---: |"]
+    for p in parts:
+        c = collections.Counter(bucket(n["status"]) for n in nodes if n["part"] == p)
+        out.append(f"| {p} | " + " | ".join(str(c[b]) if c[b] else "·" for b in BUCKETS) + f" | {sum(c.values())} |")
+    tot = collections.Counter(bucket(n["status"]) for n in nodes)
+    out.append("| **All** | " + " | ".join(f"**{tot[b]}**" for b in BUCKETS) + f" | **{len(nodes)}** |")
+    out += ["", "## Where the cards are", "", "Cards per board column and part. A dot means nothing from that part lives in that column yet.", "",
+            "| Column | " + " | ".join(parts) + " |", "| --- | " + " | ".join("---:" for _ in parts) + " |"]
+    for l in data["lanes"]:
+        c = collections.Counter(n["part"] for n in nodes if n["lane"] == l["id"])
+        if c:
+            out.append(f"| {l['label']} | " + " | ".join(str(c[p]) if c[p] else "·" for p in parts) + " |")
+    out += ["", "## Most \"none stated\" rows and missing facts", "",
+            "Cards whose always-shown rows and facts the wiki leaves empty, most first.", "", "| Card | Part | Empty |", "| --- | --- | --- |"]
+    bl = sorted(((n, blanks(n)) for n in nodes), key=lambda x: -len(x[1]))
+    for n, b in [x for x in bl if x[1]][:25]:
+        out.append(f"| {n['label']} | {n['part']} | {', '.join(b)} |")
+    out += ["", "## No connections yet", "", "Some are fine on their own (a saying, a festival); others are things the wiki hasn't tied to anything yet.", ""]
+    for p in parts:
+        xs = [n["label"] for n in lonely if n["part"] == p]
+        if xs:
+            out.append(f"- **{p}** ({len(xs)}): " + "; ".join(xs))
+    out += ["", "## Open questions and what they ask about", ""]
+    byid = {n["id"]: n for n in nodes}
+    sect = collections.OrderedDict()
+    for q in qs:
+        sect.setdefault(q["facts"]["Section"], []).append(q)
+    for sname, items in sect.items():
+        out.append(f"- **{sname}** ({len(items)}): " + "; ".join(
+            q["facts"]["Question"].rstrip(".") + (" → " + ", ".join(byid[e["to"]]["label"] for e in edges if e["from"] == q["id"]) if any(e["from"] == q["id"] for e in edges) else " → *nothing on the board yet*")
+            for q in items))
+    out += ["", "## Gaps per part", "", "| Part | Gaps |", "| --- | ---: |"] + [f"| [{g['title']}](../board/README.md) | {len(g['items'])} |" for g in data["gaps"]]
+    os.makedirs(HEALTH, exist_ok=True)
+    open(os.path.join(HEALTH, "README.md"), "w", encoding="utf-8").write("\n".join(out) + "\n")
+
+
 def main():
     if len(sys.argv) > 1:
         sys.exit(__doc__)
@@ -387,6 +468,7 @@ def main():
         write_md(d, data["nodes"], data["kinds"], data["lanes"], board.get("live"), data["schema"])
     html = write_html(data)
     write_board_md(data, parts)
+    write_health(data)
     # the whole board is an overview (cards collapsed); each part's image is its full record (cards open)
     shots = [(os.path.join(BOARD, "atlas-board.png"), None, False)]
     shots += [(os.path.splitext(d["_path"])[0] + ".png", d["short"], True) for d in parts]

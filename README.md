@@ -12,7 +12,7 @@ Start here:
 - [Current Events](wiki/Story/Current-Events.md)
 - [Story Core](wiki/Story/Main-Conflict.md)
 - [Legacy Notes](legacy-notes/README.md) — preserved source material and older versions
-- [Atlas](atlas/README.md) — maps of the whole project built from the wiki (derived views, not canon); so far the [Domino Map](atlas/domino-map/Domino-Map.md)
+- [Atlas](atlas/README.md) — the whole project on one board, built from the wiki (derived views, not canon): geography, culture, food, power, history, people, the story layer, open questions and project health. The board is an HTML page, [`atlas/board/atlas-board.html`](atlas/board/atlas-board.html); see [Opening the board](atlas/README.md#opening-the-board).
 
 ## Canon status
 

@@ -1,0 +1,1124 @@
+{
+  "part": 8,
+  "short": "Questions",
+  "title": "Open questions",
+  "subtitle": "Every open question in the wiki, placed next to the thing it asks about.",
+  "schematic": "Each question is a small card under an Open questions heading in the column of what it asks about, with a line to that card. Questions about things with no card yet (magic, rivers, language families, borders in general) sit in World & unplaced.",
+  "about": "Atlas Part 8, the first half of the project-health layer. Source: Open Questions.",
+  "kinds": {
+    "question": "Open question"
+  },
+  "layers": [
+    {
+      "id": "oq",
+      "label": "What each question asks about",
+      "default": true
+    }
+  ],
+  "card_schema": {
+    "question": {
+      "rows": [
+        {
+          "label": "Asks about",
+          "always": true
+        }
+      ],
+      "facts": [
+        {
+          "key": "Question",
+          "always": true
+        },
+        {
+          "key": "Section",
+          "always": true
+        }
+      ]
+    },
+    "landmass": {
+      "rows": [
+        {
+          "label": "Open questions",
+          "always": false
+        }
+      ]
+    },
+    "hub": {
+      "rows": [
+        {
+          "label": "Open questions",
+          "always": false
+        }
+      ]
+    },
+    "region": {
+      "rows": [
+        {
+          "label": "Open questions",
+          "always": false
+        }
+      ]
+    },
+    "mountains": {
+      "rows": [
+        {
+          "label": "Open questions",
+          "always": false
+        }
+      ]
+    },
+    "overview": {
+      "rows": [
+        {
+          "label": "Open questions",
+          "always": false
+        }
+      ]
+    },
+    "government": {
+      "rows": [
+        {
+          "label": "Open questions",
+          "always": false
+        }
+      ]
+    },
+    "council": {
+      "rows": [
+        {
+          "label": "Open questions",
+          "always": false
+        }
+      ]
+    },
+    "core": {
+      "rows": [
+        {
+          "label": "Open questions",
+          "always": false
+        }
+      ]
+    },
+    "people": {
+      "rows": [
+        {
+          "label": "Open questions",
+          "always": false
+        }
+      ]
+    },
+    "event": {
+      "rows": [
+        {
+          "label": "Open questions",
+          "always": false
+        }
+      ]
+    }
+  },
+  "nodes": [
+    {
+      "id": "oq-exact-outlines-of-the-three-continents",
+      "kind": "question",
+      "label": "Map: exact outlines of the three continents",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#map",
+      "text": "Open question under Map: Exact outlines of the three continents.",
+      "short_text": "Map",
+      "facts": {
+        "Question": "Exact outlines of the three continents.",
+        "Section": "Map"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-exact-location-of-port",
+      "kind": "question",
+      "label": "Map: exact location of Port",
+      "status": "No status label",
+      "lane": "port",
+      "section": "Open questions",
+      "src": "Open-Questions.md#map",
+      "text": "Open question under Map: Exact location of Port.",
+      "short_text": "Map",
+      "facts": {
+        "Question": "Exact location of Port.",
+        "Section": "Map"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-which-regional-borders-are-long-boundaries-versu",
+      "kind": "question",
+      "label": "Map: which regional borders are long boundaries versus narrow corridors",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#map",
+      "text": "Open question under Map: Which regional borders are long boundaries versus narrow corridors.",
+      "short_text": "Map",
+      "facts": {
+        "Question": "Which regional borders are long boundaries versus narrow corridors.",
+        "Section": "Map"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-whether-highridge-directly-borders-sunplains",
+      "kind": "question",
+      "label": "Map: whether Highridge directly borders Sunplains",
+      "status": "No status label",
+      "lane": "highridge",
+      "section": "Open questions",
+      "src": "Open-Questions.md#map",
+      "text": "Open question under Map: Whether Highridge directly borders Sunplains.",
+      "short_text": "Map",
+      "facts": {
+        "Question": "Whether Highridge directly borders Sunplains.",
+        "Section": "Map"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-exact-relationship-of-the-spine-to-continental-s",
+      "kind": "question",
+      "label": "Map: exact relationship of The Spine to continental separation",
+      "status": "No status label",
+      "lane": "spine",
+      "section": "Open questions",
+      "src": "Open-Questions.md#map",
+      "text": "Open question under Map: Exact relationship of The Spine to continental separation.",
+      "short_text": "Map",
+      "facts": {
+        "Question": "Exact relationship of The Spine to continental separation.",
+        "Section": "Map"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-navigable-rivers-and-major-watersheds",
+      "kind": "question",
+      "label": "Map: navigable rivers and major watersheds",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#map",
+      "text": "Open question under Map: Navigable rivers and major watersheds.",
+      "short_text": "Map",
+      "facts": {
+        "Question": "Navigable rivers and major watersheds.",
+        "Section": "Map"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-are-all-six-named-regions-kingdoms-in-the-same-c",
+      "kind": "question",
+      "label": "Political structure: are all six named regions kingdoms in the same constitutional sense?",
+      "status": "No status label",
+      "lane": "council",
+      "section": "Open questions",
+      "src": "Open-Questions.md#political-structure",
+      "text": "Open question under Political structure: Are all six named regions kingdoms in the same constitutional sense?",
+      "short_text": "Political structure",
+      "facts": {
+        "Question": "Are all six named regions kingdoms in the same constitutional sense?",
+        "Section": "Political structure"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-how-many-independent-sunplains-city-states-remai",
+      "kind": "question",
+      "label": "Political structure: how many independent Sunplains city-states remain?",
+      "status": "No status label",
+      "lane": "sunplains",
+      "section": "Open questions",
+      "src": "Open-Questions.md#political-structure",
+      "text": "Open question under Political structure: How many independent Sunplains city-states remain?",
+      "short_text": "Political structure",
+      "facts": {
+        "Question": "How many independent Sunplains city-states remain?",
+        "Section": "Political structure"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-how-centralized-is-deepwood",
+      "kind": "question",
+      "label": "Political structure: how centralized is Deepwood?",
+      "status": "No status label",
+      "lane": "deepwood",
+      "section": "Open questions",
+      "src": "Open-Questions.md#political-structure",
+      "text": "Open question under Political structure: How centralized is Deepwood?",
+      "short_text": "Political structure",
+      "facts": {
+        "Question": "How centralized is Deepwood?",
+        "Section": "Political structure"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-what-formal-institutions-govern-highridge",
+      "kind": "question",
+      "label": "Political structure: what formal institutions govern Highridge?",
+      "status": "No status label",
+      "lane": "highridge",
+      "section": "Open questions",
+      "src": "Open-Questions.md#political-structure",
+      "text": "Open question under Political structure: What formal institutions govern Highridge?",
+      "short_text": "Political structure",
+      "facts": {
+        "Question": "What formal institutions govern Highridge?",
+        "Section": "Political structure"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-does-port-have-citizenship-independent-of-kingdo",
+      "kind": "question",
+      "label": "Political structure: does Port have citizenship independent of kingdom citizenship?",
+      "status": "No status label",
+      "lane": "port",
+      "section": "Open questions",
+      "src": "Open-Questions.md#political-structure",
+      "text": "Open question under Political structure: Does Port have citizenship independent of kingdom citizenship?",
+      "short_text": "Political structure",
+      "facts": {
+        "Question": "Does Port have citizenship independent of kingdom citizenship?",
+        "Section": "Political structure"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-final-number-of-seats",
+      "kind": "question",
+      "label": "Economic Council: final number of seats",
+      "status": "No status label",
+      "lane": "council",
+      "section": "Open questions",
+      "src": "Open-Questions.md#economic-council",
+      "text": "Open question under Economic Council: Final number of seats.",
+      "short_text": "Economic Council",
+      "facts": {
+        "Question": "Final number of seats.",
+        "Section": "Economic Council"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-final-names-titles-of-domains",
+      "kind": "question",
+      "label": "Economic Council: final names/titles of domains",
+      "status": "No status label",
+      "lane": "council",
+      "section": "Open questions",
+      "src": "Open-Questions.md#economic-council",
+      "text": "Open question under Economic Council: Final names/titles of domains.",
+      "short_text": "Economic Council",
+      "facts": {
+        "Question": "Final names/titles of domains.",
+        "Section": "Economic Council"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-family-names-and-origins",
+      "kind": "question",
+      "label": "Economic Council: family names and origins",
+      "status": "No status label",
+      "lane": "cast",
+      "section": "Open questions",
+      "src": "Open-Questions.md#economic-council",
+      "text": "Open question under Economic Council: Family names and origins.",
+      "short_text": "Economic Council",
+      "facts": {
+        "Question": "Family names and origins.",
+        "Section": "Economic Council"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-how-seats-are-inherited-selected-purchased-or-co",
+      "kind": "question",
+      "label": "Economic Council: how seats are inherited, selected, purchased, or contested",
+      "status": "No status label",
+      "lane": "cast",
+      "section": "Open questions",
+      "src": "Open-Questions.md#economic-council",
+      "text": "Open question under Economic Council: How seats are inherited, selected, purchased, or contested.",
+      "short_text": "Economic Council",
+      "facts": {
+        "Question": "How seats are inherited, selected, purchased, or contested.",
+        "Section": "Economic Council"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-how-old-the-council-is-relative-to-the-convergen",
+      "kind": "question",
+      "label": "Economic Council: how old the Council is relative to The Convergence",
+      "status": "No status label",
+      "lane": "council",
+      "section": "Open questions",
+      "src": "Open-Questions.md#economic-council",
+      "text": "Open question under Economic Council: How old the Council is relative to The Convergence.",
+      "short_text": "Economic Council",
+      "facts": {
+        "Question": "How old the Council is relative to The Convergence.",
+        "Section": "Economic Council"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-which-parts-of-its-existence-are-rumor-versus-kn",
+      "kind": "question",
+      "label": "Economic Council: which parts of its existence are rumor versus known to elite rulers",
+      "status": "No status label",
+      "lane": "council",
+      "section": "Open questions",
+      "src": "Open-Questions.md#economic-council",
+      "text": "Open question under Economic Council: Which parts of its existence are rumor versus known to elite rulers.",
+      "short_text": "Economic Council",
+      "facts": {
+        "Question": "Which parts of its existence are rumor versus known to elite rulers.",
+        "Section": "Economic Council"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-name",
+      "kind": "question",
+      "label": "Villain: name",
+      "status": "No status label",
+      "lane": "cast",
+      "section": "Open questions",
+      "src": "Open-Questions.md#villain",
+      "text": "Open question under Villain: Name.",
+      "short_text": "Villain",
+      "facts": {
+        "Question": "Name.",
+        "Section": "Villain"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-homeland-people",
+      "kind": "question",
+      "label": "Villain: homeland/people",
+      "status": "No status label",
+      "lane": "cast",
+      "section": "Open questions",
+      "src": "Open-Questions.md#villain",
+      "text": "Open question under Villain: Homeland/people.",
+      "short_text": "Villain",
+      "facts": {
+        "Question": "Homeland/people.",
+        "Section": "Villain"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-exact-grievance",
+      "kind": "question",
+      "label": "Villain: exact grievance",
+      "status": "No status label",
+      "lane": "cast",
+      "section": "Open questions",
+      "src": "Open-Questions.md#villain",
+      "text": "Open question under Villain: Exact grievance.",
+      "short_text": "Villain",
+      "facts": {
+        "Question": "Exact grievance.",
+        "Section": "Villain"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-exact-territorial-or-political-end-state-he-want",
+      "kind": "question",
+      "label": "Villain: exact territorial or political end-state he wants",
+      "status": "No status label",
+      "lane": "cast",
+      "section": "Open questions",
+      "src": "Open-Questions.md#villain",
+      "text": "Open question under Villain: Exact territorial or political end-state he wants.",
+      "short_text": "Villain",
+      "facts": {
+        "Question": "Exact territorial or political end-state he wants.",
+        "Section": "Villain"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-the-point-at-which-his-methods-become-clearly-un",
+      "kind": "question",
+      "label": "Villain: the point at which his methods become clearly unacceptable even to sympathetic readers",
+      "status": "No status label",
+      "lane": "cast",
+      "section": "Open questions",
+      "src": "Open-Questions.md#villain",
+      "text": "Open question under Villain: The point at which his methods become clearly unacceptable even to sympathetic readers.",
+      "short_text": "Villain",
+      "facts": {
+        "Question": "The point at which his methods become clearly unacceptable even to sympathetic readers.",
+        "Section": "Villain"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-whether-he-knows-the-full-council-structure-at-t",
+      "kind": "question",
+      "label": "Villain: whether he knows the full Council structure at the story's beginning",
+      "status": "No status label",
+      "lane": "cast",
+      "section": "Open questions",
+      "src": "Open-Questions.md#villain",
+      "text": "Open question under Villain: Whether he knows the full Council structure at the story's beginning.",
+      "short_text": "Villain",
+      "facts": {
+        "Question": "Whether he knows the full Council structure at the story's beginning.",
+        "Section": "Villain"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-exact-age-and-biography",
+      "kind": "question",
+      "label": "Wurdren: exact age and biography",
+      "status": "No status label",
+      "lane": "cast",
+      "section": "Open questions",
+      "src": "Open-Questions.md#wurdren",
+      "text": "Open question under Wurdren: Exact age and biography.",
+      "short_text": "Wurdren",
+      "facts": {
+        "Question": "Exact age and biography.",
+        "Section": "Wurdren"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-why-his-earlier-adventuring-life-failed-to-match",
+      "kind": "question",
+      "label": "Wurdren: why his earlier adventuring life failed to match his ambitions",
+      "status": "No status label",
+      "lane": "cast",
+      "section": "Open questions",
+      "src": "Open-Questions.md#wurdren",
+      "text": "Open question under Wurdren: Why his earlier adventuring life failed to match his ambitions.",
+      "short_text": "Wurdren",
+      "facts": {
+        "Question": "Why his earlier adventuring life failed to match his ambitions.",
+        "Section": "Wurdren"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-family-and-relationships",
+      "kind": "question",
+      "label": "Wurdren: family and relationships",
+      "status": "No status label",
+      "lane": "cast",
+      "section": "Open questions",
+      "src": "Open-Questions.md#wurdren",
+      "text": "Open question under Wurdren: Family and relationships.",
+      "short_text": "Wurdren",
+      "facts": {
+        "Question": "Family and relationships.",
+        "Section": "Wurdren"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-what-he-initially-believes-about-politics-and-th",
+      "kind": "question",
+      "label": "Wurdren: what he initially believes about politics and the Council",
+      "status": "No status label",
+      "lane": "cast",
+      "section": "Open questions",
+      "src": "Open-Questions.md#wurdren",
+      "text": "Open question under Wurdren: What he initially believes about politics and the Council.",
+      "short_text": "Wurdren",
+      "facts": {
+        "Question": "What he initially believes about politics and the Council.",
+        "Section": "Wurdren"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-where-his-journey-begins",
+      "kind": "question",
+      "label": "Wurdren: where his journey begins",
+      "status": "No status label",
+      "lane": "cast",
+      "section": "Open questions",
+      "src": "Open-Questions.md#wurdren",
+      "text": "Open question under Wurdren: Where his journey begins.",
+      "short_text": "Wurdren",
+      "facts": {
+        "Question": "Where his journey begins.",
+        "Section": "Wurdren"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-exact-prevalence",
+      "kind": "question",
+      "label": "Magic: exact prevalence",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#magic",
+      "text": "Open question under Magic: Exact prevalence.",
+      "short_text": "Magic",
+      "facts": {
+        "Question": "Exact prevalence.",
+        "Section": "Magic"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-whether-some-previously-discussed-illusions-magi",
+      "kind": "question",
+      "label": "Magic: whether some previously discussed \"illusions,\" magical artifacts, special creatures, or supernatural claims are real, misunderstood, religious interpretations, or should be removed",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#magic",
+      "text": "Open question under Magic: Whether some previously discussed \"illusions,\" magical artifacts, special creatures, or supernatural claims are real, misunderstood, religious interpretations, or should be removed.",
+      "short_text": "Magic",
+      "facts": {
+        "Question": "Whether some previously discussed \"illusions,\" magical artifacts, special creatures, or supernatural claims are real, misunderstood, religious interpretations, or should be removed.",
+        "Section": "Magic"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-clear-hard-limits",
+      "kind": "question",
+      "label": "Magic: clear hard limits",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#magic",
+      "text": "Open question under Magic: Clear hard limits.",
+      "short_text": "Magic",
+      "facts": {
+        "Question": "Clear hard limits.",
+        "Section": "Magic"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-actual-language-families",
+      "kind": "question",
+      "label": "Language and naming: actual language families",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#language-and-naming",
+      "text": "Open question under Language and naming: Actual language families.",
+      "short_text": "Language and naming",
+      "facts": {
+        "Question": "Actual language families.",
+        "Section": "Language and naming"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-personal-name-systems",
+      "kind": "question",
+      "label": "Language and naming: personal-name systems",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#language-and-naming",
+      "text": "Open question under Language and naming: Personal-name systems.",
+      "short_text": "Language and naming",
+      "facts": {
+        "Question": "Personal-name systems.",
+        "Section": "Language and naming"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-which-older-languages-survive-in-place-names",
+      "kind": "question",
+      "label": "Language and naming: which older languages survive in place names",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#language-and-naming",
+      "text": "Open question under Language and naming: Which older languages survive in place names.",
+      "short_text": "Language and naming",
+      "facts": {
+        "Question": "Which older languages survive in place names.",
+        "Section": "Language and naming"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-how-mutually-intelligible-the-regions-are",
+      "kind": "question",
+      "label": "Language and naming: how mutually intelligible the regions are",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#language-and-naming",
+      "text": "Open question under Language and naming: How mutually intelligible the regions are.",
+      "short_text": "Language and naming",
+      "facts": {
+        "Question": "How mutually intelligible the regions are.",
+        "Section": "Language and naming"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-name-and-self-name-of-the-appalachian-influenced",
+      "kind": "question",
+      "label": "Nomadic peoples: name and self-name of the Appalachian-influenced mobile network",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#nomadic-peoples",
+      "text": "Open question under Nomadic peoples: Name and self-name of the Appalachian-influenced mobile network.",
+      "short_text": "Nomadic peoples",
+      "facts": {
+        "Question": "Name and self-name of the Appalachian-influenced mobile network.",
+        "Section": "Nomadic peoples"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-whether-it-is-one-people-or-a-cultural-economic",
+      "kind": "question",
+      "label": "Nomadic peoples: whether it is one people or a cultural/economic network containing multiple peoples",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#nomadic-peoples",
+      "text": "Open question under Nomadic peoples: Whether it is one people or a cultural/economic network containing multiple peoples.",
+      "short_text": "Nomadic peoples",
+      "facts": {
+        "Question": "Whether it is one people or a cultural/economic network containing multiple peoples.",
+        "Section": "Nomadic peoples"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-seasonal-circuits-and-legal-status",
+      "kind": "question",
+      "label": "Nomadic peoples: seasonal circuits and legal status",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#nomadic-peoples",
+      "text": "Open question under Nomadic peoples: Seasonal circuits and legal status.",
+      "short_text": "Nomadic peoples",
+      "facts": {
+        "Question": "Seasonal circuits and legal status.",
+        "Section": "Nomadic peoples"
+      },
+      "minor": true
+    },
+    {
+      "id": "oq-current-events-audit",
+      "kind": "question",
+      "label": "Current events: audit them",
+      "status": "No status label",
+      "lane": "conflict",
+      "section": "Open questions",
+      "src": "Open-Questions.md#current-events",
+      "text": "The events pages preserve the current web of crises, but many were brainstormed rather than formally selected. They should be audited once the map and villain plan are finalized.",
+      "short_text": "Current events",
+      "facts": {
+        "Question": "Which of the brainstormed crises are formally selected? The events pages should be audited once the map and villain plan are finalized.",
+        "Section": "Current events"
+      },
+      "minor": true
+    }
+  ],
+  "edges": [
+    {
+      "from": "oq-exact-outlines-of-the-three-continents",
+      "to": "western",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Exact outlines of the three continents.",
+      "src": "Open-Questions.md#map",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-exact-outlines-of-the-three-continents",
+      "to": "northern",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Exact outlines of the three continents.",
+      "src": "Open-Questions.md#map",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-exact-outlines-of-the-three-continents",
+      "to": "eastern",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Exact outlines of the three continents.",
+      "src": "Open-Questions.md#map",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-exact-location-of-port",
+      "to": "port",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Exact location of Port.",
+      "src": "Open-Questions.md#map",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-whether-highridge-directly-borders-sunplains",
+      "to": "highridge",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Whether Highridge directly borders Sunplains.",
+      "src": "Open-Questions.md#map",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-whether-highridge-directly-borders-sunplains",
+      "to": "sunplains",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Whether Highridge directly borders Sunplains.",
+      "src": "Open-Questions.md#map",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-exact-relationship-of-the-spine-to-continental-s",
+      "to": "spine",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Exact relationship of The Spine to continental separation.",
+      "src": "Open-Questions.md#map",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-are-all-six-named-regions-kingdoms-in-the-same-c",
+      "to": "pw-politics",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Are all six named regions kingdoms in the same constitutional sense?",
+      "src": "Open-Questions.md#political-structure",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-how-many-independent-sunplains-city-states-remai",
+      "to": "pw-gov-sunplains",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "How many independent Sunplains city-states remain?",
+      "src": "Open-Questions.md#political-structure",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-how-centralized-is-deepwood",
+      "to": "pw-gov-deepwood",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "How centralized is Deepwood?",
+      "src": "Open-Questions.md#political-structure",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-what-formal-institutions-govern-highridge",
+      "to": "pw-gov-highridge",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "What formal institutions govern Highridge?",
+      "src": "Open-Questions.md#political-structure",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-does-port-have-citizenship-independent-of-kingdo",
+      "to": "pw-gov-port",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Does Port have citizenship independent of kingdom citizenship?",
+      "src": "Open-Questions.md#political-structure",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-final-number-of-seats",
+      "to": "pw-council",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Final number of seats.",
+      "src": "Open-Questions.md#economic-council",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-final-names-titles-of-domains",
+      "to": "pw-council",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Final names/titles of domains.",
+      "src": "Open-Questions.md#economic-council",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-family-names-and-origins",
+      "to": "pp-families",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Family names and origins.",
+      "src": "Open-Questions.md#economic-council",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-how-seats-are-inherited-selected-purchased-or-co",
+      "to": "pp-families",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "How seats are inherited, selected, purchased, or contested.",
+      "src": "Open-Questions.md#economic-council",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-how-old-the-council-is-relative-to-the-convergen",
+      "to": "pw-council",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "How old the Council is relative to The Convergence.",
+      "src": "Open-Questions.md#economic-council",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-how-old-the-council-is-relative-to-the-convergen",
+      "to": "hi-council-rise",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "How old the Council is relative to The Convergence.",
+      "src": "Open-Questions.md#economic-council",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-which-parts-of-its-existence-are-rumor-versus-kn",
+      "to": "pw-council",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Which parts of its existence are rumor versus known to elite rulers.",
+      "src": "Open-Questions.md#economic-council",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-name",
+      "to": "pp-villain",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Name.",
+      "src": "Open-Questions.md#villain",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-homeland-people",
+      "to": "pp-villain",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Homeland/people.",
+      "src": "Open-Questions.md#villain",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-exact-grievance",
+      "to": "pp-villain",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Exact grievance.",
+      "src": "Open-Questions.md#villain",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-exact-territorial-or-political-end-state-he-want",
+      "to": "pp-villain",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Exact territorial or political end-state he wants.",
+      "src": "Open-Questions.md#villain",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-the-point-at-which-his-methods-become-clearly-un",
+      "to": "pp-villain",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "The point at which his methods become clearly unacceptable even to sympathetic readers.",
+      "src": "Open-Questions.md#villain",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-whether-he-knows-the-full-council-structure-at-t",
+      "to": "pp-villain",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Whether he knows the full Council structure at the story's beginning.",
+      "src": "Open-Questions.md#villain",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-exact-age-and-biography",
+      "to": "pp-wurdren",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Exact age and biography.",
+      "src": "Open-Questions.md#wurdren",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-why-his-earlier-adventuring-life-failed-to-match",
+      "to": "pp-wurdren",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Why his earlier adventuring life failed to match his ambitions.",
+      "src": "Open-Questions.md#wurdren",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-family-and-relationships",
+      "to": "pp-wurdren",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Family and relationships.",
+      "src": "Open-Questions.md#wurdren",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-what-he-initially-believes-about-politics-and-th",
+      "to": "pp-wurdren",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "What he initially believes about politics and the Council.",
+      "src": "Open-Questions.md#wurdren",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-where-his-journey-begins",
+      "to": "pp-wurdren",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Where his journey begins.",
+      "src": "Open-Questions.md#wurdren",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-name-and-self-name-of-the-appalachian-influenced",
+      "to": "nomads",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Name and self-name of the Appalachian-influenced mobile network.",
+      "src": "Open-Questions.md#nomadic-peoples",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-whether-it-is-one-people-or-a-cultural-economic",
+      "to": "nomads",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Whether it is one people or a cultural/economic network containing multiple peoples.",
+      "src": "Open-Questions.md#nomadic-peoples",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-seasonal-circuits-and-legal-status",
+      "to": "nomads",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Seasonal circuits and legal status.",
+      "src": "Open-Questions.md#nomadic-peoples",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-current-events-audit",
+      "to": "st-events",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "They should be audited once the map and villain plan are finalized.",
+      "src": "Open-Questions.md#current-events",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    }
+  ],
+  "gaps": [
+    "**38 open questions, plus an audit note.** Open Questions lists them under eight headings (Map, Political structure, Economic Council, Villain, Wurdren, Magic, Language and naming, Nomadic peoples) and asks for the current events to be audited once the map and the Villain's plan are settled.",
+    "**9 questions have nothing on the board to attach to:** borders in general (long boundaries or corridors), rivers and watersheds, all three Magic questions, and all four Language and naming questions. Magic, rivers and language families have no cards of their own yet, which is itself a sign of where the setting is thinnest."
+  ]
+}

@@ -8,20 +8,31 @@ Every map here is **generated from a data file** by a script in [`tools/`](tools
 
 The build plan, the parts and the open decisions are in [PLAN.md](PLAN.md).
 
+## Opening the board
+
+The board is one self-contained HTML page, [`board/atlas-board.html`](board/atlas-board.html), rebuilt with everything else. GitHub shows `.html` files as source code, so to use it:
+
+- **On the web (GitHub Pages):** https://bigcatmellow.github.io/10Kings/atlas/ , which opens the board. This needs GitHub Pages switched on once, in the repository's **Settings → Pages → Build and deployment: Deploy from a branch, `main`, `/ (root)`**. The repository already carries what Pages needs (`.nojekyll`, so files are served as they are, and `index.html` pages that open the board).
+- **On your computer:** download [`board/atlas-board.html`](board/atlas-board.html) (the *Download raw file* button) and open it in a browser. Everything is inside the one file; only the fonts need a connection.
+- **Published copy on Claude:** https://claude.ai/artifact/XG2oKvVRes6f7su2dyMaWs (private unless shared).
+
+Links like `#part=Food&group=kind` open straight to one part or grouping in any of these.
+
 ## The maps
 
 | Map | What it shows | Source data | Rebuild | Status |
 | --- | --- | --- | --- | --- |
 | [Domino Map](domino-map/Domino-Map.md) ([interactive](https://claude.ai/artifact/PAf2C4bDk7bfjVunex17Ps)) | The Villain's dominoes and the world's current events, what tips what, and which Sunday Morning stories and seeds sit on each; open dominoes marked | [`domino-map/domino-map.json`](domino-map/domino-map.json) | `python3 atlas/tools/domino_map.py` | built 2026-09-29 |
-| [**The Atlas board**](board/README.md) ([interactive](https://claude.ai/artifact/XG2oKvVRes6f7su2dyMaWs), [image](board/atlas-board.png)) | **Everything mapped so far on one board**, grouped by region (a column per region, plus columns for things that cross every border) or by kind (a column per kind of thing); a switch and an "only" button per part, links that open straight to one part (`#part=Food`, `#group=kind`), search, and click-for-connections with the wiki sentence behind each | all part data files below, plus [`board/board.json`](board/board.json) | `python3 atlas/tools/atlas_part.py` | Parts 1–7 |
+| [**The Atlas board**](board/README.md) ([interactive](https://claude.ai/artifact/XG2oKvVRes6f7su2dyMaWs), [image](board/atlas-board.png)) | **Everything mapped so far on one board**, grouped by region (a column per region, plus columns for things that cross every border) or by kind (a column per kind of thing); a switch and an "only" button per part, links that open straight to one part (`#part=Food`, `#group=kind`), search, and click-for-connections with the wiki sentence behind each | all part data files below, plus [`board/board.json`](board/board.json) | `python3 atlas/tools/atlas_part.py` | Parts 1–8 and project health |
 | [Part 1: Regions and Geography](regions/README.md) ([image](regions/regions.png)) | The backbone: the six regions, Port, the Spine and the Underpass, the border towns, borders (with how certain each is), sea partners and trade, each backed by the wiki sentence that states it; plus the gaps the wiki leaves open | [`regions/regions.json`](regions/regions.json) | same | built and approved 2026-09-29 |
 | [Part 2: Culture](culture/README.md) ([image](culture/culture.png)) | How each region talks, builds and names places; 28 festivals by season; in-world sayings and hiring prejudices (as characterization, never fact); where cultures mix and which border towns show it; the nomads and their possible circuits | [`culture/culture.json`](culture/culture.json) | same | built 2026-09-29; approved 2026-09-29 |
 | [Part 3: Food](food/README.md) ([image](food/food.png)) | Every named dish (62: the six regional recipe books and 17 border fusions) under its cuisine; a cuisine card per region plus Port and the borders; where cuisines blend at the borders (with how settled each border is); the food imports the wiki names; the two illustrative diaspora paths; festival and border-town food links kept as inferred and off by default | [`food/food.json`](food/food.json) | same | built 2026-09-29; approved 2026-09-29 |
 | [Part 4: Power](power/README.md) ([image](power/power.png)) | Who controls what: the Economic Council and its six seats (with their possible fault lines), each region's government plus Port and the Underpass, and where the Council is involved in each; the nine faiths and which have a stated stance on the Council; the guilds and their schemes; crime by region and one example cross-regional alliance; everyday arms and elite troop directions; overview cards for each page's rules | [`power/power.json`](power/power.json) | same | built 2026-09-29; approved 2026-09-29 |
 | [Part 5: History](history/README.md) ([image](history/history.png)) | Each region's politics before the Convergence and how Port became central; the Convergence, its six likely provisions and the Council's likely rise out of it; the nine provisional conflict names; the contested memories with each possible telling in the column of whoever tells it, plus the Seven-year Blight and the Ages of Silence | [`history/history.json`](history/history.json) | same | built 2026-09-29; approved 2026-09-29 |
 | [Part 6: People](people/README.md) ([image](people/people.png)) | Wurdren, the Villain and the Council families in a Main cast column, tied to the Council, guilds, underworld, faiths and the Convergence; the six domino figures in their regions, each pushed by the Villain; the three provisional Underpass figures; the 48 Sunday Morning characters (non-canon) grouped by story, with their stated family and other ties | [`people/people.json`](people/people.json) | same | built 2026-09-29; approved 2026-09-29 |
-| [Part 7: The story layer](story/README.md) ([image](story/story.png)) | The main conflict and its three forces; every Current Events entry in its region; the thirteen-step example ripple chain as its own cards, marked possible; the dominoes tipping events; each Sunday Morning story and seed in the column of its setting, tied to its town, festival, the events it sits on, its domino figure, who's provisionally behind it, its cast and the stories it shares a thread with. Carries the Domino Map's content into the board | [`story/story.json`](story/story.json) | same | built 2026-09-29; **waiting for James's checkpoint** |
-| The project-health layer | Where the project stands: status labels, open questions, thin or unconnected areas | *planned* | *planned* | [plan](PLAN.md#the-parts) |
+| [Part 7: The story layer](story/README.md) ([image](story/story.png)) | The main conflict and its three forces; every Current Events entry in its region; the thirteen-step example ripple chain as its own cards, marked possible; the dominoes tipping events; each Sunday Morning story and seed in the column of its setting, tied to its town, festival, the events it sits on, its domino figure, who's provisionally behind it, its cast and the stories it shares a thread with. Carries the Domino Map's content into the board | [`story/story.json`](story/story.json) | same | built 2026-09-29; approved 2026-09-29 |
+| [Part 8: Open questions](questions/README.md) ([image](questions/questions.png)) | All 38 open questions from the wiki, plus its call to audit the current events, each as a small card next to what it asks about; nine have nothing on the board to attach to (magic, language families, rivers, borders in general) | [`questions/questions.json`](questions/questions.json) | same | built 2026-09-29; **waiting for James's checkpoint** |
+| [Project health](health/README.md) | Where the project stands: how settled each part is (by status label), where the cards are by column and part, which cards have no connection yet, which have the most "none stated" blanks, the open questions and the gap counts. Also on the board, under Project health | computed from all the data above | same | built 2026-09-29; **waiting for James's checkpoint** |
 
 ## Folder layout
 
@@ -38,6 +49,9 @@ atlas/
   history/           Part 5: data (JSON), generated page (README.md), image (PNG)
   people/            Part 6: data (JSON), generated page (README.md), image (PNG)
   story/             Part 7: data (JSON), generated page (README.md), image (PNG)
+  questions/         Part 8: data (JSON), generated page (README.md), image (PNG)
+  health/            the project-health page (generated)
+  index.html         opens the board (for GitHub Pages)
   tools/             the generators and their templates
 ```
 

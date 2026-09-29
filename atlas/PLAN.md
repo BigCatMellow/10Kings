@@ -2,7 +2,7 @@
 
 ## Status
 
-**Active plan, agreed 2026-09-29 ("go", with the proposed decisions A1–A4). Part 1 approved ("looks better, go with part 2"); Part 2 approved ("part 2 is approved"); Part 3 approved ("go for part 4"); Part 4 approved ("go for it", after the board regrouping); Part 5 approved ("go for it"); Part 6 approved ("go for it"); Part 7 built, so all seven parts are on the board; the project-health layer is next.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
+**Active plan, agreed 2026-09-29 ("go", with the proposed decisions A1–A4). Part 1 approved ("looks better, go with part 2"); Part 2 approved ("part 2 is approved"); Part 3 approved ("go for part 4"); Part 4 approved ("go for it", after the board regrouping); Part 5 approved ("go for it"); Part 6 approved ("go for it"); Part 7 approved ("go for it"); the project-health layer built, so the plan is complete.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
 
 ## What it is
 
@@ -79,6 +79,8 @@ One explorer across all seven parts, plus a view of where the project stands:
 - which areas are thin, unconnected or only lightly described.
 
 This answers "what's the full scope of the project so far".
+
+**Built 2026-09-29.** Two pieces. [Part 8: Open questions](questions/README.md) puts all 38 questions from [Open Questions](../wiki/Open-Questions.md), plus its note to audit the current events, on the board as small cards linked to what they ask about (29 linked; the magic, language, river and general-border questions have nothing to attach to yet). The [Project health](health/README.md) page, and a Project health section on the board, are computed from the data on every rebuild: the status mix per part, cards per column and part, unconnected cards, cards with the most "none stated" blanks, open questions and gap counts. A "Mark unconnected cards" switch outlines unconnected cards on the board. James also asked for an HTML version on the repo: the board was already generated into [`board/atlas-board.html`](board/atlas-board.html); the repo now also carries `.nojekyll` and `index.html` entry points so GitHub Pages can serve it once switched on (see [Opening the board](README.md#opening-the-board)).
 
 ## How each part is built
 
