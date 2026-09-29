@@ -16,7 +16,7 @@ import collections, json, os, re, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 WIKI = os.path.join(ROOT, "wiki")
-TEMPLATE = os.path.join(ROOT, "atlas", "tools", "atlas_part_template.html")
+TEMPLATE = os.path.join(ROOT, "atlas", "tools", "atlas_board_template.html")
 REPO = "https://github.com/BigCatMellow/10Kings/blob/main/wiki/"
 
 
@@ -70,8 +70,13 @@ def load(path):
         errs.append(f"duplicate ids: {dup}")
     ids = set(ids)
     layers = {l["id"] for l in d["layers"]}
+    lanes = {l["id"] for l in d.get("lanes", [])}
     for n in d["nodes"]:
         check_src(n["src"], f"node {n['id']}", errs)
+        if n.get("lane") not in lanes:
+            errs.append(f"node {n['id']}: lane {n.get('lane')!r} is not in lanes")
+        if not n.get("section"):
+            errs.append(f"node {n['id']}: no section heading")
         if n["kind"] not in d["kinds"]:
             errs.append(f"node {n['id']}: unknown kind {n['kind']}")
     for e in d["edges"]:
@@ -192,8 +197,11 @@ def write_png(html, outdir, name):
             pg = b.new_page(viewport={"width": 1500, "height": 1000}, device_scale_factor=2, color_scheme="light")
             pg.goto("file://" + tmp)
             pg.wait_for_timeout(700)
-            pg.add_style_tag(content=".layout{grid-template-columns:1fr!important}aside.panel,.controls,.hint{display:none!important}")
-            pg.wait_for_timeout(200)
+            pg.add_style_tag(content=".layout{grid-template-columns:1fr!important}aside.panel,.controls{display:none!important}"
+                             ".board{max-height:none!important;overflow:visible!important}.wrap{max-width:none!important}")
+            w = pg.evaluate("document.getElementById('lanes').scrollWidth")
+            pg.set_viewport_size({"width": max(1200, int(w) + 60), "height": 1000})
+            pg.wait_for_timeout(300)
             pg.screenshot(path=os.path.join(outdir, f"{name}.png"), full_page=True)
             b.close()
     finally:

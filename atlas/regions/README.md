@@ -4,7 +4,7 @@
 
 **Derived view, not canon. Generated; don't edit by hand.** Edit [`regions.json`](regions.json), then run `python3 atlas/tools/atlas_part.py atlas/regions/regions.json` from the repository root. That rebuilds this page, the [interactive view](regions.html) (published copy: https://claude.ai/artifact/XG2oKvVRes6f7su2dyMaWs) and the [image](regions.png). Every thing links to the wiki page it comes from; the wiki wins any disagreement. Part of the [Atlas](../README.md); plan in [PLAN.md](../PLAN.md).
 
-**Schematic, not a map.** The wiki says the exact map isn't locked ([Geography and Connections](../../wiki/Geography-and-Connections.md)). Positions only follow the few directions the wiki gives (Ironcrest west, Northwind north, Sunplains south and east); distances and shapes mean nothing.
+**A board, not a map.** The wiki says the exact map isn't locked ([Geography and Connections](../../wiki/Geography-and-Connections.md)), so the interactive view sorts things into one column per region instead of placing them. Columns are ordered so regions with a settled border sit next to each other (Northwind, Highridge, Deepwood, Ironcrest, Greenvale, Sunplains); nothing else about position means anything. A real map can be drawn from the same data once the geography is locked.
 
 **Counts:** 3 continents, 6 regions, 1 neutral city, 1 mountain system, 1 underground network, 6 border towns, 7 unplaced names; 47 connections (36 stated in the wiki, 11 inferred).
 

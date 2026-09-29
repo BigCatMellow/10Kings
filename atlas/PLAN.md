@@ -11,7 +11,9 @@ A **knowledge graph** of the setting, sometimes called a world-bible map: every 
 - **One data file of things and connections.** Each thing has a kind (region, place, culture, dish, festival, faith, guild, institution, person, event, story, open question), a region, the wiki page that owns it, and that page's status label (Established, Working canon or Provisional).
 - **Each connection has a type and a basis.** Types include *located in*, *borders*, *trades with*, *depends on*, *member of*, *worships*, *eats*, *celebrates*, *remembers*, *causes* and *appears in*. The basis is either **stated** (an owner page says it) or **inferred** (drawn differently, never passed off as canon).
 - **One script** validates the data (every thing exists, every source page exists) and builds the views.
-- **One zoomable explorer:** world → region → thing. Search, filter by kind, click anything to see its connections and open its wiki page. Each part also gets a downloadable image.
+- **One board, like the Domino Map:** a column per region (plus Port, the Spine and Underpass, the border towns, and the world as a whole). Each part adds its own heading under every column (Geography, then Culture, Food, Power and so on), so the board grows downward and any part can be switched off. Each card lists its connections as small tags; clicking a card draws its lines and shows the wiki sentence behind each one. Search finds anything. Each part also gets a downloadable image.
+
+  **Why a board and not a map:** the wiki says the exact map isn't locked, so placing things geographically would invent geography. Columns are ordered so regions with a settled border sit next to each other. Once the map is locked, a geographic view can be drawn from the same data without redoing anything.
 
 ## Scope, measured 2026-09-29
 
@@ -31,7 +33,7 @@ Built in this order, each on the one before. Each part gets its own folder in `a
 
 The backbone everything hangs on. The six kingdoms, Port, the Spine, the Underpass and the border towns: who borders whom, trade routes, and who depends on whom for what.
 Sources: [World Overview](../wiki/World-Overview.md), [Geography and Connections](../wiki/Geography-and-Connections.md), [Regions](../wiki/Regions/), [Places](../wiki/Places/), [Trade and Dependencies](../wiki/Economy/Trade-and-Dependencies.md).
-**Built 2026-09-29: [Part 1](regions/README.md).** 25 things, 47 connections (36 stated, 11 inferred), 11 gaps listed. An independent check found four overclaims (two inferred trade links marked stated, and status labels the pages don't give), all fixed; the generator now rejects any stated quote not found on its page and any status label the page doesn't carry. **Checkpoint: stop and show James before Part 2.**
+**Built 2026-09-29: [Part 1](regions/README.md).** 25 things, 47 connections (36 stated, 11 inferred), 11 gaps listed. An independent check found four overclaims (two inferred trade links marked stated, and status labels the pages don't give), all fixed; the generator now rejects any stated quote not found on its page and any status label the page doesn't carry. **Redrawn 2026-09-29 as a board** after James found the first network view too busy ("i was hoping it would look more like the dominos one… more and more will be added. so we need to make sure there is room for that"). **Checkpoint: stop and show James before Part 2.**
 
 ### Part 2: Culture
 
@@ -89,5 +91,5 @@ James said "go" on 2026-09-29 with these defaults; he can change any of them at 
 | A1 | Include the legacy notes? | **No**, except as provenance counts. They aren't canon, many of their claims were deliberately overruled, and they'd triple the size. |
 | A2 | How fine-grained? | **Every named thing is its own point** (each dish, guild faction, character). Unnamed details stay on their pages. |
 | A3 | Order | **As above, backbone first.** Any part can jump the queue after Part 1. |
-| A4 | Format | **One zoomable explorer plus a downloadable image per part.** |
+| A4 | Format | **One board plus a downloadable image per part.** Region columns, a heading per part under each column, lines only for the selected card. Changed from a network diagram at James's request (2026-09-29). A geographic map waits until the map is locked. |
 | A5 | Where it lives | **`atlas/`, its own top-level folder**, separate from the wiki (James, 2026-09-29). The Domino Map moved here. |

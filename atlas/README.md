@@ -13,7 +13,7 @@ The build plan, the parts and the open decisions are in [PLAN.md](PLAN.md).
 | Map | What it shows | Source data | Rebuild | Status |
 | --- | --- | --- | --- | --- |
 | [Domino Map](domino-map/Domino-Map.md) ([interactive](https://claude.ai/artifact/PAf2C4bDk7bfjVunex17Ps)) | The Villain's dominoes and the world's current events, what tips what, and which Sunday Morning stories and seeds sit on each; open dominoes marked | [`domino-map/domino-map.json`](domino-map/domino-map.json) | `python3 atlas/tools/domino_map.py` | built 2026-09-29 |
-| [Part 1: Regions and Geography](regions/README.md) ([interactive](https://claude.ai/artifact/XG2oKvVRes6f7su2dyMaWs), [image](regions/regions.png)) | The backbone: the six regions, Port, the Spine and the Underpass, the border towns, borders (with how certain each is), sea partners and trade, each backed by the wiki sentence that states it; plus the gaps the wiki leaves open | [`regions/regions.json`](regions/regions.json) | `python3 atlas/tools/atlas_part.py atlas/regions/regions.json` | built 2026-09-29; **waiting for James's checkpoint** |
+| [Part 1: Regions and Geography](regions/README.md) ([interactive](https://claude.ai/artifact/XG2oKvVRes6f7su2dyMaWs), [image](regions/regions.png)) | The backbone, as a board with one column per region: the six regions, Port, the Spine and the Underpass, the border towns, borders (with how certain each is), sea partners and trade, each backed by the wiki sentence that states it; plus the gaps the wiki leaves open. Later parts add their own heading under each column | [`regions/regions.json`](regions/regions.json) | `python3 atlas/tools/atlas_part.py atlas/regions/regions.json` | built 2026-09-29; **waiting for James's checkpoint** |
 | Parts 2–7 and the project-health layer | Culture, food, power, history, people, story, and where the project stands | *planned* | *planned* | [plan](PLAN.md#the-parts) |
 
 ## Folder layout
@@ -27,7 +27,7 @@ atlas/
   tools/             the generators and their templates
 ```
 
-New parts get their own folder beside `domino-map/`, each with its data file and generated views, and a row in the table above.
+New parts get their own folder beside `domino-map/`, each with its data file and generated views, and a row in the table above. Every part uses the same board: the same region columns, with the part's things under its own heading, so the columns grow downward as parts are added. When all seven are built they merge into one board with a switch per part.
 
 ## Rules
 
