@@ -2,7 +2,7 @@
 
 ## Status
 
-**Active plan, agreed 2026-09-29 ("go", with the proposed decisions A1–A4). Part 1 built; waiting at its checkpoint.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
+**Active plan, agreed 2026-09-29 ("go", with the proposed decisions A1–A4). Part 1 approved ("looks better, go with part 2"); Part 2 built.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
 
 ## What it is
 
@@ -27,7 +27,7 @@ A rough count of named things in the wiki: about 80 dishes, 13 festivals, 9 reli
 
 ## The parts
 
-Built in this order, each on the one before. Each part gets its own folder in `atlas/`, its own data, a GitHub page and a downloadable image, and joins the shared explorer.
+Built in this order, each on the one before. Each part gets its own folder in `atlas/`, its own data, a GitHub page and a downloadable image, and joins the one combined [board](board/README.md) under its own heading.
 
 ### Part 1: Regions and geography
 
@@ -39,6 +39,7 @@ Sources: [World Overview](../wiki/World-Overview.md), [Geography and Connections
 
 Language habits, naming, architecture, nomads, festivals, regional social dynamics and stereotypes, each tied to its region.
 Sources: [Culture](../wiki/Culture/) pages except food.
+**Built 2026-09-29: [Part 2](culture/README.md).** 44 things (a culture card per region, Port and the border towns; 28 festivals; 7 in-world sayings; the nomads), 21 connections (15 stated, 6 inferred), 14 gaps. Joined the combined [board](board/README.md), which replaced the per-part interactive pages at the same published link. An independent check found three overclaims (dropped hedges on Highridge's multilingualism and the nomads' possible circuit form) and a pattern of dropped "may"/"can"; all fixed.
 
 ### Part 3: Food
 

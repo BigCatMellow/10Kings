@@ -55,17 +55,24 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: 2.2rem; line
 .card.region .n { font-family: var(--font-display); font-size: 19px; letter-spacing: .01em; }
 .card.minor { padding: 6px 9px; border-style: dashed; border-left-style: solid; }
 .card.minor .n { font-weight: 600; font-size: 13px; margin: 0; }
+.card.minor .k { font-size: 10px; }
+.card.saying .n { font-style: italic; font-weight: 600; }
+.chip[hidden], .chiprow[hidden], .section[hidden], .lane[hidden] { display: none; }
+.parts { display: inline-flex; flex-wrap: wrap; gap: 4px 12px; align-items: center; }
+.panel .src { font-size: 12px; margin-left: 4px; }
+.below h3 { font-family: var(--font-display); font-size: 1rem; margin: 12px 0 6px; letter-spacing: .02em; }
+.below h3:first-of-type { margin-top: 0; }
 .chips { display: grid; gap: 4px; margin-top: 7px; }
 .chiprow { font-size: 11px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 3px 4px; align-items: center; }
 .chiprow b { font-weight: 600; color: var(--muted); margin-right: 2px; }
 .chip { display: inline-flex; align-items: center; gap: 4px; font-size: 11px; line-height: 1.2; padding: 2px 6px; border-radius: 999px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); }
-.chip small { font-size: 10px; color: var(--muted); }
+.chip { flex-wrap: wrap; }
+.chip small { font-size: 10px; color: var(--muted); white-space: nowrap; }
 .chip.inferred small { color: inherit; }
 .chip i { width: 7px; height: 7px; border-radius: 50%; background: var(--dc); flex: none; }
 .chip.likely, .chip.working { border-style: dashed; }
 .chip.possible { border-style: dotted; }
 .chip.inferred { border: 1px dashed var(--inferred); color: var(--inferred); background: transparent; }
-.hide-inferred .chip.inferred, .hide-inferred .chiprow.inferred { display: none; }
 svg.links { position: absolute; left: 0; top: 0; pointer-events: none; z-index: 1; overflow: visible; }
 svg.links path { fill: none; stroke: var(--focus); stroke-width: 2; opacity: .85; }
 svg.links path.inferred { stroke: var(--inferred); stroke-dasharray: 4 4; }
@@ -110,7 +117,7 @@ aside.panel { background: var(--surface); border: 1px solid var(--line); border-
   </header>
   <div class="controls" id="controls">
     <input type="search" id="q" placeholder="Find anything…" aria-label="Find anything">
-    <span id="sections"></span>
+    <span class="parts" id="parts"></span>
     <label><input type="checkbox" id="optInferred"> Show inferred connections</label>
   </div>
   <div class="layout">
@@ -118,7 +125,7 @@ aside.panel { background: var(--surface); border: 1px solid var(--line); border-
     <aside class="panel" id="panel" aria-live="polite"></aside>
   </div>
   <div class="below">
-    <section><h2>Gaps this part exposes</h2><ul id="gaps"></ul><p class="note">What the wiki doesn't settle yet. Listed for decisions, never filled in.</p></section>
+    <section><h2>Gaps the wiki leaves open</h2><div id="gaps"></div><p class="note">What the wiki doesn't settle yet. Listed for decisions, never filled in.</p></section>
   </div>
 </div>
 
@@ -133,38 +140,38 @@ const DATA = /*ATLAS_DATA*/null;
   const laneOf = Object.fromEntries(DATA.lanes.map((l) => [l.id, l]));
   const colorVar = (laneId) => `var(--r-${laneId})`;
   const nodeColor = (n) => colorVar(n.lane);
+  const partOn = Object.fromEntries(DATA.parts.map((p) => [p.short, true]));
+  const inferredOn = () => $("optInferred").checked;
+  const visibleEdge = (e) => partOn[byId[e.from].part] && partOn[byId[e.to].part] && (e.basis === "stated" || inferredOn());
 
   $("eyebrow").textContent = DATA.eyebrow || "Atlas";
   $("title").textContent = DATA.title;
   $("sub").textContent = DATA.subtitle || "";
   const stated = DATA.edges.filter((e) => e.basis === "stated").length;
-  const kc = {}; DATA.nodes.forEach((n) => { kc[n.kind] = (kc[n.kind] || 0) + 1; });
-  $("counts").innerHTML = Object.entries(kc).map(([k, v]) => `<span class="count"><b>${v}</b>${esc(DATA.kinds[k].toLowerCase())}${v > 1 ? "s" : ""}</span>`).join("") +
+  $("counts").innerHTML = DATA.parts.map((p) => `<span class="count"><b>${DATA.nodes.filter((n) => n.part === p.short).length}</b>${esc(p.short.toLowerCase())}</span>`).join("") +
     `<span class="count"><b>${DATA.edges.length}</b>connections (${stated} stated)</span>`;
-
-  // parts (each Atlas part adds its own headings under every column; parts can be switched on and off)
-  const partOf = (n) => n.part || n.section;
-  const partNames = [...new Set(DATA.nodes.map(partOf))];
-  $("sections").innerHTML = partNames.length > 1 ? "Show: " + partNames.map((s) => `<label><input type="checkbox" data-part="${esc(s)}" checked> ${esc(s)}</label>`).join(" ") : "";
+  $("parts").innerHTML = DATA.parts.length > 1 ? "Show: " + DATA.parts.map((p) => `<label title="Part ${p.part}: ${esc(p.title)}"><input type="checkbox" data-part="${esc(p.short)}" checked> ${esc(p.short)}</label>`).join("") : "";
 
   // how each connection reads from each end
   const phr = (e, fromSide) => fromSide ? (e.chip || e.type) : (e.chipBack || e.chip || e.type);
 
-  // build lanes
+  // build columns: one per lane; inside, one heading per section, in part order
   const lanesEl = $("lanes");
-  const cardEls = {};
+  const cardEls = {}, laneEls = {};
   DATA.lanes.forEach((l) => {
     const lane = document.createElement("div");
     lane.className = "lane"; lane.style.setProperty("--lc", colorVar(l.id));
     lane.innerHTML = `<h3>${esc(l.label)}</h3>`;
     const inLane = DATA.nodes.filter((n) => n.lane === l.id);
-    [...new Set(inLane.map((n) => n.section))].forEach((sec) => {
+    [...new Set(inLane.map((n) => n.part + "\u0000" + n.section))].forEach((key) => {
+      const [part, sec] = key.split("\u0000");
       const s = document.createElement("div");
-      s.className = "section"; s.dataset.part = partOf(inLane.find((n) => n.section === sec));
+      s.className = "section"; s.dataset.part = part;
       s.innerHTML = `<h4>${esc(sec)}</h4>`;
-      inLane.filter((n) => n.section === sec).forEach((n) => s.appendChild(card(n)));
+      inLane.filter((n) => n.part === part && n.section === sec).forEach((n) => s.appendChild(card(n)));
       lane.appendChild(s);
     });
+    laneEls[l.id] = lane;
     lanesEl.appendChild(lane);
   });
 
@@ -177,27 +184,45 @@ const DATA = /*ATLAS_DATA*/null;
       else return;
       if (e.hideChipOn && e.hideChipOn.includes(n.id)) return;
       const o = byId[other];
-      if (e.basis !== "inferred") (rows[label] = rows[label] || { chips: [], allInferred: true }).allInferred = false;
-      const cls = [e.basis === "inferred" ? "inferred" : "", e.certainty && e.certainty !== "established" ? e.certainty : ""].join(" ");
-      const extra = e.goods && e.chipGoods !== false ? ` <small class="g">${esc(e.goods)}</small>` : "";
-      (rows[label] = rows[label] || { chips: [], allInferred: true }).chips.push(`<span class="chip ${cls}" style="--dc:${nodeColor(o)}"><i></i>${esc(o.short || o.label)}${extra}${e.certainty && e.certainty !== "established" ? ` <small>(${esc(e.certainty)})</small>` : ""}</span>`);
+      const cert = e.certainty && e.certainty !== "established" ? e.certainty : "";
+      const cls = [e.basis === "inferred" ? "inferred" : "", cert].join(" ");
+      const extra = e.goods && e.chipGoods !== false ? ` <small>${esc(e.goods)}</small>` : "";
+      (rows[label] = rows[label] || []).push(`<span class="chip ${cls}" data-basis="${e.basis}" data-p="${esc(o.part)}" style="--dc:${nodeColor(o)}"><i></i>${esc(o.short || o.label)}${extra}${cert ? ` <small>(${esc(cert)})</small>` : ""}</span>`);
     });
-    return Object.entries(rows).map(([label, r]) => `<span class="chiprow${r.allInferred ? " inferred" : ""}"><b>${esc(label)}</b>${r.chips.join("")}</span>`).join("");
+    return Object.entries(rows).map(([label, chips]) => `<span class="chiprow"><b>${esc(label)}</b>${chips.join("")}</span>`).join("");
   }
   function card(n) {
     const b = document.createElement("button");
     b.type = "button";
-    const minor = n.minor ? " minor" : "";
-    b.className = `card ${n.kind}${minor}`;
+    b.className = `card ${n.kind}${n.minor ? " minor" : ""}`;
     b.style.setProperty("--lc", nodeColor(n));
     b.dataset.id = n.id;
-    const chips = n.minor ? "" : chipsFor(n);
-    b.innerHTML = n.minor ? `<span class="n">${esc(n.label)}</span>` :
-      `<span class="k">${esc(DATA.kinds[n.kind])}</span><span class="n">${esc(n.label)}</span><span class="t">${esc(n.short_text || n.text)}</span>${chips ? `<span class="chips">${chips}</span>` : ""}`;
+    const k = esc(DATA.kinds[n.kind]) + (n.when ? ` · ${esc(n.when)}` : "");
+    const chips = chipsFor(n);
+    b.innerHTML = n.minor ? `<span class="k">${k}</span><span class="n">${esc(n.label)}</span>${chips ? `<span class="chips">${chips}</span>` : ""}` :
+      `<span class="k">${k}</span><span class="n">${esc(n.label)}</span><span class="t">${esc(n.short_text || n.text)}</span>${chips ? `<span class="chips">${chips}</span>` : ""}`;
     b.addEventListener("click", () => select(n.id));
     cardEls[n.id] = b;
     return b;
   }
+
+  // what's showing: parts, inferred links, search
+  function refresh() {
+    const q = $("q").value.trim().toLowerCase();
+    document.querySelectorAll(".section").forEach((s) => { s.hidden = !partOn[s.dataset.part]; });
+    Object.entries(cardEls).forEach(([id, el]) => {
+      const n = byId[id];
+      const hay = [n.label, n.text, n.when || "", ...Object.values(n.facts || {})].join(" ").toLowerCase();
+      el.classList.toggle("dimmed", !!q && !hay.includes(q));
+    });
+    // tags describe their own card, so they stay when the other end's part is switched off; only inferred ones wait for the box
+    document.querySelectorAll(".chip").forEach((c) => { c.hidden = c.dataset.basis === "inferred" && !inferredOn(); });
+    document.querySelectorAll(".chiprow").forEach((r) => { r.hidden = !r.querySelector(".chip:not([hidden])"); });
+    Object.values(laneEls).forEach((l) => { l.hidden = !l.querySelector(".section:not([hidden])"); });
+    document.querySelectorAll("#gaps [data-part]").forEach((g) => { g.hidden = !partOn[g.dataset.part]; });
+    if (current && (!partOn[byId[current].part])) select(null); else if (current) select(current);
+  }
+  window.atlasShowOnly = (short) => { Object.keys(partOn).forEach((k) => { partOn[k] = k === short; }); document.querySelectorAll("input[data-part]").forEach((c) => { c.checked = partOn[c.dataset.part]; }); refresh(); };
 
   // lines for the selected card only
   const board = $("board"), svg = $("links");
@@ -211,7 +236,7 @@ const DATA = /*ATLAS_DATA*/null;
     const a = box(cardEls[id]);
     DATA.edges.forEach((e) => {
       if (e.from !== id && e.to !== id) return;
-      if (e.basis === "inferred" && !$("optInferred").checked) return;
+      if (!visibleEdge(e)) return;
       const other = e.from === id ? e.to : e.from;
       const el = cardEls[other];
       if (!el || el.offsetParent === null) return;
@@ -220,7 +245,7 @@ const DATA = /*ATLAS_DATA*/null;
       const sameLane = Math.abs(b.x - a.x) < 20;
       let d;
       if (sameLane) {
-        const x = a.x + a.w, y1 = a.y + a.h / 2, y2 = b.y + b.h / 2;
+        const x = a.x + a.w, y1 = a.y + Math.min(a.h / 2, 40), y2 = b.y + Math.min(b.h / 2, 40);
         d = `M${x},${y1} C${x + 40},${y1} ${x + 40},${y2} ${x},${y2}`;
       } else {
         const sx = right ? a.x + a.w : a.x, sy = a.y + Math.min(a.h / 2, 40);
@@ -236,6 +261,8 @@ const DATA = /*ATLAS_DATA*/null;
   }
 
   let current = null;
+  const layerName = Object.fromEntries((DATA.layers || []).map((l) => [l.id, l.label]));
+  const pageName = (s) => s.split("#")[0].split("/").pop().replace(/\.md$/, "").replace(/-/g, " ");
   function select(id) {
     current = id;
     Object.values(cardEls).forEach((c) => c.classList.remove("hot", "sel"));
@@ -243,21 +270,21 @@ const DATA = /*ATLAS_DATA*/null;
     if (!id) { drawLinks(null); intro(); return; }
     const n = byId[id];
     cardEls[id].classList.add("hot", "sel");
-    const conns = DATA.edges.filter((e) => (e.from === id || e.to === id) && (e.basis === "stated" || $("optInferred").checked));
-    conns.forEach((e) => { const o = e.from === id ? e.to : e.from; cardEls[o] && cardEls[o].classList.add("hot"); });
+    DATA.edges.filter((e) => (e.from === id || e.to === id) && visibleEdge(e)).forEach((e) => { const o = e.from === id ? e.to : e.from; cardEls[o] && cardEls[o].classList.add("hot"); });
     drawLinks(id);
     const groups = {};
     DATA.edges.filter((e) => e.from === id || e.to === id).forEach((e) => { (groups[e.group || e.layer] = groups[e.group || e.layer] || []).push(e); });
-    const facts = n.facts ? `<dl>${Object.entries(n.facts).map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("")}</dl>` : "";
-    const layerName = Object.fromEntries((DATA.layers || []).map((l) => [l.id, l.label]));
+    const fs = n.fact_src || {};
+    const facts = n.facts && Object.keys(n.facts).length ? `<dl>${Object.entries(n.facts).map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}${fs[k] ? `<a class="src" href="${gh(fs[k])}" target="_blank" rel="noopener">source</a>` : ""}</dd>`).join("")}</dl>` : "";
     const html = Object.entries(groups).map(([g, es]) => `<h4>${esc(layerName[g] || g)}</h4><ul>${es.map((e) => {
       const other = e.from === id ? e.to : e.from;
       const lab = e.from === id ? e.type : (e.chipBack || e.type);
       return `<li class="conn ${e.basis}"><span>${esc(lab)} </span><button type="button" data-go="${other}">${esc(byId[other].label)}</button>${e.goods ? `: ${esc(e.goods)}` : ""}${e.certainty && e.certainty !== "established" ? `<span class="tag">${esc(e.certainty)}</span>` : ""}${e.basis === "inferred" ? `<span class="tag inferred">inferred</span>` : ""}<q>${esc(e.quote)}</q><a href="${gh(e.src)}" target="_blank" rel="noopener">source</a>${(e.also || []).map((a) => `<q>Also: ${esc(a.quote)}${a.note ? " (" + esc(a.note) + ")" : ""}</q><a href="${gh(a.src)}" target="_blank" rel="noopener">source</a>`).join("")}</li>`;
     }).join("")}</ul>`).join("");
-    $("panel").innerHTML = `<span class="eyebrow">${esc(DATA.kinds[n.kind])} · ${esc(laneOf[n.lane].label)}</span><h2>${esc(n.label)}</h2>
+    const see = (n.see || []).length ? ` · also on ${n.see.map((s) => `<a href="${gh(s)}" target="_blank" rel="noopener">${esc(pageName(s))}</a>`).join(", ")}` : "";
+    $("panel").innerHTML = `<span class="eyebrow">${esc(DATA.kinds[n.kind])}${n.when ? " · " + esc(n.when) : ""} · ${esc(laneOf[n.lane].label)} · ${esc(n.part)}</span><h2>${esc(n.label)}</h2>
       <span class="status">${esc(n.status)}</span><p>${esc(n.text)}</p>${facts}${html}
-      <h4>Source</h4><a href="${gh(n.src)}" target="_blank" rel="noopener">Read it on the wiki</a>`;
+      <h4>Source</h4><a href="${gh(n.src)}" target="_blank" rel="noopener">Read it on the wiki</a>${see}`;
     $("panel").querySelectorAll("[data-go]").forEach((b) => b.addEventListener("click", () => { select(b.dataset.go); scrollToCard(b.dataset.go); }));
   }
   function scrollToCard(id) {
@@ -271,23 +298,14 @@ const DATA = /*ATLAS_DATA*/null;
   }
   board.addEventListener("click", (ev) => { if (!ev.target.closest(".card")) select(null); });
 
-  // search
-  $("q").addEventListener("input", () => {
-    const q = $("q").value.trim().toLowerCase();
-    Object.entries(cardEls).forEach(([id, el]) => { const n = byId[id]; el.classList.toggle("dimmed", !!q && !(n.label + " " + n.text).toLowerCase().includes(q)); });
-    if (current) drawLinks(current);
-  });
-  // toggles
-  $("optInferred").addEventListener("change", () => { board.classList.toggle("hide-inferred", !$("optInferred").checked); if (current) select(current); });
-  board.classList.add("hide-inferred");
-  document.querySelectorAll("input[data-part]").forEach((c) => { c.addEventListener("change", () => {
-    document.querySelectorAll(`.section[data-part="${CSS.escape(c.dataset.part)}"]`).forEach((s) => { s.hidden = !c.checked; });
-    if (current) drawLinks(current);
-  }); });
+  $("q").addEventListener("input", refresh);
+  $("optInferred").addEventListener("change", refresh);
+  document.querySelectorAll("input[data-part]").forEach((c) => c.addEventListener("change", () => { partOn[c.dataset.part] = c.checked; refresh(); }));
   window.addEventListener("resize", () => { if (current) drawLinks(current); });
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { if (current) drawLinks(current); });
 
-  $("gaps").innerHTML = (DATA.gaps || []).map((g) => `<li>${esc(g)}</li>`).join("");
+  $("gaps").innerHTML = DATA.gaps.filter((g) => g.items.length).map((g) => `<div data-part="${esc(g.part)}"><h3>${esc(g.title)}</h3><ul>${g.items.map((x) => `<li>${esc(x)}</li>`).join("")}</ul></div>`).join("");
   select(null);
+  refresh();
 })();
 </script>

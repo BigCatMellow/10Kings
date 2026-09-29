@@ -2,7 +2,9 @@
 
 ## Status
 
-**Derived view, not canon. Generated; don't edit by hand.** Edit [`regions.json`](regions.json), then run `python3 atlas/tools/atlas_part.py atlas/regions/regions.json` from the repository root. That rebuilds this page, the [interactive view](regions.html) (published copy: https://claude.ai/artifact/XG2oKvVRes6f7su2dyMaWs) and the [image](regions.png). Every thing links to the wiki page it comes from; the wiki wins any disagreement. Part of the [Atlas](../README.md); plan in [PLAN.md](../PLAN.md).
+**Derived view, not canon. Generated; don't edit by hand.** Edit [`regions.json`](regions.json), then run `python3 atlas/tools/atlas_part.py` from the repository root. That rebuilds this page, the [image](regions.png) of this part, and the [combined board](../board/README.md) (interactive: https://claude.ai/artifact/XG2oKvVRes6f7su2dyMaWs). Every thing links to the wiki page it comes from; the wiki wins any disagreement. Part of the [Atlas](../README.md); plan in [PLAN.md](../PLAN.md).
+
+The backbone of the Atlas: the six regions, Port, the Spine and the Underpass, the border towns between them, and who trades what with whom.
 
 **A board, not a map.** The wiki says the exact map isn't locked ([Geography and Connections](../../wiki/Geography-and-Connections.md)), so the interactive view sorts things into one column per region instead of placing them. Columns are ordered so regions with a settled border sit next to each other (Northwind, Highridge, Deepwood, Ironcrest, Greenvale, Sunplains); nothing else about position means anything. A real map can be drawn from the same data once the geography is locked.
 
@@ -108,25 +110,27 @@ Things the wiki doesn't settle yet. Listed for James to decide; nothing here was
 
 ## Diagram
 
-Positions here are automatic; the [interactive view](regions.html) is easier to read. Solid lines are established borders, dotted are likely or possible; arrows are trade.
+Stated connections only; positions are automatic. The [interactive board](../board/README.md) is easier to read.
 
 ```mermaid
 flowchart LR
   northwind(["Northwind"])
+  northern["Northern Continent"]
   ironcrest(["Ironcrest"])
   greenvale(["Greenvale"])
-  highridge(["Highridge Plateau"])
-  deepwood(["Deepwood"])
   sunplains(["Sunplains"])
-  port[["Port"]]
-  spine[/"The Spine"\]
-  underpass[\"The Underpass"/]
+  deepwood(["Deepwood"])
+  highridge(["Highridge Plateau"])
   stonefield{{"Stonefield Forge"}}
   harveston{{"Harveston Vale"}}
   twilighthollow{{"Twilighthollow"}}
   icestep{{"Icestep Summit"}}
   darkroot{{"Darkroot Gulch"}}
   frostbay{{"Frostbay Way"}}
+  port[["Port"]]
+  underpass[\"The Underpass"/]
+  spine[/"The Spine"\]
+  northwind --> northern
   ironcrest --- greenvale
   greenvale --- sunplains
   deepwood --- highridge
@@ -154,7 +158,7 @@ flowchart LR
   underpass --> spine
   spine --> highridge
   ironcrest --> underpass
-  deepwood -->|possible| underpass
+  deepwood -.->|possible| underpass
   greenvale -->|food, timber, animals, labor| ironcrest
   ironcrest -->|tools, hardware, metal goods| greenvale
   greenvale -->|flour| northwind
@@ -166,26 +170,137 @@ flowchart LR
 
 ## Every thing in this part
 
+Grouped by board column.
+
+### Northwind
+
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Western Continent](../../wiki/Geography-and-Connections.md#macro-geography) | Continent | Working canon | One of three broad landmasses. The wiki does not say which regions sit on it; Ironcrest is described as 'western upland country'. |
-| [Northern Continent](../../wiki/Geography-and-Connections.md#macro-geography) | Continent | Working canon | One of three broad landmasses. Northwind 'occupies much of the Northern Continent and associated coasts and islands'. |
-| [Eastern Continent](../../wiki/Geography-and-Connections.md#macro-geography) | Continent | Working canon | One of three broad landmasses. The wiki does not say which regions sit on it; Sunplains is 'southern/eastern country'. |
 | [Northwind](../../wiki/Regions/Northwind.md) | Region | Working canon | Cold northern coasts, islands, sheltered inland valleys and old clan territories. Settlements cluster at harbors, bays, rivers, fisheries and routes south. |
-| [Ironcrest](../../wiki/Regions/Ironcrest.md) | Region | Working canon | Much of the western upland country: mineral-rich hills, stream valleys, wooded slopes, pasture and farmland around old mining and metalworking centers. |
-| [Greenvale](../../wiki/Regions/Greenvale.md) | Region | Working canon | The largest major agricultural heartland: broad temperate lowlands with comparatively reliable rainfall and productive soils, market towns, rivers, orchards, wetlands, mills and estates. |
+
+**Northwind**
+
+- *Terrain:* cold seas, seasonal storms, rocky coasts, sheltered coves, some partially freezing waters, inland routes toward Highridge
+- *Exports:* fish, salt and preserved foods, furs and animal products, ships and maritime capacity
+- *Imports:* grain, metal goods, medicines, warmer-climate produce
+- *Pressures:* shifting fish stocks, rising piracy, convoy agreements with Port, accusations that clans cooperate with raiders
+- *Seasons:* in winter, northern routes become unreliable (Trade and Dependencies)
+
+### Highridge Plateau
+
+| Thing | Kind | Status | Summary |
+| --- | --- | --- | --- |
 | [Highridge Plateau](../../wiki/Regions/Highridge-Plateau.md) | Region | Working canon | A highland crossroads: routes that avoid or cross parts of the Spine converge here. Exposed uplands, sheltered valleys, steep passes and towns at water and route junctions. |
+
+**Highridge Plateau**
+
+- *Terrain:* exposed uplands, sheltered valleys, steep passes, seasonal streams, grazing country, caravan corridors
+- *Exports:* route access, caravan services, brokerage, arbitration, credit, records and specialist knowledge
+- *Imports:* many lowland and coastal goods
+- *Pressures:* caravan attacks, manipulated route closures, accusations of corrupt militia or toll officials, contested infrastructure
+
+### Deepwood
+
+| Thing | Kind | Status | Summary |
+| --- | --- | --- | --- |
 | [Deepwood](../../wiki/Regions/Deepwood.md) | Region | Working canon | A major forest region: old-growth and managed woodland, river valleys, wetlands, clearings, forest-edge towns, timber districts and restricted areas. |
+
+**Deepwood**
+
+- *Terrain:* old-growth and managed forest, river valleys, wetlands, clearings; routes into foothills and possibly Underpass entrances
+- *Exports:* timber, herbs and medicinals, dyes, forest products, specialist ecological knowledge
+- *Imports:* selected metal tools, salt, grain and urban goods
+- *Pressures:* logging beyond accepted limits, fungal disease, isolationists against reformers, hidden-route crime
+
+### Ironcrest
+
+| Thing | Kind | Status | Summary |
+| --- | --- | --- | --- |
+| [Ironcrest](../../wiki/Regions/Ironcrest.md) | Region | Working canon | Much of the western upland country: mineral-rich hills, stream valleys, wooded slopes, pasture and farmland around old mining and metalworking centers. |
+
+**Ironcrest**
+
+- *Terrain:* mineral hills, stream valleys, wooded slopes, pasture; eastern and southeastern edges grade into Greenvale, Highridge and parts of Deepwood
+- *Exports:* ores, metalwork, tools, weapons, industrial craft capacity
+- *Imports:* substantial food in industrial districts, timber and fuel, seasonal labor, some luxuries
+- *Pressures:* labor unrest, covert metal shipments, pressure to expand Underpass access, fears of weapon stockpiling
+
+### Greenvale
+
+| Thing | Kind | Status | Summary |
+| --- | --- | --- | --- |
+| [Greenvale](../../wiki/Regions/Greenvale.md) | Region | Working canon | The largest major agricultural heartland: broad temperate lowlands with comparatively reliable rainfall and productive soils, market towns, rivers, orchards, wetlands, mills and estates. |
+
+**Greenvale**
+
+- *Terrain:* temperate lowlands and rolling country; grades into Ironcrest foothills, Highridge routes, Deepwood margins and warmer Sunplains country
+- *Exports:* grain, produce, livestock products, textiles and other agricultural goods
+- *Imports:* metal tools, preservation salt, shipping and caravan access
+- *Pressures:* an unusually abundant harvest or new high-yield seed strain, collapsing prices, land consolidation, co-ops against estates
+
+### Sunplains
+
+| Thing | Kind | Status | Summary |
+| --- | --- | --- | --- |
 | [Sunplains](../../wiki/Regions/Sunplains.md) | Region | Working canon | Warmer, drier southern and eastern country of city-states, irrigated basins, orchard belts, grazing country and coast. Water law is politically important. |
+
+**Sunplains**
+
+- *Terrain:* dry plains, river valleys, irrigated basins, orchard belts, grazing country, coast, scrub, some fertile deltas
+- *Exports:* orchard and irrigated crops, oils and wines where appropriate, craft and luxury goods, southern maritime access
+- *Imports:* selected timber, metal, furs and northern goods
+- *Pressures:* drought fears, private control of canals, city-state blocs forming and breaking
+
+### Port
+
+| Thing | Kind | Status | Summary |
+| --- | --- | --- | --- |
 | [Port](../../wiki/Places/Port.md) | Neutral city | Working canon | The major neutral commercial city. It matters for its network position and institutions, not as the only harbor. Its exact site isn't fixed; it belongs to no kingdom. |
+
+**Port**
+
+- *Exports:* shipping access, repair, warehousing, processing, finance, arbitration, information, neutral exchange
+- *Imports:* significant food and raw-material inflows
+- *Why it stays central:* network effects: agents, credit, warehouses, courts and translators are already there
+- *Position:* not fixed; its site should give 'a position convenient to both northern and southern sea routes' and 'access to inland rivers or roads'
+- *Territory:* unsettled: Frostbay Way is described 'if Port is territorially separate'
+
+### Spine & Underpass
+
+| Thing | Kind | Status | Summary |
+| --- | --- | --- | --- |
 | [The Spine](../../wiki/Places/The-Spine.md) | Mountain system | Working canon | The central mountain system the world's geography and transport are organized around. Passes, saddles, inhabited valleys, mining districts, old fortifications and hidden routes. Geologically active. |
 | [The Underpass](../../wiki/Places/The-Underpass.md) | Underground network | Working canon | Caves, fault passages, tunnels, settlements and trade routes beneath parts of the Spine. Not one road, not wholly mapped; authority is fragmented. |
+
+**The Spine**
+
+- *Seasons:* in spring, roads and passes reopen unevenly (Trade and Dependencies)
+- *Touches:* Highridge is the only region the wiki ties to it by name
+
+**The Underpass**
+
+- *Functional adjacency:* two places not close on the surface may trade intensely because a reliable tunnel branch connects them
+- *Claims:* surface kingdoms claim some entrances and sections but rarely control the entire network
+- *Named entrances:* none yet
+
+### Border towns
+
+| Thing | Kind | Status | Summary |
+| --- | --- | --- | --- |
 | [Stonefield Forge](../../wiki/Places/Border-Towns.md#stonefield-forge--ironcrest--greenvale) | Border town | Established working example | Where mineral foothills grade into farmland: mixed farming and craft households, metal repair for farms, labor migration both ways, disputes over water, smoke, timber and land. |
 | [Harveston Vale](../../wiki/Places/Border-Towns.md#harveston-vale--greenvale--sunplains) | Border town | Established working example | Where mixed farmland meets orchard and irrigation country: grain plus fruit, mixed water law, festivals built around several harvest calendars. |
 | [Twilighthollow](../../wiki/Places/Border-Towns.md#twilighthollow--deepwood--highridge) | Border town | Established working example | Where forest uplands meet plateau routes: herbs meet caravan trade; rangers, traders, herders and guides; disputes over timber, roads and conservation. |
 | [Icestep Summit](../../wiki/Places/Border-Towns.md#icestep-summit--northwind--highridge) | Border town | Established working example | A cold pass town where maritime supply routes meet plateau caravans. |
 | [Darkroot Gulch](../../wiki/Places/Border-Towns.md#darkroot-gulch--deepwood--ironcrest) | Border town | Established working example | A forested mineral frontier shaped by logging, charcoal, ore, repair and conflict over extraction. |
 | [Frostbay Way](../../wiki/Places/Border-Towns.md#frostbay-way--northwind--port-influence-zone) | Border town | Established working example | Best treated as a coastal corridor or secondary port in Port's sphere: Northwind seafaring, Port credit and trade law, ship repair, immigrant merchants, seasonal labor. |
+
+### World & unplaced
+
+| Thing | Kind | Status | Summary |
+| --- | --- | --- | --- |
+| [Western Continent](../../wiki/Geography-and-Connections.md#macro-geography) | Continent | Working canon | One of three broad landmasses. The wiki does not say which regions sit on it; Ironcrest is described as 'western upland country'. |
+| [Northern Continent](../../wiki/Geography-and-Connections.md#macro-geography) | Continent | Working canon | One of three broad landmasses. Northwind 'occupies much of the Northern Continent and associated coasts and islands'. |
+| [Eastern Continent](../../wiki/Geography-and-Connections.md#macro-geography) | Continent | Working canon | One of three broad landmasses. The wiki does not say which regions sit on it; Sunplains is 'southern/eastern country'. |
 | [Coalglen Meadows](../../wiki/Places/Border-Towns.md#other-provisional-names) | Unplaced name | Provisional name | A name from earlier brainstorming, kept in a name bank until the map and naming systems are finalized. Not placed. |
 | [Helios Orchard](../../wiki/Places/Border-Towns.md#other-provisional-names) | Unplaced name | Provisional name | Name bank; not placed. |
 | [Snowbreaker Quay](../../wiki/Places/Border-Towns.md#other-provisional-names) | Unplaced name | Provisional name | Name bank; not placed. |

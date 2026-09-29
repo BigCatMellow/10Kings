@@ -1,0 +1,1047 @@
+{
+  "part": 2,
+  "short": "Culture",
+  "title": "Culture",
+  "subtitle": "How each region talks, builds, names places and celebrates; what people say about each other; where cultures mix; and the people who travel between them.",
+  "schematic": "Food has its own part (Part 3) and religion and guilds belong to Part 4 (Power), so they aren't here yet.",
+  "about": "Atlas Part 2. Sources: the Culture pages (except food and weapons) and the culture sections of the region and place pages.",
+  "kinds": {
+    "culture": "Culture",
+    "saying": "In-world saying",
+    "festival": "Festival",
+    "people": "Mobile people"
+  },
+  "layers": [
+    {
+      "id": "mix",
+      "label": "Where cultures mix",
+      "default": true
+    },
+    {
+      "id": "town-culture",
+      "label": "Border-town culture",
+      "default": true
+    },
+    {
+      "id": "circuit",
+      "label": "Nomad circuits",
+      "default": true
+    }
+  ],
+  "nodes": [
+    {
+      "id": "northwind-culture",
+      "kind": "culture",
+      "label": "Northwind culture",
+      "short": "Northwind culture",
+      "status": "Working canon",
+      "lane": "northwind",
+      "section": "Culture",
+      "text": "Colder than most of the known world and unusually maritime, but its people aren't uniformly fishers or stoic seafarers. Conversations can be sensitive to who is included, who witnessed something, and how certain a plan really is.",
+      "short_text": "Speech that marks who's included and who saw it; port neighborhoods built above flood or storm lines.",
+      "src": "Regions/Northwind.md",
+      "facts": {
+        "Inspiration": "Scottish and Irish island communities; Icelandic, Faroese, Scandinavian and North Atlantic maritime cultures; Ainu, Japanese, Korean, Aleut, Inuit and other northern and coastal societies; fishing societies built around seasonal risk, preservation and cooperative labor. Avoid generic 'Viking culture.'",
+        "Speech": "May include an inclusive and an exclusive 'we', strong evidential markers, directional vocabulary tied to coast, wind and slope, and future forms that stress conditions. Conversations become sensitive to who is included, who witnessed something, and how certain a plan really is.",
+        "Building": "Large ports with stone breakwaters, dock districts, timber warehouses, fish markets, smokehouses, boatyards, public halls and shrines, built above flood or storm lines. Fishing towns with small docks, communal work yards, drying racks, storage pits and steep-roofed or earth-insulated homes depending on climate. Remote families build for insulation and repairability from driftwood, stone, turf, timber, clay, hide, reeds and imported iron.",
+        "Place names": "Coastal geography, bays, islands, currents, lineages, seasonal sites."
+      },
+      "fact_src": {
+        "Inspiration": "Regions/Northwind.md#cultural-inspirations",
+        "Speech": "Regions/Northwind.md#language",
+        "Building": "Regions/Northwind.md#settlement-and-architecture",
+        "Place names": "Culture/Naming.md#regional-direction"
+      },
+      "see": [
+        "Culture/Language-and-Thought.md#northwind-languages",
+        "Culture/Architecture.md#northwind",
+        "Culture/Culture-and-Influence.md#northwind"
+      ]
+    },
+    {
+      "id": "ironcrest-culture",
+      "kind": "culture",
+      "label": "Ironcrest culture",
+      "short": "Ironcrest culture",
+      "status": "Working canon",
+      "lane": "ironcrest",
+      "section": "Culture",
+      "text": "Places unusually high value on demonstrated skill, accountability for work, reputation over generations, apprenticeship, mutual aid in dangerous trades and practical literacy. There's a long tension between craft pride and concentrated ownership.",
+      "short_text": "Skill, accountability and apprenticeship; speech that asks who's responsible.",
+      "src": "Regions/Ironcrest.md",
+      "facts": {
+        "Values": "Demonstrated skill; accountability for work; reputation over generations; apprenticeship; mutual aid in dangerous trades; practical literacy such as contracts, weights, measures and records. Mine owners, guild masters, workers, small smiths, merchants and rural communities don't necessarily want the same future.",
+        "Inspiration": "Scottish, Welsh and Appalachian mining communities; Andean highland mining settlements; Ethiopian and Yemeni upland stone architecture; Japanese and Chinese craft-lineage traditions; Balkan and Central European mountain towns. It shouldn't resemble any one of them directly.",
+        "Speech": "May habitually distinguish whether something was ordered, attempted, completed, inspected or guaranteed: close attention to responsibility and proof, without making every Ironcrest person blunt or emotionless.",
+        "Building": "Older urban cores may contain dark local stone, narrow lanes, fortified compounds, cisterns, market courts, guild halls, and neighborhoods layered around mines or river crossings. Workshops run on water wheels, bellows, cranes, hand and animal power. Towns exist for several reasons at once; homes show mixed economies (a miner may keep goats, a smith may farm part of the year).",
+        "Place names": "Older upland and river names beneath later mining, fort, family and guild names."
+      },
+      "fact_src": {
+        "Values": "Regions/Ironcrest.md#cultural-character",
+        "Inspiration": "Regions/Ironcrest.md#cultural-influences",
+        "Speech": "Regions/Ironcrest.md#language",
+        "Building": "Regions/Ironcrest.md#settlement-and-architecture",
+        "Place names": "Culture/Naming.md#regional-direction"
+      },
+      "see": [
+        "Culture/Language-and-Thought.md#ironcrest-languages",
+        "Culture/Architecture.md#ironcrest",
+        "Culture/Culture-and-Influence.md#ironcrest"
+      ]
+    },
+    {
+      "id": "greenvale-culture",
+      "kind": "culture",
+      "label": "Greenvale culture",
+      "short": "Greenvale culture",
+      "status": "Working canon",
+      "lane": "greenvale",
+      "section": "Culture",
+      "text": "The largest major agricultural heartland, but not one endless field: market towns, pasture, rivers, orchards, mills, estates, tenant villages and cities. Speech may reinforce attention to process, inheritance and long-term obligation.",
+      "short_text": "Speech built around process and stewardship; granaries, mills and farm compounds.",
+      "src": "Regions/Greenvale.md",
+      "facts": {
+        "Inspiration": "Andean cooperative agriculture; South and Southeast Asian irrigation communities; Irish rural social traditions; Indigenous seed stewardship in the Americas; Eastern European mixed farming; village-compound and commons systems worldwide.",
+        "Aim": "A heavily inhabited agricultural country, not a pastoral postcard.",
+        "Speech": "May distinguish beginning, ongoing, recurring, interrupted, completed and seasonal work, and personal property from land or resources held in stewardship for family or community.",
+        "Building": "Agricultural cities are market, milling, storage, craft and legal centers, not giant villages: granaries, mills, river quays, dense working-class districts, wealthy landowning quarters, caravan yards. Towns vary: raised floors on floodplains, earthen or timber compounds in drier towns, cooperative villages around common storage and wells. Farmsteads are mixed-purpose complexes.",
+        "Place names": "Rivers, soils, old settlements, family lands, markets, former estates."
+      },
+      "fact_src": {
+        "Aim": "Culture/Culture-and-Influence.md#greenvale",
+        "Inspiration": "Regions/Greenvale.md#cultural-inspirations",
+        "Speech": "Regions/Greenvale.md#language",
+        "Building": "Regions/Greenvale.md#settlement-and-architecture",
+        "Place names": "Culture/Naming.md#regional-direction"
+      },
+      "see": [
+        "Culture/Language-and-Thought.md#greenvale-languages",
+        "Culture/Architecture.md#greenvale",
+        "Culture/Culture-and-Influence.md#greenvale"
+      ]
+    },
+    {
+      "id": "highridge-culture",
+      "kind": "culture",
+      "label": "Highridge culture",
+      "short": "Highridge culture",
+      "status": "Working canon",
+      "lane": "highridge",
+      "section": "Culture",
+      "text": "A highland crossroads, not simply 'the merchant region': routes that avoid or cross the Spine converge here. People used to bargaining across languages notice what a promise actually commits someone to.",
+      "short_text": "Probably the most multilingual settled region; speech that pins down what a promise commits you to.",
+      "src": "Regions/Highridge-Plateau.md",
+      "facts": {
+        "Aim": "Its defining history is its role as intermediary, so cultural borrowing should be especially visible.",
+        "Inspiration": "Tibetan and Himalayan plateau communities; Andean highlands; Central Asian caravan societies; Persian and Silk Road caravanserai networks; Caucasus trade communities; mountain markets across Asia and South America.",
+        "Speech": "Probably the most multilingual settled region. Trade forms stress condition, obligation, evidence, quotation, weights, dates, routes and exceptions, so people notice what a promise actually commits someone to.",
+        "Building": "Cities layered around markets, caravan yards, stables, cisterns, temples, meeting halls and arbitration halls, with terraces and retaining walls; neighborhoods show generations of settled foreign merchants. Pass towns with fortified gates, inns, animal yards, repair shops, public scales and toll or customs houses.",
+        "Place names": "Route names, passes, wells, caravan families, old toll sites, names translated from several languages."
+      },
+      "fact_src": {
+        "Aim": "Culture/Culture-and-Influence.md#highridge-plateau",
+        "Inspiration": "Regions/Highridge-Plateau.md#cultural-inspirations",
+        "Speech": "Regions/Highridge-Plateau.md#language",
+        "Building": "Regions/Highridge-Plateau.md#settlement-and-architecture",
+        "Place names": "Culture/Naming.md#regional-direction"
+      },
+      "see": [
+        "Culture/Language-and-Thought.md#highridge-languages",
+        "Culture/Architecture.md#highridge",
+        "Culture/Culture-and-Influence.md#highridge-plateau"
+      ]
+    },
+    {
+      "id": "deepwood-culture",
+      "kind": "culture",
+      "label": "Deepwood culture",
+      "short": "Deepwood culture",
+      "status": "Working canon",
+      "lane": "deepwood",
+      "section": "Culture",
+      "text": "People who have developed institutions for living with, using and defending the forest. It shouldn't be written as an undifferentiated mystical wilderness.",
+      "short_text": "Speech with precise words for forest, water and sign; towns that may use longhouses and raised floors.",
+      "src": "Regions/Deepwood.md",
+      "facts": {
+        "Aim": "Avoid the 'mystical forest people' monoculture.",
+        "Inspiration": "Amazonian forest societies; Dayak and Bornean longhouse communities; Japanese managed woodland traditions; Indigenous North American forest societies; Baltic, Slavic, Finnic and Celtic woodland cultures; historical forest economies worldwide.",
+        "Speech": "May mark agency or animacy grammatically, with precise words for forest age, water state, animal sign, plant succession, cutting rights, regrowth, and inherited versus directly observed knowledge. Environmental attention without implying supernatural wisdom.",
+        "Building": "Cities still look like cities: markets, river docks, workshops, religious compounds, poor neighborhoods, roads and boardwalks; a city may grow around existing tree stands or waterways rather than a geometric plan. Many towns are specialized (river trade, forest products, hunting, timber, medicine, border exchange); longhouses, raised floors, covered walkways and courtyards may appear depending on climate. Remote homes: some raised for wet ground, others partly dug into slopes.",
+        "Place names": "Waterways, groves, species, older peoples, landmarks that may not be obvious to outsiders."
+      },
+      "fact_src": {
+        "Aim": "Culture/Culture-and-Influence.md#deepwood",
+        "Inspiration": "Regions/Deepwood.md#cultural-inspirations",
+        "Speech": "Regions/Deepwood.md#language",
+        "Building": "Regions/Deepwood.md#settlement-and-architecture",
+        "Place names": "Culture/Naming.md#regional-direction"
+      },
+      "see": [
+        "Culture/Language-and-Thought.md#deepwood-languages",
+        "Culture/Architecture.md#deepwood",
+        "Culture/Culture-and-Influence.md#deepwood"
+      ]
+    },
+    {
+      "id": "sunplains-culture",
+      "kind": "culture",
+      "label": "Sunplains culture",
+      "short": "Sunplains culture",
+      "status": "Working canon",
+      "lane": "sunplains",
+      "section": "Culture",
+      "text": "The warmer, generally drier south and east of old city-states, irrigated farming, orchards, coastal exchange and civic competition; not to be reduced to wine, olive oil and festivals. Its speech helps explain why political speech is a craft and public humiliation can matter politically.",
+      "short_text": "Rhetoric, status and saving face; courtyard cities that each look different.",
+      "src": "Regions/Sunplains.md",
+      "facts": {
+        "Aim": "Its civic competition should be as important as climate.",
+        "Inspiration": "Maghrebi and Levantine societies; Anatolian, Persian, Iberian, Greek and southern Italian dry-climate traditions; South Asian irrigation and market cultures; Andean and other South American arid and coastal agriculture; city-states and merchant republics globally.",
+        "Speech": "Urban languages may carry formal status registers, public and private speech differences, elaborate rhetoric and legal argument, and forms for indirect refusal and saving face.",
+        "Building": "City-states with dense walled cores, courtyard houses, shaded streets, cisterns, fountains, markets, assembly spaces, garden districts, elite estates and crowded poor quarters; different cities should look meaningfully different. Small towns may center on a spring, irrigation gate, market, estate, shrine or harbor. Farmsteads with thick walls, courtyards, shade, roof terraces and water storage.",
+        "Place names": "Old city-state names, founders, civic ideals, waterworks, forts, ports, estates."
+      },
+      "fact_src": {
+        "Aim": "Culture/Culture-and-Influence.md#sunplains",
+        "Inspiration": "Regions/Sunplains.md#cultural-inspirations",
+        "Speech": "Regions/Sunplains.md#language",
+        "Building": "Regions/Sunplains.md#settlement-and-architecture",
+        "Place names": "Culture/Naming.md#regional-direction"
+      },
+      "see": [
+        "Culture/Language-and-Thought.md#sunplains-languages",
+        "Culture/Architecture.md#sunplains",
+        "Culture/Culture-and-Influence.md#sunplains"
+      ]
+    },
+    {
+      "id": "port-culture",
+      "kind": "culture",
+      "label": "Port culture",
+      "short": "Port culture",
+      "status": "Working canon",
+      "lane": "port",
+      "section": "Culture",
+      "text": "Port is its own culture, not merely six regional quarters. Generations of migration have made mixed families, native dialects, neighborhood cuisines, blended religious practice and people who identify as Port-born first.",
+      "short_text": "Its own culture, not six regional quarters; people who call themselves Port-born first.",
+      "src": "Places/Port.md#culture",
+      "facts": {
+        "Culture": "Mixed families; native Port dialects; neighborhood cuisines; blended religious practices; occupations found nowhere else at the same scale; people who identify as Port-born first.",
+        "Neighborhoods": "Cultures several generations removed from their ancestral regions that no longer fit clean categories.",
+        "Speech": "Native Port speech, trade pidgins and creoles, heritage languages, guild jargons, religious registers and neighborhood dialects. A third-generation Port family shouldn't sound like diluted Northwind or Sunplains.",
+        "Building": "Layers from every region, made its own style by high land value, fire rules, warehouses, docks, mixed materials, vertical additions, foreign quarters and rebuilding after fires and storms.",
+        "Place names": "Layers upon layers: an old geographic name, an official charter name, district nicknames, immigrant neighborhood names, merchant terminology."
+      },
+      "fact_src": {
+        "Culture": "Places/Port.md#culture",
+        "Neighborhoods": "Culture/Culture-and-Influence.md#cultural-blending",
+        "Speech": "Culture/Language-and-Thought.md#port",
+        "Building": "Culture/Architecture.md#port",
+        "Place names": "Culture/Naming.md#regional-direction"
+      },
+      "see": []
+    },
+    {
+      "id": "borderlands-culture",
+      "kind": "culture",
+      "label": "Border-town culture",
+      "short": "Border-town culture",
+      "status": "No status label",
+      "lane": "borderlands",
+      "section": "Culture",
+      "text": "Border towns aren't diluted versions of two cultures; over generations they become cultures of their own. Marriage crosses political lines, children grow up bilingual, guild jurisdictions overlap, law gets negotiated, and loyalty may be local before regional.",
+      "short_text": "Not two cultures watered down: over generations, cultures of their own.",
+      "src": "Places/Border-Towns.md#principle",
+      "facts": {
+        "Speech": "First-generation bilingual adults may code-switch; second and third generations often create stable mixed dialects and combine habits, which can make them unusually effective mediators (not wiser, just practiced at what must be said explicitly).",
+        "Building": "Adaptive, not decorative fusion.",
+        "Place names": "Often two accepted names, one name translated differently by each side, a hybrid name, an old political name nobody uses officially, or family names crossing linguistic lines.",
+        "Younger generations": "May speak stable hybrid dialects, reject their grandparents' political labels, combine religious practices, marry across older divisions, treat regional feuds as absurd, or revive pre-Convergence identities: natural political wild cards.",
+        "Why it matters": "If kingdoms argue in old categories while border populations have already made new identities, the political map is lagging behind lived reality."
+      },
+      "fact_src": {
+        "Speech": "Culture/Language-and-Thought.md#border-generations",
+        "Building": "Culture/Architecture.md#border-towns",
+        "Place names": "Culture/Naming.md#border-names",
+        "Younger generations": "Places/Border-Towns.md#generational-change",
+        "Why it matters": "Places/Border-Towns.md#story-function"
+      },
+      "see": [
+        "Culture/Culture-and-Influence.md#cultural-blending"
+      ]
+    },
+    {
+      "id": "nomads",
+      "kind": "people",
+      "label": "Nomads and itinerant peoples",
+      "short": "Nomads",
+      "status": "Working area, not yet fixed canon",
+      "lane": "across",
+      "section": "Culture",
+      "src": "Culture/Nomads.md",
+      "text": "A favored idea the project wants to explore: a mobile people with significant Appalachian cultural influence, grounded in this world's actual mobility needs. One possible form is a network of related traveling households moving on circuits rather than wandering. Different mobile peoples can exist; 'the nomads' shouldn't be one culture.",
+      "short_text": "An Appalachian-influenced mobile people, possibly moving on seasonal circuits; useful to everyone, trusted by almost no one.",
+      "facts": {
+        "Why they move": "Possible reasons: livestock between upland and lowland pasture; itinerant repair, metal, wood, basket, leather or musical trades; caravan support; seasonal farm labor; pilgrimage; fairs; hunting and trapping circuits; river or boat communities; families displaced by pre-Convergence border wars.",
+        "Appalachian influence": "Social, not costume: dense kin networks, family reputations, ballads as archives, route knowledge in hard upland terrain, portable crafts, repair and reuse, mutual aid outside institutions, suspicion of distant authorities, creditors, monopolies and outsiders who extract wealth then leave, humor and storytelling as social weapons, strong attachment to places. Historical Appalachia wasn't generally nomadic, so this is combined with genuinely mobile traditions: transhumant pastoralism, itinerant crafts, caravan peoples, seasonal work circuits and traveling religious communities.",
+        "Rights": "In the possible circuit form, families may own no kingdom-scale territory but hold traditional stopping rights, springs, pasture agreements, camps, shrines and market privileges recognized by old custom.",
+        "What they carry": "Songs, news, tools, marriages, rumors, contraband, religious ideas, prices, missing-person information. Useful to everyone and fully trusted by almost no one.",
+        "Who wants them": "The Council would want their information networks without letting them become independent infrastructure. The Villain could use them as couriers, witnesses or unwitting carriers of chosen rumors. Wurdren could plausibly know them better than elite characters. (Parts 4 and 6 will connect these.)",
+        "Don't": "Make them automatically criminal or mystical wanderers with no economy; caricature Appalachian influence; make all mobile groups ethnically identical; assume mobility means no attachment to place."
+      },
+      "fact_src": {
+        "Why they move": "Culture/Nomads.md#why-mobile-peoples-exist-here",
+        "Appalachian influence": "Culture/Nomads.md#appalachian-influenced-concept",
+        "Rights": "Culture/Nomads.md#a-possible-form",
+        "What they carry": "Culture/Nomads.md#political-role",
+        "Who wants them": "Culture/Nomads.md#political-role",
+        "Don't": "Culture/Nomads.md#do-not"
+      },
+      "see": [
+        "Culture/Culture-and-Influence.md#nomads-and-itinerant-peoples"
+      ]
+    },
+    {
+      "id": "ironcrest-saying",
+      "kind": "saying",
+      "label": "“Iron hands, iron hearts.”",
+      "status": "Provisional scene texture",
+      "lane": "ironcrest",
+      "section": "Culture",
+      "src": "Culture/Regional-Social-Dynamics.md#example-sayings",
+      "text": "What the speaker implies: toughness becoming cruelty. Something particular people might say or expect, never an objective description. It can be affectionate, hostile, self-mocking or obsolete depending on who says it.",
+      "short_text": "Implies toughness becoming cruelty.",
+      "facts": {
+        "Employers' biased shortcut": "Ironcrest workers are stereotyped as better metalworkers. Reality may contradict it; show counterexamples. A stereotype should create tension, opportunity or injustice, not become a rule of the world."
+      },
+      "fact_src": {
+        "Employers' biased shortcut": "Culture/Regional-Social-Dynamics.md#hiring-prejudice"
+      }
+    },
+    {
+      "id": "northwind-saying",
+      "kind": "saying",
+      "label": "“Cold water, cold blood.”",
+      "status": "Provisional scene texture",
+      "lane": "northwind",
+      "section": "Culture",
+      "src": "Culture/Regional-Social-Dynamics.md#example-sayings",
+      "text": "What the speaker implies: maritime hardness becoming callousness. Something particular people might say or expect, never an objective description. It can be affectionate, hostile, self-mocking or obsolete depending on who says it.",
+      "short_text": "Implies maritime hardness becoming callousness.",
+      "facts": {
+        "Employers' biased shortcut": "Northwind sailors are assumed to be safer hires for ship work. Reality may contradict it; show counterexamples. A stereotype should create tension, opportunity or injustice, not become a rule of the world."
+      },
+      "fact_src": {
+        "Employers' biased shortcut": "Culture/Regional-Social-Dynamics.md#hiring-prejudice"
+      }
+    },
+    {
+      "id": "greenvale-saying",
+      "kind": "saying",
+      "label": "“Soft as Greenvale butter.”",
+      "status": "Provisional scene texture",
+      "lane": "greenvale",
+      "section": "Culture",
+      "src": "Culture/Regional-Social-Dynamics.md#example-sayings",
+      "text": "What the speaker implies: agricultural comfort becoming weakness. Something particular people might say or expect, never an objective description. It can be affectionate, hostile, self-mocking or obsolete depending on who says it.",
+      "short_text": "Implies agricultural comfort becoming weakness.",
+      "facts": {},
+      "fact_src": {}
+    },
+    {
+      "id": "highridge-saying",
+      "kind": "saying",
+      "label": "“Every road leads to Highridge's pocket.”",
+      "status": "Provisional scene texture",
+      "lane": "highridge",
+      "section": "Culture",
+      "src": "Culture/Regional-Social-Dynamics.md#example-sayings",
+      "text": "What the speaker implies: intermediaries profit from everyone. Something particular people might say or expect, never an objective description. It can be affectionate, hostile, self-mocking or obsolete depending on who says it.",
+      "short_text": "Implies intermediaries profit from everyone.",
+      "facts": {
+        "Employers' biased shortcut": "Highridge-trained clerks or Port polyglots may be preferred for translation and records. Reality may contradict it; show counterexamples. A stereotype should create tension, opportunity or injustice, not become a rule of the world."
+      },
+      "fact_src": {
+        "Employers' biased shortcut": "Culture/Regional-Social-Dynamics.md#hiring-prejudice"
+      }
+    },
+    {
+      "id": "deepwood-saying",
+      "kind": "saying",
+      "label": "“Gone to the trees.”",
+      "status": "Provisional scene texture",
+      "lane": "deepwood",
+      "section": "Culture",
+      "src": "Culture/Regional-Social-Dynamics.md#example-sayings",
+      "text": "What the speaker implies: outsiders treating seclusion as irrationality. Something particular people might say or expect, never an objective description. It can be affectionate, hostile, self-mocking or obsolete depending on who says it.",
+      "short_text": "Implies outsiders treating seclusion as irrationality.",
+      "facts": {
+        "Employers' biased shortcut": "Deepwood-trained healers can command prestige for some specialties. Reality may contradict it; show counterexamples. A stereotype should create tension, opportunity or injustice, not become a rule of the world."
+      },
+      "fact_src": {
+        "Employers' biased shortcut": "Culture/Regional-Social-Dynamics.md#hiring-prejudice"
+      }
+    },
+    {
+      "id": "sunplains-saying",
+      "kind": "saying",
+      "label": "“Golden tongue, copper coin.”",
+      "status": "Provisional scene texture",
+      "lane": "sunplains",
+      "section": "Culture",
+      "src": "Culture/Regional-Social-Dynamics.md#example-sayings",
+      "text": "What the speaker implies: polished rhetoric hiding little substance. Something particular people might say or expect, never an objective description. It can be affectionate, hostile, self-mocking or obsolete depending on who says it.",
+      "short_text": "Implies polished rhetoric hiding little substance.",
+      "facts": {},
+      "fact_src": {}
+    },
+    {
+      "id": "port-saying",
+      "kind": "saying",
+      "label": "“Every ship lands at Port, none stay.”",
+      "status": "Provisional scene texture",
+      "lane": "port",
+      "section": "Culture",
+      "src": "Culture/Regional-Social-Dynamics.md#example-sayings",
+      "text": "What the speaker implies: a city used by outsiders and abandoned. Something particular people might say or expect, never an objective description. It can be affectionate, hostile, self-mocking or obsolete depending on who says it.",
+      "short_text": "Implies a city used by outsiders and abandoned.",
+      "facts": {
+        "Employers' biased shortcut": "Displaced Port workers may be offered the hardest work because employers assume they have fewer alternatives. Port polyglots (like Highridge-trained clerks) may be preferred for translation and records. Reality may contradict it; show counterexamples. A stereotype should create tension, opportunity or injustice, not become a rule of the world."
+      },
+      "fact_src": {
+        "Employers' biased shortcut": "Culture/Regional-Social-Dynamics.md#hiring-prejudice"
+      }
+    },
+    {
+      "id": "f-forge-reawakening",
+      "kind": "festival",
+      "label": "Forge Reawakening",
+      "when": "Early spring",
+      "status": "Provisional",
+      "lane": "ironcrest",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#ironcrest",
+      "text": "Can mark foundries returning from winter maintenance; apprenticeship judgments, remembrance of dead workers and the ceremonial relighting of fires can reinforce labor identity."
+    },
+    {
+      "id": "f-foundry-week",
+      "kind": "festival",
+      "label": "Foundry Week",
+      "when": "Midsummer",
+      "status": "Provisional",
+      "lane": "ironcrest",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar",
+      "text": "Named in the seasonal calendar (Midsummer) only; no description yet.",
+      "minor": true
+    },
+    {
+      "id": "f-ember-remembrance",
+      "kind": "festival",
+      "label": "Ember Remembrance",
+      "when": "Late autumn",
+      "status": "Provisional",
+      "lane": "ironcrest",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#ironcrest",
+      "text": "Works better as a solemn memorial than a spectacle: banked fires, names on memorial walls and a rare interruption of commerce."
+    },
+    {
+      "id": "f-coal-ember-vigil",
+      "kind": "festival",
+      "label": "Coal Ember Vigil",
+      "when": "Midwinter",
+      "status": "Provisional",
+      "lane": "ironcrest",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar",
+      "text": "Named in the seasonal calendar (Midwinter) only; no description yet.",
+      "minor": true
+    },
+    {
+      "id": "f-ice-breaking",
+      "kind": "festival",
+      "label": "Ice Breaking",
+      "when": "Early spring",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#northwind",
+      "text": "Can mark the safe return of seasonal navigation; boat inspection, first launches and rights to contested fishing grounds can turn survival practice into public ritual."
+    },
+    {
+      "id": "f-first-catch",
+      "kind": "festival",
+      "label": "First Catch",
+      "when": "Late spring",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar",
+      "text": "Named in the seasonal calendar (Late spring) only; no description yet.",
+      "minor": true
+    },
+    {
+      "id": "f-aurora-nights",
+      "kind": "festival",
+      "label": "Aurora Nights",
+      "when": "Late summer",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#northwind",
+      "text": "Offers a quieter counterpoint to Northwind's rough public image: family stories, ancestor traditions, betrothals and beliefs tied to the lights. Supernatural explanations are beliefs, not proof."
+    },
+    {
+      "id": "f-last-sail",
+      "kind": "festival",
+      "label": "Last Sail",
+      "when": "Late autumn",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar",
+      "text": "Named in the seasonal calendar (Late autumn) only; no description yet.",
+      "minor": true
+    },
+    {
+      "id": "f-long-dark-feast",
+      "kind": "festival",
+      "label": "Long Dark Feast",
+      "when": "Midwinter",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar",
+      "text": "Named in the seasonal calendar (Midwinter) only; no description yet.",
+      "minor": true
+    },
+    {
+      "id": "f-sowing-days",
+      "kind": "festival",
+      "label": "Sowing Days",
+      "when": "Early spring",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar",
+      "text": "Named in the seasonal calendar (Early spring) only; no description yet.",
+      "minor": true
+    },
+    {
+      "id": "f-grain-ripening",
+      "kind": "festival",
+      "label": "Grain Ripening",
+      "when": "Late summer",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar",
+      "text": "Named in the seasonal calendar (Late summer) only; no description yet.",
+      "minor": true
+    },
+    {
+      "id": "f-harvest-home",
+      "kind": "festival",
+      "label": "Harvest Home",
+      "when": "Early autumn",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#greenvale",
+      "text": "Can combine celebration with redistribution, seed exchange and public accounting of surplus."
+    },
+    {
+      "id": "f-root-cellar-night",
+      "kind": "festival",
+      "label": "Root Cellar Night",
+      "when": "Midwinter",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#greenvale",
+      "text": "Can be intimate rather than civic: stored food, family stories and remembrance of old scarcity such as the Seven-year Blight."
+    },
+    {
+      "id": "f-pass-opening",
+      "kind": "festival",
+      "label": "Pass Opening",
+      "when": "Early spring",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar",
+      "text": "Named in the seasonal calendar (Early spring) only; no description yet.",
+      "minor": true
+    },
+    {
+      "id": "f-caravan-blessing",
+      "kind": "festival",
+      "label": "Caravan Blessing",
+      "when": "Late spring",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar",
+      "text": "Named in the seasonal calendar (Late spring) only; no description yet.",
+      "minor": true
+    },
+    {
+      "id": "f-midsummer-debates",
+      "kind": "festival",
+      "label": "Midsummer Debates",
+      "when": "Midsummer",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#highridge",
+      "text": "Can make rhetoric a public competitive craft, without implying every Highridge resident is a philosopher."
+    },
+    {
+      "id": "f-ledger-closing",
+      "kind": "festival",
+      "label": "Ledger Closing",
+      "when": "Late autumn",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#highridge",
+      "text": "Can mark the end of a fiscal or trade cycle: debts settled, renegotiated or publicly disputed before a brief period of relief."
+    },
+    {
+      "id": "f-silent-thaw",
+      "kind": "festival",
+      "label": "Silent Thaw",
+      "when": "Early spring",
+      "status": "Provisional",
+      "lane": "deepwood",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar",
+      "text": "Named in the seasonal calendar (Early spring) only; no description yet.",
+      "minor": true
+    },
+    {
+      "id": "f-canopy-vigil",
+      "kind": "festival",
+      "label": "Canopy Vigil",
+      "when": "Midsummer",
+      "status": "Provisional",
+      "lane": "deepwood",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#deepwood",
+      "text": "Can center on restraint and attention: reduced work, quiet observation and later community interpretation."
+    },
+    {
+      "id": "f-gathering-quiet",
+      "kind": "festival",
+      "label": "Gathering Quiet",
+      "when": "Early autumn",
+      "status": "Provisional",
+      "lane": "deepwood",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar",
+      "text": "Named in the seasonal calendar (Early autumn) only; no description yet.",
+      "minor": true
+    },
+    {
+      "id": "f-deep-silence",
+      "kind": "festival",
+      "label": "Deep Silence",
+      "when": "Midwinter",
+      "status": "Provisional",
+      "lane": "deepwood",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#deepwood",
+      "text": "Can vary dramatically by community: some may treat it as spiritual practice; others as old custom, ecological rule or a holiday they barely observe."
+    },
+    {
+      "id": "f-blossom-markets",
+      "kind": "festival",
+      "label": "Blossom Markets",
+      "when": "Early spring",
+      "status": "Provisional",
+      "lane": "sunplains",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar",
+      "text": "Named in the seasonal calendar (Early spring) only; no description yet.",
+      "minor": true
+    },
+    {
+      "id": "f-festival-of-patrons",
+      "kind": "festival",
+      "label": "Festival of Patrons",
+      "when": "Midsummer",
+      "status": "Provisional",
+      "lane": "sunplains",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#sunplains",
+      "text": "Can turn civic generosity into competition among houses, guilds and cities."
+    },
+    {
+      "id": "f-wine-crush",
+      "kind": "festival",
+      "label": "Wine Crush",
+      "when": "Early autumn",
+      "status": "Provisional",
+      "lane": "sunplains",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar",
+      "text": "Named in the seasonal calendar (Early autumn) only; no description yet.",
+      "minor": true
+    },
+    {
+      "id": "f-solstice-lanterns",
+      "kind": "festival",
+      "label": "Solstice Lanterns",
+      "when": "Midwinter",
+      "status": "Provisional",
+      "lane": "sunplains",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#sunplains",
+      "text": "Can mix family, neighborhood and civic meanings; different faiths may explain the same public practice differently."
+    },
+    {
+      "id": "f-tide-return",
+      "kind": "festival",
+      "label": "Tide Return",
+      "when": "Early spring",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar",
+      "text": "Named in the seasonal calendar (Early spring) only; no description yet.",
+      "minor": true
+    },
+    {
+      "id": "f-three-moon-festival",
+      "kind": "festival",
+      "label": "Three Moon Festival",
+      "when": "Early autumn",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#port",
+      "text": "Most useful when it belongs to Port rather than serving as a generic 'all cultures' event: its power can come from the city showing that incompatible groups can occupy one civic space."
+    },
+    {
+      "id": "f-lean-vigil",
+      "kind": "festival",
+      "label": "Lean Vigil",
+      "when": "Midwinter",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "Festivals",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#port",
+      "text": "Can mark the anxiety of winter shipping and food supply, without asserting that Port literally has no local food or defenses."
+    }
+  ],
+  "edges": [
+    {
+      "from": "ironcrest-culture",
+      "to": "greenvale-culture",
+      "layer": "mix",
+      "type": "mixes at the border with",
+      "basis": "stated",
+      "quote": "Ironcrest stone foundations + Greenvale flood/yard planning",
+      "src": "Culture/Architecture.md#border-towns",
+      "chip": "Mixes with",
+      "chipBack": "Mixes with",
+      "also": [
+        {
+          "quote": "direct responsibility marking from Ironcrest + process/aspect distinctions from Greenvale",
+          "src": "Culture/Language-and-Thought.md#border-generations"
+        }
+      ]
+    },
+    {
+      "from": "northwind-culture",
+      "to": "highridge-culture",
+      "layer": "mix",
+      "type": "mixes at the border with",
+      "basis": "stated",
+      "quote": "Northwind insulation + Highridge compact stone windbreaks",
+      "src": "Culture/Architecture.md#border-towns",
+      "chip": "Mixes with",
+      "chipBack": "Mixes with",
+      "also": [
+        {
+          "quote": "Northwind evidentiality + Highridge contractual conditionals",
+          "src": "Culture/Language-and-Thought.md#border-generations"
+        }
+      ]
+    },
+    {
+      "from": "deepwood-culture",
+      "to": "sunplains-culture",
+      "layer": "mix",
+      "type": "mixes where forest meets hot lowland with",
+      "basis": "stated",
+      "quote": "Deepwood raised floors + Sunplains courtyard shade where forest gives way to hot lowland",
+      "src": "Culture/Architecture.md#border-towns",
+      "certainty": "likely",
+      "chip": "Mixes with",
+      "chipBack": "Mixes with"
+    },
+    {
+      "from": "deepwood-culture",
+      "to": "highridge-culture",
+      "layer": "mix",
+      "type": "mixes at the border with",
+      "basis": "stated",
+      "quote": "Deepwood ecological agency + Highridge precision about obligations",
+      "src": "Culture/Language-and-Thought.md#border-generations",
+      "chip": "Mixes with",
+      "chipBack": "Mixes with"
+    },
+    {
+      "from": "stonefield",
+      "to": "ironcrest-culture",
+      "layer": "town-culture",
+      "type": "speech blends",
+      "basis": "stated",
+      "quote": "blended speech emphasizing both accountability and long-term process",
+      "src": "Places/Border-Towns.md#stonefield-forge--ironcrest--greenvale",
+      "chip": "Speech blends",
+      "chipBack": "Blended in",
+      "also": [
+        {
+          "quote": "people may habitually ask who is accountable",
+          "src": "Culture/Language-and-Thought.md#ironcrest-languages",
+          "note": "accountability is Ironcrest's habit"
+        }
+      ]
+    },
+    {
+      "from": "stonefield",
+      "to": "greenvale-culture",
+      "layer": "town-culture",
+      "type": "speech blends",
+      "basis": "stated",
+      "quote": "blended speech emphasizing both accountability and long-term process",
+      "src": "Places/Border-Towns.md#stonefield-forge--ironcrest--greenvale",
+      "chip": "Speech blends",
+      "chipBack": "Blended in",
+      "also": [
+        {
+          "quote": "speakers may naturally discuss plans as processes with stages and shared obligations",
+          "src": "Culture/Language-and-Thought.md#greenvale-languages",
+          "note": "process is Greenvale's habit"
+        }
+      ]
+    },
+    {
+      "from": "twilighthollow",
+      "to": "deepwood-culture",
+      "layer": "town-culture",
+      "type": "speech blends",
+      "basis": "stated",
+      "quote": "hybrid speech combining environmental categories with contractual precision",
+      "src": "Places/Border-Towns.md#twilighthollow--deepwood--highridge",
+      "chip": "Speech blends",
+      "chipBack": "Blended in",
+      "also": [
+        {
+          "quote": "Deepwood ecological agency + Highridge precision about obligations",
+          "src": "Culture/Language-and-Thought.md#border-generations"
+        }
+      ]
+    },
+    {
+      "from": "twilighthollow",
+      "to": "highridge-culture",
+      "layer": "town-culture",
+      "type": "speech blends",
+      "basis": "stated",
+      "quote": "hybrid speech combining environmental categories with contractual precision",
+      "src": "Places/Border-Towns.md#twilighthollow--deepwood--highridge",
+      "chip": "Speech blends",
+      "chipBack": "Blended in",
+      "also": [
+        {
+          "quote": "Deepwood ecological agency + Highridge precision about obligations",
+          "src": "Culture/Language-and-Thought.md#border-generations"
+        }
+      ]
+    },
+    {
+      "from": "harveston",
+      "to": "greenvale-culture",
+      "layer": "town-culture",
+      "type": "likely keeps festivals from",
+      "basis": "inferred",
+      "quote": "foods and festivals built around several harvest calendars",
+      "src": "Places/Border-Towns.md#harveston-vale--greenvale--sunplains",
+      "chip": "Likely keeps festivals from",
+      "chipBack": "Likely festivals kept in"
+    },
+    {
+      "from": "harveston",
+      "to": "sunplains-culture",
+      "layer": "town-culture",
+      "type": "likely keeps festivals from",
+      "basis": "inferred",
+      "quote": "foods and festivals built around several harvest calendars",
+      "src": "Places/Border-Towns.md#harveston-vale--greenvale--sunplains",
+      "chip": "Likely keeps festivals from",
+      "chipBack": "Likely festivals kept in"
+    },
+    {
+      "from": "icestep",
+      "to": "northwind-culture",
+      "layer": "town-culture",
+      "type": "likely builds and speaks like",
+      "basis": "inferred",
+      "quote": "Northwind insulation + Highridge compact stone windbreaks",
+      "src": "Culture/Architecture.md#border-towns",
+      "chip": "Likely builds and speaks like",
+      "chipBack": "Likely echoed in",
+      "also": [
+        {
+          "quote": "Northwind evidentiality + Highridge contractual conditionals",
+          "src": "Culture/Language-and-Thought.md#border-generations"
+        }
+      ]
+    },
+    {
+      "from": "icestep",
+      "to": "highridge-culture",
+      "layer": "town-culture",
+      "type": "likely builds and speaks like",
+      "basis": "inferred",
+      "quote": "Northwind insulation + Highridge compact stone windbreaks",
+      "src": "Culture/Architecture.md#border-towns",
+      "chip": "Likely builds and speaks like",
+      "chipBack": "Likely echoed in",
+      "also": [
+        {
+          "quote": "Northwind evidentiality + Highridge contractual conditionals",
+          "src": "Culture/Language-and-Thought.md#border-generations"
+        }
+      ]
+    },
+    {
+      "from": "stonefield",
+      "to": "ironcrest-culture",
+      "layer": "town-culture",
+      "type": "likely builds like",
+      "basis": "inferred",
+      "quote": "Ironcrest stone foundations + Greenvale flood/yard planning",
+      "src": "Culture/Architecture.md#border-towns",
+      "chip": "Likely builds like",
+      "chipBack": "Likely building in"
+    },
+    {
+      "from": "stonefield",
+      "to": "greenvale-culture",
+      "layer": "town-culture",
+      "type": "likely builds like",
+      "basis": "inferred",
+      "quote": "Ironcrest stone foundations + Greenvale flood/yard planning",
+      "src": "Culture/Architecture.md#border-towns",
+      "chip": "Likely builds like",
+      "chipBack": "Likely building in"
+    },
+    {
+      "from": "frostbay",
+      "to": "northwind-culture",
+      "layer": "town-culture",
+      "type": "draws its identity from",
+      "basis": "stated",
+      "quote": "Northwind seafaring",
+      "src": "Places/Border-Towns.md#frostbay-way--northwind--port-influence-zone",
+      "chip": "Identity from",
+      "chipBack": "Shapes"
+    },
+    {
+      "from": "frostbay",
+      "to": "port-culture",
+      "layer": "town-culture",
+      "type": "draws its identity from",
+      "basis": "stated",
+      "quote": "Port credit and trade law",
+      "src": "Places/Border-Towns.md#frostbay-way--northwind--port-influence-zone",
+      "chip": "Identity from",
+      "chipBack": "Shapes"
+    },
+    {
+      "from": "nomads",
+      "to": "highridge",
+      "layer": "circuit",
+      "type": "circuit may include",
+      "basis": "stated",
+      "quote": "summer Highridge pasture",
+      "src": "Culture/Nomads.md#a-possible-form",
+      "certainty": "possible",
+      "goods": "summer pasture",
+      "chip": "Circuit may include",
+      "chipBack": "Nomad circuit"
+    },
+    {
+      "from": "nomads",
+      "to": "ironcrest",
+      "layer": "circuit",
+      "type": "circuit may include",
+      "basis": "stated",
+      "quote": "Ironcrest repair work",
+      "src": "Culture/Nomads.md#a-possible-form",
+      "certainty": "possible",
+      "goods": "repair work",
+      "chip": "Circuit may include",
+      "chipBack": "Nomad circuit"
+    },
+    {
+      "from": "nomads",
+      "to": "greenvale",
+      "layer": "circuit",
+      "type": "circuit may include",
+      "basis": "stated",
+      "quote": "Greenvale harvest labor",
+      "src": "Culture/Nomads.md#a-possible-form",
+      "certainty": "possible",
+      "goods": "harvest labor",
+      "chip": "Circuit may include",
+      "chipBack": "Nomad circuit"
+    },
+    {
+      "from": "nomads",
+      "to": "deepwood",
+      "layer": "circuit",
+      "type": "circuit may include",
+      "basis": "stated",
+      "quote": "Deepwood edge markets",
+      "src": "Culture/Nomads.md#a-possible-form",
+      "certainty": "possible",
+      "goods": "edge markets",
+      "chip": "Circuit may include",
+      "chipBack": "Nomad circuit"
+    },
+    {
+      "from": "nomads",
+      "to": "port",
+      "layer": "circuit",
+      "type": "circuit may include",
+      "basis": "stated",
+      "quote": "Port winter work or major fairs",
+      "src": "Culture/Nomads.md#a-possible-form",
+      "certainty": "possible",
+      "goods": "winter work, fairs",
+      "chip": "Circuit may include",
+      "chipBack": "Nomad circuit"
+    }
+  ],
+  "gaps": [
+    "Five culture pages carry no status label: Architecture, Language and Thought, Naming, Culture and Influence (whose title reads 'Cultural Inspiration'), and Border Towns.",
+    "Region culture is written twice: each region page has its own inspiration, language and architecture sections, and the Culture pages repeat them across regions. It's two owners for one concept. They agree in substance, but the lists already differ in detail: Highridge is 'probably the most multilingual settled region' on its region page but only 'likely highly multilingual' in Language and Thought; Ironcrest's speech list differs (ordered, attempted, completed, inspected, guaranteed versus completed, inspected, merely claimed); Architecture lists Deepwood longhouses flatly where the region page says they may appear depending on climate.",
+    "Half the festivals (14 of 28) are names in the calendar with no description.",
+    "No named languages, dialects or scripts anywhere; naming languages and personal-name systems are still open, and several character names stay provisional until they're settled.",
+    "The nomads have no name, no named circuits, families, camps or stopping places. The page says 'the nomads' shouldn't be one culture, but only one mobile people is sketched.",
+    "Deepwood–Sunplains is the only culture mix described (forest raised floors with courtyard shade) where Part 1 found no border town.",
+    "Three border towns have no speech, festival or building detail: Icestep Summit, Darkroot Gulch and Frostbay Way (Frostbay's identity items are listed: Northwind seafaring, Port credit and trade law, ship repair, immigrant merchants, seasonal labor). The Icestep building and speech links and the Stonefield building link are inferred from the general border examples in Architecture and Language and Thought.",
+    "The Spine and Underpass have peoples (Underpass families born underground, pilgrimage traditions, old toll states) but no culture described.",
+    "No in-world sayings about border towns, Spine or Underpass peoples, or the nomads; Greenvale and Sunplains have no hiring shortcut.",
+    "Most region-and-season cells in the festival calendar are blank; the page says only that no major shared festival was defined there (Port has nothing from late spring to late summer).",
+    "No festivals are named for border towns, nomads or fairs, though Harveston Vale keeps festivals built around several harvest calendars and the nomad page mentions moving between fairs and Port's major fairs.",
+    "Port's 'occupations found nowhere else at the same scale' aren't named.",
+    "Root Cellar Night remembers the Seven-year Blight; it will connect when Part 5 (History) is built.",
+    "Religion (Part 4) is only hinted at here: Solstice Lanterns says different faiths explain it differently, Port has blended religious practice, and several festivals imply rites. They'll connect when Part 4 is built."
+  ]
+}
