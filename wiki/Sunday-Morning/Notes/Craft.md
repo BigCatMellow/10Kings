@@ -113,6 +113,17 @@ Listen for cadence, character voice, comic timing, awkward exposition, repeated 
 
 **Narration with an opinion, reconciled.** Pathwell's `forbidden_patterns.md` warns that James's narration can go invisible ("half the wit lives in the narration's asides", of Pratchett). The guide warns against "self-consciously clever narration". Both hold: **narration may have attitude, a point of view that notices and judges, but it shouldn't compete with the characters for laughs.** Earlier passes cut narrator jokes to about one per story. That was a fair correction for AI-drafted prose, not a rule that narration has no voice. When James writes over these drafts, the narration's attitude is his.
 
+### Write how people talk
+
+James's own strength, in his words: people told him he "wrote how people talked", in narration as much as in dialogue ([D14](Decisions.md)). His example of the failure: "He meant to walk straight to the mill. He did not manage it." Nobody says "he did not manage it", so it sits on the page. Said the way a person would: "He didn't get very far."
+
+- **The test.** Would somebody telling this story out loud, to a friend, say the sentence this way? If it sounds like writing, rewrite it (Elmore Leonard: "If it sounds like writing, I rewrite it.").
+- **The narrator borrows the character's words.** Close third person soaks up the idiom of whoever it's following: what Pell would call a thing, how Aldo would size up a crack. This is free indirect style, and critic Hugh Kenner named its word-level form the "Uncle Charles principle", after Joyce. It gives the narration a person's voice without a speech.
+- **Contractions by default,** in narration and dialogue. Full forms ("did not", "I am not") only when someone is insisting, or as a character's formal register, such as Idris's courtyard voice.
+- **Say it the everyday way.** "A lot of" over "a great deal of" (unless it's that character's phrase); "turned up" over "appeared"; "found out" over "discovered". Drop throat-clearing like "found that he", "in the particular way that", "for once". Keep the precise word when the character would use it.
+- **Not folksy, not modern.** No phonetic dialect and no stacked idioms (Leonard: dialect sparingly). No modern slang that breaks the world. The goal is a person talking, not a performance of one.
+- **Different people, different talk.** Borrowing the viewpoint character's words keeps the stories from sounding like one narrator: One Square should sound like Pell's Vale, The Greenvale Man like Aldo's cove.
+
 ## AI and James: who writes what
 
 The guide sets the division of labor ("AI Collaboration Guidance"), and it applies to every pass:

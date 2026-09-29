@@ -21,6 +21,7 @@
 | D11 | 2026-09-28 | Keep all the notes in one organized, indexed folder instead of a growing set of flat pages. | [Notes index](README.md) |
 | D12 | 2026-09-28 | Apply the notes to the stories only where they genuinely improve them ("We don't need to make changes for the sake of changes"); the taste calls in that pass are left to AI judgment ("I trust you to make the right call"). | the notes pass, recorded in each story page's Stage 3 |
 | D13 | 2026-09-28 | The reviewers' questions for James are also left to AI judgment ("fix away"). | W9 |
+| D14 | 2026-09-28 | The stories need James's touch: write how people talk, in narration as well as dialogue ("No one would say 'he did not manage it'"). One Square is the test story. | [Craft](Craft.md#write-how-people-talk) |
 
 ## Working decisions (made in the work, waiting for James's reading)
 

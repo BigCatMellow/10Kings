@@ -9,7 +9,8 @@ prose drafts in wiki/Sunday-Morning/Drafts/, then reports:
      first letters;
   2. repeated phrases: five-word phrases that appear in two or more stories;
   3. registered stock phrases that still appear in the drafts;
-  4. filter verbs (Pathwell forbidden pattern #3), per 1,000 words.
+  4. filter verbs (Pathwell forbidden pattern #3), per 1,000 words;
+  5. uncontracted forms in narration (Craft, 'Write how people talk'), per 1,000 words.
 
 It reports; it never edits. Canon names are shown but never flagged as must-fix.
 Run from the repository root:  python3 tools/sunday_morning_check.py
@@ -166,6 +167,23 @@ def check_filters(texts):
     return out
 
 
+SPOKEN = (r"\b(?:did|was|were|could|would|had|has|have|is|are|does|do|should) not\b"
+          r"|\bcannot\b|\b(?:did not|could not) manage\b")
+
+
+def check_spoken(texts):
+    """Craft, 'Write how people talk': uncontracted forms in narration sound written.
+    Full forms are fine for emphasis or a character's formal register, so this only
+    reports a rate to review, never a must-fix."""
+    out = []
+    for story, t in texts.items():
+        narration = re.sub(r"[\"\u201c][^\"\u201d]*[\"\u201d]", " ", t)  # ignore dialogue
+        words = len(re.findall(r"\w+", narration))
+        hits = re.findall(SPOKEN, narration, re.I)
+        out.append((story, len(hits), round(1000 * len(hits) / max(words, 1), 1)))
+    return out
+
+
 def main():
     rows = load_names()
     texts = draft_texts()
@@ -190,6 +208,10 @@ def main():
     print("\n== Filter verbs in narration (he saw / she felt / they heard / noticed / watched) ==")
     print("   Pathwell forbidden pattern #3. Not all are wrong; review any story above ~2 per 1,000 words.")
     for story, n, rate in sorted(check_filters(texts), key=lambda x: -x[2]):
+        print(f"  {story}: {n} ({rate} per 1,000 words)")
+    print("\n== Uncontracted forms in narration (did not / was not / cannot) ==")
+    print("   Craft, 'Write how people talk'. Fine for emphasis; review any story above ~1 per 1,000 words.")
+    for story, n, rate in sorted(check_spoken(texts), key=lambda x: -x[2]):
         print(f"  {story}: {n} ({rate} per 1,000 words)")
     must = sum(1 for lv, _ in res if lv == "MUST-FIX")
     return 1 if must else 0
