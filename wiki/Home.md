@@ -75,6 +75,7 @@ The setting should make it possible to follow one damaged bridge, missing carava
 Small, human-scale stories set in the world's border towns, festivals and neighborhoods, each one a place where the main conflict's dominoes touch ordinary people who never see the pattern. Writing reference and provisional concepts, not canon.
 
 - [Read the Sunday Morning stories](Sunday-Morning/README.md#read-the-stories) — the seven stories, in reading order
+- [Domino Map](Sunday-Morning/Notes/Domino-Map.md) — every domino, what it tips over, and which stories sit where
 - [Sunday Morning Notes](Sunday-Morning/Notes/README.md) — one index for every note: framework, rules, craft and voice, pipeline, collection, registry, decisions, history
 
 ## Writing and provenance

@@ -57,6 +57,7 @@
 
 **Sunday Morning Stories**
 - [Read the stories](Sunday-Morning/README.md#read-the-stories)
+- [Domino Map](Sunday-Morning/Notes/Domino-Map.md)
 - [Notes index](Sunday-Morning/Notes/README.md)
 - [Rules](Sunday-Morning/Notes/Rules.md)
 - [Craft](Sunday-Morning/Notes/Craft.md)

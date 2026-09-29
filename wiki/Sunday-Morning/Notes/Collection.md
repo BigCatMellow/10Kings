@@ -65,28 +65,8 @@ C6 is the collection's only link to the hidden hand ([D3](Decisions.md)). No cha
 
 Each story lands on a different link of the ripple chain that [Current Events](../../Story/Current-Events.md#example-ripple-chain) already describes: piracy raises shipping risk, credit tightens, Greenvale grain stops selling, farms fail, tool orders fall, and so on outward.
 
-```mermaid
-flowchart TD
-  A[Northwind piracy raises shipping risk] --> B[Port credit and insurance tighten]
-  B --> C[Greenvale grain purchases cancelled; prices collapse]
-  C --> D[Farmers default]
-  D --> E[Land consolidators buy distressed farms]
-  D --> F[Tool orders from Ironcrest fall]
-  F --> G[Ironcrest workshops cut hours; strike talk]
-  E --> L[Displaced families reach Port]
-  H[Highridge caravan attacks] --> I[Route advice concentrates traffic]
-  J[Deepwood road and logging plans] --> K[Plans leak; wardens prepare to block]
+The whole web, with every story and seed placed on it and the open dominoes marked, is the [Domino Map](Domino-Map.md) ([interactive version](https://claude.ai/artifact/PAf2C4bDk7bfjVunex17Ps)).
 
-  S1([The Greenvale Man · Y1 late autumn]) -.->|rumor: Narrow Sound shelters raiders| A
-  S2([The Goat File · Y1 late autumn]) -.->|lenders demand clean books| B
-  S3([One Square, Two Harvests · Y1 early autumn]) -.->|unsold grain, unsafe-grain rumor, land agent| C
-  S4([Inspected, Not Guaranteed · Y2 early spring]) -.->|short hours, patron letter| G
-  S5([The Heavy Scale · Y2 early spring]) -.->|Samir Tareh's route survey| I
-  S6([The Tree With a Debt · Y2 midsummer]) -.->|offer to buy the old pledge| K
-  S7([Three Pots at Three Moon · Y2 early autumn]) -.->|newcomers from lost farms| L
-```
-
-Rectangles are the canon ripple chain and related current events; rounded boxes are stories.
 
 ### The threads
 
