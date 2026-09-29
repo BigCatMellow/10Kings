@@ -180,7 +180,7 @@ When he got back down to the hall, the senior arbiter's book was at nine to one.
 
 The archive of Seven Wells was cut into the rock under the arbitration hall, and it was kept, as many of the old archives on the plateau were kept, by an observer of the Silent Whisper. Her name was Oriel. She was small and gray and had kept the archive for thirty years, and in all that time, the clerks said, she had never hurried anything and never lost anything.
 
-There was a small brass bell on her desk. It was the fourth day of the Whisper's autumn silence hours: seven days each year in which the archive released nothing and its custodian said as little as she could manage.
+There was a small brass bell on her desk. It was the fourth day of the Whisper's autumn silence hours: seven days each year in which the archive released nothing and its custodian said as little as she could manage, and that little in a whisper.
 
 "When do the hours end?"
 
@@ -190,7 +190,7 @@ There was a small brass bell on her desk. It was the fourth day of the Whisper's
 
 "Yes."
 
-She saw his face and her own softened. "A record that has waited forty-four years can wait three more days," she said. "So can you. A question asked in a hurry only hears half its answer." She rested one finger on the bell, lightly, to show she had said all she was going to.
+She saw his face and her own softened. "A record that has waited forty-four years can wait three more days," she said. "So can you." She rested one finger on the bell, lightly, to show she had said all she was going to.
 
 Wen went back up the stairs. He didn't go home. He went to the tea stall and sat down without asking for anything, and the tea seller poured without being asked.
 
@@ -324,7 +324,7 @@ He didn't open his book. He put two coins on the counter.
 
 Wen didn't know what to say to that, so he didn't say anything.
 
-"I've wanted someone to close it ever since," the senior arbiter said. "The book was the only way I could think of to make sure someone tried. If there's money on a thing, somebody always tries." He pushed the coins across the counter to the tea seller. "His is on me."
+"I've wanted someone to close it ever since," the senior arbiter said. "The book was the only way I could think of to make sure someone tried." He pushed the coins across the counter to the tea seller. "His is on me."
 
 "You bet against me," said Wen.
 

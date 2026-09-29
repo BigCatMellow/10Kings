@@ -188,15 +188,9 @@ Quill copied the date and underlined it.
 
 Tove Askell came in while he was still writing, to leave a coin for the shrine as she did every week, because the Compass looked after people on roads and she had been stuck on this one since autumn. She spotted the date and leaned over his shoulder.
 
-"There. That's the night I saw the Gate's roof go."
+"There. That's the night I saw the Gate's roof go." Then she stopped, the way she always did when she heard herself say *saw* about something she hadn't. "No. I saw the snow come off the eaves. That I saw. The roof—" She shook her head. "No. I was told about the roof. I was asleep for the roof. Brisa's stable boy told me in the morning that somebody had been up on the Gate's roof half the night, holding it down against the wind. Someone I'd lend a boat to told me. I didn't see it."
 
-Quill turned back through his book. "You said you saw the snow come off the eaves. Your first night at the Gate, you said, *I saw the snow come off the eaves in a sheet and fill the yard. That I saw. The rest, it is said.*"
-
-Tove stopped. She looked at him with something like respect.
-
-"That's exactly what I said." She frowned. "I saw the snow. The roof—" She shook her head. "No. I was told about the roof. I was asleep for the roof. Brisa's stable boy told me in the morning that somebody had been up on the Gate's roof half the night, holding it down against the wind. Someone I'd lend a boat to told me. I didn't see it."
-
-Quill wrote it down: *told, not saw — someone on the Gate's roof, the night of the storm*. He didn't yet know why it mattered. He only knew he was suddenly, enormously glad that Tove Askell kept what she saw apart from what she was told.
+Quill wrote it down: *told, not saw — someone on the Gate's roof, the night of the storm*. He didn't yet know why it mattered. He only knew he was suddenly, enormously glad of Tove Askell.
 
 ---
 

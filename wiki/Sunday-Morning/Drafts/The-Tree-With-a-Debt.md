@@ -126,7 +126,7 @@ In the afternoon, without looking at him, Sessa began to talk. She talked quietl
 
 "Naruin's not a fool," she said. "And he isn't paranoid. Plans came through the district this spring, wardens passing them hand to hand. A real road, wide enough for timber wagons, straight through here and up into the forest. Surveyed by people nobody knows, and nobody's said why." A beetle crossed the toe of her boot, and she let it. "He grew up on his grandmother's stories about the old timber tithes, so when the plans came, he read them the way she would have. Every path is the first stake of the—"
 
-"—*and I will not be told*," roared the debate hall, "*that a conditional is a promise!*"
+"—*and I will not be told*," roared the debate hall, "*whose turn it was to bring the lamp oil!*"
 
 Sessa waited it out. "Every path is the first stake of the road," she finished. "So every warden stands in front of every stake." She looked up at the canopy. "And he isn't wrong. I've seen those plans. Somebody wants that road."
 
@@ -254,7 +254,7 @@ By the end of the fair's first day Hollis Varne had decided not to go back to th
 
 "Cold mint water," he said. "In a stall. At midsummer, with everybody arguing, I'd sell out by noon."
 
-The market master looked at the spot. It was on the Deepwood side, in plain sight of the Highridge half, on a path that it had taken two guilds, a mule, a child and a sixty-year-old debt to agree on.
+The market master looked at the spot. It was on the Deepwood side, in plain sight of the Highridge half.
 
 "You'll need a permit," he said wearily. "From both halves."
 

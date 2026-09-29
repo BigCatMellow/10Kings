@@ -20,6 +20,7 @@
 | D10 | 2026-09-28 | Bring in the Pathwell storytelling notes ("like writing the sequel"). | [Craft](Craft.md#telling) |
 | D11 | 2026-09-28 | Keep all the notes in one organized, indexed folder instead of a growing set of flat pages. | [Notes index](README.md) |
 | D12 | 2026-09-28 | Apply the notes to the stories only where they genuinely improve them ("We don't need to make changes for the sake of changes"); the taste calls in that pass are left to AI judgment ("I trust you to make the right call"). | the notes pass, recorded in each story page's Stage 3 |
+| D13 | 2026-09-28 | The reviewers' questions for James are also left to AI judgment ("fix away"). | W9 |
 
 ## Working decisions (made in the work, waiting for James's reading)
 
@@ -35,17 +36,11 @@ These were decided while drafting or reorganizing. Each is reversible from the r
 | W6 | The Tree's clause: an old plateau convention carries a standing pledge's debt, uncallable, until the condition ends; the pledge also carries the consent right. | The pledge text alone left the mechanism implicit. | [The Tree](../Stories/The-Tree-With-a-Debt.md), Stage 3 |
 | W7 | The full order of authority on the [Notes index](README.md#order-of-authority): Decisions, Framework, Rules, Craft (telling, then voice), Registry. | D9 puts the Framework first; the rest was set when the Pathwell principles were adapted (old Storytelling page) and when the notes were reorganized. | [Notes index](README.md#order-of-authority) |
 | W8 | Notes pass taste calls (under D12): keep Inspected's asked-for-a-job ending (reversed at the L4 review: two independent readers recognized it as The Greenvale Man's ending, so Wurdren now goes to the gate unasked); cut Tove's fireside retelling; keep one silence per story at its peak; cut narration that restates a moment; keep Three Pots' three "That's mine" lines. | Each keeps one story's own shape, or removes an echo of another story. | story pages, Stage 3 |
+| W9 | L4 reviewers' questions (under D13). Changed: Lissa says only "You should just make one with both" (dropping "They're better together"); the arbiter loses "If there's money on a thing, somebody always tries"; Oriel whispers through the silence hours and loses her proverb, so her "ordinary voice" later is new; Tove catches her own wrong evidential, so Quill's notebook no longer does Wen's job; one debate-hall interjection is now about lamp oil; the Tree's closing recap is cut; Mrs. Arden laughs first at "He bought us lunch". Kept: the Greenvale coda's three beats, Tamsin's "thirty years", Wurdren's surprise "I didn't", Brisa's "I thought one stone was one stone", Garro's "Honest scale there". | Each change removes an explanation, a cross-story echo or an unkindness; each keep does work in its own story. | the story pages, Stage 4 |
 
 ## Open for James
 
 - **The two plot changes** W4 and W5.
 - **Lines in the cautious categories** ([who writes what](Craft.md#ai-and-james-who-writes-what)) he wants to rewrite himself.
-- **L4 reading** of all seven drafts. The independent JUDGE pass is done (2026-09-28): every story passed, most with small fixes, recorded in each story page's Stage 4. Questions from the reviewers that only James can answer, to read with:
-  - *One Square:* Is Lissa's "You should just make one with both" too on the nose, or does "None of them looked at each other" earn it?
-  - *The Greenvale Man:* The coda has three beats after Rask's wide *we* (the letter, the flour sack, the barrel). Does the sack serve the story, or only the collection?
-  - *The Goat File:* Does the senior arbiter's "If there's money on a thing, somebody always tries" sound like him, or like the showman explaining himself? Keep Oriel's "A question asked in a hurry only hears half its answer"?
-  - *Inspected:* Tamsin's "thirty years" of upkeep sets a floor on how long Wurdren has had the sword. Acceptable? And should the reader feel him sitting on the farmers' message before his "I didn't"?
-  - *The Heavy Scale:* Quill catching a mismatch in someone's exact words rhymes with Wen in The Goat File. Keep the rhyme? Is Brisa's "I thought one stone was one stone" in your voice?
-  - *The Tree:* The three debate-hall interjections all echo the clause. Would one be funnier off topic? Does the market master's closing recap earn its place?
-  - *Three Pots:* Should Mrs. Arden laugh first at "He bought us lunch", rather than Tobiah? Is Garro's "Honest scale there" him talking, or the collection?
+- **L4 reading** of all seven drafts. The independent JUDGE pass is done (2026-09-28): every story passed, and each story page's Stage 4 records what it found. The reviewers' questions for James were settled under D13 and W9.
 - **Which authority employs Icestep's weigher.** Left vague ("the pass authority"); ask only if a draft needs it ([The Heavy Scale](../Stories/The-Heavy-Scale.md)).

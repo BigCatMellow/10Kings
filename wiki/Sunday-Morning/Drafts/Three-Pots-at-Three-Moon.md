@@ -148,7 +148,7 @@ When he had gone, the woman next door caught Jory's eye across the gap between t
 
 "We're the Ardens," she said. "From Greenvale. We had a farm, up the valleys." She stirred her pot. "Bad year. Couldn't pay the seed loan. So a very polite man came round and bought our notes." She smiled without much in it. "Ever so polite. He bought us lunch."
 
-Tobiah laughed out loud, and Mrs. Arden, a beat later, laughed with him.
+Mrs. Arden laughed first. After a beat, Tobiah laughed with her.
 
 ---
 

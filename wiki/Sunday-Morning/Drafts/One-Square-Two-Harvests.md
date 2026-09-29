@@ -198,7 +198,7 @@ Orchard hand pies stood on one table, crimped with each family's pattern. Honey-
 
 This year it was vicious, though only politely. A Salve cousin said the hand pies were "very honest." A committee member said the honey pastries were "so ambitious." An old man said he preferred the pies of forty years ago, which had been made with lard, and three people turned on him at once.
 
-Lissa ate one of each. She did it at the same time, one in each hand — a bite of pie, a bite of pastry, and then both together — and when she was finished she licked honey and fruit off her fingers and announced, to the table at large, "They're better together. You should just make one with both."
+Lissa ate one of each. She did it at the same time, one in each hand — a bite of pie, a bite of pastry, and then both together — and when she was finished she licked honey and fruit off her fingers and announced, to the table at large, "You should just make one with both."
 
 Several adults heard her. None of them looked at each other.
 

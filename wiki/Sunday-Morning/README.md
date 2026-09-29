@@ -26,7 +26,7 @@ In reading order. Why this order, and what the reader knows after each, is on [C
 | 6 | [The Tree With a Debt](Stories/The-Tree-With-a-Debt.md) | Twilighthollow (Deepwood / Highridge) | romance | [~4,200 words](Drafts/The-Tree-With-a-Debt.md) | L3; review done, waiting for your read |
 | 7 | [Three Pots at Three Moon](Stories/Three-Pots-at-Three-Moon.md) | a Port neighborhood | family / food | [~4,300 words](Drafts/Three-Pots-at-Three-Moon.md) | L3; review done, waiting for your read |
 
-About 31,800 words in all. Every draft has had the Sunday Morning, storytelling and notes passes and an independent L4 review. L4 completes when James has read it ([Pipeline, Stage 4](Notes/Pipeline.md#stage-4--judge-review-independently)); questions to read with are on [Decisions](Notes/Decisions.md#open-for-james).
+About 31,800 words in all. Every draft has had the Sunday Morning, storytelling and notes passes and an independent L4 review. L4 completes when James has read it ([Pipeline, Stage 4](Notes/Pipeline.md#stage-4--judge-review-independently)); what's still open for him is on [Decisions](Notes/Decisions.md#open-for-james).
 
 Undeveloped premises: [Story Seeds](Stories/Story-Seeds.md). To add a story: [Pipeline, Stage 0](Notes/Pipeline.md#stage-0--add-a-story).
 
