@@ -13,11 +13,12 @@ The build plan, the parts and the open decisions are in [PLAN.md](PLAN.md).
 | Map | What it shows | Source data | Rebuild | Status |
 | --- | --- | --- | --- | --- |
 | [Domino Map](domino-map/Domino-Map.md) ([interactive](https://claude.ai/artifact/PAf2C4bDk7bfjVunex17Ps)) | The Villain's dominoes and the world's current events, what tips what, and which Sunday Morning stories and seeds sit on each; open dominoes marked | [`domino-map/domino-map.json`](domino-map/domino-map.json) | `python3 atlas/tools/domino_map.py` | built 2026-09-29 |
-| [**The Atlas board**](board/README.md) ([interactive](https://claude.ai/artifact/XG2oKvVRes6f7su2dyMaWs), [image](board/atlas-board.png)) | **Everything mapped so far on one board**: a column per region, a heading for each part under every column, a switch per part, search, and click-for-connections with the wiki sentence behind each | all part data files below, plus [`board/board.json`](board/board.json) | `python3 atlas/tools/atlas_part.py` | Parts 1–3 |
+| [**The Atlas board**](board/README.md) ([interactive](https://claude.ai/artifact/XG2oKvVRes6f7su2dyMaWs), [image](board/atlas-board.png)) | **Everything mapped so far on one board**: a column per region, a heading for each part under every column, a switch per part, search, and click-for-connections with the wiki sentence behind each | all part data files below, plus [`board/board.json`](board/board.json) | `python3 atlas/tools/atlas_part.py` | Parts 1–4 |
 | [Part 1: Regions and Geography](regions/README.md) ([image](regions/regions.png)) | The backbone: the six regions, Port, the Spine and the Underpass, the border towns, borders (with how certain each is), sea partners and trade, each backed by the wiki sentence that states it; plus the gaps the wiki leaves open | [`regions/regions.json`](regions/regions.json) | same | built and approved 2026-09-29 |
 | [Part 2: Culture](culture/README.md) ([image](culture/culture.png)) | How each region talks, builds and names places; 28 festivals by season; in-world sayings and hiring prejudices (as characterization, never fact); where cultures mix and which border towns show it; the nomads and their possible circuits | [`culture/culture.json`](culture/culture.json) | same | built 2026-09-29; approved 2026-09-29 |
-| [Part 3: Food](food/README.md) ([image](food/food.png)) | Every named dish (62: the six regional recipe books and 17 border fusions) under its cuisine; a cuisine card per region plus Port and the borders; where cuisines blend at the borders (with how settled each border is); the food imports the wiki names; the two illustrative diaspora paths; festival and border-town food links kept as inferred and off by default | [`food/food.json`](food/food.json) | same | built 2026-09-29; **waiting for James's checkpoint** |
-| Parts 4–7 and the project-health layer | Power, history, people, story, and where the project stands | *planned* | *planned* | [plan](PLAN.md#the-parts) |
+| [Part 3: Food](food/README.md) ([image](food/food.png)) | Every named dish (62: the six regional recipe books and 17 border fusions) under its cuisine; a cuisine card per region plus Port and the borders; where cuisines blend at the borders (with how settled each border is); the food imports the wiki names; the two illustrative diaspora paths; festival and border-town food links kept as inferred and off by default | [`food/food.json`](food/food.json) | same | built 2026-09-29; approved 2026-09-29 |
+| [Part 4: Power](power/README.md) ([image](power/power.png)) | Who controls what: the Economic Council and its six seats (with their possible fault lines), each region's government plus Port and the Underpass, and where the Council is involved in each; the nine faiths and which have a stated stance on the Council; the guilds and their schemes; crime by region and one example cross-regional alliance; everyday arms and elite troop directions; overview cards for each page's rules | [`power/power.json`](power/power.json) | same | built 2026-09-29; **waiting for James's checkpoint** |
+| Parts 5–7 and the project-health layer | History, people, story, and where the project stands | *planned* | *planned* | [plan](PLAN.md#the-parts) |
 
 ## Folder layout
 
@@ -30,6 +31,7 @@ atlas/
   regions/           Part 1: data (JSON), generated page (README.md), image (PNG)
   culture/           Part 2: data (JSON), generated page (README.md), image (PNG)
   food/              Part 3: data (JSON), generated page (README.md), image (PNG)
+  power/             Part 4: data (JSON), generated page (README.md), image (PNG)
   tools/             the generators and their templates
 ```
 

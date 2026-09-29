@@ -16,6 +16,7 @@ The whole setting on one board: one column per region, with a heading for each p
 | 1. Regions and Geography | Geography | 25 | 47 | [regions](../regions/README.md) |
 | 2. Culture | Culture | 44 | 21 | [culture](../culture/README.md) |
 | 3. Food | Food | 72 | 127 | [food](../food/README.md) |
+| 4. Power | Power | 53 | 50 | [power](../power/README.md) |
 
 ## Card layouts
 
@@ -37,6 +38,14 @@ Every card of a kind shows the same rows and facts in the same order, set by eac
 | Cuisine | Dishes, Border dishes, Blends with, Imports from, Supplies *(when present)*, Adapted abroad *(when present)*, Adapted here *(when present)*, Festivals *(when present)* | Staples, Techniques, Everyday meals, Celebrations, Drinks, Cooking bias, Class and variation, Avoid |
 | Dish | Cuisine, Between *(when present)*, Border town *(when present)*, Festival, Adapted as *(when present)* | Why it exists, Key ingredients, Method, Variations *(when present)*, Serving *(when present)*, Real-world inspiration *(when present)*, Note *(when present)* |
 | Diaspora example | Starts from, Home cuisine, Could move to | What survives, What changes, Caution |
+| Council | Seats, Involved in, Faiths, Influences *(when present)*, Tolerates *(when present)*, Guilds *(when present)* | Seats, How it governs, Why rulers tolerate it, Internal conflict, Moral problem, Against the Villain, With Wurdren, Open questions *(when present)* |
+| Council seat | Seat of, Reaches, At odds with *(when present)*, Guilds *(when present)* | Domain, Controls, Leverage |
+| Overview | Council *(when present)*, Government *(when present)*, Faiths *(when present)* | Principle, Scope, Council *(when present)*, Villain *(when present)*, Wurdren *(when present)*, Main conflict *(when present)*, Rule *(when present)*, Open questions *(when present)* |
+| Faith | Council, Guilds *(when present)*, Underworld *(when present)* | Core, Interests, Current scheme |
+| Guild | Government, Council | Type, At issue, Note *(when present)* |
+| Government | Council involvement, Council seats, Guilds *(when present)* | Shape, Power held by *(when present)*, Political fights, Current pressures, Note *(when present)* |
+| Crime | Could ally with *(when present)* | Opportunities, On the ground now *(when present)*, Note *(when present)* |
+| Arms and elite troops | — | Everyday arms, Elite direction, Stands out by *(when present)*, Why *(when present)*, Note *(when present)* |
 
 ## Columns
 

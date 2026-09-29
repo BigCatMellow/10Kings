@@ -2,7 +2,7 @@
 
 ## Status
 
-**Active plan, agreed 2026-09-29 ("go", with the proposed decisions A1–A4). Part 1 approved ("looks better, go with part 2"); Part 2 approved ("part 2 is approved"); Part 3 built.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
+**Active plan, agreed 2026-09-29 ("go", with the proposed decisions A1–A4). Part 1 approved ("looks better, go with part 2"); Part 2 approved ("part 2 is approved"); Part 3 approved ("go for part 4"); Part 4 built.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
 
 ## What it is
 
@@ -51,6 +51,7 @@ Sources: [Food](../wiki/Culture/Food.md), [Recipes](../wiki/Culture/Recipes/READ
 
 The Economic Council, the kingdoms and their politics, guilds and their factions, the religions, crime and the underworld, and weapons and elite troops: who controls what, who's at odds with whom.
 Sources: [Politics](../wiki/Politics/), [Weapons and Elite Troops](../wiki/Culture/Weapons-and-Elite-Troops.md).
+**Built 2026-09-29: [Part 4](power/README.md).** 53 things (the Council and its six seats; eight governments, including Port's charter and the Underpass; nine faiths; eight guilds; eight crime and eight arms cards; five overview cards carrying each page's rules), 50 connections (37 stated, 13 inferred), 10 gaps. None of the Politics pages or Weapons and Elite Troops carries a status label, so those cards say so. The Villain and Wurdren appear as facts on the cards; their links wait for Part 6. An independent check found eight Council-seat links marked stated that were really matched by domain word (now inferred and off by default), tag notes and summaries that turned "attempts" and "likely" into results, and a missed guilds–Port link; all fixed.
 
 ### Part 5: History
 
