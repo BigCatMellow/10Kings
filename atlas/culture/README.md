@@ -122,6 +122,8 @@ Grouped by board column.
 
 **Northwind culture**
 
+- *Aim:* Avoid turning Northwind into generic Vikings. ([source](../../wiki/Culture/Culture-and-Influence.md#northwind))
+- *Values:* *Not in the wiki yet.*
 - *Inspiration:* Scottish and Irish island communities; Icelandic, Faroese, Scandinavian and North Atlantic maritime cultures; Ainu, Japanese, Korean, Aleut, Inuit and other northern and coastal societies; fishing societies built around seasonal risk, preservation and cooperative labor. Avoid generic 'Viking culture.' ([source](../../wiki/Regions/Northwind.md#cultural-inspirations))
 - *Speech:* May include an inclusive and an exclusive 'we', strong evidential markers, directional vocabulary tied to coast, wind and slope, and future forms that stress conditions. Conversations become sensitive to who is included, who witnessed something, and how certain a plan really is. ([source](../../wiki/Regions/Northwind.md#language))
 - *Building:* Large ports with stone breakwaters, dock districts, timber warehouses, fish markets, smokehouses, boatyards, public halls and shrines, built above flood or storm lines. Fishing towns with small docks, communal work yards, drying racks, storage pits and steep-roofed or earth-insulated homes depending on climate. Remote families build for insulation and repairability from driftwood, stone, turf, timber, clay, hide, reeds and imported iron. ([source](../../wiki/Regions/Northwind.md#settlement-and-architecture))
@@ -146,6 +148,7 @@ Grouped by board column.
 **Highridge culture**
 
 - *Aim:* Its defining history is its role as intermediary, so cultural borrowing should be especially visible. ([source](../../wiki/Culture/Culture-and-Influence.md#highridge-plateau))
+- *Values:* *Not in the wiki yet.*
 - *Inspiration:* Tibetan and Himalayan plateau communities; Andean highlands; Central Asian caravan societies; Persian and Silk Road caravanserai networks; Caucasus trade communities; mountain markets across Asia and South America. ([source](../../wiki/Regions/Highridge-Plateau.md#cultural-inspirations))
 - *Speech:* Probably the most multilingual settled region. Trade forms stress condition, obligation, evidence, quotation, weights, dates, routes and exceptions, so people notice what a promise actually commits someone to. ([source](../../wiki/Regions/Highridge-Plateau.md#language))
 - *Building:* Cities layered around markets, caravan yards, stables, cisterns, temples, meeting halls and arbitration halls, with terraces and retaining walls; neighborhoods show generations of settled foreign merchants. Pass towns with fortified gates, inns, animal yards, repair shops, public scales and toll or customs houses. ([source](../../wiki/Regions/Highridge-Plateau.md#settlement-and-architecture))
@@ -170,6 +173,7 @@ Grouped by board column.
 **Deepwood culture**
 
 - *Aim:* Avoid the 'mystical forest people' monoculture. ([source](../../wiki/Culture/Culture-and-Influence.md#deepwood))
+- *Values:* *Not in the wiki yet.*
 - *Inspiration:* Amazonian forest societies; Dayak and Bornean longhouse communities; Japanese managed woodland traditions; Indigenous North American forest societies; Baltic, Slavic, Finnic and Celtic woodland cultures; historical forest economies worldwide. ([source](../../wiki/Regions/Deepwood.md#cultural-inspirations))
 - *Speech:* May mark agency or animacy grammatically, with precise words for forest age, water state, animal sign, plant succession, cutting rights, regrowth, and inherited versus directly observed knowledge. Environmental attention without implying supernatural wisdom. ([source](../../wiki/Regions/Deepwood.md#language))
 - *Building:* Cities still look like cities: markets, river docks, workshops, religious compounds, poor neighborhoods, roads and boardwalks; a city may grow around existing tree stands or waterways rather than a geometric plan. Many towns are specialized (river trade, forest products, hunting, timber, medicine, border exchange); longhouses, raised floors, covered walkways and courtyards may appear depending on climate. Remote homes: some raised for wet ground, others partly dug into slopes. ([source](../../wiki/Regions/Deepwood.md#settlement-and-architecture))
@@ -193,6 +197,7 @@ Grouped by board column.
 
 **Ironcrest culture**
 
+- *Aim:* Should feel like a place where generations of upland settlement, ore extraction, specialized crafts, dangerous labor, merchant capital and repeated political consolidation produced a distinctive culture; not 'Celtic miners' or 'Yemeni foundries'. ([source](../../wiki/Culture/Culture-and-Influence.md#ironcrest))
 - *Values:* Demonstrated skill; accountability for work; reputation over generations; apprenticeship; mutual aid in dangerous trades; practical literacy such as contracts, weights, measures and records. Mine owners, guild masters, workers, small smiths, merchants and rural communities don't necessarily want the same future. ([source](../../wiki/Regions/Ironcrest.md#cultural-character))
 - *Inspiration:* Scottish, Welsh and Appalachian mining communities; Andean highland mining settlements; Ethiopian and Yemeni upland stone architecture; Japanese and Chinese craft-lineage traditions; Balkan and Central European mountain towns. It shouldn't resemble any one of them directly. ([source](../../wiki/Regions/Ironcrest.md#cultural-influences))
 - *Speech:* May habitually distinguish whether something was ordered, attempted, completed, inspected or guaranteed: close attention to responsibility and proof, without making every Ironcrest person blunt or emotionless. ([source](../../wiki/Regions/Ironcrest.md#language))
@@ -217,8 +222,9 @@ Grouped by board column.
 
 **Greenvale culture**
 
-- *Inspiration:* Andean cooperative agriculture; South and Southeast Asian irrigation communities; Irish rural social traditions; Indigenous seed stewardship in the Americas; Eastern European mixed farming; village-compound and commons systems worldwide. ([source](../../wiki/Regions/Greenvale.md#cultural-inspirations))
 - *Aim:* A heavily inhabited agricultural country, not a pastoral postcard. ([source](../../wiki/Culture/Culture-and-Influence.md#greenvale))
+- *Values:* *Not in the wiki yet.*
+- *Inspiration:* Andean cooperative agriculture; South and Southeast Asian irrigation communities; Irish rural social traditions; Indigenous seed stewardship in the Americas; Eastern European mixed farming; village-compound and commons systems worldwide. ([source](../../wiki/Regions/Greenvale.md#cultural-inspirations))
 - *Speech:* May distinguish beginning, ongoing, recurring, interrupted, completed and seasonal work, and personal property from land or resources held in stewardship for family or community. ([source](../../wiki/Regions/Greenvale.md#language))
 - *Building:* Agricultural cities are market, milling, storage, craft and legal centers, not giant villages: granaries, mills, river quays, dense working-class districts, wealthy landowning quarters, caravan yards. Towns vary: raised floors on floodplains, earthen or timber compounds in drier towns, cooperative villages around common storage and wells. Farmsteads are mixed-purpose complexes. ([source](../../wiki/Regions/Greenvale.md#settlement-and-architecture))
 - *Place names:* Rivers, soils, old settlements, family lands, markets, former estates. ([source](../../wiki/Culture/Naming.md#regional-direction))
@@ -238,6 +244,7 @@ Grouped by board column.
 **Sunplains culture**
 
 - *Aim:* Its civic competition should be as important as climate. ([source](../../wiki/Culture/Culture-and-Influence.md#sunplains))
+- *Values:* *Not in the wiki yet.*
 - *Inspiration:* Maghrebi and Levantine societies; Anatolian, Persian, Iberian, Greek and southern Italian dry-climate traditions; South Asian irrigation and market cultures; Andean and other South American arid and coastal agriculture; city-states and merchant republics globally. ([source](../../wiki/Regions/Sunplains.md#cultural-inspirations))
 - *Speech:* Urban languages may carry formal status registers, public and private speech differences, elaborate rhetoric and legal argument, and forms for indirect refusal and saving face. ([source](../../wiki/Regions/Sunplains.md#language))
 - *Building:* City-states with dense walled cores, courtyard houses, shaded streets, cisterns, fountains, markets, assembly spaces, garden districts, elite estates and crowded poor quarters; different cities should look meaningfully different. Small towns may center on a spring, irrigation gate, market, estate, shrine or harbor. Farmsteads with thick walls, courtyards, shade, roof terraces and water storage. ([source](../../wiki/Regions/Sunplains.md#settlement-and-architecture))
@@ -256,11 +263,13 @@ Grouped by board column.
 
 **Port culture**
 
-- *Culture:* Mixed families; native Port dialects; neighborhood cuisines; blended religious practices; occupations found nowhere else at the same scale; people who identify as Port-born first. ([source](../../wiki/Places/Port.md#culture))
-- *Neighborhoods:* Cultures several generations removed from their ancestral regions that no longer fit clean categories. ([source](../../wiki/Culture/Culture-and-Influence.md#cultural-blending))
+- *Aim:* Neighborhoods whose cultures are several generations removed from their ancestral regions and no longer fit clean categories. ([source](../../wiki/Culture/Culture-and-Influence.md#cultural-blending))
+- *Values:* *Not in the wiki yet.*
+- *Inspiration:* *Not in the wiki yet.*
 - *Speech:* Native Port speech, trade pidgins and creoles, heritage languages, guild jargons, religious registers and neighborhood dialects. A third-generation Port family shouldn't sound like diluted Northwind or Sunplains. ([source](../../wiki/Culture/Language-and-Thought.md#port))
 - *Building:* Layers from every region, made its own style by high land value, fire rules, warehouses, docks, mixed materials, vertical additions, foreign quarters and rebuilding after fires and storms. ([source](../../wiki/Culture/Architecture.md#port))
 - *Place names:* Layers upon layers: an old geographic name, an official charter name, district nicknames, immigrant neighborhood names, merchant terminology. ([source](../../wiki/Culture/Naming.md#regional-direction))
+- *Mixing:* Mixed families; native Port dialects; neighborhood cuisines; blended religious practices; occupations found nowhere else at the same scale; people who identify as Port-born first. ([source](../../wiki/Places/Port.md#culture))
 
 **“Every ship lands at Port, none stay.”**
 
@@ -274,12 +283,14 @@ Grouped by board column.
 
 **Border-town culture**
 
+- *Aim:* Border populations shouldn't look like half of one culture plus half of another. Over generations they develop their own institutions, accents, marriage patterns, foods, building types, jokes, prejudices and identities. ([source](../../wiki/Culture/Culture-and-Influence.md#cultural-blending))
+- *Values:* *Not in the wiki yet.*
+- *Inspiration:* *Not in the wiki yet.*
 - *Speech:* First-generation bilingual adults may code-switch; second and third generations often create stable mixed dialects and combine habits, which can make them unusually effective mediators (not wiser, just practiced at what must be said explicitly). ([source](../../wiki/Culture/Language-and-Thought.md#border-generations))
 - *Building:* Adaptive, not decorative fusion. ([source](../../wiki/Culture/Architecture.md#border-towns))
 - *Place names:* Often two accepted names, one name translated differently by each side, a hybrid name, an old political name nobody uses officially, or family names crossing linguistic lines. ([source](../../wiki/Culture/Naming.md#border-names))
-- *Younger generations:* May speak stable hybrid dialects, reject their grandparents' political labels, combine religious practices, marry across older divisions, treat regional feuds as absurd, or revive pre-Convergence identities: natural political wild cards. ([source](../../wiki/Places/Border-Towns.md#generational-change))
-- *Why it matters:* If kingdoms argue in old categories while border populations have already made new identities, the political map is lagging behind lived reality. ([source](../../wiki/Places/Border-Towns.md#story-function))
-- *Also on:* [Culture and Influence](../../wiki/Culture/Culture-and-Influence.md#cultural-blending)
+- *Mixing:* Younger generations may speak stable hybrid dialects, reject their grandparents' political labels, combine religious practices, marry across older divisions, treat regional feuds as absurd, or revive pre-Convergence identities: natural political wild cards. ([source](../../wiki/Places/Border-Towns.md#generational-change))
+- *Story use:* If kingdoms argue in old categories while border populations have already made new identities, the political map is lagging behind lived reality. ([source](../../wiki/Places/Border-Towns.md#story-function))
 
 ### World & unplaced
 

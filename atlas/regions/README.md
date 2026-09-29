@@ -184,7 +184,7 @@ Grouped by board column.
 - *Exports:* fish, salt and preserved foods, furs and animal products, ships and maritime capacity
 - *Imports:* grain, metal goods, medicines, warmer-climate produce
 - *Pressures:* shifting fish stocks, rising piracy, convoy agreements with Port, accusations that clans cooperate with raiders
-- *Seasons:* in winter, northern routes become unreliable (Trade and Dependencies)
+- *Seasons:* In winter, northern routes become unreliable. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
 ### Highridge Plateau
 
@@ -198,6 +198,7 @@ Grouped by board column.
 - *Exports:* route access, caravan services, brokerage, arbitration, credit, records and specialist knowledge
 - *Imports:* many lowland and coastal goods
 - *Pressures:* caravan attacks, manipulated route closures, accusations of corrupt militia or toll officials, contested infrastructure
+- *Seasons:* Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
 ### Deepwood
 
@@ -211,6 +212,7 @@ Grouped by board column.
 - *Exports:* timber, herbs and medicinals, dyes, forest products, specialist ecological knowledge
 - *Imports:* selected metal tools, salt, grain and urban goods
 - *Pressures:* logging beyond accepted limits, fungal disease, isolationists against reformers, hidden-route crime
+- *Seasons:* Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
 ### Ironcrest
 
@@ -224,6 +226,7 @@ Grouped by board column.
 - *Exports:* ores, metalwork, tools, weapons, industrial craft capacity
 - *Imports:* substantial food in industrial districts, timber and fuel, seasonal labor, some luxuries
 - *Pressures:* labor unrest, covert metal shipments, pressure to expand Underpass access, fears of weapon stockpiling
+- *Seasons:* Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
 ### Greenvale
 
@@ -237,6 +240,7 @@ Grouped by board column.
 - *Exports:* grain, produce, livestock products, textiles and other agricultural goods
 - *Imports:* metal tools, preservation salt, shipping and caravan access
 - *Pressures:* an unusually abundant harvest or new high-yield seed strain, collapsing prices, land consolidation, co-ops against estates
+- *Seasons:* Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
 ### Sunplains
 
@@ -250,6 +254,7 @@ Grouped by board column.
 - *Exports:* orchard and irrigated crops, oils and wines where appropriate, craft and luxury goods, southern maritime access
 - *Imports:* selected timber, metal, furs and northern goods
 - *Pressures:* drought fears, private control of canals, city-state blocs forming and breaking
+- *Seasons:* Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
 ### Port
 
@@ -259,11 +264,11 @@ Grouped by board column.
 
 **Port**
 
+- *Position:* not fixed; its site should give 'a position convenient to both northern and southern sea routes' and 'access to inland rivers or roads'
+- *Territory:* unsettled: Frostbay Way is described 'if Port is territorially separate'
 - *Exports:* shipping access, repair, warehousing, processing, finance, arbitration, information, neutral exchange
 - *Imports:* significant food and raw-material inflows
 - *Why it stays central:* network effects: agents, credit, warehouses, courts and translators are already there
-- *Position:* not fixed; its site should give 'a position convenient to both northern and southern sea routes' and 'access to inland rivers or roads'
-- *Territory:* unsettled: Frostbay Way is described 'if Port is territorially separate'
 
 ### Spine & Underpass
 
@@ -274,8 +279,8 @@ Grouped by board column.
 
 **The Spine**
 
-- *Seasons:* in spring, roads and passes reopen unevenly (Trade and Dependencies)
 - *Touches:* Highridge is the only region the wiki ties to it by name
+- *Seasons:* in spring, roads and passes reopen unevenly (Trade and Dependencies)
 
 **The Underpass**
 

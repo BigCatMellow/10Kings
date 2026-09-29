@@ -39,7 +39,7 @@ Sources: [World Overview](../wiki/World-Overview.md), [Geography and Connections
 
 Language habits, naming, architecture, nomads, festivals, regional social dynamics and stereotypes, each tied to its region.
 Sources: [Culture](../wiki/Culture/) pages except food.
-**Built 2026-09-29: [Part 2](culture/README.md).** 44 things (a culture card per region, Port and the border towns; 28 festivals; 7 in-world sayings; the nomads), 21 connections (15 stated, 6 inferred), 14 gaps. Joined the combined [board](board/README.md), which replaced the per-part interactive pages at the same published link. An independent check found three overclaims (dropped hedges on Highridge's multilingualism and the nomads' possible circuit form) and a pattern of dropped "may"/"can"; all fixed.
+**Built 2026-09-29: [Part 2](culture/README.md).** 44 things (a culture card per region, Port and the border towns; 28 festivals; 7 in-world sayings; the nomads), 21 connections (15 stated, 6 inferred), 14 gaps. Joined the combined [board](board/README.md), which replaced the per-part interactive pages at the same published link. An independent check found three overclaims (dropped hedges on Highridge's multilingualism and the nomads' possible circuit form) and a pattern of dropped "may"/"can"; all fixed. **Standardized 2026-09-29** at James's request ("on northwind we have 'lies on' but not on the other regions"): every card of a kind now shows the same rows and facts in the same order, with "none stated" where the wiki is silent, and cards collapse to kind and name ("so things don't stretch on forever").
 
 ### Part 3: Food
 
@@ -79,9 +79,10 @@ This answers "what's the full scope of the project so far".
 
 1. **Extract.** Read the part's source pages; list every named thing with its owner page and status label.
 2. **Connect.** List the connections, each marked stated or inferred, with the sentence that states it.
-3. **Check independently.** The generator refuses data whose stated quotes aren't on their pages or whose status labels the pages don't carry. A fresh reviewer then compares the data against the wiki pages: nothing invented, nothing dropped, statuses right, inferences fair.
-4. **Build.** Generate the GitHub page, the downloadable image and the explorer view; look at them once.
-5. **Commit and record.** Push, add the part to the [Atlas index](README.md), and note any wiki gaps the part exposed (for James, not fixed silently).
+3. **Lay out the cards.** Set the part's `card_schema`: the rows and facts every card of each new kind shows, in order, and any rows the part adds to earlier kinds. Use existing row names where they fit, so the same kind of connection reads the same everywhere.
+4. **Check independently.** The generator refuses data whose stated quotes aren't on their pages or whose status labels the pages don't carry. A fresh reviewer then compares the data against the wiki pages: nothing invented, nothing dropped, statuses right, inferences fair.
+5. **Build.** Generate the GitHub page, the downloadable image and the explorer view; look at them once.
+6. **Commit and record.** Push, add the part to the [Atlas index](README.md), and note any wiki gaps the part exposed (for James, not fixed silently).
 
 ## Decisions
 

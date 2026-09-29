@@ -3,7 +3,9 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Public+Sans:ital,wght@0,400;0,600;1,400&display=swap">
 <style>
-/* Layout: an atlas board. One column per region (plus Port, the Spine, the border towns and the world as a whole); cards grouped under headings that later parts add to, so the board grows downward; connections are chips on the card, drawn as lines only for the selected card. */
+/* Layout: an atlas board. One column per region (plus Port, the Spine, the border towns and the world as a whole); cards grouped under headings that later parts add to, so the board grows downward.
+   Cards collapse to kind + name; open, they show a summary and connection rows. Every card of a kind shows the same rows in the same order (the part's card_schema), with "none stated" where the wiki gives nothing.
+   Lines are drawn only for the selected card. */
 :root {
   --bg: #f2f4f1; --surface: #ffffff; --ink: #1c2420; --muted: #5c6863; --line: #d3d9d5; --lane: #e8ece8;
   --focus: #0f766e; --inferred: #9a6b1f;
@@ -25,6 +27,7 @@
 }
 * { box-sizing: border-box; }
 body { background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 14px; line-height: 1.45; }
+button { font: inherit; color: inherit; }
 .wrap { padding-inline: 16px; padding-block: 20px 40px; max-width: 1640px; margin: 0 auto; }
 header.top { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: end; gap: 10px 24px; margin-bottom: 10px; }
 .eyebrow { font-family: var(--font-display); letter-spacing: .1em; text-transform: uppercase; font-size: 12px; color: var(--muted); }
@@ -38,35 +41,47 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: 2.2rem; line
 .controls label { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
 .controls input[type=checkbox] { accent-color: var(--focus); }
 .controls input[type=search] { font: inherit; padding: 5px 9px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--ink); min-width: 200px; }
+.btn { border: 1px solid var(--line); background: var(--surface); border-radius: 6px; padding: 4px 10px; cursor: pointer; font-size: 13px; }
+.btn:hover { border-color: var(--focus); }
+.btn:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.parts { display: inline-flex; flex-wrap: wrap; gap: 4px 12px; align-items: center; }
 .layout { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 16px; align-items: start; }
 @media (max-width: 980px) { .layout { grid-template-columns: minmax(0, 1fr); } }
 .board { position: relative; overflow: auto; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); max-height: 82vh; }
 .lanes { position: relative; display: flex; gap: 12px; padding: 10px; width: max-content; align-items: stretch; }
 .lane { width: 208px; flex: none; background: var(--lane); border-radius: 8px; padding: 0 8px 10px; position: relative; } /* no z-index: cards must stack above the link lines, which sit above the lanes */
-.lane > h3 { position: sticky; top: 0; z-index: 3; margin: 0 -8px 8px; padding: 9px 10px 7px; font-family: var(--font-display); font-weight: 700; font-size: 14px; letter-spacing: .08em; text-transform: uppercase; background: var(--lane); border-radius: 8px 8px 0 0; border-top: 4px solid var(--lc); }
-.section { margin-top: 10px; }
-.section > h4 { margin: 0 0 6px; font-family: var(--font-display); font-weight: 600; font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
-.card { display: block; width: 100%; text-align: left; font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--lc); border-radius: 6px; padding: 8px 9px 9px; margin-bottom: 8px; cursor: pointer; position: relative; z-index: 2; transition: opacity .15s, box-shadow .15s; }
+.lane > h3 { position: sticky; top: 0; z-index: 3; margin: 0 -8px 4px; padding: 9px 10px 7px; font-family: var(--font-display); font-weight: 700; font-size: 14px; letter-spacing: .08em; text-transform: uppercase; background: var(--lane); border-radius: 8px 8px 0 0; border-top: 4px solid var(--lc); }
+.section { margin-top: 8px; }
+.sechead { display: flex; align-items: center; gap: 6px; width: 100%; background: none; border: 0; padding: 2px 0 6px; cursor: pointer; font-family: var(--font-display); font-weight: 600; font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); text-align: left; }
+.sechead:hover { color: var(--ink); }
+.sechead:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 3px; }
+.sechead .num { font-family: var(--font-body); letter-spacing: 0; font-weight: 400; font-size: 11px; }
+.chev { display: inline-block; width: 10px; transition: transform .15s; flex: none; }
+[aria-expanded="true"] > .chev { transform: rotate(90deg); }
+.section.shut .cards { display: none; }
+.card { background: var(--surface); border: 1px solid var(--line); border-left: 4px solid var(--lc); border-radius: 6px; margin-bottom: 6px; position: relative; z-index: 2; transition: opacity .15s, box-shadow .15s; }
 .card:hover { box-shadow: 0 2px 10px rgb(0 0 0 / .1); }
-.card:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.card .head { display: flex; align-items: stretch; }
+.card .pick { flex: 1; min-width: 0; display: block; text-align: left; background: none; border: 0; padding: 7px 4px 7px 9px; cursor: pointer; border-radius: 6px 0 0 6px; }
+.card .pick:focus-visible, .card .tog:focus-visible { outline: 3px solid var(--focus); outline-offset: -3px; }
+.card .tog { flex: none; width: 30px; background: none; border: 0; border-left: 1px solid transparent; cursor: pointer; color: var(--muted); border-radius: 0 6px 6px 0; font-size: 12px; }
+.card .tog:hover { color: var(--ink); background: var(--bg); }
 .card .k { display: block; font-family: var(--font-display); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
-.card .n { display: block; font-weight: 700; font-size: 14px; line-height: 1.25; margin: 1px 0 3px; }
+.card .n { display: block; font-weight: 700; font-size: 14px; line-height: 1.25; margin-top: 1px; }
+.card .body { padding: 0 9px 9px; }
 .card .t { display: block; font-size: 12px; color: var(--muted); line-height: 1.35; }
 .card.region .n { font-family: var(--font-display); font-size: 19px; letter-spacing: .01em; }
-.card.minor { padding: 6px 9px; border-style: dashed; border-left-style: solid; }
-.card.minor .n { font-weight: 600; font-size: 13px; margin: 0; }
+.card.minor { border-style: dashed; border-left-style: solid; }
+.card.minor .pick { padding-block: 5px; }
+.card.minor .n { font-weight: 600; font-size: 13px; }
 .card.minor .k { font-size: 10px; }
 .card.saying .n { font-style: italic; font-weight: 600; }
-.chip[hidden], .chiprow[hidden], .section[hidden], .lane[hidden] { display: none; }
-.parts { display: inline-flex; flex-wrap: wrap; gap: 4px 12px; align-items: center; }
-.panel .src { font-size: 12px; margin-left: 4px; }
-.below h3 { font-family: var(--font-display); font-size: 1rem; margin: 12px 0 6px; letter-spacing: .02em; }
-.below h3:first-of-type { margin-top: 0; }
+.chip[hidden], .chiprow[hidden], .section[hidden], .lane[hidden], .card .body[hidden], [data-part][hidden] { display: none; }
 .chips { display: grid; gap: 4px; margin-top: 7px; }
 .chiprow { font-size: 11px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 3px 4px; align-items: center; }
 .chiprow b { font-weight: 600; color: var(--muted); margin-right: 2px; }
-.chip { display: inline-flex; align-items: center; gap: 4px; font-size: 11px; line-height: 1.2; padding: 2px 6px; border-radius: 999px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); }
-.chip { flex-wrap: wrap; }
+.chiprow .none { font-style: italic; opacity: .8; }
+.chip { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 4px; font-size: 11px; line-height: 1.2; padding: 2px 6px; border-radius: 999px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); }
 .chip small { font-size: 10px; color: var(--muted); white-space: nowrap; }
 .chip.inferred small { color: inherit; }
 .chip i { width: 7px; height: 7px; border-radius: 50%; background: var(--dc); flex: none; }
@@ -87,10 +102,12 @@ aside.panel { background: var(--surface); border: 1px solid var(--line); border-
 .panel dl { margin: 8px 0 0; }
 .panel dt { font-size: 12px; color: var(--muted); }
 .panel dd { margin: 0 0 6px; }
+.panel dd.missing { color: var(--muted); font-style: italic; }
+.panel .src { font-size: 12px; margin-left: 4px; }
 .panel ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
 .conn { border-left: 3px solid var(--line); padding: 2px 0 2px 8px; }
 .conn.inferred { border-left-color: var(--inferred); }
-.conn button { background: none; border: 0; padding: 0; font: inherit; font-weight: 600; color: var(--ink); cursor: pointer; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.conn button { background: none; border: 0; padding: 0; font-weight: 600; color: var(--ink); cursor: pointer; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
 .conn button:hover { text-decoration-color: var(--focus); }
 .conn q { display: block; color: var(--muted); font-size: 12px; margin-top: 2px; }
 .conn a { font-size: 12px; }
@@ -101,9 +118,11 @@ aside.panel { background: var(--surface); border: 1px solid var(--line); border-
 .below { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px; margin-top: 16px; }
 .below section { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; min-width: 0; }
 .below h2 { font-family: var(--font-display); font-size: 1.25rem; margin: 0 0 8px; }
+.below h3 { font-family: var(--font-display); font-size: 1rem; margin: 12px 0 6px; letter-spacing: .02em; }
+.below h3:first-of-type { margin-top: 0; }
 .below ul { margin: 0; padding-left: 1.1em; display: grid; gap: 6px; }
 .note { font-size: 12px; color: var(--muted); margin: 8px 0 0; }
-@media (prefers-reduced-motion: reduce) { .card { transition: none; } }
+@media (prefers-reduced-motion: reduce) { .card, .chev { transition: none; } }
 </style>
 
 <div class="wrap">
@@ -119,6 +138,7 @@ aside.panel { background: var(--surface); border: 1px solid var(--line); border-
     <input type="search" id="q" placeholder="Find anything…" aria-label="Find anything">
     <span class="parts" id="parts"></span>
     <label><input type="checkbox" id="optInferred"> Show inferred connections</label>
+    <button type="button" class="btn" id="expandAll">Open all cards</button>
   </div>
   <div class="layout">
     <div class="board" id="board"><div class="lanes" id="lanes"><svg class="links" id="links"></svg></div></div>
@@ -140,6 +160,7 @@ const DATA = /*ATLAS_DATA*/null;
   const laneOf = Object.fromEntries(DATA.lanes.map((l) => [l.id, l]));
   const colorVar = (laneId) => `var(--r-${laneId})`;
   const nodeColor = (n) => colorVar(n.lane);
+  const SCHEMA = DATA.schema || {};
   const partOn = Object.fromEntries(DATA.parts.map((p) => [p.short, true]));
   const inferredOn = () => $("optInferred").checked;
   const visibleEdge = (e) => partOn[byId[e.from].part] && partOn[byId[e.to].part] && (e.basis === "stated" || inferredOn());
@@ -152,10 +173,10 @@ const DATA = /*ATLAS_DATA*/null;
     `<span class="count"><b>${DATA.edges.length}</b>connections (${stated} stated)</span>`;
   $("parts").innerHTML = DATA.parts.length > 1 ? "Show: " + DATA.parts.map((p) => `<label title="Part ${p.part}: ${esc(p.title)}"><input type="checkbox" data-part="${esc(p.short)}" checked> ${esc(p.short)}</label>`).join("") : "";
 
-  // how each connection reads from each end
-  const phr = (e, fromSide) => fromSide ? (e.chip || e.type) : (e.chipBack || e.chip || e.type);
+  // each end of a connection: which row it sits in, and a short note
+  const end = (e, fromSide) => fromSide ? { row: e.chip || e.type, note: e.chipNote } : { row: e.chipBack || e.chip || e.type, note: e.chipNoteBack };
 
-  // build columns: one per lane; inside, one heading per section, in part order
+  // columns → section headings (in part order) → cards
   const lanesEl = $("lanes");
   const cardEls = {}, laneEls = {};
   DATA.lanes.forEach((l) => {
@@ -165,10 +186,17 @@ const DATA = /*ATLAS_DATA*/null;
     const inLane = DATA.nodes.filter((n) => n.lane === l.id);
     [...new Set(inLane.map((n) => n.part + "\u0000" + n.section))].forEach((key) => {
       const [part, sec] = key.split("\u0000");
+      const items = inLane.filter((n) => n.part === part && n.section === sec);
       const s = document.createElement("div");
       s.className = "section"; s.dataset.part = part;
-      s.innerHTML = `<h4>${esc(sec)}</h4>`;
-      inLane.filter((n) => n.part === part && n.section === sec).forEach((n) => s.appendChild(card(n)));
+      s.innerHTML = `<button type="button" class="sechead" aria-expanded="true"><span class="chev" aria-hidden="true">▸</span>${esc(sec)} <span class="num">${items.length}</span></button><div class="cards"></div>`;
+      const box = s.querySelector(".cards");
+      items.forEach((n) => box.appendChild(card(n)));
+      s.querySelector(".sechead").addEventListener("click", (ev) => {
+        const open = s.classList.toggle("shut") === false;
+        ev.currentTarget.setAttribute("aria-expanded", String(open));
+        if (current) drawLinks(current);
+      });
       lane.appendChild(s);
     });
     laneEls[l.id] = lane;
@@ -176,35 +204,58 @@ const DATA = /*ATLAS_DATA*/null;
   });
 
   function chipsFor(n) {
-    const rows = {};
+    const layout = (SCHEMA[n.kind] || { rows: [] }).rows;
+    const skip = n.skip_rows || [];
+    const rows = Object.fromEntries(layout.map((r) => [r.label, []]));
     DATA.edges.forEach((e) => {
-      let other, label;
-      if (e.from === n.id) { other = e.to; label = phr(e, true); }
-      else if (e.to === n.id) { other = e.from; label = phr(e, false); }
+      let other, side;
+      if (e.from === n.id) { other = e.to; side = end(e, true); }
+      else if (e.to === n.id) { other = e.from; side = end(e, false); }
       else return;
       if (e.hideChipOn && e.hideChipOn.includes(n.id)) return;
       const o = byId[other];
       const cert = e.certainty && e.certainty !== "established" ? e.certainty : "";
       const cls = [e.basis === "inferred" ? "inferred" : "", cert].join(" ");
-      const extra = e.goods && e.chipGoods !== false ? ` <small>${esc(e.goods)}</small>` : "";
-      (rows[label] = rows[label] || []).push(`<span class="chip ${cls}" data-basis="${e.basis}" data-p="${esc(o.part)}" style="--dc:${nodeColor(o)}"><i></i>${esc(o.short || o.label)}${extra}${cert ? ` <small>(${esc(cert)})</small>` : ""}</span>`);
+      const goods = e.goods && e.chipGoods !== false ? ` <small>${esc(e.goods)}</small>` : "";
+      const notes = [side.note, cert].filter(Boolean).join(", ");
+      (rows[side.row] = rows[side.row] || []).push(`<span class="chip ${cls}" data-basis="${e.basis}" style="--dc:${nodeColor(o)}"><i></i>${esc(o.short || o.label)}${goods}${notes ? ` <small>(${esc(notes)})</small>` : ""}</span>`);
     });
-    return Object.entries(rows).map(([label, chips]) => `<span class="chiprow"><b>${esc(label)}</b>${chips.join("")}</span>`).join("");
+    return layout.filter((r) => !skip.includes(r.label) && (rows[r.label].length || r.always)).map((r) =>
+      `<span class="chiprow" data-rowpart="${esc(r.part)}"><b>${esc(r.label)}</b>${rows[r.label].length ? rows[r.label].join("") : `<span class="none">none stated</span>`}</span>`).join("");
   }
   function card(n) {
-    const b = document.createElement("button");
-    b.type = "button";
-    b.className = `card ${n.kind}${n.minor ? " minor" : ""}`;
-    b.style.setProperty("--lc", nodeColor(n));
-    b.dataset.id = n.id;
+    const c = document.createElement("div");
+    c.className = `card ${n.kind}${n.minor ? " minor" : ""}`;
+    c.style.setProperty("--lc", nodeColor(n));
+    c.dataset.id = n.id;
     const k = esc(DATA.kinds[n.kind]) + (n.when ? ` · ${esc(n.when)}` : "");
     const chips = chipsFor(n);
-    b.innerHTML = n.minor ? `<span class="k">${k}</span><span class="n">${esc(n.label)}</span>${chips ? `<span class="chips">${chips}</span>` : ""}` :
-      `<span class="k">${k}</span><span class="n">${esc(n.label)}</span><span class="t">${esc(n.short_text || n.text)}</span>${chips ? `<span class="chips">${chips}</span>` : ""}`;
-    b.addEventListener("click", () => select(n.id));
-    cardEls[n.id] = b;
-    return b;
+    const text = n.minor ? "" : `<span class="t">${esc(n.short_text || n.text)}</span>`;
+    const hasBody = !!(text || chips);
+    c.innerHTML = `<div class="head"><button type="button" class="pick"><span class="k">${k}</span><span class="n">${esc(n.label)}</span></button>` +
+      (hasBody ? `<button type="button" class="tog" aria-expanded="false" aria-label="Show details for ${esc(n.label)}"><span class="chev" aria-hidden="true">▸</span></button>` : "") +
+      `</div>` + (hasBody ? `<div class="body" hidden>${text}${chips ? `<span class="chips">${chips}</span>` : ""}</div>` : "");
+    c.querySelector(".pick").addEventListener("click", () => select(n.id));
+    if (hasBody) c.querySelector(".tog").addEventListener("click", () => { setOpen(c, c.querySelector(".body").hidden); if (current) drawLinks(current); });
+    cardEls[n.id] = c;
+    return c;
   }
+  function setOpen(c, open) {
+    const body = c.querySelector(".body"), tog = c.querySelector(".tog");
+    if (!body) return;
+    body.hidden = !open;
+    tog.setAttribute("aria-expanded", String(open));
+    tog.setAttribute("aria-label", `${open ? "Hide" : "Show"} details for ${byId[c.dataset.id].label}`);
+  }
+  let allOpen = false;
+  function expandAll(open) {
+    allOpen = open;
+    Object.values(cardEls).forEach((c) => setOpen(c, open));
+    $("expandAll").textContent = open ? "Close all cards" : "Open all cards";
+    if (current) drawLinks(current);
+  }
+  window.atlasExpandAll = expandAll;
+  $("expandAll").addEventListener("click", () => expandAll(!allOpen));
 
   // what's showing: parts, inferred links, search
   function refresh() {
@@ -215,12 +266,15 @@ const DATA = /*ATLAS_DATA*/null;
       const hay = [n.label, n.text, n.when || "", ...Object.values(n.facts || {})].join(" ").toLowerCase();
       el.classList.toggle("dimmed", !!q && !hay.includes(q));
     });
-    // tags describe their own card, so they stay when the other end's part is switched off; only inferred ones wait for the box
+    // tags describe their own card, so they stay when the other end's part is off; inferred ones wait for the box
     document.querySelectorAll(".chip").forEach((c) => { c.hidden = c.dataset.basis === "inferred" && !inferredOn(); });
-    document.querySelectorAll(".chiprow").forEach((r) => { r.hidden = !r.querySelector(".chip:not([hidden])"); });
+    document.querySelectorAll(".chiprow").forEach((r) => {
+      const hasChips = !!r.querySelector(".chip"), anyShown = !!r.querySelector(".chip:not([hidden])");
+      r.hidden = hasChips ? !anyShown : !partOn[r.dataset.rowpart];
+    });
     Object.values(laneEls).forEach((l) => { l.hidden = !l.querySelector(".section:not([hidden])"); });
     document.querySelectorAll("#gaps [data-part]").forEach((g) => { g.hidden = !partOn[g.dataset.part]; });
-    if (current && (!partOn[byId[current].part])) select(null); else if (current) select(current);
+    if (current && !partOn[byId[current].part]) select(null); else if (current) select(current);
   }
   window.atlasShowOnly = (short) => { Object.keys(partOn).forEach((k) => { partOn[k] = k === short; }); document.querySelectorAll("input[data-part]").forEach((c) => { c.checked = partOn[c.dataset.part]; }); refresh(); };
 
@@ -243,15 +297,15 @@ const DATA = /*ATLAS_DATA*/null;
       const b = box(el);
       const right = b.x > a.x + a.w / 2;
       const sameLane = Math.abs(b.x - a.x) < 20;
+      const ya = a.y + Math.min(a.h / 2, 24), yb = b.y + Math.min(b.h / 2, 24);
       let d;
       if (sameLane) {
-        const x = a.x + a.w, y1 = a.y + Math.min(a.h / 2, 40), y2 = b.y + Math.min(b.h / 2, 40);
-        d = `M${x},${y1} C${x + 40},${y1} ${x + 40},${y2} ${x},${y2}`;
+        const x = a.x + a.w;
+        d = `M${x},${ya} C${x + 40},${ya} ${x + 40},${yb} ${x},${yb}`;
       } else {
-        const sx = right ? a.x + a.w : a.x, sy = a.y + Math.min(a.h / 2, 40);
-        const tx = right ? b.x : b.x + b.w, ty = b.y + Math.min(b.h / 2, 40);
+        const sx = right ? a.x + a.w : a.x, tx = right ? b.x : b.x + b.w;
         const dx = Math.max(40, Math.abs(tx - sx) / 2.5) * (right ? 1 : -1);
-        d = `M${sx},${sy} C${sx + dx},${sy} ${tx - dx},${ty} ${tx},${ty}`;
+        d = `M${sx},${ya} C${sx + dx},${ya} ${tx - dx},${yb} ${tx},${yb}`;
       }
       const p = document.createElementNS("http://www.w3.org/2000/svg", "path");
       p.setAttribute("d", d);
@@ -274,21 +328,26 @@ const DATA = /*ATLAS_DATA*/null;
     drawLinks(id);
     const groups = {};
     DATA.edges.filter((e) => e.from === id || e.to === id).forEach((e) => { (groups[e.group || e.layer] = groups[e.group || e.layer] || []).push(e); });
-    const fs = n.fact_src || {};
-    const facts = n.facts && Object.keys(n.facts).length ? `<dl>${Object.entries(n.facts).map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}${fs[k] ? `<a class="src" href="${gh(fs[k])}" target="_blank" rel="noopener">source</a>` : ""}</dd>`).join("")}</dl>` : "";
+    const fs = n.fact_src || {}, fv = n.facts || {};
+    const layout = ((SCHEMA[n.kind] || {}).facts || []).filter((f) => fv[f.key] || f.always);
+    const facts = layout.length ? `<dl>${layout.map((f) => fv[f.key]
+      ? `<dt>${esc(f.key)}</dt><dd>${esc(fv[f.key])}${fs[f.key] ? `<a class="src" href="${gh(fs[f.key])}" target="_blank" rel="noopener">source</a>` : ""}</dd>`
+      : `<dt>${esc(f.key)}</dt><dd class="missing">Not in the wiki yet.</dd>`).join("")}</dl>` : "";
     const html = Object.entries(groups).map(([g, es]) => `<h4>${esc(layerName[g] || g)}</h4><ul>${es.map((e) => {
       const other = e.from === id ? e.to : e.from;
       const lab = e.from === id ? e.type : (e.chipBack || e.type);
       return `<li class="conn ${e.basis}"><span>${esc(lab)} </span><button type="button" data-go="${other}">${esc(byId[other].label)}</button>${e.goods ? `: ${esc(e.goods)}` : ""}${e.certainty && e.certainty !== "established" ? `<span class="tag">${esc(e.certainty)}</span>` : ""}${e.basis === "inferred" ? `<span class="tag inferred">inferred</span>` : ""}<q>${esc(e.quote)}</q><a href="${gh(e.src)}" target="_blank" rel="noopener">source</a>${(e.also || []).map((a) => `<q>Also: ${esc(a.quote)}${a.note ? " (" + esc(a.note) + ")" : ""}</q><a href="${gh(a.src)}" target="_blank" rel="noopener">source</a>`).join("")}</li>`;
     }).join("")}</ul>`).join("");
     const see = (n.see || []).length ? ` · also on ${n.see.map((s) => `<a href="${gh(s)}" target="_blank" rel="noopener">${esc(pageName(s))}</a>`).join(", ")}` : "";
-    $("panel").innerHTML = `<span class="eyebrow">${esc(DATA.kinds[n.kind])}${n.when ? " · " + esc(n.when) : ""} · ${esc(laneOf[n.lane].label)} · ${esc(n.part)}</span><h2>${esc(n.label)}</h2>
+    $("panel").innerHTML = `<span class="eyebrow">${esc(DATA.kinds[n.kind])}${n.when ? " · " + esc(n.when) : ""} · ${esc(laneOf[n.lane].label)}</span><h2>${esc(n.label)}</h2>
       <span class="status">${esc(n.status)}</span><p>${esc(n.text)}</p>${facts}${html}
       <h4>Source</h4><a href="${gh(n.src)}" target="_blank" rel="noopener">Read it on the wiki</a>${see}`;
     $("panel").querySelectorAll("[data-go]").forEach((b) => b.addEventListener("click", () => { select(b.dataset.go); scrollToCard(b.dataset.go); }));
   }
   function scrollToCard(id) {
     const el = cardEls[id]; if (!el) return;
+    const sec = el.closest(".section");
+    if (sec && sec.classList.contains("shut")) { sec.classList.remove("shut"); sec.querySelector(".sechead").setAttribute("aria-expanded", "true"); drawLinks(current); }
     const br = board.getBoundingClientRect(), r = el.getBoundingClientRect();
     if (r.left < br.left || r.right > br.right || r.top < br.top || r.bottom > br.bottom)
       board.scrollBy({ left: r.left - br.left - br.width / 3, top: r.top - br.top - 60, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
@@ -296,7 +355,7 @@ const DATA = /*ATLAS_DATA*/null;
   function intro() {
     $("panel").innerHTML = `<span class="eyebrow">How to read it</span><h2>${esc(DATA.title)}</h2><p>${esc(DATA.intro || "")}</p>`;
   }
-  board.addEventListener("click", (ev) => { if (!ev.target.closest(".card")) select(null); });
+  board.addEventListener("click", (ev) => { if (!ev.target.closest(".card") && !ev.target.closest(".sechead")) select(null); });
 
   $("q").addEventListener("input", refresh);
   $("optInferred").addEventListener("change", refresh);

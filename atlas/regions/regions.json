@@ -52,6 +52,178 @@
     "border-town": "Border town",
     "name-bank": "Unplaced name"
   },
+  "card_schema": {
+    "landmass": {
+      "rows": [
+        {
+          "label": "Regions on it",
+          "always": true
+        }
+      ],
+      "facts": []
+    },
+    "region": {
+      "rows": [
+        {
+          "label": "Continent",
+          "always": true
+        },
+        {
+          "label": "Borders",
+          "always": true
+        },
+        {
+          "label": "Border towns",
+          "always": true
+        },
+        {
+          "label": "Sea partner of",
+          "always": true
+        },
+        {
+          "label": "Spine & Underpass",
+          "always": true
+        },
+        {
+          "label": "Sends",
+          "always": true
+        },
+        {
+          "label": "Gets",
+          "always": true
+        },
+        {
+          "label": "Trades with",
+          "always": true
+        },
+        {
+          "label": "Likely sends",
+          "always": false
+        },
+        {
+          "label": "Likely gets",
+          "always": false
+        }
+      ],
+      "facts": [
+        {
+          "key": "Terrain",
+          "always": true
+        },
+        {
+          "key": "Exports",
+          "always": true
+        },
+        {
+          "key": "Imports",
+          "always": true
+        },
+        {
+          "key": "Pressures",
+          "always": true
+        },
+        {
+          "key": "Seasons",
+          "always": true
+        }
+      ]
+    },
+    "hub": {
+      "rows": [
+        {
+          "label": "Sea partners",
+          "always": true
+        },
+        {
+          "label": "In its sphere",
+          "always": true
+        }
+      ],
+      "facts": [
+        {
+          "key": "Position",
+          "always": true
+        },
+        {
+          "key": "Territory",
+          "always": true
+        },
+        {
+          "key": "Exports",
+          "always": true
+        },
+        {
+          "key": "Imports",
+          "always": true
+        },
+        {
+          "key": "Why it stays central",
+          "always": true
+        }
+      ]
+    },
+    "mountains": {
+      "rows": [
+        {
+          "label": "Spine & Underpass",
+          "always": true
+        },
+        {
+          "label": "Regions",
+          "always": true
+        }
+      ],
+      "facts": [
+        {
+          "key": "Touches",
+          "always": true
+        },
+        {
+          "key": "Seasons",
+          "always": true
+        }
+      ]
+    },
+    "underground": {
+      "rows": [
+        {
+          "label": "Spine & Underpass",
+          "always": true
+        },
+        {
+          "label": "Regions",
+          "always": true
+        }
+      ],
+      "facts": [
+        {
+          "key": "Functional adjacency",
+          "always": true
+        },
+        {
+          "key": "Claims",
+          "always": true
+        },
+        {
+          "key": "Named entrances",
+          "always": true
+        }
+      ]
+    },
+    "border-town": {
+      "rows": [
+        {
+          "label": "Between",
+          "always": true
+        }
+      ],
+      "facts": []
+    },
+    "name-bank": {
+      "rows": [],
+      "facts": []
+    }
+  },
   "nodes": [
     {
       "id": "western",
@@ -98,11 +270,14 @@
         "Exports": "fish, salt and preserved foods, furs and animal products, ships and maritime capacity",
         "Imports": "grain, metal goods, medicines, warmer-climate produce",
         "Pressures": "shifting fish stocks, rising piracy, convoy agreements with Port, accusations that clans cooperate with raiders",
-        "Seasons": "in winter, northern routes become unreliable (Trade and Dependencies)"
+        "Seasons": "In winter, northern routes become unreliable."
       },
       "lane": "northwind",
       "section": "Geography",
-      "short_text": "Cold coasts, islands and clan valleys; harbors and fisheries."
+      "short_text": "Cold coasts, islands and clan valleys; harbors and fisheries.",
+      "fact_src": {
+        "Seasons": "Economy/Trade-and-Dependencies.md#seasonal-stress"
+      }
     },
     {
       "id": "ironcrest",
@@ -115,11 +290,15 @@
         "Terrain": "mineral hills, stream valleys, wooded slopes, pasture; eastern and southeastern edges grade into Greenvale, Highridge and parts of Deepwood",
         "Exports": "ores, metalwork, tools, weapons, industrial craft capacity",
         "Imports": "substantial food in industrial districts, timber and fuel, seasonal labor, some luxuries",
-        "Pressures": "labor unrest, covert metal shipments, pressure to expand Underpass access, fears of weapon stockpiling"
+        "Pressures": "labor unrest, covert metal shipments, pressure to expand Underpass access, fears of weapon stockpiling",
+        "Seasons": "Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter."
       },
       "lane": "ironcrest",
       "section": "Geography",
-      "short_text": "Western uplands: mines, streams, pasture and forges."
+      "short_text": "Western uplands: mines, streams, pasture and forges.",
+      "fact_src": {
+        "Seasons": "Economy/Trade-and-Dependencies.md#seasonal-stress"
+      }
     },
     {
       "id": "greenvale",
@@ -132,11 +311,15 @@
         "Terrain": "temperate lowlands and rolling country; grades into Ironcrest foothills, Highridge routes, Deepwood margins and warmer Sunplains country",
         "Exports": "grain, produce, livestock products, textiles and other agricultural goods",
         "Imports": "metal tools, preservation salt, shipping and caravan access",
-        "Pressures": "an unusually abundant harvest or new high-yield seed strain, collapsing prices, land consolidation, co-ops against estates"
+        "Pressures": "an unusually abundant harvest or new high-yield seed strain, collapsing prices, land consolidation, co-ops against estates",
+        "Seasons": "Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter."
       },
       "lane": "greenvale",
       "section": "Geography",
-      "short_text": "The largest farming heartland: broad temperate lowlands."
+      "short_text": "The largest farming heartland: broad temperate lowlands.",
+      "fact_src": {
+        "Seasons": "Economy/Trade-and-Dependencies.md#seasonal-stress"
+      }
     },
     {
       "id": "highridge",
@@ -149,12 +332,16 @@
         "Terrain": "exposed uplands, sheltered valleys, steep passes, seasonal streams, grazing country, caravan corridors",
         "Exports": "route access, caravan services, brokerage, arbitration, credit, records and specialist knowledge",
         "Imports": "many lowland and coastal goods",
-        "Pressures": "caravan attacks, manipulated route closures, accusations of corrupt militia or toll officials, contested infrastructure"
+        "Pressures": "caravan attacks, manipulated route closures, accusations of corrupt militia or toll officials, contested infrastructure",
+        "Seasons": "Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter."
       },
       "lane": "highridge",
       "section": "Geography",
       "short_text": "Highland crossroads where routes around the Spine meet.",
-      "short": "Highridge"
+      "short": "Highridge",
+      "fact_src": {
+        "Seasons": "Economy/Trade-and-Dependencies.md#seasonal-stress"
+      }
     },
     {
       "id": "deepwood",
@@ -167,11 +354,15 @@
         "Terrain": "old-growth and managed forest, river valleys, wetlands, clearings; routes into foothills and possibly Underpass entrances",
         "Exports": "timber, herbs and medicinals, dyes, forest products, specialist ecological knowledge",
         "Imports": "selected metal tools, salt, grain and urban goods",
-        "Pressures": "logging beyond accepted limits, fungal disease, isolationists against reformers, hidden-route crime"
+        "Pressures": "logging beyond accepted limits, fungal disease, isolationists against reformers, hidden-route crime",
+        "Seasons": "Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter."
       },
       "lane": "deepwood",
       "section": "Geography",
-      "short_text": "Old-growth and managed forest, rivers and wetlands."
+      "short_text": "Old-growth and managed forest, rivers and wetlands.",
+      "fact_src": {
+        "Seasons": "Economy/Trade-and-Dependencies.md#seasonal-stress"
+      }
     },
     {
       "id": "sunplains",
@@ -184,11 +375,15 @@
         "Terrain": "dry plains, river valleys, irrigated basins, orchard belts, grazing country, coast, scrub, some fertile deltas",
         "Exports": "orchard and irrigated crops, oils and wines where appropriate, craft and luxury goods, southern maritime access",
         "Imports": "selected timber, metal, furs and northern goods",
-        "Pressures": "drought fears, private control of canals, city-state blocs forming and breaking"
+        "Pressures": "drought fears, private control of canals, city-state blocs forming and breaking",
+        "Seasons": "Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter."
       },
       "lane": "sunplains",
       "section": "Geography",
-      "short_text": "Warm, dry south and east: city-states, orchards, irrigation."
+      "short_text": "Warm, dry south and east: city-states, orchards, irrigation.",
+      "fact_src": {
+        "Seasons": "Economy/Trade-and-Dependencies.md#seasonal-stress"
+      }
     },
     {
       "id": "port",
@@ -389,7 +584,7 @@
       "basis": "stated",
       "quote": "Northwind occupies much of the Northern Continent and associated coasts and islands.",
       "src": "Regions/Northwind.md#geography",
-      "chip": "Lies on",
+      "chip": "Continent",
       "chipBack": "Regions on it"
     },
     {
@@ -438,7 +633,9 @@
       "quote": "This implies at least one direct or near-direct frontier, probably where Ironcrest's eastern or southeastern uplands meet a western arm of the forest.",
       "src": "Geography-and-Connections.md#deepwood--ironcrest",
       "chip": "Borders",
-      "chipBack": "Borders"
+      "chipBack": "Borders",
+      "chipNote": "direct or near-direct",
+      "chipNoteBack": "direct or near-direct"
     },
     {
       "from": "northwind",
@@ -479,7 +676,9 @@
         }
       ],
       "chip": "Borders",
-      "chipBack": "Borders"
+      "chipBack": "Borders",
+      "chipNote": "or corridor",
+      "chipNoteBack": "or corridor"
     },
     {
       "from": "greenvale",
@@ -540,7 +739,9 @@
       "quote": "Possible through southern caravan routes. Could be a direct boundary, a narrow corridor, or mediated through Greenvale/Deepwood. Do not assume until the map is locked.",
       "src": "Geography-and-Connections.md#highridge--sunplains",
       "chip": "Borders",
-      "chipBack": "Borders"
+      "chipBack": "Borders",
+      "chipNote": "or corridor",
+      "chipNoteBack": "or corridor"
     },
     {
       "from": "stonefield",
@@ -660,8 +861,10 @@
       "basis": "stated",
       "quote": "Best treated as a coastal corridor or secondary port rather than a literal kingdom border if Port is territorially separate.",
       "src": "Places/Border-Towns.md#frostbay-way--northwind--port-influence-zone",
-      "chip": "Corridor town of",
-      "chipBack": "Corridor town"
+      "chip": "Between",
+      "chipBack": "Border towns",
+      "chipNote": "corridor",
+      "chipNoteBack": "corridor"
     },
     {
       "from": "frostbay",
@@ -671,8 +874,9 @@
       "basis": "stated",
       "quote": "Frostbay Way — Northwind / Port influence zone",
       "src": "Places/Border-Towns.md#frostbay-way--northwind--port-influence-zone",
-      "chip": "In the sphere of",
-      "chipBack": "In its sphere"
+      "chip": "Between",
+      "chipBack": "In its sphere",
+      "chipNote": "Port's sphere"
     },
     {
       "from": "northwind",
@@ -704,8 +908,10 @@
       "basis": "stated",
       "quote": "Beneath parts of The Spine runs The Underpass.",
       "src": "World-Overview.md#the-world",
-      "chip": "Runs beneath",
-      "chipBack": "Beneath it"
+      "chip": "Spine & Underpass",
+      "chipBack": "Spine & Underpass",
+      "chipNote": "runs beneath",
+      "chipNoteBack": "beneath it"
     },
     {
       "from": "spine",
@@ -715,8 +921,10 @@
       "basis": "stated",
       "quote": "Its importance comes from geography: routes that avoid or cross parts of The Spine naturally converge here.",
       "src": "Regions/Highridge-Plateau.md",
-      "chip": "Funnels routes into",
-      "chipBack": "Routes from"
+      "chip": "Regions",
+      "chipBack": "Spine & Underpass",
+      "chipNote": "routes funnel in",
+      "chipNoteBack": "routes funnel in"
     },
     {
       "from": "ironcrest",
@@ -726,8 +934,10 @@
       "basis": "stated",
       "quote": "Current pressures: … pressure to expand access to Underpass routes.",
       "src": "Regions/Ironcrest.md#current-pressures",
-      "chip": "Presses for access to",
-      "chipBack": "Pressed by"
+      "chip": "Spine & Underpass",
+      "chipBack": "Regions",
+      "chipNote": "presses for access",
+      "chipNoteBack": "presses for access"
     },
     {
       "from": "deepwood",
@@ -738,8 +948,10 @@
       "basis": "stated",
       "quote": "routes into foothills and possibly Underpass entrances.",
       "src": "Regions/Deepwood.md#geography",
-      "chip": "May have entrances to",
-      "chipBack": "May open into"
+      "chip": "Spine & Underpass",
+      "chipBack": "Regions",
+      "chipNote": "may have entrances",
+      "chipNoteBack": "may have entrances"
     },
     {
       "from": "greenvale",
@@ -847,12 +1059,14 @@
       "basis": "stated",
       "quote": "debate over convoy agreements with Port.",
       "src": "Regions/Northwind.md#current-pressures",
-      "chip": "Convoy talks with",
-      "chipBack": "Convoy talks with",
+      "chip": "Sea partner of",
+      "chipBack": "Sea partners",
       "hideChipOn": [
         "northwind",
         "port"
-      ]
+      ],
+      "chipNote": "convoy talks",
+      "chipNoteBack": "convoy talks"
     },
     {
       "from": "northwind",
@@ -971,7 +1185,7 @@
       "basis": "inferred",
       "quote": "Greenvale imports 'shipping and caravan access'; 'Highridge trade must reach the eastern agricultural interior somewhere.'",
       "src": "Geography-and-Connections.md#greenvale--highridge",
-      "chip": "Likely gives",
+      "chip": "Likely sends",
       "chipBack": "Likely gets"
     }
   ],

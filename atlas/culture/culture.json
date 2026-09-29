@@ -28,6 +28,125 @@
       "default": true
     }
   ],
+  "card_schema": {
+    "culture": {
+      "rows": [
+        {
+          "label": "Mixes with",
+          "always": true
+        },
+        {
+          "label": "Border towns",
+          "always": true
+        }
+      ],
+      "facts": [
+        {
+          "key": "Aim",
+          "always": true
+        },
+        {
+          "key": "Values",
+          "always": true
+        },
+        {
+          "key": "Inspiration",
+          "always": true
+        },
+        {
+          "key": "Speech",
+          "always": true
+        },
+        {
+          "key": "Building",
+          "always": true
+        },
+        {
+          "key": "Place names",
+          "always": true
+        },
+        {
+          "key": "Mixing",
+          "always": false
+        },
+        {
+          "key": "Story use",
+          "always": false
+        }
+      ]
+    },
+    "saying": {
+      "rows": [],
+      "facts": [
+        {
+          "key": "Employers' biased shortcut",
+          "always": false
+        }
+      ]
+    },
+    "festival": {
+      "rows": [],
+      "facts": []
+    },
+    "people": {
+      "rows": [
+        {
+          "label": "Circuit may include",
+          "always": true
+        }
+      ],
+      "facts": [
+        {
+          "key": "Why they move",
+          "always": true
+        },
+        {
+          "key": "Appalachian influence",
+          "always": true
+        },
+        {
+          "key": "Rights",
+          "always": true
+        },
+        {
+          "key": "What they carry",
+          "always": true
+        },
+        {
+          "key": "Who wants them",
+          "always": true
+        },
+        {
+          "key": "Don't",
+          "always": true
+        }
+      ]
+    },
+    "region": {
+      "rows": [
+        {
+          "label": "Nomad circuit",
+          "always": false
+        }
+      ]
+    },
+    "hub": {
+      "rows": [
+        {
+          "label": "Nomad circuit",
+          "always": false
+        }
+      ]
+    },
+    "border-town": {
+      "rows": [
+        {
+          "label": "Culture",
+          "always": true
+        }
+      ]
+    }
+  },
   "nodes": [
     {
       "id": "northwind-culture",
@@ -41,12 +160,14 @@
       "short_text": "Speech that marks who's included and who saw it; port neighborhoods built above flood or storm lines.",
       "src": "Regions/Northwind.md",
       "facts": {
+        "Aim": "Avoid turning Northwind into generic Vikings.",
         "Inspiration": "Scottish and Irish island communities; Icelandic, Faroese, Scandinavian and North Atlantic maritime cultures; Ainu, Japanese, Korean, Aleut, Inuit and other northern and coastal societies; fishing societies built around seasonal risk, preservation and cooperative labor. Avoid generic 'Viking culture.'",
         "Speech": "May include an inclusive and an exclusive 'we', strong evidential markers, directional vocabulary tied to coast, wind and slope, and future forms that stress conditions. Conversations become sensitive to who is included, who witnessed something, and how certain a plan really is.",
         "Building": "Large ports with stone breakwaters, dock districts, timber warehouses, fish markets, smokehouses, boatyards, public halls and shrines, built above flood or storm lines. Fishing towns with small docks, communal work yards, drying racks, storage pits and steep-roofed or earth-insulated homes depending on climate. Remote families build for insulation and repairability from driftwood, stone, turf, timber, clay, hide, reeds and imported iron.",
         "Place names": "Coastal geography, bays, islands, currents, lineages, seasonal sites."
       },
       "fact_src": {
+        "Aim": "Culture/Culture-and-Influence.md#northwind",
         "Inspiration": "Regions/Northwind.md#cultural-inspirations",
         "Speech": "Regions/Northwind.md#language",
         "Building": "Regions/Northwind.md#settlement-and-architecture",
@@ -70,6 +191,7 @@
       "short_text": "Skill, accountability and apprenticeship; speech that asks who's responsible.",
       "src": "Regions/Ironcrest.md",
       "facts": {
+        "Aim": "Should feel like a place where generations of upland settlement, ore extraction, specialized crafts, dangerous labor, merchant capital and repeated political consolidation produced a distinctive culture; not 'Celtic miners' or 'Yemeni foundries'.",
         "Values": "Demonstrated skill; accountability for work; reputation over generations; apprenticeship; mutual aid in dangerous trades; practical literacy such as contracts, weights, measures and records. Mine owners, guild masters, workers, small smiths, merchants and rural communities don't necessarily want the same future.",
         "Inspiration": "Scottish, Welsh and Appalachian mining communities; Andean highland mining settlements; Ethiopian and Yemeni upland stone architecture; Japanese and Chinese craft-lineage traditions; Balkan and Central European mountain towns. It shouldn't resemble any one of them directly.",
         "Speech": "May habitually distinguish whether something was ordered, attempted, completed, inspected or guaranteed: close attention to responsibility and proof, without making every Ironcrest person blunt or emotionless.",
@@ -77,6 +199,7 @@
         "Place names": "Older upland and river names beneath later mining, fort, family and guild names."
       },
       "fact_src": {
+        "Aim": "Culture/Culture-and-Influence.md#ironcrest",
         "Values": "Regions/Ironcrest.md#cultural-character",
         "Inspiration": "Regions/Ironcrest.md#cultural-influences",
         "Speech": "Regions/Ironcrest.md#language",
@@ -225,15 +348,15 @@
       "short_text": "Its own culture, not six regional quarters; people who call themselves Port-born first.",
       "src": "Places/Port.md#culture",
       "facts": {
-        "Culture": "Mixed families; native Port dialects; neighborhood cuisines; blended religious practices; occupations found nowhere else at the same scale; people who identify as Port-born first.",
-        "Neighborhoods": "Cultures several generations removed from their ancestral regions that no longer fit clean categories.",
+        "Aim": "Neighborhoods whose cultures are several generations removed from their ancestral regions and no longer fit clean categories.",
+        "Mixing": "Mixed families; native Port dialects; neighborhood cuisines; blended religious practices; occupations found nowhere else at the same scale; people who identify as Port-born first.",
         "Speech": "Native Port speech, trade pidgins and creoles, heritage languages, guild jargons, religious registers and neighborhood dialects. A third-generation Port family shouldn't sound like diluted Northwind or Sunplains.",
         "Building": "Layers from every region, made its own style by high land value, fire rules, warehouses, docks, mixed materials, vertical additions, foreign quarters and rebuilding after fires and storms.",
         "Place names": "Layers upon layers: an old geographic name, an official charter name, district nicknames, immigrant neighborhood names, merchant terminology."
       },
       "fact_src": {
-        "Culture": "Places/Port.md#culture",
-        "Neighborhoods": "Culture/Culture-and-Influence.md#cultural-blending",
+        "Aim": "Culture/Culture-and-Influence.md#cultural-blending",
+        "Mixing": "Places/Port.md#culture",
         "Speech": "Culture/Language-and-Thought.md#port",
         "Building": "Culture/Architecture.md#port",
         "Place names": "Culture/Naming.md#regional-direction"
@@ -252,21 +375,25 @@
       "short_text": "Not two cultures watered down: over generations, cultures of their own.",
       "src": "Places/Border-Towns.md#principle",
       "facts": {
+        "Aim": "Border populations shouldn't look like half of one culture plus half of another. Over generations they develop their own institutions, accents, marriage patterns, foods, building types, jokes, prejudices and identities.",
         "Speech": "First-generation bilingual adults may code-switch; second and third generations often create stable mixed dialects and combine habits, which can make them unusually effective mediators (not wiser, just practiced at what must be said explicitly).",
         "Building": "Adaptive, not decorative fusion.",
         "Place names": "Often two accepted names, one name translated differently by each side, a hybrid name, an old political name nobody uses officially, or family names crossing linguistic lines.",
-        "Younger generations": "May speak stable hybrid dialects, reject their grandparents' political labels, combine religious practices, marry across older divisions, treat regional feuds as absurd, or revive pre-Convergence identities: natural political wild cards.",
-        "Why it matters": "If kingdoms argue in old categories while border populations have already made new identities, the political map is lagging behind lived reality."
+        "Mixing": "Younger generations may speak stable hybrid dialects, reject their grandparents' political labels, combine religious practices, marry across older divisions, treat regional feuds as absurd, or revive pre-Convergence identities: natural political wild cards.",
+        "Story use": "If kingdoms argue in old categories while border populations have already made new identities, the political map is lagging behind lived reality."
       },
       "fact_src": {
         "Speech": "Culture/Language-and-Thought.md#border-generations",
         "Building": "Culture/Architecture.md#border-towns",
         "Place names": "Culture/Naming.md#border-names",
-        "Younger generations": "Places/Border-Towns.md#generational-change",
-        "Why it matters": "Places/Border-Towns.md#story-function"
+        "Mixing": "Places/Border-Towns.md#generational-change",
+        "Story use": "Places/Border-Towns.md#story-function",
+        "Aim": "Culture/Culture-and-Influence.md#cultural-blending"
       },
-      "see": [
-        "Culture/Culture-and-Influence.md#cultural-blending"
+      "see": [],
+      "skip_rows": [
+        "Mixes with",
+        "Border towns"
       ]
     },
     {
@@ -800,8 +927,10 @@
       "basis": "stated",
       "quote": "blended speech emphasizing both accountability and long-term process",
       "src": "Places/Border-Towns.md#stonefield-forge--ironcrest--greenvale",
-      "chip": "Speech blends",
-      "chipBack": "Blended in",
+      "chip": "Culture",
+      "chipBack": "Border towns",
+      "chipNote": "speech",
+      "chipNoteBack": "speech",
       "also": [
         {
           "quote": "people may habitually ask who is accountable",
@@ -818,8 +947,10 @@
       "basis": "stated",
       "quote": "blended speech emphasizing both accountability and long-term process",
       "src": "Places/Border-Towns.md#stonefield-forge--ironcrest--greenvale",
-      "chip": "Speech blends",
-      "chipBack": "Blended in",
+      "chip": "Culture",
+      "chipBack": "Border towns",
+      "chipNote": "speech",
+      "chipNoteBack": "speech",
       "also": [
         {
           "quote": "speakers may naturally discuss plans as processes with stages and shared obligations",
@@ -836,8 +967,10 @@
       "basis": "stated",
       "quote": "hybrid speech combining environmental categories with contractual precision",
       "src": "Places/Border-Towns.md#twilighthollow--deepwood--highridge",
-      "chip": "Speech blends",
-      "chipBack": "Blended in",
+      "chip": "Culture",
+      "chipBack": "Border towns",
+      "chipNote": "speech",
+      "chipNoteBack": "speech",
       "also": [
         {
           "quote": "Deepwood ecological agency + Highridge precision about obligations",
@@ -853,8 +986,10 @@
       "basis": "stated",
       "quote": "hybrid speech combining environmental categories with contractual precision",
       "src": "Places/Border-Towns.md#twilighthollow--deepwood--highridge",
-      "chip": "Speech blends",
-      "chipBack": "Blended in",
+      "chip": "Culture",
+      "chipBack": "Border towns",
+      "chipNote": "speech",
+      "chipNoteBack": "speech",
       "also": [
         {
           "quote": "Deepwood ecological agency + Highridge precision about obligations",
@@ -870,8 +1005,10 @@
       "basis": "inferred",
       "quote": "foods and festivals built around several harvest calendars",
       "src": "Places/Border-Towns.md#harveston-vale--greenvale--sunplains",
-      "chip": "Likely keeps festivals from",
-      "chipBack": "Likely festivals kept in"
+      "chip": "Culture",
+      "chipBack": "Border towns",
+      "chipNote": "festivals",
+      "chipNoteBack": "festivals"
     },
     {
       "from": "harveston",
@@ -881,8 +1018,10 @@
       "basis": "inferred",
       "quote": "foods and festivals built around several harvest calendars",
       "src": "Places/Border-Towns.md#harveston-vale--greenvale--sunplains",
-      "chip": "Likely keeps festivals from",
-      "chipBack": "Likely festivals kept in"
+      "chip": "Culture",
+      "chipBack": "Border towns",
+      "chipNote": "festivals",
+      "chipNoteBack": "festivals"
     },
     {
       "from": "icestep",
@@ -892,8 +1031,10 @@
       "basis": "inferred",
       "quote": "Northwind insulation + Highridge compact stone windbreaks",
       "src": "Culture/Architecture.md#border-towns",
-      "chip": "Likely builds and speaks like",
-      "chipBack": "Likely echoed in",
+      "chip": "Culture",
+      "chipBack": "Border towns",
+      "chipNote": "building, speech",
+      "chipNoteBack": "building, speech",
       "also": [
         {
           "quote": "Northwind evidentiality + Highridge contractual conditionals",
@@ -909,8 +1050,10 @@
       "basis": "inferred",
       "quote": "Northwind insulation + Highridge compact stone windbreaks",
       "src": "Culture/Architecture.md#border-towns",
-      "chip": "Likely builds and speaks like",
-      "chipBack": "Likely echoed in",
+      "chip": "Culture",
+      "chipBack": "Border towns",
+      "chipNote": "building, speech",
+      "chipNoteBack": "building, speech",
       "also": [
         {
           "quote": "Northwind evidentiality + Highridge contractual conditionals",
@@ -926,8 +1069,10 @@
       "basis": "inferred",
       "quote": "Ironcrest stone foundations + Greenvale flood/yard planning",
       "src": "Culture/Architecture.md#border-towns",
-      "chip": "Likely builds like",
-      "chipBack": "Likely building in"
+      "chip": "Culture",
+      "chipBack": "Border towns",
+      "chipNote": "building",
+      "chipNoteBack": "building"
     },
     {
       "from": "stonefield",
@@ -937,8 +1082,10 @@
       "basis": "inferred",
       "quote": "Ironcrest stone foundations + Greenvale flood/yard planning",
       "src": "Culture/Architecture.md#border-towns",
-      "chip": "Likely builds like",
-      "chipBack": "Likely building in"
+      "chip": "Culture",
+      "chipBack": "Border towns",
+      "chipNote": "building",
+      "chipNoteBack": "building"
     },
     {
       "from": "frostbay",
@@ -948,8 +1095,10 @@
       "basis": "stated",
       "quote": "Northwind seafaring",
       "src": "Places/Border-Towns.md#frostbay-way--northwind--port-influence-zone",
-      "chip": "Identity from",
-      "chipBack": "Shapes"
+      "chip": "Culture",
+      "chipBack": "Border towns",
+      "chipNote": "identity",
+      "chipNoteBack": "identity"
     },
     {
       "from": "frostbay",
@@ -959,8 +1108,10 @@
       "basis": "stated",
       "quote": "Port credit and trade law",
       "src": "Places/Border-Towns.md#frostbay-way--northwind--port-influence-zone",
-      "chip": "Identity from",
-      "chipBack": "Shapes"
+      "chip": "Culture",
+      "chipBack": "Border towns",
+      "chipNote": "identity",
+      "chipNoteBack": "identity"
     },
     {
       "from": "nomads",

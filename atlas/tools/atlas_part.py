@@ -93,6 +93,22 @@ def find_parts():
     return sorted(parts, key=lambda d: d["part"])
 
 
+def merge_schema(parts):
+    """Card layout per kind: which rows (connection labels) and facts every card of that kind shows, in order.
+    Later parts may add rows or facts to earlier kinds; they're appended in part order."""
+    schema = {}
+    for d in parts:
+        for kind, s in d.get("card_schema", {}).items():
+            k = schema.setdefault(kind, {"rows": [], "facts": []})
+            for r in s.get("rows", []):
+                if r["label"] not in [x["label"] for x in k["rows"]]:
+                    k["rows"].append(dict(r, part=d["short"]))
+            for f in s.get("facts", []):
+                if f["key"] not in [x["key"] for x in k["facts"]]:
+                    k["facts"].append(dict(f, part=d["short"]))
+    return schema
+
+
 def validate(parts):
     errs = []
     lanes = {}
@@ -103,6 +119,8 @@ def validate(parts):
     dup = [i for i, c in ids.items() if c > 1]
     if dup:
         errs.append(f"duplicate ids across parts: {dup}")
+    schema = merge_schema(parts)
+    kind_of = {n["id"]: n["kind"] for d in parts for n in d["nodes"]}
     for d in parts:
         tag = f"part {d['part']}"
         if not d.get("short"):
@@ -119,6 +137,17 @@ def validate(parts):
                 check_src(s, f"{w} see", errs)
             if n["kind"] not in d["kinds"]:
                 errs.append(f"{w}: unknown kind {n['kind']}")
+            sk = schema.get(n["kind"])
+            if sk is None:
+                errs.append(f"{w}: kind {n['kind']} has no card_schema")
+            else:
+                keys = [f["key"] for f in sk["facts"]]
+                for k in n.get("facts", {}):
+                    if k not in keys:
+                        errs.append(f"{w}: fact '{k}' isn't in the {n['kind']} card layout {keys}")
+                for r in n.get("skip_rows", []):
+                    if r not in [x["label"] for x in sk["rows"]]:
+                        errs.append(f"{w}: skip_rows names an unknown row '{r}'")
             if n.get("lane") not in lanes:
                 errs.append(f"{w}: lane {n.get('lane')!r} is not a known lane")
             if not n.get("section"):
@@ -138,6 +167,11 @@ def validate(parts):
                 errs.append(f"{w}: basis must be stated or inferred")
             if not e.get("quote"):
                 errs.append(f"{w}: no supporting quote")
+            for end, lab in (("from", e.get("chip") or e["type"]), ("to", e.get("chipBack") or e.get("chip") or e["type"])):
+                node = e[end]
+                if node in kind_of and node not in e.get("hideChipOn", []) and kind_of[node] in schema:
+                    if lab not in [x["label"] for x in schema[kind_of[node]]["rows"]]:
+                        errs.append(f"{w}: row '{lab}' isn't in the {kind_of[node]} card layout")
             check_src(e["src"], w, errs)
             if e["basis"] == "stated" and not quote_found(e["quote"], e["src"]):
                 errs.append(f"{w}: stated quote not found on {e['src']}: {e['quote'][:70]}")
@@ -185,7 +219,7 @@ def mermaid(d, names):
     return "\n".join(lines)
 
 
-def write_md(d, allnodes, kinds, lanes, board_live):
+def write_md(d, allnodes, kinds, lanes, board_live, schema):
     path = d["_path"]
     outdir = os.path.dirname(path)
     name = os.path.splitext(os.path.basename(path))[0]
@@ -237,12 +271,15 @@ def write_md(d, allnodes, kinds, lanes, board_live):
             out.append(f"| [{n['label']}]({rel_wiki(n['src'], outdir)}) | {kind} | {n['status']} | {n['text']} |")
         out.append("")
         for n in ns:
-            if not n.get("facts"):
+            layout = [f for f in schema[n["kind"]]["facts"] if f["key"] in n.get("facts", {}) or f["always"]]
+            if not layout:
                 continue
             out.append(f"**{n['label']}**\n")
-            for k, v in n["facts"].items():
+            for f in layout:
+                k = f["key"]
+                v = n.get("facts", {}).get(k)
                 src = n.get("fact_src", {}).get(k)
-                out.append(f"- *{k}:* {v}" + (f" ([source]({rel_wiki(src, outdir)}))" if src else ""))
+                out.append(f"- *{k}:* " + (v if v else "*Not in the wiki yet.*") + (f" ([source]({rel_wiki(src, outdir)}))" if src and v else ""))
             if n.get("see"):
                 out.append("- *Also on:* " + ", ".join(f"[{page_name(s)}]({rel_wiki(s, outdir)})" for s in n["see"]))
             out.append("")
@@ -263,7 +300,7 @@ def payload(parts, board):
         edges += [dict(e, part=d["short"]) for e in d["edges"]]
         gaps.append({"part": d["short"], "title": f"Part {d['part']}: {d['title']}", "items": d.get("gaps", [])})
         plist.append({"part": d["part"], "short": d["short"], "title": d["title"]})
-    return dict(board, lanes=lanes, kinds=kinds, layers=layers, nodes=nodes, edges=edges, gaps=gaps, parts=plist, repo=REPO)
+    return dict(board, lanes=lanes, kinds=kinds, layers=layers, nodes=nodes, edges=edges, gaps=gaps, parts=plist, schema=merge_schema(parts), repo=REPO)
 
 
 def write_html(data):
@@ -287,6 +324,13 @@ def write_board_md(data, parts):
     for d in parts:
         folder = os.path.basename(os.path.dirname(d["_path"]))
         out.append(f"| {d['part']}. {d['title']} | {d['short']} | {len(d['nodes'])} | {len(d['edges'])} | [{folder}](../{folder}/README.md) |")
+    out.append("\n## Card layouts\n")
+    out.append("Every card of a kind shows the same rows and facts in the same order, set by each part's `card_schema`. A row or fact marked *always* appears even when the wiki gives nothing for it (as \"none stated\" or \"Not in the wiki yet\"), so gaps show. The generator rejects any row or fact that isn't in its kind's layout.\n")
+    out.append("| Card kind | Rows on the card (connections) | Facts in the side panel |")
+    out.append("| --- | --- | --- |")
+    fmt = lambda xs, key: ", ".join(x[key] + ("" if x["always"] else " *(when present)*") for x in xs) or "—"
+    for kind, s in data["schema"].items():
+        out.append(f"| {data['kinds'][kind]} | {fmt(s['rows'], 'label')} | {fmt(s['facts'], 'key')} |")
     out.append("\n## Columns\n")
     out.append(", ".join(l["label"] for l in data["lanes"]) + ".\n")
     out.append("Columns are ordered so regions with a settled border sit side by side. The wiki says the map isn't locked, so position means nothing else.\n")
@@ -294,7 +338,7 @@ def write_board_md(data, parts):
 
 
 def shoot(html, shots):
-    """shots: list of (png path, part short name, or None for the whole board)."""
+    """shots: list of (png path, part short name or None for the whole board, expand cards?)."""
     try:
         from playwright.sync_api import sync_playwright
     except ImportError:
@@ -305,7 +349,7 @@ def shoot(html, shots):
     try:
         with sync_playwright() as p:
             b = p.chromium.launch()
-            for png, only in shots:
+            for png, only, expand in shots:
                 pg = b.new_page(viewport={"width": 1500, "height": 1000}, device_scale_factor=2, color_scheme="light")
                 pg.goto("file://" + tmp)
                 pg.wait_for_timeout(700)
@@ -313,6 +357,7 @@ def shoot(html, shots):
                                  ".board{max-height:none!important;overflow:visible!important}.wrap{max-width:none!important}")
                 if only:
                     pg.evaluate("(only) => window.atlasShowOnly(only)", only)
+                pg.evaluate("(x) => window.atlasExpandAll(x)", expand)
                 w = pg.evaluate("document.getElementById('lanes').scrollWidth")
                 pg.set_viewport_size({"width": max(1200, int(w) + 60), "height": 1000})
                 pg.wait_for_timeout(300)
@@ -331,11 +376,12 @@ def main():
     board = json.load(open(os.path.join(BOARD, "board.json"), encoding="utf-8"))
     data = payload(parts, board)
     for d in parts:
-        write_md(d, data["nodes"], data["kinds"], data["lanes"], board.get("live"))
+        write_md(d, data["nodes"], data["kinds"], data["lanes"], board.get("live"), data["schema"])
     html = write_html(data)
     write_board_md(data, parts)
-    shots = [(os.path.join(BOARD, "atlas-board.png"), None)]
-    shots += [(os.path.splitext(d["_path"])[0] + ".png", d["short"]) for d in parts]
+    # the whole board is an overview (cards collapsed); each part's image is its full record (cards open)
+    shots = [(os.path.join(BOARD, "atlas-board.png"), None, False)]
+    shots += [(os.path.splitext(d["_path"])[0] + ".png", d["short"], True) for d in parts]
     shoot(html, shots)
     for d in parts:
         s = collections.Counter(e["basis"] for e in d["edges"])

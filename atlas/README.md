@@ -39,5 +39,6 @@ New parts get their own folder beside `regions/`, with a data file that has a `p
 - **The wiki leads.** A thing goes on a map only after its wiki owner page has it. A connection is marked `canon` only if an owner page states it.
 - **Rerun after wiki changes** that touch a mapped page, and republish the interactive copy.
 - **Nothing here is evidence for canon.** Cite the wiki page, not the map.
+- **Same kind, same card.** Each part's data sets a `card_schema`: for every kind of thing, the rows (connections) and facts its cards show, in order. Rows and facts marked *always* appear even when the wiki gives nothing ("none stated", "Not in the wiki yet"), so gaps show. The generator rejects anything outside the layout. The current layouts are listed on the [board page](board/README.md#card-layouts).
 
 Related: [wiki Home](../wiki/Home.md) · [Sunday Morning Notes](../wiki/Sunday-Morning/Notes/README.md) · [AGENTS.md](../AGENTS.md)

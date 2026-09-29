@@ -16,6 +16,24 @@ The whole setting on one board: one column per region, with a heading for each p
 | 1. Regions and Geography | Geography | 25 | 47 | [regions](../regions/README.md) |
 | 2. Culture | Culture | 44 | 21 | [culture](../culture/README.md) |
 
+## Card layouts
+
+Every card of a kind shows the same rows and facts in the same order, set by each part's `card_schema`. A row or fact marked *always* appears even when the wiki gives nothing for it (as "none stated" or "Not in the wiki yet"), so gaps show. The generator rejects any row or fact that isn't in its kind's layout.
+
+| Card kind | Rows on the card (connections) | Facts in the side panel |
+| --- | --- | --- |
+| Continent | Regions on it | — |
+| Region | Continent, Borders, Border towns, Sea partner of, Spine & Underpass, Sends, Gets, Trades with, Likely sends *(when present)*, Likely gets *(when present)*, Nomad circuit *(when present)* | Terrain, Exports, Imports, Pressures, Seasons |
+| Neutral city | Sea partners, In its sphere, Nomad circuit *(when present)* | Position, Territory, Exports, Imports, Why it stays central |
+| Mountain system | Spine & Underpass, Regions | Touches, Seasons |
+| Underground network | Spine & Underpass, Regions | Functional adjacency, Claims, Named entrances |
+| Border town | Between, Culture | — |
+| Unplaced name | — | — |
+| Culture | Mixes with, Border towns | Aim, Values, Inspiration, Speech, Building, Place names, Mixing *(when present)*, Story use *(when present)* |
+| In-world saying | — | Employers' biased shortcut *(when present)* |
+| Festival | — | — |
+| Mobile people | Circuit may include | Why they move, Appalachian influence, Rights, What they carry, Who wants them, Don't |
+
 ## Columns
 
 Northwind, Highridge Plateau, Deepwood, Ironcrest, Greenvale, Sunplains, Port, Spine & Underpass, Border towns, World & unplaced.
