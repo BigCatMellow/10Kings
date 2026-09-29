@@ -2,7 +2,7 @@
 
 ## Status
 
-**Active plan, agreed in outline 2026-09-29; not started beyond the Domino Map.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
+**Active plan, agreed 2026-09-29 ("go", with the proposed decisions A1–A4). Part 1 built; waiting at its checkpoint.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
 
 ## What it is
 
@@ -31,7 +31,7 @@ Built in this order, each on the one before. Each part gets its own folder in `a
 
 The backbone everything hangs on. The six kingdoms, Port, the Spine, the Underpass and the border towns: who borders whom, trade routes, and who depends on whom for what.
 Sources: [World Overview](../wiki/World-Overview.md), [Geography and Connections](../wiki/Geography-and-Connections.md), [Regions](../wiki/Regions/), [Places](../wiki/Places/), [Trade and Dependencies](../wiki/Economy/Trade-and-Dependencies.md).
-**Checkpoint: stop and show James before Part 2.**
+**Built 2026-09-29: [Part 1](regions/README.md).** 25 things, 47 connections (36 stated, 11 inferred), 11 gaps listed. An independent check found four overclaims (two inferred trade links marked stated, and status labels the pages don't give), all fixed; the generator now rejects any stated quote not found on its page and any status label the page doesn't carry. **Checkpoint: stop and show James before Part 2.**
 
 ### Part 2: Culture
 
@@ -76,13 +76,13 @@ This answers "what's the full scope of the project so far".
 
 1. **Extract.** Read the part's source pages; list every named thing with its owner page and status label.
 2. **Connect.** List the connections, each marked stated or inferred, with the sentence that states it.
-3. **Check independently.** A fresh reviewer compares the data against the wiki pages: nothing invented, nothing dropped, statuses right.
+3. **Check independently.** The generator refuses data whose stated quotes aren't on their pages or whose status labels the pages don't carry. A fresh reviewer then compares the data against the wiki pages: nothing invented, nothing dropped, statuses right, inferences fair.
 4. **Build.** Generate the GitHub page, the downloadable image and the explorer view; look at them once.
 5. **Commit and record.** Push, add the part to the [Atlas index](README.md), and note any wiki gaps the part exposed (for James, not fixed silently).
 
 ## Decisions
 
-Proposed defaults. James confirms or changes these at the Part 1 checkpoint.
+James said "go" on 2026-09-29 with these defaults; he can change any of them at the Part 1 checkpoint.
 
 | # | Decision | Proposed |
 | --- | --- | --- |

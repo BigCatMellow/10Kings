@@ -13,7 +13,7 @@ The build plan, the parts and the open decisions are in [PLAN.md](PLAN.md).
 | Map | What it shows | Source data | Rebuild | Status |
 | --- | --- | --- | --- | --- |
 | [Domino Map](domino-map/Domino-Map.md) ([interactive](https://claude.ai/artifact/PAf2C4bDk7bfjVunex17Ps)) | The Villain's dominoes and the world's current events, what tips what, and which Sunday Morning stories and seeds sit on each; open dominoes marked | [`domino-map/domino-map.json`](domino-map/domino-map.json) | `python3 atlas/tools/domino_map.py` | built 2026-09-29 |
-| World Atlas, Part 1: Regions and geography | The backbone: kingdoms, Port, the Spine, the Underpass, border towns, borders, routes and dependencies | *planned* | *planned* | [next](PLAN.md#part-1-regions-and-geography) |
+| [Part 1: Regions and Geography](regions/README.md) ([interactive](https://claude.ai/artifact/XG2oKvVRes6f7su2dyMaWs), [image](regions/regions.png)) | The backbone: the six regions, Port, the Spine and the Underpass, the border towns, borders (with how certain each is), sea partners and trade, each backed by the wiki sentence that states it; plus the gaps the wiki leaves open | [`regions/regions.json`](regions/regions.json) | `python3 atlas/tools/atlas_part.py atlas/regions/regions.json` | built 2026-09-29; **waiting for James's checkpoint** |
 | Parts 2–7 and the project-health layer | Culture, food, power, history, people, story, and where the project stands | *planned* | *planned* | [plan](PLAN.md#the-parts) |
 
 ## Folder layout
@@ -23,6 +23,7 @@ atlas/
   README.md          this index
   PLAN.md            the build plan, parts, checkpoints and decisions
   domino-map/        the Domino Map: data (JSON), generated page (MD), interactive map (HTML)
+  regions/           Part 1: data (JSON), generated page (README.md), interactive view (HTML), image (PNG)
   tools/             the generators and their templates
 ```
 

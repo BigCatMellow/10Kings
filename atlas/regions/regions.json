@@ -1,0 +1,854 @@
+{
+  "part": 1,
+  "title": "Regions and Geography",
+  "live": "https://claude.ai/artifact/XG2oKvVRes6f7su2dyMaWs",
+  "subtitle": "The backbone of the Atlas: the six regions, Port, the Spine and the Underpass, the border towns between them, and who trades what with whom.",
+  "intro": "Big circles are the six regions, the square is Port, the triangle is the Spine, and diamonds are border towns. Thick lines are established borders; dashed and dotted lines are borders the wiki calls likely or possible. Curved arrows are trade. Click anything for the wiki text behind it.",
+  "schematic": "**Schematic, not a map.** The wiki says the exact map isn't locked ([Geography and Connections](../../wiki/Geography-and-Connections.md)). Positions only follow the few directions the wiki gives (Ironcrest west, Northwind north, Sunplains south and east); distances and shapes mean nothing.",
+  "about": "Atlas Part 1: the backbone. Regions, the Spine and Underpass, Port, border towns, borders, routes and trade dependencies. Source: the wiki only. Every thing carries its owner page and status; every connection carries its basis (stated or inferred), a certainty where the wiki gives one, and the sentence that supports it. Positions are schematic: the wiki says the exact map is not locked. Rebuild with: python3 atlas/tools/atlas_part.py atlas/regions/regions.json",
+  "layers": [
+    {
+      "id": "border",
+      "label": "Borders",
+      "default": true
+    },
+    {
+      "id": "town",
+      "label": "Border towns",
+      "default": true
+    },
+    {
+      "id": "sea",
+      "label": "Sea and Port",
+      "default": true
+    },
+    {
+      "id": "mountain",
+      "label": "Spine and Underpass",
+      "default": true
+    },
+    {
+      "id": "trade",
+      "label": "Trade (stated)",
+      "default": true
+    },
+    {
+      "id": "trade-inferred",
+      "label": "Trade (inferred)",
+      "default": false
+    },
+    {
+      "id": "landmass",
+      "label": "Continents",
+      "default": false
+    }
+  ],
+  "kinds": {
+    "landmass": "Continent",
+    "region": "Region",
+    "hub": "Neutral city",
+    "mountains": "Mountain system",
+    "underground": "Underground network",
+    "border-town": "Border town",
+    "name-bank": "Unplaced name"
+  },
+  "nodes": [
+    {
+      "id": "western",
+      "kind": "landmass",
+      "label": "Western Continent",
+      "status": "Working canon",
+      "x": 70,
+      "y": 250,
+      "text": "One of three broad landmasses. The wiki does not say which regions sit on it; Ironcrest is described as 'western upland country'.",
+      "src": "Geography-and-Connections.md#macro-geography"
+    },
+    {
+      "id": "northern",
+      "kind": "landmass",
+      "label": "Northern Continent",
+      "status": "Working canon",
+      "x": 300,
+      "y": 40,
+      "text": "One of three broad landmasses. Northwind 'occupies much of the Northern Continent and associated coasts and islands'.",
+      "src": "Geography-and-Connections.md#macro-geography"
+    },
+    {
+      "id": "eastern",
+      "kind": "landmass",
+      "label": "Eastern Continent",
+      "status": "Working canon",
+      "x": 930,
+      "y": 560,
+      "text": "One of three broad landmasses. The wiki does not say which regions sit on it; Sunplains is 'southern/eastern country'.",
+      "src": "Geography-and-Connections.md#macro-geography"
+    },
+    {
+      "id": "northwind",
+      "kind": "region",
+      "label": "Northwind",
+      "status": "Working canon",
+      "x": 500,
+      "y": 70,
+      "text": "Cold northern coasts, islands, sheltered inland valleys and old clan territories. Settlements cluster at harbors, bays, rivers, fisheries and routes south.",
+      "src": "Regions/Northwind.md",
+      "facts": {
+        "Terrain": "cold seas, seasonal storms, rocky coasts, sheltered coves, some partially freezing waters, inland routes toward Highridge",
+        "Exports": "fish, salt and preserved foods, furs and animal products, ships and maritime capacity",
+        "Imports": "grain, metal goods, medicines, warmer-climate produce",
+        "Pressures": "shifting fish stocks, rising piracy, convoy agreements with Port, accusations that clans cooperate with raiders",
+        "Seasons": "in winter, northern routes become unreliable (Trade and Dependencies)"
+      }
+    },
+    {
+      "id": "ironcrest",
+      "kind": "region",
+      "label": "Ironcrest",
+      "status": "Working canon",
+      "x": 170,
+      "y": 340,
+      "text": "Much of the western upland country: mineral-rich hills, stream valleys, wooded slopes, pasture and farmland around old mining and metalworking centers.",
+      "src": "Regions/Ironcrest.md",
+      "facts": {
+        "Terrain": "mineral hills, stream valleys, wooded slopes, pasture; eastern and southeastern edges grade into Greenvale, Highridge and parts of Deepwood",
+        "Exports": "ores, metalwork, tools, weapons, industrial craft capacity",
+        "Imports": "substantial food in industrial districts, timber and fuel, seasonal labor, some luxuries",
+        "Pressures": "labor unrest, covert metal shipments, pressure to expand Underpass access, fears of weapon stockpiling"
+      }
+    },
+    {
+      "id": "greenvale",
+      "kind": "region",
+      "label": "Greenvale",
+      "status": "Working canon",
+      "x": 380,
+      "y": 460,
+      "text": "The largest major agricultural heartland: broad temperate lowlands with comparatively reliable rainfall and productive soils, market towns, rivers, orchards, wetlands, mills and estates.",
+      "src": "Regions/Greenvale.md",
+      "facts": {
+        "Terrain": "temperate lowlands and rolling country; grades into Ironcrest foothills, Highridge routes, Deepwood margins and warmer Sunplains country",
+        "Exports": "grain, produce, livestock products, textiles and other agricultural goods",
+        "Imports": "metal tools, preservation salt, shipping and caravan access",
+        "Pressures": "an unusually abundant harvest or new high-yield seed strain, collapsing prices, land consolidation, co-ops against estates"
+      }
+    },
+    {
+      "id": "highridge",
+      "kind": "region",
+      "label": "Highridge Plateau",
+      "status": "Working canon",
+      "x": 520,
+      "y": 250,
+      "text": "A highland crossroads: routes that avoid or cross parts of the Spine converge here. Exposed uplands, sheltered valleys, steep passes and towns at water and route junctions.",
+      "src": "Regions/Highridge-Plateau.md",
+      "facts": {
+        "Terrain": "exposed uplands, sheltered valleys, steep passes, seasonal streams, grazing country, caravan corridors",
+        "Exports": "route access, caravan services, brokerage, arbitration, credit, records and specialist knowledge",
+        "Imports": "many lowland and coastal goods",
+        "Pressures": "caravan attacks, manipulated route closures, accusations of corrupt militia or toll officials, contested infrastructure"
+      }
+    },
+    {
+      "id": "deepwood",
+      "kind": "region",
+      "label": "Deepwood",
+      "status": "Working canon",
+      "x": 650,
+      "y": 410,
+      "text": "A major forest region: old-growth and managed woodland, river valleys, wetlands, clearings, forest-edge towns, timber districts and restricted areas.",
+      "src": "Regions/Deepwood.md",
+      "facts": {
+        "Terrain": "old-growth and managed forest, river valleys, wetlands, clearings; routes into foothills and possibly Underpass entrances",
+        "Exports": "timber, herbs and medicinals, dyes, forest products, specialist ecological knowledge",
+        "Imports": "selected metal tools, salt, grain and urban goods",
+        "Pressures": "logging beyond accepted limits, fungal disease, isolationists against reformers, hidden-route crime"
+      }
+    },
+    {
+      "id": "sunplains",
+      "kind": "region",
+      "label": "Sunplains",
+      "status": "Working canon",
+      "x": 650,
+      "y": 620,
+      "text": "Warmer, drier southern and eastern country of city-states, irrigated basins, orchard belts, grazing country and coast. Water law is politically important.",
+      "src": "Regions/Sunplains.md",
+      "facts": {
+        "Terrain": "dry plains, river valleys, irrigated basins, orchard belts, grazing country, coast, scrub, some fertile deltas",
+        "Exports": "orchard and irrigated crops, oils and wines where appropriate, craft and luxury goods, southern maritime access",
+        "Imports": "selected timber, metal, furs and northern goods",
+        "Pressures": "drought fears, private control of canals, city-state blocs forming and breaking"
+      }
+    },
+    {
+      "id": "port",
+      "kind": "hub",
+      "label": "Port",
+      "status": "Working canon",
+      "x": 910,
+      "y": 260,
+      "text": "The major neutral commercial city. It matters for its network position and institutions, not as the only harbor. Its exact site isn't fixed; it belongs to no kingdom.",
+      "src": "Places/Port.md",
+      "facts": {
+        "Exports": "shipping access, repair, warehousing, processing, finance, arbitration, information, neutral exchange",
+        "Imports": "significant food and raw-material inflows",
+        "Why it stays central": "network effects: agents, credit, warehouses, courts and translators are already there",
+        "Position": "not fixed; its site should give 'a position convenient to both northern and southern sea routes' and 'access to inland rivers or roads'",
+        "Territory": "unsettled: Frostbay Way is described 'if Port is territorially separate'"
+      }
+    },
+    {
+      "id": "spine",
+      "kind": "mountains",
+      "label": "The Spine",
+      "status": "Working canon",
+      "x": 330,
+      "y": 185,
+      "text": "The central mountain system the world's geography and transport are organized around. Passes, saddles, inhabited valleys, mining districts, old fortifications and hidden routes. Geologically active.",
+      "src": "Places/The-Spine.md",
+      "facts": {
+        "Seasons": "in spring, roads and passes reopen unevenly (Trade and Dependencies)",
+        "Touches": "Highridge is the only region the wiki ties to it by name"
+      }
+    },
+    {
+      "id": "underpass",
+      "kind": "underground",
+      "label": "The Underpass",
+      "status": "Working canon",
+      "x": 300,
+      "y": 270,
+      "text": "Caves, fault passages, tunnels, settlements and trade routes beneath parts of the Spine. Not one road, not wholly mapped; authority is fragmented.",
+      "src": "Places/The-Underpass.md",
+      "facts": {
+        "Functional adjacency": "two places not close on the surface may trade intensely because a reliable tunnel branch connects them",
+        "Claims": "surface kingdoms claim some entrances and sections but rarely control the entire network",
+        "Named entrances": "none yet"
+      }
+    },
+    {
+      "id": "stonefield",
+      "kind": "border-town",
+      "label": "Stonefield Forge",
+      "status": "Established working example",
+      "x": 260,
+      "y": 430,
+      "text": "Where mineral foothills grade into farmland: mixed farming and craft households, metal repair for farms, labor migration both ways, disputes over water, smoke, timber and land.",
+      "src": "Places/Border-Towns.md#stonefield-forge--ironcrest--greenvale"
+    },
+    {
+      "id": "harveston",
+      "kind": "border-town",
+      "label": "Harveston Vale",
+      "status": "Established working example",
+      "x": 500,
+      "y": 570,
+      "text": "Where mixed farmland meets orchard and irrigation country: grain plus fruit, mixed water law, festivals built around several harvest calendars.",
+      "src": "Places/Border-Towns.md#harveston-vale--greenvale--sunplains"
+    },
+    {
+      "id": "twilighthollow",
+      "kind": "border-town",
+      "label": "Twilighthollow",
+      "status": "Established working example",
+      "x": 610,
+      "y": 320,
+      "text": "Where forest uplands meet plateau routes: herbs meet caravan trade; rangers, traders, herders and guides; disputes over timber, roads and conservation.",
+      "src": "Places/Border-Towns.md#twilighthollow--deepwood--highridge"
+    },
+    {
+      "id": "icestep",
+      "kind": "border-town",
+      "label": "Icestep Summit",
+      "status": "Established working example",
+      "x": 520,
+      "y": 160,
+      "text": "A cold pass town where maritime supply routes meet plateau caravans.",
+      "src": "Places/Border-Towns.md#icestep-summit--northwind--highridge"
+    },
+    {
+      "id": "darkroot",
+      "kind": "border-town",
+      "label": "Darkroot Gulch",
+      "status": "Established working example",
+      "x": 410,
+      "y": 360,
+      "text": "A forested mineral frontier shaped by logging, charcoal, ore, repair and conflict over extraction.",
+      "src": "Places/Border-Towns.md#darkroot-gulch--deepwood--ironcrest"
+    },
+    {
+      "id": "frostbay",
+      "kind": "border-town",
+      "label": "Frostbay Way",
+      "status": "Established working example",
+      "x": 730,
+      "y": 130,
+      "text": "Best treated as a coastal corridor or secondary port in Port's sphere: Northwind seafaring, Port credit and trade law, ship repair, immigrant merchants, seasonal labor.",
+      "src": "Places/Border-Towns.md#frostbay-way--northwind--port-influence-zone"
+    },
+    {
+      "id": "nb-coalglen",
+      "kind": "name-bank",
+      "label": "Coalglen Meadows",
+      "status": "Provisional name",
+      "text": "A name from earlier brainstorming, kept in a name bank until the map and naming systems are finalized. Not placed.",
+      "src": "Places/Border-Towns.md#other-provisional-names"
+    },
+    {
+      "id": "nb-helios",
+      "kind": "name-bank",
+      "label": "Helios Orchard",
+      "status": "Provisional name",
+      "text": "Name bank; not placed.",
+      "src": "Places/Border-Towns.md#other-provisional-names"
+    },
+    {
+      "id": "nb-snowbreaker",
+      "kind": "name-bank",
+      "label": "Snowbreaker Quay",
+      "status": "Provisional name",
+      "text": "Name bank; not placed.",
+      "src": "Places/Border-Towns.md#other-provisional-names"
+    },
+    {
+      "id": "nb-mosspeak",
+      "kind": "name-bank",
+      "label": "Mosspeak Rise",
+      "status": "Provisional name",
+      "text": "Name bank; not placed.",
+      "src": "Places/Border-Towns.md#other-provisional-names"
+    },
+    {
+      "id": "nb-emberhaven",
+      "kind": "name-bank",
+      "label": "Emberhaven Cross",
+      "status": "Provisional name",
+      "text": "Name bank; not placed.",
+      "src": "Places/Border-Towns.md#other-provisional-names"
+    },
+    {
+      "id": "nb-goldendunes",
+      "kind": "name-bank",
+      "label": "Golden Dunes Shore",
+      "status": "Provisional name",
+      "text": "Name bank; not placed.",
+      "src": "Places/Border-Towns.md#other-provisional-names"
+    },
+    {
+      "id": "nb-reedveil",
+      "kind": "name-bank",
+      "label": "Reedveil Bend",
+      "status": "Provisional name",
+      "text": "Name bank; not placed.",
+      "src": "Places/Border-Towns.md#other-provisional-names"
+    }
+  ],
+  "edges": [
+    {
+      "from": "northwind",
+      "to": "northern",
+      "layer": "landmass",
+      "type": "lies on",
+      "basis": "stated",
+      "quote": "Northwind occupies much of the Northern Continent and associated coasts and islands.",
+      "src": "Regions/Northwind.md#geography"
+    },
+    {
+      "from": "ironcrest",
+      "to": "greenvale",
+      "layer": "border",
+      "type": "borders",
+      "certainty": "established",
+      "basis": "stated",
+      "quote": "Repeatedly used in border-town discussions. Upland/mineral country grades into productive foothill and lowland agriculture.",
+      "src": "Geography-and-Connections.md#ironcrest--greenvale"
+    },
+    {
+      "from": "greenvale",
+      "to": "sunplains",
+      "layer": "border",
+      "type": "borders",
+      "certainty": "established",
+      "basis": "stated",
+      "quote": "Repeatedly used. Temperate mixed farmland transitions toward warmer, drier agriculture with orchards, vineyards, irrigation systems, and southern trade.",
+      "src": "Geography-and-Connections.md#greenvale--sunplains"
+    },
+    {
+      "from": "deepwood",
+      "to": "highridge",
+      "layer": "border",
+      "type": "borders",
+      "certainty": "established",
+      "basis": "stated",
+      "quote": "Repeatedly used. Forested uplands thin toward exposed plateau routes.",
+      "src": "Geography-and-Connections.md#deepwood--highridge"
+    },
+    {
+      "from": "deepwood",
+      "to": "ironcrest",
+      "layer": "border",
+      "type": "borders (direct or near-direct)",
+      "certainty": "established",
+      "basis": "stated",
+      "quote": "This implies at least one direct or near-direct frontier, probably where Ironcrest's eastern or southeastern uplands meet a western arm of the forest.",
+      "src": "Geography-and-Connections.md#deepwood--ironcrest"
+    },
+    {
+      "from": "northwind",
+      "to": "highridge",
+      "layer": "border",
+      "type": "borders",
+      "certainty": "established",
+      "basis": "stated",
+      "quote": "The cold northern interior/coast transitions toward elevated routes leading into Highridge.",
+      "src": "Geography-and-Connections.md#northwind--highridge",
+      "also": [
+        {
+          "quote": "Used repeatedly through Icestep Summit and trade-pass discussions.",
+          "src": "Geography-and-Connections.md#northwind--highridge"
+        },
+        {
+          "quote": "inland routes toward Highridge.",
+          "src": "Regions/Northwind.md#geography"
+        }
+      ]
+    },
+    {
+      "from": "ironcrest",
+      "to": "highridge",
+      "layer": "border",
+      "type": "borders or corridor",
+      "certainty": "likely",
+      "basis": "stated",
+      "quote": "Likely a meaningful direct border or a very short mountain corridor.",
+      "src": "Geography-and-Connections.md#ironcrest--highridge",
+      "also": [
+        {
+          "quote": "The eastern and southeastern edges grade toward Greenvale, Highridge, and parts of Deepwood through foothills, old roads, and forest margins.",
+          "src": "Regions/Ironcrest.md#geography",
+          "note": "The Ironcrest page states this plainly; Geography and Connections calls it likely."
+        }
+      ]
+    },
+    {
+      "from": "greenvale",
+      "to": "deepwood",
+      "layer": "border",
+      "type": "borders",
+      "certainty": "working",
+      "basis": "stated",
+      "quote": "Strong ecological logic and repeatedly discussed as field-to-forest transition, including historical encroachment. Treat as a direct border unless the final map contradicts it.",
+      "src": "Geography-and-Connections.md#greenvale--deepwood",
+      "also": [
+        {
+          "quote": "Deepwood forest margins",
+          "src": "Regions/Greenvale.md#geography"
+        }
+      ]
+    },
+    {
+      "from": "deepwood",
+      "to": "sunplains",
+      "layer": "border",
+      "type": "borders",
+      "certainty": "likely",
+      "basis": "stated",
+      "quote": "Likely a southern forest transition into drier woodland and cultivated Sunplains.",
+      "src": "Geography-and-Connections.md#deepwood--sunplains"
+    },
+    {
+      "from": "greenvale",
+      "to": "highridge",
+      "layer": "border",
+      "type": "borders",
+      "certainty": "likely",
+      "basis": "stated",
+      "quote": "Likely. Highridge trade must reach the eastern agricultural interior somewhere. The exact length of border is not settled.",
+      "src": "Geography-and-Connections.md#greenvale--highridge",
+      "also": [
+        {
+          "quote": "Its boundaries grade into: Ironcrest foothills; Highridge routes; Deepwood forest margins; warmer Sunplains country.",
+          "src": "Regions/Greenvale.md#geography",
+          "note": "The Greenvale page states this plainly; Geography and Connections calls it only likely."
+        }
+      ]
+    },
+    {
+      "from": "highridge",
+      "to": "sunplains",
+      "layer": "border",
+      "type": "borders or corridor",
+      "certainty": "possible",
+      "basis": "stated",
+      "quote": "Possible through southern caravan routes. Could be a direct boundary, a narrow corridor, or mediated through Greenvale/Deepwood. Do not assume until the map is locked.",
+      "src": "Geography-and-Connections.md#highridge--sunplains"
+    },
+    {
+      "from": "stonefield",
+      "to": "ironcrest",
+      "layer": "town",
+      "type": "border town of",
+      "basis": "stated",
+      "quote": "Stonefield Forge — Ironcrest / Greenvale",
+      "src": "Places/Border-Towns.md#stonefield-forge--ironcrest--greenvale"
+    },
+    {
+      "from": "stonefield",
+      "to": "greenvale",
+      "layer": "town",
+      "type": "border town of",
+      "basis": "stated",
+      "quote": "Stonefield Forge — Ironcrest / Greenvale",
+      "src": "Places/Border-Towns.md#stonefield-forge--ironcrest--greenvale"
+    },
+    {
+      "from": "harveston",
+      "to": "greenvale",
+      "layer": "town",
+      "type": "border town of",
+      "basis": "stated",
+      "quote": "Harveston Vale — Greenvale / Sunplains",
+      "src": "Places/Border-Towns.md#harveston-vale--greenvale--sunplains"
+    },
+    {
+      "from": "harveston",
+      "to": "sunplains",
+      "layer": "town",
+      "type": "border town of",
+      "basis": "stated",
+      "quote": "Harveston Vale — Greenvale / Sunplains",
+      "src": "Places/Border-Towns.md#harveston-vale--greenvale--sunplains"
+    },
+    {
+      "from": "twilighthollow",
+      "to": "deepwood",
+      "layer": "town",
+      "type": "border town of",
+      "basis": "stated",
+      "quote": "Twilighthollow — Deepwood / Highridge",
+      "src": "Places/Border-Towns.md#twilighthollow--deepwood--highridge"
+    },
+    {
+      "from": "twilighthollow",
+      "to": "highridge",
+      "layer": "town",
+      "type": "border town of",
+      "basis": "stated",
+      "quote": "Twilighthollow — Deepwood / Highridge",
+      "src": "Places/Border-Towns.md#twilighthollow--deepwood--highridge"
+    },
+    {
+      "from": "icestep",
+      "to": "northwind",
+      "layer": "town",
+      "type": "border town of",
+      "basis": "stated",
+      "quote": "Icestep Summit — Northwind / Highridge",
+      "src": "Places/Border-Towns.md#icestep-summit--northwind--highridge"
+    },
+    {
+      "from": "icestep",
+      "to": "highridge",
+      "layer": "town",
+      "type": "border town of",
+      "basis": "stated",
+      "quote": "Icestep Summit — Northwind / Highridge",
+      "src": "Places/Border-Towns.md#icestep-summit--northwind--highridge"
+    },
+    {
+      "from": "darkroot",
+      "to": "deepwood",
+      "layer": "town",
+      "type": "border town of",
+      "basis": "stated",
+      "quote": "Darkroot Gulch — Deepwood / Ironcrest",
+      "src": "Places/Border-Towns.md#darkroot-gulch--deepwood--ironcrest"
+    },
+    {
+      "from": "darkroot",
+      "to": "ironcrest",
+      "layer": "town",
+      "type": "border town of",
+      "basis": "stated",
+      "quote": "Darkroot Gulch — Deepwood / Ironcrest",
+      "src": "Places/Border-Towns.md#darkroot-gulch--deepwood--ironcrest"
+    },
+    {
+      "from": "frostbay",
+      "to": "northwind",
+      "layer": "town",
+      "type": "corridor town of",
+      "basis": "stated",
+      "quote": "Best treated as a coastal corridor or secondary port rather than a literal kingdom border if Port is territorially separate.",
+      "src": "Places/Border-Towns.md#frostbay-way--northwind--port-influence-zone"
+    },
+    {
+      "from": "frostbay",
+      "to": "port",
+      "layer": "town",
+      "type": "in the influence zone of",
+      "basis": "stated",
+      "quote": "Frostbay Way — Northwind / Port influence zone",
+      "src": "Places/Border-Towns.md#frostbay-way--northwind--port-influence-zone"
+    },
+    {
+      "from": "northwind",
+      "to": "port",
+      "layer": "sea",
+      "type": "major maritime partner of",
+      "basis": "stated",
+      "quote": "Northwind and Sunplains are major maritime partners, but Port belongs to neither.",
+      "src": "Geography-and-Connections.md#port"
+    },
+    {
+      "from": "sunplains",
+      "to": "port",
+      "layer": "sea",
+      "type": "major maritime partner of",
+      "basis": "stated",
+      "quote": "Northwind and Sunplains are major maritime partners, but Port belongs to neither.",
+      "src": "Geography-and-Connections.md#port"
+    },
+    {
+      "from": "underpass",
+      "to": "spine",
+      "layer": "mountain",
+      "type": "runs beneath",
+      "basis": "stated",
+      "quote": "Beneath parts of The Spine runs The Underpass.",
+      "src": "World-Overview.md#the-world"
+    },
+    {
+      "from": "spine",
+      "to": "highridge",
+      "layer": "mountain",
+      "type": "funnels routes into",
+      "basis": "stated",
+      "quote": "Its importance comes from geography: routes that avoid or cross parts of The Spine naturally converge here.",
+      "src": "Regions/Highridge-Plateau.md"
+    },
+    {
+      "from": "ironcrest",
+      "to": "underpass",
+      "layer": "mountain",
+      "type": "presses for access to",
+      "basis": "stated",
+      "quote": "Current pressures: … pressure to expand access to Underpass routes.",
+      "src": "Regions/Ironcrest.md#current-pressures"
+    },
+    {
+      "from": "deepwood",
+      "to": "underpass",
+      "layer": "mountain",
+      "type": "may have entrances to",
+      "certainty": "possible",
+      "basis": "stated",
+      "quote": "routes into foothills and possibly Underpass entrances.",
+      "src": "Regions/Deepwood.md#geography"
+    },
+    {
+      "from": "greenvale",
+      "to": "ironcrest",
+      "layer": "trade",
+      "type": "supplies",
+      "goods": "food, timber, animals, labor",
+      "basis": "stated",
+      "quote": "Industrial settlements in Ironcrest buy food, timber, animals and labor.",
+      "src": "Economy/Trade-and-Dependencies.md#ironcrest--greenvale",
+      "also": [
+        {
+          "quote": "Their economic relationship is old: metal, tools, timber, food, animals, fuel, labor, and investment move both ways.",
+          "src": "Geography-and-Connections.md#ironcrest--greenvale"
+        }
+      ]
+    },
+    {
+      "from": "ironcrest",
+      "to": "greenvale",
+      "layer": "trade",
+      "type": "supplies",
+      "goods": "tools, hardware, metal goods",
+      "basis": "stated",
+      "quote": "Greenvale farms and workshops buy Ironcrest tools, hardware and metal goods.",
+      "src": "Economy/Trade-and-Dependencies.md#ironcrest--greenvale",
+      "also": [
+        {
+          "quote": "Their economic relationship is old: metal, tools, timber, food, animals, fuel, labor, and investment move both ways.",
+          "src": "Geography-and-Connections.md#ironcrest--greenvale"
+        }
+      ]
+    },
+    {
+      "from": "greenvale",
+      "to": "northwind",
+      "layer": "trade",
+      "type": "supplies",
+      "goods": "flour",
+      "basis": "stated",
+      "quote": "imported Greenvale flour and Sunplains oils or fruit in wealthier ports.",
+      "src": "Regions/Northwind.md#food"
+    },
+    {
+      "from": "sunplains",
+      "to": "northwind",
+      "layer": "trade",
+      "type": "supplies",
+      "goods": "oils, fruit",
+      "basis": "stated",
+      "quote": "imported Greenvale flour and Sunplains oils or fruit in wealthier ports.",
+      "src": "Regions/Northwind.md#food"
+    },
+    {
+      "from": "deepwood",
+      "to": "ironcrest",
+      "layer": "trade-inferred",
+      "type": "likely supplies",
+      "goods": "timber, fuel",
+      "basis": "inferred",
+      "quote": "Ironcrest imports 'timber/fuel'; logging and charcoal are discussed at the Deepwood–Ironcrest frontier. The wiki doesn't name the pair.",
+      "src": "Economy/Trade-and-Dependencies.md#core-model"
+    },
+    {
+      "from": "deepwood",
+      "to": "highridge",
+      "layer": "trade",
+      "type": "trades with",
+      "goods": "herbal and forest products meet caravan trade",
+      "basis": "stated",
+      "quote": "herbal/forest products meeting caravan trade",
+      "src": "Places/Border-Towns.md#twilighthollow--deepwood--highridge"
+    },
+    {
+      "from": "northwind",
+      "to": "highridge",
+      "layer": "trade",
+      "type": "trades with",
+      "goods": "maritime supply meets plateau caravans",
+      "basis": "stated",
+      "quote": "A cold pass town where maritime supply routes meet plateau caravans.",
+      "src": "Places/Border-Towns.md#icestep-summit--northwind--highridge"
+    },
+    {
+      "from": "northwind",
+      "to": "port",
+      "layer": "sea",
+      "type": "debates convoy agreements with",
+      "basis": "stated",
+      "quote": "debate over convoy agreements with Port.",
+      "src": "Regions/Northwind.md#current-pressures"
+    },
+    {
+      "from": "northwind",
+      "to": "greenvale",
+      "layer": "trade-inferred",
+      "type": "likely supplies",
+      "goods": "preservation salt",
+      "basis": "inferred",
+      "quote": "Northwind exports 'salt and preserved foods'; Greenvale imports 'preservation salt'. The wiki doesn't name the pair.",
+      "src": "Economy/Trade-and-Dependencies.md#core-model"
+    },
+    {
+      "from": "ironcrest",
+      "to": "northwind",
+      "layer": "trade-inferred",
+      "type": "likely supplies",
+      "goods": "metal goods",
+      "basis": "inferred",
+      "quote": "Ironcrest exports metalwork and tools; Northwind imports 'metal goods'. The wiki doesn't name the pair.",
+      "src": "Economy/Trade-and-Dependencies.md#core-model"
+    },
+    {
+      "from": "deepwood",
+      "to": "northwind",
+      "layer": "trade-inferred",
+      "type": "likely supplies",
+      "goods": "medicines",
+      "basis": "inferred",
+      "quote": "Deepwood exports 'herbs/medicinals'; Northwind imports 'medicines'. The wiki doesn't name the pair.",
+      "src": "Economy/Trade-and-Dependencies.md#core-model"
+    },
+    {
+      "from": "ironcrest",
+      "to": "deepwood",
+      "layer": "trade-inferred",
+      "type": "likely supplies",
+      "goods": "metal tools",
+      "basis": "inferred",
+      "quote": "Deepwood imports 'selected metal tools'; tools are discussed at the Deepwood–Ironcrest frontier.",
+      "src": "Economy/Trade-and-Dependencies.md#core-model"
+    },
+    {
+      "from": "greenvale",
+      "to": "deepwood",
+      "layer": "trade-inferred",
+      "type": "likely supplies",
+      "goods": "grain",
+      "basis": "inferred",
+      "quote": "Deepwood imports grain; Greenvale exports it. The wiki doesn't name the pair.",
+      "src": "Economy/Trade-and-Dependencies.md#core-model"
+    },
+    {
+      "from": "ironcrest",
+      "to": "sunplains",
+      "layer": "trade-inferred",
+      "type": "likely supplies",
+      "goods": "metal",
+      "basis": "inferred",
+      "quote": "Sunplains imports 'selected timber, metal, furs and northern goods'. The wiki doesn't name the suppliers.",
+      "src": "Economy/Trade-and-Dependencies.md#core-model"
+    },
+    {
+      "from": "northwind",
+      "to": "sunplains",
+      "layer": "trade-inferred",
+      "type": "likely supplies",
+      "goods": "furs, northern goods",
+      "basis": "inferred",
+      "quote": "Sunplains imports furs and 'northern goods'; Northwind exports furs. The wiki doesn't name the pair.",
+      "src": "Economy/Trade-and-Dependencies.md#core-model"
+    },
+    {
+      "from": "deepwood",
+      "to": "sunplains",
+      "layer": "trade-inferred",
+      "type": "likely supplies",
+      "goods": "timber",
+      "basis": "inferred",
+      "quote": "Sunplains imports 'selected timber'; Deepwood exports timber and borders it (likely).",
+      "src": "Economy/Trade-and-Dependencies.md#core-model"
+    },
+    {
+      "from": "northwind",
+      "to": "deepwood",
+      "layer": "trade-inferred",
+      "type": "likely supplies",
+      "goods": "salt",
+      "basis": "inferred",
+      "quote": "Deepwood imports salt; Northwind exports 'salt and preserved foods'. The wiki doesn't name the pair.",
+      "src": "Economy/Trade-and-Dependencies.md#core-model"
+    },
+    {
+      "from": "highridge",
+      "to": "greenvale",
+      "layer": "trade-inferred",
+      "type": "likely provides",
+      "goods": "caravan access",
+      "basis": "inferred",
+      "quote": "Greenvale imports 'shipping and caravan access'; 'Highridge trade must reach the eastern agricultural interior somewhere.'",
+      "src": "Geography-and-Connections.md#greenvale--highridge"
+    }
+  ],
+  "gaps": [
+    "No named cities inside any of the six regions. Port and the border towns are the only named settlements; every region page describes 'cities' only in general.",
+    "Only one region is placed on a continent (Northwind, Northern Continent). Which regions sit on the Western and Eastern Continents is not stated.",
+    "Port's site and territory are not fixed. The wiki lists conditions its site should meet (convenient to northern and southern sea routes, access to inland rivers or roads) and describes Frostbay Way 'if Port is territorially separate'.",
+    "Five region borders aren't established: Ironcrest–Highridge (likely), Greenvale–Highridge (likely), Deepwood–Sunplains (likely), Highridge–Sunplains (possible), and Greenvale–Deepwood (treated as a direct border unless the map contradicts it). Deepwood–Ironcrest is established as a relationship but only as a 'direct or near-direct' frontier.",
+    "The region pages and Geography and Connections disagree on certainty: the Greenvale and Ironcrest pages state their Highridge borders plainly, while Geography and Connections calls them likely.",
+    "Five region pairs have no border town: Ironcrest–Highridge, Greenvale–Deepwood, Deepwood–Sunplains, Greenvale–Highridge and Highridge–Sunplains.",
+    "The wiki doesn't say which regions the Spine touches (only Highridge is tied to it) or which kingdoms hold Underpass entrances.",
+    "No rivers, passes or Underpass entrances are named (history mentions provisional 'Ridge Pass Toll Wars'). Geography and Connections lists what the finished map should show: rivers, passes, Underpass entrances, caravan roads, seasonal closures, sea routes, old roads, pilgrimage paths, smuggling corridors.",
+    "Directions are thin: Ironcrest west, Northwind north, Sunplains south and east, and Greenvale as 'the eastern agricultural interior' (from Highridge's point of view).",
+    "Border Towns and World Overview carry no status label; the Border Towns page calls its six towns 'established working examples'.",
+    "Seven names sit in the border-town name bank, unplaced."
+  ]
+}
