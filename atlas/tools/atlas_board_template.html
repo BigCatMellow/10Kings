@@ -247,8 +247,11 @@ const DATA = /*ATLAS_DATA*/null;
           const items = DATA.nodes.filter((n) => n.kind === k && n.part === p.short).sort(byRegion);
           if (tiny.length > 1 && tiny.includes(k)) { small.push(...items); return; }
           const lane = makeLane(DATA.kinds[k], "var(--muted)", items.length);
-          if (items.length > 10) {
+          if (items.length > 10 && new Set(items.map((n) => n.lane)).size > 1) {
             DATA.lanes.forEach((l) => { const inL = items.filter((n) => n.lane === l.id); if (inL.length) lane.appendChild(makeSection(p.short, l.label, inL)); });
+          } else if (items.length > 10) {
+            // all in one column already (e.g. the Sunday Morning cast): keep that column's own headings
+            [...new Set(items.map((n) => n.section))].forEach((sec) => lane.appendChild(makeSection(p.short, sec, items.filter((n) => n.section === sec))));
           } else lane.appendChild(makeSection(p.short, "", items));
           lanesEl.appendChild(lane);
         });

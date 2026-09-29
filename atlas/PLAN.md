@@ -2,7 +2,7 @@
 
 ## Status
 
-**Active plan, agreed 2026-09-29 ("go", with the proposed decisions A1–A4). Part 1 approved ("looks better, go with part 2"); Part 2 approved ("part 2 is approved"); Part 3 approved ("go for part 4"); Part 4 approved ("go for it", after the board regrouping); Part 5 built.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
+**Active plan, agreed 2026-09-29 ("go", with the proposed decisions A1–A4). Part 1 approved ("looks better, go with part 2"); Part 2 approved ("part 2 is approved"); Part 3 approved ("go for part 4"); Part 4 approved ("go for it", after the board regrouping); Part 5 approved ("go for it"); Part 6 built.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
 
 ## What it is
 
@@ -63,6 +63,7 @@ Sources: [History](../wiki/History/).
 
 Wurdren, the Villain, the domino figures, the character roster and the Sunday Morning cast: who knows whom, who belongs to what, who appears where.
 Sources: [Story](../wiki/Story/) pages, [Character Roster](../wiki/Story/Character-Roster.md), the Sunday Morning [Registry](../wiki/Sunday-Morning/Notes/Registry.md).
+**Built 2026-09-29: [Part 6](people/README.md).** 60 people (Wurdren, the Villain and the Council families; six domino figures; three provisional Underpass figures; 48 Sunday Morning characters, every non-canon name in the Registry), 47 connections (38 stated, 9 inferred), 9 gaps. The Sunday Morning cast is marked "Writing reference (not setting canon)" from the Registry and grouped by story in its own column; which stories anyone appears in waits for Part 7. An independent check found stated ties that were missing (Maudie Vance's Infinite Compass shrine, Sessa and Ismet's romance, Garro cooking for Samir's caravan, Tamsin and Oswin with Wurdren, the permit clerk and Jory), two tags filed under the wrong heading, and a few firmer-than-wiki phrasings; all fixed. In Kind view, a long column whose cards all share one board column now keeps that column's own headings.
 
 ### Part 7: The story layer
 
