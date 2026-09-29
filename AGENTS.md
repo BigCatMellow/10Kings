@@ -17,6 +17,7 @@ Relevant MAPS_L methods:
    - **Working canon**
    - **Provisional**
 5. `wiki/Reference/` is non-canon unless a page explicitly says otherwise. It contains provenance and writing/design guidance.
+6. `atlas/` holds **derived views** generated from the wiki (maps and graphs). It is never a source of canon: if a map and a wiki page disagree, fix the map. Edit an atlas data file and rerun its generator; never hand-edit generated pages. See [atlas/README.md](atlas/README.md).
 
 ## Organization
 

@@ -1,21 +1,23 @@
 #!/usr/bin/env python3
 """Domino Map generator for the Sunday Morning stories.
 
-Reads   wiki/Sunday-Morning/Notes/domino-map.json   (the single source)
-Writes  wiki/Sunday-Morning/Notes/Domino-Map.md      (the GitHub page)
-        wiki/Sunday-Morning/Notes/domino-map.html    (the interactive map)
+Reads   atlas/domino-map/domino-map.json   (the single source)
+Writes  atlas/domino-map/Domino-Map.md      (the GitHub page)
+        atlas/domino-map/domino-map.html    (the interactive map)
 
-Run from the repository root:  python3 tools/domino_map.py
+Run from the repository root:  python3 atlas/tools/domino_map.py
 It validates the data first and exits non-zero on a broken reference.
 """
 import collections, json, os, sys
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-NOTES = os.path.join(ROOT, "wiki", "Sunday-Morning", "Notes")
-DATA = os.path.join(NOTES, "domino-map.json")
-MD = os.path.join(NOTES, "Domino-Map.md")
-HTML = os.path.join(NOTES, "domino-map.html")
-TEMPLATE = os.path.join(ROOT, "tools", "domino_map_template.html")
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+OUT = os.path.join(ROOT, "atlas", "domino-map")
+DATA = os.path.join(OUT, "domino-map.json")
+MD = os.path.join(OUT, "Domino-Map.md")
+HTML = os.path.join(OUT, "domino-map.html")
+W = os.path.relpath(os.path.join(ROOT, "wiki"), OUT)            # ../../wiki
+SMN = W + "/Sunday-Morning/Notes"
+TEMPLATE = os.path.join(ROOT, "atlas", "tools", "domino_map_template.html")
 REPO = "https://github.com/BigCatMellow/10Kings/blob/main/wiki/"
 LIVE = "https://claude.ai/artifact/PAf2C4bDk7bfjVunex17Ps"
 
@@ -60,7 +62,7 @@ def coverage(d):
 
 
 def md_link(label, path):
-    rel = os.path.relpath(os.path.join(ROOT, "wiki", path.split("#")[0]), NOTES)
+    rel = os.path.relpath(os.path.join(ROOT, "wiki", path.split("#")[0]), OUT)
     anchor = "#" + path.split("#", 1)[1] if "#" in path else ""
     return f"[{label}]({rel}{anchor})"
 
@@ -110,11 +112,11 @@ def write_md(d, cov):
     out.append("# Domino Map\n")
     out.append("## Status\n")
     out.append("**Writing reference, not setting canon.** This page owns the map of the Villain's dominoes and the world's current events, with every Sunday Morning story and seed placed on the domino it touches, so the gaps show. "
-               "It is **generated**: edit [`domino-map.json`](domino-map.json), then run `python3 tools/domino_map.py` from the repository root. That rewrites this page and the "
+               "It is **generated**: edit [`domino-map.json`](domino-map.json), then run `python3 atlas/tools/domino_map.py` from the repository root. That rewrites this page and the "
                "[interactive map](domino-map.html) together; the published copy is at " + LIVE + " (republish it after regenerating). Don't edit this page by hand.\n")
-    out.append("The dominoes come from their owner pages: [Villain's Dominoes](../../Story/Villains-Dominoes.md) and [Current Events](../../Story/Current-Events.md), including its example ripple chain. "
+    out.append("The dominoes come from their owner pages: [Villain's Dominoes](" + W + "/Story/Villains-Dominoes.md) and [Current Events](" + W + "/Story/Current-Events.md), including its example ripple chain. "
                "A **canon** arrow is stated on one of those pages. A **story design** arrow (dotted) was set by the collection and is provisional. How each story sits on its domino in detail is on "
-               "[Collection: the threads](Collection.md#the-threads); the rules for tying a story in are on [Rules](Rules.md#the-world-tie-rule-connected-not-driven).\n")
+               "[Collection: the threads](" + SMN + "/Collection.md#the-threads); the rules for tying a story in are on [Rules](" + SMN + "/Rules.md#the-world-tie-rule-connected-not-driven). It is part of the [Atlas](../README.md).\n")
     out.append("**Ground** dominoes are places a Sunday Morning story can live. **Saga** dominoes (the Council's moves, the Villain's amplification, the slide toward war) belong to the main saga; "
                "Sunday Morning stories only feel them from the ground, so a gap there is not a Sunday Morning gap.\n")
     out.append("## Coverage\n")
@@ -158,10 +160,10 @@ def write_md(d, cov):
     titles = {s["id"]: s["title"] for s in d["stories"]}
     for l in d.get("links", []):
         out.append(f"- **{l['id']}** {titles[l['a']]} → {titles[l['b']]}: {l['note']}")
-    out.append("\nThe full cross-story promise ledger is on [Collection](Collection.md#cross-story-promise-ledger).\n")
+    out.append("\nThe full cross-story promise ledger is on [Collection](" + SMN + "/Collection.md#cross-story-promise-ledger).\n")
     out.append("## Adding to the map\n")
     out.append("- **A new story or seed:** add it under `stories` in the JSON with the domino it sits `on` and any it `touches`, then run the script.")
-    out.append("- **A new domino:** add it under `nodes` only if its owner page ([Current Events](../../Story/Current-Events.md) or [Villain's Dominoes](../../Story/Villains-Dominoes.md)) has it first. The map follows the wiki; it never leads it.")
+    out.append("- **A new domino:** add it under `nodes` only if its owner page ([Current Events](" + W + "/Story/Current-Events.md) or [Villain's Dominoes](" + W + "/Story/Villains-Dominoes.md)) has it first. The map follows the wiki; it never leads it.")
     out.append("- **A new connection:** mark it `canon` only if an owner page states it; otherwise `story`.")
     open(MD, "w", encoding="utf-8").write("\n".join(out) + "\n")
 

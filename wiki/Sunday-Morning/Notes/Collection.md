@@ -65,7 +65,7 @@ C6 is the collection's only link to the hidden hand ([D3](Decisions.md)). No cha
 
 Each story lands on a different link of the ripple chain that [Current Events](../../Story/Current-Events.md#example-ripple-chain) already describes: piracy raises shipping risk, credit tightens, Greenvale grain stops selling, farms fail, tool orders fall, and so on outward.
 
-The whole web, with every story and seed placed on it and the open dominoes marked, is the [Domino Map](Domino-Map.md) ([interactive version](https://claude.ai/artifact/PAf2C4bDk7bfjVunex17Ps)).
+The whole web, with every story and seed placed on it and the open dominoes marked, is the [Domino Map](../../../atlas/domino-map/Domino-Map.md) ([interactive version](https://claude.ai/artifact/PAf2C4bDk7bfjVunex17Ps)).
 
 
 ### The threads

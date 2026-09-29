@@ -12,6 +12,7 @@ Start here:
 - [Current Events](wiki/Story/Current-Events.md)
 - [Story Core](wiki/Story/Main-Conflict.md)
 - [Legacy Notes](legacy-notes/README.md) — preserved source material and older versions
+- [Atlas](atlas/README.md) — maps of the whole project built from the wiki (derived views, not canon); so far the [Domino Map](atlas/domino-map/Domino-Map.md)
 
 ## Canon status
 
