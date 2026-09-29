@@ -6,7 +6,7 @@
 
 Who controls what: the Economic Council and its six seats, each region's government and the Council's pressure on it, the nine faiths, the guilds, crime, and arms and elite troops.
 
-The Economic Council, its seats, the faiths, the guilds and the page-level overviews sit in the World & unplaced column, because none of them belongs to one region. Each region column (plus Port and the Underpass) gets a government, crime and arms card. Lines show the Council's reach into each government, where faiths and guilds touch the Council, and one example criminal alliance. None of the Power pages carries a status label, so their cards say so; Port and the Underpass cards come from Working canon pages.
+The Economic Council and its seats, the faiths and the guilds get columns of their own, because none of them belongs to one region; the underworld and arms overviews sit in World & unplaced. Each region column (plus Port and the Underpass) gets a government, crime and arms card. Lines show the Council's reach into each government, where faiths and guilds touch the Council, and one example criminal alliance. None of the Power pages carries a status label, so their cards say so; Port and the Underpass cards come from Working canon pages.
 
 **Counts:** 1 council, 6 council seats, 5 overviews, 8 governments, 9 faiths, 8 guilds, 8 crimes, 8 arms and elite troopses; 50 connections (37 stated in the wiki, 13 inferred).
 
@@ -400,7 +400,7 @@ Grouped by board column.
 - *Elite direction:* Specialized troops using short spears, axes or picks, compact shields, crossbows, helmets, ropes and lamps.
 - *Why:* Long weapons are often impractical.
 
-### World & unplaced
+### Council & politics
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
@@ -412,26 +412,6 @@ Grouped by board column.
 | [Treasury / Commerce Seat](../../wiki/Politics/Economic-Council.md#5-finance-and-exchange) | Council seat | No status label | The Council's Finance and Exchange domain (working title: Treasury / Commerce Seat). This may be the Council's most quietly powerful seat, because every other domain sometimes needs capital. |
 | [Lore / Intelligence Seat](../../wiki/Politics/Economic-Council.md#6-knowledge-and-information) | Council seat | No status label | The Council's Knowledge and Information domain (working title: Lore / Intelligence Seat). It should not literally control all knowledge. Its strength is knowing who knows what, buying access, delaying information, and deciding which innovations receive funding or distribution. |
 | [How governments behave](../../wiki/Politics/Kingdoms-and-Politics.md#political-behavior) | Overview | No status label | No two regions need share a political system, and every government answers to the same pressures. That is how the Villain can push states toward war even when the Council wants peace. |
-| [The nine faiths](../../wiki/Politics/Religions.md#religions) | Overview | No status label | Nine major trans-regional traditions that don't map neatly onto kingdoms. Each should have local schools, reform movements, institutions, charities, political interests and internal disputes. |
-| [The Cyclic Order](../../wiki/Politics/Religions.md#1-the-cyclic-order) | Faith | No status label | Core: Existence moves through cycles of birth, death, renewal, time, balance and moral consequence. |
-| [Path of the Great Weaver](../../wiki/Politics/Religions.md#2-path-of-the-great-weaver) | Faith | No status label | Core: Beings, places, ancestors, animals and actions are threads in a living weave. |
-| [The Radiant Path](../../wiki/Politics/Religions.md#3-the-radiant-path) | Faith | No status label | Core: Moral life is struggle toward courage, justice, truth and wisdom against cruelty, lies and discord. |
-| [The Eternal Forge](../../wiki/Politics/Religions.md#4-the-eternal-forge) | Faith | No status label | Core: Creation and destruction are linked; character and society are shaped through disciplined transformation. |
-| [The Illuminated Circle](../../wiki/Politics/Religions.md#5-the-illuminated-circle) | Faith | No status label | Core: Knowledge, reason, inquiry and intellectual freedom are sacred values. |
-| [The Silent Whisper](../../wiki/Politics/Religions.md#6-the-silent-whisper) | Faith | No status label | Core: Silence, uncertainty, hidden truths, patience and introspection. |
-| [The Harmonious Path](../../wiki/Politics/Religions.md#7-the-harmonious-path) | Faith | No status label | Core: Social responsibility, service, restraint, conflict resolution and balance. |
-| [The Dual Flame](../../wiki/Politics/Religions.md#8-the-dual-flame) | Faith | No status label | Core: Moral integrity comes from understanding and balancing constructive and destructive impulses. |
-| [The Infinite Compass](../../wiki/Politics/Religions.md#9-the-infinite-compass) | Faith | No status label | Core: Life is journey, direction, exploration and self-discovery. |
-| [Guilds](../../wiki/Politics/Guilds.md#core-role) | Overview | No status label | Part economic institution, part professional community, part political lobby, part welfare system, and sometimes part coercive cartel. They matter because pre-modern governments can't directly administer every profession and service. |
-| [Metalworking guild factions](../../wiki/Politics/Guilds.md#metalworking-guild-factions) | Guild | No status label | Some want controlled production and traditional apprenticeship; others want broader output and new methods. Council-linked investors may fund one faction to restrain another. |
-| [Agricultural guilds and cooperatives](../../wiki/Politics/Guilds.md#agricultural-guildscooperatives) | Guild | No status label | Fighting over seed control, storage, land consolidation, pricing and new crop strains. |
-| [Navigator and shipping guilds](../../wiki/Politics/Guilds.md#navigator-and-shipping-guilds) | Guild | No status label | Debating convoy systems, piracy response, Port influence and route exclusivity. |
-| [Builders and infrastructure guilds](../../wiki/Politics/Guilds.md#builders-and-infrastructure-guilds) | Guild | No status label | Seeking long contracts and legal control over standards. Their delays can become political weapons even when caused by ordinary disputes. |
-| [Warrior's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) | Guild | No status label | Named in earlier notes as an armed or clandestine organization. |
-| [Assassin's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) | Guild | No status label | Named in earlier notes as an armed or clandestine organization. |
-| [Spy Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) | Guild | No status label | Named in earlier notes as an armed or clandestine organization. |
-| [The underworld](../../wiki/Politics/Crime-and-Underworld.md#principle) | Overview | No status label | Crime exists because law, markets, borders, poverty, opportunity, corruption and demand exist. Criminal groups give some members real benefits while imposing serious costs on victims and communities. |
-| [Weapons and elite troops](../../wiki/Culture/Weapons-and-Elite-Troops.md#principle) | Overview | No status label | Weapons should be reusable, maintainable, culturally plausible and suited to the environment. Elite troops stand out by training and discipline, not enormous weapons or supernatural competence. |
 
 **The Economic Council**
 
@@ -487,6 +467,21 @@ Grouped by board column.
 - *Council:* Rulers can't always follow Council preferences without appearing weak, corrupt or disloyal to their own populations. ([source](../../wiki/Politics/Kingdoms-and-Politics.md#political-behavior))
 - *Villain:* A plausible escalation chain: a real grievance; evidence that seems to confirm a rival caused it; local politics punishing passive leaders; mobilization as deterrence, read as preparation for attack; border forces acting without full central control; deaths creating demand for retaliation; Council de-escalation looking suspicious; leaders fearing lost legitimacy if they compromise; limited conflict becoming self-sustaining. The Villain's genius is making each step locally rational. ([source](../../wiki/Politics/Kingdoms-and-Politics.md#how-war-can-begin-against-council-wishes))
 - *Open questions:* Are all six named regions kingdoms in the same constitutional sense? How many independent Sunplains city-states remain? How centralized is Deepwood? What formal institutions govern Highridge? Does Port have citizenship independent of kingdom citizenship? ([source](../../wiki/Open-Questions.md#political-structure))
+
+### Faiths
+
+| Thing | Kind | Status | Summary |
+| --- | --- | --- | --- |
+| [The nine faiths](../../wiki/Politics/Religions.md#religions) | Overview | No status label | Nine major trans-regional traditions that don't map neatly onto kingdoms. Each should have local schools, reform movements, institutions, charities, political interests and internal disputes. |
+| [The Cyclic Order](../../wiki/Politics/Religions.md#1-the-cyclic-order) | Faith | No status label | Core: Existence moves through cycles of birth, death, renewal, time, balance and moral consequence. |
+| [Path of the Great Weaver](../../wiki/Politics/Religions.md#2-path-of-the-great-weaver) | Faith | No status label | Core: Beings, places, ancestors, animals and actions are threads in a living weave. |
+| [The Radiant Path](../../wiki/Politics/Religions.md#3-the-radiant-path) | Faith | No status label | Core: Moral life is struggle toward courage, justice, truth and wisdom against cruelty, lies and discord. |
+| [The Eternal Forge](../../wiki/Politics/Religions.md#4-the-eternal-forge) | Faith | No status label | Core: Creation and destruction are linked; character and society are shaped through disciplined transformation. |
+| [The Illuminated Circle](../../wiki/Politics/Religions.md#5-the-illuminated-circle) | Faith | No status label | Core: Knowledge, reason, inquiry and intellectual freedom are sacred values. |
+| [The Silent Whisper](../../wiki/Politics/Religions.md#6-the-silent-whisper) | Faith | No status label | Core: Silence, uncertainty, hidden truths, patience and introspection. |
+| [The Harmonious Path](../../wiki/Politics/Religions.md#7-the-harmonious-path) | Faith | No status label | Core: Social responsibility, service, restraint, conflict resolution and balance. |
+| [The Dual Flame](../../wiki/Politics/Religions.md#8-the-dual-flame) | Faith | No status label | Core: Moral integrity comes from understanding and balancing constructive and destructive impulses. |
+| [The Infinite Compass](../../wiki/Politics/Religions.md#9-the-infinite-compass) | Faith | No status label | Core: Life is journey, direction, exploration and self-discovery. |
 
 **The nine faiths**
 
@@ -548,6 +543,19 @@ Grouped by board column.
 - *Interests:* Pilgrimage; maps; hospitality; travelers; road shrines.
 - *Current scheme:* Its pilgrim networks move information across borders faster than many governments expect. The Council, the Villain, spies and criminals all have reasons to influence these networks.
 
+### Guilds
+
+| Thing | Kind | Status | Summary |
+| --- | --- | --- | --- |
+| [Guilds](../../wiki/Politics/Guilds.md#core-role) | Overview | No status label | Part economic institution, part professional community, part political lobby, part welfare system, and sometimes part coercive cartel. They matter because pre-modern governments can't directly administer every profession and service. |
+| [Metalworking guild factions](../../wiki/Politics/Guilds.md#metalworking-guild-factions) | Guild | No status label | Some want controlled production and traditional apprenticeship; others want broader output and new methods. Council-linked investors may fund one faction to restrain another. |
+| [Agricultural guilds and cooperatives](../../wiki/Politics/Guilds.md#agricultural-guildscooperatives) | Guild | No status label | Fighting over seed control, storage, land consolidation, pricing and new crop strains. |
+| [Navigator and shipping guilds](../../wiki/Politics/Guilds.md#navigator-and-shipping-guilds) | Guild | No status label | Debating convoy systems, piracy response, Port influence and route exclusivity. |
+| [Builders and infrastructure guilds](../../wiki/Politics/Guilds.md#builders-and-infrastructure-guilds) | Guild | No status label | Seeking long contracts and legal control over standards. Their delays can become political weapons even when caused by ordinary disputes. |
+| [Warrior's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) | Guild | No status label | Named in earlier notes as an armed or clandestine organization. |
+| [Assassin's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) | Guild | No status label | Named in earlier notes as an armed or clandestine organization. |
+| [Spy Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) | Guild | No status label | Named in earlier notes as an armed or clandestine organization. |
+
 **Guilds**
 
 - *Principle:* Guilds are part economic institution, part professional community, part political lobby, part welfare system, and sometimes part coercive cartel. They matter because pre-modern governments cannot directly administer every profession and service. ([source](../../wiki/Politics/Guilds.md#core-role))
@@ -594,6 +602,13 @@ Grouped by board column.
 - *Type:* Armed and clandestine organizations.
 - *At issue:* *Not in the wiki yet.*
 - *Note:* Earlier notes include it. These should be developed carefully so they function as plausible institutions rather than game classes.
+
+### World & unplaced
+
+| Thing | Kind | Status | Summary |
+| --- | --- | --- | --- |
+| [The underworld](../../wiki/Politics/Crime-and-Underworld.md#principle) | Overview | No status label | Crime exists because law, markets, borders, poverty, opportunity, corruption and demand exist. Criminal groups give some members real benefits while imposing serious costs on victims and communities. |
+| [Weapons and elite troops](../../wiki/Culture/Weapons-and-Elite-Troops.md#principle) | Overview | No status label | Weapons should be reusable, maintainable, culturally plausible and suited to the environment. Elite troops stand out by training and discipline, not enormous weapons or supernatural competence. |
 
 **The underworld**
 

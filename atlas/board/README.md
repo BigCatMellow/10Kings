@@ -4,7 +4,7 @@
 
 **Derived view, not canon. Generated; don't edit by hand.** Run `python3 atlas/tools/atlas_part.py` from the repository root to rebuild it from the part data files. Board settings (title, intro, published link) are in [`board.json`](board.json).
 
-The whole setting on one board: one column per region, with a heading for each part of the Atlas under every column. Switch parts on and off, search for anything, and click a card to see what it connects to and the wiki text behind it.
+The whole setting on one board. Group it by region or by kind, show one part or several, search for anything, and click a card to see what it connects to and the wiki text behind it.
 
 - **Interactive board:** [atlas-board.html](atlas-board.html) (published copy: https://claude.ai/artifact/XG2oKvVRes6f7su2dyMaWs)
 - **Image of the whole board:** [atlas-board.png](atlas-board.png)
@@ -49,7 +49,7 @@ Every card of a kind shows the same rows and facts in the same order, set by eac
 
 ## Columns
 
-Northwind, Highridge Plateau, Deepwood, Ironcrest, Greenvale, Sunplains, Port, Spine & Underpass, Border towns, World & unplaced.
+Northwind, Highridge Plateau, Deepwood, Ironcrest, Greenvale, Sunplains, Port, Spine & Underpass, Border towns, Council & politics, Faiths, Guilds, World & unplaced.
 
 Columns are ordered so regions with a settled border sit side by side. The wiki says the map isn't locked, so position means nothing else.
 

@@ -45,6 +45,16 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: 2.2rem; line
 .btn:hover { border-color: var(--focus); }
 .btn:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
 .parts { display: inline-flex; flex-wrap: wrap; gap: 4px 12px; align-items: center; }
+.partsw { display: inline-flex; align-items: center; gap: 2px; }
+.only { font: inherit; font-size: 11px; border: 0; background: none; color: var(--focus); cursor: pointer; text-decoration: underline; text-underline-offset: 2px; padding: 2px 3px; border-radius: 3px; }
+.only:focus-visible, .seg button:focus-visible { outline: 2px solid var(--focus); outline-offset: 1px; }
+.seg { display: inline-flex; align-items: center; gap: 6px; }
+.seg span.segs { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+.seg button { font: inherit; font-size: 13px; border: 0; background: var(--surface); color: var(--ink); padding: 4px 10px; cursor: pointer; }
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button[aria-pressed="true"] { background: var(--focus); color: var(--surface); }
+.lane > h3 .num { font-family: var(--font-body); font-weight: 400; letter-spacing: 0; font-size: 12px; color: var(--muted); margin-left: 4px; }
+.section.flat { margin-top: 4px; }
 .layout { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 16px; align-items: start; }
 @media (max-width: 980px) { .layout { grid-template-columns: minmax(0, 1fr); } }
 .board { position: relative; overflow: auto; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); max-height: 82vh; }
@@ -138,6 +148,7 @@ aside.panel { background: var(--surface); border: 1px solid var(--line); border-
   </header>
   <div class="controls" id="controls">
     <input type="search" id="q" placeholder="Find anything…" aria-label="Find anything">
+    <span class="seg" id="groupBy">Group by <span class="segs" role="group" aria-label="Group cards by"><button type="button" data-mode="region" aria-pressed="true">Region</button><button type="button" data-mode="kind" aria-pressed="false">Kind</button></span></span>
     <span class="parts" id="parts"></span>
     <label><input type="checkbox" id="optInferred"> Show inferred connections</label>
     <button type="button" class="btn" id="expandAll">Open all cards</button>
@@ -160,7 +171,7 @@ const DATA = /*ATLAS_DATA*/null;
   const gh = (p) => DATA.repo + p;
   const byId = Object.fromEntries(DATA.nodes.map((n) => [n.id, n]));
   const laneOf = Object.fromEntries(DATA.lanes.map((l) => [l.id, l]));
-  const colorVar = (laneId) => `var(--r-${laneId})`;
+  const colorVar = (laneId) => `var(--r-${laneId}, var(--r-across))`;
   const nodeColor = (n) => colorVar(n.lane);
   const SCHEMA = DATA.schema || {};
   const partOn = Object.fromEntries(DATA.parts.map((p) => [p.short, true]));
@@ -173,37 +184,85 @@ const DATA = /*ATLAS_DATA*/null;
   const stated = DATA.edges.filter((e) => e.basis === "stated").length;
   $("counts").innerHTML = DATA.parts.map((p) => `<span class="count"><b>${DATA.nodes.filter((n) => n.part === p.short).length}</b>${esc(p.short.toLowerCase())}</span>`).join("") +
     `<span class="count"><b>${DATA.edges.length}</b>connections (${stated} stated)</span>`;
-  $("parts").innerHTML = DATA.parts.length > 1 ? "Show: " + DATA.parts.map((p) => `<label title="Part ${p.part}: ${esc(p.title)}"><input type="checkbox" data-part="${esc(p.short)}" checked> ${esc(p.short)}</label>`).join("") : "";
+  $("parts").innerHTML = DATA.parts.length > 1 ? `Show: <button type="button" class="only" data-all>all</button> ` + DATA.parts.map((p) => `<span class="partsw"><label title="Part ${p.part}: ${esc(p.title)}"><input type="checkbox" data-part="${esc(p.short)}" checked> ${esc(p.short)}</label><button type="button" class="only" data-only="${esc(p.short)}" aria-label="Show only ${esc(p.short)}">only</button></span>`).join("") : "";
 
   // each end of a connection: which row it sits in, and a short note
   const end = (e, fromSide) => fromSide ? { row: e.chip || e.type, note: e.chipNote } : { row: e.chipBack || e.chip || e.type, note: e.chipNoteBack };
 
-  // columns → section headings (in part order) → cards
+  // Two layouts over the same cards. Region: a column per region (plus Port, the Spine, the border towns,
+  // cross-border columns later parts add, and the world as a whole), a heading per part and section.
+  // Kind: a column per kind of thing; long columns get a heading per region; a part's kinds with only one or two
+  // cards share a "<Part>: other" column so the board doesn't sprawl sideways.
   const lanesEl = $("lanes");
-  const cardEls = {}, laneEls = {};
-  DATA.lanes.forEach((l) => {
+  const cardEls = {};
+  let mode = "region";
+  const kindOrder = [];
+  DATA.nodes.forEach((n) => { if (!kindOrder.includes(n.kind)) kindOrder.push(n.kind); });
+  const laneRank = Object.fromEntries(DATA.lanes.map((l, i) => [l.id, i]));
+  function makeLane(label, color, count) {
     const lane = document.createElement("div");
-    lane.className = "lane"; lane.style.setProperty("--lc", colorVar(l.id));
-    lane.innerHTML = `<h3>${esc(l.label)}</h3>`;
-    const inLane = DATA.nodes.filter((n) => n.lane === l.id);
-    [...new Set(inLane.map((n) => n.part + "\u0000" + n.section))].forEach((key) => {
-      const [part, sec] = key.split("\u0000");
-      const items = inLane.filter((n) => n.part === part && n.section === sec);
-      const s = document.createElement("div");
-      s.className = "section"; s.dataset.part = part;
-      s.innerHTML = `<button type="button" class="sechead" aria-expanded="true"><span class="chev" aria-hidden="true">▸</span>${esc(sec)} <span class="num">${items.length}</span></button><div class="cards"></div>`;
-      const box = s.querySelector(".cards");
-      items.forEach((n) => box.appendChild(card(n)));
-      s.querySelector(".sechead").addEventListener("click", (ev) => {
-        const open = s.classList.toggle("shut") === false;
-        ev.currentTarget.setAttribute("aria-expanded", String(open));
-        if (current) drawLinks(current);
-      });
-      lane.appendChild(s);
+    lane.className = "lane"; lane.style.setProperty("--lc", color);
+    lane.innerHTML = `<h3>${esc(label)}${count != null ? `<span class="num">${count}</span>` : ""}</h3>`;
+    return lane;
+  }
+  function makeSection(part, title, items) {
+    const s = document.createElement("div");
+    s.className = "section" + (title ? "" : " flat"); s.dataset.part = part;
+    s.innerHTML = (title ? `<button type="button" class="sechead" aria-expanded="true"><span class="chev" aria-hidden="true">▸</span>${esc(title)} <span class="num">${items.length}</span></button>` : "") + `<div class="cards"></div>`;
+    const box = s.querySelector(".cards");
+    items.forEach((n) => box.appendChild(cardEls[n.id]));
+    if (title) s.querySelector(".sechead").addEventListener("click", (ev) => {
+      const open = s.classList.toggle("shut") === false;
+      ev.currentTarget.setAttribute("aria-expanded", String(open));
+      if (current) drawLinks(current);
     });
-    laneEls[l.id] = lane;
-    lanesEl.appendChild(lane);
-  });
+    return s;
+  }
+  function kindLine(n, withKind) {
+    const where = mode === "kind" ? (withKind ? `${DATA.kinds[n.kind]} · ${laneOf[n.lane].label}` : laneOf[n.lane].label) : DATA.kinds[n.kind];
+    return where + (n.when ? ` · ${n.when}` : "");
+  }
+  function layout(m) {
+    mode = m;
+    lanesEl.querySelectorAll(".lane").forEach((l) => l.remove());
+    const more = new Set();
+    if (m === "region") {
+      DATA.lanes.forEach((l) => {
+        const inLane = DATA.nodes.filter((n) => n.lane === l.id);
+        if (!inLane.length) return;
+        const lane = makeLane(l.label, colorVar(l.id));
+        [...new Set(inLane.map((n) => n.part + "\u0000" + n.section))].forEach((key) => {
+          const [part, sec] = key.split("\u0000");
+          lane.appendChild(makeSection(part, sec, inLane.filter((n) => n.part === part && n.section === sec)));
+        });
+        lanesEl.appendChild(lane);
+      });
+    } else {
+      const byRegion = (a, b) => laneRank[a.lane] - laneRank[b.lane];
+      DATA.parts.forEach((p) => {
+        const kinds = kindOrder.filter((k) => DATA.nodes.some((n) => n.kind === k && n.part === p.short));
+        const small = [];
+        const tiny = kinds.filter((k) => DATA.nodes.filter((n) => n.kind === k && n.part === p.short).length < 3);
+        kinds.forEach((k) => {
+          const items = DATA.nodes.filter((n) => n.kind === k && n.part === p.short).sort(byRegion);
+          if (tiny.length > 1 && tiny.includes(k)) { small.push(...items); return; }
+          const lane = makeLane(DATA.kinds[k], "var(--muted)", items.length);
+          if (items.length > 10) {
+            DATA.lanes.forEach((l) => { const inL = items.filter((n) => n.lane === l.id); if (inL.length) lane.appendChild(makeSection(p.short, l.label, inL)); });
+          } else lane.appendChild(makeSection(p.short, "", items));
+          lanesEl.appendChild(lane);
+        });
+        if (small.length) {
+          small.forEach((n) => more.add(n.id));
+          const lane = makeLane(`${p.short}: other`, "var(--muted)", small.length);
+          lane.appendChild(makeSection(p.short, "", small));
+          lanesEl.appendChild(lane);
+        }
+      });
+    }
+    Object.entries(cardEls).forEach(([id, c]) => { c.querySelector(".k").textContent = kindLine(byId[id], more.has(id)); });
+    document.querySelectorAll("#groupBy [data-mode]").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.mode === m)));
+  }
 
   function chipsFor(n) {
     const layout = (SCHEMA[n.kind] || { rows: [] }).rows;
@@ -242,6 +301,7 @@ const DATA = /*ATLAS_DATA*/null;
     cardEls[n.id] = c;
     return c;
   }
+  DATA.nodes.forEach((n) => card(n));
   function setOpen(c, open) {
     const body = c.querySelector(".body"), tog = c.querySelector(".tog");
     if (!body) return;
@@ -277,11 +337,12 @@ const DATA = /*ATLAS_DATA*/null;
       const none = r.querySelector(".none");
       if (none && hasChips) none.hidden = anyShown;
     });
-    Object.values(laneEls).forEach((l) => { l.hidden = !l.querySelector(".section:not([hidden])"); });
+    lanesEl.querySelectorAll(".lane").forEach((l) => { l.hidden = !l.querySelector(".section:not([hidden])"); });
+    writeHash();
     document.querySelectorAll("#gaps [data-part]").forEach((g) => { g.hidden = !partOn[g.dataset.part]; });
     if (current && !partOn[byId[current].part]) select(null); else if (current) select(current);
   }
-  window.atlasShowOnly = (short) => { Object.keys(partOn).forEach((k) => { partOn[k] = k === short; }); document.querySelectorAll("input[data-part]").forEach((c) => { c.checked = partOn[c.dataset.part]; }); refresh(); };
+  window.atlasShowOnly = (short) => showOnly([short]);
 
   // lines for the selected card only
   const board = $("board"), svg = $("links");
@@ -362,6 +423,42 @@ const DATA = /*ATLAS_DATA*/null;
   }
   board.addEventListener("click", (ev) => { if (!ev.target.closest(".card") && !ev.target.closest(".sechead")) select(null); });
 
+  // Shareable state: #part=Food (one or more parts, comma-separated) and #group=kind. The grouping is also
+  // remembered per viewer; the link wins when it says something.
+  function writeHash() {
+    try {
+      const on = DATA.parts.filter((p) => partOn[p.short]).map((p) => p.short);
+      const q = [];
+      if (on.length && on.length < DATA.parts.length) q.push("part=" + on.map(encodeURIComponent).join(","));
+      if (mode === "kind") q.push("group=kind");
+      history.replaceState(null, "", location.pathname + location.search + (q.length ? "#" + q.join("&") : ""));
+    } catch (e) { /* some hosts don't allow it; the board still works */ }
+  }
+  function readHash() {
+    const out = {};
+    try {
+      location.hash.slice(1).split("&").forEach((kv) => { const [k, v] = kv.split("="); if (k && v) out[k] = decodeURIComponent(v); });
+    } catch (e) { /* ignore */ }
+    return out;
+  }
+  function setGroup(m) {
+    const keep = current;
+    layout(m);
+    try { localStorage.setItem("atlas-group", m); } catch (e) { /* per-viewer nicety only */ }
+    refresh();
+    if (allOpen) expandAll(true);
+    if (keep && byId[keep] && partOn[byId[keep].part]) { select(keep); scrollToCard(keep); }
+  }
+  function showOnly(shorts) {
+    Object.keys(partOn).forEach((k) => { partOn[k] = shorts.includes(k); });
+    document.querySelectorAll("input[data-part]").forEach((c) => { c.checked = partOn[c.dataset.part]; });
+    refresh();
+  }
+  document.querySelectorAll("#groupBy [data-mode]").forEach((b) => b.addEventListener("click", () => setGroup(b.dataset.mode)));
+  document.querySelectorAll("[data-only]").forEach((b) => b.addEventListener("click", () => showOnly([b.dataset.only])));
+  document.querySelectorAll("[data-all]").forEach((b) => b.addEventListener("click", () => showOnly(Object.keys(partOn))));
+  window.atlasGroupBy = (m) => { layout(m); refresh(); };
+
   $("q").addEventListener("input", refresh);
   $("optInferred").addEventListener("change", refresh);
   document.querySelectorAll("input[data-part]").forEach((c) => c.addEventListener("change", () => { partOn[c.dataset.part] = c.checked; refresh(); }));
@@ -369,6 +466,16 @@ const DATA = /*ATLAS_DATA*/null;
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { if (current) drawLinks(current); });
 
   $("gaps").innerHTML = DATA.gaps.filter((g) => g.items.length).map((g) => `<div data-part="${esc(g.part)}"><h3>${esc(g.title)}</h3><ul>${g.items.map((x) => `<li>${esc(x)}</li>`).join("")}</ul></div>`).join("");
+  const start = readHash();
+  let group = start.group === "kind" || start.group === "region" ? start.group : null;
+  if (!group) { try { group = localStorage.getItem("atlas-group"); } catch (e) { group = null; } }
+  layout(group === "kind" ? "kind" : "region");
+  if (start.part) {
+    const want = start.part.split(",").map((x) => x.trim().toLowerCase());
+    const hit = Object.keys(partOn).filter((k) => want.includes(k.toLowerCase()));
+    if (hit.length) Object.keys(partOn).forEach((k) => { partOn[k] = hit.includes(k); });
+    document.querySelectorAll("input[data-part]").forEach((c) => { c.checked = partOn[c.dataset.part]; });
+  }
   select(null);
   refresh();
 })();

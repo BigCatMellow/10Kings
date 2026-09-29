@@ -306,6 +306,8 @@ def payload(parts, board):
         edges += [dict(e, part=d["short"]) for e in d["edges"]]
         gaps.append({"part": d["short"], "title": f"Part {d['part']}: {d['title']}", "items": d.get("gaps", [])})
         plist.append({"part": d["part"], "short": d["short"], "title": d["title"]})
+    # "World & unplaced" stays the last column, after any columns later parts add
+    lanes = [l for l in lanes if l["id"] != "across"] + [l for l in lanes if l["id"] == "across"]
     return dict(board, lanes=lanes, kinds=kinds, layers=layers, nodes=nodes, edges=edges, gaps=gaps, parts=plist, schema=merge_schema(parts), repo=REPO)
 
 
