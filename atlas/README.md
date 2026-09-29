@@ -18,6 +18,8 @@ The board is one self-contained HTML page, [`board/atlas-board.html`](board/atla
 
 Links like `#part=Food&group=kind` open straight to one part or grouping in any of these.
 
+The **Domino Map** has its own standalone page too: [`Domino-Map.html`](Domino-Map.html) (online at https://bigcatmellow.github.io/10Kings/atlas/Domino-Map.html once Pages is on).
+
 ## The maps
 
 | Map | What it shows | Source data | Rebuild | Status |
