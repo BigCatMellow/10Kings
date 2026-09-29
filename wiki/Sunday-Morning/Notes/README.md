@@ -26,7 +26,7 @@ When two notes pull in different directions, each decides its own ground, in thi
 | [Framework](Sources/Framework.md) | the Sunday Morning framework, verbatim | authority (imported source) | active, never edited | shaping a premise; the checklist (§20) |
 | [Voice Guide](Sources/Voice-Guide.md) | James's analysis of his own style, verbatim | authority (imported source) | active, never edited | drafting or revising prose |
 | [Rules](Rules.md) | tone guardrails, the world-tie rule, canon discipline and promotion, Wurdren, the Two Sons checklist addendum; the setting palette | authority / invariant | active | planning a story; checking any pass |
-| [Craft](Craft.md) | the 17 storytelling principles, how to use the voice guide, who writes what (AI or James), James's watch-list, the scene diagnostic | skill | active | drafting; reviewing scenes |
+| [Craft](Craft.md) | the 17 storytelling principles, how to use the voice guide, writing how people talk, who writes what (AI or James), James's watch-list, the scene diagnostic | skill | active | drafting; reviewing scenes |
 | [Pipeline](Pipeline.md) | levels L0–L4, Stage 0 to RECONCILE, routing, the after-every-pass routine | procedure | active | starting, advancing or reviewing any story |
 | [Collection](Collection.md) | reading order and calendar, expected reader state, cross-story ledger C1–C6, the domino web | fact (provisional) | active | touching anything another story depends on |
 | [Registry](Registry.md) | names, story shapes, devices, stock phrases, checker exceptions | fact, read by the checker tool | active: update on every new name or shape change | inventing a name; choosing an opening, device or ending |
@@ -50,6 +50,8 @@ The checker is `tools/sunday_morning_check.py`, run from the repository root. Pr
 | Something broke while drafting. Where does it go? | [Pipeline: routing table](Pipeline.md#stage-3--do-draft) |
 | What does L4 need? | [Pipeline: Stage 4](Pipeline.md#stage-4--judge-review-independently) |
 | How should the prose sound? | [Craft: voice](Craft.md#voice), then the [Voice Guide](Sources/Voice-Guide.md) |
+| Does this sound like a person talking, in narration too? | [Craft: write how people talk](Craft.md#write-how-people-talk) |
+| How is an L4 review run? | [Pipeline: Stage 4](Pipeline.md#stage-4--judge-review-independently) |
 | How do I check a scene? | [Craft: scene diagnostic](Craft.md#sunday-morning-scene-diagnostic) |
 | Which of James's habits should I watch for? | [Craft: watch-list](Craft.md#jamess-watch-list) |
 | What should AI write, and what is James's? | [Craft: who writes what](Craft.md#ai-and-james-who-writes-what) |

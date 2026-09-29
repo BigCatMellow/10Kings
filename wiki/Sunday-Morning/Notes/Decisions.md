@@ -41,6 +41,7 @@ These were decided while drafting or reorganizing. Each is reversible from the r
 
 ## Open for James
 
+- **Verdict on the spoken-register test** ([D14](#jamess-decisions)): does [One Square](../Drafts/One-Square-Two-Harvests.md) now sound like him? If yes, the other six get the same pass ([Craft: write how people talk](Craft.md#write-how-people-talk)).
 - **The two plot changes** W4 and W5.
 - **Lines in the cautious categories** ([who writes what](Craft.md#ai-and-james-who-writes-what)) he wants to rewrite himself.
 - **L4 reading** of all seven drafts. The independent JUDGE pass is done (2026-09-28): every story passed, and each story page's Stage 4 records what it found. The reviewers' questions for James were settled under D13 and W9.

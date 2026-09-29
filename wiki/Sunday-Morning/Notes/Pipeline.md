@@ -198,7 +198,11 @@ Every drafting or revision pass ends with this routine, not only at L4. Prioriti
 
 ## Stage 4 — JUDGE: review independently
 
-MAPS_L: **no owner approves their own substantive work.** An L4 review is a fresh pass that did not write the draft, working only from the story page, the draft and these notes. It checks:
+MAPS_L: **no owner approves their own substantive work.** An L4 review is a fresh pass that did not write the draft, working only from the story page, the draft and these notes.
+
+**Cold read first.** The reviewer reads the draft as a reader would, skipping the editors' status header, before opening anything else, and writes down where they were confused, where attention sagged, what they predicted, where they braced, and how the ending landed. Only then do they open the record. The cold read is the strongest evidence a review produces; in the first collection it found what every checklist pass had missed (a character read as dead who was alive, a story that ended twice). **For a collection, add one reader who reads every story in order, cold,** and says after each what they now believe about the wider world. That tests the reading order's expected reader state directly. **After fixing, run a fresh check of the fixes:** in the first collection it caught slips the fixes themselves made (a horse cut in one scene still ridden in another).
+
+It checks:
 
 - the [scene diagnostic](Craft.md#sunday-morning-scene-diagnostic) and [James's watch-list](Craft.md#jamess-watch-list);
 - every "must establish" item and every ledger promise: paid off, transformed, or deliberately left open;
