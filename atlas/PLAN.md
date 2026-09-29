@@ -2,7 +2,7 @@
 
 ## Status
 
-**Active plan, agreed 2026-09-29 ("go", with the proposed decisions A1–A4). Part 1 approved ("looks better, go with part 2"); Part 2 approved ("part 2 is approved"); Part 3 approved ("go for part 4"); Part 4 approved ("go for it", after the board regrouping); Part 5 approved ("go for it"); Part 6 built.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
+**Active plan, agreed 2026-09-29 ("go", with the proposed decisions A1–A4). Part 1 approved ("looks better, go with part 2"); Part 2 approved ("part 2 is approved"); Part 3 approved ("go for part 4"); Part 4 approved ("go for it", after the board regrouping); Part 5 approved ("go for it"); Part 6 approved ("go for it"); Part 7 built, so all seven parts are on the board; the project-health layer is next.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
 
 ## What it is
 
@@ -69,6 +69,7 @@ Sources: [Story](../wiki/Story/) pages, [Character Roster](../wiki/Story/Charact
 
 The main conflict, current events and the dominoes, with the Sunday Morning stories on top. The existing [Domino Map](domino-map/Domino-Map.md) becomes this part's core view.
 Sources: [Main Conflict](../wiki/Story/Main-Conflict.md), [Current Events](../wiki/Story/Current-Events.md), [Villain's Dominoes](../wiki/Story/Villains-Dominoes.md), the Sunday Morning stories.
+**Built 2026-09-29: [Part 7](story/README.md).** 47 things (two overview cards, 19 current events, 13 ripple-chain steps, 7 stories, 4 seeds, and Naruin's leak), 172 connections (162 stated, 10 inferred), 8 gaps. The Domino Map's content is carried into the board, with every link now backed by a quoted sentence; the Domino Map page itself is left as it was. An independent check found that merging event cards with chain steps had given events causes the wiki doesn't (the chain steps are now their own cards), two provisional "Behind it" attributions shown as firm links (now a separate provisional layer, for every story that has one), links joining separate wiki entries marked stated (now inferred, including one the Domino Map had called canon), Orin tipping an event he has no stated domino for (inferred), and two Domino Map links that had been dropped; all fixed.
 
 ### Tying it together: the project-health layer
 

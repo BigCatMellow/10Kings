@@ -1,0 +1,3371 @@
+{
+  "part": 7,
+  "short": "Story",
+  "title": "The story layer",
+  "lanes": [
+    {
+      "id": "conflict",
+      "label": "Main conflict"
+    }
+  ],
+  "subtitle": "The main conflict, the current events and how they can ripple into each other, the dominoes, and the Sunday Morning stories on top: what each story sits on, where and when it happens, who is in it, and which stories share a thread.",
+  "schematic": "Current events sit in their region's column (the cross-region ripple steps, the faiths' reading of the crises and the main-conflict cards in a Main conflict column). Each Sunday Morning story and seed sits in the column of its setting, with lines to its town or region, its festival, the events it sits on, its domino figure, its cast from Part 6, and the stories it shares a thread with. The ripple chain from Current Events is drawn step by step and marked possible.",
+  "about": "Atlas Part 7. Sources: Main Conflict, Current Events, Villain's Dominoes, the Sunday Morning Collection, Registry, story pages and Story Seeds. The Domino Map's data is carried into this part.",
+  "kinds": {
+    "overview": "Overview",
+    "current": "Current event",
+    "chainstep": "Ripple-chain step",
+    "story": "Sunday Morning story",
+    "seed": "Story seed"
+  },
+  "layers": [
+    {
+      "id": "st-conflict",
+      "label": "Main conflict",
+      "default": true
+    },
+    {
+      "id": "st-chain",
+      "label": "Events and the ripple chain",
+      "default": true
+    },
+    {
+      "id": "st-domino",
+      "label": "Dominoes tipping events",
+      "default": true
+    },
+    {
+      "id": "st-story",
+      "label": "Stories on the web",
+      "default": true
+    },
+    {
+      "id": "st-cast",
+      "label": "Who appears where",
+      "default": true
+    },
+    {
+      "id": "st-behind",
+      "label": "Who's behind each nail (provisional)",
+      "default": true
+    },
+    {
+      "id": "st-sm",
+      "label": "Sunday Morning shortcuts (not canon)",
+      "default": true
+    },
+    {
+      "id": "st-inferred",
+      "label": "Story links (inferred)",
+      "default": false
+    }
+  ],
+  "card_schema": {
+    "overview": {
+      "rows": [
+        {
+          "label": "Forces",
+          "always": false
+        }
+      ],
+      "facts": [
+        {
+          "key": "Escalation",
+          "always": false
+        },
+        {
+          "key": "Ending",
+          "always": false
+        },
+        {
+          "key": "Question",
+          "always": false
+        }
+      ]
+    },
+    "current": {
+      "rows": [
+        {
+          "label": "Follows from",
+          "always": true
+        },
+        {
+          "label": "Leads to",
+          "always": true
+        },
+        {
+          "label": "Ripple chain",
+          "always": false
+        },
+        {
+          "label": "Domino figure",
+          "always": false
+        },
+        {
+          "label": "Stories",
+          "always": true
+        },
+        {
+          "label": "Council",
+          "always": false
+        },
+        {
+          "label": "Villain",
+          "always": false
+        },
+        {
+          "label": "Faiths",
+          "always": false
+        }
+      ],
+      "facts": [
+        {
+          "key": "What's happening",
+          "always": true
+        },
+        {
+          "key": "Blamed on",
+          "always": false
+        },
+        {
+          "key": "Hidden layers",
+          "always": false
+        },
+        {
+          "key": "Who does what",
+          "always": false
+        },
+        {
+          "key": "Note",
+          "always": false
+        }
+      ]
+    },
+    "chainstep": {
+      "rows": [
+        {
+          "label": "Follows from",
+          "always": true
+        },
+        {
+          "label": "Leads to",
+          "always": true
+        },
+        {
+          "label": "Event",
+          "always": false
+        },
+        {
+          "label": "Stories",
+          "always": false
+        },
+        {
+          "label": "Council",
+          "always": false
+        },
+        {
+          "label": "Villain",
+          "always": false
+        }
+      ],
+      "facts": [
+        {
+          "key": "What's happening",
+          "always": true
+        },
+        {
+          "key": "Note",
+          "always": true
+        }
+      ]
+    },
+    "story": {
+      "rows": [
+        {
+          "label": "Setting",
+          "always": true
+        },
+        {
+          "label": "Festival",
+          "always": true
+        },
+        {
+          "label": "Sits on",
+          "always": true
+        },
+        {
+          "label": "Domino figure",
+          "always": true
+        },
+        {
+          "label": "Behind it",
+          "always": false
+        },
+        {
+          "label": "Outward effect",
+          "always": false
+        },
+        {
+          "label": "Linked story",
+          "always": true
+        },
+        {
+          "label": "Cast",
+          "always": true
+        }
+      ],
+      "facts": [
+        {
+          "key": "Premise",
+          "always": true
+        },
+        {
+          "key": "When",
+          "always": true
+        },
+        {
+          "key": "The nail",
+          "always": true
+        },
+        {
+          "key": "Behind it",
+          "always": true
+        },
+        {
+          "key": "Holds here",
+          "always": true
+        },
+        {
+          "key": "Still falls elsewhere",
+          "always": true
+        },
+        {
+          "key": "Outward effect",
+          "always": true
+        }
+      ]
+    },
+    "seed": {
+      "rows": [
+        {
+          "label": "Setting",
+          "always": true
+        },
+        {
+          "label": "Festival",
+          "always": false
+        },
+        {
+          "label": "Sits on",
+          "always": true
+        },
+        {
+          "label": "Domino figure",
+          "always": false
+        }
+      ],
+      "facts": [
+        {
+          "key": "Premise",
+          "always": true
+        },
+        {
+          "key": "Possible heart",
+          "always": true
+        },
+        {
+          "key": "Possible thread",
+          "always": true
+        }
+      ]
+    },
+    "domino": {
+      "rows": [
+        {
+          "label": "Tips",
+          "always": true
+        },
+        {
+          "label": "Stories",
+          "always": false
+        },
+        {
+          "label": "Appears in",
+          "always": false
+        }
+      ]
+    },
+    "core": {
+      "rows": [
+        {
+          "label": "Main conflict",
+          "always": false
+        },
+        {
+          "label": "Stories",
+          "always": false
+        },
+        {
+          "label": "Current events",
+          "always": false
+        },
+        {
+          "label": "Appears in",
+          "always": false
+        }
+      ]
+    },
+    "sm": {
+      "rows": [
+        {
+          "label": "Appears in",
+          "always": true
+        }
+      ]
+    },
+    "council": {
+      "rows": [
+        {
+          "label": "Main conflict",
+          "always": false
+        },
+        {
+          "label": "Current events",
+          "always": false
+        }
+      ]
+    },
+    "faith": {
+      "rows": [
+        {
+          "label": "Current events",
+          "always": false
+        }
+      ]
+    },
+    "region": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ]
+    },
+    "hub": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ]
+    },
+    "underground": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ]
+    },
+    "border-town": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ]
+    },
+    "festival": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ]
+    }
+  },
+  "nodes": [
+    {
+      "id": "st-main",
+      "kind": "overview",
+      "label": "The main conflict",
+      "status": "No status label",
+      "lane": "conflict",
+      "section": "Main conflict",
+      "src": "Story/Main-Conflict.md#narrative-premise",
+      "text": "The strongest current version treats the Villain's campaign as the principal plot engine, the Council as the antagonist to that campaign, and Wurdren as the human-scale perspective. That doesn't make the Villain secretly the hero; it means the plot moves on his decisions.",
+      "short_text": "Villain drives, Council counters, Wurdren sees the cost.",
+      "facts": {
+        "Principle": "The strongest current version of the story treats the Villain's campaign as the principal plot engine. The Council functions as the antagonist to that campaign; Wurdren is the everyman through whom the audience sees what both sides' decisions do to people. This does not mean the Villain is secretly the hero.",
+        "Scope": "A good chapter chain: the Villain needs a kingdom to distrust a neighbor; he manipulates a shipping or guild dispute; the Council notices instability and quietly intervenes; the intervention harms a border town; Wurdren helps that town; his solution restores a connection the Villain expected to stay broken; the Villain adapts; the Council misreads the adaptation; another region reacts; the viewpoint moves to someone living with the new consequence. The plot moves through causal handoffs rather than arbitrary quests.",
+        "Villain": "Change through leverage: a goal the existing system won't permit, pursued through a chain of interlocking political and economic moves, each creating the conditions for the next.",
+        "Council": "Stability through control: it detects instability and counters it with credit, food, routes, guild politics, infrastructure and information. Its countermeasures often solve one problem while creating another.",
+        "Wurdren": "Humanity through intervention: he sees missing goods, frightened families, displaced communities, local violence and broken agreements, and acts because the immediate suffering is real. His solutions change variables neither side expected.",
+        "Escalation": "From apparently independent local problems, to recognizable patterns, regional political crises, cross-regional suspicion, mobilization, near-war or actual limited war, revelation of hidden economic control, and the convergence of the three perspectives.",
+        "Ending": "Two destructive systems, Council paternalism and Villain coercion, should both fail in their original form. A possible model: the Villain forces the Council into the open, but his final escalation fractures his coalition; Wurdren's relationships help produce public negotiations, exposure of some Council mechanisms, concessions addressing the legitimate grievance, reform, and no total victory for either side. Wurdren does not become ruler.",
+        "Question": "Can a society preserve coordination without secret domination, and can oppressed people pursue change without reproducing domination themselves?"
+      },
+      "fact_src": {
+        "Principle": "Story/Main-Conflict.md#narrative-premise",
+        "Scope": "Story/Main-Conflict.md#plot-movement",
+        "Villain": "Story/Main-Conflict.md#villain--change-through-leverage",
+        "Council": "Story/Main-Conflict.md#council--stability-through-control",
+        "Wurdren": "Story/Main-Conflict.md#wurdren--humanity-through-intervention",
+        "Escalation": "Story/Main-Conflict.md#escalation",
+        "Ending": "Story/Main-Conflict.md#the-ending-problem",
+        "Question": "Story/Main-Conflict.md#thematic-resolution"
+      }
+    },
+    {
+      "id": "st-events",
+      "kind": "overview",
+      "label": "Current events",
+      "status": "No status label",
+      "lane": "conflict",
+      "section": "Main conflict",
+      "src": "Story/Current-Events.md#purpose",
+      "text": "A snapshot of the world shortly before or during the story's opening movement. Many events are linked, but most participants don't know that: some are caused by the Villain, some are Council responses, and some are ordinary events used by both.",
+      "short_text": "Linked events; most people can't see the links.",
+      "facts": {
+        "Principle": "A snapshot of the world shortly before or during the opening movement of the story. Many events are linked, but most participants do not know that.",
+        "Scope": "Some are caused by the Villain. Some are Council responses. Some are ordinary events opportunistically used by both. That distinction is essential.",
+        "Rule": "The example ripple chain (thirteen steps from Northwind piracy to local shocks read as proof of enemies) is \"the kind of causal chain the story should prefer\". It is one possible chain, not the plot."
+      },
+      "fact_src": {
+        "Principle": "Story/Current-Events.md#purpose",
+        "Scope": "Story/Current-Events.md#purpose",
+        "Rule": "Story/Current-Events.md#example-ripple-chain"
+      }
+    },
+    {
+      "id": "st-nw-piracy",
+      "kind": "current",
+      "label": "Piracy rises",
+      "status": "No status label",
+      "lane": "northwind",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#piracy-and-convoy-politics",
+      "text": "Raids are increasing.",
+      "short_text": "Raids are increasing along the coast.",
+      "facts": {
+        "What's happening": "Raids are increasing."
+      }
+    },
+    {
+      "id": "st-nw-convoy",
+      "kind": "current",
+      "label": "Convoy politics",
+      "status": "No status label",
+      "lane": "northwind",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#piracy-and-convoy-politics",
+      "text": "A response that looks purely defensive to Northwind can look like maritime militarization to Sunplains or Port merchants.",
+      "short_text": "Defense that looks like militarization.",
+      "facts": {
+        "What's happening": "A response that looks purely defensive to Northwind can look like maritime militarization to Sunplains or Port merchants."
+      }
+    },
+    {
+      "id": "st-nw-fish",
+      "kind": "current",
+      "label": "Fish stocks shift",
+      "status": "No status label",
+      "lane": "northwind",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#fish-stocks-and-access",
+      "text": "Some fisheries are declining or shifting, creating price increases, clan disputes, illegal fishing and pressure for new agreements.",
+      "short_text": "Fisheries decline or move.",
+      "facts": {
+        "What's happening": "Some fisheries are declining or shifting, creating price increases, clan disputes, illegal fishing and pressure for new agreements."
+      }
+    },
+    {
+      "id": "st-pt-merchant",
+      "kind": "current",
+      "label": "Merchant conflict",
+      "status": "No status label",
+      "lane": "port",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#merchant-conflict",
+      "text": "Shipping losses, insurance disputes, warehouse fires or thefts, and political accusations are making neutral commerce harder.",
+      "short_text": "Losses and disputes make neutral commerce harder.",
+      "facts": {
+        "What's happening": "Shipping losses, insurance disputes, warehouse fires or thefts, and political accusations are making neutral commerce harder."
+      }
+    },
+    {
+      "id": "st-pt-smuggling",
+      "kind": "current",
+      "label": "Smuggling surge",
+      "status": "No status label",
+      "lane": "port",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#smuggling-surge",
+      "text": "Higher prices and route disruption increase demand for illegal transport.",
+      "short_text": "Disruption raises demand for smuggling.",
+      "facts": {
+        "What's happening": "Higher prices and route disruption increase demand for illegal transport."
+      }
+    },
+    {
+      "id": "st-pt-refugees",
+      "kind": "current",
+      "label": "Refugee and worker pressure",
+      "status": "No status label",
+      "lane": "port",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#refugeeworker-pressure",
+      "text": "Displaced people from border and economic crises arrive faster than housing and charity systems can absorb them.",
+      "short_text": "Displaced people arrive faster than help.",
+      "facts": {
+        "What's happening": "Displaced people from border and economic crises arrive faster than housing and charity systems can absorb them."
+      }
+    },
+    {
+      "id": "st-gv-abundance",
+      "kind": "current",
+      "label": "Abundance crisis",
+      "status": "No status label",
+      "lane": "greenvale",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#abundance-crisis",
+      "text": "A new strain, unusually good weather, or both have produced unexpectedly high yields in some districts. Instead of prosperity: prices fall, storage fills, poorer farmers can't cover debts, rumors spread that grain is unsafe, merchants delay purchases.",
+      "short_text": "Big harvest, falling prices, unsafe-grain rumors.",
+      "facts": {
+        "What's happening": "A new strain, unusually good weather, or both have produced unexpectedly high yields in some districts. Instead of prosperity: prices fall, storage fills, poorer farmers can't cover debts, rumors spread that grain is unsafe, merchants delay purchases."
+      }
+    },
+    {
+      "id": "st-gv-land",
+      "kind": "current",
+      "label": "Land and seed politics",
+      "status": "No status label",
+      "lane": "greenvale",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#land-and-seed-politics",
+      "text": "Large interests attempt to acquire distressed farms. Reformers accuse them of engineering the crisis.",
+      "short_text": "Large interests buy distressed farms.",
+      "facts": {
+        "What's happening": "Large interests attempt to acquire distressed farms. Reformers accuse them of engineering the crisis."
+      }
+    },
+    {
+      "id": "st-ic-metal",
+      "kind": "current",
+      "label": "Unusual metal movements",
+      "status": "No status label",
+      "lane": "ironcrest",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#unusual-metal-movements",
+      "text": "High-quality metal is disappearing into private contracts or being redirected.",
+      "short_text": "Good metal vanishing into private contracts.",
+      "facts": {
+        "What's happening": "High-quality metal is disappearing into private contracts or being redirected.",
+        "Blamed on": "Different observers blame smuggling, war preparation, corrupt guild masters or foreign buyers."
+      }
+    },
+    {
+      "id": "st-ic-labor",
+      "kind": "current",
+      "label": "Labor unrest",
+      "status": "No status label",
+      "lane": "ironcrest",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#labor-unrest",
+      "text": "Mine and metalworking workers are organizing around wages, safety, debt and control of guild leadership.",
+      "short_text": "Workers organize; strike talk.",
+      "facts": {
+        "What's happening": "Mine and metalworking workers are organizing around wages, safety, debt and control of guild leadership.",
+        "Hidden layers": "Possible hidden layers: some grievances are entirely real; Council-linked owners are trying to prevent a production shock; Villain agents encourage timing that makes the strike strategically damaging."
+      }
+    },
+    {
+      "id": "st-hr-attacks",
+      "kind": "current",
+      "label": "Caravan attacks",
+      "status": "No status label",
+      "lane": "highridge",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#caravan-attacks",
+      "text": "Attacks and disappearances make some routes seem unreliable.",
+      "short_text": "Attacks make routes seem unreliable.",
+      "facts": {
+        "What's happening": "Attacks and disappearances make some routes seem unreliable."
+      }
+    },
+    {
+      "id": "st-hr-routes",
+      "kind": "current",
+      "label": "Trade redirected",
+      "status": "No status label",
+      "lane": "highridge",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#caravan-attacks",
+      "text": "Trade is redirected. Towns bypassed by new routes suffer immediately.",
+      "short_text": "Bypassed towns suffer at once.",
+      "facts": {
+        "What's happening": "Trade is redirected. Towns bypassed by new routes suffer immediately."
+      }
+    },
+    {
+      "id": "st-hr-debate",
+      "kind": "current",
+      "label": "Debates tied to patrons",
+      "status": "No status label",
+      "lane": "highridge",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#political-debate",
+      "text": "Highridge intellectual disputes are increasingly tied to real patrons and commercial interests.",
+      "short_text": "Intellectual disputes with commercial patrons.",
+      "facts": {
+        "What's happening": "Highridge intellectual disputes are increasingly tied to real patrons and commercial interests."
+      }
+    },
+    {
+      "id": "st-dw-road",
+      "kind": "current",
+      "label": "Logging and road conflict",
+      "status": "No status label",
+      "lane": "deepwood",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#logging-and-road-conflict",
+      "text": "New extraction or infrastructure proposals cross disputed local boundaries. Some work is legal under old treaties; locals dispute those interpretations.",
+      "short_text": "Proposals cross disputed boundaries.",
+      "facts": {
+        "What's happening": "New extraction or infrastructure proposals cross disputed local boundaries. Some work is legal under old treaties; locals dispute those interpretations."
+      }
+    },
+    {
+      "id": "st-dw-fungal",
+      "kind": "current",
+      "label": "Fungal or ecological disruption",
+      "status": "No status label",
+      "lane": "deepwood",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#fungalecological-disruption",
+      "text": "A disease or ecological change affects important forest foods or commodities. This may be natural, accidentally human-caused, or exploited by manipulators.",
+      "short_text": "Disease hits forest foods; cause unknown.",
+      "facts": {
+        "What's happening": "A disease or ecological change affects important forest foods or commodities. This may be natural, accidentally human-caused, or exploited by manipulators."
+      }
+    },
+    {
+      "id": "st-sp-drought",
+      "kind": "current",
+      "label": "Drought anxiety",
+      "status": "No status label",
+      "lane": "sunplains",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#drought-anxiety",
+      "text": "Water isn't yet universally scarce, but fear changes behavior: hoarding, canal guards, secret agreements, speculative prices.",
+      "short_text": "Fear of drought changes behavior.",
+      "facts": {
+        "What's happening": "Water isn't yet universally scarce, but fear changes behavior: hoarding, canal guards, secret agreements, speculative prices."
+      }
+    },
+    {
+      "id": "st-sp-coalition",
+      "kind": "current",
+      "label": "City-state coordination",
+      "status": "No status label",
+      "lane": "sunplains",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#city-state-coordination",
+      "text": "Some leaders are trying to cooperate. Rivals interpret the effort as the beginning of a dominant bloc.",
+      "short_text": "Cooperation read as a bloc forming.",
+      "facts": {
+        "What's happening": "Some leaders are trying to cooperate. Rivals interpret the effort as the beginning of a dominant bloc."
+      }
+    },
+    {
+      "id": "st-sx-quake",
+      "kind": "current",
+      "label": "Earthquake or land movement",
+      "status": "No status label",
+      "lane": "spine",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#earthquakeland-movement",
+      "text": "A recent event damages roads and exposes older ruins, caves or sealed routes, producing treasure and resource rushes, religious claims, territorial disputes, archaeological interest and Underpass instability.",
+      "short_text": "Roads damaged; old routes exposed.",
+      "facts": {
+        "What's happening": "A recent event damages roads and exposes older ruins, caves or sealed routes, producing treasure and resource rushes, religious claims, territorial disputes, archaeological interest and Underpass instability."
+      }
+    },
+    {
+      "id": "st-sx-routewars",
+      "kind": "current",
+      "label": "Underpass route wars",
+      "status": "No status label",
+      "lane": "spine",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#route-wars",
+      "text": "Collapse and discovery have changed which enclaves control profitable corridors. Smuggling and legitimate trade compete for the same space.",
+      "short_text": "Enclaves fight over changed corridors.",
+      "facts": {
+        "What's happening": "Collapse and discovery have changed which enclaves control profitable corridors. Smuggling and legitimate trade compete for the same space."
+      }
+    },
+    {
+      "id": "st-x-faiths",
+      "kind": "current",
+      "label": "Faiths read the crises",
+      "status": "No status label",
+      "lane": "conflict",
+      "section": "Current events",
+      "src": "Story/Current-Events.md#religious-networks",
+      "text": "Faiths are beginning to interpret the crises trans-regionally.",
+      "short_text": "Faiths start reading the crises across regions.",
+      "facts": {
+        "What's happening": "Faiths are beginning to interpret the crises trans-regionally.",
+        "Who does what": "Illuminated scholars compare records; Weaver communities document ecological damage; Compass pilgrims carry rumors; Harmonious mediators build alternative dispute systems; Dual Flame counselors notice patterns of radicalization."
+      }
+    },
+    {
+      "id": "st-dw-leak",
+      "kind": "current",
+      "label": "Plans leak; wardens prepare",
+      "status": "Provisional",
+      "lane": "deepwood",
+      "section": "Current events",
+      "src": "Story/Villains-Dominoes.md#naruin-mossglade--deepwood",
+      "text": "Real Council-backed expansion plans leak without context and preemptive defense is encouraged: Naruin Mossglade's domino, in which a local conservation dispute becomes an inter-regional sovereignty crisis.",
+      "short_text": "Leaked plans push toward a sovereignty crisis.",
+      "facts": {
+        "What's happening": "Leak real Council-backed expansion plans without context; encourage preemptive defense. Domino: a local conservation dispute becomes an inter-regional sovereignty crisis.",
+        "Note": "A domino from Villain's Dominoes rather than a Current Events entry; its names and biographies remain provisional."
+      }
+    },
+    {
+      "id": "st-c1",
+      "kind": "chainstep",
+      "label": "1. Shipping risk rises",
+      "status": "No status label",
+      "lane": "northwind",
+      "section": "Ripple chain",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "text": "Step 1 of one possible ripple chain: Northwind piracy raises shipping risk.",
+      "short_text": "Northwind piracy raises shipping risk.",
+      "facts": {
+        "What's happening": "Northwind piracy raises shipping risk.",
+        "Note": "One possible chain, which Current Events calls \"the kind of causal chain the story should prefer\"; not a fixed sequence of events."
+      }
+    },
+    {
+      "id": "st-c2",
+      "kind": "chainstep",
+      "label": "2. Port credit tightens",
+      "status": "No status label",
+      "lane": "port",
+      "section": "Ripple chain",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "text": "Step 2 of one possible ripple chain: Port insurance/credit tightens.",
+      "short_text": "Port insurance/credit tightens.",
+      "facts": {
+        "What's happening": "Port insurance/credit tightens.",
+        "Note": "One possible chain, which Current Events calls \"the kind of causal chain the story should prefer\"; not a fixed sequence of events."
+      }
+    },
+    {
+      "id": "st-c3",
+      "kind": "chainstep",
+      "label": "3. Grain purchases cancelled",
+      "status": "No status label",
+      "lane": "greenvale",
+      "section": "Ripple chain",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "text": "Step 3 of one possible ripple chain: Greenvale merchants cancel distant grain purchases.",
+      "short_text": "Greenvale merchants cancel distant grain purchases.",
+      "facts": {
+        "What's happening": "Greenvale merchants cancel distant grain purchases.",
+        "Note": "One possible chain, which Current Events calls \"the kind of causal chain the story should prefer\"; not a fixed sequence of events."
+      }
+    },
+    {
+      "id": "st-c4",
+      "kind": "chainstep",
+      "label": "4. Grain prices collapse",
+      "status": "No status label",
+      "lane": "greenvale",
+      "section": "Ripple chain",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "text": "Step 4 of one possible ripple chain: Greenvale grain prices collapse locally.",
+      "short_text": "Greenvale grain prices collapse locally.",
+      "facts": {
+        "What's happening": "Greenvale grain prices collapse locally.",
+        "Note": "One possible chain, which Current Events calls \"the kind of causal chain the story should prefer\"; not a fixed sequence of events."
+      }
+    },
+    {
+      "id": "st-c5",
+      "kind": "chainstep",
+      "label": "5. Farmers default",
+      "status": "No status label",
+      "lane": "greenvale",
+      "section": "Ripple chain",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "text": "Step 5 of one possible ripple chain: farmers default.",
+      "short_text": "Farmers default.",
+      "facts": {
+        "What's happening": "Farmers default.",
+        "Note": "One possible chain, which Current Events calls \"the kind of causal chain the story should prefer\"; not a fixed sequence of events."
+      }
+    },
+    {
+      "id": "st-c6",
+      "kind": "chainstep",
+      "label": "6. Council steadies lenders",
+      "status": "No status label",
+      "lane": "conflict",
+      "section": "Ripple chain",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "text": "Step 6 of one possible ripple chain: Council finance tries to stabilize lenders.",
+      "short_text": "Council finance tries to stabilize lenders.",
+      "facts": {
+        "What's happening": "Council finance tries to stabilize lenders.",
+        "Note": "One possible chain, which Current Events calls \"the kind of causal chain the story should prefer\"; not a fixed sequence of events."
+      }
+    },
+    {
+      "id": "st-c7",
+      "kind": "chainstep",
+      "label": "7. Consolidators buy farms",
+      "status": "No status label",
+      "lane": "greenvale",
+      "section": "Ripple chain",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "text": "Step 7 of one possible ripple chain: land consolidators buy distressed farms.",
+      "short_text": "Land consolidators buy distressed farms.",
+      "facts": {
+        "What's happening": "Land consolidators buy distressed farms.",
+        "Note": "One possible chain, which Current Events calls \"the kind of causal chain the story should prefer\"; not a fixed sequence of events."
+      }
+    },
+    {
+      "id": "st-c8",
+      "kind": "chainstep",
+      "label": "8. Reformers cry theft",
+      "status": "No status label",
+      "lane": "greenvale",
+      "section": "Ripple chain",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "text": "Step 8 of one possible ripple chain: religious and guild reformers call it coordinated theft.",
+      "short_text": "Religious and guild reformers call it coordinated theft.",
+      "facts": {
+        "What's happening": "Religious and guild reformers call it coordinated theft.",
+        "Note": "One possible chain, which Current Events calls \"the kind of causal chain the story should prefer\"; not a fixed sequence of events."
+      }
+    },
+    {
+      "id": "st-c9",
+      "kind": "chainstep",
+      "label": "9. Protests hit tool orders",
+      "status": "No status label",
+      "lane": "ironcrest",
+      "section": "Ripple chain",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "text": "Step 9 of one possible ripple chain: protests affect tool orders from Ironcrest.",
+      "short_text": "Protests affect tool orders from Ironcrest.",
+      "facts": {
+        "What's happening": "Protests affect tool orders from Ironcrest.",
+        "Note": "One possible chain, which Current Events calls \"the kind of causal chain the story should prefer\"; not a fixed sequence of events."
+      }
+    },
+    {
+      "id": "st-c10",
+      "kind": "chainstep",
+      "label": "10. Workshops cut hours",
+      "status": "No status label",
+      "lane": "ironcrest",
+      "section": "Ripple chain",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "text": "Step 10 of one possible ripple chain: Ironcrest workshops reduce hours.",
+      "short_text": "Ironcrest workshops reduce hours.",
+      "facts": {
+        "What's happening": "Ironcrest workshops reduce hours.",
+        "Note": "One possible chain, which Current Events calls \"the kind of causal chain the story should prefer\"; not a fixed sequence of events."
+      }
+    },
+    {
+      "id": "st-c11",
+      "kind": "chainstep",
+      "label": "11. Strike leaders blame owners",
+      "status": "No status label",
+      "lane": "ironcrest",
+      "section": "Ripple chain",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "text": "Step 11 of one possible ripple chain: strike leaders blame owners.",
+      "short_text": "Strike leaders blame owners.",
+      "facts": {
+        "What's happening": "Strike leaders blame owners.",
+        "Note": "One possible chain, which Current Events calls \"the kind of causal chain the story should prefer\"; not a fixed sequence of events."
+      }
+    },
+    {
+      "id": "st-c12",
+      "kind": "chainstep",
+      "label": "12. Villain amplifies Council involvement",
+      "status": "No status label",
+      "lane": "conflict",
+      "section": "Ripple chain",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "text": "Step 12 of one possible ripple chain: Villain agents amplify evidence of Council involvement.",
+      "short_text": "Villain agents amplify evidence of Council involvement.",
+      "facts": {
+        "What's happening": "Villain agents amplify evidence of Council involvement.",
+        "Note": "One possible chain, which Current Events calls \"the kind of causal chain the story should prefer\"; not a fixed sequence of events."
+      }
+    },
+    {
+      "id": "st-c13",
+      "kind": "chainstep",
+      "label": "13. Shocks read as proof of enemies",
+      "status": "No status label",
+      "lane": "conflict",
+      "section": "Ripple chain",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "text": "Step 13 of one possible ripple chain: a local economic shock becomes proof, in several regions, that another group is acting against them.",
+      "short_text": "A local economic shock becomes proof, in several regions, that another group is acting against them.",
+      "facts": {
+        "What's happening": "A local economic shock becomes proof, in several regions, that another group is acting against them.",
+        "Note": "One possible chain, which Current Events calls \"the kind of causal chain the story should prefer\"; not a fixed sequence of events."
+      }
+    },
+    {
+      "id": "story-one-square",
+      "kind": "story",
+      "label": "One Square, Two Harvests",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Stories",
+      "src": "Sunday-Morning/Stories/One-Square-Two-Harvests.md#status",
+      "text": "A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there.",
+      "short_text": "The grain harvest is so large this year that it takes an extra week to bring in, and Harvest Home lands on the Wine Crush's weekend.",
+      "facts": {
+        "Premise": "The grain harvest is so large this year that it takes an extra week to bring in, and Harvest Home lands on the Wine Crush's weekend. The town square holds one festival. Everyone asks the retired water-arbiter to decide, and he insists, loudly and repeatedly, that he is retired.",
+        "When": "Year 1, early autumn (provisional calendar)",
+        "The nail": "A rumor that Meadowcroft-seed grain is unsafe, and a land agent circling the Vale's indebted farms.",
+        "Behind it": "Rumor: Villain-amplified. Land agent: unknown (Council-linked finance or ordinary speculators) (a provisional attribution nobody inside the story knows).",
+        "Holds here": "No Vale farm sells to the land agent.",
+        "Still falls elsewhere": "Farms elsewhere in Greenvale do; the Ardens in Three Pots are one of them.",
+        "Outward effect": "A Greenvale co-op and a Sunplains patron house now trade grain together, a precedent rivals could later read as a bloc forming."
+      },
+      "fact_src": {
+        "Premise": "Sunday-Morning/Stories/One-Square-Two-Harvests.md#premise",
+        "When": "Sunday-Morning/Notes/Collection.md#reading-order",
+        "The nail": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Behind it": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Holds here": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Still falls elsewhere": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Outward effect": "Sunday-Morning/Notes/Collection.md#the-threads"
+      },
+      "see": [
+        "Sunday-Morning/Drafts/One-Square-Two-Harvests.md",
+        "Sunday-Morning/Notes/Collection.md#the-threads"
+      ],
+      "when": "Year 1, early autumn"
+    },
+    {
+      "id": "story-greenvale-man",
+      "kind": "story",
+      "label": "The Greenvale Man",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Stories",
+      "src": "Sunday-Morning/Stories/The-Greenvale-Man.md#status",
+      "text": "A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there.",
+      "short_text": "Kettle Cove's racing boat cracks a hull plank weeks before the Last Sail regatta against the rival cove.",
+      "facts": {
+        "Premise": "Kettle Cove's racing boat cracks a hull plank weeks before the Last Sail regatta against the rival cove. The boatbuilder has retired inland to live with his son in Greenvale. The only woodworker left is a Greenvale-born cooper who has lived in the cove for twenty years and is still called \"the Greenvale man.\"",
+        "When": "Year 1, late autumn (provisional calendar)",
+        "The nail": "\"It is said\" Narrow Sound shelters raiders; some want the regatta cancelled.",
+        "Behind it": "Villain-amplified rumor (a provisional attribution nobody inside the story knows).",
+        "Holds here": "Kettle Cove races Narrow Sound.",
+        "Still falls elsewhere": "Other coves take the rumor and leave Narrow Sound out of their convoy.",
+        "Outward effect": "Two coves still sailing together is one less \"credible\" report feeding the patrol push."
+      },
+      "fact_src": {
+        "Premise": "Sunday-Morning/Stories/The-Greenvale-Man.md#premise",
+        "When": "Sunday-Morning/Notes/Collection.md#reading-order",
+        "The nail": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Behind it": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Holds here": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Still falls elsewhere": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Outward effect": "Sunday-Morning/Notes/Collection.md#the-threads"
+      },
+      "see": [
+        "Sunday-Morning/Drafts/The-Greenvale-Man.md",
+        "Sunday-Morning/Notes/Collection.md#the-threads"
+      ],
+      "when": "Year 1, late autumn"
+    },
+    {
+      "id": "story-goat-file",
+      "kind": "story",
+      "label": "The Goat File",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "Stories",
+      "src": "Sunday-Morning/Stories/The-Goat-File.md#status",
+      "text": "A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there.",
+      "short_text": "Lenders in Port will renew Seven Wells' credit this year only if its books are clean, so a reforming administrator rules that every deferred dispute must be closed at this year's Ledger Closing.",
+      "facts": {
+        "Premise": "Lenders in Port will renew Seven Wells' credit this year only if its books are clean, so a reforming administrator rules that every deferred dispute must be closed at this year's Ledger Closing. The junior arbitration clerk is handed the oldest one as hazing: a forty-three-year feud between two respected houses over a goat.",
+        "When": "Year 1, late autumn (provisional calendar)",
+        "The nail": "Lenders will renew Seven Wells' credit only if deferred claims are cleared.",
+        "Behind it": "Council finance stabilizing lenders (ordinary pressure, not a scheme) (a provisional attribution nobody inside the story knows).",
+        "Holds here": "Seven Wells closes its file without ruin.",
+        "Still falls elsewhere": "In other towns, forced closures ruin families; the tea seller has heard of two.",
+        "Outward effect": "A joined house can offer caravans water and guides together, just as routes are being redrawn."
+      },
+      "fact_src": {
+        "Premise": "Sunday-Morning/Stories/The-Goat-File.md#premise",
+        "When": "Sunday-Morning/Notes/Collection.md#reading-order",
+        "The nail": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Behind it": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Holds here": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Still falls elsewhere": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Outward effect": "Sunday-Morning/Notes/Collection.md#the-threads"
+      },
+      "see": [
+        "Sunday-Morning/Drafts/The-Goat-File.md",
+        "Sunday-Morning/Notes/Collection.md#the-threads"
+      ],
+      "when": "Year 1, late autumn"
+    },
+    {
+      "id": "story-inspected",
+      "kind": "story",
+      "label": "Inspected, Not Guaranteed",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Stories",
+      "src": "Sunday-Morning/Stories/Inspected-Not-Guaranteed.md#status",
+      "text": "A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there.",
+      "short_text": "Wurdren brings the sword he has carried for decades to Stonefield Forge because its tang has cracked.",
+      "facts": {
+        "Premise": "Wurdren brings the sword he has carried for decades to Stonefield Forge because its tang has cracked. The forges are cold for winter maintenance, so nobody can weld it until the fires are relit. While he waits, the guild drafts him as the one judge the apprenticeship rules require who has no family, guild or debt tie to any apprentice. In a border town where everyone is related to someone, the stranger is the only one who qualifies.",
+        "When": "Year 2, early spring (provisional calendar)",
+        "The nail": "An anonymous patron offers Col funding \"should the guild fail to recognize\" his work.",
+        "Behind it": "Villain (provisional): the same approach that took Orin (a provisional attribution nobody inside the story knows).",
+        "Holds here": "Col never answers the letter.",
+        "Still falls elsewhere": "Orin Slatehallow already answered his.",
+        "Outward effect": "One skilled repairer stays independent; Wurdren has seen his first \"convenient offer\"."
+      },
+      "fact_src": {
+        "Premise": "Sunday-Morning/Stories/Inspected-Not-Guaranteed.md#premise",
+        "When": "Sunday-Morning/Notes/Collection.md#reading-order",
+        "The nail": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Behind it": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Holds here": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Still falls elsewhere": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Outward effect": "Sunday-Morning/Notes/Collection.md#the-threads"
+      },
+      "see": [
+        "Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md",
+        "Sunday-Morning/Notes/Collection.md#the-threads"
+      ],
+      "when": "Year 2, early spring"
+    },
+    {
+      "id": "story-heavy-scale",
+      "kind": "story",
+      "label": "The Heavy Scale at Icestep Summit",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Stories",
+      "src": "Sunday-Morning/Stories/The-Heavy-Scale.md#status",
+      "text": "A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there.",
+      "short_text": "On his first posting, a painfully precise weights inspector runs the pre-season check on Icestep Summit's public scale and finds it reading heavy.",
+      "facts": {
+        "Premise": "On his first posting, a painfully precise weights inspector runs the pre-season check on Icestep Summit's public scale and finds it reading heavy. He has three days before the first caravan of the year weighs in publicly to find out since when and why, and to work out who is owed what.",
+        "When": "Year 2, early spring (provisional calendar)",
+        "The nail": "Samir is judging which passes are reliable this season; a crooked scale would strike Icestep from his list.",
+        "Behind it": "The scale fault is weather; the concentration pressure is the Villain's pattern (a provisional attribution nobody inside the story knows).",
+        "Holds here": "Icestep stays on Samir's list.",
+        "Still falls elsewhere": "Another pass town, with a genuinely bad scale, comes off it.",
+        "Outward effect": "Traffic stays spread across more than one pass, blunting the concentration the domino needs."
+      },
+      "fact_src": {
+        "Premise": "Sunday-Morning/Stories/The-Heavy-Scale.md#premise",
+        "When": "Sunday-Morning/Notes/Collection.md#reading-order",
+        "The nail": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Behind it": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Holds here": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Still falls elsewhere": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Outward effect": "Sunday-Morning/Notes/Collection.md#the-threads"
+      },
+      "see": [
+        "Sunday-Morning/Drafts/The-Heavy-Scale.md",
+        "Sunday-Morning/Notes/Collection.md#the-threads"
+      ],
+      "when": "Year 2, early spring"
+    },
+    {
+      "id": "story-tree",
+      "kind": "story",
+      "label": "The Tree With a Debt",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Stories",
+      "src": "Sunday-Morning/Stories/The-Tree-With-a-Debt.md#status",
+      "text": "A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there.",
+      "short_text": "A Deepwood forest warden and a Highridge route surveyor are ordered to route the new mule path to Twilighthollow's herb market around an ancient tree.",
+      "facts": {
+        "Premise": "A Deepwood forest warden and a Highridge route surveyor are ordered to route the new mule path to Twilighthollow's herb market around an ancient tree. Then they discover the town pledged the tree as collateral on a Highridge loan sixty years ago and never paid it back.",
+        "When": "Year 2, midsummer (provisional calendar)",
+        "The nail": "An unnamed buyer offers to purchase old pledges along a proposed road; whoever holds a \"for as long as it stands\" pledge profits if the tree falls.",
+        "Behind it": "The Villain, through a Port intermediary: the same hand as Col's patron. The pledges are meant to become leaked evidence for Naruin (a provisional attribution nobody inside the story knows).",
+        "Holds here": "Hollis won't sell.",
+        "Still falls elsewhere": "The buyer has already bought other pledges along the planned road.",
+        "Outward effect": "Sessa brings Naruin a working counterexample: a negotiated path and a Highridge family sworn to a tree."
+      },
+      "fact_src": {
+        "Premise": "Sunday-Morning/Stories/The-Tree-With-a-Debt.md#premise",
+        "When": "Sunday-Morning/Notes/Collection.md#reading-order",
+        "The nail": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Behind it": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Holds here": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Still falls elsewhere": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Outward effect": "Sunday-Morning/Notes/Collection.md#the-threads"
+      },
+      "see": [
+        "Sunday-Morning/Drafts/The-Tree-With-a-Debt.md",
+        "Sunday-Morning/Notes/Collection.md#the-threads"
+      ],
+      "when": "Year 2, midsummer"
+    },
+    {
+      "id": "story-three-pots",
+      "kind": "story",
+      "label": "Three Pots at Three Moon",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "Stories",
+      "src": "Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md#status",
+      "text": "A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there.",
+      "short_text": "A retiring dockside cook will sign her Three Moon Festival stall permit over to whichever of her three grandchildren makes \"the right stew.\" She isn't testing them.",
+      "facts": {
+        "Premise": "A retiring dockside cook will sign her Three Moon Festival stall permit over to whichever of her three grandchildren makes \"the right stew.\" She isn't testing them. She has cooked it for fifty years and genuinely cannot say what \"right\" means.",
+        "When": "Year 2, early autumn (provisional calendar)",
+        "The nail": "A street rumor that the newcomers next door are smugglers, while inspectors are fining unpermitted stalls.",
+        "Behind it": "Ordinary prejudice (a provisional attribution nobody inside the story knows).",
+        "Holds here": "One street shares its space.",
+        "Still falls elsewhere": "The smuggling rumors keep running on the next street over.",
+        "Outward effect": "Three Moon does its civic job on one street: incompatible people share one space."
+      },
+      "fact_src": {
+        "Premise": "Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md#premise",
+        "When": "Sunday-Morning/Notes/Collection.md#reading-order",
+        "The nail": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Behind it": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Holds here": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Still falls elsewhere": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Outward effect": "Sunday-Morning/Notes/Collection.md#the-threads"
+      },
+      "see": [
+        "Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md",
+        "Sunday-Morning/Notes/Collection.md#the-threads"
+      ],
+      "when": "Year 2, early autumn"
+    },
+    {
+      "id": "seed-mushrooms",
+      "kind": "seed",
+      "label": "The Mushrooms From Nowhere",
+      "status": "Provisional",
+      "lane": "spine",
+      "section": "Story seeds",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-mushrooms-from-nowhere",
+      "text": "A parked Sunday Morning premise, not yet developed; names and details are non-canon.",
+      "short_text": "A mushroom grower from an underground enclave climbs to the surface for the first time in thirty years to sell at a caravan fair.",
+      "facts": {
+        "Premise": "A mushroom grower from an underground enclave climbs to the surface for the first time in thirty years to sell at a caravan fair. Nobody has heard of her mushrooms, and everyone assumes they're from Deepwood.",
+        "Possible heart": "Recognition for people whose work travels through networks nobody sees.",
+        "Possible thread": "Collapses have redirected Underpass trade and smugglers are exploiting official closures, which is why a surface fair suddenly has room for her."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-bathhouse",
+      "kind": "seed",
+      "label": "The Bathhouse Compact",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Story seeds",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-bathhouse-compact",
+      "text": "A parked Sunday Morning premise, not yet developed; names and details are non-canon.",
+      "short_text": "Charcoal burners and forest wardens have to jointly run the town's only bathhouse, and they disagree about the fuel.",
+      "facts": {
+        "Premise": "Charcoal burners and forest wardens have to jointly run the town's only bathhouse, and they disagree about the fuel.",
+        "Possible heart": "Neighbors who argue about extraction still need to be warm and clean in the same room.",
+        "Possible thread": "Good metal is vanishing into private contracts, and charcoal demand rises with it."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-ladder",
+      "kind": "seed",
+      "label": "The Ladder Rules",
+      "status": "Provisional",
+      "lane": "sunplains",
+      "section": "Story seeds",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-ladder-rules",
+      "text": "A parked Sunday Morning premise, not yet developed; names and details are non-canon.",
+      "short_text": "The lamplighters of one city stage a one-night strike over ladder rules on the eve of Solstice Lanterns.",
+      "facts": {
+        "Premise": "The lamplighters of one city stage a one-night strike over ladder rules on the eve of Solstice Lanterns.",
+        "Possible heart": "Civic pride belongs to the people who actually light the city.",
+        "Possible thread": "Drought anxiety and city-state coordination; a rival city reads the lamplighters' deal as a sign of Bahriyya Nazar's coalition."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-talker",
+      "kind": "seed",
+      "label": "The Talker",
+      "status": "Provisional",
+      "lane": "deepwood",
+      "section": "Story seeds",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-talker",
+      "text": "A parked Sunday Morning premise, not yet developed; names and details are non-canon.",
+      "short_text": "A Port-born trader who cannot stop talking gets snowed into a village during Deep Silence.",
+      "facts": {
+        "Premise": "A Port-born trader who cannot stop talking gets snowed into a village during Deep Silence.",
+        "Possible heart": "Listening as a skill someone can learn late.",
+        "Possible thread": "The trader is buying forest goods made scarce by the fungal disruption, in a village split between isolationists and reformers."
+      },
+      "minor": true
+    }
+  ],
+  "edges": [
+    {
+      "from": "st-main",
+      "to": "pp-villain",
+      "layer": "st-conflict",
+      "type": "is driven by",
+      "basis": "stated",
+      "quote": "Villain — change through leverage",
+      "src": "Story/Main-Conflict.md#villain--change-through-leverage",
+      "chip": "Forces",
+      "chipBack": "Main conflict",
+      "chipNote": "change through leverage",
+      "chipNoteBack": "change through leverage"
+    },
+    {
+      "from": "st-main",
+      "to": "pw-council",
+      "layer": "st-conflict",
+      "type": "is countered by",
+      "basis": "stated",
+      "quote": "Council — stability through control",
+      "src": "Story/Main-Conflict.md#council--stability-through-control",
+      "chip": "Forces",
+      "chipBack": "Main conflict",
+      "chipNote": "stability through control",
+      "chipNoteBack": "stability through control"
+    },
+    {
+      "from": "st-main",
+      "to": "pp-wurdren",
+      "layer": "st-conflict",
+      "type": "is seen through",
+      "basis": "stated",
+      "quote": "Wurdren — humanity through intervention",
+      "src": "Story/Main-Conflict.md#wurdren--humanity-through-intervention",
+      "chip": "Forces",
+      "chipBack": "Main conflict",
+      "chipNote": "humanity through intervention",
+      "chipNoteBack": "humanity through intervention"
+    },
+    {
+      "from": "st-c1",
+      "to": "st-nw-piracy",
+      "layer": "st-chain",
+      "type": "is a step within",
+      "basis": "stated",
+      "quote": "Northwind piracy raises shipping risk.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Event",
+      "chipBack": "Ripple chain",
+      "chipNote": "step 1",
+      "chipNoteBack": "step 1"
+    },
+    {
+      "from": "st-c2",
+      "to": "st-pt-merchant",
+      "layer": "st-chain",
+      "type": "is a step within",
+      "basis": "stated",
+      "quote": "Port insurance/credit tightens.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Event",
+      "chipBack": "Ripple chain",
+      "chipNote": "step 2",
+      "chipNoteBack": "step 2"
+    },
+    {
+      "from": "st-c4",
+      "to": "st-gv-abundance",
+      "layer": "st-chain",
+      "type": "is a step within",
+      "basis": "stated",
+      "quote": "Greenvale grain prices collapse locally.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Event",
+      "chipBack": "Ripple chain",
+      "chipNote": "step 4",
+      "chipNoteBack": "step 4"
+    },
+    {
+      "from": "st-c5",
+      "to": "st-gv-abundance",
+      "layer": "st-chain",
+      "type": "is a step within",
+      "basis": "stated",
+      "quote": "farmers default.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Event",
+      "chipBack": "Ripple chain",
+      "chipNote": "step 5",
+      "chipNoteBack": "step 5"
+    },
+    {
+      "from": "st-c7",
+      "to": "st-gv-land",
+      "layer": "st-chain",
+      "type": "is a step within",
+      "basis": "stated",
+      "quote": "land consolidators buy distressed farms.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Event",
+      "chipBack": "Ripple chain",
+      "chipNote": "step 7",
+      "chipNoteBack": "step 7"
+    },
+    {
+      "from": "st-c8",
+      "to": "st-gv-land",
+      "layer": "st-chain",
+      "type": "is a step within",
+      "basis": "stated",
+      "quote": "religious and guild reformers call it coordinated theft.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Event",
+      "chipBack": "Ripple chain",
+      "chipNote": "step 8",
+      "chipNoteBack": "step 8"
+    },
+    {
+      "from": "st-c11",
+      "to": "st-ic-labor",
+      "layer": "st-chain",
+      "type": "is a step within",
+      "basis": "stated",
+      "quote": "strike leaders blame owners.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Event",
+      "chipBack": "Ripple chain",
+      "chipNote": "step 11",
+      "chipNoteBack": "step 11"
+    },
+    {
+      "from": "st-c1",
+      "to": "st-c2",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "Northwind piracy raises shipping risk. … Port insurance/credit tightens.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "certainty": "possible"
+    },
+    {
+      "from": "st-c2",
+      "to": "st-c3",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "Port insurance/credit tightens. … Greenvale merchants cancel distant grain purchases.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "certainty": "possible"
+    },
+    {
+      "from": "st-c3",
+      "to": "st-c4",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "Greenvale merchants cancel distant grain purchases. … Greenvale grain prices collapse locally.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "certainty": "possible"
+    },
+    {
+      "from": "st-c4",
+      "to": "st-c5",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "Greenvale grain prices collapse locally. … farmers default.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "certainty": "possible"
+    },
+    {
+      "from": "st-c5",
+      "to": "st-c6",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "farmers default. … Council finance tries to stabilize lenders.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "certainty": "possible"
+    },
+    {
+      "from": "st-c6",
+      "to": "st-c7",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "Council finance tries to stabilize lenders. … land consolidators buy distressed farms.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "certainty": "possible"
+    },
+    {
+      "from": "st-c7",
+      "to": "st-c8",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "land consolidators buy distressed farms. … religious and guild reformers call it coordinated theft.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "certainty": "possible"
+    },
+    {
+      "from": "st-c8",
+      "to": "st-c9",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "religious and guild reformers call it coordinated theft. … protests affect tool orders from Ironcrest.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "certainty": "possible"
+    },
+    {
+      "from": "st-c9",
+      "to": "st-c10",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "protests affect tool orders from Ironcrest. … Ironcrest workshops reduce hours.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "certainty": "possible"
+    },
+    {
+      "from": "st-c10",
+      "to": "st-c11",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "Ironcrest workshops reduce hours. … strike leaders blame owners.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "certainty": "possible"
+    },
+    {
+      "from": "st-c11",
+      "to": "st-c12",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "strike leaders blame owners. … Villain agents amplify evidence of Council involvement.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "certainty": "possible"
+    },
+    {
+      "from": "st-c12",
+      "to": "st-c13",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "Villain agents amplify evidence of Council involvement. … a local economic shock becomes proof, in several regions, that another group is acting against them.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "certainty": "possible"
+    },
+    {
+      "from": "st-nw-piracy",
+      "to": "st-nw-convoy",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "Raids are increasing. … A response that looks purely defensive to Northwind",
+      "src": "Story/Current-Events.md#piracy-and-convoy-politics",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "chipNote": "a defensive response",
+      "chipNoteBack": "a defensive response"
+    },
+    {
+      "from": "st-hr-attacks",
+      "to": "st-hr-routes",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "Attacks and disappearances make some routes seem unreliable. … Trade is redirected.",
+      "src": "Story/Current-Events.md#caravan-attacks",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "chipNote": "trade redirected",
+      "chipNoteBack": "trade redirected"
+    },
+    {
+      "from": "st-sx-quake",
+      "to": "st-sx-routewars",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "Underpass instability … Collapse and discovery have changed which enclaves control profitable corridors.",
+      "src": "Story/Current-Events.md#earthquakeland-movement",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "chipNote": "instability",
+      "chipNoteBack": "instability"
+    },
+    {
+      "from": "st-gv-abundance",
+      "to": "st-gv-land",
+      "layer": "st-chain",
+      "type": "can lead to",
+      "basis": "stated",
+      "quote": "poorer farmers cannot cover debts … Large interests attempt to acquire distressed farms.",
+      "src": "Story/Current-Events.md#greenvale",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "chipNote": "distressed farms",
+      "chipNoteBack": "distressed farms",
+      "certainty": "possible"
+    },
+    {
+      "from": "st-hr-routes",
+      "to": "st-pt-smuggling",
+      "layer": "st-inferred",
+      "type": "probably feeds",
+      "basis": "inferred",
+      "quote": "Highridge trade \"is redirected\" (Current Events, Caravan attacks); Port's smuggling surge comes from \"higher prices and route disruption\" (Smuggling surge). The page doesn't say which routes.",
+      "src": "Story/Current-Events.md#smuggling-surge",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "chipNote": "route disruption",
+      "chipNoteBack": "route disruption"
+    },
+    {
+      "from": "st-dw-road",
+      "to": "st-dw-leak",
+      "layer": "st-inferred",
+      "type": "probably feeds",
+      "basis": "inferred",
+      "quote": "Deepwood's road and extraction proposals (Current Events) and the leak of \"real Council-backed expansion plans\" in Naruin's domino (Villain's Dominoes) look like the same plans, but neither page says so.",
+      "src": "Story/Villains-Dominoes.md#naruin-mossglade--deepwood",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "chipNote": "plans leaked",
+      "chipNoteBack": "plans leaked"
+    },
+    {
+      "from": "st-sp-drought",
+      "to": "st-sp-coalition",
+      "layer": "st-inferred",
+      "type": "probably feeds",
+      "basis": "inferred",
+      "quote": "Drought fear drives \"secret agreements\" and some leaders \"are trying to cooperate\" (Current Events); Bahriyya coordinates city-states \"around water/trade\" (Villain's Dominoes). The page doesn't join the two entries.",
+      "src": "Story/Current-Events.md#sunplains",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "chipNote": "coordination around water",
+      "chipNoteBack": "coordination around water"
+    },
+    {
+      "from": "st-x-faiths",
+      "to": "st-c8",
+      "layer": "st-inferred",
+      "type": "probably feeds",
+      "basis": "inferred",
+      "quote": "Step 8's \"religious and guild reformers\" and the faiths reading the crises trans-regionally are on the same page, but the page doesn't say which faiths the reformers belong to.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "chipNote": "religious reformers",
+      "chipNoteBack": "religious reformers"
+    },
+    {
+      "from": "st-nw-convoy",
+      "to": "st-c13",
+      "layer": "st-inferred",
+      "type": "probably feeds",
+      "basis": "inferred",
+      "quote": "Northwind's defensive response \"can look like maritime militarization to Sunplains or Port merchants\" (Current Events); the Atlas reads that as one of the shocks taken as proof of enemies (chain step 13). No page joins them.",
+      "src": "Story/Current-Events.md#piracy-and-convoy-politics",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "chipNote": "read as militarization",
+      "chipNoteBack": "read as militarization"
+    },
+    {
+      "from": "st-dw-leak",
+      "to": "st-c13",
+      "layer": "st-inferred",
+      "type": "probably feeds",
+      "basis": "inferred",
+      "quote": "Naruin's domino turns \"a local conservation dispute\" into \"an inter-regional sovereignty crisis\" (Villain's Dominoes); the Atlas reads that as feeding chain step 13. No page joins them.",
+      "src": "Story/Villains-Dominoes.md#naruin-mossglade--deepwood",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "chipNote": "a sovereignty crisis",
+      "chipNoteBack": "a sovereignty crisis"
+    },
+    {
+      "from": "st-sp-coalition",
+      "to": "st-c13",
+      "layer": "st-inferred",
+      "type": "probably feeds",
+      "basis": "inferred",
+      "quote": "Rivals read the coalition as \"the beginning of a dominant bloc\" (Current Events), which \"justifies counter-alliances\" (Villain's Dominoes); the Atlas reads that as feeding chain step 13. No page joins them.",
+      "src": "Story/Current-Events.md#city-state-coordination",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "chipNote": "counter-alliances",
+      "chipNoteBack": "counter-alliances"
+    },
+    {
+      "from": "st-sx-routewars",
+      "to": "st-pt-smuggling",
+      "layer": "st-inferred",
+      "type": "probably feeds",
+      "basis": "inferred",
+      "quote": "Underpass smuggling competes with legitimate trade for corridors (Current Events); the Atlas links it to Port's smuggling surge. No page joins them.",
+      "src": "Story/Current-Events.md#route-wars",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "chipNote": "smuggling corridors",
+      "chipNoteBack": "smuggling corridors"
+    },
+    {
+      "from": "st-c6",
+      "to": "pw-council",
+      "layer": "st-chain",
+      "type": "is an action of",
+      "basis": "stated",
+      "quote": "Council finance tries to stabilize lenders.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Council",
+      "chipBack": "Current events",
+      "chipNote": "finance steadies lenders",
+      "chipNoteBack": "steadies lenders (chain step 6)"
+    },
+    {
+      "from": "st-c12",
+      "to": "pp-villain",
+      "layer": "st-chain",
+      "type": "is an action of",
+      "basis": "stated",
+      "quote": "Villain agents amplify evidence of Council involvement.",
+      "src": "Story/Current-Events.md#example-ripple-chain",
+      "chip": "Villain",
+      "chipBack": "Current events",
+      "chipNote": "his agents amplify",
+      "chipNoteBack": "amplifies Council involvement (step 12)"
+    },
+    {
+      "from": "st-x-faiths",
+      "to": "pw-faith-illuminated",
+      "layer": "st-chain",
+      "type": "includes",
+      "basis": "stated",
+      "quote": "Illuminated scholars compare records",
+      "src": "Story/Current-Events.md#religious-networks",
+      "chip": "Faiths",
+      "chipBack": "Current events",
+      "chipNote": "compare records",
+      "chipNoteBack": "compare records"
+    },
+    {
+      "from": "st-x-faiths",
+      "to": "pw-faith-weaver",
+      "layer": "st-chain",
+      "type": "includes",
+      "basis": "stated",
+      "quote": "Weaver communities document ecological damage",
+      "src": "Story/Current-Events.md#religious-networks",
+      "chip": "Faiths",
+      "chipBack": "Current events",
+      "chipNote": "document damage",
+      "chipNoteBack": "document damage"
+    },
+    {
+      "from": "st-x-faiths",
+      "to": "pw-faith-compass",
+      "layer": "st-chain",
+      "type": "includes",
+      "basis": "stated",
+      "quote": "Compass pilgrims carry rumors",
+      "src": "Story/Current-Events.md#religious-networks",
+      "chip": "Faiths",
+      "chipBack": "Current events",
+      "chipNote": "carry rumors",
+      "chipNoteBack": "carry rumors"
+    },
+    {
+      "from": "st-x-faiths",
+      "to": "pw-faith-harmonious",
+      "layer": "st-chain",
+      "type": "includes",
+      "basis": "stated",
+      "quote": "Harmonious mediators build alternative dispute systems",
+      "src": "Story/Current-Events.md#religious-networks",
+      "chip": "Faiths",
+      "chipBack": "Current events",
+      "chipNote": "alternative dispute systems",
+      "chipNoteBack": "alternative dispute systems"
+    },
+    {
+      "from": "st-x-faiths",
+      "to": "pw-faith-dualflame",
+      "layer": "st-chain",
+      "type": "includes",
+      "basis": "stated",
+      "quote": "Dual Flame counselors notice patterns of radicalization",
+      "src": "Story/Current-Events.md#religious-networks",
+      "chip": "Faiths",
+      "chipBack": "Current events",
+      "chipNote": "notice radicalization",
+      "chipNoteBack": "notice radicalization"
+    },
+    {
+      "from": "pp-maris",
+      "to": "st-nw-convoy",
+      "layer": "st-domino",
+      "type": "tips",
+      "basis": "stated",
+      "quote": "Northwind patrol changes are interpreted elsewhere as aggression.",
+      "src": "Story/Villains-Dominoes.md#maris-bleakshore--northwind",
+      "chip": "Tips",
+      "chipBack": "Domino figure",
+      "chipNote": "patrols read as aggression",
+      "chipNoteBack": "patrols read as aggression"
+    },
+    {
+      "from": "pp-rosana",
+      "to": "st-gv-land",
+      "layer": "st-domino",
+      "type": "tips",
+      "basis": "stated",
+      "quote": "an agricultural innovation becomes a political fight over control.",
+      "src": "Story/Villains-Dominoes.md#rosana-meadowcroft--greenvale",
+      "chip": "Tips",
+      "chipBack": "Domino figure",
+      "chipNote": "innovation becomes a fight",
+      "chipNoteBack": "innovation becomes a fight"
+    },
+    {
+      "from": "pp-samir",
+      "to": "st-hr-routes",
+      "layer": "st-domino",
+      "type": "tips",
+      "basis": "stated",
+      "quote": "\"safe\" trade concentration makes one route strategically vulnerable and impoverishes another.",
+      "src": "Story/Villains-Dominoes.md#samir-tareh--highridge",
+      "chip": "Tips",
+      "chipBack": "Domino figure",
+      "chipNote": "'safe' concentration",
+      "chipNoteBack": "'safe' concentration"
+    },
+    {
+      "from": "pp-naruin",
+      "to": "st-dw-leak",
+      "layer": "st-domino",
+      "type": "tips",
+      "basis": "stated",
+      "quote": "a local conservation dispute becomes an inter-regional sovereignty crisis.",
+      "src": "Story/Villains-Dominoes.md#naruin-mossglade--deepwood",
+      "chip": "Tips",
+      "chipBack": "Domino figure",
+      "chipNote": "conservation to sovereignty",
+      "chipNoteBack": "conservation to sovereignty"
+    },
+    {
+      "from": "pp-bahriyya",
+      "to": "st-sp-coalition",
+      "layer": "st-domino",
+      "type": "tips",
+      "basis": "stated",
+      "quote": "a peace/reform coalition becomes the apparent military/economic threat that justifies counter-alliances.",
+      "src": "Story/Villains-Dominoes.md#bahriyya-nazar--sunplains",
+      "chip": "Tips",
+      "chipBack": "Domino figure",
+      "chipNote": "coalition read as a threat",
+      "chipNoteBack": "coalition read as a threat"
+    },
+    {
+      "from": "pp-orin",
+      "to": "st-ic-metal",
+      "layer": "st-inferred",
+      "type": "probably touches",
+      "basis": "inferred",
+      "quote": "Orin has no stated domino; his strategic value is \"access to production networks and information about strategic metal supply\" (Villain's Dominoes), and good metal is vanishing into private contracts (Current Events). Neither page joins them.",
+      "src": "Story/Villains-Dominoes.md#orin-slatehallow--ironcrest",
+      "chip": "Tips",
+      "chipBack": "Domino figure",
+      "chipNote": "metal supply (no stated domino)",
+      "chipNoteBack": "Orin's metal access?"
+    },
+    {
+      "from": "pp-rosana",
+      "to": "st-gv-abundance",
+      "layer": "st-inferred",
+      "type": "probably drives",
+      "basis": "inferred",
+      "quote": "Rosana works on crop resilience and her work changes expectations about harvest (Villain's Dominoes); the abundance crisis comes from \"a new strain, unusually good weather, or both\" (Current Events). Neither page says the strain is hers; the Sunday Morning collection does.",
+      "src": "Story/Villains-Dominoes.md#rosana-meadowcroft--greenvale",
+      "chip": "Tips",
+      "chipBack": "Domino figure",
+      "chipNote": "her strain? (not stated)",
+      "chipNoteBack": "her strain? (not stated)"
+    },
+    {
+      "from": "story-one-square",
+      "to": "harveston",
+      "layer": "st-story",
+      "type": "is set in",
+      "basis": "stated",
+      "quote": "Setting: … Harveston Vale",
+      "src": "Sunday-Morning/Stories/One-Square-Two-Harvests.md#premise",
+      "chip": "Setting",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-one-square",
+      "to": "f-harvest-home",
+      "layer": "st-story",
+      "type": "runs up to",
+      "basis": "stated",
+      "quote": "Harvest Home and Wine Crush",
+      "src": "Sunday-Morning/Stories/One-Square-Two-Harvests.md#premise",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "chipNote": "the story's clock",
+      "chipNoteBack": "the story's clock"
+    },
+    {
+      "from": "story-one-square",
+      "to": "f-wine-crush",
+      "layer": "st-story",
+      "type": "runs up to",
+      "basis": "stated",
+      "quote": "Harvest Home and Wine Crush",
+      "src": "Sunday-Morning/Stories/One-Square-Two-Harvests.md#premise",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "chipNote": "the story's clock",
+      "chipNoteBack": "the story's clock"
+    },
+    {
+      "from": "story-one-square",
+      "to": "st-gv-abundance",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Greenvale abundance crisis; unsafe-grain rumors; land consolidation",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-one-square",
+      "to": "st-gv-land",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Greenvale abundance crisis; unsafe-grain rumors; land consolidation",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-one-square",
+      "to": "pp-rosana",
+      "layer": "st-story",
+      "type": "touches the domino of",
+      "basis": "stated",
+      "quote": "(her seed strain)",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Domino figure",
+      "chipBack": "Stories",
+      "chipNote": "her seed strain",
+      "chipNoteBack": "her seed strain"
+    },
+    {
+      "from": "story-greenvale-man",
+      "to": "northwind",
+      "layer": "st-story",
+      "type": "is set in",
+      "basis": "stated",
+      "quote": "Kettle Cove, a small … fishing town (provisional name)",
+      "src": "Sunday-Morning/Stories/The-Greenvale-Man.md#premise",
+      "chip": "Setting",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-greenvale-man",
+      "to": "f-last-sail",
+      "layer": "st-story",
+      "type": "runs up to",
+      "basis": "stated",
+      "quote": "Last Sail",
+      "src": "Sunday-Morning/Stories/The-Greenvale-Man.md#premise",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "chipNote": "the story's clock",
+      "chipNoteBack": "the story's clock"
+    },
+    {
+      "from": "story-greenvale-man",
+      "to": "st-nw-piracy",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Northwind piracy; accusations that clans shelter raiders; convoy politics",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-greenvale-man",
+      "to": "st-nw-convoy",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Northwind piracy; accusations that clans shelter raiders; convoy politics",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-greenvale-man",
+      "to": "pp-maris",
+      "layer": "st-story",
+      "type": "touches the domino of",
+      "basis": "stated",
+      "quote": "(her call for convoy patrols)",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Domino figure",
+      "chipBack": "Stories",
+      "chipNote": "her call for convoy patrols",
+      "chipNoteBack": "her call for convoy patrols"
+    },
+    {
+      "from": "story-goat-file",
+      "to": "highridge",
+      "layer": "st-story",
+      "type": "is set in",
+      "basis": "stated",
+      "quote": "Seven Wells, a … pass town (provisional name)",
+      "src": "Sunday-Morning/Stories/The-Goat-File.md#premise",
+      "chip": "Setting",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-goat-file",
+      "to": "f-ledger-closing",
+      "layer": "st-story",
+      "type": "runs up to",
+      "basis": "stated",
+      "quote": "Ledger Closing",
+      "src": "Sunday-Morning/Stories/The-Goat-File.md#premise",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "chipNote": "the story's clock",
+      "chipNoteBack": "the story's clock"
+    },
+    {
+      "from": "story-goat-file",
+      "to": "st-c2",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Port credit tightening; Highridge caravan attacks cutting trade",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-goat-file",
+      "to": "st-hr-attacks",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Port credit tightening; Highridge caravan attacks cutting trade",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-inspected",
+      "to": "stonefield",
+      "layer": "st-story",
+      "type": "is set in",
+      "basis": "stated",
+      "quote": "Setting: … Stonefield Forge",
+      "src": "Sunday-Morning/Stories/Inspected-Not-Guaranteed.md#premise",
+      "chip": "Setting",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-inspected",
+      "to": "f-forge-reawakening",
+      "layer": "st-story",
+      "type": "runs up to",
+      "basis": "stated",
+      "quote": "Forge Reawakening",
+      "src": "Sunday-Morning/Stories/Inspected-Not-Guaranteed.md#premise",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "chipNote": "the story's clock",
+      "chipNoteBack": "the story's clock"
+    },
+    {
+      "from": "story-inspected",
+      "to": "st-c9",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Tool orders fall; forges on short hours; strike talk; good steel vanishing into private contracts",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-inspected",
+      "to": "st-c10",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Tool orders fall; forges on short hours; strike talk; good steel vanishing into private contracts",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-inspected",
+      "to": "st-ic-labor",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Tool orders fall; forges on short hours; strike talk; good steel vanishing into private contracts",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-inspected",
+      "to": "st-ic-metal",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Tool orders fall; forges on short hours; strike talk; good steel vanishing into private contracts",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-inspected",
+      "to": "pp-orin",
+      "layer": "st-story",
+      "type": "touches the domino of",
+      "basis": "stated",
+      "quote": "(the pattern Col nearly follows)",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Domino figure",
+      "chipBack": "Stories",
+      "chipNote": "the pattern Col nearly follows",
+      "chipNoteBack": "the pattern Col nearly follows"
+    },
+    {
+      "from": "story-heavy-scale",
+      "to": "icestep",
+      "layer": "st-story",
+      "type": "is set in",
+      "basis": "stated",
+      "quote": "Setting: … Icestep Summit",
+      "src": "Sunday-Morning/Stories/The-Heavy-Scale.md#premise",
+      "chip": "Setting",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-heavy-scale",
+      "to": "f-pass-opening",
+      "layer": "st-story",
+      "type": "runs up to",
+      "basis": "stated",
+      "quote": "Pass Opening and Ice Breaking",
+      "src": "Sunday-Morning/Stories/The-Heavy-Scale.md#premise",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "chipNote": "the story's clock",
+      "chipNoteBack": "the story's clock"
+    },
+    {
+      "from": "story-heavy-scale",
+      "to": "f-ice-breaking",
+      "layer": "st-story",
+      "type": "runs up to",
+      "basis": "stated",
+      "quote": "Pass Opening and Ice Breaking",
+      "src": "Sunday-Morning/Stories/The-Heavy-Scale.md#premise",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "chipNote": "the story's clock",
+      "chipNoteBack": "the story's clock"
+    },
+    {
+      "from": "story-heavy-scale",
+      "to": "st-hr-attacks",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Caravan attacks; route redirection",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-heavy-scale",
+      "to": "st-hr-routes",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Caravan attacks; route redirection",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-heavy-scale",
+      "to": "pp-samir",
+      "layer": "st-story",
+      "type": "touches the domino of",
+      "basis": "stated",
+      "quote": "(travels with the first caravan)",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Domino figure",
+      "chipBack": "Stories",
+      "chipNote": "travels with the first caravan",
+      "chipNoteBack": "travels with the first caravan"
+    },
+    {
+      "from": "story-tree",
+      "to": "twilighthollow",
+      "layer": "st-story",
+      "type": "is set in",
+      "basis": "stated",
+      "quote": "Setting: … Twilighthollow",
+      "src": "Sunday-Morning/Stories/The-Tree-With-a-Debt.md#premise",
+      "chip": "Setting",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-tree",
+      "to": "f-canopy-vigil",
+      "layer": "st-story",
+      "type": "runs up to",
+      "basis": "stated",
+      "quote": "Canopy Vigil and Midsummer Debates",
+      "src": "Sunday-Morning/Stories/The-Tree-With-a-Debt.md#premise",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "chipNote": "the story's clock",
+      "chipNoteBack": "the story's clock"
+    },
+    {
+      "from": "story-tree",
+      "to": "f-midsummer-debates",
+      "layer": "st-story",
+      "type": "runs up to",
+      "basis": "stated",
+      "quote": "Canopy Vigil and Midsummer Debates",
+      "src": "Sunday-Morning/Stories/The-Tree-With-a-Debt.md#premise",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "chipNote": "the story's clock",
+      "chipNoteBack": "the story's clock"
+    },
+    {
+      "from": "story-tree",
+      "to": "st-dw-road",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Deepwood road and logging conflict; Council infrastructure interest",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-tree",
+      "to": "pp-naruin",
+      "layer": "st-story",
+      "type": "touches the domino of",
+      "basis": "stated",
+      "quote": "(Sessa's senior warden)",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Domino figure",
+      "chipBack": "Stories",
+      "chipNote": "Sessa's senior warden",
+      "chipNoteBack": "Sessa's senior warden"
+    },
+    {
+      "from": "story-three-pots",
+      "to": "port",
+      "layer": "st-story",
+      "type": "is set in",
+      "basis": "stated",
+      "quote": "one Port neighborhood",
+      "src": "Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md#premise",
+      "chip": "Setting",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-three-pots",
+      "to": "f-three-moon-festival",
+      "layer": "st-story",
+      "type": "runs up to",
+      "basis": "stated",
+      "quote": "Three Moon Festival",
+      "src": "Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md#premise",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "chipNote": "the story's clock",
+      "chipNoteBack": "the story's clock"
+    },
+    {
+      "from": "story-three-pots",
+      "to": "st-pt-refugees",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Refugee and worker pressure; smuggling surge; Deepwood fungal disruption",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-three-pots",
+      "to": "st-pt-smuggling",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Refugee and worker pressure; smuggling surge; Deepwood fungal disruption",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-three-pots",
+      "to": "st-dw-fungal",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Refugee and worker pressure; smuggling surge; Deepwood fungal disruption",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-one-square",
+      "to": "st-sp-coalition",
+      "layer": "st-story",
+      "type": "may later feed",
+      "basis": "stated",
+      "quote": "a precedent rivals could later read as a bloc forming",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Outward effect",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "a grain partnership read as a bloc",
+      "chipNoteBack": "One Square's grain partnership"
+    },
+    {
+      "from": "story-one-square",
+      "to": "pp-villain",
+      "layer": "st-behind",
+      "type": "may have behind it",
+      "basis": "stated",
+      "quote": "Rumor: Villain-amplified.",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Behind it",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "the rumor, provisional",
+      "chipNoteBack": "the rumor, provisional"
+    },
+    {
+      "from": "story-greenvale-man",
+      "to": "pp-villain",
+      "layer": "st-behind",
+      "type": "may have behind it",
+      "basis": "stated",
+      "quote": "Villain-amplified rumor",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Behind it",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "the rumor, provisional",
+      "chipNoteBack": "the rumor, provisional"
+    },
+    {
+      "from": "story-inspected",
+      "to": "pp-villain",
+      "layer": "st-behind",
+      "type": "may have behind it",
+      "basis": "stated",
+      "quote": "Villain (provisional): the same approach that took Orin",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Behind it",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "the patron's letter, provisional",
+      "chipNoteBack": "the patron's letter, provisional"
+    },
+    {
+      "from": "story-heavy-scale",
+      "to": "pp-villain",
+      "layer": "st-behind",
+      "type": "may have behind it",
+      "basis": "stated",
+      "quote": "the concentration pressure is the Villain's pattern",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Behind it",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "the concentration pressure, provisional",
+      "chipNoteBack": "the concentration pressure, provisional"
+    },
+    {
+      "from": "story-tree",
+      "to": "pp-villain",
+      "layer": "st-behind",
+      "type": "may have behind it",
+      "basis": "stated",
+      "quote": "The Villain, through a Port intermediary",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Behind it",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "the buyer's letter, provisional",
+      "chipNoteBack": "the buyer's letter, provisional"
+    },
+    {
+      "from": "story-tree",
+      "to": "st-dw-leak",
+      "layer": "st-behind",
+      "type": "may have behind it",
+      "basis": "stated",
+      "quote": "The pledges are meant to become leaked evidence for Naruin",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Behind it",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "the pledges as leak evidence, provisional",
+      "chipNoteBack": "the pledges as leak evidence, provisional"
+    },
+    {
+      "from": "story-goat-file",
+      "to": "st-c6",
+      "layer": "st-behind",
+      "type": "may have behind it",
+      "basis": "stated",
+      "quote": "Council finance stabilizing lenders (ordinary pressure, not a scheme)",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Behind it",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "ordinary pressure, not a scheme, provisional",
+      "chipNoteBack": "ordinary pressure, not a scheme, provisional"
+    },
+    {
+      "from": "story-one-square",
+      "to": "story-greenvale-man",
+      "layer": "st-story",
+      "type": "shares a thread with",
+      "basis": "stated",
+      "quote": "grain sacks stamped",
+      "src": "Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger",
+      "chip": "Linked story",
+      "chipBack": "Linked story",
+      "chipNote": "a stamped grain sack",
+      "chipNoteBack": "a stamped grain sack"
+    },
+    {
+      "from": "story-one-square",
+      "to": "story-greenvale-man",
+      "layer": "st-story",
+      "type": "shares a thread with",
+      "basis": "stated",
+      "quote": "the old builder's letter",
+      "src": "Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger",
+      "chip": "Linked story",
+      "chipBack": "Linked story",
+      "chipNote": "old Scarth's letter",
+      "chipNoteBack": "old Scarth's letter"
+    },
+    {
+      "from": "story-one-square",
+      "to": "story-three-pots",
+      "layer": "st-story",
+      "type": "shares a thread with",
+      "basis": "stated",
+      "quote": "the polite land agent",
+      "src": "Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger",
+      "chip": "Linked story",
+      "chipBack": "Linked story",
+      "chipNote": "the polite land agent",
+      "chipNoteBack": "the polite land agent"
+    },
+    {
+      "from": "story-goat-file",
+      "to": "story-heavy-scale",
+      "layer": "st-story",
+      "type": "shares a thread with",
+      "basis": "stated",
+      "quote": "Samir Tareh | The Goat File, s8",
+      "src": "Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger",
+      "chip": "Linked story",
+      "chipBack": "Linked story",
+      "chipNote": "Samir Tareh",
+      "chipNoteBack": "Samir Tareh"
+    },
+    {
+      "from": "story-heavy-scale",
+      "to": "story-three-pots",
+      "layer": "st-story",
+      "type": "shares a thread with",
+      "basis": "stated",
+      "quote": "the Deepwood caravan cook, Garro Sedgewater",
+      "src": "Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger",
+      "chip": "Linked story",
+      "chipBack": "Linked story",
+      "chipNote": "Garro the caravan cook",
+      "chipNoteBack": "Garro the caravan cook"
+    },
+    {
+      "from": "story-inspected",
+      "to": "story-tree",
+      "layer": "st-story",
+      "type": "shares a thread with",
+      "basis": "stated",
+      "quote": "the connected offers",
+      "src": "Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger",
+      "chip": "Linked story",
+      "chipBack": "Linked story",
+      "chipNote": "the same unsigned offers",
+      "chipNoteBack": "the same unsigned offers"
+    },
+    {
+      "from": "st-c5",
+      "to": "st-c9",
+      "layer": "st-sm",
+      "type": "leads to (in the Sunday Morning stories)",
+      "basis": "stated",
+      "quote": "Greenvale farms hit by last autumn's grain collapse stopped ordering new tools",
+      "src": "Sunday-Morning/Stories/Inspected-Not-Guaranteed.md#place",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "chipNote": "farms stop ordering tools, Sunday Morning",
+      "chipNoteBack": "farms stop ordering tools, Sunday Morning"
+    },
+    {
+      "from": "st-dw-fungal",
+      "to": "st-pt-refugees",
+      "layer": "st-sm",
+      "type": "leads to (in the Sunday Morning stories)",
+      "basis": "stated",
+      "quote": "on the caravans since a fungal blight took his village's mushroom harvest",
+      "src": "Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md#cast",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "chipNote": "a blighted village's cook heads for Port, Sunday Morning",
+      "chipNoteBack": "a blighted village's cook heads for Port, Sunday Morning"
+    },
+    {
+      "from": "st-gv-land",
+      "to": "st-pt-refugees",
+      "layer": "st-sm",
+      "type": "leads to (in the Sunday Morning stories)",
+      "basis": "stated",
+      "quote": "newly arrived from a Greenvale farm they had to sell to a land agent last year",
+      "src": "Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md#cast",
+      "chip": "Leads to",
+      "chipBack": "Follows from",
+      "chipNote": "sold-up families reach Port, Sunday Morning",
+      "chipNoteBack": "sold-up families reach Port, Sunday Morning"
+    },
+    {
+      "from": "seed-mushrooms",
+      "to": "underpass",
+      "layer": "st-story",
+      "type": "is set in",
+      "basis": "stated",
+      "quote": "The Underpass",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-mushrooms-from-nowhere",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-mushrooms",
+      "to": "highridge",
+      "layer": "st-story",
+      "type": "is set in",
+      "basis": "stated",
+      "quote": "a Highridge caravan fair",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-mushrooms-from-nowhere",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-mushrooms",
+      "to": "st-sx-routewars",
+      "layer": "st-story",
+      "type": "would sit on",
+      "basis": "stated",
+      "quote": "collapses have redirected",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-mushrooms-from-nowhere",
+      "chip": "Sits on",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "possible thread",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-bathhouse",
+      "to": "darkroot",
+      "layer": "st-story",
+      "type": "is set in",
+      "basis": "stated",
+      "quote": "Darkroot Gulch",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-bathhouse-compact",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-bathhouse",
+      "to": "st-ic-metal",
+      "layer": "st-story",
+      "type": "would sit on",
+      "basis": "stated",
+      "quote": "good metal is vanishing into private contracts",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-bathhouse-compact",
+      "chip": "Sits on",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "possible thread",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-ladder",
+      "to": "sunplains",
+      "layer": "st-story",
+      "type": "is set in",
+      "basis": "stated",
+      "quote": "Sunplains",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-ladder-rules",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-ladder",
+      "to": "f-solstice-lanterns",
+      "layer": "st-story",
+      "type": "runs up to",
+      "basis": "stated",
+      "quote": "Solstice Lanterns, midwinter",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-ladder-rules",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-ladder",
+      "to": "st-sp-drought",
+      "layer": "st-story",
+      "type": "would sit on",
+      "basis": "stated",
+      "quote": "drought anxiety and city-state coordination",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-ladder-rules",
+      "chip": "Sits on",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "possible thread",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-ladder",
+      "to": "st-sp-coalition",
+      "layer": "st-story",
+      "type": "would sit on",
+      "basis": "stated",
+      "quote": "drought anxiety and city-state coordination",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-ladder-rules",
+      "chip": "Sits on",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "possible thread",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-talker",
+      "to": "deepwood",
+      "layer": "st-story",
+      "type": "is set in",
+      "basis": "stated",
+      "quote": "Deepwood",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-talker",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-talker",
+      "to": "f-deep-silence",
+      "layer": "st-story",
+      "type": "runs up to",
+      "basis": "stated",
+      "quote": "Deep Silence, midwinter",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-talker",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-talker",
+      "to": "st-dw-fungal",
+      "layer": "st-story",
+      "type": "would sit on",
+      "basis": "stated",
+      "quote": "fungal disruption",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-talker",
+      "chip": "Sits on",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "possible thread",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-ladder",
+      "to": "pp-bahriyya",
+      "layer": "st-story",
+      "type": "would touch",
+      "basis": "stated",
+      "quote": "a rival city reads the lamplighters' deal as a sign of Bahriyya Nazar's coalition",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-ladder-rules",
+      "chip": "Domino figure",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "possible thread",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "sm-pell-anwick",
+      "to": "story-one-square",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "One Square | Pell Anwick | retired water arbiter",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "protagonist",
+      "chipNoteBack": "protagonist"
+    },
+    {
+      "from": "sm-bettany-corlew",
+      "to": "story-one-square",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "One Square | Bettany Corlew | Harvest Home chair",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-idris-salve",
+      "to": "story-one-square",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "One Square | Idris Salve | Salve heir, runs the Crush",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-hobb",
+      "to": "story-one-square",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "One Square | Hobb | miller",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-aurel",
+      "to": "story-one-square",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "One Square | Aurel | canal gatekeeper",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-lissa",
+      "to": "story-one-square",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "One Square | Lissa | Pell's granddaughter",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-mattie-scarth",
+      "to": "story-one-square",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "One Square | Mattie Scarth | old Scarth's son (mentioned)",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "mentioned",
+      "chipNoteBack": "mentioned"
+    },
+    {
+      "from": "sm-thistle",
+      "to": "story-one-square",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "One Square | Thistle | farm family (mentioned)",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "mentioned",
+      "chipNoteBack": "mentioned"
+    },
+    {
+      "from": "sm-upcott",
+      "to": "story-one-square",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "One Square | Upcott | farm family (mentioned)",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "mentioned",
+      "chipNoteBack": "mentioned"
+    },
+    {
+      "from": "sm-bray",
+      "to": "story-one-square",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "One Square | Bray | farm family (mentioned)",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "mentioned",
+      "chipNoteBack": "mentioned"
+    },
+    {
+      "from": "sm-aldo-fenwright",
+      "to": "story-greenvale-man",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Greenvale Man | Aldo Fenwright | cooper",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "protagonist",
+      "chipNoteBack": "protagonist"
+    },
+    {
+      "from": "sm-hild-fenwright",
+      "to": "story-greenvale-man",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Greenvale Man | Hild Fenwright | net-mender, Aldo's wife",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-brenna-scarth",
+      "to": "story-greenvale-man",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Greenvale Man | Brenna Scarth | sailor, builder's daughter",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-rask",
+      "to": "story-greenvale-man",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Greenvale Man | Rask | clan elder",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-sigra-ulfsen",
+      "to": "story-greenvale-man",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Greenvale Man | Sigra Ulfsen | Narrow Sound rower",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-scarth",
+      "to": "story-greenvale-man",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Greenvale Man | Scarth | retired boatbuilder (letters; appears in One Square)",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "pp-maris",
+      "to": "story-greenvale-man",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Greenvale Man | Maris Bleakshore | Northwind domino figure",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "canon figure",
+      "chipNoteBack": "canon figure"
+    },
+    {
+      "from": "sm-wen-ostry",
+      "to": "story-goat-file",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Goat File | Wen Ostry | junior arbitration clerk",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "protagonist",
+      "chipNoteBack": "protagonist"
+    },
+    {
+      "from": "sm-ebbe-tarrow",
+      "to": "story-goat-file",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Goat File | Ebbe Tarrow | caravan house elder",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-mardin-kesh",
+      "to": "story-goat-file",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Goat File | Mardin Kesh | cistern house elder",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-lio-tarrow",
+      "to": "story-goat-file",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Goat File | Lio Tarrow | Ebbe's grandson",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-nessa-kesh",
+      "to": "story-goat-file",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Goat File | Nessa Kesh | Mardin's granddaughter",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-oriel",
+      "to": "story-goat-file",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Goat File | Oriel | archive custodian",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-hanne-tarrow",
+      "to": "story-goat-file",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Goat File | Hanne Tarrow | Ebbe's mother (memo)",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "mentioned",
+      "chipNoteBack": "mentioned"
+    },
+    {
+      "from": "sm-dalia-kesh",
+      "to": "story-goat-file",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Goat File | Dalia Kesh | Mardin's mother (memo)",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "mentioned",
+      "chipNoteBack": "mentioned"
+    },
+    {
+      "from": "pp-samir",
+      "to": "story-goat-file",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Goat File | Samir Tareh | caravan negotiator",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "canon figure",
+      "chipNoteBack": "canon figure"
+    },
+    {
+      "from": "pp-wurdren",
+      "to": "story-inspected",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Inspected | Wurdren | protagonist of the saga",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "canon figure",
+      "chipNoteBack": "canon figure"
+    },
+    {
+      "from": "sm-tamsin-rake",
+      "to": "story-inspected",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Inspected | Tamsin Rake | smith",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-col-barrowfield",
+      "to": "story-inspected",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Inspected | Col Barrowfield | apprentice",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-kerra-dunnock",
+      "to": "story-inspected",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Inspected | Kerra Dunnock | apprentice",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-oswin-vey",
+      "to": "story-inspected",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Inspected | Oswin Vey | guildmaster",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-nell-haskett",
+      "to": "story-inspected",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Inspected | Nell Haskett | farmer, census-taker",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "pp-orin",
+      "to": "story-inspected",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Inspected | Orin Slatehallow | Ironcrest domino figure (gossip)",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "gossip",
+      "chipNoteBack": "gossip"
+    },
+    {
+      "from": "sm-anselm-quill",
+      "to": "story-heavy-scale",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Heavy Scale | Anselm Quill | weigher",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "protagonist",
+      "chipNoteBack": "protagonist"
+    },
+    {
+      "from": "sm-brisa-zell",
+      "to": "story-heavy-scale",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Heavy Scale | Brisa Zell | innkeeper",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-tove-askell",
+      "to": "story-heavy-scale",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Heavy Scale | Tove Askell | salt-fish trader",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-dorran-pike",
+      "to": "story-heavy-scale",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Heavy Scale | Dorran Pike | customs chief",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-grell",
+      "to": "story-heavy-scale",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Heavy Scale | Grell | repair smith",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-maudie-vance",
+      "to": "story-heavy-scale",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Heavy Scale | Maudie Vance | shrine keeper",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-garro-sedgewater",
+      "to": "story-heavy-scale",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Heavy Scale | Garro Sedgewater | caravan cook (also Three Pots)",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-sessa-yewbrook",
+      "to": "story-tree",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Tree | Sessa Yewbrook | forest warden",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "protagonist",
+      "chipNoteBack": "protagonist"
+    },
+    {
+      "from": "sm-ismet-carrow",
+      "to": "story-tree",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Tree | Ismet Carrow | route surveyor",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "protagonist",
+      "chipNoteBack": "protagonist"
+    },
+    {
+      "from": "sm-hollis-varne",
+      "to": "story-tree",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Tree | Hollis Varne | lender's grandson",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-pip",
+      "to": "story-tree",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Tree | Pip | child who climbs the tree",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-contract",
+      "to": "story-tree",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Tree | Contract | mule",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "pp-naruin",
+      "to": "story-tree",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Tree | Naruin Mossglade | Deepwood domino figure (offstage)",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "offstage",
+      "chipNoteBack": "offstage"
+    },
+    {
+      "from": "sm-jory",
+      "to": "story-three-pots",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Three Pots | Jory | court interpreter",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "protagonist",
+      "chipNoteBack": "protagonist"
+    },
+    {
+      "from": "sm-mother-seral",
+      "to": "story-three-pots",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Three Pots | Mother Seral | grandmother",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-tobiah",
+      "to": "story-three-pots",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Three Pots | Tobiah | eldest grandchild",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-ines",
+      "to": "story-three-pots",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Three Pots | Ines | grandchild",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-amaranth-doss",
+      "to": "story-three-pots",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Three Pots | Amaranth Doss | permit clerk",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-halloran",
+      "to": "story-three-pots",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Three Pots | Halloran | market inspector",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-mrs-arden",
+      "to": "story-three-pots",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Three Pots | Mrs. Arden | Greenvale newcomer",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "pp-samir",
+      "to": "story-heavy-scale",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Samir Tareh** — a Highridge caravan negotiator who rides with the first caravan of the year.",
+      "src": "Sunday-Morning/Stories/The-Heavy-Scale.md#cast",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "canon figure",
+      "chipNoteBack": "canon figure"
+    },
+    {
+      "from": "sm-garro-sedgewater",
+      "to": "story-three-pots",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Garro Sedgewater | caravan cook (also Three Pots)",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    },
+    {
+      "from": "sm-scarth",
+      "to": "story-one-square",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "retired boatbuilder (letters; appears in One Square)",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast"
+    }
+  ],
+  "gaps": [
+    "**The ripple chain is one possible chain, not the plot.** Current Events offers thirteen steps as \"the kind of causal chain the story should prefer\"; every chain link here is marked possible. Where other events feed the final step (Northwind convoys, Naruin's leak, the Sunplains coalition), the link is the Atlas's reading, inferred and off by default. So are links that join two separate entries without a page saying so (Highridge rerouting to Port smuggling, Deepwood's road plans to Naruin's leak, drought to coalition, the faiths to step 8, and Underpass route wars to Port smuggling, which the earlier Domino Map had marked canon). The chain steps have their own cards, so each event card keeps only the causes Current Events gives it.",
+    "**Six current events touch no story yet:** Northwind's fish stocks, Highridge's patron-tied debates, the Spine earthquake, the faiths' reading of the crises, the Underpass route wars (only a seed) and Sunplains drought (only a seed). Of the cross-region chain steps, only Council finance steadying lenders sits behind a story (The Goat File, as ordinary pressure, provisional).",
+    "**Nothing is dated.** The Sunday Morning calendar (Year 1 autumn to Year 2 autumn) is a provisional collection design, and Current Events is a snapshot \"shortly before or during the opening movement\", not a timeline.",
+    "**Who is behind each nail is provisional.** The Collection's \"Behind it\" column is an out-of-story attribution that nobody in the stories knows; one land agent is marked unknown, and the Villain's identity and plan remain open questions.",
+    "**Orin has no stated domino,** and **Rosana's strain isn't tied to the abundance crisis on any canon page.** Orin's link to the metal movements is inferred from his strategic value. Current Events says \"a new strain, unusually good weather, or both\"; only the Sunday Morning collection makes it her seed. That link is inferred here.",
+    "**Two Sunday Morning settings aren't in the wiki.** Kettle Cove and Seven Wells are provisional names used only by their stories, so those stories point at Northwind and Highridge instead of a town.",
+    "**The main saga has no events of its own yet.** Main Conflict gives the three forces, a chapter-chain pattern, an escalation ladder and a possible ending, but no named chapter, battle or turning point; everything on this layer is the world before the saga starts.",
+    "**The Domino Map stays as its own page for now.** Its data is carried into this part; retiring it or regenerating it from the Atlas is James's call."
+  ]
+}
