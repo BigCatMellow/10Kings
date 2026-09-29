@@ -6,7 +6,7 @@
 
 The calendar and every attribution below are **provisional**. The Villain's identity and plan remain [open questions](../../Open-Questions.md#villain), and [Current Events](../../Story/Current-Events.md) hasn't been audited against a final map. Rules for the world tie are on [Rules](Rules.md#the-world-tie-rule-connected-not-driven).
 
-**Development level: L2 Outlined** at collection level (the THINK and PLAN pass below, 2026-09-27). All seven stories are drafted to L3; see the [story index](../README.md#stories).
+**Development level: L2 Outlined** at collection level (the THINK and PLAN pass below, 2026-09-27). All seven stories are drafted to L3; see the [story index](../README.md#read-the-stories).
 
 ## The collection in one sentence
 

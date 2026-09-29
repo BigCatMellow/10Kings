@@ -56,8 +56,7 @@
 - [Character Roster](Story/Character-Roster.md)
 
 **Sunday Morning Stories**
-- [Stories](Sunday-Morning/README.md)
-- [Drafts](Sunday-Morning/Drafts/README.md)
+- [Read the stories](Sunday-Morning/README.md#read-the-stories)
 - [Notes index](Sunday-Morning/Notes/README.md)
 - [Rules](Sunday-Morning/Notes/Rules.md)
 - [Craft](Sunday-Morning/Notes/Craft.md)

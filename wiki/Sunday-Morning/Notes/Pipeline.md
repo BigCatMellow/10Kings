@@ -35,7 +35,7 @@ This is the Pilot idea lifecycle (THINK → PLAN → DO → JUDGE → RECONCILE)
 
 ## Development levels (what DONE means)
 
-MAPS_L requires DONE to be defined before work starts. Choose a target level per story. Each story's current level is on its page and in the [story index](../README.md#stories).
+MAPS_L requires DONE to be defined before work starts. Choose a target level per story. Each story's current level is on its page and in the [story index](../README.md#read-the-stories).
 
 | Level | DONE when | Lives in |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ MAPS_L requires DONE to be defined before work starts. Choose a target level per
 3. Run the Framework [checklist](Sources/Framework.md#20-the-sunday-morning-story-checklist) and the [Two Sons addendum](Rules.md#checklist-addendum).
 4. Register every new name in the [Registry](Registry.md#names) now, not after drafting, and run the checker.
 5. Create a page in `Stories/` using the existing pages' section order: Status, Premise, Protagonist, Place, Cast, Problem, Complications, Running elements, Emotional core, Climax, Soft landing, World anchors, Larger-world thread, Development record.
-6. Add it to the [story index](../README.md#stories) at **L0**. Undeveloped premises go to [Story Seeds](../Stories/Story-Seeds.md).
+6. Add it to the [story index](../README.md#read-the-stories) at **L0**. Undeveloped premises go to [Story Seeds](../Stories/Story-Seeds.md).
 
 ## Stage 1 — THINK: harden the concept
 
@@ -217,7 +217,7 @@ Findings go back through the routing table in Stage 3. **L4 also requires James 
 
 Follow MAPS_L's [Information Lifecycle](https://github.com/BigCatMellow/MAPS_Lean/blob/main/playbook/INFORMATION_LIFECYCLE.md) and the [notes rules](README.md#keeping-the-notes-tidy):
 
-- update the story page's level and Development record, and the [story index](../README.md#stories);
+- update the story page's level and Development record, and the [story index](../README.md#read-the-stories);
 - keep discarded alternatives in the record, since a revision may revive one;
 - apply the [promotion rule](Rules.md#promotion-rule) to any detail that should become canon;
 - give premise seeds a simple status: `ACTIVE`, `PARKED`, `PARTIAL` (the idea failed but a fragment survives) or `DEAD_END` (with a reason). These labels come from THINK's idea vocabulary; the Idea Ecology machinery behind them is not used.

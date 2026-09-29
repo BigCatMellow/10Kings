@@ -4,7 +4,7 @@
 
 **Index. Writing reference, not setting canon.** Every working note for the Sunday Morning stories lives in this folder, organized with MAPS_L: **one concept, one owner**, each note labeled by the kind of information it holds and its lifecycle state, and linked rather than repeated. Start here.
 
-The stories live next door: the [story index](../README.md#stories), the story pages in `Stories/` and the [drafts](../Drafts/README.md). Each story page owns its own plan and development record; nothing about a single story is kept here. On setting facts, the wiki's own owner pages outrank everything in this folder.
+The stories live next door: the [story index](../README.md#read-the-stories), the story pages in `Stories/` and the [drafts](../Drafts/README.md). Each story page owns its own plan and development record; nothing about a single story is kept here. On setting facts, the wiki's own owner pages outrank everything in this folder.
 
 ## Order of authority
 
