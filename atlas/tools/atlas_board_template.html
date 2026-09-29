@@ -81,10 +81,12 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: 2.2rem; line
 .chiprow { font-size: 11px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 3px 4px; align-items: center; }
 .chiprow b { font-weight: 600; color: var(--muted); margin-right: 2px; }
 .chiprow .none { font-style: italic; opacity: .8; }
-.chip { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 4px; font-size: 11px; line-height: 1.2; padding: 2px 6px; border-radius: 999px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); }
+.chip { display: inline-flex; align-items: flex-start; max-width: 100%; gap: 4px; font-size: 11px; line-height: 1.2; padding: 2px 6px; border-radius: 999px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); }
 .chip small { font-size: 10px; color: var(--muted); white-space: nowrap; }
 .chip.inferred small { color: inherit; }
-.chip i { width: 7px; height: 7px; border-radius: 50%; background: var(--dc); flex: none; }
+.chip i { width: 7px; height: 7px; border-radius: 50%; background: var(--dc); flex: none; margin-top: 3px; }
+.chip > span { min-width: 0; }
+.chip small { white-space: normal; }
 .chip.likely, .chip.working { border-style: dashed; }
 .chip.possible { border-style: dotted; }
 .chip.inferred { border: 1px dashed var(--inferred); color: var(--inferred); background: transparent; }
@@ -218,10 +220,10 @@ const DATA = /*ATLAS_DATA*/null;
       const cls = [e.basis === "inferred" ? "inferred" : "", cert].join(" ");
       const goods = e.goods && e.chipGoods !== false ? ` <small>${esc(e.goods)}</small>` : "";
       const notes = [side.note, cert].filter(Boolean).join(", ");
-      (rows[side.row] = rows[side.row] || []).push(`<span class="chip ${cls}" data-basis="${e.basis}" style="--dc:${nodeColor(o)}"><i></i>${esc(o.short || o.label)}${goods}${notes ? ` <small>(${esc(notes)})</small>` : ""}</span>`);
+      (rows[side.row] = rows[side.row] || []).push(`<span class="chip ${cls}" data-basis="${e.basis}" style="--dc:${nodeColor(o)}"><i></i><span>${esc(o.short || o.label)}${goods}${notes ? ` <small>(${esc(notes)})</small>` : ""}</span></span>`);
     });
     return layout.filter((r) => !skip.includes(r.label) && (rows[r.label].length || r.always)).map((r) =>
-      `<span class="chiprow" data-rowpart="${esc(r.part)}"><b>${esc(r.label)}</b>${rows[r.label].length ? rows[r.label].join("") : `<span class="none">none stated</span>`}</span>`).join("");
+      `<span class="chiprow" data-rowpart="${esc(r.part)}"${r.always ? " data-always" : ""}><b>${esc(r.label)}</b>${rows[r.label].length ? rows[r.label].join("") + `<span class="none" hidden>none stated</span>` : `<span class="none">none stated</span>`}</span>`).join("");
   }
   function card(n) {
     const c = document.createElement("div");
@@ -270,7 +272,10 @@ const DATA = /*ATLAS_DATA*/null;
     document.querySelectorAll(".chip").forEach((c) => { c.hidden = c.dataset.basis === "inferred" && !inferredOn(); });
     document.querySelectorAll(".chiprow").forEach((r) => {
       const hasChips = !!r.querySelector(".chip"), anyShown = !!r.querySelector(".chip:not([hidden])");
-      r.hidden = hasChips ? !anyShown : !partOn[r.dataset.rowpart];
+      // an "always" row whose only tags are hidden inferred ones still says so, instead of vanishing
+      r.hidden = !hasChips ? !partOn[r.dataset.rowpart] : anyShown ? false : !("always" in r.dataset) || !partOn[r.dataset.rowpart];
+      const none = r.querySelector(".none");
+      if (none && hasChips) none.hidden = anyShown;
     });
     Object.values(laneEls).forEach((l) => { l.hidden = !l.querySelector(".section:not([hidden])"); });
     document.querySelectorAll("#gaps [data-part]").forEach((g) => { g.hidden = !partOn[g.dataset.part]; });

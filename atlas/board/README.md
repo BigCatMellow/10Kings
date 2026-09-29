@@ -15,6 +15,7 @@ The whole setting on one board: one column per region, with a heading for each p
 | --- | --- | --- | --- | --- |
 | 1. Regions and Geography | Geography | 25 | 47 | [regions](../regions/README.md) |
 | 2. Culture | Culture | 44 | 21 | [culture](../culture/README.md) |
+| 3. Food | Food | 72 | 127 | [food](../food/README.md) |
 
 ## Card layouts
 
@@ -27,12 +28,15 @@ Every card of a kind shows the same rows and facts in the same order, set by eac
 | Neutral city | Sea partners, In its sphere, Nomad circuit *(when present)* | Position, Territory, Exports, Imports, Why it stays central |
 | Mountain system | Spine & Underpass, Regions | Touches, Seasons |
 | Underground network | Spine & Underpass, Regions | Functional adjacency, Claims, Named entrances |
-| Border town | Between, Culture | — |
+| Border town | Between, Culture, Border dishes | — |
 | Unplaced name | — | — |
 | Culture | Mixes with, Border towns | Aim, Values, Inspiration, Speech, Building, Place names, Mixing *(when present)*, Story use *(when present)* |
 | In-world saying | — | Employers' biased shortcut *(when present)* |
-| Festival | — | — |
+| Festival | Food | — |
 | Mobile people | Circuit may include | Why they move, Appalachian influence, Rights, What they carry, Who wants them, Don't |
+| Cuisine | Dishes, Border dishes, Blends with, Imports from, Supplies *(when present)*, Adapted abroad *(when present)*, Adapted here *(when present)*, Festivals *(when present)* | Staples, Techniques, Everyday meals, Celebrations, Drinks, Cooking bias, Class and variation, Avoid |
+| Dish | Cuisine, Between *(when present)*, Border town *(when present)*, Festival, Adapted as *(when present)* | Why it exists, Key ingredients, Method, Variations *(when present)*, Serving *(when present)*, Real-world inspiration *(when present)*, Note *(when present)* |
+| Diaspora example | Starts from, Home cuisine, Could move to | What survives, What changes, Caution |
 
 ## Columns
 

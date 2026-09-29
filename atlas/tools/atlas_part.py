@@ -219,6 +219,12 @@ def mermaid(d, names):
     return "\n".join(lines)
 
 
+def plural(word, n):
+    if n == 1:
+        return word
+    return word + ("es" if word.endswith(("s", "x", "sh", "ch")) else "s")
+
+
 def write_md(d, allnodes, kinds, lanes, board_live, schema):
     path = d["_path"]
     outdir = os.path.dirname(path)
@@ -234,7 +240,7 @@ def write_md(d, allnodes, kinds, lanes, board_live, schema):
         out.append(d["schematic"] + "\n")
     c = collections.Counter(n["kind"] for n in d["nodes"])
     s = collections.Counter(e["basis"] for e in d["edges"])
-    out.append("**Counts:** " + ", ".join(f"{v} {kinds[k].lower()}{'s' if v != 1 else ''}" for k, v in c.items()) + f"; {len(d['edges'])} connections ({s['stated']} stated in the wiki, {s['inferred']} inferred).\n")
+    out.append("**Counts:** " + ", ".join(f"{v} {plural(kinds[k].lower(), v)}" for k, v in c.items()) + f"; {len(d['edges'])} connections ({s['stated']} stated in the wiki, {s['inferred']} inferred).\n")
     out.append("## Gaps this part exposes\n")
     out.append("Things the wiki doesn't settle yet. Listed for James to decide; nothing here was filled in.\n")
     out += [f"- {g}" for g in d.get("gaps", [])]

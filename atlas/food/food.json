@@ -1,0 +1,3036 @@
+{
+  "part": 3,
+  "short": "Food",
+  "title": "Food",
+  "subtitle": "Every named dish in the wiki, the regional cuisine it belongs to, where cuisines blend at the borders, the food imports the wiki names, and the two illustrative diaspora paths.",
+  "schematic": "A cuisine card sits at the top of each region's Food heading, then its dishes. Fusion dishes sit in the Border towns column with the two cuisines they blend. Guardian Stew and Forgefire Roast also get an \"Away from home\" card for the diaspora page's example of how each might change in another region. Every recipe page is Provisional: a named recipe does not become canon by being listed here.",
+  "about": "Atlas Part 3. Sources: Food, the Recipes pages (six regional books and Border Fusions), Food Diaspora and Adaptation, and the Food sections of the region pages.",
+  "kinds": {
+    "cuisine": "Cuisine",
+    "dish": "Dish",
+    "adaptation": "Diaspora example"
+  },
+  "layers": [
+    {
+      "id": "food-cuisine",
+      "label": "Dishes in each cuisine",
+      "default": true
+    },
+    {
+      "id": "food-border",
+      "label": "Border dishes",
+      "default": true
+    },
+    {
+      "id": "food-blend",
+      "label": "Where cuisines blend",
+      "default": true
+    },
+    {
+      "id": "food-import",
+      "label": "Food imports",
+      "default": true
+    },
+    {
+      "id": "food-diaspora",
+      "label": "Diaspora",
+      "default": true
+    },
+    {
+      "id": "food-town",
+      "label": "Border towns' dishes (inferred)",
+      "default": false
+    },
+    {
+      "id": "food-festival",
+      "label": "Festival food (inferred)",
+      "default": false
+    }
+  ],
+  "card_schema": {
+    "cuisine": {
+      "rows": [
+        {
+          "label": "Dishes",
+          "always": true
+        },
+        {
+          "label": "Border dishes",
+          "always": true
+        },
+        {
+          "label": "Blends with",
+          "always": true
+        },
+        {
+          "label": "Imports from",
+          "always": true
+        },
+        {
+          "label": "Supplies",
+          "always": false
+        },
+        {
+          "label": "Adapted abroad",
+          "always": false
+        },
+        {
+          "label": "Adapted here",
+          "always": false
+        },
+        {
+          "label": "Festivals",
+          "always": false
+        }
+      ],
+      "facts": [
+        {
+          "key": "Staples",
+          "always": true
+        },
+        {
+          "key": "Techniques",
+          "always": true
+        },
+        {
+          "key": "Everyday meals",
+          "always": true
+        },
+        {
+          "key": "Celebrations",
+          "always": true
+        },
+        {
+          "key": "Drinks",
+          "always": true
+        },
+        {
+          "key": "Cooking bias",
+          "always": true
+        },
+        {
+          "key": "Class and variation",
+          "always": true
+        },
+        {
+          "key": "Avoid",
+          "always": true
+        }
+      ]
+    },
+    "dish": {
+      "rows": [
+        {
+          "label": "Cuisine",
+          "always": true
+        },
+        {
+          "label": "Between",
+          "always": false
+        },
+        {
+          "label": "Border town",
+          "always": false
+        },
+        {
+          "label": "Festival",
+          "always": true
+        },
+        {
+          "label": "Adapted as",
+          "always": false
+        }
+      ],
+      "facts": [
+        {
+          "key": "Why it exists",
+          "always": true
+        },
+        {
+          "key": "Key ingredients",
+          "always": true
+        },
+        {
+          "key": "Method",
+          "always": true
+        },
+        {
+          "key": "Variations",
+          "always": false
+        },
+        {
+          "key": "Serving",
+          "always": false
+        },
+        {
+          "key": "Real-world inspiration",
+          "always": false
+        },
+        {
+          "key": "Note",
+          "always": false
+        }
+      ]
+    },
+    "adaptation": {
+      "rows": [
+        {
+          "label": "Starts from",
+          "always": true
+        },
+        {
+          "label": "Home cuisine",
+          "always": true
+        },
+        {
+          "label": "Could move to",
+          "always": true
+        }
+      ],
+      "facts": [
+        {
+          "key": "What survives",
+          "always": true
+        },
+        {
+          "key": "What changes",
+          "always": true
+        },
+        {
+          "key": "Caution",
+          "always": true
+        }
+      ]
+    },
+    "border-town": {
+      "rows": [
+        {
+          "label": "Border dishes",
+          "always": true
+        }
+      ]
+    },
+    "festival": {
+      "rows": [
+        {
+          "label": "Food",
+          "always": true
+        }
+      ]
+    }
+  },
+  "nodes": [
+    {
+      "id": "ironcrest-food",
+      "kind": "cuisine",
+      "label": "Ironcrest cuisine",
+      "status": "No status label",
+      "lane": "ironcrest",
+      "section": "Cuisine",
+      "src": "Culture/Food.md#ironcrest",
+      "text": "Hardy grains, roots, legumes, dairy, livestock and mushrooms, with orchard fruit in lower country and imported Greenvale grain. The recipe book's dishes are strongest in mining, smithing and upland working communities, but the region isn't only \"forge cuisine\".",
+      "short_text": "Filling, durable working food: dense grains, smoke, browning, pickles.",
+      "facts": {
+        "Staples": "Barley, oats and other hardy grains; roots; legumes; dairy; mountain or valley livestock; mushrooms; orchard fruit in lower country; imported Greenvale grain.",
+        "Techniques": "Stewing, baking, roasting, pickling, smoking, drying. The provisional recipe book adds heavy pots near hearths, kilns or forge-adjacent fires; roasting beside embers rather than in fuel meant for metalworking; dense breads on heated stones, griddles or lidded pots; hard browning; long simmering that can continue while people work.",
+        "Everyday meals": "Breakfast: thick grain porridge with milk, cheese or leftovers; flatbread with onions, curds or preserves. Midday: filled breads; bean or root stew; cheese, pickles, cold meat. Dinner: grain, legumes and meat when affordable; roasted roots; soups thickened with bread.",
+        "Celebrations": "Large roast animals or meat pies; sweetened breads; imported fruit and spices as status goods.",
+        "Drinks": "Dark ales, small beer, cider in lower valleys, grain spirits in some districts. (The region page: plausible, \"but no single beverage defines the region\".)",
+        "Cooking bias": "Filling, durable food; smoke, browning, pickling, dense grains and preserved components.",
+        "Class and variation": "Workers favor portable, filling food; towns have breads, stews, roasted roots, sausages, cheeses, pickles and fried market foods; elites have greater access to imported spices, fruit, wine and coastal foods.",
+        "Avoid": "Reducing the region to \"forge cuisine\": lower valleys, wealthier households, religious communities and trade towns can eat very differently."
+      },
+      "fact_src": {
+        "Staples": "Culture/Food.md#ironcrest",
+        "Techniques": "Culture/Food.md#ironcrest",
+        "Everyday meals": "Culture/Food.md#ironcrest",
+        "Celebrations": "Culture/Food.md#ironcrest",
+        "Drinks": "Culture/Food.md#ironcrest",
+        "Cooking bias": "Culture/Food-Diaspora-and-Adaptation.md#regional-cooking-biases",
+        "Class and variation": "Regions/Ironcrest.md#food",
+        "Avoid": "Culture/Recipes/Ironcrest.md#status"
+      },
+      "see": [
+        "Culture/Recipes/Ironcrest.md",
+        "Regions/Ironcrest.md#food"
+      ]
+    },
+    {
+      "id": "northwind-food",
+      "kind": "cuisine",
+      "label": "Northwind cuisine",
+      "status": "No status label",
+      "lane": "northwind",
+      "section": "Cuisine",
+      "src": "Culture/Food.md#northwind",
+      "text": "Preservation first: fish and shellfish, sea greens, roots, hardy grains, dairy in pastoral zones, berries and preserved meat, dried, smoked, salted, fermented, pickled and cold-stored. It should show both scarcity management and trade.",
+      "short_text": "Preservation first: brine, smoke, ferment, cold storage; not only fish.",
+      "facts": {
+        "Staples": "Fish and shellfish; sea greens; roots; hardy grains; dairy in pastoral zones; berries; preserved meat.",
+        "Techniques": "Drying, smoking, salting, fermentation, pickling, cold storage. The provisional recipe book adds cold and warm smoking, drying in wind or protected racks, root-cellar and ice-cellar storage, all-day hearth pots, and ovens heated for both food and household warmth.",
+        "Everyday meals": "Breakfast: porridge with smoked fish; rye or barley cakes; sour milk. Lunch: dried fish, broth, flatbread, pickles. Dinner: fish soups; shellfish pots; root dishes; dairy and grain where available.",
+        "Celebrations": "Shared catches; rich stews; imported flour and sugar used for special pastries.",
+        "Drinks": "Grain ales, berry ferments, honey drinks, imported spirits. (The region page: alcohol \"can include\" these.)",
+        "Cooking bias": "Preservation first; brine, smoke, fermentation, cold-storage traditions, berries and sea or coastal ingredients.",
+        "Class and variation": "Should show both scarcity management and trade; foods may include imported Greenvale flour and Sunplains oils or fruit in wealthier ports.",
+        "Avoid": "Making it only fish: inland herding, dairy, grain, berries and preserved meat should stay visible."
+      },
+      "fact_src": {
+        "Staples": "Culture/Food.md#northwind",
+        "Techniques": "Culture/Food.md#northwind",
+        "Everyday meals": "Culture/Food.md#northwind",
+        "Celebrations": "Culture/Food.md#northwind",
+        "Drinks": "Culture/Food.md#northwind",
+        "Cooking bias": "Culture/Food-Diaspora-and-Adaptation.md#regional-cooking-biases",
+        "Class and variation": "Regions/Northwind.md#food",
+        "Avoid": "Culture/Recipes/Northwind.md#status"
+      },
+      "see": [
+        "Culture/Recipes/Northwind.md",
+        "Regions/Northwind.md#food"
+      ]
+    },
+    {
+      "id": "greenvale-food",
+      "kind": "cuisine",
+      "label": "Greenvale cuisine",
+      "status": "No status label",
+      "lane": "greenvale",
+      "section": "Cuisine",
+      "src": "Culture/Food.md#greenvale",
+      "text": "The broadest everyday food base in the setting: grains, beans, vegetables, dairy, eggs, poultry, orchard fruit and herbs; the provisional recipe book builds it around communal ovens and shared pots. Abundance means diversity, not permanent plenty.",
+      "short_text": "The broadest food base: grain, dairy, orchard fruit, communal ovens.",
+      "facts": {
+        "Staples": "Extremely broad: wheat, barley and other grains; beans; peas; vegetables; dairy; eggs; poultry; pork, goat or sheep depending on district; orchard fruit; herbs.",
+        "Techniques": "From the provisional recipe book: Communal stone or brick ovens; farmhouse hearth stewing; fruitwood roasting; dairy culturing; pickling and preserving; cellar storage; grain fermentation; leftovers used across several meals.",
+        "Everyday meals": "Breakfast: bread, cheese, eggs; porridge; fruit preserves. Lunch: soups; bean dishes; filled breads; cold farm meals. Dinner: grain or dumplings; vegetables; meat where affordable; sauces of herbs, dairy, fruit or vinegar. Snacks: hand pies; toasted grains and nuts; fresh fruit; cheese.",
+        "Celebrations": "Enormous seasonal variety; communal baked goods; preserved foods opened from previous harvests; first-fruit and first-grain rites. The region page adds: celebrations center on abundance, storage, first harvests, seed exchange, and survival after bad years.",
+        "Drinks": "Cider, ale, fruit wine, grain spirits. (The region page: \"plausible\".)",
+        "Cooking bias": "Abundance and sharing; dairy, orchard fruit, grains, garden herbs, baked and communal foods.",
+        "Class and variation": "Class and season matter greatly.",
+        "Avoid": "Treating abundance as permanent plenty; it means diversity."
+      },
+      "fact_src": {
+        "Staples": "Culture/Food.md#greenvale",
+        "Techniques": "Culture/Recipes/Greenvale.md#method-profile",
+        "Everyday meals": "Culture/Food.md#greenvale",
+        "Celebrations": "Culture/Food.md#greenvale",
+        "Drinks": "Culture/Food.md#greenvale",
+        "Cooking bias": "Culture/Food-Diaspora-and-Adaptation.md#regional-cooking-biases",
+        "Class and variation": "Regions/Greenvale.md#food",
+        "Avoid": "Culture/Recipes/Greenvale.md#status"
+      },
+      "see": [
+        "Culture/Recipes/Greenvale.md",
+        "Regions/Greenvale.md#food"
+      ]
+    },
+    {
+      "id": "highridge-food",
+      "kind": "cuisine",
+      "label": "Highridge cuisine",
+      "status": "No status label",
+      "lane": "highridge",
+      "section": "Cuisine",
+      "src": "Culture/Food.md#highridge",
+      "text": "Unusually mixed because caravans bring ingredients: hardy grains, legumes, dairy, herd animals, dried meat and roots at home, while markets introduce dried fruit, spices, oils, noodles, rice, wine, fish and sweets from elsewhere.",
+      "short_text": "Portable and layered: dried goods, dumplings, breads, trade spice.",
+      "facts": {
+        "Staples": "Hardy grains; legumes; dairy; goat, sheep or yak-like animals; dried meat; roots; trade goods.",
+        "Techniques": "From the provisional recipe book: Portable charcoal or dung-fueled braziers where wood is scarce; clay or stone ovens for flatbreads; steaming in stacked vessels; boiling and braising in heavy travel pots; drying meat, fruit and dairy for caravans; combining local staples with whatever trade goods are available.",
+        "Everyday meals": "Breakfast: flatbread with butter or curd; grain porridge; tea or herbal infusion. Lunch: dumplings; noodles in market towns; meat or lentil stews; dried fruit and nuts. Dinner: thick soups; roasted or boiled meats; market dishes with foreign spices. Street food: skewers, filled breads, dumplings, roasted nuts, tea stalls.",
+        "Celebrations": "Food intentionally assembled from multiple regions during caravan fairs.",
+        "Drinks": "Grain beer; fermented dairy drinks in some communities; imported wines; herbal spirits.",
+        "Cooking bias": "Portable and layered; dried goods, dairy, dumplings and breads, trade spices, market combinations.",
+        "Class and variation": "There should be strong differences between local household food and cosmopolitan market food.",
+        "Avoid": "Forgetting that a trade crossroads still has local food. Imported spice should vary by wealth, season and route access."
+      },
+      "fact_src": {
+        "Staples": "Culture/Food.md#highridge",
+        "Techniques": "Culture/Recipes/Highridge-Plateau.md#method-profile",
+        "Everyday meals": "Culture/Food.md#highridge",
+        "Celebrations": "Culture/Food.md#highridge",
+        "Drinks": "Culture/Food.md#highridge",
+        "Cooking bias": "Culture/Food-Diaspora-and-Adaptation.md#regional-cooking-biases",
+        "Class and variation": "Regions/Highridge-Plateau.md#food",
+        "Avoid": "Culture/Recipes/Highridge-Plateau.md#status"
+      },
+      "see": [
+        "Culture/Recipes/Highridge-Plateau.md",
+        "Regions/Highridge-Plateau.md#food"
+      ]
+    },
+    {
+      "id": "deepwood-food",
+      "kind": "cuisine",
+      "label": "Deepwood cuisine",
+      "status": "No status label",
+      "lane": "deepwood",
+      "section": "Cuisine",
+      "src": "Culture/Food.md#deepwood",
+      "text": "More cultivated food than outsiders assume: grains and tubers from clearings alongside nuts, mushrooms, fish, game, greens, berries and honey, with trade grain and salt. Foraging supplements agriculture rather than replacing it everywhere.",
+      "short_text": "Seasonality and restraint: fungi, nuts, roots, low-ember pots.",
+      "facts": {
+        "Staples": "Cultivated grains and tubers in clearings; nuts; mushrooms; greens; fish; game; domestic animals near settlements; berries; honey; trade grain and salt.",
+        "Techniques": "From the provisional recipe book: Low-ember earthen-pot cooking; leaf wrapping; hot-stone and pit steaming; clay-sealed roasting; mushroom and nut broths; fermentation; drying and smoking in moderation; seasonal forest foods rather than constant mystical ingredients.",
+        "Everyday meals": "Breakfast: root cakes; broth; grain packets steamed in leaves; fruit or nut paste. Lunch: smoked meat or fish; greens; breads of grain, nut or tuber flour. Dinner: mixed stews; roasted fish or game; mushrooms and vegetables; fermented condiments.",
+        "Celebrations": "Seasonal foraging and harvest combinations; highly valued rare forest ingredients.",
+        "Drinks": "Fruit ferments, honey drinks, grain beer, herbal infusions.",
+        "Cooking bias": "Seasonality and restraint; fungi, nuts, roots, herbs, fermentation, forest and river foods alongside cultivation.",
+        "Avoid": "Treating it as purely foraged: settlements cultivate grains, tubers and domestic foods in clearings and trade for salt and staples."
+      },
+      "fact_src": {
+        "Staples": "Culture/Food.md#deepwood",
+        "Techniques": "Culture/Recipes/Deepwood.md#method-profile",
+        "Everyday meals": "Culture/Food.md#deepwood",
+        "Celebrations": "Culture/Food.md#deepwood",
+        "Drinks": "Culture/Food.md#deepwood",
+        "Cooking bias": "Culture/Food-Diaspora-and-Adaptation.md#regional-cooking-biases",
+        "Avoid": "Culture/Recipes/Deepwood.md#status"
+      },
+      "see": [
+        "Culture/Recipes/Deepwood.md",
+        "Regions/Deepwood.md#food"
+      ]
+    },
+    {
+      "id": "sunplains-food",
+      "kind": "cuisine",
+      "label": "Sunplains cuisine",
+      "status": "No status label",
+      "lane": "sunplains",
+      "section": "Cuisine",
+      "src": "Culture/Food.md#sunplains",
+      "text": "Diverse and bright: breads, pulses, vegetables, fruit, nuts, oils, cheeses and herd meat, with fish on the coasts and spices from trade. It varies by city, coast, irrigation district, faith and class, and cities use their own dishes as civic identity.",
+      "short_text": "Brightness and balance: oils, fruit acids, pulses, clay pots, pastry.",
+      "facts": {
+        "Staples": "Wheat and barley; pulses; vegetables; fruit; nuts; oils; dairy; lamb, goat and poultry; coastal fish; dried fruit; spices from trade.",
+        "Techniques": "From the provisional recipe book: Clay-pot braising; griddle and stone-oven flatbreads; open-air charcoal or orchard-wood grilling; oil-based cooking; sun drying; fruit, herb and vinegar sauces; pulses and grain dishes; layered and syruped festival pastry.",
+        "Everyday meals": "Breakfast: flatbread, oil, cheese; fruit; yogurt or curds; tea. Lunch: lentil or chickpea dishes; grain salads; stuffed breads; grilled vegetables. Dinner: slow-cooked meat or vegetable pots; pilafs; fish in coastal areas; bread with many shared dishes. Snacks: nuts; dates, figs or similar fruit; fried or filled breads; honey pastries.",
+        "Celebrations": "City-specific dishes used as civic identity.",
+        "Drinks": "Wine in communities that permit it; beer; fruit ferments; distilled drinks in some areas; nonalcoholic mint, herb and fruit drinks.",
+        "Cooking bias": "Brightness and balance; oils, fruit acids, pulses, grains, herbs, nuts, irrigated and orchard foods, and civic variation.",
+        "Class and variation": "Varies by city, coast, irrigation district, faith and class; \"refined\" food is not the diet of every household.",
+        "Avoid": "Making all Sunplains food uniformly \"Mediterranean.\""
+      },
+      "fact_src": {
+        "Staples": "Culture/Food.md#sunplains",
+        "Techniques": "Culture/Recipes/Sunplains.md#method-profile",
+        "Everyday meals": "Culture/Food.md#sunplains",
+        "Celebrations": "Culture/Food.md#sunplains",
+        "Drinks": "Culture/Food.md#sunplains",
+        "Cooking bias": "Culture/Food-Diaspora-and-Adaptation.md#regional-cooking-biases",
+        "Class and variation": "Culture/Recipes/Sunplains.md#status",
+        "Avoid": "Regions/Sunplains.md#food"
+      },
+      "see": [
+        "Culture/Recipes/Sunplains.md",
+        "Regions/Sunplains.md#food"
+      ]
+    },
+    {
+      "id": "port-food",
+      "kind": "cuisine",
+      "label": "Port cuisine",
+      "status": "No status label",
+      "lane": "port",
+      "section": "Cuisine",
+      "src": "Culture/Food.md#port",
+      "text": "Not merely \"fusion.\" Port develops dock-worker food, preserved ship food, wealthy merchant cuisine, immigrant neighborhood dishes, street food for travelers and religiously specific kitchens. Borrowing is normal.",
+      "short_text": "Many kitchens at once: dock, ship, merchant, neighborhood, street.",
+      "facts": {
+        "Cooking bias": "Borrowing as normal; ship food, immigrant kitchens, dock food, imported condiments and rapid hybridization.",
+        "Class and variation": "Dock-worker food; preserved ship food; wealthy merchant cuisine; immigrant neighborhood dishes; street foods designed for travelers; religiously specific kitchens.",
+        "Avoid": "Calling it merely \"fusion.\""
+      },
+      "fact_src": {
+        "Cooking bias": "Culture/Food-Diaspora-and-Adaptation.md#regional-cooking-biases",
+        "Class and variation": "Culture/Food.md#port",
+        "Avoid": "Culture/Food.md#port"
+      }
+    },
+    {
+      "id": "borderlands-food",
+      "kind": "cuisine",
+      "label": "Border cuisine",
+      "status": "No status label",
+      "lane": "borderlands",
+      "section": "Cuisine",
+      "src": "Culture/Food.md#border-cuisine",
+      "text": "Often the clearest sign of cultural blending, because ingredients and techniques combine faster than political identities. A mature border cuisine should eventually stop being described locally as \"fusion\": children born there know these as ordinary town food, and older recipes may survive only in names, preparation rituals or arguments about which side \"really\" invented them.",
+      "short_text": "Where ingredients and techniques mix faster than identities.",
+      "facts": {
+        "Avoid": "Food that tastes like two flags on one plate: the strongest border dishes solve a local problem using habits inherited from both sides. Also avoid forcing a map fact: exact borders remain partly unresolved, and where adjacency changes a border dish should be treated as a trade-route or diaspora dish."
+      },
+      "fact_src": {
+        "Avoid": "Culture/Recipes/Border-Fusions.md#status"
+      },
+      "see": [
+        "Culture/Recipes/Border-Fusions.md"
+      ],
+      "skip_rows": [
+        "Border dishes",
+        "Blends with",
+        "Imports from"
+      ]
+    },
+    {
+      "id": "d-miners-gruel",
+      "kind": "dish",
+      "label": "Miner's Gruel",
+      "status": "Provisional",
+      "lane": "ironcrest",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Ironcrest.md#1-miners-gruel",
+      "text": "Cheap grain, scraps and leftovers become a hot meal that can be kept going with little attention.",
+      "short_text": "A cheap grain pot kept going beside the work fire.",
+      "facts": {
+        "Why it exists": "Cheap grain, scraps and leftovers become a hot meal that can be kept going with little attention.",
+        "Key ingredients": "Cracked barley, oats or another hardy grain; water, thin broth or whey; onion or leek; a little smoked cheese, cured pork, beans or yesterday's meat if available; salt and a pepper-like local pungency; optional malt or dark fruit syrup in households that favor sweet-salty breakfasts.",
+        "Method": "Grain is soaked when fuel is scarce, then simmered in a heavy pot near a steady work fire, with scraps in early and cheese or cured meat near the end, thinned through the morning. Workers eat from bowls or carry a thick portion wrapped in bread.",
+        "Variations": "Poorer versions are grain and onion; better-off crews add dairy, meat and pickles."
+      }
+    },
+    {
+      "id": "d-smoked-ember-stew",
+      "kind": "dish",
+      "label": "Smoked Ember Stew",
+      "status": "Provisional",
+      "lane": "ironcrest",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Ironcrest.md#2-smoked-ember-stew",
+      "text": "Tough preserved meat becomes tender during a workday without needing a dedicated cook.",
+      "short_text": "Preserved meat left on low heat through the workday.",
+      "facts": {
+        "Why it exists": "Tough preserved meat becomes tender during a workday without needing a dedicated cook.",
+        "Key ingredients": "Salted or smoked goat, mutton, beef-like livestock or game; onion and garlic-like alliums; roots; dried mushrooms; hardy grain or beans; broth, small beer or water; highland aromatics; vinegar or sour ale to finish.",
+        "Method": "Meat is browned in rendered fat in an iron cauldron, the browned residue is loosened with liquid, mushrooms and grain go in, and the pot sits on low residual heat for several hours. Roots go in later so they stay whole, and sour vinegar or ale cuts the fat before serving.",
+        "Real-world inspiration": "Working-class barley stews, goulash-like braises and northern European meat pots."
+      }
+    },
+    {
+      "id": "d-ashen-stone-loaf",
+      "kind": "dish",
+      "label": "Ashen Stone Loaf",
+      "status": "Provisional",
+      "lane": "ironcrest",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Ironcrest.md#3-ashen-stone-loaf",
+      "text": "A durable sour loaf suited to upland grain, irregular ovens and work travel.",
+      "short_text": "A dark, dry sour loaf that keeps for days.",
+      "facts": {
+        "Why it exists": "A durable sour loaf suited to upland grain, irregular ovens and work travel.",
+        "Key ingredients": "Rye-like and barley flour; sourdough starter; water; salt; malted or toasted grain; lard, tallow or butter when available.",
+        "Method": "A stiff dough ferments in a warm corner. Small households cook flat rounds on a heated stone or iron plate; larger loaves bake in a lidded pot among cooling embers, dark and dry enough to keep several days. Stale bread thickens soup, is fried, or is soaked in broth.",
+        "Note": "\"Ashen\" describes color and cooking environment; edible ash or coal is not required."
+      }
+    },
+    {
+      "id": "d-coal-roasted-boar-with-root-mash",
+      "kind": "dish",
+      "label": "Coal-Roasted Boar with Root Mash",
+      "status": "Provisional",
+      "lane": "ironcrest",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Ironcrest.md#4-coal-roasted-boar-with-root-mash",
+      "text": "A feast dish using the region's love of intense browning without pretending industrial fuel is a seasoning.",
+      "short_text": "A feast roast, browned hard over clean embers.",
+      "facts": {
+        "Why it exists": "A feast dish using the region's love of intense browning without pretending industrial fuel is a seasoning.",
+        "Key ingredients": "Boar, goat or pork-like shoulder; salt; rock thyme; crushed aromatic seed; onions; potatoes, turnips, rutabaga or parsnips; rendered fat; dark ale or broth.",
+        "Method": "Meat is salted the day before and roasts slowly in a covered iron pan above or beside clean charcoal or hardwood embers, never buried in raw coal; the lid comes off near the end so the outside darkens. Roots are cooked separately and mashed with fat and roasting juices.",
+        "Serving": "Large pieces are carved onto bread or root mash at communal tables."
+      }
+    },
+    {
+      "id": "d-smoked-ash-marrow-broth",
+      "kind": "dish",
+      "label": "Smoked Ash-Marrow Broth",
+      "status": "Provisional",
+      "lane": "ironcrest",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Ironcrest.md#5-smoked-ash-marrow-broth",
+      "text": "Bones, trimmings and stale bread become valuable calories.",
+      "short_text": "Roasted bones simmered all day into a meal.",
+      "facts": {
+        "Why it exists": "Bones, trimmings and stale bread become valuable calories.",
+        "Key ingredients": "Roasted marrow or joint bones; charred onion; dried mushroom; thyme or sage; water; salt; stale bread or grain.",
+        "Method": "Bones are roasted by the hearth, then barely simmered for much of the day with water, onion and mushrooms. Laboring households don't skim all the fat, and bread crumbs or cooked grain turn it into a meal."
+      }
+    },
+    {
+      "id": "d-forge-fired-sausages",
+      "kind": "dish",
+      "label": "Forge-Fired Sausages",
+      "status": "Provisional",
+      "lane": "ironcrest",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Ironcrest.md#6-forge-fired-sausages",
+      "text": "Sausage turns scraps into portable, preservable protein.",
+      "short_text": "Scraps turned into portable, smokable sausage.",
+      "facts": {
+        "Why it exists": "Sausage turns scraps into portable, preservable protein.",
+        "Key ingredients": "Chopped goat, pork-like livestock or game; fat; salt; dried allium; rock thyme; pepper-like pungent seed; cleaned casing.",
+        "Method": "Meat and fat are chopped rather than finely ground in poorer districts, seasoned, and poached or gently heated first. Some are eaten fresh; others hang in a smokehouse. Work stalls split smoked sausages and sear them on iron plates."
+      }
+    },
+    {
+      "id": "d-smoked-meat-and-root-pie",
+      "kind": "dish",
+      "label": "Smoked Meat and Root Pie",
+      "status": "Provisional",
+      "lane": "ironcrest",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Ironcrest.md#7-smoked-meat-and-root-pie",
+      "text": "A portable meal for shifts, travel and winter storage.",
+      "short_text": "A sturdy hand pie for shifts, travel and winter.",
+      "facts": {
+        "Why it exists": "A portable meal for shifts, travel and winter storage.",
+        "Key ingredients": "Coarse grain pastry; smoked meat; cooked roots; onion; thick broth or gravy; hard cheese if available.",
+        "Method": "Leftover stew meat and roots are bound with reduced broth, shaped into thick hand pies and baked in a communal oven or lidded iron pan. The crust is meant to be sturdy, not delicate."
+      }
+    },
+    {
+      "id": "d-ember-nuts",
+      "kind": "dish",
+      "label": "Ember Nuts",
+      "status": "Provisional",
+      "lane": "ironcrest",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Ironcrest.md#8-ember-nuts",
+      "text": "Roasted in a heavy pan near the hearth and tossed with salt, toasted grain dust and fat.",
+      "short_text": "Hearth-roasted street nuts.",
+      "facts": {
+        "Key ingredients": "Nuts; salt; toasted grain dust; a little rendered fat.",
+        "Method": "Roasted in a heavy pan near the hearth and tossed with salt, toasted grain dust and fat.",
+        "Variations": "Imported spice makes this ordinary street food noticeably more expensive."
+      }
+    },
+    {
+      "id": "d-salt-fish-and-barley-porridge",
+      "kind": "dish",
+      "label": "Salt-Fish and Barley Porridge",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Northwind.md#1-salt-fish-and-barley-porridge",
+      "text": "Preserved fish stretches a grain breakfast through winter.",
+      "short_text": "A winter breakfast stretched with preserved fish.",
+      "facts": {
+        "Why it exists": "Preserved fish stretches a grain breakfast through winter.",
+        "Key ingredients": "Barley or oats; water or light fish broth; soaked salt fish; leek or onion; root vegetable; dill-like herb; rendered animal fat or butter.",
+        "Method": "Salt fish is soaked and rinsed. Grain simmers until nearly soft, roots and alliums go in, and the fish is added near the end so it stays in flakes, with a little fat stirred through."
+      }
+    },
+    {
+      "id": "d-hearthfire-fish-and-root-bake",
+      "kind": "dish",
+      "label": "Hearthfire Fish and Root Bake",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Northwind.md#2-hearthfire-fish-and-root-bake",
+      "text": "The evening meal uses the same masonry hearth that warms the house.",
+      "short_text": "Supper baked in the house-warming hearth's falling heat.",
+      "facts": {
+        "Why it exists": "The evening meal uses the same masonry hearth that warms the house.",
+        "Key ingredients": "Whole cod-like fish, haddock-like fish or char; thin-sliced turnip, parsnip or potato-like roots; coarse grain crumbs; sea salt; kelp; dill-like herbs; tart berries or imported sour fruit.",
+        "Method": "The oven is fired earlier for bread and heat. Roots go into a clay dish with fat and a little broth, the fish rests on top under crumbs and herbs, and it cooks in falling heat rather than fierce flame.",
+        "Serving": "Tart berry mash is spooned over at the table."
+      }
+    },
+    {
+      "id": "d-frostbound-fish-stew",
+      "kind": "dish",
+      "label": "Frostbound Fish Stew",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Northwind.md#3-frostbound-fish-stew",
+      "text": "A communal pot turns small fish, kelp and roots into a substantial supper.",
+      "short_text": "A communal hearth pot replenished all day.",
+      "facts": {
+        "Why it exists": "A communal pot turns small fish, kelp and roots into a substantial supper.",
+        "Key ingredients": "Fresh and/or smoked fish; fish stock; kelp; roots; onion; barley; seal fat, butter or other local cooking fat; juniper-like herb.",
+        "Method": "Roots and barley begin first, kelp and smoked fish flavor the broth, and fresh fish goes in only near the end. The pot stays hot at the central hearth and is replenished during the day.",
+        "Note": "Correction to early brainstorming: chilling cooked stew in snow can preserve it but doesn't \"gelatinize\" fish broth. Thick versions come from barley, collagen-rich fish parts or reduction."
+      }
+    },
+    {
+      "id": "d-frosted-mead-cakes",
+      "kind": "dish",
+      "label": "Frosted Mead Cakes",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Northwind.md#4-frosted-mead-cakes",
+      "text": "A durable oat cake that turns scarce sweetness into travel food.",
+      "short_text": "Honey-glazed oat cakes for travel.",
+      "facts": {
+        "Why it exists": "A durable oat cake that turns scarce sweetness into travel food.",
+        "Key ingredients": "Coarse oats; honey; small beer or mead; butter or rendered fat; salt.",
+        "Method": "A stiff oat batter is cooked on a griddle or baking stone and brushed with honey while hot. In winter they cool rapidly outdoors, setting the glaze.",
+        "Serving": "They travel well with cheese, smoked fish or berry paste."
+      }
+    },
+    {
+      "id": "d-snow-dried-fish-cakes",
+      "kind": "dish",
+      "label": "Snow-Dried Fish Cakes",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Northwind.md#5-snow-dried-fish-cakes",
+      "text": "Fish is flaked into root mash, bound with grain meal, formed into patties, chilled and fried on a hearth griddle.",
+      "short_text": "Salt fish and root mash fried as patties.",
+      "facts": {
+        "Key ingredients": "Soaked salt fish; mashed roots; oat or barley meal; egg when available; onion; herbs; cooking fat.",
+        "Method": "Fish is flaked into root mash, bound with grain meal, formed into patties, chilled and fried on a hearth griddle.",
+        "Serving": "Coastal households serve them with fermented berry relish or pickled kelp."
+      }
+    },
+    {
+      "id": "d-kelp-crisps",
+      "kind": "dish",
+      "label": "Kelp Crisps",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Northwind.md#6-kelp-crisps",
+      "text": "Rinsed, lightly salted, dried on racks and briefly toasted near the hearth.",
+      "short_text": "Dried, toasted kelp for snacking and seasoning.",
+      "facts": {
+        "Key ingredients": "Clean kelp; a little salt.",
+        "Method": "Rinsed, lightly salted, dried on racks and briefly toasted near the hearth.",
+        "Serving": "A snack, soup garnish and travel seasoning."
+      }
+    },
+    {
+      "id": "d-pickled-winter-roots",
+      "kind": "dish",
+      "label": "Pickled Winter Roots",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Northwind.md#7-pickled-winter-roots",
+      "text": "Packed in salt brine and allowed to sour.",
+      "short_text": "Roots soured in salt brine.",
+      "facts": {
+        "Key ingredients": "Turnip, beet-like roots, carrot-like roots and onion; salt brine.",
+        "Method": "Packed in salt brine and allowed to sour.",
+        "Variations": "Better-off households add berry vinegar, honey or imported spice."
+      }
+    },
+    {
+      "id": "d-aurora-berry-preserve",
+      "kind": "dish",
+      "label": "Aurora Berry Preserve",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Northwind.md#8-aurora-berry-preserve",
+      "text": "Berries are simmered with honey or malt syrup until thick.",
+      "short_text": "Berries cooked thick with honey or malt.",
+      "facts": {
+        "Key ingredients": "Berries; honey or malt syrup; festival jars may include mead.",
+        "Method": "Berries are simmered with honey or malt syrup until thick.",
+        "Variations": "In lean households the preserve stays sharply sour; festival jars use more sweetener and may include mead."
+      }
+    },
+    {
+      "id": "d-fresh-morning-bread-and-milk",
+      "kind": "dish",
+      "label": "Fresh Morning Bread and Milk",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Greenvale.md#1-fresh-morning-bread-and-milk",
+      "text": "Bread ties the workday to the shared oven schedule.",
+      "short_text": "Bread from the shared oven, eaten warm.",
+      "facts": {
+        "Why it exists": "Bread ties the workday to the shared oven schedule.",
+        "Key ingredients": "Wheat-like flour, often blended with barley; starter or yeast; water or milk; salt; butter or nut oil.",
+        "Method": "Dough is mixed before dawn or the night before, carried to a shared oven, and baked after the fire is raked down.",
+        "Serving": "Eaten warm with milk, curds, butter or preserves. Day-old bread becomes soup thickener or field food."
+      }
+    },
+    {
+      "id": "d-braided-honey-and-grain-loaf",
+      "kind": "dish",
+      "label": "Braided Honey and Grain Loaf",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Greenvale.md#2-braided-honey-and-grain-loaf",
+      "text": "Braiding makes a familiar loaf ceremonial without requiring luxury ingredients.",
+      "short_text": "An everyday loaf made ceremonial by braiding.",
+      "facts": {
+        "Why it exists": "Braiding makes a familiar loaf ceremonial without requiring luxury ingredients.",
+        "Key ingredients": "Wheat and barley flour; warm milk; honey; starter or yeast; butter; salt.",
+        "Method": "A soft enriched dough is kneaded, risen, braided from three ropes, brushed with milk or butter and baked during a communal oven cycle.",
+        "Variations": "Festival versions add nuts, dried fruit or seed."
+      }
+    },
+    {
+      "id": "d-harvest-stew",
+      "kind": "dish",
+      "label": "Harvest Stew",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Greenvale.md#3-harvest-stew",
+      "text": "The recipe changes with whatever the village has in quantity.",
+      "short_text": "Whatever the village has plenty of, in one pot.",
+      "facts": {
+        "Why it exists": "The recipe changes with whatever the village has in quantity.",
+        "Key ingredients": "Beans or barley; onion; carrots, squash, greens, roots; chicken, goat or pork-like meat when affordable; garden herbs; broth; vinegar, cider or cultured dairy for acidity.",
+        "Method": "Meat, if used, is browned. Beans or grain and sturdy vegetables simmer first, delicate vegetables and greens go in later, and fresh herbs finish the pot.",
+        "Variations": "Communal versions accept contributions from multiple households."
+      }
+    },
+    {
+      "id": "d-orchard-fire-roasted-fowl",
+      "kind": "dish",
+      "label": "Orchard-Fire Roasted Fowl",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Greenvale.md#4-orchard-fire-roasted-fowl",
+      "text": "A celebratory roast that makes direct use of orchard pruning wood and cider.",
+      "short_text": "A celebratory bird roasted over pruning wood.",
+      "facts": {
+        "Why it exists": "A celebratory roast that makes direct use of orchard pruning wood and cider.",
+        "Key ingredients": "Duck, goose, chicken or game bird; salt; sage, thyme or fennel-like herbs; cider; honey; apples, pears or plums.",
+        "Method": "Orchard wood burns down to clean coals. The salted bird turns slowly over indirect heat, basted with cider, with honey added late so it doesn't burn, while fruit roasts in a pan beneath and catches the drippings."
+      }
+    },
+    {
+      "id": "d-farmers-midday-mash",
+      "kind": "dish",
+      "label": "Farmer's Midday Mash",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Greenvale.md#5-farmers-midday-mash",
+      "text": "Barley cooks slowly until soft, milk and butter enrich it, and nuts and herbs are stirred in.",
+      "short_text": "Buttered barley carried out to the fields.",
+      "facts": {
+        "Key ingredients": "Cracked barley; milk or water; butter; hazelnuts or walnuts; thyme or sage; salt.",
+        "Method": "Barley cooks slowly until soft, milk and butter enrich it, and nuts and herbs are stirred in.",
+        "Serving": "Carried to the fields in covered crocks or eaten at midday tables."
+      }
+    },
+    {
+      "id": "d-orchard-hand-pies",
+      "kind": "dish",
+      "label": "Orchard Hand Pies",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Greenvale.md#6-orchard-hand-pies",
+      "text": "Filled, sealed and baked during the communal oven's falling heat.",
+      "short_text": "Thick-crusted pies with sweet or savory fillings.",
+      "facts": {
+        "Key ingredients": "Thick pastry; fillings such as apple and soft cheese, pear and onion, beans and herbs, chicken and leek, or plum and honey.",
+        "Method": "Filled, sealed and baked during the communal oven's falling heat.",
+        "Variations": "Plum and honey for sweet versions."
+      }
+    },
+    {
+      "id": "d-roasted-grain-clusters",
+      "kind": "dish",
+      "label": "Roasted Grain Clusters",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Greenvale.md#7-roasted-grain-clusters",
+      "text": "Mixed, pressed into clusters and dried in a cooling oven.",
+      "short_text": "Honey-bound grain and nuts, a field snack.",
+      "facts": {
+        "Key ingredients": "Leftover cooked grain or toasted cereal; honey; nuts; seeds.",
+        "Method": "Mixed, pressed into clusters and dried in a cooling oven.",
+        "Serving": "A common field snack."
+      }
+    },
+    {
+      "id": "d-herbed-farm-cheese",
+      "kind": "dish",
+      "label": "Herbed Farm Cheese",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Greenvale.md#8-herbed-farm-cheese",
+      "text": "Curds are drained, salted and mixed with meadow herbs.",
+      "short_text": "Fresh curds with meadow herbs.",
+      "facts": {
+        "Key ingredients": "Fresh curds; salt; meadow herbs.",
+        "Method": "Curds are drained, salted and mixed with meadow herbs.",
+        "Variations": "Some are eaten soft; others are pressed and aged for winter."
+      }
+    },
+    {
+      "id": "d-caravan-flatbread-with-spiced-butter",
+      "kind": "dish",
+      "label": "Caravan Flatbread with Spiced Butter",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Highridge-Plateau.md#1-caravan-flatbread-with-spiced-butter",
+      "text": "A dough stiff enough to travel rests while camp is made. Thin rounds are slapped onto a hot stone, griddle or clay-oven wall and brushed while hot with fermented butter mixed with crushed spice.",
+      "short_text": "Thin rounds slapped on a hot stone at camp.",
+      "facts": {
+        "Key ingredients": "Hardy plateau flour; water; salt; starter or yeast, or unleavened; fermented yak-like butter; cumin/coriander-like seeds, dried herbs or pungent spice.",
+        "Method": "A dough stiff enough to travel rests while camp is made. Thin rounds are slapped onto a hot stone, griddle or clay-oven wall and brushed while hot with fermented butter mixed with crushed spice."
+      }
+    },
+    {
+      "id": "d-caravan-curry-spiced-caravan-pot",
+      "kind": "dish",
+      "label": "Caravan Curry / Spiced Caravan Pot",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Highridge-Plateau.md#2-caravan-curry--spiced-caravan-pot",
+      "text": "\"Curry\" is a real-world analogy; in the setting it's better understood as a family of thick, spiced caravan stews.",
+      "short_text": "A family of thick spiced stews cooked beside the camp brazier.",
+      "facts": {
+        "Why it exists": "\"Curry\" is a real-world analogy; in the setting it's better understood as a family of thick, spiced caravan stews.",
+        "Key ingredients": "Goat, yak-like meat or legumes; onion/garlic-like aromatics; dried ginger-like root where traded; cumin/coriander-like seed; dried chile/pepper analogue depending on trade; cultured dairy, broth or nut paste; dried fruit in richer versions.",
+        "Method": "Meat is browned in a heavy pot, whole spices toast in the fat, liquid and legumes or meat go in, and the pot simmers beside the brazier while camp work continues. Sour dairy or fruit brightens it at the end.",
+        "Variations": "Richer versions add dried fruit."
+      }
+    },
+    {
+      "id": "d-wind-dumplings",
+      "kind": "dish",
+      "label": "Wind Dumplings",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Highridge-Plateau.md#3-wind-dumplings",
+      "text": "Small filled rounds sit in stacked steam trays over one boiling pot, the lowest trays usually holding sturdier dumplings and the upper trays vegetables or lighter fillings.",
+      "short_text": "Filled dumplings steamed in stacked trays.",
+      "facts": {
+        "Key ingredients": "Wheat or barley dough; minced goat/yak-like meat or lentils; onion; herbs; fermented dairy; optional imported spice.",
+        "Method": "Small filled rounds sit in stacked steam trays over one boiling pot, the lowest trays usually holding sturdier dumplings and the upper trays vegetables or lighter fillings.",
+        "Serving": "Served communally with sour dairy, broth or a chile-like condiment."
+      }
+    },
+    {
+      "id": "d-plateau-noodle-soup",
+      "kind": "dish",
+      "label": "Plateau Noodle Soup",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Highridge-Plateau.md#4-plateau-noodle-soup",
+      "text": "Noodles cook in broth with dried meat, greens, onion and roots.",
+      "short_text": "Hand-cut noodles in broth with dried meat.",
+      "facts": {
+        "Key ingredients": "Hand-cut or pulled noodles; broth; dried meat; greens; onion; root vegetables.",
+        "Method": "Noodles cook in broth with dried meat, greens, onion and roots.",
+        "Variations": "Market versions add trade spices and fresh herbs that remote villages don't have."
+      }
+    },
+    {
+      "id": "d-caravan-skewers",
+      "kind": "dish",
+      "label": "Caravan Skewers",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Highridge-Plateau.md#5-caravan-skewers",
+      "text": "The point is speed and portability, not giant feast portions.",
+      "short_text": "Small marinated skewers, fast and portable.",
+      "facts": {
+        "Why it exists": "The point is speed and portability, not giant feast portions.",
+        "Key ingredients": "Small pieces of meat; sour dairy or vinegar; spice; salt.",
+        "Method": "Marinated, then quickly cooked over a brazier."
+      }
+    },
+    {
+      "id": "d-spice-rice-grain-pilaf",
+      "kind": "dish",
+      "label": "Spice Rice / Grain Pilaf",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Highridge-Plateau.md#6-spice-rice--grain-pilaf",
+      "text": "The grain is toasted in fat, simmered in broth, and dried fruit and nuts are folded in.",
+      "short_text": "Toasted grain with fruit and nuts.",
+      "facts": {
+        "Key ingredients": "Imported rice or another long-grain cereal where affordable, otherwise local wheat berries, millet or barley; fat; broth; dried fruit; nuts.",
+        "Method": "The grain is toasted in fat, simmered in broth, and dried fruit and nuts are folded in.",
+        "Variations": "Where rice or another long-grain cereal isn't affordable, the same technique uses local wheat berries, millet or barley."
+      }
+    },
+    {
+      "id": "d-lentil-fritters",
+      "kind": "dish",
+      "label": "Lentil Fritters",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Highridge-Plateau.md#7-lentil-fritters",
+      "text": "Common market food because the batter can be mixed in advance.",
+      "short_text": "Small fried pulse cakes, common market food.",
+      "facts": {
+        "Why it exists": "Common market food because the batter can be mixed in advance.",
+        "Key ingredients": "Soaked pulses; onion; herbs; spice.",
+        "Method": "Mashed, shaped small and shallow-fried in a brazier pan."
+      }
+    },
+    {
+      "id": "d-mushroom-simmered-broth",
+      "kind": "dish",
+      "label": "Mushroom-Simmered Broth",
+      "status": "Provisional",
+      "lane": "deepwood",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Deepwood.md#1-mushroom-simmered-broth",
+      "text": "A ceramic pot is set beside, not over, fierce flame. Roots and alliums soften gently, mushrooms simmer only long enough to flavor the broth, and strong herbs are used sparingly.",
+      "short_text": "A gentle mushroom broth cooked beside the flame.",
+      "facts": {
+        "Key ingredients": "Mixed edible mushrooms; leek/onion-like allium; light vegetable or game stock; wild thyme; root trimmings; salt.",
+        "Method": "A ceramic pot is set beside, not over, fierce flame. Roots and alliums soften gently, mushrooms simmer only long enough to flavor the broth, and strong herbs are used sparingly.",
+        "Serving": "May be served alone or over grain or root cakes."
+      }
+    },
+    {
+      "id": "d-guardian-stew",
+      "kind": "dish",
+      "label": "Guardian Stew",
+      "status": "Provisional",
+      "lane": "deepwood",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Deepwood.md#2-guardian-stew",
+      "text": "The name fits ceremonial or communal versions; ordinary households make simpler descendants.",
+      "short_text": "A slow clay-pot stew; the name fits ceremonial or communal versions.",
+      "facts": {
+        "Why it exists": "The name fits ceremonial or communal versions; ordinary households make simpler descendants.",
+        "Key ingredients": "Venison, boar or domestic meat; mushrooms; roots; onion; forest herbs; stock; a little honey or fermented fruit paste.",
+        "Method": "Meat is lightly browned in a clay pot if fat is available, roots and stock go in, and the pot cooks for hours in low embers or a banked earth hearth. Mushrooms go in later, and fermented fruit or honey balances the broth."
+      }
+    },
+    {
+      "id": "d-whispering-leaf-wraps",
+      "kind": "dish",
+      "label": "Whispering Leaf Wraps",
+      "status": "Provisional",
+      "lane": "deepwood",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Deepwood.md#3-whispering-leaf-wraps",
+      "text": "Leaves are softened over steam or hot water and wrapped around a filling that is cooked or partially cooked first, then tied with fiber. The packets steam in a covered pit above hot stones, kept from the ash by leaves and brush.",
+      "short_text": "Leaf packets steamed in a pit over hot stones.",
+      "facts": {
+        "Key ingredients": "Cooked grain; mushrooms; chestnuts or hazelnuts; greens; fish, fowl or shredded game when available; broad edible, non-toxic wrapping leaves.",
+        "Method": "Leaves are softened over steam or hot water and wrapped around a filling that is cooked or partially cooked first, then tied with fiber. The packets steam in a covered pit above hot stones, kept from the ash by leaves and brush.",
+        "Serving": "Packets are opened at the table."
+      }
+    },
+    {
+      "id": "d-clay-sealed-forest-roast",
+      "kind": "dish",
+      "label": "Clay-Sealed Forest Roast",
+      "status": "Provisional",
+      "lane": "deepwood",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Deepwood.md#4-clay-sealed-forest-roast",
+      "text": "Wrapped in leaves, coated in clean cooking clay and set among hot stones. The hardened clay is cracked away after cooking.",
+      "short_text": "Meat or fish baked inside a clay shell.",
+      "facts": {
+        "Key ingredients": "A bird, fish or small cut of meat; leaves; clean cooking clay.",
+        "Method": "Wrapped in leaves, coated in clean cooking clay and set among hot stones. The hardened clay is cracked away after cooking.",
+        "Note": "The clay is a vessel, not an ingredient."
+      }
+    },
+    {
+      "id": "d-night-ember-root-soup",
+      "kind": "dish",
+      "label": "Night-Ember Root Soup",
+      "status": "Provisional",
+      "lane": "deepwood",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Deepwood.md#5-night-ember-root-soup",
+      "text": "Roots roast at the edge of the hearth, are peeled and mashed into mushroom broth, thickened with crushed chestnut and simmered overnight in banked heat. Berry ferment goes in just before serving.",
+      "short_text": "Roasted-root soup simmered overnight in banked heat.",
+      "facts": {
+        "Key ingredients": "Roasted parsnip/turnip/carrot-like roots; chestnut; mushroom stock; mild wild herbs; fermented berry paste.",
+        "Method": "Roots roast at the edge of the hearth, are peeled and mashed into mushroom broth, thickened with crushed chestnut and simmered overnight in banked heat. Berry ferment goes in just before serving.",
+        "Note": "Replaces the earlier brainstorm name \"Nightshade Ember Soup,\" which implied unsafe ingredients."
+      }
+    },
+    {
+      "id": "d-acorn-or-chestnut-cakes",
+      "kind": "dish",
+      "label": "Acorn or Chestnut Cakes",
+      "status": "Provisional",
+      "lane": "deepwood",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Deepwood.md#6-acorn-or-chestnut-cakes",
+      "text": "Mixed and cooked on a stone or griddle.",
+      "short_text": "Seasonal griddle cakes of nut meal.",
+      "facts": {
+        "Key ingredients": "Tannin-leached acorn meal or chestnut flour; grain flour; water; honey.",
+        "Method": "Mixed and cooked on a stone or griddle.",
+        "Note": "Seasonal foods, not universal staples."
+      }
+    },
+    {
+      "id": "d-fermented-forest-fruit-paste",
+      "kind": "dish",
+      "label": "Fermented Forest Fruit Paste",
+      "status": "Provisional",
+      "lane": "deepwood",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Deepwood.md#7-fermented-forest-fruit-paste",
+      "text": "The paste works as acid, condiment and preservation method.",
+      "short_text": "Soured fruit used as acid, condiment and preserve.",
+      "facts": {
+        "Why it exists": "The paste works as acid, condiment and preservation method.",
+        "Key ingredients": "Berries or plums; a little salt or sweetener.",
+        "Method": "Lightly salted or sweetened and allowed to sour in crocks."
+      }
+    },
+    {
+      "id": "d-olive-flatbread-and-soft-cheese",
+      "kind": "dish",
+      "label": "Olive Flatbread and Soft Cheese",
+      "status": "Provisional",
+      "lane": "sunplains",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Sunplains.md#1-olive-flatbread-and-soft-cheese",
+      "text": "Rested dough cooks in thin rounds on a griddle or hot oven floor and is brushed with oil after baking.",
+      "short_text": "Oiled flatbread with cheese and olives alongside.",
+      "facts": {
+        "Key ingredients": "Wheat/barley flour; water; yeast or starter, or unleavened; olive-like oil; chopped olives where available; soft goat or sheep cheese; herbs.",
+        "Method": "Rested dough cooks in thin rounds on a griddle or hot oven floor and is brushed with oil after baking.",
+        "Serving": "Cheese, olives and herbs are served alongside rather than always baked in."
+      }
+    },
+    {
+      "id": "d-orchard-pear-clay-pot-braise",
+      "kind": "dish",
+      "label": "Orchard-Pear Clay-Pot Braise",
+      "status": "Provisional",
+      "lane": "sunplains",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Sunplains.md#2-orchard-pear-clay-pot-braise",
+      "text": "Meat is lightly browned in the clay pot, onion and spice cook in the oil, and meat, fruit and a little broth are layered. The covered pot sits over low heat so trapped steam does most of the work; honey goes in late.",
+      "short_text": "Meat and fruit braised in trapped steam.",
+      "facts": {
+        "Key ingredients": "Lamb, goat or poultry; onion; pear or quince-like fruit; oil; cinnamon-like bark; cumin-like seed; saffron-like luxury spice only in wealthy versions; honey; broth.",
+        "Method": "Meat is lightly browned in the clay pot, onion and spice cook in the oil, and meat, fruit and a little broth are layered. The covered pot sits over low heat so trapped steam does most of the work; honey goes in late.",
+        "Variations": "Saffron-like luxury spice appears only in wealthy versions.",
+        "Serving": "Served with bread or grain."
+      }
+    },
+    {
+      "id": "d-honey-drizzled-nut-pastries",
+      "kind": "dish",
+      "label": "Honey-Drizzled Nut Pastries",
+      "status": "Provisional",
+      "lane": "sunplains",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Sunplains.md#3-honey-drizzled-nut-pastries",
+      "text": "Dough is rolled or stretched thin, layered with fat and nuts, baked crisp in a communal or household oven, and warm honey syrup is poured over after baking.",
+      "short_text": "Thin nut-filled layers soaked in honey syrup.",
+      "facts": {
+        "Key ingredients": "Thin rolled dough; nuts; honey; spicebark; butter or oil.",
+        "Method": "Dough is rolled or stretched thin, layered with fat and nuts, baked crisp in a communal or household oven, and warm honey syrup is poured over after baking.",
+        "Variations": "Festival versions can be elaborate; everyday versions are simpler folded pastries."
+      }
+    },
+    {
+      "id": "d-grain-and-herb-salad",
+      "kind": "dish",
+      "label": "Grain and Herb Salad",
+      "status": "Provisional",
+      "lane": "sunplains",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Sunplains.md#4-grain-and-herb-salad",
+      "text": "The cooked grain is cooled and tossed with the rest.",
+      "short_text": "Cooled grain tossed with herbs, oil and fruit.",
+      "facts": {
+        "Key ingredients": "Cracked wheat, barley or couscous-like granules; cucumber-like vegetables; herbs; onion; oil; sour fruit or vinegar; dried or fresh orchard fruit.",
+        "Method": "The cooked grain is cooled and tossed with the rest."
+      }
+    },
+    {
+      "id": "d-herb-crusted-coastal-fish",
+      "kind": "dish",
+      "label": "Herb-Crusted Coastal Fish",
+      "status": "Provisional",
+      "lane": "sunplains",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Sunplains.md#5-herb-crusted-coastal-fish",
+      "text": "Fish is rubbed with oil, herbs and crumbs, then baked in a clay dish or grilled over clean coals, and finished with sour fruit, vinegar or reduction.",
+      "short_text": "Crumb-crusted fish with a sour finish.",
+      "facts": {
+        "Key ingredients": "Fish; oil; herbs; coarse grain crumbs; sour fruit, vinegar or pomegranate-like reduction.",
+        "Method": "Fish is rubbed with oil, herbs and crumbs, then baked in a clay dish or grilled over clean coals, and finished with sour fruit, vinegar or reduction."
+      }
+    },
+    {
+      "id": "d-fava-like-bean-purée",
+      "kind": "dish",
+      "label": "Fava-Like Bean Purée",
+      "status": "Provisional",
+      "lane": "sunplains",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Sunplains.md#6-fava-like-bean-purée",
+      "text": "The pulses are mashed with oil, allium, salt and something sour.",
+      "short_text": "Mashed pulses eaten with flatbread.",
+      "facts": {
+        "Key ingredients": "Cooked pulses; oil; garlic-like allium; salt; sour fruit or vinegar.",
+        "Method": "The pulses are mashed with oil, allium, salt and something sour.",
+        "Serving": "Eaten with flatbread and raw or grilled vegetables."
+      }
+    },
+    {
+      "id": "d-orchard-pilaf",
+      "kind": "dish",
+      "label": "Orchard Pilaf",
+      "status": "Provisional",
+      "lane": "sunplains",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Sunplains.md#7-orchard-pilaf",
+      "text": "The grain is toasted in oil and cooked with broth, nuts and dried fruit.",
+      "short_text": "Toasted grain with broth, nuts and dried fruit.",
+      "facts": {
+        "Key ingredients": "Rice where trade and irrigation support it, local grain elsewhere; oil; broth; nuts; dried fruit.",
+        "Method": "The grain is toasted in oil and cooked with broth, nuts and dried fruit.",
+        "Variations": "Wealthier versions use expensive aromatic spice."
+      }
+    },
+    {
+      "id": "d-blacksmiths-forged-harvest-stew",
+      "kind": "dish",
+      "label": "Blacksmith's / Forged Harvest Stew",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#blacksmiths--forged-harvest-stew",
+      "text": "Greenvale produce regularly feeds upland work towns; Ironcrest smoke and browning alter the farm stew.",
+      "short_text": "Greenvale's farm stew, browned and smoked the Ironcrest way.",
+      "facts": {
+        "Why it exists": "Greenvale produce regularly feeds upland work towns; Ironcrest smoke and browning alter the farm stew.",
+        "Key ingredients": "Smoked goat, pork-like meat or boar; barley; onion; carrots, parsnips, turnips; apple or pear; thyme; broth; cider vinegar; optional nuts.",
+        "Method": "Meat is browned hard in an iron pot and onion charred at the hearth's edge; barley and broth simmer with the meat, Greenvale roots and orchard fruit go in later, and vinegar finishes the pot.",
+        "Variations": "Nuts appear mainly in better-off or festival versions."
+      }
+    },
+    {
+      "id": "d-iron-grain-herbed-bread",
+      "kind": "dish",
+      "label": "Iron-Grain Herbed Bread",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#iron-grain-herbed-bread",
+      "text": "Greenvale bakers adapt their softer communal loaves to Ironcrest's darker flours, toasted grain and lidded-pot baking. Ironcrest households adopt Greenvale herbs and longer fermentation.",
+      "short_text": "Each side's bread borrowing from the other.",
+      "facts": {
+        "Key ingredients": "Ironcrest's darker flours and toasted grain; Greenvale herbs.",
+        "Method": "Greenvale bakers adapt their softer communal loaves to Ironcrest's darker flours, toasted grain and lidded-pot baking. Ironcrest households adopt Greenvale herbs and longer fermentation."
+      }
+    },
+    {
+      "id": "d-forge-and-plateau-kebabs",
+      "kind": "dish",
+      "label": "Forge and Plateau Kebabs",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#forge-and-plateau-kebabs",
+      "text": "Highridge caravan cooks bring sour marinades and layered spice to Ironcrest's fast iron-plate and charcoal cooking.",
+      "short_text": "Highridge marinades on Ironcrest skewers and charcoal.",
+      "facts": {
+        "Why it exists": "Highridge caravan cooks bring sour marinades and layered spice to Ironcrest's fast iron-plate and charcoal cooking.",
+        "Key ingredients": "Goat, boar or other upland meat; sour dairy, vinegar or tart fruit; cumin/coriander-like seed; dried pungent spice; onion; salt; flatbread.",
+        "Method": "Small pieces marinate in sour liquid and spice, are skewered tightly and grilled over a clean charcoal brazier on Ironcrest metal skewers with Highridge seasoning.",
+        "Serving": "Wrapped in plateau-style flatbread with Ironcrest pickles."
+      }
+    },
+    {
+      "id": "d-smoked-iron-grain-flatbread",
+      "kind": "dish",
+      "label": "Smoked Iron-Grain Flatbread",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#smoked-iron-grain-flatbread",
+      "text": "The flatbread is topped and finished on a hot stone or iron plate.",
+      "short_text": "Plateau flatbread topped with Ironcrest smoked meat.",
+      "facts": {
+        "Key ingredients": "Highridge-style flatbread; Ironcrest smoked meat; onions; curd cheese; a restrained amount of imported spice.",
+        "Method": "The flatbread is topped and finished on a hot stone or iron plate."
+      }
+    },
+    {
+      "id": "d-icefire-brined-fish",
+      "kind": "dish",
+      "label": "Icefire Brined Fish",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#icefire-brined-fish",
+      "text": "Northwind fish preservation meets Highridge caravan seasoning and drying.",
+      "short_text": "Northwind-cured fish with a crust of plateau spice.",
+      "facts": {
+        "Why it exists": "Northwind fish preservation meets Highridge caravan seasoning and drying.",
+        "Key ingredients": "Firm fish; salt brine; kelp; juniper-like herb; crushed plateau spices; rendered fat or butter.",
+        "Method": "Fish is brined cold, rinsed and air-dried until tacky, pressed with a thin layer of crushed spice, then cold- or warm-smoked depending on storage needs.",
+        "Serving": "Highridge traders often brush it with spiced butter when reheating."
+      }
+    },
+    {
+      "id": "d-icy-caravan-fish-pot",
+      "kind": "dish",
+      "label": "Icy Caravan Fish Pot",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#icy-caravan-fish-pot",
+      "text": "The salt fish simmers briefly in the sauce, added late so it doesn't fall apart.",
+      "short_text": "Salt fish simmered in a Highridge-style sauce.",
+      "facts": {
+        "Key ingredients": "Soaked salt fish; a Highridge-style aromatic legume or dairy sauce.",
+        "Method": "The salt fish simmers briefly in the sauce, added late so it doesn't fall apart.",
+        "Serving": "Eaten with flatbread or grain.",
+        "Note": "It doesn't require modern coconut milk."
+      }
+    },
+    {
+      "id": "d-frost-and-spice-fish-cakes",
+      "kind": "dish",
+      "label": "Frost and Spice Fish Cakes",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#frost-and-spice-fish-cakes",
+      "text": "Shaped into cakes, seasoned with plateau spice and shallow-fried.",
+      "short_text": "Northwind fish cakes seasoned with plateau spice.",
+      "facts": {
+        "Key ingredients": "Salt fish; mashed root; onion; barley meal; imported plateau spice.",
+        "Method": "Shaped into cakes, seasoned with plateau spice and shallow-fried.",
+        "Serving": "Sour dairy or fermented berry relish accompanies them."
+      }
+    },
+    {
+      "id": "d-shadow-hearth-porridge",
+      "kind": "dish",
+      "label": "Shadow Hearth Porridge",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#shadow-hearth-porridge",
+      "text": "Greenvale grain becomes the stable carbohydrate; Deepwood contributes mushrooms, nuts and low-ember technique.",
+      "short_text": "Greenvale grain cooked the Deepwood way, with mushrooms and nuts.",
+      "facts": {
+        "Why it exists": "Greenvale grain becomes the stable carbohydrate; Deepwood contributes mushrooms, nuts and low-ember technique.",
+        "Key ingredients": "Cracked wheat or barley; mushroom broth; roasted root; chestnut or hazelnut; thyme; optional milk or honey.",
+        "Method": "Grain begins in a clay pot, ember-roasted root is mashed into the liquid, mushrooms and nuts go in, and the pot cooks slowly beside the fire.",
+        "Variations": "Greenvale households may finish it with milk; Deepwood households more often use nut paste or broth."
+      }
+    },
+    {
+      "id": "d-wild-orchard-tartlets",
+      "kind": "dish",
+      "label": "Wild Orchard Tartlets",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#wild-orchard-tartlets",
+      "text": "The point is sweet-earthy balance, not dessert-level sweetness.",
+      "short_text": "Greenvale pastry around Deepwood mushrooms and nuts.",
+      "facts": {
+        "Why it exists": "The point is sweet-earthy balance, not dessert-level sweetness.",
+        "Key ingredients": "Greenvale pastry; Deepwood mushrooms, herbs and nuts; a little apple or pear.",
+        "Method": "The pastry encloses the filling."
+      }
+    },
+    {
+      "id": "d-forest-harvest-salad",
+      "kind": "dish",
+      "label": "Forest Harvest Salad",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-harvest-salad",
+      "text": "The greens, roots and apple meet the mushrooms and nuts under a honey-vinegar dressing.",
+      "short_text": "Farm greens and apple with forest mushrooms and nuts.",
+      "facts": {
+        "Key ingredients": "Cultivated greens; radish-like roots; orchard apple; lightly cooked forest mushrooms; nuts; honey-vinegar dressing.",
+        "Method": "The greens, roots and apple meet the mushrooms and nuts under a honey-vinegar dressing."
+      }
+    },
+    {
+      "id": "d-harvest-orchard-salad",
+      "kind": "dish",
+      "label": "Harvest Orchard Salad",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#harvest-orchard-salad",
+      "text": "The greens and vegetables are combined with the fruit, oil and herbs and dressed with sour fruit.",
+      "short_text": "Greenvale greens with Sunplains fruit and oil.",
+      "facts": {
+        "Key ingredients": "Fresh Greenvale greens and vegetables; Sunplains figs or pomegranate-like fruit; oil; mint-like herbs; sour-fruit dressing.",
+        "Method": "The greens and vegetables are combined with the fruit, oil and herbs and dressed with sour fruit."
+      }
+    },
+    {
+      "id": "d-sunlit-orchard-grain",
+      "kind": "dish",
+      "label": "Sunlit Orchard Grain",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#sunlit-orchard-grain",
+      "text": "The grain is dressed in oil and sour fruit, then mixed with vegetables, herbs, dried fig and nuts.",
+      "short_text": "Greenvale grain dressed Sunplains-style; travels to markets and crews.",
+      "facts": {
+        "Key ingredients": "Greenvale cracked grain or couscous-like wheat; Sunplains oil and sour fruit; cucumber-like vegetables; herbs; dried fig; nuts.",
+        "Method": "The grain is dressed in oil and sour fruit, then mixed with vegetables, herbs, dried fig and nuts.",
+        "Serving": "It travels well to markets and harvest crews."
+      }
+    },
+    {
+      "id": "d-forest-blossom-tart",
+      "kind": "dish",
+      "label": "Forest Blossom Tart",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-blossom-tart",
+      "text": "Sunplains pastry technique and orchard sweetness absorb Deepwood nuts, forest fruit and earthy aromatics.",
+      "short_text": "Sunplains pastry with Deepwood nuts and forest fruit.",
+      "facts": {
+        "Why it exists": "Sunplains pastry technique and orchard sweetness absorb Deepwood nuts, forest fruit and earthy aromatics.",
+        "Key ingredients": "Thin or short pastry; fig, pear or plum; chestnut or hazelnut; mild forest herb; honey; cinnamon-like spicebark.",
+        "Method": "Fruit is chopped with toasted nuts and herbs, baked in a shallow pastry in a Sunplains oven or under a clay baking cover, and brushed with honey afterward.",
+        "Variations": "Border versions may include a small savory mushroom component."
+      }
+    },
+    {
+      "id": "d-forest-orchard-medley",
+      "kind": "dish",
+      "label": "Forest-Orchard Medley",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-orchard-medley",
+      "text": "Mushrooms and wild greens are gently cooked in oil, then finished with orchard fruit, sour juice or vinegar, and herbs.",
+      "short_text": "Mushrooms and greens in oil, finished with fruit and acid.",
+      "facts": {
+        "Key ingredients": "Mushrooms; wild greens; Sunplains oil; orchard fruit; sour citrus-like juice or vinegar; herbs.",
+        "Method": "Mushrooms and wild greens are gently cooked in oil, then finished with orchard fruit, sour juice or vinegar, and herbs."
+      }
+    },
+    {
+      "id": "d-forest-citrus-creamed-grain",
+      "kind": "dish",
+      "label": "Forest-Citrus Creamed Grain",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-citrus-creamed-grain",
+      "text": "The grain is slowly fed hot broth, mushrooms are added during cooking, and bright orchard acid goes in at the finish.",
+      "short_text": "Grain slowly fed broth, with mushrooms and a bright finish.",
+      "facts": {
+        "Key ingredients": "A locally available grain; hot broth; mushrooms; orchard acid.",
+        "Method": "The grain is slowly fed hot broth, mushrooms are added during cooking, and bright orchard acid goes in at the finish.",
+        "Real-world inspiration": "Risotto-like technique, without requiring rice to be universal."
+      }
+    },
+    {
+      "id": "d-plateau-orchard-clay-pot",
+      "kind": "dish",
+      "label": "Plateau Orchard Clay Pot",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#plateau-orchard-clay-pot",
+      "text": "Highridge spice layering meets Sunplains steam-trapping clay braise.",
+      "short_text": "Highridge spice layering in a Sunplains clay braise.",
+      "facts": {
+        "Why it exists": "Highridge spice layering meets Sunplains steam-trapping clay braise.",
+        "Key ingredients": "Goat or lamb; onion; dried apricot or raisin-like fruit; pear or quince; cumin-like seed; cinnamon-like bark; broth; oil or butter.",
+        "Method": "Meat is browned, spices toast in fat, fruit and broth are layered in a covered clay pot, and it cooks slowly until tender.",
+        "Serving": "Plateau flatbread or grain accompanies it."
+      }
+    },
+    {
+      "id": "d-highridge-orchard-pilaf",
+      "kind": "dish",
+      "label": "Highridge Orchard Pilaf",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Dishes",
+      "src": "Culture/Recipes/Border-Fusions.md#highridge-orchard-pilaf",
+      "text": "The grain is toasted in fat, simmered with broth and spice, then finished with dried Sunplains fruit and nuts.",
+      "short_text": "Toasted grain with spice, finished with Sunplains fruit.",
+      "facts": {
+        "Key ingredients": "Long grain, millet, wheat berries or barley; fat; broth; spice; dried Sunplains fruit; nuts.",
+        "Method": "The grain is toasted in fat, simmered with broth and spice, then finished with dried Sunplains fruit and nuts."
+      }
+    },
+    {
+      "id": "a-guardian-stew",
+      "kind": "adaptation",
+      "label": "Guardian Stew, away from home",
+      "short": "Guardian Stew abroad",
+      "status": "Provisional (illustrative)",
+      "lane": "deepwood",
+      "section": "Away from home",
+      "src": "Culture/Food-Diaspora-and-Adaptation.md#guardian-stew",
+      "text": "A Deepwood stew whose identity comes from slow cooking, forest aromatics and a communal serving ritual. A diaspora version might keep the method and occasion while its pantry changes with each host region.",
+      "short_text": "How the stew might change in each host region while its method and occasion survive.",
+      "facts": {
+        "What survives": "A diaspora version might keep the method and occasion.",
+        "What changes": "The pantry might: cultivated roots, dairy or orchard acidity may enter in Greenvale; dried aromatics and portable grains may become normal in Highridge; preserved fish or brined vegetables may alter it in Northwind; pulses, oil and fresh herbs may reshape it in Sunplains; smoke and dense grain may make it heavier in Ironcrest; in Port, several of these descendants can coexist and eventually cross-pollinate.",
+        "Caution": "None of these versions should be treated as automatically canonical dishes. The example demonstrates the mechanism."
+      }
+    },
+    {
+      "id": "a-forgefire-roast",
+      "kind": "adaptation",
+      "label": "Forgefire Roast",
+      "short": "Forgefire Roast",
+      "status": "Provisional (illustrative)",
+      "lane": "ironcrest",
+      "section": "Away from home",
+      "src": "Culture/Food-Diaspora-and-Adaptation.md#forgefire-roast",
+      "text": "An Ironcrest preparation identified by hard browning, smoke and a communal work-day context, which might migrate into Sunplains.",
+      "short_text": "Hard-browned Ironcrest work-day food that might move to Sunplains.",
+      "facts": {
+        "What survives": "The idea of the food: it should be deeply browned and served after collective labor.",
+        "What changes": "The Sunplains host version could use a different meat, oil, acid and herb set.",
+        "Caution": "Illustrative, on a page that is a working design method, not a fixed menu of canon dishes."
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "d-miners-gruel",
+      "to": "ironcrest-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Ironcrest Recipes … 1. Miner's Gruel",
+      "src": "Culture/Recipes/Ironcrest.md#1-miners-gruel",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-smoked-ember-stew",
+      "to": "ironcrest-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Ironcrest Recipes … 2. Smoked Ember Stew",
+      "src": "Culture/Recipes/Ironcrest.md#2-smoked-ember-stew",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-ashen-stone-loaf",
+      "to": "ironcrest-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Ironcrest Recipes … 3. Ashen Stone Loaf",
+      "src": "Culture/Recipes/Ironcrest.md#3-ashen-stone-loaf",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-coal-roasted-boar-with-root-mash",
+      "to": "ironcrest-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Ironcrest Recipes … 4. Coal-Roasted Boar with Root Mash",
+      "src": "Culture/Recipes/Ironcrest.md#4-coal-roasted-boar-with-root-mash",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-smoked-ash-marrow-broth",
+      "to": "ironcrest-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Ironcrest Recipes … 5. Smoked Ash-Marrow Broth",
+      "src": "Culture/Recipes/Ironcrest.md#5-smoked-ash-marrow-broth",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-forge-fired-sausages",
+      "to": "ironcrest-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Ironcrest Recipes … 6. Forge-Fired Sausages",
+      "src": "Culture/Recipes/Ironcrest.md#6-forge-fired-sausages",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-smoked-meat-and-root-pie",
+      "to": "ironcrest-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Ironcrest Recipes … 7. Smoked Meat and Root Pie",
+      "src": "Culture/Recipes/Ironcrest.md#7-smoked-meat-and-root-pie",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-ember-nuts",
+      "to": "ironcrest-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Ironcrest Recipes … 8. Ember Nuts",
+      "src": "Culture/Recipes/Ironcrest.md#8-ember-nuts",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-salt-fish-and-barley-porridge",
+      "to": "northwind-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Northwind Recipes … 1. Salt-Fish and Barley Porridge",
+      "src": "Culture/Recipes/Northwind.md#1-salt-fish-and-barley-porridge",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-hearthfire-fish-and-root-bake",
+      "to": "northwind-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Northwind Recipes … 2. Hearthfire Fish and Root Bake",
+      "src": "Culture/Recipes/Northwind.md#2-hearthfire-fish-and-root-bake",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-frostbound-fish-stew",
+      "to": "northwind-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Northwind Recipes … 3. Frostbound Fish Stew",
+      "src": "Culture/Recipes/Northwind.md#3-frostbound-fish-stew",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-frosted-mead-cakes",
+      "to": "northwind-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Northwind Recipes … 4. Frosted Mead Cakes",
+      "src": "Culture/Recipes/Northwind.md#4-frosted-mead-cakes",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-snow-dried-fish-cakes",
+      "to": "northwind-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Northwind Recipes … 5. Snow-Dried Fish Cakes",
+      "src": "Culture/Recipes/Northwind.md#5-snow-dried-fish-cakes",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-kelp-crisps",
+      "to": "northwind-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Northwind Recipes … 6. Kelp Crisps",
+      "src": "Culture/Recipes/Northwind.md#6-kelp-crisps",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-pickled-winter-roots",
+      "to": "northwind-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Northwind Recipes … 7. Pickled Winter Roots",
+      "src": "Culture/Recipes/Northwind.md#7-pickled-winter-roots",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-aurora-berry-preserve",
+      "to": "northwind-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Northwind Recipes … 8. Aurora Berry Preserve",
+      "src": "Culture/Recipes/Northwind.md#8-aurora-berry-preserve",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-fresh-morning-bread-and-milk",
+      "to": "greenvale-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Greenvale Recipes … 1. Fresh Morning Bread and Milk",
+      "src": "Culture/Recipes/Greenvale.md#1-fresh-morning-bread-and-milk",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-braided-honey-and-grain-loaf",
+      "to": "greenvale-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Greenvale Recipes … 2. Braided Honey and Grain Loaf",
+      "src": "Culture/Recipes/Greenvale.md#2-braided-honey-and-grain-loaf",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-harvest-stew",
+      "to": "greenvale-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Greenvale Recipes … 3. Harvest Stew",
+      "src": "Culture/Recipes/Greenvale.md#3-harvest-stew",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-orchard-fire-roasted-fowl",
+      "to": "greenvale-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Greenvale Recipes … 4. Orchard-Fire Roasted Fowl",
+      "src": "Culture/Recipes/Greenvale.md#4-orchard-fire-roasted-fowl",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-farmers-midday-mash",
+      "to": "greenvale-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Greenvale Recipes … 5. Farmer's Midday Mash",
+      "src": "Culture/Recipes/Greenvale.md#5-farmers-midday-mash",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-orchard-hand-pies",
+      "to": "greenvale-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Greenvale Recipes … 6. Orchard Hand Pies",
+      "src": "Culture/Recipes/Greenvale.md#6-orchard-hand-pies",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-roasted-grain-clusters",
+      "to": "greenvale-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Greenvale Recipes … 7. Roasted Grain Clusters",
+      "src": "Culture/Recipes/Greenvale.md#7-roasted-grain-clusters",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-herbed-farm-cheese",
+      "to": "greenvale-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Greenvale Recipes … 8. Herbed Farm Cheese",
+      "src": "Culture/Recipes/Greenvale.md#8-herbed-farm-cheese",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-caravan-flatbread-with-spiced-butter",
+      "to": "highridge-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Highridge Plateau Recipes … 1. Caravan Flatbread with Spiced Butter",
+      "src": "Culture/Recipes/Highridge-Plateau.md#1-caravan-flatbread-with-spiced-butter",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-caravan-curry-spiced-caravan-pot",
+      "to": "highridge-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Highridge Plateau Recipes … 2. Caravan Curry / Spiced Caravan Pot",
+      "src": "Culture/Recipes/Highridge-Plateau.md#2-caravan-curry--spiced-caravan-pot",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-wind-dumplings",
+      "to": "highridge-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Highridge Plateau Recipes … 3. Wind Dumplings",
+      "src": "Culture/Recipes/Highridge-Plateau.md#3-wind-dumplings",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-plateau-noodle-soup",
+      "to": "highridge-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Highridge Plateau Recipes … 4. Plateau Noodle Soup",
+      "src": "Culture/Recipes/Highridge-Plateau.md#4-plateau-noodle-soup",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-caravan-skewers",
+      "to": "highridge-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Highridge Plateau Recipes … 5. Caravan Skewers",
+      "src": "Culture/Recipes/Highridge-Plateau.md#5-caravan-skewers",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-spice-rice-grain-pilaf",
+      "to": "highridge-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Highridge Plateau Recipes … 6. Spice Rice / Grain Pilaf",
+      "src": "Culture/Recipes/Highridge-Plateau.md#6-spice-rice--grain-pilaf",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-lentil-fritters",
+      "to": "highridge-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Highridge Plateau Recipes … 7. Lentil Fritters",
+      "src": "Culture/Recipes/Highridge-Plateau.md#7-lentil-fritters",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-mushroom-simmered-broth",
+      "to": "deepwood-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Deepwood Recipes … 1. Mushroom-Simmered Broth",
+      "src": "Culture/Recipes/Deepwood.md#1-mushroom-simmered-broth",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-guardian-stew",
+      "to": "deepwood-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Deepwood Recipes … 2. Guardian Stew",
+      "src": "Culture/Recipes/Deepwood.md#2-guardian-stew",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-whispering-leaf-wraps",
+      "to": "deepwood-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Deepwood Recipes … 3. Whispering Leaf Wraps",
+      "src": "Culture/Recipes/Deepwood.md#3-whispering-leaf-wraps",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-clay-sealed-forest-roast",
+      "to": "deepwood-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Deepwood Recipes … 4. Clay-Sealed Forest Roast",
+      "src": "Culture/Recipes/Deepwood.md#4-clay-sealed-forest-roast",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-night-ember-root-soup",
+      "to": "deepwood-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Deepwood Recipes … 5. Night-Ember Root Soup",
+      "src": "Culture/Recipes/Deepwood.md#5-night-ember-root-soup",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-acorn-or-chestnut-cakes",
+      "to": "deepwood-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Deepwood Recipes … 6. Acorn or Chestnut Cakes",
+      "src": "Culture/Recipes/Deepwood.md#6-acorn-or-chestnut-cakes",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-fermented-forest-fruit-paste",
+      "to": "deepwood-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Deepwood Recipes … 7. Fermented Forest Fruit Paste",
+      "src": "Culture/Recipes/Deepwood.md#7-fermented-forest-fruit-paste",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-olive-flatbread-and-soft-cheese",
+      "to": "sunplains-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Sunplains Recipes … 1. Olive Flatbread and Soft Cheese",
+      "src": "Culture/Recipes/Sunplains.md#1-olive-flatbread-and-soft-cheese",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-orchard-pear-clay-pot-braise",
+      "to": "sunplains-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Sunplains Recipes … 2. Orchard-Pear Clay-Pot Braise",
+      "src": "Culture/Recipes/Sunplains.md#2-orchard-pear-clay-pot-braise",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-honey-drizzled-nut-pastries",
+      "to": "sunplains-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Sunplains Recipes … 3. Honey-Drizzled Nut Pastries",
+      "src": "Culture/Recipes/Sunplains.md#3-honey-drizzled-nut-pastries",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-grain-and-herb-salad",
+      "to": "sunplains-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Sunplains Recipes … 4. Grain and Herb Salad",
+      "src": "Culture/Recipes/Sunplains.md#4-grain-and-herb-salad",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-herb-crusted-coastal-fish",
+      "to": "sunplains-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Sunplains Recipes … 5. Herb-Crusted Coastal Fish",
+      "src": "Culture/Recipes/Sunplains.md#5-herb-crusted-coastal-fish",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-fava-like-bean-purée",
+      "to": "sunplains-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Sunplains Recipes … 6. Fava-Like Bean Purée",
+      "src": "Culture/Recipes/Sunplains.md#6-fava-like-bean-purée",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-orchard-pilaf",
+      "to": "sunplains-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Sunplains Recipes … 7. Orchard Pilaf",
+      "src": "Culture/Recipes/Sunplains.md#7-orchard-pilaf",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-blacksmiths-forged-harvest-stew",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Blacksmith's / Forged Harvest Stew",
+      "src": "Culture/Recipes/Border-Fusions.md#blacksmiths--forged-harvest-stew",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-blacksmiths-forged-harvest-stew",
+      "to": "ironcrest-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Ironcrest–Greenvale … Blacksmith's / Forged Harvest Stew",
+      "src": "Culture/Recipes/Border-Fusions.md#blacksmiths--forged-harvest-stew",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-blacksmiths-forged-harvest-stew",
+      "to": "greenvale-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Ironcrest–Greenvale … Blacksmith's / Forged Harvest Stew",
+      "src": "Culture/Recipes/Border-Fusions.md#blacksmiths--forged-harvest-stew",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-iron-grain-herbed-bread",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Iron-Grain Herbed Bread",
+      "src": "Culture/Recipes/Border-Fusions.md#iron-grain-herbed-bread",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-iron-grain-herbed-bread",
+      "to": "ironcrest-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Ironcrest–Greenvale … Iron-Grain Herbed Bread",
+      "src": "Culture/Recipes/Border-Fusions.md#iron-grain-herbed-bread",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-iron-grain-herbed-bread",
+      "to": "greenvale-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Ironcrest–Greenvale … Iron-Grain Herbed Bread",
+      "src": "Culture/Recipes/Border-Fusions.md#iron-grain-herbed-bread",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-forge-and-plateau-kebabs",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Forge and Plateau Kebabs",
+      "src": "Culture/Recipes/Border-Fusions.md#forge-and-plateau-kebabs",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-forge-and-plateau-kebabs",
+      "to": "ironcrest-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Ironcrest–Highridge … Forge and Plateau Kebabs",
+      "src": "Culture/Recipes/Border-Fusions.md#forge-and-plateau-kebabs",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-forge-and-plateau-kebabs",
+      "to": "highridge-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Ironcrest–Highridge … Forge and Plateau Kebabs",
+      "src": "Culture/Recipes/Border-Fusions.md#forge-and-plateau-kebabs",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-smoked-iron-grain-flatbread",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Smoked Iron-Grain Flatbread",
+      "src": "Culture/Recipes/Border-Fusions.md#smoked-iron-grain-flatbread",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-smoked-iron-grain-flatbread",
+      "to": "ironcrest-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Ironcrest–Highridge … Smoked Iron-Grain Flatbread",
+      "src": "Culture/Recipes/Border-Fusions.md#smoked-iron-grain-flatbread",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-smoked-iron-grain-flatbread",
+      "to": "highridge-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Ironcrest–Highridge … Smoked Iron-Grain Flatbread",
+      "src": "Culture/Recipes/Border-Fusions.md#smoked-iron-grain-flatbread",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-icefire-brined-fish",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Icefire Brined Fish",
+      "src": "Culture/Recipes/Border-Fusions.md#icefire-brined-fish",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-icefire-brined-fish",
+      "to": "northwind-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Northwind–Highridge … Icefire Brined Fish",
+      "src": "Culture/Recipes/Border-Fusions.md#icefire-brined-fish",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-icefire-brined-fish",
+      "to": "highridge-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Northwind–Highridge … Icefire Brined Fish",
+      "src": "Culture/Recipes/Border-Fusions.md#icefire-brined-fish",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-icy-caravan-fish-pot",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Icy Caravan Fish Pot",
+      "src": "Culture/Recipes/Border-Fusions.md#icy-caravan-fish-pot",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-icy-caravan-fish-pot",
+      "to": "northwind-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Northwind–Highridge … Icy Caravan Fish Pot",
+      "src": "Culture/Recipes/Border-Fusions.md#icy-caravan-fish-pot",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-icy-caravan-fish-pot",
+      "to": "highridge-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Northwind–Highridge … Icy Caravan Fish Pot",
+      "src": "Culture/Recipes/Border-Fusions.md#icy-caravan-fish-pot",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-frost-and-spice-fish-cakes",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Frost and Spice Fish Cakes",
+      "src": "Culture/Recipes/Border-Fusions.md#frost-and-spice-fish-cakes",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-frost-and-spice-fish-cakes",
+      "to": "northwind-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Northwind–Highridge … Frost and Spice Fish Cakes",
+      "src": "Culture/Recipes/Border-Fusions.md#frost-and-spice-fish-cakes",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-frost-and-spice-fish-cakes",
+      "to": "highridge-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Northwind–Highridge … Frost and Spice Fish Cakes",
+      "src": "Culture/Recipes/Border-Fusions.md#frost-and-spice-fish-cakes",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-shadow-hearth-porridge",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Shadow Hearth Porridge",
+      "src": "Culture/Recipes/Border-Fusions.md#shadow-hearth-porridge",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-shadow-hearth-porridge",
+      "to": "greenvale-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Greenvale–Deepwood … Shadow Hearth Porridge",
+      "src": "Culture/Recipes/Border-Fusions.md#shadow-hearth-porridge",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-shadow-hearth-porridge",
+      "to": "deepwood-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Greenvale–Deepwood … Shadow Hearth Porridge",
+      "src": "Culture/Recipes/Border-Fusions.md#shadow-hearth-porridge",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-wild-orchard-tartlets",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Wild Orchard Tartlets",
+      "src": "Culture/Recipes/Border-Fusions.md#wild-orchard-tartlets",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-wild-orchard-tartlets",
+      "to": "greenvale-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Greenvale–Deepwood … Wild Orchard Tartlets",
+      "src": "Culture/Recipes/Border-Fusions.md#wild-orchard-tartlets",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-wild-orchard-tartlets",
+      "to": "deepwood-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Greenvale–Deepwood … Wild Orchard Tartlets",
+      "src": "Culture/Recipes/Border-Fusions.md#wild-orchard-tartlets",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-forest-harvest-salad",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Forest Harvest Salad",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-harvest-salad",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-forest-harvest-salad",
+      "to": "greenvale-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Greenvale–Deepwood … Forest Harvest Salad",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-harvest-salad",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-forest-harvest-salad",
+      "to": "deepwood-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Greenvale–Deepwood … Forest Harvest Salad",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-harvest-salad",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-harvest-orchard-salad",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Harvest Orchard Salad",
+      "src": "Culture/Recipes/Border-Fusions.md#harvest-orchard-salad",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-harvest-orchard-salad",
+      "to": "greenvale-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Greenvale–Sunplains … Harvest Orchard Salad",
+      "src": "Culture/Recipes/Border-Fusions.md#harvest-orchard-salad",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-harvest-orchard-salad",
+      "to": "sunplains-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Greenvale–Sunplains … Harvest Orchard Salad",
+      "src": "Culture/Recipes/Border-Fusions.md#harvest-orchard-salad",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-sunlit-orchard-grain",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Sunlit Orchard Grain",
+      "src": "Culture/Recipes/Border-Fusions.md#sunlit-orchard-grain",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-sunlit-orchard-grain",
+      "to": "greenvale-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Greenvale–Sunplains … Sunlit Orchard Grain",
+      "src": "Culture/Recipes/Border-Fusions.md#sunlit-orchard-grain",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-sunlit-orchard-grain",
+      "to": "sunplains-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Greenvale–Sunplains … Sunlit Orchard Grain",
+      "src": "Culture/Recipes/Border-Fusions.md#sunlit-orchard-grain",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-forest-blossom-tart",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Forest Blossom Tart",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-blossom-tart",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-forest-blossom-tart",
+      "to": "deepwood-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Deepwood–Sunplains … Forest Blossom Tart",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-blossom-tart",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-forest-blossom-tart",
+      "to": "sunplains-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Deepwood–Sunplains … Forest Blossom Tart",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-blossom-tart",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-forest-orchard-medley",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Forest-Orchard Medley",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-orchard-medley",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-forest-orchard-medley",
+      "to": "deepwood-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Deepwood–Sunplains … Forest-Orchard Medley",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-orchard-medley",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-forest-orchard-medley",
+      "to": "sunplains-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Deepwood–Sunplains … Forest-Orchard Medley",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-orchard-medley",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-forest-citrus-creamed-grain",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Forest-Citrus Creamed Grain",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-citrus-creamed-grain",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-forest-citrus-creamed-grain",
+      "to": "deepwood-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Deepwood–Sunplains … Forest-Citrus Creamed Grain",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-citrus-creamed-grain",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-forest-citrus-creamed-grain",
+      "to": "sunplains-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Deepwood–Sunplains … Forest-Citrus Creamed Grain",
+      "src": "Culture/Recipes/Border-Fusions.md#forest-citrus-creamed-grain",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-plateau-orchard-clay-pot",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Plateau Orchard Clay Pot",
+      "src": "Culture/Recipes/Border-Fusions.md#plateau-orchard-clay-pot",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-plateau-orchard-clay-pot",
+      "to": "highridge-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Highridge–Sunplains … Plateau Orchard Clay Pot",
+      "src": "Culture/Recipes/Border-Fusions.md#plateau-orchard-clay-pot",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-plateau-orchard-clay-pot",
+      "to": "sunplains-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Highridge–Sunplains … Plateau Orchard Clay Pot",
+      "src": "Culture/Recipes/Border-Fusions.md#plateau-orchard-clay-pot",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-highridge-orchard-pilaf",
+      "to": "borderlands-food",
+      "layer": "food-cuisine",
+      "type": "is a dish of",
+      "basis": "stated",
+      "quote": "Neighboring Border Fusion Recipes … Highridge Orchard Pilaf",
+      "src": "Culture/Recipes/Border-Fusions.md#highridge-orchard-pilaf",
+      "chip": "Cuisine",
+      "chipBack": "Dishes"
+    },
+    {
+      "from": "d-highridge-orchard-pilaf",
+      "to": "highridge-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Highridge–Sunplains … Highridge Orchard Pilaf",
+      "src": "Culture/Recipes/Border-Fusions.md#highridge-orchard-pilaf",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "d-highridge-orchard-pilaf",
+      "to": "sunplains-food",
+      "layer": "food-border",
+      "type": "blends the cooking of",
+      "basis": "stated",
+      "quote": "Highridge–Sunplains … Highridge Orchard Pilaf",
+      "src": "Culture/Recipes/Border-Fusions.md#highridge-orchard-pilaf",
+      "chip": "Between",
+      "chipBack": "Border dishes"
+    },
+    {
+      "from": "ironcrest-food",
+      "to": "greenvale-food",
+      "layer": "food-blend",
+      "type": "blends at the border with",
+      "basis": "stated",
+      "quote": "Greenvale produce regularly feeds upland work towns; Ironcrest smoke and browning alter the farm stew.",
+      "src": "Culture/Recipes/Border-Fusions.md#ironcrestgreenvale",
+      "chip": "Blends with",
+      "chipBack": "Blends with",
+      "also": [
+        {
+          "quote": "border food blends strongly with Greenvale and Deepwood",
+          "src": "Regions/Ironcrest.md#food"
+        }
+      ]
+    },
+    {
+      "from": "ironcrest-food",
+      "to": "highridge-food",
+      "layer": "food-blend",
+      "type": "blends at the border with",
+      "basis": "stated",
+      "quote": "Highridge caravan cooks bring sour marinades and layered spice to Ironcrest's fast iron-plate and charcoal cooking.",
+      "src": "Culture/Recipes/Border-Fusions.md#ironcresthighridge",
+      "chip": "Blends with",
+      "chipBack": "Blends with",
+      "chipNote": "border or short mountain corridor",
+      "also": [
+        {
+          "quote": "Likely a meaningful direct border or a very short mountain corridor.",
+          "src": "Geography-and-Connections.md#ironcrest--highridge"
+        },
+        {
+          "quote": "Exact borders remain partly unresolved; where adjacency changes, treat the corresponding dish as a trade-route or diaspora dish rather than forcing a map fact.",
+          "src": "Culture/Recipes/Border-Fusions.md#status"
+        }
+      ],
+      "certainty": "likely",
+      "chipNoteBack": "border or short mountain corridor"
+    },
+    {
+      "from": "northwind-food",
+      "to": "highridge-food",
+      "layer": "food-blend",
+      "type": "blends at the border with",
+      "basis": "stated",
+      "quote": "Northwind fish preservation meets Highridge caravan seasoning and drying.",
+      "src": "Culture/Recipes/Border-Fusions.md#northwindhighridge",
+      "chip": "Blends with",
+      "chipBack": "Blends with"
+    },
+    {
+      "from": "greenvale-food",
+      "to": "deepwood-food",
+      "layer": "food-blend",
+      "type": "blends at the border with",
+      "basis": "stated",
+      "quote": "Greenvale grain becomes the stable carbohydrate; Deepwood contributes mushrooms, nuts and low-ember technique.",
+      "src": "Culture/Recipes/Border-Fusions.md#greenvaledeepwood",
+      "chip": "Blends with",
+      "chipBack": "Blends with",
+      "chipNote": "border",
+      "also": [
+        {
+          "quote": "Treat as a direct border unless the final map contradicts it.",
+          "src": "Geography-and-Connections.md#greenvale--deepwood"
+        },
+        {
+          "quote": "Exact borders remain partly unresolved; where adjacency changes, treat the corresponding dish as a trade-route or diaspora dish rather than forcing a map fact.",
+          "src": "Culture/Recipes/Border-Fusions.md#status"
+        }
+      ],
+      "certainty": "working",
+      "chipNoteBack": "border"
+    },
+    {
+      "from": "greenvale-food",
+      "to": "sunplains-food",
+      "layer": "food-blend",
+      "type": "blends at the border with",
+      "basis": "stated",
+      "quote": "Greenvale cracked grain or couscous-like wheat is dressed in Sunplains oil and sour fruit",
+      "src": "Culture/Recipes/Border-Fusions.md#greenvalesunplains",
+      "chip": "Blends with",
+      "chipBack": "Blends with"
+    },
+    {
+      "from": "deepwood-food",
+      "to": "sunplains-food",
+      "layer": "food-blend",
+      "type": "blends at the border with",
+      "basis": "stated",
+      "quote": "Sunplains pastry technique and orchard sweetness absorb Deepwood nuts, forest fruit and earthy aromatics.",
+      "src": "Culture/Recipes/Border-Fusions.md#deepwoodsunplains",
+      "chip": "Blends with",
+      "chipBack": "Blends with",
+      "chipNote": "border",
+      "also": [
+        {
+          "quote": "Likely a southern forest transition into drier woodland and cultivated Sunplains.",
+          "src": "Geography-and-Connections.md#deepwood--sunplains"
+        },
+        {
+          "quote": "Exact borders remain partly unresolved; where adjacency changes, treat the corresponding dish as a trade-route or diaspora dish rather than forcing a map fact.",
+          "src": "Culture/Recipes/Border-Fusions.md#status"
+        }
+      ],
+      "certainty": "likely",
+      "chipNoteBack": "border"
+    },
+    {
+      "from": "highridge-food",
+      "to": "sunplains-food",
+      "layer": "food-blend",
+      "type": "blends at the border with",
+      "basis": "stated",
+      "quote": "Highridge spice layering meets Sunplains steam-trapping clay braise.",
+      "src": "Culture/Recipes/Border-Fusions.md#highridgesunplains",
+      "chip": "Blends with",
+      "chipBack": "Blends with",
+      "chipNote": "border, corridor or neither",
+      "also": [
+        {
+          "quote": "Could be a direct boundary, a narrow corridor, or mediated through Greenvale/Deepwood. Do not assume until the map is locked.",
+          "src": "Geography-and-Connections.md#highridge--sunplains"
+        },
+        {
+          "quote": "Exact borders remain partly unresolved; where adjacency changes, treat the corresponding dish as a trade-route or diaspora dish rather than forcing a map fact.",
+          "src": "Culture/Recipes/Border-Fusions.md#status"
+        }
+      ],
+      "certainty": "possible",
+      "chipNoteBack": "border, corridor or neither"
+    },
+    {
+      "from": "ironcrest-food",
+      "to": "deepwood-food",
+      "layer": "food-blend",
+      "type": "blends at the border with",
+      "basis": "stated",
+      "quote": "border food blends strongly with Greenvale and Deepwood",
+      "src": "Regions/Ironcrest.md#food",
+      "chip": "Blends with",
+      "chipBack": "Blends with"
+    },
+    {
+      "from": "ironcrest-food",
+      "to": "greenvale-food",
+      "layer": "food-import",
+      "type": "imports food from",
+      "basis": "stated",
+      "quote": "imported Greenvale grain",
+      "src": "Culture/Food.md#ironcrest",
+      "chip": "Imports from",
+      "chipBack": "Supplies",
+      "goods": "grain",
+      "also": [
+        {
+          "quote": "imported Greenvale staples",
+          "src": "Regions/Ironcrest.md#food"
+        }
+      ]
+    },
+    {
+      "from": "northwind-food",
+      "to": "greenvale-food",
+      "layer": "food-import",
+      "type": "imports food from",
+      "basis": "stated",
+      "quote": "imported Greenvale flour and Sunplains oils or fruit in wealthier ports",
+      "src": "Regions/Northwind.md#food",
+      "chip": "Imports from",
+      "chipBack": "Supplies",
+      "goods": "flour, in wealthier ports",
+      "certainty": "possible"
+    },
+    {
+      "from": "northwind-food",
+      "to": "sunplains-food",
+      "layer": "food-import",
+      "type": "imports food from",
+      "basis": "stated",
+      "quote": "imported Greenvale flour and Sunplains oils or fruit in wealthier ports",
+      "src": "Regions/Northwind.md#food",
+      "chip": "Imports from",
+      "chipBack": "Supplies",
+      "goods": "oils or fruit, in wealthier ports",
+      "certainty": "possible"
+    },
+    {
+      "from": "d-guardian-stew",
+      "to": "a-guardian-stew",
+      "layer": "food-diaspora",
+      "type": "is the example for",
+      "basis": "stated",
+      "quote": "Imagine a Deepwood stew whose identity comes from slow cooking, forest aromatics and a communal serving ritual.",
+      "src": "Culture/Food-Diaspora-and-Adaptation.md#guardian-stew",
+      "chip": "Adapted as",
+      "chipBack": "Starts from"
+    },
+    {
+      "from": "a-forgefire-roast",
+      "to": "ironcrest-food",
+      "layer": "food-diaspora",
+      "type": "comes from",
+      "basis": "stated",
+      "quote": "An Ironcrest preparation identified by hard browning, smoke and a communal work-day context",
+      "src": "Culture/Food-Diaspora-and-Adaptation.md#forgefire-roast",
+      "chip": "Home cuisine",
+      "chipBack": "Adapted abroad"
+    },
+    {
+      "from": "a-guardian-stew",
+      "to": "deepwood-food",
+      "layer": "food-diaspora",
+      "type": "comes from",
+      "basis": "stated",
+      "quote": "Imagine a Deepwood stew",
+      "src": "Culture/Food-Diaspora-and-Adaptation.md#guardian-stew",
+      "chip": "Home cuisine",
+      "chipBack": "Adapted abroad"
+    },
+    {
+      "from": "a-guardian-stew",
+      "to": "greenvale-food",
+      "layer": "food-diaspora",
+      "type": "might be reshaped by",
+      "basis": "stated",
+      "quote": "in Greenvale, cultivated roots, dairy or orchard acidity may enter",
+      "src": "Culture/Food-Diaspora-and-Adaptation.md#guardian-stew",
+      "chip": "Could move to",
+      "chipBack": "Adapted here",
+      "chipNote": "roots, dairy, orchard acidity",
+      "certainty": "possible"
+    },
+    {
+      "from": "a-guardian-stew",
+      "to": "highridge-food",
+      "layer": "food-diaspora",
+      "type": "might be reshaped by",
+      "basis": "stated",
+      "quote": "in Highridge, dried aromatics and portable grains may become normal",
+      "src": "Culture/Food-Diaspora-and-Adaptation.md#guardian-stew",
+      "chip": "Could move to",
+      "chipBack": "Adapted here",
+      "chipNote": "dried aromatics, portable grain",
+      "certainty": "possible"
+    },
+    {
+      "from": "a-guardian-stew",
+      "to": "northwind-food",
+      "layer": "food-diaspora",
+      "type": "might be reshaped by",
+      "basis": "stated",
+      "quote": "in Northwind, preserved fish or brined vegetables may alter the savor",
+      "src": "Culture/Food-Diaspora-and-Adaptation.md#guardian-stew",
+      "chip": "Could move to",
+      "chipBack": "Adapted here",
+      "chipNote": "preserved fish, brined veg",
+      "certainty": "possible"
+    },
+    {
+      "from": "a-guardian-stew",
+      "to": "sunplains-food",
+      "layer": "food-diaspora",
+      "type": "might be reshaped by",
+      "basis": "stated",
+      "quote": "in Sunplains, pulses, oil and fresh herbs may reshape it",
+      "src": "Culture/Food-Diaspora-and-Adaptation.md#guardian-stew",
+      "chip": "Could move to",
+      "chipBack": "Adapted here",
+      "chipNote": "pulses, oil, herbs",
+      "certainty": "possible"
+    },
+    {
+      "from": "a-guardian-stew",
+      "to": "ironcrest-food",
+      "layer": "food-diaspora",
+      "type": "might be reshaped by",
+      "basis": "stated",
+      "quote": "in Ironcrest, smoke and dense grain may make it heavier",
+      "src": "Culture/Food-Diaspora-and-Adaptation.md#guardian-stew",
+      "chip": "Could move to",
+      "chipBack": "Adapted here",
+      "chipNote": "smoke, dense grain",
+      "certainty": "possible"
+    },
+    {
+      "from": "a-guardian-stew",
+      "to": "port-food",
+      "layer": "food-diaspora",
+      "type": "might be reshaped by",
+      "basis": "stated",
+      "quote": "in Port, several of these descendants can coexist and eventually cross-pollinate",
+      "src": "Culture/Food-Diaspora-and-Adaptation.md#guardian-stew",
+      "chip": "Could move to",
+      "chipBack": "Adapted here",
+      "chipNote": "descendants mix",
+      "certainty": "possible"
+    },
+    {
+      "from": "a-forgefire-roast",
+      "to": "sunplains-food",
+      "layer": "food-diaspora",
+      "type": "might migrate into",
+      "basis": "stated",
+      "quote": "might migrate into Sunplains",
+      "src": "Culture/Food-Diaspora-and-Adaptation.md#forgefire-roast",
+      "chip": "Could move to",
+      "chipBack": "Adapted here",
+      "certainty": "possible"
+    },
+    {
+      "from": "stonefield",
+      "to": "d-blacksmiths-forged-harvest-stew",
+      "layer": "food-town",
+      "type": "sits on the same border as",
+      "basis": "inferred",
+      "quote": "Stonefield Forge — Ironcrest / Greenvale (Border Towns); the dish is filed under Ironcrest–Greenvale (Border Fusions). Neither page puts the dish in the town.",
+      "src": "Places/Border-Towns.md#stonefield-forge--ironcrest--greenvale",
+      "chip": "Border dishes",
+      "chipBack": "Border town"
+    },
+    {
+      "from": "stonefield",
+      "to": "d-iron-grain-herbed-bread",
+      "layer": "food-town",
+      "type": "sits on the same border as",
+      "basis": "inferred",
+      "quote": "Stonefield Forge — Ironcrest / Greenvale (Border Towns); the dish is filed under Ironcrest–Greenvale (Border Fusions). Neither page puts the dish in the town.",
+      "src": "Places/Border-Towns.md#stonefield-forge--ironcrest--greenvale",
+      "chip": "Border dishes",
+      "chipBack": "Border town"
+    },
+    {
+      "from": "icestep",
+      "to": "d-icefire-brined-fish",
+      "layer": "food-town",
+      "type": "sits on the same border as",
+      "basis": "inferred",
+      "quote": "Icestep Summit — Northwind / Highridge (Border Towns); the dish is filed under Northwind–Highridge (Border Fusions). Neither page puts the dish in the town.",
+      "src": "Places/Border-Towns.md#icestep-summit--northwind--highridge",
+      "chip": "Border dishes",
+      "chipBack": "Border town"
+    },
+    {
+      "from": "icestep",
+      "to": "d-icy-caravan-fish-pot",
+      "layer": "food-town",
+      "type": "sits on the same border as",
+      "basis": "inferred",
+      "quote": "Icestep Summit — Northwind / Highridge (Border Towns); the dish is filed under Northwind–Highridge (Border Fusions). Neither page puts the dish in the town.",
+      "src": "Places/Border-Towns.md#icestep-summit--northwind--highridge",
+      "chip": "Border dishes",
+      "chipBack": "Border town"
+    },
+    {
+      "from": "icestep",
+      "to": "d-frost-and-spice-fish-cakes",
+      "layer": "food-town",
+      "type": "sits on the same border as",
+      "basis": "inferred",
+      "quote": "Icestep Summit — Northwind / Highridge (Border Towns); the dish is filed under Northwind–Highridge (Border Fusions). Neither page puts the dish in the town.",
+      "src": "Places/Border-Towns.md#icestep-summit--northwind--highridge",
+      "chip": "Border dishes",
+      "chipBack": "Border town"
+    },
+    {
+      "from": "harveston",
+      "to": "d-harvest-orchard-salad",
+      "layer": "food-town",
+      "type": "sits on the same border as",
+      "basis": "inferred",
+      "quote": "Harveston Vale — Greenvale / Sunplains (Border Towns), with \"foods and festivals built around several harvest calendars\"; the dish is filed under Greenvale–Sunplains (Border Fusions). Neither page puts the dish in the town.",
+      "src": "Places/Border-Towns.md#harveston-vale--greenvale--sunplains",
+      "chip": "Border dishes",
+      "chipBack": "Border town",
+      "also": [
+        {
+          "quote": "foods and festivals built around several harvest calendars",
+          "src": "Places/Border-Towns.md#harveston-vale--greenvale--sunplains"
+        }
+      ]
+    },
+    {
+      "from": "harveston",
+      "to": "d-sunlit-orchard-grain",
+      "layer": "food-town",
+      "type": "sits on the same border as",
+      "basis": "inferred",
+      "quote": "Harveston Vale — Greenvale / Sunplains (Border Towns), with \"foods and festivals built around several harvest calendars\"; the dish is filed under Greenvale–Sunplains (Border Fusions). Neither page puts the dish in the town.",
+      "src": "Places/Border-Towns.md#harveston-vale--greenvale--sunplains",
+      "chip": "Border dishes",
+      "chipBack": "Border town",
+      "also": [
+        {
+          "quote": "foods and festivals built around several harvest calendars",
+          "src": "Places/Border-Towns.md#harveston-vale--greenvale--sunplains"
+        }
+      ]
+    },
+    {
+      "from": "greenvale-food",
+      "to": "f-root-cellar-night",
+      "layer": "food-festival",
+      "type": "may be eaten at",
+      "basis": "inferred",
+      "quote": "Greenvale celebrations include preserved foods opened from previous harvests (Food); Root Cellar Night can center on stored food, family stories and remembrance of old scarcity (Festivals). Neither page links the two.",
+      "src": "Culture/Food.md#greenvale",
+      "chip": "Festivals",
+      "chipBack": "Food",
+      "also": [
+        {
+          "quote": "stored food, family stories and remembrance of old scarcity",
+          "src": "Culture/Festivals-and-Seasonal-Life.md#greenvale"
+        }
+      ]
+    },
+    {
+      "from": "greenvale-food",
+      "to": "f-harvest-home",
+      "layer": "food-festival",
+      "type": "may be eaten at",
+      "basis": "inferred",
+      "quote": "Greenvale celebrations center on abundance, storage, first harvests and seed exchange (Greenvale), and include first-fruit and first-grain rites (Food); Harvest Home can combine celebration with redistribution, seed exchange and public accounting of surplus (Festivals). Neither page names a dish, and the same rites could as easily belong to Grain Ripening.",
+      "src": "Regions/Greenvale.md#food",
+      "chip": "Festivals",
+      "chipBack": "Food",
+      "also": [
+        {
+          "quote": "Harvest Home can combine celebration with redistribution, seed exchange and public accounting of surplus",
+          "src": "Culture/Festivals-and-Seasonal-Life.md#greenvale"
+        },
+        {
+          "quote": "first-fruit/first-grain rites",
+          "src": "Culture/Food.md#greenvale"
+        }
+      ]
+    },
+    {
+      "from": "greenvale-food",
+      "to": "ironcrest-food",
+      "layer": "food-import",
+      "type": "trades food with",
+      "basis": "stated",
+      "quote": "metal, tools, timber, food, animals, fuel, labor, and investment move both ways",
+      "src": "Geography-and-Connections.md#ironcrest--greenvale",
+      "chip": "Imports from",
+      "chipBack": "Supplies",
+      "goods": "food (moves both ways)"
+    }
+  ],
+  "gaps": [
+    "**No dish is tied to a named festival.** Four recipes mention unnamed \"festival versions\" (Braided Honey and Grain Loaf, Aurora Berry Preserve, Honey-Drizzled Nut Pastries, Blacksmith's / Forged Harvest Stew), and the festivals page names no dishes. Every dish card's Festival row says \"none stated\". The only festival links drawn are two inferred ones for Greenvale (Root Cellar Night, Harvest Home). The pairing of Forged Harvest Stew with Forge Reawakening exists only in the Sunday Morning stories, which are not canon. Name echoes (Aurora Berry Preserve and Aurora Nights; Harvest Stew and Harvest Home) are not links either.",
+    "**Port has no dishes.** Food lists six kinds of Port kitchen (dock-worker, ship, merchant, immigrant neighborhood, street and religious), and the diaspora page gives Port a cooking bias (borrowing, ship food, imported condiments), but there is no Port recipe book and no Port staples, techniques, meals, celebrations or drinks on record. Lean Vigil \"can mark the anxiety of winter shipping and food supply\" but names no food.",
+    "**Deepwood–Ironcrest border food has no dishes.** The Ironcrest page says its border food \"blends strongly with Greenvale and Deepwood\", and Darkroot Gulch sits on that border, but Border Fusions has no Deepwood–Ironcrest section.",
+    "**Three border towns have no border dishes.** Twilighthollow (Deepwood / Highridge), Frostbay Way (Northwind / Port) and Darkroot Gulch (Deepwood / Ironcrest) have no matching section in Border Fusions.",
+    "**Four fusion pairings have no named town, and their borders aren't settled.** Ironcrest–Highridge (likely a border or a short mountain corridor), Greenvale–Deepwood (a working border), Deepwood–Sunplains (likely) and Highridge–Sunplains (unsettled: a border, a corridor, or mediated through Greenvale or Deepwood) have dishes but no border town on record. Border Fusions says that where adjacency changes, those dishes should be treated as trade-route or diaspora dishes. Greenvale–Highridge has a likely border but no dishes.",
+    "**Border-town links are inferred.** Border Fusions doesn't say which town eats which dish; the seven dishes linked to Stonefield Forge, Harveston Vale and Icestep Summit are matched by border pair only.",
+    "**The diaspora model has no dishes of its own on the wiki.** Food Diaspora and Adaptation gives the three-stage model and two illustrative paths (Guardian Stew, Forgefire Roast), and says the host-region versions shouldn't be treated as automatically canonical dishes. Forgefire Roast has no recipe in the Ironcrest book. Diaspora dishes worked out in earlier sessions (such as Forager's Crock, Wildwood Turnover and Listening / Caravan Broth) aren't on any wiki page, so they aren't on the board.",
+    "**Most food imports are unsourced.** Only three are named as imports (Greenvale grain to Ironcrest; Greenvale flour and Sunplains oils or fruit possibly reaching Northwind's wealthier ports), plus food moving both ways between Ironcrest and Greenvale. Border dishes name a few origins in passing (plateau spice in Icefire Brined Fish; Sunplains oil, figs and dried fruit in Sunlit Orchard Grain, Forest-Orchard Medley, Harvest Orchard Salad and Highridge Orchard Pilaf), but Highridge's markets, Sunplains' \"spices from trade\" and Deepwood's \"trade grain and salt\" don't say where the food comes from.",
+    "**Deepwood has no class or variation note** comparable to the other regions', and Port and border cuisine lack most cuisine facts.",
+    "**Food as plot mechanics is stated but not mapped.** Food says shortages, grain prices, fish seasons and road closures should be usable as plot; those links belong to Parts 4 and 7."
+  ]
+}

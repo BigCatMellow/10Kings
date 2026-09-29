@@ -2,7 +2,7 @@
 
 ## Status
 
-**Active plan, agreed 2026-09-29 ("go", with the proposed decisions A1–A4). Part 1 approved ("looks better, go with part 2"); Part 2 built.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
+**Active plan, agreed 2026-09-29 ("go", with the proposed decisions A1–A4). Part 1 approved ("looks better, go with part 2"); Part 2 approved ("part 2 is approved"); Part 3 built.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
 
 ## What it is
 
@@ -45,6 +45,7 @@ Sources: [Culture](../wiki/Culture/) pages except food.
 
 Every dish, its region, its key ingredients, its movement through the diaspora and border fusions, and the festival it's eaten at.
 Sources: [Food](../wiki/Culture/Food.md), [Recipes](../wiki/Culture/Recipes/README.md), [Food Diaspora and Adaptation](../wiki/Culture/Food-Diaspora-and-Adaptation.md).
+**Built 2026-09-29: [Part 3](food/README.md).** 72 things (62 dishes, 8 cuisine cards for the six regions, Port and the borders, and the diaspora page's two illustrative paths), 127 connections (118 stated, 9 inferred), 10 gaps. Every dish is Provisional because every recipe page is. No dish is tied to a named festival in the wiki, so every dish card's Festival row says "none stated"; the one pairing that exists (Forged Harvest Stew at Forge Reawakening) is Sunday Morning and waits for Part 7. The diaspora dishes from earlier planning (Forager's Crock, Wildwood Turnover, Listening/Caravan Broth) aren't in the wiki, so they stay off the board. An independent check found nothing invented and no dish missing; it caught border hedges pitched wrong in both directions, one wrong dish named in a gap, a missed "food moves both ways" link (Ironcrest–Greenvale) and a few dropped "should"/"plausible" hedges, all fixed. Chip dots now stay beside long names instead of wrapping above them.
 
 ### Part 4: Power
 
