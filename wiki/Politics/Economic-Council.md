@@ -8,9 +8,28 @@ They do not represent Ironcrest, Greenvale, Northwind, or any other kingdom.
 
 They control economic systems on which *all* kingdoms depend.
 
-The exact number of seats can still change. The current model uses six domains because each represents a distinct kind of leverage.
+**Six seats (Working canon).** James settled on six seats on 2026-09-29, each held by one house. The domain titles below are still working titles.
+
+## The six houses
+
+**Working canon** (James, 2026-09-29): the house names and home regions come from the project's earlier notes, with House Drathain moved from the old Labor domain to the Materials seat. Each house comes *from* a region, but that is origin, not representation: the Council still speaks for no kingdom, and every house's power crosses borders. The named members are earlier-note figures, **Provisional**.
+
+| Seat | House | Home region | Named members (Provisional) |
+| --- | --- | --- | --- |
+| [Harvest / Provision](#1-food-and-biological-supply) | **Marielle** | Greenvale | Halric Marielle, a charismatic head of house; Ellana Marielle, botanist and diplomat |
+| [Materials / Metal](#2-materials-and-production) | **Drathain** | Sunplains | Evelyne Drathain, diplomat and master of guild alliances; Dorian Drathain, organizer of large labor forces |
+| [Routes / Navigation](#3-routes-and-transport) | **Veynor** | Port | Ilthea Veynor, matriarch of maritime and overland trade; Appan Veynor, the house's pragmatic, ambitious heir |
+| [Works / Infrastructure](#4-infrastructure) | **Torradon** | Highridge Plateau | Vysera Torradon, visionary architect and leader; Sorvik Torradon, meticulous planner |
+| [Treasury / Commerce](#5-finance-and-exchange) | **Luthain** | Ironcrest | Carric Luthain, a shrewd banker; Margil Luthain, a cold, precise adviser |
+| [Lore / Intelligence](#6-knowledge-and-information) | **Rhaelen** | Deepwood | Sorin Rhaelen, a reserved archivist; Lyra Rhaelen, who recovers lost knowledge |
+
+**Why Drathain holds Materials.** In the earlier notes House Drathain held Labor: guild alliances and the organizing of large workforces, rooted in Sunplains' city-states. The current model has no Labor seat, and Materials already reaches "Sunplains construction". Drathain's old leverage over crews and building became leverage over what they build with: mines, timber, fuel and construction metal. It also means the house that controls Ironcrest's ore is not an Ironcrest house, which fits a Council that represents no kingdom.
+
+Still open: how seats are inherited, selected, bought or contested; how old the Council is relative to the Convergence; which parts of its existence are rumor and which are known to rulers; the domains' final titles.
 
 ## 1. Food and Biological Supply
+
+Held by **House Marielle** (see [the six houses](#the-six-houses)).
 
 Working title: **Harvest / Provision Seat**
 
@@ -35,6 +54,8 @@ The family gains leverage by controlling bottlenecks:
 
 ## 2. Materials and Production
 
+Held by **House Drathain** (see [the six houses](#the-six-houses)).
+
 Working title: **Materials / Metal Seat**
 
 Influence over:
@@ -49,6 +70,8 @@ Influence over:
 Its power spans Ironcrest mines, Deepwood timber/fuel disputes, Highridge demand, Northwind ship fittings, and Sunplains construction.
 
 ## 3. Routes and Transport
+
+Held by **House Veynor** (see [the six houses](#the-six-houses)).
 
 Working title: **Routes / Navigation Seat**
 
@@ -66,6 +89,8 @@ It can change an economy by making a route expensive rather than formally bannin
 
 ## 4. Infrastructure
 
+Held by **House Torradon** (see [the six houses](#the-six-houses)).
+
 Working title: **Works / Infrastructure Seat**
 
 Influence over:
@@ -82,6 +107,8 @@ Infrastructure decisions have long tails. A bridge not repaired can redirect tra
 
 ## 5. Finance and Exchange
 
+Held by **House Luthain** (see [the six houses](#the-six-houses)).
+
 Working title: **Treasury / Commerce Seat**
 
 Influence over:
@@ -97,6 +124,8 @@ Influence over:
 This may be the Council's most quietly powerful seat because every other domain sometimes needs capital.
 
 ## 6. Knowledge and Information
+
+Held by **House Rhaelen** (see [the six houses](#the-six-houses)).
 
 Working title: **Lore / Intelligence Seat**
 

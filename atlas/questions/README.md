@@ -8,14 +8,14 @@ Every open question in the wiki, placed next to the thing it asks about.
 
 Each question is a small card under an Open questions heading in the column of what it asks about, with a line to that card. Questions about things with no card yet (magic, rivers, language families, borders in general) sit in World & unplaced.
 
-**Counts:** 39 open questions; 34 connections (34 stated in the wiki, 0 inferred).
+**Counts:** 32 open questions; 35 connections (35 stated in the wiki, 0 inferred).
 
 ## Gaps this part exposes
 
 Things the wiki doesn't settle yet. Listed for James to decide; nothing here was filled in.
 
-- **38 open questions, plus an audit note.** Open Questions lists them under eight headings (Map, Political structure, Economic Council, Villain, Wurdren, Magic, Language and naming, Nomadic peoples) and asks for the current events to be audited once the map and the Villain's plan are settled.
-- **9 questions have nothing on the board to attach to:** borders in general (long boundaries or corridors), rivers and watersheds, all three Magic questions, and all four Language and naming questions. Magic, rivers and language families have no cards of their own yet, which is itself a sign of where the setting is thinnest.
+- **31 open questions, plus an audit note.** Open Questions lists them under seven headings (Map, Political structure, Economic Council, Villain, Wurdren, Language and naming, Nomadic peoples); eight more were settled on 2026-09-29 and moved to its Settled section. It also asks for the current events to be audited once the map and the Villain's plan are settled.
+- **3 still have nothing on the board to attach to:** Map: which regional borders are long boundaries versus narrow corridors; Map: navigable rivers and major watersheds; Language and naming: personal-name systems within the language families. Magic, the Council's houses and the language families were settled on 2026-09-29 and have left this list; they now live on Magic and Relics, the Economic Council page and Language and Thought.
 
 ## What each question asks about
 
@@ -33,10 +33,8 @@ Things the wiki doesn't settle yet. Listed for James to decide; nothing here was
 | Political structure: how centralized is Deepwood? | asks about | Deepwood government | stated | “How centralized is Deepwood?” [source](../../wiki/Open-Questions.md#political-structure) |
 | Political structure: what formal institutions govern Highridge? | asks about | Highridge government | stated | “What formal institutions govern Highridge?” [source](../../wiki/Open-Questions.md#political-structure) |
 | Political structure: does Port have citizenship independent of kingdom citizenship? | asks about | Port charter and watch | stated | “Does Port have citizenship independent of kingdom citizenship?” [source](../../wiki/Open-Questions.md#political-structure) |
-| Economic Council: final number of seats | asks about | The Economic Council | stated | “Final number of seats.” [source](../../wiki/Open-Questions.md#economic-council) |
-| Economic Council: final names/titles of domains | asks about | The Economic Council | stated | “Final names/titles of domains.” [source](../../wiki/Open-Questions.md#economic-council) |
-| Economic Council: family names and origins | asks about | The Council families | stated | “Family names and origins.” [source](../../wiki/Open-Questions.md#economic-council) |
-| Economic Council: how seats are inherited, selected, purchased, or contested | asks about | The Council families | stated | “How seats are inherited, selected, purchased, or contested.” [source](../../wiki/Open-Questions.md#economic-council) |
+| Economic Council: final names/titles of domains (the six seats and their houses are now settled) | asks about | The Economic Council | stated | “Final names/titles of domains (the six seats and their houses are now settled).” [source](../../wiki/Open-Questions.md#economic-council) |
+| Economic Council: how seats are inherited, selected, purchased, or contested | asks about | The Council houses | stated | “How seats are inherited, selected, purchased, or contested.” [source](../../wiki/Open-Questions.md#economic-council) |
 | Economic Council: how old the Council is relative to The Convergence | asks about | The Economic Council | stated | “How old the Council is relative to The Convergence.” [source](../../wiki/Open-Questions.md#economic-council) |
 | Economic Council: how old the Council is relative to The Convergence | asks about | The Council's rise | stated | “How old the Council is relative to The Convergence.” [source](../../wiki/Open-Questions.md#economic-council) |
 | Economic Council: which parts of its existence are rumor versus known to elite rulers | asks about | The Economic Council | stated | “Which parts of its existence are rumor versus known to elite rulers.” [source](../../wiki/Open-Questions.md#economic-council) |
@@ -51,6 +49,9 @@ Things the wiki doesn't settle yet. Listed for James to decide; nothing here was
 | Wurdren: family and relationships | asks about | Wurdren | stated | “Family and relationships.” [source](../../wiki/Open-Questions.md#wurdren) |
 | Wurdren: what he initially believes about politics and the Council | asks about | Wurdren | stated | “What he initially believes about politics and the Council.” [source](../../wiki/Open-Questions.md#wurdren) |
 | Wurdren: where his journey begins | asks about | Wurdren | stated | “Where his journey begins.” [source](../../wiki/Open-Questions.md#wurdren) |
+| Language and naming: the names of the Sunplains and Deepwood languages, and what Old Spine speech was called | asks about | Sunplains languages | stated | “The names of the Sunplains and Deepwood languages, and what Old Spine speech was called.” [source](../../wiki/Open-Questions.md#language-and-naming) |
+| Language and naming: the names of the Sunplains and Deepwood languages, and what Old Spine speech was called | asks about | Deepwood languages | stated | “The names of the Sunplains and Deepwood languages, and what Old Spine speech was called.” [source](../../wiki/Open-Questions.md#language-and-naming) |
+| Language and naming: the names of the Sunplains and Deepwood languages, and what Old Spine speech was called | asks about | Old Spine speech | stated | “The names of the Sunplains and Deepwood languages, and what Old Spine speech was called.” [source](../../wiki/Open-Questions.md#language-and-naming) |
 | Nomadic peoples: name and self-name of the Appalachian-influenced mobile network | asks about | Nomads and itinerant peoples | stated | “Name and self-name of the Appalachian-influenced mobile network.” [source](../../wiki/Open-Questions.md#nomadic-peoples) |
 | Nomadic peoples: whether it is one people or a cultural/economic network containing multiple peoples | asks about | Nomads and itinerant peoples | stated | “Whether it is one people or a cultural/economic network containing multiple peoples.” [source](../../wiki/Open-Questions.md#nomadic-peoples) |
 | Nomadic peoples: seasonal circuits and legal status | asks about | Nomads and itinerant peoples | stated | “Seasonal circuits and legal status.” [source](../../wiki/Open-Questions.md#nomadic-peoples) |
@@ -83,12 +84,10 @@ flowchart LR
   pw_gov_highridge["Highridge government"]
   oq_does_port_have_citizenship_independent_of_kingdo["Political structure: does Port have citizenship independent of kingdom citizenship?"]
   pw_gov_port["Port charter and watch"]
-  oq_final_number_of_seats["Economic Council: final number of seats"]
+  oq_final_names_titles_of_domains_the_six_seats_and["Economic Council: final names/titles of domains (the six seats and their houses are now settled)"]
   pw_council["The Economic Council"]
-  oq_final_names_titles_of_domains["Economic Council: final names/titles of domains"]
-  oq_family_names_and_origins["Economic Council: family names and origins"]
-  pp_families["The Council families"]
   oq_how_seats_are_inherited_selected_purchased_or_co["Economic Council: how seats are inherited, selected, purchased, or contested"]
+  pp_families["The Council houses"]
   oq_how_old_the_council_is_relative_to_the_convergen["Economic Council: how old the Council is relative to The Convergence"]
   hi_council_rise["The Council's rise"]
   oq_which_parts_of_its_existence_are_rumor_versus_kn["Economic Council: which parts of its existence are rumor versus known to elite rulers"]
@@ -105,6 +104,10 @@ flowchart LR
   oq_family_and_relationships["Wurdren: family and relationships"]
   oq_what_he_initially_believes_about_politics_and_th["Wurdren: what he initially believes about politics and the Council"]
   oq_where_his_journey_begins["Wurdren: where his journey begins"]
+  oq_the_names_of_the_sunplains_and_deepwood_language["Language and naming: the names of the Sunplains and Deepwood languages, and what Old Spine speech was called"]
+  lang_sunplains["Sunplains languages"]
+  lang_deepwood["Deepwood languages"]
+  lang_oldspine["Old Spine speech"]
   oq_name_and_self_name_of_the_appalachian_influenced["Nomadic peoples: name and self-name of the Appalachian-influenced mobile network"]
   nomads["Nomads and itinerant peoples"]
   oq_whether_it_is_one_people_or_a_cultural_economic["Nomadic peoples: whether it is one people or a cultural/economic network containing multiple peoples"]
@@ -123,9 +126,7 @@ flowchart LR
   oq_how_centralized_is_deepwood --> pw_gov_deepwood
   oq_what_formal_institutions_govern_highridge --> pw_gov_highridge
   oq_does_port_have_citizenship_independent_of_kingdo --> pw_gov_port
-  oq_final_number_of_seats --> pw_council
-  oq_final_names_titles_of_domains --> pw_council
-  oq_family_names_and_origins --> pp_families
+  oq_final_names_titles_of_domains_the_six_seats_and --> pw_council
   oq_how_seats_are_inherited_selected_purchased_or_co --> pp_families
   oq_how_old_the_council_is_relative_to_the_convergen --> pw_council
   oq_how_old_the_council_is_relative_to_the_convergen --> hi_council_rise
@@ -141,6 +142,9 @@ flowchart LR
   oq_family_and_relationships --> pp_wurdren
   oq_what_he_initially_believes_about_politics_and_th --> pp_wurdren
   oq_where_his_journey_begins --> pp_wurdren
+  oq_the_names_of_the_sunplains_and_deepwood_language --> lang_sunplains
+  oq_the_names_of_the_sunplains_and_deepwood_language --> lang_deepwood
+  oq_the_names_of_the_sunplains_and_deepwood_language --> lang_oldspine
   oq_name_and_self_name_of_the_appalachian_influenced --> nomads
   oq_whether_it_is_one_people_or_a_cultural_economic --> nomads
   oq_seasonal_circuits_and_legal_status --> nomads
@@ -223,8 +227,7 @@ Grouped by board column.
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
 | [Political structure: are all six named regions kingdoms in the same constitutional sense?](../../wiki/Open-Questions.md#political-structure) | Open question | No status label | Open question under Political structure: Are all six named regions kingdoms in the same constitutional sense? |
-| [Economic Council: final number of seats](../../wiki/Open-Questions.md#economic-council) | Open question | No status label | Open question under Economic Council: Final number of seats. |
-| [Economic Council: final names/titles of domains](../../wiki/Open-Questions.md#economic-council) | Open question | No status label | Open question under Economic Council: Final names/titles of domains. |
+| [Economic Council: final names/titles of domains (the six seats and their houses are now settled)](../../wiki/Open-Questions.md#economic-council) | Open question | No status label | Open question under Economic Council: Final names/titles of domains (the six seats and their houses are now settled). |
 | [Economic Council: how old the Council is relative to The Convergence](../../wiki/Open-Questions.md#economic-council) | Open question | No status label | Open question under Economic Council: How old the Council is relative to The Convergence. |
 | [Economic Council: which parts of its existence are rumor versus known to elite rulers](../../wiki/Open-Questions.md#economic-council) | Open question | No status label | Open question under Economic Council: Which parts of its existence are rumor versus known to elite rulers. |
 
@@ -233,14 +236,9 @@ Grouped by board column.
 - *Question:* Are all six named regions kingdoms in the same constitutional sense?
 - *Section:* Political structure
 
-**Economic Council: final number of seats**
+**Economic Council: final names/titles of domains (the six seats and their houses are now settled)**
 
-- *Question:* Final number of seats.
-- *Section:* Economic Council
-
-**Economic Council: final names/titles of domains**
-
-- *Question:* Final names/titles of domains.
+- *Question:* Final names/titles of domains (the six seats and their houses are now settled).
 - *Section:* Economic Council
 
 **Economic Council: how old the Council is relative to The Convergence**
@@ -257,7 +255,6 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Economic Council: family names and origins](../../wiki/Open-Questions.md#economic-council) | Open question | No status label | Open question under Economic Council: Family names and origins. |
 | [Economic Council: how seats are inherited, selected, purchased, or contested](../../wiki/Open-Questions.md#economic-council) | Open question | No status label | Open question under Economic Council: How seats are inherited, selected, purchased, or contested. |
 | [Villain: name](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: Name. |
 | [Villain: homeland/people](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: Homeland/people. |
@@ -270,11 +267,6 @@ Grouped by board column.
 | [Wurdren: family and relationships](../../wiki/Open-Questions.md#wurdren) | Open question | No status label | Open question under Wurdren: Family and relationships. |
 | [Wurdren: what he initially believes about politics and the Council](../../wiki/Open-Questions.md#wurdren) | Open question | No status label | Open question under Wurdren: What he initially believes about politics and the Council. |
 | [Wurdren: where his journey begins](../../wiki/Open-Questions.md#wurdren) | Open question | No status label | Open question under Wurdren: Where his journey begins. |
-
-**Economic Council: family names and origins**
-
-- *Question:* Family names and origins.
-- *Section:* Economic Council
 
 **Economic Council: how seats are inherited, selected, purchased, or contested**
 
@@ -354,13 +346,8 @@ Grouped by board column.
 | [Map: exact outlines of the three continents](../../wiki/Open-Questions.md#map) | Open question | No status label | Open question under Map: Exact outlines of the three continents. |
 | [Map: which regional borders are long boundaries versus narrow corridors](../../wiki/Open-Questions.md#map) | Open question | No status label | Open question under Map: Which regional borders are long boundaries versus narrow corridors. |
 | [Map: navigable rivers and major watersheds](../../wiki/Open-Questions.md#map) | Open question | No status label | Open question under Map: Navigable rivers and major watersheds. |
-| [Magic: exact prevalence](../../wiki/Open-Questions.md#magic) | Open question | No status label | Open question under Magic: Exact prevalence. |
-| [Magic: whether some previously discussed "illusions," magical artifacts, special creatures, or supernatural claims are real, misunderstood, religious interpretations, or should be removed](../../wiki/Open-Questions.md#magic) | Open question | No status label | Open question under Magic: Whether some previously discussed "illusions," magical artifacts, special creatures, or supernatural claims are real, misunderstood, religious interpretations, or should be removed. |
-| [Magic: clear hard limits](../../wiki/Open-Questions.md#magic) | Open question | No status label | Open question under Magic: Clear hard limits. |
-| [Language and naming: actual language families](../../wiki/Open-Questions.md#language-and-naming) | Open question | No status label | Open question under Language and naming: Actual language families. |
-| [Language and naming: personal-name systems](../../wiki/Open-Questions.md#language-and-naming) | Open question | No status label | Open question under Language and naming: Personal-name systems. |
-| [Language and naming: which older languages survive in place names](../../wiki/Open-Questions.md#language-and-naming) | Open question | No status label | Open question under Language and naming: Which older languages survive in place names. |
-| [Language and naming: how mutually intelligible the regions are](../../wiki/Open-Questions.md#language-and-naming) | Open question | No status label | Open question under Language and naming: How mutually intelligible the regions are. |
+| [Language and naming: personal-name systems within the language families](../../wiki/Open-Questions.md#language-and-naming) | Open question | No status label | Open question under Language and naming: Personal-name systems within the language families. |
+| [Language and naming: the names of the Sunplains and Deepwood languages, and what Old Spine speech was called](../../wiki/Open-Questions.md#language-and-naming) | Open question | No status label | Open question under Language and naming: The names of the Sunplains and Deepwood languages, and what Old Spine speech was called. |
 | [Nomadic peoples: name and self-name of the Appalachian-influenced mobile network](../../wiki/Open-Questions.md#nomadic-peoples) | Open question | No status label | Open question under Nomadic peoples: Name and self-name of the Appalachian-influenced mobile network. |
 | [Nomadic peoples: whether it is one people or a cultural/economic network containing multiple peoples](../../wiki/Open-Questions.md#nomadic-peoples) | Open question | No status label | Open question under Nomadic peoples: Whether it is one people or a cultural/economic network containing multiple peoples. |
 | [Nomadic peoples: seasonal circuits and legal status](../../wiki/Open-Questions.md#nomadic-peoples) | Open question | No status label | Open question under Nomadic peoples: Seasonal circuits and legal status. |
@@ -380,39 +367,14 @@ Grouped by board column.
 - *Question:* Navigable rivers and major watersheds.
 - *Section:* Map
 
-**Magic: exact prevalence**
+**Language and naming: personal-name systems within the language families**
 
-- *Question:* Exact prevalence.
-- *Section:* Magic
-
-**Magic: whether some previously discussed "illusions," magical artifacts, special creatures, or supernatural claims are real, misunderstood, religious interpretations, or should be removed**
-
-- *Question:* Whether some previously discussed "illusions," magical artifacts, special creatures, or supernatural claims are real, misunderstood, religious interpretations, or should be removed.
-- *Section:* Magic
-
-**Magic: clear hard limits**
-
-- *Question:* Clear hard limits.
-- *Section:* Magic
-
-**Language and naming: actual language families**
-
-- *Question:* Actual language families.
+- *Question:* Personal-name systems within the language families.
 - *Section:* Language and naming
 
-**Language and naming: personal-name systems**
+**Language and naming: the names of the Sunplains and Deepwood languages, and what Old Spine speech was called**
 
-- *Question:* Personal-name systems.
-- *Section:* Language and naming
-
-**Language and naming: which older languages survive in place names**
-
-- *Question:* Which older languages survive in place names.
-- *Section:* Language and naming
-
-**Language and naming: how mutually intelligible the regions are**
-
-- *Question:* How mutually intelligible the regions are.
+- *Question:* The names of the Sunplains and Deepwood languages, and what Old Spine speech was called.
 - *Section:* Language and naming
 
 **Nomadic peoples: name and self-name of the Appalachian-influenced mobile network**

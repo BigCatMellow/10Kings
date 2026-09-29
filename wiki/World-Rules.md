@@ -55,6 +55,8 @@ When magic appears, define:
 - why it has not transformed every industry;
 - how ordinary people understand or misunderstand it.
 
+Settled for Two Sons as **real but deniable**; see [Magic and Relics](Magic.md).
+
 ## 8. Institutions have constituencies
 
 No kingdom, guild, religion, council family, or criminal organization acts as one mind.

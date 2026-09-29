@@ -8,13 +8,13 @@ Who controls what: the Economic Council and its six seats, each region's governm
 
 The Economic Council and its seats, the faiths and the guilds get columns of their own, because none of them belongs to one region; the underworld and arms overviews sit in World & unplaced. Each region column (plus Port and the Underpass) gets a government, crime and arms card. Lines show the Council's reach into each government, where faiths and guilds touch the Council, and one example criminal alliance. None of the Power pages carries a status label, so their cards say so; Port and the Underpass cards come from Working canon pages.
 
-**Counts:** 1 council, 6 council seats, 5 overviews, 8 governments, 9 faiths, 8 guilds, 8 crimes, 8 arms and elite troopses; 50 connections (37 stated in the wiki, 13 inferred).
+**Counts:** 1 council, 6 council seats, 6 overviews, 8 governments, 9 faiths, 8 guilds, 8 crimes, 8 arms and elite troopses; 51 connections (38 stated in the wiki, 13 inferred).
 
 ## Gaps this part exposes
 
 Things the wiki doesn't settle yet. Listed for James to decide; nothing here was filled in.
 
-- **The Council has no names yet.** The wiki's own open questions: the final number of seats, the domains' final names, the six families' names and origins, how seats are inherited, selected, bought or contested, how old the Council is relative to the Convergence, and what rulers know versus rumor. The seat titles on these cards are working titles.
+- **The Council's houses are named, but not how seats pass.** Six seats and six houses were settled on 2026-09-29 (Marielle, Drathain, Veynor, Torradon, Luthain, Rhaelen); their named members are Provisional. Still open: how seats are inherited, selected, bought or contested, how old the Council is relative to the Convergence, what rulers know versus rumor, and the domains' final titles.
 - **Only two seats name the places they reach.** The Materials seat names five regions and the Routes seat names the Underpass. Every other region page names only "the Council"; the seat links drawn for them ("food/finance networks", "shipping and finance", "Council-linked credit", "route costs", "infrastructure/resource interests", "credit panic") match a domain word and are marked inferred, off by default. Sunplains names Council involvement but no domain.
 - **Every government is still a sketch.** No ruler, capital, dynasty, council or court is named anywhere, and most shapes are hedged ("likely", "could", "possible"). The wiki's open questions ask whether the six regions are kingdoms in the same constitutional sense, how many Sunplains city-states remain, how centralized Deepwood is, what formally governs Highridge, and whether Port has its own citizenship.
 - **Three governments have no list of political fights.** Highridge's Politics section lists who holds power but not what they fight over; Port and the Underpass have pressures but no fights section.
@@ -69,6 +69,7 @@ Things the wiki doesn't settle yet. Listed for James to decide; nothing here was
 | The Infinite Compass | is a network wanted by | The Economic Council | stated | “The Council, the Villain, spies, and criminals all have reasons to influence these networks.” [source](../../wiki/Politics/Religions.md#9-the-infinite-compass) |
 | The Infinite Compass | is a network wanted by | The underworld | stated | “The Council, the Villain, spies, and criminals all have reasons to influence these networks.” [source](../../wiki/Politics/Religions.md#9-the-infinite-compass) |
 | The Eternal Forge | has guild-adjacent institutions in disputes touching | Guilds | stated | “Its guild-adjacent institutions are becoming active in labor and quality disputes” [source](../../wiki/Politics/Religions.md#4-the-eternal-forge) |
+| Magic and relics | is kept within | The nine faiths | stated | “They belong to the … faith traditions … and regions that made them” [source](../../wiki/Magic.md#relics) |
 
 ## Guilds
 
@@ -145,6 +146,8 @@ flowchart LR
   pw_crime_underpass["Underpass crime"]
   pw_crime_highridge["Highridge crime"]
   pw_crime_northwind["Northwind crime"]
+  pw_magic["Magic and relics"]
+  pw_faiths["The nine faiths"]
   pw_seat_harvest --> pw_council
   pw_seat_materials --> pw_council
   pw_seat_routes --> pw_council
@@ -182,6 +185,7 @@ flowchart LR
   pw_crime_port -.->|possible| pw_crime_underpass
   pw_crime_port -.->|possible| pw_crime_highridge
   pw_crime_port -.->|possible| pw_crime_northwind
+  pw_magic --> pw_faiths
 ```
 
 ## Every thing in this part
@@ -415,50 +419,68 @@ Grouped by board column.
 
 **The Economic Council**
 
-- *Seats:* Six domains in the current model, each a distinct kind of leverage. The exact number of seats can still change. ([source](../../wiki/Politics/Economic-Council.md#core-concept))
+- *Seats:* Six seats (Working canon, James 2026-09-29), each held by one house: Marielle (Harvest), Drathain (Materials), Veynor (Routes), Torradon (Works), Luthain (Treasury), Rhaelen (Lore). Each house comes from a region but represents none. The domain titles are still working titles. ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
 - *How it governs:* Choice architecture rather than command. A kingdom may technically be free to refuse a treaty, but then credit becomes scarce, grain contracts disappear, insurers raise rates, caravans choose another route, bridge repairs are delayed, or a rival gains better terms. No single action proves conspiracy. ([source](../../wiki/Politics/Economic-Council.md#how-the-council-governs-without-governing))
 - *Why rulers tolerate it:* Many rulers don't know the whole structure. Those who do may still tolerate it because it resolves shortages, provides emergency loans, coordinates trade, prevents financial panics, quietly restrains rivals, and helped preserve the post-Convergence order. ([source](../../wiki/Politics/Economic-Council.md#why-rulers-tolerate-it))
 - *Internal conflict:* Not unified. Potential fault lines: finance wants repayment while food wants famine relief; routes wants open trade while materials wants strategic embargo; infrastructure wants long investment while short-term political pressure demands cuts; knowledge may know a scheme is failing before others admit it. Each family also has heirs, factions, clients and private ambitions. ([source](../../wiki/Politics/Economic-Council.md#internal-conflict))
 - *Moral problem:* The Council may be correct that its coordination has prevented wars. The story's question is whether preventing catastrophe grants a private group the right to decide everyone else's future. ([source](../../wiki/Politics/Economic-Council.md#the-councils-moral-problem))
 - *Against the Villain:* He attacks dependencies and perceptions, wanting kingdoms to make moves the Council can't openly stop without exposing how much power it holds. His goal is not merely to defeat six families but to make their system unable to maintain equilibrium. ([source](../../wiki/Politics/Economic-Council.md#relationship-to-the-villain))
 - *With Wurdren:* Wurdren repeatedly fixes consequences the Council treats as acceptable losses. This can accidentally help the Council in the short term while morally undermining its worldview in the long term. ([source](../../wiki/Politics/Economic-Council.md#relationship-to-wurdren))
-- *Open questions:* Final number of seats; final names or titles of domains; family names and origins; how seats are inherited, selected, purchased or contested; how old the Council is relative to the Convergence; which parts of its existence are rumor and which are known to elite rulers. ([source](../../wiki/Open-Questions.md#economic-council))
+- *Open questions:* How seats are inherited, selected, purchased or contested; how old the Council is relative to the Convergence; which parts of its existence are rumor and which are known to elite rulers; the domains' final titles. ([source](../../wiki/Open-Questions.md#economic-council))
 
 **Harvest / Provision Seat**
 
 - *Domain:* Food and Biological Supply (working title)
 - *Controls:* Grain storage; seed networks; orchard stock; livestock movement; emergency reserves; large agricultural contracts; food transport coordination.
 - *Leverage:* Power doesn't mean owning every farm. The family gains leverage by controlling bottlenecks: storage warehouses, seed credit, bulk contracts, mills, emergency reserves, and financing for large estates and co-ops.
+- *House:* House Marielle (Working canon). ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
+- *Home region:* Greenvale: origin only; the house doesn't represent it. ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
+- *Members:* Halric Marielle, a charismatic head of house; Ellana Marielle, botanist and diplomat. (Provisional.) ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
 
 **Materials / Metal Seat**
 
 - *Domain:* Materials and Production (working title)
 - *Controls:* Mines; ore contracts; timber and fuel supply; large foundries; strategic materials; weapon-grade metal; construction metal.
 - *Leverage:* Its power spans Ironcrest mines, Deepwood timber and fuel disputes, Highridge demand, Northwind ship fittings, and Sunplains construction.
+- *House:* House Drathain (Working canon). ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
+- *Home region:* Sunplains: origin only; the house doesn't represent it. ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
+- *Members:* Evelyne Drathain, diplomat and master of guild alliances; Dorian Drathain, organizer of large labor forces. In the earlier notes the house held Labor; its leverage over crews and building became leverage over what they build with. (Provisional.) ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
 
 **Routes / Navigation Seat**
 
 - *Domain:* Routes and Transport (working title)
 - *Controls:* Maritime shipping; caravan networks; pass access; major roads; warehouses; Underpass connections; shipping schedules; convoy contracts.
 - *Leverage:* It can change an economy by making a route expensive rather than formally banning trade.
+- *House:* House Veynor (Working canon). ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
+- *Home region:* Port: origin only; the house doesn't represent it. ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
+- *Members:* Ilthea Veynor, matriarch of maritime and overland trade; Appan Veynor, the house's pragmatic, ambitious heir. (Provisional.) ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
 
 **Works / Infrastructure Seat**
 
 - *Domain:* Infrastructure (working title)
 - *Controls:* Roads; bridges; canals; irrigation; ports; fortifications; large public works; repair contracts.
 - *Leverage:* Infrastructure decisions have long tails: a bridge not repaired can redirect trade for decades.
+- *House:* House Torradon (Working canon). ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
+- *Home region:* Highridge Plateau: origin only; the house doesn't represent it. ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
+- *Members:* Vysera Torradon, visionary architect and leader; Sorvik Torradon, meticulous planner. (Provisional.) ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
 
 **Treasury / Commerce Seat**
 
 - *Domain:* Finance and Exchange (working title)
 - *Controls:* Credit; debt; banking houses; currency exchange; large loans; merchant insurance-like arrangements; investment syndicates; emergency financing.
 - *Leverage:* This may be the Council's most quietly powerful seat, because every other domain sometimes needs capital.
+- *House:* House Luthain (Working canon). ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
+- *Home region:* Ironcrest: origin only; the house doesn't represent it. ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
+- *Members:* Carric Luthain, a shrewd banker; Margil Luthain, a cold, precise adviser. (Provisional.) ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
 
 **Lore / Intelligence Seat**
 
 - *Domain:* Knowledge and Information (working title)
 - *Controls:* Commercial records; maps; guild secrets; technical knowledge; scholars and scribes; market reports; intelligence networks; blackmail; communication.
 - *Leverage:* It should not literally control all knowledge. Its strength is knowing who knows what, buying access, delaying information, and deciding which innovations receive funding or distribution.
+- *House:* House Rhaelen (Working canon). ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
+- *Home region:* Deepwood: origin only; the house doesn't represent it. ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
+- *Members:* Sorin Rhaelen, a reserved archivist; Lyra Rhaelen, who recovers lost knowledge. (Provisional.) ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
 
 **How governments behave**
 
@@ -482,6 +504,7 @@ Grouped by board column.
 | [The Harmonious Path](../../wiki/Politics/Religions.md#7-the-harmonious-path) | Faith | No status label | Core: Social responsibility, service, restraint, conflict resolution and balance. |
 | [The Dual Flame](../../wiki/Politics/Religions.md#8-the-dual-flame) | Faith | No status label | Core: Moral integrity comes from understanding and balancing constructive and destructive impulses. |
 | [The Infinite Compass](../../wiki/Politics/Religions.md#9-the-infinite-compass) | Faith | No status label | Core: Life is journey, direction, exploration and self-discovery. |
+| [Magic and relics](../../wiki/Magic.md#the-decision) | Overview | Working canon | Real but deniable: a handful of old community relics seem to do small, moral things, but every effect has an ordinary explanation within reach and the story never confirms it. No spellcasting. |
 
 **The nine faiths**
 
@@ -542,6 +565,12 @@ Grouped by board column.
 - *Core:* Life is journey, direction, exploration and self-discovery.
 - *Interests:* Pilgrimage; maps; hospitality; travelers; road shrines.
 - *Current scheme:* Its pilgrim networks move information across borders faster than many governments expect. The Council, the Villain, spies and criminals all have reasons to influence these networks.
+
+**Magic and relics**
+
+- *Principle:* Magic is real but deniable (James, 2026-09-29). A handful of old relics really do something small and moral, like a lantern that dims when its holder lies, but every effect could have an ordinary explanation, and the story never confirms it. ([source](../../wiki/Magic.md#the-decision))
+- *Scope:* Relics are kept by communities (temples, shrines, guild halls, villages) and belong to the faith traditions and regions that made them. Earlier notes' examples, Provisional: the Quill of Saint Othriel, whose ink smudges on deceit; the Chalice of Mother Amalthea, whose water turns bitter for anyone withholding care. ([source](../../wiki/Magic.md#relics))
+- *Rule:* No spellcasting; small and moral effects only; always deniable; never confirmed by the narration; never load-bearing for the plot; never industrial. Illusions are legend, creatures are animals, spirits are belief; the earlier notes' mystical armies and forest mages are removed. ([source](../../wiki/Magic.md#hard-limits))
 
 ### Guilds
 

@@ -16,7 +16,7 @@ Things the wiki doesn't settle yet. Listed for James to decide; nothing here was
 
 - **The Villain has no identity yet.** Open Questions: his name, homeland or people, exact grievance, exact end-state, the point where his methods become unacceptable even to sympathetic readers, and whether he knows the full Council structure at the start.
 - **Wurdren has no biography.** His age, history, why his adventuring life fell short, family and relationships, what he first believes about the Council, and where his journey begins are all open. His only concrete scene so far is a Sunday Morning story, which is not canon.
-- **No Council family or member is named.** The roster treats them as "a cast of powerful family representatives", but no family, heir or representative has a name, and how seats pass between them is open.
+- **The Council houses have names but no stories.** Six houses were settled on 2026-09-29, and twelve earlier-note members are listed on the Economic Council page as Provisional, but none has a biography, an heir question or a link to any other person, and how seats pass between them is still open.
 - **The six domino figures are provisional** "pending final naming systems", and none is tied to an office, guild or place beyond their region; their institution links here are inferred and off by default. Orin has a rule instead of a stated domino.
 - **The three Underpass figures are not canon** (Mira Stonebridge, Gharic Coalveil, Ilya Dravencrest), from earlier brainstorming, with nothing else tying them to the Underpass's enclaves, guides or mining.
 - **The roster's "the world also needs" list is filled only by non-canon people.** Clerks, cooks, builders, caravan hands, priests, teachers, farmers, sailors, shopkeepers, labor organizers, criminals, children, minor officials and refugees exist so far only as the Sunday Morning cast.
@@ -31,7 +31,7 @@ Things the wiki doesn't settle yet. Listed for James to decide; nothing here was
 | The Villain | hates and increasingly mirrors | The Economic Council | stated | “He hates both: … their outcomes; … their method. … But he increasingly mirrors their method.” [source](../../wiki/Story/Villain.md#relationship-to-the-council) |
 | Wurdren | repairs the losses of | The Economic Council | stated | “Wurdren repeatedly fixes consequences the Council treats as acceptable losses.” [source](../../wiki/Politics/Economic-Council.md#relationship-to-wurdren) |
 | The Villain | comes to see as dangerous | Wurdren | stated | “Eventually the Villain realizes one ordinary adventurer has become dangerous because people trust him without being paid or coerced.” [source](../../wiki/Story/Villain.md#relationship-to-wurdren) |
-| The Council families | make up | The Economic Council | stated | “Not a single character but a cast of powerful family representatives with conflicting economic domains.” [source](../../wiki/Story/Character-Roster.md#the-economic-council-families) |
+| The Council houses | make up | The Economic Council | stated | “Not a single character but a cast of powerful family representatives with conflicting economic domains.” [source](../../wiki/Story/Character-Roster.md#the-economic-council-families) |
 | The Villain | exploits | Guilds | stated | “The Villain exploits legitimate guild grievances.” [source](../../wiki/Politics/Guilds.md#guild-interaction-with-the-villain) |
 | The Villain | can exploit but not command | The underworld | stated | “The Villain can exploit those same networks but cannot simply command them.” [source](../../wiki/Politics/Crime-and-Underworld.md#underworld-and-the-main-conflict) |
 | The Villain | has reason to influence | The Infinite Compass | stated | “The Council, the Villain, spies, and criminals all have reasons to influence these networks.” [source](../../wiki/Politics/Religions.md#9-the-infinite-compass) |
@@ -100,7 +100,7 @@ flowchart LR
   pp_villain["The Villain"]
   pw_council["The Economic Council"]
   pp_wurdren["Wurdren"]
-  pp_families["The Council families"]
+  pp_families["The Council houses"]
   pw_guilds["Guilds"]
   pw_underworld["The underworld"]
   pw_faith_compass["The Infinite Compass"]
@@ -297,7 +297,7 @@ Grouped by board column.
 | --- | --- | --- | --- |
 | [Wurdren](../../wiki/Story/Wurdren.md#core-role) | Main character | No status label | An aging adventurer and the story's human-scale perspective. He once imagined heroism as grand deeds and recognition; his later life puts him in smaller situations, and those small acts begin changing a much larger conflict. |
 | [The Villain](../../wiki/Story/Villain.md#core-idea) | Main character | Core function established (identity and exact grievance open) | The primary strategic mover of the plot. He believes the post-Convergence order can't give his people or cause what they need, identifies the hidden Council as the reason change keeps being neutralized, and sets out to make the existing equilibrium impossible to maintain. |
-| [The Council families](../../wiki/Story/Character-Roster.md#the-economic-council-families) | Main character | No status label | Not a single character but a cast of powerful family representatives with conflicting economic domains. |
+| [The Council houses](../../wiki/Story/Character-Roster.md#the-economic-council-families) | Main character | No status label | Six houses, one per seat: Marielle, Drathain, Veynor, Torradon, Luthain and Rhaelen (Working canon, 2026-09-29). Their named members come from earlier notes and are Provisional. |
 
 **Wurdren**
 
@@ -317,11 +317,12 @@ Grouped by board column.
 - *Ending:* He shouldn't simply be killed and invalidated. A satisfying resolution likely separates the legitimacy of his grievance from the destructiveness of his method. He may force real reform while personally failing, losing his coalition, accepting accountability, going into exile, or being defeated in the final escalation. His impact remains part of the new world. ([source](../../wiki/Story/Villain.md#ending))
 - *Open questions:* Name; homeland or people; exact grievance; exact territorial or political end-state; the point at which his methods become clearly unacceptable even to sympathetic readers; whether he knows the full Council structure at the story's beginning. ([source](../../wiki/Open-Questions.md#villain))
 
-**The Council families**
+**The Council houses**
 
-- *Role:* Not a single character but a cast of powerful family representatives with conflicting economic domains. ([source](../../wiki/Story/Character-Roster.md#the-economic-council-families))
+- *Role:* Not a single character but a cast of powerful family representatives with conflicting economic domains: six houses, one per seat, each from a home region it doesn't represent. ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
 - *Factions:* Each family also has heirs, factions, clients and private ambitions. ([source](../../wiki/Politics/Economic-Council.md#internal-conflict))
-- *Open questions:* Family names and origins; how seats are inherited, selected, purchased or contested. ([source](../../wiki/Open-Questions.md#economic-council))
+- *Open questions:* How seats are inherited, selected, purchased or contested. ([source](../../wiki/Open-Questions.md#economic-council))
+- *Also on:* [Economic Council](../../wiki/Politics/Economic-Council.md#the-six-houses)
 
 ### Sunday Morning cast
 

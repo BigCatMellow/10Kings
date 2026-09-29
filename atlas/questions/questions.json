@@ -34,6 +34,14 @@
         }
       ]
     },
+    "language": {
+      "rows": [
+        {
+          "label": "Open questions",
+          "always": false
+        }
+      ]
+    },
     "landmass": {
       "rows": [
         {
@@ -293,49 +301,17 @@
       "minor": true
     },
     {
-      "id": "oq-final-number-of-seats",
+      "id": "oq-final-names-titles-of-domains-the-six-seats-and",
       "kind": "question",
-      "label": "Economic Council: final number of seats",
+      "label": "Economic Council: final names/titles of domains (the six seats and their houses are now settled)",
       "status": "No status label",
       "lane": "council",
       "section": "Open questions",
       "src": "Open-Questions.md#economic-council",
-      "text": "Open question under Economic Council: Final number of seats.",
+      "text": "Open question under Economic Council: Final names/titles of domains (the six seats and their houses are now settled).",
       "short_text": "Economic Council",
       "facts": {
-        "Question": "Final number of seats.",
-        "Section": "Economic Council"
-      },
-      "minor": true
-    },
-    {
-      "id": "oq-final-names-titles-of-domains",
-      "kind": "question",
-      "label": "Economic Council: final names/titles of domains",
-      "status": "No status label",
-      "lane": "council",
-      "section": "Open questions",
-      "src": "Open-Questions.md#economic-council",
-      "text": "Open question under Economic Council: Final names/titles of domains.",
-      "short_text": "Economic Council",
-      "facts": {
-        "Question": "Final names/titles of domains.",
-        "Section": "Economic Council"
-      },
-      "minor": true
-    },
-    {
-      "id": "oq-family-names-and-origins",
-      "kind": "question",
-      "label": "Economic Council: family names and origins",
-      "status": "No status label",
-      "lane": "cast",
-      "section": "Open questions",
-      "src": "Open-Questions.md#economic-council",
-      "text": "Open question under Economic Council: Family names and origins.",
-      "short_text": "Economic Council",
-      "facts": {
-        "Question": "Family names and origins.",
+        "Question": "Final names/titles of domains (the six seats and their houses are now settled).",
         "Section": "Economic Council"
       },
       "minor": true
@@ -565,113 +541,33 @@
       "minor": true
     },
     {
-      "id": "oq-exact-prevalence",
+      "id": "oq-personal-name-systems-within-the-language-famili",
       "kind": "question",
-      "label": "Magic: exact prevalence",
-      "status": "No status label",
-      "lane": "across",
-      "section": "Open questions",
-      "src": "Open-Questions.md#magic",
-      "text": "Open question under Magic: Exact prevalence.",
-      "short_text": "Magic",
-      "facts": {
-        "Question": "Exact prevalence.",
-        "Section": "Magic"
-      },
-      "minor": true
-    },
-    {
-      "id": "oq-whether-some-previously-discussed-illusions-magi",
-      "kind": "question",
-      "label": "Magic: whether some previously discussed \"illusions,\" magical artifacts, special creatures, or supernatural claims are real, misunderstood, religious interpretations, or should be removed",
-      "status": "No status label",
-      "lane": "across",
-      "section": "Open questions",
-      "src": "Open-Questions.md#magic",
-      "text": "Open question under Magic: Whether some previously discussed \"illusions,\" magical artifacts, special creatures, or supernatural claims are real, misunderstood, religious interpretations, or should be removed.",
-      "short_text": "Magic",
-      "facts": {
-        "Question": "Whether some previously discussed \"illusions,\" magical artifacts, special creatures, or supernatural claims are real, misunderstood, religious interpretations, or should be removed.",
-        "Section": "Magic"
-      },
-      "minor": true
-    },
-    {
-      "id": "oq-clear-hard-limits",
-      "kind": "question",
-      "label": "Magic: clear hard limits",
-      "status": "No status label",
-      "lane": "across",
-      "section": "Open questions",
-      "src": "Open-Questions.md#magic",
-      "text": "Open question under Magic: Clear hard limits.",
-      "short_text": "Magic",
-      "facts": {
-        "Question": "Clear hard limits.",
-        "Section": "Magic"
-      },
-      "minor": true
-    },
-    {
-      "id": "oq-actual-language-families",
-      "kind": "question",
-      "label": "Language and naming: actual language families",
+      "label": "Language and naming: personal-name systems within the language families",
       "status": "No status label",
       "lane": "across",
       "section": "Open questions",
       "src": "Open-Questions.md#language-and-naming",
-      "text": "Open question under Language and naming: Actual language families.",
+      "text": "Open question under Language and naming: Personal-name systems within the language families.",
       "short_text": "Language and naming",
       "facts": {
-        "Question": "Actual language families.",
+        "Question": "Personal-name systems within the language families.",
         "Section": "Language and naming"
       },
       "minor": true
     },
     {
-      "id": "oq-personal-name-systems",
+      "id": "oq-the-names-of-the-sunplains-and-deepwood-language",
       "kind": "question",
-      "label": "Language and naming: personal-name systems",
+      "label": "Language and naming: the names of the Sunplains and Deepwood languages, and what Old Spine speech was called",
       "status": "No status label",
       "lane": "across",
       "section": "Open questions",
       "src": "Open-Questions.md#language-and-naming",
-      "text": "Open question under Language and naming: Personal-name systems.",
+      "text": "Open question under Language and naming: The names of the Sunplains and Deepwood languages, and what Old Spine speech was called.",
       "short_text": "Language and naming",
       "facts": {
-        "Question": "Personal-name systems.",
-        "Section": "Language and naming"
-      },
-      "minor": true
-    },
-    {
-      "id": "oq-which-older-languages-survive-in-place-names",
-      "kind": "question",
-      "label": "Language and naming: which older languages survive in place names",
-      "status": "No status label",
-      "lane": "across",
-      "section": "Open questions",
-      "src": "Open-Questions.md#language-and-naming",
-      "text": "Open question under Language and naming: Which older languages survive in place names.",
-      "short_text": "Language and naming",
-      "facts": {
-        "Question": "Which older languages survive in place names.",
-        "Section": "Language and naming"
-      },
-      "minor": true
-    },
-    {
-      "id": "oq-how-mutually-intelligible-the-regions-are",
-      "kind": "question",
-      "label": "Language and naming: how mutually intelligible the regions are",
-      "status": "No status label",
-      "lane": "across",
-      "section": "Open questions",
-      "src": "Open-Questions.md#language-and-naming",
-      "text": "Open question under Language and naming: How mutually intelligible the regions are.",
-      "short_text": "Language and naming",
-      "facts": {
-        "Question": "How mutually intelligible the regions are.",
+        "Question": "The names of the Sunplains and Deepwood languages, and what Old Spine speech was called.",
         "Section": "Language and naming"
       },
       "minor": true
@@ -875,34 +771,12 @@
       "chipBack": "Open questions"
     },
     {
-      "from": "oq-final-number-of-seats",
+      "from": "oq-final-names-titles-of-domains-the-six-seats-and",
       "to": "pw-council",
       "layer": "oq",
       "type": "asks about",
       "basis": "stated",
-      "quote": "Final number of seats.",
-      "src": "Open-Questions.md#economic-council",
-      "chip": "Asks about",
-      "chipBack": "Open questions"
-    },
-    {
-      "from": "oq-final-names-titles-of-domains",
-      "to": "pw-council",
-      "layer": "oq",
-      "type": "asks about",
-      "basis": "stated",
-      "quote": "Final names/titles of domains.",
-      "src": "Open-Questions.md#economic-council",
-      "chip": "Asks about",
-      "chipBack": "Open questions"
-    },
-    {
-      "from": "oq-family-names-and-origins",
-      "to": "pp-families",
-      "layer": "oq",
-      "type": "asks about",
-      "basis": "stated",
-      "quote": "Family names and origins.",
+      "quote": "Final names/titles of domains (the six seats and their houses are now settled).",
       "src": "Open-Questions.md#economic-council",
       "chip": "Asks about",
       "chipBack": "Open questions"
@@ -1073,6 +947,39 @@
       "chipBack": "Open questions"
     },
     {
+      "from": "oq-the-names-of-the-sunplains-and-deepwood-language",
+      "to": "lang-sunplains",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "The names of the Sunplains and Deepwood languages, and what Old Spine speech was called.",
+      "src": "Open-Questions.md#language-and-naming",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-the-names-of-the-sunplains-and-deepwood-language",
+      "to": "lang-deepwood",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "The names of the Sunplains and Deepwood languages, and what Old Spine speech was called.",
+      "src": "Open-Questions.md#language-and-naming",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-the-names-of-the-sunplains-and-deepwood-language",
+      "to": "lang-oldspine",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "The names of the Sunplains and Deepwood languages, and what Old Spine speech was called.",
+      "src": "Open-Questions.md#language-and-naming",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
       "from": "oq-name-and-self-name-of-the-appalachian-influenced",
       "to": "nomads",
       "layer": "oq",
@@ -1118,7 +1025,7 @@
     }
   ],
   "gaps": [
-    "**38 open questions, plus an audit note.** Open Questions lists them under eight headings (Map, Political structure, Economic Council, Villain, Wurdren, Magic, Language and naming, Nomadic peoples) and asks for the current events to be audited once the map and the Villain's plan are settled.",
-    "**9 questions have nothing on the board to attach to:** borders in general (long boundaries or corridors), rivers and watersheds, all three Magic questions, and all four Language and naming questions. Magic, rivers and language families have no cards of their own yet, which is itself a sign of where the setting is thinnest."
+    "**31 open questions, plus an audit note.** Open Questions lists them under seven headings (Map, Political structure, Economic Council, Villain, Wurdren, Language and naming, Nomadic peoples); eight more were settled on 2026-09-29 and moved to its Settled section. It also asks for the current events to be audited once the map and the Villain's plan are settled.",
+    "**3 still have nothing on the board to attach to:** Map: which regional borders are long boundaries versus narrow corridors; Map: navigable rivers and major watersheds; Language and naming: personal-name systems within the language families. Magic, the Council's houses and the language families were settled on 2026-09-29 and have left this list; they now live on Magic and Relics, the Economic Council page and Language and Thought."
   ]
 }

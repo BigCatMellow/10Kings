@@ -8,7 +8,7 @@ How each region talks, builds, names places and celebrates; what people say abou
 
 Food has its own part (Part 3) and religion and guilds belong to Part 4 (Power), so they aren't here yet.
 
-**Counts:** 8 cultures, 1 mobile people, 7 in-world sayings, 28 festivals; 21 connections (15 stated in the wiki, 6 inferred).
+**Counts:** 8 cultures, 1 mobile people, 7 in-world sayings, 28 festivals, 8 languages; 34 connections (28 stated in the wiki, 6 inferred).
 
 ## Gaps this part exposes
 
@@ -28,6 +28,7 @@ Things the wiki doesn't settle yet. Listed for James to decide; nothing here was
 - Port's 'occupations found nowhere else at the same scale' aren't named.
 - Root Cellar Night remembers the Seven-year Blight; it will connect when Part 5 (History) is built.
 - Religion (Part 4) is only hinted at here: Solstice Lanterns says different faiths explain it differently, Port has blended religious practice, and several festivals imply rites. They'll connect when Part 4 is built.
+- **Languages now have families, but not full names or name systems.** The families (Northern, Heartland, Deepwood), Trade Tongue and Old Spine speech were settled on 2026-09-29. Still open: personal-name systems, the names of the Sunplains and Deepwood languages, and what Old Spine speech was called. Border towns have no stated language mix of their own beyond the families of their two sides.
 
 ## Where cultures mix
 
@@ -65,6 +66,24 @@ Things the wiki doesn't settle yet. Listed for James to decide; nothing here was
 | Nomads and itinerant peoples | circuit may include (edge markets) | Deepwood | stated, possible | “Deepwood edge markets” [source](../../wiki/Culture/Nomads.md#a-possible-form) |
 | Nomads and itinerant peoples | circuit may include (winter work, fairs) | Port | stated, possible | “Port winter work or major fairs” [source](../../wiki/Culture/Nomads.md#a-possible-form) |
 
+## Languages and families
+
+| From | Connection | To | Basis | Supporting text |
+| --- | --- | --- | --- | --- |
+| Northic | is spoken by | Northwind culture | stated | “Northic (Northwind)” [source](../../wiki/Culture/Language-and-Thought.md#language-families) |
+| Ironet | is spoken by | Ironcrest culture | stated | “Ironet (Ironcrest)” [source](../../wiki/Culture/Language-and-Thought.md#language-families) |
+| Heartland Tongue | is spoken by | Greenvale culture | stated | “Heartland Tongue (Greenvale)” [source](../../wiki/Culture/Language-and-Thought.md#language-families) |
+| Sunplains languages | is spoken by | Sunplains culture | stated | “the Sunplains city languages” [source](../../wiki/Culture/Language-and-Thought.md#language-families) |
+| Highridge plateau speech | is spoken by | Highridge culture | stated | “Highridge's plateau speech” [source](../../wiki/Culture/Language-and-Thought.md#language-families) |
+| Deepwood languages | is spoken by | Deepwood culture | stated | “the Deepwood languages” [source](../../wiki/Culture/Language-and-Thought.md#language-families) |
+| Trade Tongue | is spoken by | Port culture | stated | “Trade Tongue” [source](../../wiki/Culture/Language-and-Thought.md#language-families) |
+| Northic | shares a family with | Ironet | stated | “Northic** (Northwind); **Ironet** (Ironcrest)” [source](../../wiki/Culture/Language-and-Thought.md#language-families) |
+| Sunplains languages | shares a family with | Heartland Tongue | stated | “Heartland Tongue** (Greenvale); the **Sunplains** city languages” [source](../../wiki/Culture/Language-and-Thought.md#language-families) |
+| Highridge plateau speech | shares a family with | Heartland Tongue | stated | “Highridge's **plateau speech” [source](../../wiki/Culture/Language-and-Thought.md#language-families) |
+| Trade Tongue | borrows money and contract words from | Ironet | stated | “Words for money, shipping and contracts are heavily borrowed from Ironet” [source](../../wiki/Culture/Language-and-Thought.md#language-families) |
+| Trade Tongue | borrows greetings and food words from | Heartland Tongue | stated | “greetings and food words often come from Heartland Tongue or the Sunplains languages” [source](../../wiki/Culture/Language-and-Thought.md#language-families) |
+| Old Spine speech | survives in place names of | The Spine | stated | “an older language was spoken along The Spine and its passes” [source](../../wiki/Culture/Language-and-Thought.md#language-families) |
+
 ## Diagram
 
 Stated connections only; positions are automatic. The [interactive board](../board/README.md) is easier to read.
@@ -87,6 +106,15 @@ flowchart LR
   greenvale(["Greenvale"])
   deepwood(["Deepwood"])
   port[["Port"]]
+  lang_northic["Northic"]
+  lang_ironet["Ironet"]
+  lang_heartland["Heartland Tongue"]
+  lang_sunplains["Sunplains languages"]
+  lang_plateau["Highridge plateau speech"]
+  lang_deepwood["Deepwood languages"]
+  lang_trade["Trade Tongue"]
+  lang_oldspine["Old Spine speech"]
+  spine[/"The Spine"\]
   ironcrest_culture --- greenvale_culture
   northwind_culture --- highridge_culture
   deepwood_culture -.-|likely| sunplains_culture
@@ -102,6 +130,19 @@ flowchart LR
   nomads -.->|harvest labor| greenvale
   nomads -.->|edge markets| deepwood
   nomads -.->|winter work, fairs| port
+  lang_northic --> northwind_culture
+  lang_ironet --> ironcrest_culture
+  lang_heartland --> greenvale_culture
+  lang_sunplains --> sunplains_culture
+  lang_plateau --> highridge_culture
+  lang_deepwood --> deepwood_culture
+  lang_trade --> port_culture
+  lang_northic --> lang_ironet
+  lang_sunplains --> lang_heartland
+  lang_plateau --> lang_heartland
+  lang_trade --> lang_ironet
+  lang_trade --> lang_heartland
+  lang_oldspine --> spine
 ```
 
 ## Every thing in this part
@@ -119,6 +160,7 @@ Grouped by board column.
 | [Aurora Nights](../../wiki/Culture/Festivals-and-Seasonal-Life.md#northwind) | Festival, Late summer | Provisional | Offers a quieter counterpoint to Northwind's rough public image: family stories, ancestor traditions, betrothals and beliefs tied to the lights. Supernatural explanations are beliefs, not proof. |
 | [Last Sail](../../wiki/Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar) | Festival, Late autumn | Provisional | Named in the seasonal calendar (Late autumn) only; no description yet. |
 | [Long Dark Feast](../../wiki/Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar) | Festival, Midwinter | Provisional | Named in the seasonal calendar (Midwinter) only; no description yet. |
+| [Northic](../../wiki/Culture/Language-and-Thought.md#language-families) | Language | Working canon | Northic: the Northern family, spoken in Northwind. |
 
 **Northwind culture**
 
@@ -134,6 +176,12 @@ Grouped by board column.
 
 - *Employers' biased shortcut:* Northwind sailors are assumed to be safer hires for ship work. Reality may contradict it; show counterexamples. A stereotype should create tension, opportunity or injustice, not become a rule of the world. ([source](../../wiki/Culture/Regional-Social-Dynamics.md#hiring-prejudice))
 
+**Northic**
+
+- *Family:* Northern (a working label) ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Where:* Northwind ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Intelligibility:* Within a family, neighbors half-understand each other; across families there is no understanding without learning. ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+
 ### Highridge Plateau
 
 | Thing | Kind | Status | Summary |
@@ -144,6 +192,7 @@ Grouped by board column.
 | [Caravan Blessing](../../wiki/Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar) | Festival, Late spring | Provisional | Named in the seasonal calendar (Late spring) only; no description yet. |
 | [Midsummer Debates](../../wiki/Culture/Festivals-and-Seasonal-Life.md#highridge) | Festival, Midsummer | Provisional | Can make rhetoric a public competitive craft, without implying every Highridge resident is a philosopher. |
 | [Ledger Closing](../../wiki/Culture/Festivals-and-Seasonal-Life.md#highridge) | Festival, Late autumn | Provisional | Can mark the end of a fiscal or trade cycle: debts settled, renegotiated or publicly disputed before a brief period of relief. |
+| [Highridge plateau speech](../../wiki/Culture/Language-and-Thought.md#language-families) | Language | Working canon | Highridge plateau speech: the Heartland family, spoken in Highridge Plateau. |
 
 **Highridge culture**
 
@@ -159,6 +208,13 @@ Grouped by board column.
 
 - *Employers' biased shortcut:* Highridge-trained clerks or Port polyglots may be preferred for translation and records. Reality may contradict it; show counterexamples. A stereotype should create tension, opportunity or injustice, not become a rule of the world. ([source](../../wiki/Culture/Regional-Social-Dynamics.md#hiring-prejudice))
 
+**Highridge plateau speech**
+
+- *Family:* Heartland (a working label) ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Where:* Highridge Plateau ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Intelligibility:* Within a family, neighbors half-understand each other; across families there is no understanding without learning. ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Note:* The most mixed member of its family: the earlier notes describe it as Heartland Tongue with borrowed terms from every neighbor, and Highridge is highly multilingual in practice. ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+
 ### Deepwood
 
 | Thing | Kind | Status | Summary |
@@ -169,6 +225,7 @@ Grouped by board column.
 | [Canopy Vigil](../../wiki/Culture/Festivals-and-Seasonal-Life.md#deepwood) | Festival, Midsummer | Provisional | Can center on restraint and attention: reduced work, quiet observation and later community interpretation. |
 | [Gathering Quiet](../../wiki/Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar) | Festival, Early autumn | Provisional | Named in the seasonal calendar (Early autumn) only; no description yet. |
 | [Deep Silence](../../wiki/Culture/Festivals-and-Seasonal-Life.md#deepwood) | Festival, Midwinter | Provisional | Can vary dramatically by community: some may treat it as spiritual practice; others as old custom, ecological rule or a holiday they barely observe. |
+| [Deepwood languages](../../wiki/Culture/Language-and-Thought.md#language-families) | Language | Working canon | Deepwood languages: the Deepwood family, spoken in Deepwood. |
 
 **Deepwood culture**
 
@@ -184,6 +241,13 @@ Grouped by board column.
 
 - *Employers' biased shortcut:* Deepwood-trained healers can command prestige for some specialties. Reality may contradict it; show counterexamples. A stereotype should create tension, opportunity or injustice, not become a rule of the world. ([source](../../wiki/Culture/Regional-Social-Dynamics.md#hiring-prejudice))
 
+**Deepwood languages**
+
+- *Family:* Deepwood (a working label) ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Where:* Deepwood ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Intelligibility:* Within a family, neighbors half-understand each other; across families there is no understanding without learning. ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Note:* Unrelated to the other families and the hardest for outsiders, which reinforces Deepwood's reputation for closedness without making its people mysterious. ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+
 ### Ironcrest
 
 | Thing | Kind | Status | Summary |
@@ -194,6 +258,7 @@ Grouped by board column.
 | [Foundry Week](../../wiki/Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar) | Festival, Midsummer | Provisional | Named in the seasonal calendar (Midsummer) only; no description yet. |
 | [Ember Remembrance](../../wiki/Culture/Festivals-and-Seasonal-Life.md#ironcrest) | Festival, Late autumn | Provisional | Works better as a solemn memorial than a spectacle: banked fires, names on memorial walls and a rare interruption of commerce. |
 | [Coal Ember Vigil](../../wiki/Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar) | Festival, Midwinter | Provisional | Named in the seasonal calendar (Midwinter) only; no description yet. |
+| [Ironet](../../wiki/Culture/Language-and-Thought.md#language-families) | Language | Working canon | Ironet: the Northern family, spoken in Ironcrest. |
 
 **Ironcrest culture**
 
@@ -209,6 +274,12 @@ Grouped by board column.
 
 - *Employers' biased shortcut:* Ironcrest workers are stereotyped as better metalworkers. Reality may contradict it; show counterexamples. A stereotype should create tension, opportunity or injustice, not become a rule of the world. ([source](../../wiki/Culture/Regional-Social-Dynamics.md#hiring-prejudice))
 
+**Ironet**
+
+- *Family:* Northern (a working label) ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Where:* Ironcrest ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Intelligibility:* Within a family, neighbors half-understand each other; across families there is no understanding without learning. ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+
 ### Greenvale
 
 | Thing | Kind | Status | Summary |
@@ -219,6 +290,7 @@ Grouped by board column.
 | [Grain Ripening](../../wiki/Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar) | Festival, Late summer | Provisional | Named in the seasonal calendar (Late summer) only; no description yet. |
 | [Harvest Home](../../wiki/Culture/Festivals-and-Seasonal-Life.md#greenvale) | Festival, Early autumn | Provisional | Can combine celebration with redistribution, seed exchange and public accounting of surplus. |
 | [Root Cellar Night](../../wiki/Culture/Festivals-and-Seasonal-Life.md#greenvale) | Festival, Midwinter | Provisional | Can be intimate rather than civic: stored food, family stories and remembrance of old scarcity such as the Seven-year Blight. |
+| [Heartland Tongue](../../wiki/Culture/Language-and-Thought.md#language-families) | Language | Working canon | Heartland Tongue: the Heartland family, spoken in Greenvale. |
 
 **Greenvale culture**
 
@@ -230,6 +302,12 @@ Grouped by board column.
 - *Place names:* Rivers, soils, old settlements, family lands, markets, former estates. ([source](../../wiki/Culture/Naming.md#regional-direction))
 - *Also on:* [Language and Thought](../../wiki/Culture/Language-and-Thought.md#greenvale-languages), [Architecture](../../wiki/Culture/Architecture.md#greenvale), [Culture and Influence](../../wiki/Culture/Culture-and-Influence.md#greenvale)
 
+**Heartland Tongue**
+
+- *Family:* Heartland (a working label) ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Where:* Greenvale ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Intelligibility:* Within a family, neighbors half-understand each other; across families there is no understanding without learning. ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+
 ### Sunplains
 
 | Thing | Kind | Status | Summary |
@@ -240,6 +318,7 @@ Grouped by board column.
 | [Festival of Patrons](../../wiki/Culture/Festivals-and-Seasonal-Life.md#sunplains) | Festival, Midsummer | Provisional | Can turn civic generosity into competition among houses, guilds and cities. |
 | [Wine Crush](../../wiki/Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar) | Festival, Early autumn | Provisional | Named in the seasonal calendar (Early autumn) only; no description yet. |
 | [Solstice Lanterns](../../wiki/Culture/Festivals-and-Seasonal-Life.md#sunplains) | Festival, Midwinter | Provisional | Can mix family, neighborhood and civic meanings; different faiths may explain the same public practice differently. |
+| [Sunplains languages](../../wiki/Culture/Language-and-Thought.md#language-families) | Language | Working canon | Sunplains languages: the Heartland family, spoken in Sunplains' city-states. |
 
 **Sunplains culture**
 
@@ -251,6 +330,13 @@ Grouped by board column.
 - *Place names:* Old city-state names, founders, civic ideals, waterworks, forts, ports, estates. ([source](../../wiki/Culture/Naming.md#regional-direction))
 - *Also on:* [Language and Thought](../../wiki/Culture/Language-and-Thought.md#sunplains-languages), [Architecture](../../wiki/Culture/Architecture.md#sunplains), [Culture and Influence](../../wiki/Culture/Culture-and-Influence.md#sunplains)
 
+**Sunplains languages**
+
+- *Family:* Heartland (a working label) ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Where:* Sunplains' city-states ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Intelligibility:* Within a family, neighbors half-understand each other; across families there is no understanding without learning. ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Note:* Their names are still open. ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+
 ### Port
 
 | Thing | Kind | Status | Summary |
@@ -260,6 +346,7 @@ Grouped by board column.
 | [Tide Return](../../wiki/Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar) | Festival, Early spring | Provisional | Named in the seasonal calendar (Early spring) only; no description yet. |
 | [Three Moon Festival](../../wiki/Culture/Festivals-and-Seasonal-Life.md#port) | Festival, Early autumn | Provisional | Most useful when it belongs to Port rather than serving as a generic 'all cultures' event: its power can come from the city showing that incompatible groups can occupy one civic space. |
 | [Lean Vigil](../../wiki/Culture/Festivals-and-Seasonal-Life.md#port) | Festival, Midwinter | Provisional | Can mark the anxiety of winter shipping and food supply, without asserting that Port literally has no local food or defenses. |
+| [Trade Tongue](../../wiki/Culture/Language-and-Thought.md#language-families) | Language | Working canon | Trade Tongue: a contact language, spoken in Port, the caravan routes and border markets. |
 
 **Port culture**
 
@@ -274,6 +361,26 @@ Grouped by board column.
 **“Every ship lands at Port, none stay.”**
 
 - *Employers' biased shortcut:* Displaced Port workers may be offered the hardest work because employers assume they have fewer alternatives. Port polyglots (like Highridge-trained clerks) may be preferred for translation and records. Reality may contradict it; show counterexamples. A stereotype should create tension, opportunity or injustice, not become a rule of the world. ([source](../../wiki/Culture/Regional-Social-Dynamics.md#hiring-prejudice))
+
+**Trade Tongue**
+
+- *Family:* none (a contact language) ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Where:* Port, the caravan routes and border markets ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Intelligibility:* A bridge between all families. ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Note:* A simplified contact language with pidgin and creole forms; words for money, shipping and contracts are heavily borrowed from Ironet, greetings and food words from Heartland Tongue or the Sunplains languages. Traders, caravan crews, dock workers and clerks speak it; many farmers and forest villagers don't. ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+
+### Spine & Underpass
+
+| Thing | Kind | Status | Summary |
+| --- | --- | --- | --- |
+| [Old Spine speech](../../wiki/Culture/Language-and-Thought.md#language-families) | Language | Working canon | An older language from before the present families, surviving only in place names along The Spine. |
+
+**Old Spine speech**
+
+- *Family:* none (an older substrate) ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Where:* only in place names along The Spine ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Intelligibility:* Nobody speaks it. ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
+- *Note:* Nobody speaks it now. It survives in mountain, pass, spring and Underpass names that no living language can explain, and in names each side of a border translates differently. ([source](../../wiki/Culture/Language-and-Thought.md#language-families))
 
 ### Border towns
 

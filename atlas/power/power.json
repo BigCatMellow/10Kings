@@ -160,6 +160,18 @@
         {
           "key": "Leverage",
           "always": true
+        },
+        {
+          "key": "House",
+          "always": true
+        },
+        {
+          "key": "Home region",
+          "always": true
+        },
+        {
+          "key": "Members",
+          "always": false
         }
       ]
     },
@@ -175,6 +187,10 @@
         },
         {
           "label": "Faiths",
+          "always": false
+        },
+        {
+          "label": "Relics",
           "always": false
         }
       ],
@@ -367,17 +383,17 @@
       "text": "A secret or semi-secret association of wealthy families whose power crosses regional borders. They represent no kingdom; they control economic systems on which all kingdoms depend, and govern through choice architecture rather than command.",
       "short_text": "Wealthy families, no kingdom: leverage over what everyone depends on.",
       "facts": {
-        "Seats": "Six domains in the current model, each a distinct kind of leverage. The exact number of seats can still change.",
+        "Seats": "Six seats (Working canon, James 2026-09-29), each held by one house: Marielle (Harvest), Drathain (Materials), Veynor (Routes), Torradon (Works), Luthain (Treasury), Rhaelen (Lore). Each house comes from a region but represents none. The domain titles are still working titles.",
         "How it governs": "Choice architecture rather than command. A kingdom may technically be free to refuse a treaty, but then credit becomes scarce, grain contracts disappear, insurers raise rates, caravans choose another route, bridge repairs are delayed, or a rival gains better terms. No single action proves conspiracy.",
         "Why rulers tolerate it": "Many rulers don't know the whole structure. Those who do may still tolerate it because it resolves shortages, provides emergency loans, coordinates trade, prevents financial panics, quietly restrains rivals, and helped preserve the post-Convergence order.",
         "Internal conflict": "Not unified. Potential fault lines: finance wants repayment while food wants famine relief; routes wants open trade while materials wants strategic embargo; infrastructure wants long investment while short-term political pressure demands cuts; knowledge may know a scheme is failing before others admit it. Each family also has heirs, factions, clients and private ambitions.",
         "Moral problem": "The Council may be correct that its coordination has prevented wars. The story's question is whether preventing catastrophe grants a private group the right to decide everyone else's future.",
         "Against the Villain": "He attacks dependencies and perceptions, wanting kingdoms to make moves the Council can't openly stop without exposing how much power it holds. His goal is not merely to defeat six families but to make their system unable to maintain equilibrium.",
         "With Wurdren": "Wurdren repeatedly fixes consequences the Council treats as acceptable losses. This can accidentally help the Council in the short term while morally undermining its worldview in the long term.",
-        "Open questions": "Final number of seats; final names or titles of domains; family names and origins; how seats are inherited, selected, purchased or contested; how old the Council is relative to the Convergence; which parts of its existence are rumor and which are known to elite rulers."
+        "Open questions": "How seats are inherited, selected, purchased or contested; how old the Council is relative to the Convergence; which parts of its existence are rumor and which are known to elite rulers; the domains' final titles."
       },
       "fact_src": {
-        "Seats": "Politics/Economic-Council.md#core-concept",
+        "Seats": "Politics/Economic-Council.md#the-six-houses",
         "How it governs": "Politics/Economic-Council.md#how-the-council-governs-without-governing",
         "Why rulers tolerate it": "Politics/Economic-Council.md#why-rulers-tolerate-it",
         "Internal conflict": "Politics/Economic-Council.md#internal-conflict",
@@ -396,11 +412,19 @@
       "section": "Economic Council",
       "src": "Politics/Economic-Council.md#1-food-and-biological-supply",
       "text": "The Council's Food and Biological Supply domain (working title: Harvest / Provision Seat). Power doesn't mean owning every farm. The family gains leverage by controlling bottlenecks: storage warehouses, seed credit, bulk contracts, mills, emergency reserves, and financing for large estates and co-ops.",
-      "short_text": "Food bottlenecks: storage, seed credit, mills, reserves.",
+      "short_text": "House Marielle. Food bottlenecks: storage, seed credit, mills, reserves.",
       "facts": {
         "Domain": "Food and Biological Supply (working title)",
         "Controls": "Grain storage; seed networks; orchard stock; livestock movement; emergency reserves; large agricultural contracts; food transport coordination.",
-        "Leverage": "Power doesn't mean owning every farm. The family gains leverage by controlling bottlenecks: storage warehouses, seed credit, bulk contracts, mills, emergency reserves, and financing for large estates and co-ops."
+        "Leverage": "Power doesn't mean owning every farm. The family gains leverage by controlling bottlenecks: storage warehouses, seed credit, bulk contracts, mills, emergency reserves, and financing for large estates and co-ops.",
+        "House": "House Marielle (Working canon).",
+        "Home region": "Greenvale: origin only; the house doesn't represent it.",
+        "Members": "Halric Marielle, a charismatic head of house; Ellana Marielle, botanist and diplomat. (Provisional.)"
+      },
+      "fact_src": {
+        "House": "Politics/Economic-Council.md#the-six-houses",
+        "Home region": "Politics/Economic-Council.md#the-six-houses",
+        "Members": "Politics/Economic-Council.md#the-six-houses"
       }
     },
     {
@@ -412,11 +436,19 @@
       "section": "Economic Council",
       "src": "Politics/Economic-Council.md#2-materials-and-production",
       "text": "The Council's Materials and Production domain (working title: Materials / Metal Seat). Its power spans Ironcrest mines, Deepwood timber and fuel disputes, Highridge demand, Northwind ship fittings, and Sunplains construction.",
-      "short_text": "Mines, ore, timber, fuel, foundries, weapon-grade metal.",
+      "short_text": "House Drathain. Mines, ore, timber, fuel, foundries, weapon-grade metal.",
       "facts": {
         "Domain": "Materials and Production (working title)",
         "Controls": "Mines; ore contracts; timber and fuel supply; large foundries; strategic materials; weapon-grade metal; construction metal.",
-        "Leverage": "Its power spans Ironcrest mines, Deepwood timber and fuel disputes, Highridge demand, Northwind ship fittings, and Sunplains construction."
+        "Leverage": "Its power spans Ironcrest mines, Deepwood timber and fuel disputes, Highridge demand, Northwind ship fittings, and Sunplains construction.",
+        "House": "House Drathain (Working canon).",
+        "Home region": "Sunplains: origin only; the house doesn't represent it.",
+        "Members": "Evelyne Drathain, diplomat and master of guild alliances; Dorian Drathain, organizer of large labor forces. In the earlier notes the house held Labor; its leverage over crews and building became leverage over what they build with. (Provisional.)"
+      },
+      "fact_src": {
+        "House": "Politics/Economic-Council.md#the-six-houses",
+        "Home region": "Politics/Economic-Council.md#the-six-houses",
+        "Members": "Politics/Economic-Council.md#the-six-houses"
       }
     },
     {
@@ -428,11 +460,19 @@
       "section": "Economic Council",
       "src": "Politics/Economic-Council.md#3-routes-and-transport",
       "text": "The Council's Routes and Transport domain (working title: Routes / Navigation Seat). It can change an economy by making a route expensive rather than formally banning trade.",
-      "short_text": "Shipping, caravans, passes, roads, Underpass connections.",
+      "short_text": "House Veynor. Shipping, caravans, passes, roads, Underpass connections.",
       "facts": {
         "Domain": "Routes and Transport (working title)",
         "Controls": "Maritime shipping; caravan networks; pass access; major roads; warehouses; Underpass connections; shipping schedules; convoy contracts.",
-        "Leverage": "It can change an economy by making a route expensive rather than formally banning trade."
+        "Leverage": "It can change an economy by making a route expensive rather than formally banning trade.",
+        "House": "House Veynor (Working canon).",
+        "Home region": "Port: origin only; the house doesn't represent it.",
+        "Members": "Ilthea Veynor, matriarch of maritime and overland trade; Appan Veynor, the house's pragmatic, ambitious heir. (Provisional.)"
+      },
+      "fact_src": {
+        "House": "Politics/Economic-Council.md#the-six-houses",
+        "Home region": "Politics/Economic-Council.md#the-six-houses",
+        "Members": "Politics/Economic-Council.md#the-six-houses"
       }
     },
     {
@@ -444,11 +484,19 @@
       "section": "Economic Council",
       "src": "Politics/Economic-Council.md#4-infrastructure",
       "text": "The Council's Infrastructure domain (working title: Works / Infrastructure Seat). Infrastructure decisions have long tails: a bridge not repaired can redirect trade for decades.",
-      "short_text": "Roads, bridges, canals, irrigation, ports, repair contracts.",
+      "short_text": "House Torradon. Roads, bridges, canals, irrigation, ports, repair contracts.",
       "facts": {
         "Domain": "Infrastructure (working title)",
         "Controls": "Roads; bridges; canals; irrigation; ports; fortifications; large public works; repair contracts.",
-        "Leverage": "Infrastructure decisions have long tails: a bridge not repaired can redirect trade for decades."
+        "Leverage": "Infrastructure decisions have long tails: a bridge not repaired can redirect trade for decades.",
+        "House": "House Torradon (Working canon).",
+        "Home region": "Highridge Plateau: origin only; the house doesn't represent it.",
+        "Members": "Vysera Torradon, visionary architect and leader; Sorvik Torradon, meticulous planner. (Provisional.)"
+      },
+      "fact_src": {
+        "House": "Politics/Economic-Council.md#the-six-houses",
+        "Home region": "Politics/Economic-Council.md#the-six-houses",
+        "Members": "Politics/Economic-Council.md#the-six-houses"
       }
     },
     {
@@ -460,11 +508,19 @@
       "section": "Economic Council",
       "src": "Politics/Economic-Council.md#5-finance-and-exchange",
       "text": "The Council's Finance and Exchange domain (working title: Treasury / Commerce Seat). This may be the Council's most quietly powerful seat, because every other domain sometimes needs capital.",
-      "short_text": "Credit, debt, banking, loans, insurance, emergency financing.",
+      "short_text": "House Luthain. Credit, debt, banking, loans, insurance, emergency financing.",
       "facts": {
         "Domain": "Finance and Exchange (working title)",
         "Controls": "Credit; debt; banking houses; currency exchange; large loans; merchant insurance-like arrangements; investment syndicates; emergency financing.",
-        "Leverage": "This may be the Council's most quietly powerful seat, because every other domain sometimes needs capital."
+        "Leverage": "This may be the Council's most quietly powerful seat, because every other domain sometimes needs capital.",
+        "House": "House Luthain (Working canon).",
+        "Home region": "Ironcrest: origin only; the house doesn't represent it.",
+        "Members": "Carric Luthain, a shrewd banker; Margil Luthain, a cold, precise adviser. (Provisional.)"
+      },
+      "fact_src": {
+        "House": "Politics/Economic-Council.md#the-six-houses",
+        "Home region": "Politics/Economic-Council.md#the-six-houses",
+        "Members": "Politics/Economic-Council.md#the-six-houses"
       }
     },
     {
@@ -476,11 +532,19 @@
       "section": "Economic Council",
       "src": "Politics/Economic-Council.md#6-knowledge-and-information",
       "text": "The Council's Knowledge and Information domain (working title: Lore / Intelligence Seat). It should not literally control all knowledge. Its strength is knowing who knows what, buying access, delaying information, and deciding which innovations receive funding or distribution.",
-      "short_text": "Records, maps, guild secrets, market reports, intelligence.",
+      "short_text": "House Rhaelen. Records, maps, guild secrets, market reports, intelligence.",
       "facts": {
         "Domain": "Knowledge and Information (working title)",
         "Controls": "Commercial records; maps; guild secrets; technical knowledge; scholars and scribes; market reports; intelligence networks; blackmail; communication.",
-        "Leverage": "It should not literally control all knowledge. Its strength is knowing who knows what, buying access, delaying information, and deciding which innovations receive funding or distribution."
+        "Leverage": "It should not literally control all knowledge. Its strength is knowing who knows what, buying access, delaying information, and deciding which innovations receive funding or distribution.",
+        "House": "House Rhaelen (Working canon).",
+        "Home region": "Deepwood: origin only; the house doesn't represent it.",
+        "Members": "Sorin Rhaelen, a reserved archivist; Lyra Rhaelen, who recovers lost knowledge. (Provisional.)"
+      },
+      "fact_src": {
+        "House": "Politics/Economic-Council.md#the-six-houses",
+        "Home region": "Politics/Economic-Council.md#the-six-houses",
+        "Members": "Politics/Economic-Council.md#the-six-houses"
       }
     },
     {
@@ -1323,6 +1387,27 @@
         "Elite direction": "Specialized troops using short spears, axes or picks, compact shields, crossbows, helmets, ropes and lamps.",
         "Why": "Long weapons are often impractical."
       }
+    },
+    {
+      "id": "pw-magic",
+      "kind": "overview",
+      "label": "Magic and relics",
+      "status": "Working canon",
+      "lane": "faiths",
+      "section": "Faiths",
+      "src": "Magic.md#the-decision",
+      "text": "Real but deniable: a handful of old community relics seem to do small, moral things, but every effect has an ordinary explanation within reach and the story never confirms it. No spellcasting.",
+      "short_text": "Real but deniable: moral relics, never confirmed.",
+      "facts": {
+        "Principle": "Magic is real but deniable (James, 2026-09-29). A handful of old relics really do something small and moral, like a lantern that dims when its holder lies, but every effect could have an ordinary explanation, and the story never confirms it.",
+        "Scope": "Relics are kept by communities (temples, shrines, guild halls, villages) and belong to the faith traditions and regions that made them. Earlier notes' examples, Provisional: the Quill of Saint Othriel, whose ink smudges on deceit; the Chalice of Mother Amalthea, whose water turns bitter for anyone withholding care.",
+        "Rule": "No spellcasting; small and moral effects only; always deniable; never confirmed by the narration; never load-bearing for the plot; never industrial. Illusions are legend, creatures are animals, spirits are belief; the earlier notes' mystical armies and forest mages are removed."
+      },
+      "fact_src": {
+        "Principle": "Magic.md#the-decision",
+        "Scope": "Magic.md#relics",
+        "Rule": "Magic.md#hard-limits"
+      }
     }
   ],
   "edges": [
@@ -2094,10 +2179,23 @@
       "certainty": "possible",
       "chipNote": "moves cargo by sea",
       "chipNoteBack": "Port syndicate finances"
+    },
+    {
+      "from": "pw-magic",
+      "to": "pw-faiths",
+      "layer": "pw-faith",
+      "type": "is kept within",
+      "basis": "stated",
+      "quote": "They belong to the … faith traditions … and regions that made them",
+      "src": "Magic.md#relics",
+      "chip": "Faiths",
+      "chipBack": "Relics",
+      "chipNote": "relics belong to the faiths",
+      "chipNoteBack": "keeps relics (never confirmed)"
     }
   ],
   "gaps": [
-    "**The Council has no names yet.** The wiki's own open questions: the final number of seats, the domains' final names, the six families' names and origins, how seats are inherited, selected, bought or contested, how old the Council is relative to the Convergence, and what rulers know versus rumor. The seat titles on these cards are working titles.",
+    "**The Council's houses are named, but not how seats pass.** Six seats and six houses were settled on 2026-09-29 (Marielle, Drathain, Veynor, Torradon, Luthain, Rhaelen); their named members are Provisional. Still open: how seats are inherited, selected, bought or contested, how old the Council is relative to the Convergence, what rulers know versus rumor, and the domains' final titles.",
     "**Only two seats name the places they reach.** The Materials seat names five regions and the Routes seat names the Underpass. Every other region page names only \"the Council\"; the seat links drawn for them (\"food/finance networks\", \"shipping and finance\", \"Council-linked credit\", \"route costs\", \"infrastructure/resource interests\", \"credit panic\") match a domain word and are marked inferred, off by default. Sunplains names Council involvement but no domain.",
     "**Every government is still a sketch.** No ruler, capital, dynasty, council or court is named anywhere, and most shapes are hedged (\"likely\", \"could\", \"possible\"). The wiki's open questions ask whether the six regions are kingdoms in the same constitutional sense, how many Sunplains city-states remain, how centralized Deepwood is, what formally governs Highridge, and whether Port has its own citizenship.",
     "**Three governments have no list of political fights.** Highridge's Politics section lists who holds power but not what they fight over; Port and the Underpass have pressures but no fights section.",

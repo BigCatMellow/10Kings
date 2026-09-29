@@ -29,12 +29,12 @@ The lesson is **not** to copy the sound of these languages indiscriminately. It 
 
 ## Regional direction
 
-Exact naming languages remain open, but a useful model is:
+The language families are now set (see [Language families](Language-and-Thought.md#language-families)): Northern (Northic, Ironet), Heartland (Heartland Tongue, the Sunplains languages, Highridge plateau speech), the Deepwood languages, Trade Tongue, and an older **Old Spine speech** that survives only in place names along The Spine. Exact naming systems remain open, but a useful model is:
 
 - **Ironcrest:** older upland/river names beneath later mining, fort, family, and guild names.
 - **Northwind:** coastal geography, bays, islands, currents, lineages, seasonal sites.
 - **Greenvale:** rivers, soils, old settlements, family lands, markets, former estates.
-- **Highridge:** route names, passes, wells, caravan families, old toll sites, translated names from multiple languages.
+- **Highridge:** route names, passes, wells, caravan families, old toll sites, translated names from multiple languages; the oldest pass and spring names may be Old Spine speech nobody can translate.
 - **Deepwood:** waterways, groves, species, older peoples, landmarks that may not be obvious to outsiders.
 - **Sunplains:** old city-state names, founders, civic ideals, waterworks, forts, ports, estates.
 - **Port:** layers upon layers — indigenous/old geographic name, official charter name, district nicknames, immigrant neighborhood names, merchant terminology.

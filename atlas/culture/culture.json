@@ -9,7 +9,8 @@
     "culture": "Culture",
     "saying": "In-world saying",
     "festival": "Festival",
-    "people": "Mobile people"
+    "people": "Mobile people",
+    "language": "Language"
   },
   "layers": [
     {
@@ -26,6 +27,11 @@
       "id": "circuit",
       "label": "Nomad circuits",
       "default": true
+    },
+    {
+      "id": "lang",
+      "label": "Languages and families",
+      "default": true
     }
   ],
   "card_schema": {
@@ -37,6 +43,10 @@
         },
         {
           "label": "Border towns",
+          "always": true
+        },
+        {
+          "label": "Language",
           "always": true
         }
       ],
@@ -145,6 +155,57 @@
           "always": true
         }
       ]
+    },
+    "language": {
+      "rows": [
+        {
+          "label": "Spoken by",
+          "always": false
+        },
+        {
+          "label": "Same family",
+          "always": false
+        },
+        {
+          "label": "Borrows from",
+          "always": false
+        },
+        {
+          "label": "Lends to",
+          "always": false
+        },
+        {
+          "label": "Survives in",
+          "always": false
+        }
+      ],
+      "facts": [
+        {
+          "key": "Family",
+          "always": true
+        },
+        {
+          "key": "Where",
+          "always": true
+        },
+        {
+          "key": "Intelligibility",
+          "always": true
+        },
+        {
+          "key": "Note",
+          "always": false
+        }
+      ]
+    },
+    "mountains": {
+      "rows": [
+        {
+          "label": "Languages",
+          "always": false
+        }
+      ],
+      "facts": []
     }
   },
   "nodes": [
@@ -859,6 +920,184 @@
       "section": "Festivals",
       "src": "Culture/Festivals-and-Seasonal-Life.md#port",
       "text": "Can mark the anxiety of winter shipping and food supply, without asserting that Port literally has no local food or defenses."
+    },
+    {
+      "id": "lang-northic",
+      "kind": "language",
+      "label": "Northic",
+      "status": "Working canon",
+      "lane": "northwind",
+      "section": "Languages",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "text": "Northic: the Northern family, spoken in Northwind.",
+      "short_text": "Northern family.",
+      "facts": {
+        "Family": "Northern (a working label)",
+        "Where": "Northwind",
+        "Intelligibility": "Within a family, neighbors half-understand each other; across families there is no understanding without learning."
+      },
+      "fact_src": {
+        "Family": "Culture/Language-and-Thought.md#language-families",
+        "Where": "Culture/Language-and-Thought.md#language-families",
+        "Intelligibility": "Culture/Language-and-Thought.md#language-families"
+      }
+    },
+    {
+      "id": "lang-ironet",
+      "kind": "language",
+      "label": "Ironet",
+      "status": "Working canon",
+      "lane": "ironcrest",
+      "section": "Languages",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "text": "Ironet: the Northern family, spoken in Ironcrest.",
+      "short_text": "Northern family.",
+      "facts": {
+        "Family": "Northern (a working label)",
+        "Where": "Ironcrest",
+        "Intelligibility": "Within a family, neighbors half-understand each other; across families there is no understanding without learning."
+      },
+      "fact_src": {
+        "Family": "Culture/Language-and-Thought.md#language-families",
+        "Where": "Culture/Language-and-Thought.md#language-families",
+        "Intelligibility": "Culture/Language-and-Thought.md#language-families"
+      }
+    },
+    {
+      "id": "lang-heartland",
+      "kind": "language",
+      "label": "Heartland Tongue",
+      "status": "Working canon",
+      "lane": "greenvale",
+      "section": "Languages",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "text": "Heartland Tongue: the Heartland family, spoken in Greenvale.",
+      "short_text": "Heartland family.",
+      "facts": {
+        "Family": "Heartland (a working label)",
+        "Where": "Greenvale",
+        "Intelligibility": "Within a family, neighbors half-understand each other; across families there is no understanding without learning."
+      },
+      "fact_src": {
+        "Family": "Culture/Language-and-Thought.md#language-families",
+        "Where": "Culture/Language-and-Thought.md#language-families",
+        "Intelligibility": "Culture/Language-and-Thought.md#language-families"
+      }
+    },
+    {
+      "id": "lang-sunplains",
+      "kind": "language",
+      "label": "Sunplains languages",
+      "status": "Working canon",
+      "lane": "sunplains",
+      "section": "Languages",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "text": "Sunplains languages: the Heartland family, spoken in Sunplains' city-states.",
+      "short_text": "Heartland family.",
+      "facts": {
+        "Family": "Heartland (a working label)",
+        "Where": "Sunplains' city-states",
+        "Intelligibility": "Within a family, neighbors half-understand each other; across families there is no understanding without learning.",
+        "Note": "Their names are still open."
+      },
+      "fact_src": {
+        "Family": "Culture/Language-and-Thought.md#language-families",
+        "Where": "Culture/Language-and-Thought.md#language-families",
+        "Intelligibility": "Culture/Language-and-Thought.md#language-families",
+        "Note": "Culture/Language-and-Thought.md#language-families"
+      }
+    },
+    {
+      "id": "lang-plateau",
+      "kind": "language",
+      "label": "Highridge plateau speech",
+      "status": "Working canon",
+      "lane": "highridge",
+      "section": "Languages",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "text": "Highridge plateau speech: the Heartland family, spoken in Highridge Plateau.",
+      "short_text": "Heartland family.",
+      "facts": {
+        "Family": "Heartland (a working label)",
+        "Where": "Highridge Plateau",
+        "Intelligibility": "Within a family, neighbors half-understand each other; across families there is no understanding without learning.",
+        "Note": "The most mixed member of its family: the earlier notes describe it as Heartland Tongue with borrowed terms from every neighbor, and Highridge is highly multilingual in practice."
+      },
+      "fact_src": {
+        "Family": "Culture/Language-and-Thought.md#language-families",
+        "Where": "Culture/Language-and-Thought.md#language-families",
+        "Intelligibility": "Culture/Language-and-Thought.md#language-families",
+        "Note": "Culture/Language-and-Thought.md#language-families"
+      }
+    },
+    {
+      "id": "lang-deepwood",
+      "kind": "language",
+      "label": "Deepwood languages",
+      "status": "Working canon",
+      "lane": "deepwood",
+      "section": "Languages",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "text": "Deepwood languages: the Deepwood family, spoken in Deepwood.",
+      "short_text": "Deepwood family.",
+      "facts": {
+        "Family": "Deepwood (a working label)",
+        "Where": "Deepwood",
+        "Intelligibility": "Within a family, neighbors half-understand each other; across families there is no understanding without learning.",
+        "Note": "Unrelated to the other families and the hardest for outsiders, which reinforces Deepwood's reputation for closedness without making its people mysterious."
+      },
+      "fact_src": {
+        "Family": "Culture/Language-and-Thought.md#language-families",
+        "Where": "Culture/Language-and-Thought.md#language-families",
+        "Intelligibility": "Culture/Language-and-Thought.md#language-families",
+        "Note": "Culture/Language-and-Thought.md#language-families"
+      }
+    },
+    {
+      "id": "lang-trade",
+      "kind": "language",
+      "label": "Trade Tongue",
+      "status": "Working canon",
+      "lane": "port",
+      "section": "Languages",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "text": "Trade Tongue: a contact language, spoken in Port, the caravan routes and border markets.",
+      "short_text": "A contact language.",
+      "facts": {
+        "Family": "none (a contact language)",
+        "Where": "Port, the caravan routes and border markets",
+        "Intelligibility": "A bridge between all families.",
+        "Note": "A simplified contact language with pidgin and creole forms; words for money, shipping and contracts are heavily borrowed from Ironet, greetings and food words from Heartland Tongue or the Sunplains languages. Traders, caravan crews, dock workers and clerks speak it; many farmers and forest villagers don't."
+      },
+      "fact_src": {
+        "Family": "Culture/Language-and-Thought.md#language-families",
+        "Where": "Culture/Language-and-Thought.md#language-families",
+        "Intelligibility": "Culture/Language-and-Thought.md#language-families",
+        "Note": "Culture/Language-and-Thought.md#language-families"
+      }
+    },
+    {
+      "id": "lang-oldspine",
+      "kind": "language",
+      "label": "Old Spine speech",
+      "status": "Working canon",
+      "lane": "spine",
+      "section": "Languages",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "text": "An older language from before the present families, surviving only in place names along The Spine.",
+      "short_text": "An older substrate.",
+      "facts": {
+        "Family": "none (an older substrate)",
+        "Where": "only in place names along The Spine",
+        "Intelligibility": "Nobody speaks it.",
+        "Note": "Nobody speaks it now. It survives in mountain, pass, spring and Underpass names that no living language can explain, and in names each side of a border translates differently."
+      },
+      "fact_src": {
+        "Family": "Culture/Language-and-Thought.md#language-families",
+        "Where": "Culture/Language-and-Thought.md#language-families",
+        "Intelligibility": "Culture/Language-and-Thought.md#language-families",
+        "Note": "Culture/Language-and-Thought.md#language-families"
+      }
     }
   ],
   "edges": [
@@ -1177,6 +1416,161 @@
       "goods": "winter work, fairs",
       "chip": "Circuit may include",
       "chipBack": "Nomad circuit"
+    },
+    {
+      "from": "lang-northic",
+      "to": "northwind-culture",
+      "layer": "lang",
+      "type": "is spoken by",
+      "basis": "stated",
+      "quote": "Northic (Northwind)",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "chip": "Spoken by",
+      "chipBack": "Language"
+    },
+    {
+      "from": "lang-ironet",
+      "to": "ironcrest-culture",
+      "layer": "lang",
+      "type": "is spoken by",
+      "basis": "stated",
+      "quote": "Ironet (Ironcrest)",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "chip": "Spoken by",
+      "chipBack": "Language"
+    },
+    {
+      "from": "lang-heartland",
+      "to": "greenvale-culture",
+      "layer": "lang",
+      "type": "is spoken by",
+      "basis": "stated",
+      "quote": "Heartland Tongue (Greenvale)",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "chip": "Spoken by",
+      "chipBack": "Language"
+    },
+    {
+      "from": "lang-sunplains",
+      "to": "sunplains-culture",
+      "layer": "lang",
+      "type": "is spoken by",
+      "basis": "stated",
+      "quote": "the Sunplains city languages",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "chip": "Spoken by",
+      "chipBack": "Language"
+    },
+    {
+      "from": "lang-plateau",
+      "to": "highridge-culture",
+      "layer": "lang",
+      "type": "is spoken by",
+      "basis": "stated",
+      "quote": "Highridge's plateau speech",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "chip": "Spoken by",
+      "chipBack": "Language"
+    },
+    {
+      "from": "lang-deepwood",
+      "to": "deepwood-culture",
+      "layer": "lang",
+      "type": "is spoken by",
+      "basis": "stated",
+      "quote": "the Deepwood languages",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "chip": "Spoken by",
+      "chipBack": "Language"
+    },
+    {
+      "from": "lang-trade",
+      "to": "port-culture",
+      "layer": "lang",
+      "type": "is spoken by",
+      "basis": "stated",
+      "quote": "Trade Tongue",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "chip": "Spoken by",
+      "chipBack": "Language"
+    },
+    {
+      "from": "lang-northic",
+      "to": "lang-ironet",
+      "layer": "lang",
+      "type": "shares a family with",
+      "basis": "stated",
+      "quote": "Northic** (Northwind); **Ironet** (Ironcrest)",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "chip": "Same family",
+      "chipBack": "Same family",
+      "chipNote": "half-understood",
+      "chipNoteBack": "half-understood"
+    },
+    {
+      "from": "lang-sunplains",
+      "to": "lang-heartland",
+      "layer": "lang",
+      "type": "shares a family with",
+      "basis": "stated",
+      "quote": "Heartland Tongue** (Greenvale); the **Sunplains** city languages",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "chip": "Same family",
+      "chipBack": "Same family",
+      "chipNote": "half-understood",
+      "chipNoteBack": "half-understood"
+    },
+    {
+      "from": "lang-plateau",
+      "to": "lang-heartland",
+      "layer": "lang",
+      "type": "shares a family with",
+      "basis": "stated",
+      "quote": "Highridge's **plateau speech",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "chip": "Same family",
+      "chipBack": "Same family",
+      "chipNote": "half-understood",
+      "chipNoteBack": "half-understood"
+    },
+    {
+      "from": "lang-trade",
+      "to": "lang-ironet",
+      "layer": "lang",
+      "type": "borrows money and contract words from",
+      "basis": "stated",
+      "quote": "Words for money, shipping and contracts are heavily borrowed from Ironet",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "chip": "Borrows from",
+      "chipBack": "Lends to",
+      "chipNote": "money, shipping, contracts",
+      "chipNoteBack": "money, shipping, contracts"
+    },
+    {
+      "from": "lang-trade",
+      "to": "lang-heartland",
+      "layer": "lang",
+      "type": "borrows greetings and food words from",
+      "basis": "stated",
+      "quote": "greetings and food words often come from Heartland Tongue or the Sunplains languages",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "chip": "Borrows from",
+      "chipBack": "Lends to",
+      "chipNote": "greetings, food words",
+      "chipNoteBack": "greetings, food words"
+    },
+    {
+      "from": "lang-oldspine",
+      "to": "spine",
+      "layer": "lang",
+      "type": "survives in place names of",
+      "basis": "stated",
+      "quote": "an older language was spoken along The Spine and its passes",
+      "src": "Culture/Language-and-Thought.md#language-families",
+      "chip": "Survives in",
+      "chipBack": "Languages",
+      "chipNote": "place names only",
+      "chipNoteBack": "Old Spine speech in place names"
     }
   ],
   "gaps": [
@@ -1193,6 +1587,7 @@
     "No festivals are named for border towns, nomads or fairs, though Harveston Vale keeps festivals built around several harvest calendars and the nomad page mentions moving between fairs and Port's major fairs.",
     "Port's 'occupations found nowhere else at the same scale' aren't named.",
     "Root Cellar Night remembers the Seven-year Blight; it will connect when Part 5 (History) is built.",
-    "Religion (Part 4) is only hinted at here: Solstice Lanterns says different faiths explain it differently, Port has blended religious practice, and several festivals imply rites. They'll connect when Part 4 is built."
+    "Religion (Part 4) is only hinted at here: Solstice Lanterns says different faiths explain it differently, Port has blended religious practice, and several festivals imply rites. They'll connect when Part 4 is built.",
+    "**Languages now have families, but not full names or name systems.** The families (Northern, Heartland, Deepwood), Trade Tongue and Old Spine speech were settled on 2026-09-29. Still open: personal-name systems, the names of the Sunplains and Deepwood languages, and what Old Spine speech was called. Border towns have no stated language mix of their own beyond the families of their two sides."
   ]
 }

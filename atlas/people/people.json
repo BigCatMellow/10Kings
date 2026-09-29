@@ -335,23 +335,26 @@
     {
       "id": "pp-families",
       "kind": "core",
-      "label": "The Council families",
+      "label": "The Council houses",
       "status": "No status label",
       "lane": "cast",
       "section": "Main cast",
       "src": "Story/Character-Roster.md#the-economic-council-families",
-      "text": "Not a single character but a cast of powerful family representatives with conflicting economic domains.",
-      "short_text": "A cast of family representatives, none named.",
+      "text": "Six houses, one per seat: Marielle, Drathain, Veynor, Torradon, Luthain and Rhaelen (Working canon, 2026-09-29). Their named members come from earlier notes and are Provisional.",
+      "short_text": "Marielle, Drathain, Veynor, Torradon, Luthain, Rhaelen.",
       "facts": {
-        "Role": "Not a single character but a cast of powerful family representatives with conflicting economic domains.",
+        "Role": "Not a single character but a cast of powerful family representatives with conflicting economic domains: six houses, one per seat, each from a home region it doesn't represent.",
         "Factions": "Each family also has heirs, factions, clients and private ambitions.",
-        "Open questions": "Family names and origins; how seats are inherited, selected, purchased or contested."
+        "Open questions": "How seats are inherited, selected, purchased or contested."
       },
       "fact_src": {
-        "Role": "Story/Character-Roster.md#the-economic-council-families",
+        "Role": "Politics/Economic-Council.md#the-six-houses",
         "Factions": "Politics/Economic-Council.md#internal-conflict",
         "Open questions": "Open-Questions.md#economic-council"
-      }
+      },
+      "see": [
+        "Politics/Economic-Council.md#the-six-houses"
+      ]
     },
     {
       "id": "pp-orin",
@@ -2116,7 +2119,7 @@
   "gaps": [
     "**The Villain has no identity yet.** Open Questions: his name, homeland or people, exact grievance, exact end-state, the point where his methods become unacceptable even to sympathetic readers, and whether he knows the full Council structure at the start.",
     "**Wurdren has no biography.** His age, history, why his adventuring life fell short, family and relationships, what he first believes about the Council, and where his journey begins are all open. His only concrete scene so far is a Sunday Morning story, which is not canon.",
-    "**No Council family or member is named.** The roster treats them as \"a cast of powerful family representatives\", but no family, heir or representative has a name, and how seats pass between them is open.",
+    "**The Council houses have names but no stories.** Six houses were settled on 2026-09-29, and twelve earlier-note members are listed on the Economic Council page as Provisional, but none has a biography, an heir question or a link to any other person, and how seats pass between them is still open.",
     "**The six domino figures are provisional** \"pending final naming systems\", and none is tied to an office, guild or place beyond their region; their institution links here are inferred and off by default. Orin has a rule instead of a stated domino.",
     "**The three Underpass figures are not canon** (Mira Stonebridge, Gharic Coalveil, Ilya Dravencrest), from earlier brainstorming, with nothing else tying them to the Underpass's enclaves, guides or mining.",
     "**The roster's \"the world also needs\" list is filled only by non-canon people.** Clerks, cooks, builders, caravan hands, priests, teachers, farmers, sailors, shopkeepers, labor organizers, criminals, children, minor officials and refugees exist so far only as the Sunday Morning cast.",

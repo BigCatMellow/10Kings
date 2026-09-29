@@ -18,6 +18,7 @@ The setting should make it possible to follow one damaged bridge, missing carava
 
 - [World Overview](World-Overview.md)
 - [World Rules](World-Rules.md)
+- [Magic and Relics](Magic.md)
 - [Geography and Connections](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
 - [Pre-Convergence History](History/Pre-Convergence.md)

@@ -21,9 +21,7 @@ These are important areas where earlier brainstorming produced multiple versions
 
 ## Economic Council
 
-- Final number of seats.
-- Final names/titles of domains.
-- Family names and origins.
+- Final names/titles of domains (the six seats and their houses are now settled).
 - How seats are inherited, selected, purchased, or contested.
 - How old the Council is relative to The Convergence.
 - Which parts of its existence are rumor versus known to elite rulers.
@@ -45,18 +43,10 @@ These are important areas where earlier brainstorming produced multiple versions
 - What he initially believes about politics and the Council.
 - Where his journey begins.
 
-## Magic
-
-- Exact prevalence.
-- Whether some previously discussed "illusions," magical artifacts, special creatures, or supernatural claims are real, misunderstood, religious interpretations, or should be removed.
-- Clear hard limits.
-
 ## Language and naming
 
-- Actual language families.
-- Personal-name systems.
-- Which older languages survive in place names.
-- How mutually intelligible the regions are.
+- Personal-name systems within the language families.
+- The names of the Sunplains and Deepwood languages, and what Old Spine speech was called.
 
 ## Nomadic peoples
 
@@ -67,3 +57,11 @@ These are important areas where earlier brainstorming produced multiple versions
 ## Current events
 
 The events pages preserve the current web of crises, but many were brainstormed rather than formally selected. They should be audited once the map and villain plan are finalized.
+
+## Settled
+
+Questions answered by James on 2026-09-29. The linked pages own the answers.
+
+- **Magic: exact prevalence; whether earlier "illusions", artifacts, creatures and supernatural claims are real; clear hard limits.** Real but deniable: a handful of moral relics whose effects are never confirmed, no spellcasting, creatures are animals, illusions are legend. See [Magic and Relics](Magic.md).
+- **Language: actual language families; which older languages survive in place names; how mutually intelligible the regions are.** A few families (Northern, Heartland, Deepwood), Trade Tongue between them, and Old Spine speech surviving in place names. See [Language families](Culture/Language-and-Thought.md#language-families).
+- **Economic Council: final number of seats; family names and origins.** Six seats held by six houses: Marielle, Drathain, Veynor, Torradon, Luthain and Rhaelen. See [The six houses](Politics/Economic-Council.md#the-six-houses).

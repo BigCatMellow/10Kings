@@ -4,6 +4,7 @@
 - [Home](Home.md)
 - [World Overview](World-Overview.md)
 - [World Rules](World-Rules.md)
+- [Magic and Relics](Magic.md)
 - [Geography](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
 - [Open Questions](Open-Questions.md)

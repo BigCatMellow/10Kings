@@ -4,6 +4,8 @@ The world currently contains nine major trans-regional traditions. They do not m
 
 Each faith should have local schools, reform movements, institutions, charities, political interests, and internal disputes.
 
+Some communities keep old relics said to answer honesty or care; whether any of them does anything is never confirmed. See [Magic and Relics](../Magic.md#relics).
+
 ## 1. The Cyclic Order
 
 Core: existence moves through cycles of birth, death, renewal, time, balance, and moral consequence.

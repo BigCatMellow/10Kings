@@ -185,8 +185,8 @@ The import did **not** settle these:
 - exact continental map and Port location;
 - exact pre-Convergence chronology;
 - final mythology/peoples model where legacy material conflicts with the twin-suns/current-world framing;
-- final Council seat names, membership and inheritance;
-- final magic prevalence and artifact rules;
+- final Council seat names, membership and inheritance (seat count and houses settled 2026-09-29, §12; inheritance still open);
+- final magic prevalence and artifact rules (settled 2026-09-29, §12);
 - which named festivals, wars, towns and dishes graduate from provisional texture into established canon.
 
 Do not promote them merely because an old compendium states them confidently.
@@ -286,4 +286,24 @@ Reconciliation notes:
 - Author voice guide, same day: James supplied an in-depth analysis of his writing style (`Aspirational Author Voice Handoff`, SHA-256 `a2542d19f98e1afcb1ed842fd85d157e823d847f229894d2ce129fdae85cd75d`). It is reproduced verbatim in [Author Voice Guide](../Sunday-Morning/Notes/Sources/Voice-Guide.md) and is the authority on how the prose sounds; the sample-chapter notes, now on [Craft](../Sunday-Morning/Notes/Craft.md#voice), are secondary. Classification: **compatible**, about craft only, with no setting facts. It corrects the earlier notes' overweighting of fragments.
 - Notes reorganized, 2026-09-28, at James's request: the nine flat Sunday Morning note pages were consolidated into [Sunday Morning Notes](../Sunday-Morning/Notes/README.md), one owner per concept under MAPS_L's information lifecycle. Both imported sources (the framework and the voice guide) moved unchanged to `Sunday-Morning/Notes/Sources/`. Duplicated rules, lessons, reading orders and check logs were merged into their owners; the old-to-new page map is in [History](../Sunday-Morning/Notes/History.md#where-the-old-pages-went). No content about the setting changed.
 - Spoken-register research, 2026-09-28 to 29, at James's request (he was told he "wrote how people talked"; the drafts lacked it). Web sources, read only: [Uncle Charles Principle (Wikipedia)](https://en.wikipedia.org/wiki/Uncle_Charles_Principle) (Hugh Kenner, *Joyce's Voices*: the narrator's vocabulary taking on a character's idiom); [Story Street Writers on the Uncle Charles principle](https://storystreetwriters.com/writing-craft/mind-the-gap-how-the-uncle-charles-principle-and-its-adaptations-can-close-the-gap-between-narrator-and-reader-in-different-narrative-points-of-view/); [Elmore Leonard's 10 Rules of Writing](https://www.themarginalian.org/2013/08/21/elmore-leonard-10-rules-of-writing/) ("If it sounds like writing, I rewrite it"; dialect sparingly); [Kathy Steinemann on contractions](https://kathysteinemann.com/Musings/contractions/). Classification: **compatible**, craft only, with no setting facts. Adapted in [Craft: Write how people talk](../Sunday-Morning/Notes/Craft.md#write-how-people-talk); the checker now reports uncontracted forms in narration.
+
+
+### 12. 2026-09-29 thin areas settled: magic, language families, Council houses
+
+**Source:** James's decisions on 2026-09-29, made after the Atlas's project-health view showed these as the thinnest areas. Each was chosen from options drawn from the 2026-09-22 import, which already held earlier versions of all three.
+
+| Area | James chose | Earlier material used | Now owned by |
+| --- | --- | --- | --- |
+| Magic | **Real but deniable** (over "rare and real" and "no magic") | `direct-uploads/Two_Sons_-_Complete_Reference.md` ("The Magic / Artifact System"); `consolidated-package/06_Religion_Gods_Artifacts.md` (Part 5, Religious Artifacts); `consolidated-package/01_Foundations_World_Myth_History.md` ("Magic, Artifacts, and Technological Realism") | [Magic and Relics](../Magic.md) |
+| Language families | **A few families** with Trade Tongue and an older substrate in place names (over "six separate languages" and "one ancestor, now dialects") | `consolidated-package/07_Linguistics.md` (the names Ironet, Northic, Heartland Tongue, Trade Tongue; Highridge speech as Heartland Tongue plus borrowings; Trade Tongue borrowing money and contract words from Ironet) | [Language families](../Culture/Language-and-Thought.md#language-families) |
+| Council houses | **Six seats; the six earlier houses, with Drathain moved from Labor to Materials** (over "seven seats" and "rename one") | `consolidated-package/08_Power_The_Council_Guilds_Underworld.md` ("The Council - The Families") | [The six houses](../Politics/Economic-Council.md#the-six-houses) |
+
+Disposition: the three decisions are **Working canon**; the named relics, the named Council members and the family labels (Northern, Heartland) are **Provisional**.
+
+Classification and reconciliation:
+
+- **Magic: conflicting, resolved by James.** The import's vision of real, moral relics conflicted with the wiki's naturalistic pages. "Real but deniable" keeps both: relics may do something, but nothing is confirmed. The import's illusions, sects and "dream-knife" legends became legend; its creatures became misidentified animals; its mystical armies, forest mages and living-root peoples (Verdant Host, Rootkin and similar) are **removed**, because they conflict with the low-fantasy frame. The two named relics kept as examples (the Quill of Saint Othriel, the Chalice of Mother Amalthea) are Provisional.
+- **Languages: compatible, extended.** The import named four languages and treated regional speech mainly as accents and slang; its accent and dialect sketches are not adopted, because [Language and Thought](../Culture/Language-and-Thought.md) prefers grammar habits over accents. The families, the intelligibility rule and Old Spine speech are new structure built around the imported names.
+- **Council: compatible with one change.** The import's six houses matched five current seats directly. Its titles (Duke, Lord, Lady) and its rival seat schemes (the "Kings" of Blaze, Frost, Stone, Sky, Dawn and Night; the "Dominions" of Iron & War and so on) were **not** adopted; they stay in the import as history. Home regions are recorded as origin only, since the Council represents no kingdom.
+- **Offered and declined for now:** the import also answers two other open questions (Wurdren in his late fifties, from a farming family, widowed, children drifted, carrying a plain sword engraved with their names; and "Arivel" as a placeholder Villain name). James chose to leave both open on 2026-09-29. They remain in `direct-uploads/Two_Sons_-_Complete_Reference.md` and `consolidated-package/11_Story_Core_Characters_Villain.md`. Note that the import's Villain comes from Port and is unaware of the Council, which conflicts with [Villain](../Story/Villain.md).
 
