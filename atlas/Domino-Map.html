@@ -1,0 +1,351 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><style>html,body{margin:0}</style></head><body>
+<title>Domino Map</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Public+Sans:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+/* Layout: a war-room board. Regions are columns, cause flows downward, stories hang off the dominoes they sit on. Detail panel docks right (below on phones). */
+:root {
+  --bg: #f3f5f3;
+  --surface: #ffffff;
+  --ink: #1b2420;
+  --muted: #5d6964;
+  --line: #d4dad6;
+  --lane: #e9ede9;
+  --edge: #7d8a84;
+  --edge-story: #b4690e;
+  --story: #0f766e;
+  --story-ink: #ffffff;
+  --touched: #d3ece8;
+  --touched-ink: #0b3b36;
+  --seed: #b45309;
+  --seed-bg: #fdf0dc;
+  --open: #8a938f;
+  --saga: #6d4f82;
+  --focus: #0f766e;
+  --font-display: "Barlow Condensed", "Arial Narrow", "Roboto Condensed", sans-serif;
+  --font-body: "Public Sans", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #111614; --surface: #1a211e; --ink: #e2e8e4; --muted: #9aa7a1; --line: #2f3a35; --lane: #161c19;
+    --edge: #8d9b95; --edge-story: #e0a04e; --story: #17796d; --story-ink: #f0fffc; --touched: #173a35; --touched-ink: #bfe6df;
+    --seed: #e8a150; --seed-bg: #2e2211; --open: #6f7a75; --saga: #b594cc; --focus: #3cc4b3; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #111614; --surface: #1a211e; --ink: #e2e8e4; --muted: #9aa7a1; --line: #2f3a35; --lane: #161c19;
+  --edge: #8d9b95; --edge-story: #e0a04e; --story: #17796d; --story-ink: #f0fffc; --touched: #173a35; --touched-ink: #bfe6df;
+  --seed: #e8a150; --seed-bg: #2e2211; --open: #6f7a75; --saga: #b594cc; --focus: #3cc4b3; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 14px; line-height: 1.45; }
+.wrap { padding-inline: 16px; padding-block: 20px 40px; max-width: 1600px; margin: 0 auto; }
+header.top { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 12px 24px; margin-bottom: 14px; }
+h1 { font-family: var(--font-display); font-weight: 700; font-size: 2.1rem; letter-spacing: .01em; margin: 0; line-height: 1; text-wrap: balance; }
+.sub { color: var(--muted); margin: 4px 0 0; max-width: 62ch; }
+.stats { display: flex; flex-wrap: wrap; gap: 8px; }
+.stat { display: flex; align-items: center; gap: 8px; padding: 6px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); font-variant-numeric: tabular-nums; }
+.stat b { font-family: var(--font-display); font-size: 1.35rem; line-height: 1; }
+.stat span { color: var(--muted); font-size: 12px; }
+.sw { width: 12px; height: 12px; border-radius: 3px; flex: none; border: 1.5px solid transparent; }
+.sw.story { background: var(--story); }
+.sw.touched { background: var(--touched); border-color: var(--story); }
+.sw.seed { background: var(--seed-bg); border-color: var(--seed); }
+.sw.open { background: var(--surface); border: 1.5px dashed var(--open); }
+.controls { display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: center; margin: 4px 0 12px; color: var(--muted); font-size: 13px; }
+.controls label { display: inline-flex; align-items: center; gap: 6px; cursor: pointer; }
+.controls input { accent-color: var(--story); }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; align-items: center; }
+.legend i { display: inline-block; width: 28px; height: 0; border-top: 2px solid var(--edge); vertical-align: middle; margin-right: 6px; }
+.legend i.dash { border-top: 2px dashed var(--edge-story); }
+.layout { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 16px; align-items: start; }
+@media (max-width: 960px) { .layout { grid-template-columns: minmax(0, 1fr); } }
+.board { position: relative; overflow: auto; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); max-height: 78vh; }
+.canvas { position: relative; }
+.lane { position: absolute; top: 0; bottom: 0; z-index: 0; background: var(--lane); border-radius: 6px; }
+.lane h3 { position: sticky; top: 0; margin: 0; padding: 8px 10px 6px; font-family: var(--font-display); font-weight: 600; font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); background: var(--lane); z-index: 2; border-radius: 6px 6px 0 0; }
+svg.edges { position: absolute; inset: 0; pointer-events: none; overflow: visible; z-index: 1; }
+svg.edges path { fill: none; stroke: var(--edge); stroke-width: 1.5; opacity: .7; transition: opacity .15s, stroke-width .15s; }
+svg.edges path.story { stroke: var(--edge-story); stroke-dasharray: 5 4; }
+svg.edges path.hot { opacity: 1; stroke-width: 2.4; }
+svg.edges path.cold { opacity: .08; }
+svg.edges marker path { fill: var(--edge); stroke: none; opacity: 1; }
+svg.edges marker.story path { fill: var(--edge-story); }
+.node { position: absolute; width: 158px; text-align: left; font: inherit; color: var(--ink); background: var(--surface); border: 1.5px dashed var(--open); border-radius: 6px; padding: 7px 9px 8px; cursor: pointer; transition: opacity .15s, box-shadow .15s, transform .15s; z-index: 2; }
+.node:hover { transform: translateY(-1px); box-shadow: 0 2px 10px rgb(0 0 0 / .12); }
+.node:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.node .k { display: block; font-family: var(--font-display); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.node .l { display: block; font-weight: 600; font-size: 13px; line-height: 1.3; margin-top: 1px; }
+.node.figure { border-radius: 18px; padding-inline: 12px; }
+.node.figure .l { font-style: italic; }
+.node.status-story { background: var(--story); color: var(--story-ink); border: 1.5px solid var(--story); }
+.node.status-story .k { color: color-mix(in srgb, var(--story-ink) 75%, transparent); }
+.node.status-touched { background: var(--touched); color: var(--touched-ink); border: 1.5px solid var(--story); }
+.node.status-touched .k { color: var(--touched-ink); opacity: .75; }
+.node.status-seed { background: var(--seed-bg); border: 1.5px solid var(--seed); }
+.node.saga { border-color: var(--saga); border-style: dashed; }
+.node.saga .k::after { content: " · saga"; color: var(--saga); }
+.node .badges { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
+.badge { font-size: 11px; line-height: 1.25; padding: 2px 6px; border-radius: 4px; background: color-mix(in srgb, var(--surface) 88%, transparent); color: var(--ink); border: 1px solid var(--line); }
+.status-story .badge { background: rgb(255 255 255 / .92); color: #0b3b36; border-color: transparent; }
+.badge.seed { border-color: var(--seed); color: var(--seed); background: transparent; }
+.badge.touch { background: transparent; }
+.dim .node:not(.hot) { opacity: .25; }
+.gaps .node.status-story, .gaps .node.status-touched { opacity: .22; }
+.gaps .node.status-open:not(.saga) { box-shadow: 0 0 0 3px color-mix(in srgb, var(--seed) 45%, transparent); }
+.node.hot { opacity: 1 !important; box-shadow: 0 0 0 3px var(--focus); }
+.node.sel { box-shadow: 0 0 0 3px var(--focus), 0 6px 18px rgb(0 0 0 / .18); }
+aside.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px 16px; position: sticky; top: env(safe-area-inset-top, 0px); max-height: 78vh; overflow: auto; min-width: 0; }
+.panel h2 { font-family: var(--font-display); font-weight: 700; font-size: 1.5rem; margin: 2px 0 6px; line-height: 1.1; text-wrap: balance; }
+.panel .eyebrow { font-family: var(--font-display); letter-spacing: .08em; text-transform: uppercase; font-size: 12px; color: var(--muted); }
+.panel h4 { font-family: var(--font-display); font-weight: 600; letter-spacing: .06em; text-transform: uppercase; font-size: 12px; color: var(--muted); margin: 14px 0 6px; }
+.panel ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+.panel li button, .panel li a.row { display: flex; gap: 8px; align-items: baseline; width: 100%; text-align: left; font: inherit; color: var(--ink); background: none; border: 0; padding: 4px 6px; border-radius: 4px; cursor: pointer; text-decoration: none; }
+.panel li button:hover, .panel li a.row:hover { background: var(--lane); }
+.panel li button { flex-wrap: wrap; justify-content: space-between; }
+.panel li .tag { font-size: 11px; color: var(--edge-story); }
+.panel .card { border: 1px solid var(--line); border-radius: 6px; padding: 8px 10px; margin-top: 6px; }
+.panel .card p { margin: 4px 0 0; color: var(--muted); font-size: 13px; }
+.panel a { color: var(--focus); }
+.pill { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--line); }
+.below { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; margin-top: 18px; }
+.below section { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; min-width: 0; }
+.below h2 { font-family: var(--font-display); font-size: 1.2rem; margin: 0 0 8px; }
+.below ol, .below ul { margin: 0; padding-left: 1.2em; display: grid; gap: 4px; }
+.below button.link { background: none; border: 0; padding: 0; font: inherit; color: var(--ink); text-align: left; cursor: pointer; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.below button.link:hover { text-decoration-color: var(--focus); }
+.below .meta { color: var(--muted); font-size: 12px; }
+.note { color: var(--muted); font-size: 12px; margin-top: 10px; }
+@media (prefers-reduced-motion: reduce) { .node, svg.edges path { transition: none; } }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>Domino Map</h1>
+      <p class="sub">The Villain's dominoes and the world's current events in Two Sons, with every Sunday Morning story and seed placed on the domino it sits on. Click a domino or a story.</p>
+    </div>
+    <div class="stats" id="stats"></div>
+  </header>
+  <div class="controls">
+    <label><input type="checkbox" id="optGaps"> Spotlight open dominoes</label>
+    <label><input type="checkbox" id="optStory" checked> Show story-design arrows</label>
+    <span class="legend"><span><i></i>stated in the wiki</span><span><i class="dash"></i>set by the story design</span></span>
+  </div>
+  <div class="layout">
+    <div class="board" id="board"><div class="canvas" id="canvas"><svg class="edges" id="edges"></svg></div></div>
+    <aside class="panel" id="panel" aria-live="polite"></aside>
+  </div>
+  <div class="below">
+    <section><h2>Stories and seeds</h2><ol id="storyList"></ol></section>
+    <section><h2>Open dominoes</h2><ul id="gapList"></ul><p class="note">Ground-level dominoes with no story, touch or seed yet. Saga dominoes belong to the main saga and aren't counted.</p></section>
+    <section><h2>Links between stories</h2><ul id="linkList"></ul></section>
+  </div>
+</div>
+
+<script>
+const DATA = {"about": "Source data for the Domino Map. Edit this file, then run: python3 tools/domino_map.py. It regenerates Notes/Domino-Map.md and the interactive map. Nodes are dominoes: current events, character dominoes, and ripple-chain steps. scale 'ground' = a Sunday Morning story can live here; 'saga' = belongs to the main saga, which Sunday Morning stories only feel from the ground. Edge basis: 'canon' = stated on a wiki owner page; 'story' = set by the Sunday Morning collection design (provisional).", "regions": ["Northwind", "Port", "Greenvale", "Ironcrest", "Highridge", "Deepwood", "Sunplains", "Spine & Underpass", "Across regions"], "nodes": [{"id": "nw-piracy", "region": "Northwind", "kind": "event", "scale": "ground", "label": "Piracy rises", "text": "Raids are increasing along the coast. Ripple chain step 1: shipping risk rises.", "src": "Story/Current-Events.md#piracy-and-convoy-politics"}, {"id": "nw-convoy", "region": "Northwind", "kind": "event", "scale": "ground", "label": "Convoy patrols and trusted-cove lists", "text": "Defensive convoy politics. What looks defensive to Northwind can look like maritime militarization to Sunplains or Port merchants.", "src": "Story/Current-Events.md#piracy-and-convoy-politics"}, {"id": "fig-maris", "region": "Northwind", "kind": "figure", "scale": "ground", "label": "Maris Bleakshore", "text": "Respected coastal leader shaped by piracy and loss. Pushed with credible but selectively framed intelligence, so defensive action looks necessary.", "src": "Story/Villains-Dominoes.md#maris-bleakshore--northwind"}, {"id": "nw-fish", "region": "Northwind", "kind": "event", "scale": "ground", "label": "Fish stocks shift", "text": "Some fisheries are declining or moving: price rises, clan disputes, illegal fishing, pressure for new agreements.", "src": "Story/Current-Events.md#fish-stocks-and-access"}, {"id": "pt-credit", "region": "Port", "kind": "event", "scale": "ground", "label": "Shipping losses; credit and insurance tighten", "text": "Merchant conflict: losses, insurance disputes, warehouse fires. Ripple chain step 2: Port insurance and credit tighten.", "src": "Story/Current-Events.md#merchant-conflict"}, {"id": "pt-smuggling", "region": "Port", "kind": "event", "scale": "ground", "label": "Smuggling surge", "text": "Higher prices and disrupted routes raise demand for illegal transport.", "src": "Story/Current-Events.md#smuggling-surge"}, {"id": "pt-refugees", "region": "Port", "kind": "event", "scale": "ground", "label": "Displaced families arrive", "text": "People displaced by border and economic crises arrive faster than housing and charity can absorb them.", "src": "Story/Current-Events.md#refugeeworker-pressure"}, {"id": "fig-rosana", "region": "Greenvale", "kind": "figure", "scale": "ground", "label": "Rosana Meadowcroft", "text": "Seed steward working on crop resilience. Pushed by funding her research, creating distribution bottlenecks and letting rivals overreact.", "src": "Story/Villains-Dominoes.md#rosana-meadowcroft--greenvale"}, {"id": "gv-abundance", "region": "Greenvale", "kind": "event", "scale": "ground", "label": "Bumper harvest won't sell", "text": "A new strain and good weather bring huge yields; prices fall, storage fills, merchants delay, rumors say the grain is unsafe. Ripple chain steps 3 and 4.", "src": "Story/Current-Events.md#abundance-crisis"}, {"id": "gv-default", "region": "Greenvale", "kind": "chain", "scale": "ground", "label": "Farmers default", "text": "Ripple chain step 5: poorer farmers can't cover their debts.", "src": "Story/Current-Events.md#example-ripple-chain"}, {"id": "gv-land", "region": "Greenvale", "kind": "event", "scale": "ground", "label": "Consolidators buy distressed farms", "text": "Large interests acquire failing farms; an agricultural innovation becomes a political fight over control. Ripple chain step 7.", "src": "Story/Current-Events.md#land-and-seed-politics"}, {"id": "gv-reformers", "region": "Greenvale", "kind": "chain", "scale": "ground", "label": "Reformers call it coordinated theft", "text": "Ripple chain step 8: religious and guild reformers accuse the buyers of engineering the crisis.", "src": "Story/Current-Events.md#example-ripple-chain"}, {"id": "fig-orin", "region": "Ironcrest", "kind": "figure", "scale": "ground", "label": "Orin Slatehallow", "text": "Talented young metalworker. Pushed with anonymous funding and selective obstruction until he depends on a benefactor.", "src": "Story/Villains-Dominoes.md#orin-slatehallow--ironcrest"}, {"id": "ic-metal", "region": "Ironcrest", "kind": "event", "scale": "ground", "label": "Good metal vanishing into private contracts", "text": "High-quality metal is being redirected. Observers blame smuggling, war preparation, corrupt guild masters or foreign buyers.", "src": "Story/Current-Events.md#unusual-metal-movements"}, {"id": "ic-hours", "region": "Ironcrest", "kind": "chain", "scale": "ground", "label": "Tool orders fall; workshops cut hours", "text": "Ripple chain steps 9 and 10: protests hit tool orders from Ironcrest, and workshops reduce hours.", "src": "Story/Current-Events.md#example-ripple-chain"}, {"id": "ic-labor", "region": "Ironcrest", "kind": "event", "scale": "ground", "label": "Labor unrest; strike talk", "text": "Workers organize around wages, safety, debt and guild control. Ripple chain step 11: strike leaders blame owners.", "src": "Story/Current-Events.md#labor-unrest"}, {"id": "hr-attacks", "region": "Highridge", "kind": "event", "scale": "ground", "label": "Caravan attacks", "text": "Attacks and disappearances make some routes seem unreliable.", "src": "Story/Current-Events.md#caravan-attacks"}, {"id": "fig-samir", "region": "Highridge", "kind": "figure", "scale": "ground", "label": "Samir Tareh", "text": "Caravan negotiator seeking fair, predictable routes. Given true information about dangers, but not who created them.", "src": "Story/Villains-Dominoes.md#samir-tareh--highridge"}, {"id": "hr-routes", "region": "Highridge", "kind": "event", "scale": "ground", "label": "Trade concentrates on 'safe' routes", "text": "Trade is redirected; bypassed towns suffer at once, and the concentrated route becomes strategically vulnerable.", "src": "Story/Current-Events.md#caravan-attacks"}, {"id": "hr-debate", "region": "Highridge", "kind": "event", "scale": "ground", "label": "Debates tied to patrons", "text": "Highridge intellectual disputes are increasingly tied to real patrons and commercial interests.", "src": "Story/Current-Events.md#political-debate"}, {"id": "dw-road", "region": "Deepwood", "kind": "event", "scale": "ground", "label": "Road and logging plans", "text": "New extraction or infrastructure proposals cross disputed local boundaries; some are legal under old treaties.", "src": "Story/Current-Events.md#logging-and-road-conflict"}, {"id": "fig-naruin", "region": "Deepwood", "kind": "figure", "scale": "ground", "label": "Naruin Mossglade", "text": "Forest warden defending local rights. Pushed by leaking real Council-backed plans without context.", "src": "Story/Villains-Dominoes.md#naruin-mossglade--deepwood"}, {"id": "dw-leak", "region": "Deepwood", "kind": "event", "scale": "ground", "label": "Plans leak; wardens ready to block", "text": "Preemptive defense: a local conservation dispute on its way to becoming an inter-regional sovereignty crisis.", "src": "Story/Villains-Dominoes.md#naruin-mossglade--deepwood"}, {"id": "dw-fungal", "region": "Deepwood", "kind": "event", "scale": "ground", "label": "Fungal blight on forest foods", "text": "A disease or ecological change hits important forest foods; natural, accidental or exploited.", "src": "Story/Current-Events.md#fungalecological-disruption"}, {"id": "sp-drought", "region": "Sunplains", "kind": "event", "scale": "ground", "label": "Drought anxiety", "text": "Water isn't scarce everywhere yet, but fear drives hoarding, canal guards, secret agreements and speculation.", "src": "Story/Current-Events.md#drought-anxiety"}, {"id": "fig-bahriyya", "region": "Sunplains", "kind": "figure", "scale": "ground", "label": "Bahriyya Nazar", "text": "Reformist diplomat coordinating city-states around water and trade. Her coordination is secretly helped, then made to look expansionist.", "src": "Story/Villains-Dominoes.md#bahriyya-nazar--sunplains"}, {"id": "sp-coalition", "region": "Sunplains", "kind": "event", "scale": "ground", "label": "City-states coordinate", "text": "Some leaders try to cooperate; rivals read it as the start of a dominant bloc that justifies counter-alliances.", "src": "Story/Current-Events.md#city-state-coordination"}, {"id": "sx-quake", "region": "Spine & Underpass", "kind": "event", "scale": "ground", "label": "Spine earthquake", "text": "Land movement damages roads and exposes ruins, caves and sealed routes: resource rushes, religious claims, territorial disputes.", "src": "Story/Current-Events.md#earthquakeland-movement"}, {"id": "sx-routewars", "region": "Spine & Underpass", "kind": "event", "scale": "ground", "label": "Underpass route wars", "text": "Collapse and discovery change which enclaves control profitable corridors; smuggling and legitimate trade compete for the same space.", "src": "Story/Current-Events.md#route-wars"}, {"id": "x-council", "region": "Across regions", "kind": "chain", "scale": "saga", "label": "Council steadies the lenders", "text": "Ripple chain step 6: Council finance tries to stabilize lenders. Its countermeasures often solve one problem while creating another.", "src": "Story/Current-Events.md#example-ripple-chain"}, {"id": "x-faiths", "region": "Across regions", "kind": "event", "scale": "ground", "label": "Faiths compare notes", "text": "Faiths begin to read the crises across regions: scholars compare records, Weavers document damage, Compass pilgrims carry rumors.", "src": "Story/Current-Events.md#religious-networks"}, {"id": "x-amplify", "region": "Across regions", "kind": "chain", "scale": "saga", "label": "Villain amplifies 'Council involvement'", "text": "Ripple chain step 12: Villain agents amplify evidence of Council involvement.", "src": "Story/Current-Events.md#example-ripple-chain"}, {"id": "x-proof", "region": "Across regions", "kind": "chain", "scale": "saga", "label": "Local shocks read as proof of enemies", "text": "Ripple chain step 13: a local economic shock becomes proof, in several regions, that another group is acting against them. The road to mobilization and near-war.", "src": "Story/Current-Events.md#example-ripple-chain"}], "edges": [{"from": "nw-piracy", "to": "pt-credit", "basis": "canon", "note": "ripple chain 1→2"}, {"from": "pt-credit", "to": "gv-abundance", "basis": "canon", "note": "ripple chain 2→3: distant grain purchases cancelled"}, {"from": "gv-abundance", "to": "gv-default", "basis": "canon", "note": "ripple chain 4→5"}, {"from": "gv-default", "to": "x-council", "basis": "canon", "note": "ripple chain 5→6"}, {"from": "x-council", "to": "gv-land", "basis": "canon", "note": "ripple chain 6→7"}, {"from": "gv-land", "to": "gv-reformers", "basis": "canon", "note": "ripple chain 7→8"}, {"from": "gv-reformers", "to": "ic-hours", "basis": "canon", "note": "ripple chain 8→9→10: protests hit tool orders"}, {"from": "ic-hours", "to": "ic-labor", "basis": "canon", "note": "ripple chain 10→11: strike leaders blame owners"}, {"from": "ic-labor", "to": "x-amplify", "basis": "canon", "note": "ripple chain 11→12"}, {"from": "x-amplify", "to": "x-proof", "basis": "canon", "note": "ripple chain 12→13"}, {"from": "nw-piracy", "to": "nw-convoy", "basis": "canon", "note": "piracy drives convoy politics"}, {"from": "fig-maris", "to": "nw-convoy", "basis": "canon", "note": "Maris's domino: patrols read elsewhere as aggression"}, {"from": "nw-convoy", "to": "x-proof", "basis": "canon", "note": "read as militarization by Sunplains and Port merchants"}, {"from": "fig-rosana", "to": "gv-abundance", "basis": "canon", "note": "her new strain raises yields"}, {"from": "gv-abundance", "to": "gv-land", "basis": "canon", "note": "Rosana's domino: innovation becomes a fight over control"}, {"from": "fig-orin", "to": "ic-metal", "basis": "canon", "note": "Orin's value: production networks and metal supply"}, {"from": "hr-attacks", "to": "hr-routes", "basis": "canon", "note": "trade redirected; bypassed towns suffer"}, {"from": "fig-samir", "to": "hr-routes", "basis": "canon", "note": "Samir's domino: 'safe' concentration"}, {"from": "hr-routes", "to": "pt-smuggling", "basis": "canon", "note": "route disruption raises demand for illegal transport"}, {"from": "dw-road", "to": "dw-leak", "basis": "canon", "note": "plans leaked without context"}, {"from": "fig-naruin", "to": "dw-leak", "basis": "canon", "note": "Naruin's domino: conservation dispute to sovereignty crisis"}, {"from": "dw-leak", "to": "x-proof", "basis": "canon", "note": "an inter-regional sovereignty crisis"}, {"from": "sp-drought", "to": "sp-coalition", "basis": "canon", "note": "cities coordinate around water"}, {"from": "fig-bahriyya", "to": "sp-coalition", "basis": "canon", "note": "Bahriyya's domino: coalition read as a threat"}, {"from": "sp-coalition", "to": "x-proof", "basis": "canon", "note": "justifies counter-alliances"}, {"from": "sx-quake", "to": "sx-routewars", "basis": "canon", "note": "quake destabilizes the Underpass"}, {"from": "sx-routewars", "to": "pt-smuggling", "basis": "canon", "note": "smuggling and legitimate trade compete for corridors"}, {"from": "x-faiths", "to": "gv-reformers", "basis": "canon", "note": "religious reformers join the accusation"}, {"from": "gv-default", "to": "ic-hours", "basis": "story", "note": "collection shortcut: farms can't buy tools, so tool orders fall"}, {"from": "gv-land", "to": "pt-refugees", "basis": "story", "note": "families from sold farms reach Port"}, {"from": "ic-metal", "to": "ic-hours", "basis": "story", "note": "good steel goes to private contracts while forges go short"}, {"from": "dw-fungal", "to": "pt-refugees", "basis": "story", "note": "blighted villages send cooks onto the caravans"}, {"from": "gv-abundance", "to": "sp-coalition", "basis": "story", "note": "One Square's outward effect: a Sunplains house trading grain with a Greenvale co-op can later be read as a bloc forming"}], "stories": [{"id": "one-square", "title": "One Square, Two Harvests", "kind": "story", "draft": "Sunday-Morning/Drafts/One-Square-Two-Harvests.md", "plan": "Sunday-Morning/Stories/One-Square-Two-Harvests.md", "on": "gv-abundance", "touches": ["gv-land", "fig-rosana"], "when": "Year 1, early autumn", "holds": "The Vale eats its 'unsafe' grain in public; no farm sells to the land agent.", "elsewhere": "Farms elsewhere in Greenvale do sell."}, {"id": "greenvale-man", "title": "The Greenvale Man", "kind": "story", "draft": "Sunday-Morning/Drafts/The-Greenvale-Man.md", "plan": "Sunday-Morning/Stories/The-Greenvale-Man.md", "on": "nw-convoy", "touches": ["nw-piracy", "fig-maris"], "when": "Year 1, late autumn", "holds": "Nobody actually saw Narrow Sound shelter raiders; the coves race anyway.", "elsewhere": "Other coves leave Narrow Sound out of their convoy."}, {"id": "goat-file", "title": "The Goat File", "kind": "story", "draft": "Sunday-Morning/Drafts/The-Goat-File.md", "plan": "Sunday-Morning/Stories/The-Goat-File.md", "on": "pt-credit", "touches": ["hr-attacks", "hr-routes"], "when": "Year 1, late autumn", "holds": "Seven Wells clears its books without ruin; two houses will join.", "elsewhere": "Forced closures ruin families in other towns."}, {"id": "inspected", "title": "Inspected, Not Guaranteed", "kind": "story", "draft": "Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md", "plan": "Sunday-Morning/Stories/Inspected-Not-Guaranteed.md", "on": "ic-hours", "touches": ["fig-orin", "ic-metal", "gv-default"], "when": "Year 2, early spring", "holds": "Col never answers the anonymous patron.", "elsewhere": "Orin Slatehallow already answered his."}, {"id": "heavy-scale", "title": "The Heavy Scale at Icestep Summit", "kind": "story", "draft": "Sunday-Morning/Drafts/The-Heavy-Scale.md", "plan": "Sunday-Morning/Stories/The-Heavy-Scale.md", "on": "hr-routes", "touches": ["hr-attacks", "fig-samir"], "when": "Year 2, early spring", "holds": "Icestep corrects its scale in public and stays on Samir's list.", "elsewhere": "A pass town with a genuinely bad scale comes off it."}, {"id": "tree", "title": "The Tree With a Debt", "kind": "story", "draft": "Sunday-Morning/Drafts/The-Tree-With-a-Debt.md", "plan": "Sunday-Morning/Stories/The-Tree-With-a-Debt.md", "on": "dw-road", "touches": ["dw-leak", "fig-naruin", "hr-debate"], "when": "Year 2, midsummer", "holds": "Hollis renews the pledge as guardianship instead of selling.", "elsewhere": "The buyer has already bought other pledges along the road."}, {"id": "three-pots", "title": "Three Pots at Three Moon", "kind": "story", "draft": "Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md", "plan": "Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md", "on": "pt-refugees", "touches": ["pt-smuggling", "dw-fungal", "gv-land"], "when": "Year 2, early autumn", "holds": "One street shares its space; the newcomers get their permit.", "elsewhere": "The smuggling rumors run on the next street over."}, {"id": "seed-mushrooms", "title": "The Mushrooms From Nowhere", "kind": "seed", "plan": "Sunday-Morning/Stories/Story-Seeds.md", "on": "sx-routewars", "touches": ["dw-fungal"], "when": "", "holds": "", "elsewhere": ""}, {"id": "seed-bathhouse", "title": "The Bathhouse Compact", "kind": "seed", "plan": "Sunday-Morning/Stories/Story-Seeds.md", "on": "ic-metal", "touches": [], "when": "", "holds": "", "elsewhere": ""}, {"id": "seed-ladder", "title": "The Ladder Rules", "kind": "seed", "plan": "Sunday-Morning/Stories/Story-Seeds.md", "on": "sp-coalition", "touches": ["sp-drought", "fig-bahriyya"], "when": "", "holds": "", "elsewhere": ""}, {"id": "seed-talker", "title": "The Talker", "kind": "seed", "plan": "Sunday-Morning/Stories/Story-Seeds.md", "on": "dw-fungal", "touches": [], "when": "", "holds": "", "elsewhere": ""}], "links": [{"a": "one-square", "b": "greenvale-man", "id": "C1", "note": "grain sacks stamped with both of the square's names"}, {"a": "one-square", "b": "greenvale-man", "id": "C2", "note": "old Scarth's letter"}, {"a": "one-square", "b": "three-pots", "id": "C3", "note": "the polite land agent"}, {"a": "goat-file", "b": "heavy-scale", "id": "C4", "note": "Samir Tareh"}, {"a": "heavy-scale", "b": "three-pots", "id": "C5", "note": "Garro the caravan cook"}, {"a": "inspected", "b": "tree", "id": "C6", "note": "the two unsigned offers: one hand"}], "coverage": {"nw-piracy": "touched", "nw-convoy": "story", "fig-maris": "touched", "nw-fish": "open", "pt-credit": "story", "pt-smuggling": "touched", "pt-refugees": "story", "fig-rosana": "touched", "gv-abundance": "story", "gv-default": "touched", "gv-land": "touched", "gv-reformers": "open", "fig-orin": "touched", "ic-metal": "touched", "ic-hours": "story", "ic-labor": "open", "hr-attacks": "touched", "fig-samir": "touched", "hr-routes": "story", "hr-debate": "touched", "dw-road": "story", "fig-naruin": "touched", "dw-leak": "touched", "dw-fungal": "touched", "sp-drought": "seed", "fig-bahriyya": "seed", "sp-coalition": "seed", "sx-quake": "open", "sx-routewars": "seed", "x-council": "open", "x-faiths": "open", "x-amplify": "open", "x-proof": "open"}, "repo": "https://github.com/BigCatMellow/10Kings/blob/main/wiki/"};
+(function () {
+  if (!DATA) { document.getElementById("panel").textContent = "No data."; return; }
+  const $ = (id) => document.getElementById(id);
+  const byId = Object.fromEntries(DATA.nodes.map((n) => [n.id, n]));
+  const cov = DATA.coverage;
+  const stories = DATA.stories;
+  const storyById = Object.fromEntries(stories.map((s) => [s.id, s]));
+  const KIND = { event: "Current event", figure: "Character domino", chain: "Ripple chain" };
+  const STATUS = { story: "A story sits here", touched: "Touched by a story", seed: "Seed only", open: "Open: nothing here yet" };
+  const gh = (p) => DATA.repo + p;
+
+  // stats (ground-level only)
+  const ground = DATA.nodes.filter((n) => n.scale === "ground");
+  const count = (st) => ground.filter((n) => cov[n.id] === st).length;
+  $("stats").innerHTML = ["story", "touched", "seed", "open"].map((st) =>
+    `<div class="stat"><span class="sw ${st}"></span><b>${count(st)}</b><span>${{story: "with a story", touched: "touched", seed: "seed only", open: "open"}[st]}</span></div>`).join("");
+
+  // ranks: longest path from sources, then pull pure sources down next to their first target
+  const outE = {}, inE = {};
+  DATA.nodes.forEach((n) => { outE[n.id] = []; inE[n.id] = []; });
+  DATA.edges.forEach((e) => { outE[e.from].push(e); inE[e.to].push(e); });
+  const rank = {};
+  const visit = (id, seen = new Set()) => {
+    if (rank[id] !== undefined) return rank[id];
+    if (seen.has(id)) return 0;
+    seen.add(id);
+    const r = inE[id].length ? Math.max(...inE[id].map((e) => visit(e.from, seen) + 1)) : 0;
+    rank[id] = r; return r;
+  };
+  DATA.nodes.forEach((n) => visit(n.id));
+  DATA.nodes.forEach((n) => { if (!inE[n.id].length && outE[n.id].length) rank[n.id] = Math.max(0, Math.min(...outE[n.id].map((e) => rank[e.to])) - 1); });
+
+  // build nodes
+  const COLW = 176, GAP = 14, PADX = 10, TOP = 40, ROW = 92;
+  const canvas = $("canvas");
+  const els = {};
+  DATA.regions.forEach((r, i) => {
+    const lane = document.createElement("div");
+    lane.className = "lane"; lane.style.left = (PADX + i * (COLW + GAP)) + "px"; lane.style.width = COLW + "px";
+    lane.innerHTML = `<h3>${r}</h3>`;
+    canvas.appendChild(lane);
+  });
+  DATA.nodes.forEach((n) => {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.className = `node ${n.kind} status-${cov[n.id]} ${n.scale === "saga" ? "saga" : ""}`;
+    b.dataset.id = n.id;
+    const on = stories.filter((s) => s.on === n.id);
+    const touch = stories.filter((s) => s.kind === "story" && (s.touches || []).includes(n.id));
+    let badges = on.map((s) => `<span class="badge ${s.kind === "seed" ? "seed" : ""}">${s.kind === "seed" ? "Seed: " : ""}${s.title}</span>`).join("");
+    if (touch.length) badges += `<span class="badge touch">touched by ${touch.length}</span>`;
+    b.innerHTML = `<span class="k">${KIND[n.kind]}</span><span class="l">${n.label}</span>${badges ? `<span class="badges">${badges}</span>` : ""}`;
+    b.setAttribute("aria-label", `${n.label}. ${STATUS[cov[n.id]]}.`);
+    b.addEventListener("click", () => select({ node: n.id }));
+    canvas.appendChild(b); els[n.id] = b;
+  });
+
+  // place: per region, top-down by rank without overlaps (re-run once web fonts settle)
+  const pos = {};
+  const svg = $("edges");
+  const paths = [];
+  function layout() {
+  let maxBottom = 0;
+  paths.length = 0;
+  DATA.regions.forEach((r, i) => {
+    const x = PADX + i * (COLW + GAP) + (COLW - 158) / 2;
+    let y = TOP;
+    DATA.nodes.filter((n) => n.region === r).sort((a, b) => rank[a.id] - rank[b.id]).forEach((n) => {
+      const el = els[n.id];
+      const h = el.offsetHeight;
+      const top = Math.max(TOP + rank[n.id] * ROW, y);
+      el.style.left = x + "px"; el.style.top = top + "px";
+      pos[n.id] = { x, y: top, w: 158, h };
+      y = top + h + 18; maxBottom = Math.max(maxBottom, y);
+    });
+  });
+  const W = PADX * 2 + DATA.regions.length * COLW + (DATA.regions.length - 1) * GAP;
+  const H = maxBottom + 20;
+  canvas.style.width = W + "px"; canvas.style.height = H + "px";
+
+  // edges
+  svg.setAttribute("width", W); svg.setAttribute("height", H); svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+  svg.innerHTML = `<defs>
+    <marker id="arr" class="canon" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z"/></marker>
+    <marker id="arrS" class="story" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z"/></marker></defs>`;
+  DATA.edges.forEach((e) => {
+    const a = pos[e.from], b = pos[e.to];
+    let d;
+    if (b.y > a.y + a.h - 4) {
+      const sx = a.x + a.w / 2, sy = a.y + a.h, tx = b.x + b.w / 2, ty = b.y;
+      const dy = Math.max(30, (ty - sy) / 2);
+      d = `M${sx},${sy} C${sx},${sy + dy} ${tx},${ty - dy} ${tx},${ty - 2}`;
+    } else {
+      const right = b.x > a.x;
+      const sx = right ? a.x + a.w : a.x, sy = a.y + a.h / 2;
+      const tx = right ? b.x : b.x + b.w, ty = b.y + b.h / 2;
+      const dx = Math.max(40, Math.abs(tx - sx) / 2) * (right ? 1 : -1);
+      d = `M${sx},${sy} C${sx + dx},${sy} ${tx - dx},${ty} ${tx - (right ? 2 : -2)},${ty}`;
+    }
+    const p = document.createElementNS("http://www.w3.org/2000/svg", "path");
+    p.setAttribute("d", d);
+    p.setAttribute("class", e.basis === "story" ? "story" : "canon");
+    p.setAttribute("marker-end", e.basis === "story" ? "url(#arrS)" : "url(#arr)");
+    svg.appendChild(p);
+    paths.push({ e, p });
+  });
+  }
+  layout();
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { layout(); if (typeof apply === "function") apply(); });
+
+  // selection
+  const board = $("board");
+  function clearHot() {
+    board.classList.remove("dim");
+    Object.values(els).forEach((el) => el.classList.remove("hot", "sel"));
+    paths.forEach(({ p }) => p.classList.remove("hot", "cold"));
+  }
+  function light(ids, edgeFilter) {
+    board.classList.add("dim");
+    ids.forEach((id) => els[id] && els[id].classList.add("hot"));
+    paths.forEach(({ e, p }) => { const on = edgeFilter(e); p.classList.toggle("hot", on); p.classList.toggle("cold", !on); });
+  }
+  const li = (id, extra = "") => `<li><button type="button" data-go="${id}"><span>${byId[id].label}</span>${extra}</button></li>`;
+  function select(sel) {
+    clearHot();
+    const P = $("panel");
+    if (sel.node) {
+      const n = byId[sel.node];
+      const ins = inE[n.id], outs = outE[n.id];
+      light([n.id, ...ins.map((e) => e.from), ...outs.map((e) => e.to)], (e) => e.from === n.id || e.to === n.id);
+      els[n.id].classList.add("sel");
+      const here = stories.filter((s) => s.on === n.id);
+      const touch = stories.filter((s) => (s.touches || []).includes(n.id));
+      const storyCards = here.concat(touch).map((s) => {
+        const role = s.on === n.id ? (s.kind === "seed" ? "Seed" : "Story") : (s.kind === "seed" ? "Seed, touches this" : "Touches this");
+        return `<div class="card"><span class="eyebrow">${role}</span><br><button type="button" class="linkish" data-story="${s.id}" style="background:none;border:0;padding:0;font:inherit;font-weight:600;color:var(--ink);cursor:pointer;text-align:left">${s.title}</button>${s.when ? ` <span class="pill">${s.when}</span>` : ""}${s.holds ? `<p>Holds: ${s.holds}</p>` : ""}${s.elsewhere ? `<p>Still falls elsewhere: ${s.elsewhere}</p>` : ""}</div>`;
+      }).join("");
+      P.innerHTML = `<span class="eyebrow">${n.region} · ${KIND[n.kind]}${n.scale === "saga" ? " · saga" : ""}</span>
+        <h2>${n.label}</h2><p>${n.text}</p>
+        <span class="pill"><span class="sw ${cov[n.id]}"></span>${STATUS[cov[n.id]]}</span>
+        ${storyCards ? `<h4>Stories here</h4>${storyCards}` : ""}
+        <h4>Comes from</h4>${ins.length ? `<ul>${ins.map((e) => li(e.from, e.basis === "story" ? `<span class="tag">story design</span>` : "")).join("")}</ul>` : `<p class="note">Nothing on the map feeds this domino.</p>`}
+        <h4>Leads to</h4>${outs.length ? `<ul>${outs.map((e) => li(e.to, e.basis === "story" ? `<span class="tag">story design</span>` : "")).join("")}</ul>` : `<p class="note">Nothing on the map yet.</p>`}
+        ${[...ins, ...outs].length ? `<p class="note">${[...ins, ...outs].map((e) => `${byId[e.from].label} → ${byId[e.to].label}: ${e.note}`).join("<br>")}</p>` : ""}
+        <h4>Source</h4><a href="${gh(n.src)}" target="_blank" rel="noopener">Read it on the wiki</a>`;
+      scrollTo(n.id);
+    } else if (sel.story) {
+      const s = storyById[sel.story];
+      const ids = [s.on, ...(s.touches || [])];
+      light(ids, (e) => ids.includes(e.from) && ids.includes(e.to));
+      const links = (DATA.links || []).filter((l) => l.a === s.id || l.b === s.id);
+      P.innerHTML = `<span class="eyebrow">${s.kind === "seed" ? "Story seed" : "Sunday Morning story"}${s.when ? " · " + s.when : ""}</span>
+        <h2>${s.title}</h2>
+        ${s.holds ? `<p><b>Holds:</b> ${s.holds}</p>` : ""}${s.elsewhere ? `<p><b>Still falls elsewhere:</b> ${s.elsewhere}</p>` : ""}
+        <h4>Sits on</h4><ul>${li(s.on)}</ul>
+        ${(s.touches || []).length ? `<h4>Touches</h4><ul>${s.touches.map((id) => li(id)).join("")}</ul>` : ""}
+        ${links.length ? `<h4>Links to other stories</h4><ul>${links.map((l) => { const o = l.a === s.id ? l.b : l.a; return `<li><button type="button" data-story="${o}"><span><b>${l.id}</b> ${storyById[o].title}</span><span class="tag">${l.note}</span></button></li>`; }).join("")}</ul>` : ""}
+        <h4>Read</h4><ul>${s.draft ? `<li><a class="row" href="${gh(s.draft)}" target="_blank" rel="noopener">The story</a></li>` : ""}<li><a class="row" href="${gh(s.plan)}" target="_blank" rel="noopener">${s.kind === "seed" ? "The seed" : "Its planning page"}</a></li></ul>`;
+      scrollTo(s.on);
+    } else {
+      P.innerHTML = `<span class="eyebrow">How to read it</span><h2>What's covered, what's open</h2>
+        <p>Each column is a region. Causes sit above what they tip over. Solid arrows are stated in the wiki; dashed amber arrows were set by the story design.</p>
+        <ul style="gap:6px;margin-top:8px">
+          <li><span class="pill"><span class="sw story"></span>A story sits here</span></li>
+          <li><span class="pill"><span class="sw touched"></span>A story touches it</span></li>
+          <li><span class="pill"><span class="sw seed"></span>Only a seed so far</span></li>
+          <li><span class="pill"><span class="sw open"></span>Open</span></li>
+        </ul>
+        <p class="note">Purple-edged dominoes are saga-level: the Council's moves and the Villain's amplification. Sunday Morning stories only feel those from the ground, so they aren't gaps to fill.</p>
+        <p class="note">Click any domino to see what feeds it and what it tips over. Click a story to light up everything it touches.</p>`;
+    }
+    P.querySelectorAll("[data-go]").forEach((b) => b.addEventListener("click", () => select({ node: b.dataset.go })));
+    P.querySelectorAll("[data-story]").forEach((b) => b.addEventListener("click", () => select({ story: b.dataset.story })));
+  }
+  function scrollTo(id) {
+    const p = pos[id]; if (!p) return;
+    const bw = board.clientWidth, bh = board.clientHeight;
+    const within = p.x >= board.scrollLeft && p.x + p.w <= board.scrollLeft + bw && p.y >= board.scrollTop && p.y + p.h <= board.scrollTop + bh;
+    if (!within) board.scrollTo({ left: Math.max(0, p.x - bw / 2 + p.w / 2), top: Math.max(0, p.y - bh / 3), behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
+  }
+
+  // lists below
+  $("storyList").innerHTML = stories.map((s) => `<li><button type="button" class="link" data-story="${s.id}">${s.title}</button> <span class="meta">${s.kind === "seed" ? "seed · " : ""}on ${byId[s.on].label}</span></li>`).join("");
+  const gaps = ground.filter((n) => cov[n.id] === "open");
+  $("gapList").innerHTML = gaps.length ? gaps.map((n) => `<li><button type="button" class="link" data-go="${n.id}">${n.label}</button> <span class="meta">${n.region}</span></li>`).join("") : "<li>None. Every ground-level domino has something on it.</li>";
+  $("linkList").innerHTML = (DATA.links || []).map((l) => `<li><b>${l.id}</b> <button type="button" class="link" data-story="${l.a}">${storyById[l.a].title}</button> → <button type="button" class="link" data-story="${l.b}">${storyById[l.b].title}</button> <span class="meta">${l.note}</span></li>`).join("");
+  document.querySelectorAll(".below [data-story]").forEach((b) => b.addEventListener("click", () => { select({ story: b.dataset.story }); board.scrollIntoView({ block: "nearest" }); }));
+  document.querySelectorAll(".below [data-go]").forEach((b) => b.addEventListener("click", () => { select({ node: b.dataset.go }); board.scrollIntoView({ block: "nearest" }); }));
+
+  // controls
+  const optGaps = $("optGaps"), optStory = $("optStory");
+  try { optGaps.checked = localStorage.getItem("dm-gaps") === "1"; optStory.checked = localStorage.getItem("dm-story") !== "0"; } catch (_) {}
+  function apply() {
+    board.classList.toggle("gaps", optGaps.checked);
+    paths.forEach(({ e, p }) => { if (e.basis === "story") p.style.display = optStory.checked ? "" : "none"; });
+    try { localStorage.setItem("dm-gaps", optGaps.checked ? "1" : "0"); localStorage.setItem("dm-story", optStory.checked ? "1" : "0"); } catch (_) {}
+  }
+  optGaps.addEventListener("change", apply); optStory.addEventListener("change", apply); apply();
+  board.addEventListener("click", (ev) => { if (ev.target === board || ev.target === canvas || ev.target.classList.contains("lane")) select({}); });
+  select({});
+})();
+</script>
+</body></html>
