@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, businesses and plot details are new and non-canon. Wurdren's biography is not settled by anything here.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/Inspected-Not-Guaranteed.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/Inspected-Not-Guaranteed.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for James's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -247,4 +247,8 @@ Drafted 2026-09-27: [Inspected Not Guaranteed](../Drafts/Inspected-Not-Guarantee
 - **Sunday Morning pass:** Tamsin says "Some other time" instead of "Good". At The Quench the keeper asks for "the medium one", and Wurdren's whole sword story is now "It's an ordinary sword. Somebody looks after it." That is P5's payoff, told truly instead of untold.
 - **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; James left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Fixed the judge count: Vey turns to "the other two judges", so Wurdren's vote is cast on the page. Nell now carries Vey's word about the troughs to the farmers in the road, replacing "Somehow… they had heard". "Sold to you" became "sold", keeping how Wurdren came by the sword untold. Trimmed Tamsin's restatement, two extra silences and the narrator's line about the rates, which explained Nell's point. The gate ending stays, although The Greenvale Man also ends on a request: being asked is the point for Wurdren (Registry, devices).
 
-**Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.
+### Stage 4 — JUDGE
+
+Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reader, before checking it against this page, the Notes and the cross-story ledger ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)). A second reviewer read all seven in order, cold. **Verdict: pass with small fixes.** P1–P9 and C6 hold, and Wurdren stays inside his canon limits. Fixed (DO): a reversed-logic line about Vey's reason; an ambiguous "He was only tired"; Nell's repeat of the trough fact at the ditch (now "One trough"); three stray details (the hall, the damp letter days later, her arms full of nothing) and an unannounced borrowed horse. Changed: the ending. Both the notes-pass audit and the cold collection read recognized Nell's request as The Greenvale Man's barrel ending, so Wurdren now goes to her sticking gate without being asked, which also shows him changed. Left for James: Tamsin's "thirty years" of upkeep sets a floor on how long he has had the sword.
+
+**Next level:** L4 Reviewed, once James has read it. His open questions from the review are on [Decisions](../Notes/Decisions.md#open-for-james).

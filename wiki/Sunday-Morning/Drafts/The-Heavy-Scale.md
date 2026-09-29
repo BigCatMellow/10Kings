@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft. Provisional, non-canon.** Prose draft of [The Heavy Scale at Icestep Summit](../Stories/The-Heavy-Scale.md). Its pass history is in the story page's Stage 3 — DO section. Not yet reviewed at L4. Every character except Samir Tareh is provisional, as are the businesses and the shared unit name "stone"; see the [promotion rule](../Notes/Rules.md#promotion-rule). The weigher's employer stays "the pass authority," as the story page leaves it. Samir appears only as an ordinary caravan negotiator.
+**L3 draft. Provisional, non-canon.** Prose draft of [The Heavy Scale at Icestep Summit](../Stories/The-Heavy-Scale.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting James's reading. Every character except Samir Tareh is provisional, as are the businesses and the shared unit name "stone"; see the [promotion rule](../Notes/Rules.md#promotion-rule). The weigher's employer stays "the pass authority," as the story page leaves it. Samir appears only as an ordinary caravan negotiator.
 
 **Fourth pass (uniqueness):** Tove's evidential habit pays off in the yard ("I saw what I was charged"), not in a retelling, so the sight-form retelling stays *The Greenvale Man*'s. The story now closes on the morning after, with the scale reading true: "Ten stone. True to a hair." That echoes the opening and Grell's own phrase. At the climax Quill's book stays in his pocket and he says Brisa's line from memory, so he isn't a clerk reading aloud to a crowd as Wen is in The Goat File. The report now reads *Error found and corrected*, keeping the word *inspected* for Inspected, Not Guaranteed.
 
@@ -142,9 +142,7 @@ Quill sat back from the ledger. Something had happened to the scale once, on or 
 
 Grell maintained everything in Icestep that had a moving part: the pumps, the gate hinges, the great sliding door of the customs yard, the winch on the well, and the scale. He was the only man in town who ever opened the scale's cradle. He had been rude to Quill on the afternoon he arrived for no reason Quill could work out. And according to the ledger he had serviced the scale twice that winter, both times in the first weeks of the cold, and a month after the second service the readings had jumped.
 
-Quill had decided what he would find before he walked in, and he knew he had.
-
-"I'm here about the scale," he said.
+"I'm here about the scale," Quill said.
 
 "I know you're here about the scale. You're the weigher." Grell struck something twice. "You think I've been at it."
 
@@ -196,9 +194,9 @@ Quill turned back through his book. "You said you saw the snow come off the eave
 
 Tove stopped. She looked at him with something like respect.
 
-"That's exactly what I said." She frowned. "I saw the snow. The roof—" She shook her head. "No. I was told about the roof. I was asleep for the roof. Brisa's stable boy told me in the morning that somebody had been up on the Gate's roof half the night, holding it down against the wind." She took care to use the right form. "Someone I'd lend a boat to told me. I didn't see it."
+"That's exactly what I said." She frowned. "I saw the snow. The roof—" She shook her head. "No. I was told about the roof. I was asleep for the roof. Brisa's stable boy told me in the morning that somebody had been up on the Gate's roof half the night, holding it down against the wind. Someone I'd lend a boat to told me. I didn't see it."
 
-Quill wrote it down: *told, not saw — someone on the Gate's roof, the night of the storm*. He didn't yet know why it mattered. He only knew he was suddenly, enormously glad that Tove Askell kept her knowledge in piles.
+Quill wrote it down: *told, not saw — someone on the Gate's roof, the night of the storm*. He didn't yet know why it mattered. He only knew he was suddenly, enormously glad that Tove Askell kept what she saw apart from what she was told.
 
 ---
 
@@ -248,7 +246,7 @@ Northwind and the plateau both called their unit of weight a stone. It was the s
 
 Nobody had lied. Somebody had put one stone where another had been, and both stones said *one stone*, and both were telling the truth.
 
-He stood in the cold yard between them for a long time. Then he looked up at the patched roof of the Second Gate, at the tarred sailcloth weighted along its edges, and thought about a woman up there in the worst wind of the winter, looking for something heavy enough to tie down a corner and small enough to carry up a ladder. There had been nothing in the yard that fitted better than the scale's counterweight.
+He stood in the cold yard between them for a long time. Then he looked up at the patched roof of the Second Gate, at the tarred sailcloth weighted along its edges, and thought about a woman up there in the worst wind of the winter, looking for something heavy enough to tie down a corner and small enough to carry up a ladder. There had been nothing in the yard that fitted better than the scale's counterweight. And when the gust took the corner and the stone went down with it into the drift, she would have put back the nearest thing she owned with *one stone* cut into its face, before morning, and believed the scale was whole again.
 
 *The Compass keep the innkeeper and her roof.*
 
@@ -264,7 +262,7 @@ The chief had spent the whole morning trying to persuade Quill to weigh the cara
 
 The yard went silent. The chief made a small noise.
 
-Quill reported it plainly and exactly, and he didn't hurry. The scale had read heavy by a tenth since the morning after the storm. He named the date from the shrine book, and a murmur went round the yard from people who had spent the winter arguing about that date and had just lost. Then he gave the cause, and he began with the roof: the night of the big blow, a covering tearing loose over a room full of stranded travelers, and somebody up there in the worst wind of the winter, holding it down until morning with the heaviest small thing in the yard. Then he held up the two stones, the town's and the Northwind net-stone that had taken its place, one in each hand, so the whole yard could see.
+Quill reported it plainly and exactly, and he didn't hurry. The scale had read heavy by a tenth since the morning after the storm. He named the date from the shrine book, and a murmur went round the yard from people who had spent the winter arguing about that date and had just lost. Then he gave the cause, and he began with the roof: the night of the big blow, a covering tearing loose over a room full of stranded travelers, and somebody up there in the worst wind of the winter, holding it down with the heaviest small thing in the yard until the wind took it. Then he held up the two stones, the town's and the Northwind net-stone that had taken its place, one in each hand, so the whole yard could see.
 
 Several people turned to look at Brisa Zell, who was standing near the front of the crowd with flour on her forearms.
 

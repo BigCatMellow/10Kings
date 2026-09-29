@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). Kettle Cove, Narrow Sound, all characters and plot details are new and non-canon. The regatta is a story detail attached to the provisional Last Sail festival, not established custom.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Greenvale-Man.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Greenvale-Man.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for James's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -227,4 +227,8 @@ Drafted 2026-09-27: [The Greenvale Man](../Drafts/The-Greenvale-Man.md). An inde
 - **Sunday Morning pass:** the convoy-list aside moves out of the race to the morning after the vote. Aldo's twenty years get a counterweight: they won him Hild.
 - **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; James left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Cut the clause stating the story's point ("how fast a thing that was said became a thing everybody knew") two scenes before Rask's "Who saw it?". Hild no longer re-tells her niece's uncle's loss that the narration has just told.
 
-**Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.
+### Stage 4 — JUDGE
+
+Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reader, before checking it against this page, the Notes and the cross-story ledger ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)). A second reviewer read all seven in order, cold. **Verdict: pass with small fixes.** P1–P8, C1 and C2 all hold; the test launch, Rask's oak and the wide *we* are the strongest things in the collection's first half. Fixed (DO): "Her uncle" now reads "Sigra's uncle", so Sigra's "Thank you" carries its weight; Rask's first line now tells the reader that Brenna's father built the *Kittiwake* before he went inland, the premise's missing fact.
+
+**Next level:** L4 Reviewed, once James has read it. His open questions from the review are on [Decisions](../Notes/Decisions.md#open-for-james).

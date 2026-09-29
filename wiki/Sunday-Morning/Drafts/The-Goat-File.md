@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft. Provisional, non-canon.** Prose draft of [The Goat File](../Stories/The-Goat-File.md). Its pass history is in the story page's Stage 3 — DO section. Not yet reviewed at L4. Seven Wells, both houses, the archive deposit practice and every character except Samir Tareh are provisional; see the [promotion rule](../Notes/Rules.md#promotion-rule). Samir appears only as an ordinary caravan negotiator.
+**L3 draft. Provisional, non-canon.** Prose draft of [The Goat File](../Stories/The-Goat-File.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting James's reading. Seven Wells, both houses, the archive deposit practice and every character except Samir Tareh are provisional; see the [promotion rule](../Notes/Rules.md#promotion-rule). Samir appears only as an ordinary caravan negotiator.
 
 **What this pass changed** (for James to judge against the guide):
 - **Rhythm:** medium sentences for ordinary movement; fragments only for comic timing and the reveal.
@@ -76,7 +76,7 @@ He looked at his cup. It was full. "I haven't started this one."
 
 "I know about the lenders." She wiped the counter, though it was clean. "I had a man through last month from down the route. His town did what ours is doing. Closed every old claim in one season. Two families lost their houses over debts that had been sitting quiet for thirty years, because somebody had to rule and the ruling went against them." She took his cold first cup and poured it back into the pot, which he suspected was not how tea worked. "Town after that, the same. Closing a file isn't nothing, clerk."
 
-Wen looked down at the file. He had been treating it as a joke, because everyone did. It was hard to keep doing that now. It was two old men and two houses, and at the end of ten days one of those men would have to stand in the hall and hear that he had lost.
+Wen looked down at the file. It was two old men and two houses, and at the end of ten days one of those men would have to stand in the hall and hear that he had lost.
 
 "How much?" he said.
 
@@ -132,7 +132,7 @@ Then he stopped writing and looked at the page, and something cold settled at th
 
 He turned back one page, to the caravan yards, and there it was in his own hand, in Ebbe Tarrow's formal register: *She is only lent, Ebbe. She'll come home in time.*
 
-The same ten words. Two women, two houses, two sons who had spent forty years being furious with each other, and the same ten words. Only the names were different.
+The same words. Two women, two houses, two sons who had spent forty years being furious with each other, and the same words. Only the names were different.
 
 "Something wrong, clerk?"
 
@@ -248,7 +248,7 @@ Oriel brought him a cup of water. She didn't say anything. He was grateful for t
 
 ---
 
-Ledger Closing filled the hall. The caravan negotiators were in the gallery, in town to settle the season's accounts before the brief relief that always followed. The senior arbiter sat on the upper bench with his book open beside him at eleven to one. Ebbe Tarrow sat on the west bench and Mardin Kesh on the east, both in their best coats, both looking at the ceiling with enormous concentration. Lio and Nessa sat at opposite ends of the gallery's back row, as far apart as it was possible to sit, which fooled nobody under twenty-five. The tea seller had moved her stall six feet closer to the benches.
+Ledger Closing filled the hall. The caravan negotiators were in the gallery, in town to settle the season's accounts. The senior arbiter sat on the upper bench with his book open beside him at eleven to one. Ebbe Tarrow sat on the west bench and Mardin Kesh on the east, both in their best coats, both looking at the ceiling with enormous concentration. Lio and Nessa sat at opposite ends of the gallery's back row, as far apart as it was possible to sit, which fooled nobody under twenty-five. The tea seller had moved her stall six feet closer to the benches.
 
 "The matter of the Ledger Goat," said the senior arbiter. "Clerk Ostry."
 
@@ -302,6 +302,20 @@ The wedding was set for the spring as well. Both houses announced that they woul
 
 ---
 
+Early that evening, while the town was still eating in the square, one of the caravan negotiators stopped at the tea stall, where Wen was sitting with the tea seller. He was a tall, quiet man in a traveling coat with a route book under his arm. Wen had noticed him during the reading because he had been the only person in the gallery taking notes.
+
+"Samir Tareh," the man said, with a small nod. "I settle accounts here for three caravan houses. May I ask you one question, clerk?"
+
+"Of course."
+
+"The Tarrows run guides over the pass. The Keshes keep the water." He tapped the route book. "When those two marry, will a caravan that stops here be able to get both, from one house, under one roof?"
+
+Wen thought about it properly. He thought about Ebbe's empty stalls and the boy sweeping one of them, and Mardin's hand on the wet stone of the third cistern.
+
+"I think so," he said. "In the spring."
+
+Samir Tareh opened the route book, wrote something down, thanked them both, paid for a cup he hadn't drunk, and went out into the cold.
+
 The senior arbiter found Wen at the counter late that evening, when the tables were being cleared, and sat down on the stool beside him with a plate of the last of the lentils. He had never done that before. He had never, as far as Wen knew, sat down at the tea stall at all.
 
 He didn't open his book. He put two coins on the counter.
@@ -321,19 +335,5 @@ Then he wiped his fingers, opened the little leather book after all, and found a
 "Now," he said. "The matter of which goat. I'm offering evens on the Keshes."
 
 "I'll take the Tarrows," said the tea seller, without looking up.
-
-Before the stall closed, one of the caravan negotiators stopped at the counter. He was a tall, quiet man in a traveling coat with a route book under his arm. Wen had noticed him during the reading because he had been the only person in the gallery taking notes.
-
-"Samir Tareh," the man said, with a small nod. "I settle accounts here for three caravan houses. May I ask you one question, clerk?"
-
-"Of course."
-
-"The Tarrows run guides over the pass. The Keshes keep the water." He tapped the route book. "When those two marry, will a caravan that stops here be able to get both, from one house, under one roof?"
-
-Wen thought about it properly. He thought about Ebbe's empty stalls and the boy sweeping one of them, and Mardin's hand on the wet stone of the third cistern, and a thin year on the route with caravans looking for somewhere they could rely on.
-
-"I think so," he said. "In the spring."
-
-Samir Tareh opened the route book, wrote something down, thanked them both, paid for a cup he hadn't drunk, and went out into the cold.
 
 Wen sat at the counter a while longer. Above the town, on the upland pasture, the Ledger herd grazed in the dark, some number of them, lent to both houses until the spring.

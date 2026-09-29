@@ -34,11 +34,18 @@ These were decided while drafting or reorganizing. Each is reversible from the r
 | W5 | Inspected: the climax turns on the farmers' blockade and on Wurdren passing on their message. | Same; also shows changed behavior rather than cleverness. | [Inspected](../Stories/Inspected-Not-Guaranteed.md), Stage 3, fourth pass |
 | W6 | The Tree's clause: an old plateau convention carries a standing pledge's debt, uncallable, until the condition ends; the pledge also carries the consent right. | The pledge text alone left the mechanism implicit. | [The Tree](../Stories/The-Tree-With-a-Debt.md), Stage 3 |
 | W7 | The full order of authority on the [Notes index](README.md#order-of-authority): Decisions, Framework, Rules, Craft (telling, then voice), Registry. | D9 puts the Framework first; the rest was set when the Pathwell principles were adapted (old Storytelling page) and when the notes were reorganized. | [Notes index](README.md#order-of-authority) |
-| W8 | Notes pass taste calls (under D12): keep Inspected's asked-for-a-job ending; cut Tove's fireside retelling; keep one silence per story at its peak; cut narration that restates a moment; keep Three Pots' three "That's mine" lines. | Each keeps one story's own shape, or removes an echo of another story. | story pages, Stage 3 |
+| W8 | Notes pass taste calls (under D12): keep Inspected's asked-for-a-job ending (reversed at the L4 review: two independent readers recognized it as The Greenvale Man's ending, so Wurdren now goes to the gate unasked); cut Tove's fireside retelling; keep one silence per story at its peak; cut narration that restates a moment; keep Three Pots' three "That's mine" lines. | Each keeps one story's own shape, or removes an echo of another story. | story pages, Stage 3 |
 
 ## Open for James
 
 - **The two plot changes** W4 and W5.
 - **Lines in the cautious categories** ([who writes what](Craft.md#ai-and-james-who-writes-what)) he wants to rewrite himself.
-- **L4 reading** of all seven drafts, after an independent JUDGE pass ([Pipeline](Pipeline.md#stage-4--judge-review-independently)).
+- **L4 reading** of all seven drafts. The independent JUDGE pass is done (2026-09-28): every story passed, most with small fixes, recorded in each story page's Stage 4. Questions from the reviewers that only James can answer, to read with:
+  - *One Square:* Is Lissa's "You should just make one with both" too on the nose, or does "None of them looked at each other" earn it?
+  - *The Greenvale Man:* The coda has three beats after Rask's wide *we* (the letter, the flour sack, the barrel). Does the sack serve the story, or only the collection?
+  - *The Goat File:* Does the senior arbiter's "If there's money on a thing, somebody always tries" sound like him, or like the showman explaining himself? Keep Oriel's "A question asked in a hurry only hears half its answer"?
+  - *Inspected:* Tamsin's "thirty years" of upkeep sets a floor on how long Wurdren has had the sword. Acceptable? And should the reader feel him sitting on the farmers' message before his "I didn't"?
+  - *The Heavy Scale:* Quill catching a mismatch in someone's exact words rhymes with Wen in The Goat File. Keep the rhyme? Is Brisa's "I thought one stone was one stone" in your voice?
+  - *The Tree:* The three debate-hall interjections all echo the clause. Would one be funnier off topic? Does the market master's closing recap earn its place?
+  - *Three Pots:* Should Mrs. Arden laugh first at "He bought us lunch", rather than Tobiah? Is Garro's "Honest scale there" him talking, or the collection?
 - **Which authority employs Icestep's weigher.** Left vague ("the pass authority"); ask only if a draft needs it ([The Heavy Scale](../Stories/The-Heavy-Scale.md)).

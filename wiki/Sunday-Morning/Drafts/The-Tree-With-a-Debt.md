@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft. Provisional, non-canon.** Prose draft of [The Tree With a Debt](../Stories/The-Tree-With-a-Debt.md). Its pass history is in the story page's Stage 3 — DO section. Not yet reviewed at L4. Every character except Naruin Mossglade is provisional, as are the tree, the pledge and its wording, and the lien practice; see the [promotion rule](../Notes/Rules.md#promotion-rule). Naruin stays offstage. Deepwood's animacy classes are rendered in English, following [Language and Thought](../../Culture/Language-and-Thought.md#deepwood-languages); no conlang words are invented.
+**L3 draft. Provisional, non-canon.** Prose draft of [The Tree With a Debt](../Stories/The-Tree-With-a-Debt.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting James's reading. Every character except Naruin Mossglade is provisional, as are the tree, the pledge and its wording, and the lien practice; see the [promotion rule](../Notes/Rules.md#promotion-rule). Naruin stays offstage. Deepwood's animacy classes are rendered in English, following [Language and Thought](../../Culture/Language-and-Thought.md#deepwood-languages); no conlang words are invented.
 
 **Fourth pass (uniqueness):** the story opens on the market master's plan, not on a line of dialogue, since five of the seven drafts opened that way. The gift-or-debt argument no longer ends with both words written side by side; that device belongs to One Square's sacks.
 
@@ -24,7 +24,7 @@ He did not get as far as stepping back.
 
 "It isn't a lot," said the warden.
 
-"Warden Sessa Yewbrook," he went on, a little louder, "Surveyor Ismet Carrow. The mule path from the upper market down to the herb yards. It goes around the tree, and you'll do it together. The herb fair opens in nine days, and the carts need to come down something that isn't a goat track."
+"Warden Sessa Yewbrook," the market master went on, a little louder, "Surveyor Ismet Carrow. The mule path from the upper market down to the herb yards. It goes around the tree, and you'll do it together. The herb fair opens in nine days, and the carts need to come down something that isn't a goat track."
 
 Ismet unfolded a plan. "Lot Fourteen is — I should say, as a footnote — the plot designation in the district survey. The plan has the path passing twelve paces from the trunk, which is the standard allowance for—"
 
@@ -36,7 +36,7 @@ She said a word in her own speech, saw his face, and tried again in trade tongue
 
 The tree stood at the head of the square, exactly between Twilighthollow's two halves, where the Deepwood forest came down off the uplands and met the first bare shoulder of the Highridge plateau. It was older than the town and older than the town's oldest argument. Its trunk was wider than a cart was long, and its bark was carved with the marks of several centuries: tallies, a lovers' knot, a boundary sign in a script nobody could read anymore, and near the base, very faint, the Highridge figure *14*.
 
-Sessa had grown up on the Highridge side of town and gone to the Deepwood school, and had never felt mystical about anything in her life. She simply knew what the tree was doing. In Ismet's paperwork, the tree wasn't doing anything. It was Lot Fourteen.
+Sessa had never felt mystical about anything in her life. She simply knew what the tree was doing.
 
 "Then we'll need to settle," Ismet said carefully, "exactly what is being gone around."
 
@@ -112,7 +112,7 @@ Sessa and Ismet spent the vigil together under the tree. That was the market mas
 
 Ismet winced. Sessa didn't move. She sat with her hands on her knees and watched the tree, and after a while, because there was nothing else to do, he watched it too.
 
-The light moved. Birds came and went in the canopy. Beetles worked along a seam in the bark. The air smelled of hot leaves and old wood and, very faintly, of the herb yards downhill. In the middle of the morning a bare foot appeared on a branch above them, followed by the rest of a child — a small brown girl of about eight, who climbed down through the tree as though it were the stairs of her own house, nodded to Sessa, ignored Ismet entirely, and settled on a low limb with her chin on her knees.
+The light moved. Birds came and went in the canopy. Beetles worked along a seam in the bark. The air smelled of hot leaves and old wood and, very faintly, of the herb yards downhill. In the middle of the morning a bare foot appeared on a branch above them, followed by the rest of a child — a small girl of about eight, who climbed down through the tree as though it were the stairs of her own house, nodded to Sessa, ignored Ismet entirely, and settled on a low limb with her chin on her knees.
 
 "That's Pip," Sessa murmured. "She's up here every day."
 
@@ -160,7 +160,7 @@ It was heavy paper, cream-colored and very fine, far finer than any plateau lend
 
 He held it up to the light. There was a watermark in the grain: a small ship's lantern of the kind that hangs from a stern rail.
 
-"Port paper," he said, mostly to himself. "One of the harbor stationers uses that mark. Half the counting houses in Port write on it." It was the kind of thing he knew. He handed the letter back and thought nothing more of it.
+"Port paper," he said, mostly to himself. "One of the harbor stationers uses that mark. Half the counting houses in Port write on it." It was the kind of thing he knew. He handed the letter back.
 
 The town, meanwhile, was panicking. The Weaver-path elder had filled two pages. The market master had his head in his hands. Somebody on the Highridge side had already proposed a debate on the matter, and somebody on the Deepwood side had said that if the plateau wanted the tree, they were welcome to come and carry it off themselves. Sessa stood in the middle of it, very still, looking at Hollis Varne, who was looking at the tree.
 

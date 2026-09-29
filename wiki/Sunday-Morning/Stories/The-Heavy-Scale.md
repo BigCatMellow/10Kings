@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, businesses and plot details are new and non-canon.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Heavy-Scale.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; the pilot of the [Story Pipeline](../Notes/Pipeline.md). The concept below reflects the THINK pass; the original L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Heavy-Scale.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for James's reading). Outlined at L2; the pilot of the [Story Pipeline](../Notes/Pipeline.md). The concept below reflects the THINK pass; the original L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -247,4 +247,8 @@ Drafted 2026-09-27: [The Heavy Scale](../Drafts/The-Heavy-Scale.md). An independ
 - **Sunday Morning pass:** the reveal leads with Brisa holding the roof over the stranded travelers, so the crowd hears a hero before a mistake. Quill never opens his book at her. "I didn't know" is said once. The chief's hardship line is shortened.
 - **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; James left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Quill now tries the cradle latch on day one; it is frozen, and the chief won't allow a brazier. That explains why the counterweight isn't checked for three days, and in s7 he goes out because the thaw means the latch will give. The ledger now shows the jump at the first weighing after the blow line, so the shrine date alone dates it. Cut "He didn't open his book. He didn't need it." (shared with The Goat File) and Tove's fireside retelling, which repeated Rask's in The Greenvale Man.
 
-**Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.
+### Stage 4 — JUDGE
+
+Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reader, before checking it against this page, the Notes and the cross-story ledger ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)). A second reviewer read all seven in order, cold. **Verdict: pass with small fixes.** The mystery is fair (the cold reader solved it at the shrine, one scene ahead, and enjoyed watching Quill catch up); C4 and C5 hold. Fixed: Brisa appeared to sit on the swap through the midnight scene, so Quill's reconstruction now says the gust took the stone into the drift and she put back the nearest thing marked *one stone*, believing the scale whole (DO, motivation); cut a confusing line about Quill's prejudice that the scene shows anyway; "kept her knowledge in piles" (the notes' shorthand) became plain, and the sentence naming her habit before her line went. Left: Quill's quoting Tove's words back to her is his exact-quotation trait, which Wen shares in The Goat File; the cold collection read felt the two detectives rhyme. That is a design choice for James.
+
+**Next level:** L4 Reviewed, once James has read it. His open questions from the review are on [Decisions](../Notes/Decisions.md#open-for-james).

@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft. Provisional, non-canon.** Prose draft of [One Square, Two Harvests](../Stories/One-Square-Two-Harvests.md). Its pass history is in the story page's Stage 3 — DO section. Not yet reviewed at L4. Every name, custom and historical detail is provisional and follows the story page's canon limits; see the [promotion rule](../Notes/Rules.md#promotion-rule).
+**L3 draft. Provisional, non-canon.** Prose draft of [One Square, Two Harvests](../Stories/One-Square-Two-Harvests.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting James's reading. Every name, custom and historical detail is provisional and follows the story page's canon limits; see the [promotion rule](../Notes/Rules.md#promotion-rule).
 
 **What this pass changes:** mostly prose. It uses medium sentences by default, fewer punchline scene endings, and humor that differs by character. Pell insists he's retired while arbitrating everything. Bettany wields her ledger. Idris hides terror inside ornate courtesy. Hobb bills for his patience. Aurel recites the sluice schedule when he's nervous. Lissa is simply blunt. The one addition the story itself suggested: Bettany calls Pell on the trick that got her into the mill loft. The guide is applied as a sensibility, not a checklist, so no stock grief or choice beat is added. Also new in scene 1: Lissa's "I just did". **Fourth pass (uniqueness):** the discovery is now an object, not a document. The two festivals' old banners, stored in Hobb's mill loft, turn out to be halves of one banner, cut for filing. This moves the story off the collection's repeated "read an old record" reveal. The land agent also mentions a valley where the farms did sell. The water court's request moves into the festival, so the story no longer ends on a favor, which The Greenvale Man does next. It now ends with Pell alone in his tree, climbing down twice to see whether anyone is coming.
 
@@ -106,9 +106,9 @@ Pell looked at the sacks, and then at Lissa's bowl, which was last year's barley
 
 ---
 
-The Salve house received everyone in its courtyard, because that was what the courtyard was for. It was tiled in blue and ochre, shaded by a vine older than anyone in the Vale, and built less to be sat in than to be seen sitting in. Idris Salve sat in it badly. He was twenty-three and had been running the Crush for three weeks, since his mother had decided it was time, and he gave the impression of a young man who could feel her portrait watching him from the hall.
+The Salve house received everyone in its courtyard, because that was what the courtyard was for. It was tiled in blue and ochre, shaded by a vine older than anyone in the Vale, and built less to be sat in than to be seen sitting in. Idris Salve sat in it badly. He was twenty-three and had been running the Crush for three weeks, since his mother had decided it was time, and he gave the impression of a young man who could feel her watching him from an upstairs window.
 
-"The barrels are late," he said, before anyone else had said anything at all. "Did you know that? Forty barrels from Ironcrest, ordered in the spring. Their forges are on short hours and their coopers are quarreling with their carters, and I have a harvest of grapes and nothing to put it in."
+"The barrels are late," he said, before anyone else had said anything at all. "Did you know that? Forty barrels from Ironcrest, ordered in the spring. Their coopers are quarreling with their carters, and I have a harvest of grapes and nothing to put it in."
 
 "We came about the square," Bettany said.
 
@@ -202,7 +202,7 @@ Lissa ate one of each. She did it at the same time, one in each hand — a bite 
 
 Several adults heard her. None of them looked at each other.
 
-Across the judges' table, Bettany and Idris had both heard it. Each of them opened their mouth, and each of them waited for the other to speak first, and so neither did. Pell had seen that look for forty years: two people standing right beside the same thought, and neither willing to be the one who said it out loud.
+Across the judges' table, Bettany and Idris had both heard it. Each of them opened their mouth, and each of them waited for the other to speak first, and so neither did. Pell had seen that for forty years.
 
 That was when he decided.
 
@@ -242,7 +242,7 @@ Pell had never seen either banner, but he could see this one now without climbin
 
 "There's a tag." Bettany again. "Sewn on the cut edge. Mine says *Greenvale return*. There's a year."
 
-"Mine says *Sunplains return*. Same year." A pause. "That's the year after the settlement. When they started filing the regional returns." Another pause, longer. "Somebody needed two columns. So they cut the festival in half, and gave one half to each of us to file."
+"Mine says *Sunplains return*," said Idris. "Same year." A pause. "That's the year after the settlement. When they started filing the regional returns." Another pause, longer. "Somebody needed two columns. So they cut the festival in half, and gave one half to each of us to file."
 
 "And the clause." Bettany's voice had gone strange. "The committee copy has a year written at the top. I've read that clause out eleven times and never once looked at the year." A pause. "It's this one. 'Each harvest kept the square in its own week.' That's what they did, that one year. It isn't a rule. It was never a rule."
 
@@ -284,7 +284,7 @@ He could hear her pacing, three steps each way along the boards. "Not a gift. I 
 
 Another silence.
 
-"My mother," said Idris, "would have loved you."
+"My mother," said Idris, "is going to love you."
 
 Pell climbed the last three rungs, knees complaining, and put his head up through the hatch with the tea tray as if he had only just arrived.
 
@@ -306,7 +306,7 @@ The first morning was awkward. Harvest Home families had always set up on the no
 
 Then Bettany and Idris climbed the north steps together and read out the surplus.
 
-They took turns. Bettany read what had come in, which was more than anyone living had seen. Idris read what had been bought, by whom, and at what price, and each time he said *bought*, Bettany added *sold* in her committee voice. People laughed and couldn't have told you why. And for once the public accounting of the Vale's surplus sounded like good news.
+They took turns. Bettany read what had come in, which was more than anyone living had seen. Idris read what had been bought, by whom, and at what price, and each time he said *bought*, Bettany added *sold* in her committee voice. People laughed and couldn't have told you why.
 
 Then they ate it. The grain the river merchants had said was unsafe was boiled with apricots and honey and laid out on long tables down the middle of the square, and the whole Vale sat down and ate it in front of each other. Nobody was sick. Everybody knew nobody was sick. By evening there were two downriver merchants standing at the edge of the crowd, looking thoughtful.
 

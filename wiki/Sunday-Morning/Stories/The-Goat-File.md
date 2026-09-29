@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). Seven Wells, the two houses, all characters and plot details are new and non-canon.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Goat-File.md) (third pass, revised against James's full voice guide as the test story; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Goat-File.md) (third pass, revised against James's full voice guide as the test story; independent L4 review done 2026-09-28; waiting for James's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -226,4 +226,8 @@ Drafted 2026-09-27: [The Goat File](../Drafts/The-Goat-File.md). An independent 
 - **Sunday Morning pass (James, 2026-09-28: "stick to the Sunday Morning style"):** the mothers' estrangement is now told once, in the hall. In the archive, Wen notices their signatures and the triple-underlined *each*. The Ledger Closing relief gets its meal. The senior arbiter's confession ends with the showman back, taking evens on which goat. The "bad year" exposition is cut to a clause.
 - **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; James left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Fixed the timeline: the tea seller no longer says both mothers were gone before the goat business started, which contradicted "not at weddings, not at burials". Samir's scene now opens "Before the stall closed", matching its late-evening time. Cut one of two silences in the arbiter's scene.
 
-**Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.
+### Stage 4 — JUDGE
+
+Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reader, before checking it against this page, the Notes and the cross-story ledger ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)). A second reviewer read all seven in order, cold. **Verdict: pass with small fixes.** All must-establish items and P1–P8 hold; D7 is respected. Fixed: the story ended twice (the arbiter's return, then Samir), so Samir's C4 scene now comes first, early in the evening, and the arbiter's "which goat" bet leads into the herd (PLAN, order only); cut Wen's "treating it as a joke" gloss, "the brief relief" before it is introduced, and a thought that restated Samir's question; "the same ten words" became "the same words", since the names differ. Record correction: the estrangement is told twice, not once as the Sunday Morning pass note says: by the tea seller as the outside fact and in the hall as the private cost. The reviewer found this reads as two views, not repetition, so the draft keeps it.
+
+**Next level:** L4 Reviewed, once James has read it. His open questions from the review are on [Decisions](../Notes/Decisions.md#open-for-james).

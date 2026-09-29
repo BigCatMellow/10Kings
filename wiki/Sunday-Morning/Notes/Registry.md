@@ -118,7 +118,7 @@ Reuse one of these only on purpose, and never in the next story in reading order
 | A child who sees what adults won't | One Square (Lissa), Tree (Pip) |
 | An elder who answers sideways | Goat File (tea seller), Three Pots (Mother Seral) |
 | Food as the soft landing | One Square, Heavy Scale, Three Pots, Inspected |
-| Someone asks the hero for the next small job | Greenvale Man (the barrel), Inspected (Nell's gate). Kept in both on purpose: being asked is the point for an outsider and for Wurdren. Don't use it a third time. |
+| Someone asks the hero for the next small job | Greenvale Man (the barrel). Inspected used it too until the L4 review; Wurdren now goes to Nell's gate unasked. |
 | A bookend of the opening line | Heavy Scale |
 | A public reading or telling to a crowd | Goat File (the memo), Heavy Scale (the correction) |
 | Two names or two words kept side by side | One Square (the stamp, the square) |

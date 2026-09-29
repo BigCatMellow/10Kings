@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, the tree, the lien and plot details are new and non-canon.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Tree-With-a-Debt.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Tree-With-a-Debt.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for James's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -250,4 +250,8 @@ Drafted 2026-09-27: [The Tree With a Debt](../Drafts/The-Tree-With-a-Debt.md). A
 - **Sunday Morning pass:** the stakes come back to one tree. Hollis's neighbors are one line, not the whole road line or "every stand of forest". The timber-tithe history is cut to a clause, and the debate hall interrupts it. The caravan-attack exposition is cut.
 - **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; James left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). The pledge's "for as long as it stands" is now in the first quotation (s3), so the midnight reveal changes what the reader already saw. Sessa now stakes the path herself, paying off "a path I'd walked" and making the survey footnote true. Added the vigil-evening supper where notes are compared (the collection's meal rule), and Ismet shares what the mule knew. Cut three of the "wrote everything down" beats (Quill's trait in the story before) and the sentence explaining the missing covering note.
 
-**Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.
+### Stage 4 — JUDGE
+
+Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reader, before checking it against this page, the Notes and the cross-story ledger ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)). A second reviewer read all seven in order, cold. **Verdict: pass with small fixes.** The romance works in small beats, and the clause is clear on a cold read now that s3 quotes it; C6 holds. Fixed (DO): cut the line that put Sessa's upbringing on the Highridge side, which muddled which half of town she belongs to, and the gloss "In Ismet's paperwork… Lot Fourteen"; "he went on" now names the market master; cut Ismet "thought nothing more of it", the narrator's wink at the watermark (the cold reader made the connection unaided); Pip is "a small girl", the collection's only description by skin color.
+
+**Next level:** L4 Reviewed, once James has read it. His open questions from the review are on [Decisions](../Notes/Decisions.md#open-for-james).

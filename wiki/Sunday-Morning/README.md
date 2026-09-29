@@ -18,15 +18,15 @@ In reading order. Why this order, and what the reader knows after each, is on [C
 
 | # | Story | Setting | Mode | Draft | Level |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [One Square, Two Harvests](Stories/One-Square-Two-Harvests.md) | Harveston Vale (Greenvale / Sunplains) | community / competition | [~5,000 words](Drafts/One-Square-Two-Harvests.md) | L3, fourth pass |
-| 2 | [The Greenvale Man](Stories/The-Greenvale-Man.md) | Kettle Cove, Northwind (provisional) | competition / belonging | [~3,400 words](Drafts/The-Greenvale-Man.md) | L3, fourth pass |
-| 3 | [The Goat File](Stories/The-Goat-File.md) | Seven Wells, Highridge (provisional) | comedy / mystery | [~4,800 words](Drafts/The-Goat-File.md) | L3, third pass (the test story) |
-| 4 | [Inspected, Not Guaranteed](Stories/Inspected-Not-Guaranteed.md) | Stonefield Forge (Ironcrest / Greenvale) | character / competition; features Wurdren | [~5,000 words](Drafts/Inspected-Not-Guaranteed.md) | L3, fourth pass |
-| 5 | [The Heavy Scale at Icestep Summit](Stories/The-Heavy-Scale.md) | Icestep Summit (Northwind / Highridge) | mystery; the pipeline pilot | [~5,100 words](Drafts/The-Heavy-Scale.md) | L3, fourth pass |
-| 6 | [The Tree With a Debt](Stories/The-Tree-With-a-Debt.md) | Twilighthollow (Deepwood / Highridge) | romance | [~4,200 words](Drafts/The-Tree-With-a-Debt.md) | L3, fourth pass |
-| 7 | [Three Pots at Three Moon](Stories/Three-Pots-at-Three-Moon.md) | a Port neighborhood | family / food | [~4,300 words](Drafts/Three-Pots-at-Three-Moon.md) | L3, fourth pass |
+| 1 | [One Square, Two Harvests](Stories/One-Square-Two-Harvests.md) | Harveston Vale (Greenvale / Sunplains) | community / competition | [~5,000 words](Drafts/One-Square-Two-Harvests.md) | L3; review done, waiting for your read |
+| 2 | [The Greenvale Man](Stories/The-Greenvale-Man.md) | Kettle Cove, Northwind (provisional) | competition / belonging | [~3,400 words](Drafts/The-Greenvale-Man.md) | L3; review done, waiting for your read |
+| 3 | [The Goat File](Stories/The-Goat-File.md) | Seven Wells, Highridge (provisional) | comedy / mystery | [~4,800 words](Drafts/The-Goat-File.md) | L3 (the test story); review done, waiting for your read |
+| 4 | [Inspected, Not Guaranteed](Stories/Inspected-Not-Guaranteed.md) | Stonefield Forge (Ironcrest / Greenvale) | character / competition; features Wurdren | [~5,000 words](Drafts/Inspected-Not-Guaranteed.md) | L3; review done, waiting for your read |
+| 5 | [The Heavy Scale at Icestep Summit](Stories/The-Heavy-Scale.md) | Icestep Summit (Northwind / Highridge) | mystery; the pipeline pilot | [~5,100 words](Drafts/The-Heavy-Scale.md) | L3; review done, waiting for your read |
+| 6 | [The Tree With a Debt](Stories/The-Tree-With-a-Debt.md) | Twilighthollow (Deepwood / Highridge) | romance | [~4,200 words](Drafts/The-Tree-With-a-Debt.md) | L3; review done, waiting for your read |
+| 7 | [Three Pots at Three Moon](Stories/Three-Pots-at-Three-Moon.md) | a Port neighborhood | family / food | [~4,300 words](Drafts/Three-Pots-at-Three-Moon.md) | L3; review done, waiting for your read |
 
-About 31,800 words in all. Every draft has also had the Sunday Morning and storytelling passes; none has had its L4 review ([what L4 needs](Notes/Pipeline.md#stage-4--judge-review-independently)).
+About 31,800 words in all. Every draft has had the Sunday Morning, storytelling and notes passes and an independent L4 review. L4 completes when James has read it ([Pipeline, Stage 4](Notes/Pipeline.md#stage-4--judge-review-independently)); questions to read with are on [Decisions](Notes/Decisions.md#open-for-james).
 
 Undeveloped premises: [Story Seeds](Stories/Story-Seeds.md). To add a story: [Pipeline, Stage 0](Notes/Pipeline.md#stage-0--add-a-story).
 

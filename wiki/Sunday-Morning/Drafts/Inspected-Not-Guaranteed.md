@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft. Provisional, non-canon.** Prose draft of [Inspected, Not Guaranteed](../Stories/Inspected-Not-Guaranteed.md). Its pass history is in the story page's Stage 3 — DO section. Not yet reviewed at L4. All characters except Wurdren, the guild rule and every business are provisional; see the [promotion rule](../Notes/Rules.md#promotion-rule).
+**L3 draft. Provisional, non-canon.** Prose draft of [Inspected, Not Guaranteed](../Stories/Inspected-Not-Guaranteed.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting James's reading. All characters except Wurdren, the guild rule and every business are provisional; see the [promotion rule](../Notes/Rules.md#promotion-rule).
 
 **Fourth pass (uniqueness):** the climax no longer turns on the rule's wording, which the collection had already used too often. On relighting morning the farmers block the charcoal road. Wurdren finally passes on the message he'd refused to carry ("your fires don't light until their water runs clean"), Nell offers the walk, and Vey takes it because he needs the charcoal. Wurdren still doesn't solve anything; he only stops keeping quiet. Tamsin's small punch is hers, borrowed by the guild every year and returned late, which pays off scene 1. Vey orders a trough for every forge on the lane, Col's first commission, which answers the farmers' actual demand. The story ends on Nell's gate, "very nearly right", not on a favor punchline and not on a restored object, which The Heavy Scale now does.
 
@@ -173,7 +173,7 @@ Col went red to the ears.
 
 "It's good plumbing," Vey said, and he did not say it unkindly. "I won't pretend it isn't. But a masterwork is a smith's work, Barrowfield, and this is a tinker's. If the guild passes this, then next year every lad who can patch a kettle comes up for his mastery, and then a patched kettle is a master's work, and a master's rate goes down to a tinker's rate." He looked out of the long window at the cold chimneys along the lane. "Half my members are on short hours. I won't be the one who tells them their rates are halved as well."
 
-Wurdren had not expected Vey to have a reason, and found that he liked the reason no less for its being a fair one.
+Wurdren had not expected Vey to have a reason.
 
 "What does the rule actually say?" he asked, and then realized he had said it out loud. Both masters were looking at him. "The rule for a masterwork. What does it say the work has to be?"
 
@@ -189,7 +189,7 @@ Vey opened the guild's book — not his ledger, but the old book, bound in leath
 
 Wurdren didn't know why. He had asked because he wanted to know what the words said, and because asking what people meant by things was the only way he knew of being useful in a room full of people who knew more than he did. Vey gave him a look that was not quite suspicion and not quite respect either.
 
-Afterward, in the cold hall, Wurdren started to tell the second master about his sword. He got as far as the smith's mark before the master remembered an appointment.
+Afterward, Wurdren started to tell the second master about his sword. He got as far as the smith's mark before the master remembered an appointment.
 
 ---
 
@@ -205,7 +205,7 @@ It was unsigned. It said that his methods had come to the attention of one who v
 
 ---
 
-The charcoal road, in early spring, was less a road than a long brown argument between two ditches, and the carts bringing charcoal for the relighting were stuck in it. Everyone with a strong back and nothing to do went up the hill to help. Wurdren had a strong back and nothing to do, and Col came too, walking beside Wurdren's borrowed horse with his hands in his pockets.
+The charcoal road, in early spring, was less a road than a long brown argument between two ditches, and the carts bringing charcoal for the relighting were stuck in it. Everyone with a strong back and nothing to do went up the hill to help. Wurdren had a strong back and nothing to do, and Col came too, walking beside him with his hands in his pockets.
 
 It was a long, cold, filthy day. They unloaded carts, dug them out, pushed them, reloaded them and pushed again, and by noon Wurdren had mud to the knees, mud down his collar, and, somehow, mud in his left ear.
 
@@ -217,13 +217,13 @@ At the top of the worst stretch, where the road came out of the trees, a line of
 
 "Then tell the guild." The farmer nodded down the valley at the gray threads of the ditches. "On relighting day we'll be here, in the road. Their fires don't light until our water runs clean."
 
-"I'm not— I'm only—" Wurdren stopped. It wasn't his quarrel, and the man wasn't being unreasonable. He was only tired.
+"I'm not— I'm only—" Wurdren stopped. It wasn't his quarrel, and the man wasn't being unreasonable, only tired.
 
 "Tell them," the farmer said, and went back to folding his arms.
 
 By evening they had three carts out of the worst of it, as far as the washout below the woods, where there was nothing to do but wait for the fourth. The fourth was stuck fast and would sit until the ground dried, and none of the charcoal was going anywhere without it.
 
-On the ride back down, with dusk coming on and his coat heavy with mud, Wurdren was tired enough that it took him some time to notice Col had stopped talking.
+On the walk back down, with dusk coming on and his coat heavy with mud, Wurdren was tired enough that it took him some time to notice Col had stopped talking.
 
 "I got a letter," Col said.
 
@@ -233,7 +233,7 @@ Col took it out of his coat. It was folded small and a little damp at the edges.
 
 "May I?"
 
-Col handed it up. Wurdren held it against the last of the light in the west, as a moneychanger holds up a coin to see whether it has been clipped. The paper was heavy and cream-colored and far too fine for Stonefield, and in the grain of it was a watermark: a small ship's lantern, the kind that hangs from a stern rail. He didn't know what it meant. Some papermaker somewhere with ships, he supposed. He handed it back.
+Col handed it over. Wurdren held it against the last of the light in the west, as a moneychanger holds up a coin to see whether it has been clipped. The paper was heavy and cream-colored and far too fine for Stonefield, and in the grain of it was a watermark: a small ship's lantern, the kind that hangs from a stern rail. He didn't know what it meant. Some papermaker somewhere with ships, he supposed. He handed it back.
 
 "Take it," he said.
 
@@ -241,7 +241,7 @@ Col looked up at him.
 
 "Take it." He said it gently, and he meant it, and he could hear in his own voice how much he had wanted someone to say that to him. "Somebody's seen your work and thinks it's worth something. You can wait a long time for that." He looked out over the dark flat toward the ditches. "If the guild won't see it, let somebody else."
 
-Col folded the letter small again and put it away, and they rode the rest of the way down without talking.
+Col folded the letter small again and put it away, and they walked the rest of the way down without talking.
 
 ---
 
@@ -303,7 +303,7 @@ Vey turned around.
 
 "No," said Wurdren. He had no idea what came next, and he said so.
 
-Nell Haskett came in at the hall door, with her arms full of something and her face full of purpose. According to the porter she had been waiting on the steps for an hour, waiting for somebody to say the word *water* loudly enough to give her an excuse.
+Nell Haskett came in at the hall door with her face full of purpose. According to the porter she had been waiting on the steps for an hour, waiting for somebody to say the word *water* loudly enough to give her an excuse.
 
 "Then come and look at it," she said. "All three of you. It's a short walk. Some of it already runs clean." She looked at Vey. "The farmers will move for a guildmaster who's seen the ditch. They won't move for one who hasn't."
 
@@ -321,7 +321,7 @@ The water was clear. It ran bright over the stones between banks where the grass
 
 The three judges stood and looked at it for a long time.
 
-"The Bracket forge put in one of Col's troughs before the winter," Nell said. "That's all. That's the whole difference."
+"One trough," Nell said. "That's the whole difference."
 
 "Every farm on this flat," Vey said slowly, "has a page in my ledger about this ditch."
 
@@ -347,7 +347,7 @@ Tamsin welded the tang that night. She used ordinary steel and did it perfectly,
 
 Wurdren weighed it in his hand. It was a fine, ordinary sword, and it balanced exactly as it always had.
 
-On his way to The Quench he passed Col's bench, where the new master's tools were laid out for the morning, and saw the letter lying among them: cream paper, folded small, still a little damp at the edges, and unanswered. Col was across the lane with Kerra and half the upper street, arguing happily about something, and didn't see him look.
+On his way to The Quench he passed Col's bench, where the new master's tools were laid out for the morning, and saw the letter lying among them: cream paper, folded small, and unanswered. Col was across the lane with Kerra and half the upper street, arguing happily about something, and didn't see him look.
 
 At The Quench the keeper put a bowl of forged harvest stew in front of him: barley and beef and roots in a dark, smoky broth that forge towns and farm towns both claimed to have invented. Somebody at the fire end asked about his sword.
 
@@ -361,4 +361,4 @@ The keeper waited for the rest. There wasn't any. "Well," he said, sounding almo
 
 He meant to leave the next morning. He stayed two more days instead.
 
-On the second morning Nell Haskett came up the lane to find him and said that her other gate was sticking, the one on the far field. He spent the day on it and got it very nearly right.
+On the second morning he walked down the lane to Nell Haskett's other gate, the one on the far field, which he had heard was sticking. He spent the day on it and got it very nearly right.

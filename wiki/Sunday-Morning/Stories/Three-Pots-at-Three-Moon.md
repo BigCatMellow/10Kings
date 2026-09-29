@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, businesses and plot details are new and non-canon. The stew lineage illustrates the [Food Diaspora](../../Culture/Food-Diaspora-and-Adaptation.md) model; it is not a canonical dish history, and the serving ritual belongs to one family, not to Deepwood as a whole.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/Three-Pots-at-Three-Moon.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/Three-Pots-at-Three-Moon.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for James's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -225,4 +225,8 @@ Drafted 2026-09-27: [Three Pots at Three Moon](../Drafts/Three-Pots-at-Three-Moo
 - **DO, fourth pass (uniqueness)** — Jory wears an interpreter's collar, not ink, and the stall form comes from Amaranth Doss's own drawer, not a forgotten cabinet. Both changes separate this story from The Goat File.
 - **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; James left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). The Ardens' form is now a festival-nights licence, so nothing jumps the forty-one-name list, and the spot has been empty all summer rather than two years. Tobiah no longer says Garro's line about mushrooms costing more than meat (C5). Cut the rumor that gave away Halloran's reveal a scene early, and two extra silences.
 
-**Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.
+### Stage 4 — JUDGE
+
+Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reader, before checking it against this page, the Notes and the cross-story ledger ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)). A second reviewer read all seven in order, cold. **Verdict: pass.** Every promise, C3 and C5 hold; the ending is the collection's warmest. Small fixes taken (DO): the narration no longer calls Jory a clerk (he is an interpreter; Halloran still calls him one); cut Tobiah's region-wide "Half the villages lost their whole crop"; "Up the lane, on the next street over" became "On the next street over"; the "Four days out… Three days out" openers, which copied One Square's countdown wording word for word, are now "The next night… The day after".
+
+**Next level:** L4 Reviewed, once James has read it. His open questions from the review are on [Decisions](../Notes/Decisions.md#open-for-james).

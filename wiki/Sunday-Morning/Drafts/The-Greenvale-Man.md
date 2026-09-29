@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft. Provisional, non-canon.** Prose draft of [The Greenvale Man](../Stories/The-Greenvale-Man.md). Its pass history is in the story page's Stage 3 — DO section. Not yet reviewed at L4. Kettle Cove, Narrow Sound, the regatta and every character are provisional; see the [promotion rule](../Notes/Rules.md#promotion-rule). Northwind's two "we"s and its evidential forms are rendered in English, following [Language and Thought](../../Culture/Language-and-Thought.md#northwind-languages); no conlang words are invented.
+**L3 draft. Provisional, non-canon.** Prose draft of [The Greenvale Man](../Stories/The-Greenvale-Man.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting James's reading. Kettle Cove, Narrow Sound, the regatta and every character are provisional; see the [promotion rule](../Notes/Rules.md#promotion-rule). Northwind's two "we"s and its evidential forms are rendered in English, following [Language and Thought](../../Culture/Language-and-Thought.md#northwind-languages); no conlang words are invented.
 
 **Fourth pass (uniqueness):** the story opens on the haul-out, not on a line of dialogue, since five of the seven drafts opened that way.
 
@@ -30,7 +30,7 @@ The whole slipway breathed out at once.
 
 Last Sail meant the regatta against Narrow Sound, across the headland. Narrow Sound had beaten the *Kittiwake* three years running, and the regatta bell hung in their tower now, and everybody in Kettle Cove knew to the day how long it had been there.
 
-"We'll write to your father," said Old Rask.
+"We'll write to your father," said Old Rask to Brenna, whose father had built the *Kittiwake* before he went inland.
 
 There were two ways to say *we* in Northwind. One had room in it for whoever you were talking to, and one didn't. Most people used the narrow one for family and the wide one for the cove. Rask used the narrow one for the cove, and he never once used the wide one when Aldo could hear.
 
@@ -152,7 +152,7 @@ The second rumor was about Narrow Sound, and nobody brought that one home for fu
 
 Narrow Sound's children spied on the boat shed that week. Everybody's children spied on everybody's sheds before Last Sail; it was practically part of the festival. Two of them lay on the shingle bank above the shed door every afternoon in plain view and carried everything they saw back across the headland. Aldo waved at them. After a few days they waved back.
 
-One of them was the niece of Narrow Sound's champion rower, Sigra Ulfsen, who was fast and tall and everybody's cousin, Brenna's included. Her uncle had lost his boat to raiders that summer. Kettle Cove had sent food.
+One of them was the niece of Narrow Sound's champion rower, Sigra Ulfsen, who was fast and tall and everybody's cousin, Brenna's included. Sigra's uncle had lost his boat to raiders that summer. Kettle Cove had sent food.
 
 "And now it is said they shelter them," Hild said, turning fish beside him on the one afternoon he came to help. It wasn't her shell voice.
 

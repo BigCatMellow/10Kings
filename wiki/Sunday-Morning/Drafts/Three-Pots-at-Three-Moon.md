@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft. Provisional, non-canon.** Prose draft of [Three Pots at Three Moon](../Stories/Three-Pots-at-Three-Moon.md). Its pass history is in the story page's Stage 3 — DO section. Not yet reviewed at L4. The neighborhood, the permit rules, the family and its serving ritual are provisional. The ritual belongs to this family and to one Deepwood village, not to Deepwood as a whole. See the [promotion rule](../Notes/Rules.md#promotion-rule).
+**L3 draft. Provisional, non-canon.** Prose draft of [Three Pots at Three Moon](../Stories/Three-Pots-at-Three-Moon.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting James's reading. The neighborhood, the permit rules, the family and its serving ritual are provisional. The ritual belongs to this family and to one Deepwood village, not to Deepwood as a whole. See the [promotion rule](../Notes/Rules.md#promotion-rule).
 
 **Fourth pass (uniqueness):** Jory wears an interpreter's collar, not ink, to separate him from Wen in The Goat File. The stall form comes out of Amaranth Doss's own desk drawer, not a forgotten cabinet, so it doesn't echo The Goat File's untouched archive.
 
@@ -84,7 +84,7 @@ Five days before the festival, Jory went to the Market Regulation office, which 
 
 ---
 
-Four days out, Tobiah made his version in the kitchen of the dockside eating house where he cooked the night shift. It was a long, low room full of smoke and salt, and the dock workers coming off the tide ate the way Tobiah ate: standing up, fast, straight from the pot.
+The next night Tobiah made his version in the kitchen of the dockside eating house where he cooked the night shift. It was a long, low room full of smoke and salt, and the dock workers coming off the tide ate the way Tobiah ate: standing up, fast, straight from the pot.
 
 "You can't hurry it," Tobiah said, stirring. "That's the thing. Everybody hurries it. Nana had it on before the gulls were up, before anybody was up. You'd come downstairs in the morning and the whole house already smelled of it." He tasted from the spoon. "On at dawn. Every time."
 
@@ -92,7 +92,7 @@ It was a good stew, dark and rich and hot with pepper. And where Jory remembered
 
 "It's fish," he said.
 
-"It's fish," Tobiah agreed. "There's a blight up in the uplands — two summers now. Half the villages lost their whole crop." He added more pepper. "Down here we've got fish. The lads like it."
+"It's fish," Tobiah agreed. "There's a blight up in the uplands — two summers now." He added more pepper. "Down here we've got fish. The lads like it."
 
 The lads did like it. The man at Jory's elbow was on his third bowl. An older worker from somewhere up the coast said something to Tobiah in harbor creole that Jory only half caught, and Tobiah laughed and answered in the same, and without anyone asking, Jory turned to the man at his elbow and put the joke into ordinary Port speech. The man laughed, and so did Tobiah.
 
@@ -102,7 +102,7 @@ Jory had always done that. At every family dinner he could remember he had sat b
 
 ---
 
-Three days out, Ines made hers. She didn't put it on at dawn; she put it on after breakfast, like a civilized person. Her kitchen was tiled in white and blue, with a window full of light and a shelf of glass spice jars from half the ports on the coast, and the stew she made in it was magnificent. It was deep red and fragrant with a dozen spices Jory couldn't name, the meat was falling apart, and there were mushrooms in it — real forest mushrooms. He did not want to know what she had paid for them.
+The day after, Ines made hers. She didn't put it on at dawn; she put it on after breakfast, like a civilized person. Her kitchen was tiled in white and blue, with a window full of light and a shelf of glass spice jars from half the ports on the coast, and the stew she made in it was magnificent. It was deep red and fragrant with a dozen spices Jory couldn't name, the meat was falling apart, and there were mushrooms in it — real forest mushrooms. He did not want to know what she had paid for them.
 
 "The way great-grandmother would have made it," Ines said, ladling, "if she could have afforded to."
 
@@ -232,7 +232,7 @@ It was a family stall permit. It allowed a festival-street spot to be held joint
 
 He filled it in on the counter with three names, and Amaranth Doss read it through twice and then, with an expression of profound professional satisfaction, stamped it green. He had the blue stamp from the ward office across the square before noon.
 
-Then, because he was a clerk and couldn't help it, he went back up to her counter and asked for a second form: a festival-nights license for the empty spot beside his family's, the kind the committee granted for the festival nights and no longer. The applicants had no permanent address yet and a farm's worth of cooking. He filled in everything he could, and wrote out a list of what he couldn't so that the Ardens could finish it that night.
+Then, because he couldn't help it, he went back up to her counter and asked for a second form: a festival-nights license for the empty spot beside his family's, the kind the committee granted for the festival nights and no longer. The applicants had no permanent address yet and a farm's worth of cooking. He filled in everything he could, and wrote out a list of what he couldn't so that the Ardens could finish it that night.
 
 He was still at the counter when Inspector Halloran came in off his rounds, gray with the morning, his book fat with fines. Halloran read the form over Jory's shoulder, and read the name, and read it again.
 
@@ -266,7 +266,7 @@ Jory took the kept-back bowl from the side of the counter, where Ines had turned
 
 Mrs. Arden looked at the bowl, and at him, and at the three pots with their three painted boards, and at Mother Seral standing behind them with her arms folded. Then she took the bowl in both hands and ate it standing up, the way Tobiah ate. When she had finished she said quietly, "That's very good," and gave him back the bowl with a cup of her apple barley in it. Jory, who did not cook, stood between the two stalls and ate it.
 
-Up the lane, on the next street over, someone was telling someone else that the new lot on festival street were running goods through the fish market. Jory heard it over his shoulder while he was doing something else. On this street, nobody was listening.
+On the next street over, someone was telling someone else that the new lot on festival street were running goods through the fish market. Jory heard it over his shoulder while he was doing something else. On this street, nobody was listening.
 
 Halloran came by at the fourth bell with his book closed under his arm. He looked at both posts and both stamps and the three pots, bought a bowl of Tobiah's fish and pepper, and ate it standing up at the end of the counter.
 

@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, place names within the town and plot details are new and non-canon. The historical explanation for the festival split is a story device, not settled chronology.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/One-Square-Two-Harvests.md) (fourth pass, checked for fit and uniqueness across the collection; not yet reviewed). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/One-Square-Two-Harvests.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for James's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -234,4 +234,8 @@ Drafted 2026-09-27: [One Square Two Harvests](../Drafts/One-Square-Two-Harvests.
 - **Sunday Morning pass:** the land agent's lenders are trimmed to one clause. The lonely last morning ends with the Salves' dog, rain, and Pell's own ruling that it's his morning to walk it.
 - **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; James left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Cut the agent's "I'm a link in a chain, and I'm being pulled" (it repeated the narration and was the one line in story 1 hinting at a larger scheme). Cut old Scarth's "You can't see anything coming", which contradicted his letter in The Greenvale Man (C2). Renamed the Orrin farm to the Upcott farm, a false echo of Orin Slatehallow.
 
-**Next level:** L4 Reviewed — an independent JUDGE pass on this draft, then James reads it.
+### Stage 4 — JUDGE
+
+Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reader, before checking it against this page, the Notes and the cross-story ledger ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)). A second reviewer read all seven in order, cold. **Verdict: pass with small fixes.** Every plan and ledger item (C1–C3) is paid off; the loft and the ending land. Fixed (DO): Idris's mother read as dead (a portrait in the hall, "would have loved you") though she is alive, so she now watches from an upstairs window and "is going to love you"; cut the gloss after "Pell had seen that look for forty years" and the sentence naming the laugh as good news; attributed the loft's "Sunplains return" line to Idris; removed Ironcrest's "short hours" in Year 1 autumn, which story 4 dates to after the grain crash. Left: the festival section runs long (optional PLAN trim, not taken).
+
+**Next level:** L4 Reviewed, once James has read it. His open questions from the review are on [Decisions](../Notes/Decisions.md#open-for-james).
