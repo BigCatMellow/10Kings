@@ -2,7 +2,7 @@
 
 ## Status
 
-**Active plan, agreed 2026-09-29 ("go", with the proposed decisions A1–A4). Part 1 approved ("looks better, go with part 2"); Part 2 approved ("part 2 is approved"); Part 3 approved ("go for part 4"); Part 4 built.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
+**Active plan, agreed 2026-09-29 ("go", with the proposed decisions A1–A4). Part 1 approved ("looks better, go with part 2"); Part 2 approved ("part 2 is approved"); Part 3 approved ("go for part 4"); Part 4 approved ("go for it", after the board regrouping); Part 5 built.** James asked for a map of the whole 10 Kings project, "all of it: the cultures, the food, the religions, the guilds, the characters", broken into parts before being tied together. This page owns that plan. The [Atlas index](README.md) lists what's built.
 
 ## What it is
 
@@ -57,6 +57,7 @@ Sources: [Politics](../wiki/Politics/), [Weapons and Elite Troops](../wiki/Cultu
 
 Before the Convergence, the Convergence, and contested memory: who remembers what differently.
 Sources: [History](../wiki/History/).
+**Built 2026-09-29: [Part 5](history/README.md).** 43 things (six regional "before the Convergence" cards and Port's origins; the Convergence, its six likely provisions and the Council's rise; nine provisional conflict names; six remembered conflicts and eleven possible tellings, each in the column of whoever tells it), 34 connections (29 stated, 5 inferred), 9 gaps. Card status follows each page's own label, so the Convergence's cards carry "Established concept (details still developing)" while their text keeps the page's "likely" and "a strong version". An independent check found the Council's origin and a Nomads link stated too firmly, tellings that dropped "claim" and "may", Port's origins filed as pre-Convergence against the Atlas's own gap, and a gap that misread Ember Remembrance; all fixed. The board's gap lists now render bold instead of showing `**`.
 
 ### Part 6: People
 

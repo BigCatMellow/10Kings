@@ -1,0 +1,1470 @@
+{
+  "part": 5,
+  "short": "History",
+  "title": "History",
+  "lanes": [
+    {
+      "id": "history",
+      "label": "History"
+    }
+  ],
+  "subtitle": "Before the Convergence, the Convergence itself, and contested memory: who remembers what differently.",
+  "schematic": "The Convergence, its provisions, the Council's rise, the nine provisional conflict names and the contested memories sit in a History column, since none belongs to one region. Each region column gets a card for its politics before the Convergence and a Memory heading holding its own version of each remembered conflict, so the Region view shows who remembers what, and the Kind view lines all the versions up side by side.",
+  "about": "Atlas Part 5. Sources: Pre-Convergence History, The Convergence, Contested Historical Memory, the Historical identity sections of the region pages, Port, Nomads, Festivals and Seasonal Life, and World Rules.",
+  "kinds": {
+    "overview": "Overview",
+    "origin": "Origins",
+    "before": "Before the Convergence",
+    "episode": "Conflict tradition",
+    "event": "Event",
+    "provision": "Convergence provision",
+    "memory": "Remembered conflict",
+    "version": "Possible telling"
+  },
+  "layers": [
+    {
+      "id": "hi-convergence",
+      "label": "The Convergence",
+      "default": true
+    },
+    {
+      "id": "hi-memory",
+      "label": "Memories and their tellings",
+      "default": true
+    },
+    {
+      "id": "hi-inferred",
+      "label": "Conflict names placed by name (inferred)",
+      "default": false
+    }
+  ],
+  "card_schema": {
+    "overview": {
+      "rows": [
+        {
+          "label": "Ended in",
+          "always": false
+        },
+        {
+          "label": "Left behind",
+          "always": false
+        }
+      ],
+      "facts": [
+        {
+          "key": "Why it ended",
+          "always": false
+        },
+        {
+          "key": "Traces",
+          "always": false
+        }
+      ]
+    },
+    "origin": {
+      "rows": [],
+      "facts": [
+        {
+          "key": "How it happened",
+          "always": true
+        },
+        {
+          "key": "Early advantages",
+          "always": false
+        }
+      ]
+    },
+    "before": {
+      "rows": [],
+      "facts": [
+        {
+          "key": "Powers",
+          "always": true
+        },
+        {
+          "key": "How power worked",
+          "always": true
+        },
+        {
+          "key": "What it left",
+          "always": false
+        },
+        {
+          "key": "Note",
+          "always": false
+        }
+      ]
+    },
+    "episode": {
+      "rows": [
+        {
+          "label": "Region",
+          "always": true
+        }
+      ],
+      "facts": [
+        {
+          "key": "Note",
+          "always": true
+        }
+      ]
+    },
+    "event": {
+      "rows": [
+        {
+          "label": "Came after",
+          "always": false
+        },
+        {
+          "label": "Negotiated in",
+          "always": false
+        },
+        {
+          "label": "Also involved",
+          "always": false
+        },
+        {
+          "label": "Provisions",
+          "always": false
+        },
+        {
+          "label": "Led to",
+          "always": false
+        },
+        {
+          "label": "Grew out of",
+          "always": false
+        },
+        {
+          "label": "Became",
+          "always": false
+        }
+      ],
+      "facts": [
+        {
+          "key": "What it was",
+          "always": true
+        },
+        {
+          "key": "Why",
+          "always": true
+        },
+        {
+          "key": "Where",
+          "always": false
+        },
+        {
+          "key": "What it didn't solve",
+          "always": false
+        },
+        {
+          "key": "Cultural effect",
+          "always": false
+        }
+      ]
+    },
+    "provision": {
+      "rows": [
+        {
+          "label": "Provision of",
+          "always": true
+        },
+        {
+          "label": "Applies to",
+          "always": false
+        }
+      ],
+      "facts": [
+        {
+          "key": "What it did",
+          "always": true
+        },
+        {
+          "key": "Certainty",
+          "always": true
+        }
+      ]
+    },
+    "memory": {
+      "rows": [
+        {
+          "label": "Versions",
+          "always": true
+        },
+        {
+          "label": "Festival",
+          "always": false
+        },
+        {
+          "label": "May explain",
+          "always": false
+        },
+        {
+          "label": "About",
+          "always": false
+        }
+      ],
+      "facts": [
+        {
+          "key": "What's remembered",
+          "always": true
+        },
+        {
+          "key": "Caution",
+          "always": true
+        },
+        {
+          "key": "Story use",
+          "always": false
+        }
+      ]
+    },
+    "version": {
+      "rows": [
+        {
+          "label": "Version of",
+          "always": true
+        }
+      ],
+      "facts": [
+        {
+          "key": "Told as",
+          "always": true
+        },
+        {
+          "key": "Note",
+          "always": false
+        }
+      ]
+    },
+    "region": {
+      "rows": [
+        {
+          "label": "Convergence",
+          "always": false
+        },
+        {
+          "label": "Conflict traditions",
+          "always": false
+        }
+      ]
+    },
+    "hub": {
+      "rows": [
+        {
+          "label": "Convergence",
+          "always": false
+        },
+        {
+          "label": "Remembered",
+          "always": false
+        }
+      ]
+    },
+    "underground": {
+      "rows": [
+        {
+          "label": "Convergence",
+          "always": false
+        }
+      ]
+    },
+    "council": {
+      "rows": [
+        {
+          "label": "Origins",
+          "always": false
+        }
+      ]
+    },
+    "government": {
+      "rows": [
+        {
+          "label": "History",
+          "always": false
+        }
+      ]
+    },
+    "festival": {
+      "rows": [
+        {
+          "label": "Remembers",
+          "always": false
+        }
+      ]
+    },
+    "people": {
+      "rows": [
+        {
+          "label": "History",
+          "always": false
+        }
+      ]
+    }
+  },
+  "nodes": [
+    {
+      "id": "hi-before",
+      "kind": "overview",
+      "label": "Before the Convergence",
+      "status": "No status label",
+      "lane": "history",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#core-rule",
+      "text": "The pre-Convergence world was messy: modern regions shouldn't be projected backward as eternal states with fixed borders. Peace came as a bargain among tired, self-interested powers, not sudden enlightenment.",
+      "short_text": "A messy world of shifting claims; peace came from exhaustion.",
+      "facts": {
+        "Principle": "The pre-Convergence world was messy. Modern regions should not be projected backward as eternal states with fixed borders; the modern labels describe cultural-geographic zones that emerged from many earlier peoples, towns, kingdoms, confederacies, warbands, guild networks and migrations.",
+        "Scope": "Borders were poorly surveyed; control followed roads, rivers, fortresses, mines, fields, harbors and kinship; rulers claimed territory they didn't effectively govern; towns could change allegiance without the countryside; people paid taxes or tribute to several authorities; marriage could shift a valley more permanently than a battle; mercenaries changed sides; famine altered alliances; raids didn't always mean conquest; local elites survived regime changes by changing patrons.",
+        "Why it ended": "Not because everyone became enlightened. Trade losses accumulated; wars repeatedly failed to secure permanent gains; famine and blight exposed interdependence; guilds wanted predictable markets; merchants wanted safe routes; rulers wanted borders recognized; local populations were exhausted; bandits and independent warlords profited from disorder; no major power could impose a durable settlement alone. The Convergence was a bargain among tired, self-interested powers that also happened to create real public benefits.",
+        "Traces": "Modern landscapes should preserve it: ruined towers; roads to vanished markets; duplicate fortifications; abandoned terraces; boundary stones in the wrong kingdom; shrines kept by people now living across the border; towns with two legal traditions; noble claims based on ancient marriages; old canals still controlled under obsolete treaties.",
+        "Rule": "History is messy: temporary victories, reversals, disputed claims, marriages, defections, raids, trade agreements, migrations, local exceptions and contradictory memories. Avoid \"Region A defeated Region B and owned this land until the Convergence.\""
+      },
+      "fact_src": {
+        "Principle": "History/Pre-Convergence.md#core-rule",
+        "Scope": "History/Pre-Convergence.md#general-pattern",
+        "Why it ended": "History/Pre-Convergence.md#why-the-convergence-became-possible",
+        "Traces": "History/Pre-Convergence.md#material-traces",
+        "Rule": "World-Rules.md#4-history-is-messy"
+      }
+    },
+    {
+      "id": "hi-before-ironcrest",
+      "kind": "before",
+      "label": "Ironcrest before the Convergence",
+      "status": "No status label",
+      "lane": "ironcrest",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#ironcrest-predecessor-politics",
+      "text": "Wars over ore rarely produced permanent frontiers: one ruler might seize a mine while losing the road that made it profitable.",
+      "short_text": "Ore wars rarely made lasting frontiers.",
+      "facts": {
+        "Powers": "Mine-holding clans, fortified smith towns, valley lordships, merchant-backed warbands and craft alliances. The region page adds smith-chiefs, mine holders, fortified towns, valley rulers, merchant families and warbands.",
+        "How power worked": "Wars over ore rarely produced permanent frontiers: one ruler might seize a mine while losing the road that made it profitable. Towns changed allegiance through marriage or debt; Greenvale rulers periodically held western lowlands; Ironcrest powers periodically pushed into food-producing country; forest margins changed hands repeatedly.",
+        "What it left": "Remembered as both achievement and warning. Its political culture values reliable agreements partly because its own history shows how ruinous resource warfare can become."
+      },
+      "fact_src": {
+        "Powers": "History/Pre-Convergence.md#ironcrest-predecessor-politics",
+        "How power worked": "History/Pre-Convergence.md#ironcrest-predecessor-politics",
+        "What it left": "Regions/Ironcrest.md#historical-identity"
+      },
+      "see": [
+        "Regions/Ironcrest.md#historical-identity"
+      ]
+    },
+    {
+      "id": "hi-before-northwind",
+      "kind": "before",
+      "label": "Northwind before the Convergence",
+      "status": "No status label",
+      "lane": "northwind",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#northwind-predecessor-politics",
+      "text": "Maritime rights overlapped political territory.",
+      "short_text": "Water and access often mattered more than land.",
+      "facts": {
+        "Powers": "Coastal clans, harbor confederacies, island rulers, fishing-right alliances and raiding fleets. The region page adds fishing confederacies, harbor towns, raiding bands and inland chiefs.",
+        "How power worked": "Maritime rights overlapped political territory. Control of water and seasonal access often mattered more than land: a defeated clan could lose a town yet keep fishing from allied harbors, and a border on shore didn't decide who fished a bank or used a winter anchorage.",
+        "What it left": "It explains why modern Northwind politics stay sensitive to access rights, clan obligation, shared rescue, maritime law, and outsiders buying control of harbors."
+      },
+      "fact_src": {
+        "Powers": "History/Pre-Convergence.md#northwind-predecessor-politics",
+        "How power worked": "History/Pre-Convergence.md#northwind-predecessor-politics",
+        "What it left": "Regions/Northwind.md#historical-identity"
+      },
+      "see": [
+        "Regions/Northwind.md#historical-identity"
+      ]
+    },
+    {
+      "id": "hi-before-greenvale",
+      "kind": "before",
+      "label": "Greenvale before the Convergence",
+      "status": "No status label",
+      "lane": "greenvale",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#greenvale-predecessor-politics",
+      "text": "Crop failures repeatedly destabilized politics.",
+      "short_text": "Crop failures made it both victim and raider.",
+      "facts": {
+        "Powers": "Estate rulers, village leagues, river towns, grain confederacies and irrigation associations. The region page adds small landholding communities and seed-sharing alliances.",
+        "How power worked": "Crop failures repeatedly destabilized politics. In scarcity Greenvale was both victim and aggressor: its rulers raided neighbors for food, annexed or tried to expand into healthier land, fought internally, and sometimes invited foreign military support.",
+        "What it left": "The Seven-year Blight left traditions of storage, crop diversity, communal aid, and suspicion of concentrated control over seed and grain."
+      },
+      "fact_src": {
+        "Powers": "History/Pre-Convergence.md#greenvale-predecessor-politics",
+        "How power worked": "History/Pre-Convergence.md#greenvale-predecessor-politics",
+        "What it left": "Regions/Greenvale.md#historical-identity"
+      },
+      "see": [
+        "Regions/Greenvale.md#historical-identity"
+      ]
+    },
+    {
+      "id": "hi-before-highridge",
+      "kind": "before",
+      "label": "Highridge before the Convergence",
+      "status": "No status label",
+      "lane": "highridge",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#highridge-predecessor-politics",
+      "text": "Power followed route control rather than continuous land.",
+      "short_text": "Power followed routes, not land.",
+      "facts": {
+        "Powers": "Toll lords, caravan families, herding confederacies, fortified pass towns and merchant coalitions. The region page adds pass lords, toll towns and fortress communities.",
+        "How power worked": "Power followed route control rather than continuous land. A ruler could control a pass but not the valley below it, and a merchant league could effectively govern a route crossing several jurisdictions.",
+        "What it left": "The shift from toll warfare toward negotiated passage is one of the foundations of modern Highridge identity."
+      },
+      "fact_src": {
+        "Powers": "History/Pre-Convergence.md#highridge-predecessor-politics",
+        "How power worked": "History/Pre-Convergence.md#highridge-predecessor-politics",
+        "What it left": "Regions/Highridge-Plateau.md#historical-identity"
+      },
+      "see": [
+        "Regions/Highridge-Plateau.md#historical-identity"
+      ]
+    },
+    {
+      "id": "hi-before-deepwood",
+      "kind": "before",
+      "label": "Deepwood before the Convergence",
+      "status": "No status label",
+      "lane": "deepwood",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#deepwood-predecessor-politics",
+      "text": "Forest edges expanded and contracted as outsiders cleared land and local groups later reclaimed it.",
+      "short_text": "Forest edges pushed back and reclaimed.",
+      "facts": {
+        "Powers": "Village alliances, forest clans, river settlements, warden networks, religious centers and hunting territories. The region page adds trade settlements and forest-edge petty rulers.",
+        "How power worked": "Forest edges expanded and contracted as outsiders cleared land and local groups later reclaimed it. Outsiders pushed in for farmland, fuel, timber, hunting and roads; Deepwood groups sometimes united against them, sometimes fought each other, and sometimes profited from them."
+      },
+      "fact_src": {
+        "Powers": "History/Pre-Convergence.md#deepwood-predecessor-politics",
+        "How power worked": "History/Pre-Convergence.md#deepwood-predecessor-politics"
+      },
+      "see": [
+        "Regions/Deepwood.md#historical-identity"
+      ]
+    },
+    {
+      "id": "hi-before-sunplains",
+      "kind": "before",
+      "label": "Sunplains before the Convergence",
+      "status": "No status label",
+      "lane": "sunplains",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#sunplains-predecessor-politics",
+      "text": "Waterworks created unusual political maps: a city could control a canal crossing another ruler's land.",
+      "short_text": "Borders often followed canals; betrayal was normal.",
+      "facts": {
+        "Powers": "City-states, irrigation leagues, merchant ports, noble estates and rural client territories. The region page adds port towns, noble houses and merchant dynasties.",
+        "How power worked": "Waterworks created unusual political maps: a city could control a canal crossing another ruler's land. Wars could be fought over canal gates, springs, river diversions, orchard land, ports and trade rights; temporary alliances were common and betrayal was normal."
+      },
+      "fact_src": {
+        "Powers": "History/Pre-Convergence.md#sunplains-predecessor-politics",
+        "How power worked": "History/Pre-Convergence.md#sunplains-predecessor-politics"
+      },
+      "see": [
+        "Regions/Sunplains.md#historical-identity"
+      ]
+    },
+    {
+      "id": "hi-before-port",
+      "kind": "origin",
+      "label": "How Port became central",
+      "status": "Working canon",
+      "lane": "port",
+      "section": "Origins",
+      "src": "Places/Port.md#why-port-became-central",
+      "text": "Port likely began at a sheltered deep-water harbor, estuary or strait where several trade systems met; the key historical change was institutional, as merchants came to trust it.",
+      "short_text": "A good harbor, then trust: contracts, storage, credit.",
+      "facts": {
+        "How it happened": "The key historical change was institutional. Merchants began trusting Port because contracts were enforced, foreign merchants could own or lease warehouses, weights and measures were standardized, currencies could be exchanged, disputes could be arbitrated, neutral storage existed, ships could be repaired, creditors and insurers had offices there, and foreign communities were protected. Once those systems existed, trade attracted more trade.",
+        "Early advantages": "It likely began at a sheltered deep-water harbor, estuary or strait where several trade systems naturally met. Early advantages may have included reliable anchorage, access to inland rivers or roads, nearby fresh water and food, a position on both northern and southern sea routes, and a location hard for any one kingdom to monopolize without alarming the others."
+      }
+    },
+    {
+      "id": "hi-ep-ore-scar-strife",
+      "kind": "episode",
+      "label": "Ore Scar Strife",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#working-conflict-traditions",
+      "text": "A conflict named in earlier brainstorming; a provisional historical episode, not yet hard canon.",
+      "short_text": "Provisional episode from earlier notes.",
+      "facts": {
+        "Note": "Useful as a provisional historical episode, not yet hard canon. The final history should revise these into overlapping campaigns with multiple participants, reversals and local consequences rather than clean one-on-one wars."
+      },
+      "minor": true
+    },
+    {
+      "id": "hi-ep-lowland-famine-raids",
+      "kind": "episode",
+      "label": "Lowland Famine Raids",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#working-conflict-traditions",
+      "text": "A conflict named in earlier brainstorming; a provisional historical episode, not yet hard canon.",
+      "short_text": "Provisional episode from earlier notes.",
+      "facts": {
+        "Note": "Useful as a provisional historical episode, not yet hard canon. The final history should revise these into overlapping campaigns with multiple participants, reversals and local consequences rather than clean one-on-one wars."
+      },
+      "minor": true
+    },
+    {
+      "id": "hi-ep-coldwave-incursions",
+      "kind": "episode",
+      "label": "Coldwave Incursions",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#working-conflict-traditions",
+      "text": "A conflict named in earlier brainstorming; a provisional historical episode, not yet hard canon.",
+      "short_text": "Provisional episode from earlier notes.",
+      "facts": {
+        "Note": "Useful as a provisional historical episode, not yet hard canon. The final history should revise these into overlapping campaigns with multiple participants, reversals and local consequences rather than clean one-on-one wars."
+      },
+      "minor": true
+    },
+    {
+      "id": "hi-ep-ridge-pass-toll-wars",
+      "kind": "episode",
+      "label": "Ridge Pass Toll Wars",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#working-conflict-traditions",
+      "text": "A conflict named in earlier brainstorming; a provisional historical episode, not yet hard canon.",
+      "short_text": "Provisional episode from earlier notes.",
+      "facts": {
+        "Note": "Useful as a provisional historical episode, not yet hard canon. The final history should revise these into overlapping campaigns with multiple participants, reversals and local consequences rather than clean one-on-one wars."
+      },
+      "minor": true
+    },
+    {
+      "id": "hi-ep-orchard-lord-feuds",
+      "kind": "episode",
+      "label": "Orchard-Lord Feuds",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#working-conflict-traditions",
+      "text": "A conflict named in earlier brainstorming; a provisional historical episode, not yet hard canon.",
+      "short_text": "Provisional episode from earlier notes.",
+      "facts": {
+        "Note": "Useful as a provisional historical episode, not yet hard canon. The final history should revise these into overlapping campaigns with multiple participants, reversals and local consequences rather than clean one-on-one wars."
+      },
+      "minor": true
+    },
+    {
+      "id": "hi-ep-deepwood-edge-skirmishes",
+      "kind": "episode",
+      "label": "Deepwood Edge Skirmishes",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#working-conflict-traditions",
+      "text": "A conflict named in earlier brainstorming; a provisional historical episode, not yet hard canon.",
+      "short_text": "Provisional episode from earlier notes.",
+      "facts": {
+        "Note": "Useful as a provisional historical episode, not yet hard canon. The final history should revise these into overlapping campaigns with multiple participants, reversals and local consequences rather than clean one-on-one wars."
+      },
+      "minor": true
+    },
+    {
+      "id": "hi-ep-iron-field-conquest",
+      "kind": "episode",
+      "label": "Iron-Field Conquest",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#working-conflict-traditions",
+      "text": "A conflict named in earlier brainstorming; a provisional historical episode, not yet hard canon.",
+      "short_text": "Provisional episode from earlier notes.",
+      "facts": {
+        "Note": "Useful as a provisional historical episode, not yet hard canon. The final history should revise these into overlapping campaigns with multiple participants, reversals and local consequences rather than clean one-on-one wars."
+      },
+      "minor": true
+    },
+    {
+      "id": "hi-ep-great-coastal-skirmish",
+      "kind": "episode",
+      "label": "Great Coastal Skirmish",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#working-conflict-traditions",
+      "text": "A conflict named in earlier brainstorming; a provisional historical episode, not yet hard canon.",
+      "short_text": "Provisional episode from earlier notes.",
+      "facts": {
+        "Note": "Useful as a provisional historical episode, not yet hard canon. The final history should revise these into overlapping campaigns with multiple participants, reversals and local consequences rather than clean one-on-one wars."
+      },
+      "minor": true
+    },
+    {
+      "id": "hi-ep-highridge-consolidation-war",
+      "kind": "episode",
+      "label": "Highridge Consolidation War",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Before the Convergence",
+      "src": "History/Pre-Convergence.md#working-conflict-traditions",
+      "text": "A conflict named in earlier brainstorming; a provisional historical episode, not yet hard canon.",
+      "short_text": "Provisional episode from earlier notes.",
+      "facts": {
+        "Note": "Useful as a provisional historical episode, not yet hard canon. The final history should revise these into overlapping campaigns with multiple participants, reversals and local consequences rather than clean one-on-one wars."
+      },
+      "minor": true
+    },
+    {
+      "id": "hi-convergence",
+      "kind": "event",
+      "label": "The Convergence",
+      "status": "Established concept (details still developing)",
+      "lane": "history",
+      "section": "The Convergence",
+      "src": "History/The-Convergence.md#the-convergence",
+      "text": "The historic settlement that turned fluid pre-modern frontiers into a more predictable political and economic order. It didn't create the regions from nothing; it recognized, regularized and froze many compromises that had already emerged from centuries of conflict.",
+      "short_text": "The settlement that froze many old compromises.",
+      "facts": {
+        "What it was": "The historic settlement that transformed fluid pre-modern frontiers into a more predictable political and economic order. It recognized, regularized and froze many compromises that had already emerged from centuries of conflict.",
+        "Why": "Trade routes were increasingly dangerous; several resource disputes had become economically pointless; food crises showed cross-regional dependence; piracy and banditry flourished; guilds and merchants wanted predictable law; rulers wanted recognition of claims they could actually hold.",
+        "Where": "Highridge is the strongest candidate for the principal congress (geographic accessibility, trade culture, existing arbitration traditions, interest in keeping routes open). Port likely played an important role in maritime and commercial provisions even if the principal meetings were inland.",
+        "What it didn't solve": "Class conflict, religious disagreement, guild rivalry, crime, competing interpretations of borders, local land disputes, old dynastic claims, unequal wealth, resentment toward outside influence.",
+        "Cultural effect": "Paradoxically it made regional identities stronger: governments standardized law, schools and religious institutions spread regional norms, guilds organized regionally, elites cultivated shared histories, and old mixed frontier identities were sometimes suppressed. Some traditions now presented as ancient \"Ironcrest\" or \"Greenvale\" culture may be post-Convergence standardizations of more diverse older practices."
+      },
+      "fact_src": {
+        "What it was": "History/The-Convergence.md#status",
+        "Why": "History/The-Convergence.md#why-it-happened",
+        "Where": "History/The-Convergence.md#negotiation",
+        "What it didn't solve": "History/The-Convergence.md#what-it-did-not-solve",
+        "Cultural effect": "History/The-Convergence.md#cultural-effect"
+      }
+    },
+    {
+      "id": "hi-prov-border-recognition",
+      "kind": "provision",
+      "label": "Border recognition",
+      "status": "Established concept (details still developing)",
+      "lane": "history",
+      "section": "The Convergence",
+      "src": "History/The-Convergence.md#border-recognition",
+      "text": "Likely part of the settlement: not every line was measured precisely. The treaty could define boundaries by rivers, ridges, roads, settlements, watersheds, named stones and old forts, which creates later ambiguity.",
+      "short_text": "Likely: borders by rivers, ridges and stones: later ambiguity.",
+      "facts": {
+        "What it did": "Not every line was measured precisely. The treaty could define boundaries by rivers, ridges, roads, settlements, watersheds, named stones and old forts, which creates later ambiguity.",
+        "Certainty": "The settlement likely included it; details are still developing."
+      }
+    },
+    {
+      "id": "hi-prov-trade-guarantees",
+      "kind": "provision",
+      "label": "Trade guarantees",
+      "status": "Established concept (details still developing)",
+      "lane": "history",
+      "section": "The Convergence",
+      "src": "History/The-Convergence.md#trade-guarantees",
+      "text": "Likely part of the settlement: certain categories of goods gained protected movement.",
+      "short_text": "Likely: protected movement for some goods.",
+      "facts": {
+        "What it did": "Certain categories of goods gained protected movement.",
+        "Certainty": "The settlement likely included it; details are still developing."
+      }
+    },
+    {
+      "id": "hi-prov-route-rules",
+      "kind": "provision",
+      "label": "Route rules",
+      "status": "Established concept (details still developing)",
+      "lane": "history",
+      "section": "The Convergence",
+      "src": "History/The-Convergence.md#route-rules",
+      "text": "Likely part of the settlement: passes, major roads, and perhaps sections of The Underpass received agreed access rules.",
+      "short_text": "Likely: agreed access to passes, roads, perhaps the Underpass.",
+      "facts": {
+        "What it did": "Passes, major roads, and perhaps sections of The Underpass received agreed access rules.",
+        "Certainty": "The settlement likely included it; details are still developing."
+      }
+    },
+    {
+      "id": "hi-prov-maritime-rules",
+      "kind": "provision",
+      "label": "Maritime rules",
+      "status": "Established concept (details still developing)",
+      "lane": "history",
+      "section": "The Convergence",
+      "src": "History/The-Convergence.md#maritime-rules",
+      "text": "Likely part of the settlement: neutral shipping and Port access became harder for one kingdom to monopolize.",
+      "short_text": "Likely: shipping and Port access harder to monopolize.",
+      "facts": {
+        "What it did": "Neutral shipping and Port access became harder for one kingdom to monopolize.",
+        "Certainty": "The settlement likely included it; details are still developing."
+      }
+    },
+    {
+      "id": "hi-prov-arbitration",
+      "kind": "provision",
+      "label": "Arbitration",
+      "status": "Established concept (details still developing)",
+      "lane": "history",
+      "section": "The Convergence",
+      "src": "History/The-Convergence.md#arbitration",
+      "text": "Likely part of the settlement: some disputes could be taken to agreed courts or forums rather than immediately fought.",
+      "short_text": "Likely: agreed courts instead of immediate war.",
+      "facts": {
+        "What it did": "Some disputes could be taken to agreed courts or forums rather than immediately fought.",
+        "Certainty": "The settlement likely included it; details are still developing."
+      }
+    },
+    {
+      "id": "hi-prov-neutral-port",
+      "kind": "provision",
+      "label": "Neutral Port",
+      "status": "Established concept (details still developing)",
+      "lane": "history",
+      "section": "The Convergence",
+      "src": "History/The-Convergence.md#neutral-port",
+      "text": "Likely part of the settlement: port's special status was formalized or significantly strengthened.",
+      "short_text": "Likely: port's special status formalized or strengthened.",
+      "facts": {
+        "What it did": "Port's special status was formalized or significantly strengthened.",
+        "Certainty": "The settlement likely included it; details are still developing."
+      }
+    },
+    {
+      "id": "hi-council-rise",
+      "kind": "event",
+      "label": "The Council's rise",
+      "status": "Established concept (details still developing)",
+      "lane": "history",
+      "section": "The Convergence",
+      "src": "History/The-Convergence.md#the-council-and-the-convergence",
+      "text": "The Council likely emerged through the institutions the Convergence created rather than appearing fully formed beforehand. In \"a strong version of the history\", families who helped finance stabilization became a secret coordinating body that came to believe it was keeping the Convergence alive.",
+      "short_text": "Likely grew out of the Convergence; a strong version, not settled.",
+      "facts": {
+        "What it was": "The Council likely emerged through the institutions created by the Convergence rather than appearing fully formed beforehand.",
+        "Why": "A strong version of the history (not the only one): wealthy families helped finance stabilization; rulers increasingly depended on their grain stores, credit, ships, roads and information; informal coordination among these families prevented crises; coordination became institutional; secrecy grew because open economic rule would provoke resistance; the Council came to believe it was the hidden mechanism keeping the Convergence alive.",
+        "Cultural effect": "It gives the Council a plausible historical reason to think its manipulation is necessary."
+      },
+      "fact_src": {
+        "What it was": "History/The-Convergence.md#the-council-and-the-convergence",
+        "Why": "History/The-Convergence.md#the-council-and-the-convergence",
+        "Cultural effect": "History/The-Convergence.md#the-council-and-the-convergence"
+      }
+    },
+    {
+      "id": "hi-memory",
+      "kind": "overview",
+      "label": "Contested memory",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Contested memory",
+      "src": "History/Contested-Memory.md#purpose",
+      "text": "People don't inherit one neutral history. The same old campaign can survive as a patriotic victory in one region, an atrocity story in another, a family migration story at the border, a footnote in a Highridge archive, a legal precedent in a Port court, or a song no historian accepts literally.",
+      "short_text": "One campaign, many histories.",
+      "facts": {
+        "Principle": "People do not inherit one neutral history. These disagreements create useful \"breath\" without requiring a hidden conspiracy.",
+        "Scope": "The same old campaign may survive as a patriotic victory in one region, an atrocity story in another, a family migration story at the border, a footnote in a Highridge archive, a legal precedent in a Port court, or a song whose details no historian accepts literally.",
+        "Rule": "Identify who is telling the story; separate the event from the later label; allow local exceptions and contradictory evidence; prefer \"my grandfather called it…\" over omniscient exposition; let ruins, treaties, family records and place names disagree with popular stories. A remembered history can be emotionally true to a community without being an objective account."
+      },
+      "fact_src": {
+        "Principle": "History/Contested-Memory.md#purpose",
+        "Scope": "History/Contested-Memory.md#purpose",
+        "Rule": "History/Contested-Memory.md#writing-rule"
+      }
+    },
+    {
+      "id": "hi-mem-ember-wars",
+      "kind": "memory",
+      "label": "The Ember Wars / The Burning Years",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Contested memory",
+      "src": "History/Contested-Memory.md#the-ember-wars--the-burning-years",
+      "text": "A recurring Greenvale memory of Ironcrest-linked expansion, logging, burned settlements and disputed border land.",
+      "short_text": "Greenvale's memory of burned orchards; Ironcrest's of expansion.",
+      "facts": {
+        "What's remembered": "A recurring Greenvale memory of Ironcrest-linked expansion, logging, burned settlements and disputed border land.",
+        "Caution": "Treat the label as a later cultural shorthand until the actual campaigns are mapped."
+      }
+    },
+    {
+      "id": "hi-mem-salted-coast",
+      "kind": "memory",
+      "label": "The Salted Coast Disputes",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Contested memory",
+      "src": "History/Contested-Memory.md#the-salted-coast-disputes",
+      "text": "Northwind and Sunplains traditions remember old violence over fishing waters, ports and maritime access.",
+      "short_text": "Old violence over fishing waters and ports.",
+      "facts": {
+        "What's remembered": "Northwind and Sunplains traditions remember old violence over fishing waters, ports and maritime access.",
+        "Caution": "Don't assume this was one continuous war or that modern regional governments existed in their current form."
+      }
+    },
+    {
+      "id": "hi-mem-timber-tithes",
+      "kind": "memory",
+      "label": "The Timber Tithes / Deepwood closure traditions",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Contested memory",
+      "src": "History/Contested-Memory.md#the-timber-tithes--deepwood-closure-traditions",
+      "text": "Deepwood memory holds older stories of outside extraction pushing too far into forests and sacred or protected areas; outsiders may remember the same period as sudden Deepwood violence.",
+      "short_text": "Extraction pushed too far, or Deepwood violence.",
+      "facts": {
+        "What's remembered": "Deepwood memory holds older stories of outside extraction pushing too far into forests and sacred or protected areas; outsiders may remember the same period as sudden Deepwood violence.",
+        "Caution": "The event should remain entangled with local factions, trade partners and ecological conditions.",
+        "Story use": "A strong candidate for explaining later suspicion around logging rights."
+      }
+    },
+    {
+      "id": "hi-mem-port-seizure",
+      "kind": "memory",
+      "label": "The Port Seizure",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Contested memory",
+      "src": "History/Contested-Memory.md#the-port-seizure",
+      "text": "One uploaded tradition proposed a period when Northwind interests controlled Port before coalition pressure produced withdrawal and neutral status.",
+      "short_text": "Did Northwind once hold Port? Not settled.",
+      "facts": {
+        "What's remembered": "One uploaded tradition proposed a period when Northwind interests controlled Port before coalition pressure produced withdrawal and neutral status.",
+        "Caution": "Not settled chronology."
+      }
+    },
+    {
+      "id": "hi-mem-blight",
+      "kind": "memory",
+      "label": "The Seven-year Blight",
+      "status": "Working canon",
+      "lane": "greenvale",
+      "section": "Memory",
+      "src": "Regions/Greenvale.md#historical-identity",
+      "text": "A prolonged crop crisis, whether exactly seven years or later mythologized, that helped create Greenvale traditions of storage, crop diversity, communal aid, and suspicion of concentrated control over seed and grain.",
+      "short_text": "A long crop crisis, maybe mythologized; why Greenvale stores seed.",
+      "facts": {
+        "What's remembered": "A prolonged crop crisis that helped create traditions of storage, crop diversity, communal aid, and suspicion of concentrated control over seed and grain.",
+        "Caution": "An important working historical memory: whether it lasted exactly seven years or was later mythologized is open."
+      }
+    },
+    {
+      "id": "hi-mem-silence",
+      "kind": "memory",
+      "label": "The Ages of Silence",
+      "status": "Working canon",
+      "lane": "deepwood",
+      "section": "Memory",
+      "src": "Regions/Deepwood.md#historical-identity",
+      "text": "A remembered Deepwood period that should stay partly historical and partly religious: perhaps ecological collapse, depopulation, warfare or disease, later interpreted spiritually.",
+      "short_text": "Perhaps collapse, disease or war, later read spiritually.",
+      "facts": {
+        "What's remembered": "Perhaps a period of ecological collapse, depopulation, warfare or disease later interpreted spiritually.",
+        "Caution": "Should remain partly historical and partly religious."
+      }
+    },
+    {
+      "id": "hi-ver-ember-greenvale",
+      "kind": "version",
+      "label": "Ember Wars: Greenvale folk memory",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "Memory",
+      "src": "History/Contested-Memory.md#the-ember-wars--the-burning-years",
+      "text": "Orchards and villages destroyed; families displaced.",
+      "short_text": "Orchards and villages destroyed; families displaced.",
+      "facts": {
+        "Told as": "Orchards and villages destroyed; families displaced.",
+        "Note": "One of the page's possible perspectives or surviving forms, not a settled account."
+      }
+    },
+    {
+      "id": "hi-ver-ember-ironcrest",
+      "kind": "version",
+      "label": "Ember Wars: Ironcrest patriotic memory",
+      "status": "Provisional",
+      "lane": "ironcrest",
+      "section": "Memory",
+      "src": "History/Contested-Memory.md#the-ember-wars--the-burning-years",
+      "text": "A period of expansion and hard-won security, with reversals blamed on logistics or weather.",
+      "short_text": "A period of expansion and hard-won security, with reversals blamed on logistics or weather.",
+      "facts": {
+        "Told as": "A period of expansion and hard-won security, with reversals blamed on logistics or weather.",
+        "Note": "One of the page's possible perspectives or surviving forms, not a settled account."
+      }
+    },
+    {
+      "id": "hi-ver-ember-border",
+      "kind": "version",
+      "label": "Ember Wars: border memory",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "Memory",
+      "src": "History/Contested-Memory.md#the-ember-wars--the-burning-years",
+      "text": "Several campaigns, changing alliances and mixed families that make both regional versions too simple.",
+      "short_text": "Several campaigns, changing alliances and mixed families that make both regional versions too simple.",
+      "facts": {
+        "Told as": "Several campaigns, changing alliances and mixed families that make both regional versions too simple.",
+        "Note": "One of the page's possible perspectives or surviving forms, not a settled account."
+      }
+    },
+    {
+      "id": "hi-ver-salted-northwind",
+      "kind": "version",
+      "label": "Salted Coast: Northwind songs",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Memory",
+      "src": "History/Contested-Memory.md#the-salted-coast-disputes",
+      "text": "Songs about burned boats or coastal settlements.",
+      "short_text": "Songs about burned boats or coastal settlements.",
+      "facts": {
+        "Told as": "Songs about burned boats or coastal settlements.",
+        "Note": "One of the page's possible perspectives or surviving forms, not a settled account."
+      }
+    },
+    {
+      "id": "hi-ver-salted-sunplains",
+      "kind": "version",
+      "label": "Salted Coast: Sunplains stories",
+      "status": "Provisional",
+      "lane": "sunplains",
+      "section": "Memory",
+      "src": "History/Contested-Memory.md#the-salted-coast-disputes",
+      "text": "Stories about raids and \"northern pirates\".",
+      "short_text": "Stories about raids and \"northern pirates\".",
+      "facts": {
+        "Told as": "Stories about raids and \"northern pirates\".",
+        "Note": "One of the page's possible perspectives or surviving forms, not a settled account."
+      }
+    },
+    {
+      "id": "hi-ver-salted-port",
+      "kind": "version",
+      "label": "Salted Coast: Port traditions",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "Memory",
+      "src": "History/Contested-Memory.md#the-salted-coast-disputes",
+      "text": "Traditions that present negotiation and neutral anchorage as older than the Convergence.",
+      "short_text": "Traditions that present negotiation and neutral anchorage as older than the Convergence.",
+      "facts": {
+        "Told as": "Traditions that present negotiation and neutral anchorage as older than the Convergence.",
+        "Note": "One of the page's possible perspectives or surviving forms, not a settled account."
+      }
+    },
+    {
+      "id": "hi-ver-timber-deepwood",
+      "kind": "version",
+      "label": "Timber Tithes: Deepwood memory",
+      "status": "Provisional",
+      "lane": "deepwood",
+      "section": "Memory",
+      "src": "History/Contested-Memory.md#the-timber-tithes--deepwood-closure-traditions",
+      "text": "Outside extraction pushing too far into forests and sacred or protected areas.",
+      "short_text": "Outside extraction pushing too far into forests and sacred or protected areas.",
+      "facts": {
+        "Told as": "Outside extraction pushing too far into forests and sacred or protected areas.",
+        "Note": "One of the page's possible perspectives or surviving forms, not a settled account."
+      }
+    },
+    {
+      "id": "hi-ver-timber-outsiders",
+      "kind": "version",
+      "label": "Timber Tithes: outsider traditions",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Contested memory",
+      "src": "History/Contested-Memory.md#the-timber-tithes--deepwood-closure-traditions",
+      "text": "May remember the same period as sudden Deepwood violence against workers, caravans or settlers.",
+      "short_text": "May remember the same period as sudden Deepwood violence against workers, caravans or settlers.",
+      "facts": {
+        "Told as": "May remember the same period as sudden Deepwood violence against workers, caravans or settlers.",
+        "Note": "One of the page's possible perspectives or surviving forms, not a settled account."
+      }
+    },
+    {
+      "id": "hi-ver-seizure-northwind",
+      "kind": "version",
+      "label": "Port Seizure: some Northwind families",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "Memory",
+      "src": "History/Contested-Memory.md#the-port-seizure",
+      "text": "They claim they built or maintained facilities that others later took from them.",
+      "short_text": "They claim they built or maintained facilities that others later took from them.",
+      "facts": {
+        "Told as": "They claim they built or maintained facilities that others later took from them.",
+        "Note": "One of the page's possible perspectives or surviving forms, not a settled account."
+      }
+    },
+    {
+      "id": "hi-ver-seizure-port",
+      "kind": "version",
+      "label": "Port Seizure: some Port families",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "Memory",
+      "src": "History/Contested-Memory.md#the-port-seizure",
+      "text": "Foreign control remembered as occupation.",
+      "short_text": "Foreign control remembered as occupation.",
+      "facts": {
+        "Told as": "Foreign control remembered as occupation.",
+        "Note": "One of the page's possible perspectives or surviving forms, not a settled account."
+      }
+    },
+    {
+      "id": "hi-ver-seizure-merchants",
+      "kind": "version",
+      "label": "Port Seizure: some merchants",
+      "status": "Provisional",
+      "lane": "history",
+      "section": "Contested memory",
+      "src": "History/Contested-Memory.md#the-port-seizure",
+      "text": "A warning about allowing any one power to dominate the harbor.",
+      "short_text": "A warning about allowing any one power to dominate the harbor.",
+      "facts": {
+        "Told as": "A warning about allowing any one power to dominate the harbor.",
+        "Note": "One of the page's possible perspectives or surviving forms, not a settled account."
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "hi-ep-ore-scar-strife",
+      "to": "ironcrest",
+      "layer": "hi-inferred",
+      "type": "probably concerns",
+      "basis": "inferred",
+      "quote": "The name points at ore; Ironcrest's ore districts fought wars over ore that \"rarely produced permanent frontiers\" (Pre-Convergence). The page doesn't place the episode.",
+      "src": "History/Pre-Convergence.md#ironcrest-predecessor-politics",
+      "chip": "Region",
+      "chipBack": "Conflict traditions"
+    },
+    {
+      "from": "hi-ep-lowland-famine-raids",
+      "to": "greenvale",
+      "layer": "hi-inferred",
+      "type": "probably concerns",
+      "basis": "inferred",
+      "quote": "The name points at famine raiding in the lowlands; Greenvale's history includes \"famine-era raiding\" (Greenvale). The page doesn't place the episode.",
+      "src": "Regions/Greenvale.md#historical-identity",
+      "chip": "Region",
+      "chipBack": "Conflict traditions"
+    },
+    {
+      "from": "hi-ep-ridge-pass-toll-wars",
+      "to": "highridge",
+      "layer": "hi-inferred",
+      "type": "probably concerns",
+      "basis": "inferred",
+      "quote": "The name points at pass tolls; Highridge's identity rests on the shift \"from toll warfare toward negotiated passage\" (Highridge). The page doesn't place the episode.",
+      "src": "Regions/Highridge-Plateau.md#historical-identity",
+      "chip": "Region",
+      "chipBack": "Conflict traditions"
+    },
+    {
+      "from": "hi-ep-deepwood-edge-skirmishes",
+      "to": "deepwood",
+      "layer": "hi-inferred",
+      "type": "probably concerns",
+      "basis": "inferred",
+      "quote": "Named for Deepwood's edge; forest edges \"expanded and contracted\" as outsiders cleared and locals reclaimed land (Pre-Convergence). The page doesn't say who fought.",
+      "src": "History/Pre-Convergence.md#deepwood-predecessor-politics",
+      "chip": "Region",
+      "chipBack": "Conflict traditions"
+    },
+    {
+      "from": "hi-ep-highridge-consolidation-war",
+      "to": "highridge",
+      "layer": "hi-inferred",
+      "type": "probably concerns",
+      "basis": "inferred",
+      "quote": "Named for Highridge; the page doesn't say what was consolidated or by whom.",
+      "src": "History/Pre-Convergence.md#working-conflict-traditions",
+      "chip": "Region",
+      "chipBack": "Conflict traditions"
+    },
+    {
+      "from": "hi-prov-border-recognition",
+      "to": "hi-convergence",
+      "layer": "hi-convergence",
+      "type": "was likely part of",
+      "basis": "stated",
+      "quote": "The settlement likely included: … Border recognition",
+      "src": "History/The-Convergence.md#what-it-did",
+      "chip": "Provision of",
+      "chipBack": "Provisions",
+      "certainty": "likely"
+    },
+    {
+      "from": "hi-prov-trade-guarantees",
+      "to": "hi-convergence",
+      "layer": "hi-convergence",
+      "type": "was likely part of",
+      "basis": "stated",
+      "quote": "The settlement likely included: … Trade guarantees",
+      "src": "History/The-Convergence.md#what-it-did",
+      "chip": "Provision of",
+      "chipBack": "Provisions",
+      "certainty": "likely"
+    },
+    {
+      "from": "hi-prov-route-rules",
+      "to": "hi-convergence",
+      "layer": "hi-convergence",
+      "type": "was likely part of",
+      "basis": "stated",
+      "quote": "The settlement likely included: … Route rules",
+      "src": "History/The-Convergence.md#what-it-did",
+      "chip": "Provision of",
+      "chipBack": "Provisions",
+      "certainty": "likely"
+    },
+    {
+      "from": "hi-prov-maritime-rules",
+      "to": "hi-convergence",
+      "layer": "hi-convergence",
+      "type": "was likely part of",
+      "basis": "stated",
+      "quote": "The settlement likely included: … Maritime rules",
+      "src": "History/The-Convergence.md#what-it-did",
+      "chip": "Provision of",
+      "chipBack": "Provisions",
+      "certainty": "likely"
+    },
+    {
+      "from": "hi-prov-arbitration",
+      "to": "hi-convergence",
+      "layer": "hi-convergence",
+      "type": "was likely part of",
+      "basis": "stated",
+      "quote": "The settlement likely included: … Arbitration",
+      "src": "History/The-Convergence.md#what-it-did",
+      "chip": "Provision of",
+      "chipBack": "Provisions",
+      "certainty": "likely"
+    },
+    {
+      "from": "hi-prov-neutral-port",
+      "to": "hi-convergence",
+      "layer": "hi-convergence",
+      "type": "was likely part of",
+      "basis": "stated",
+      "quote": "The settlement likely included: … Neutral Port",
+      "src": "History/The-Convergence.md#what-it-did",
+      "chip": "Provision of",
+      "chipBack": "Provisions",
+      "certainty": "likely"
+    },
+    {
+      "from": "hi-before",
+      "to": "hi-convergence",
+      "layer": "hi-convergence",
+      "type": "ended in",
+      "basis": "stated",
+      "quote": "The Convergence was therefore a bargain among tired, self-interested powers that also happened to create real public benefits.",
+      "src": "History/Pre-Convergence.md#why-the-convergence-became-possible",
+      "chip": "Ended in",
+      "chipBack": "Came after"
+    },
+    {
+      "from": "hi-convergence",
+      "to": "highridge",
+      "layer": "hi-convergence",
+      "type": "was likely negotiated in",
+      "basis": "stated",
+      "quote": "Highridge is the strongest candidate for the principal congress",
+      "src": "History/The-Convergence.md#negotiation",
+      "chip": "Negotiated in",
+      "chipBack": "Convergence",
+      "certainty": "likely",
+      "chipNote": "strongest candidate for the congress",
+      "chipNoteBack": "strongest candidate for the congress"
+    },
+    {
+      "from": "hi-convergence",
+      "to": "port",
+      "layer": "hi-convergence",
+      "type": "likely drew on",
+      "basis": "stated",
+      "quote": "Port likely played an important role in maritime and commercial provisions even if the principal meetings occurred inland.",
+      "src": "History/The-Convergence.md#negotiation",
+      "chip": "Also involved",
+      "chipBack": "Convergence",
+      "certainty": "likely",
+      "chipNote": "maritime and commercial provisions",
+      "chipNoteBack": "maritime and commercial provisions"
+    },
+    {
+      "from": "hi-prov-neutral-port",
+      "to": "port",
+      "layer": "hi-convergence",
+      "type": "formalized or strengthened",
+      "basis": "stated",
+      "quote": "Port's special status was formalized or significantly strengthened.",
+      "src": "History/The-Convergence.md#neutral-port",
+      "chip": "Applies to",
+      "chipBack": "Convergence",
+      "certainty": "likely",
+      "chipNote": "special status",
+      "chipNoteBack": "neutral status formalized or strengthened"
+    },
+    {
+      "from": "hi-prov-maritime-rules",
+      "to": "port",
+      "layer": "hi-convergence",
+      "type": "made access harder to monopolize at",
+      "basis": "stated",
+      "quote": "Neutral shipping and Port access became harder for one kingdom to monopolize.",
+      "src": "History/The-Convergence.md#maritime-rules",
+      "chip": "Applies to",
+      "chipBack": "Convergence",
+      "certainty": "likely",
+      "chipNote": "access",
+      "chipNoteBack": "access harder to monopolize"
+    },
+    {
+      "from": "hi-prov-route-rules",
+      "to": "underpass",
+      "layer": "hi-convergence",
+      "type": "may have set access rules for",
+      "basis": "stated",
+      "quote": "Passes, major roads, and perhaps sections of The Underpass received agreed access rules.",
+      "src": "History/The-Convergence.md#route-rules",
+      "chip": "Applies to",
+      "chipBack": "Convergence",
+      "certainty": "possible",
+      "chipNote": "perhaps some sections",
+      "chipNoteBack": "perhaps some sections"
+    },
+    {
+      "from": "hi-council-rise",
+      "to": "hi-convergence",
+      "layer": "hi-convergence",
+      "type": "likely grew out of",
+      "basis": "stated",
+      "quote": "The Council likely emerged **through** the institutions created by the Convergence",
+      "src": "History/The-Convergence.md#the-council-and-the-convergence",
+      "chip": "Grew out of",
+      "chipBack": "Led to",
+      "certainty": "likely"
+    },
+    {
+      "from": "hi-council-rise",
+      "to": "pw-council",
+      "layer": "hi-convergence",
+      "type": "is the likely origin of",
+      "basis": "stated",
+      "quote": "The Council likely emerged **through** the institutions created by the Convergence rather than appearing fully formed beforehand.",
+      "src": "History/The-Convergence.md#the-council-and-the-convergence",
+      "chip": "Became",
+      "chipBack": "Origins",
+      "certainty": "likely",
+      "chipNote": "a strong version of the history",
+      "chipNoteBack": "a strong version of the history"
+    },
+    {
+      "from": "hi-before",
+      "to": "nomads",
+      "layer": "hi-convergence",
+      "type": "may have displaced some of",
+      "basis": "stated",
+      "quote": "populations displaced by pre-Convergence border wars who made mobility permanent.",
+      "src": "Culture/Nomads.md#why-mobile-peoples-exist-here",
+      "chip": "Left behind",
+      "chipBack": "History",
+      "certainty": "possible",
+      "chipNote": "one possible reason some move",
+      "chipNoteBack": "one possible origin: displaced by border wars",
+      "also": [
+        {
+          "quote": "Mobility should have an economic and ecological reason. Possibilities include:",
+          "src": "Culture/Nomads.md#why-mobile-peoples-exist-here"
+        }
+      ]
+    },
+    {
+      "from": "hi-ver-ember-greenvale",
+      "to": "hi-mem-ember-wars",
+      "layer": "hi-memory",
+      "type": "is one telling of",
+      "basis": "stated",
+      "quote": "Greenvale folk memory",
+      "src": "History/Contested-Memory.md#the-ember-wars--the-burning-years",
+      "chip": "Version of",
+      "chipBack": "Versions"
+    },
+    {
+      "from": "hi-ver-ember-ironcrest",
+      "to": "hi-mem-ember-wars",
+      "layer": "hi-memory",
+      "type": "is one telling of",
+      "basis": "stated",
+      "quote": "Ironcrest patriotic memory",
+      "src": "History/Contested-Memory.md#the-ember-wars--the-burning-years",
+      "chip": "Version of",
+      "chipBack": "Versions"
+    },
+    {
+      "from": "hi-ver-ember-border",
+      "to": "hi-mem-ember-wars",
+      "layer": "hi-memory",
+      "type": "is one telling of",
+      "basis": "stated",
+      "quote": "Border memory",
+      "src": "History/Contested-Memory.md#the-ember-wars--the-burning-years",
+      "chip": "Version of",
+      "chipBack": "Versions"
+    },
+    {
+      "from": "hi-ver-salted-northwind",
+      "to": "hi-mem-salted-coast",
+      "layer": "hi-memory",
+      "type": "is one telling of",
+      "basis": "stated",
+      "quote": "Northwind songs about burned boats or coastal settlements",
+      "src": "History/Contested-Memory.md#the-salted-coast-disputes",
+      "chip": "Version of",
+      "chipBack": "Versions"
+    },
+    {
+      "from": "hi-ver-salted-sunplains",
+      "to": "hi-mem-salted-coast",
+      "layer": "hi-memory",
+      "type": "is one telling of",
+      "basis": "stated",
+      "quote": "Sunplains stories about raids",
+      "src": "History/Contested-Memory.md#the-salted-coast-disputes",
+      "chip": "Version of",
+      "chipBack": "Versions"
+    },
+    {
+      "from": "hi-ver-salted-port",
+      "to": "hi-mem-salted-coast",
+      "layer": "hi-memory",
+      "type": "is one telling of",
+      "basis": "stated",
+      "quote": "Port traditions that present negotiation and neutral anchorage as older than the Convergence",
+      "src": "History/Contested-Memory.md#the-salted-coast-disputes",
+      "chip": "Version of",
+      "chipBack": "Versions"
+    },
+    {
+      "from": "hi-ver-timber-deepwood",
+      "to": "hi-mem-timber-tithes",
+      "layer": "hi-memory",
+      "type": "is one telling of",
+      "basis": "stated",
+      "quote": "Deepwood memory contains older stories about outside extraction",
+      "src": "History/Contested-Memory.md#the-timber-tithes--deepwood-closure-traditions",
+      "chip": "Version of",
+      "chipBack": "Versions"
+    },
+    {
+      "from": "hi-ver-timber-outsiders",
+      "to": "hi-mem-timber-tithes",
+      "layer": "hi-memory",
+      "type": "is one telling of",
+      "basis": "stated",
+      "quote": "Outsider traditions may remember the same period as sudden Deepwood violence",
+      "src": "History/Contested-Memory.md#the-timber-tithes--deepwood-closure-traditions",
+      "chip": "Version of",
+      "chipBack": "Versions"
+    },
+    {
+      "from": "hi-ver-seizure-northwind",
+      "to": "hi-mem-port-seizure",
+      "layer": "hi-memory",
+      "type": "is one telling of",
+      "basis": "stated",
+      "quote": "some Northwind families claim they built or maintained facilities others later took from them",
+      "src": "History/Contested-Memory.md#the-port-seizure",
+      "chip": "Version of",
+      "chipBack": "Versions"
+    },
+    {
+      "from": "hi-ver-seizure-port",
+      "to": "hi-mem-port-seizure",
+      "layer": "hi-memory",
+      "type": "is one telling of",
+      "basis": "stated",
+      "quote": "some Port families remember foreign control as occupation",
+      "src": "History/Contested-Memory.md#the-port-seizure",
+      "chip": "Version of",
+      "chipBack": "Versions"
+    },
+    {
+      "from": "hi-ver-seizure-merchants",
+      "to": "hi-mem-port-seizure",
+      "layer": "hi-memory",
+      "type": "is one telling of",
+      "basis": "stated",
+      "quote": "some merchants use the story as a warning about allowing any one power to dominate the harbor",
+      "src": "History/Contested-Memory.md#the-port-seizure",
+      "chip": "Version of",
+      "chipBack": "Versions"
+    },
+    {
+      "from": "hi-mem-blight",
+      "to": "f-root-cellar-night",
+      "layer": "hi-memory",
+      "type": "is remembered at",
+      "basis": "stated",
+      "quote": "stored food, family stories and remembrance of old scarcity such as the Seven-year Blight.",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#greenvale",
+      "chip": "Festival",
+      "chipBack": "Remembers",
+      "chipNote": "can be",
+      "chipNoteBack": "can be"
+    },
+    {
+      "from": "hi-mem-timber-tithes",
+      "to": "pw-gov-deepwood",
+      "layer": "hi-memory",
+      "type": "may explain suspicion in",
+      "basis": "stated",
+      "quote": "This is a strong candidate for explaining later suspicion around logging rights",
+      "src": "History/Contested-Memory.md#the-timber-tithes--deepwood-closure-traditions",
+      "chip": "May explain",
+      "chipBack": "History",
+      "certainty": "possible",
+      "chipNote": "suspicion around logging rights",
+      "chipNoteBack": "suspicion around logging rights"
+    },
+    {
+      "from": "hi-mem-port-seizure",
+      "to": "port",
+      "layer": "hi-memory",
+      "type": "is told about",
+      "basis": "stated",
+      "quote": "One uploaded tradition proposed a period when Northwind interests controlled Port before coalition pressure produced withdrawal and neutral status.",
+      "src": "History/Contested-Memory.md#the-port-seizure",
+      "chip": "About",
+      "chipBack": "Remembered",
+      "certainty": "possible",
+      "chipNote": "not settled chronology",
+      "chipNoteBack": "the Port Seizure (not settled)",
+      "also": [
+        {
+          "quote": "remains the owner for the city's current institutional history.",
+          "src": "History/Contested-Memory.md#the-port-seizure"
+        }
+      ]
+    }
+  ],
+  "gaps": [
+    "**There is no timeline.** No page gives a date, a duration or an overall chronology for anything before or at the Convergence (the Council's rise is a six-step sequence and the Port Seizure tradition has an order, but neither is dated), and Contested Memory says exact dates, participants and outcomes are not locked; the source that supplied dates was deliberately kept provisional. How old the Council is relative to the Convergence is an open question.",
+    "**The nine conflict names have no content.** Ore Scar Strife, Lowland Famine Raids, Coldwave Incursions, Ridge Pass Toll Wars, Orchard-Lord Feuds, Deepwood Edge Skirmishes, Iron-Field Conquest, Great Coastal Skirmish and Highridge Consolidation War are names from earlier brainstorming, flagged to be revised into overlapping campaigns. None has participants, place or outcome; five are placed here only by their names (inferred, off by default).",
+    "**The four contested memories aren't tied to those nine names.** The Ember Wars, Salted Coast Disputes, Timber Tithes and Port Seizure may describe some of the same conflicts, but no page says which.",
+    "**The Convergence's details are open.** Where it was negotiated (Highridge is only the strongest candidate), what its provisions actually said (the page says it \"likely included\" them), which goods gained protected movement, and which Underpass sections, if any, got access rules.",
+    "**Deepwood and Sunplains have no stated legacy** from their pre-Convergence history on their region pages, unlike Ironcrest, Northwind, Greenvale and Highridge.",
+    "**Port's early history is undated and unplaced.** How Port became central is described, but not whether it happened before, during or after the Convergence, and the Port Seizure is explicitly not settled chronology.",
+    "**Name echoes are not links.** The Ages of Silence and the Deep Silence festival, and the Ember Wars and Ember Remembrance, share words, but no page connects them. Ember Remembrance is a solemn memorial with names on memorial walls; it names no conflict.",
+    "**The Seven-year Blight and the Ages of Silence have only one side.** Each is one region's memory, with no neighbor's or border version yet, unlike the four contested memories.",
+    "**The Spine's geologic history** (rifting and mountain-building) is left to Part 1's geography and is itself provisional."
+  ]
+}

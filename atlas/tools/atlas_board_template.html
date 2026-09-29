@@ -465,7 +465,7 @@ const DATA = /*ATLAS_DATA*/null;
   window.addEventListener("resize", () => { if (current) drawLinks(current); });
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => { if (current) drawLinks(current); });
 
-  $("gaps").innerHTML = DATA.gaps.filter((g) => g.items.length).map((g) => `<div data-part="${esc(g.part)}"><h3>${esc(g.title)}</h3><ul>${g.items.map((x) => `<li>${esc(x)}</li>`).join("")}</ul></div>`).join("");
+  $("gaps").innerHTML = DATA.gaps.filter((g) => g.items.length).map((g) => `<div data-part="${esc(g.part)}"><h3>${esc(g.title)}</h3><ul>${g.items.map((x) => `<li>${esc(x).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>")}</li>`).join("")}</ul></div>`).join("");
   const start = readHash();
   let group = start.group === "kind" || start.group === "region" ? start.group : null;
   if (!group) { try { group = localStorage.getItem("atlas-group"); } catch (e) { group = null; } }
