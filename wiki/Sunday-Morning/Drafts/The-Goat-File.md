@@ -2,9 +2,9 @@
 
 ## Status
 
-**L3 draft. Provisional, non-canon.** Prose draft of [The Goat File](../Stories/The-Goat-File.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting James's reading. Seven Wells, both houses, the archive deposit practice and every character except Samir Tareh are provisional; see the [promotion rule](../Notes/Rules.md#promotion-rule). Samir appears only as an ordinary caravan negotiator.
+**L3 draft. Provisional, non-canon.** Prose draft of [The Goat File](../Stories/The-Goat-File.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting the author's reading. Seven Wells, both houses, the archive deposit practice and every character except Samir Tareh are provisional; see the [promotion rule](../Notes/Rules.md#promotion-rule). Samir appears only as an ordinary caravan negotiator.
 
-**What this pass changed** (for James to judge against the guide):
+**What this pass changed** (for the author to judge against the guide):
 - **Rhythm:** medium sentences for ordinary movement; fragments only for comic timing and the reveal.
 - **Endings:** most scenes end on an image or a quiet line, not a button.
 - **Humor by character:**
@@ -18,7 +18,7 @@
 - **One choice with a consequence:** Wen reads the memorandum's last line aloud when he could have skipped it.
 - **One character stops joking:** the senior arbiter.
 
-**Deliberately open (James, 2026-09-28):** whether Hanne and Dalia were more than friends, and whose wedding they expected. Don't resolve it.
+**Deliberately open (the author, 2026-09-28):** whether Hanne and Dalia were more than friends, and whose wedding they expected. Don't resolve it.
 
 Story 3 of 7 in [Collection](../Notes/Collection.md). Year 1, late autumn.
 

@@ -4,10 +4,10 @@
 
 **Writing reference, not setting canon.** This page owns how a Sunday Morning story is *told* and how its prose should *sound*:
 
-- the storytelling principles, adapted from James's Pathwell notes;
-- how to use James's [voice guide](Sources/Voice-Guide.md);
-- who writes what, AI or James;
-- James's own watch-list of habits;
+- the storytelling principles, adapted from the author's Pathwell notes;
+- how to use the author's [voice guide](Sources/Voice-Guide.md);
+- who writes what, AI or the author;
+- The author's own watch-list of habits;
 - the scene diagnostic run on every draft.
 
 Scene-level texture (what the world was doing yesterday) is in [Worldbuilding Breath](../../Reference/Worldbuilding-Breath.md). Tone and stakes belong to the [Framework](Sources/Framework.md) and the [tone guardrails](Rules.md#tone-guardrails). Where craft and tone pull apart, tone wins; see the [order of authority](README.md#order-of-authority).
@@ -98,7 +98,7 @@ Listen for cadence, character voice, comic timing, awkward exposition, repeated 
 
 ## Voice
 
-**Sources.** James's [voice guide](Sources/Voice-Guide.md), verbatim, is the authority on how sentences sound. Notes from two of his sample chapters (a Pathwell and Elizabeth story, shared 2026-09-27 and not stored here) are secondary evidence and give way wherever the two disagree.
+**Sources.** The author's [voice guide](Sources/Voice-Guide.md), verbatim, is the authority on how sentences sound. Notes from two of his sample chapters (a Pathwell and Elizabeth story, shared 2026-09-27 and not stored here) are secondary evidence and give way wherever the two disagree.
 
 **Use the guide as a sensibility, not a checklist** ([D6](Decisions.md)). Each story takes only what it already wants from it. A checklist of beats per story (a sad beat, a choice, a dropped joke, a callback) makes a collection predictable ([History](History.md#timeline), step 11).
 
@@ -111,11 +111,11 @@ Listen for cadence, character voice, comic timing, awkward exposition, repeated 
 
 **Sample-chapter habits that still hold,** because the guide agrees with them: starting in motion; dialogue carrying scenes; humor from character contrast and mundane worries; feeling through smell and taste; grief carried by objects; callbacks; a turn on the last line.
 
-**Narration with an opinion, reconciled.** Pathwell's `forbidden_patterns.md` warns that James's narration can go invisible ("half the wit lives in the narration's asides", of Pratchett). The guide warns against "self-consciously clever narration". Both hold: **narration may have attitude, a point of view that notices and judges, but it shouldn't compete with the characters for laughs.** Earlier passes cut narrator jokes to about one per story. That was a fair correction for AI-drafted prose, not a rule that narration has no voice. When James writes over these drafts, the narration's attitude is his.
+**Narration with an opinion, reconciled.** Pathwell's `forbidden_patterns.md` warns that the author's narration can go invisible ("half the wit lives in the narration's asides", of Pratchett). The guide warns against "self-consciously clever narration". Both hold: **narration may have attitude, a point of view that notices and judges, but it shouldn't compete with the characters for laughs.** Earlier passes cut narrator jokes to about one per story. That was a fair correction for AI-drafted prose, not a rule that narration has no voice. When the author writes over these drafts, the narration's attitude is his.
 
 ### Write how people talk
 
-James's own strength, in his words: people told him he "wrote how people talked", in narration as much as in dialogue ([D14](Decisions.md)). His example of the failure: "He meant to walk straight to the mill. He did not manage it." Nobody says "he did not manage it", so it sits on the page. Said the way a person would: "He didn't get very far."
+The author's own strength, in his words: people told him he "wrote how people talked", in narration as much as in dialogue ([D14](Decisions.md)). His example of the failure: "He meant to walk straight to the mill. He did not manage it." Nobody says "he did not manage it", so it sits on the page. Said the way a person would: "He didn't get very far."
 
 - **The test.** Would somebody telling this story out loud, to a friend, say the sentence this way? If it sounds like writing, rewrite it (Elmore Leonard: "If it sounds like writing, I rewrite it.").
 - **The narrator borrows the character's words.** Close third person soaks up the idiom of whoever it's following: what Pell would call a thing, how Aldo would size up a crack. This is free indirect style, and critic Hugh Kenner named its word-level form the "Uncle Charles principle", after Joyce. It gives the narration a person's voice without a speech.
@@ -124,16 +124,16 @@ James's own strength, in his words: people told him he "wrote how people talked"
 - **Not folksy, not modern.** No phonetic dialect and no stacked idioms (Leonard: dialect sparingly). No modern slang that breaks the world. The goal is a person talking, not a performance of one.
 - **Different people, different talk.** Borrowing the viewpoint character's words keeps the stories from sounding like one narrator: One Square should sound like Pell's Vale, The Greenvale Man like Aldo's cove.
 
-## AI and James: who writes what
+## AI and the author: who writes what
 
 The guide sets the division of labor ("AI Collaboration Guidance"), and it applies to every pass:
 
 - **AI leads on** continuity, structure, motivation, pacing, action clarity, repeated beats and thematic consistency. The strongest AI contributions so far were structural: plans, ledgers, continuity and the uniqueness matrix.
-- **AI is cautious with** jokes, emotional language, philosophical statements, character-defining dialogue, metaphors, narrator commentary and final sentence rhythm. Lines in these categories are scaffolding for James and should be flagged for his review.
-- **A voice problem routes to DO if it's a line, and to James if it's taste** ([routing](Pipeline.md#stage-3--do-draft)).
-- **The drafts are scaffolds for James to write over,** not a substitute voice. Taste, humor and voice are his call, which is why L4 requires his reading ([Pipeline](Pipeline.md#stage-4--judge-review-independently)).
+- **AI is cautious with** jokes, emotional language, philosophical statements, character-defining dialogue, metaphors, narrator commentary and final sentence rhythm. Lines in these categories are scaffolding for the author and should be flagged for his review.
+- **A voice problem routes to DO if it's a line, and to the author if it's taste** ([routing](Pipeline.md#stage-3--do-draft)).
+- **The drafts are scaffolds for the author to write over,** not a substitute voice. Taste, humor and voice are his call, which is why L4 requires his reading ([Pipeline](Pipeline.md#stage-4--judge-review-independently)).
 
-## James's watch-list
+## The author's watch-list
 
 From Pathwell's `forbidden_patterns.md`, which records habits flagged across that project, not generic advice. AI drafting shares several of them.
 

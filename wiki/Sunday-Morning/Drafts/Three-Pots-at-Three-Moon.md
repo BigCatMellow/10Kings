@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft. Provisional, non-canon.** Prose draft of [Three Pots at Three Moon](../Stories/Three-Pots-at-Three-Moon.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting James's reading. The neighborhood, the permit rules, the family and its serving ritual are provisional. The ritual belongs to this family and to one Deepwood village, not to Deepwood as a whole. See the [promotion rule](../Notes/Rules.md#promotion-rule).
+**L3 draft. Provisional, non-canon.** Prose draft of [Three Pots at Three Moon](../Stories/Three-Pots-at-Three-Moon.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting the author's reading. The neighborhood, the permit rules, the family and its serving ritual are provisional. The ritual belongs to this family and to one Deepwood village, not to Deepwood as a whole. See the [promotion rule](../Notes/Rules.md#promotion-rule).
 
 **Fourth pass (uniqueness):** Jory wears an interpreter's collar, not ink, to separate him from Wen in The Goat File. The stall form comes out of Amaranth Doss's own desk drawer, not a forgotten cabinet, so it doesn't echo The Goat File's untouched archive.
 

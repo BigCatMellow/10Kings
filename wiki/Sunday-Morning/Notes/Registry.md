@@ -2,7 +2,7 @@
 
 ## Status
 
-**Writing reference, not setting canon.** This page owns what the Sunday Morning collection has already used (names, story shapes, devices and stock phrases) so new stories and new passes stay fresh instead of quietly repeating the last ones. It was created 2026-09-28, after James noticed two protagonists with the same initials ([D8](Decisions.md)).
+**Writing reference, not setting canon.** This page owns what the Sunday Morning collection has already used (names, story shapes, devices and stock phrases) so new stories and new passes stay fresh instead of quietly repeating the last ones. It was created 2026-09-28, after the author noticed two protagonists with the same initials ([D8](Decisions.md)).
 
 The checker, `tools/sunday_morning_check.py`, reads the Names table below and the drafts, and reports clashes, repeated phrases and filter verbs. Run it from the repository root:
 

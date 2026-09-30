@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft. Provisional, non-canon.** Prose draft of [The Greenvale Man](../Stories/The-Greenvale-Man.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting James's reading. Kettle Cove, Narrow Sound, the regatta and every character are provisional; see the [promotion rule](../Notes/Rules.md#promotion-rule). Northwind's two "we"s and its evidential forms are rendered in English, following [Language and Thought](../../Culture/Language-and-Thought.md#northwind-languages); no conlang words are invented.
+**L3 draft. Provisional, non-canon.** Prose draft of [The Greenvale Man](../Stories/The-Greenvale-Man.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting the author's reading. Kettle Cove, Narrow Sound, the regatta and every character are provisional; see the [promotion rule](../Notes/Rules.md#promotion-rule). Northwind's two "we"s and its evidential forms are rendered in English, following [Language and Thought](../../Culture/Language-and-Thought.md#northwind-languages); no conlang words are invented.
 
 **Fourth pass (uniqueness):** the story opens on the haul-out, not on a line of dialogue, since five of the seven drafts opened that way.
 

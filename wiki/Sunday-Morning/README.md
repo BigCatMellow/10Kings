@@ -20,7 +20,7 @@ The seven stories, in reading order. Each stands alone; together they make one b
 
 ## Start here
 
-**[Sunday Morning Notes](Notes/README.md)** is the one index for everything about how these stories are written: the framework, the rules, craft and voice, the pipeline, the collection, the registry, James's decisions and the history. It also has a question-by-question router.
+**[Sunday Morning Notes](Notes/README.md)** is the one index for everything about how these stories are written: the framework, the rules, craft and voice, the pipeline, the collection, the registry, the author's decisions and the history. It also has a question-by-question router.
 
 Every story page and draft is **Provisional**; see [canon discipline](Notes/Rules.md#canon-discipline).
 
@@ -38,7 +38,7 @@ In reading order. Each title opens the story; "plan" opens its planning page. Wh
 | 6 | [The Tree With a Debt](Drafts/The-Tree-With-a-Debt.md) | Twilighthollow (Deepwood / Highridge) | romance | ~4,200 words · [plan](Stories/The-Tree-With-a-Debt.md) | L3; review done, waiting for your read |
 | 7 | [Three Pots at Three Moon](Drafts/Three-Pots-at-Three-Moon.md) | a Port neighborhood | family / food | ~4,300 words · [plan](Stories/Three-Pots-at-Three-Moon.md) | L3; review done, waiting for your read |
 
-About 31,800 words in all. Every draft has had the Sunday Morning, storytelling and notes passes and an independent L4 review. L4 completes when James has read it ([Pipeline, Stage 4](Notes/Pipeline.md#stage-4--judge-review-independently)); what's still open for him is on [Decisions](Notes/Decisions.md#open-for-james).
+About 31,800 words in all. Every draft has had the Sunday Morning, storytelling and notes passes and an independent L4 review. L4 completes when the author has read it ([Pipeline, Stage 4](Notes/Pipeline.md#stage-4--judge-review-independently)); what's still open for him is on [Decisions](Notes/Decisions.md#open-for-the-author).
 
 Undeveloped premises: [Story Seeds](Stories/Story-Seeds.md). To add a story: [Pipeline, Stage 0](Notes/Pipeline.md#stage-0--add-a-story).
 

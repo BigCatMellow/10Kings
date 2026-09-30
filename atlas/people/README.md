@@ -12,7 +12,7 @@ Wurdren, the Villain and the Council families get a Main cast column; each domin
 
 ## Gaps this part exposes
 
-Things the wiki doesn't settle yet. Listed for James to decide; nothing here was filled in.
+Things the wiki doesn't settle yet. Listed for the author to decide; nothing here was filled in.
 
 - **The Villain has no identity yet.** Open Questions: his name, homeland or people, exact grievance, exact end-state, the point where his methods become unacceptable even to sympathetic readers, and whether he knows the full Council structure at the start.
 - **Wurdren has no biography.** His age, history, why his adventuring life fell short, family and relationships, what he first believes about the Council, and where his journey begins are all open. His only concrete scene so far is a Sunday Morning story, which is not canon.

@@ -12,7 +12,7 @@ Food has its own part (Part 3) and religion and guilds belong to Part 4 (Power),
 
 ## Gaps this part exposes
 
-Things the wiki doesn't settle yet. Listed for James to decide; nothing here was filled in.
+Things the wiki doesn't settle yet. Listed for the author to decide; nothing here was filled in.
 
 - Five culture pages carry no status label: Architecture, Language and Thought, Naming, Culture and Influence (whose title reads 'Cultural Inspiration'), and Border Towns.
 - Region culture is written twice: each region page has its own inspiration, language and architecture sections, and the Culture pages repeat them across regions. It's two owners for one concept. They agree in substance, but the lists already differ in detail: Highridge is 'probably the most multilingual settled region' on its region page but only 'likely highly multilingual' in Language and Thought; Ironcrest's speech list differs (ordered, attempted, completed, inspected, guaranteed versus completed, inspected, merely claimed); Architecture lists Deepwood longhouses flatly where the region page says they may appear depending on climate.

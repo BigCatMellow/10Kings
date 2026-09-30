@@ -120,7 +120,7 @@ Taken together, the seven stories are places where a domino should have fallen a
 
 ### Stage 1 — THINK (collection level)
 
-**Reasoning allocation:** structured single path plus reserve methods. THINK's tests didn't earn extra methods by default. Here they were used at James's request, each tied to a specific failure signal found in the collection, which is THINK's rule for bringing reserve methods in.
+**Reasoning allocation:** structured single path plus reserve methods. THINK's tests didn't earn extra methods by default. Here they were used at the author's request, each tied to a specific failure signal found in the collection, which is THINK's rule for bringing reserve methods in.
 
 | Method | Failure signal it answers | Finding |
 | --- | --- | --- |
@@ -140,7 +140,7 @@ alternatives      A a shared protagonist (Wurdren) across stories — set aside:
                   B no links at all — set aside: the collection would not add up to a year
                   C every link explicit — set aside: stories would stop standing alone
 assumptions       calendar and all attributions provisional
-decided           the two offers are connected (James, 2026-09-27; D3)
+decided           the two offers are connected (the author, 2026-09-27; D3)
 reconsider if     any story needs another to be understood; a link feels like coincidence in draft;
                   the reader's inference arrives before story 6 or never
 ```

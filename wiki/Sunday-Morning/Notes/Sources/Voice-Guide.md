@@ -2,7 +2,7 @@
 
 ## Status
 
-**Source, kept verbatim. Writing reference, not setting canon.** This is James's in-depth analysis of his own writing style, supplied on 2026-09-27 as `Aspirational Author Voice Handoff`. SHA-256 of the file as received: `a2542d19f98e1afcb1ed842fd85d157e823d847f229894d2ce129fdae85cd75d`. Don't edit the text below. How to use it is on [Craft](../Craft.md#voice). In the [order of authority](../README.md#order-of-authority), it decides how sentences sound, inside the tone and stakes the [Framework](Framework.md) sets.
+**Source, kept verbatim. Writing reference, not setting canon.** This is the author's in-depth analysis of his own writing style, supplied on 2026-09-27 as `Aspirational Author Voice Handoff`. SHA-256 of the file as received: `a2542d19f98e1afcb1ed842fd85d157e823d847f229894d2ce129fdae85cd75d`. Don't edit the text below. How to use it is on [Craft](../Craft.md#voice). In the [order of authority](../README.md#order-of-authority), it decides how sentences sound, inside the tone and stakes the [Framework](Framework.md) sets.
 
 Provenance: [Source Register](../../../Reference/Source-Register.md) §11.
 

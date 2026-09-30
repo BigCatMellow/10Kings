@@ -12,7 +12,7 @@ The backbone of the Atlas: the six regions, Port, the Spine and the Underpass, t
 
 ## Gaps this part exposes
 
-Things the wiki doesn't settle yet. Listed for James to decide; nothing here was filled in.
+Things the wiki doesn't settle yet. Listed for the author to decide; nothing here was filled in.
 
 - No named cities inside any of the six regions. Port and the border towns are the only named settlements; every region page describes 'cities' only in general.
 - Only one region is placed on a continent (Northwind, Northern Continent). Which regions sit on the Western and Eastern Continents is not stated.

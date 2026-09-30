@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, businesses and plot details are new and non-canon. The stew lineage illustrates the [Food Diaspora](../../Culture/Food-Diaspora-and-Adaptation.md) model; it is not a canonical dish history, and the serving ritual belongs to one family, not to Deepwood as a whole.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/Three-Pots-at-Three-Moon.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for James's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/Three-Pots-at-Three-Moon.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for the author's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -152,7 +152,7 @@ reconsider if     the ritual reads as a Deepwood-wide custom; the newcomers beco
 
 ### Stage 1b — THINK: world-tie pass
 
-**Routed to THINK** by James's direction to tie every story into the domino web (a change of frame, not of execution).
+**Routed to THINK** by the author's direction to tie every story into the domino web (a change of frame, not of execution).
 
 | Assumption | Status | Finding |
 | --- | --- | --- |
@@ -165,7 +165,7 @@ World-tie changes to the plan: s3 adds the mushroom prices; s5 adds the smugglin
 
 ### Stage 1c — THINK: reserve methods
 
-Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
+Run 2026-09-27 at the author's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
 
 | Method | Failure signal | Finding → change |
 | --- | --- | --- |
@@ -216,17 +216,17 @@ Candidate Writing Bible lenses applied, as research and not rules:
 
 ### Stage 3 — DO
 
-Drafted 2026-09-27: [Three Pots at Three Moon](../Drafts/Three-Pots-at-Three-Moon.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
+Drafted 2026-09-27: [Three Pots at Three Moon](../Drafts/Three-Pots-at-Three-Moon.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs the author's reading.
 
 - **DO** — new provisional names: Amaranth Doss (permit clerk), Halloran (inspector); the old *Family Stalls (Mixed Holding)* form. Mother Seral's mother is the one who came to Port with the clay pot.
 - **DO** — the s1 flash is kept as a single physical image (a heavy bowl, a crowded street), per the reconsideration trigger.
-- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, second pass** — rewritten the same day in the author's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. The family-stall form now requires all three to *serve* one night, not cook, so Jory can meet it. Jory finds the form from memory of a court case instead of an archive search, which keeps his clerk skill essential without repeating the collection's dusty-record reveal. The "understood she'd been answering all along" clause, both "wrote it down" closers, and Garro's repeated cinnamon exchange are cut. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — Jory wears an interpreter's collar, not ink, and the stall form comes from Amaranth Doss's own drawer, not a forgotten cabinet. Both changes separate this story from The Goat File.
-- **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; James left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). The Ardens' form is now a festival-nights licence, so nothing jumps the forty-one-name list, and the spot has been empty all summer rather than two years. Tobiah no longer says Garro's line about mushrooms costing more than meat (C5). Cut the rumor that gave away Halloran's reveal a scene early, and two extra silences.
+- **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; the author left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). The Ardens' form is now a festival-nights licence, so nothing jumps the forty-one-name list, and the spot has been empty all summer rather than two years. Tobiah no longer says Garro's line about mushrooms costing more than meat (C5). Cut the rumor that gave away Halloran's reveal a scene early, and two extra silences.
 
 ### Stage 4 — JUDGE
 
 Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reader, before checking it against this page, the Notes and the cross-story ledger ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)). A second reviewer read all seven in order, cold. **Verdict: pass.** Every promise, C3 and C5 hold; the ending is the collection's warmest. Small fixes taken (DO): the narration no longer calls Jory a clerk (he is an interpreter; Halloran still calls him one); cut Tobiah's region-wide "Half the villages lost their whole crop"; "Up the lane, on the next street over" became "On the next street over"; the "Four days out… Three days out" openers, which copied One Square's countdown wording word for word, are now "The next night… The day after".
 
-**Next level:** L4 Reviewed, once James has read it. The reviewers' questions for James were settled under [W9](../Notes/Decisions.md#working-decisions-made-in-the-work-waiting-for-jamess-reading).
+**Next level:** L4 Reviewed, once the author has read it. The reviewers' questions for the author were settled under [W9](../Notes/Decisions.md#working-decisions-made-in-the-work-waiting-for-the-authors-reading).

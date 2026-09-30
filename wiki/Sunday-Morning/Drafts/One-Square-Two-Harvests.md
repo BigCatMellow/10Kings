@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft. Provisional, non-canon.** Prose draft of [One Square, Two Harvests](../Stories/One-Square-Two-Harvests.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting James's reading. Every name, custom and historical detail is provisional and follows the story page's canon limits; see the [promotion rule](../Notes/Rules.md#promotion-rule).
+**L3 draft. Provisional, non-canon.** Prose draft of [One Square, Two Harvests](../Stories/One-Square-Two-Harvests.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting the author's reading. Every name, custom and historical detail is provisional and follows the story page's canon limits; see the [promotion rule](../Notes/Rules.md#promotion-rule).
 
 **Latest pass: spoken register (the test story, 2026-09-28).** Narration and dialogue rewritten to sound the way people talk: contractions by default, the narrator borrowing Pell's own way of putting things, and written-sounding constructions said the way someone would say them. The plot, every line of the cross-story ledger and every character's distinct voice (Idris's courtyard register included) are unchanged. Earlier passes are recorded on the story page.
 

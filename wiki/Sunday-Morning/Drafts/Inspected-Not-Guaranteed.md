@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft. Provisional, non-canon.** Prose draft of [Inspected, Not Guaranteed](../Stories/Inspected-Not-Guaranteed.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting James's reading. All characters except Wurdren, the guild rule and every business are provisional; see the [promotion rule](../Notes/Rules.md#promotion-rule).
+**L3 draft. Provisional, non-canon.** Prose draft of [Inspected, Not Guaranteed](../Stories/Inspected-Not-Guaranteed.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting the author's reading. All characters except Wurdren, the guild rule and every business are provisional; see the [promotion rule](../Notes/Rules.md#promotion-rule).
 
 **Fourth pass (uniqueness):** the climax no longer turns on the rule's wording, which the collection had already used too often. On relighting morning the farmers block the charcoal road. Wurdren finally passes on the message he'd refused to carry ("your fires don't light until their water runs clean"), Nell offers the walk, and Vey takes it because he needs the charcoal. Wurdren still doesn't solve anything; he only stops keeping quiet. Tamsin's small punch is hers, borrowed by the guild every year and returned late, which pays off scene 1. Vey orders a trough for every forge on the lane, Col's first commission, which answers the farmers' actual demand. The story ends on Nell's gate, "very nearly right", not on a favor punchline and not on a restored object, which The Heavy Scale now does.
 

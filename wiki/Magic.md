@@ -2,7 +2,7 @@
 
 ## Status
 
-**Working canon.** James decided on 2026-09-29 that magic in Two Sons is **real but deniable**. The rules below follow from that choice. Named relics and their stories are **Provisional** examples unless another page establishes them.
+**Working canon.** The author decided on 2026-09-29 that magic in Two Sons is **real but deniable**. The rules below follow from that choice. Named relics and their stories are **Provisional** examples unless another page establishes them.
 
 This page owns magic, relics and supernatural claims. [World Rules §7](World-Rules.md#7-magic-is-scarce-uncertain-limited-or-costly) sets the principle; this page answers the questions it asks.
 
@@ -67,7 +67,7 @@ The interesting question is never "is it real?" but "what do these people do bec
 
 ## Source
 
-Decision: James, 2026-09-29 (chosen from three options: real but deniable, rare and real, no magic). Earlier material: the magic and artifact sections of the 2026-09-22 import (`Two_Sons_-_Complete_Reference.md`, "The Magic / Artifact System"; `06_Religion_Gods_Artifacts.md`, Part 5; `01_Foundations_World_Myth_History.md`, "Magic, Artifacts, and Technological Realism"). See [Source Register §12](Reference/Source-Register.md#12-2026-09-29-thin-areas-settled-magic-language-families-council-houses).
+Decision: the author, 2026-09-29 (chosen from three options: real but deniable, rare and real, no magic). Earlier material: the magic and artifact sections of the 2026-09-22 import (`Two_Sons_-_Complete_Reference.md`, "The Magic / Artifact System"; `06_Religion_Gods_Artifacts.md`, Part 5; `01_Foundations_World_Myth_History.md`, "Magic, Artifacts, and Technological Realism"). See [Source Register §12](Reference/Source-Register.md#12-2026-09-29-thin-areas-settled-magic-language-families-council-houses).
 
 ## Related pages
 

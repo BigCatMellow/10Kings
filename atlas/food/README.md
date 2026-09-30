@@ -12,7 +12,7 @@ A cuisine card sits at the top of each region's Food heading, then its dishes. F
 
 ## Gaps this part exposes
 
-Things the wiki doesn't settle yet. Listed for James to decide; nothing here was filled in.
+Things the wiki doesn't settle yet. Listed for the author to decide; nothing here was filled in.
 
 - **No dish is tied to a named festival.** Four recipes mention unnamed "festival versions" (Braided Honey and Grain Loaf, Aurora Berry Preserve, Honey-Drizzled Nut Pastries, Blacksmith's / Forged Harvest Stew), and the festivals page names no dishes. Every dish card's Festival row says "none stated". The only festival links drawn are two inferred ones for Greenvale (Root Cellar Night, Harvest Home). The pairing of Forged Harvest Stew with Forge Reawakening exists only in the Sunday Morning stories, which are not canon. Name echoes (Aurora Berry Preserve and Aurora Nights; Harvest Stew and Harvest Home) are not links either.
 - **Port has no dishes.** Food lists six kinds of Port kitchen (dock-worker, ship, merchant, immigrant neighborhood, street and religious), and the diaspora page gives Port a cooking bias (borrowing, ship food, imported condiments), but there is no Port recipe book and no Port staples, techniques, meals, celebrations or drinks on record. Lean Vigil "can mark the anxiety of winter shipping and food supply" but names no food.

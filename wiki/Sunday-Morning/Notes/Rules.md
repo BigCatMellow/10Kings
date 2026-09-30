@@ -20,7 +20,7 @@ The collection is Sunday Morning first ([Decision D9](Decisions.md)). Check ever
 
 ## The world-tie rule: connected, not driven
 
-*Set 2026-09-27 at James's direction ([D2](Decisions.md)). The earlier rule kept the main conflict as background only.*
+*Set 2026-09-27 at the author's direction ([D2](Decisions.md)). The earlier rule kept the main conflict as background only.*
 
 Every Sunday Morning story is a **node in the [Villain's Dominoes](../../Story/Villains-Dominoes.md) and [Current Events](../../Story/Current-Events.md) web**, told from the ground, where the people involved can't see the web. This is the setting's own design: the plot moves through causal handoffs, and [Wurdren](../../Story/Wurdren.md) and ordinary people like him change the larger game "without understanding it at first" ([Main Conflict](../../Story/Main-Conflict.md#plot-movement)).
 
@@ -67,7 +67,7 @@ Wurdren can headline a Sunday Morning story; his arc already moves toward small 
 - He is not the smartest person in the room, the rightful anything, or chosen.
 - His influence comes from relationships and credibility, not speeches or strategy.
 - His [weaknesses](../../Story/Wurdren.md#character-weakness) (regret over an unremarkable career, the desire to be needed, nostalgia for simpler heroism) work well as gentle comedy and quiet heart.
-- His exact age, biography, family and starting point remain [open questions](../../Open-Questions.md). A story should not settle them in passing. If a draft needs his past, stop and ask James.
+- His exact age, biography, family and starting point remain [open questions](../../Open-Questions.md). A story should not settle them in passing. If a draft needs his past, stop and ask the author.
 
 Most Sunday Morning stories should **not** star him. World Rules §20: the world exists when the protagonists are absent, and a town may solve its own problem before Wurdren arrives.
 

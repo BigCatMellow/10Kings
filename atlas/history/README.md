@@ -12,7 +12,7 @@ The Convergence, its provisions, the Council's rise, the nine provisional confli
 
 ## Gaps this part exposes
 
-Things the wiki doesn't settle yet. Listed for James to decide; nothing here was filled in.
+Things the wiki doesn't settle yet. Listed for the author to decide; nothing here was filled in.
 
 - **There is no timeline.** No page gives a date, a duration or an overall chronology for anything before or at the Convergence (the Council's rise is a six-step sequence and the Port Seizure tradition has an order, but neither is dated), and Contested Memory says exact dates, participants and outcomes are not locked; the source that supplied dates was deliberately kept provisional. How old the Council is relative to the Convergence is an open question.
 - **The nine conflict names have no content.** Ore Scar Strife, Lowland Famine Raids, Coldwave Incursions, Ridge Pass Toll Wars, Orchard-Lord Feuds, Deepwood Edge Skirmishes, Iron-Field Conquest, Great Coastal Skirmish and Highridge Consolidation War are names from earlier brainstorming, flagged to be revised into overlapping campaigns. None has participants, place or outcome; five are placed here only by their names (inferred, off by default).

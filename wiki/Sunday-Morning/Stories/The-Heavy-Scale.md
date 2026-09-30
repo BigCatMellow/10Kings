@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, businesses and plot details are new and non-canon.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Heavy-Scale.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for James's reading). Outlined at L2; the pilot of the [Story Pipeline](../Notes/Pipeline.md). The concept below reflects the THINK pass; the original L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Heavy-Scale.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for the author's reading). Outlined at L2; the pilot of the [Story Pipeline](../Notes/Pipeline.md). The concept below reflects the THINK pass; the original L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -137,7 +137,7 @@ Connection to keep: the clue trail *is* Quill's arc. Each interview yields a clu
 | A caravan master was overcharged | `ASSUMED` → **false** | No caravans crossed during the winter. He becomes deadline pressure and a public audience instead. |
 | Highridge pass towns keep public scales | `VERIFIED` | [Highridge Plateau](../../Regions/Highridge-Plateau.md) — pass towns list public scales and customs houses. |
 | Unit names for Northwind and Highridge weights | `UNKNOWN` | The wiki defines no measurement systems. The shared word "stone" is kept as a provisional story detail. |
-| Which authority employs Icestep's weigher | `UNKNOWN` | Left vague in the story ("the pass authority"). A question for James if a draft ever needs it. |
+| Which authority employs Icestep's weigher | `UNKNOWN` | Left vague in the story ("the pass authority"). A question for the author if a draft ever needs it. |
 
 **First principles.** The story must deliver a real puzzle, fair clues, an innocent cause, a festival convergence, and a changed protagonist. Removed convention: a culprit. Sunday Morning tone does not need one, so the smith is only Quill's mistaken suspicion. Smallest mechanism that does the job: one physical fact (a lighter substitute), one hidden event (the storm on the roof), and one datable moment. That mechanism is a border-town problem: two systems of measure, one word.
 
@@ -167,7 +167,7 @@ reconsider if     readers can solve it by scene 3; the "stone" collision needs h
 
 ### Stage 1b — THINK: world-tie pass
 
-**Routed to THINK** by James's direction to tie every story into the domino web (a change of frame, not of execution).
+**Routed to THINK** by the author's direction to tie every story into the domino web (a change of frame, not of execution).
 
 | Assumption | Status | Finding |
 | --- | --- | --- |
@@ -179,7 +179,7 @@ World-tie changes to the plan: s2 adds news that Samir rides with the first cara
 
 ### Stage 1c — THINK: reserve methods
 
-Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
+Run 2026-09-27 at the author's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
 
 | Method | Failure signal | Finding → change |
 | --- | --- | --- |
@@ -236,19 +236,19 @@ Candidate Writing Bible lenses applied, as research and not rules:
 
 ### Stage 3 — DO
 
-Drafted 2026-09-27: [The Heavy Scale](../Drafts/The-Heavy-Scale.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
+Drafted 2026-09-27: [The Heavy Scale](../Drafts/The-Heavy-Scale.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs the author's reading.
 
 - **DO** — mechanism made concrete: a steelyard whose one-stone poise rides in a latched cradle nobody opens between services; Grell's two services both fall before the storm. Brisa took the stone to tie down a roof corner. The lighter Northwind net-stone reads about a tenth heavy.
 - **DO** — new provisional names: Chief Dorran Pike, Grell (smith), Maudie Vance (shrine keeper), Garro Sedgewater (the cook; authoritative for C5).
 - **DO** — length about 5,800 words, under the 6–9k target; no scene needed more room. JUDGE can say whether s6 or s9 wants it.
-- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
-- **DO, third pass** — Prose revised against the full guide. The ledger no longer counts entries before the change, which fixes a contradiction with the shrine log. The report reads *Error inspected and corrected*. The ending still lands on Tove's "I saw it", a plan item that echoes The Greenvale Man's sight-form walk home. That is for James to decide. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
+- **DO, second pass** — rewritten the same day in the author's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, third pass** — Prose revised against the full guide. The ledger no longer counts entries before the change, which fixes a contradiction with the shrine log. The report reads *Error inspected and corrected*. The ending still lands on Tove's "I saw it", a plan item that echoes The Greenvale Man's sight-form walk home. That is for the author to decide. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — Tove's "I saw it" moves mid-supper, so The Greenvale Man keeps the collection's sight-form ending to itself. The story closes the next morning on the scale reading true ("Ten stone. True to a hair."), echoing the opening and Grell's phrase. A review of the whole collection followed. Quill closes his book and says Brisa's line from memory (P4 kept, and distinct from Wen reading aloud in The Goat File). The report reads *Error found and corrected*; the soft landing above says "inspected", which is superseded, to keep that word for Inspected, Not Guaranteed.
 - **Sunday Morning pass:** the reveal leads with Brisa holding the roof over the stranded travelers, so the crowd hears a hero before a mistake. Quill never opens his book at her. "I didn't know" is said once. The chief's hardship line is shortened.
-- **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; James left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Quill now tries the cradle latch on day one; it is frozen, and the chief won't allow a brazier. That explains why the counterweight isn't checked for three days, and in s7 he goes out because the thaw means the latch will give. The ledger now shows the jump at the first weighing after the blow line, so the shrine date alone dates it. Cut "He didn't open his book. He didn't need it." (shared with The Goat File) and Tove's fireside retelling, which repeated Rask's in The Greenvale Man.
+- **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; the author left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Quill now tries the cradle latch on day one; it is frozen, and the chief won't allow a brazier. That explains why the counterweight isn't checked for three days, and in s7 he goes out because the thaw means the latch will give. The ledger now shows the jump at the first weighing after the blow line, so the shrine date alone dates it. Cut "He didn't open his book. He didn't need it." (shared with The Goat File) and Tove's fireside retelling, which repeated Rask's in The Greenvale Man.
 
 ### Stage 4 — JUDGE
 
-Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reader, before checking it against this page, the Notes and the cross-story ledger ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)). A second reviewer read all seven in order, cold. **Verdict: pass with small fixes.** The mystery is fair (the cold reader solved it at the shrine, one scene ahead, and enjoyed watching Quill catch up); C4 and C5 hold. Fixed: Brisa appeared to sit on the swap through the midnight scene, so Quill's reconstruction now says the gust took the stone into the drift and she put back the nearest thing marked *one stone*, believing the scale whole (DO, motivation); cut a confusing line about Quill's prejudice that the scene shows anyway; "kept her knowledge in piles" (the notes' shorthand) became plain, and the sentence naming her habit before her line went. Left: Quill's quoting Tove's words back to her is his exact-quotation trait, which Wen shares in The Goat File; the cold collection read felt the two detectives rhyme. That is a design choice for James.
+Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reader, before checking it against this page, the Notes and the cross-story ledger ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)). A second reviewer read all seven in order, cold. **Verdict: pass with small fixes.** The mystery is fair (the cold reader solved it at the shrine, one scene ahead, and enjoyed watching Quill catch up); C4 and C5 hold. Fixed: Brisa appeared to sit on the swap through the midnight scene, so Quill's reconstruction now says the gust took the stone into the drift and she put back the nearest thing marked *one stone*, believing the scale whole (DO, motivation); cut a confusing line about Quill's prejudice that the scene shows anyway; "kept her knowledge in piles" (the notes' shorthand) became plain, and the sentence naming her habit before her line went. Left: Quill's quoting Tove's words back to her is his exact-quotation trait, which Wen shares in The Goat File; the cold collection read felt the two detectives rhyme. That is a design choice for the author.
 
-**Next level:** L4 Reviewed, once James has read it. The reviewers' questions for James were settled under [W9](../Notes/Decisions.md#working-decisions-made-in-the-work-waiting-for-jamess-reading).
+**Next level:** L4 Reviewed, once the author has read it. The reviewers' questions for the author were settled under [W9](../Notes/Decisions.md#working-decisions-made-in-the-work-waiting-for-the-authors-reading).

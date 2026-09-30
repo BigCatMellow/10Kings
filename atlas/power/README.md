@@ -12,7 +12,7 @@ The Economic Council and its seats, the faiths and the guilds get columns of the
 
 ## Gaps this part exposes
 
-Things the wiki doesn't settle yet. Listed for James to decide; nothing here was filled in.
+Things the wiki doesn't settle yet. Listed for the author to decide; nothing here was filled in.
 
 - **The Council's houses are named, but not how seats pass.** Six seats and six houses were settled on 2026-09-29 (Marielle, Drathain, Veynor, Torradon, Luthain, Rhaelen); their named members are Provisional. Still open: how seats are inherited, selected, bought or contested, how old the Council is relative to the Convergence, what rulers know versus rumor, and the domains' final titles.
 - **Only two seats name the places they reach.** The Materials seat names five regions and the Routes seat names the Underpass. Every other region page names only "the Council"; the seat links drawn for them ("food/finance networks", "shipping and finance", "Council-linked credit", "route costs", "infrastructure/resource interests", "credit panic") match a domain word and are marked inferred, off by default. Sunplains names Council involvement but no domain.
@@ -419,7 +419,7 @@ Grouped by board column.
 
 **The Economic Council**
 
-- *Seats:* Six seats (Working canon, James 2026-09-29), each held by one house: Marielle (Harvest), Drathain (Materials), Veynor (Routes), Torradon (Works), Luthain (Treasury), Rhaelen (Lore). Each house comes from a region but represents none. The domain titles are still working titles. ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
+- *Seats:* Six seats (Working canon, the author 2026-09-29), each held by one house: Marielle (Harvest), Drathain (Materials), Veynor (Routes), Torradon (Works), Luthain (Treasury), Rhaelen (Lore). Each house comes from a region but represents none. The domain titles are still working titles. ([source](../../wiki/Politics/Economic-Council.md#the-six-houses))
 - *How it governs:* Choice architecture rather than command. A kingdom may technically be free to refuse a treaty, but then credit becomes scarce, grain contracts disappear, insurers raise rates, caravans choose another route, bridge repairs are delayed, or a rival gains better terms. No single action proves conspiracy. ([source](../../wiki/Politics/Economic-Council.md#how-the-council-governs-without-governing))
 - *Why rulers tolerate it:* Many rulers don't know the whole structure. Those who do may still tolerate it because it resolves shortages, provides emergency loans, coordinates trade, prevents financial panics, quietly restrains rivals, and helped preserve the post-Convergence order. ([source](../../wiki/Politics/Economic-Council.md#why-rulers-tolerate-it))
 - *Internal conflict:* Not unified. Potential fault lines: finance wants repayment while food wants famine relief; routes wants open trade while materials wants strategic embargo; infrastructure wants long investment while short-term political pressure demands cuts; knowledge may know a scheme is failing before others admit it. Each family also has heirs, factions, clients and private ambitions. ([source](../../wiki/Politics/Economic-Council.md#internal-conflict))
@@ -568,7 +568,7 @@ Grouped by board column.
 
 **Magic and relics**
 
-- *Principle:* Magic is real but deniable (James, 2026-09-29). A handful of old relics really do something small and moral, like a lantern that dims when its holder lies, but every effect could have an ordinary explanation, and the story never confirms it. ([source](../../wiki/Magic.md#the-decision))
+- *Principle:* Magic is real but deniable (the author, 2026-09-29). A handful of old relics really do something small and moral, like a lantern that dims when its holder lies, but every effect could have an ordinary explanation, and the story never confirms it. ([source](../../wiki/Magic.md#the-decision))
 - *Scope:* Relics are kept by communities (temples, shrines, guild halls, villages) and belong to the faith traditions and regions that made them. Earlier notes' examples, Provisional: the Quill of Saint Othriel, whose ink smudges on deceit; the Chalice of Mother Amalthea, whose water turns bitter for anyone withholding care. ([source](../../wiki/Magic.md#relics))
 - *Rule:* No spellcasting; small and moral effects only; always deniable; never confirmed by the narration; never load-bearing for the plot; never industrial. Illusions are legend, creatures are animals, spirits are belief; the earlier notes' mystical armies and forest mages are removed. ([source](../../wiki/Magic.md#hard-limits))
 

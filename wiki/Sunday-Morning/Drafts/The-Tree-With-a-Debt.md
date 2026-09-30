@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft. Provisional, non-canon.** Prose draft of [The Tree With a Debt](../Stories/The-Tree-With-a-Debt.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting James's reading. Every character except Naruin Mossglade is provisional, as are the tree, the pledge and its wording, and the lien practice; see the [promotion rule](../Notes/Rules.md#promotion-rule). Naruin stays offstage. Deepwood's animacy classes are rendered in English, following [Language and Thought](../../Culture/Language-and-Thought.md#deepwood-languages); no conlang words are invented.
+**L3 draft. Provisional, non-canon.** Prose draft of [The Tree With a Debt](../Stories/The-Tree-With-a-Debt.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting the author's reading. Every character except Naruin Mossglade is provisional, as are the tree, the pledge and its wording, and the lien practice; see the [promotion rule](../Notes/Rules.md#promotion-rule). Naruin stays offstage. Deepwood's animacy classes are rendered in English, following [Language and Thought](../../Culture/Language-and-Thought.md#deepwood-languages); no conlang words are invented.
 
 **Fourth pass (uniqueness):** the story opens on the market master's plan, not on a line of dialogue, since five of the seven drafts opened that way. The gift-or-debt argument no longer ends with both words written side by side; that device belongs to One Square's sacks.
 

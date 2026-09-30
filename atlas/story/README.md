@@ -12,7 +12,7 @@ Current events sit in their region's column (the cross-region ripple steps, the 
 
 ## Gaps this part exposes
 
-Things the wiki doesn't settle yet. Listed for James to decide; nothing here was filled in.
+Things the wiki doesn't settle yet. Listed for the author to decide; nothing here was filled in.
 
 - **The ripple chain is one possible chain, not the plot.** Current Events offers thirteen steps as "the kind of causal chain the story should prefer"; every chain link here is marked possible. Where other events feed the final step (Northwind convoys, Naruin's leak, the Sunplains coalition), the link is the Atlas's reading, inferred and off by default. So are links that join two separate entries without a page saying so (Highridge rerouting to Port smuggling, Deepwood's road plans to Naruin's leak, drought to coalition, the faiths to step 8, and Underpass route wars to Port smuggling, which the earlier Domino Map had marked canon). The chain steps have their own cards, so each event card keeps only the causes Current Events gives it.
 - **Six current events touch no story yet:** Northwind's fish stocks, Highridge's patron-tied debates, the Spine earthquake, the faiths' reading of the crises, the Underpass route wars (only a seed) and Sunplains drought (only a seed). Of the cross-region chain steps, only Council finance steadying lenders sits behind a story (The Goat File, as ordinary pressure, provisional).
@@ -21,7 +21,7 @@ Things the wiki doesn't settle yet. Listed for James to decide; nothing here was
 - **Orin has no stated domino,** and **Rosana's strain isn't tied to the abundance crisis on any canon page.** Orin's link to the metal movements is inferred from his strategic value. Current Events says "a new strain, unusually good weather, or both"; only the Sunday Morning collection makes it her seed. That link is inferred here.
 - **Two Sunday Morning settings aren't in the wiki.** Kettle Cove and Seven Wells are provisional names used only by their stories, so those stories point at Northwind and Highridge instead of a town.
 - **The main saga has no events of its own yet.** Main Conflict gives the three forces, a chapter-chain pattern, an escalation ladder and a possible ending, but no named chapter, battle or turning point; everything on this layer is the world before the saga starts.
-- **The Domino Map stays as its own page for now.** Its data is carried into this part; retiring it or regenerating it from the Atlas is James's call.
+- **The Domino Map stays as its own page for now.** Its data is carried into this part; retiring it or regenerating it from the Atlas is the author's call.
 
 ## Main conflict
 

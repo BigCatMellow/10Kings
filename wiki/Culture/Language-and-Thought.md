@@ -10,7 +10,7 @@ Do not use corny occupational metaphors as the main marker of regional speech.
 
 ## Language families
 
-**Working canon.** James decided on 2026-09-29 that the regional languages fall into **a few families**: languages in the same family are partly intelligible, languages across families are not, a trade tongue bridges them, and an older language survives in place names along The Spine. The language names below come from the project's earlier notes; the family names (Northern, Heartland) are working labels, **Provisional**.
+**Working canon.** The author decided on 2026-09-29 that the regional languages fall into **a few families**: languages in the same family are partly intelligible, languages across families are not, a trade tongue bridges them, and an older language survives in place names along The Spine. The language names below come from the project's earlier notes; the family names (Northern, Heartland) are working labels, **Provisional**.
 
 | Family | Languages | Where |
 | --- | --- | --- |

@@ -60,7 +60,7 @@ The events pages preserve the current web of crises, but many were brainstormed 
 
 ## Settled
 
-Questions answered by James on 2026-09-29. The linked pages own the answers.
+Questions answered by the author on 2026-09-29. The linked pages own the answers.
 
 - **Magic: exact prevalence; whether earlier "illusions", artifacts, creatures and supernatural claims are real; clear hard limits.** Real but deniable: a handful of moral relics whose effects are never confirmed, no spellcasting, creatures are animals, illusions are legend. See [Magic and Relics](Magic.md).
 - **Language: actual language families; which older languages survive in place names; how mutually intelligible the regions are.** A few families (Northern, Heartland, Deepwood), Trade Tongue between them, and Old Spine speech surviving in place names. See [Language families](Culture/Language-and-Thought.md#language-families).

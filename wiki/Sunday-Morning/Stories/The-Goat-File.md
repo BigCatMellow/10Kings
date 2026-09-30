@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). Seven Wells, the two houses, all characters and plot details are new and non-canon.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Goat-File.md) (third pass, revised against James's full voice guide as the test story; independent L4 review done 2026-09-28; waiting for James's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Goat-File.md) (third pass, revised against the author's full voice guide as the test story; independent L4 review done 2026-09-28; waiting for the author's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -154,7 +154,7 @@ reconsider if     readers guess the wedding clause by s5; the custodian reads as
 
 ### Stage 1b — THINK: world-tie pass
 
-**Routed to THINK** by James's direction to tie every story into the domino web (a change of frame, not of execution).
+**Routed to THINK** by the author's direction to tie every story into the domino web (a change of frame, not of execution).
 
 | Assumption | Status | Finding |
 | --- | --- | --- |
@@ -166,7 +166,7 @@ World-tie changes to the plan: s1 has the administrator cite the lenders; s3 add
 
 ### Stage 1c — THINK: reserve methods
 
-Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
+Run 2026-09-27 at the author's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
 
 | Method | Failure signal | Finding → change |
 | --- | --- | --- |
@@ -216,18 +216,18 @@ Candidate Writing Bible lenses applied, as research and not rules:
 
 ### Stage 3 — DO
 
-Drafted 2026-09-27: [The Goat File](../Drafts/The-Goat-File.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
+Drafted 2026-09-27: [The Goat File](../Drafts/The-Goat-File.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs the author's reading.
 
 - **DO** — the s4 clue is made concrete: both elders quote their mothers in the same ten words ("She is only lent. She'll come home in time."). New provisional names: Oriel (custodian), Hanne Tarrow and Dalia Kesh (the mothers). The memorandum dates from the spring before the dry summer.
 - **Open for review** — whether a reader guesses the wedding clause at s5, the story's reconsideration trigger. The draft keeps s5 before s6.
-- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
-- **DO, third pass (test)** — revised against James's [author voice guide](../Notes/Sources/Voice-Guide.md). Medium sentences by default. Quiet scene endings. Humor distinct per character. The mothers' ended friendship is left as a quiet sad beat, with both sons' lines "She never said your mother's name again" / "Mine neither." Wen chooses to read the memorandum's last line aloud rather than spare the elders, because exact words are how Seven Wells takes people seriously. The senior arbiter drops the showman act for his confession. The tea seller's paid cups turn, once, into a free one, and she bet on a ruling on the first afternoon. The plot and all ledger items are unchanged.
-- **Decision (James, 2026-09-28): the mothers' relationship stays open.** The memorandum never says whose wedding Hanne and Dalia expected, and the draft leaves room to read them as more than friends: arm in arm, never apart, the quarrel, "She never said your mother's name again." Keep it that way. Future passes must not add a line that names the intended couple or settles the relationship either way.
-- **Sunday Morning pass (James, 2026-09-28: "stick to the Sunday Morning style"):** the mothers' estrangement is now told once, in the hall. In the archive, Wen notices their signatures and the triple-underlined *each*. The Ledger Closing relief gets its meal. The senior arbiter's confession ends with the showman back, taking evens on which goat. The "bad year" exposition is cut to a clause.
-- **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; James left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Fixed the timeline: the tea seller no longer says both mothers were gone before the goat business started, which contradicted "not at weddings, not at burials". Samir's scene now opens "Before the stall closed", matching its late-evening time. Cut one of two silences in the arbiter's scene.
+- **DO, second pass** — rewritten the same day in the author's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, third pass (test)** — revised against the [author voice guide](../Notes/Sources/Voice-Guide.md). Medium sentences by default. Quiet scene endings. Humor distinct per character. The mothers' ended friendship is left as a quiet sad beat, with both sons' lines "She never said your mother's name again" / "Mine neither." Wen chooses to read the memorandum's last line aloud rather than spare the elders, because exact words are how Seven Wells takes people seriously. The senior arbiter drops the showman act for his confession. The tea seller's paid cups turn, once, into a free one, and she bet on a ruling on the first afternoon. The plot and all ledger items are unchanged.
+- **Decision (the author, 2026-09-28): the mothers' relationship stays open.** The memorandum never says whose wedding Hanne and Dalia expected, and the draft leaves room to read them as more than friends: arm in arm, never apart, the quarrel, "She never said your mother's name again." Keep it that way. Future passes must not add a line that names the intended couple or settles the relationship either way.
+- **Sunday Morning pass (the author, 2026-09-28: "stick to the Sunday Morning style"):** the mothers' estrangement is now told once, in the hall. In the archive, Wen notices their signatures and the triple-underlined *each*. The Ledger Closing relief gets its meal. The senior arbiter's confession ends with the showman back, taking evens on which goat. The "bad year" exposition is cut to a clause.
+- **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; the author left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Fixed the timeline: the tea seller no longer says both mothers were gone before the goat business started, which contradicted "not at weddings, not at burials". Samir's scene now opens "Before the stall closed", matching its late-evening time. Cut one of two silences in the arbiter's scene.
 
 ### Stage 4 — JUDGE
 
 Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reader, before checking it against this page, the Notes and the cross-story ledger ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)). A second reviewer read all seven in order, cold. **Verdict: pass with small fixes.** All must-establish items and P1–P8 hold; D7 is respected. Fixed: the story ended twice (the arbiter's return, then Samir), so Samir's C4 scene now comes first, early in the evening, and the arbiter's "which goat" bet leads into the herd (PLAN, order only); cut Wen's "treating it as a joke" gloss, "the brief relief" before it is introduced, and a thought that restated Samir's question; "the same ten words" became "the same words", since the names differ. Record correction: the estrangement is told twice, not once as the Sunday Morning pass note says: by the tea seller as the outside fact and in the hall as the private cost. The reviewer found this reads as two views, not repetition, so the draft keeps it.
 
-**Next level:** L4 Reviewed, once James has read it. The reviewers' questions for James were settled under [W9](../Notes/Decisions.md#working-decisions-made-in-the-work-waiting-for-jamess-reading).
+**Next level:** L4 Reviewed, once the author has read it. The reviewers' questions for the author were settled under [W9](../Notes/Decisions.md#working-decisions-made-in-the-work-waiting-for-the-authors-reading).

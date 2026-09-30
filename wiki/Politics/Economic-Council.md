@@ -8,11 +8,11 @@ They do not represent Ironcrest, Greenvale, Northwind, or any other kingdom.
 
 They control economic systems on which *all* kingdoms depend.
 
-**Six seats (Working canon).** James settled on six seats on 2026-09-29, each held by one house. The domain titles below are still working titles.
+**Six seats (Working canon).** The author settled on six seats on 2026-09-29, each held by one house. The domain titles below are still working titles.
 
 ## The six houses
 
-**Working canon** (James, 2026-09-29): the house names and home regions come from the project's earlier notes, with House Drathain moved from the old Labor domain to the Materials seat. Each house comes *from* a region, but that is origin, not representation: the Council still speaks for no kingdom, and every house's power crosses borders. The named members are earlier-note figures, **Provisional**.
+**Working canon** (the author, 2026-09-29): the house names and home regions come from the project's earlier notes, with House Drathain moved from the old Labor domain to the Materials seat. Each house comes *from* a region, but that is origin, not representation: the Council still speaks for no kingdom, and every house's power crosses borders. The named members are earlier-note figures, **Provisional**.
 
 | Seat | House | Home region | Named members (Provisional) |
 | --- | --- | --- | --- |

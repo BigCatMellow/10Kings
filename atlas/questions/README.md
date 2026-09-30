@@ -12,7 +12,7 @@ Each question is a small card under an Open questions heading in the column of w
 
 ## Gaps this part exposes
 
-Things the wiki doesn't settle yet. Listed for James to decide; nothing here was filled in.
+Things the wiki doesn't settle yet. Listed for the author to decide; nothing here was filled in.
 
 - **31 open questions, plus an audit note.** Open Questions lists them under seven headings (Map, Political structure, Economic Council, Villain, Wurdren, Language and naming, Nomadic peoples); eight more were settled on 2026-09-29 and moved to its Settled section. It also asks for the current events to be audited once the map and the Villain's plan are settled.
 - **3 still have nothing on the board to attach to:** Map: which regional borders are long boundaries versus narrow corridors; Map: navigable rivers and major watersheds; Language and naming: personal-name systems within the language families. Magic, the Council's houses and the language families were settled on 2026-09-29 and have left this list; they now live on Magic and Relics, the Economic Council page and Language and Thought.

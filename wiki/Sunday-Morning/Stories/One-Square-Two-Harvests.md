@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, place names within the town and plot details are new and non-canon. The historical explanation for the festival split is a story device, not settled chronology.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/One-Square-Two-Harvests.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for James's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/One-Square-Two-Harvests.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for the author's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -156,7 +156,7 @@ reconsider if     the ending needs Pell to decide; the surplus plot needs price 
 
 ### Stage 1b — THINK: world-tie pass
 
-**Routed to THINK** by James's direction to tie every story into the domino web (a change of frame, not of execution).
+**Routed to THINK** by the author's direction to tie every story into the domino web (a change of frame, not of execution).
 
 | Assumption | Status | Finding |
 | --- | --- | --- |
@@ -170,7 +170,7 @@ World-tie changes to the plan: s2 adds the rumor and the agent's visits; s3 has 
 
 ### Stage 1c — THINK: reserve methods
 
-Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
+Run 2026-09-27 at the author's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
 
 | Method | Failure signal | Finding → change |
 | --- | --- | --- |
@@ -223,16 +223,16 @@ Candidate Writing Bible lenses applied, as research and not rules:
 
 ### Stage 3 — DO
 
-Drafted 2026-09-27: [One Square Two Harvests](../Drafts/One-Square-Two-Harvests.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
+Drafted 2026-09-27: [One Square Two Harvests](../Drafts/One-Square-Two-Harvests.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs the author's reading.
 
 - **DO** — the clause point stays within two lines: the Greenvale text uses the form for a thing done once ("kept"), the later Sunplains translation made it a standing rule. The reconsideration trigger did not fire.
 - **DO** — new provisional names: Lissa (Pell's granddaughter), Aurel (gatekeeper), Hobb (miller), the Thistle, Orrin (now Upcott) and Bray farms; the old builder is "the Scarth from Kettle Cove," matching [The Greenvale Man](The-Greenvale-Man.md) (C2).
 - **DO** — the land agent's lunch names only his lenders' squeeze, not the ripple chain, so story 1 doesn't read as a conspiracy.
-- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
-- **DO, third pass** — Prose revised against the full guide: medium sentences, fewer button endings, humor by character. Bettany calls Pell on the records-room trick. There is a new last line. A late-wife backstory was drafted and then removed at James's direction: the guide is a sensibility, not a checklist. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
+- **DO, second pass** — rewritten the same day in the author's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, third pass** — Prose revised against the full guide: medium sentences, fewer button endings, humor by character. Bettany calls Pell on the records-room trick. There is a new last line. A late-wife backstory was drafted and then removed at the author's direction: the guide is a sensibility, not a checklist. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — The discovery changes from an old ledger to an object: each festival's old banner, stored in Hobb's mill loft, turns out to be half of one banner. It was cut for filing and tagged with the year after the settlement. The joined banner hangs over the square at the festival. This takes the story off the collection's repeated "read an old record" reveal. The land agent also names a valley where the farms did sell (World Threads: where the nail still fell). A review of the whole collection followed. The clause's date now comes from the committee copy Bettany has read eleven times without looking at the year. The joined banner hangs over the well-head, not either side's steps. The water court's request moves into the festival (plan s8), and the story ends with Pell alone in the tree, climbing down twice to see whether anyone is coming. That avoids a favor ending right before The Greenvale Man's.
 - **Sunday Morning pass:** the land agent's lenders are trimmed to one clause. The lonely last morning ends with the Salves' dog, rain, and Pell's own ruling that it's his morning to walk it.
-- **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; James left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Cut the agent's "I'm a link in a chain, and I'm being pulled" (it repeated the narration and was the one line in story 1 hinting at a larger scheme). Cut old Scarth's "You can't see anything coming", which contradicted his letter in The Greenvale Man (C2). Renamed the Orrin farm to the Upcott farm, a false echo of Orin Slatehallow.
+- **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; the author left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Cut the agent's "I'm a link in a chain, and I'm being pulled" (it repeated the narration and was the one line in story 1 hinting at a larger scheme). Cut old Scarth's "You can't see anything coming", which contradicted his letter in The Greenvale Man (C2). Renamed the Orrin farm to the Upcott farm, a false echo of Orin Slatehallow.
 
 ### Stage 4 — JUDGE
 
@@ -240,4 +240,4 @@ Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reade
 
 - **Spoken-register pass (test story, 2026-09-28; [D14](../Notes/Decisions.md)):** narration and dialogue rewritten to sound the way people talk, following [Craft: Write how people talk](../Notes/Craft.md#write-how-people-talk). Contractions by default, the narrator borrowing Pell's way of putting things, written-sounding constructions said plainly ("He did not manage it" became "He didn't get very far"). Plot, cross-story details and every character's voice are unchanged; Idris keeps his courtyard register. An independent check found no drift and caught a few overcorrections (a dialect "the both of them", "quiet" swapped for "silence", a renamed dish), which were reverted.
 
-**Next level:** L4 Reviewed, once James has read it. The reviewers' questions for James were settled under [W9](../Notes/Decisions.md#working-decisions-made-in-the-work-waiting-for-jamess-reading).
+**Next level:** L4 Reviewed, once the author has read it. The reviewers' questions for the author were settled under [W9](../Notes/Decisions.md#working-decisions-made-in-the-work-waiting-for-the-authors-reading).

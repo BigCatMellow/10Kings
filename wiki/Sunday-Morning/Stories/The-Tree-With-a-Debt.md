@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, the tree, the lien and plot details are new and non-canon.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Tree-With-a-Debt.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for James's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Tree-With-a-Debt.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for the author's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -163,7 +163,7 @@ reconsider if     the clause twist needs a long explanation; the romance needs a
 
 ### Stage 1b — THINK: world-tie pass
 
-**Routed to THINK** by James's direction to tie every story into the domino web (a change of frame, not of execution).
+**Routed to THINK** by the author's direction to tie every story into the domino web (a change of frame, not of execution).
 
 | Assumption | Status | Finding |
 | --- | --- | --- |
@@ -176,7 +176,7 @@ World-tie changes to the plan: s1 adds Naruin's order; s5 adds the buyer's offer
 
 ### Stage 1c — THINK: reserve methods
 
-Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
+Run 2026-09-27 at the author's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
 
 | Method | Failure signal | Finding → change |
 | --- | --- | --- |
@@ -189,7 +189,7 @@ Changes to the plan: s4 adds why Naruin is afraid; s5 adds Hollis's bad loans an
 
 ### Decision record — the connected offers
 
-**Routed to James** as a taste decision that changes the collection, then back to THINK. James decided on 2026-09-27 to connect the two anonymous offers.
+**Routed to the author** as a taste decision that changes the collection, then back to THINK. The author decided on 2026-09-27 to connect the two anonymous offers.
 
 | | |
 | --- | --- |
@@ -239,19 +239,19 @@ Candidate Writing Bible lenses applied, as research and not rules:
 
 ### Stage 3 — DO
 
-Drafted 2026-09-27: [The Tree With a Debt](../Drafts/The-Tree-With-a-Debt.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
+Drafted 2026-09-27: [The Tree With a Debt](../Drafts/The-Tree-With-a-Debt.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs the author's reading.
 
 - **Routed to THINK and resolved in draft** — the clause mechanism, which the Climax above leaves implicit. The pledge text says only "for as long as it stands." An old plateau convention carries a standing pledge's debt, uncallable, until the condition ends, so nothing is owed while the tree stands and everything comes due when it falls. The pledge also carries the consent right. For sixty years the holder has had every reason to want the tree down and the only legal power to stop anyone felling it; nobody knew. Renewing it as a guardianship keeps the power and waives the payout. The Climax above has been updated to match.
 - **DO** — Hollis's early kind act (the reconsideration trigger): he unloads the mail cart and gives Pip a honey stick before naming his sum. The Vigil falls on the Debates' opening day; Hollis arrives at their close.
 - **DO** — Ismet names the watermark as a Port stationer's and thinks nothing more of it, as C6 requires.
-- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, second pass** — rewritten the same day in the author's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. Narrator jokes were cut to one ("cured nothing but money"). Ismet doesn't write down the fourth word for old. Hollis's next small problem is a cold mint-water stall instead of tea, to avoid echoing The Goat File's tea seller. The story ends on "I'd hope so." A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — The story opens on the market master's plan rather than a line of dialogue, to vary the collection's openings. The gift-or-debt argument is left unresolved rather than written side by side, which is One Square's device.
 - **Sunday Morning pass:** the stakes come back to one tree. Hollis's neighbors are one line, not the whole road line or "every stand of forest". The timber-tithe history is cut to a clause, and the debate hall interrupts it. The caravan-attack exposition is cut.
-- **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; James left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). The pledge's "for as long as it stands" is now in the first quotation (s3), so the midnight reveal changes what the reader already saw. Sessa now stakes the path herself, paying off "a path I'd walked" and making the survey footnote true. Added the vigil-evening supper where notes are compared (the collection's meal rule), and Ismet shares what the mule knew. Cut three of the "wrote everything down" beats (Quill's trait in the story before) and the sentence explaining the missing covering note.
+- **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; the author left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). The pledge's "for as long as it stands" is now in the first quotation (s3), so the midnight reveal changes what the reader already saw. Sessa now stakes the path herself, paying off "a path I'd walked" and making the survey footnote true. Added the vigil-evening supper where notes are compared (the collection's meal rule), and Ismet shares what the mule knew. Cut three of the "wrote everything down" beats (Quill's trait in the story before) and the sentence explaining the missing covering note.
 
 ### Stage 4 — JUDGE
 
 Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reader, before checking it against this page, the Notes and the cross-story ledger ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)). A second reviewer read all seven in order, cold. **Verdict: pass with small fixes.** The romance works in small beats, and the clause is clear on a cold read now that s3 quotes it; C6 holds. Fixed (DO): cut the line that put Sessa's upbringing on the Highridge side, which muddled which half of town she belongs to, and the gloss "In Ismet's paperwork… Lot Fourteen"; "he went on" now names the market master; cut Ismet "thought nothing more of it", the narrator's wink at the watermark (the cold reader made the connection unaided); Pip is "a small girl", the collection's only description by skin color.
 
-**Next level:** L4 Reviewed, once James has read it. The reviewers' questions for James were settled under [W9](../Notes/Decisions.md#working-decisions-made-in-the-work-waiting-for-jamess-reading).
+**Next level:** L4 Reviewed, once the author has read it. The reviewers' questions for the author were settled under [W9](../Notes/Decisions.md#working-decisions-made-in-the-work-waiting-for-the-authors-reading).

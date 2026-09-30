@@ -242,7 +242,7 @@ def write_md(d, allnodes, kinds, lanes, board_live, schema):
     s = collections.Counter(e["basis"] for e in d["edges"])
     out.append("**Counts:** " + ", ".join(f"{v} {plural(kinds[k].lower(), v)}" for k, v in c.items()) + f"; {len(d['edges'])} connections ({s['stated']} stated in the wiki, {s['inferred']} inferred).\n")
     out.append("## Gaps this part exposes\n")
-    out.append("Things the wiki doesn't settle yet. Listed for James to decide; nothing here was filled in.\n")
+    out.append("Things the wiki doesn't settle yet. Listed for the author to decide; nothing here was filled in.\n")
     out += [f"- {g}" for g in d.get("gaps", [])]
     for lay in d["layers"]:
         es = [e for e in d["edges"] if e["layer"] == lay["id"]]

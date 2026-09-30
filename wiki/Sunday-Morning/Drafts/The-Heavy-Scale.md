@@ -2,7 +2,7 @@
 
 ## Status
 
-**L3 draft. Provisional, non-canon.** Prose draft of [The Heavy Scale at Icestep Summit](../Stories/The-Heavy-Scale.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting James's reading. Every character except Samir Tareh is provisional, as are the businesses and the shared unit name "stone"; see the [promotion rule](../Notes/Rules.md#promotion-rule). The weigher's employer stays "the pass authority," as the story page leaves it. Samir appears only as an ordinary caravan negotiator.
+**L3 draft. Provisional, non-canon.** Prose draft of [The Heavy Scale at Icestep Summit](../Stories/The-Heavy-Scale.md). Its pass history is in the story page's Stage 3 — DO section. Independent L4 review 2026-09-28; awaiting the author's reading. Every character except Samir Tareh is provisional, as are the businesses and the shared unit name "stone"; see the [promotion rule](../Notes/Rules.md#promotion-rule). The weigher's employer stays "the pass authority," as the story page leaves it. Samir appears only as an ordinary caravan negotiator.
 
 **Fourth pass (uniqueness):** Tove's evidential habit pays off in the yard ("I saw what I was charged"), not in a retelling, so the sight-form retelling stays *The Greenvale Man*'s. The story now closes on the morning after, with the scale reading true: "Ten stone. True to a hair." That echoes the opening and Grell's own phrase. At the climax Quill's book stays in his pocket and he says Brisa's line from memory, so he isn't a clerk reading aloud to a crowd as Wen is in The Goat File. The report now reads *Error found and corrected*, keeping the word *inspected* for Inspected, Not Guaranteed.
 

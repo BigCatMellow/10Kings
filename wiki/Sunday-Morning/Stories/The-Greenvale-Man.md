@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). Kettle Cove, Narrow Sound, all characters and plot details are new and non-canon. The regatta is a story detail attached to the provisional Last Sail festival, not established custom.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/The-Greenvale-Man.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for James's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/The-Greenvale-Man.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for the author's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -153,7 +153,7 @@ reconsider if     the plank repair needs technical exposition; the elder's turn 
 
 ### Stage 1b — THINK: world-tie pass
 
-**Routed to THINK** by James's direction to tie every story into the domino web (a change of frame, not of execution).
+**Routed to THINK** by the author's direction to tie every story into the domino web (a change of frame, not of execution).
 
 | Assumption | Status | Finding |
 | --- | --- | --- |
@@ -166,7 +166,7 @@ World-tie changes to the plan: s4 adds Maris's call and the rumor; s5 sets the t
 
 ### Stage 1c — THINK: reserve methods
 
-Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
+Run 2026-09-27 at the author's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
 
 | Method | Failure signal | Finding → change |
 | --- | --- | --- |
@@ -217,18 +217,18 @@ Candidate Writing Bible lenses applied, as research and not rules:
 
 ### Stage 3 — DO
 
-Drafted 2026-09-27: [The Greenvale Man](../Drafts/The-Greenvale-Man.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
+Drafted 2026-09-27: [The Greenvale Man](../Drafts/The-Greenvale-Man.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs the author's reading.
 
 - **DO** — Rask's oak is the plank that goes into the hull (P6); the green plank goes on the fire.
 - **DO** — new provisional name: Sigra Ulfsen, Narrow Sound's champion rower. The flour sack carries the Salve house's hurried purchase stamp, matching [One Square](One-Square-Two-Harvests.md) (C1).
-- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, second pass** — rewritten the same day in the author's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. Rask's absolute ("never once used the wide one when Aldo could hear") is kept for the payoff. A flour-smell beat was tried and cut as formula. Silence closers were thinned. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — The story opens on the haul-out rather than a line of dialogue, to vary the collection's openings.
 - **Sunday Morning pass:** the convoy-list aside moves out of the race to the morning after the vote. Aldo's twenty years get a counterweight: they won him Hild.
-- **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; James left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Cut the clause stating the story's point ("how fast a thing that was said became a thing everybody knew") two scenes before Rask's "Who saw it?". Hild no longer re-tells her niece's uncle's loss that the narration has just told.
+- **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; the author left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Cut the clause stating the story's point ("how fast a thing that was said became a thing everybody knew") two scenes before Rask's "Who saw it?". Hild no longer re-tells her niece's uncle's loss that the narration has just told.
 
 ### Stage 4 — JUDGE
 
 Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reader, before checking it against this page, the Notes and the cross-story ledger ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)). A second reviewer read all seven in order, cold. **Verdict: pass with small fixes.** P1–P8, C1 and C2 all hold; the test launch, Rask's oak and the wide *we* are the strongest things in the collection's first half. Fixed (DO): "Her uncle" now reads "Sigra's uncle", so Sigra's "Thank you" carries its weight; Rask's first line now tells the reader that Brenna's father built the *Kittiwake* before he went inland, the premise's missing fact.
 
-**Next level:** L4 Reviewed, once James has read it. The reviewers' questions for James were settled under [W9](../Notes/Decisions.md#working-decisions-made-in-the-work-waiting-for-jamess-reading).
+**Next level:** L4 Reviewed, once the author has read it. The reviewers' questions for the author were settled under [W9](../Notes/Decisions.md#working-decisions-made-in-the-work-waiting-for-the-authors-reading).

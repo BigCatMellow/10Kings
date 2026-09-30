@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, businesses and plot details are new and non-canon. Wurdren's biography is not settled by anything here.
 
-**Development level: L3 Drafted** — [read the draft](../Drafts/Inspected-Not-Guaranteed.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for James's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
+**Development level: L3 Drafted** — [read the draft](../Drafts/Inspected-Not-Guaranteed.md) (fourth pass, checked for fit and uniqueness across the collection; independent L4 review done 2026-09-28; waiting for the author's reading). Outlined at L2; developed through the [Story Pipeline](../Notes/Pipeline.md). The L0 concept is preserved in git history (commit `3427bdd`).
 
 ## Premise
 
@@ -157,7 +157,7 @@ reconsider if     Wurdren reads as the cleverest person in the room; the blockad
 
 ### Stage 1b — THINK: world-tie pass
 
-**Routed to THINK** by James's direction to tie every story into the domino web (a change of frame, not of execution).
+**Routed to THINK** by the author's direction to tie every story into the domino web (a change of frame, not of execution).
 
 | Assumption | Status | Finding |
 | --- | --- | --- |
@@ -170,7 +170,7 @@ World-tie changes to the plan: s2 adds short hours and the Slatehallow talk; s4 
 
 ### Stage 1c — THINK: reserve methods
 
-Run 2026-09-27 at James's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
+Run 2026-09-27 at the author's request to use THINK more fully. Each method answers a specific failure signal; see [Collection](../Notes/Collection.md#stage-1--think-collection-level) for the collection-level pass.
 
 | Method | Failure signal | Finding → change |
 | --- | --- | --- |
@@ -182,7 +182,7 @@ Changes to the plan: s4 adds Vey's wage reason; s5 adds Col showing Wurdren the 
 
 ### Decision record — the connected offers
 
-**Routed to James** as a taste decision that changes the collection, then back to THINK. James decided on 2026-09-27 to connect the two anonymous offers.
+**Routed to the author** as a taste decision that changes the collection, then back to THINK. The author decided on 2026-09-27 to connect the two anonymous offers.
 
 | | |
 | --- | --- |
@@ -232,23 +232,23 @@ Candidate Writing Bible lenses applied, as research and not rules:
 
 - A reader credits Wurdren with solving it → move the "where does it say?" question to Nell (PLAN) or reframe the judging problem (THINK).
 - Scene 5 reads as travel filler → merge the blockade into s3 (PLAN).
-- Any draft line needs Wurdren's past → stop and ask James (human boundary).
+- Any draft line needs Wurdren's past → stop and ask the author (human boundary).
 
 ### Stage 3 — DO
 
-Drafted 2026-09-27: [Inspected Not Guaranteed](../Drafts/Inspected-Not-Guaranteed.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs James's reading.
+Drafted 2026-09-27: [Inspected Not Guaranteed](../Drafts/Inspected-Not-Guaranteed.md). An independent check (a fresh pass that did not write the drafts) reviewed all seven against their story pages and the Anthology; its findings were fixed in the draft. That check is not the L4 review, which also needs the author's reading.
 
 - **DO** — Wurdren's sword story is hearsay about the sword and is always interrupted before it reaches him; no origin, age, family or career event is stated (human boundary respected).
 - **DO** — the connected-offer markers appear in s4 (the letter's arrival) and s5 (Col reads the phrase aloud; Wurdren sees the watermark), as C6 requires.
 - **DO** — three carts reach the washout on day 4 and wait for the fourth, so the charcoal deadline still binds on relighting day.
-- **DO, second pass** — rewritten the same day in James's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
+- **DO, second pass** — rewritten the same day in the author's voice ([Voice](../Notes/Craft.md#voice)), keeping every plan item, cross-story link and fix above. A fresh check compared it with the first pass; its findings were fixed.
 - **DO, third pass** — Prose revised against the full guide. The name-reading takes "hours" in both places. The ending stops at Nell's request, without the rate punchline, so it no longer repeats One Square's favor joke. Explaining clauses were cut. A fresh check covered drift, canon and repetition across the collection; its findings were fixed or flagged.
 - **DO, fourth pass (uniqueness)** — The climax no longer turns on the rule's wording. The farmers block the charcoal road. Wurdren carries the message he'd refused to deliver on the road, which is behavior changed rather than cleverness. Nell offers the walk, and Vey takes it because he needs the charcoal. The story ends on Tamsin's small punch back in its outline, set up in scene 1; Nell's gate becomes a line in the soft landing. A review of the whole collection followed. Vey orders a Barrowfield trough for every forge on the lane, which answers the farmers' demand and gives Col his first commission. The punch is Tamsin's, borrowed by the guild each year. The ending returns to Nell's gate (P7), "very nearly right", so it isn't a restored object just before The Heavy Scale's.
 - **Sunday Morning pass:** Tamsin says "Some other time" instead of "Good". At The Quench the keeper asks for "the medium one", and Wurdren's whole sword story is now "It's an ordinary sword. Somebody looks after it." That is P5's payoff, told truly instead of untold.
-- **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; James left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Fixed the judge count: Vey turns to "the other two judges", so Wurdren's vote is cast on the page. Nell now carries Vey's word about the troughs to the farmers in the road, replacing "Somehow… they had heard". "Sold to you" became "sold", keeping how Wurdren came by the sword untold. Trimmed Tamsin's restatement, two extra silences and the narrator's line about the rates, which explained Nell's point. The gate ending stays, although The Greenvale Man also ends on a request: being asked is the point for Wurdren (Registry, devices).
+- **Notes pass (2026-09-28)** — checked against the reorganized [Notes](../Notes/README.md) for changes that genuinely help a reader; the author left the taste calls to AI judgment ([D12](../Notes/Decisions.md)). Fixed the judge count: Vey turns to "the other two judges", so Wurdren's vote is cast on the page. Nell now carries Vey's word about the troughs to the farmers in the road, replacing "Somehow… they had heard". "Sold to you" became "sold", keeping how Wurdren came by the sword untold. Trimmed Tamsin's restatement, two extra silences and the narrator's line about the rates, which explained Nell's point. The gate ending stays, although The Greenvale Man also ends on a request: being asked is the point for Wurdren (Registry, devices).
 
 ### Stage 4 — JUDGE
 
-Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reader, before checking it against this page, the Notes and the cross-story ledger ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)). A second reviewer read all seven in order, cold. **Verdict: pass with small fixes.** P1–P9 and C6 hold, and Wurdren stays inside his canon limits. Fixed (DO): a reversed-logic line about Vey's reason; an ambiguous "He was only tired"; Nell's repeat of the trough fact at the ditch (now "One trough"); three stray details (the hall, the damp letter days later, her arms full of nothing) and an unannounced borrowed horse. Changed: the ending. Both the notes-pass audit and the cold collection read recognized Nell's request as The Greenvale Man's barrel ending, so Wurdren now goes to her sticking gate without being asked, which also shows him changed. Left for James: Tamsin's "thirty years" of upkeep sets a floor on how long he has had the sword.
+Independent review, 2026-09-28: a fresh reviewer read the draft cold, as a reader, before checking it against this page, the Notes and the cross-story ledger ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)). A second reviewer read all seven in order, cold. **Verdict: pass with small fixes.** P1–P9 and C6 hold, and Wurdren stays inside his canon limits. Fixed (DO): a reversed-logic line about Vey's reason; an ambiguous "He was only tired"; Nell's repeat of the trough fact at the ditch (now "One trough"); three stray details (the hall, the damp letter days later, her arms full of nothing) and an unannounced borrowed horse. Changed: the ending. Both the notes-pass audit and the cold collection read recognized Nell's request as The Greenvale Man's barrel ending, so Wurdren now goes to her sticking gate without being asked, which also shows him changed. Left for the author: Tamsin's "thirty years" of upkeep sets a floor on how long he has had the sword.
 
-**Next level:** L4 Reviewed, once James has read it. The reviewers' questions for James were settled under [W9](../Notes/Decisions.md#working-decisions-made-in-the-work-waiting-for-jamess-reading).
+**Next level:** L4 Reviewed, once the author has read it. The reviewers' questions for the author were settled under [W9](../Notes/Decisions.md#working-decisions-made-in-the-work-waiting-for-the-authors-reading).
