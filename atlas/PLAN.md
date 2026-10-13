@@ -82,6 +82,16 @@ This answers "what's the full scope of the project so far".
 
 **Built 2026-09-29.** Two pieces. [Part 8: Open questions](questions/README.md) puts all 38 questions from [Open Questions](../wiki/Open-Questions.md), plus its note to audit the current events, on the board as small cards linked to what they ask about (29 linked; the magic, language, river and general-border questions have nothing to attach to yet). The [Project health](health/README.md) page, and a Project health section on the board, are computed from the data on every rebuild: the status mix per part, cards per column and part, unconnected cards, cards with the most "none stated" blanks, open questions and gap counts. A "Mark unconnected cards" switch outlines unconnected cards on the board. The author also asked for an HTML version on the repo: the board was already generated into [`board/atlas-board.html`](board/atlas-board.html); the repo now also carries `.nojekyll` and `index.html` entry points so GitHub Pages can serve it once switched on (see [Opening the board](README.md#opening-the-board)).
 
+## Completeness pass, 2026-10-13
+
+The author asked to make sure the Atlas has "all the needed details" as it grows. A coverage audit compared every wiki page, section, bold term and capitalized name with everything on the board. Page coverage was complete, and almost every named thing was already a card; the missing material was mostly *framing and roles* rather than names:
+
+- **New [Part 9: Foundations](foundations/README.md)**, the board's first column: the World Overview, all twenty World Rules (only one was referenced before), how each supernatural claim is judged, and the character design rule.
+- **Added to existing cards:** each region's and Port's trade role (the dependency pairs, Highridge as intermediary, Port as network hub and so on) in Part 1, with the Spine's physical and human roles; five "how regions meet" cards in Part 2 (mixed taverns, cross-regional marriage, what people avoid saying, what festivals do beyond the day, how names work); the three-stage diaspora model in Part 3; what guilds want, and how magic works plus its writing rule, in Part 4; what makes the Villain dangerous in Part 6.
+- **Corrected:** Part 2's language gap, which still said no languages were named after the language families were settled.
+
+An independent check found no structural problems and a run of dropped hedges ("should", "can", "mostly", "try to"), all restored and re-verified.
+
 ## How each part is built
 
 1. **Extract.** Read the part's source pages; list every named thing with its owner page and status label.

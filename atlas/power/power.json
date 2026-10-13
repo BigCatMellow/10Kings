@@ -929,7 +929,8 @@
         "Council": "The Council does not \"own the guilds.\" It influences them through loans, contracts, access, leadership patronage, legal favors, information, insurance and selective enforcement. Guilds sometimes knowingly manipulate Council families in return.",
         "Villain": "He exploits legitimate guild grievances. He may fund reformers, expose corruption, arrange shortages that make one faction look incompetent, create demand for guild security, encourage strikes at strategically chosen moments, and leak real documents mixed with misleading conclusions.",
         "Wurdren": "He encounters guilds as people: an apprentice denied work, a caravan team abandoned after a contract dispute, a healer unable to get supplies, workers threatened by owners, owners threatened by a strike. He sees why the institution exists and why it can become harmful.",
-        "Rule": "Every major guild should have leadership, ordinary members, regional branches, internal reformers, a funding model, benefits members would lose if it disappeared, and abuses outsiders resent."
+        "Rule": "Every major guild should have leadership, ordinary members, regional branches, internal reformers, a funding model, benefits members would lose if it disappeared, and abuses outsiders resent.",
+        "What guilds want": "No guild wants only \"more power.\" Typical goals: preserve monopoly or standards; keep member income stable; control apprenticeship; prevent outsiders undercutting rates; gain legal privileges; protect trade secrets; influence taxation; secure routes; obtain contracts; maintain member welfare; stop rival guild expansion."
       },
       "fact_src": {
         "Principle": "Politics/Guilds.md#core-role",
@@ -937,7 +938,8 @@
         "Council": "Politics/Guilds.md#guild-interaction-with-the-council",
         "Villain": "Politics/Guilds.md#guild-interaction-with-the-villain",
         "Wurdren": "Politics/Guilds.md#guild-interaction-with-wurdren",
-        "Rule": "Politics/Guilds.md#rule"
+        "Rule": "Politics/Guilds.md#rule",
+        "What guilds want": "Politics/Guilds.md#what-guilds-want"
       }
     },
     {
@@ -1401,12 +1403,16 @@
       "facts": {
         "Principle": "Magic is real but deniable (the author, 2026-09-29). A handful of old relics really do something small and moral, like a lantern that dims when its holder lies, but every effect could have an ordinary explanation, and the story never confirms it.",
         "Scope": "Relics are kept by communities (temples, shrines, guild halls, villages) and belong to the faith traditions and regions that made them. Earlier notes' examples, Provisional: the Quill of Saint Othriel, whose ink smudges on deceit; the Chalice of Mother Amalthea, whose water turns bitter for anyone withholding care.",
-        "Rule": "No spellcasting; small and moral effects only; always deniable; never confirmed by the narration; never load-bearing for the plot; never industrial. Illusions are legend, creatures are animals, spirits are belief; the earlier notes' mystical armies and forest mages are removed."
+        "Rule": "No spellcasting; small and moral effects only; always deniable; never confirmed by the narration; never load-bearing for the plot; never industrial. Illusions are legend, creatures are animals, spirits are belief; the earlier notes' mystical armies and forest mages are removed.",
+        "How it works": "Who can use it? Nobody uses it: a relic responds, or seems to, to the people around it; there are no mages, trained practitioners or inherited gift. How reliable? Not at all on demand: effects are occasional, small and never repeatable under test, and a relic may do nothing for a generation. What does it cost? Nothing measurable; the price is social, and a relic that \"fails\" a respected person causes a crisis. Why hasn't it transformed every industry? Nothing about it can be scaled, sold, taught or relied on; a relic can't be copied, and its effects can't be told apart from chance, suggestion or fraud. How do ordinary people understand it? Mostly through faith, custom and argument; most have never seen a relic do anything, many doubt any ever did, almost everyone knows a story; frauds are common and exposing them is a respected craft.",
+        "Writing rule": "When magic appears in a scene: let a character believe, doubt or exploit it; put an ordinary explanation within reach, even if nobody takes it; keep the effect small enough that a sceptic could shrug; never let the narration settle it. The interesting question is never \"is it real?\" but \"what do these people do because they believe it is, or isn't?\""
       },
       "fact_src": {
         "Principle": "Magic.md#the-decision",
         "Scope": "Magic.md#relics",
-        "Rule": "Magic.md#hard-limits"
+        "Rule": "Magic.md#hard-limits",
+        "How it works": "Magic.md#how-the-world-rule-questions-are-answered",
+        "Writing rule": "Magic.md#writing-rule"
       }
     }
   ],

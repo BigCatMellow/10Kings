@@ -183,6 +183,7 @@ Grouped by board column.
 - *Terrain:* cold seas, seasonal storms, rocky coasts, sheltered coves, some partially freezing waters, inland routes toward Highridge
 - *Exports:* fish, salt and preserved foods, furs and animal products, ships and maritime capacity
 - *Imports:* grain, metal goods, medicines, warmer-climate produce
+- *Trade role:* Leverage, not an automatic shipping monopoly: its shipbuilding, sailors, ports and knowledge of difficult northern waters make it unusually important to some routes, so storms, fishery disputes, convoy policy or piracy can propagate beyond Northwind without every coastal shipment belonging to it. ([source](../../wiki/Economy/Trade-and-Dependencies.md#northwind-and-maritime-access))
 - *Pressures:* shifting fish stocks, rising piracy, convoy agreements with Port, accusations that clans cooperate with raiders
 - *Seasons:* In winter, northern routes become unreliable. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
@@ -197,6 +198,7 @@ Grouped by board column.
 - *Terrain:* exposed uplands, sheltered valleys, steep passes, seasonal streams, grazing country, caravan corridors
 - *Exports:* route access, caravan services, brokerage, arbitration, credit, records and specialist knowledge
 - *Imports:* many lowland and coastal goods
+- *Trade role:* Intermediary: its route position supports tolls, banking, arbitration, caravan services and information exchange. Its leverage comes from making movement easier or harder, not from "producing nothing"; it still has farms, herds, workshops and ordinary local production. ([source](../../wiki/Economy/Trade-and-Dependencies.md#highridge-as-intermediary))
 - *Pressures:* caravan attacks, manipulated route closures, accusations of corrupt militia or toll officials, contested infrastructure
 - *Seasons:* Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
@@ -211,6 +213,7 @@ Grouped by board column.
 - *Terrain:* old-growth and managed forest, river valleys, wetlands, clearings; routes into foothills and possibly Underpass entrances
 - *Exports:* timber, herbs and medicinals, dyes, forest products, specialist ecological knowledge
 - *Imports:* selected metal tools, salt, grain and urban goods
+- *Trade role:* Controlled extraction: it can matter disproportionately because some forest products are hard to replace quickly. Export restrictions may be ecological, religious, political, local or commercial, and other regions may misread those motives. Bargaining friction, not a single-minded "resource faction". ([source](../../wiki/Economy/Trade-and-Dependencies.md#deepwood-and-controlled-extraction))
 - *Pressures:* logging beyond accepted limits, fungal disease, isolationists against reformers, hidden-route crime
 - *Seasons:* Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
@@ -225,6 +228,7 @@ Grouped by board column.
 - *Terrain:* mineral hills, stream valleys, wooded slopes, pasture; eastern and southeastern edges grade into Greenvale, Highridge and parts of Deepwood
 - *Exports:* ores, metalwork, tools, weapons, industrial craft capacity
 - *Imports:* substantial food in industrial districts, timber and fuel, seasonal labor, some luxuries
+- *Trade role:* One side of one of the strongest recurring dependency pairs, Ironcrest ↔ Greenvale: industrial settlements buy food, timber, animals and labor; Greenvale farms and workshops buy Ironcrest tools, hardware and metal goods. Price movements on either side can become political disputes. "A long marriage of necessity: useful, intimate and periodically resentful." ([source](../../wiki/Economy/Trade-and-Dependencies.md#ironcrest--greenvale))
 - *Pressures:* labor unrest, covert metal shipments, pressure to expand Underpass access, fears of weapon stockpiling
 - *Seasons:* Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
@@ -239,6 +243,7 @@ Grouped by board column.
 - *Terrain:* temperate lowlands and rolling country; grades into Ironcrest foothills, Highridge routes, Deepwood margins and warmer Sunplains country
 - *Exports:* grain, produce, livestock products, textiles and other agricultural goods
 - *Imports:* metal tools, preservation salt, shipping and caravan access
+- *Trade role:* One side of one of the strongest recurring dependency pairs, Ironcrest ↔ Greenvale: Greenvale farms and workshops buy Ironcrest tools, hardware and metal goods, and Ironcrest's industrial settlements buy its food, timber, animals and labor. Border communities can contain mixed families, shared workshops and competing memories. "A long marriage of necessity: useful, intimate and periodically resentful." ([source](../../wiki/Economy/Trade-and-Dependencies.md#ironcrest--greenvale))
 - *Pressures:* an unusually abundant harvest or new high-yield seed strain, collapsing prices, land consolidation, co-ops against estates
 - *Seasons:* Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
@@ -253,6 +258,7 @@ Grouped by board column.
 - *Terrain:* dry plains, river valleys, irrigated basins, orchard belts, grazing country, coast, scrub, some fertile deltas
 - *Exports:* orchard and irrigated crops, oils and wines where appropriate, craft and luxury goods, southern maritime access
 - *Imports:* selected timber, metal, furs and northern goods
+- *Trade role:* A competitive market: city-states can concentrate wealth, patronage and demand for imported goods while competing fiercely with one another over water, ports, prestige and trade. There's no single Sunplains market actor. ([source](../../wiki/Economy/Trade-and-Dependencies.md#sunplains-as-a-competitive-market))
 - *Pressures:* drought fears, private control of canals, city-state blocs forming and breaking
 - *Seasons:* Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
@@ -269,6 +275,7 @@ Grouped by board column.
 - *Exports:* shipping access, repair, warehousing, processing, finance, arbitration, information, neutral exchange
 - *Imports:* significant food and raw-material inflows
 - *Why it stays central:* network effects: agents, credit, warehouses, courts and translators are already there
+- *Trade role:* Network hub: its dependence on inflows is real but not helplessness. Its power comes from accumulated institutions and network effects (ships, warehouses, credit, repair, translators, courts, guilds and information all meet there), so a disruption in Port can become a continental event even when the original problem is local. ([source](../../wiki/Economy/Trade-and-Dependencies.md#port-as-network-hub))
 
 ### Spine & Underpass
 
@@ -279,6 +286,8 @@ Grouped by board column.
 
 **The Spine**
 
+- *Physical role:* High enough to redirect weather; difficult enough to concentrate travel into passes; geologically active enough for earthquakes and collapses to matter; old and complex enough to hold caves, faults, mineral belts, valleys and isolated communities. It should not be one continuous impassable wall; it contains high peaks, lower saddles, inhabited valleys, pilgrimage routes, mining districts, seasonal passes, old fortifications, hidden routes. ([source](../../wiki/Places/The-Spine.md#physical-role))
+- *Human role:* The range creates political choke points: a pass can matter more than a hundred miles of open border. It explains Highridge's importance, Underpass development, ancient toll states, strategic fortresses, migration corridors, bandit economies and religious pilgrimage traditions. ([source](../../wiki/Places/The-Spine.md#human-role))
 - *Touches:* Highridge is the only region the wiki ties to it by name
 - *Seasons:* in spring, roads and passes reopen unevenly (Trade and Dependencies)
 

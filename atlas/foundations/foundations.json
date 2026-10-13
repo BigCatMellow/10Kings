@@ -1,0 +1,1094 @@
+{
+  "part": 9,
+  "short": "Foundations",
+  "title": "Foundations",
+  "lanes": [
+    {
+      "id": "foundations",
+      "label": "Foundations",
+      "first": true
+    }
+  ],
+  "subtitle": "What the world is and the rules everything else follows: the World Overview (the world, the political order, the story's three scales, the core themes), all twenty World Rules, how every supernatural claim is judged, and the character design rule.",
+  "schematic": "This part gets its own first column, Foundations: start here. Its rules connect to the things they name (the regions, the Council, the Villain, Wurdren, the institutions, magic); rules that govern whole parts without naming a thing (language, food, architecture, names) have no connections.",
+  "about": "Atlas Part 9. Sources: World Overview, World Rules, Magic and Relics, and the Character Roster's design rule.",
+  "kinds": {
+    "scale": "Story scale",
+    "rule": "World rule",
+    "claim": "Supernatural claim",
+    "guide": "Writing guide",
+    "overview": "Overview"
+  },
+  "card_schema": {
+    "scale": {
+      "rows": [
+        {
+          "label": "Who",
+          "always": true
+        }
+      ],
+      "facts": [
+        {
+          "key": "How it acts",
+          "always": true
+        },
+        {
+          "key": "At its heart",
+          "always": true
+        }
+      ]
+    },
+    "rule": {
+      "rows": [
+        {
+          "label": "Applies to",
+          "always": false
+        }
+      ],
+      "facts": [
+        {
+          "key": "Detail",
+          "always": true
+        }
+      ]
+    },
+    "claim": {
+      "rows": [
+        {
+          "label": "Judged under",
+          "always": true
+        }
+      ],
+      "facts": [
+        {
+          "key": "Disposition",
+          "always": true
+        },
+        {
+          "key": "Detail",
+          "always": true
+        }
+      ]
+    },
+    "guide": {
+      "rows": [],
+      "facts": [
+        {
+          "key": "Pattern",
+          "always": true
+        },
+        {
+          "key": "The world also needs",
+          "always": false
+        }
+      ]
+    },
+    "overview": {
+      "rows": [
+        {
+          "label": "World rule",
+          "always": false
+        },
+        {
+          "label": "Claims",
+          "always": false
+        }
+      ],
+      "facts": [
+        {
+          "key": "Themes",
+          "always": false
+        },
+        {
+          "key": "What guilds want",
+          "always": false
+        },
+        {
+          "key": "How it works",
+          "always": false
+        },
+        {
+          "key": "Writing rule",
+          "always": false
+        }
+      ]
+    },
+    "council": {
+      "rows": [
+        {
+          "label": "Described in",
+          "always": false
+        },
+        {
+          "label": "Story scale",
+          "always": false
+        },
+        {
+          "label": "World rule",
+          "always": false
+        }
+      ]
+    },
+    "core": {
+      "rows": [
+        {
+          "label": "Story scale",
+          "always": false
+        },
+        {
+          "label": "World rule",
+          "always": false
+        }
+      ],
+      "facts": [
+        {
+          "key": "What makes him dangerous",
+          "always": false
+        }
+      ]
+    },
+    "region": {
+      "rows": [
+        {
+          "label": "World rule",
+          "always": false
+        }
+      ]
+    },
+    "culture": {
+      "rows": [
+        {
+          "label": "World rule",
+          "always": false
+        }
+      ]
+    }
+  },
+  "layers": [
+    {
+      "id": "governs",
+      "label": "World rules",
+      "default": true
+    },
+    {
+      "id": "scales",
+      "label": "The story's three scales",
+      "default": true
+    },
+    {
+      "id": "claims",
+      "label": "Supernatural claims",
+      "default": true
+    }
+  ],
+  "nodes": [
+    {
+      "id": "wf-world",
+      "kind": "overview",
+      "label": "The world",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "The world",
+      "src": "World-Overview.md#the-world",
+      "text": "The setting is currently called Two Sons, named for its twin suns. It should feel materially recognizable: people farm, fish, mine, build, trade, travel, worship, fight, negotiate, borrow money, inherit property, join guilds, smuggle goods, raise families and remember old wars. Fantasy exists, but it doesn't replace those realities.",
+      "short_text": "Two Sons, named for its twin suns: a materially recognizable world where fantasy doesn't replace ordinary life.",
+      "facts": {
+        "Principle": "Fantasy exists, but it doesn't replace material realities: farming, fishing, mining, building, trade, travel, worship, war, negotiation, debt, inheritance, guilds, smuggling, families and memories of old wars.",
+        "Scope": "Three broad landmasses (the Western, Northern and Eastern Continents); a central mountain system, The Spine; The Underpass beneath parts of it; Port, the major neutral commercial city; and six major cultural-political regions: Ironcrest, Northwind, Greenvale, Highridge Plateau, Deepwood and Sunplains.",
+        "Rule": "The regions' descriptions are emphases, not total definitions. Greenvale has smiths. Ironcrest has farms. Northwind has inland villages. Sunplains has poor laborers and dry pastoral country beyond wealthy orchard belts. Deepwood has market towns and politics. Highridge has families who never see a caravan."
+      },
+      "fact_src": {
+        "Principle": "World-Overview.md#the-world",
+        "Scope": "World-Overview.md#the-world",
+        "Rule": "World-Overview.md#the-world"
+      }
+    },
+    {
+      "id": "wf-order",
+      "kind": "overview",
+      "label": "The political order",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "The world",
+      "src": "World-Overview.md#the-political-order",
+      "text": "The present world exists in the shadow of The Convergence, which turned centuries of shifting frontiers, raids, petty kingdoms, warbands, toll states, clan confederacies and temporary conquests into recognized borders and rules for trade and dispute. It didn't create perfect peace: it made conflict more expensive, more political and more indirect.",
+      "short_text": "After the Convergence: conflict made more expensive, more political and more indirect.",
+      "facts": {
+        "Principle": "The Convergence did not create perfect peace. It made conflict more expensive, more political and more indirect.",
+        "Scope": "Kings, city councils, clan leaders, local assemblies, noble houses, guilds, temples, financiers, merchant families, criminal syndicates and village authorities all still possess real power.",
+        "Council": "Above and through this visible order operates the Economic Council: wealthy trans-regional families whose power comes from controlling systems the kingdoms depend on, rather than from owning one kingdom apiece. Their current working domains are food, materials, routes, infrastructure, finance, and knowledge/information."
+      },
+      "fact_src": {
+        "Principle": "World-Overview.md#the-political-order",
+        "Scope": "World-Overview.md#the-political-order",
+        "Council": "World-Overview.md#the-political-order"
+      }
+    },
+    {
+      "id": "wf-scale-council",
+      "kind": "scale",
+      "label": "The Council: system",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "The world",
+      "src": "World-Overview.md#the-council--system",
+      "text": "It believes unmanaged competition will eventually return the world to pre-Convergence violence, so it adjusts credit, food movement, route access, construction, resource supply and information to keep any one kingdom, guild or coalition from becoming dangerously dominant.",
+      "short_text": "Keeps the peace by adjusting credit, food, routes and information.",
+      "facts": {
+        "How it acts": "It believes unmanaged competition will eventually return the world to pre-Convergence violence, so it adjusts credit, food movement, route access, construction, resource supply and information to keep any one kingdom, guild or coalition from becoming dangerously dominant.",
+        "At its heart": "Central contradiction: it preserves peace by denying other people the ability to choose freely."
+      },
+      "fact_src": {
+        "How it acts": "World-Overview.md#the-council--system",
+        "At its heart": "World-Overview.md#the-council--system"
+      }
+    },
+    {
+      "id": "wf-scale-villain",
+      "kind": "scale",
+      "label": "The Villain: strategy",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "The world",
+      "src": "World-Overview.md#the-villain--strategy",
+      "text": "He sees the Council's order as a cage. His people or cause have been denied something he regards as necessary and just (safety, territory, autonomy, dignity or political recognition), and he concludes the Council will never voluntarily allow the change he seeks. So he attacks the relationships holding the world together. He does not simply invade. He creates conditions in which kingdoms, guilds, religious groups and ordinary people make choices that advance his plan for reasons that make sense to them.",
+      "short_text": "Attacks the relationships holding the world together rather than simply invading.",
+      "facts": {
+        "How it acts": "He sees the Council's order as a cage. His people or cause have been denied something he regards as necessary and just (safety, territory, autonomy, dignity or political recognition), and he concludes the Council will never voluntarily allow the change he seeks. So he attacks the relationships holding the world together. He does not simply invade. He creates conditions in which kingdoms, guilds, religious groups and ordinary people make choices that advance his plan for reasons that make sense to them.",
+        "At its heart": "Central contradiction: he seeks liberation by manipulating people as ruthlessly as the system he hates."
+      },
+      "fact_src": {
+        "How it acts": "World-Overview.md#the-villain--strategy",
+        "At its heart": "World-Overview.md#the-villain--strategy"
+      }
+    },
+    {
+      "id": "wf-scale-wurdren",
+      "kind": "scale",
+      "label": "Wurdren: people",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "The world",
+      "src": "World-Overview.md#wurdren--people",
+      "text": "An aging adventurer whose life isn't defined by command of armies or secret institutions. He encounters consequences (a town that lost its grain, a caravan that didn't arrive, workers caught between a guild and an owner, refugees from a border incident, a religious dispute turned violent), solves immediate human problems, and repeatedly changes the larger game without understanding it at first.",
+      "short_text": "Solves immediate human problems and changes the larger game before he understands it.",
+      "facts": {
+        "How it acts": "An aging adventurer whose life isn't defined by command of armies or secret institutions. He encounters consequences (a town that lost its grain, a caravan that didn't arrive, workers caught between a guild and an owner, refugees from a border incident, a religious dispute turned violent), solves immediate human problems, and repeatedly changes the larger game without understanding it at first.",
+        "At its heart": "Central idea: the great powers treat suffering as an abstraction; Wurdren keeps making it specific."
+      },
+      "fact_src": {
+        "How it acts": "World-Overview.md#wurdren--people",
+        "At its heart": "World-Overview.md#wurdren--people"
+      }
+    },
+    {
+      "id": "wf-themes",
+      "kind": "overview",
+      "label": "Core themes",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "The world",
+      "src": "World-Overview.md#core-themes",
+      "text": "Interconnection and unintended consequences; stability versus freedom; ends versus means; systems, strategies and lived experience; history inherited unevenly; identity without monoculture; blending at borders; the power and danger of institutions that genuinely solve problems; and ordinary decency as politically consequential.",
+      "short_text": "Interconnection, stability versus freedom, ends versus means, ordinary decency.",
+      "facts": {
+        "Themes": "Interconnection and unintended consequences. Stability versus freedom. Ends versus means. The difference between systems, strategies and lived human experience. History as something people inherit unevenly. Regional identity without monoculture. Cultural blending at borders, ports, roads, markets, religious networks and among younger generations. The power and danger of institutions that genuinely solve problems. Ordinary decency as something politically consequential even when it isn't politically motivated."
+      },
+      "fact_src": {
+        "Themes": "World-Overview.md#core-themes"
+      }
+    },
+    {
+      "id": "wf-rule-1",
+      "kind": "rule",
+      "label": "1. Regions are ecosystems, not gimmicks",
+      "short": "Rule 1",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#1-regions-are-ecosystems-not-gimmicks",
+      "text": "Give regions environmental and historical emphases, and remember ordinary economic diversity exists everywhere. A region's famous specialty is what outsiders notice first, not all that exists there.",
+      "facts": {
+        "Detail": "Don't reduce Ironcrest to mines, Greenvale to farms, Northwind to fish, Deepwood to trees, Highridge to caravans, or Sunplains to vineyards."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#1-regions-are-ecosystems-not-gimmicks"
+      }
+    },
+    {
+      "id": "wf-rule-2",
+      "kind": "rule",
+      "label": "2. Geography must cause culture without dictating it",
+      "short": "Rule 2",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#2-geography-must-cause-culture-without-dictating-it",
+      "text": "Climate, soils, rivers, coasts, elevation, forests, mineral deposits and routes create pressures; human history decides how people respond.",
+      "facts": {
+        "Detail": "Two communities facing similar conditions may develop different solutions because of law, religion, language, past disasters or political organization."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#2-geography-must-cause-culture-without-dictating-it"
+      }
+    },
+    {
+      "id": "wf-rule-3",
+      "kind": "rule",
+      "label": "3. Borders are gradients",
+      "short": "Rule 3",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#3-borders-are-gradients",
+      "text": "Political borders became clearer after The Convergence, but culture doesn't stop at a line on a map.",
+      "facts": {
+        "Detail": "Border areas should show mixed food, building methods, accents, family ties, religious practice, law, tools and loyalties."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#3-borders-are-gradients"
+      }
+    },
+    {
+      "id": "wf-rule-4",
+      "kind": "rule",
+      "label": "4. History is messy",
+      "short": "Rule 4",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#4-history-is-messy",
+      "text": "Pre-Convergence history must contain temporary victories, reversals, disputed claims, marriages, defections, raids, trade agreements, migrations, local exceptions and contradictory memories.",
+      "facts": {
+        "Detail": "Avoid \"Region A defeated Region B and owned this land until the Convergence.\" Prefer: three valleys changed hands repeatedly; one town paid taxes to two rulers; one lineage still claims a field it hasn't controlled for 140 years."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#4-history-is-messy"
+      }
+    },
+    {
+      "id": "wf-rule-5",
+      "kind": "rule",
+      "label": "5. Low fantasy means material limits matter",
+      "short": "Rule 5",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#5-low-fantasy-means-material-limits-matter",
+      "text": "Travel takes time. Food spoils. Roads wash out. Animals tire. Messages arrive late. Iron rusts. Winter closes routes. Armies need food.",
+      "facts": {
+        "Detail": "Disease and injury matter. Building something large requires labor, money, timber, stone, tools and political permission. Magic cannot erase logistics."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#5-low-fantasy-means-material-limits-matter"
+      }
+    },
+    {
+      "id": "wf-rule-6",
+      "kind": "rule",
+      "label": "6. Technology is craft-scale and pre-industrial",
+      "short": "Rule 6",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#6-technology-is-craft-scale-and-pre-industrial",
+      "text": "Hand tools, animal, water and wind power, pulleys, screws, mills, kilns, presses, furnaces, boats, carts, roads, irrigation, fortification, and paper and record systems where appropriate.",
+      "facts": {
+        "Detail": "Avoid steam-age machinery, modern manufacturing logic, magical equivalents of electricity, or implausibly cheap precision."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#6-technology-is-craft-scale-and-pre-industrial"
+      }
+    },
+    {
+      "id": "wf-rule-7",
+      "kind": "rule",
+      "label": "7. Magic is scarce, uncertain, limited, or costly",
+      "short": "Rule 7",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#7-magic-is-scarce-uncertain-limited-or-costly",
+      "text": "Magic should feel like one more difficult property of the world, not a universal convenience. Settled as real but deniable.",
+      "facts": {
+        "Detail": "When magic appears, define who can use it, how reliable it is, what it costs, why it hasn't transformed every industry, and how ordinary people understand or misunderstand it. Answered on Magic and Relics."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#7-magic-is-scarce-uncertain-limited-or-costly"
+      }
+    },
+    {
+      "id": "wf-rule-8",
+      "kind": "rule",
+      "label": "8. Institutions have constituencies",
+      "short": "Rule 8",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#8-institutions-have-constituencies",
+      "text": "No kingdom, guild, religion, council family or criminal organization acts as one mind.",
+      "facts": {
+        "Detail": "Every institution should contain beneficiaries, critics, careerists, true believers, reformers, people trapped by necessity, and regional branches with different priorities."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#8-institutions-have-constituencies"
+      }
+    },
+    {
+      "id": "wf-rule-9",
+      "kind": "rule",
+      "label": "9. The Council controls dependencies, not minds",
+      "short": "Rule 9",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#9-the-council-controls-dependencies-not-minds",
+      "text": "The Council can't simply order the world to obey. Its plans can fail.",
+      "facts": {
+        "Detail": "It works through credit, contracts, monopolies, shortages, storage, shipping, construction, insurance-like arrangements, information, patronage, guild politics and elite relationships."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#9-the-council-controls-dependencies-not-minds"
+      }
+    },
+    {
+      "id": "wf-rule-10",
+      "kind": "rule",
+      "label": "10. The Villain's schemes must survive ordinary scrutiny",
+      "short": "Rule 10",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#10-the-villains-schemes-must-survive-ordinary-scrutiny",
+      "text": "His plans work because people have independent reasons to take each step. Avoid schemes that require everyone else to become stupid.",
+      "facts": {
+        "Detail": "A manipulated king still thinks he is defending a border. A guild still thinks it is protecting members. A religious leader still thinks the issue matters spiritually. A smuggler still wants profit."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#10-the-villains-schemes-must-survive-ordinary-scrutiny"
+      }
+    },
+    {
+      "id": "wf-rule-11",
+      "kind": "rule",
+      "label": "11. Wurdren does not win by becoming the biggest power",
+      "short": "Rule 11",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#11-wurdren-does-not-win-by-becoming-the-biggest-power",
+      "text": "His narrative function is strongest when his influence comes from relationships, credibility, persistence, compassion, local knowledge and the consequences of previous choices.",
+      "facts": {
+        "Detail": "If he becomes another master strategist moving nations like pieces, the story loses its most important contrast."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#11-wurdren-does-not-win-by-becoming-the-biggest-power"
+      }
+    },
+    {
+      "id": "wf-rule-12",
+      "kind": "rule",
+      "label": "12. Every major event should have second- and third-order effects",
+      "short": "Rule 12",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#12-every-major-event-should-have-second--and-third-order-effects",
+      "text": "Ask what happens immediately, who pays, who unexpectedly benefits, what becomes scarce, what route changes and what rumor spreads.",
+      "facts": {
+        "Detail": "Then: which guild reacts, which faith interprets it, which criminal group exploits it, what the Council does, how the Villain can use that response, and what Wurdren encounters on the ground."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#12-every-major-event-should-have-second--and-third-order-effects"
+      }
+    },
+    {
+      "id": "wf-rule-13",
+      "kind": "rule",
+      "label": "13. Culture is learned, contested, and changing",
+      "short": "Rule 13",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#13-culture-is-learned-contested-and-changing",
+      "text": "Younger border populations, migrants, merchants, soldiers, pilgrims, mixed families and urban populations should often combine practices older generations consider incompatible.",
+      "facts": {
+        "Detail": "\"Traditional culture\" itself should contain multiple traditions."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#13-culture-is-learned-contested-and-changing"
+      }
+    },
+    {
+      "id": "wf-rule-14",
+      "kind": "rule",
+      "label": "14. Draw globally, copy nowhere whole",
+      "short": "Rule 14",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#14-draw-globally-copy-nowhere-whole",
+      "text": "Real cultures are inspiration pools, not templates.",
+      "facts": {
+        "Detail": "Borrow solutions to similar human problems (high-altitude housing, irrigation, clan law, fishing preservation, courtyard living, mobile pastoralism, market institutions, oral history), then recombine them according to this world's own history."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#14-draw-globally-copy-nowhere-whole"
+      }
+    },
+    {
+      "id": "wf-rule-15",
+      "kind": "rule",
+      "label": "15. Language affects habits of attention, not intelligence",
+      "short": "Rule 15",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#15-language-affects-habits-of-attention-not-intelligence",
+      "text": "Regional languages may make certain distinctions habitual: inclusive/exclusive \"we\", social status, evidence source, completed or ongoing action, animate/inanimate categories, certainty, direction or kin.",
+      "facts": {
+        "Detail": "Don't claim grammar makes a people inherently rational, emotional, peaceful, collectivist or superior."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#15-language-affects-habits-of-attention-not-intelligence"
+      }
+    },
+    {
+      "id": "wf-rule-16",
+      "kind": "rule",
+      "label": "16. Food must follow ecology, trade, class, season, and preservation",
+      "short": "Rule 16",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#16-food-must-follow-ecology-trade-class-season-and-preservation",
+      "text": "There's no single \"Ironcrest cuisine\" eaten identically by miners, nobles, farmers, children and merchants.",
+      "facts": {
+        "Detail": "Show regional families of food, then class and local variation."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#16-food-must-follow-ecology-trade-class-season-and-preservation"
+      }
+    },
+    {
+      "id": "wf-rule-17",
+      "kind": "rule",
+      "label": "17. Architecture is accumulated history",
+      "short": "Rule 17",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#17-architecture-is-accumulated-history",
+      "text": "A city should contain old walls, reused foundations, additions, rebuilt burned districts, foreign quarters, guild construction, poor improvisation, elite fashion and border influence.",
+      "facts": {
+        "Detail": "Don't design an entire region in one architectural style."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#17-architecture-is-accumulated-history"
+      }
+    },
+    {
+      "id": "wf-rule-18",
+      "kind": "rule",
+      "label": "18. Names need etymological logic",
+      "short": "Rule 18",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#18-names-need-etymological-logic",
+      "text": "Settlement names may come from geography, founders, old peoples, industries, sacred events, rulers, directions, markets, forts, bridges, rivers or older languages.",
+      "facts": {
+        "Detail": "Names should often preserve history no longer visible."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#18-names-need-etymological-logic"
+      }
+    },
+    {
+      "id": "wf-rule-19",
+      "kind": "rule",
+      "label": "19. Violence changes societies",
+      "short": "Rule 19",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#19-violence-changes-societies",
+      "text": "Wars produce widows, missing heirs, debts, veterans, ruins, refugees, border minorities, abandoned roads, trauma, legends, land claims, taxes and political institutions.",
+      "facts": {
+        "Detail": "Don't use wars only to decorate timelines."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#19-violence-changes-societies"
+      }
+    },
+    {
+      "id": "wf-rule-20",
+      "kind": "rule",
+      "label": "20. The world exists when the protagonists are absent",
+      "short": "Rule 20",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "World rules",
+      "src": "World-Rules.md#20-the-world-exists-when-the-protagonists-are-absent",
+      "text": "Guild elections continue. Religious debates continue. Crime changes. Children grow up. Crops fail. Roads are repaired. Families marry across borders.",
+      "facts": {
+        "Detail": "A town may solve its own problem before Wurdren arrives. No faction should feel as though it waits offstage for the plot."
+      },
+      "fact_src": {
+        "Detail": "World-Rules.md#20-the-world-exists-when-the-protagonists-are-absent"
+      }
+    },
+    {
+      "id": "wf-claim-relics",
+      "kind": "claim",
+      "label": "Moral relics and artifacts",
+      "status": "Working canon",
+      "lane": "foundations",
+      "section": "Supernatural claims",
+      "src": "Magic.md#everything-else-that-has-been-claimed",
+      "text": "Real but deniable. A handful of old community relics with small, moral effects (a lantern that dims at lies, ink that smudges on a dishonest contract); every effect has a plausible ordinary explanation within reach and the story never confirms it.",
+      "short_text": "Real but deniable",
+      "facts": {
+        "Disposition": "Real but deniable",
+        "Detail": "A handful of old community relics with small, moral effects (a lantern that dims at lies, ink that smudges on a dishonest contract); every effect has a plausible ordinary explanation within reach and the story never confirms it."
+      },
+      "fact_src": {
+        "Disposition": "Magic.md#everything-else-that-has-been-claimed",
+        "Detail": "Magic.md#the-decision"
+      }
+    },
+    {
+      "id": "wf-claim-illusions",
+      "kind": "claim",
+      "label": "\"Illusions\"",
+      "status": "Working canon",
+      "lane": "foundations",
+      "section": "Supernatural claims",
+      "src": "Magic.md#everything-else-that-has-been-claimed",
+      "text": "Legend and stagecraft. Veils, dream-knives, refracted lights, sects that saw through lies: stories told about vanished sects and old relics. In the present, illusions are rumor, performance or fraud.",
+      "short_text": "Legend and stagecraft",
+      "facts": {
+        "Disposition": "Legend and stagecraft",
+        "Detail": "Veils, dream-knives, refracted lights, sects that saw through lies: stories told about vanished sects and old relics. In the present, illusions are rumor, performance or fraud."
+      },
+      "fact_src": {
+        "Disposition": "Magic.md#everything-else-that-has-been-claimed",
+        "Detail": "Magic.md#everything-else-that-has-been-claimed"
+      }
+    },
+    {
+      "id": "wf-claim-creatures",
+      "kind": "claim",
+      "label": "Special creatures",
+      "status": "Working canon",
+      "lane": "foundations",
+      "section": "Supernatural claims",
+      "src": "Magic.md#everything-else-that-has-been-claimed",
+      "text": "Animals, misidentified. Sea monsters, drakes, forest beasts: real animals, rare or strange ones included, seen badly and retold well. Underpass \"monsters\" are ecological disruption.",
+      "short_text": "Animals, misidentified",
+      "facts": {
+        "Disposition": "Animals, misidentified",
+        "Detail": "Sea monsters, drakes, forest beasts: real animals, rare or strange ones included, seen badly and retold well. Underpass \"monsters\" are ecological disruption."
+      },
+      "fact_src": {
+        "Disposition": "Magic.md#everything-else-that-has-been-claimed",
+        "Detail": "Magic.md#everything-else-that-has-been-claimed"
+      }
+    },
+    {
+      "id": "wf-claim-spirits",
+      "kind": "claim",
+      "label": "Spirits, ancestors, aurora omens",
+      "status": "Working canon",
+      "lane": "foundations",
+      "section": "Supernatural claims",
+      "src": "Magic.md#everything-else-that-has-been-claimed",
+      "text": "Belief. Treated as faith and custom, never as proof.",
+      "short_text": "Belief",
+      "facts": {
+        "Disposition": "Belief",
+        "Detail": "Treated as faith and custom, never as proof."
+      },
+      "fact_src": {
+        "Disposition": "Magic.md#everything-else-that-has-been-claimed",
+        "Detail": "Magic.md#everything-else-that-has-been-claimed"
+      }
+    },
+    {
+      "id": "wf-claim-removed",
+      "kind": "claim",
+      "label": "Mystical armies, forest mages, living-root peoples",
+      "status": "Working canon",
+      "lane": "foundations",
+      "section": "Supernatural claims",
+      "src": "Magic.md#everything-else-that-has-been-claimed",
+      "text": "Removed. From earlier notes. They conflict with the low-fantasy frame and aren't carried forward.",
+      "short_text": "Removed",
+      "facts": {
+        "Disposition": "Removed",
+        "Detail": "From earlier notes. They conflict with the low-fantasy frame and aren't carried forward."
+      },
+      "fact_src": {
+        "Disposition": "Magic.md#everything-else-that-has-been-claimed",
+        "Detail": "Magic.md#everything-else-that-has-been-claimed"
+      }
+    },
+    {
+      "id": "wf-chardesign",
+      "kind": "guide",
+      "label": "Character design rule",
+      "status": "No status label",
+      "lane": "foundations",
+      "section": "Writing guides",
+      "src": "Story/Character-Roster.md#character-design-rule",
+      "text": "A useful recurring pattern for memorable characters, and a reminder that the world needs ordinary people too. Don't make every memorable character an assassin, mastermind or secret noble.",
+      "short_text": "Nine-part pattern for memorable characters; the world also needs clerks and cooks.",
+      "facts": {
+        "Pattern": "1. memorable introduction; 2. motivation rooted in history or ideology; 3. exceptional but plausible competence; 4. connection to larger systems; 5. personal code; 6. distinctive method; 7. relationship to a protagonist or faction; 8. plan with consequences; 9. capacity to recur or change.",
+        "The world also needs": "Clerks, cooks, builders, caravan hands, priests, teachers, farmers, sailors, shopkeepers, labor organizers, criminals, children, minor officials, refugees, and people who want nothing to do with the main plot."
+      },
+      "fact_src": {
+        "Pattern": "Story/Character-Roster.md#character-design-rule",
+        "The world also needs": "Story/Character-Roster.md#character-design-rule"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "wf-scale-council",
+      "to": "pw-council",
+      "layer": "scales",
+      "type": "is the story scale of",
+      "basis": "stated",
+      "quote": "The Council believes unmanaged competition will eventually return the world to pre-Convergence violence.",
+      "src": "World-Overview.md#the-council--system",
+      "chip": "Who",
+      "chipBack": "Story scale"
+    },
+    {
+      "from": "wf-scale-villain",
+      "to": "pp-villain",
+      "layer": "scales",
+      "type": "is the story scale of",
+      "basis": "stated",
+      "quote": "The Villain sees the Council's order as a cage.",
+      "src": "World-Overview.md#the-villain--strategy",
+      "chip": "Who",
+      "chipBack": "Story scale"
+    },
+    {
+      "from": "wf-scale-wurdren",
+      "to": "pp-wurdren",
+      "layer": "scales",
+      "type": "is the story scale of",
+      "basis": "stated",
+      "quote": "Wurdren is an aging adventurer whose life is not defined by command of armies or secret institutions.",
+      "src": "World-Overview.md#wurdren--people",
+      "chip": "Who",
+      "chipBack": "Story scale"
+    },
+    {
+      "from": "wf-order",
+      "to": "pw-council",
+      "layer": "scales",
+      "type": "describes",
+      "basis": "stated",
+      "quote": "Above and through this visible order operates the **Economic Council**",
+      "src": "World-Overview.md#the-political-order",
+      "chip": "Council",
+      "chipBack": "Described in"
+    },
+    {
+      "from": "wf-rule-1",
+      "to": "ironcrest",
+      "layer": "governs",
+      "type": "warns against reducing",
+      "basis": "stated",
+      "quote": "reduce Ironcrest to mines, Greenvale to farms, Northwind to fish, Deepwood to trees, Highridge to caravans, or Sunplains to vineyards",
+      "src": "World-Rules.md#1-regions-are-ecosystems-not-gimmicks",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-1",
+      "to": "greenvale",
+      "layer": "governs",
+      "type": "warns against reducing",
+      "basis": "stated",
+      "quote": "reduce Ironcrest to mines, Greenvale to farms, Northwind to fish, Deepwood to trees, Highridge to caravans, or Sunplains to vineyards",
+      "src": "World-Rules.md#1-regions-are-ecosystems-not-gimmicks",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-1",
+      "to": "northwind",
+      "layer": "governs",
+      "type": "warns against reducing",
+      "basis": "stated",
+      "quote": "reduce Ironcrest to mines, Greenvale to farms, Northwind to fish, Deepwood to trees, Highridge to caravans, or Sunplains to vineyards",
+      "src": "World-Rules.md#1-regions-are-ecosystems-not-gimmicks",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-1",
+      "to": "deepwood",
+      "layer": "governs",
+      "type": "warns against reducing",
+      "basis": "stated",
+      "quote": "reduce Ironcrest to mines, Greenvale to farms, Northwind to fish, Deepwood to trees, Highridge to caravans, or Sunplains to vineyards",
+      "src": "World-Rules.md#1-regions-are-ecosystems-not-gimmicks",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-1",
+      "to": "highridge",
+      "layer": "governs",
+      "type": "warns against reducing",
+      "basis": "stated",
+      "quote": "reduce Ironcrest to mines, Greenvale to farms, Northwind to fish, Deepwood to trees, Highridge to caravans, or Sunplains to vineyards",
+      "src": "World-Rules.md#1-regions-are-ecosystems-not-gimmicks",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-1",
+      "to": "sunplains",
+      "layer": "governs",
+      "type": "warns against reducing",
+      "basis": "stated",
+      "quote": "reduce Ironcrest to mines, Greenvale to farms, Northwind to fish, Deepwood to trees, Highridge to caravans, or Sunplains to vineyards",
+      "src": "World-Rules.md#1-regions-are-ecosystems-not-gimmicks",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-3",
+      "to": "borderlands-culture",
+      "layer": "governs",
+      "type": "likely shapes",
+      "basis": "inferred",
+      "quote": "Border areas should show mixed food, building methods, accents, family ties, religious practice, law, tools, and loyalties.",
+      "src": "World-Rules.md#3-borders-are-gradients",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-4",
+      "to": "hi-before",
+      "layer": "governs",
+      "type": "governs",
+      "basis": "stated",
+      "quote": "Pre-Convergence history must contain temporary victories, reversals, disputed claims",
+      "src": "World-Rules.md#4-history-is-messy",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-4",
+      "to": "hi-memory",
+      "layer": "governs",
+      "type": "likely governs",
+      "basis": "inferred",
+      "quote": "contradictory memories",
+      "src": "World-Rules.md#4-history-is-messy",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-5",
+      "to": "pw-magic",
+      "layer": "governs",
+      "type": "limits",
+      "basis": "stated",
+      "quote": "Magic cannot erase logistics.",
+      "src": "World-Rules.md#5-low-fantasy-means-material-limits-matter",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-7",
+      "to": "pw-magic",
+      "layer": "governs",
+      "type": "is answered by",
+      "basis": "stated",
+      "quote": "Settled for Two Sons as real but deniable",
+      "src": "World-Rules.md#7-magic-is-scarce-uncertain-limited-or-costly",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-8",
+      "to": "pw-politics",
+      "layer": "governs",
+      "type": "applies to",
+      "basis": "stated",
+      "quote": "No kingdom, guild, religion, council family, or criminal organization acts as one mind.",
+      "src": "World-Rules.md#8-institutions-have-constituencies",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-8",
+      "to": "pw-guilds",
+      "layer": "governs",
+      "type": "applies to",
+      "basis": "stated",
+      "quote": "No kingdom, guild, religion, council family, or criminal organization acts as one mind.",
+      "src": "World-Rules.md#8-institutions-have-constituencies",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-8",
+      "to": "pw-faiths",
+      "layer": "governs",
+      "type": "applies to",
+      "basis": "stated",
+      "quote": "No kingdom, guild, religion, council family, or criminal organization acts as one mind.",
+      "src": "World-Rules.md#8-institutions-have-constituencies",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-8",
+      "to": "pp-families",
+      "layer": "governs",
+      "type": "applies to",
+      "basis": "stated",
+      "quote": "No kingdom, guild, religion, council family, or criminal organization acts as one mind.",
+      "src": "World-Rules.md#8-institutions-have-constituencies",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-8",
+      "to": "pw-underworld",
+      "layer": "governs",
+      "type": "applies to",
+      "basis": "stated",
+      "quote": "No kingdom, guild, religion, council family, or criminal organization acts as one mind.",
+      "src": "World-Rules.md#8-institutions-have-constituencies",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-9",
+      "to": "pw-council",
+      "layer": "governs",
+      "type": "constrains",
+      "basis": "stated",
+      "quote": "The Council cannot simply order the world to obey.",
+      "src": "World-Rules.md#9-the-council-controls-dependencies-not-minds",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-10",
+      "to": "pp-villain",
+      "layer": "governs",
+      "type": "constrains",
+      "basis": "stated",
+      "quote": "His plans work because people have independent reasons to take each step.",
+      "src": "World-Rules.md#10-the-villains-schemes-must-survive-ordinary-scrutiny",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-11",
+      "to": "pp-wurdren",
+      "layer": "governs",
+      "type": "constrains",
+      "basis": "stated",
+      "quote": "His narrative function is strongest when his influence comes from relationships, credibility, persistence, compassion, local knowledge, and consequences of previous choices.",
+      "src": "World-Rules.md#11-wurdren-does-not-win-by-becoming-the-biggest-power",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-12",
+      "to": "st-events",
+      "layer": "governs",
+      "type": "likely governs",
+      "basis": "inferred",
+      "quote": "Every major event should have second- and third-order effects",
+      "src": "World-Rules.md#12-every-major-event-should-have-second--and-third-order-effects",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-rule-20",
+      "to": "pp-wurdren",
+      "layer": "governs",
+      "type": "constrains",
+      "basis": "stated",
+      "quote": "A town may solve its own problem before Wurdren arrives.",
+      "src": "World-Rules.md#20-the-world-exists-when-the-protagonists-are-absent",
+      "chip": "Applies to",
+      "chipBack": "World rule"
+    },
+    {
+      "from": "wf-claim-relics",
+      "to": "pw-magic",
+      "layer": "claims",
+      "type": "is judged under",
+      "basis": "stated",
+      "quote": "**Real but deniable**, as above.",
+      "src": "Magic.md#everything-else-that-has-been-claimed",
+      "chip": "Judged under",
+      "chipBack": "Claims"
+    },
+    {
+      "from": "wf-claim-illusions",
+      "to": "pw-magic",
+      "layer": "claims",
+      "type": "is judged under",
+      "basis": "stated",
+      "quote": "**Legend and stagecraft.**",
+      "src": "Magic.md#everything-else-that-has-been-claimed",
+      "chip": "Judged under",
+      "chipBack": "Claims"
+    },
+    {
+      "from": "wf-claim-creatures",
+      "to": "pw-magic",
+      "layer": "claims",
+      "type": "is judged under",
+      "basis": "stated",
+      "quote": "**Animals, misidentified.**",
+      "src": "Magic.md#everything-else-that-has-been-claimed",
+      "chip": "Judged under",
+      "chipBack": "Claims"
+    },
+    {
+      "from": "wf-claim-spirits",
+      "to": "pw-magic",
+      "layer": "claims",
+      "type": "is judged under",
+      "basis": "stated",
+      "quote": "Treated as faith and custom, never as proof",
+      "src": "Magic.md#everything-else-that-has-been-claimed",
+      "chip": "Judged under",
+      "chipBack": "Claims"
+    },
+    {
+      "from": "wf-claim-removed",
+      "to": "pw-magic",
+      "layer": "claims",
+      "type": "is judged under",
+      "basis": "stated",
+      "quote": "They conflict with the low-fantasy frame and aren't carried forward.",
+      "src": "Magic.md#everything-else-that-has-been-claimed",
+      "chip": "Judged under",
+      "chipBack": "Claims"
+    }
+  ],
+  "gaps": [
+    "World Overview and World Rules, the two pages everything else hangs on, carry no status label.",
+    "The setting is \"currently called\" Two Sons (for its twin suns); the final name isn't settled on the page.",
+    "Rules 2, 6, 13–19 govern whole areas (geography, technology, culture, language, food, architecture, names, violence) without naming a specific thing, so they have no connections on the board.",
+    "Trade and Dependencies and Current Events each give an example chain of knock-on effects (10 steps and 13 steps); they are similar but not the same chain."
+  ]
+}

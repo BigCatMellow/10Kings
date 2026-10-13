@@ -10,7 +10,9 @@
     "saying": "In-world saying",
     "festival": "Festival",
     "people": "Mobile people",
-    "language": "Language"
+    "language": "Language",
+    "texture": "Scene texture",
+    "naming": "Naming system"
   },
   "layers": [
     {
@@ -206,6 +208,36 @@
         }
       ],
       "facts": []
+    },
+    "texture": {
+      "rows": [],
+      "facts": [
+        {
+          "key": "Examples",
+          "always": true
+        },
+        {
+          "key": "Rule",
+          "always": true
+        }
+      ]
+    },
+    "naming": {
+      "rows": [],
+      "facts": [
+        {
+          "key": "Sources of names",
+          "always": true
+        },
+        {
+          "key": "Pattern pools",
+          "always": true
+        },
+        {
+          "key": "Personal names",
+          "always": true
+        }
+      ]
     }
   },
   "nodes": [
@@ -1098,6 +1130,106 @@
         "Intelligibility": "Culture/Language-and-Thought.md#language-families",
         "Note": "Culture/Language-and-Thought.md#language-families"
       }
+    },
+    {
+      "id": "cu-taverns",
+      "kind": "texture",
+      "label": "Mixed taverns and markets",
+      "status": "Provisional scene texture",
+      "lane": "across",
+      "section": "How regions meet",
+      "src": "Culture/Regional-Social-Dynamics.md#mixed-taverns-and-markets",
+      "text": "A mixed-region tavern should not have a fixed seating chart, but occupational habit can shape behavior.",
+      "short_text": "Occupational habits, not regional labels, can shape who sits where.",
+      "facts": {
+        "Examples": "Possible texture: sailors choose seats with sight of doors or docks; forge crews cluster around heat and talk over one another after loud work; caravan merchants spread maps, contracts or samples across a table; travelers from small or secluded communities watch before joining local customs; Port workers know who has money, who is lost and which argument is about to become expensive.",
+        "Rule": "The useful detail is the reason behind the habit, not the regional label."
+      },
+      "fact_src": {
+        "Examples": "Culture/Regional-Social-Dynamics.md#mixed-taverns-and-markets",
+        "Rule": "Culture/Regional-Social-Dynamics.md#mixed-taverns-and-markets"
+      }
+    },
+    {
+      "id": "cu-marriage",
+      "kind": "texture",
+      "label": "Cross-regional marriage",
+      "status": "Provisional scene texture",
+      "lane": "across",
+      "section": "How regions meet",
+      "src": "Culture/Regional-Social-Dynamics.md#cross-regional-marriage",
+      "text": "Mixed families reveal culture as negotiated rather than pure.",
+      "short_text": "Culture as negotiated, not pure.",
+      "facts": {
+        "Examples": "Which ritual occurs first; whose family name is used; where the couple settles; what language the children learn; whether inheritance follows birthplace, residence or family custom; whose food is \"normal\" at home; whether an old regional insult becomes impossible to use casually after the marriage.",
+        "Rule": "Port and border towns should contain generations of families for whom the supposedly \"mixed\" practice is simply local tradition."
+      },
+      "fact_src": {
+        "Examples": "Culture/Regional-Social-Dynamics.md#cross-regional-marriage",
+        "Rule": "Culture/Regional-Social-Dynamics.md#cross-regional-marriage"
+      }
+    },
+    {
+      "id": "cu-unsaid",
+      "kind": "texture",
+      "label": "What people avoid saying openly",
+      "status": "Provisional scene texture",
+      "lane": "across",
+      "section": "How regions meet",
+      "src": "Culture/Regional-Social-Dynamics.md#what-people-avoid-saying-openly",
+      "text": "Power changes prejudice. A person may privately resent a region's naval, military, financial or religious influence while avoiding the insult in front of someone who can retaliate economically or socially.",
+      "short_text": "Power changes prejudice: the private joke versus public speech.",
+      "facts": {
+        "Examples": "Resenting a region's naval, military, financial or religious influence in private, while avoiding the insult in front of someone who can retaliate economically or socially. That gap between private joke and public speech can carry more worldbuilding than a paragraph of exposition.",
+        "Rule": "Before using a regional social detail, ask: who believes this, what experience taught them, who in the same region would disagree, is it current, old-fashioned or local, does the scene contain evidence that complicates it, and is it a character fact or accidentally written as a world fact?"
+      },
+      "fact_src": {
+        "Examples": "Culture/Regional-Social-Dynamics.md#what-people-avoid-saying-openly",
+        "Rule": "Culture/Regional-Social-Dynamics.md#scene-use-checks"
+      }
+    },
+    {
+      "id": "cu-festival-effects",
+      "kind": "texture",
+      "label": "What festivals do beyond the day",
+      "status": "Working cultural framework",
+      "lane": "across",
+      "section": "How regions meet",
+      "src": "Culture/Festivals-and-Seasonal-Life.md#cross-regional-effects",
+      "text": "Festivals create second-order consequences.",
+      "short_text": "Prices, travel, debts and smuggling move with the calendar.",
+      "facts": {
+        "Examples": "Merchants schedule travel around them; inns and warehouses raise or lower prices; pilgrims and migrant labor move; debts come due; smuggling hides inside legitimate traffic; outsiders misread rituals; mixed families combine or refuse traditions; politicians attach themselves to popular celebrations; a remembered disaster can turn a festive date solemn in one district.",
+        "Rule": "A festival in a scene should do at least one of these: expose class difference, reveal a contested memory, change normal work or travel, force unlike people together, create a temporary market or shortage, show generational disagreement, or give a character an expectation another doesn't share. The world feels older when people argue about how a festival used to be celebrated."
+      },
+      "fact_src": {
+        "Examples": "Culture/Festivals-and-Seasonal-Life.md#cross-regional-effects",
+        "Rule": "Culture/Festivals-and-Seasonal-Life.md#use-in-scenes"
+      }
+    },
+    {
+      "id": "cu-naming",
+      "kind": "naming",
+      "label": "How names work",
+      "status": "No status label",
+      "lane": "across",
+      "section": "How regions meet",
+      "src": "Culture/Naming.md#rule",
+      "text": "Names should feel as if they have histories: the logic of real place naming rather than random fantasy phonetics. The language families are now set; exact naming systems remain open.",
+      "short_text": "Names with histories; real naming logic, not random phonetics.",
+      "facts": {
+        "Sources of names": "Geography (river mouth, red hill, narrow pass, clear water); settlement function (market, fort, port, bridge, shrine); founder or lineage; older ethnic or linguistic groups; industry or resource; aspirational names; religious or philosophical associations; conquest and renaming; translation layers where an old name survives in a newer language.",
+        "Pattern pools": "Already discussed: American descriptive, occupational, founder, Indigenous, immigrant and aspirational place names; Middle Eastern names tied to geography, settlement, religion, rulers and function; Scandinavian compound names tied to terrain, farms, harbors, markets and people; Chinese names built from geographic position, symbolic concepts, administrative function and older historical references. The lesson isn't to copy the sound of these languages indiscriminately but to give each region a coherent history of naming.",
+        "Personal names": "Don't assign one real-world ethnic naming system wholesale to a region. Develop sound patterns, common roots, patronymic/matronymic/family systems, class differences, marriage practices, regional spelling variation, religious names, and older names revived for political reasons. Several previously proposed character names stay provisional until this system is finalized."
+      },
+      "fact_src": {
+        "Sources of names": "Culture/Naming.md#rule",
+        "Pattern pools": "Culture/Naming.md#real-world-pattern-pools-already-discussed",
+        "Personal names": "Culture/Naming.md#personal-names"
+      },
+      "see": [
+        "Culture/Naming.md#regional-direction"
+      ]
     }
   ],
   "edges": [
@@ -1577,7 +1709,7 @@
     "Five culture pages carry no status label: Architecture, Language and Thought, Naming, Culture and Influence (whose title reads 'Cultural Inspiration'), and Border Towns.",
     "Region culture is written twice: each region page has its own inspiration, language and architecture sections, and the Culture pages repeat them across regions. It's two owners for one concept. They agree in substance, but the lists already differ in detail: Highridge is 'probably the most multilingual settled region' on its region page but only 'likely highly multilingual' in Language and Thought; Ironcrest's speech list differs (ordered, attempted, completed, inspected, guaranteed versus completed, inspected, merely claimed); Architecture lists Deepwood longhouses flatly where the region page says they may appear depending on climate.",
     "Half the festivals (14 of 28) are names in the calendar with no description.",
-    "No named languages, dialects or scripts anywhere; naming languages and personal-name systems are still open, and several character names stay provisional until they're settled.",
+    "The language families are set (Northern, Heartland, Deepwood, plus Trade Tongue and Old Spine speech), but exact naming systems and personal-name systems are still open, the Sunplains and Deepwood languages and Old Spine speech have no names of their own, and several character names stay provisional until naming is settled.",
     "The nomads have no name, no named circuits, families, camps or stopping places. The page says 'the nomads' shouldn't be one culture, but only one mobile people is sketched.",
     "Deepwood–Sunplains is the only culture mix described (forest raised floors with courtyard shade) where Part 1 found no border town.",
     "Three border towns have no speech, festival or building detail: Icestep Summit, Darkroot Gulch and Frostbay Way (Frostbay's identity items are listed: Northwind seafaring, Port credit and trade law, ship repair, immigrant merchants, seasonal labor). The Icestep building and speech links and the Stonefield building link are inferred from the general border examples in Architecture and Language and Thought.",

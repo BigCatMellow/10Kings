@@ -8,7 +8,8 @@
   "kinds": {
     "cuisine": "Cuisine",
     "dish": "Dish",
-    "adaptation": "Diaspora example"
+    "adaptation": "Diaspora example",
+    "model": "Design method"
   },
   "layers": [
     {
@@ -185,6 +186,10 @@
         {
           "label": "Could move to",
           "always": true
+        },
+        {
+          "label": "Illustrates",
+          "always": false
         }
       ],
       "facts": [
@@ -214,6 +219,44 @@
       "rows": [
         {
           "label": "Food",
+          "always": true
+        }
+      ]
+    },
+    "model": {
+      "rows": [
+        {
+          "label": "Illustrated by",
+          "always": true
+        }
+      ],
+      "facts": [
+        {
+          "key": "Core principle",
+          "always": true
+        },
+        {
+          "key": "Stage 1: faithful reconstruction",
+          "always": true
+        },
+        {
+          "key": "Stage 2: living double life",
+          "always": true
+        },
+        {
+          "key": "Stage 3: distinct cuisine",
+          "always": true
+        },
+        {
+          "key": "Excess and aspiration",
+          "always": true
+        },
+        {
+          "key": "Substitute by job",
+          "always": true
+        },
+        {
+          "key": "Checklist",
           "always": true
         }
       ]
@@ -1508,6 +1551,35 @@
         "What survives": "The idea of the food: it should be deeply browned and served after collective labor.",
         "What changes": "The Sunplains host version could use a different meat, oil, acid and herb set.",
         "Caution": "Illustrative, on a page that is a working design method, not a fixed menu of canon dishes."
+      }
+    },
+    {
+      "id": "a-model",
+      "kind": "model",
+      "label": "How cuisines change away from home",
+      "status": "Working design method",
+      "lane": "across",
+      "section": "Away from home",
+      "src": "Culture/Food-Diaspora-and-Adaptation.md#core-principle",
+      "text": "Diaspora food isn't simply the original recipe with substitutions. Over generations, flavor, technique, ritual, name, occasion, social meaning and the memory of what a dish represents can separate, so a cuisine can stay recognizable even after its pantry changes.",
+      "short_text": "Three stages from reconstruction to a cuisine of its own; substitute by job.",
+      "facts": {
+        "Core principle": "Flavor, technique, ritual, name, occasion, social meaning and the memory of what the dish is supposed to represent can separate over generations. A cuisine can remain culturally recognizable even after its pantry changes substantially.",
+        "Stage 1: faithful reconstruction": "First-generation migrants usually try to reproduce familiar food with what's available: one fat replaces another, a local souring agent replaces an unavailable one, a host-region grain replaces the staple, cooking time changes with ovens, fuel or altitude, and an expensive imported spice becomes ceremonial rather than everyday. The intent stays close to home even when the result doesn't.",
+        "Stage 2: living double life": "The next generation often knows two versions, the household one and the public or host-region one; food becomes a form of code-switching. A festival dish may become richer than the home version because the diaspora community uses abundance to express success.",
+        "Stage 3: distinct cuisine": "After several generations the host pantry and inherited toolkit make something that no longer needs to apologize for being different. What often survives longest: a technique, a serving gesture, a dish name, a holiday association, a rule about who cooks or receives it, the memory that \"this is what our people make when…\". Practice can outlive exact taste.",
+        "Excess and aspiration": "A community from a culture of restraint or scarcity may view a richer diaspora version as missing the point; the disagreement can become an argument about humility, memory, class or assimilation. A community whose older cuisine was shaped by scarcity may see it as fulfillment (\"we finally make it the way our grandparents wished they could\"). Both reactions can exist in the same family.",
+        "Substitute by job": "Adapt by culinary job, not one-to-one ingredient resemblance: fat, salt or savor, acid, sweetness, heat or pungency, fresh lift, texture, and aroma (what immediately tells a diner where or when they are).",
+        "Checklist": "What migration or trade vector moved it? Which generation or stage is this version? What original ingredients were unavailable or expensive? What host-region ingredients do the same jobs? What did the host culture add because it genuinely liked it? What name, technique, ritual or occasion still traces back? What happens when home and diaspora versions meet? If the answer is only \"swap ingredient A for ingredient B\", the cultural history is probably too thin."
+      },
+      "fact_src": {
+        "Core principle": "Culture/Food-Diaspora-and-Adaptation.md#core-principle",
+        "Stage 1: faithful reconstruction": "Culture/Food-Diaspora-and-Adaptation.md#stage-1--faithful-reconstruction",
+        "Stage 2: living double life": "Culture/Food-Diaspora-and-Adaptation.md#stage-2--living-double-life",
+        "Stage 3: distinct cuisine": "Culture/Food-Diaspora-and-Adaptation.md#stage-3--distinct-cuisine",
+        "Excess and aspiration": "Culture/Food-Diaspora-and-Adaptation.md#two-common-emotional-directions",
+        "Substitute by job": "Culture/Food-Diaspora-and-Adaptation.md#functional-flavor-framework",
+        "Checklist": "Culture/Food-Diaspora-and-Adaptation.md#design-checklist"
       }
     }
   ],
@@ -3019,6 +3091,28 @@
       "chip": "Imports from",
       "chipBack": "Supplies",
       "goods": "food (moves both ways)"
+    },
+    {
+      "from": "a-model",
+      "to": "a-guardian-stew",
+      "layer": "food-cuisine",
+      "type": "is illustrated by",
+      "basis": "stated",
+      "quote": "Two illustrative adaptation paths",
+      "src": "Culture/Food-Diaspora-and-Adaptation.md#two-illustrative-adaptation-paths",
+      "chip": "Illustrated by",
+      "chipBack": "Illustrates"
+    },
+    {
+      "from": "a-model",
+      "to": "a-forgefire-roast",
+      "layer": "food-cuisine",
+      "type": "is illustrated by",
+      "basis": "stated",
+      "quote": "Two illustrative adaptation paths",
+      "src": "Culture/Food-Diaspora-and-Adaptation.md#two-illustrative-adaptation-paths",
+      "chip": "Illustrated by",
+      "chipBack": "Illustrates"
     }
   ],
   "gaps": [

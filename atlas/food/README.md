@@ -8,7 +8,7 @@ Every named dish in the wiki, the regional cuisine it belongs to, where cuisines
 
 A cuisine card sits at the top of each region's Food heading, then its dishes. Fusion dishes sit in the Border towns column with the two cuisines they blend. Guardian Stew and Forgefire Roast also get an "Away from home" card for the diaspora page's example of how each might change in another region. Every recipe page is Provisional: a named recipe does not become canon by being listed here.
 
-**Counts:** 8 cuisines, 62 dishes, 2 diaspora examples; 127 connections (118 stated in the wiki, 9 inferred).
+**Counts:** 8 cuisines, 62 dishes, 2 diaspora examples, 1 design method; 129 connections (120 stated in the wiki, 9 inferred).
 
 ## Gaps this part exposes
 
@@ -91,6 +91,8 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Forest-Citrus Creamed Grain | is a dish of | Border cuisine | stated | “Neighboring Border Fusion Recipes … Forest-Citrus Creamed Grain” [source](../../wiki/Culture/Recipes/Border-Fusions.md#forest-citrus-creamed-grain) |
 | Plateau Orchard Clay Pot | is a dish of | Border cuisine | stated | “Neighboring Border Fusion Recipes … Plateau Orchard Clay Pot” [source](../../wiki/Culture/Recipes/Border-Fusions.md#plateau-orchard-clay-pot) |
 | Highridge Orchard Pilaf | is a dish of | Border cuisine | stated | “Neighboring Border Fusion Recipes … Highridge Orchard Pilaf” [source](../../wiki/Culture/Recipes/Border-Fusions.md#highridge-orchard-pilaf) |
+| How cuisines change away from home | is illustrated by | Guardian Stew, away from home | stated | “Two illustrative adaptation paths” [source](../../wiki/Culture/Food-Diaspora-and-Adaptation.md#two-illustrative-adaptation-paths) |
+| How cuisines change away from home | is illustrated by | Forgefire Roast | stated | “Two illustrative adaptation paths” [source](../../wiki/Culture/Food-Diaspora-and-Adaptation.md#two-illustrative-adaptation-paths) |
 
 ## Border dishes
 
@@ -265,6 +267,7 @@ flowchart LR
   a_guardian_stew["Guardian Stew, away from home"]
   a_forgefire_roast["Forgefire Roast"]
   port_food["Port cuisine"]
+  a_model["How cuisines change away from home"]
   d_miners_gruel --> ironcrest_food
   d_smoked_ember_stew --> ironcrest_food
   d_ashen_stone_loaf --> ironcrest_food
@@ -383,6 +386,8 @@ flowchart LR
   a_guardian_stew -.->|possible| port_food
   a_forgefire_roast -.->|possible| sunplains_food
   greenvale_food -->|food (moves both ways)| ironcrest_food
+  a_model --> a_guardian_stew
+  a_model --> a_forgefire_roast
 ```
 
 ## Every thing in this part
@@ -1024,4 +1029,20 @@ Grouped by board column.
 - *Why it exists:* *Not in the wiki yet.*
 - *Key ingredients:* Long grain, millet, wheat berries or barley; fat; broth; spice; dried Sunplains fruit; nuts.
 - *Method:* The grain is toasted in fat, simmered with broth and spice, then finished with dried Sunplains fruit and nuts.
+
+### World & unplaced
+
+| Thing | Kind | Status | Summary |
+| --- | --- | --- | --- |
+| [How cuisines change away from home](../../wiki/Culture/Food-Diaspora-and-Adaptation.md#core-principle) | Design method | Working design method | Diaspora food isn't simply the original recipe with substitutions. Over generations, flavor, technique, ritual, name, occasion, social meaning and the memory of what a dish represents can separate, so a cuisine can stay recognizable even after its pantry changes. |
+
+**How cuisines change away from home**
+
+- *Core principle:* Flavor, technique, ritual, name, occasion, social meaning and the memory of what the dish is supposed to represent can separate over generations. A cuisine can remain culturally recognizable even after its pantry changes substantially. ([source](../../wiki/Culture/Food-Diaspora-and-Adaptation.md#core-principle))
+- *Stage 1: faithful reconstruction:* First-generation migrants usually try to reproduce familiar food with what's available: one fat replaces another, a local souring agent replaces an unavailable one, a host-region grain replaces the staple, cooking time changes with ovens, fuel or altitude, and an expensive imported spice becomes ceremonial rather than everyday. The intent stays close to home even when the result doesn't. ([source](../../wiki/Culture/Food-Diaspora-and-Adaptation.md#stage-1--faithful-reconstruction))
+- *Stage 2: living double life:* The next generation often knows two versions, the household one and the public or host-region one; food becomes a form of code-switching. A festival dish may become richer than the home version because the diaspora community uses abundance to express success. ([source](../../wiki/Culture/Food-Diaspora-and-Adaptation.md#stage-2--living-double-life))
+- *Stage 3: distinct cuisine:* After several generations the host pantry and inherited toolkit make something that no longer needs to apologize for being different. What often survives longest: a technique, a serving gesture, a dish name, a holiday association, a rule about who cooks or receives it, the memory that "this is what our people make when…". Practice can outlive exact taste. ([source](../../wiki/Culture/Food-Diaspora-and-Adaptation.md#stage-3--distinct-cuisine))
+- *Excess and aspiration:* A community from a culture of restraint or scarcity may view a richer diaspora version as missing the point; the disagreement can become an argument about humility, memory, class or assimilation. A community whose older cuisine was shaped by scarcity may see it as fulfillment ("we finally make it the way our grandparents wished they could"). Both reactions can exist in the same family. ([source](../../wiki/Culture/Food-Diaspora-and-Adaptation.md#two-common-emotional-directions))
+- *Substitute by job:* Adapt by culinary job, not one-to-one ingredient resemblance: fat, salt or savor, acid, sweetness, heat or pungency, fresh lift, texture, and aroma (what immediately tells a diner where or when they are). ([source](../../wiki/Culture/Food-Diaspora-and-Adaptation.md#functional-flavor-framework))
+- *Checklist:* What migration or trade vector moved it? Which generation or stage is this version? What original ingredients were unavailable or expensive? What host-region ingredients do the same jobs? What did the host culture add because it genuinely liked it? What name, technique, ritual or occasion still traces back? What happens when home and diaspora versions meet? If the answer is only "swap ingredient A for ingredient B", the cultural history is probably too thin. ([source](../../wiki/Culture/Food-Diaspora-and-Adaptation.md#design-checklist))
 
