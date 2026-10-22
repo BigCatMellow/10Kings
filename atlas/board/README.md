@@ -22,6 +22,7 @@ The whole setting on one board. Group it by region or by kind, show one part or 
 | 7. The story layer | Story | 47 | 172 | [story](../story/README.md) |
 | 8. Open questions | Questions | 32 | 35 | [questions](../questions/README.md) |
 | 9. Foundations | Foundations | 32 | 30 | [foundations](../foundations/README.md) |
+| 10. Recovered structural systems | Systems | 17 | 17 | [systems](../systems/README.md) |
 
 ## Card layouts
 
@@ -49,7 +50,7 @@ Every card of a kind shows the same rows and facts in the same order, set by eac
 | Design method | Illustrated by | Core principle, Stage 1: faithful reconstruction, Stage 2: living double life, Stage 3: distinct cuisine, Excess and aspiration, Substitute by job, Checklist |
 | Council | Seats, Involved in, Faiths, Influences *(when present)*, Tolerates *(when present)*, Guilds *(when present)*, Origins *(when present)*, Main cast *(when present)*, Families *(when present)*, Main conflict *(when present)*, Current events *(when present)*, Open questions *(when present)*, Described in *(when present)*, Story scale *(when present)*, World rule *(when present)* | Seats, How it governs, Why rulers tolerate it, Internal conflict, Moral problem, Against the Villain, With Wurdren, Open questions *(when present)* |
 | Council seat | Seat of, Reaches, At odds with *(when present)*, Guilds *(when present)* | Domain, Controls, Leverage, House, Home region, Members *(when present)* |
-| Overview | Council *(when present)*, Government *(when present)*, Faiths *(when present)*, Relics *(when present)*, Ended in *(when present)*, Left behind *(when present)*, Main cast *(when present)*, Forces *(when present)*, Open questions *(when present)*, World rule *(when present)*, Claims *(when present)* | Principle, Scope, Council *(when present)*, Villain *(when present)*, Wurdren *(when present)*, Main conflict *(when present)*, Rule *(when present)*, Open questions *(when present)*, Why it ended *(when present)*, Traces *(when present)*, Escalation *(when present)*, Ending *(when present)*, Question *(when present)*, Themes *(when present)*, What guilds want *(when present)*, How it works *(when present)*, Writing rule *(when present)* |
+| Overview | Council *(when present)*, Government *(when present)*, Faiths *(when present)*, Relics *(when present)*, Ended in *(when present)*, Left behind *(when present)*, Main cast *(when present)*, Forces *(when present)*, Open questions *(when present)*, World rule *(when present)*, Claims *(when present)*, Provisional systems *(when present)* | Principle, Scope, Council *(when present)*, Villain *(when present)*, Wurdren *(when present)*, Main conflict *(when present)*, Rule *(when present)*, Open questions *(when present)*, Why it ended *(when present)*, Traces *(when present)*, Escalation *(when present)*, Ending *(when present)*, Question *(when present)*, Themes *(when present)*, What guilds want *(when present)*, How it works *(when present)*, Writing rule *(when present)* |
 | Faith | Council, Guilds *(when present)*, Underworld *(when present)*, Main cast *(when present)*, Sunday Morning cast *(when present)*, Current events *(when present)* | Core, Interests, Current scheme |
 | Guild | Government, Council, Domino figures *(when present)* | Type, At issue, Note *(when present)* |
 | Government | Council involvement, Council seats, Guilds *(when present)*, History *(when present)*, Domino figures *(when present)*, Provisional figures *(when present)*, Open questions *(when present)* | Shape, Power held by *(when present)*, Political fights, Current pressures, Note *(when present)* |
@@ -75,10 +76,11 @@ Every card of a kind shows the same rows and facts in the same order, set by eac
 | World rule | Applies to *(when present)* | Detail |
 | Supernatural claim | Judged under | Disposition, Detail |
 | Writing guide | — | Pattern, The world also needs *(when present)* |
+| Provisional system | World model | Scope |
 
 ## Columns
 
-Foundations, Northwind, Highridge Plateau, Deepwood, Ironcrest, Greenvale, Sunplains, Port, Spine & Underpass, Border towns, Council & politics, Faiths, Guilds, History, Main cast, Sunday Morning cast, Main conflict, World & unplaced.
+Foundations, Northwind, Highridge Plateau, Deepwood, Ironcrest, Greenvale, Sunplains, Port, Spine & Underpass, Border towns, Council & politics, Faiths, Guilds, History, Main cast, Sunday Morning cast, Main conflict, System proposals, World & unplaced.
 
 Columns are ordered so regions with a settled border sit side by side. The wiki says the map isn't locked, so position means nothing else.
 

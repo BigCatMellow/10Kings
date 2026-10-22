@@ -1,0 +1,481 @@
+{
+  "part": 10,
+  "short": "Systems",
+  "title": "Recovered structural systems",
+  "subtitle": "Seventeen provisional topic and cultural proposals recovered from older PR branches. Each points to its wiki source; none is automatically established canon.",
+  "schematic": "These proposals supplement current canonical owners and must be reviewed against them. Inferred links only, with the working world as orientation rather than a claim of settled content.",
+  "about": "Supplemental Atlas coverage for recovered pages in PR #20; current canon always wins.",
+  "kinds": {
+    "system-proposal": "Provisional system"
+  },
+  "lanes": [
+    {
+      "id": "systems",
+      "label": "System proposals"
+    }
+  ],
+  "layers": [
+    {
+      "id": "system-proposals",
+      "label": "Provisional proposals",
+      "default": true
+    }
+  ],
+  "card_schema": {
+    "system-proposal": {
+      "rows": [
+        {
+          "label": "World model",
+          "always": true
+        }
+      ],
+      "facts": [
+        {
+          "key": "Scope",
+          "always": true
+        }
+      ]
+    },
+    "overview": {
+      "rows": [
+        {
+          "label": "Provisional systems",
+          "always": false
+        }
+      ]
+    }
+  },
+  "nodes": [
+    {
+      "id": "systems-proposal-01",
+      "kind": "system-proposal",
+      "label": "World system",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "World-System.md",
+      "text": "How geography, commerce, power, and crises interact",
+      "short_text": "How geography, commerce, power, and crises interact",
+      "facts": {
+        "Scope": "How geography, commerce, power, and crises interact"
+      }
+    },
+    {
+      "id": "systems-proposal-02",
+      "kind": "system-proposal",
+      "label": "Social fabric",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Social-Fabric.md",
+      "text": "Overlapping civic, local, kinship, and institutional identities",
+      "short_text": "Overlapping civic, local, kinship, and institutional identities",
+      "facts": {
+        "Scope": "Overlapping civic, local, kinship, and institutional identities"
+      }
+    },
+    {
+      "id": "systems-proposal-03",
+      "kind": "system-proposal",
+      "label": "Movement and information",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Movement-and-Information.md",
+      "text": "Flows of news, people, rumor, and verification",
+      "short_text": "Flows of news, people, rumor, and verification",
+      "facts": {
+        "Scope": "Flows of news, people, rumor, and verification"
+      }
+    },
+    {
+      "id": "systems-proposal-04",
+      "kind": "system-proposal",
+      "label": "Law and jurisdiction",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Law-and-Jurisdiction.md",
+      "text": "Layered authority, arbitration, enforcement and legal gaps",
+      "short_text": "Layered authority, arbitration, enforcement and legal gaps",
+      "facts": {
+        "Scope": "Layered authority, arbitration, enforcement and legal gaps"
+      }
+    },
+    {
+      "id": "systems-proposal-05",
+      "kind": "system-proposal",
+      "label": "Calendar and timekeeping",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Calendar-and-Timekeeping.md",
+      "text": "Layered scheduling, seasonal coordination and date conversion",
+      "short_text": "Layered scheduling, seasonal coordination and date conversion",
+      "facts": {
+        "Scope": "Layered scheduling, seasonal coordination and date conversion"
+      }
+    },
+    {
+      "id": "systems-proposal-06",
+      "kind": "system-proposal",
+      "label": "Language families and contact",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Language-Families-and-Contact.md",
+      "text": "Contact mechanics preserving established language family decisions",
+      "short_text": "Contact mechanics preserving established language family decisions",
+      "facts": {
+        "Scope": "Contact mechanics preserving established language family decisions"
+      }
+    },
+    {
+      "id": "systems-proposal-07",
+      "kind": "system-proposal",
+      "label": "Money, credit and measures",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Money-Credit-and-Measures.md",
+      "text": "Physical money, exchange, debt and local measurements",
+      "short_text": "Physical money, exchange, debt and local measurements",
+      "facts": {
+        "Scope": "Physical money, exchange, debt and local measurements"
+      }
+    },
+    {
+      "id": "systems-proposal-08",
+      "kind": "system-proposal",
+      "label": "Records and authentication",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Records-Literacy-and-Authentication.md",
+      "text": "Institutional documentary trust, literacy and archival practices",
+      "short_text": "Institutional documentary trust, literacy and archival practices",
+      "facts": {
+        "Scope": "Institutional documentary trust, literacy and archival practices"
+      }
+    },
+    {
+      "id": "systems-proposal-09",
+      "kind": "system-proposal",
+      "label": "Couriers and messages",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Couriers-Posts-and-Message-Networks.md",
+      "text": "Scheduled delivery, dedicated dispatch and message handoffs",
+      "short_text": "Scheduled delivery, dedicated dispatch and message handoffs",
+      "facts": {
+        "Scope": "Scheduled delivery, dedicated dispatch and message handoffs"
+      }
+    },
+    {
+      "id": "systems-proposal-10",
+      "kind": "system-proposal",
+      "label": "Education",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Education-and-Knowledge-Transmission.md",
+      "text": "Household, craft, religious and institutional learning",
+      "short_text": "Household, craft, religious and institutional learning",
+      "facts": {
+        "Scope": "Household, craft, religious and institutional learning"
+      }
+    },
+    {
+      "id": "systems-proposal-11",
+      "kind": "system-proposal",
+      "label": "Arts and leisure",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Culture/Arts-Music-and-Leisure.md",
+      "text": "Social production of arts, music, games and public performance",
+      "short_text": "Social production of arts, music, games and public performance",
+      "facts": {
+        "Scope": "Social production of arts, music, games and public performance"
+      }
+    },
+    {
+      "id": "systems-proposal-12",
+      "kind": "system-proposal",
+      "label": "Clothing and material culture",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Culture/Clothing-and-Material-Culture.md",
+      "text": "Textiles, everyday tools, workwear and fashion circulation",
+      "short_text": "Textiles, everyday tools, workwear and fashion circulation",
+      "facts": {
+        "Scope": "Textiles, everyday tools, workwear and fashion circulation"
+      }
+    },
+    {
+      "id": "systems-proposal-13",
+      "kind": "system-proposal",
+      "label": "Daily life and customs",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Culture/Daily-Life-and-Customs.md",
+      "text": "Household, hospitality, rituals, care and daily interactions",
+      "short_text": "Household, hospitality, rituals, care and daily interactions",
+      "facts": {
+        "Scope": "Household, hospitality, rituals, care and daily interactions"
+      }
+    },
+    {
+      "id": "systems-proposal-14",
+      "kind": "system-proposal",
+      "label": "Folk beliefs and taboos",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Culture/Folk-Belief-Taboo-and-Superstition.md",
+      "text": "Social role of omens and local belief within settled magic rules",
+      "short_text": "Social role of omens and local belief within settled magic rules",
+      "facts": {
+        "Scope": "Social role of omens and local belief within settled magic rules"
+      }
+    },
+    {
+      "id": "systems-proposal-15",
+      "kind": "system-proposal",
+      "label": "Medicine and healing",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Medicine-and-Healing.md",
+      "text": "Material limits, practitioners, care access and public health",
+      "short_text": "Material limits, practitioners, care access and public health",
+      "facts": {
+        "Scope": "Material limits, practitioners, care access and public health"
+      }
+    },
+    {
+      "id": "systems-proposal-16",
+      "kind": "system-proposal",
+      "label": "Audience movements",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Culture/Audience-Movements.md",
+      "text": "Historical proposal for participatory memory and action movements",
+      "short_text": "Historical proposal for participatory memory and action movements",
+      "facts": {
+        "Scope": "Historical proposal for participatory memory and action movements"
+      }
+    },
+    {
+      "id": "systems-proposal-17",
+      "kind": "system-proposal",
+      "label": "Three Moons Festival",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Culture/Three-Moons-Festival.md",
+      "text": "Historical proposal for a large recurring Port gathering",
+      "short_text": "Historical proposal for a large recurring Port gathering",
+      "facts": {
+        "Scope": "Historical proposal for a large recurring Port gathering"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "systems-proposal-01",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "World-System.md",
+      "quote": "How geography, commerce, power, and crises interact"
+    },
+    {
+      "from": "systems-proposal-02",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Social-Fabric.md",
+      "quote": "Overlapping civic, local, kinship, and institutional identities"
+    },
+    {
+      "from": "systems-proposal-03",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Movement-and-Information.md",
+      "quote": "Flows of news, people, rumor, and verification"
+    },
+    {
+      "from": "systems-proposal-04",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Law-and-Jurisdiction.md",
+      "quote": "Layered authority, arbitration, enforcement and legal gaps"
+    },
+    {
+      "from": "systems-proposal-05",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Calendar-and-Timekeeping.md",
+      "quote": "Layered scheduling, seasonal coordination and date conversion"
+    },
+    {
+      "from": "systems-proposal-06",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Language-Families-and-Contact.md",
+      "quote": "Contact mechanics preserving established language family decisions"
+    },
+    {
+      "from": "systems-proposal-07",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Money-Credit-and-Measures.md",
+      "quote": "Physical money, exchange, debt and local measurements"
+    },
+    {
+      "from": "systems-proposal-08",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Records-Literacy-and-Authentication.md",
+      "quote": "Institutional documentary trust, literacy and archival practices"
+    },
+    {
+      "from": "systems-proposal-09",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Couriers-Posts-and-Message-Networks.md",
+      "quote": "Scheduled delivery, dedicated dispatch and message handoffs"
+    },
+    {
+      "from": "systems-proposal-10",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Education-and-Knowledge-Transmission.md",
+      "quote": "Household, craft, religious and institutional learning"
+    },
+    {
+      "from": "systems-proposal-11",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Culture/Arts-Music-and-Leisure.md",
+      "quote": "Social production of arts, music, games and public performance"
+    },
+    {
+      "from": "systems-proposal-12",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Culture/Clothing-and-Material-Culture.md",
+      "quote": "Textiles, everyday tools, workwear and fashion circulation"
+    },
+    {
+      "from": "systems-proposal-13",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Culture/Daily-Life-and-Customs.md",
+      "quote": "Household, hospitality, rituals, care and daily interactions"
+    },
+    {
+      "from": "systems-proposal-14",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Culture/Folk-Belief-Taboo-and-Superstition.md",
+      "quote": "Social role of omens and local belief within settled magic rules"
+    },
+    {
+      "from": "systems-proposal-15",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Medicine-and-Healing.md",
+      "quote": "Material limits, practitioners, care access and public health"
+    },
+    {
+      "from": "systems-proposal-16",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Culture/Audience-Movements.md",
+      "quote": "Historical proposal for participatory memory and action movements"
+    },
+    {
+      "from": "systems-proposal-17",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Culture/Three-Moons-Festival.md",
+      "quote": "Historical proposal for a large recurring Port gathering"
+    }
+  ],
+  "gaps": [
+    "Each proposal remains provisional until individual canon review.",
+    "Precise settlement, calendar and institution mechanics remain with current owner pages."
+  ]
+}

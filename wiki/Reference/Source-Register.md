@@ -307,3 +307,49 @@ Classification and reconciliation:
 - **Council: compatible with one change.** The import's six houses matched five current seats directly. Its titles (Duke, Lord, Lady) and its rival seat schemes (the "Kings" of Blaze, Frost, Stone, Sky, Dawn and Night; the "Dominions" of Iron & War and so on) were **not** adopted; they stay in the import as history. Home regions are recorded as origin only, since the Council represents no kingdom.
 - **Offered and declined for now:** the import also answers two other open questions (Wurdren in his late fifties, from a farming family, widowed, children drifted, carrying a plain sword engraved with their names; and "Arivel" as a placeholder Villain name). The author chose to leave both open on 2026-09-29. They remain in `direct-uploads/Two_Sons_-_Complete_Reference.md` and `consolidated-package/11_Story_Core_Characters_Villain.md`. Note that the import's Villain comes from Port and is unaware of the Council, which conflicts with [Villain](../Story/Villain.md).
 
+
+
+## 2026-10-22 pull-request stack reconciliation: provisional structural carry-forward
+
+The open PRs [#14](https://github.com/BigCatMellow/10Kings/pull/14)–[#17](https://github.com/BigCatMellow/10Kings/pull/17) contain overlapping post-social systems. [#18](https://github.com/BigCatMellow/10Kings/pull/18) reconciles their records, finance, couriers and education material. [Tracking issue #19](https://github.com/BigCatMellow/10Kings/issues/19) records the wider conflict with the current main branch.
+
+**Disposition: provisional candidate owner pages (not a bulk merge or canon promotion).** The four pages below were carried forward from #18 to the current naming baseline; broken cross-links to still-unintegrated proposed owners were converted to plain references. Their structural claims require independent review against current wiki owners before approval.
+
+- [Money, Credit, Exchange and Measures](../Money-Credit-and-Measures.md) — physical money, credit, debt, conversion, local measures, household and institutional finance.
+- [Records, Literacy and Authentication](../Records-Literacy-and-Authentication.md) — task-specific literacy, record custody, documents, archives and fraud.
+- [Couriers, Posts and Message Networks](../Couriers-Posts-and-Message-Networks.md) — dispatch, scheduled carriage, handoffs, interception and last-mile delivery.
+- [Education and Knowledge Transmission](../Education-and-Knowledge-Transmission.md) — household, craft, faith and institutional learning; no parallel education owner created.
+
+The upstream source branches remain accessible for comparative review; the four pages do not settle missing law, calendars, general movement/information or language-family owners. Preserve the current author-settled six Council houses, regional names and real-but-deniable magic model throughout further reconciliation.
+
+
+### 2026-10-22 continuation: six older structural systems
+
+Also recovered to [draft PR #20](https://github.com/BigCatMellow/10Kings/pull/20) as **Provisional** candidates: [World System](../World-System.md), [Social Fabric](../Social-Fabric.md), [Movement and Information](../Movement-and-Information.md), [Law and Jurisdiction](../Law-and-Jurisdiction.md), [Calendar and Timekeeping](../Calendar-and-Timekeeping.md), and [Language Families and Contact](../Language-Families-and-Contact.md). These inherit their detailed examples from the older social expansion and follow-on PR stack, **not** their superseded claims to canonical authority. Confirmed magic, Council seats/houses, region names, and the October Atlas remain with the newer main-branch owners. References to pages that are still absent from main are unlinked pending separate review. The provisional source documents remain inspectable in their original PR branches.
+
+
+### 2026-10-22 continuation: everyday life and material culture
+
+[Draft PR #20](https://github.com/BigCatMellow/10Kings/pull/20) also recovers five **Provisional** working pages from #4/#18: [Arts, Music and Leisure](../Culture/Arts-Music-and-Leisure.md), [Clothing and Material Culture](../Culture/Clothing-and-Material-Culture.md), [Daily Life and Customs](../Culture/Daily-Life-and-Customs.md), [Folk Belief, Taboo and Superstition](../Culture/Folk-Belief-Taboo-and-Superstition.md), and [Medicine and Healing](../Medicine-and-Healing.md). They supplement, not override, current culture, religions, World Rules or [Magic and Relics](../Magic.md). Distinct details still need independent canon review before promotion.
+
+
+### Canon conflict caught: language families and Trade Tongue
+
+Independent source comparison against `main` exposed contradictory claims in the historical [Language Families and Contact](../Language-Families-and-Contact.md) draft. The author had already chosen working Northern/Heartland/Deepwood groupings and Trade Tongue in [Language and Thought](../Culture/Language-and-Thought.md) on 2026-09-29. The recovered companion now **inherits** these decisions; only detailed historical branching, local variants and mechanics remain proposals. This correction must survive any future import from #4/#13/#18.
+
+
+### Distinct historical social/story proposals (2026-10-22)
+
+Two further ideas from PR #4 are preserved for evaluation, **not promoted**: [Audience Movements](../Culture/Audience-Movements.md) and [Three Moons Festival](../Culture/Three-Moons-Festival.md). The first's magical broadcast mechanism is explicitly rejected under current magic rules; the second's claimed seven-year cadence and opening-story placement are unapproved historical proposals, not current-event canon. The active current Port and story owners remain authoritative.
+
+
+### Outstanding source-owner differences — explicit nonpromotion (2026-10-22)
+
+The earlier stack also contains substantial rewrites of existing owners. They are **not** silently merged into current canon, but remain retrievable through the source PRs. Their distinctive proposals, where not independently established by current owners, are classified **unknown/provisional**:
+
+- **Port** — [PR #9](https://github.com/BigCatMellow/10Kings/pull/9) and [PR #4](https://github.com/BigCatMellow/10Kings/pull/4) propose detailed treaty limits, foreign military presence, customs, citizenship, political factions, courts, and a festival cycle. Current [Port](../Places/Port.md) retains authority. These proposals must not be treated as settled city law or festival chronology.
+- **Nomadic/mobile peoples** — [PR #11](https://github.com/BigCatMellow/10Kings/pull/11) develops recurrent circuits, route access and cross-border household/legal consequences beyond current [Nomads](../Culture/Nomads.md). General movement and social-system mechanisms have been preserved provisionally in the companion owners; particular itinerant peoples, privileges and named routes remain undecided.
+- **Political order** — [PR #8](https://github.com/BigCatMellow/10Kings/pull/8) develops authority by function (territorial, fiscal, coercive, diplomatic, etc.) and distinct polity forms. Current [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md) already rejects a one-kingdom-per-region template. Extra historical constitutional specifics remain proposals, not an imposed political map.
+- **Economic Council** — [PR #6](https://github.com/BigCatMellow/10Kings/pull/6) elaborates internal meetings, operational constraints, intervention cycles and hypothetical institutions. Current [Economic Council](../Politics/Economic-Council.md) establishes **six named houses**, which supersede the old branch's open seat/name questions. Extra constitution, succession and staffing options were not promoted as a parallel canonical Council owner.
+
+This is a **preservation and disposition record**, not a claim that every older line was integrated. The historical branches and PR diffs are retained for future source-level work. See [reconciliation issue #19](https://github.com/BigCatMellow/10Kings/issues/19) and [PR #20](https://github.com/BigCatMellow/10Kings/pull/20).
