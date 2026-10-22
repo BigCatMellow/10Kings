@@ -326,3 +326,8 @@ The upstream source branches remain accessible for comparative review; the four 
 ### 2026-10-22 continuation: six older structural systems
 
 Also recovered to [draft PR #20](https://github.com/BigCatMellow/10Kings/pull/20) as **Provisional** candidates: [World System](../World-System.md), [Social Fabric](../Social-Fabric.md), [Movement and Information](../Movement-and-Information.md), [Law and Jurisdiction](../Law-and-Jurisdiction.md), [Calendar and Timekeeping](../Calendar-and-Timekeeping.md), and [Language Families and Contact](../Language-Families-and-Contact.md). These inherit their detailed examples from the older social expansion and follow-on PR stack, **not** their superseded claims to canonical authority. Confirmed magic, Council seats/houses, region names, and the October Atlas remain with the newer main-branch owners. References to pages that are still absent from main are unlinked pending separate review. The provisional source documents remain inspectable in their original PR branches.
+
+
+### 2026-10-22 continuation: everyday life and material culture
+
+[Draft PR #20](https://github.com/BigCatMellow/10Kings/pull/20) also recovers five **Provisional** working pages from #4/#18: [Arts, Music and Leisure](../Culture/Arts-Music-and-Leisure.md), [Clothing and Material Culture](../Culture/Clothing-and-Material-Culture.md), [Daily Life and Customs](../Culture/Daily-Life-and-Customs.md), [Folk Belief, Taboo and Superstition](../Culture/Folk-Belief-Taboo-and-Superstition.md), and [Medicine and Healing](../Medicine-and-Healing.md). They supplement, not override, current culture, religions, World Rules or [Magic and Relics](../Magic.md). Distinct details still need independent canon review before promotion.
