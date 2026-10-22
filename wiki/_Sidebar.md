@@ -7,6 +7,10 @@
 - [Magic and Relics](Magic.md)
 - [Geography](Geography-and-Connections.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
+- [Money, Credit, Exchange and Measures](Money-Credit-and-Measures.md)
+- [Records, Literacy and Authentication](Records-Literacy-and-Authentication.md)
+- [Couriers, Posts and Message Networks](Couriers-Posts-and-Message-Networks.md)
+- [Education and Knowledge Transmission](Education-and-Knowledge-Transmission.md)
 - [Open Questions](Open-Questions.md)
 
 **Regions**

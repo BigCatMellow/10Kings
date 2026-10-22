@@ -307,3 +307,17 @@ Classification and reconciliation:
 - **Council: compatible with one change.** The import's six houses matched five current seats directly. Its titles (Duke, Lord, Lady) and its rival seat schemes (the "Kings" of Blaze, Frost, Stone, Sky, Dawn and Night; the "Dominions" of Iron & War and so on) were **not** adopted; they stay in the import as history. Home regions are recorded as origin only, since the Council represents no kingdom.
 - **Offered and declined for now:** the import also answers two other open questions (Wurdren in his late fifties, from a farming family, widowed, children drifted, carrying a plain sword engraved with their names; and "Arivel" as a placeholder Villain name). The author chose to leave both open on 2026-09-29. They remain in `direct-uploads/Two_Sons_-_Complete_Reference.md` and `consolidated-package/11_Story_Core_Characters_Villain.md`. Note that the import's Villain comes from Port and is unaware of the Council, which conflicts with [Villain](../Story/Villain.md).
 
+
+
+## 2026-10-22 pull-request stack reconciliation: provisional structural carry-forward
+
+The open PRs [#14](https://github.com/BigCatMellow/10Kings/pull/14)–[#17](https://github.com/BigCatMellow/10Kings/pull/17) contain overlapping post-social systems. [#18](https://github.com/BigCatMellow/10Kings/pull/18) reconciles their records, finance, couriers and education material. [Tracking issue #19](https://github.com/BigCatMellow/10Kings/issues/19) records the wider conflict with the current main branch.
+
+**Disposition: provisional candidate owner pages (not a bulk merge or canon promotion).** The four pages below were carried forward from #18 to the current naming baseline; broken cross-links to still-unintegrated proposed owners were converted to plain references. Their structural claims require independent review against current wiki owners before approval.
+
+- [Money, Credit, Exchange and Measures](../Money-Credit-and-Measures.md) — physical money, credit, debt, conversion, local measures, household and institutional finance.
+- [Records, Literacy and Authentication](../Records-Literacy-and-Authentication.md) — task-specific literacy, record custody, documents, archives and fraud.
+- [Couriers, Posts and Message Networks](../Couriers-Posts-and-Message-Networks.md) — dispatch, scheduled carriage, handoffs, interception and last-mile delivery.
+- [Education and Knowledge Transmission](../Education-and-Knowledge-Transmission.md) — household, craft, faith and institutional learning; no parallel education owner created.
+
+The upstream source branches remain accessible for comparative review; the four pages do not settle missing law, calendars, general movement/information or language-family owners. Preserve the current author-settled six Council houses, regional names and real-but-deniable magic model throughout further reconciliation.
