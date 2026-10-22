@@ -2,7 +2,7 @@
   "part": 10,
   "short": "Systems",
   "title": "Recovered structural systems",
-  "subtitle": "Fifteen provisional system proposals recovered from older PR branches. Each points to its wiki source. No proposal is automatically promoted to established canon.",
+  "subtitle": "Seventeen provisional topic and cultural proposals recovered from older PR branches. Each points to its wiki source; none is automatically established canon.",
   "schematic": "These proposals supplement current canonical owners and must be reviewed against them. Inferred links only, with the working world as orientation rather than a claim of settled content.",
   "about": "Supplemental Atlas coverage for recovered pages in PR #20; current canon always wins.",
   "kinds": {
@@ -255,6 +255,34 @@
       "facts": {
         "Scope": "Material limits, practitioners, care access and public health"
       }
+    },
+    {
+      "id": "systems-proposal-16",
+      "kind": "system-proposal",
+      "label": "Audience movements",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Culture/Audience-Movements.md",
+      "text": "Historical proposal for participatory memory and action movements",
+      "short_text": "Historical proposal for participatory memory and action movements",
+      "facts": {
+        "Scope": "Historical proposal for participatory memory and action movements"
+      }
+    },
+    {
+      "id": "systems-proposal-17",
+      "kind": "system-proposal",
+      "label": "Three Moons Festival",
+      "status": "Provisional",
+      "lane": "systems",
+      "section": "Proposals",
+      "src": "Culture/Three-Moons-Festival.md",
+      "text": "Historical proposal for a large recurring Port gathering",
+      "short_text": "Historical proposal for a large recurring Port gathering",
+      "facts": {
+        "Scope": "Historical proposal for a large recurring Port gathering"
+      }
     }
   ],
   "edges": [
@@ -422,6 +450,28 @@
       "basis": "inferred",
       "src": "Medicine-and-Healing.md",
       "quote": "Material limits, practitioners, care access and public health"
+    },
+    {
+      "from": "systems-proposal-16",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Culture/Audience-Movements.md",
+      "quote": "Historical proposal for participatory memory and action movements"
+    },
+    {
+      "from": "systems-proposal-17",
+      "to": "wf-world",
+      "layer": "system-proposals",
+      "type": "proposed world system",
+      "chip": "World model",
+      "chipBack": "Provisional systems",
+      "basis": "inferred",
+      "src": "Culture/Three-Moons-Festival.md",
+      "quote": "Historical proposal for a large recurring Port gathering"
     }
   ],
   "gaps": [

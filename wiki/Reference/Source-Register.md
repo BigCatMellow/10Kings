@@ -336,3 +336,8 @@ Also recovered to [draft PR #20](https://github.com/BigCatMellow/10Kings/pull/20
 ### Canon conflict caught: language families and Trade Tongue
 
 Independent source comparison against `main` exposed contradictory claims in the historical [Language Families and Contact](../Language-Families-and-Contact.md) draft. The author had already chosen working Northern/Heartland/Deepwood groupings and Trade Tongue in [Language and Thought](../Culture/Language-and-Thought.md) on 2026-09-29. The recovered companion now **inherits** these decisions; only detailed historical branching, local variants and mechanics remain proposals. This correction must survive any future import from #4/#13/#18.
+
+
+### Distinct historical social/story proposals (2026-10-22)
+
+Two further ideas from PR #4 are preserved for evaluation, **not promoted**: [Audience Movements](../Culture/Audience-Movements.md) and [Three Moons Festival](../Culture/Three-Moons-Festival.md). The first's magical broadcast mechanism is explicitly rejected under current magic rules; the second's claimed seven-year cadence and opening-story placement are unapproved historical proposals, not current-event canon. The active current Port and story owners remain authoritative.

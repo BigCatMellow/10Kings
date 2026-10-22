@@ -62,6 +62,8 @@ The setting should make it possible to follow one damaged bridge, missing carava
 - [Clothing and Material Culture](Culture/Clothing-and-Material-Culture.md)
 - [Arts, Music and Leisure](Culture/Arts-Music-and-Leisure.md)
 - [Folk Belief and Taboos](Culture/Folk-Belief-Taboo-and-Superstition.md)
+- [Audience Movements (provisional)](Culture/Audience-Movements.md)
+- [Three Moons Festival (provisional)](Culture/Three-Moons-Festival.md)
 - [Language and Thought](Culture/Language-and-Thought.md)
 - [Naming](Culture/Naming.md)
 - [Architecture](Culture/Architecture.md)
