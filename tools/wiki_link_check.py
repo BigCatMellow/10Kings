@@ -9,7 +9,7 @@ from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
-LINK = re.compile(r"(?<!!)\\[[^\\]]+\\]\\((<[^>]+>|[^)]+)\\)")
+LINK = re.compile(r"(?<!!)\[[^\]]+\]\((<[^>]+>|[^)]+)\)")
 
 
 def changed_markdown(base):
