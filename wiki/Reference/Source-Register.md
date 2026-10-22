@@ -331,3 +331,8 @@ Also recovered to [draft PR #20](https://github.com/BigCatMellow/10Kings/pull/20
 ### 2026-10-22 continuation: everyday life and material culture
 
 [Draft PR #20](https://github.com/BigCatMellow/10Kings/pull/20) also recovers five **Provisional** working pages from #4/#18: [Arts, Music and Leisure](../Culture/Arts-Music-and-Leisure.md), [Clothing and Material Culture](../Culture/Clothing-and-Material-Culture.md), [Daily Life and Customs](../Culture/Daily-Life-and-Customs.md), [Folk Belief, Taboo and Superstition](../Culture/Folk-Belief-Taboo-and-Superstition.md), and [Medicine and Healing](../Medicine-and-Healing.md). They supplement, not override, current culture, religions, World Rules or [Magic and Relics](../Magic.md). Distinct details still need independent canon review before promotion.
+
+
+### Canon conflict caught: language families and Trade Tongue
+
+Independent source comparison against `main` exposed contradictory claims in the historical [Language Families and Contact](../Language-Families-and-Contact.md) draft. The author had already chosen working Northern/Heartland/Deepwood groupings and Trade Tongue in [Language and Thought](../Culture/Language-and-Thought.md) on 2026-09-29. The recovered companion now **inherits** these decisions; only detailed historical branching, local variants and mechanics remain proposals. This correction must survive any future import from #4/#13/#18.

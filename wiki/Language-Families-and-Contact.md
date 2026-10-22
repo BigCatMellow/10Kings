@@ -4,7 +4,9 @@
 
 **Provisional candidate, not settled canon.** Recovered from historical PRs #4–#13 and #18 into a current-`main` draft for reconciliation. Current wiki owners outrank this text, including the author's settled regional names, six Economic Council houses, and real-but-deniable relic magic. See [Source Register](Reference/Source-Register.md).
 
-This page owns the world-level model for:
+The [Language and Thought](Culture/Language-and-Thought.md) page owns the author's established working language-family assignments and named languages. This page is a **provisional companion** for contact, intelligibility and translation mechanisms; it does not reopen those assignments.
+
+This page covers:
 
 - language relatedness;
 - dialect continua;
@@ -73,7 +75,7 @@ Legacy sources support:
 - code-switching;
 - multilingual trade centers;
 - professional jargon;
-- a possible interregional trade register;
+- the established Trade Tongue contact language and its locally varying business registers;
 - Port contact speech;
 - language variation by class, settlement, and migration history.
 
@@ -85,7 +87,7 @@ Legacy material often assumes:
 
 - one language per old region;
 - one themed "accent" reflecting regional economy;
-- named regional languages such as old Ironcrest-language concepts;
+- unsupported regional language claims that contradict the current [Language and Thought](Culture/Language-and-Thought.md) working names (Northic, Ironet, Heartland Tongue, the Sunplains and Deepwood languages, and plateau speech);
 - accents defined by forge noise, forest hush, cold wind, or other theme-first logic;
 - exaggerated phonetic spelling.
 
@@ -95,11 +97,9 @@ Do not restore them merely because they are detailed.
 
 ---
 
-# 3. Language families remain open
+# 3. Established working language families; details remain open
 
-The world clearly contains linguistic diversity.
-
-The exact number and relationships of language families are not yet established.
+The author established a **working family model on 2026-09-29** in [Language and Thought](Culture/Language-and-Thought.md): Northern (Northic in Northwind and Ironet in Ironcrest), Heartland (Greenvale's Heartland Tongue, Sunplains city languages and Highridge Plateau speech), and Deepwood languages. **Trade Tongue** bridges communities along routes and in Port, while extinct Old Spine speech persists in place names. The family labels themselves remain provisional; finer genealogies, dialect relations, specific city-language names, and scripts remain open.
 
 A future family model should explain:
 
@@ -298,7 +298,7 @@ It does **not** require one universal spoken language.
 
 # 11. A professional trade/legal register can spread without becoming anyone's home language
 
-The strongest current candidate is an interregional register associated with:
+The author has already established **Trade Tongue**, an interregional contact language associated with:
 
 - contracts;
 - weights and measures;
@@ -311,17 +311,7 @@ The strongest current candidate is an interregional register associated with:
 
 Highridge Plateau and Port are natural centers for such a register.
 
-This register may be:
-
-- simplified;
-- highly conventional;
-- multilingual;
-- borrowed from several languages;
-- learned by profession.
-
-Exact grammar and vocabulary remain open.
-
-Do not automatically call it a "Trade Tongue" as if one complete lingua franca is already canon.
+This speech is a contact language with pidgin and creole forms in different places; local professional registers can differ from native home speech. The exact grammar, scope and local varieties remain open. **Do not contradict the working Trade Tongue decision** or mistake it for a universally fluent first language; see [Language and Thought](Culture/Language-and-Thought.md).
 
 ---
 
@@ -900,12 +890,12 @@ This preserves readability while making linguistic difference meaningful.
 
 | Area | Structurally supported | Still open |
 | --- | --- | --- |
-| Ironcrest | several upland/valley/town varieties; craft terminology and later standardization | families, names, exact mutual intelligibility |
-| Northwind | coastal/island chains; maritime vocabulary; local clan/harbor variation | family structure and island relationships |
-| Greenvale | river/lowland continua; estate/village/market variation | family tree and written standards |
-| Highridge Plateau | highly multilingual; caravan/legal/trade registers; pass-town contact speech | local families and any prestige standard |
-| Deepwood | several forest/river communities; ecological specialist vocabulary | family relationships and distribution |
-| Sunplains | several city/rural varieties; civic/legal/merchant registers | exact city language families and prestige networks |
+| Ironcrest | Northern family (Ironet), with upland/valley/town varieties and craft registers | local dialects, writing, detailed intelligibility |
+| Northwind | Northern family (Northic), coastal/island variants and maritime vocabulary | local dialects and island relationships |
+| Greenvale | Heartland family (Heartland Tongue), river/lowland varieties | regional branching and written standards |
+| Highridge Plateau | Heartland-related plateau speech plus Trade Tongue and other learned varieties | local register and prestige standards |
+| Deepwood | Deepwood language family, forest/river communities and ecological registers | internal branches and distribution |
+| Sunplains | Heartland-related city languages and civic/merchant registers | exact city languages and prestige networks |
 | Port | stable multilingual contact varieties and native Port speech | exact classification, languages, scripts |
 | Underpass | enclave languages, route jargon, mixed market speech | distribution and historical origins |
 
@@ -937,9 +927,8 @@ This is a structural confidence map, not a language inventory.
 
 ## Open
 
-- number of language families;
-- family trees;
-- language names;
+- finer branching **within** the working Northern, Heartland and Deepwood families;
+- language names not yet fixed in [Language and Thought](Culture/Language-and-Thought.md);
 - sound systems;
 - exact grammar;
 - mutual-intelligibility matrix;
