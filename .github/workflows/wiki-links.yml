@@ -1,0 +1,20 @@
+name: Wiki Markdown links
+
+on:
+  pull_request:
+    paths:
+      - "wiki/**"
+      - "README.md"
+      - "tools/wiki_link_check.py"
+      - ".github/workflows/wiki-links.yml"
+  workflow_dispatch:
+
+jobs:
+  changed-link-targets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Check changed Markdown links
+        run: python3 tools/wiki_link_check.py --changed-ref origin/${{ github.base_ref || 'main' }}
