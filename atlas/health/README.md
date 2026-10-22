@@ -6,10 +6,10 @@
 
 ## At a glance
 
-- **423** things mapped, **579** connections (89% stated in the wiki, the rest inferred)
+- **438** things mapped, **594** connections (86% stated in the wiki, the rest inferred)
 - **32** open questions ([Part 8](../questions/README.md))
-- **78** gaps listed across the parts
-- **80** cards with no connection yet
+- **80** gaps listed across the parts
+- **79** cards with no connection yet
 
 ## How settled each part is
 
@@ -26,32 +26,34 @@ Each card carries its wiki page's status label. "Writing reference" is the Sunda
 | Story | · | · | 12 | 35 | · | 47 |
 | Questions | · | · | · | 32 | · | 32 |
 | Foundations | · | 5 | · | 27 | · | 32 |
-| **All** | **15** | **40** | **155** | **165** | **48** | **423** |
+| Systems | · | · | 15 | · | · | 15 |
+| **All** | **15** | **40** | **170** | **165** | **48** | **438** |
 
 ## Where the cards are
 
 Cards per board column and part. A dot means nothing from that part lives in that column yet.
 
-| Column | Geography | Culture | Food | Power | History | People | Story | Questions | Foundations |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| Foundations | · | · | · | · | · | · | · | · | 32 |
-| Northwind | 1 | 8 | 9 | 3 | 3 | 1 | 5 | · | · |
-| Highridge Plateau | 1 | 7 | 8 | 4 | 1 | 1 | 4 | 2 | · |
-| Deepwood | 1 | 7 | 9 | 3 | 3 | 1 | 4 | 1 | · |
-| Ironcrest | 1 | 7 | 10 | 3 | 2 | 1 | 5 | · | · |
-| Greenvale | 1 | 7 | 9 | 3 | 3 | 1 | 7 | · | · |
-| Sunplains | 1 | 7 | 8 | 3 | 2 | 1 | 3 | 1 | · |
-| Port | 1 | 6 | 1 | 3 | 3 | · | 5 | 2 | · |
-| Spine & Underpass | 2 | 1 | · | 3 | · | 3 | 3 | 1 | · |
-| Border towns | 6 | 1 | 18 | · | 1 | · | 5 | · | · |
-| Council & politics | · | · | · | 8 | · | · | · | 4 | · |
-| Faiths | · | · | · | 11 | · | · | · | · | · |
-| Guilds | · | · | · | 8 | · | · | · | · | · |
-| History | · | · | · | · | 25 | · | · | · | · |
-| Main cast | · | · | · | · | · | 3 | · | 12 | · |
-| Sunday Morning cast | · | · | · | · | · | 48 | · | · | · |
-| Main conflict | · | · | · | · | · | · | 6 | 1 | · |
-| World & unplaced | 10 | 6 | 1 | 2 | · | · | · | 8 | · |
+| Column | Geography | Culture | Food | Power | History | People | Story | Questions | Foundations | Systems |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| Foundations | · | · | · | · | · | · | · | · | 32 | · |
+| Northwind | 1 | 8 | 9 | 3 | 3 | 1 | 5 | · | · | · |
+| Highridge Plateau | 1 | 7 | 8 | 4 | 1 | 1 | 4 | 2 | · | · |
+| Deepwood | 1 | 7 | 9 | 3 | 3 | 1 | 4 | 1 | · | · |
+| Ironcrest | 1 | 7 | 10 | 3 | 2 | 1 | 5 | · | · | · |
+| Greenvale | 1 | 7 | 9 | 3 | 3 | 1 | 7 | · | · | · |
+| Sunplains | 1 | 7 | 8 | 3 | 2 | 1 | 3 | 1 | · | · |
+| Port | 1 | 6 | 1 | 3 | 3 | · | 5 | 2 | · | · |
+| Spine & Underpass | 2 | 1 | · | 3 | · | 3 | 3 | 1 | · | · |
+| Border towns | 6 | 1 | 18 | · | 1 | · | 5 | · | · | · |
+| Council & politics | · | · | · | 8 | · | · | · | 4 | · | · |
+| Faiths | · | · | · | 11 | · | · | · | · | · | · |
+| Guilds | · | · | · | 8 | · | · | · | · | · | · |
+| History | · | · | · | · | 25 | · | · | · | · | · |
+| Main cast | · | · | · | · | · | 3 | · | 12 | · | · |
+| Sunday Morning cast | · | · | · | · | · | 48 | · | · | · | · |
+| Main conflict | · | · | · | · | · | · | 6 | 1 | · | · |
+| System proposals | · | · | · | · | · | · | · | · | · | 15 |
+| World & unplaced | 10 | 6 | 1 | 2 | · | · | · | 8 | · | · |
 
 ## Most "none stated" rows and missing facts
 
@@ -95,7 +97,7 @@ Some are fine on their own (a saying, a festival); others are things the wiki ha
 - **History** (12): Ironcrest before the Convergence; Northwind before the Convergence; Greenvale before the Convergence; Highridge before the Convergence; Deepwood before the Convergence; Sunplains before the Convergence; How Port became central; Coldwave Incursions; Orchard-Lord Feuds; Iron-Field Conquest; Great Coastal Skirmish; The Ages of Silence
 - **Story** (2): Fish stocks shift; Debates tied to patrons
 - **Questions** (3): Map: which regional borders are long boundaries versus narrow corridors; Map: navigable rivers and major watersheds; Language and naming: personal-name systems within the language families
-- **Foundations** (12): The world; Core themes; 2. Geography must cause culture without dictating it; 6. Technology is craft-scale and pre-industrial; 13. Culture is learned, contested, and changing; 14. Draw globally, copy nowhere whole; 15. Language affects habits of attention, not intelligence; 16. Food must follow ecology, trade, class, season, and preservation; 17. Architecture is accumulated history; 18. Names need etymological logic; 19. Violence changes societies; Character design rule
+- **Foundations** (11): Core themes; 2. Geography must cause culture without dictating it; 6. Technology is craft-scale and pre-industrial; 13. Culture is learned, contested, and changing; 14. Draw globally, copy nowhere whole; 15. Language affects habits of attention, not intelligence; 16. Food must follow ecology, trade, class, season, and preservation; 17. Architecture is accumulated history; 18. Names need etymological logic; 19. Violence changes societies; Character design rule
 
 ## Open questions and what they ask about
 
@@ -121,3 +123,4 @@ Some are fine on their own (a saying, a festival); others are things the wiki ha
 | [Part 7: The story layer](../board/README.md) | 8 |
 | [Part 8: Open questions](../board/README.md) | 2 |
 | [Part 9: Foundations](../board/README.md) | 4 |
+| [Part 10: Recovered structural systems](../board/README.md) | 2 |
