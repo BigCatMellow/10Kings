@@ -2,7 +2,7 @@
 
 ## Status
 
-**Provisional.** Adapted from the distinct structural proposals in [PR #18](https://github.com/BigCatMellow/10Kings/pull/18) for the current `main` baseline. This page is not approved canon until reviewed. Current canonical owners, the author's settled magic and Council decisions, and current region names take precedence. See [Source Register](Reference/Source-Register.md).
+**Provisional candidate, not settled canon.** Recovered from historical PRs #14–#18 into a current-`main` draft for reconciliation. Current wiki owners outrank this text, including the author's settled regional names, six Economic Council houses, and real-but-deniable relic magic. See [Source Register](Reference/Source-Register.md).
 
 This page owns the world-level model for:
 
@@ -17,10 +17,10 @@ It does **not** establish one universal documentary system.
 
 Related owners:
 
-- Law, Jurisdiction, and Dispute Resolution
-- Movement and Information
-- Language Families, Contact, and Mutual Intelligibility
-- Calendars, Timekeeping, and Seasonal Coordination
+- [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md)
+- [Movement and Information](Movement-and-Information.md)
+- [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md)
+- [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md)
 - [Economic Council](Politics/Economic-Council.md)
 - [Guilds](Politics/Guilds.md)
 - [Religions](Politics/Religions.md)
@@ -403,7 +403,7 @@ A "copy" is not automatically fraudulent.
 
 # 14. Translation creates multiple authoritative texts
 
-See Language Families, Contact, and Mutual Intelligibility.
+See [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md).
 
 A treaty or contract may exist in several languages.
 
@@ -426,7 +426,7 @@ The important point is:
 
 # 15. Dates are part of authentication
 
-See Calendars, Timekeeping, and Seasonal Coordination.
+See [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md).
 
 A record may need:
 
@@ -786,7 +786,7 @@ A suspicious document may need to be checked against:
 - court;
 - merchant house.
 
-See Movement and Information.
+See [Movement and Information](Movement-and-Information.md).
 
 Verification therefore has network latency.
 

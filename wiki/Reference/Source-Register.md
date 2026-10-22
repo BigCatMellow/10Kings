@@ -321,3 +321,8 @@ The open PRs [#14](https://github.com/BigCatMellow/10Kings/pull/14)–[#17](http
 - [Education and Knowledge Transmission](../Education-and-Knowledge-Transmission.md) — household, craft, faith and institutional learning; no parallel education owner created.
 
 The upstream source branches remain accessible for comparative review; the four pages do not settle missing law, calendars, general movement/information or language-family owners. Preserve the current author-settled six Council houses, regional names and real-but-deniable magic model throughout further reconciliation.
+
+
+### 2026-10-22 continuation: six older structural systems
+
+Also recovered to [draft PR #20](https://github.com/BigCatMellow/10Kings/pull/20) as **Provisional** candidates: [World System](../World-System.md), [Social Fabric](../Social-Fabric.md), [Movement and Information](../Movement-and-Information.md), [Law and Jurisdiction](../Law-and-Jurisdiction.md), [Calendar and Timekeeping](../Calendar-and-Timekeeping.md), and [Language Families and Contact](../Language-Families-and-Contact.md). These inherit their detailed examples from the older social expansion and follow-on PR stack, **not** their superseded claims to canonical authority. Confirmed magic, Council seats/houses, region names, and the October Atlas remain with the newer main-branch owners. References to pages that are still absent from main are unlinked pending separate review. The provisional source documents remain inspectable in their original PR branches.

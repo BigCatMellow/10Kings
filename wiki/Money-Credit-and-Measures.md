@@ -2,7 +2,7 @@
 
 ## Status
 
-**Provisional.** Adapted from the distinct structural proposals in [PR #18](https://github.com/BigCatMellow/10Kings/pull/18) for the current `main` baseline. This page is not approved canon until reviewed. Current canonical owners, the author's settled magic and Council decisions, and current region names take precedence. See [Source Register](Reference/Source-Register.md).
+**Provisional candidate, not settled canon.** Recovered from historical PRs #14–#18 into a current-`main` draft for reconciliation. Current wiki owners outrank this text, including the author's settled regional names, six Economic Council houses, and real-but-deniable relic magic. See [Source Register](Reference/Source-Register.md).
 
 This page owns the world-level model for:
 
@@ -24,9 +24,9 @@ Related owners:
 - [Economic Council](Politics/Economic-Council.md)
 - [Port](Places/Port.md)
 - [The Highridge Plateau](Regions/Highridge-Plateau.md)
-- Law, Jurisdiction, and Dispute Resolution
+- [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md)
 - [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md)
-- Calendars, Timekeeping, and Seasonal Coordination
+- [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md)
 
 ---
 
@@ -399,7 +399,7 @@ Do not introduce debt slavery or human collateral without deliberate separate wo
 
 # 17. Debt is jurisdictional
 
-See Law, Jurisdiction, and Dispute Resolution.
+See [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md).
 
 A debt raises questions:
 
@@ -416,7 +416,7 @@ Cross-border debt therefore depends heavily on trusted forums.
 
 # 18. Debt is also temporal
 
-See Calendars, Timekeeping, and Seasonal Coordination.
+See [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md).
 
 Credit needs:
 
@@ -830,7 +830,7 @@ Finance is therefore part of the information feedback loop.
 
 # 38. Currency and measures are translation problems too
 
-See Language Families, Contact, and Mutual Intelligibility.
+See [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md).
 
 Financial communication needs standardized or carefully translated terms for:
 

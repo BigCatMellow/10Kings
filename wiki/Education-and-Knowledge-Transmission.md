@@ -2,7 +2,7 @@
 
 ## Status
 
-**Provisional.** Adapted from the distinct structural proposals in [PR #18](https://github.com/BigCatMellow/10Kings/pull/18) for the current `main` baseline. This page is not approved canon until reviewed. Current canonical owners, the author's settled magic and Council decisions, and current region names take precedence. See [Source Register](Reference/Source-Register.md).
+**Provisional candidate, not settled canon.** Recovered from historical PRs #14–#18 into a current-`main` draft for reconciliation. Current wiki owners outrank this text, including the author's settled regional names, six Economic Council houses, and real-but-deniable relic magic. See [Source Register](Reference/Source-Register.md).
 
 Legacy Volume 13 repeatedly flagged education, literacy, schools, archives and knowledge preservation as missing worldbuilding categories, but it did not provide a developed setting-specific education system.
 
@@ -10,9 +10,9 @@ This page builds the system from current owners:
 
 - [Guilds](Politics/Guilds.md)
 - [Religions](Politics/Religions.md)
-- Language Families, Contact, and Mutual Intelligibility
+- [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md)
 - Daily Life and Customs
-- Social Fabric
+- [Social Fabric](Social-Fabric.md)
 - [Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md)
 - [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md)
 - [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md)
@@ -223,7 +223,7 @@ Some literate people may know very little practical work.
 
 # 9. Language creates access barriers
 
-See Language Families and Contact.
+See [Language Families and Contact](Language-Families-and-Contact.md).
 
 Education can require:
 
@@ -416,7 +416,7 @@ Professional recognition may depend on:
 - reputation;
 - local patronage.
 
-This connects education directly to Law, Jurisdiction, and Dispute Resolution and [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md).
+This connects education directly to [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md) and [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md).
 
 Formal credentials can protect standards while also becoming class and migration barriers.
 

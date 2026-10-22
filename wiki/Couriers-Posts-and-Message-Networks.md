@@ -2,7 +2,7 @@
 
 ## Status
 
-**Provisional.** Adapted from the distinct structural proposals in [PR #18](https://github.com/BigCatMellow/10Kings/pull/18) for the current `main` baseline. This page is not approved canon until reviewed. Current canonical owners, the author's settled magic and Council decisions, and current region names take precedence. See [Source Register](Reference/Source-Register.md).
+**Provisional candidate, not settled canon.** Recovered from historical PRs #14–#18 into a current-`main` draft for reconciliation. Current wiki owners outrank this text, including the author's settled regional names, six Economic Council houses, and real-but-deniable relic magic. See [Source Register](Reference/Source-Register.md).
 
 This page owns the practical movement of **deliberately sent messages**:
 
@@ -15,15 +15,15 @@ This page owns the practical movement of **deliberately sent messages**:
 - copied records;
 - urgent warnings.
 
-It does not replace Movement and Information, which owns the wider circulation of rumor, news, records, and social information.
+It does not replace [Movement and Information](Movement-and-Information.md), which owns the wider circulation of rumor, news, records, and social information.
 
 Related owners:
 
-- Movement and Information
+- [Movement and Information](Movement-and-Information.md)
 - [Records, Literacy, and Authentication](Records-Literacy-and-Authentication.md)
-- Calendars, Timekeeping, and Seasonal Coordination
-- Language Families, Contact, and Mutual Intelligibility
-- Law, Jurisdiction, and Dispute Resolution
+- [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md)
+- [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md)
+- [Law, Jurisdiction, and Dispute Resolution](Law-and-Jurisdiction.md)
 - [Money, Credit, Exchange, and Measures](Money-Credit-and-Measures.md)
 - [Port](Places/Port.md)
 - [The Highridge Plateau](Regions/Highridge-Plateau.md)
@@ -541,7 +541,7 @@ Correspondence can therefore reach beyond the fully literate population.
 
 # 21. Translation can occur during carriage
 
-See Language Families, Contact, and Mutual Intelligibility.
+See [Language Families, Contact, and Mutual Intelligibility](Language-Families-and-Contact.md).
 
 A message may need translation:
 
@@ -559,7 +559,7 @@ Highridge Plateau and Port are natural translation points.
 
 # 22. Timekeeping determines service reliability
 
-See Calendars, Timekeeping, and Seasonal Coordination.
+See [Calendars, Timekeeping, and Seasonal Coordination](Calendar-and-Timekeeping.md).
 
 A scheduled service needs:
 
@@ -639,7 +639,7 @@ This creates politics inside communication infrastructure.
 
 # 26. Interception is ordinary intelligence work
 
-See Movement and Information.
+See [Movement and Information](Movement-and-Information.md).
 
 A message can be:
 
