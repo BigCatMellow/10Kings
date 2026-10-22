@@ -6,7 +6,7 @@
 
 ## At a glance
 
-- **438** things mapped, **594** connections (86% stated in the wiki, the rest inferred)
+- **440** things mapped, **596** connections (86% stated in the wiki, the rest inferred)
 - **32** open questions ([Part 8](../questions/README.md))
 - **80** gaps listed across the parts
 - **79** cards with no connection yet
@@ -26,8 +26,8 @@ Each card carries its wiki page's status label. "Writing reference" is the Sunda
 | Story | · | · | 12 | 35 | · | 47 |
 | Questions | · | · | · | 32 | · | 32 |
 | Foundations | · | 5 | · | 27 | · | 32 |
-| Systems | · | · | 15 | · | · | 15 |
-| **All** | **15** | **40** | **170** | **165** | **48** | **438** |
+| Systems | · | · | 17 | · | · | 17 |
+| **All** | **15** | **40** | **172** | **165** | **48** | **440** |
 
 ## Where the cards are
 
@@ -52,7 +52,7 @@ Cards per board column and part. A dot means nothing from that part lives in tha
 | Main cast | · | · | · | · | · | 3 | · | 12 | · | · |
 | Sunday Morning cast | · | · | · | · | · | 48 | · | · | · | · |
 | Main conflict | · | · | · | · | · | · | 6 | 1 | · | · |
-| System proposals | · | · | · | · | · | · | · | · | · | 15 |
+| System proposals | · | · | · | · | · | · | · | · | · | 17 |
 | World & unplaced | 10 | 6 | 1 | 2 | · | · | · | 8 | · | · |
 
 ## Most "none stated" rows and missing facts

@@ -22,7 +22,7 @@ The whole setting on one board. Group it by region or by kind, show one part or 
 | 7. The story layer | Story | 47 | 172 | [story](../story/README.md) |
 | 8. Open questions | Questions | 32 | 35 | [questions](../questions/README.md) |
 | 9. Foundations | Foundations | 32 | 30 | [foundations](../foundations/README.md) |
-| 10. Recovered structural systems | Systems | 15 | 15 | [systems](../systems/README.md) |
+| 10. Recovered structural systems | Systems | 17 | 17 | [systems](../systems/README.md) |
 
 ## Card layouts
 

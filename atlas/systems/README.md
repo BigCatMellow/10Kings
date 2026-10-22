@@ -4,11 +4,11 @@
 
 **Derived view, not canon. Generated; don't edit by hand.** Edit [`systems.json`](systems.json), then run `python3 atlas/tools/atlas_part.py` from the repository root. That rebuilds this page, the [image](systems.png) of this part, and the [combined board](../board/README.md) (interactive: https://claude.ai/artifact/XG2oKvVRes6f7su2dyMaWs). Every thing links to the wiki page it comes from; the wiki wins any disagreement. Part of the [Atlas](../README.md); plan in [PLAN.md](../PLAN.md).
 
-Fifteen provisional system proposals recovered from older PR branches. Each points to its wiki source. No proposal is automatically promoted to established canon.
+Seventeen provisional topic and cultural proposals recovered from older PR branches. Each points to its wiki source; none is automatically established canon.
 
 These proposals supplement current canonical owners and must be reviewed against them. Inferred links only, with the working world as orientation rather than a claim of settled content.
 
-**Counts:** 15 provisional systems; 15 connections (0 stated in the wiki, 15 inferred).
+**Counts:** 17 provisional systems; 17 connections (0 stated in the wiki, 17 inferred).
 
 ## Gaps this part exposes
 
@@ -36,6 +36,8 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Daily life and customs | proposed world system | The world | inferred | “Household, hospitality, rituals, care and daily interactions” [source](../../wiki/Culture/Daily-Life-and-Customs.md) |
 | Folk beliefs and taboos | proposed world system | The world | inferred | “Social role of omens and local belief within settled magic rules” [source](../../wiki/Culture/Folk-Belief-Taboo-and-Superstition.md) |
 | Medicine and healing | proposed world system | The world | inferred | “Material limits, practitioners, care access and public health” [source](../../wiki/Medicine-and-Healing.md) |
+| Audience movements | proposed world system | The world | inferred | “Historical proposal for participatory memory and action movements” [source](../../wiki/Culture/Audience-Movements.md) |
+| Three Moons Festival | proposed world system | The world | inferred | “Historical proposal for a large recurring Port gathering” [source](../../wiki/Culture/Three-Moons-Festival.md) |
 ## Every thing in this part
 
 Grouped by board column.
@@ -59,6 +61,8 @@ Grouped by board column.
 | [Daily life and customs](../../wiki/Culture/Daily-Life-and-Customs.md) | Provisional system | Provisional | Household, hospitality, rituals, care and daily interactions |
 | [Folk beliefs and taboos](../../wiki/Culture/Folk-Belief-Taboo-and-Superstition.md) | Provisional system | Provisional | Social role of omens and local belief within settled magic rules |
 | [Medicine and healing](../../wiki/Medicine-and-Healing.md) | Provisional system | Provisional | Material limits, practitioners, care access and public health |
+| [Audience movements](../../wiki/Culture/Audience-Movements.md) | Provisional system | Provisional | Historical proposal for participatory memory and action movements |
+| [Three Moons Festival](../../wiki/Culture/Three-Moons-Festival.md) | Provisional system | Provisional | Historical proposal for a large recurring Port gathering |
 
 **World system**
 
@@ -119,4 +123,12 @@ Grouped by board column.
 **Medicine and healing**
 
 - *Scope:* Material limits, practitioners, care access and public health
+
+**Audience movements**
+
+- *Scope:* Historical proposal for participatory memory and action movements
+
+**Three Moons Festival**
+
+- *Scope:* Historical proposal for a large recurring Port gathering
 
