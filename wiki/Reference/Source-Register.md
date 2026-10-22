@@ -341,3 +341,15 @@ Independent source comparison against `main` exposed contradictory claims in the
 ### Distinct historical social/story proposals (2026-10-22)
 
 Two further ideas from PR #4 are preserved for evaluation, **not promoted**: [Audience Movements](../Culture/Audience-Movements.md) and [Three Moons Festival](../Culture/Three-Moons-Festival.md). The first's magical broadcast mechanism is explicitly rejected under current magic rules; the second's claimed seven-year cadence and opening-story placement are unapproved historical proposals, not current-event canon. The active current Port and story owners remain authoritative.
+
+
+### Outstanding source-owner differences — explicit nonpromotion (2026-10-22)
+
+The earlier stack also contains substantial rewrites of existing owners. They are **not** silently merged into current canon, but remain retrievable through the source PRs. Their distinctive proposals, where not independently established by current owners, are classified **unknown/provisional**:
+
+- **Port** — [PR #9](https://github.com/BigCatMellow/10Kings/pull/9) and [PR #4](https://github.com/BigCatMellow/10Kings/pull/4) propose detailed treaty limits, foreign military presence, customs, citizenship, political factions, courts, and a festival cycle. Current [Port](../Places/Port.md) retains authority. These proposals must not be treated as settled city law or festival chronology.
+- **Nomadic/mobile peoples** — [PR #11](https://github.com/BigCatMellow/10Kings/pull/11) develops recurrent circuits, route access and cross-border household/legal consequences beyond current [Nomads](../Culture/Nomads.md). General movement and social-system mechanisms have been preserved provisionally in the companion owners; particular itinerant peoples, privileges and named routes remain undecided.
+- **Political order** — [PR #8](https://github.com/BigCatMellow/10Kings/pull/8) develops authority by function (territorial, fiscal, coercive, diplomatic, etc.) and distinct polity forms. Current [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md) already rejects a one-kingdom-per-region template. Extra historical constitutional specifics remain proposals, not an imposed political map.
+- **Economic Council** — [PR #6](https://github.com/BigCatMellow/10Kings/pull/6) elaborates internal meetings, operational constraints, intervention cycles and hypothetical institutions. Current [Economic Council](../Politics/Economic-Council.md) establishes **six named houses**, which supersede the old branch's open seat/name questions. Extra constitution, succession and staffing options were not promoted as a parallel canonical Council owner.
+
+This is a **preservation and disposition record**, not a claim that every older line was integrated. The historical branches and PR diffs are retained for future source-level work. See [reconciliation issue #19](https://github.com/BigCatMellow/10Kings/issues/19) and [PR #20](https://github.com/BigCatMellow/10Kings/pull/20).
