@@ -73,7 +73,7 @@ The stitching room on the last evening. Ruan, who has never spoken at the cloth,
 
 ## Soft landing
 
-The cloth goes up with its border and its blank. Gideon takes a story about the blank square down the shrine roads, and for once it's true. Nils copies the blank into his book as a blank. The statements go on to the next house unsigned. Supper in the house kitchen: [Mushroom-Simmered Broth](../../Culture/Recipes/Deepwood.md#1-mushroom-simmered-broth), thin this year, and [chestnut cakes](../../Culture/Recipes/Deepwood.md#6-acorn-or-chestnut-cakes). The final beat is someone asking what the blank is for, and Ruan answering.
+The cloth goes up with its border and its blank. Gideon takes a story about the blank square down the shrine roads, and for once it's true. Nils copies the blank into his book as a blank. The statements go on to the next house unsigned. The final beat is someone asking what the blank is for, and Ruan answering.
 
 ## World anchors
 
@@ -174,11 +174,11 @@ reconsider if     the supper starts to connect crises; anyone describes the lett
 | 1 | The ford · day 1 morning | Ruan crosses in spate. The bundle goes under. He gets it out and doesn't open it, because there's no point. | his skill; his fear; that he can't read | a joke to the river |
 | 2 | The stitching room · day 1 | Wilda opens the bundle. Half the pages have run. The border can't be stitched. | the cloth's rule; the gap; Ruan's shame | the cloth's rule |
 | 3 | The house kitchen · day 1 evening | Gideon's rumors about Twilighthollow, lively and wrong. Nils's offer to restore. The statements on the table. | both offers; both statements | the pages drying |
-| 4 | The house kitchen · day 2 supper | The faiths compare the year: numbers, strangers, roads. Three wrong explanations. | the world thread, nobody seeing it | — |
+| 4 | The house kitchen · day 2 supper | Supper: [Mushroom-Simmered Broth](../../Culture/Recipes/Deepwood.md#1-mushroom-simmered-broth), thin this year, and [chestnut cakes](../../Culture/Recipes/Deepwood.md#6-acorn-or-chestnut-cakes). The faiths compare the year: numbers, strangers, roads. Three wrong explanations. | the meal; the world thread, nobody seeing it | — |
 | 5 | The ford · day 2 evening | The moment where nothing happens: Ruan at the ford, the river down again, the pages at the house still running. | his decision coming | — |
 | 6 | The stitching room · day 3 | The stitchers argue about signing. Wilda points to the road square, stitched by someone who walked it. | the statements refused by rule, not by politics | the cloth's rule |
 | 7 | The stitching room · day 3 evening | Ruan says he can't read. He says what he was told, and that it isn't enough. He asks for the blank and stitches the border round it. | the climax; his first square | his last joke, not made |
-| 8 | The house kitchen · end of Gathering Quiet | The cloth up. Gideon's true story, Nils's blank, the statements gone on. Supper. Someone asks what the blank is for. | soft landing | — |
+| 8 | The stitching room · end of Gathering Quiet | The cloth up. Gideon's true story, Nils's blank, the statements gone on. Someone asks what the blank is for. | soft landing | — |
 
 **Promise ledger**
 

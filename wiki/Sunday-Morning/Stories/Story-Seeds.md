@@ -6,11 +6,13 @@
 
 When a seed is developed, give it its own page in this folder and list it in the [folder index](../README.md).
 
-All four seeds are `PARKED`: interesting, not yet given resources. Each carries a possible world thread; when a seed is developed, its thread goes through the pipeline's [world-tie check](../Notes/Pipeline.md#world-tie-check). Status labels follow the [Story Pipeline](../Notes/Pipeline.md#stage-5--reconcile-keep-the-records-honest).
+Two seeds were promoted to story pages on 2026-11-02: [The Mushrooms From Nowhere](The-Mushrooms-From-Nowhere.md) and [The Ladder Rules](The-Ladder-Rules.md). Their seed text stays below as the record of where they started. The other two are `PARKED`: interesting, not yet given resources. Each carries a possible world thread; when a seed is developed, its thread goes through the pipeline's [world-tie check](../Notes/Pipeline.md#world-tie-check). Status labels follow the [Story Pipeline](../Notes/Pipeline.md#stage-5--reconcile-keep-the-records-honest).
 
 ## Seeds
 
 ### The Mushrooms From Nowhere
+
+`PROMOTED` → [story page](The-Mushrooms-From-Nowhere.md) (L2). The page changes "for the first time in thirty years" to "since she was a girl" (a stock phrase), and its thread to a lost corridor and a fair's mark rule.
 
 *[The Underpass](../../Places/The-Underpass.md) → a Highridge caravan fair*
 
@@ -31,6 +33,8 @@ Possible heart: neighbors who argue about extraction still need to be warm and c
 Possible thread: good metal is vanishing into private contracts ([Current Events](../../Story/Current-Events.md#unusual-metal-movements)), and charcoal demand rises with it.
 
 ### The Ladder Rules
+
+`PROMOTED` → [story page](The-Ladder-Rules.md) (L2). The strike becomes a stand-down three days before the longest night, over who pays the second person on a ladder.
 
 *A [Sunplains](../../Regions/Sunplains.md) city-state · Solstice Lanterns, midwinter*
 

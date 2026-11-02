@@ -73,7 +73,7 @@ The headland cairn at dusk. Kirsa, who doesn't haggle, can't offer coin, so she 
 
 ## Soft landing
 
-The first fish comes in from the shared water and goes into the smokehouse, lit at last. The two towns' crews eat [Frostbound Fish Stew](../../Culture/Recipes/Northwind.md#3-frostbound-fish-stew) on the slip while the racks fill. Each town puts the other on its convoy list for Maris Bleakshore. The keeper eats the first fish by custom. Kirsa hands it to Edda instead.
+The first fish comes in from the shared water and goes into the smokehouse, lit at last, and the racks fill. Each town puts the other on its convoy list for Maris Bleakshore. The keeper eats the first fish by custom. Kirsa hands it to Edda instead. (The story's meal is earlier: the stiff supper Edda gives her in Skerrimouth, [Frostbound Fish Stew](../../Culture/Recipes/Northwind.md#3-frostbound-fish-stew) from a communal pot.)
 
 ## World anchors
 
@@ -174,11 +174,11 @@ reconsider if     the deal needs a ledger to explain; Edda reads as an obstacle;
 | 1 | The quay smokehouse · day 1 dawn | The cold smokehouse. The boats can't go. The elders send Kirsa. | the custom; the moved run; the credit; Kirsa's pride and her old quarrel | a smoke-saying over an unlit fire |
 | 2 | The headland path · day 1 | The walk, in wind. Her sayings about every chimney she passes. | the distance; her habit; her nerves | smoke-sayings |
 | 3 | Skerrimouth's shed · day 1 afternoon | Edda, proud and poorer than Kirsa thought. The shed too small. The buyer's letter on the table. Kirsa insults the shed without meaning to. | Edda's position; the offer; the failed first meeting | the shed |
-| 4 | Skerrimouth · day 1 evening | Kirsa has to stay the night. Edda feeds her, stiffly. The convoy lists come up. | the convoy pressure; both towns' suspicion | — |
+| 4 | Skerrimouth · day 1 evening | Kirsa has to stay the night. Edda feeds her stew from the communal pot, stiffly. The convoy lists come up. | the meal; the convoy pressure; both towns' suspicion | — |
 | 5 | The headland cairn · day 2 morning | The moment where nothing happens: both women at the cairn, the two waters below, smoke from both towns lying down. | both towns visible at once; the idea not yet said | the saying, now Edda's to answer |
 | 6 | Skerrimouth's shed · day 2 | Kirsa watches Edda's people salt fish they could have smoked. She sees the swap. She can't find a way to say it that isn't bargaining. | the swap, seen | the shed |
 | 7 | The headland cairn · day 2 dusk | The climax: fires for fish. Edda's test: Skerrimouth's fish first. Kirsa says yes. | the deal; Kirsa's change | — |
-| 8 | The quay slip · day 3 | The first fish from shared water. The smokehouse lit. Stew on the slip. The convoy lists. Kirsa hands the first fish to Edda. | soft landing; the lists | the fires lit at last |
+| 8 | The quay slip · day 3 | The first fish from shared water. The smokehouse lit. The convoy lists. Kirsa hands the first fish to Edda. | soft landing; the lists | the fires lit at last |
 
 **Promise ledger**
 

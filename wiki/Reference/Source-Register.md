@@ -248,6 +248,7 @@ The same session developed seven Sunday Morning story concepts and four premise 
 - Applying the Framework to Two Sons — mapping, background rule and checklist addendum (writing reference); now [Rules](../Sunday-Morning/Notes/Rules.md)
 - [Sunday Morning Stories](../Sunday-Morning/README.md) — folder index
 - seven story pages and [Story Seeds](../Sunday-Morning/Stories/Story-Seeds.md) under `Sunday-Morning/Stories/`
+- 2026-11-02, not an import: seven more provisional story pages, two of them promoted from the seeds, added at bt 7274's request ([Sunday Morning History, step 21](../Sunday-Morning/Notes/History.md))
 
 Reconciliation notes:
 

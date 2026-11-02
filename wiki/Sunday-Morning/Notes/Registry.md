@@ -133,12 +133,21 @@ The collection's variety lives here. A new story should differ from its neighbor
 | 1 | One Square | retired expert who can't stop | scheduling clash, unsellable grain | an object (the split banner), then the parties negotiate | warm civic farce | a shout up a tree | Pell alone, then the Salves' dog to walk in the rain |
 | 2 | Greenvale Man | outsider craftsman | repair against a clock, rumor vote | a physical act witnessed (the plank holds) | stoic, belonging | the haul-out, narrated | someone asks for a barrel |
 | 3 | Goat File | junior clerk | a deadline file | a sealed memo, then the grandchildren | comic, then bittersweet | a rule read twice | the herd in the dark, "lent to both" |
-| 4 | Inspected | drafted stranger (Wurdren) | a judgment, a blockade | people: a message carried, a walk to the ditch | wistful, self-deflating | the smith's one-word verdict | Nell's gate, "very nearly right" |
-| 5 | Heavy Scale | visiting inspector | a fair-play mystery | a physical object in the thaw | comic procedural, kind | "Eleven stone." | bookend: "Ten stone. True to a hair." |
-| 6 | Tree | two professionals (romance) | a lien blocks a path | a clause read in two languages | light romance | the market master's plan | "I'd hope so." |
-| 7 | Three Pots | family member who doesn't cook | inheritance, a permit deadline | memory: three fragments of one ritual | tender family | the grandmother's announcement | "Again next year." |
+| 4 | Eighth Verse *(planned)* | warden who can't sing, made to lead | a one-night round toward a shut door | a performance (the seventh verse, badly) | wistful winter ensemble | stores checked by smell in a cellar | she goes in and stays for the cup |
+| 5 | Ladder Rules *(planned)* | footer who has never climbed | a three-day countdown to a stand-down | a count of people nobody counted | brisk countdown caper | the lamp yard, the word nobody says | her call from the top of the ladder |
+| 6 | Inspected | drafted stranger (Wurdren) | a judgment, a blockade | people: a message carried, a walk to the ditch | wistful, self-deflating | the smith's one-word verdict | Nell's gate, "very nearly right" |
+| 7 | Heavy Scale | visiting inspector | a fair-play mystery | a physical object in the thaw | comic procedural, kind | "Eleven stone." | bookend: "Ten stone. True to a hair." |
+| 8 | First Fish *(planned)* | craft-keeper who won't bargain | a custom against a moved run | a swap (fish for fires) | quiet two-hander | a cold smokehouse at dawn | the first fish handed to the other town |
+| 9 | Road in Use *(planned)* | animal man who avoids people | a road of record before a ceremony | an animal (the pony won't take the edge) | ensemble road comedy | a lot drawn in the yard | someone comes to the yard to talk to him |
+| 10 | Tree | two professionals (romance) | a lien blocks a path | a clause read in two languages | light romance | the market master's plan | "I'd hope so." |
+| 11 | Walkout Pies *(planned)* | outsider to the dispute who meddles | timing of a walkout | a meal (the carters at the long table) | warm labor comedy | a chalkboard at shift change | one order on a wiped chalkboard |
+| 12 | Mushrooms *(planned)* | stranger who is the expert in her own work | a market with no line for her | a choice (a named stall) | wry fish-out-of-water | daylight at the top of a stair | one last look up, hat in hand |
+| 13 | Blank Square *(planned)* | carrier who can't read | a gap tempting people to fill it | an absence (a blank square) | quiet, contemplative | a bundle going under at a ford | what the blank is for, answered |
+| 14 | Three Pots | family member who doesn't cook | inheritance, a permit deadline | memory: three fragments of one ritual | tender family | the grandmother's announcement | "Again next year." |
 
-**Resolutions already used:** a document read closely (3, 6), an object (1, 5), a witnessed act (2), people (4), memory (7). The next story should avoid "an old document" unless it does something new with it.
+Rows marked *planned* are L2 intentions; a draft may change them, and the row follows the draft.
+
+**Resolutions already used:** a document read closely (3, 10), an object (1, 7), a witnessed act (2), people (6), memory (14), and in the planned stories a performance (4), a count (5), a swap (8), an animal (9), a meal (11), a choice (12) and an absence (13). The next story should avoid "an old document" unless it does something new with it.
 
 ## Devices already used
 
@@ -146,18 +155,23 @@ Reuse one of these only on purpose, and never in the next story in reading order
 
 | Device | Where |
 | --- | --- |
-| A language habit as the running element | all seven (aspect, evidentials, exact quotation, four-way "done", animacy) |
+| A language habit as the running element | all of the first seven (aspect, evidentials, exact quotation, four-way "done", animacy); none of the planned seven |
 | An old record or archive discovery | Goat File, Tree |
 | A clerk or records person as protagonist | Goat File, Tree (Ismet), Three Pots (interpreter) |
 | A child who sees what adults won't | One Square (Lissa), Tree (Pip) |
 | An elder who answers sideways | Goat File (tea seller), Three Pots (Mother Seral) |
-| Food as the soft landing | One Square, Heavy Scale, Three Pots, Inspected |
+| Food as the soft landing | One Square, Heavy Scale, Three Pots, Inspected; planned: The Eighth Verse. The other planned stories put their meal earlier. |
 | Someone asks the hero for the next small job | Greenvale Man (the barrel). Inspected used it too until the L4 review; Wurdren now goes to Nell's gate unasked. |
 | A bookend of the opening line | Heavy Scale |
 | A public reading or telling to a crowd | Goat File (the memo), Heavy Scale (the correction) |
 | Two names or two words kept side by side | One Square (the stamp, the square) |
 | An unnamed polite antagonist | One Square (land agent), Three Pots (mentioned) |
 | A stamp or mark as payoff | Inspected (*inspected*), One Square (the sack stamp), Three Pots (permit stamps) |
+| A one-night clock | The Eighth Verse (planned). The Ladder Rules was moved to a three-day countdown so the two midwinter stories don't share it. |
+| A song or a call as the running element | The Eighth Verse (the Cellar Song), The Ladder Rules ("Light holds!"), Walkout Pies ("nobody pours hungry"), all planned |
+| A tally or count kept on the page | The Ladder Rules (the lamp count), Walkout Pies (the chalkboard), both planned |
+| A cameo from another story | The Road in Use (Lio), Walkout Pies (Kerra), The Mushrooms From Nowhere (Zan), all planned. Keep each to a scene or two. |
+| A rumor that dies over food | Walkout Pies (planned). One Square and The Greenvale Man kill their rumors by other means. |
 
 ## Stock phrases to avoid
 

@@ -152,7 +152,7 @@ From [Language and Thought](../../Culture/Language-and-Thought.md). They work be
 - Deepwood animacy categories: whether a tree, stream or path is a participant.
 - Sunplains indirect refusal and face-saving public speech.
 
-All seven stories already use one of these as their running element; see the [Registry](Registry.md#devices-already-used) before reusing one.
+The first seven stories all use one of these as their running element, and the seven planned on 2026-11-02 deliberately don't; see the [Registry](Registry.md#devices-already-used) before reusing one.
 
 ### Stakes calibration
 

@@ -75,7 +75,7 @@ The night of digging, by lantern. Zan has to say one thing in public, to both fa
 
 ## Soft landing
 
-Morning. The string walks the old road to the shrine with Vinegar in front, and the keeper blesses it. The tower claim stays open; the two families will take it to arbitration on the plateau, and they argue about who'll pay the clerk all the way back to town. A supper at the inn: [plateau](../../Culture/Recipes/Highridge-Plateau.md) caravan fare. The stair-hut stays shut. The final beat is Zan back in the yard, and somebody from one of the families coming to find him there, to talk.
+Morning. The string walks the old road to the shrine with Vinegar in front, and the keeper blesses it. The tower claim stays open; the two families will take it to arbitration on the plateau, and they argue about who'll pay the clerk all the way back to town. The stair-hut stays shut. (The story's meal is earlier, at the shut stair-hut with Lio: [plateau](../../Culture/Recipes/Highridge-Plateau.md) caravan fare from the market.) The final beat is Zan back in the yard, and somebody from one of the families coming to find him there, to talk.
 
 ## World anchors
 
@@ -182,7 +182,7 @@ reconsider if     Vinegar reads as a coincidence; the night's work reads as harm
 | 6 | The bypass · day 3 morning, the rehearsal | The string walks the bypass. At the tower's edge Vinegar plants her feet. Zan won't force her. | the refusal | Vinegar |
 | 7 | The rockfall · day 3 night | Zan's four sentences, to both families. The digging, side by side. Lio guides, the caravan's mules haul. | the climax; Zan speaks | the lot (he was the one it picked, so he says it) |
 | 8 | The blessing road and shrine · blessing morning | The string walks the old road. The blessing. The claim to arbitration. | the local outcome | Vinegar in front |
-| 9 | The inn and the yards · that evening | Supper; the families arguing about the clerk's fee. Zan back in the yard, and someone comes to find him there. | soft landing; Zan's change | — |
+| 9 | The road home and the yards · that evening | The families arguing about the clerk's fee. Zan back in the yard, and someone comes to find him there. | soft landing; Zan's change | — |
 
 **Promise ledger**
 

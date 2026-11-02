@@ -8,11 +8,11 @@
 
 ## Premise
 
-A new rule agreed between the Sunplains cities says every lamp ladder needs two people, one to climb and one to foot it. The city pays for one. On the longest night of the year the lamplighters stand down, and the street lamps stay dark unless somebody pays for the second person. The woman who has footed her father's ladder her whole life, and never once climbed it, is the only one who knows how many footers the city already has.
+A new rule agreed between the Sunplains cities says every lamp ladder needs two people, one to climb and one to foot it. The city pays for one. Three days before the longest night of the year the lamplighters announce they'll stand down, and the street lamps stay dark unless somebody pays for the second person. The woman who has footed her father's ladder her whole life, and never once climbed it, is the only one who knows how many footers the city already has.
 
 **Setting:** Vasselin, a Sunplains city-state of courtyard houses and shaded streets around an old cistern square. The name is provisional ([Naming](../../Culture/Naming.md)).
-**Clock:** [Solstice Lanterns](../../Culture/Festivals-and-Seasonal-Life.md#sunplains), Year 1 midwinter, from the afternoon of the longest night to midnight. No date is fixed ([Calendar](../../Calendar-and-Timekeeping.md#4-seasonal-thresholds-can-matter-more-than-fixed-dates)).
-**Mode:** a one-night caper.
+**Clock:** [Solstice Lanterns](../../Culture/Festivals-and-Seasonal-Life.md#sunplains), Year 1 midwinter: the three days before the longest night, and the night itself. No date is fixed ([Calendar](../../Calendar-and-Timekeeping.md#4-seasonal-thresholds-can-matter-more-than-fixed-dates)).
+**Mode:** a countdown caper.
 
 ## Protagonist
 
@@ -52,7 +52,7 @@ After a lighter's fall in another city, the cities in the coordination talks agr
 2. Oil is short. Households have been hoarding it against the drought, and the city's lamp store is thin, so even a deal leaves lamps unlit.
 3. Yusa's count shows the guild's ledger doesn't have a single footer in it. Nor does the city's. On paper, the footers don't exist.
 4. Zeyna won't open her cellar to anyone who calls her a hoarder, which is everyone.
-5. Dov's knee won't take the great lamp's ladder tonight, and the great lamp is his.
+5. Dov's knee won't take the great lamp's ladder this year, and the great lamp is his.
 
 ## Running elements
 
@@ -107,7 +107,7 @@ No cross-story link. This story stands on the world thread alone, which also tes
 
 ### Stage 0 — Add the story
 
-Promoted 2026-11-02 from the seed *The Ladder Rules* ([Story Seeds](Story-Seeds.md)). Material brief: Sunplains drought anxiety, Bahriyya Nazar and city-state coordination, the Domino Map's Sunplains gap. Shape targets against the neighbors in reading order (The Eighth Verse before, Inspected after): a resolution by a count, not by performance or people; a caper register; no food in the soft landing.
+Promoted 2026-11-02 from the seed *The Ladder Rules* ([Story Seeds](Story-Seeds.md)). Material brief: Sunplains drought anxiety, Bahriyya Nazar and city-state coordination, the Domino Map's Sunplains gap. Shape targets against the neighbors in reading order (The Eighth Verse before, Inspected after): a resolution by a count, not by performance or people; a caper register; no food in the soft landing; a three-day countdown, so it isn't a second one-night winter story after The Eighth Verse.
 
 ### Stage 1 — THINK
 
@@ -116,7 +116,7 @@ Promoted 2026-11-02 from the seed *The Ladder Rules* ([Story Seeds](Story-Seeds.
 **Decomposition.**
 
 1. Why the standard exists.
-2. Why it can't be met tonight.
+2. Why it can't be met in time.
 3. Why neither side can back down.
 4. What Yusa knows that no ledger does.
 5. How everyone agrees without losing face.
@@ -135,7 +135,7 @@ Connection to keep: her count (4) is also her flaw's opposite. She knows the gro
 | Solstice mechanics and the date | `UNKNOWN` | No calendar detail exists. "The longest night" is said loosely ([Calendar](../../Calendar-and-Timekeeping.md#2-what-is-actually-established)). |
 | A relic lamp that dims at lies | `UNKNOWN` by rule | Kept out. Nothing magical is needed ([Magic](../../Magic.md#relics)). |
 
-**First principles.** The story needs a deadline that is one night long, a quarrel with no villain, and a fix that comes from below. Removed convention: the strike-breaker or the hero who talks everyone round. Yusa doesn't argue; she counts. The smallest mechanism is that the second person always existed; only the wage didn't.
+**First principles.** The story needs a deadline a few days off, a quarrel with no villain, and a fix that comes from below. Removed convention: the strike-breaker or the hero who talks everyone round. Yusa doesn't argue; she counts. The smallest mechanism is that the second person always existed; only the wage didn't.
 
 **Counterexample search.**
 
@@ -143,14 +143,14 @@ Connection to keep: her count (4) is also her flaw's opposite. She knows the gro
 | --- | --- |
 | Would a city adopt an unfunded standard? | **Survives.** Agreed abroad, adopted fast to look cooperative. That's the nail. |
 | Is the stand-down harm on the page? | **Narrows.** No one is hurt, and the dark night never happens in Vasselin. The other city's dark night is offstage and secondhand. |
-| Is a count just "an old document" again? | **Survives.** It's made tonight, from doors and memory, and it's a list of people, not a record. |
+| Is a count just "an old document" again? | **Survives.** It's made this week, from doors and memory, and it's a list of people, not a record. |
 | Does the warden footing the ladder shame him? | **Contradicts if forced; fixed.** He offers. It's his way to be seen keeping the standard, so it saves his face instead of costing it. |
 | Is the climb too easy? | **Risk.** She has to stop halfway, and the warden has to say something ordinary from below. |
 
 **PLAN handoff**
 
 ```text
-frame             a one-night caper: a dark night coming, solved by counting people nobody counted
+frame             a countdown caper: a dark night three days off, solved by counting people nobody counted
 selected strategy footers always existed; pay them in lamp-oil; the warden foots the last ladder
 alternatives      A households foot the ladders as a crowd act: set aside, resolves by people, like Inspected
                   B Yusa persuades the guild to light anyway: set aside, the wage complaint is fair
@@ -174,13 +174,13 @@ reconsider if     the stand-down reads as a villain's strike; the count needs ex
 
 | # | Place · clock | What happens | Must establish | Running element |
 | --- | --- | --- | --- | --- |
-| 1 | Lamp yard · afternoon | Qadir announces the stand-down. Everyone avoids the word *light*. Yusa racks her father's ladder and counts. | the standard; the stand-down; the oil; Yusa's count and her fear | the taboo word |
-| 2 | Assembly steps · afternoon | The deputation. Rafiq refuses in compliments. Qadir refuses back. Nobody says no. | the formal register; both sides boxed in | the register |
-| 3 | Rennet roof terrace · dusk | Flatbread and a clay-pot braise. Dov's knee. The moment where nothing happens: the two of them watching the dark city. She says she's never climbed; he says he knows. | her flaw; his great lamp; the meal | — |
-| 4 | Lamp yard · early evening | Yusa looks at both ledgers. Neither has a footer in it. She starts a list. | the discovery: the footers don't exist on paper | the count (of people now) |
-| 5 | The eastern round · evening | Door to door, getting a name for every lamp. Zeyna's cellar. Qadir's lighters join and take the other rounds. | the count growing; Zeyna as supplier, not hoarder | — |
-| 6 | Assembly steps · late evening | The count: as many footers as lamps. Two to a ladder, always. The lamp-share. Rafiq can agree without losing. | the solution | the register turned to agreement |
-| 7 | The rounds · night | The lighting. "Light holds!" across the city; the count rising. | the city lit | the count; the call |
+| 1 | Lamp yard · day 1 afternoon | Qadir announces the stand-down. Everyone avoids the word *light*. Yusa racks her father's ladder and counts. | the standard; the stand-down; the oil; Yusa's count and her fear | the taboo word |
+| 2 | Assembly steps · day 1 | The deputation. Rafiq refuses in compliments. Qadir refuses back. Nobody says no. | the formal register; both sides boxed in | the register |
+| 3 | Rennet roof terrace · day 1 dusk | Flatbread and a clay-pot braise. Dov's knee. The moment where nothing happens: the two of them watching the dark city. She says she's never climbed; he says he knows. | her flaw; his great lamp; the meal | — |
+| 4 | Lamp yard · day 2 morning | Yusa looks at both ledgers. Neither has a footer in it. She starts a list. | the discovery: the footers don't exist on paper | the count (of people now) |
+| 5 | The rounds · days 2 and 3 | Door to door, getting a name for every lamp. Zeyna's cellar. Qadir's lighters join and take the other rounds. | the count growing; Zeyna as supplier, not hoarder | — |
+| 6 | Assembly steps · day 3, the longest night's afternoon | The count: as many footers as lamps. Two to a ladder, always. The lamp-share. Rafiq can agree without losing. | the solution | the register turned to agreement |
+| 7 | The rounds · the longest night | The lighting. "Light holds!" across the city; the count rising. | the city lit | the count; the call |
 | 8 | The great lamp · midnight | Dov can't climb. Rafiq offers to foot. Yusa climbs, stops halfway, goes on. | the climax; her climb | the final "Light holds!" |
 
 **Promise ledger**

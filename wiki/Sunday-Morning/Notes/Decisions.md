@@ -23,6 +23,7 @@
 | D13 | 2026-09-28 | The reviewers' questions for the author are also left to AI judgment ("fix away"). | W9 |
 | D14 | 2026-09-28 | The stories need the author's touch: write how people talk, in narration as well as dialogue ("No one would say 'he did not manage it'"). One Square is the test story. | [Craft](Craft.md#write-how-people-talk) |
 | D15 | 2026-09-29 | Map all the dominoes and how they connect, with the stories placed on them, to see which parts still need stories and track what's connected. | [Domino Map](../../../atlas/domino-map/Domino-Map.md) |
+| D16 | 2026-11-02 | Write more stories and tie them further into the world ("I've enjoyed reading them and want to expand on them more and their connectedness to the rest of the 10 Kings world"): new stories rather than extensions, set inside the same year, seven of them, one for each gap on the Domino Map. Taken through the pipeline: all seven to L2, an independent check of the plans, then one test draft for bt 7274 to read before the other six are drafted. | [Collection](Collection.md#extension-to-fourteen-stories-2026-11-02), the seven new [story pages](../README.md#stories-at-a-glance) |
 
 ## Working decisions (made in the work, waiting for the author's reading)
 
@@ -42,6 +43,13 @@ These were decided while drafting or reorganizing. Each is reversible from the r
 
 ## Open for the author
 
+- **The seven new plans** ([D16](#the-authors-decisions)): bt 7274's verdict on the test draft decides whether the other six are drafted the same way.
+- **Leans taken in the new plans, for bt 7274 to overrule:**
+  - C6 stays a pair. A third letter on the ship's-lantern paper, as Walkout Pies' strike money, was set aside ([Walkout Pies](../Stories/Walkout-Pies.md), Stage 1b).
+  - Garro Sedgewater doesn't appear a third time, to keep each story linked to at most two others ([The Mushrooms From Nowhere](../Stories/The-Mushrooms-From-Nowhere.md), Stage 1b).
+  - Maris Bleakshore stays offstage; only her convoy lists appear ([The First Fish](../Stories/The-First-Fish.md), Stage 1b).
+  - Whether the blight reaches cultivated cellar fungi is left `UNKNOWN` ([The Mushrooms From Nowhere](../Stories/The-Mushrooms-From-Nowhere.md)).
+  - The new customs are provisional and story-level: the Cellar Song, "two to a ladder", the First Catch landing rule, the blessing walk and road of record, the great pour and its long table, the fair's mark rule, the year-cloth.
 - **Verdict on the spoken-register test** ([D14](#the-authors-decisions)): does [One Square](../Drafts/One-Square-Two-Harvests.md) now sound like him? If yes, the other six get the same pass ([Craft: write how people talk](Craft.md#write-how-people-talk)).
 - **The two plot changes** W4 and W5.
 - **Lines in the cautious categories** ([who writes what](Craft.md#ai-and-the-author-who-writes-what)) he wants to rewrite himself.
