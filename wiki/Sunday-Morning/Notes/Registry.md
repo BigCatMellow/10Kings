@@ -72,6 +72,40 @@ Every named character in the drafts. Mark canon figures `canon`: the script repo
 | Three Pots | Amaranth Doss | permit clerk | cast |
 | Three Pots | Halloran | market inspector | cast |
 | Three Pots | Mrs. Arden | Greenvale newcomer | cast |
+| Eighth Verse | Ulla Quarrie | cellar warden | protagonist |
+| Eighth Verse | Vessa Ruel | song-keeper | cast |
+| Eighth Verse | Jessop Kemble | tenant farmer who sold | cast |
+| Eighth Verse | Oda Kemble | Jessop's wife | cast |
+| Eighth Verse | Yorick Fell | reform-circle copyist | cast |
+| Ladder Rules | Yusa Rennet | ladder-footer | protagonist |
+| Ladder Rules | Dov Rennet | lamplighter, Yusa's father | cast |
+| Ladder Rules | Qadir Lemm | lighters' guild master | cast |
+| Ladder Rules | Rafiq Daunt | assembly lamp warden | cast |
+| Ladder Rules | Zeyna | oil-seller's widow | cast |
+| Ladder Rules | Bahriyya Nazar | Sunplains domino figure (offstage) | canon |
+| First Fish | Kirsa Lowe | smokehouse keeper | protagonist |
+| First Fish | Edda Vorne | Skerrimouth headwoman | cast |
+| First Fish | Maris Bleakshore | Northwind domino figure (her lists only) | canon |
+| Road in Use | Zan Coyle | mule-wrangler (also Mushrooms) | protagonist |
+| Road in Use | Vinegar | lead pony (also Mushrooms) | cast |
+| Road in Use | Jaske | family claiming the tower | minor |
+| Road in Use | Merrow | family claiming the tower | minor |
+| Road in Use | Lio Tarrow | guide (also Goat File, C9) | cast |
+| Walkout Pies | Kettie Gamble | pie-maker | protagonist |
+| Walkout Pies | Bosk Ferrin | crews' leader | cast |
+| Walkout Pies | Nadia Pryor | pour-master | cast |
+| Walkout Pies | Lusk | foreman | cast |
+| Walkout Pies | Kerra Dunnock | bladesmith (also Inspected, C10) | cast |
+| Walkout Pies | Orin Slatehallow | Ironcrest domino figure (gossip) | canon |
+| Mushrooms | Xenna Dree | Underpass grower | protagonist |
+| Mushrooms | Galt | fair market warden | cast |
+| Mushrooms | Fitch | dealer | cast |
+| Mushrooms | Ondine | herb-seller | cast |
+| Blank Square | Ruan Mott | bundle-runner | protagonist |
+| Blank Square | Wilda | Weaver house keeper | cast |
+| Blank Square | Gideon | Compass pilgrim | cast |
+| Blank Square | Nils Orvay | Illuminated copyist | cast |
+| Blank Square | Naruin Mossglade | Deepwood domino figure (offstage) | canon |
 <!-- registry:names:end -->
 
 ### Name rules
@@ -88,7 +122,7 @@ Every named character in the drafts. Mark canon figures `canon`: the script repo
   - Sigra Holm became **Sigra Ulfsen** and Brisa Holloway became **Brisa Zell**: with Hollis, three Hol- names in three stories. The checker caught this on its first run.
   - The Orrin farm became the **Upcott** farm (notes pass): a false echo of Orin Slatehallow, who took an outsider's money two stories later.
   - Marta Dunnock became **Kerra Dunnock** and Tove Marrick became **Tove Askell**: four Mar- names, one of them canon (Maris).
-- **Expected checker notes:** Scarth appears in One Square and The Greenvale Man on purpose (C2). Tareh and Tarrow share a prefix in one story, but Samir Tareh is canon.
+- **Expected checker notes:** Scarth appears in One Square and The Greenvale Man on purpose (C2). Tareh and Tarrow share a prefix in one story, but Samir Tareh is canon. Lio Tarrow (The Goat File, The Road in Use; C9) and Kerra Dunnock (Inspected, Walkout Pies; C10) appear in two stories on purpose. Maris and Orin repeat because they're canon domino figures, mentioned in two stories each.
 
 ## Story shapes
 
