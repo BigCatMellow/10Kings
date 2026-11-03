@@ -21,21 +21,21 @@ Of 30 ground-level dominoes: **14** have a story, **16** are touched by one, **0
 ### Touched but not the center of any story
 
 - **Piracy rises** (Northwind): touched by The Greenvale Man
-- **Maris Bleakshore** (Northwind): touched by The Greenvale Man, The First Fish at Snowbreaker Quay (planned)
-- **Smuggling surge** (Port): touched by The Mushrooms From Nowhere (planned), Three Pots at Three Moon
+- **Maris Bleakshore** (Northwind): touched by The Greenvale Man, The First Fish at Snowbreaker Quay
+- **Smuggling surge** (Port): touched by The Mushrooms From Nowhere, Three Pots at Three Moon
 - **Rosana Meadowcroft** (Greenvale): touched by One Square, Two Harvests
-- **Farmers default** (Greenvale): touched by The Eighth Verse (test draft), Inspected, Not Guaranteed
-- **Consolidators buy distressed farms** (Greenvale): touched by One Square, Two Harvests, The Eighth Verse (test draft), Three Pots at Three Moon
-- **Orin Slatehallow** (Ironcrest): touched by Inspected, Not Guaranteed, Walkout Pies (planned)
+- **Farmers default** (Greenvale): touched by The Eighth Verse, Inspected, Not Guaranteed
+- **Consolidators buy distressed farms** (Greenvale): touched by One Square, Two Harvests, The Eighth Verse, Three Pots at Three Moon
+- **Orin Slatehallow** (Ironcrest): touched by Inspected, Not Guaranteed, Walkout Pies
 - **Good metal vanishing into private contracts** (Ironcrest): touched by Inspected, Not Guaranteed
 - **Caravan attacks** (Highridge): touched by The Goat File, The Heavy Scale at Icestep Summit
 - **Samir Tareh** (Highridge): touched by The Heavy Scale at Icestep Summit
 - **Debates tied to patrons** (Highridge): touched by The Tree With a Debt
 - **Naruin Mossglade** (Deepwood): touched by The Tree With a Debt
 - **Plans leak; wardens ready to block** (Deepwood): touched by The Tree With a Debt
-- **Fungal blight on forest foods** (Deepwood): touched by The Mushrooms From Nowhere (planned), Three Pots at Three Moon
-- **Drought anxiety** (Sunplains): touched by The Ladder Rules (planned)
-- **Bahriyya Nazar** (Sunplains): touched by The Ladder Rules (planned)
+- **Fungal blight on forest foods** (Deepwood): touched by The Mushrooms From Nowhere, Three Pots at Three Moon
+- **Drought anxiety** (Sunplains): touched by The Ladder Rules
+- **Bahriyya Nazar** (Sunplains): touched by The Ladder Rules
 
 ## The map
 
@@ -47,7 +47,7 @@ flowchart TB
     nw_piracy["Piracy rises"]
     nw_convoy["Convoy patrols and trusted-cove lists<br/><i>The Greenvale Man</i>"]
     fig_maris(["Maris Bleakshore"])
-    nw_fish["Fish stocks shift<br/><i>The First Fish at Snowbreaker Quay (planned)</i>"]
+    nw_fish["Fish stocks shift<br/><i>The First Fish at Snowbreaker Quay</i>"]
   end
   subgraph r_Port["Port"]
     pt_credit["Shipping losses; credit and insurance tighten<br/><i>The Goat File</i>"]
@@ -59,13 +59,13 @@ flowchart TB
     gv_abundance["Bumper harvest won't sell<br/><i>One Square, Two Harvests</i>"]
     gv_default["Farmers default"]
     gv_land["Consolidators buy distressed farms"]
-    gv_reformers["Reformers call it coordinated theft<br/><i>The Eighth Verse (test draft)</i>"]
+    gv_reformers["Reformers call it coordinated theft<br/><i>The Eighth Verse</i>"]
   end
   subgraph r_Ironcrest["Ironcrest"]
     fig_orin(["Orin Slatehallow"])
     ic_metal["Good metal vanishing into private contracts"]
     ic_hours["Tool orders fall; workshops cut hours<br/><i>Inspected, Not Guaranteed</i>"]
-    ic_labor["Labor unrest; strike talk<br/><i>Walkout Pies (planned)</i>"]
+    ic_labor["Labor unrest; strike talk<br/><i>Walkout Pies</i>"]
   end
   subgraph r_Highridge["Highridge"]
     hr_attacks["Caravan attacks"]
@@ -82,15 +82,15 @@ flowchart TB
   subgraph r_Sunplains["Sunplains"]
     sp_drought["Drought anxiety"]
     fig_bahriyya(["Bahriyya Nazar"])
-    sp_coalition["City-states coordinate<br/><i>The Ladder Rules (planned)</i>"]
+    sp_coalition["City-states coordinate<br/><i>The Ladder Rules</i>"]
   end
   subgraph r_SpineUnderpass["Spine & Underpass"]
-    sx_quake["Spine earthquake<br/><i>The Road in Use (planned)</i>"]
-    sx_routewars["Underpass route wars<br/><i>The Mushrooms From Nowhere (planned)</i>"]
+    sx_quake["Spine earthquake<br/><i>The Road in Use</i>"]
+    sx_routewars["Underpass route wars<br/><i>The Mushrooms From Nowhere</i>"]
   end
   subgraph r_Acrossregions["Across regions"]
     x_council["Council steadies the lenders"]
-    x_faiths["Faiths compare notes<br/><i>The Blank Square (planned)</i>"]
+    x_faiths["Faiths compare notes<br/><i>The Blank Square</i>"]
     x_amplify["Villain amplifies 'Council involvement'"]
     x_proof["Local shocks read as proof of enemies"]
   end
@@ -141,36 +141,36 @@ flowchart TB
 | Region | Domino | Kind | Coverage | Comes from | Leads to |
 | --- | --- | --- | --- | --- | --- |
 | Northwind | [Piracy rises](../../wiki/Story/Current-Events.md#piracy-and-convoy-politics) | current event | touched by a story: [The Greenvale Man](../../wiki/Sunday-Morning/Drafts/The-Greenvale-Man.md) (touches) | — | Shipping losses; credit and insurance tighten; Convoy patrols and trusted-cove lists |
-| Northwind | [Convoy patrols and trusted-cove lists](../../wiki/Story/Current-Events.md#piracy-and-convoy-politics) | current event | has a story: [The Greenvale Man](../../wiki/Sunday-Morning/Drafts/The-Greenvale-Man.md), [The First Fish at Snowbreaker Quay (planned)](../../wiki/Sunday-Morning/Stories/The-First-Fish.md) (touches) | Piracy rises; Maris Bleakshore | Local shocks read as proof of enemies |
-| Northwind | [Maris Bleakshore](../../wiki/Story/Villains-Dominoes.md#maris-bleakshore--northwind) | character domino | touched by a story: [The Greenvale Man](../../wiki/Sunday-Morning/Drafts/The-Greenvale-Man.md) (touches), [The First Fish at Snowbreaker Quay (planned)](../../wiki/Sunday-Morning/Stories/The-First-Fish.md) (touches) | — | Convoy patrols and trusted-cove lists |
-| Northwind | [Fish stocks shift](../../wiki/Story/Current-Events.md#fish-stocks-and-access) | current event | has a story: [The First Fish at Snowbreaker Quay (planned)](../../wiki/Sunday-Morning/Stories/The-First-Fish.md) | — | — |
+| Northwind | [Convoy patrols and trusted-cove lists](../../wiki/Story/Current-Events.md#piracy-and-convoy-politics) | current event | has a story: [The Greenvale Man](../../wiki/Sunday-Morning/Drafts/The-Greenvale-Man.md), [The First Fish at Snowbreaker Quay](../../wiki/Sunday-Morning/Drafts/The-First-Fish.md) (touches) | Piracy rises; Maris Bleakshore | Local shocks read as proof of enemies |
+| Northwind | [Maris Bleakshore](../../wiki/Story/Villains-Dominoes.md#maris-bleakshore--northwind) | character domino | touched by a story: [The Greenvale Man](../../wiki/Sunday-Morning/Drafts/The-Greenvale-Man.md) (touches), [The First Fish at Snowbreaker Quay](../../wiki/Sunday-Morning/Drafts/The-First-Fish.md) (touches) | — | Convoy patrols and trusted-cove lists |
+| Northwind | [Fish stocks shift](../../wiki/Story/Current-Events.md#fish-stocks-and-access) | current event | has a story: [The First Fish at Snowbreaker Quay](../../wiki/Sunday-Morning/Drafts/The-First-Fish.md) | — | — |
 | Port | [Shipping losses; credit and insurance tighten](../../wiki/Story/Current-Events.md#merchant-conflict) | current event | has a story: [The Goat File](../../wiki/Sunday-Morning/Drafts/The-Goat-File.md) | Piracy rises | Bumper harvest won't sell |
-| Port | [Smuggling surge](../../wiki/Story/Current-Events.md#smuggling-surge) | current event | touched by a story: [The Mushrooms From Nowhere (planned)](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md) (touches), [Three Pots at Three Moon](../../wiki/Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md) (touches) | Trade concentrates on 'safe' routes; Underpass route wars | — |
+| Port | [Smuggling surge](../../wiki/Story/Current-Events.md#smuggling-surge) | current event | touched by a story: [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Drafts/The-Mushrooms-From-Nowhere.md) (touches), [Three Pots at Three Moon](../../wiki/Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md) (touches) | Trade concentrates on 'safe' routes; Underpass route wars | — |
 | Port | [Displaced families arrive](../../wiki/Story/Current-Events.md#refugeeworker-pressure) | current event | has a story: [Three Pots at Three Moon](../../wiki/Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md) | Consolidators buy distressed farms *(story design)*; Fungal blight on forest foods *(story design)* | — |
 | Greenvale | [Rosana Meadowcroft](../../wiki/Story/Villains-Dominoes.md#rosana-meadowcroft--greenvale) | character domino | touched by a story: [One Square, Two Harvests](../../wiki/Sunday-Morning/Drafts/One-Square-Two-Harvests.md) (touches) | — | Bumper harvest won't sell |
 | Greenvale | [Bumper harvest won't sell](../../wiki/Story/Current-Events.md#abundance-crisis) | current event | has a story: [One Square, Two Harvests](../../wiki/Sunday-Morning/Drafts/One-Square-Two-Harvests.md) | Shipping losses; credit and insurance tighten; Rosana Meadowcroft | Farmers default; Consolidators buy distressed farms; City-states coordinate *(story design)* |
-| Greenvale | [Farmers default](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step | touched by a story: [The Eighth Verse (test draft)](../../wiki/Sunday-Morning/Drafts/The-Eighth-Verse.md) (touches), [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md) (touches) | Bumper harvest won't sell | Council steadies the lenders; Tool orders fall; workshops cut hours *(story design)* |
-| Greenvale | [Consolidators buy distressed farms](../../wiki/Story/Current-Events.md#land-and-seed-politics) | current event | touched by a story: [One Square, Two Harvests](../../wiki/Sunday-Morning/Drafts/One-Square-Two-Harvests.md) (touches), [The Eighth Verse (test draft)](../../wiki/Sunday-Morning/Drafts/The-Eighth-Verse.md) (touches), [Three Pots at Three Moon](../../wiki/Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md) (touches) | Council steadies the lenders; Bumper harvest won't sell | Reformers call it coordinated theft; Displaced families arrive *(story design)* |
-| Greenvale | [Reformers call it coordinated theft](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step | has a story: [The Eighth Verse (test draft)](../../wiki/Sunday-Morning/Drafts/The-Eighth-Verse.md), [The Blank Square (planned)](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md) (touches) | Consolidators buy distressed farms; Faiths compare notes | Tool orders fall; workshops cut hours |
-| Ironcrest | [Orin Slatehallow](../../wiki/Story/Villains-Dominoes.md#orin-slatehallow--ironcrest) | character domino | touched by a story: [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md) (touches), [Walkout Pies (planned)](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md) (touches) | — | Good metal vanishing into private contracts |
+| Greenvale | [Farmers default](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step | touched by a story: [The Eighth Verse](../../wiki/Sunday-Morning/Drafts/The-Eighth-Verse.md) (touches), [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md) (touches) | Bumper harvest won't sell | Council steadies the lenders; Tool orders fall; workshops cut hours *(story design)* |
+| Greenvale | [Consolidators buy distressed farms](../../wiki/Story/Current-Events.md#land-and-seed-politics) | current event | touched by a story: [One Square, Two Harvests](../../wiki/Sunday-Morning/Drafts/One-Square-Two-Harvests.md) (touches), [The Eighth Verse](../../wiki/Sunday-Morning/Drafts/The-Eighth-Verse.md) (touches), [Three Pots at Three Moon](../../wiki/Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md) (touches) | Council steadies the lenders; Bumper harvest won't sell | Reformers call it coordinated theft; Displaced families arrive *(story design)* |
+| Greenvale | [Reformers call it coordinated theft](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step | has a story: [The Eighth Verse](../../wiki/Sunday-Morning/Drafts/The-Eighth-Verse.md), [The Blank Square](../../wiki/Sunday-Morning/Drafts/The-Blank-Square.md) (touches) | Consolidators buy distressed farms; Faiths compare notes | Tool orders fall; workshops cut hours |
+| Ironcrest | [Orin Slatehallow](../../wiki/Story/Villains-Dominoes.md#orin-slatehallow--ironcrest) | character domino | touched by a story: [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md) (touches), [Walkout Pies](../../wiki/Sunday-Morning/Drafts/Walkout-Pies.md) (touches) | — | Good metal vanishing into private contracts |
 | Ironcrest | [Good metal vanishing into private contracts](../../wiki/Story/Current-Events.md#unusual-metal-movements) | current event | touched by a story: [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md) (touches), [The Bathhouse Compact](../../wiki/Sunday-Morning/Stories/Story-Seeds.md) (seed) | Orin Slatehallow | Tool orders fall; workshops cut hours *(story design)* |
-| Ironcrest | [Tool orders fall; workshops cut hours](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step | has a story: [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md), [Walkout Pies (planned)](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md) (touches) | Reformers call it coordinated theft; Farmers default *(story design)*; Good metal vanishing into private contracts *(story design)* | Labor unrest; strike talk |
-| Ironcrest | [Labor unrest; strike talk](../../wiki/Story/Current-Events.md#labor-unrest) | current event | has a story: [Walkout Pies (planned)](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md) | Tool orders fall; workshops cut hours | Villain amplifies 'Council involvement' |
+| Ironcrest | [Tool orders fall; workshops cut hours](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step | has a story: [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md), [Walkout Pies](../../wiki/Sunday-Morning/Drafts/Walkout-Pies.md) (touches) | Reformers call it coordinated theft; Farmers default *(story design)*; Good metal vanishing into private contracts *(story design)* | Labor unrest; strike talk |
+| Ironcrest | [Labor unrest; strike talk](../../wiki/Story/Current-Events.md#labor-unrest) | current event | has a story: [Walkout Pies](../../wiki/Sunday-Morning/Drafts/Walkout-Pies.md) | Tool orders fall; workshops cut hours | Villain amplifies 'Council involvement' |
 | Highridge | [Caravan attacks](../../wiki/Story/Current-Events.md#caravan-attacks) | current event | touched by a story: [The Goat File](../../wiki/Sunday-Morning/Drafts/The-Goat-File.md) (touches), [The Heavy Scale at Icestep Summit](../../wiki/Sunday-Morning/Drafts/The-Heavy-Scale.md) (touches) | — | Trade concentrates on 'safe' routes |
 | Highridge | [Samir Tareh](../../wiki/Story/Villains-Dominoes.md#samir-tareh--highridge) | character domino | touched by a story: [The Heavy Scale at Icestep Summit](../../wiki/Sunday-Morning/Drafts/The-Heavy-Scale.md) (touches) | — | Trade concentrates on 'safe' routes |
 | Highridge | [Trade concentrates on 'safe' routes](../../wiki/Story/Current-Events.md#caravan-attacks) | current event | has a story: [The Heavy Scale at Icestep Summit](../../wiki/Sunday-Morning/Drafts/The-Heavy-Scale.md), [The Goat File](../../wiki/Sunday-Morning/Drafts/The-Goat-File.md) (touches) | Caravan attacks; Samir Tareh | Smuggling surge |
 | Highridge | [Debates tied to patrons](../../wiki/Story/Current-Events.md#political-debate) | current event | touched by a story: [The Tree With a Debt](../../wiki/Sunday-Morning/Drafts/The-Tree-With-a-Debt.md) (touches) | — | — |
-| Deepwood | [Road and logging plans](../../wiki/Story/Current-Events.md#logging-and-road-conflict) | current event | has a story: [The Tree With a Debt](../../wiki/Sunday-Morning/Drafts/The-Tree-With-a-Debt.md), [The Blank Square (planned)](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md) (touches) | — | Plans leak; wardens ready to block |
+| Deepwood | [Road and logging plans](../../wiki/Story/Current-Events.md#logging-and-road-conflict) | current event | has a story: [The Tree With a Debt](../../wiki/Sunday-Morning/Drafts/The-Tree-With-a-Debt.md), [The Blank Square](../../wiki/Sunday-Morning/Drafts/The-Blank-Square.md) (touches) | — | Plans leak; wardens ready to block |
 | Deepwood | [Naruin Mossglade](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood) | character domino | touched by a story: [The Tree With a Debt](../../wiki/Sunday-Morning/Drafts/The-Tree-With-a-Debt.md) (touches) | — | Plans leak; wardens ready to block |
 | Deepwood | [Plans leak; wardens ready to block](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood) | current event | touched by a story: [The Tree With a Debt](../../wiki/Sunday-Morning/Drafts/The-Tree-With-a-Debt.md) (touches) | Road and logging plans; Naruin Mossglade | Local shocks read as proof of enemies |
-| Deepwood | [Fungal blight on forest foods](../../wiki/Story/Current-Events.md#fungalecological-disruption) | current event | touched by a story: [The Mushrooms From Nowhere (planned)](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md) (touches), [Three Pots at Three Moon](../../wiki/Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md) (touches), [The Talker](../../wiki/Sunday-Morning/Stories/Story-Seeds.md) (seed) | — | Displaced families arrive *(story design)* |
-| Sunplains | [Drought anxiety](../../wiki/Story/Current-Events.md#drought-anxiety) | current event | touched by a story: [The Ladder Rules (planned)](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md) (touches) | — | City-states coordinate |
-| Sunplains | [Bahriyya Nazar](../../wiki/Story/Villains-Dominoes.md#bahriyya-nazar--sunplains) | character domino | touched by a story: [The Ladder Rules (planned)](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md) (touches) | — | City-states coordinate |
-| Sunplains | [City-states coordinate](../../wiki/Story/Current-Events.md#city-state-coordination) | current event | has a story: [The Ladder Rules (planned)](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md) | Drought anxiety; Bahriyya Nazar; Bumper harvest won't sell *(story design)* | Local shocks read as proof of enemies |
-| Spine & Underpass | [Spine earthquake](../../wiki/Story/Current-Events.md#earthquakeland-movement) | current event | has a story: [The Road in Use (planned)](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md) | — | Underpass route wars |
-| Spine & Underpass | [Underpass route wars](../../wiki/Story/Current-Events.md#route-wars) | current event | has a story: [The Mushrooms From Nowhere (planned)](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md), [The Road in Use (planned)](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md) (touches) | Spine earthquake | Smuggling surge |
+| Deepwood | [Fungal blight on forest foods](../../wiki/Story/Current-Events.md#fungalecological-disruption) | current event | touched by a story: [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Drafts/The-Mushrooms-From-Nowhere.md) (touches), [Three Pots at Three Moon](../../wiki/Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md) (touches), [The Talker](../../wiki/Sunday-Morning/Stories/Story-Seeds.md) (seed) | — | Displaced families arrive *(story design)* |
+| Sunplains | [Drought anxiety](../../wiki/Story/Current-Events.md#drought-anxiety) | current event | touched by a story: [The Ladder Rules](../../wiki/Sunday-Morning/Drafts/The-Ladder-Rules.md) (touches) | — | City-states coordinate |
+| Sunplains | [Bahriyya Nazar](../../wiki/Story/Villains-Dominoes.md#bahriyya-nazar--sunplains) | character domino | touched by a story: [The Ladder Rules](../../wiki/Sunday-Morning/Drafts/The-Ladder-Rules.md) (touches) | — | City-states coordinate |
+| Sunplains | [City-states coordinate](../../wiki/Story/Current-Events.md#city-state-coordination) | current event | has a story: [The Ladder Rules](../../wiki/Sunday-Morning/Drafts/The-Ladder-Rules.md) | Drought anxiety; Bahriyya Nazar; Bumper harvest won't sell *(story design)* | Local shocks read as proof of enemies |
+| Spine & Underpass | [Spine earthquake](../../wiki/Story/Current-Events.md#earthquakeland-movement) | current event | has a story: [The Road in Use](../../wiki/Sunday-Morning/Drafts/The-Road-in-Use.md) | — | Underpass route wars |
+| Spine & Underpass | [Underpass route wars](../../wiki/Story/Current-Events.md#route-wars) | current event | has a story: [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Drafts/The-Mushrooms-From-Nowhere.md), [The Road in Use](../../wiki/Sunday-Morning/Drafts/The-Road-in-Use.md) (touches) | Spine earthquake | Smuggling surge |
 | Across regions | [Council steadies the lenders](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step, saga | open | Farmers default | Consolidators buy distressed farms |
-| Across regions | [Faiths compare notes](../../wiki/Story/Current-Events.md#religious-networks) | current event | has a story: [The Blank Square (planned)](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md) | — | Reformers call it coordinated theft |
+| Across regions | [Faiths compare notes](../../wiki/Story/Current-Events.md#religious-networks) | current event | has a story: [The Blank Square](../../wiki/Sunday-Morning/Drafts/The-Blank-Square.md) | — | Reformers call it coordinated theft |
 | Across regions | [Villain amplifies 'Council involvement'](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step, saga | open | Labor unrest; strike talk | Local shocks read as proof of enemies |
 | Across regions | [Local shocks read as proof of enemies](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step, saga | open | Villain amplifies 'Council involvement'; Convoy patrols and trusted-cove lists; Plans leak; wardens ready to block; City-states coordinate | — |
 
@@ -182,12 +182,12 @@ flowchart TB
 - **C4** The Goat File → The Heavy Scale at Icestep Summit: Samir Tareh
 - **C5** The Heavy Scale at Icestep Summit → Three Pots at Three Moon: Garro the caravan cook
 - **C6** Inspected, Not Guaranteed → The Tree With a Debt: the two unsigned offers: one hand
-- **C7** The Eighth Verse (test draft) → The Blank Square (planned): the reform statement travels
-- **C8** The Greenvale Man → The First Fish at Snowbreaker Quay (planned): Maris's convoy lists come due
-- **C9** The Goat File → The Road in Use (planned): Lio Tarrow guides a caravan
-- **C10** Inspected, Not Guaranteed → Walkout Pies (planned): Kerra Dunnock comes to see the pour
-- **C11** The Tree With a Debt → The Blank Square (planned): the Weaver elder's record, unreadable
-- **C12** The Road in Use (planned) → The Mushrooms From Nowhere (planned): the lost corridor and the stair-hut
+- **C7** The Eighth Verse → The Blank Square: the reform statement travels
+- **C8** The Greenvale Man → The First Fish at Snowbreaker Quay: Maris's convoy lists come due
+- **C9** The Goat File → The Road in Use: Lio Tarrow guides a caravan
+- **C10** Inspected, Not Guaranteed → Walkout Pies: Kerra Dunnock comes to see the pour
+- **C11** The Tree With a Debt → The Blank Square: the Weaver elder's record, unreadable
+- **C12** The Road in Use → The Mushrooms From Nowhere: the lost corridor and the stair-hut
 
 The full cross-story promise ledger is on [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger).
 

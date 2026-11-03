@@ -24,6 +24,7 @@
 | D14 | 2026-09-28 | The stories need the author's touch: write how people talk, in narration as well as dialogue ("No one would say 'he did not manage it'"). One Square is the test story. | [Craft](Craft.md#write-how-people-talk) |
 | D15 | 2026-09-29 | Map all the dominoes and how they connect, with the stories placed on them, to see which parts still need stories and track what's connected. | [Domino Map](../../../atlas/domino-map/Domino-Map.md) |
 | D16 | 2026-11-02 | Write more stories and tie them further into the world ("I've enjoyed reading them and want to expand on them more and their connectedness to the rest of the 10 Kings world"): new stories rather than extensions, set inside the same year, seven of them, one for each gap on the Domino Map. Taken through the pipeline: all seven to L2, an independent check of the plans, then one test draft for bt 7274 to read before the other six are drafted. | [Collection](Collection.md#extension-to-fourteen-stories-2026-11-02), the seven new [story pages](../README.md#stories-at-a-glance) |
+| D17 | 2026-11-03 | The test story works: draft the other six the same way ("go for it", on The Eighth Verse). | the six new [drafts](../Drafts/README.md) |
 
 ## Working decisions (made in the work, waiting for the author's reading)
 
@@ -43,7 +44,7 @@ These were decided while drafting or reorganizing. Each is reversible from the r
 
 ## Open for the author
 
-- **The seven new plans** ([D16](#the-authors-decisions)): bt 7274's verdict on the test draft decides whether the other six are drafted the same way.
+- **L4 reading of the seven new drafts** ([D16](#the-authors-decisions), [D17](#the-authors-decisions)). Each has had a fresh cold read; the lines in the cautious categories are listed on each draft's Status header for him to rewrite.
 - **Leans taken in the new plans, for bt 7274 to overrule:**
   - C6 stays a pair. A third letter on the ship's-lantern paper, as Walkout Pies' strike money, was set aside ([Walkout Pies](../Stories/Walkout-Pies.md), Stage 1b).
   - Garro Sedgewater doesn't appear a third time, to keep each story linked to at most two others ([The Mushrooms From Nowhere](../Stories/The-Mushrooms-From-Nowhere.md), Stage 1b).

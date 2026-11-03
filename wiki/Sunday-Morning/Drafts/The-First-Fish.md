@@ -14,9 +14,9 @@ Story 8 of 14 in [Collection](../Notes/Collection.md). Year 2, late spring.
 
 ## The First Fish at Snowbreaker Quay
 
-The smokehouse was cold, and it had no right to be.
+It was the end of spring, and the smokehouse at Snowbreaker Quay was cold.
 
-Kirsa Lowe stood in the doorway at first light with her hands in her armpits and looked down the length of it: forty racks, empty; the long fire-trench down the middle, swept and laid and not lit; the vents in the roof shut; the oak and alder stacked against the back wall where she'd stacked them in the autumn, waiting. It was the end of spring. By now the place should have been so thick you couldn't see the far wall, and she should have been black to the elbows and happy.
+Kirsa Lowe stood in the doorway at first light with her hands in her armpits and looked down the length of it: forty racks, empty; the long fire-trench down the middle, swept and laid and not lit; the vents in the roof shut; the oak and alder stacked against the back wall where she'd stacked them in the autumn, waiting. By now the place should have been so thick you couldn't see the far wall, and she should have been black to the elbows and happy.
 
 "Smoke lies down, boats stay up," she said to the trench. It was what you said over a fire you'd laid well, so it'd draw low and long and keep the fish. There wasn't any fish. There wasn't any smoke either. She said it anyway. You didn't stop saying a thing just because there was no point.
 

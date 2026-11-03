@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, places, customs and plot details are new and non-canon.
 
-**Development level: L2 Planned** (2026-11-02). One of seven stories added inside the collection's year at bt 7274's request ([D16](../Notes/Decisions.md#the-authors-decisions)). THINK and PLAN are recorded below; there is no draft yet.
+**Development level: L3 Drafted, first pass** (2026-11-03): [read the draft](../Drafts/The-Blank-Square.md). One of seven stories added inside the collection's year at bt 7274's request ([D16](../Notes/Decisions.md#the-authors-decisions)), drafted after he approved the test story, [The Eighth Verse](The-Eighth-Verse.md) ("go for it"). Planned to L2 on 2026-11-02; THINK, PLAN and DO are recorded below.
 
 ## Premise
 

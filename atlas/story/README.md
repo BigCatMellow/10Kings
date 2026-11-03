@@ -15,7 +15,7 @@ Current events sit in their region's column (the cross-region ripple steps, the 
 Things the wiki doesn't settle yet. Listed for the author to decide; nothing here was filled in.
 
 - **The ripple chain is one possible chain, not the plot.** Current Events offers thirteen steps as "the kind of causal chain the story should prefer"; every chain link here is marked possible. Where other events feed the final step (Northwind convoys, Naruin's leak, the Sunplains coalition), the link is the Atlas's reading, inferred and off by default. So are links that join two separate entries without a page saying so (Highridge rerouting to Port smuggling, Deepwood's road plans to Naruin's leak, drought to coalition, the faiths to step 8, and Underpass route wars to Port smuggling, which the earlier Domino Map had marked canon). The chain steps have their own cards, so each event card keeps only the causes Current Events gives it.
-- **Every ground-level current event now has a story, but seven of those stories are only planned.** The seven added on 2026-11-02 (The Eighth Verse, The Ladder Rules, The First Fish, The Road in Use, Walkout Pies, The Mushrooms From Nowhere, The Blank Square) are L2 plans with no draft yet, so their links follow the plans and may change. Highridge's patron-tied debates are still only touched, by The Tree With a Debt. Of the cross-region chain steps, only Council finance steadying lenders sits behind a story (The Goat File, as ordinary pressure, provisional).
+- **Every ground-level current event now has a story.** The seven added on 2026-11-02 are drafted (first pass) but haven't had their author's reading, so their links follow the drafts and may still change. Highridge's patron-tied debates are still only touched, by The Tree With a Debt. Of the cross-region chain steps, only Council finance steadying lenders sits behind a story (The Goat File, as ordinary pressure, provisional).
 - **Nothing is dated.** The Sunday Morning calendar (Year 1 autumn to Year 2 autumn) is a provisional collection design, and Current Events is a snapshot "shortly before or during the opening movement", not a timeline.
 - **Who is behind each nail is provisional.** The Collection's "Behind it" column is an out-of-story attribution that nobody in the stories knows; one land agent is marked unknown, and the Villain's identity and plan remain open questions.
 - **Orin has no stated domino,** and **Rosana's strain isn't tied to the abundance crisis on any canon page.** Orin's link to the metal movements is inferred from his strategic value. Current Events says "a new strain, unusually good weather, or both"; only the Sunday Morning collection makes it her seed. That link is inferred here.
@@ -729,7 +729,7 @@ Grouped by board column.
 | [Fish stocks shift](../../wiki/Story/Current-Events.md#fish-stocks-and-access) | Current event | No status label | Some fisheries are declining or shifting, creating price increases, clan disputes, illegal fishing and pressure for new agreements. |
 | [1. Shipping risk rises](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 1 of one possible ripple chain: Northwind piracy raises shipping risk. |
 | [The Greenvale Man](../../wiki/Sunday-Morning/Stories/The-Greenvale-Man.md#status) | Sunday Morning story, Year 1, late autumn | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
-| [The First Fish at Snowbreaker Quay](../../wiki/Sunday-Morning/Stories/The-First-Fish.md#status) | Sunday Morning story, Year 2, late spring | Provisional | A provisional Sunday Morning story, planned (L2) and not yet drafted: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The First Fish at Snowbreaker Quay](../../wiki/Sunday-Morning/Stories/The-First-Fish.md#status) | Sunday Morning story, Year 2, late spring | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 
 **Piracy rises**
 
@@ -768,7 +768,7 @@ Grouped by board column.
 - *Holds here:* Skerrimouth turns down the Frostbay coin. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Still falls elsewhere:* A town further up the coast takes it. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Outward effect:* Another town took the offer, and the convoy hears of Frostbay boats on Northwind water. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
-- *Also on:* [The First Fish](../../wiki/Sunday-Morning/Stories/The-First-Fish.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+- *Also on:* [The First Fish](../../wiki/Sunday-Morning/Drafts/The-First-Fish.md), [The First Fish](../../wiki/Sunday-Morning/Stories/The-First-Fish.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
 ### Highridge Plateau
 
@@ -810,7 +810,7 @@ Grouped by board column.
 | [Fungal or ecological disruption](../../wiki/Story/Current-Events.md#fungalecological-disruption) | Current event | No status label | A disease or ecological change affects important forest foods or commodities. This may be natural, accidentally human-caused, or exploited by manipulators. |
 | [Plans leak; wardens prepare](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood) | Current event | Provisional | Real Council-backed expansion plans leak without context and preemptive defense is encouraged: Naruin Mossglade's domino, in which a local conservation dispute becomes an inter-regional sovereignty crisis. |
 | [The Talker](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-talker) | Story seed | Provisional | A parked Sunday Morning premise, not yet developed; names and details are non-canon. |
-| [The Blank Square](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md#status) | Sunday Morning story, Year 2, early autumn | Provisional | A provisional Sunday Morning story, planned (L2) and not yet drafted: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Blank Square](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md#status) | Sunday Morning story, Year 2, early autumn | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 
 **Logging and road conflict**
 
@@ -840,7 +840,7 @@ Grouped by board column.
 - *Holds here:* Larchmere signs neither statement. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Still falls elsewhere:* Other Weaver houses sign both. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Outward effect:* Other houses sign both, and the plateau reads a row of Weaver marks as Deepwood lining up against roads. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
-- *Also on:* [The Blank Square](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+- *Also on:* [The Blank Square](../../wiki/Sunday-Morning/Drafts/The-Blank-Square.md), [The Blank Square](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
 ### Ironcrest
 
@@ -851,7 +851,7 @@ Grouped by board column.
 | [9. Protests hit tool orders](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 9 of one possible ripple chain: protests affect tool orders from Ironcrest. |
 | [10. Workshops cut hours](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 10 of one possible ripple chain: Ironcrest workshops reduce hours. |
 | [11. Strike leaders blame owners](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 11 of one possible ripple chain: strike leaders blame owners. |
-| [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md#status) | Sunday Morning story, Year 2, midsummer | Provisional | A provisional Sunday Morning story, planned (L2) and not yet drafted: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md#status) | Sunday Morning story, Year 2, midsummer | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 
 **Unusual metal movements**
 
@@ -887,7 +887,7 @@ Grouped by board column.
 - *Holds here:* Coalglen's pour goes. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Still falls elsewhere:* Another valley's pour is lost to a walkout. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Outward effect:* In another valley the walkout hit the pour; owners and crews blame each other there. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
-- *Also on:* [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+- *Also on:* [Walkout Pies](../../wiki/Sunday-Morning/Drafts/Walkout-Pies.md), [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
 ### Greenvale
 
@@ -900,7 +900,7 @@ Grouped by board column.
 | [5. Farmers default](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 5 of one possible ripple chain: farmers default. |
 | [7. Consolidators buy farms](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 7 of one possible ripple chain: land consolidators buy distressed farms. |
 | [8. Reformers cry theft](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 8 of one possible ripple chain: religious and guild reformers call it coordinated theft. |
-| [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md#status) | Sunday Morning story, Year 1, midwinter | Provisional | A provisional Sunday Morning story, drafted as the test story for the seven added on 2026-11-02 (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md#status) | Sunday Morning story, Year 1, midwinter | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 
 **Abundance crisis**
 
@@ -952,7 +952,7 @@ Grouped by board column.
 | --- | --- | --- | --- |
 | [Drought anxiety](../../wiki/Story/Current-Events.md#drought-anxiety) | Current event | No status label | Water isn't yet universally scarce, but fear changes behavior: hoarding, canal guards, secret agreements, speculative prices. |
 | [City-state coordination](../../wiki/Story/Current-Events.md#city-state-coordination) | Current event | No status label | Some leaders are trying to cooperate. Rivals interpret the effort as the beginning of a dominant bloc. |
-| [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md#status) | Sunday Morning story, Year 1, midwinter | Provisional | A provisional Sunday Morning story, planned (L2) and not yet drafted: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md#status) | Sunday Morning story, Year 1, midwinter | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 
 **Drought anxiety**
 
@@ -971,7 +971,7 @@ Grouped by board column.
 - *Holds here:* Vasselin's lamps are lit. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Still falls elsewhere:* In another city they went dark that night. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Outward effect:* A rival city reads Vasselin's lit night as joining Bahriyya's bloc. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
-- *Also on:* [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+- *Also on:* [The Ladder Rules](../../wiki/Sunday-Morning/Drafts/The-Ladder-Rules.md), [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
 ### Port
 
@@ -1017,8 +1017,8 @@ Grouped by board column.
 | --- | --- | --- | --- |
 | [Earthquake or land movement](../../wiki/Story/Current-Events.md#earthquakeland-movement) | Current event | No status label | A recent event damages roads and exposes older ruins, caves or sealed routes, producing treasure and resource rushes, religious claims, territorial disputes, archaeological interest and Underpass instability. |
 | [Underpass route wars](../../wiki/Story/Current-Events.md#route-wars) | Current event | No status label | Collapse and discovery have changed which enclaves control profitable corridors. Smuggling and legitimate trade compete for the same space. |
-| [The Road in Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md#status) | Sunday Morning story, Year 2, late spring | Provisional | A provisional Sunday Morning story, planned (L2) and not yet drafted: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
-| [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md#status) | Sunday Morning story, Year 2, late summer | Provisional | A provisional Sunday Morning story, planned (L2) and not yet drafted: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Road in Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md#status) | Sunday Morning story, Year 2, late spring | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md#status) | Sunday Morning story, Year 2, late summer | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 
 **Earthquake or land movement**
 
@@ -1037,7 +1037,7 @@ Grouped by board column.
 - *Holds here:* The toll stays with the town gate. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Still falls elsewhere:* The deep road under the saddle is gone for good. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Outward effect:* The deep road is gone, and the growers below have to find another way up. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
-- *Also on:* [The Road in Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+- *Also on:* [The Road in Use](../../wiki/Sunday-Morning/Drafts/The-Road-in-Use.md), [The Road in Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
 **The Mushrooms From Nowhere**
 
@@ -1048,7 +1048,7 @@ Grouped by board column.
 - *Holds here:* Underwell sells under its own name. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Still falls elsewhere:* Other enclaves sell through dealers, off the record. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Outward effect:* Other enclaves sell through dealers, and their goods go off the record. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
-- *Also on:* [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+- *Also on:* [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Drafts/The-Mushrooms-From-Nowhere.md), [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
 ### Border towns
 

@@ -12,9 +12,15 @@ The finished text of all seven, in reading order:
 6. [The Tree With a Debt](The-Tree-With-a-Debt.md)
 7. [Three Pots at Three Moon](Three-Pots-at-Three-Moon.md)
 
-The first of the seven new stories, drafted as a test before the other six (story 4 of 14 in [reading order](../Notes/Collection.md#reading-order)):
+The seven new stories, set in the gaps of the same year (first pass; their places in the [reading order](../Notes/Collection.md#reading-order) are 4, 5, 8, 9, 11, 12 and 13):
 
-- [The Eighth Verse](The-Eighth-Verse.md)
+- [The Eighth Verse](The-Eighth-Verse.md), the test story
+- [The Ladder Rules](The-Ladder-Rules.md)
+- [The First Fish at Snowbreaker Quay](The-First-Fish.md)
+- [The Road in Use](The-Road-in-Use.md)
+- [Walkout Pies](Walkout-Pies.md)
+- [The Mushrooms From Nowhere](The-Mushrooms-From-Nowhere.md)
+- [The Blank Square](The-Blank-Square.md)
 
 ## Status
 
