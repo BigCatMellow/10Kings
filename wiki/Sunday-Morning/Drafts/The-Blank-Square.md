@@ -16,7 +16,7 @@ Story 13 of 14 in [Collection](../Notes/Collection.md). Year 2, early autumn.
 
 The river had come up in the night, which Ruan Mott had known it would, because it always did this time of year. He'd crossed it anyway, because the bundle was due.
 
-The ford below Larchmere was a good ford. It had a gravel bottom and a line of old stakes across it to hold on to, and in summer you could walk it with your boots round your neck and not wet your knees. But it was the end of the year, the rains had been in the hills for three days, and when Ruan came down to it at first light the water was brown and loud and up to the second notch on the marker stake, which meant thigh-deep and pulling.
+The ford below Larchmere was a good ford. It had a gravel bottom and a line of old stakes across it to hold on to, and in summer you could walk it with your boots round your neck and not wet your knees. But it was autumn now, the rains had been in the hills for three days, and when Ruan came down to it at first light the water was brown and loud and up to the second notch on the marker stake, which meant thigh-deep and pulling.
 
 He stood on the bank and looked at it for a while.
 
@@ -28,7 +28,7 @@ He'd never once got it wet.
 
 He took a breath, and got hold of the first stake, and went in.
 
-It was all right as far as the middle. It was cold enough to stop your heart and it pulled at his legs like a dog with a rope, but he'd crossed worse. He went stake to stake, the way you do, never letting go of one before he had the next. And then, at the middle stake, his foot went off a stone that hadn't been there in the summer, and he went down to the waist and then to the chest, and the river got hold of the bundle on his back and turned him round like a door.
+It was all right as far as the middle. It was cold enough to stop your heart and it pulled at his legs like a dog with a rope, but he'd crossed worse. He went stake to stake, the way you do, never letting go of one before he had the next. And then, at the middle stake, his foot went off a stone that hadn't been there in the summer, and he went down to the waist and then to the chest, and the river got hold of the bundle on his back and swung him half round.
 
 He didn't let go of the stake. That was the main thing. He hung on to it with both arms and the water going over his shoulders, and got his feet back under him, and stood up. It took a while.
 
@@ -118,11 +118,11 @@ On the table by the door, where the house kept letters, there were two statement
 
 One was from the forest wardens' circle, and it was against the plateau road: the new road the plateau wanted to cut through the forest from the Twilighthollow side, which everybody in Deepwood had been arguing about all year. It said the road would ruin the forest from end to end, and it asked every Weaver house in Deepwood to put its mark to it. It had a long row of marks on it already.
 
-The other had come a much longer way. It had started in Greenvale, in the winter, from the reform circles there, and it had been passed from village to village and house to house all year, and it had got to Larchmere at last, a bit dog-eared, in the same week as the wardens'. It said the buying-up of farms all along the Greenvale rivers, after the bad harvest, was no accident. It called it coordinated theft. It asked everyone who read it to put their mark to it too. It had a lot of marks on it, from a lot of places Ruan had never heard of. There were a few gaps, here and there, where a village it had gone through hadn't signed.
+The other had come a much longer way. It had started in Greenvale, in the winter, from the reform circles there, and it had been passed from village to village and house to house all year, and it had got to Larchmere at last, a bit dog-eared, in the same week as the wardens'. It said the buying-up of farms all along the Greenvale rivers, after the bad harvest, was no accident. It called it coordinated theft. It asked everyone who read it to put their mark to it too. It had a lot of marks on it, from a lot of places Ruan had never heard of. Some of the villages it had gone through hadn't signed.
 
 Half the stitchers wanted to sign both.
 
-"The road's real," said Sorrel Mabb, at the second supper, banging the table. "I've seen the survey stakes. *Seen* them. They'll cut right through the beeches above the mill."
+"The road's real," said Sorrel Mabb, that first night after the guests had gone up, banging the table. "I've seen the survey stakes. *Seen* them. They'll cut right through the beeches above the mill."
 
 "Then stitch the stakes," said Wilda. "You did. It's on the cloth. Third row from the top."
 
@@ -130,7 +130,7 @@ Half the stitchers wanted to sign both.
 
 "No. It's not." Wilda didn't raise her voice. "The cloth says what we saw. You saw stakes in the beeches above the mill. That's what Larchmere saw of the road, and anyone who wants to know can come and see. The statement says the road will ruin the whole forest from end to end. Did you see that?"
 
-Marrit opened her mouth and shut it.
+Sorrel had nothing to say to that.
 
 "It might be true," said Wilda. "I'm not saying it isn't. But it's not ours to say."
 
@@ -140,7 +140,7 @@ That second supper, the three of them got onto the year.
 
 It was a thin supper. Mushroom broth, mostly broth: the blight had been at the forest mushrooms two summers running, and what was in the pot was what Wilda had been able to find, which wasn't much. Chestnut cakes, which were better. The kitchen fire, and the dark coming down early outside, and the cloth on its frame through the doorway, nearly done.
 
-Nils started it. He said, half to his bowl, that it had been a strange year for his comparing. That the numbers didn't agree. Grain prices from one ledger and another, the same market, the same week, and the figures all over the place. Tolls on the plateau that didn't match what the road clerks said they'd taken. He'd never seen so many records disagree.
+Nils started it. He said, half to his bowl, that it had been a strange year for his comparing. That the numbers didn't agree. The mill's book and the house's tithe-book, the same grain, the same week, and the figures all over the place. He'd never seen so many records disagree.
 
 "Clerks," said Gideon comfortably. "Careless clerks. Bad year for it."
 
@@ -160,7 +160,7 @@ And Wilda said, looking through the door at the cloth, that it had been a strang
 
 "It's the price of salt," said someone else.
 
-They went round it for a bit like that, the three of them and the stitchers, each with their own reason, and none of the reasons were any good. Ruan sat at the end and ate his chestnut cake. He didn't have a reason. He'd carried more bundles this year than any year he could remember, that was all, up and down every path in the parish and out to Twilighthollow and back. But he didn't say so. He was only the carrier.
+They went round it for a bit like that, the three of them and the stitchers, each with their own reason. Ruan ate his chestnut cake. He didn't have a reason. He was only the carrier.
 
 Then somebody's child spilled the broth, and everybody got up, and that was the end of that.
 
@@ -170,11 +170,11 @@ On the evening of the second day he went back down to the ford.
 
 He didn't have a reason for that either. His feet took him. The rain had stopped in the hills, and the river had gone down as fast as it had come up, the way it did, and by evening it was back to the first notch, quick and clear and cold over the gravel, as if nothing had happened.
 
-He sat on the bank where he'd sat the day before, dripping. The light was going green under the trees. A heron came down the river very slowly, one leg at a time, and stood in the shallows below the stakes, studying the water, and Ruan watched it, and it didn't catch anything, and after a while it went away again.
+He sat on the bank where he'd sat the day before. The light was going green under the trees. A heron came down the river very slowly, one leg at a time, and stood in the shallows below the stakes, studying the water, and Ruan watched it, and it didn't catch anything, and after a while it went away again.
 
 He thought about the middle stake. He thought about the river taking the bundle on his back and turning him round. He could feel it still, the pull of it, the weight going sideways, the book on his back gone heavy as a stone.
 
-He'd seen it. That was the thing. He'd been the only one there. Nobody else in the world had been standing in the middle of the Larchmere ford at first light, hanging on to a stake, when the river took Twilighthollow's year. Just him.
+He'd seen it. He'd been the only one there. Nobody else in the world had been standing in the middle of the Larchmere ford at first light, hanging on to a stake, when the river took Twilighthollow's year. Just him.
 
 Back at the house, the brown pages were drying on the rack by the hearth. They'd stopped running when they stopped being wet. They were just stained paper now. They'd stay that way.
 
@@ -196,7 +196,7 @@ He stood by the frame for a while. Wilda put the needles in their case, slowly, 
 
 "No." He'd known she'd say that. He looked at the empty border. "But I was there when it went. At the ford. I'm the only one who was." He made himself say the rest. "Can a carrier put a square on the cloth? If what he saw was a thing being lost?"
 
-Wilda didn't answer straight away. She looked at the cloth, and then at him, for a long moment, as if she were seeing something she'd walked past every day for years.
+Wilda didn't answer straight away. She looked at the cloth, and then at him, for a long moment.
 
 Then she took a needle back out of the case, and threaded it, and held it out to him.
 
@@ -212,7 +212,7 @@ When he'd done it there was a square at the head of Twilighthollow's border with
 
 The cloth went up the next morning, on the wall of the stitching room where every year's cloth went, next to last year's and the year before's. The whole parish came to look at it, same as every year.
 
-Gideon stayed by it a good while, and then went off down the shrine roads that afternoon with a new story, about a house that left a square blank because nobody there had seen what belonged in it. For once, everybody who heard him tell it said afterward, it was true from start to finish.
+Gideon stayed by it a good while, and then went off down the shrine roads that afternoon with a new story, about a house that left a square blank because nobody there had seen what belonged in it. It was the first story he'd carried all year that was true from start to finish.
 
 Nils Orvay copied the cloth into his book before he left, square by square, the way he copied everything. When he got to the empty square at the head of the west border, he drew it exactly, a ring of crooked brown stitches with nothing inside, and wrote nothing in it.
 
@@ -224,4 +224,4 @@ At the end of the day, when the parish had gone home, the Mabbs' youngest came b
 
 Ruan had been sweeping the stitching room. He leaned on his broom.
 
-"That one's mine," he said. "I saw it go."
+"I saw it go," he said. "That's what's in it."

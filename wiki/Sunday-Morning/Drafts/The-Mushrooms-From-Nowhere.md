@@ -32,9 +32,9 @@ She shut her eyes. It didn't help. It came in round the edges, red, through her 
 
 "Could have fooled me."
 
-She didn't answer. She stood there and let the light hurt, and waited for it to stop, and it didn't, quite. It just turned into a sort of ache behind her eyes that she knew from the stories she'd be carrying round for days.
+She didn't answer. She stood there and let the light hurt, and waited for it to stop, and it didn't, quite. It just turned into an ache behind her eyes that she'd be carrying round for days.
 
-Udo should have been doing this. That was the thing. Udo had done it every season for fifteen years: brought Underwell's crop up the deep road and the stair, sold it at the Ninewell fairs, bought oil and grain and salt and lamp-glass, and gone back down. Udo knew everyone up here. Udo knew what things cost and what people meant when they said them. Udo didn't mind the light.
+Udo should have been doing this. Udo had done it for fifteen years: brought Underwell's crop up the deep road and the stair every few weeks, sold it in the Ninewell market and at the fairs, bought oil and grain and salt and lamp-glass, and gone back down. Udo knew everyone up here. Udo knew what things cost and what people meant when they said them. Udo didn't mind the light. And when anybody up top asked Udo where his mushrooms came from, Udo said *below*, the same as anybody from Underwell would.
 
 But the shake in the spring had brought the deep road down, a long stretch of it, somewhere under the saddle. Udo had been on the far side of it at the time, which was lucky, and he'd stayed there, working the other routes round, and sent word back hand to hand that he was alive and fine and couldn't get through. Which meant that if Underwell's mushrooms were going to be sold at the late-summer fair, and Underwell's oil bought for the winter, then somebody else had to bring them up.
 
@@ -80,7 +80,7 @@ He was a short, square, sunburned man called Galt, with a heavy book under his a
 
 "These are good," he said.
 
-"I know."
+"They're mine."
 
 "Where are they from?"
 
@@ -96,7 +96,7 @@ Galt didn't laugh. He just nodded, as if *below* was an answer he could do somet
 
 "They're not Deepwood."
 
-"I can see that, now I'm close." He looked at the pale long ones. "I don't know what they are. Which is the other trouble. I've got a rule for forest goods. I haven't got one for whatever these are."
+"I can see that, now I'm close." He looked at the pale long ones. "These are cellar stuff. Udo's sort, from below. But Udo answered for Udo's, and Udo isn't here. And I've got a rule for forest goods and nothing at all for anything grown below."
 
 Xenna stood there with her hat pulled down, and the sky pressing on the back of her neck.
 
@@ -166,9 +166,9 @@ The sun was going down behind the gate, red, the whole sky turning colors she di
 
 "Better than forest," Zan said, after a long time.
 
-"I know," said Xenna.
+"Yes," said Xenna.
 
-That was the whole conversation. It was the best one she'd had all day.
+That was the whole conversation.
 
 ---
 
@@ -198,7 +198,7 @@ Xenna looked at her.
 
 "I don't know. Nobody does." That was the truth. Nobody in Underwell did. Nobody up here did either. She'd asked Ondine, quietly, and Ondine had shaken her head. "I'll look at every one next year too."
 
-The woman nodded slowly, as if she hadn't heard anybody be honest about the blight all summer.
+The woman nodded slowly.
 
 But Galt walked by about noon, and nodded to Ondine, and looked at the lids still on the crates, and walked on. Ondine's word wasn't a mark. Xenna couldn't sell a single mushroom.
 
@@ -212,11 +212,11 @@ Fitch's stall was bigger than she'd thought it would be. It had an awning, strip
 
 She stood in front of his table.
 
-It would be so easy. That was the thing. She'd go back to her corner and get the crates, and bring them here, and Fitch would hang his little board over them, and in the morning they'd sell, and she'd get half, and buy half of everything Underwell needed, and go back down the stair, and nobody would ever have to know where anything came from. Nobody would look at her. Nobody would ask. Nobody would laugh at *below*. It was what she'd been taught. Up top was up top.
+It would be so easy. She'd go back to her corner and get the crates, and bring them here, and Fitch would hang his little board over them, and in the morning they'd sell, and she'd get half, and buy half of everything Underwell needed, and go back down the stair, and nobody would ever have to know where anything came from. Nobody would look at her. Nobody would ask. Nobody would laugh at *below*. It was what she'd been taught. Up top was up top.
 
 But they weren't Deepwood mushrooms. They were hers.
 
-She'd grown them. She'd been growing them since she was eight years old, in the far beds by the spring, on timbers she'd carried in herself and soaked herself and seeded herself, in the long dark, with her hat on against the glare. Ondine had put her face in the moss and said *good clean beds*, and they were, and they were *hers*, and they were from Underwell, which nobody up here had ever heard of, and if she let Fitch hang his little leaf over them they'd go out into the world as something they weren't, and nobody would ever hear of Underwell at all.
+She'd grown them. She'd been growing them since she was eight years old, in the far beds by the spring, on timbers she'd carried in herself and soaked herself and seeded herself, in the long dark, with her hat on against the glare. Ondine had put her face in the moss and said *good clean beds*, and they were.
 
 "No," said Xenna.
 
@@ -230,23 +230,23 @@ Fitch's face did something, and then went cheerful again. "No?"
 
 ---
 
-She found a stall. It had belonged to a man selling pots who'd sold out of pots, and he let her have the end of his table for the last day, and the little chalkboard on its stand that he'd written his prices on.
+She found a stall. It had belonged to a man selling pots who'd sold out of pots, and he let her have the end of his table for the last day.
 
-She wiped his prices off with her sleeve.
+She lifted the lid from her last empty crate, and turned it over, and got out her knife.
 
-Then she stood there with the chalk in her hand, not writing.
+Then she sat there with the knife in her hand, not cutting.
 
-The fair was going on around her: the noise, the goats, the shouting, the sky. Galt was at his table by the gate with his book. Ondine was three stalls down with her herbs. Somebody was frying something that smelled of onions. Nobody was looking at her, particularly. That made it easier and harder.
+The fair was going on around her: the noise, the goats, the shouting, the sky. Galt was at his table by the gate with his book. Ondine was three stalls down with her herbs. Somebody was frying something that smelled of onions. Nobody was looking at her, particularly.
 
 You didn't tell up top where you were from. You didn't tell up top anything.
 
-She wrote *XENNA DREE*, in big letters, the way she'd learned to write on the slate in the meeting-cave when she was small. Then, under it, after another long moment:
+She cut *XENNA DREE* into the lid in big square letters, the way growers at home cut their marks into the bed-timbers so everybody knew whose was whose. Then, under it, after another long moment:
 
 *UNDERWELL. GROWN BELOW.*
 
-She didn't write anything about the roads. She'd have died first. But that much she wrote, and stood back from it, and pushed her hat back off her forehead so people could see her face, and waited.
+She didn't cut anything about the roads. She'd have died first. But that much she cut, and propped the lid up against the crates, and stood back from it, and pushed her hat back off her forehead so people could see her face, and waited.
 
-Galt came over in the evening, when the fair was closing. He read the board twice, and looked at her, and at the crates.
+Galt came over in the evening, when the fair was closing. He read the lid twice, and looked at her, and at the crates.
 
 "Underwell," he said.
 
@@ -266,9 +266,9 @@ He took his pencil from behind his ear and wrote something in his book. "Your na
 
 She sold out by noon on the third day.
 
-It wasn't hard, after that. People came because Ondine had told them to, and because the board said *GROWN BELOW* and that was interesting, and because there were no other mushrooms at the fair. They asked where Underwell was, and she said below, and some of them laughed, but they bought anyway, and some of them didn't laugh at all. An innkeeper from up the saddle bought a whole crate of the dried and said he'd been looking all summer. A woman from the plateau bought the pale long ones for her mother, who was sick and could keep nothing else down. By noon there was nothing left in the crates but moss.
+It wasn't hard, after that. People came because Ondine had told them to, and because the lid said *GROWN BELOW* and that was interesting, and because there were no other mushrooms at the fair. They asked where Underwell was, and she said below, and some of them laughed, but they bought anyway, and some of them didn't laugh at all. An innkeeper from up the saddle bought a whole crate of the dried and said he'd been looking all summer. A woman from the plateau bought the pale long ones for her mother, who was sick and could keep nothing else down. By noon there was nothing left in the crates but moss.
 
-She took the money to the market and bought oil, and grain, and salt, and lamp-glass, and a bolt of good cloth that wasn't on the list but that she'd decided Underwell needed anyway. Ondine haggled for her, ferociously, without being asked, and seemed to enjoy it a great deal.
+She took the money to the market and bought oil, and grain, and salt, and lamp-glass, and a bolt of good cloth that wasn't on the list but that she'd decided Underwell needed anyway. Ondine haggled for her, ferociously, without being asked, and seemed to be having the time of her life.
 
 In the evening she went back to the yards. Zan had the brown mule ready, and her own two, and he loaded them with her, sack by sack, without either of them saying much. The old gray pony watched from the end stall.
 
@@ -278,7 +278,7 @@ In the evening she went back to the yards. Zan had the brown mule ready, and her
 
 He nodded, and handed her the lead rope.
 
-At the stair-hut she stopped.
+At the stair-hut by the east gate she stopped.
 
 The door stood open on the dark. Cool air came up out of it, damp and mineral and smelling of home, and she could hear, very faintly, the spring running somewhere far below. The mules pulled at the lead, wanting to go down out of the light.
 

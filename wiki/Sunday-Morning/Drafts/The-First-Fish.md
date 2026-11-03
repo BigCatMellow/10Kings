@@ -30,7 +30,7 @@ Nobody knew why. The fish came every spring, up the coast and into the Quay's wa
 
 And the Quay couldn't sell a fish until the first fish was in.
 
-That was the custom. The first fish of the spring had to come out of the Quay's own water, landed on the Quay's own slip, and go into the Quay's own smokehouse before a single fish was sold. Some people said it was for luck. Kirsa's grandmother had said it was so nobody could sneak off to market with half a catch before the price was set. Kirsa said it proved the fires. Either way it had always been done, and the advances the crews had taken over the winter, against the season's catch, came due at the first sale. No first fish, no sale. No sale, and by midsummer the Quay would owe the whole of the coast and have nothing on its racks.
+That was the custom. The first fish of the spring had to come out of the Quay's own water, landed on the Quay's own slip, and go into the Quay's own smokehouse before a single fish was sold. Some people said it was for luck. Kirsa's grandmother had said it was so nobody could sneak off to market with half a catch before the price was set. Kirsa said it proved the fires, which was why the keeper ate that first fish herself, on the slip, in front of everybody, so the whole Quay could see the smoking was good. Either way it had always been done, and the advances the crews had taken over the winter, against the season's catch, came due at the first sale. No first fish, no sale. No sale, and by midsummer the Quay would be deep in debt with nothing on its racks.
 
 The elders came down the shingle to the smokehouse once the tide had turned: three of them, in their good coats, which was a bad sign.
 
@@ -58,7 +58,7 @@ The elders looked at each other.
 
 It was from Maris Bleakshore, which meant everybody had read it.
 
-Last autumn she'd written to every cove on the coast, asking each to name the coves it would sail with in convoy next season. Coves it could trust, she'd said. Coves whose waters were clean. The Quay had sent its list back before the ice, the way everyone had, and on the list, the way it always had been, was Skerrimouth.
+Last autumn she'd written to every cove on the coast, asking each to name the coves it would sail with in convoy next season. Coves it could trust, she'd said. Coves whose waters were clean. After a summer of raids up the coast, nobody had to ask what that meant. The Quay had sent its list back before the ice, the way everyone had, and on the list, because the two towns had always fished and sailed side by side, was Skerrimouth.
 
 Now she'd written again. The first summer convoy would sail at midsummer. Before it did, every cove was to confirm its list.
 
@@ -90,9 +90,9 @@ She talked to herself the whole way, which was what she did. Mostly she talked t
 
 The huts didn't answer. She didn't need them to.
 
-By the time she came down off the headland into Skerrimouth the afternoon was half gone, and her face had gone stiff with wind, and she'd decided on several things she was going to say and thrown all of them away.
+By the time she came down off the headland into Skerrimouth the afternoon was half gone, and her face had gone stiff with wind.
 
-Skerrimouth was smaller than the Quay. Kirsa had known that the way you know things about places you've never been: a fact, not a picture. In the flesh it was a single street of stone houses with turf on the roofs, a stone jetty, a strip of shingle, and boats. A lot of boats. Their boats were out, which was the first thing that went into her like a splinter. Every one of them was out, beyond the jetty, low in the water and working.
+Skerrimouth was smaller than the Quay. Kirsa had known that, as a fact. In the flesh it was a single street of stone houses with turf on the roofs, a stone jetty, a strip of shingle, and boats. A lot of boats. Their boats were out, which was the first thing that went into her like a splinter. Every one of them was out, beyond the jetty, low in the water and working.
 
 And on the shingle, by the jetty, there was a shed.
 
@@ -104,7 +104,7 @@ It was a smokehouse, of a kind. A family one: stone walls, a turf roof, a single
 
 ---
 
-Edda Kjeld was the headwoman of Skerrimouth, and she was not, Kirsa thought afterward, at all what she'd expected. Kirsa had expected someone grand, or hard, or at least someone who looked like they'd had an offer from Frostbay. Edda was a small dry woman with gray hair in a knot and salt-cracked hands, and she looked like someone who'd been gutting fish since dawn, because she had.
+Edda Kjeld was the headwoman of Skerrimouth. Kirsa had expected someone grand, or hard, or at least someone who looked like they'd had an offer from Frostbay. Edda was a small dry woman with gray hair in a knot and salt-cracked hands, and she looked like someone who'd been gutting fish since dawn, because she had.
 
 "You're the Quay's smokehouse," she said.
 
@@ -176,7 +176,7 @@ She sat down with her back to the cairn.
 
 After a while somebody came up the path and sat down a little way off. It was Edda. She had a cup in each hand and handed one over, and Kirsa took it, and it was hot and had something in it that wasn't only tea.
 
-They sat. The sun came up behind the cloud somewhere and made it lighter without making it any brighter. The wind dropped. Down below, on both sides, the morning fires were being lit: a few chimneys in Skerrimouth, and on the far side, small with distance, a few in the Quay. In the still air the smoke from both towns went up a little way and then lay down flat on the water, gray on gray, and spread out toward the headland from both sides, till you could hardly tell whose was whose.
+They sat. The sun came up behind the cloud somewhere and made it lighter without making it any brighter. The wind dropped. Down below, on both sides, the morning fires were being lit: a few chimneys in Skerrimouth, and on the far side, small with distance, a few in the Quay. In the still air the smoke from both towns went up a little way and then lay down flat on the water, gray on gray, and spread out toward the headland from both sides.
 
 Kirsa watched it for a while.
 
@@ -242,13 +242,13 @@ The wind came up a little off the sea. Below them somebody in Skerrimouth was ca
 
 "When the boats come in. Yours and mine. There's forty racks and there'll be more fish than forty racks some days. Whose goes on first?"
 
-Kirsa understood her then. It wasn't a question about fish.
+Kirsa understood her then.
 
 "Yours," she said. She said it fast, before the part of her that had kept the Quay's smokehouse for twenty years could stand up and object. "Yours first."
 
 Edda looked at her for a long moment.
 
-"The Frostbay man," she said at last, "wanted to know whose water it was. You're the first one who's asked whose fish." She took her hands out of her apron. "All right."
+"The Frostbay man only ever asked about the water," she said at last. "Never once about the fish." She took her hands out of her apron. "All right."
 
 ---
 
@@ -264,7 +264,7 @@ By noon the carts were coming over the headland from Skerrimouth, and the racks 
 
 That afternoon the youngest elder brought Maris Bleakshore's letter down to the smokehouse, and Kirsa wiped her hands and wrote at the bottom of the Quay's list, next to Skerrimouth, *confirmed*, and put her mark to it. Over the headland, Edda was doing the same.
 
-The first fish came out of the smoke at dusk, gold and stiff and smelling of oak, and by custom it belonged to the keeper of the smokehouse, to eat on the slip in front of everybody, so the whole Quay could see the fires were good.
+The first fish came out of the smoke at dusk, gold and stiff and smelling of oak, and by custom it was the keeper's.
 
 Kirsa carried it out onto the slip. The crews were there, and the elders, and a lot of Skerrimouth, who'd come over with the carts and stayed. Edda stood at the edge of them, arms crossed tight against the wind.
 

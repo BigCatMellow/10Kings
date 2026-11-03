@@ -60,7 +60,7 @@ It had come in the spring, between Pass Opening and now, a long low rumble in th
 
 The way round was a goat track, up and along the hillside above the fall. And on the goat track, where the slip had torn away a skin of earth and scrub, there was a tower.
 
-Nobody had known it was there. It was a stump of a thing, a ring of dressed stone about twice a man's height, with a doorway and over the doorway a name, cut into the lintel, worn so nearly smooth you could only see it with the light coming across it sideways. It had been a toll tower. You could tell from where it stood: right where the old track would have narrowed, where anyone going along the saddle would have had to pass it single file.
+Nobody had known it was there. It was a stump of a thing, a ring of dressed stone about twice a man's height, with a doorway and over the doorway a name, cut into the lintel, worn so nearly smooth you could only see it with the light coming across it sideways. Everybody said it had been a toll tower, from where it stood: right where the old track would have narrowed, where anyone going along the saddle would have had to pass it single file.
 
 "Ours," said Granny Jaske, from the front.
 
@@ -114,13 +114,13 @@ It was Lio Tarrow. He was a guide up from Seven Wells, a long friendly young man
 
 "No. Agreeing's when you mean it." Zan looked at the pie. "Saying yes is when you want them to go away."
 
-Lio laughed. "My wife says I'm the opposite. I mean everything and say it all." He came in and leaned on the stall door next to Vinegar, who allowed it. "The caravan's coming in early, by the way. A day. They'll be at the west gate tomorrow night. They want to go out the morning after."
+Lio laughed. "My wife says I'm the opposite. I mean everything and say it all." He came in and leaned on the stall door next to Vinegar, who allowed it. "The caravan's coming in early, by the way. Tonight. A day ahead of itself. They'll go out at the blessing and they won't wait an hour past it."
 
 Zan did the sum in his head.
 
-"That's the blessing," he said.
+"So there's no putting it off," he said.
 
-"That's the blessing." Lio scratched Vinegar under the chin. "It picked you, you know. The lot."
+"There's no putting it off." Lio scratched Vinegar under the chin. "It picked you, you know. The lot."
 
 "It's a bag of names."
 
@@ -128,7 +128,7 @@ Zan did the sum in his head.
 
 ---
 
-They ate at the stair-hut, at midday, because the market was too full.
+They ate at the stair-hut that evening, because the market was still too full.
 
 The stair-hut was by the east gate, a little stone place with a heavy wooden door and a hole in the floor where the stair went down into the dark. In an ordinary spring there'd have been a broker in it by now, a quiet man called Udo who came up from below every few weeks with baskets of cellar mushrooms and bundles of dried ones, and sold them in the market, and went back down with oil and salt. But the shake had brought down the deep road too, somewhere under the saddle, and Udo hadn't come up.
 
@@ -136,7 +136,7 @@ He was all right. Word had come up the stair a month back, passed hand to hand f
 
 Zan and Lio sat on the step of it in the sun with their backs to the door. Lio had bought caravan skewers off a stall, lamb and onion, black at the edges, and a flatbread each, hot from the clay oven, with spiced butter running into it. They ate out of their hands and watched the market.
 
-There wasn't anything to watch, really. It was a market. People bought things. A goat got loose and was caught. Somebody's child dropped a honey cake in the dust and looked at it and decided not to cry about it after all. The sun came round onto the step and warmed their knees. Lio talked about his wife, and Seven Wells, and a goat that his grandfather had once owned half of, and Zan listened, and didn't have to say anything at all, and found that he liked it.
+There wasn't anything to watch, really. It was a market. People bought things. A goat got loose and was caught. Somebody's child dropped a honey cake in the dust and looked at it and decided not to cry about it after all. The last of the sun came round onto the step and warmed their knees. Lio talked about his wife, and Seven Wells, and a goat his grandfather was forever arguing about, and Zan listened, and didn't have to say anything at all, and liked it.
 
 "There ought to be mushrooms," Lio said, when the skewers were gone. He nodded at the shut door behind them. "This time of year. Everybody says."
 
@@ -150,7 +150,7 @@ Zan shrugged. "Then somebody else'll come up. They've got to sell somewhere."
 
 It rained in the night, hard, the first real rain of the season, and in the morning the whole saddle smelled of wet stone.
 
-The caravan had come in at the west gate after dark, forty animals and a dozen people and a great deal of noise. In the morning, with half of Ninewell up on the walls, Zan took the blessing string out to walk the way: a rehearsal, the day before, the way it was always done. Vinegar in front in the red halter with the bells. Six of the caravan's lead mules behind her. Zan at Vinegar's head with one hand on the halter rope, and Lio walking behind, and both families walking behind Lio, keeping well apart.
+The caravan had come in at the west gate after dark, forty animals and a dozen people and a lot of noise. In the morning, with half of Ninewell up on the walls, Zan took the blessing string out to walk the way: a rehearsal, the day before, the way it was always done. Vinegar in front in the red halter with the bells. Six of the caravan's lead mules behind her. Zan at Vinegar's head with one hand on the halter rope, and Lio walking behind, and both families walking behind Lio, keeping well apart.
 
 They went out of the west gate and along the old road to the fall, and turned up onto the goat track.
 
@@ -178,7 +178,7 @@ He could have walked it first, the way he'd walked the plank. He thought about i
 
 It wasn't loud. But both families heard it, and so did Lio, and so did the six mules, and so, possibly, did Vinegar, who turned her head and looked at Zan as if she'd been waiting for him to say it.
 
-He turned her round. It took a while on a track that narrow, and the mules had to be backed down singly, and nobody spoke the whole way.
+He turned her round. It took a while on a track that narrow, and the mules had to be backed down singly, and the bells on the red halter didn't ring once.
 
 ---
 
@@ -193,8 +193,6 @@ By nightfall the whole town knew. The blessing couldn't go by the goat track. Th
 The clerk cleared his throat. He'd been reading the letter again. He'd clearly been reading it all day.
 
 "If there's no blessing," he said, "there's no road in use at the blessing. And if there's no road in use at the blessing, there's no road of record." He swallowed. "And then there's no toll share for anybody. Not the gate. Not the tower. Not this season."
-
-That went round the room very slowly.
 
 For a moment the room just took it in. Then somebody at the back said, "So we dig," and somebody else said, "In one night?", and everybody started talking at once.
 
@@ -220,7 +218,7 @@ They dug all night.
 
 They dug by lantern, the whole town, at the bottom edge of the fall where the old road went under the scree. They weren't trying to shift the hill. They didn't need the whole road, just a way through: a cut a mule wide, along the line of the old road, through the loose stuff on top. Lio walked the line first with a lantern and showed them where it ran, because he'd been guiding roads since he was a boy and could see a buried one the way Zan could see a lame leg. The caravan's mules were brought down and set to hauling, with drags and ropes, and Zan worked them, and that part of the night suited him fine.
 
-The Jaskes dug on the left side of the cut and the Merrows dug on the right. They didn't speak to each other. They didn't need to. Every time a Jaske stopped to straighten their back, a Merrow saw it and dug faster, and every time a Merrow stopped, a Jaske did the same, and by about the middle of the night the two families were going at the scree like it had personally insulted their great-grandmothers, and the cut was going forward faster than anybody had thought it could.
+The Jaskes dug on the left side of the cut and the Merrows dug on the right. They didn't speak to each other. They didn't need to. Every time a Jaske stopped to straighten their back, a Merrow saw it and dug faster, and every time a Merrow stopped, a Jaske did the same, and by about the middle of the night the two families were going at the scree as though it was the other family, and the cut was going forward faster than anybody had thought it could.
 
 Nobody got hurt. It was slow, careful work, and Lio made them stop and shore up twice where the loose stuff wanted to come down again, and once Granny Jaske had to be sat on an upturned bucket and given tea because she wouldn't stop on her own.
 
@@ -236,7 +234,7 @@ Vinegar went in front in the red halter with the bells. Zan went at her head. Th
 
 The keeper blessed them. She blessed the animals and the people and the road, and then, because it was there and she was a thorough woman, she blessed the scree as well.
 
-The tower stayed where it was, up on the goat track, with its worn lintel and its doorway and whoever's name it was. The road of record was the old road. The toll stayed at the gate. The Jaskes and the Merrows announced, separately and at great length, that they would be taking the matter of the tower to the arbiters on the plateau, and then they spent the whole walk back to town arguing about which family should pay the clerk to write it up.
+The tower stayed where it was, up on the goat track, with its worn lintel and its doorway and whoever's name it was. The road of record was the old road. The toll stayed at the gate. The Jaskes and the Merrows each let it be known, louder than the other, that they would be taking the matter of the tower to the arbiters on the plateau, and then they spent the whole walk back to town arguing about which family should pay the clerk to write it up.
 
 Zan put Vinegar in her stall and gave her an apple, which she took as no more than her due. He hung the red halter on its peg. He looked at the pie and the bottle on the shelf in the tack room, still side by side.
 
@@ -245,3 +243,5 @@ From down the street, in the inn, he could hear both families. They'd reached th
 Zan stood in the yard for a minute.
 
 Then he took the pie under one arm and the bottle in his other hand, and went out of the yard gate, and down the street to the inn, and in. He found a place on the bench between a Jaske and a Merrow, and he set the pie and the bottle down between them, and sat.
+
+"So," he said to Granny Jaske. "What was she like?"

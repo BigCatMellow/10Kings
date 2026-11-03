@@ -88,9 +88,9 @@ It went round the room like a draft under a door. The old hands sitting with Nad
 
 "Greenvale's not buying," somebody said, to nobody, into the gap. "That's what it is. Half the farm villages over there have stopped taking tools. Some kind of boycott. That's why the orders went."
 
-"And Slatehallow's hiring," said the young man by the door. "Up the valley. Full pay. Some patron or other."
+"And the Slatehallow lad's hiring," said the young man by the door. "Up the valley. Full pay. Some patron or other."
 
-"Then go and work for Slatehallow," said Nadia, "and see how long that lasts."
+"Then go and work for the Slatehallow lad," said Nadia, "and see how long that lasts."
 
 Kettie went home before the end, because she had to be up at three, and lay in bed with her eyes open thinking about twelve carters on the slag road with nothing but what they'd brought with them, and about her box.
 
@@ -140,7 +140,7 @@ The pie sat on the counter. After a while Kettie sold it to somebody else.
 
 ---
 
-On the fourth day a young woman turned up at the stall in a road-dusty coat with a smith's leather apron rolled under one arm, and asked for a pie and directions, in that order.
+On the fourth day a young woman turned up at the stall in a road-dusty coat with a bladesmith's leather apron rolled under one arm, and asked for a pie and directions, in that order.
 
 "I've come to see the pour," she said. She had a Stonefield way of talking, quick and flat. "I'm Kerra. Kerra Dunnock. I passed my mastership at Forge Reawakening." She said it as if it still surprised her. "They said at home there was nothing like the great pour at Coalglen. So I came."
 
@@ -162,7 +162,7 @@ Kerra kept her eye to the crack and didn't move.
 
 "Rollers. For a mill somewhere. Half the valley's winter's in that sand."
 
-Kerra stepped back from the crack. She looked at Kettie, and then at the gate, and then at the chalkboard, which she could see from there, with its fifty-eight names going down the side and along the bottom.
+Kerra stepped back from the crack. Her eyes went from Kettie to the gate to the chalkboard, which she could see from there, with its fifty-eight names going down the side and along the bottom.
 
 "At home," she said, "in the spring, there was talk like that. Short hours. Everybody saying strike."
 
@@ -182,7 +182,7 @@ On the fifth night she baked alone.
 
 She always did, the night before the pour. She'd bake for the long table, a pie for every one of the forty pour crew and a few over, and she'd bake them in the dark of the kitchen behind her stall with the oven door open and the whole room ticking with heat.
 
-But this year she was baking for the list as well. Fifty-eight walkout pies, plus Bosk's wife. Because tomorrow at the long table the crew wasn't going to eat, and the casting was going to be sand, and then there'd be a picket line at the gate by noon, and fifty-eight people standing on it hungry, and Kettie Sowerby had never in her life let fifty-eight people stand anywhere hungry.
+But this year she was baking for the list as well. Fifty-eight walkout pies. Because tomorrow at the long table the crew wasn't going to eat, and the casting was going to be sand, and then there'd be a picket line at the gate by noon, and fifty-eight people standing on it hungry, and Kettie Sowerby had never in her life let fifty-eight people stand anywhere hungry.
 
 So she baked. Meat and root, onion, a bit of the good lard. The kitchen filled up with it. She put a tray in, and took a tray out, and put the next tray in. At some point she stopped thinking and just baked, the way you do when your hands know the job better than your head. The oven ticked. The street outside went quiet, and then went quieter, and then it was just her, and the pies, and the heat, and the smell.
 
@@ -198,31 +198,29 @@ Then she got the big baskets down off the hooks.
 
 ---
 
-The carters were sitting round three small fires on the slag road with their teams picketed behind them, and when Kettie came down the road with two baskets on each arm, they all stood up at once, the way men stand up when they think they're about to be told to move on.
+The carters were sitting round three small fires on the slag road with their teams picketed behind them, and when Kettie came down the road with two baskets on each arm, they all stood up at once, like men expecting to be told to move on.
 
 "I've got pies," she said. "They're getting cold."
 
 They looked at her, and then round at one another.
 
-"We've got no money for pies," said the eldest of them. He was a gray, square man with a carter's shoulders and a split lip, healing.
+"We've got no money for pies," said the eldest of them. He was a gray, square man with a carter's shoulders and a face that had stopped expecting anything.
 
 "I didn't ask for money. I asked if you wanted them."
 
 He looked at the baskets. Kettie had covered them with cloths but the smell was coming out round the edges, and she watched the smell get to him, and to all of them.
 
-"Somebody threw a stone at us yesterday," he said. "On the road in. From behind a wall." He touched the split lip. "Called us scabs."
+"The day we came in," he said, "somebody chucked a stone at the lead cart from behind a wall. Missed. Called us scabs. We've been called scabs every day since."
 
 "Well," said Kettie, "I'm not throwing pies at you. Sit down."
 
-They sat down. She handed round the pies. The carters ate the way men eat who've had nothing hot in three days: fast, and then slower, and then very slowly, as if they'd just remembered what food was for. The eldest one was called Embry, and he ate two, and somewhere in the second one he started talking.
+They sat down. She handed round the pies. The carters ate like men who've had nothing hot in five days: fast, and then slower, and then very slowly, as if they'd just remembered what food was for. The eldest one was called Embry, and he ate two, and somewhere in the second one he started talking.
 
-They were from the low valleys, south. Their own works had gone on short hours in the spring, same as here. There was no hauling to be had at home because nobody was buying anything to haul. Then a man had come down with a contract: twelve teams, to Coalglen, for Foundry Week, hauling charcoal. The charcoal carts from the forest border had been short all summer, he'd said, something about the roads, something about a quarrel over cutting rights, and the foundry would pay well for anybody who'd fetch it.
+They were from the low valleys, south. Their own works had gone on short hours in the spring, same as here. There was no hauling to be had at home because nobody was buying anything to haul. Then a man had come down with a contract: twelve teams, to Coalglen, for Foundry Week, hauling charcoal. The charcoal carts from the forest border had been short all summer, he'd said, something about the roads, and the foundry would pay well for anybody who'd fetch it.
 
 "Charcoal," said Kettie.
 
-"Charcoal," said Embry. "Nobody told us your crews were talking walkout. Nobody told us anything. We came up the road and they threw stones at us." He looked into the fire. "I've got a crew at home, missus. Same as yours. Same short hours. I'd not take another man's place. I'd not know how. I've never poured iron in my life."
-
-Kettie had come down the road with a speech worked out. She found she didn't need it.
+"Charcoal," said Embry. "Nobody told us your crews were talking walkout. Nobody told us anything. We came up the road and got called names for it." He looked into the fire. "I've got a crew at home, missus. Same as yours. Same short hours. I'd not take another man's place. I'd not know how. I've never poured iron in my life."
 
 She stood up.
 
@@ -250,9 +248,9 @@ Bosk Ferrin stood up. He stood up so fast his end of the bench went over, and th
 
 "Whose places were you promised?" he said, straight across the table at Embry. "Go on. Whose? Mine? His?"
 
-And Embry, who'd had a stone in the mouth for his trouble two days before, and three days of nothing hot, and no reason in the world to be polite, said it straight back.
+And Embry, who'd been called a scab every day for five days, and had five days of nothing hot, and no reason in the world to be polite, said it straight back.
 
-"Nobody's. We were hired to haul charcoal, you great ox, because your charcoal carts have been short all summer. Ask your foreman. Ask anybody who's looked. We're on short hours where we come from, the same as you, and we've been called scabs for two days by men who wouldn't come near enough to ask us a single question." He leaned on the table. "Well, you're near enough now. Ask."
+"Nobody's. We were hired to haul charcoal, you great ox, because your charcoal carts have been short all summer. Ask your foreman. Ask anybody who's looked. We're on short hours where we come from, the same as you, and we've been called scabs all week by men who wouldn't come near enough to ask us a single question." He leaned on the table. "Well, you're near enough now. Ask."
 
 Bosk asked.
 
@@ -262,13 +260,13 @@ Partway through, Foreman Lusk came out of the gate to see what the noise was, an
 
 And through all of it the pies sat on the table between them. Kettie had put them down. Forty for the crew and twelve more for the carters. She just kept putting them down.
 
-By the time the sun was properly up, the shouting had run out. It had run out the way shouting does when there's nothing left at the bottom of it but tiredness. The carters were still down at their end. The crew was still at theirs. Nobody had said sorry. Nobody looked like they were going to.
+By the time the sun was properly up, the shouting had run out. The carters were still down at their end. The crew was still at theirs. Nobody had said sorry. Nobody looked like they were going to.
 
 But nobody thought the carters were there to pour, either. Not anymore.
 
 Bosk was standing at his place with his fists on the table. In front of him was a pie.
 
-Everybody at that table knew what it meant. If the pour crew didn't eat, the pour crew didn't pour. If Bosk didn't eat, there were twenty men down that table who wouldn't either. It wasn't about carters anymore. It was just the walkout, the one they'd talked about all spring, and whether this was the morning for it.
+If Bosk didn't eat, there were twenty men down that table who wouldn't either.
 
 Kettie stood behind him with the empty basket.
 
@@ -286,7 +284,7 @@ Then he sat down, and picked it up, and ate it.
 
 The great pour went at noon.
 
-Kettie wasn't there to see it, because nobody but the crew was ever there to see it. But she heard it. The whole valley heard it: the roar when they opened the furnace, and the bell, and then the long hiss as forty ladles and the long channel all went at once, and then a silence that went on so long she thought something had gone wrong, and then the crew cheering, and the cheer going out through the gate and along the rows and into the town.
+Kettie saw what she could of it through the crack in the wall, with Kerra Dunnock's elbow in her ribs. Mostly she heard it. The whole valley heard it: the roar when they opened the furnace, and the bell, and then the long hiss as forty ladles and the long channel all went at once, and then a silence that went on so long she thought something had gone wrong, and then the crew cheering, and the cheer going out through the gate and along the rows and into the town.
 
 They broke the sand at dusk. The casting came out of it whole. Nadia Pryor walked round it twice with a lamp and a hammer, tapping, listening, and then she put the hammer down and said, "That'll do," which from Nadia was as good as a song.
 
@@ -306,10 +304,10 @@ He looked at her. Then he looked down the street at the owners' house, at the en
 
 "Then you'll want it."
 
-He took it. He carried it off in both arms like a child, and went off up the street.
+He took it in both arms like a child and carried it up the street.
 
-Kettie got her cloth and went to the chalkboard. Fifty-eight names down the side and along the bottom, and Bosk's wife. She wiped them off, all of them, until the board was black and empty.
+Kettie got her cloth and went to the chalkboard. Fifty-eight names down the side and along the bottom. She wiped them off, all of them, until the board was black and empty.
 
 Then she picked up the chalk.
 
-*Walkout pies*, she wrote. *Morning after the Week. Bosk Ferrin. Sixty.*
+*Walkout pies*, she wrote. *Morning after the Week. Bosk Ferrin. All of them.*

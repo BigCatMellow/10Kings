@@ -24,15 +24,17 @@ He moved it. "It was fine."
 
 "It's fine now." She leaned her weight in. Thirty-one rungs on the long ladders, twenty-six on the short. This was a short. "Rung. Top. Hold."
 
+Yusa looked up at him once, as she always did, and the whole yard tipped sideways, and she put her eyes back on her own two hands on the stiles. She always did that too.
+
 He held. He hung there at the top of the practice ladder with his arm up as if there was a lamp to light, and his knee made the noise it had been making since the start of the cold season, and he pretended it hadn't.
 
-All round the yard the other lighters were doing the same. Forty-four lighters in Vasselin, eleven rounds, a long ladder and a short to each round, racked along the back wall with the round's mark burned into the side. Yusa knew them all. She knew the lamps too. Two hundred and six on the eastern round alone, if you counted the three at the bathhouse that hadn't been lit since the cistern dropped, which she did, because they were still lamps.
+All round the yard the other lighters were doing the same. Forty-four lighters in Vasselin, eleven rounds, a long ladder and a short to every lighter, racked along the back wall with the round's mark burned into the side, and the longest ladder in the yard, forty rungs, kept by itself for the great lamp. Yusa knew them all. She knew the lamps too. Two hundred and six on the eastern round alone, if you counted the three at the bathhouse that hadn't been lit since the cistern dropped, which she did, because they were still lamps.
 
 What nobody in the yard was doing was saying the word. Not today. Not on any day until the first lamp of the night had taken. You could say *lamp*, you could say *oil*, you could say *wick* and *flame* if you were careful how you said them, but you didn't say the other word before it was earned. Old Fesse on the market round had said it once, out loud, years ago, before the first lamp, and that very night he'd fallen off a ladder in the spice lane and broken his wrist. Everyone knew that story. Yusa had heard it about four hundred times.
 
 "All right," said Qadir Lemm.
 
-He'd come out of the guild room with a paper in his hand, and the yard went quiet. Qadir was master of the lighters' guild and looked it: tall, gray in the beard, with a way of standing that made people straighten up near him without knowing they were doing it. He wasn't a showy man. He just didn't do anything by halves.
+He'd come out of the guild room with a paper in his hand, and the yard went quiet. Qadir was master of the lighters' guild and looked it: tall, gray in the beard, with a way of standing that made people straighten up near him without knowing they were doing it. 
 
 "You've all heard," he said. "I'll say it once so it's said. The assembly's taken the cities' new standard. Two to a ladder. One climbs, one foots. After what happened in the south, I don't argue with that. A man died." He looked round the yard. "But the assembly pays one wage a ladder. It's always paid one. It's paying one this year, and it's cut the oil because the store's low, and it's asked us to keep the standard on top of that." He folded the paper. "So we've told the warden. Pay for the second man, or we stand down for the Lanterns."
 
@@ -40,7 +42,7 @@ The yard stayed quiet.
 
 "Three days," Qadir said. "They've got three days."
 
-"The Nazar rule," somebody muttered behind Yusa. "That diplomat's always on a barge somewhere, agreeing things."
+"The Nazar rule," somebody muttered behind Yusa.
 
 "Fine thing to agree," somebody else said. "When you're not the one paying."
 
@@ -58,13 +60,13 @@ Rafiq Daunt was a narrow man in a beautiful coat. He stood two steps up, which w
 
 "Then pay for the second man," said Qadir.
 
-"The assembly is deeply conscious of the second man." Rafiq inclined his head. "The assembly has every confidence that the guild, which has lit this city since before the walls, will find a way to honor the standard it so wisely supports."
+"The assembly is deeply conscious of the second man." Rafiq inclined his head. "The assembly has every confidence that the guild, which has lit this city since before the walls," (six lighters flinched; the warden, who wasn't one, didn't notice) "will find a way to honor the standard it so wisely supports."
 
 "With what?"
 
 "With the resourcefulness for which the guild is famous."
 
-Qadir didn't move. "The guild is famous," he said, in a voice like a door shutting, "for not falling off ladders. It would like to stay famous for that. The guild has every confidence that the assembly, which agreed the standard so quickly, will find the money to keep it just as quickly."
+Qadir didn't move. "The guild is famous," he said, flatly, "for not falling off ladders. It would like to stay famous for that. The guild has every confidence that the assembly, which agreed the standard so quickly, will find the money to keep it just as quickly."
 
 "The assembly's resources are, regrettably, not what the guild's admiration might suppose."
 
@@ -86,7 +88,7 @@ They ate on the roof that night, because her mother had gone to her sister's for
 
 Flatbread and oil, a bowl of the soft cheese, and a clay pot of chickpeas and lamb that Dov had put in the bread oven at the corner that morning and carried home under his coat. He was proud of it. It had too much cumin and he was proud of that too. They sat on the low wall with the pot between them and ate with their fingers and the bread, and below them the eastern round went dark, lane by lane, as the evening came down.
 
-Not dark-dark. There were windows, a few. Somebody's household lantern already in a courtyard, practicing. But the lamps up on the walls on their iron arms stayed black. Two hundred and six of them on this round, give or take the bathhouse three, and she could have pointed to every one.
+Not truly dark. There were windows, a few. Somebody's household lantern already in a courtyard, practicing. But the lamps up on the walls on their iron arms stayed black. Two hundred and six of them on this round, give or take the bathhouse three, and she could have pointed to every one.
 
 For a good while neither of them bothered to talk. The cumin was doing most of it.
 
@@ -94,7 +96,7 @@ For a good while neither of them bothered to talk. The cumin was doing most of i
 
 "My knee's fine."
 
-"Your knee's been making that noise since the first frost."
+"Your knee's been making that noise since the cold came in."
 
 "It's a knee. It makes noises." He tore a piece of bread in half and didn't eat either half. "It'll do the round."
 
@@ -156,7 +158,7 @@ The other rounds took the rest of that day and most of the next. People were out
 
 And then there was the oil.
 
-Even with a deal, the store was short. Yusa had seen the city's book: the lamp oil was down by a third, because every household that could afford it had been buying oil all autumn and putting it away against the drought, and the merchants had sold the city what was left at a price the assembly wouldn't pay. Which meant that even if every footer in Vasselin were paid in gold, a third of the lamps would stay dark.
+Even with a deal, the store was short. Yusa had seen the city's book: the lamp oil was down by a third, because every household that could afford it had been buying oil all autumn and putting it away against the drought, and the merchants had offered the city what was left at a price the assembly wouldn't pay. Which meant that even if every footer in Vasselin were paid in gold, a third of the lamps would stay dark.
 
 Unless somebody sold.
 
@@ -228,7 +230,9 @@ There was a pause on the assembly steps.
 
 "She'd rather be paid," said Yusa.
 
-"She will be both," said the warden, and for the first time in three days he very nearly smiled.
+"She will be both," said the warden, and very nearly smiled.
+
+Qadir Lemm inclined his head, exactly as far as the warden had, and not a hair further. "The guild is honored to accept the assembly's gift on behalf of its footers," he said. "The guild will be on its ladders at sundown."
 
 ---
 
@@ -238,15 +242,15 @@ The first lamp took at sundown, on the market round, and somebody shouted it acr
 
 "*Light holds!*"
 
-It went round from round to round, lighter to lighter, a shout on every roof. Yusa footed her father down the eastern round with her count going under her breath. Lamp one, by the bathhouse gate. "*Light holds!*" Lamp two. Lamp three. The courtyards were full of household lanterns coming out, paper and brass and glass, children carrying them on sticks, grandmothers carrying them in both hands as if they might spill. Every time the ladder went up, people stopped to watch, and every time her father called it, they cheered, a bit, the way people cheer when they've had a cup of something.
+It went round from round to round, lighter to lighter, a shout on every roof. Yusa footed her father down the eastern round with her count going under her breath, his lamps and the other seven ladders' too, as the calls came down the lanes. Lamp one, by the bathhouse gate. "*Light holds!*" Lamp two. Lamp three. The courtyards were full of household lanterns coming out, paper and brass and glass, children carrying them on sticks, grandmothers carrying them in both hands as if they might spill. Every time the ladder went up, people stopped to watch, and every time her father called it, they cheered, a bit, the way people cheer when they've had a cup of something.
 
-Lamp sixty. Lamp sixty-one. She talked him up every ladder. *Rung. Rung. Left foot.* He let her. Lamp a hundred and twelve, outside the bakery, where the baker came out and gave them each a hot roll without saying a thing about it. Lamp a hundred and ninety. The three at the bathhouse, which she counted, and which had oil in them again, the first since the cistern dropped, because Zeyna had insisted on it.
+Lamp sixty. Lamp sixty-one. She talked him up every ladder. *Rung. Rung. Left foot.* He let her. Lamp a hundred and twelve, outside the bakery, where the baker came out and gave them each a hot roll without saying a thing about it. Lamp a hundred and ninety. Later they'd hear that in one of the other cities in the talks the lamps stayed dark all night. Not here. The three at the bathhouse, which she counted, and which had oil in them again, the first since the cistern dropped, because Zeyna had insisted on it.
 
 Two hundred and six.
 
 By the time they got to the cistern square the whole city was lit except the one lamp that mattered most, and everyone in Vasselin who could walk had come to the square to see it done.
 
-The great lamp hung over the assembly steps on its iron arm, forty rungs up a bare wall. The long ladder was waiting for it, set and footed, by the lighters who'd brought it. Her father looked at the ladder, and then at his knee, and then at Yusa.
+The great lamp hung over the assembly steps on its iron arm, forty rungs up a bare wall. The longest ladder was waiting for it, set and footed, by the lighters who'd brought it. Her father looked at the ladder, and then at his knee, and then at Yusa.
 
 "No," he said. "Not this year. I'll be halfway up and it'll go."
 
@@ -258,7 +262,7 @@ Then, slowly, people started looking at Yusa. It came at her like heat off an ov
 
 Somebody laughed, uncertainly.
 
-"No," she said again. Her face was hot. "I've never climbed. I'm not starting forty rungs up in front of everyone." She heard herself, and for once she didn't say the rest of it. She didn't say footing was the real job. She just stood there.
+"No," she said again. Her face was hot. "I've never climbed. I'm not starting forty rungs up in front of everyone." She heard herself, and didn't say the rest of it. She didn't say footing was the real job. She just stood there.
 
 Nobody moved. The lamp hung dark.
 
@@ -296,7 +300,7 @@ He went. Twenty-five. Thirty. She talked him up each one, the way she'd talked h
 
 He held. He got the can off his belt somehow, and the taper, and he reached out over the drop to the great lamp, and his hand shook, and the wick caught.
 
-It caught, and took, and the great lamp of Vasselin came up gold over the assembly steps, and the whole square let its breath out at once.
+It caught, and took, and the great lamp of Vasselin came up gold over the assembly steps, and the whole square let its breath out at once. Below it, all down the lanes, the household lanterns were moving.
 
 By custom the lighter calls it. Rafiq Daunt was hanging on to the top of a forty-rung ladder with both arms and his eyes shut and wasn't calling anything.
 

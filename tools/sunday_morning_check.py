@@ -40,7 +40,7 @@ ALLOW = {
 LINKED = ["commons", "press yard", "stern rail", "carrier would find", "reply left with",
           "blight took", "caravans since", "route book", "traveling coat", "first caravan",
           "cooked for the caravans",
-          "convoy next season", "coves it", "waters were clean",
+          "convoy next season", "coves it", "waters were clean", "sail with in convoy", "said coves whose",
           "buying-up of farms", "buying up of farms", "of farms all along"]  # C7: the reform statement  # C8: Maris's letter, quoted on purpose
 
 STOP = set("""a an the and or but of to in on at by for with from as is was were be been
