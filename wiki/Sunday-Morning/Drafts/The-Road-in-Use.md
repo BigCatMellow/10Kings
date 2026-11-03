@@ -60,7 +60,7 @@ It had come in the spring, between Pass Opening and now, a long low rumble in th
 
 The way round was a goat track, up and along the hillside above the fall. And on the goat track, where the slip had torn away a skin of earth and scrub, there was a tower.
 
-Nobody had known it was there. It was a stump of a thing, a ring of dressed stone about twice a man's height, with a doorway and over the doorway a name, cut into the lintel, worn so nearly smooth you could only see it with the light coming across it sideways. It had been a toll tower. You could tell from where it stood: right where the old track would have narrowed, where anyone going along the saddle would have had to pass it one at a time.
+Nobody had known it was there. It was a stump of a thing, a ring of dressed stone about twice a man's height, with a doorway and over the doorway a name, cut into the lintel, worn so nearly smooth you could only see it with the light coming across it sideways. It had been a toll tower. You could tell from where it stood: right where the old track would have narrowed, where anyone going along the saddle would have had to pass it single file.
 
 "Ours," said Granny Jaske, from the front.
 
@@ -244,4 +244,4 @@ From down the street, in the inn, he could hear both families. They'd reached th
 
 Zan stood in the yard for a minute.
 
-Then he took the pie under one arm and the bottle in his other hand, and went out of the yard gate, and down the street to the inn, and in. He found a place on the bench between a Jaske and a Merrow, and he put the pie and the bottle on the table in front of them, and sat down.
+Then he took the pie under one arm and the bottle in his other hand, and went out of the yard gate, and down the street to the inn, and in. He found a place on the bench between a Jaske and a Merrow, and he set the pie and the bottle down between them, and sat.
