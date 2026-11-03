@@ -151,11 +151,11 @@ The collection's variety lives here. A new story should differ from its neighbor
 | 6 | Inspected | drafted stranger (Wurdren) | a judgment, a blockade | people: a message carried, a walk to the ditch | wistful, self-deflating | the smith's one-word verdict | Nell's gate, "very nearly right" |
 | 7 | Heavy Scale | visiting inspector | a fair-play mystery | a physical object in the thaw | comic procedural, kind | "Eleven stone." | bookend: "Ten stone. True to a hair." |
 | 8 | First Fish *(new)* | craft-keeper who won't bargain | a custom against a moved run | a swap (fish for fires) | quiet two-hander | a cold smokehouse at the end of spring | Edda finishes Kirsa's saying, holding the first fish |
-| 9 | Road in Use *(new)* | animal man who avoids people | a road of record before a ceremony | an animal (the pony won't take the edge) | ensemble road comedy | a lot drawn in the yard | Zan sits down at the inn between the two families |
+| 9 | Road in Use *(new)* | animal man who avoids people | a road of record before a ceremony | an animal (the pony won't take the edge) | ensemble road comedy | a lot drawn in the yard | Zan, at the inn between the families: "What was she like?" |
 | 10 | Tree | two professionals (romance) | a lien blocks a path | a clause read in two languages | light romance | the market master's plan | "I'd hope so." |
 | 11 | Walkout Pies *(new)* | outsider to the dispute who meddles | timing of a walkout | a meal that forces a row (the carters at the long table) | warm labor comedy | a chalkboard of walkout orders | one order on a wiped chalkboard |
 | 12 | Mushrooms *(new)* | stranger who is the expert in her own work | a market with no line for her | a choice (a named stall) | wry fish-out-of-water | daylight at the top of a stair | stars, hat in hand, one last look up |
-| 13 | Blank Square *(new)* | carrier who can't read | a gap tempting people to fill it | an absence (a blank square) | quiet, contemplative | a river up at the ford | "That one's mine. I saw it go." |
+| 13 | Blank Square *(new)* | carrier who can't read | a gap tempting people to fill it | an absence (a blank square) | quiet, contemplative | a river up at the ford | "I saw it go. That's what's in it." |
 | 14 | Three Pots | family member who doesn't cook | inheritance, a permit deadline | memory: three fragments of one ritual | tender family | the grandmother's announcement | "Again next year." |
 
 Rows marked *new* are the seven stories added on 2026-11-02, now drafted (first pass); each row follows its draft.

@@ -204,3 +204,10 @@ reconsider if     the supper starts to connect crises; anyone describes the lett
 ### Stage 2b — Independent plan check
 
 2026-11-03. A fresh reviewer that didn't write the plans checked all seven against the primary records and the existing drafts. Passed with fixes. The whole Twilighthollow book is unreadable, not half, because the Tree draft shows the elder recorded the letter (C11). C7's wording now matches. The custom's footing is a witness's own account, so the border exchange and the refusals agree with it. Gideon's rumors are kept off the letter, and the ink runs only while wet, away from the relic pattern. Naruin's name is off the statement. Ruan's arc changed: from "I only carry" to being the witness for the loss, asked quietly, not admitted in public.
+
+### Stage 3 — DO
+
+Drafted 2026-11-03 after bt 7274 approved the test story ([D17](../Notes/Decisions.md#the-authors-decisions)): [read the draft](../Drafts/The-Blank-Square.md). Spoken register from the first pass. Every plan item, C7 and C11 kept. The whole witness book is unreadable, and no rumor mentions a letter, buyer, paper or phrase. The argument over signing moves to the first night; the supper on day 2 is the faiths' comparison.
+
+- **Fresh check (2026-11-03).** Two cold readers who didn't write the drafts read three each, then checked them against the plans, the notes and the stories at the other end of each link. **Verdict: pass with small fixes**, now made. Each draft's Status header lists the lines in the cautious categories for bt 7274. Across the set, the readers flagged one shared arc: a quiet craftsperson with a one-line credo who breaks it by saying one plain thing in public. That's a taste call left for bt 7274.
+

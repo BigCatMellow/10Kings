@@ -75,7 +75,7 @@ The night of digging, by lantern. Zan has to say one thing in public, to both fa
 
 ## Soft landing
 
-Morning. The string walks the old road to the shrine with Vinegar in front, and the keeper blesses it. The tower claim stays open; the two families will take it to arbitration on the plateau, and they argue about who'll pay the clerk all the way back to town. The stair-hut stays shut. (The story's meal is earlier, at the shut stair-hut with Lio: [plateau](../../Culture/Recipes/Highridge-Plateau.md) caravan fare from the market.) The final beat is Zan leaving the yard on his own, unasked, and going to the inn where both families are arguing, to sit down with them.
+Morning. The string walks the old road to the shrine with Vinegar in front, and the keeper blesses it. The tower claim stays open; the two families will take it to arbitration on the plateau, and they argue about who'll pay the clerk all the way back to town. The stair-hut stays shut. (The story's meal is earlier, at the shut stair-hut with Lio: [plateau](../../Culture/Recipes/Highridge-Plateau.md) caravan fare from the market.) The final beat is Zan leaving the yard on his own, unasked, going to the inn where both families are arguing, sitting down between them, and asking Granny Jaske what her great-grandmother was like. A question, not a gift: The First Fish, just before, ends on one.
 
 ## World anchors
 
@@ -204,3 +204,10 @@ reconsider if     Vinegar reads as a coincidence; the night's work reads as harm
 ### Stage 2b — Independent plan check
 
 2026-11-03. A fresh reviewer that didn't write the plans checked all seven against the primary records and the existing drafts. Passed with fixes. The tower's name is an old carving worn past reading, not Old Spine letters: Old Spine survives only in place names and scripts are open. Lio is newly married, because The Goat File draft sets the wedding for the spring. The families now dig because the letter cuts both ways: no blessing, no toll share for anyone. The broker sends word he's alive (C12). The last beat changed, because "someone comes to find him" was close to The Greenvale Man's barrel.
+
+### Stage 3 — DO
+
+Drafted 2026-11-03 after bt 7274 approved the test story ([D17](../Notes/Decisions.md#the-authors-decisions)): [read the draft](../Drafts/The-Road-in-Use.md). Spoken register from the first pass. Every plan item, C9 and C12 kept. The broker is named, Udo. The pie and the bottle the families brought sit side by side on the tack-room shelf and go to the inn table at the end.
+
+- **Fresh check (2026-11-03).** Two cold readers who didn't write the drafts read three each, then checked them against the plans, the notes and the stories at the other end of each link. **Verdict: pass with small fixes**, now made. Each draft's Status header lists the lines in the cautious categories for bt 7274. Across the set, the readers flagged one shared arc: a quiet craftsperson with a one-line credo who breaks it by saying one plain thing in public. That's a taste call left for bt 7274.
+

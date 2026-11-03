@@ -66,11 +66,11 @@ Recognition for people whose work travels through networks nobody sees. Being se
 
 ## Solution
 
-A choice. The mark rule has one old exception: a grower who sells her own goods in person, at a stall in her own name, answers for them herself, and her name is the mark. Fitch's way is easier, and it means never having to say where she's from. Xenna turns him down, takes a stall, chalks her own name and Underwell's on its board, and stands behind it for two days answering questions. Nothing about the roads. The mushrooms sell as what they are.
+A choice. The mark rule has one old exception: a grower who sells her own goods in person, at a stall in her own name, answers for them herself, and her name is the mark. Fitch's way is easier, and it means never having to say where she's from. Xenna turns him down, takes a stall, cuts her own name and Underwell's into a crate lid, and stands behind it for two days answering questions. Nothing about the roads. The mushrooms sell as what they are.
 
 ## Climax
 
-Fitch's stall on the second evening, where he's waiting with his house's mark and his easy price. She has to tell him no, and then go and chalk a name on a board that everybody passing will read. Ondine has already told anyone who'll listen that these aren't forest mushrooms, they're cellar mushrooms, and better than anything she's seen at a fair this year. That doesn't make the choice for her. It just means someone's on her side when she makes it.
+Fitch's stall on the second evening, where he's waiting with his house's mark and his easy price. She has to tell him no, and then go and cut a name into a crate lid that everybody passing will read. Ondine has already told anyone who'll listen that these aren't forest mushrooms, they're cellar mushrooms, and better than anything she's seen at a fair this year. That doesn't make the choice for her. It just means someone's on her side when she makes it.
 
 ## Soft landing
 
@@ -176,7 +176,7 @@ reconsider if     Galt reads as an obstacle; Ondine solves it; the sky gags crow
 | 3 | A borrowed corner · fair day 1 afternoon | Fitch's offer, cheerful and easy. | the shortcut; the winter at stake | the hat |
 | 4 | The animal yards · fair day 1 evening | She needs a mule for the return. Zan. Supper at the yard fire: his plateau flatbread, and a handful of her mushrooms fried on his pan, the first time she's eaten her own crop under the sky. The moment where nothing happens: two people who don't talk on a fence, her first sunset since she was a girl. | the meal; the friendship; the sky | the sky |
 | 5 | The fair road · fair day 2 | Ondine sniffs, tastes and vouches: not forest, cellar, and good. The blight question, asked by a fairgoer. | the expert's word; the blight unknown | — |
-| 6 | Fitch's stall, then her own · fair day 2 evening | The choice. She turns Fitch down and chalks her name and Underwell's on a stall board. | the climax | "below" becomes a name |
+| 6 | Fitch's stall, then her own · fair day 2 evening | The choice. She turns Fitch down and cuts her name and Underwell's into a crate lid. Not a chalkboard: Walkout Pies, just before, ends on one. | the climax | "below" becomes a name |
 | 7 | The fair road · fair day 3 | She sells out under her own name. | local outcome | the hat off |
 | 8 | The stair-head · fair day 3 evening | Mules, oil and grain. One last look up. | soft landing | the sky |
 
@@ -199,3 +199,10 @@ reconsider if     Galt reads as an obstacle; Ondine solves it; the sky gags crow
 ### Stage 2b — Independent plan check
 
 2026-11-03. A fresh reviewer that didn't write the plans checked all seven against the primary records and the existing drafts. Passed with fixes. It had no meal; supper at the yard fire is in s4. The fair-book entry was cut: it repeated The Ladder Rules' ledger column and made three stories in a row end on a record and a mark. The resolution is now the mark rule's old exception, a grower selling in person under her own name.
+
+### Stage 3 — DO
+
+Drafted 2026-11-03 after bt 7274 approved the test story ([D17](../Notes/Decisions.md#the-authors-decisions)): [read the draft](../Drafts/The-Mushrooms-From-Nowhere.md). Spoken register from the first pass. Every plan item and C12 kept. Warden Galt knows cellar mushrooms as Udo's sort, so the problem is the rule, not ignorance. The pony in the yards is Vinegar, unnamed here.
+
+- **Fresh check (2026-11-03).** Two cold readers who didn't write the drafts read three each, then checked them against the plans, the notes and the stories at the other end of each link. **Verdict: pass with small fixes**, now made. Each draft's Status header lists the lines in the cautious categories for bt 7274. Across the set, the readers flagged one shared arc: a quiet craftsperson with a one-line credo who breaks it by saying one plain thing in public. That's a taste call left for bt 7274.
+

@@ -199,3 +199,10 @@ reconsider if     the deal needs a ledger to explain; Edda reads as an obstacle;
 ### Stage 2b — Independent plan check
 
 2026-11-03. A fresh reviewer that didn't write the plans checked all seven against the primary records and the existing drafts. Passed with fixes. Maris's lists were marked `VERIFIED` as due this season; The Greenvale Man has them sent in the autumn, so the spring confirmation is now `ASSUMED`. The mothers' old quarrel was cut: it echoed The Goat File's mothers and never paid off. Edda's surname changed from Vorne to Kjeld (Varne/Vorne).
+
+### Stage 3 — DO
+
+Drafted 2026-11-03 after bt 7274 approved the test story ([D17](../Notes/Decisions.md#the-authors-decisions)): [read the draft](../Drafts/The-First-Fish.md). Spoken register from the first pass. Every plan item and C8 kept, the convoy letter's wording matching The Greenvale Man. The smoke-saying is split at the end: Kirsa says one half, Edda the other.
+
+- **Fresh check (2026-11-03).** Two cold readers who didn't write the drafts read three each, then checked them against the plans, the notes and the stories at the other end of each link. **Verdict: pass with small fixes**, now made. Each draft's Status header lists the lines in the cautious categories for bt 7274. Across the set, the readers flagged one shared arc: a quiet craftsperson with a one-line credo who breaks it by saying one plain thing in public. That's a taste call left for bt 7274.
+

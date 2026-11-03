@@ -45,6 +45,7 @@ These were decided while drafting or reorganizing. Each is reversible from the r
 ## Open for the author
 
 - **L4 reading of the seven new drafts** ([D16](#the-authors-decisions), [D17](#the-authors-decisions)). Each has had a fresh cold read; the lines in the cautious categories are listed on each draft's Status header for him to rewrite.
+- **The shared arc** across the new stories, raised by both cold readers: a quiet craftsperson with a one-line credo ("A warden checks and goes", "Footing's the real job", "Smokehouses don't haggle", "I just say yes") breaks it by saying one plain thing in public. The stories differ in engine, register and resolution, but the arc is the same. Lean: keep it in four stories, and on a revision pass give two of them (The Road in Use and Walkout Pies are the easiest) a turn that isn't a public statement. This is a taste call.
 - **Leans taken in the new plans, for bt 7274 to overrule:**
   - C6 stays a pair. A third letter on the ship's-lantern paper, as Walkout Pies' strike money, was set aside ([Walkout Pies](../Stories/Walkout-Pies.md), Stage 1b).
   - Garro Sedgewater doesn't appear a third time, to keep each story linked to at most two others ([The Mushrooms From Nowhere](../Stories/The-Mushrooms-From-Nowhere.md), Stage 1b).

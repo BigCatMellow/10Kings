@@ -204,3 +204,10 @@ reconsider if     the stand-down reads as a villain's strike; the count needs ex
 ### Stage 2b — Independent plan check
 
 2026-11-03. A fresh reviewer that didn't write the plans checked all seven against the primary records and the existing drafts. Passed with fixes. The count now matches footers to lighters, not lamps; the premise no longer says Yusa already knows the number; Rafiq gets a reason he can pay in oil (a festival gift needs no vote). The climax changed: the check found The Eighth Verse and this story had the same arc next to each other (a helper does the feared thing in public with an elder steadying her). Now Yusa won't climb, the warden does, and she foots him up. The guild-ledger column was cut from the landing, because The Mushrooms From Nowhere ended on a ledger entry too.
+
+### Stage 3 — DO
+
+Drafted 2026-11-03 after bt 7274 approved the test story ([D17](../Notes/Decisions.md#the-authors-decisions)): [read the draft](../Drafts/The-Ladder-Rules.md). Spoken register from the first pass. Every plan item and ledger row kept. The banned word gets one joke on the assembly steps (the warden says "lit"; six lighters flinch). The view of the lit city and the dark city heard of secondhand both come just before the final call.
+
+- **Fresh check (2026-11-03).** Two cold readers who didn't write the drafts read three each, then checked them against the plans, the notes and the stories at the other end of each link. **Verdict: pass with small fixes**, now made. Each draft's Status header lists the lines in the cautious categories for bt 7274. Across the set, the readers flagged one shared arc: a quiet craftsperson with a one-line credo who breaks it by saying one plain thing in public. That's a taste call left for bt 7274.
+

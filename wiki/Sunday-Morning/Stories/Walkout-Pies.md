@@ -66,7 +66,7 @@ Feeding people isn't taking a side, and it isn't staying out of it either. Peopl
 
 ## Solution
 
-A meal. On the night before the pour, Kettie has a walkout's worth of pies and nobody to eat them. She takes them to the slag heap and feeds the carters. At dawn she brings the carters to the long table, where the pour crew is sitting down. It isn't a friendly supper. Bosk goes straight at them across the table: whose places were they promised? The carters' headman goes straight back. They were hired to haul charcoal, because the charcoal carts from the forest border have been short all summer. They're on short hours in their own valley. And they've been called scabs for two days by men who wouldn't come near enough to ask. It's a row, loud and long, with pies on the table between them. Nobody hired the carters to break anything, and the rumor dies in the row. The crews don't walk out at the pour, and they don't stop being angry either. They call the walkout for the morning after the Week, with notice, so the owners have to answer before it.
+A meal. On the night before the pour, Kettie has a walkout's worth of pies and nobody to eat them. She takes them to the slag heap and feeds the carters. At dawn she brings the carters to the long table, where the pour crew is sitting down. It isn't a friendly supper. Bosk goes straight at them across the table: whose places were they promised? The carters' headman goes straight back. They were hired to haul charcoal, because the charcoal carts from the forest border have been short all summer. They're on short hours in their own valley. And they've been called scabs all week by men who wouldn't come near enough to ask; the day they came in, somebody threw a stone at the lead cart, and missed. It's a row, loud and long, with pies on the table between them. Nobody hired the carters to break anything, and the rumor dies in the row. The crews don't walk out at the pour, and they don't stop being angry either. They call the walkout for the morning after the Week, with notice, so the owners have to answer before it.
 
 ## Climax
 
@@ -201,3 +201,10 @@ reconsider if     the ending reads as anti-strike; the row turns into a fight; t
 ### Stage 2b — Independent plan check
 
 2026-11-03. A fresh reviewer that didn't write the plans checked all seven against the primary records and the existing drafts. Passed with fixes. The check found the Registry wrong: One Square also kills its rumor over food. Here the meal now only sets up a row across the long table, and the row kills the rumor. The chalkboard is one list, not two columns (Hobb's slate). Lusk's denial is planted, with why nobody believes him. Kettie's surname changed from Gamble to Sowerby (Kemble/Gamble).
+
+### Stage 3 — DO
+
+Drafted 2026-11-03 after bt 7274 approved the test story ([D17](../Notes/Decisions.md#the-authors-decisions)): [read the draft](../Drafts/Walkout-Pies.md). Spoken register from the first pass. Every plan item and C10 kept. The carters' headman is named, Embry. Orin appears only as "the Slatehallow lad", as Inspected has it.
+
+- **Fresh check (2026-11-03).** Two cold readers who didn't write the drafts read three each, then checked them against the plans, the notes and the stories at the other end of each link. **Verdict: pass with small fixes**, now made. Each draft's Status header lists the lines in the cautious categories for bt 7274. Across the set, the readers flagged one shared arc: a quiet craftsperson with a one-line credo who breaks it by saying one plain thing in public. That's a taste call left for bt 7274.
+
