@@ -268,7 +268,7 @@ The first fish came out of the smoke at dusk, gold and stiff and smelling of oak
 
 Kirsa carried it out onto the slip. The crews were there, and the elders, and a lot of Skerrimouth, who'd come over with the carts and stayed. Edda stood at the edge of them, arms crossed tight against the wind.
 
-Kirsa looked down at the fish. Then she went across the shingle and held it out to Edda.
+Kirsa looked down at the fish. Then she crossed the shingle and held it out to Edda.
 
 "Smoke lies down," she said.
 
