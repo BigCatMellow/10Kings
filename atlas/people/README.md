@@ -410,12 +410,12 @@ Grouped by board column.
 | [Rafiq Daunt](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Assembly lamp warden, in The Ladder Rules (planned). |
 | [Zeyna](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Oil-seller's widow, in The Ladder Rules (planned). |
 | [Kirsa Lowe](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Smokehouse keeper, in The First Fish at Snowbreaker Quay (planned). |
-| [Edda Vorne](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Skerrimouth headwoman, in The First Fish at Snowbreaker Quay (planned). |
+| [Edda Kjeld](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Skerrimouth headwoman, in The First Fish at Snowbreaker Quay (planned). |
 | [Zan Coyle](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Mule-wrangler, in The Road in Use (planned). |
 | [Vinegar](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Lead pony, in The Road in Use (planned). |
 | [Jaske](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Family claiming the tower, in The Road in Use (planned). |
 | [Merrow](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Family claiming the tower, in The Road in Use (planned). |
-| [Kettie Gamble](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Pie-maker, in Walkout Pies (planned). |
+| [Kettie Sowerby](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Pie-maker, in Walkout Pies (planned). |
 | [Bosk Ferrin](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Crews' leader, in Walkout Pies (planned). |
 | [Nadia Pryor](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Pour-master, in Walkout Pies (planned). |
 | [Lusk](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Foreman, in Walkout Pies (planned). |
@@ -841,7 +841,7 @@ Grouped by board column.
 - *Note:* A Sunday Morning character: writing reference, not setting canon.
 - *Also on:* [The First Fish](../../wiki/Sunday-Morning/Stories/The-First-Fish.md)
 
-**Edda Vorne**
+**Edda Kjeld**
 
 - *Role:* Skerrimouth headwoman.
 - *Story:* The First Fish at Snowbreaker Quay (supporting cast; planned).
@@ -876,7 +876,7 @@ Grouped by board column.
 - *Note:* A Sunday Morning character: writing reference, not setting canon.
 - *Also on:* [The Road in Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md)
 
-**Kettie Gamble**
+**Kettie Sowerby**
 
 - *Role:* Pie-maker.
 - *Story:* Walkout Pies (protagonist; planned).

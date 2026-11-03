@@ -140,7 +140,7 @@ Connection to keep: the seventh verse's history (4) has to arrive before the doo
 
 | Attack | Result |
 | --- | --- |
-| Isn't singing a verse at someone's door still shaming, even the seventh? | **Narrows.** The seventh verse praises the Kembles' grandmother. It's sung *to* them, as it is every year, so the custom itself is the kindness. |
+| Isn't singing a verse at someone's door still shaming, even the seventh? | **Narrows.** The seventh verse praises a Kemble of long ago; nobody's sure which one, and nobody dates the Blight by it. It's sung *to* them, as it is every year, so the custom itself is the kindness. |
 | Would the Bend really follow Ulla's bad singing? | **Survives.** It's the bad singing that does it: nobody wants to leave her alone out there. |
 | Does Yorick get humiliated? | **Contradicts the tone; fixed.** He's fed and answered in one sentence, and he leaves with his dignity. The "cats" error is laughed at, and he laughs too, eventually. |
 | Is this One Square again (a Greenvale village resisting the buyers)? | **Risk.** One Square solves a scheduling clash and the agent leaves. Here nobody resists the buyers; the village decides how to treat its own. Different engine, register and resolution. |
@@ -163,7 +163,7 @@ reconsider if     the door scene reads as a lecture; Yorick reads as a target; t
 
 | Assumption | Status | Finding |
 | --- | --- | --- |
-| The story touches the ripple chain | `VERIFIED` | Step 8, between One Square's grain collapse (step 4) and Inspected's short hours (step 10). |
+| The story touches the ripple chain | `VERIFIED` | Step 8, between One Square's grain collapse (step 4) and Inspected's fallen tool orders and short hours (steps 9 and 10). |
 | The story may name the Council or the Villain | `ASSUMED` → **false** | "Theft" stays a local claim about local buyers ([Rules](../Notes/Rules.md#what-keeps-it-sunday-morning)). |
 | The outward effect needs a second story to land | `ASSUMED` → **false** | It lands in Inspected's backstory without any change to that draft, and the statement turns up in The Blank Square on a real flow (faith and circle letters). |
 
@@ -177,10 +177,10 @@ reconsider if     the door scene reads as a lecture; Yorick reads as a target; t
 | 2 | Meeting house · dusk | Yorick arrives, frozen, and reads the notice. The meeting half-agrees by not saying no. The round's order is read: the Kembles' door is seventh. | the notice; the statement; that the Kembles sold; the order of doors | — |
 | 3 | Meeting house · dusk | Ulla's copy says "cellar cats". The children take it up. Ulla practices and is terrible. Vessa coaches her in a whisper. | the error; her bad singing; the eighth verse's popularity | "cellar cats" |
 | 4 | Lane and doors one to four · evening | The round. Ulla sings badly at each door, and people are kind about it. She names what's turning in each cellar. Someone shouts for the eighth verse early and is hushed. | the custom working; the mood toward the eighth verse | the nose (comic); "cellar cats" spreading |
-| 5 | Door five · late evening | The moment where nothing happens: Ulla and Vessa on a cellar step, the cups going round inside. Vessa whispers what the seventh verse is about. | the Blight's last year; the Kembles' grandmother; one cellar for the whole Bend | — |
+| 5 | Door five · late evening | The moment where nothing happens: Ulla and Vessa on a cellar step, the cups going round inside. Vessa whispers what the seventh verse is about. | the Blight's last year; a Kemble of long ago; one cellar for the whole Bend | — |
 | 6 | Door six and the lane · night | Word that the Kemble door is shut and its lamp unlit. Yorick, warmed up, is glad: the verse will mean something. | the shut door; the stakes | — |
 | 7 | The Kemble door · near midnight | Ulla sings the seventh verse alone and badly, forgets a line, and Vessa whispers it. The Bend joins in. No eighth verse. Jessop opens the door. | the turn; Jessop's sad line, said once | the nose (tender: fresh cheese) |
-| 8 | The Kemble cellar · small hours | Supper. Ulla tells Yorick why the Bend won't sign. He laughs at "cats" at last. | soft landing; Yorick fed and answered | "cellar cats" defused |
+| 8 | The Kemble cellar · small hours | Supper, with Ulla still in the doorway. Yorick comes out to her; she tells him why the Bend won't sign. He laughs at "cats" at last. | soft landing; Yorick fed and answered | "cellar cats" defused |
 | 9 | A cellar · a few days later | Ulla on her warden's rounds goes into a cellar and stays for the cup. | the flaw resolved, without comment | — |
 
 **Promise ledger**
@@ -200,3 +200,7 @@ reconsider if     the door scene reads as a lecture; Yorick reads as a target; t
 - Scene 7 needs anyone to explain why shaming is wrong → cut the explanation and let the verse do it (PLAN). If it still doesn't land, the seventh verse's history is too thin (THINK).
 - A reader feels Yorick is the villain → give him a reason of his own in s2, such as a family that sold (THINK).
 - The round reads like One Square's festival bustle → make it smaller: fewer people, more dark between the doors (PLAN).
+
+### Stage 2b — Independent plan check
+
+2026-11-03. A fresh reviewer that didn't write the plans checked all seven against the primary records and the existing drafts. Passed. Changes: Ulla stays in the doorway through the supper, so the payoff stays in s9; the seventh verse praises "a Kemble of long ago" instead of a grandmother, so the Blight isn't dated; the ripple-step numbers agree. The check also chose this story as the test draft.

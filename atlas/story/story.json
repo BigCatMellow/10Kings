@@ -3891,19 +3891,6 @@
       "chipBack": "Stories"
     },
     {
-      "from": "story-blank-square",
-      "to": "pp-naruin",
-      "layer": "st-story",
-      "type": "touches the domino of",
-      "basis": "stated",
-      "quote": "offstage, first name on the road statement",
-      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
-      "chip": "Domino figure",
-      "chipBack": "Stories",
-      "chipNote": "offstage, first name on the road statement",
-      "chipNoteBack": "offstage, first name on the road statement"
-    },
-    {
       "from": "story-eighth-verse",
       "to": "story-blank-square",
       "layer": "st-story",
@@ -4122,12 +4109,12 @@
       "chipNoteBack": "protagonist"
     },
     {
-      "from": "sm-edda-vorne",
+      "from": "sm-edda-kjeld",
       "to": "story-first-fish",
       "layer": "st-cast",
       "type": "appears in",
       "basis": "stated",
-      "quote": "First Fish | Edda Vorne | Skerrimouth headwoman",
+      "quote": "First Fish | Edda Kjeld | Skerrimouth headwoman",
       "src": "Sunday-Morning/Notes/Registry.md#names",
       "chip": "Appears in",
       "chipBack": "Cast"
@@ -4203,12 +4190,12 @@
       "chipBack": "Cast"
     },
     {
-      "from": "sm-kettie-gamble",
+      "from": "sm-kettie-sowerby",
       "to": "story-walkout-pies",
       "layer": "st-cast",
       "type": "appears in",
       "basis": "stated",
-      "quote": "Walkout Pies | Kettie Gamble | pie-maker",
+      "quote": "Walkout Pies | Kettie Sowerby | pie-maker",
       "src": "Sunday-Morning/Notes/Registry.md#names",
       "chip": "Appears in",
       "chipBack": "Cast",
@@ -4363,19 +4350,6 @@
       "src": "Sunday-Morning/Notes/Registry.md#names",
       "chip": "Appears in",
       "chipBack": "Cast"
-    },
-    {
-      "from": "pp-naruin",
-      "to": "story-blank-square",
-      "layer": "st-cast",
-      "type": "appears in",
-      "basis": "stated",
-      "quote": "Blank Square | Naruin Mossglade | Deepwood domino figure (offstage)",
-      "src": "Sunday-Morning/Notes/Registry.md#names",
-      "chip": "Appears in",
-      "chipBack": "Cast",
-      "chipNote": "canon figure",
-      "chipNoteBack": "canon figure"
     },
     {
       "from": "sm-zan-coyle",

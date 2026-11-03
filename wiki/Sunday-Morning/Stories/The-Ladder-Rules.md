@@ -8,7 +8,7 @@
 
 ## Premise
 
-A new rule agreed between the Sunplains cities says every lamp ladder needs two people, one to climb and one to foot it. The city pays for one. Three days before the longest night of the year the lamplighters announce they'll stand down, and the street lamps stay dark unless somebody pays for the second person. The woman who has footed her father's ladder her whole life, and never once climbed it, is the only one who knows how many footers the city already has.
+A new rule agreed between the Sunplains cities says every lamp ladder needs two people, one to climb and one to foot it. The city pays for one. Three days before the longest night of the year the lamplighters announce they'll stand down, and the street lamps stay dark unless somebody pays for the second person. The woman who has footed her father's ladder her whole life, and never once climbed it, is the one who thinks to count the footers the city already has.
 
 **Setting:** Vasselin, a Sunplains city-state of courtyard houses and shaded streets around an old cistern square. The name is provisional ([Naming](../../Culture/Naming.md)).
 **Clock:** [Solstice Lanterns](../../Culture/Festivals-and-Seasonal-Life.md#sunplains), Year 1 midwinter: the three days before the longest night, and the night itself. No date is fixed ([Calendar](../../Calendar-and-Timekeeping.md#4-seasonal-thresholds-can-matter-more-than-fixed-dates)).
@@ -19,7 +19,7 @@ A new rule agreed between the Sunplains cities says every lamp ladder needs two 
 **Yusa Rennet**, a ladder-footer on the eastern lamp round.
 
 - **Good at:** counting. She knows every lamp on the eastern round by its number and how long each one takes, and she can hear from the scrape of a ladder whether it's set right.
-- **Small flaw:** she's never climbed. She's afraid of heights and says it's a choice: footing's the real job.
+- **Small flaw:** she's never climbed, she's afraid of heights, and she's defensive about it. She says footing's the real job a little too often, as if someone's arguing.
 - **Why she resists:** the quarrel is between the lighters' guild and the city's assembly. Footers aren't in the guild, nobody pays them, and nobody asks them anything.
 
 ## Place
@@ -62,19 +62,19 @@ After a lighter's fall in another city, the cities in the coordination talks agr
 
 ## Emotional core
 
-Work nobody names still holds the ladder. Being counted is a kind of respect, and fear can be climbed with somebody steady at the bottom.
+Work nobody names still holds the ladder. Being counted is a kind of respect, and the job you do at the bottom doesn't need defending once somebody's had to do it.
 
 ## Solution
 
-Yusa counts the footers. She goes door to door on the eastern round and then across the city's other rounds with Qadir's lighters, and she gets a name for every lamp lit last year. There were as many footers as lamps. The city has had two to a ladder all along; it has never paid the second. That lets everyone agree without anyone losing. The standard asks for no new people, only for the people already there to be counted. The footers are paid in a lamp-share: each footer's household lantern is filled from the city's store. Zeyna, asked as a supplier and not accused as a hoarder, sells the store the oil it's short.
+Yusa counts the footers. She goes door to door on the eastern round and then across the city's other rounds with Qadir's lighters, and she gets a name for every lighter's footer on every round last year. Every lighter had one. The city has had two to a ladder all along; it has never paid the second. That lets everyone agree without anyone losing. The standard asks for no new people, only for the people already there to be counted. The footers are paid in a lamp-share: each footer's household lantern is filled from the city's store. Rafiq can give that without the assembly's vote, because a lantern filled at Solstice Lanterns is a festival gift from the city's store, not a wage. Zeyna, asked as a supplier and not accused as a hoarder, sells the store the oil it's short.
 
 ## Climax
 
-The lighting. The rounds go up one after another, and "Light holds!" travels across the city. Dov can't climb the great lamp. Rafiq, to everyone's astonishment, comes down the assembly steps and offers to foot it, because it's the one way to be seen keeping the standard. Yusa climbs for the first time, with the warden of the city holding the ladder.
+The lighting. The rounds go up one after another, and "Light holds!" travels across the city. Dov's knee won't take the great lamp's ladder, and everyone turns to Yusa. She says no. She's never climbed and she isn't going to start in front of the whole city. Then Rafiq, to everyone's astonishment, takes off his good coat and says he'll climb it, because the warden who agreed the standard should be seen keeping it. He's never climbed a ladder in his life either. Yusa foots it. Halfway up he stops, and she talks him the rest of the way from the bottom, the way she's talked her father up every lamp on the eastern round, and he lights it.
 
 ## Soft landing
 
-Not food this time. The meal comes earlier, on the roof terrace. The landing is the view: the lamps lit across the city and the household lanterns moving under them. Qadir enters the footers in the guild's ledger, in a new column, by name. The final line is Yusa's call from the top of the ladder.
+Not food this time. The meal comes earlier, on the roof terrace. The landing is the view: the lamps lit across the city and the household lanterns moving under them. By custom the lighter calls the lamp. Rafiq is too out of breath to call anything, so the call comes from the bottom of the ladder this year. The final line is Yusa's "Light holds!"
 
 ## World anchors
 
@@ -120,7 +120,7 @@ Promoted 2026-11-02 from the seed *The Ladder Rules* ([Story Seeds](Story-Seeds.
 3. Why neither side can back down.
 4. What Yusa knows that no ledger does.
 5. How everyone agrees without losing face.
-6. Her climb.
+6. Who climbs the great lamp, and who holds it.
 
 Connection to keep: her count (4) is also her flaw's opposite. She knows the ground better than anyone because she's always stayed on it.
 
@@ -145,7 +145,7 @@ Connection to keep: her count (4) is also her flaw's opposite. She knows the gro
 | Is the stand-down harm on the page? | **Narrows.** No one is hurt, and the dark night never happens in Vasselin. The other city's dark night is offstage and secondhand. |
 | Is a count just "an old document" again? | **Survives.** It's made this week, from doors and memory, and it's a list of people, not a record. |
 | Does the warden footing the ladder shame him? | **Contradicts if forced; fixed.** He offers. It's his way to be seen keeping the standard, so it saves his face instead of costing it. |
-| Is the climb too easy? | **Risk.** She has to stop halfway, and the warden has to say something ordinary from below. |
+| Should Yusa climb at the end? | **Changed after the independent check.** In the first plan she climbed with the warden footing: the same arc as The Eighth Verse next to it (a helper from the edge does the feared thing in public with an elder steadying her). Now she refuses, the warden climbs, and she foots. Her change is that she stops defending the job and does it, named, in front of everyone. |
 
 **PLAN handoff**
 
@@ -157,7 +157,7 @@ alternatives      A households foot the ladders as a crowd act: set aside, resol
                   C the assembly backs down: set aside, nobody's face is saved
 assumptions       lamps, lighters and the standard are provisional; the oil shortage is hoarding
 unknowns          the number of city-states; solstice mechanics; who timed the standard
-reconsider if     the stand-down reads as a villain's strike; the count needs exposition; the climb feels cheap
+reconsider if     the stand-down reads as a villain's strike; the count needs exposition; Rafiq's climb reads as his humiliation
 ```
 
 ### Stage 1b — World-tie check
@@ -174,14 +174,14 @@ reconsider if     the stand-down reads as a villain's strike; the count needs ex
 
 | # | Place · clock | What happens | Must establish | Running element |
 | --- | --- | --- | --- | --- |
-| 1 | Lamp yard · day 1 afternoon | Qadir announces the stand-down. Everyone avoids the word *light*. Yusa racks her father's ladder and counts. | the standard; the stand-down; the oil; Yusa's count and her fear | the taboo word |
+| 1 | Lamp yard · day 1 afternoon | Qadir announces the stand-down. Everyone avoids the word *light*. Yusa foots her father up a practice ladder, talking him up rung by rung, and counts. | the standard; the stand-down; the oil; Yusa's count, her fear, and how she talks a climber up | the taboo word |
 | 2 | Assembly steps · day 1 | The deputation. Rafiq refuses in compliments. Qadir refuses back. Nobody says no. | the formal register; both sides boxed in | the register |
 | 3 | Rennet roof terrace · day 1 dusk | Flatbread and a clay-pot braise. Dov's knee. The moment where nothing happens: the two of them watching the dark city. She says she's never climbed; he says he knows. | her flaw; his great lamp; the meal | — |
 | 4 | Lamp yard · day 2 morning | Yusa looks at both ledgers. Neither has a footer in it. She starts a list. | the discovery: the footers don't exist on paper | the count (of people now) |
 | 5 | The rounds · days 2 and 3 | Door to door, getting a name for every lamp. Zeyna's cellar. Qadir's lighters join and take the other rounds. | the count growing; Zeyna as supplier, not hoarder | — |
-| 6 | Assembly steps · day 3, the longest night's afternoon | The count: as many footers as lamps. Two to a ladder, always. The lamp-share. Rafiq can agree without losing. | the solution | the register turned to agreement |
+| 6 | Assembly steps · day 3, the longest night's afternoon | The count: a footer for every lighter. Two to a ladder, always. The lamp-share, a festival gift that needs no vote. Rafiq can agree without losing. | the solution | the register turned to agreement |
 | 7 | The rounds · the longest night | The lighting. "Light holds!" across the city; the count rising. | the city lit | the count; the call |
-| 8 | The great lamp · midnight | Dov can't climb. Rafiq offers to foot. Yusa climbs, stops halfway, goes on. | the climax; her climb | the final "Light holds!" |
+| 8 | The great lamp · midnight | Dov can't climb. Yusa won't. Rafiq climbs; Yusa foots and talks him up. | the climax; who holds the ladder | the final "Light holds!", from the bottom |
 
 **Promise ledger**
 
@@ -189,8 +189,9 @@ reconsider if     the stand-down reads as a villain's strike; the count needs ex
 | --- | --- | --- | --- | --- | --- |
 | P1 Yusa's count | s1 lamps | s4 people | s6 the count settles it; s7 lamps again | character → resolution | planned |
 | P2 the taboo on *light* | s1 | s2 everyone avoids it | s7 "Light holds!" | comic | planned |
-| P3 she's never climbed | s1 | s3 told to her father | s8 | character | planned |
-| P4 the formal register | s2 | — | s6 used to agree; s8 Rafiq's offer | comic → resolution | planned |
+| P3 she's never climbed | s1 | s3 told to her father | s8 she still doesn't, and foots the great lamp | character | planned |
+| P4 the formal register | s2 | — | s6 used to agree; s8 Rafiq's offer, made in it | comic → resolution | planned |
+| P7 Yusa talks her father up the ladder | s1 | s7 every lamp on the round | s8 she talks Rafiq up | character → climax | planned |
 | P5 Zeyna's jars | s2 (the oil short) | s5 | s6 the city buys | comic | planned |
 | P6 Dov's great lamp | s3 | s7 his knee | s8 | relationship | planned |
 
@@ -198,4 +199,8 @@ reconsider if     the stand-down reads as a villain's strike; the count needs ex
 
 - Readers think the guild is wrong to stand down → give Qadir one concrete line about the fall in the other city (PLAN).
 - The count scene turns into arithmetic → keep the numbers to one, the total, and let names carry the rest (PLAN).
-- The climb reads as a reward instead of a fear faced → move the stop halfway earlier and make it longer (DO).
+- Rafiq's climb reads as the assembly being humbled → make it his own idea in the formal register, and let the crowd cheer him (DO).
+
+### Stage 2b — Independent plan check
+
+2026-11-03. A fresh reviewer that didn't write the plans checked all seven against the primary records and the existing drafts. Passed with fixes. The count now matches footers to lighters, not lamps; the premise no longer says Yusa already knows the number; Rafiq gets a reason he can pay in oil (a festival gift needs no vote). The climax changed: the check found The Eighth Verse and this story had the same arc next to each other (a helper does the feared thing in public with an elder steadying her). Now Yusa won't climb, the warden does, and she foots him up. The guild-ledger column was cut from the landing, because The Mushrooms From Nowhere ended on a ledger entry too.

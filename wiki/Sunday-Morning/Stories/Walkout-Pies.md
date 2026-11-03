@@ -8,7 +8,7 @@
 
 ## Premise
 
-The pie-maker at an Ironcrest foundry gate keeps a chalkboard with two columns: pies ordered for working days and pies ordered for a walkout. All spring the crews have been on short hours. Now, in Foundry Week, the walkout column is winning. The crews' leaders want to walk out at the great pour, when it would hurt most, because they've heard the owners are bringing in outside carters to replace them.
+The pie-maker at an Ironcrest foundry gate keeps a chalkboard by her oven where the crews chalk their names for walkout pies, ordered ahead for the picket line. All spring the crews have been on short hours. Now, in Foundry Week, the list is longer every morning. The crews' leaders want to walk out at the great pour, when it would hurt most, because they've heard the owners are bringing in outside carters to replace them.
 
 **Setting:** Coalglen Meadows, an [Ironcrest](../../Regions/Ironcrest.md#towns) foundry town in a valley that hasn't had a meadow in living memory. The name comes from the [name bank](../../Places/Border-Towns.md#other-provisional-names). It isn't Stonefield Forge.
 **Clock:** [Foundry Week](../../Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar), Year 2 midsummer, from the first day to the great pour.
@@ -16,7 +16,7 @@ The pie-maker at an Ironcrest foundry gate keeps a chalkboard with two columns: 
 
 ## Protagonist
 
-**Kettie Gamble**, who bakes the shift pies at the foundry gate and keeps the crews' mutual-aid box.
+**Kettie Sowerby**, who bakes the shift pies at the foundry gate and keeps the crews' mutual-aid box.
 
 - **Good at:** feeding people. She knows who's eating less, who's buying for two, and whose pie money has gone short before they've said a word. She keeps the box honest to the copper.
 - **Small flaw:** she meddles. She tells crew and foremen alike what she thinks, loudly, and usually before they've asked.
@@ -38,7 +38,7 @@ Recurring locations:
 
 - **Bosk Ferrin**, the crews' loudest leader. He's right about the short hours, and he has a family on half pay.
 - **Old Nadia Pryor**, a pour-master near the end of her working life. She thinks a ruined pour hurts the town more than the owners, and says so.
-- **Foreman Lusk**, who works for the owners and eats Kettie's pies like everyone else.
+- **Foreman Lusk**, who works for the owners and eats Kettie's pies like everyone else. He says the carters aren't there to replace anybody. Nobody believes the owners' man, and the truth is he doesn't know what they're for either; nobody told him.
 - **The outside carters**, a dozen men and their teams, camped by the slag heap and hungry.
 - **Kerra Dunnock**, a young bladesmith from Stonefield just past her masterwork, come to watch the great pour. A cameo; see [Inspected](Inspected-Not-Guaranteed.md).
 
@@ -48,7 +48,7 @@ The great pour is the year's biggest casting, the order the town's next season r
 
 ## Complications
 
-1. The chalkboard: the walkout column passes the working-day column on the third day of the Week.
+1. The chalkboard: on the third day of the Week, the walkout list runs off the bottom of the board.
 2. Bosk asks Kettie for the box in front of the gate.
 3. Nadia won't support a walkout at the pour, and the crews split along age.
 4. The carters arrive early and camp by the slag heap with nothing to eat. Nobody on either side will go near them.
@@ -56,7 +56,7 @@ The great pour is the year's biggest casting, the order the town's next season r
 
 ## Running elements
 
-- **The chalkboard**, two columns of pie orders, the town's mood in chalk.
+- **The chalkboard**, a list of names ordering walkout pies, the town's mood in chalk. (One list, not two columns: Hobb's slate in One Square has the two columns.)
 - **The box.** Its weight is checked in every scene, by hand.
 - **"Nobody pours hungry"**, the pour crew's custom (provisional): it's said at the start of every shift and is the reason the long table exists.
 
@@ -66,15 +66,15 @@ Feeding people isn't taking a side, and it isn't staying out of it either. Peopl
 
 ## Solution
 
-A meal. On the night before the pour, Kettie has a walkout's worth of pies and nobody to eat them. She takes them to the slag heap and feeds the carters. Then she brings the carters to the long table. Over supper the crews learn that the carters were hired to haul charcoal, because the charcoal carts from the forest border have been short all summer, and that they're on short hours in their own valley. Nobody hired them to break anything. The rumor dies at the table. The crews don't walk out at the pour, and they don't stop being angry either. They call the walkout for the morning after the Week, with notice, so the owners have to answer before it.
+A meal. On the night before the pour, Kettie has a walkout's worth of pies and nobody to eat them. She takes them to the slag heap and feeds the carters. At dawn she brings the carters to the long table, where the pour crew is sitting down. It isn't a friendly supper. Bosk goes straight at them across the table: whose places were they promised? The carters' headman goes straight back. They were hired to haul charcoal, because the charcoal carts from the forest border have been short all summer. They're on short hours in their own valley. And they've been called scabs for two days by men who wouldn't come near enough to ask. It's a row, loud and long, with pies on the table between them. Nobody hired the carters to break anything, and the rumor dies in the row. The crews don't walk out at the pour, and they don't stop being angry either. They call the walkout for the morning after the Week, with notice, so the owners have to answer before it.
 
 ## Climax
 
-The long table at dawn. The pour crew sits down with the carters at the other end. Bosk can call the walkout by refusing to eat, and everyone knows it. Kettie puts a pie in front of him and, for once, says nothing at all. He eats. The great pour goes.
+The long table at dawn, after the row. The pour crew and the carters are at the same table, and nobody's said sorry. Bosk can still call the walkout by refusing to eat, and everyone knows it. Kettie puts a pie in front of him and, for once, says nothing at all. He eats. The great pour goes.
 
 ## Soft landing
 
-The casting comes out of the sand whole. Kettie gives Bosk the box, openly, in front of the gate: it's for the walkout, which is now the crews' to call properly. She rubs out both columns on the chalkboard and writes one. The final beat is the empty chalkboard and a single order on it.
+The casting comes out of the sand whole. Kettie gives Bosk the box, openly, in front of the gate: it's for the walkout, which is now the crews' to call properly. She wipes the list off the chalkboard. The final beat is the board with a single order on it: walkout pies, for the morning after the Week, by name.
 
 ## World anchors
 
@@ -140,8 +140,8 @@ Connection to keep: Kettie's flaw (meddling) is what puts the carters at the tab
 | Attack | Result |
 | --- | --- |
 | Is Kettie breaking the strike? | **Narrows.** She saves the pour and then gives the box to the walkout. The walkout happens, with notice. |
-| Wouldn't the carters lie about why they're there? | **Survives.** They don't know there's a rumor. They say it over pie because nobody's asked. |
-| Is a meal resolution just One Square's joint table again? | **Risk.** There, the table is the negotiated end. Here, the meal is the engine: who sits where decides the walkout. |
+| Wouldn't the carters lie about why they're there? | **Survives.** They've heard the rumor, as an insult shouted at them, and they're angry about it. They say it back across the table because somebody finally said it to their faces. |
+| Is a meal resolution just One Square's again? | **Risk, raised by the independent check.** One Square also kills its rumor over food: the Vale eats the "unsafe" grain at long tables. Here the meal isn't a demonstration. It puts two angry groups close enough to have the row, and the row kills the rumor. |
 | Is anyone hurt by a lost pour? | **Contradicts the tone; fixed.** The lost pour is in another valley, offstage, as money and blame, not injury. |
 | Does Kerra's cameo add anything? | **Narrows.** She's someone from outside who admires the pour, the town's pride seen from outside. One scene, no lines that matter to the plot. |
 
@@ -149,13 +149,13 @@ Connection to keep: Kettie's flaw (meddling) is what puts the carters at the tab
 
 ```text
 frame             a labor comedy about timing, not about whether to strike
-selected strategy feed the carters; the rumor dies at the long table; the walkout comes after, with notice
+selected strategy feed the carters; a row at the long table kills the rumor; the walkout comes after, with notice
 alternatives      A Kettie talks Bosk out of it: set aside, meddling rewarded, and a speech
                   B the owners concede at the gate: set aside, too easy, and owners as villains
                   C the walkout at the pour, then reconciliation: set aside, harm on the page
 assumptions       the great pour, the long table and the box are provisional
 unknowns          who started the rumor; why the charcoal is short; Orin's patron
-reconsider if     the ending reads as anti-strike; the carters' reveal needs a coincidence; the board needs numbers
+reconsider if     the ending reads as anti-strike; the row turns into a fight; the board needs numbers
 ```
 
 ### Stage 1b — World-tie check
@@ -172,20 +172,20 @@ reconsider if     the ending reads as anti-strike; the carters' reveal needs a c
 
 | # | Place · clock | What happens | Must establish | Running element |
 | --- | --- | --- | --- | --- |
-| 1 | The stall · day 1 dawn | Shift change. "Nobody pours hungry." The chalkboard. Kettie tells a foreman what she thinks of short hours. | the board; the box; Kettie's meddling; short hours | the board; the custom |
+| 1 | The stall · day 1 dawn | Shift change. "Nobody pours hungry." The chalkboard's list. Kettie tells Lusk what she thinks of short hours. Gate gossip: the charcoal carts are short again. | the board; the box; Kettie's meddling; short hours | the board; the custom |
 | 2 | The crews' tavern · day 1 night | The rumor about the carters. Bosk wants the pour. Nadia says no. Greenvale's not buying, and Orin's hiring. | the rumor; the split; the gossip | — |
-| 3 | The stall · day 3 | The walkout column passes the working-day column. Bosk asks for the box in public. Kettie won't say yes or no. | the stakes on her | the board; the box |
+| 3 | The stall · day 3 | The walkout list runs off the board. Lusk says the carters aren't replacements and nobody believes him. Bosk asks for the box in public. Kettie won't say yes or no. | the stakes on her | the board; the box |
 | 4 | The casting floor, through the gate · day 4 | Kerra Dunnock, come to see the pour, asks Kettie what the sand molds are. The town's pride seen from outside. | what the pour means | — |
 | 5 | Kettie's kitchen · day 5 night | The moment where nothing happens: baking alone, the oven ticking, too many walkout pies. | her choice coming | — |
 | 6 | The slag-heap road · day 5 night | She takes the pies to the carters. They eat. They talk about charcoal and their own short hours. | the carters' reason; her meddling, used well | the box (left at home) |
-| 7 | The long table · day 6 dawn | The carters at the table. Bosk and the pie. Kettie says nothing. He eats. The pour. | the climax | "nobody pours hungry" |
-| 8 | The gate · day 6 evening | The casting whole. The box to Bosk. The walkout called with notice. The board wiped. | soft landing | the board, one column |
+| 7 | The long table · day 6 dawn | Kettie brings the carters to the table. The row, across the pies. Then Bosk and his pie: Kettie says nothing. He eats. The pour. | the climax | "nobody pours hungry" |
+| 8 | The gate · day 6 evening | The casting whole. The box to Bosk. The walkout called with notice. The board wiped. | soft landing | the board, one order |
 
 **Promise ledger**
 
 | Promise | Set up | Triggered by | Pays off | Kind | Status |
 | --- | --- | --- | --- | --- | --- |
-| P1 the chalkboard | s1 | s3 walkout wins | s8 wiped to one column | barometer | planned |
+| P1 the chalkboard | s1 | s3 the list runs off the board | s8 wiped to one order | barometer | planned |
 | P2 the box | s1 | s3 Bosk asks | s8 given | character | planned |
 | P3 Kettie meddles | s1 | s6 used well | s7 she says nothing | character | planned |
 | P4 "nobody pours hungry" | s1 | s2 the plan to refuse | s7 | custom → resolution | planned |
@@ -195,5 +195,9 @@ reconsider if     the ending reads as anti-strike; the carters' reveal needs a c
 **Reconsideration triggers**
 
 - A reader thinks the crews were wrong → give Bosk's grievance a concrete scene (his family on half pay) before s3 (PLAN).
-- The carters' reveal feels convenient → plant the short charcoal carts in s1 as gate gossip (PLAN).
-- The board becomes a running joke with numbers → keep it to "the walkout column" and "the other one" (DO).
+- The row at the table tips into a fight → keep it to words, with Nadia Pryor between them (DO).
+- The board becomes a running joke with numbers → keep it to names (DO).
+
+### Stage 2b — Independent plan check
+
+2026-11-03. A fresh reviewer that didn't write the plans checked all seven against the primary records and the existing drafts. Passed with fixes. The check found the Registry wrong: One Square also kills its rumor over food. Here the meal now only sets up a row across the long table, and the row kills the rumor. The chalkboard is one list, not two columns (Hobb's slate). Lusk's denial is planted, with why nobody believes him. Kettie's surname changed from Gamble to Sowerby (Kemble/Gamble).

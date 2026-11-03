@@ -84,14 +84,14 @@ Every named character in the drafts. Mark canon figures `canon`: the script repo
 | Ladder Rules | Zeyna | oil-seller's widow | cast |
 | Ladder Rules | Bahriyya Nazar | Sunplains domino figure (offstage) | canon |
 | First Fish | Kirsa Lowe | smokehouse keeper | protagonist |
-| First Fish | Edda Vorne | Skerrimouth headwoman | cast |
+| First Fish | Edda Kjeld | Skerrimouth headwoman | cast |
 | First Fish | Maris Bleakshore | Northwind domino figure (her lists only) | canon |
 | Road in Use | Zan Coyle | mule-wrangler (also Mushrooms) | protagonist |
 | Road in Use | Vinegar | lead pony (also Mushrooms) | cast |
 | Road in Use | Jaske | family claiming the tower | minor |
 | Road in Use | Merrow | family claiming the tower | minor |
 | Road in Use | Lio Tarrow | guide (also Goat File, C9) | cast |
-| Walkout Pies | Kettie Gamble | pie-maker | protagonist |
+| Walkout Pies | Kettie Sowerby | pie-maker | protagonist |
 | Walkout Pies | Bosk Ferrin | crews' leader | cast |
 | Walkout Pies | Nadia Pryor | pour-master | cast |
 | Walkout Pies | Lusk | foreman | cast |
@@ -105,14 +105,13 @@ Every named character in the drafts. Mark canon figures `canon`: the script repo
 | Blank Square | Wilda | Weaver house keeper | cast |
 | Blank Square | Gideon | Compass pilgrim | cast |
 | Blank Square | Nils Orvay | Illuminated copyist | cast |
-| Blank Square | Naruin Mossglade | Deepwood domino figure (offstage) | canon |
 <!-- registry:names:end -->
 
 ### Name rules
 
 - **No two protagonists share initials,** or a first name's first three letters.
 - **No two names anywhere in the collection share a first name's or surname's first three letters,** unless one is canon or the characters are family in the same story (Ebbe, Lio and Hanne Tarrow).
-- **Don't repeat surname endings** such as -water, -wright or -brook.
+- **Don't repeat surname endings** such as -water, -wright or -brook. Watch near-endings too: the independent check caught Kemble/Gamble (-mble) and Varne/Vorne (-rne), which the checker doesn't test; they became Kettie Sowerby and Edda Kjeld.
 - **Watch crowded letters.** T is crowded (Tamsin, Tarrow, Tareh, Tobiah, Tove). So is H (Hobb, Hild, Hanne, Haskett, Hollis, Halloran), and A (Aurel, Aldo, Anselm, Amaranth, Arden). Pick a new name from an open letter: U, X, Y, Z, K, Q, and V for first names.
 - **Rename log:**
   - Pim Aldash became **Wen Ostry**: a P.A. clash with Pell Anwick, and crowding with Pell and Pip.
@@ -134,13 +133,13 @@ The collection's variety lives here. A new story should differ from its neighbor
 | 2 | Greenvale Man | outsider craftsman | repair against a clock, rumor vote | a physical act witnessed (the plank holds) | stoic, belonging | the haul-out, narrated | someone asks for a barrel |
 | 3 | Goat File | junior clerk | a deadline file | a sealed memo, then the grandchildren | comic, then bittersweet | a rule read twice | the herd in the dark, "lent to both" |
 | 4 | Eighth Verse *(planned)* | warden who can't sing, made to lead | a one-night round toward a shut door | a performance (the seventh verse, badly) | wistful winter ensemble | stores checked by smell in a cellar | she goes in and stays for the cup |
-| 5 | Ladder Rules *(planned)* | footer who has never climbed | a three-day countdown to a stand-down | a count of people nobody counted | brisk countdown caper | the lamp yard, the word nobody says | her call from the top of the ladder |
+| 5 | Ladder Rules *(planned)* | footer who has never climbed, and still doesn't | a three-day countdown to a stand-down | a count of people nobody counted | brisk countdown caper | the lamp yard, the word nobody says | her call from the bottom of the ladder |
 | 6 | Inspected | drafted stranger (Wurdren) | a judgment, a blockade | people: a message carried, a walk to the ditch | wistful, self-deflating | the smith's one-word verdict | Nell's gate, "very nearly right" |
 | 7 | Heavy Scale | visiting inspector | a fair-play mystery | a physical object in the thaw | comic procedural, kind | "Eleven stone." | bookend: "Ten stone. True to a hair." |
 | 8 | First Fish *(planned)* | craft-keeper who won't bargain | a custom against a moved run | a swap (fish for fires) | quiet two-hander | a cold smokehouse at dawn | the first fish handed to the other town |
 | 9 | Road in Use *(planned)* | animal man who avoids people | a road of record before a ceremony | an animal (the pony won't take the edge) | ensemble road comedy | a lot drawn in the yard | someone comes to the yard to talk to him |
 | 10 | Tree | two professionals (romance) | a lien blocks a path | a clause read in two languages | light romance | the market master's plan | "I'd hope so." |
-| 11 | Walkout Pies *(planned)* | outsider to the dispute who meddles | timing of a walkout | a meal (the carters at the long table) | warm labor comedy | a chalkboard at shift change | one order on a wiped chalkboard |
+| 11 | Walkout Pies *(planned)* | outsider to the dispute who meddles | timing of a walkout | a meal that forces a row (the carters at the long table) | warm labor comedy | a chalkboard at shift change | one order on a wiped chalkboard |
 | 12 | Mushrooms *(planned)* | stranger who is the expert in her own work | a market with no line for her | a choice (a named stall) | wry fish-out-of-water | daylight at the top of a stair | one last look up, hat in hand |
 | 13 | Blank Square *(planned)* | carrier who can't read | a gap tempting people to fill it | an absence (a blank square) | quiet, contemplative | a bundle going under at a ford | what the blank is for, answered |
 | 14 | Three Pots | family member who doesn't cook | inheritance, a permit deadline | memory: three fragments of one ritual | tender family | the grandmother's announcement | "Again next year." |
@@ -155,7 +154,7 @@ Reuse one of these only on purpose, and never in the next story in reading order
 
 | Device | Where |
 | --- | --- |
-| A language habit as the running element | all of the first seven (aspect, evidentials, exact quotation, four-way "done", animacy); none of the planned seven |
+| A language habit as the running element | all of the first seven (aspect, evidentials, exact quotation, four-way "done", animacy); none of the planned seven, though The Blank Square's witness rule is close to Deepwood evidentiality and to The Greenvale Man's "who saw it?" (a reconsideration trigger there) |
 | An old record or archive discovery | Goat File, Tree |
 | A clerk or records person as protagonist | Goat File, Tree (Ismet), Three Pots (interpreter) |
 | A child who sees what adults won't | One Square (Lissa), Tree (Pip) |
@@ -171,7 +170,7 @@ Reuse one of these only on purpose, and never in the next story in reading order
 | A song or a call as the running element | The Eighth Verse (the Cellar Song), The Ladder Rules ("Light holds!"), Walkout Pies ("nobody pours hungry"), all planned |
 | A tally or count kept on the page | The Ladder Rules (the lamp count), Walkout Pies (the chalkboard), both planned |
 | A cameo from another story | The Road in Use (Lio), Walkout Pies (Kerra), The Mushrooms From Nowhere (Zan), all planned. Keep each to a scene or two. |
-| A rumor that dies over food | Walkout Pies (planned). One Square and The Greenvale Man kill their rumors by other means. |
+| A rumor that dies over food | One Square (the Vale eats the "unsafe" grain at long tables); Walkout Pies (planned), where the meal only sets up a row and the row kills the rumor. The Greenvale Man kills its rumor by a witnessed act. |
 
 ## Stock phrases to avoid
 

@@ -44,7 +44,7 @@ Recurring locations:
 
 ## Problem
 
-In a blight year the fair has a rule against stolen and spoiled forest goods: mushrooms must carry a Deepwood house's mark. Xenna's carry none, because they aren't from Deepwood, and nobody has written a rule for anything grown below. If she can't sell, Underwell can't buy its winter oil and grain. Fitch will put his house's mark on her crates for half the price and sell them as forest mushrooms.
+In a blight year the fair has a rule against stolen and spoiled forest goods: mushrooms must carry a Deepwood house's mark. Xenna's carry none, because they aren't from Deepwood, and nobody has written a rule for anything grown below. If she can't sell, Underwell can't buy its winter oil and grain. Galt mentions the old exception, a grower selling in person under her own name, and she doesn't want it: it means telling the whole fair where she's from. Fitch will put his house's mark on her crates for half the price and sell them as forest mushrooms.
 
 ## Complications
 
@@ -66,11 +66,11 @@ Recognition for people whose work travels through networks nobody sees. Being se
 
 ## Solution
 
-A choice. Xenna turns down Fitch and takes a named stall. She tells Warden Galt the enclave's name, Underwell, and her own, and nothing about the roads. Galt makes a new line in the fair book for goods grown below, with her name on it. The mushrooms sell as what they are.
+A choice. The mark rule has one old exception: a grower who sells her own goods in person, at a stall in her own name, answers for them herself, and her name is the mark. Fitch's way is easier, and it means never having to say where she's from. Xenna turns him down, takes a stall, chalks her own name and Underwell's on its board, and stands behind it for two days answering questions. Nothing about the roads. The mushrooms sell as what they are.
 
 ## Climax
 
-The warden's table on the second evening. To get a line in the fair book she has to say where she's from out loud, with half the fair listening. Ondine has already told anyone who'll listen that these aren't forest mushrooms, they're cellar mushrooms, and better than anything she's seen at a fair this year. That doesn't make the choice for her. It just means someone's on her side when she makes it.
+Fitch's stall on the second evening, where he's waiting with his house's mark and his easy price. She has to tell him no, and then go and chalk a name on a board that everybody passing will read. Ondine has already told anyone who'll listen that these aren't forest mushrooms, they're cellar mushrooms, and better than anything she's seen at a fair this year. That doesn't make the choice for her. It just means someone's on her side when she makes it.
 
 ## Soft landing
 
@@ -95,8 +95,8 @@ Part of [Collection](../Notes/Collection.md#the-web), Year 2, late summer.
 | **The nail** | The fair's mark rule, sensible in a blight year, and Fitch's offer to pass cellar mushrooms off as forest ones. Unmarked trade goes to people who don't ask questions. |
 | **Independent reasons** | The corridor really fell. The warden really has to guard against stolen and spoiled stock. Forest mushrooms really are short. Fitch really is just making money. |
 | **Behind it (out of story)** | Whether the blight is natural, accidental or manipulated is `UNKNOWN` ([Current Events](../../Story/Current-Events.md#fungalecological-disruption)). Whether it reaches cultivated cellar fungi is `UNKNOWN`. Who Fitch sells to is `UNKNOWN`. Trade pushed off the record is ordinary smuggling, which the hidden powers can use, provisionally. Nobody here sees it. |
-| **Local outcome** | A new line in the fair book. Underwell's crop sells openly under its own name. |
-| **Outward effect** | Other enclaves that lost corridors sell through people like Fitch, and their goods go off the record. The fair book's line for goods grown below is small and real, and other fairs on the circuit can copy it or not. |
+| **Local outcome** | Underwell's crop sells openly under its own name, on the grower's word. |
+| **Outward effect** | Other enclaves that lost corridors sell through people like Fitch, and their goods go off the record. One stall with "Underwell" chalked on it is small and real, and the next grower who comes up the stair knows the exception exists. |
 
 ---
 
@@ -132,7 +132,7 @@ Connection to keep: what she gives up (4) is her habit of secrecy (the flaw), an
 | The blight reaches cellar fungi | `UNKNOWN` | Left open. She speaks only for her own beds, this season. |
 | Underpass enclaves have names surface people know | `ASSUMED` → **false** | Nobody at the fair has heard of Underwell. That's the point. |
 
-**First principles.** The story needs a stranger with good goods, a rule that blocks her for good reasons, a dishonest shortcut that isn't villainous, and a choice that costs her something. Removed conventions: the villain buyer, and the market master as obstacle. Galt helps as soon as she gives him something to write. The smallest mechanism: a fair book with no line for her.
+**First principles.** The story needs a stranger with good goods, a rule that blocks her for good reasons, a dishonest shortcut that isn't villainous, and a choice that costs her something. Removed conventions: the villain buyer, and the market master as obstacle. Galt helps as soon as she's willing to stand behind her goods herself. The smallest mechanism: a rule with an old exception that only works if she's willing to be seen.
 
 **Counterexample search.**
 
@@ -148,7 +148,7 @@ Connection to keep: what she gives up (4) is her habit of secrecy (the flaw), an
 
 ```text
 frame             a stranger asks a market to count her; she has to say where she's from
-selected strategy the mark rule; Fitch's easy offer; a named stall and a new line in the fair book
+selected strategy the mark rule and its old exception; Fitch's easy offer; a stall in her own name
 alternatives      A a polite whole-crop buyer: set aside, the collection's land-agent device
                   B Galt waives the rule: set aside, the rule is right
                   C the broker comes back: set aside, she'd do nothing
@@ -172,11 +172,11 @@ reconsider if     Galt reads as an obstacle; Ondine solves it; the sky gags crow
 | # | Place · clock | What happens | Must establish | Running element |
 | --- | --- | --- | --- | --- |
 | 1 | The stair-head · fair day 1 dawn | Xenna opens the stair-hut and comes up into the light. She can't see. | why she's here; the broker's lost corridor; the light | the hat; the sky |
-| 2 | The fair road · fair day 1 | Everyone assumes Deepwood. "Below." Warden Galt and the mark rule. | the rule; the assumption; her flaw | "below" |
+| 2 | The fair road · fair day 1 | Everyone assumes Deepwood. "Below." Warden Galt, the mark rule and its old exception, which she turns down. | the rule; the exception; the assumption; her flaw | "below" |
 | 3 | A borrowed corner · fair day 1 afternoon | Fitch's offer, cheerful and easy. | the shortcut; the winter at stake | the hat |
-| 4 | The animal yards · fair day 1 evening | She needs a mule for the return. Zan. The moment where nothing happens: two people who don't talk on a fence, her first sunset since she was a girl. | the friendship; the sky | the sky |
+| 4 | The animal yards · fair day 1 evening | She needs a mule for the return. Zan. Supper at the yard fire: his plateau flatbread, and a handful of her mushrooms fried on his pan, the first time she's eaten her own crop under the sky. The moment where nothing happens: two people who don't talk on a fence, her first sunset since she was a girl. | the meal; the friendship; the sky | the sky |
 | 5 | The fair road · fair day 2 | Ondine sniffs, tastes and vouches: not forest, cellar, and good. The blight question, asked by a fairgoer. | the expert's word; the blight unknown | — |
-| 6 | The warden's table · fair day 2 evening | The choice. She says the name out loud. Galt writes a new line. | the climax | "below" becomes a name |
+| 6 | Fitch's stall, then her own · fair day 2 evening | The choice. She turns Fitch down and chalks her name and Underwell's on a stall board. | the climax | "below" becomes a name |
 | 7 | The fair road · fair day 3 | She sells out under her own name. | local outcome | the hat off |
 | 8 | The stair-head · fair day 3 evening | Mules, oil and grain. One last look up. | soft landing | the sky |
 
@@ -187,7 +187,7 @@ reconsider if     Galt reads as an obstacle; Ondine solves it; the sky gags crow
 | P1 the hat | s1 | s2 read as Deepwood | s7 off; s8 in her hand | image | planned |
 | P2 "below" | s2 | s3 Fitch says it doesn't matter | s6 a name instead | character → resolution | planned |
 | P3 the sky | s1 | s4 the sunset | s8 the last look | image | planned |
-| P4 the mark rule | s2 | s5 Ondine's word isn't a mark | s6 the new line | world | planned |
+| P4 the mark rule | s2 (Galt mentions the old exception in passing; she doesn't want it) | s5 Ondine's word isn't a mark | s6 her own name as the mark | world | planned |
 | C12 the lost corridor and the stair-hut | [The Road in Use](The-Road-in-Use.md) | — | s1 | cross-story | planned |
 
 **Reconsideration triggers**
@@ -195,3 +195,7 @@ reconsider if     Galt reads as an obstacle; Ondine solves it; the sky gags crow
 - Readers think Galt's rule is the villain → give him a line about last year's spoiled stock (PLAN).
 - Ondine's word reads as the solution → move it after s6 and keep only her sniff before it (PLAN).
 - The light and sky gags crowd out the choice → cut the sky to s1, s4 and s8 (DO).
+
+### Stage 2b — Independent plan check
+
+2026-11-03. A fresh reviewer that didn't write the plans checked all seven against the primary records and the existing drafts. Passed with fixes. It had no meal; supper at the yard fire is in s4. The fair-book entry was cut: it repeated The Ladder Rules' ledger column and made three stories in a row end on a record and a mark. The resolution is now the mark rule's old exception, a grower selling in person under her own name.

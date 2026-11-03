@@ -8,7 +8,7 @@
 
 ## Premise
 
-At Gathering Quiet a Deepwood Weaver house stitches its year-cloth: one square for each thing someone in the parish saw with their own eyes this year. The house's bundle-runner, who can't read, has carried the neighboring house's record through a river in spate, and the ink has run. Two guests offer to fill the gap from what they've heard. Two statements wait on the table for the house's mark. The runner has never put a square on the cloth.
+At Gathering Quiet a Deepwood Weaver house stitches its year-cloth: one square for each thing a witness saw with their own eyes this year, stitched from the witness's own account. The house's bundle-runner, who can't read, has carried the neighboring house's witness book through a river in spate, and every page has run. Two guests offer to fill the gap from what they've heard. Two statements wait on the table for the house's mark. The runner has never put a square on the cloth.
 
 **Setting:** Larchmere, a [Deepwood](../../Regions/Deepwood.md) forest village with a house of the [Great Weaver](../../Politics/Religions.md#2-path-of-the-great-weaver) (provisional), a day's walk and a river from [Twilighthollow](../../Places/Border-Towns.md#twilighthollow--deepwood--highridge).
 **Clock:** [Gathering Quiet](../../Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar), Year 2 early autumn, over the last three days of the stitching.
@@ -19,7 +19,7 @@ At Gathering Quiet a Deepwood Weaver house stitches its year-cloth: one square f
 **Ruan Mott**, the Weaver house's bundle-runner. He carries the house's bundles of records, letters and charity requests between Weaver houses along the forest paths.
 
 - **Good at:** getting a bundle through. He knows the paths in every weather, which fords hold, and whose door to knock on at dark. He remembers exactly who handed him what.
-- **Small flaw:** he can't read, and he's ashamed of it. He covers it with jokes and has never let anyone see him try.
+- **Small flaw:** he thinks carrying isn't seeing. Everybody in Larchmere knows he can't read and nobody minds, but he's decided it means nothing he does belongs on the cloth. He jokes about it before anyone else can.
 - **Why he resists:** the year-cloth is for people who saw something. He only carries. And the wet bundle is his fault.
 
 ## Place
@@ -43,33 +43,33 @@ Recurring locations:
 
 ## Problem
 
-By custom each house's cloth carries a border stitched from its neighbors' records of the year. Twilighthollow's record is half unreadable, and the border can't be stitched from it. Gideon offers to fill it from what he heard on the roads; Nils offers to restore it from other accounts. Two joint statements also want the house's mark: the forest wardens' statement against the plateau road, and the reform circles' statement calling the buying-up of farms theft. Wilda needs the border done, and an answer to both statements, by the end of Gathering Quiet.
+By custom each house's cloth carries a border stitched from its neighbors' witness books: their own people's accounts, in their own hands or taken down from their own mouths. Twilighthollow's book is unreadable, every page of it, and the border can't be stitched. Gideon offers to fill it from what he heard on the roads; Nils offers to restore it from other accounts. Neither is a witness's account. Two joint statements also want the house's mark: the forest wardens' statement against the plateau road, and the reform circles' statement calling the buying-up of distressed farms coordinated theft. Each says what is happening everywhere, which nobody in the parish has seen. Wilda needs the border done, and an answer to both statements, by the end of Gathering Quiet.
 
 ## Complications
 
-1. Ruan has to admit the bundle went under, and he can't tell anyone how bad it is, because he can't read it.
-2. Gideon's rumors about Twilighthollow are lively and mostly wrong. Ruan was told what was in the bundle, and it wasn't that.
-3. Nils's restoration is reasonable on its face: other accounts of the same events exist. But nobody in Larchmere saw them either.
-4. The statements are sincere, and half the stitchers want to sign both. The road is real, and so is the forest it would cut.
+1. Ruan has to tell Wilda the bundle went under, and he can't tell her how bad it is, because he can't read it. He's sure it's his fault.
+2. Gideon's rumors about Twilighthollow are lively and mostly wrong: a tree that nearly fell, a plateau family, a fight at the summer debates. Ruan was told what was in the bundle, and it wasn't that. (The rumors never include a letter, a buyer, paper or a phrase.)
+3. Nils's restoration is reasonable on its face: other accounts of the same events exist. But they're his comparisons, not anyone's witness.
+4. The statements are sincere, and half the stitchers want to sign both. The road is real, and so is the forest it would cut, and somebody from Larchmere has walked the survey line.
 5. At supper the three faiths compare the year, and the comparison goes nowhere. Nils says the numbers don't agree from one ledger to the next. Gideon says there are more strangers on the roads than he's ever seen. Wilda says this year's cloth is mostly roads. Each explains it differently, and each explanation is wrong or too small.
 
 ## Running elements
 
-- **The year-cloth's rule**: only what someone saw. Every scene tests it.
+- **The year-cloth's rule**: only a witness's own account. Every scene tests it.
 - **Ruan's jokes**, which get thinner as the story goes on.
-- **The Twilighthollow pages** drying by the hearth. The ink keeps running a little further.
+- **The Twilighthollow pages** drying by the hearth. The ink ran in the river; drying, they're only stained paper, and they stay that way.
 
 ## Emotional core
 
-You can honor what you didn't see by not pretending you saw it. Saying you don't know is something you can do out loud, in public, and stitch.
+You can honor what you didn't see by not pretending you saw it. And carrying something faithfully is a kind of seeing: the person who watched it lost is a witness too.
 
 ## Solution
 
-An absence. Ruan asks for one square in the border to be left blank, for what he carried and nobody here can read: he carried it, and nobody here saw it. The house keeps the blank, and it signs neither statement, because the cloth holds only what somebody saw.
+An absence. Ruan asks for one square in the border to be left blank. It's his own witness, the only thing he can give an account of: he carried Twilighthollow's year, and he saw the river take it. The house keeps the blank, and it signs neither statement, because the cloth holds only what a witness saw. What the parish saw of the road is already on it.
 
 ## Climax
 
-The stitching room on the last evening. Ruan, who has never spoken at the cloth, says he can't read. He says what he was told the bundle held, the little he knows: a tree, a road, the summer's debates. He says that's all he knows, and that isn't enough to stitch. He asks for the blank. Wilda gives him the needle to stitch the border round it. It's his first square.
+The stitching room on the last evening, after the others have gone. Ruan stays behind with Wilda. He tells her what the Twilighthollow keeper told him the bundle held, the little he knows: a tree, a road, the summer's debates. Then he asks, very quietly, whether a person who carries can put a square on the cloth, if what he saw was a thing being lost. Wilda gives him the needle to stitch the border round an empty square. It's his first square, and he's the witness for it.
 
 ## Soft landing
 
@@ -90,7 +90,7 @@ Part of [Collection](../Notes/Collection.md#the-web), Year 2, early autumn.
 | | |
 | --- | --- |
 | **Current event** | [Religious networks](../../Story/Current-Events.md#religious-networks) compare what they've recorded. [Logging and road conflict](../../Story/Current-Events.md#logging-and-road-conflict) produces the wardens' statement. The reform circles' statement has been traveling since midwinter. |
-| **Domino figure** | [Naruin Mossglade](../../Story/Villains-Dominoes.md#naruin-mossglade--deepwood), offstage, his name first on the wardens' statement. |
+| **Domino figure** | None on the page. Naruin Mossglade's name was left off the wardens' statement after the independent check: putting him first on it would push his domino forward straight after [The Tree With a Debt](The-Tree-With-a-Debt.md) hands him a counterexample. |
 | **The nail** | Two joint statements asking a house to put its mark to things it didn't see. Each is sincere. Gathered marks are how a local dispute becomes a regional one. |
 | **Independent reasons** | The road is real, and so is the damage it would do. The reformers are sincere. Weaver houses really do document damage, and the faiths really do compare records. |
 | **Behind it (out of story)** | The Weaver networks' trans-regional case worries some Council families ([Religions](../../Politics/Religions.md#2-path-of-the-great-weaver)). Whether anyone is steering which statements reach which houses is `UNKNOWN`. Nils notices only that numbers disagree. The Illuminated scholars' "close to proving" stays where the wiki leaves it. Nobody here sees a hand. |
@@ -107,7 +107,7 @@ Added 2026-11-02. Material brief: faiths comparing notes, a Domino Map gap (reli
 
 ### Stage 1 — THINK
 
-**Reasoning allocation:** structured single path, with extra care on one constraint. Twilighthollow's record includes the Weaver-path elder's account of the summer, which in [The Tree With a Debt](The-Tree-With-a-Debt.md) covers Hollis burning a letter. C6 is the collection's only link to the hidden hand ([D3](../Notes/Decisions.md#the-authors-decisions)), so the record must not carry a description of that letter to anyone.
+**Reasoning allocation:** structured single path, with extra care on one constraint. Twilighthollow's record includes the Weaver-path elder's account of the summer, which in [The Tree With a Debt](The-Tree-With-a-Debt.md) covers Hollis burning a letter. C6 is the collection's only link to the hidden hand ([D3](../Notes/Decisions.md#the-authors-decisions)), so the record must not carry a description of that letter to anyone. After the independent check: the whole witness book is unreadable, not half of it, because the Tree draft shows the Weaver-path elder recorded both the letter's arrival and its burning. Gideon's rumors are kept to the tree, the family and the debates.
 
 **Decomposition.**
 
@@ -130,7 +130,7 @@ Connection to keep: the year-cloth's rule (1) answers both the gap (4) and the s
 | Houses exchange records with neighbors | `ASSUMED` | Provisional. Faith networks carry community news on their own cadence ([Couriers #10](../../Couriers-Posts-and-Message-Networks.md#10-faith-networks-can-carry-messages-beyond-commercial-corridors)). |
 | The Twilighthollow record describes the letter | `UNKNOWN` by design | Nobody in the story learns what the unreadable pages said. Ruan knows only "a tree, a road, the summer's debates". |
 | Faith clergy have titles and schools | `UNKNOWN` | Unnamed in the wiki. "Keeper" is a provisional local title. |
-| Naruin signs road statements | `ASSUMED` → **narrowed** | He can mobilize resistance to roads ([Villain's Dominoes](../../Story/Villains-Dominoes.md#naruin-mossglade--deepwood)). His name on a paper is all the story shows. |
+| Naruin signs road statements | `ASSUMED` → **set aside** | He can mobilize resistance to roads ([Villain's Dominoes](../../Story/Villains-Dominoes.md#naruin-mossglade--deepwood)), but the statement here is the wardens' circle's, unnamed, so the story doesn't run ahead of The Tree's outward effect. |
 
 **First principles.** The story needs a gap that tempts people to fill it, two kinds of filling that are each reasonable, a rule that refuses both, and a protagonist whose shame is the key. Removed convention: discovering what the lost record said. The story never recovers it. The smallest mechanism: one square left empty.
 
@@ -138,11 +138,12 @@ Connection to keep: the year-cloth's rule (1) answers both the gap (4) and the s
 
 | Attack | Result |
 | --- | --- |
-| Isn't refusing to sign the statements taking a side against the forest? | **Narrows.** The house doesn't deny the road's harm. It refuses to stitch or sign what nobody there saw. Wilda says the road square is already on the cloth, stitched by someone who walked it. |
+| Isn't refusing to sign the statements taking a side against the forest? | **Narrows.** The house doesn't deny the road's harm. The statements say what's happening everywhere; the cloth holds what a witness saw. The road square is already on it, stitched by the stitcher who walked the survey line, and that's what Larchmere says about the road. |
 | Could Nils restore the record? | **Survives as a temptation.** His sources are real, and that's what makes the offer good. The rule is about who saw, not about accuracy. |
 | Does the supper scene see the pattern? | **Contradicts if it connects; kept small.** Three people notice three different things and explain them three wrong ways. Nobody adds them up. |
 | Is this an "old record" device again? | **Narrows.** The record is new, this year's, and it's lost, not discovered. The device runs backward. |
-| Is the blank too quiet a climax? | **Risk.** It works only if Ruan's admission is the turn. The blank is what he does after. |
+| Is the blank too quiet a climax? | **Risk.** It works only if Ruan's turn lands: from "I only carry" to "I saw it go". After the independent check it's a quiet request to Wilda, not a public admission, so the set doesn't have six protagonists doing the feared thing in public. |
+| Is the witness rule a language habit by another name? | **Risk, raised by the independent check.** It's close to Deepwood evidentiality and to The Greenvale Man's climax ("Who in this hall saw it?"). Here it's a custom about a cloth, and nobody asks the room who saw. If a reader hears The Greenvale Man, cut the rule's statements to one. |
 
 **PLAN handoff**
 
@@ -162,7 +163,7 @@ reconsider if     the supper starts to connect crises; anyone describes the lett
 | Assumption | Status | Finding |
 | --- | --- | --- |
 | The record can travel | `VERIFIED` with limits | It does, and arrives unreadable. No one copies, sees or describes the letter. |
-| The reform statement can reach Deepwood | `VERIFIED` | [The Eighth Verse](The-Eighth-Verse.md) sends it on in midwinter. Faith and circle letters travel slowly, so early autumn fits. |
+| The reform statement can reach Deepwood | `ASSUMED` (rests on a plan) | [The Eighth Verse](The-Eighth-Verse.md) sends it on in midwinter. Faith and circle letters travel slowly, so early autumn fits. It's `VERIFIED` once The Eighth Verse's draft is approved. |
 | The Illuminated scholars can be shown | `VERIFIED` with limits | One copyist, collecting disagreements, proving nothing. |
 
 ### Stage 2 — PLAN
@@ -171,13 +172,13 @@ reconsider if     the supper starts to connect crises; anyone describes the lett
 
 | # | Place · clock | What happens | Must establish | Running element |
 | --- | --- | --- | --- | --- |
-| 1 | The ford · day 1 morning | Ruan crosses in spate. The bundle goes under. He gets it out and doesn't open it, because there's no point. | his skill; his fear; that he can't read | a joke to the river |
-| 2 | The stitching room · day 1 | Wilda opens the bundle. Half the pages have run. The border can't be stitched. | the cloth's rule; the gap; Ruan's shame | the cloth's rule |
+| 1 | The ford · day 1 morning | Ruan crosses in spate. The bundle goes under. He gets it out and doesn't open it, because there's no point. | his skill; that he can't read, which everyone knows; his blaming himself | a joke to the river |
+| 2 | The stitching room · day 1 | Wilda opens the bundle. Every page has run. The border can't be stitched. Ruan says he's only the carrier, and that it's his fault. | the cloth's rule (a witness's own account); the gap; "I only carry" | the cloth's rule |
 | 3 | The house kitchen · day 1 evening | Gideon's rumors about Twilighthollow, lively and wrong. Nils's offer to restore. The statements on the table. | both offers; both statements | the pages drying |
 | 4 | The house kitchen · day 2 supper | Supper: [Mushroom-Simmered Broth](../../Culture/Recipes/Deepwood.md#1-mushroom-simmered-broth), thin this year, and [chestnut cakes](../../Culture/Recipes/Deepwood.md#6-acorn-or-chestnut-cakes). The faiths compare the year: numbers, strangers, roads. Three wrong explanations. | the meal; the world thread, nobody seeing it | — |
 | 5 | The ford · day 2 evening | The moment where nothing happens: Ruan at the ford, the river down again, the pages at the house still running. | his decision coming | — |
-| 6 | The stitching room · day 3 | The stitchers argue about signing. Wilda points to the road square, stitched by someone who walked it. | the statements refused by rule, not by politics | the cloth's rule |
-| 7 | The stitching room · day 3 evening | Ruan says he can't read. He says what he was told, and that it isn't enough. He asks for the blank and stitches the border round it. | the climax; his first square | his last joke, not made |
+| 6 | The stitching room · day 3 | The stitchers argue about signing. Wilda points to the road square, stitched by the stitcher who walked the survey line: that's what Larchmere saw of the road. | the statements refused by rule, not by politics | the cloth's rule |
+| 7 | The stitching room · day 3 evening | After the others go, Ruan tells Wilda what he was told the bundle held, and asks whether a carrier can be the witness for a thing lost. She gives him the needle; he stitches the border round the blank. | the climax; his first square | his last joke, not made |
 | 8 | The stitching room · end of Gathering Quiet | The cloth up. Gideon's true story, Nils's blank, the statements gone on. Someone asks what the blank is for. | soft landing | — |
 
 **Promise ledger**
@@ -185,7 +186,7 @@ reconsider if     the supper starts to connect crises; anyone describes the lett
 | Promise | Set up | Triggered by | Pays off | Kind | Status |
 | --- | --- | --- | --- | --- | --- |
 | P1 the witness rule | s2 | s3 two offers | s6 the statements; s7 the blank | rule → resolution | planned |
-| P2 Ruan can't read | s1 | s2 he can't say how bad | s7 he says it | character | planned |
+| P2 "I only carry" | s2 | s5 at the ford | s7 he's the witness for the loss | character | planned |
 | P3 Ruan's jokes | s1 | s3 thinner | s7 not made | character | planned |
 | P4 the drying pages | s3 | s5 | s8 the blank instead | image | planned |
 | P5 the road square | s2 (glimpsed) | — | s6 | world | planned |
@@ -196,4 +197,10 @@ reconsider if     the supper starts to connect crises; anyone describes the lett
 
 - The supper scene adds up the crises → cut it to two observations (PLAN).
 - Any line describes what the lost pages said about the summer → cut it (rule; D3).
-- The blank reads as giving up → give Wilda one line that the blank is a record too (DO), or move Ruan's admission earlier (PLAN).
+- The blank reads as giving up → give Wilda one line that the blank is a record too (DO), or plant "I saw it go" at the ford in s5 (PLAN).
+- Nils's "numbers don't agree" starts to sound like proof of manipulation → keep it to this parish's books (DO).
+- A reader hears The Greenvale Man's "who saw it?" in the witness rule → cut the rule's statements to one (DO).
+
+### Stage 2b — Independent plan check
+
+2026-11-03. A fresh reviewer that didn't write the plans checked all seven against the primary records and the existing drafts. Passed with fixes. The whole Twilighthollow book is unreadable, not half, because the Tree draft shows the elder recorded the letter (C11). C7's wording now matches. The custom's footing is a witness's own account, so the border exchange and the refusals agree with it. Gideon's rumors are kept off the letter, and the ink runs only while wet, away from the relic pattern. Naruin's name is off the statement. Ruan's arc changed: from "I only carry" to being the witness for the loss, asked quietly, not admitted in public.

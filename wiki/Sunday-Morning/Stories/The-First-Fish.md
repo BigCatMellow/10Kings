@@ -20,7 +20,7 @@ At Snowbreaker Quay nobody sells a fish until the first fish of the spring run h
 
 - **Good at:** smoke. She can hold a fire at one heat all night, she reads the weather from how smoke lies on the water, and she can make anything keep.
 - **Small flaw:** she won't bargain. "Smokehouses don't haggle." She hears every question about her fires as an insult to them.
-- **Why she resists:** the First Catch belongs to the elders and the custom, not to her. And she doesn't go to Skerrimouth. Her mother and the Skerrimouth headwoman's mother fell out over a net, and nobody remembers what about.
+- **Why she resists:** the First Catch belongs to the elders and the custom, not to her. And she hasn't left the smokehouse in a run season since she took it over. Somebody has to mind the fires, and it's always been her.
 
 ## Place
 
@@ -36,7 +36,7 @@ Recurring locations:
 
 ## Cast
 
-- **Edda Vorne**, Skerrimouth's headwoman. She's dry, practical and poorer than Kirsa assumed. Her water is full of fish she can only sell fresh or salted, cheap.
+- **Edda Kjeld**, Skerrimouth's headwoman. She's dry, practical and poorer than Kirsa assumed. Her water is full of fish she can only sell fresh or salted, cheap.
 - **The Quay elders**, who send Kirsa because a smokehouse matter can be discussed by the smokehouse without the elders losing face.
 - **The Frostbay buyer's man**, never on the page. His offer arrives by letter: coin now for sole fishing of Skerrimouth's offshore water this season.
 - **The Quay's boat crews**, idle on the slip and running up debts.
@@ -51,7 +51,7 @@ The run has moved, and nobody knows why. The custom says nobody sells until the 
 2. Edda is proud and assumes the Quay has come to take her fish.
 3. The buyer's offer is better than anything the Quay can pay in coin.
 4. The custom itself: even a deal leaves the first fish coming from someone else's water, and the elders won't hear of it.
-5. Maris Bleakshore's convoy lists are due. Each town must name the towns it will sail with this season, "coves whose waters were clean", and the Quay's crews are already saying that anyone who takes Frostbay money isn't clean.
+5. Maris Bleakshore wants every cove's convoy list confirmed before the first summer convoy sails. The Quay's list, sent in the autumn, names Skerrimouth, as it always has. The Quay's crews are already saying that anyone who takes Frostbay money isn't one of the "coves whose waters were clean", and want Skerrimouth struck off.
 
 ## Running elements
 
@@ -91,7 +91,7 @@ Part of [Collection](../Notes/Collection.md#the-web), Year 2, late spring.
 | | |
 | --- | --- |
 | **Current event** | [Fish stocks and access](../../Story/Current-Events.md#fish-stocks-and-access): the run moves and changes who fishes where. [Convoy politics](../../Story/Current-Events.md#piracy-and-convoy-politics) make every town choose whom it trusts. |
-| **Domino figure** | [Maris Bleakshore](../../Story/Villains-Dominoes.md#maris-bleakshore--northwind), offstage. Her convoy lists from last autumn are due. |
+| **Domino figure** | [Maris Bleakshore](../../Story/Villains-Dominoes.md#maris-bleakshore--northwind), offstage. She wants last autumn's convoy lists confirmed before the summer convoys. |
 | **The nail** | The Frostbay buyer's offer: coin now for sole access to Skerrimouth's offshore water. It's an ordinary contract, and it turns a shared problem into two towns that won't sail together. |
 | **Independent reasons** | The fish really moved. Skerrimouth really is poorer. The Quay really can't sell until the first fish. The convoy lists really ask each town whom it trusts. |
 | **Behind it (out of story)** | Why the fish moved is `UNKNOWN`. Who backs the Frostbay buyer is `UNKNOWN`: Port credit, a merchant house, or someone else. Sole-access contracts that sort the coast into towns that trust each other and towns that don't are the kind of thing the Villain can use, provisionally. Nobody here sees it. |
@@ -129,7 +129,7 @@ Connection to keep: what Kirsa has to offer (3) is the thing she guards hardest,
 | Fish runs move between neighboring waters | `VERIFIED` in kind | [Fish stocks and access](../../Story/Current-Events.md#fish-stocks-and-access). The cause is `UNKNOWN` and nobody explains it. |
 | Towns own their water | `ASSUMED` → **narrowed** | Precise maritime law is open ([Law](../../Law-and-Jurisdiction.md)). "Our water" is local custom between clans, never a code. |
 | Credit falls due at the first sale | `VERIFIED` in kind | Debts carry seasonal triggers ([Money #18](../../Money-Credit-and-Measures.md#18-debt-is-also-temporal)). The first-sale trigger is a provisional detail. |
-| Maris's lists are due this season | `VERIFIED` | [The Greenvale Man](The-Greenvale-Man.md): she asked every cove to name the coves it would sail with in convoy next season. |
+| Maris's lists come up again this season | `ASSUMED` | [The Greenvale Man](The-Greenvale-Man.md): she asked every cove to name the coves it would sail with in convoy next season, and coves sent their lists in the autumn. A spring confirmation before the first convoy sails is a provisional detail; the independent check caught the earlier `VERIFIED`. |
 | Who backs the buyer | `UNKNOWN` | Left open. |
 
 **First principles.** The story needs two towns that each hold half of the answer, someone who can't bargain doing the bargaining, and an ending that changes a list in Maris Bleakshore's hands without anyone knowing why it matters. Removed convention: the clever negotiator. Kirsa wins by giving the first thing asked for. The smallest mechanism: fish without fires on one side, fires without fish on the other.
@@ -171,7 +171,7 @@ reconsider if     the deal needs a ledger to explain; Edda reads as an obstacle;
 
 | # | Place · clock | What happens | Must establish | Running element |
 | --- | --- | --- | --- | --- |
-| 1 | The quay smokehouse · day 1 dawn | The cold smokehouse. The boats can't go. The elders send Kirsa. | the custom; the moved run; the credit; Kirsa's pride and her old quarrel | a smoke-saying over an unlit fire |
+| 1 | The quay smokehouse · day 1 dawn | The cold smokehouse. The boats can't go. The elders send Kirsa. | the custom; the moved run; the credit; Kirsa's pride; she hasn't left the smokehouse in a run season | a smoke-saying over an unlit fire |
 | 2 | The headland path · day 1 | The walk, in wind. Her sayings about every chimney she passes. | the distance; her habit; her nerves | smoke-sayings |
 | 3 | Skerrimouth's shed · day 1 afternoon | Edda, proud and poorer than Kirsa thought. The shed too small. The buyer's letter on the table. Kirsa insults the shed without meaning to. | Edda's position; the offer; the failed first meeting | the shed |
 | 4 | Skerrimouth · day 1 evening | Kirsa has to stay the night. Edda feeds her stew from the communal pot, stiffly. The convoy lists come up. | the meal; the convoy pressure; both towns' suspicion | — |
@@ -187,7 +187,6 @@ reconsider if     the deal needs a ledger to explain; Edda reads as an obstacle;
 | P1 the cold smokehouse | s1 | s3 the small shed | s8 lit | image | planned |
 | P2 Kirsa won't bargain | s1 | s3 the insult | s7 she gives first | character | planned |
 | P3 smoke-sayings | s1 | s5 Edda answers one | s8 | comic → relationship | planned |
-| P4 the mothers' quarrel over a net | s1 | s4 Edda mentions it too | s8 nobody remembers, still | comic | planned |
 | P5 the first fish goes to the keeper | s1 | — | s8 she gives it away | custom | planned |
 | C8 Maris's convoy lists | [The Greenvale Man](The-Greenvale-Man.md) | s4 | s8 | cross-story | planned |
 
@@ -196,3 +195,7 @@ reconsider if     the deal needs a ledger to explain; Edda reads as an obstacle;
 - Scene 7 turns into figures → cut to the one offer and the one test (PLAN).
 - Edda is only there to say no → give her a want of her own in s4 (her people's winter) (THINK).
 - The convoy lists feel bolted on → plant them in s1, from the crews on the slip (PLAN).
+
+### Stage 2b — Independent plan check
+
+2026-11-03. A fresh reviewer that didn't write the plans checked all seven against the primary records and the existing drafts. Passed with fixes. Maris's lists were marked `VERIFIED` as due this season; The Greenvale Man has them sent in the autumn, so the spring confirmation is now `ASSUMED`. The mothers' old quarrel was cut: it echoed The Goat File's mothers and never paid off. Edda's surname changed from Vorne to Kjeld (Varne/Vorne).

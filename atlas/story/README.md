@@ -8,7 +8,7 @@ The main conflict, the current events and how they can ripple into each other, t
 
 Current events sit in their region's column (the cross-region ripple steps, the faiths' reading of the crises and the main-conflict cards in a Main conflict column). Each Sunday Morning story and seed sits in the column of its setting, with lines to its town or region, its festival, the events it sits on, its domino figure, its cast from Part 6, and the stories it shares a thread with. The ripple chain from Current Events is drawn step by step and marked possible.
 
-**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 2 story seeds; 244 connections (234 stated in the wiki, 10 inferred).
+**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 2 story seeds; 242 connections (232 stated in the wiki, 10 inferred).
 
 ## Gaps this part exposes
 
@@ -163,7 +163,6 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | The Blank Square | runs up to | Gathering Quiet | stated | “Year 2 early autumn, over the last three days of the stitching” [source](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md#premise) |
 | The Blank Square | sits on | Faiths read the crises | stated | “Religious networks; logging and road conflict” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
 | The Blank Square | sits on | Logging and road conflict | stated | “Religious networks; logging and road conflict” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
-| The Blank Square | touches the domino of | Naruin Mossglade | stated | “offstage, first name on the road statement” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
 | The Eighth Verse | shares a thread with | The Blank Square | stated | “the reform statement” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
 | The Greenvale Man | shares a thread with | The First Fish at Snowbreaker Quay | stated | “Maris's convoy lists” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
 | The Goat File | shares a thread with | The Road in Use | stated | “Lio Tarrow” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
@@ -243,14 +242,14 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Zeyna | appears in | The Ladder Rules | stated | “Ladder Rules | Zeyna | oil-seller's widow” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Bahriyya Nazar | appears in | The Ladder Rules | stated | “Ladder Rules | Bahriyya Nazar | Sunplains domino figure (offstage)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Kirsa Lowe | appears in | The First Fish at Snowbreaker Quay | stated | “First Fish | Kirsa Lowe | smokehouse keeper” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
-| Edda Vorne | appears in | The First Fish at Snowbreaker Quay | stated | “First Fish | Edda Vorne | Skerrimouth headwoman” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Edda Kjeld | appears in | The First Fish at Snowbreaker Quay | stated | “First Fish | Edda Kjeld | Skerrimouth headwoman” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Maris Bleakshore | appears in | The First Fish at Snowbreaker Quay | stated | “First Fish | Maris Bleakshore | Northwind domino figure (her lists only)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Zan Coyle | appears in | The Road in Use | stated | “Road in Use | Zan Coyle | mule-wrangler (also Mushrooms)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Vinegar | appears in | The Road in Use | stated | “Road in Use | Vinegar | lead pony (also Mushrooms)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Jaske | appears in | The Road in Use | stated | “Road in Use | Jaske | family claiming the tower” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Merrow | appears in | The Road in Use | stated | “Road in Use | Merrow | family claiming the tower” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Lio Tarrow | appears in | The Road in Use | stated | “Road in Use | Lio Tarrow | guide (also Goat File, C9)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
-| Kettie Gamble | appears in | Walkout Pies | stated | “Walkout Pies | Kettie Gamble | pie-maker” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Kettie Sowerby | appears in | Walkout Pies | stated | “Walkout Pies | Kettie Sowerby | pie-maker” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Bosk Ferrin | appears in | Walkout Pies | stated | “Walkout Pies | Bosk Ferrin | crews' leader” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Nadia Pryor | appears in | Walkout Pies | stated | “Walkout Pies | Nadia Pryor | pour-master” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Lusk | appears in | Walkout Pies | stated | “Walkout Pies | Lusk | foreman” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
@@ -264,7 +263,6 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Wilda | appears in | The Blank Square | stated | “Blank Square | Wilda | Weaver house keeper” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Gideon | appears in | The Blank Square | stated | “Blank Square | Gideon | Compass pilgrim” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Nils Orvay | appears in | The Blank Square | stated | “Blank Square | Nils Orvay | Illuminated copyist” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
-| Naruin Mossglade | appears in | The Blank Square | stated | “Blank Square | Naruin Mossglade | Deepwood domino figure (offstage)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Zan Coyle | appears in | The Mushrooms From Nowhere | stated | “Road in Use | Zan Coyle | mule-wrangler (also Mushrooms)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Vinegar | appears in | The Mushrooms From Nowhere | stated | “Road in Use | Vinegar | lead pony (also Mushrooms)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 
@@ -467,12 +465,12 @@ flowchart LR
   sm_rafiq_daunt["Rafiq Daunt"]
   sm_zeyna["Zeyna"]
   sm_kirsa_lowe["Kirsa Lowe"]
-  sm_edda_vorne["Edda Vorne"]
+  sm_edda_kjeld["Edda Kjeld"]
   sm_zan_coyle["Zan Coyle"]
   sm_vinegar["Vinegar"]
   sm_jaske["Jaske"]
   sm_merrow["Merrow"]
-  sm_kettie_gamble["Kettie Gamble"]
+  sm_kettie_sowerby["Kettie Sowerby"]
   sm_bosk_ferrin["Bosk Ferrin"]
   sm_nadia_pryor["Nadia Pryor"]
   sm_lusk["Lusk"]
@@ -675,7 +673,6 @@ flowchart LR
   story_blank_square --> f_gathering_quiet
   story_blank_square --> st_x_faiths
   story_blank_square --> st_dw_road
-  story_blank_square --> pp_naruin
   story_eighth_verse --> story_blank_square
   story_greenvale_man --> story_first_fish
   story_goat_file --> story_road_in_use
@@ -694,14 +691,14 @@ flowchart LR
   sm_zeyna --> story_ladder_rules
   pp_bahriyya --> story_ladder_rules
   sm_kirsa_lowe --> story_first_fish
-  sm_edda_vorne --> story_first_fish
+  sm_edda_kjeld --> story_first_fish
   pp_maris --> story_first_fish
   sm_zan_coyle --> story_road_in_use
   sm_vinegar --> story_road_in_use
   sm_jaske --> story_road_in_use
   sm_merrow --> story_road_in_use
   sm_lio_tarrow --> story_road_in_use
-  sm_kettie_gamble --> story_walkout_pies
+  sm_kettie_sowerby --> story_walkout_pies
   sm_bosk_ferrin --> story_walkout_pies
   sm_nadia_pryor --> story_walkout_pies
   sm_lusk --> story_walkout_pies
@@ -715,7 +712,6 @@ flowchart LR
   sm_wilda --> story_blank_square
   sm_gideon --> story_blank_square
   sm_nils_orvay --> story_blank_square
-  pp_naruin --> story_blank_square
   sm_zan_coyle --> story_mushrooms
   sm_vinegar --> story_mushrooms
 ```

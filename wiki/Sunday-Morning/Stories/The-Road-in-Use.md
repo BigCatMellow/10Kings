@@ -31,7 +31,7 @@ Recurring locations:
 1. **The animal yards**, Zan's refuge.
 2. **The blessing road**, from the west gate along the saddle to the shrine, cut halfway by the fall.
 3. **The rockfall**, a slope of fresh scree across the road. Nobody was on the road when it came down.
-4. **The bypass and the tower**: a goat track round the fall, past the stump of a stone tower with a name cut over its door in Old Spine letters nobody can read.
+4. **The bypass and the tower**: a goat track round the fall, past the stump of a stone tower with a name carved over its door, worn past reading.
 5. **The Compass shrine**, where the blessing ends.
 6. **The stair-hut by the east gate**, where the Underpass stair comes up. It's shut this spring.
 
@@ -39,7 +39,7 @@ Recurring locations:
 
 - **Vinegar**, the old lead pony who has headed the blessing string for years. She has opinions about edges.
 - **The Jaskes and the Merrows**, two families, each sure the tower was theirs. Each reads the carved name as its own great-grandmother's. Neither is wrong to be sure, and neither can prove it.
-- **Lio Tarrow**, from Seven Wells, hired to guide the first outbound caravan. He's saving for a wedding, he doesn't care whose tower it is, and he's the only person Zan finds easy to talk to.
+- **Lio Tarrow**, from Seven Wells, hired to guide the first outbound caravan. He was married this spring, he doesn't care whose tower it is, and he's the only person Zan finds easy to talk to.
 - **The shrine keeper**, who'll bless whatever road arrives.
 - **The customs clerk**, who read the letter out and wishes he hadn't.
 
@@ -50,16 +50,16 @@ The blessing has to walk a road, and the road it walks is the road of record. If
 ## Complications
 
 1. Both families court Zan, since he leads the string: gifts at the yard, invitations, hints.
-2. The carved name. Each family reads its ancestor's name in it, and the shrine keeper, who can read Old Spine letters, says she can't tell either.
+2. The carved name. It's worn nearly smooth. Each family reads its great-grandmother's name in what's left, and the shrine keeper, who has read every old stone on the saddle, says she can't tell either.
 3. The clearing crew is short. Half the able-bodied are Jaskes or Merrows, and neither family will dig.
 4. Word comes that the caravan is a day early.
-5. The stair-hut's broker hasn't come up from below this spring. The deep road fell in the same shake, people say. There are no cellar mushrooms in the market, and nobody knows when there will be.
+5. The stair-hut's broker hasn't come up from below this spring. The deep road fell in the same shake. He's alive, word came up the stair, and working some other way round on the far side. But there are no cellar mushrooms in the market, and nobody knows when there will be.
 
 ## Running elements
 
 - **Vinegar.** Every scene with her is a negotiation Zan wins by not talking.
 - **The lot.** People keep reminding Zan it chose him, as if that meant something. Lio decides it does.
-- **The carved name**, read three ways, translated never.
+- **The carved name**, read three ways, settled never.
 
 ## Emotional core
 
@@ -67,7 +67,7 @@ You can't hide from people forever, and you don't have to win an argument to end
 
 ## Solution
 
-Vinegar refuses the bypass. At the tower the goat track runs along an open edge, and the old pony plants her feet and won't go on. Zan won't force her, and the string won't pass without her. So the blessing can't go by the bypass, and the town has one night to clear the old road. The families dig, because neither will let the other say it didn't.
+Vinegar refuses the bypass. At the tower the goat track runs along an open edge, and the old pony plants her feet and won't go on. Zan won't force her, and the string won't pass without her. So the blessing can't go by the bypass, and the town has one night to clear the old road. The families dig because the letter cuts both ways: no blessing means no road of record, and no road of record means no toll share this season for anyone, tower or gate. Once they're digging, neither will let the other say it dug less.
 
 ## Climax
 
@@ -75,7 +75,7 @@ The night of digging, by lantern. Zan has to say one thing in public, to both fa
 
 ## Soft landing
 
-Morning. The string walks the old road to the shrine with Vinegar in front, and the keeper blesses it. The tower claim stays open; the two families will take it to arbitration on the plateau, and they argue about who'll pay the clerk all the way back to town. The stair-hut stays shut. (The story's meal is earlier, at the shut stair-hut with Lio: [plateau](../../Culture/Recipes/Highridge-Plateau.md) caravan fare from the market.) The final beat is Zan back in the yard, and somebody from one of the families coming to find him there, to talk.
+Morning. The string walks the old road to the shrine with Vinegar in front, and the keeper blesses it. The tower claim stays open; the two families will take it to arbitration on the plateau, and they argue about who'll pay the clerk all the way back to town. The stair-hut stays shut. (The story's meal is earlier, at the shut stair-hut with Lio: [plateau](../../Culture/Recipes/Highridge-Plateau.md) caravan fare from the market.) The final beat is Zan leaving the yard on his own, unasked, and going to the inn where both families are arguing, to sit down with them.
 
 ## World anchors
 
@@ -132,7 +132,7 @@ Connection to keep: Vinegar's refusal (5) and Zan's flaw (4) work together. He d
 | The quake is the one in The Heavy Scale | `ASSUMED` → **false** | The Heavy Scale has no quake. This one comes after it, on another stretch of the range. |
 | Caravan Blessing walks a road | `ASSUMED` | Only the festival's name exists. The blessing walk from gate to shrine is a provisional custom. |
 | A road of record decides toll shares | `ASSUMED` | Provisional. It's plausible from the route authorities' role ([Highridge](../../Regions/Highridge-Plateau.md#politics)) and the calendar's threshold rules. |
-| The carved name can be read | `UNKNOWN` by rule | Old Spine speech isn't named or translated ([Open Questions](../../Open-Questions.md#language-and-naming)). The story shows three readings and settles none. |
+| The carved name can be read | `UNKNOWN` by rule | It's an old carving worn past reading, not Old Spine: Old Spine "survives only in place names" and nobody speaks it ([Language and Thought](../../Culture/Language-and-Thought.md)), and scripts are open ([Language Families](../../Language-Families-and-Contact.md)). The story shows three readings and settles none. |
 | The tower's history | `UNKNOWN` | A "Ridge Pass Toll Wars" episode is provisional ([Pre-Convergence](../../History/Pre-Convergence.md#working-conflict-traditions)). Nobody in the story knows, and nobody says. |
 
 **First principles.** The story needs a deadline, a quarrel with no villain, a protagonist who'd rather not, and a resolution that isn't a ruling. Removed convention: deciding who owns the tower. The story makes the question unnecessary for the season. The smallest mechanism: the toll goes where the blessing walks, and the pony won't walk there.
@@ -152,7 +152,7 @@ Connection to keep: Vinegar's refusal (5) and Zan's flaw (4) work together. He d
 ```text
 frame             an ensemble road comedy: a ruling nobody can make, made unnecessary by a pony
 selected strategy road of record; the lead pony refuses the edge; one night's digging; the claim left open
-alternatives      A Zan reads the carved name and settles it: set aside, Old Spine stays untranslated
+alternatives      A Zan reads the carved name and settles it: set aside, the carving stays unread
                   B the arbiter rules at the shrine: set aside, a ruling, and it's The Goat File again
                   C the blessing is postponed: set aside, the toll rule still bites, and nothing changes
 assumptions       the blessing walk, the road-of-record rule and the stair-hut are provisional
@@ -165,8 +165,8 @@ reconsider if     Vinegar reads as a coincidence; the night's work reads as harm
 | Assumption | Status | Finding |
 | --- | --- | --- |
 | The quake can be someone's doing | `ASSUMED` → **false** | It reads as ordinary nature. Only the letter's effect is the nail. |
-| The Underpass can be shown | `ASSUMED` → **narrowed** | Only the shut stair-hut and a missing broker. No corridor appears, so nothing about the Underpass's geography is settled. |
-| Lio Tarrow can guide here | `VERIFIED` | Seven Wells is "water and guides, one roof" ([The Heavy Scale](The-Heavy-Scale.md)). His wedding is mentioned without settling who hosts it, which [The Goat File](The-Goat-File.md) left open. |
+| The Underpass can be shown | `ASSUMED` → **narrowed** | Only the shut stair-hut and a broker who sent word he's alive. No corridor appears, so nothing about the Underpass's geography is settled. |
+| Lio Tarrow can guide here | `VERIFIED` | Seven Wells is "water and guides, one roof" ([The Heavy Scale](The-Heavy-Scale.md)). The Goat File draft sets the wedding "for the spring", so by late spring he's newly married. Which house hosted isn't said; [The Goat File](The-Goat-File.md) ties the goat to that. |
 
 ### Stage 2 — PLAN
 
@@ -178,11 +178,11 @@ reconsider if     Vinegar reads as a coincidence; the night's work reads as harm
 | 2 | The customs house · day 1 | The letter read aloud. The road of record. The families' claims, made at once and loudly. | the nail; the tower; the families | the carved name (first reading) |
 | 3 | The bypass and the tower · day 1 afternoon | Zan walks the bypass with Vinegar to see. She goes, but slowly, and blows at the edge. The tower's carving. | the edge; the tower close up | Vinegar; the carved name |
 | 4 | The yards · day 2 | Both families court Zan. He agrees with each in turn. Lio arrives with word that the caravan is a day early. | the courting; Zan's agreeing habit; the deadline | the lot (Lio: "it picked you") |
-| 5 | The stair-hut and the market · day 2 | The moment where nothing happens: Zan and Lio eating at the shut stair-hut while the market goes on. No cellar mushrooms; the deep road fell. | the seed for the Underpass story; the friendship | — |
+| 5 | The stair-hut and the market · day 2 | The moment where nothing happens: Zan and Lio eating at the shut stair-hut while the market goes on. No cellar mushrooms; the deep road fell; the broker's alive, by word up the stair. | the seed for the Underpass story; the friendship | — |
 | 6 | The bypass · day 3 morning, the rehearsal | The string walks the bypass. At the tower's edge Vinegar plants her feet. Zan won't force her. | the refusal | Vinegar |
 | 7 | The rockfall · day 3 night | Zan's four sentences, to both families. The digging, side by side. Lio guides, the caravan's mules haul. | the climax; Zan speaks | the lot (he was the one it picked, so he says it) |
 | 8 | The blessing road and shrine · blessing morning | The string walks the old road. The blessing. The claim to arbitration. | the local outcome | Vinegar in front |
-| 9 | The road home and the yards · that evening | The families arguing about the clerk's fee. Zan back in the yard, and someone comes to find him there. | soft landing; Zan's change | — |
+| 9 | The road home and the inn · that evening | The families arguing about the clerk's fee. Zan leaves the yard and goes to the inn to sit with them, unasked. | soft landing; Zan's change | — |
 
 **Promise ledger**
 
@@ -200,3 +200,7 @@ reconsider if     Vinegar reads as a coincidence; the night's work reads as harm
 - A reader thinks the pony refusing is lucky → make s3's slowness at the edge a full beat, not a line (PLAN).
 - Zan's speech becomes a speech → cut to the four sentences (DO).
 - The tower starts to need a history → cut the shrine keeper's line about the letters (PLAN). The tower's past isn't this story's business.
+
+### Stage 2b — Independent plan check
+
+2026-11-03. A fresh reviewer that didn't write the plans checked all seven against the primary records and the existing drafts. Passed with fixes. The tower's name is an old carving worn past reading, not Old Spine letters: Old Spine survives only in place names and scripts are open. Lio is newly married, because The Goat File draft sets the wedding for the spring. The families now dig because the letter cuts both ways: no blessing, no toll share for anyone. The broker sends word he's alive (C12). The last beat changed, because "someone comes to find him" was close to The Greenvale Man's barrel.

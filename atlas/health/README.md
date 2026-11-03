@@ -6,7 +6,7 @@
 
 ## At a glance
 
-- **473** things mapped, **674** connections (88% stated in the wiki, the rest inferred)
+- **473** things mapped, **672** connections (88% stated in the wiki, the rest inferred)
 - **32** open questions ([Part 8](../questions/README.md))
 - **80** gaps listed across the parts
 - **74** cards with no connection yet

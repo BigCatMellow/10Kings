@@ -31,7 +31,7 @@ Of 30 ground-level dominoes: **14** have a story, **16** are touched by one, **0
 - **Caravan attacks** (Highridge): touched by The Goat File, The Heavy Scale at Icestep Summit
 - **Samir Tareh** (Highridge): touched by The Heavy Scale at Icestep Summit
 - **Debates tied to patrons** (Highridge): touched by The Tree With a Debt
-- **Naruin Mossglade** (Deepwood): touched by The Tree With a Debt, The Blank Square (planned)
+- **Naruin Mossglade** (Deepwood): touched by The Tree With a Debt
 - **Plans leak; wardens ready to block** (Deepwood): touched by The Tree With a Debt
 - **Fungal blight on forest foods** (Deepwood): touched by The Mushrooms From Nowhere (planned), Three Pots at Three Moon
 - **Drought anxiety** (Sunplains): touched by The Ladder Rules (planned)
@@ -161,7 +161,7 @@ flowchart TB
 | Highridge | [Trade concentrates on 'safe' routes](../../wiki/Story/Current-Events.md#caravan-attacks) | current event | has a story: [The Heavy Scale at Icestep Summit](../../wiki/Sunday-Morning/Drafts/The-Heavy-Scale.md), [The Goat File](../../wiki/Sunday-Morning/Drafts/The-Goat-File.md) (touches) | Caravan attacks; Samir Tareh | Smuggling surge |
 | Highridge | [Debates tied to patrons](../../wiki/Story/Current-Events.md#political-debate) | current event | touched by a story: [The Tree With a Debt](../../wiki/Sunday-Morning/Drafts/The-Tree-With-a-Debt.md) (touches) | — | — |
 | Deepwood | [Road and logging plans](../../wiki/Story/Current-Events.md#logging-and-road-conflict) | current event | has a story: [The Tree With a Debt](../../wiki/Sunday-Morning/Drafts/The-Tree-With-a-Debt.md), [The Blank Square (planned)](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md) (touches) | — | Plans leak; wardens ready to block |
-| Deepwood | [Naruin Mossglade](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood) | character domino | touched by a story: [The Tree With a Debt](../../wiki/Sunday-Morning/Drafts/The-Tree-With-a-Debt.md) (touches), [The Blank Square (planned)](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md) (touches) | — | Plans leak; wardens ready to block |
+| Deepwood | [Naruin Mossglade](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood) | character domino | touched by a story: [The Tree With a Debt](../../wiki/Sunday-Morning/Drafts/The-Tree-With-a-Debt.md) (touches) | — | Plans leak; wardens ready to block |
 | Deepwood | [Plans leak; wardens ready to block](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood) | current event | touched by a story: [The Tree With a Debt](../../wiki/Sunday-Morning/Drafts/The-Tree-With-a-Debt.md) (touches) | Road and logging plans; Naruin Mossglade | Local shocks read as proof of enemies |
 | Deepwood | [Fungal blight on forest foods](../../wiki/Story/Current-Events.md#fungalecological-disruption) | current event | touched by a story: [The Mushrooms From Nowhere (planned)](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md) (touches), [Three Pots at Three Moon](../../wiki/Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md) (touches), [The Talker](../../wiki/Sunday-Morning/Stories/Story-Seeds.md) (seed) | — | Displaced families arrive *(story design)* |
 | Sunplains | [Drought anxiety](../../wiki/Story/Current-Events.md#drought-anxiety) | current event | touched by a story: [The Ladder Rules (planned)](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md) (touches) | — | City-states coordinate |

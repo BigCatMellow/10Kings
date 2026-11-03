@@ -49,7 +49,8 @@ These were decided while drafting or reorganizing. Each is reversible from the r
   - Garro Sedgewater doesn't appear a third time, to keep each story linked to at most two others ([The Mushrooms From Nowhere](../Stories/The-Mushrooms-From-Nowhere.md), Stage 1b).
   - Maris Bleakshore stays offstage; only her convoy lists appear ([The First Fish](../Stories/The-First-Fish.md), Stage 1b).
   - Whether the blight reaches cultivated cellar fungi is left `UNKNOWN` ([The Mushrooms From Nowhere](../Stories/The-Mushrooms-From-Nowhere.md)).
-  - The new customs are provisional and story-level: the Cellar Song, "two to a ladder", the First Catch landing rule, the blessing walk and road of record, the great pour and its long table, the fair's mark rule, the year-cloth.
+  - The new customs are provisional and story-level: the Cellar Song and its round of doors; "two to a ladder", the lighters' taboo on *light* and the Solstice lantern-share; the First Catch landing rule, the keeper's first fish and Kirsa's smoke-sayings; the blessing walk and the road of record; the great pour, its long table and "nobody pours hungry"; the fair's mark rule and its grower's exception; the year-cloth, its witness rule and the border exchange between houses.
+  - Naruin Mossglade's name is left off The Blank Square's road statement ([The Blank Square](../Stories/The-Blank-Square.md), Stage 1).
 - **Verdict on the spoken-register test** ([D14](#the-authors-decisions)): does [One Square](../Drafts/One-Square-Two-Harvests.md) now sound like him? If yes, the other six get the same pass ([Craft: write how people talk](Craft.md#write-how-people-talk)).
 - **The two plot changes** W4 and W5.
 - **Lines in the cautious categories** ([who writes what](Craft.md#ai-and-the-author-who-writes-what)) he wants to rewrite himself.
