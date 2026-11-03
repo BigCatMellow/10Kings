@@ -178,7 +178,7 @@ reconsider if     the stand-down reads as a villain's strike; the count needs ex
 | 2 | Assembly steps · day 1 | The deputation. Rafiq refuses in compliments. Qadir refuses back. Nobody says no. | the formal register; both sides boxed in | the register |
 | 3 | Rennet roof terrace · day 1 dusk | Flatbread and a clay-pot braise. Dov's knee. The moment where nothing happens: the two of them watching the dark city. She says she's never climbed; he says he knows. | her flaw; his great lamp; the meal | — |
 | 4 | Lamp yard · day 2 morning | Yusa looks at both ledgers. Neither has a footer in it. She starts a list. | the discovery: the footers don't exist on paper | the count (of people now) |
-| 5 | The rounds · days 2 and 3 | Door to door, getting a name for every lamp. Zeyna's cellar. Qadir's lighters join and take the other rounds. | the count growing; Zeyna as supplier, not hoarder | — |
+| 5 | The rounds · days 2 and 3 | Door to door, getting a name for every footer. Zeyna's cellar. Qadir's lighters join and take the other rounds. | the count growing; Zeyna as supplier, not hoarder | — |
 | 6 | Assembly steps · day 3, the longest night's afternoon | The count: a footer for every lighter. Two to a ladder, always. The lamp-share, a festival gift that needs no vote. Rafiq can agree without losing. | the solution | the register turned to agreement |
 | 7 | The rounds · the longest night | The lighting. "Light holds!" across the city; the count rising. | the city lit | the count; the call |
 | 8 | The great lamp · midnight | Dov can't climb. Yusa won't. Rafiq climbs; Yusa foots and talks him up. | the climax; who holds the ladder | the final "Light holds!", from the bottom |

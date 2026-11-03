@@ -110,6 +110,15 @@ Every named character in the drafts. Mark canon figures `canon`: the script repo
 | Eighth Verse | Pettigrew | old man on the round, the former warden | minor |
 | Eighth Verse | Yeo | household on the round | minor |
 | Eighth Verse | Elwin | household on the round | minor |
+| Ladder Rules | Fesse | lighter who broke his wrist (story told) | minor |
+| Ladder Rules | Mehri Ash | lighter on the eastern round | minor |
+| Ladder Rules | Sabbagh | twins who foot for each other | minor |
+| Ladder Rules | Wahid | lighter on the eastern round | minor |
+| First Fish | Ulric | Quay elder | minor |
+| Road in Use | Arn Merrow | head of the Merrows | cast |
+| Road in Use | Udo | stair-hut broker (also Mushrooms; C12) | minor |
+| Walkout Pies | Embry | carters' headman | cast |
+| Blank Square | Sorrel Mabb | stitcher | minor |
 <!-- registry:names:end -->
 
 ### Name rules
