@@ -178,7 +178,7 @@ He could have walked it first, the way he'd walked the plank. He thought about i
 
 It wasn't loud. But both families heard it, and so did Lio, and so did the six mules, and so, possibly, did Vinegar, who turned her head and looked at Zan as if she'd been waiting for him to say it.
 
-He turned her round. It took a while on a track that narrow, and the mules had to be backed down one at a time, and nobody spoke the whole way.
+He turned her round. It took a while on a track that narrow, and the mules had to be backed down singly, and nobody spoke the whole way.
 
 ---
 
