@@ -24,8 +24,8 @@ Of 30 ground-level dominoes: **14** have a story, **16** are touched by one, **0
 - **Maris Bleakshore** (Northwind): touched by The Greenvale Man, The First Fish at Snowbreaker Quay (planned)
 - **Smuggling surge** (Port): touched by The Mushrooms From Nowhere (planned), Three Pots at Three Moon
 - **Rosana Meadowcroft** (Greenvale): touched by One Square, Two Harvests
-- **Farmers default** (Greenvale): touched by The Eighth Verse (planned), Inspected, Not Guaranteed
-- **Consolidators buy distressed farms** (Greenvale): touched by One Square, Two Harvests, The Eighth Verse (planned), Three Pots at Three Moon
+- **Farmers default** (Greenvale): touched by The Eighth Verse (test draft), Inspected, Not Guaranteed
+- **Consolidators buy distressed farms** (Greenvale): touched by One Square, Two Harvests, The Eighth Verse (test draft), Three Pots at Three Moon
 - **Orin Slatehallow** (Ironcrest): touched by Inspected, Not Guaranteed, Walkout Pies (planned)
 - **Good metal vanishing into private contracts** (Ironcrest): touched by Inspected, Not Guaranteed
 - **Caravan attacks** (Highridge): touched by The Goat File, The Heavy Scale at Icestep Summit
@@ -59,7 +59,7 @@ flowchart TB
     gv_abundance["Bumper harvest won't sell<br/><i>One Square, Two Harvests</i>"]
     gv_default["Farmers default"]
     gv_land["Consolidators buy distressed farms"]
-    gv_reformers["Reformers call it coordinated theft<br/><i>The Eighth Verse (planned)</i>"]
+    gv_reformers["Reformers call it coordinated theft<br/><i>The Eighth Verse (test draft)</i>"]
   end
   subgraph r_Ironcrest["Ironcrest"]
     fig_orin(["Orin Slatehallow"])
@@ -149,9 +149,9 @@ flowchart TB
 | Port | [Displaced families arrive](../../wiki/Story/Current-Events.md#refugeeworker-pressure) | current event | has a story: [Three Pots at Three Moon](../../wiki/Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md) | Consolidators buy distressed farms *(story design)*; Fungal blight on forest foods *(story design)* | — |
 | Greenvale | [Rosana Meadowcroft](../../wiki/Story/Villains-Dominoes.md#rosana-meadowcroft--greenvale) | character domino | touched by a story: [One Square, Two Harvests](../../wiki/Sunday-Morning/Drafts/One-Square-Two-Harvests.md) (touches) | — | Bumper harvest won't sell |
 | Greenvale | [Bumper harvest won't sell](../../wiki/Story/Current-Events.md#abundance-crisis) | current event | has a story: [One Square, Two Harvests](../../wiki/Sunday-Morning/Drafts/One-Square-Two-Harvests.md) | Shipping losses; credit and insurance tighten; Rosana Meadowcroft | Farmers default; Consolidators buy distressed farms; City-states coordinate *(story design)* |
-| Greenvale | [Farmers default](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step | touched by a story: [The Eighth Verse (planned)](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md) (touches), [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md) (touches) | Bumper harvest won't sell | Council steadies the lenders; Tool orders fall; workshops cut hours *(story design)* |
-| Greenvale | [Consolidators buy distressed farms](../../wiki/Story/Current-Events.md#land-and-seed-politics) | current event | touched by a story: [One Square, Two Harvests](../../wiki/Sunday-Morning/Drafts/One-Square-Two-Harvests.md) (touches), [The Eighth Verse (planned)](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md) (touches), [Three Pots at Three Moon](../../wiki/Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md) (touches) | Council steadies the lenders; Bumper harvest won't sell | Reformers call it coordinated theft; Displaced families arrive *(story design)* |
-| Greenvale | [Reformers call it coordinated theft](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step | has a story: [The Eighth Verse (planned)](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md), [The Blank Square (planned)](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md) (touches) | Consolidators buy distressed farms; Faiths compare notes | Tool orders fall; workshops cut hours |
+| Greenvale | [Farmers default](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step | touched by a story: [The Eighth Verse (test draft)](../../wiki/Sunday-Morning/Drafts/The-Eighth-Verse.md) (touches), [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md) (touches) | Bumper harvest won't sell | Council steadies the lenders; Tool orders fall; workshops cut hours *(story design)* |
+| Greenvale | [Consolidators buy distressed farms](../../wiki/Story/Current-Events.md#land-and-seed-politics) | current event | touched by a story: [One Square, Two Harvests](../../wiki/Sunday-Morning/Drafts/One-Square-Two-Harvests.md) (touches), [The Eighth Verse (test draft)](../../wiki/Sunday-Morning/Drafts/The-Eighth-Verse.md) (touches), [Three Pots at Three Moon](../../wiki/Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md) (touches) | Council steadies the lenders; Bumper harvest won't sell | Reformers call it coordinated theft; Displaced families arrive *(story design)* |
+| Greenvale | [Reformers call it coordinated theft](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step | has a story: [The Eighth Verse (test draft)](../../wiki/Sunday-Morning/Drafts/The-Eighth-Verse.md), [The Blank Square (planned)](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md) (touches) | Consolidators buy distressed farms; Faiths compare notes | Tool orders fall; workshops cut hours |
 | Ironcrest | [Orin Slatehallow](../../wiki/Story/Villains-Dominoes.md#orin-slatehallow--ironcrest) | character domino | touched by a story: [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md) (touches), [Walkout Pies (planned)](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md) (touches) | — | Good metal vanishing into private contracts |
 | Ironcrest | [Good metal vanishing into private contracts](../../wiki/Story/Current-Events.md#unusual-metal-movements) | current event | touched by a story: [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md) (touches), [The Bathhouse Compact](../../wiki/Sunday-Morning/Stories/Story-Seeds.md) (seed) | Orin Slatehallow | Tool orders fall; workshops cut hours *(story design)* |
 | Ironcrest | [Tool orders fall; workshops cut hours](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step | has a story: [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md), [Walkout Pies (planned)](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md) (touches) | Reformers call it coordinated theft; Farmers default *(story design)*; Good metal vanishing into private contracts *(story design)* | Labor unrest; strike talk |
@@ -182,7 +182,7 @@ flowchart TB
 - **C4** The Goat File → The Heavy Scale at Icestep Summit: Samir Tareh
 - **C5** The Heavy Scale at Icestep Summit → Three Pots at Three Moon: Garro the caravan cook
 - **C6** Inspected, Not Guaranteed → The Tree With a Debt: the two unsigned offers: one hand
-- **C7** The Eighth Verse (planned) → The Blank Square (planned): the reform statement travels
+- **C7** The Eighth Verse (test draft) → The Blank Square (planned): the reform statement travels
 - **C8** The Greenvale Man → The First Fish at Snowbreaker Quay (planned): Maris's convoy lists come due
 - **C9** The Goat File → The Road in Use (planned): Lio Tarrow guides a caravan
 - **C10** Inspected, Not Guaranteed → Walkout Pies (planned): Kerra Dunnock comes to see the pour

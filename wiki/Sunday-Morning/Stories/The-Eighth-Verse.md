@@ -216,3 +216,17 @@ Drafted 2026-11-03: [The Eighth Verse](../Drafts/The-Eighth-Verse.md), about 4,5
 - **DO: the last scene.** Oda fills two cups and doesn't offer one. Ulla sits down on the potato bin and picks it up. The doorway habit is never named as changed.
 - **After the plan check:** the Blight is never dated. The cellar that fed the Bend was "a Kemble's, some Kemble, Jessop's great-great-somebody".
 - **Checker:** clean after one pass. Seven five-word phrases shared with other stories were varied, and a "said anything" tic (five times in the first pass) was cut to one.
+- **Fresh check (2026-11-03).** A reviewer that didn't write the draft read it cold, then checked it against this page, the notes and One Square. **Verdict: pass with small fixes.** Fixed:
+  - A continuity slip that dated the Blight ("Jessop's grandmother").
+  - The sad moment told twice: the narrator explained the cheese before Jessop's line, so both narrator sentences are cut.
+  - "The last one" settled how long the Blight lasted, so it's cut.
+  - "The same week" moved Yorick toward seeing a pattern, so it's cut.
+  - Echoes of One Square: a bruised fruit as the opening image (now a sweating cheese), the polite buyers in good coats sitting in kitchens (the C3 manner, kept for its callback), and a "relieved, then annoyed at himself" sentence shape.
+  - Six places where the narration explained what a scene had shown.
+  - A coy line at the dark door that made readers brace for a death.
+  - The Kembles' absence wasn't planted. It is now: "Nobody mentioned it, and everybody counted."
+  - Old Pettigrew turned up at the Kemble cellar without walking the round. He's now carried along after his own door.
+
+  A second fresh check of the fixes found the Pettigrew sentence out of order, two leftover "rack"s from the old opening, and a repeated phrase; all are fixed. The cold reader's strongest and weakest lines in the cautious categories are left for bt 7274. Strongest: "And the whole Bend did." / "You end the round where you were fed." / "We'd have had to sing it here." Weakest: the paradox "You had to sit on a cold step and have it told to you", and the final sentence's rhythm.
+
+**Next level:** L4, once bt 7274 has read it. His verdict also decides how the other six are drafted ([D16](../Notes/Decisions.md#the-authors-decisions)).

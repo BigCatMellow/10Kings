@@ -1210,7 +1210,7 @@
       "lane": "greenvale",
       "section": "Stories",
       "src": "Sunday-Morning/Stories/The-Eighth-Verse.md#status",
-      "text": "A provisional Sunday Morning story, planned (L2) and not yet drafted: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there.",
+      "text": "A provisional Sunday Morning story, drafted as the test story for the seven added on 2026-11-02 (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there.",
       "short_text": "A cellar warden who can't sing has to lead a village's Root Cellar Night round to the door of the family who sold.",
       "facts": {
         "Premise": "On Root Cellar Night a Greenvale village walks its round of cellars and sings one verse of the old Blight song at each door. This year the song-keeper has lost her voice, and the cellar warden, who can't hold a tune, has to lead. A young reformer has walked in with a notice asking every village to add an eighth verse about the buyers. The round ends at the door of the family who sold.",
@@ -1231,6 +1231,7 @@
         "Outward effect": "Sunday-Morning/Notes/Collection.md#the-threads"
       },
       "see": [
+        "Sunday-Morning/Drafts/The-Eighth-Verse.md",
         "Sunday-Morning/Stories/The-Eighth-Verse.md",
         "Sunday-Morning/Notes/Collection.md#the-threads"
       ],

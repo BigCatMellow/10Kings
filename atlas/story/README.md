@@ -900,7 +900,7 @@ Grouped by board column.
 | [5. Farmers default](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 5 of one possible ripple chain: farmers default. |
 | [7. Consolidators buy farms](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 7 of one possible ripple chain: land consolidators buy distressed farms. |
 | [8. Reformers cry theft](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 8 of one possible ripple chain: religious and guild reformers call it coordinated theft. |
-| [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md#status) | Sunday Morning story, Year 1, midwinter | Provisional | A provisional Sunday Morning story, planned (L2) and not yet drafted: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md#status) | Sunday Morning story, Year 1, midwinter | Provisional | A provisional Sunday Morning story, drafted as the test story for the seven added on 2026-11-02 (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 
 **Abundance crisis**
 
@@ -944,7 +944,7 @@ Grouped by board column.
 - *Holds here:* Reedveil Bend won't sing the verse. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Still falls elsewhere:* Other villages sing it, and sign. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Outward effect:* The statement travels on; villages that sign refuse tools from the buyers' suppliers, adding to the fall in Ironcrest orders. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
-- *Also on:* [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+- *Also on:* [The Eighth Verse](../../wiki/Sunday-Morning/Drafts/The-Eighth-Verse.md), [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
 ### Sunplains
 
