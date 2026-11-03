@@ -24,7 +24,7 @@ He moved it. "It was fine."
 
 "It's fine now." She leaned her weight in. Thirty-one rungs on the long ladders, twenty-six on the short. This was a short. "Rung. Top. Hold."
 
-Yusa looked up at him once, as she always did, and the whole yard tipped sideways, and she put her eyes back on her own two hands on the stiles. She always did that too.
+Yusa glanced up at him, and the whole yard tipped sideways, and she put her eyes back on her own two hands on the stiles, which was where they lived.
 
 He held. He hung there at the top of the practice ladder with his arm up as if there was a lamp to light, and his knee made the noise it had been making since the start of the cold season, and he pretended it hadn't.
 
@@ -34,7 +34,7 @@ What nobody in the yard was doing was saying the word. Not today. Not on any day
 
 "All right," said Qadir Lemm.
 
-He'd come out of the guild room with a paper in his hand, and the yard went quiet. Qadir was master of the lighters' guild and looked it: tall, gray in the beard, with a way of standing that made people straighten up near him without knowing they were doing it. 
+He'd come out of the guild room with a paper in his hand, and the yard went quiet. Qadir was master of the lighters' guild and looked it: tall, gray in the beard, with a way of standing that made people straighten up near him without knowing they were doing it.
 
 "You've all heard," he said. "I'll say it once so it's said. The assembly's taken the cities' new standard. Two to a ladder. One climbs, one foots. After what happened in the south, I don't argue with that. A man died." He looked round the yard. "But the assembly pays one wage a ladder. It's always paid one. It's paying one this year, and it's cut the oil because the store's low, and it's asked us to keep the standard on top of that." He folded the paper. "So we've told the warden. Pay for the second man, or we stand down for the Lanterns."
 
@@ -46,7 +46,7 @@ The yard stayed quiet.
 
 "Fine thing to agree," somebody else said. "When you're not the one paying."
 
-Yusa looked up at her father, still hanging at the top of the practice ladder with his arm in the air.
+Yusa kept her eyes on the stiles. Her father was still up there at the top of the practice ladder with his arm in the air.
 
 "You can come down now," she said.
 
@@ -232,7 +232,7 @@ There was a pause on the assembly steps.
 
 "She will be both," said the warden, and very nearly smiled.
 
-Qadir Lemm inclined his head, exactly as far as the warden had, and not a hair further. "The guild is honored to accept the assembly's gift on behalf of its footers," he said. "The guild will be on its ladders at sundown."
+Qadir Lemm inclined his head, exactly as far as the warden did on his step, and not a hair further. "The guild is honored to accept the assembly's gift on behalf of its footers," he said. "The guild will be on its ladders at sundown."
 
 ---
 
@@ -244,7 +244,7 @@ The first lamp took at sundown, on the market round, and somebody shouted it acr
 
 It went round from round to round, lighter to lighter, a shout on every roof. Yusa footed her father down the eastern round with her count going under her breath, his lamps and the other seven ladders' too, as the calls came down the lanes. Lamp one, by the bathhouse gate. "*Light holds!*" Lamp two. Lamp three. The courtyards were full of household lanterns coming out, paper and brass and glass, children carrying them on sticks, grandmothers carrying them in both hands as if they might spill. Every time the ladder went up, people stopped to watch, and every time her father called it, they cheered, a bit, the way people cheer when they've had a cup of something.
 
-Lamp sixty. Lamp sixty-one. She talked him up every ladder. *Rung. Rung. Left foot.* He let her. Lamp a hundred and twelve, outside the bakery, where the baker came out and gave them each a hot roll without saying a thing about it. Lamp a hundred and ninety. Later they'd hear that in one of the other cities in the talks the lamps stayed dark all night. Not here. The three at the bathhouse, which she counted, and which had oil in them again, the first since the cistern dropped, because Zeyna had insisted on it.
+Lamp sixty. Lamp sixty-one. She talked him up every ladder. *Rung. Rung. Left foot.* He let her. Lamp a hundred and twelve, outside the bakery, where the baker came out and gave them each a hot roll without saying a thing about it. Lamp a hundred and ninety. Later they'd hear that in one of the other cities that had taken the standard, the lamps stayed dark all night. Not here. The three at the bathhouse, which she counted, and which had oil in them again, the first since the cistern dropped, because Zeyna had insisted on it.
 
 Two hundred and six.
 

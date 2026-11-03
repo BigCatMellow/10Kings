@@ -232,7 +232,7 @@ Fitch's face did something, and then went cheerful again. "No?"
 
 She found a stall. It had belonged to a man selling pots who'd sold out of pots, and he let her have the end of his table for the last day.
 
-She lifted the lid from her last empty crate, and turned it over, and got out her knife.
+She pried the lid from one of her crates, tipped the moss and mushrooms into the next one along, and turned the lid over, and got out her knife.
 
 Then she sat there with the knife in her hand, not cutting.
 

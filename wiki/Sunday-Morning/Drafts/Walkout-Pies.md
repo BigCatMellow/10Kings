@@ -198,7 +198,7 @@ Then she got the big baskets down off the hooks.
 
 ---
 
-The carters were sitting round three small fires on the slag road with their teams picketed behind them, and when Kettie came down the road with two baskets on each arm, they all stood up at once, like men expecting to be told to move on.
+The carters were sitting round three small fires on the slag road with their teams picketed behind them, and when Kettie came down the road with two baskets on each arm, they all stood up at once, expecting to be told to move on.
 
 "I've got pies," she said. "They're getting cold."
 
@@ -210,7 +210,7 @@ They looked at her, and then round at one another.
 
 He looked at the baskets. Kettie had covered them with cloths but the smell was coming out round the edges, and she watched the smell get to him, and to all of them.
 
-"The day we came in," he said, "somebody chucked a stone at the lead cart from behind a wall. Missed. Called us scabs. We've been called scabs every day since."
+"The day we came in," he said, "somebody chucked a stone at the lead cart from behind a wall. Missed. Called us scabs. Every day since, the same."
 
 "Well," said Kettie, "I'm not throwing pies at you. Sit down."
 
@@ -248,7 +248,7 @@ Bosk Ferrin stood up. He stood up so fast his end of the bench went over, and th
 
 "Whose places were you promised?" he said, straight across the table at Embry. "Go on. Whose? Mine? His?"
 
-And Embry, who'd been called a scab every day for five days, and had five days of nothing hot, and no reason in the world to be polite, said it straight back.
+And Embry, who'd been called a scab all week and hadn't eaten hot since he came, and no reason in the world to be polite, said it straight back.
 
 "Nobody's. We were hired to haul charcoal, you great ox, because your charcoal carts have been short all summer. Ask your foreman. Ask anybody who's looked. We're on short hours where we come from, the same as you, and we've been called scabs all week by men who wouldn't come near enough to ask us a single question." He leaned on the table. "Well, you're near enough now. Ask."
 

@@ -116,8 +116,6 @@ It was Lio Tarrow. He was a guide up from Seven Wells, a long friendly young man
 
 Lio laughed. "My wife says I'm the opposite. I mean everything and say it all." He came in and leaned on the stall door next to Vinegar, who allowed it. "The caravan's coming in early, by the way. Tonight. A day ahead of itself. They'll go out at the blessing and they won't wait an hour past it."
 
-Zan did the sum in his head.
-
 "So there's no putting it off," he said.
 
 "There's no putting it off." Lio scratched Vinegar under the chin. "It picked you, you know. The lot."
@@ -128,7 +126,7 @@ Zan did the sum in his head.
 
 ---
 
-They ate at the stair-hut that evening, because the market was still too full.
+They ate at the stair-hut that evening, before the caravan came in, because the market was still too full.
 
 The stair-hut was by the east gate, a little stone place with a heavy wooden door and a hole in the floor where the stair went down into the dark. In an ordinary spring there'd have been a broker in it by now, a quiet man called Udo who came up from below every few weeks with baskets of cellar mushrooms and bundles of dried ones, and sold them in the market, and went back down with oil and salt. But the shake had brought down the deep road too, somewhere under the saddle, and Udo hadn't come up.
 
@@ -178,7 +176,7 @@ He could have walked it first, the way he'd walked the plank. He thought about i
 
 It wasn't loud. But both families heard it, and so did Lio, and so did the six mules, and so, possibly, did Vinegar, who turned her head and looked at Zan as if she'd been waiting for him to say it.
 
-He turned her round. It took a while on a track that narrow, and the mules had to be backed down singly, and the bells on the red halter didn't ring once.
+He turned her round. It took a while on a track that narrow, and the mules had to be backed down singly.
 
 ---
 

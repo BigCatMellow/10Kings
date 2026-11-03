@@ -172,7 +172,7 @@ He didn't have a reason for that either. His feet took him. The rain had stopped
 
 He sat on the bank where he'd sat the day before. The light was going green under the trees. A heron came down the river very slowly, one leg at a time, and stood in the shallows below the stakes, studying the water, and Ruan watched it, and it didn't catch anything, and after a while it went away again.
 
-He thought about the middle stake. He thought about the river taking the bundle on his back and turning him round. He could feel it still, the pull of it, the weight going sideways, the book on his back gone heavy as a stone.
+He thought about the middle stake. He thought about the river taking the bundle on his back and swinging him half round. He could feel it still, the pull of it, the weight going sideways, the book on his back gone heavy as a stone.
 
 He'd seen it. He'd been the only one there. Nobody else in the world had been standing in the middle of the Larchmere ford at first light, hanging on to a stake, when the river took Twilighthollow's year. Just him.
 
