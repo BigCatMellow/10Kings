@@ -8,7 +8,7 @@ A Sunday Morning Story is a character-driven, human-scale story with a clear pre
 
 ## Read the stories
 
-The seven drafted stories, in reading order. Each stands alone; together they make one bad year. Seven more, set in the gaps of the same year, are planned and not yet drafted; they're in the table below.
+The seven drafted stories, in reading order. Each stands alone; together they make one bad year. Seven more are set in the gaps of the same year. The first of them, [The Eighth Verse](Drafts/The-Eighth-Verse.md), is drafted as a test; the other six are planned. All of them are in the table below.
 
 1. **[One Square, Two Harvests](Drafts/One-Square-Two-Harvests.md)** (~5,000 words)
 2. **[The Greenvale Man](Drafts/The-Greenvale-Man.md)** (~3,400 words)
@@ -33,7 +33,7 @@ In reading order. Each title opens the story; "plan" opens its planning page. Wh
 | 1 | [One Square, Two Harvests](Drafts/One-Square-Two-Harvests.md) | Harveston Vale (Greenvale / Sunplains) | community / competition | ~5,000 words · [plan](Stories/One-Square-Two-Harvests.md) | L3; review done, waiting for your read |
 | 2 | [The Greenvale Man](Drafts/The-Greenvale-Man.md) | Kettle Cove, Northwind (provisional) | competition / belonging | ~3,400 words · [plan](Stories/The-Greenvale-Man.md) | L3; review done, waiting for your read |
 | 3 | [The Goat File](Drafts/The-Goat-File.md) | Seven Wells, Highridge (provisional) | comedy / mystery | ~4,800 words · [plan](Stories/The-Goat-File.md) | L3 (the test story); review done, waiting for your read |
-| 4 | The Eighth Verse | Reedveil Bend, Greenvale (provisional) | winter ensemble | [plan](Stories/The-Eighth-Verse.md) | L2 planned; no draft yet |
+| 4 | [The Eighth Verse](Drafts/The-Eighth-Verse.md) | Reedveil Bend, Greenvale (provisional) | winter ensemble | ~4,500 words · [plan](Stories/The-Eighth-Verse.md) | L3 first pass; the test story for the new seven, waiting for your read |
 | 5 | The Ladder Rules | Vasselin, Sunplains (provisional) | countdown caper | [plan](Stories/The-Ladder-Rules.md) | L2 planned; no draft yet |
 | 6 | [Inspected, Not Guaranteed](Drafts/Inspected-Not-Guaranteed.md) | Stonefield Forge (Ironcrest / Greenvale) | character / competition; features Wurdren | ~5,000 words · [plan](Stories/Inspected-Not-Guaranteed.md) | L3; review done, waiting for your read |
 | 7 | [The Heavy Scale at Icestep Summit](Drafts/The-Heavy-Scale.md) | Icestep Summit (Northwind / Highridge) | mystery; the pipeline pilot | ~5,100 words · [plan](Stories/The-Heavy-Scale.md) | L3; review done, waiting for your read |

@@ -4,7 +4,7 @@
 
 **Provisional story concept.** Written with the [Sunday Morning framework](../Notes/Sources/Framework.md). All characters, places, customs and plot details are new and non-canon.
 
-**Development level: L2 Planned** (2026-11-02). One of seven stories added inside the collection's year at bt 7274's request ([D16](../Notes/Decisions.md#the-authors-decisions)). THINK and PLAN are recorded below; there is no draft yet.
+**Development level: L3 Drafted, first pass** (2026-11-03): [read the draft](../Drafts/The-Eighth-Verse.md). One of seven stories added inside the collection's year at bt 7274's request ([D16](../Notes/Decisions.md#the-authors-decisions)), and the test story for them: the other six wait for bt 7274's verdict on this one. Planned to L2 on 2026-11-02; THINK, PLAN and DO are recorded below.
 
 ## Premise
 
@@ -204,3 +204,15 @@ reconsider if     the door scene reads as a lecture; Yorick reads as a target; t
 ### Stage 2b — Independent plan check
 
 2026-11-03. A fresh reviewer that didn't write the plans checked all seven against the primary records and the existing drafts. Passed. Changes: Ulla stays in the doorway through the supper, so the payoff stays in s9; the seventh verse praises "a Kemble of long ago" instead of a grandmother, so the Blight isn't dated; the ripple-step numbers agree. The check also chose this story as the test draft.
+
+### Stage 3 — DO
+
+Drafted 2026-11-03: [The Eighth Verse](../Drafts/The-Eighth-Verse.md), about 4,500 words, in the spoken register from the first pass ([D14](../Notes/Decisions.md#the-authors-decisions)). Every plan item and both ledger rows are kept.
+
+- **DO: the verses.** The Cellar Song is given only in fragments, one line or two per door. Seven full verses would turn a song for remembering into a performance, and the lines are the author's to rewrite ([who writes what](../Notes/Craft.md#ai-and-the-author-who-writes-what)). Each verse names a Blight year by what was eaten or done ("we ate the seed", "we boiled the harness"); the round comes in on the shared last line, *and we kept, and we kept, and we kept*. The seventh is the one whose middle the Bend has never sung.
+- **DO: the door order.** Seven doors: the co-op cellar, then the Wicks, the Fallons, old Pettigrew, the Yeos, the Elwins and the Kembles. These household names are provisional minor names (registered).
+- **DO: Yorick's reason** (a reconsideration trigger). His uncle sold downriver two harvests back. It's one line, said before the Kemble door, so his wanting the verse there reads as anger, not cruelty.
+- **DO: Ulla answers Jessop** with a practical line ("That cheese is ready. Are you going to make us stand out here?"), so Jessop's sad line stays the only one and nobody explains it.
+- **DO: the last scene.** Oda fills two cups and doesn't offer one. Ulla sits down on the potato bin and picks it up. The doorway habit is never named as changed.
+- **After the plan check:** the Blight is never dated. The cellar that fed the Bend was "a Kemble's, some Kemble, Jessop's great-great-somebody".
+- **Checker:** clean after one pass. Seven five-word phrases shared with other stories were varied, and a "said anything" tic (five times in the first pass) was cut to one.

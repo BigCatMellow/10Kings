@@ -90,7 +90,7 @@ Vessa was sitting by the fire with her shawls. She beckoned Ulla over and whispe
 
 "Vessa says the order's the same as always."
 
-People nodded. Everybody knew the order. The co-op cellar first, under their feet. Then the Wicks, then the Fallons, then old Pettigrew's, then the Gorms, the Elwins, and last of all the Kembles, out at the end of the lane where the bank went down to the reeds. It had always been the Kembles last. Nobody had to say why. It was just where the round ended.
+People nodded. Everybody knew the order. The co-op cellar first, under their feet. Then the Wicks, then the Fallons, then old Pettigrew's, then the Yeos, the Elwins, and last of all the Kembles, out at the end of the lane where the bank went down to the reeds. It had always been the Kembles last. Nobody had to say why. It was just where the round ended.
 
 Then somebody did a sum in their head, and you could see it go round the room like a draft.
 
@@ -166,17 +166,17 @@ At the Fallons' she sang the third verse, and at old Pettigrew's the fourth. Pet
 
 "It's good. Keep doing it."
 
-Somewhere between Pettigrew's and the Gorms', somebody at the back started the eighth verse early. Just the first line, *the eighth year came the*—and a couple of others picked it up, and then somebody hushed them, not because it was wrong, but because it wasn't time. You sang the verses in order. Everybody knew that. The eighth came after the seventh, and the seventh was at the end of the lane.
+Somewhere between Pettigrew's and the Yeos', somebody at the back started the eighth verse early. Just the first line, *the eighth year came the*—and a couple of others picked it up, and then somebody hushed them, not because it was wrong, but because it wasn't time. You sang the verses in order. Everybody knew that. The eighth came after the seventh, and the seventh was at the end of the lane.
 
 Yorick was walking near the front with his satchel, looking pleased. Every so often one of the children would meow at him, and he'd smile a stiff sort of smile and go red again, and Ulla felt sorry for him, and then annoyed at herself for feeling sorry for him, and then just tired.
 
 ---
 
-The Gorms kept their cellar out behind the house, dug into the side of a little rise, with a stone step in front of it worn into a dip by about two hundred years of people standing on it. Ulla sang the fifth verse there, *The fifth year we boiled the harness / and called it soup, and laughed*, and the round came in on the end, and went down into the cellar for the cup, and she sat down on the step.
+The Yeos kept their cellar out behind the house, dug into the side of a little rise, with a stone step in front of it worn into a dip by about two hundred years of people standing on it. Ulla sang the fifth verse there, *The fifth year we boiled the harness / and called it soup, and laughed*, and the round came in on the end, and went down into the cellar for the cup, and she sat down on the step.
 
 After a while Vessa came and sat down next to her.
 
-It was a clear night, and very cold. The stars were out over the reeds, more of them than you'd think there was room for, and the frost had got onto everything, the grass and the hedges and the edge of the step, so that the lanterns down the lane all had little haloes round them. From inside the cellar came the sound of thirty people talking at once with cider in them: the Gorms' cheese being argued about, somebody's bad knee, somebody's daughter. The cellar breathed out at their backs, warm and sour.
+It was a clear night, and very cold. The stars were out over the reeds, more of them than you'd think there was room for, and the frost had got onto everything, the grass and the hedges and the edge of the step, so that the lanterns down the lane all had little haloes round them. From inside the cellar came the sound of thirty people talking at once with cider in them: the Yeos' cheese being argued about, somebody's bad knee, somebody's daughter. The cellar breathed out at their backs, warm and sour.
 
 They sat a good while without talking. Ulla's feet went numb. She didn't mind. Her throat hurt from singing. She didn't mind that either.
 
@@ -234,7 +234,7 @@ At the back, quite quietly, somebody started the eighth verse. *The eighth year 
 
 Ulla opened her mouth and sang the seventh.
 
-She hadn't decided to. Afterward she wasn't sure she'd decided anything at all. She just started it, because the seventh came before the eighth, and because it was her job tonight to start the verses, and because she'd been sitting on the Gorms' step with Vessa thinking about somebody nobody could name opening a door.
+She hadn't decided to. Afterward she wasn't sure she'd decided anything at all. She just started it, because the seventh came before the eighth, and because it was her job tonight to start the verses, and because she'd been sitting on the Yeos' step with Vessa thinking about somebody nobody could name opening a door.
 
 *The seventh year we had one cellar—*
 
@@ -248,7 +248,7 @@ She'd known it all her life. It was gone. There was the cold, and the dark door,
 
 And the whole Bend did.
 
-They came in on it all at once, the way they came in on the last lines, except it wasn't the last line, it was the middle, and they'd never sung the middle before. Old Pettigrew's grandson, and the Wicks, and the Fallons, and the Gorms and the Elwins, and the children, every one of them, *the whole Bend fit inside*, and then on into the rest of it, the bit about the door and the bit about the bread. Half of them didn't know the words. They sang them anyway, a word behind, or made up something that sounded about right. Ulla was singing too, somewhere in the middle of it, and she couldn't hear herself at all, which was the best thing that had happened to her voice in her whole life.
+They came in on it all at once, the way they came in on the last lines, except it wasn't the last line, it was the middle, and they'd never sung the middle before. Old Pettigrew's grandson, and the Wicks, and the Fallons, and the Yeos and the Elwins, and the children, every one of them, *the whole Bend fit inside*, and then on into the rest of it, the bit about the door and the bit about the bread. Half of them didn't know the words. They sang them anyway, a word behind, or made up something that sounded about right. Ulla was singing too, somewhere in the middle of it, and she couldn't hear herself at all, which was the best thing that had happened to her voice in her whole life.
 
 Then it was over, and it was very quiet.
 

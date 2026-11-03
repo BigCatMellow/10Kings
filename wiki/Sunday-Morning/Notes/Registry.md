@@ -105,6 +105,11 @@ Every named character in the drafts. Mark canon figures `canon`: the script repo
 | Blank Square | Wilda | Weaver house keeper | cast |
 | Blank Square | Gideon | Compass pilgrim | cast |
 | Blank Square | Nils Orvay | Illuminated copyist | cast |
+| Eighth Verse | Wick | household on the round | minor |
+| Eighth Verse | Fallon | household on the round | minor |
+| Eighth Verse | Pettigrew | old man on the round, the former warden | minor |
+| Eighth Verse | Yeo | household on the round | minor |
+| Eighth Verse | Elwin | household on the round | minor |
 <!-- registry:names:end -->
 
 ### Name rules

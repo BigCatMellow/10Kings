@@ -12,6 +12,10 @@ The finished text of all seven, in reading order:
 6. [The Tree With a Debt](The-Tree-With-a-Debt.md)
 7. [Three Pots at Three Moon](Three-Pots-at-Three-Moon.md)
 
+The first of the seven new stories, drafted as a test before the other six (story 4 of 14 in [reading order](../Notes/Collection.md#reading-order)):
+
+- [The Eighth Verse](The-Eighth-Verse.md)
+
 ## Status
 
 **L3 prose drafts. Provisional, non-canon.** Each draft is the L3 output of its story page, written from that page's scene plan and revised over three or four passes, then a Sunday Morning pass and a storytelling pass. The [story index](../README.md#read-the-stories) gives each one's level and pass. All seven have had their independent L4 review (2026-09-28); L4 completes with the author's reading ([Pipeline, Stage 4](../Notes/Pipeline.md#stage-4--judge-review-independently)).
