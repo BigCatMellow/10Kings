@@ -180,6 +180,11 @@
           "label": "Regions",
           "always": true
         }
+,
+        {
+          "label": "Stories",
+          "always": false
+        }
       ],
       "facts": [
         {

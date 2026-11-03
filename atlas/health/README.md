@@ -6,10 +6,10 @@
 
 ## At a glance
 
-- **440** things mapped, **596** connections (86% stated in the wiki, the rest inferred)
+- **473** things mapped, **674** connections (88% stated in the wiki, the rest inferred)
 - **32** open questions ([Part 8](../questions/README.md))
 - **80** gaps listed across the parts
-- **79** cards with no connection yet
+- **74** cards with no connection yet
 
 ## How settled each part is
 
@@ -22,12 +22,12 @@ Each card carries its wiki page's status label. "Writing reference" is the Sunda
 | Food | · | · | 64 | 9 | · | 73 |
 | Power | · | 5 | · | 49 | · | 54 |
 | History | 8 | 3 | 25 | 7 | · | 43 |
-| People | 1 | · | 9 | 2 | 48 | 60 |
-| Story | · | · | 12 | 35 | · | 47 |
+| People | 1 | · | 9 | 2 | 76 | 88 |
+| Story | · | · | 17 | 35 | · | 52 |
 | Questions | · | · | · | 32 | · | 32 |
 | Foundations | · | 5 | · | 27 | · | 32 |
 | Systems | · | · | 17 | · | · | 17 |
-| **All** | **15** | **40** | **172** | **165** | **48** | **440** |
+| **All** | **15** | **40** | **177** | **165** | **76** | **473** |
 
 ## Where the cards are
 
@@ -36,21 +36,21 @@ Cards per board column and part. A dot means nothing from that part lives in tha
 | Column | Geography | Culture | Food | Power | History | People | Story | Questions | Foundations | Systems |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | Foundations | · | · | · | · | · | · | · | · | 32 | · |
-| Northwind | 1 | 8 | 9 | 3 | 3 | 1 | 5 | · | · | · |
+| Northwind | 1 | 8 | 9 | 3 | 3 | 1 | 6 | · | · | · |
 | Highridge Plateau | 1 | 7 | 8 | 4 | 1 | 1 | 4 | 2 | · | · |
-| Deepwood | 1 | 7 | 9 | 3 | 3 | 1 | 4 | 1 | · | · |
-| Ironcrest | 1 | 7 | 10 | 3 | 2 | 1 | 5 | · | · | · |
-| Greenvale | 1 | 7 | 9 | 3 | 3 | 1 | 7 | · | · | · |
+| Deepwood | 1 | 7 | 9 | 3 | 3 | 1 | 5 | 1 | · | · |
+| Ironcrest | 1 | 7 | 10 | 3 | 2 | 1 | 6 | · | · | · |
+| Greenvale | 1 | 7 | 9 | 3 | 3 | 1 | 8 | · | · | · |
 | Sunplains | 1 | 7 | 8 | 3 | 2 | 1 | 3 | 1 | · | · |
 | Port | 1 | 6 | 1 | 3 | 3 | · | 5 | 2 | · | · |
-| Spine & Underpass | 2 | 1 | · | 3 | · | 3 | 3 | 1 | · | · |
+| Spine & Underpass | 2 | 1 | · | 3 | · | 3 | 4 | 1 | · | · |
 | Border towns | 6 | 1 | 18 | · | 1 | · | 5 | · | · | · |
 | Council & politics | · | · | · | 8 | · | · | · | 4 | · | · |
 | Faiths | · | · | · | 11 | · | · | · | · | · | · |
 | Guilds | · | · | · | 8 | · | · | · | · | · | · |
 | History | · | · | · | · | 25 | · | · | · | · | · |
 | Main cast | · | · | · | · | · | 3 | · | 12 | · | · |
-| Sunday Morning cast | · | · | · | · | · | 48 | · | · | · | · |
+| Sunday Morning cast | · | · | · | · | · | 76 | · | · | · | · |
 | Main conflict | · | · | · | · | · | · | 6 | 1 | · | · |
 | System proposals | · | · | · | · | · | · | · | · | · | 17 |
 | World & unplaced | 10 | 6 | 1 | 2 | · | · | · | 8 | · | · |
@@ -73,7 +73,6 @@ Cards whose always-shown rows and facts the wiki leaves empty, most first.
 | Warrior's Guild | Power | Government, Council, At issue |
 | Assassin's Guild | Power | Government, Council, At issue |
 | Spy Guild | Power | Government, Council, At issue |
-| Fish stocks shift | Story | Follows from, Leads to, Stories |
 | Merchant conflict | Story | Follows from, Leads to, Stories |
 | Debates tied to patrons | Story | Follows from, Leads to, Stories |
 | Northwind | Geography | Spine & Underpass, Sends |
@@ -86,16 +85,17 @@ Cards whose always-shown rows and facts the wiki leaves empty, most first.
 | Aurora Berry Preserve | Food | Festival, Why it exists |
 | Farmer's Midday Mash | Food | Festival, Why it exists |
 | Orchard Hand Pies | Food | Festival, Why it exists |
+| Roasted Grain Clusters | Food | Festival, Why it exists |
 
 ## No connections yet
 
 Some are fine on their own (a saying, a festival); others are things the wiki hasn't tied to anything yet.
 
 - **Geography** (7): Coalglen Meadows; Helios Orchard; Snowbreaker Quay; Mosspeak Rise; Emberhaven Cross; Golden Dunes Shore; Reedveil Bend
-- **Culture** (27): “Iron hands, iron hearts.”; “Cold water, cold blood.”; “Soft as Greenvale butter.”; “Every road leads to Highridge's pocket.”; “Gone to the trees.”; “Golden tongue, copper coin.”; “Every ship lands at Port, none stay.”; Foundry Week; Ember Remembrance; Coal Ember Vigil; First Catch; Aurora Nights; Long Dark Feast; Sowing Days; Grain Ripening; Caravan Blessing; Silent Thaw; Gathering Quiet; Blossom Markets; Festival of Patrons; Tide Return; Lean Vigil; Mixed taverns and markets; Cross-regional marriage; What people avoid saying openly; What festivals do beyond the day; How names work
+- **Culture** (23): “Iron hands, iron hearts.”; “Cold water, cold blood.”; “Soft as Greenvale butter.”; “Every road leads to Highridge's pocket.”; “Gone to the trees.”; “Golden tongue, copper coin.”; “Every ship lands at Port, none stay.”; Ember Remembrance; Coal Ember Vigil; Aurora Nights; Long Dark Feast; Sowing Days; Grain Ripening; Silent Thaw; Blossom Markets; Festival of Patrons; Tide Return; Lean Vigil; Mixed taverns and markets; Cross-regional marriage; What people avoid saying openly; What festivals do beyond the day; How names work
 - **Power** (17): The Cyclic Order; Warrior's Guild; Assassin's Guild; Spy Guild; Ironcrest crime; Greenvale crime; Deepwood crime; Sunplains crime; Weapons and elite troops; Ironcrest arms; Northwind arms; Greenvale arms; Highridge arms; Deepwood arms; Sunplains arms; Port arms; Underpass arms
 - **History** (12): Ironcrest before the Convergence; Northwind before the Convergence; Greenvale before the Convergence; Highridge before the Convergence; Deepwood before the Convergence; Sunplains before the Convergence; How Port became central; Coldwave Incursions; Orchard-Lord Feuds; Iron-Field Conquest; Great Coastal Skirmish; The Ages of Silence
-- **Story** (2): Fish stocks shift; Debates tied to patrons
+- **Story** (1): Debates tied to patrons
 - **Questions** (3): Map: which regional borders are long boundaries versus narrow corridors; Map: navigable rivers and major watersheds; Language and naming: personal-name systems within the language families
 - **Foundations** (11): Core themes; 2. Geography must cause culture without dictating it; 6. Technology is craft-scale and pre-industrial; 13. Culture is learned, contested, and changing; 14. Draw globally, copy nowhere whole; 15. Language affects habits of attention, not intelligence; 16. Food must follow ecology, trade, class, season, and preservation; 17. Architecture is accumulated history; 18. Names need etymological logic; 19. Violence changes societies; Character design rule
 

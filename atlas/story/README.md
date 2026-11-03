@@ -8,18 +8,18 @@ The main conflict, the current events and how they can ripple into each other, t
 
 Current events sit in their region's column (the cross-region ripple steps, the faiths' reading of the crises and the main-conflict cards in a Main conflict column). Each Sunday Morning story and seed sits in the column of its setting, with lines to its town or region, its festival, the events it sits on, its domino figure, its cast from Part 6, and the stories it shares a thread with. The ripple chain from Current Events is drawn step by step and marked possible.
 
-**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 7 sunday morning storys, 4 story seeds; 172 connections (162 stated in the wiki, 10 inferred).
+**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 2 story seeds; 244 connections (234 stated in the wiki, 10 inferred).
 
 ## Gaps this part exposes
 
 Things the wiki doesn't settle yet. Listed for the author to decide; nothing here was filled in.
 
 - **The ripple chain is one possible chain, not the plot.** Current Events offers thirteen steps as "the kind of causal chain the story should prefer"; every chain link here is marked possible. Where other events feed the final step (Northwind convoys, Naruin's leak, the Sunplains coalition), the link is the Atlas's reading, inferred and off by default. So are links that join two separate entries without a page saying so (Highridge rerouting to Port smuggling, Deepwood's road plans to Naruin's leak, drought to coalition, the faiths to step 8, and Underpass route wars to Port smuggling, which the earlier Domino Map had marked canon). The chain steps have their own cards, so each event card keeps only the causes Current Events gives it.
-- **Six current events touch no story yet:** Northwind's fish stocks, Highridge's patron-tied debates, the Spine earthquake, the faiths' reading of the crises, the Underpass route wars (only a seed) and Sunplains drought (only a seed). Of the cross-region chain steps, only Council finance steadying lenders sits behind a story (The Goat File, as ordinary pressure, provisional).
+- **Every ground-level current event now has a story, but seven of those stories are only planned.** The seven added on 2026-11-02 (The Eighth Verse, The Ladder Rules, The First Fish, The Road in Use, Walkout Pies, The Mushrooms From Nowhere, The Blank Square) are L2 plans with no draft yet, so their links follow the plans and may change. Highridge's patron-tied debates are still only touched, by The Tree With a Debt. Of the cross-region chain steps, only Council finance steadying lenders sits behind a story (The Goat File, as ordinary pressure, provisional).
 - **Nothing is dated.** The Sunday Morning calendar (Year 1 autumn to Year 2 autumn) is a provisional collection design, and Current Events is a snapshot "shortly before or during the opening movement", not a timeline.
 - **Who is behind each nail is provisional.** The Collection's "Behind it" column is an out-of-story attribution that nobody in the stories knows; one land agent is marked unknown, and the Villain's identity and plan remain open questions.
 - **Orin has no stated domino,** and **Rosana's strain isn't tied to the abundance crisis on any canon page.** Orin's link to the metal movements is inferred from his strategic value. Current Events says "a new strain, unusually good weather, or both"; only the Sunday Morning collection makes it her seed. That link is inferred here.
-- **Two Sunday Morning settings aren't in the wiki.** Kettle Cove and Seven Wells are provisional names used only by their stories, so those stories point at Northwind and Highridge instead of a town.
+- **Most Sunday Morning settings aren't places in the wiki.** Kettle Cove, Seven Wells, Vasselin, Skerrimouth, Ninewell Saddle, Underwell and Larchmere are provisional names used only by their stories; Reedveil Bend, Snowbreaker Quay and Coalglen Meadows come from the Border Towns name bank. Those stories point at their region (or the Spine and the Underpass) instead of a town.
 - **The main saga has no events of its own yet.** Main Conflict gives the three forces, a chapter-chain pattern, an escalation ladder and a possible ending, but no named chapter, battle or turning point; everything on this layer is the world before the saga starts.
 - **The Domino Map stays as its own page for now.** Its data is carried into this part; retiring it or regenerating it from the Atlas is the author's call.
 
@@ -125,19 +125,51 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | The Goat File | shares a thread with | The Heavy Scale at Icestep Summit | stated | “Samir Tareh | The Goat File, s8” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
 | The Heavy Scale at Icestep Summit | shares a thread with | Three Pots at Three Moon | stated | “the Deepwood caravan cook, Garro Sedgewater” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
 | Inspected, Not Guaranteed | shares a thread with | The Tree With a Debt | stated | “the connected offers” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
-| The Mushrooms From Nowhere | is set in | The Underpass | stated | “The Underpass” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-mushrooms-from-nowhere) |
-| The Mushrooms From Nowhere | is set in | Highridge Plateau | stated | “a Highridge caravan fair” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-mushrooms-from-nowhere) |
-| The Mushrooms From Nowhere | would sit on | Underpass route wars | stated, possible | “collapses have redirected” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-mushrooms-from-nowhere) |
 | The Bathhouse Compact | is set in | Darkroot Gulch | stated | “Darkroot Gulch” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bathhouse-compact) |
 | The Bathhouse Compact | would sit on | Unusual metal movements | stated, possible | “good metal is vanishing into private contracts” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bathhouse-compact) |
-| The Ladder Rules | is set in | Sunplains | stated | “Sunplains” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-ladder-rules) |
-| The Ladder Rules | runs up to | Solstice Lanterns | stated | “Solstice Lanterns, midwinter” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-ladder-rules) |
-| The Ladder Rules | would sit on | Drought anxiety | stated, possible | “drought anxiety and city-state coordination” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-ladder-rules) |
-| The Ladder Rules | would sit on | City-state coordination | stated, possible | “drought anxiety and city-state coordination” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-ladder-rules) |
 | The Talker | is set in | Deepwood | stated | “Deepwood” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-talker) |
 | The Talker | runs up to | Deep Silence | stated | “Deep Silence, midwinter” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-talker) |
 | The Talker | would sit on | Fungal or ecological disruption | stated, possible | “fungal disruption” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-talker) |
-| The Ladder Rules | would touch | Bahriyya Nazar | stated, possible | “a rival city reads the lamplighters' deal as a sign of Bahriyya Nazar's coalition” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-ladder-rules) |
+| The Eighth Verse | is set in | Greenvale | stated | “a cooperative village on a river bend in” [source](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md#premise) |
+| The Eighth Verse | runs up to | Root Cellar Night | stated | “Year 1 midwinter, from dusk to the small hours” [source](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md#premise) |
+| The Eighth Verse | sits on | 8. Reformers cry theft | stated | “reformers call the buying-up coordinated theft (ripple step 8)” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Eighth Verse | sits on | Land and seed politics | stated | “Land and seed politics: reformers call the buying-up coordinated theft” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Ladder Rules | is set in | Sunplains | stated | “Vasselin, a Sunplains city-state of courtyard houses” [source](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md#premise) |
+| The Ladder Rules | runs up to | Solstice Lanterns | stated | “Year 1 midwinter: the three days before the longest night” [source](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md#premise) |
+| The Ladder Rules | sits on | City-state coordination | stated | “Drought anxiety and oil hoarding; city-state coordination” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Ladder Rules | sits on | Drought anxiety | stated | “Drought anxiety and oil hoarding; city-state coordination” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Ladder Rules | touches the domino of | Bahriyya Nazar | stated | “("the Nazar rule")” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The First Fish at Snowbreaker Quay | is set in | Northwind | stated | “Snowbreaker Quay, a” [source](../../wiki/Sunday-Morning/Stories/The-First-Fish.md#premise) |
+| The First Fish at Snowbreaker Quay | runs up to | First Catch | stated | “Year 2 late spring, over two days and a night” [source](../../wiki/Sunday-Morning/Stories/The-First-Fish.md#premise) |
+| The First Fish at Snowbreaker Quay | sits on | Fish stocks shift | stated | “Fish stocks shift; convoy politics” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The First Fish at Snowbreaker Quay | sits on | Convoy politics | stated | “Fish stocks shift; convoy politics” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The First Fish at Snowbreaker Quay | touches the domino of | Maris Bleakshore | stated | “offstage (her lists)” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Road in Use | is set in | The Spine | stated | “Ninewell Saddle, a pass town on a lower saddle of” [source](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md#premise) |
+| The Road in Use | is set in | Highridge Plateau | stated | “side (provisional)” [source](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md#premise) |
+| The Road in Use | runs up to | Caravan Blessing | stated | “Year 2 late spring, over three days” [source](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md#premise) |
+| The Road in Use | sits on | Earthquake or land movement | stated | “Spine earthquake; Underpass route wars” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Road in Use | sits on | Underpass route wars | stated | “Spine earthquake; Underpass route wars” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| Walkout Pies | is set in | Ironcrest | stated | “foundry town in a valley that hasn't had a meadow in living memory” [source](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md#premise) |
+| Walkout Pies | runs up to | Foundry Week | stated | “Year 2 midsummer, from the first day to the great pour” [source](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md#premise) |
+| Walkout Pies | sits on | Labor unrest | stated | “Labor unrest (ripple steps 10 and 11)” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| Walkout Pies | sits on | 11. Strike leaders blame owners | stated | “Labor unrest (ripple steps 10 and 11)” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| Walkout Pies | sits on | 10. Workshops cut hours | stated | “Labor unrest (ripple steps 10 and 11)” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| Walkout Pies | touches the domino of | Orin Slatehallow | stated | “as gossip” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Mushrooms From Nowhere | is set in | The Underpass | stated | “Below it is Underwell, a small Underpass junction enclave” [source](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md#premise) |
+| The Mushrooms From Nowhere | is set in | Highridge Plateau | stated | “the late-summer fair at Ninewell Saddle” [source](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md#premise) |
+| The Mushrooms From Nowhere | sits on | Underpass route wars | stated | “Underpass route wars; fungal disruption” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Mushrooms From Nowhere | sits on | Fungal or ecological disruption | stated | “Underpass route wars; fungal disruption” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Blank Square | is set in | Deepwood | stated | “Larchmere, a” [source](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md#premise) |
+| The Blank Square | runs up to | Gathering Quiet | stated | “Year 2 early autumn, over the last three days of the stitching” [source](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md#premise) |
+| The Blank Square | sits on | Faiths read the crises | stated | “Religious networks; logging and road conflict” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Blank Square | sits on | Logging and road conflict | stated | “Religious networks; logging and road conflict” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Blank Square | touches the domino of | Naruin Mossglade | stated | “offstage, first name on the road statement” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Eighth Verse | shares a thread with | The Blank Square | stated | “the reform statement” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
+| The Greenvale Man | shares a thread with | The First Fish at Snowbreaker Quay | stated | “Maris's convoy lists” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
+| The Goat File | shares a thread with | The Road in Use | stated | “Lio Tarrow” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
+| Inspected, Not Guaranteed | shares a thread with | Walkout Pies | stated | “Kerra Dunnock” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
+| The Tree With a Debt | shares a thread with | The Blank Square | stated | “the Twilighthollow community record” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
+| The Road in Use | shares a thread with | The Mushrooms From Nowhere | stated | “the lost corridor” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
 
 ## Who appears where
 
@@ -199,6 +231,42 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Samir Tareh | appears in | The Heavy Scale at Icestep Summit | stated | “Samir Tareh** — a Highridge caravan negotiator who rides with the first caravan of the year.” [source](../../wiki/Sunday-Morning/Stories/The-Heavy-Scale.md#cast) |
 | Garro Sedgewater | appears in | Three Pots at Three Moon | stated | “Garro Sedgewater | caravan cook (also Three Pots)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Scarth | appears in | One Square, Two Harvests | stated | “retired boatbuilder (letters; appears in One Square)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Ulla Quarrie | appears in | The Eighth Verse | stated | “Eighth Verse | Ulla Quarrie | cellar warden” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Vessa Ruel | appears in | The Eighth Verse | stated | “Eighth Verse | Vessa Ruel | song-keeper” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Jessop Kemble | appears in | The Eighth Verse | stated | “Eighth Verse | Jessop Kemble | tenant farmer who sold” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Oda Kemble | appears in | The Eighth Verse | stated | “Eighth Verse | Oda Kemble | Jessop's wife” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Yorick Fell | appears in | The Eighth Verse | stated | “Eighth Verse | Yorick Fell | reform-circle copyist” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Yusa Rennet | appears in | The Ladder Rules | stated | “Ladder Rules | Yusa Rennet | ladder-footer” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Dov Rennet | appears in | The Ladder Rules | stated | “Ladder Rules | Dov Rennet | lamplighter, Yusa's father” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Qadir Lemm | appears in | The Ladder Rules | stated | “Ladder Rules | Qadir Lemm | lighters' guild master” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Rafiq Daunt | appears in | The Ladder Rules | stated | “Ladder Rules | Rafiq Daunt | assembly lamp warden” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Zeyna | appears in | The Ladder Rules | stated | “Ladder Rules | Zeyna | oil-seller's widow” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Bahriyya Nazar | appears in | The Ladder Rules | stated | “Ladder Rules | Bahriyya Nazar | Sunplains domino figure (offstage)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Kirsa Lowe | appears in | The First Fish at Snowbreaker Quay | stated | “First Fish | Kirsa Lowe | smokehouse keeper” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Edda Vorne | appears in | The First Fish at Snowbreaker Quay | stated | “First Fish | Edda Vorne | Skerrimouth headwoman” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Maris Bleakshore | appears in | The First Fish at Snowbreaker Quay | stated | “First Fish | Maris Bleakshore | Northwind domino figure (her lists only)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Zan Coyle | appears in | The Road in Use | stated | “Road in Use | Zan Coyle | mule-wrangler (also Mushrooms)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Vinegar | appears in | The Road in Use | stated | “Road in Use | Vinegar | lead pony (also Mushrooms)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Jaske | appears in | The Road in Use | stated | “Road in Use | Jaske | family claiming the tower” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Merrow | appears in | The Road in Use | stated | “Road in Use | Merrow | family claiming the tower” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Lio Tarrow | appears in | The Road in Use | stated | “Road in Use | Lio Tarrow | guide (also Goat File, C9)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Kettie Gamble | appears in | Walkout Pies | stated | “Walkout Pies | Kettie Gamble | pie-maker” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Bosk Ferrin | appears in | Walkout Pies | stated | “Walkout Pies | Bosk Ferrin | crews' leader” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Nadia Pryor | appears in | Walkout Pies | stated | “Walkout Pies | Nadia Pryor | pour-master” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Lusk | appears in | Walkout Pies | stated | “Walkout Pies | Lusk | foreman” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Kerra Dunnock | appears in | Walkout Pies | stated | “Walkout Pies | Kerra Dunnock | bladesmith (also Inspected, C10)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Orin Slatehallow | appears in | Walkout Pies | stated | “Walkout Pies | Orin Slatehallow | Ironcrest domino figure (gossip)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Xenna Dree | appears in | The Mushrooms From Nowhere | stated | “Mushrooms | Xenna Dree | Underpass grower” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Galt | appears in | The Mushrooms From Nowhere | stated | “Mushrooms | Galt | fair market warden” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Fitch | appears in | The Mushrooms From Nowhere | stated | “Mushrooms | Fitch | dealer” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Ondine | appears in | The Mushrooms From Nowhere | stated | “Mushrooms | Ondine | herb-seller” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Ruan Mott | appears in | The Blank Square | stated | “Blank Square | Ruan Mott | bundle-runner” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Wilda | appears in | The Blank Square | stated | “Blank Square | Wilda | Weaver house keeper” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Gideon | appears in | The Blank Square | stated | “Blank Square | Gideon | Compass pilgrim” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Nils Orvay | appears in | The Blank Square | stated | “Blank Square | Nils Orvay | Illuminated copyist” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Naruin Mossglade | appears in | The Blank Square | stated | “Blank Square | Naruin Mossglade | Deepwood domino figure (offstage)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Zan Coyle | appears in | The Mushrooms From Nowhere | stated | “Road in Use | Zan Coyle | mule-wrangler (also Mushrooms)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Vinegar | appears in | The Mushrooms From Nowhere | stated | “Road in Use | Vinegar | lead pony (also Mushrooms)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 
 ## Who's behind each nail (provisional)
 
@@ -211,6 +279,10 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | The Tree With a Debt | may have behind it | The Villain | stated, possible | “The Villain, through a Port intermediary” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
 | The Tree With a Debt | may have behind it | Plans leak; wardens prepare | stated, possible | “The pledges are meant to become leaked evidence for Naruin” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
 | The Goat File | may have behind it | 6. Council steadies lenders | stated, possible | “Council finance stabilizing lenders (ordinary pressure, not a scheme)” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Eighth Verse | may have behind it | The Villain | stated, possible | “is the Villain's pattern ([step 13]” [source](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md#larger-world-thread) |
+| The Ladder Rules | may have behind it | The Villain | stated, possible | “is the Villain's pattern for her domino” [source](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md#larger-world-thread) |
+| The First Fish at Snowbreaker Quay | may have behind it | The Villain | stated, possible | “are the kind of thing the Villain can use” [source](../../wiki/Sunday-Morning/Stories/The-First-Fish.md#larger-world-thread) |
+| Walkout Pies | may have behind it | The Villain | stated, possible | “Strike timing is a lever the hidden powers can use” [source](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md#larger-world-thread) |
 
 ## Sunday Morning shortcuts (not canon)
 
@@ -311,14 +383,8 @@ flowchart LR
   st_pt_refugees["Refugee and worker pressure"]
   st_pt_smuggling["Smuggling surge"]
   st_dw_fungal["Fungal or ecological disruption"]
-  seed_mushrooms["The Mushrooms From Nowhere"]
-  underpass[\"The Underpass"/]
   seed_bathhouse["The Bathhouse Compact"]
   darkroot{{"Darkroot Gulch"}}
-  seed_ladder["The Ladder Rules"]
-  sunplains(["Sunplains"])
-  f_solstice_lanterns["Solstice Lanterns"]
-  st_sp_drought["Drought anxiety"]
   seed_talker["The Talker"]
   deepwood(["Deepwood"])
   f_deep_silence["Deep Silence"]
@@ -370,6 +436,54 @@ flowchart LR
   sm_amaranth_doss["Amaranth Doss"]
   sm_halloran["Halloran"]
   sm_mrs_arden["Mrs. Arden"]
+  story_eighth_verse["The Eighth Verse"]
+  greenvale(["Greenvale"])
+  f_root_cellar_night["Root Cellar Night"]
+  story_ladder_rules["The Ladder Rules"]
+  sunplains(["Sunplains"])
+  f_solstice_lanterns["Solstice Lanterns"]
+  st_sp_drought["Drought anxiety"]
+  story_first_fish["The First Fish at Snowbreaker Quay"]
+  f_first_catch["First Catch"]
+  st_nw_fish["Fish stocks shift"]
+  story_road_in_use["The Road in Use"]
+  spine[/"The Spine"\]
+  f_caravan_blessing["Caravan Blessing"]
+  story_walkout_pies["Walkout Pies"]
+  ironcrest(["Ironcrest"])
+  f_foundry_week["Foundry Week"]
+  story_mushrooms["The Mushrooms From Nowhere"]
+  underpass[\"The Underpass"/]
+  story_blank_square["The Blank Square"]
+  f_gathering_quiet["Gathering Quiet"]
+  sm_ulla_quarrie["Ulla Quarrie"]
+  sm_vessa_ruel["Vessa Ruel"]
+  sm_jessop_kemble["Jessop Kemble"]
+  sm_oda_kemble["Oda Kemble"]
+  sm_yorick_fell["Yorick Fell"]
+  sm_yusa_rennet["Yusa Rennet"]
+  sm_dov_rennet["Dov Rennet"]
+  sm_qadir_lemm["Qadir Lemm"]
+  sm_rafiq_daunt["Rafiq Daunt"]
+  sm_zeyna["Zeyna"]
+  sm_kirsa_lowe["Kirsa Lowe"]
+  sm_edda_vorne["Edda Vorne"]
+  sm_zan_coyle["Zan Coyle"]
+  sm_vinegar["Vinegar"]
+  sm_jaske["Jaske"]
+  sm_merrow["Merrow"]
+  sm_kettie_gamble["Kettie Gamble"]
+  sm_bosk_ferrin["Bosk Ferrin"]
+  sm_nadia_pryor["Nadia Pryor"]
+  sm_lusk["Lusk"]
+  sm_xenna_dree["Xenna Dree"]
+  sm_galt["Galt"]
+  sm_fitch["Fitch"]
+  sm_ondine["Ondine"]
+  sm_ruan_mott["Ruan Mott"]
+  sm_wilda["Wilda"]
+  sm_gideon["Gideon"]
+  sm_nils_orvay["Nils Orvay"]
   st_main --> pp_villain
   st_main --> pw_council
   st_main --> pp_wurdren
@@ -463,19 +577,11 @@ flowchart LR
   st_c5 --> st_c9
   st_dw_fungal --> st_pt_refugees
   st_gv_land --> st_pt_refugees
-  seed_mushrooms --> underpass
-  seed_mushrooms --> highridge
-  seed_mushrooms -.->|possible| st_sx_routewars
   seed_bathhouse --> darkroot
   seed_bathhouse -.->|possible| st_ic_metal
-  seed_ladder --> sunplains
-  seed_ladder --> f_solstice_lanterns
-  seed_ladder -.->|possible| st_sp_drought
-  seed_ladder -.->|possible| st_sp_coalition
   seed_talker --> deepwood
   seed_talker --> f_deep_silence
   seed_talker -.->|possible| st_dw_fungal
-  seed_ladder -.->|possible| pp_bahriyya
   sm_pell_anwick --> story_one_square
   sm_bettany_corlew --> story_one_square
   sm_idris_salve --> story_one_square
@@ -532,6 +638,86 @@ flowchart LR
   pp_samir --> story_heavy_scale
   sm_garro_sedgewater --> story_three_pots
   sm_scarth --> story_one_square
+  story_eighth_verse --> greenvale
+  story_eighth_verse --> f_root_cellar_night
+  story_eighth_verse --> st_c8
+  story_eighth_verse --> st_gv_land
+  story_eighth_verse -.->|possible| pp_villain
+  story_ladder_rules --> sunplains
+  story_ladder_rules --> f_solstice_lanterns
+  story_ladder_rules --> st_sp_coalition
+  story_ladder_rules --> st_sp_drought
+  story_ladder_rules --> pp_bahriyya
+  story_ladder_rules -.->|possible| pp_villain
+  story_first_fish --> northwind
+  story_first_fish --> f_first_catch
+  story_first_fish --> st_nw_fish
+  story_first_fish --> st_nw_convoy
+  story_first_fish --> pp_maris
+  story_first_fish -.->|possible| pp_villain
+  story_road_in_use --> spine
+  story_road_in_use --> highridge
+  story_road_in_use --> f_caravan_blessing
+  story_road_in_use --> st_sx_quake
+  story_road_in_use --> st_sx_routewars
+  story_walkout_pies --> ironcrest
+  story_walkout_pies --> f_foundry_week
+  story_walkout_pies --> st_ic_labor
+  story_walkout_pies --> st_c11
+  story_walkout_pies --> st_c10
+  story_walkout_pies --> pp_orin
+  story_walkout_pies -.->|possible| pp_villain
+  story_mushrooms --> underpass
+  story_mushrooms --> highridge
+  story_mushrooms --> st_sx_routewars
+  story_mushrooms --> st_dw_fungal
+  story_blank_square --> deepwood
+  story_blank_square --> f_gathering_quiet
+  story_blank_square --> st_x_faiths
+  story_blank_square --> st_dw_road
+  story_blank_square --> pp_naruin
+  story_eighth_verse --> story_blank_square
+  story_greenvale_man --> story_first_fish
+  story_goat_file --> story_road_in_use
+  story_inspected --> story_walkout_pies
+  story_tree --> story_blank_square
+  story_road_in_use --> story_mushrooms
+  sm_ulla_quarrie --> story_eighth_verse
+  sm_vessa_ruel --> story_eighth_verse
+  sm_jessop_kemble --> story_eighth_verse
+  sm_oda_kemble --> story_eighth_verse
+  sm_yorick_fell --> story_eighth_verse
+  sm_yusa_rennet --> story_ladder_rules
+  sm_dov_rennet --> story_ladder_rules
+  sm_qadir_lemm --> story_ladder_rules
+  sm_rafiq_daunt --> story_ladder_rules
+  sm_zeyna --> story_ladder_rules
+  pp_bahriyya --> story_ladder_rules
+  sm_kirsa_lowe --> story_first_fish
+  sm_edda_vorne --> story_first_fish
+  pp_maris --> story_first_fish
+  sm_zan_coyle --> story_road_in_use
+  sm_vinegar --> story_road_in_use
+  sm_jaske --> story_road_in_use
+  sm_merrow --> story_road_in_use
+  sm_lio_tarrow --> story_road_in_use
+  sm_kettie_gamble --> story_walkout_pies
+  sm_bosk_ferrin --> story_walkout_pies
+  sm_nadia_pryor --> story_walkout_pies
+  sm_lusk --> story_walkout_pies
+  sm_kerra_dunnock --> story_walkout_pies
+  pp_orin --> story_walkout_pies
+  sm_xenna_dree --> story_mushrooms
+  sm_galt --> story_mushrooms
+  sm_fitch --> story_mushrooms
+  sm_ondine --> story_mushrooms
+  sm_ruan_mott --> story_blank_square
+  sm_wilda --> story_blank_square
+  sm_gideon --> story_blank_square
+  sm_nils_orvay --> story_blank_square
+  pp_naruin --> story_blank_square
+  sm_zan_coyle --> story_mushrooms
+  sm_vinegar --> story_mushrooms
 ```
 
 ## Every thing in this part
@@ -547,6 +733,7 @@ Grouped by board column.
 | [Fish stocks shift](../../wiki/Story/Current-Events.md#fish-stocks-and-access) | Current event | No status label | Some fisheries are declining or shifting, creating price increases, clan disputes, illegal fishing and pressure for new agreements. |
 | [1. Shipping risk rises](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 1 of one possible ripple chain: Northwind piracy raises shipping risk. |
 | [The Greenvale Man](../../wiki/Sunday-Morning/Stories/The-Greenvale-Man.md#status) | Sunday Morning story, Year 1, late autumn | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The First Fish at Snowbreaker Quay](../../wiki/Sunday-Morning/Stories/The-First-Fish.md#status) | Sunday Morning story, Year 2, late spring | Provisional | A provisional Sunday Morning story, planned (L2) and not yet drafted: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 
 **Piracy rises**
 
@@ -575,6 +762,17 @@ Grouped by board column.
 - *Still falls elsewhere:* Other coves take the rumor and leave Narrow Sound out of their convoy. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Outward effect:* Two coves still sailing together is one less "credible" report feeding the patrol push. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [The Greenvale Man](../../wiki/Sunday-Morning/Drafts/The-Greenvale-Man.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+
+**The First Fish at Snowbreaker Quay**
+
+- *Premise:* At Snowbreaker Quay nobody sells a fish until the first fish of the spring run has been landed from the Quay's own water and smoked in the quay smokehouse. This spring the run has moved across the headland into the neighbors' water. The smokehouse keeper, who has never bargained in her life, is sent over the headland to fix it before the neighbors take a buyer's money and shut the water for the season. ([source](../../wiki/Sunday-Morning/Stories/The-First-Fish.md#premise))
+- *When:* Year 2, late spring (provisional calendar) ([source](../../wiki/Sunday-Morning/Notes/Collection.md#reading-order))
+- *The nail:* A Frostbay buyer's coin for sole access to Skerrimouth's water. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Behind it:* Why the fish moved unknown; the buyer's backer unknown (a provisional attribution nobody inside the story knows). ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Holds here:* Skerrimouth turns down the Frostbay coin. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Still falls elsewhere:* A town further up the coast takes it. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Outward effect:* Another town took the offer, and the convoy hears of Frostbay boats on Northwind water. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Also on:* [The First Fish](../../wiki/Sunday-Morning/Stories/The-First-Fish.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
 ### Highridge Plateau
 
@@ -616,6 +814,7 @@ Grouped by board column.
 | [Fungal or ecological disruption](../../wiki/Story/Current-Events.md#fungalecological-disruption) | Current event | No status label | A disease or ecological change affects important forest foods or commodities. This may be natural, accidentally human-caused, or exploited by manipulators. |
 | [Plans leak; wardens prepare](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood) | Current event | Provisional | Real Council-backed expansion plans leak without context and preemptive defense is encouraged: Naruin Mossglade's domino, in which a local conservation dispute becomes an inter-regional sovereignty crisis. |
 | [The Talker](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-talker) | Story seed | Provisional | A parked Sunday Morning premise, not yet developed; names and details are non-canon. |
+| [The Blank Square](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md#status) | Sunday Morning story, Year 2, early autumn | Provisional | A provisional Sunday Morning story, planned (L2) and not yet drafted: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 
 **Logging and road conflict**
 
@@ -636,6 +835,17 @@ Grouped by board column.
 - *Possible heart:* Listening as a skill someone can learn late.
 - *Possible thread:* The trader is buying forest goods made scarce by the fungal disruption, in a village split between isolationists and reformers.
 
+**The Blank Square**
+
+- *Premise:* At Gathering Quiet a Deepwood Weaver house stitches its year-cloth: one square for each thing someone in the parish saw with their own eyes this year. The house's bundle-runner, who can't read, has carried the neighboring house's record through a river in spate, and the ink has run. Two guests offer to fill the gap from what they've heard. Two statements wait on the table for the house's mark. ([source](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md#premise))
+- *When:* Year 2, early autumn (provisional calendar) ([source](../../wiki/Sunday-Morning/Notes/Collection.md#reading-order))
+- *The nail:* Two joint statements asking a house to mark what it didn't see. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Behind it:* Who steers the statements unknown; the faiths see only disagreeing numbers (a provisional attribution nobody inside the story knows). ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Holds here:* Larchmere signs neither statement. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Still falls elsewhere:* Other Weaver houses sign both. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Outward effect:* Other houses sign both, and the plateau reads a row of Weaver marks as Deepwood lining up against roads. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Also on:* [The Blank Square](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+
 ### Ironcrest
 
 | Thing | Kind | Status | Summary |
@@ -645,6 +855,7 @@ Grouped by board column.
 | [9. Protests hit tool orders](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 9 of one possible ripple chain: protests affect tool orders from Ironcrest. |
 | [10. Workshops cut hours](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 10 of one possible ripple chain: Ironcrest workshops reduce hours. |
 | [11. Strike leaders blame owners](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 11 of one possible ripple chain: strike leaders blame owners. |
+| [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md#status) | Sunday Morning story, Year 2, midsummer | Provisional | A provisional Sunday Morning story, planned (L2) and not yet drafted: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 
 **Unusual metal movements**
 
@@ -671,6 +882,17 @@ Grouped by board column.
 - *What's happening:* Strike leaders blame owners.
 - *Note:* One possible chain, which Current Events calls "the kind of causal chain the story should prefer"; not a fixed sequence of events.
 
+**Walkout Pies**
+
+- *Premise:* The pie-maker at an Ironcrest foundry gate keeps a chalkboard with two columns: pies ordered for working days and pies ordered for a walkout. All spring the crews have been on short hours. Now, in Foundry Week, the walkout column is winning. The crews' leaders want to walk out at the great pour, when it would hurt most, because they've heard the owners are bringing in outside carters to replace them. ([source](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md#premise))
+- *When:* Year 2, midsummer (provisional calendar) ([source](../../wiki/Sunday-Morning/Notes/Collection.md#reading-order))
+- *The nail:* A rumor that the owners hired outside carters to replace the crews, pushing the walkout to the great pour. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Behind it:* The rumor's source unknown; strike timing is a lever the hidden powers can use (a provisional attribution nobody inside the story knows). ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Holds here:* Coalglen's pour goes. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Still falls elsewhere:* Another valley's pour is lost to a walkout. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Outward effect:* In another valley the walkout hit the pour; owners and crews blame each other there. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Also on:* [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+
 ### Greenvale
 
 | Thing | Kind | Status | Summary |
@@ -682,6 +904,7 @@ Grouped by board column.
 | [5. Farmers default](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 5 of one possible ripple chain: farmers default. |
 | [7. Consolidators buy farms](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 7 of one possible ripple chain: land consolidators buy distressed farms. |
 | [8. Reformers cry theft](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 8 of one possible ripple chain: religious and guild reformers call it coordinated theft. |
+| [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md#status) | Sunday Morning story, Year 1, midwinter | Provisional | A provisional Sunday Morning story, planned (L2) and not yet drafted: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 
 **Abundance crisis**
 
@@ -716,13 +939,24 @@ Grouped by board column.
 - *What's happening:* Religious and guild reformers call it coordinated theft.
 - *Note:* One possible chain, which Current Events calls "the kind of causal chain the story should prefer"; not a fixed sequence of events.
 
+**The Eighth Verse**
+
+- *Premise:* On Root Cellar Night a Greenvale village walks its round of cellars and sings one verse of the old Blight song at each door. This year the song-keeper has lost her voice, and the cellar warden, who can't hold a tune, has to lead. A young reformer has walked in with a notice asking every village to add an eighth verse about the buyers. The round ends at the door of the family who sold. ([source](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md#premise))
+- *When:* Year 1, midwinter (provisional calendar) ([source](../../wiki/Sunday-Morning/Notes/Collection.md#reading-order))
+- *The nail:* A reform circle's notice: an eighth verse about "cellar rats", and a signature. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Behind it:* The buyers' guilt unknown; reformers sincere, their funding unknown (a provisional attribution nobody inside the story knows). ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Holds here:* Reedveil Bend won't sing the verse. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Still falls elsewhere:* Other villages sing it, and sign. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Outward effect:* The statement travels on; villages that sign refuse tools from the buyers' suppliers, adding to the fall in Ironcrest orders. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Also on:* [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+
 ### Sunplains
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
 | [Drought anxiety](../../wiki/Story/Current-Events.md#drought-anxiety) | Current event | No status label | Water isn't yet universally scarce, but fear changes behavior: hoarding, canal guards, secret agreements, speculative prices. |
 | [City-state coordination](../../wiki/Story/Current-Events.md#city-state-coordination) | Current event | No status label | Some leaders are trying to cooperate. Rivals interpret the effort as the beginning of a dominant bloc. |
-| [The Ladder Rules](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-ladder-rules) | Story seed | Provisional | A parked Sunday Morning premise, not yet developed; names and details are non-canon. |
+| [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md#status) | Sunday Morning story, Year 1, midwinter | Provisional | A provisional Sunday Morning story, planned (L2) and not yet drafted: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 
 **Drought anxiety**
 
@@ -734,9 +968,14 @@ Grouped by board column.
 
 **The Ladder Rules**
 
-- *Premise:* The lamplighters of one city stage a one-night strike over ladder rules on the eve of Solstice Lanterns.
-- *Possible heart:* Civic pride belongs to the people who actually light the city.
-- *Possible thread:* Drought anxiety and city-state coordination; a rival city reads the lamplighters' deal as a sign of Bahriyya Nazar's coalition.
+- *Premise:* A new rule agreed between the Sunplains cities says every lamp ladder needs two people, one to climb and one to foot it. The city pays for one. Three days before the longest night of the year the lamplighters announce they'll stand down, and the street lamps stay dark unless somebody pays for the second person. ([source](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md#premise))
+- *When:* Year 1, midwinter (provisional calendar) ([source](../../wiki/Sunday-Morning/Notes/Collection.md#reading-order))
+- *The nail:* A joint lamp standard, "two to a ladder", with nothing said about who pays the second. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Behind it:* Coordination sincere; who timed the standard unknown (a provisional attribution nobody inside the story knows). ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Holds here:* Vasselin's lamps are lit. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Still falls elsewhere:* In another city they went dark that night. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Outward effect:* A rival city reads Vasselin's lit night as joining Bahriyya's bloc. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Also on:* [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
 ### Port
 
@@ -782,7 +1021,8 @@ Grouped by board column.
 | --- | --- | --- | --- |
 | [Earthquake or land movement](../../wiki/Story/Current-Events.md#earthquakeland-movement) | Current event | No status label | A recent event damages roads and exposes older ruins, caves or sealed routes, producing treasure and resource rushes, religious claims, territorial disputes, archaeological interest and Underpass instability. |
 | [Underpass route wars](../../wiki/Story/Current-Events.md#route-wars) | Current event | No status label | Collapse and discovery have changed which enclaves control profitable corridors. Smuggling and legitimate trade compete for the same space. |
-| [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-mushrooms-from-nowhere) | Story seed | Provisional | A parked Sunday Morning premise, not yet developed; names and details are non-canon. |
+| [The Road in Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md#status) | Sunday Morning story, Year 2, late spring | Provisional | A provisional Sunday Morning story, planned (L2) and not yet drafted: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md#status) | Sunday Morning story, Year 2, late summer | Provisional | A provisional Sunday Morning story, planned (L2) and not yet drafted: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 
 **Earthquake or land movement**
 
@@ -792,11 +1032,27 @@ Grouped by board column.
 
 - *What's happening:* Collapse and discovery have changed which enclaves control profitable corridors. Smuggling and legitimate trade compete for the same space.
 
+**The Road in Use**
+
+- *Premise:* A spring rockfall has cut the road a Highridge pass town walks for its Caravan Blessing. The only way round passes an old toll tower the slip uncovered, which two families each say was their great-grandmother's. A letter from the route authority says the town's share of the season's tolls will be reckoned "on the road in use at the blessing". ([source](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md#premise))
+- *When:* Year 2, late spring (provisional calendar) ([source](../../wiki/Sunday-Morning/Notes/Collection.md#reading-order))
+- *The nail:* The route authority's letter: tolls "reckoned on the road in use at the blessing". ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Behind it:* The quake is nature; the letter's intent unknown (a provisional attribution nobody inside the story knows). ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Holds here:* The toll stays with the town gate. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Still falls elsewhere:* The deep road under the saddle is gone for good. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Outward effect:* The deep road is gone, and the growers below have to find another way up. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Also on:* [The Road in Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+
 **The Mushrooms From Nowhere**
 
-- *Premise:* A mushroom grower from an underground enclave climbs to the surface for the first time in thirty years to sell at a caravan fair. Nobody has heard of her mushrooms, and everyone assumes they're from Deepwood.
-- *Possible heart:* Recognition for people whose work travels through networks nobody sees.
-- *Possible thread:* Collapses have redirected Underpass trade and smugglers are exploiting official closures, which is why a surface fair suddenly has room for her.
+- *Premise:* A mushroom grower from an Underpass enclave climbs the stair to sell at a pass town's late-summer fair, because the man who used to carry her crop up lost his corridor in the spring shake. She hasn't stood under the sky since she was a girl. Everyone assumes her mushrooms come from Deepwood. In a blight year that makes them either a miracle or stolen. ([source](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md#premise))
+- *When:* Year 2, late summer (provisional calendar) ([source](../../wiki/Sunday-Morning/Notes/Collection.md#reading-order))
+- *The nail:* The fair's blight-year mark rule, and a dealer's offer to pass cellar mushrooms off as forest ones. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Behind it:* The blight's cause and reach unknown; the dealer's buyers unknown (a provisional attribution nobody inside the story knows). ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Holds here:* Underwell sells under its own name. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Still falls elsewhere:* Other enclaves sell through dealers, off the record. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Outward effect:* Other enclaves sell through dealers, and their goods go off the record. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Also on:* [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
 ### Border towns
 

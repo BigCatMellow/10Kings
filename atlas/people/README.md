@@ -8,7 +8,7 @@ Wurdren, the Villain, the Council families, the domino figures, the Underpass fi
 
 Wurdren, the Villain and the Council families get a Main cast column; each domino figure sits in its region's column, and the three Underpass figures in the Spine & Underpass column. The Sunday Morning cast gets its own column with a heading per story, since they are writing reference rather than canon. Lines show how the main cast relates to the Council, the guilds, the underworld and the faiths from Part 4, who pushes each domino, and family and other ties within the Sunday Morning cast.
 
-**Counts:** 3 main characters, 6 domino figures, 3 provisional figures, 48 sunday morning characters; 47 connections (38 stated in the wiki, 9 inferred).
+**Counts:** 3 main characters, 6 domino figures, 3 provisional figures, 76 sunday morning characters; 53 connections (44 stated in the wiki, 9 inferred).
 
 ## Gaps this part exposes
 
@@ -76,6 +76,12 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Garro Sedgewater | cooked for the caravan of | Samir Tareh | stated | “He crossed Icestep with Samir's caravan” [source](../../wiki/Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md#stage-1c--think-reserve-methods)<br>Also: “Garro Sedgewater | caravan cook (also Three Pots)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Tamsin Rake | inspects the sword of | Wurdren | stated | “Tamsin inspects Wurdren's sword and finds ordinary steel” [source](../../wiki/Sunday-Morning/Stories/Inspected-Not-Guaranteed.md#complications) |
 | Oswin Vey | drafts as judge | Wurdren | stated | “so Vey drafts Wurdren” [source](../../wiki/Sunday-Morning/Stories/Inspected-Not-Guaranteed.md#stage-2--plan) |
+| Dov Rennet | is family of | Yusa Rennet | stated | “Ladder Rules | Dov Rennet | lamplighter, Yusa's father” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Oda Kemble | is family of | Jessop Kemble | stated | “Eighth Verse | Oda Kemble | Jessop's wife” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Zan Coyle | knows | Lio Tarrow | stated | “the only person Zan finds easy to talk to” [source](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md#cast) |
+| Wilda | keeps a house of | Path of the Great Weaver | stated | “who keeps the Larchmere house and its cloth” [source](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md#cast) |
+| Gideon | is a pilgrim of | The Infinite Compass | stated | “a Compass pilgrim staying for Gathering Quiet” [source](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md#cast) |
+| Nils Orvay | copies for | The Illuminated Circle | stated | “collecting accounts that disagree” [source](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md#cast) |
 
 ## People links (inferred)
 
@@ -139,6 +145,16 @@ flowchart LR
   sm_garro_sedgewater["Garro Sedgewater"]
   sm_tamsin_rake["Tamsin Rake"]
   sm_oswin_vey["Oswin Vey"]
+  sm_dov_rennet["Dov Rennet"]
+  sm_yusa_rennet["Yusa Rennet"]
+  sm_oda_kemble["Oda Kemble"]
+  sm_jessop_kemble["Jessop Kemble"]
+  sm_zan_coyle["Zan Coyle"]
+  sm_wilda["Wilda"]
+  pw_faith_weaver["Path of the Great Weaver"]
+  sm_gideon["Gideon"]
+  sm_nils_orvay["Nils Orvay"]
+  pw_faith_illuminated["The Illuminated Circle"]
   pp_villain --> pw_council
   pp_wurdren --> pw_council
   pp_villain --> pp_wurdren
@@ -177,6 +193,12 @@ flowchart LR
   sm_garro_sedgewater --> pp_samir
   sm_tamsin_rake --> pp_wurdren
   sm_oswin_vey --> pp_wurdren
+  sm_dov_rennet --> sm_yusa_rennet
+  sm_oda_kemble --> sm_jessop_kemble
+  sm_zan_coyle --> sm_lio_tarrow
+  sm_wilda --> pw_faith_weaver
+  sm_gideon --> pw_faith_compass
+  sm_nils_orvay --> pw_faith_illuminated
 ```
 
 ## Every thing in this part
@@ -377,6 +399,34 @@ Grouped by board column.
 | [Amaranth Doss](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Permit clerk, in Three Pots at Three Moon. |
 | [Halloran](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Market inspector, in Three Pots at Three Moon. |
 | [Mrs. Arden](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Greenvale newcomer, in Three Pots at Three Moon. |
+| [Ulla Quarrie](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Cellar warden, in The Eighth Verse (planned). |
+| [Vessa Ruel](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Song-keeper, in The Eighth Verse (planned). |
+| [Jessop Kemble](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Tenant farmer who sold, in The Eighth Verse (planned). |
+| [Oda Kemble](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Jessop's wife, in The Eighth Verse (planned). |
+| [Yorick Fell](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Reform-circle copyist, in The Eighth Verse (planned). |
+| [Yusa Rennet](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Ladder-footer, in The Ladder Rules (planned). |
+| [Dov Rennet](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Lamplighter, Yusa's father, in The Ladder Rules (planned). |
+| [Qadir Lemm](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Lighters' guild master, in The Ladder Rules (planned). |
+| [Rafiq Daunt](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Assembly lamp warden, in The Ladder Rules (planned). |
+| [Zeyna](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Oil-seller's widow, in The Ladder Rules (planned). |
+| [Kirsa Lowe](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Smokehouse keeper, in The First Fish at Snowbreaker Quay (planned). |
+| [Edda Vorne](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Skerrimouth headwoman, in The First Fish at Snowbreaker Quay (planned). |
+| [Zan Coyle](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Mule-wrangler, in The Road in Use (planned). |
+| [Vinegar](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Lead pony, in The Road in Use (planned). |
+| [Jaske](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Family claiming the tower, in The Road in Use (planned). |
+| [Merrow](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Family claiming the tower, in The Road in Use (planned). |
+| [Kettie Gamble](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Pie-maker, in Walkout Pies (planned). |
+| [Bosk Ferrin](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Crews' leader, in Walkout Pies (planned). |
+| [Nadia Pryor](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Pour-master, in Walkout Pies (planned). |
+| [Lusk](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Foreman, in Walkout Pies (planned). |
+| [Xenna Dree](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Underpass grower, in The Mushrooms From Nowhere (planned). |
+| [Galt](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Fair market warden, in The Mushrooms From Nowhere (planned). |
+| [Fitch](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Dealer, in The Mushrooms From Nowhere (planned). |
+| [Ondine](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Herb-seller, in The Mushrooms From Nowhere (planned). |
+| [Ruan Mott](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Bundle-runner, in The Blank Square (planned). |
+| [Wilda](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Weaver house keeper, in The Blank Square (planned). |
+| [Gideon](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Compass pilgrim, in The Blank Square (planned). |
+| [Nils Orvay](../../wiki/Sunday-Morning/Notes/Registry.md#names) | Sunday Morning character | Writing reference (not setting canon) | Illuminated copyist, in The Blank Square (planned). |
 
 **Pell Anwick**
 
@@ -514,9 +564,9 @@ Grouped by board column.
 **Lio Tarrow**
 
 - *Role:* Ebbe's grandson.
-- *Story:* The Goat File (supporting cast).
+- *Story:* The Goat File (supporting cast). Also in The Road in Use (planned).
 - *Note:* A Sunday Morning character: writing reference, not setting canon.
-- *Also on:* [The Goat File](../../wiki/Sunday-Morning/Stories/The-Goat-File.md)
+- *Also on:* [The Goat File](../../wiki/Sunday-Morning/Stories/The-Goat-File.md), [The Road in Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md)
 
 **Nessa Kesh**
 
@@ -563,9 +613,9 @@ Grouped by board column.
 **Kerra Dunnock**
 
 - *Role:* Apprentice.
-- *Story:* Inspected, Not Guaranteed (supporting cast).
+- *Story:* Inspected, Not Guaranteed (supporting cast). Also in Walkout Pies (planned).
 - *Note:* A Sunday Morning character: writing reference, not setting canon.
-- *Also on:* [Inspected Not Guaranteed](../../wiki/Sunday-Morning/Stories/Inspected-Not-Guaranteed.md)
+- *Also on:* [Inspected Not Guaranteed](../../wiki/Sunday-Morning/Stories/Inspected-Not-Guaranteed.md), [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md)
 
 **Oswin Vey**
 
@@ -713,4 +763,200 @@ Grouped by board column.
 - *Story:* Three Pots at Three Moon (supporting cast).
 - *Note:* A Sunday Morning character: writing reference, not setting canon.
 - *Also on:* [Three Pots at Three Moon](../../wiki/Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md)
+
+**Ulla Quarrie**
+
+- *Role:* Cellar warden.
+- *Story:* The Eighth Verse (protagonist; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md)
+
+**Vessa Ruel**
+
+- *Role:* Song-keeper.
+- *Story:* The Eighth Verse (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md)
+
+**Jessop Kemble**
+
+- *Role:* Tenant farmer who sold.
+- *Story:* The Eighth Verse (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md)
+
+**Oda Kemble**
+
+- *Role:* Jessop's wife.
+- *Story:* The Eighth Verse (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md)
+
+**Yorick Fell**
+
+- *Role:* Reform-circle copyist.
+- *Story:* The Eighth Verse (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md)
+
+**Yusa Rennet**
+
+- *Role:* Ladder-footer.
+- *Story:* The Ladder Rules (protagonist; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md)
+
+**Dov Rennet**
+
+- *Role:* Lamplighter, Yusa's father.
+- *Story:* The Ladder Rules (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md)
+
+**Qadir Lemm**
+
+- *Role:* Lighters' guild master.
+- *Story:* The Ladder Rules (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md)
+
+**Rafiq Daunt**
+
+- *Role:* Assembly lamp warden.
+- *Story:* The Ladder Rules (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md)
+
+**Zeyna**
+
+- *Role:* Oil-seller's widow.
+- *Story:* The Ladder Rules (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md)
+
+**Kirsa Lowe**
+
+- *Role:* Smokehouse keeper.
+- *Story:* The First Fish at Snowbreaker Quay (protagonist; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The First Fish](../../wiki/Sunday-Morning/Stories/The-First-Fish.md)
+
+**Edda Vorne**
+
+- *Role:* Skerrimouth headwoman.
+- *Story:* The First Fish at Snowbreaker Quay (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The First Fish](../../wiki/Sunday-Morning/Stories/The-First-Fish.md)
+
+**Zan Coyle**
+
+- *Role:* Mule-wrangler.
+- *Story:* The Road in Use (protagonist; planned). Also in The Mushrooms From Nowhere (planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Road in Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md), [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md)
+
+**Vinegar**
+
+- *Role:* Lead pony.
+- *Story:* The Road in Use (supporting cast; planned). Also in The Mushrooms From Nowhere (planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Road in Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md), [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md)
+
+**Jaske**
+
+- *Role:* Family claiming the tower.
+- *Story:* The Road in Use (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Road in Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md)
+
+**Merrow**
+
+- *Role:* Family claiming the tower.
+- *Story:* The Road in Use (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Road in Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md)
+
+**Kettie Gamble**
+
+- *Role:* Pie-maker.
+- *Story:* Walkout Pies (protagonist; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md)
+
+**Bosk Ferrin**
+
+- *Role:* Crews' leader.
+- *Story:* Walkout Pies (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md)
+
+**Nadia Pryor**
+
+- *Role:* Pour-master.
+- *Story:* Walkout Pies (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md)
+
+**Lusk**
+
+- *Role:* Foreman.
+- *Story:* Walkout Pies (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md)
+
+**Xenna Dree**
+
+- *Role:* Underpass grower.
+- *Story:* The Mushrooms From Nowhere (protagonist; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md)
+
+**Galt**
+
+- *Role:* Fair market warden.
+- *Story:* The Mushrooms From Nowhere (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md)
+
+**Fitch**
+
+- *Role:* Dealer.
+- *Story:* The Mushrooms From Nowhere (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md)
+
+**Ondine**
+
+- *Role:* Herb-seller.
+- *Story:* The Mushrooms From Nowhere (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md)
+
+**Ruan Mott**
+
+- *Role:* Bundle-runner.
+- *Story:* The Blank Square (protagonist; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Blank Square](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md)
+
+**Wilda**
+
+- *Role:* Weaver house keeper.
+- *Story:* The Blank Square (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Blank Square](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md)
+
+**Gideon**
+
+- *Role:* Compass pilgrim.
+- *Story:* The Blank Square (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Blank Square](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md)
+
+**Nils Orvay**
+
+- *Role:* Illuminated copyist.
+- *Story:* The Blank Square (supporting cast; planned).
+- *Note:* A Sunday Morning character: writing reference, not setting canon.
+- *Also on:* [The Blank Square](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md)
 

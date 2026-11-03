@@ -936,11 +936,12 @@
       "short_text": "Ebbe's grandson.",
       "facts": {
         "Role": "Ebbe's grandson.",
-        "Story": "The Goat File (supporting cast).",
+        "Story": "The Goat File (supporting cast). Also in The Road in Use (planned).",
         "Note": "A Sunday Morning character: writing reference, not setting canon."
       },
       "see": [
-        "Sunday-Morning/Stories/The-Goat-File.md"
+        "Sunday-Morning/Stories/The-Goat-File.md",
+        "Sunday-Morning/Stories/The-Road-in-Use.md"
       ]
     },
     {
@@ -1071,11 +1072,12 @@
       "short_text": "Apprentice.",
       "facts": {
         "Role": "Apprentice.",
-        "Story": "Inspected, Not Guaranteed (supporting cast).",
+        "Story": "Inspected, Not Guaranteed (supporting cast). Also in Walkout Pies (planned).",
         "Note": "A Sunday Morning character: writing reference, not setting canon."
       },
       "see": [
-        "Sunday-Morning/Stories/Inspected-Not-Guaranteed.md"
+        "Sunday-Morning/Stories/Inspected-Not-Guaranteed.md",
+        "Sunday-Morning/Stories/Walkout-Pies.md"
       ]
     },
     {
@@ -1475,6 +1477,540 @@
       },
       "see": [
         "Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md"
+      ]
+    },
+    {
+      "id": "sm-ulla-quarrie",
+      "kind": "sm",
+      "label": "Ulla Quarrie",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Eighth Verse",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Cellar warden, in The Eighth Verse (planned).",
+      "short_text": "Cellar warden.",
+      "facts": {
+        "Role": "Cellar warden.",
+        "Story": "The Eighth Verse (protagonist; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Eighth-Verse.md"
+      ]
+    },
+    {
+      "id": "sm-vessa-ruel",
+      "kind": "sm",
+      "label": "Vessa Ruel",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Eighth Verse",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Song-keeper, in The Eighth Verse (planned).",
+      "short_text": "Song-keeper.",
+      "facts": {
+        "Role": "Song-keeper.",
+        "Story": "The Eighth Verse (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Eighth-Verse.md"
+      ]
+    },
+    {
+      "id": "sm-jessop-kemble",
+      "kind": "sm",
+      "label": "Jessop Kemble",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Eighth Verse",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Tenant farmer who sold, in The Eighth Verse (planned).",
+      "short_text": "Tenant farmer who sold.",
+      "facts": {
+        "Role": "Tenant farmer who sold.",
+        "Story": "The Eighth Verse (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Eighth-Verse.md"
+      ]
+    },
+    {
+      "id": "sm-oda-kemble",
+      "kind": "sm",
+      "label": "Oda Kemble",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Eighth Verse",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Jessop's wife, in The Eighth Verse (planned).",
+      "short_text": "Jessop's wife.",
+      "facts": {
+        "Role": "Jessop's wife.",
+        "Story": "The Eighth Verse (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Eighth-Verse.md"
+      ]
+    },
+    {
+      "id": "sm-yorick-fell",
+      "kind": "sm",
+      "label": "Yorick Fell",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Eighth Verse",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Reform-circle copyist, in The Eighth Verse (planned).",
+      "short_text": "Reform-circle copyist.",
+      "facts": {
+        "Role": "Reform-circle copyist.",
+        "Story": "The Eighth Verse (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Eighth-Verse.md"
+      ]
+    },
+    {
+      "id": "sm-yusa-rennet",
+      "kind": "sm",
+      "label": "Yusa Rennet",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Ladder Rules",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Ladder-footer, in The Ladder Rules (planned).",
+      "short_text": "Ladder-footer.",
+      "facts": {
+        "Role": "Ladder-footer.",
+        "Story": "The Ladder Rules (protagonist; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Ladder-Rules.md"
+      ]
+    },
+    {
+      "id": "sm-dov-rennet",
+      "kind": "sm",
+      "label": "Dov Rennet",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Ladder Rules",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Lamplighter, Yusa's father, in The Ladder Rules (planned).",
+      "short_text": "Lamplighter, Yusa's father.",
+      "facts": {
+        "Role": "Lamplighter, Yusa's father.",
+        "Story": "The Ladder Rules (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Ladder-Rules.md"
+      ]
+    },
+    {
+      "id": "sm-qadir-lemm",
+      "kind": "sm",
+      "label": "Qadir Lemm",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Ladder Rules",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Lighters' guild master, in The Ladder Rules (planned).",
+      "short_text": "Lighters' guild master.",
+      "facts": {
+        "Role": "Lighters' guild master.",
+        "Story": "The Ladder Rules (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Ladder-Rules.md"
+      ]
+    },
+    {
+      "id": "sm-rafiq-daunt",
+      "kind": "sm",
+      "label": "Rafiq Daunt",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Ladder Rules",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Assembly lamp warden, in The Ladder Rules (planned).",
+      "short_text": "Assembly lamp warden.",
+      "facts": {
+        "Role": "Assembly lamp warden.",
+        "Story": "The Ladder Rules (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Ladder-Rules.md"
+      ]
+    },
+    {
+      "id": "sm-zeyna",
+      "kind": "sm",
+      "label": "Zeyna",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Ladder Rules",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Oil-seller's widow, in The Ladder Rules (planned).",
+      "short_text": "Oil-seller's widow.",
+      "facts": {
+        "Role": "Oil-seller's widow.",
+        "Story": "The Ladder Rules (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Ladder-Rules.md"
+      ]
+    },
+    {
+      "id": "sm-kirsa-lowe",
+      "kind": "sm",
+      "label": "Kirsa Lowe",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The First Fish at Snowbreaker Quay",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Smokehouse keeper, in The First Fish at Snowbreaker Quay (planned).",
+      "short_text": "Smokehouse keeper.",
+      "facts": {
+        "Role": "Smokehouse keeper.",
+        "Story": "The First Fish at Snowbreaker Quay (protagonist; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-First-Fish.md"
+      ]
+    },
+    {
+      "id": "sm-edda-vorne",
+      "kind": "sm",
+      "label": "Edda Vorne",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The First Fish at Snowbreaker Quay",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Skerrimouth headwoman, in The First Fish at Snowbreaker Quay (planned).",
+      "short_text": "Skerrimouth headwoman.",
+      "facts": {
+        "Role": "Skerrimouth headwoman.",
+        "Story": "The First Fish at Snowbreaker Quay (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-First-Fish.md"
+      ]
+    },
+    {
+      "id": "sm-zan-coyle",
+      "kind": "sm",
+      "label": "Zan Coyle",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Road in Use",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Mule-wrangler, in The Road in Use (planned).",
+      "short_text": "Mule-wrangler.",
+      "facts": {
+        "Role": "Mule-wrangler.",
+        "Story": "The Road in Use (protagonist; planned). Also in The Mushrooms From Nowhere (planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Road-in-Use.md",
+        "Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md"
+      ]
+    },
+    {
+      "id": "sm-vinegar",
+      "kind": "sm",
+      "label": "Vinegar",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Road in Use",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Lead pony, in The Road in Use (planned).",
+      "short_text": "Lead pony.",
+      "facts": {
+        "Role": "Lead pony.",
+        "Story": "The Road in Use (supporting cast; planned). Also in The Mushrooms From Nowhere (planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Road-in-Use.md",
+        "Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md"
+      ]
+    },
+    {
+      "id": "sm-jaske",
+      "kind": "sm",
+      "label": "Jaske",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Road in Use",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Family claiming the tower, in The Road in Use (planned).",
+      "short_text": "Family claiming the tower.",
+      "facts": {
+        "Role": "Family claiming the tower.",
+        "Story": "The Road in Use (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Road-in-Use.md"
+      ]
+    },
+    {
+      "id": "sm-merrow",
+      "kind": "sm",
+      "label": "Merrow",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Road in Use",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Family claiming the tower, in The Road in Use (planned).",
+      "short_text": "Family claiming the tower.",
+      "facts": {
+        "Role": "Family claiming the tower.",
+        "Story": "The Road in Use (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Road-in-Use.md"
+      ]
+    },
+    {
+      "id": "sm-kettie-gamble",
+      "kind": "sm",
+      "label": "Kettie Gamble",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "Walkout Pies",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Pie-maker, in Walkout Pies (planned).",
+      "short_text": "Pie-maker.",
+      "facts": {
+        "Role": "Pie-maker.",
+        "Story": "Walkout Pies (protagonist; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/Walkout-Pies.md"
+      ]
+    },
+    {
+      "id": "sm-bosk-ferrin",
+      "kind": "sm",
+      "label": "Bosk Ferrin",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "Walkout Pies",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Crews' leader, in Walkout Pies (planned).",
+      "short_text": "Crews' leader.",
+      "facts": {
+        "Role": "Crews' leader.",
+        "Story": "Walkout Pies (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/Walkout-Pies.md"
+      ]
+    },
+    {
+      "id": "sm-nadia-pryor",
+      "kind": "sm",
+      "label": "Nadia Pryor",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "Walkout Pies",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Pour-master, in Walkout Pies (planned).",
+      "short_text": "Pour-master.",
+      "facts": {
+        "Role": "Pour-master.",
+        "Story": "Walkout Pies (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/Walkout-Pies.md"
+      ]
+    },
+    {
+      "id": "sm-lusk",
+      "kind": "sm",
+      "label": "Lusk",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "Walkout Pies",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Foreman, in Walkout Pies (planned).",
+      "short_text": "Foreman.",
+      "facts": {
+        "Role": "Foreman.",
+        "Story": "Walkout Pies (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/Walkout-Pies.md"
+      ]
+    },
+    {
+      "id": "sm-xenna-dree",
+      "kind": "sm",
+      "label": "Xenna Dree",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Mushrooms From Nowhere",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Underpass grower, in The Mushrooms From Nowhere (planned).",
+      "short_text": "Underpass grower.",
+      "facts": {
+        "Role": "Underpass grower.",
+        "Story": "The Mushrooms From Nowhere (protagonist; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md"
+      ]
+    },
+    {
+      "id": "sm-galt",
+      "kind": "sm",
+      "label": "Galt",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Mushrooms From Nowhere",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Fair market warden, in The Mushrooms From Nowhere (planned).",
+      "short_text": "Fair market warden.",
+      "facts": {
+        "Role": "Fair market warden.",
+        "Story": "The Mushrooms From Nowhere (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md"
+      ]
+    },
+    {
+      "id": "sm-fitch",
+      "kind": "sm",
+      "label": "Fitch",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Mushrooms From Nowhere",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Dealer, in The Mushrooms From Nowhere (planned).",
+      "short_text": "Dealer.",
+      "facts": {
+        "Role": "Dealer.",
+        "Story": "The Mushrooms From Nowhere (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md"
+      ]
+    },
+    {
+      "id": "sm-ondine",
+      "kind": "sm",
+      "label": "Ondine",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Mushrooms From Nowhere",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Herb-seller, in The Mushrooms From Nowhere (planned).",
+      "short_text": "Herb-seller.",
+      "facts": {
+        "Role": "Herb-seller.",
+        "Story": "The Mushrooms From Nowhere (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md"
+      ]
+    },
+    {
+      "id": "sm-ruan-mott",
+      "kind": "sm",
+      "label": "Ruan Mott",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Blank Square",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Bundle-runner, in The Blank Square (planned).",
+      "short_text": "Bundle-runner.",
+      "facts": {
+        "Role": "Bundle-runner.",
+        "Story": "The Blank Square (protagonist; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Blank-Square.md"
+      ]
+    },
+    {
+      "id": "sm-wilda",
+      "kind": "sm",
+      "label": "Wilda",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Blank Square",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Weaver house keeper, in The Blank Square (planned).",
+      "short_text": "Weaver house keeper.",
+      "facts": {
+        "Role": "Weaver house keeper.",
+        "Story": "The Blank Square (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Blank-Square.md"
+      ]
+    },
+    {
+      "id": "sm-gideon",
+      "kind": "sm",
+      "label": "Gideon",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Blank Square",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Compass pilgrim, in The Blank Square (planned).",
+      "short_text": "Compass pilgrim.",
+      "facts": {
+        "Role": "Compass pilgrim.",
+        "Story": "The Blank Square (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Blank-Square.md"
+      ]
+    },
+    {
+      "id": "sm-nils-orvay",
+      "kind": "sm",
+      "label": "Nils Orvay",
+      "status": "Writing reference (not setting canon)",
+      "lane": "sundaymorning",
+      "section": "The Blank Square",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "text": "Illuminated copyist, in The Blank Square (planned).",
+      "short_text": "Illuminated copyist.",
+      "facts": {
+        "Role": "Illuminated copyist.",
+        "Story": "The Blank Square (supporting cast; planned).",
+        "Note": "A Sunday Morning character: writing reference, not setting canon."
+      },
+      "see": [
+        "Sunday-Morning/Stories/The-Blank-Square.md"
       ]
     }
   ],
@@ -2116,6 +2652,84 @@
       "chipBack": "Sunday Morning cast",
       "chipNote": "drafts him as judge",
       "chipNoteBack": "drafts him as judge"
+    },
+    {
+      "from": "sm-dov-rennet",
+      "to": "sm-yusa-rennet",
+      "layer": "pp-sm",
+      "type": "is family of",
+      "basis": "stated",
+      "quote": "Ladder Rules | Dov Rennet | lamplighter, Yusa's father",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Family",
+      "chipBack": "Family",
+      "chipNote": "his daughter",
+      "chipNoteBack": "her father"
+    },
+    {
+      "from": "sm-oda-kemble",
+      "to": "sm-jessop-kemble",
+      "layer": "pp-sm",
+      "type": "is family of",
+      "basis": "stated",
+      "quote": "Eighth Verse | Oda Kemble | Jessop's wife",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Family",
+      "chipBack": "Family",
+      "chipNote": "her husband",
+      "chipNoteBack": "his wife"
+    },
+    {
+      "from": "sm-zan-coyle",
+      "to": "sm-lio-tarrow",
+      "layer": "pp-sm",
+      "type": "knows",
+      "basis": "stated",
+      "quote": "the only person Zan finds easy to talk to",
+      "src": "Sunday-Morning/Stories/The-Road-in-Use.md#cast",
+      "chip": "Knows",
+      "chipBack": "Knows",
+      "chipNote": "the one person he finds easy to talk to",
+      "chipNoteBack": "guides the caravan he works with"
+    },
+    {
+      "from": "sm-wilda",
+      "to": "pw-faith-weaver",
+      "layer": "pp-sm",
+      "type": "keeps a house of",
+      "basis": "stated",
+      "quote": "who keeps the Larchmere house and its cloth",
+      "src": "Sunday-Morning/Stories/The-Blank-Square.md#cast",
+      "chip": "Faith",
+      "chipBack": "Sunday Morning cast",
+      "chipNote": "keeps a Weaver house",
+      "chipNoteBack": "keeps a Weaver house"
+    },
+    {
+      "from": "sm-gideon",
+      "to": "pw-faith-compass",
+      "layer": "pp-sm",
+      "type": "is a pilgrim of",
+      "basis": "stated",
+      "quote": "a Compass pilgrim staying for Gathering Quiet",
+      "src": "Sunday-Morning/Stories/The-Blank-Square.md#cast",
+      "chip": "Faith",
+      "chipBack": "Sunday Morning cast",
+      "chipNote": "a Compass pilgrim",
+      "chipNoteBack": "a pilgrim"
+    },
+    {
+      "from": "sm-nils-orvay",
+      "to": "pw-faith-illuminated",
+      "layer": "pp-sm",
+      "type": "copies for",
+      "basis": "stated",
+      "quote": "collecting accounts that disagree",
+      "src": "Sunday-Morning/Stories/The-Blank-Square.md#cast",
+      "chip": "Faith",
+      "chipBack": "Sunday Morning cast",
+      "chipNote": "an Illuminated copyist",
+      "chipNoteBack": "a copyist"
     }
   ],
   "gaps": [

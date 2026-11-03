@@ -18,8 +18,8 @@ The whole setting on one board. Group it by region or by kind, show one part or 
 | 3. Food | Food | 73 | 129 | [food](../food/README.md) |
 | 4. Power | Power | 54 | 51 | [power](../power/README.md) |
 | 5. History | History | 43 | 34 | [history](../history/README.md) |
-| 6. People | People | 60 | 47 | [people](../people/README.md) |
-| 7. The story layer | Story | 47 | 172 | [story](../story/README.md) |
+| 6. People | People | 88 | 53 | [people](../people/README.md) |
+| 7. The story layer | Story | 52 | 244 | [story](../story/README.md) |
 | 8. Open questions | Questions | 32 | 35 | [questions](../questions/README.md) |
 | 9. Foundations | Foundations | 32 | 30 | [foundations](../foundations/README.md) |
 | 10. Recovered structural systems | Systems | 17 | 17 | [systems](../systems/README.md) |
@@ -33,7 +33,7 @@ Every card of a kind shows the same rows and facts in the same order, set by eac
 | Continent | Regions on it, Open questions *(when present)* | — |
 | Region | Continent, Borders, Border towns, Sea partner of, Spine & Underpass, Sends, Gets, Trades with, Likely sends *(when present)*, Likely gets *(when present)*, Nomad circuit *(when present)*, Convergence *(when present)*, Conflict traditions *(when present)*, Stories *(when present)*, Open questions *(when present)*, World rule *(when present)* | Terrain, Exports, Imports, Trade role, Pressures, Seasons |
 | Neutral city | Sea partners, In its sphere, Nomad circuit *(when present)*, Convergence *(when present)*, Remembered *(when present)*, Stories *(when present)*, Open questions *(when present)* | Position, Territory, Exports, Imports, Why it stays central, Trade role |
-| Mountain system | Spine & Underpass, Regions, Languages *(when present)*, Open questions *(when present)* | Physical role, Human role, Touches, Seasons |
+| Mountain system | Spine & Underpass, Regions, Stories *(when present)*, Languages *(when present)*, Open questions *(when present)* | Physical role, Human role, Touches, Seasons |
 | Underground network | Spine & Underpass, Regions, Convergence *(when present)*, Stories *(when present)* | Functional adjacency, Claims, Named entrances |
 | Border town | Between, Culture, Border dishes, Stories *(when present)* | — |
 | Unplaced name | — | — |
