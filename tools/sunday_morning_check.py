@@ -39,7 +39,8 @@ ALLOW = {
 # Phrases shared across stories on purpose (cross-story links C1-C6, one character described twice).
 LINKED = ["commons", "press yard", "stern rail", "carrier would find", "reply left with",
           "blight took", "caravans since", "route book", "traveling coat", "first caravan",
-          "cooked for the caravans"]
+          "cooked for the caravans",
+          "convoy next season", "coves it", "waters were clean"]  # C8: Maris's letter, quoted on purpose
 
 STOP = set("""a an the and or but of to in on at by for with from as is was were be been
 it its he she they them his her their i you we me my our your this that there then
