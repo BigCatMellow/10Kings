@@ -33,7 +33,7 @@ Each season the [Current Events](../../Story/Current-Events.md) are one rung fur
 
 ### What the reader can piece together
 
-Season 1 gave the attentive reader one inference: someone is behind the offers (C6). Each later season should give one or two more, made only from things set side by side:
+Season 1 gave the attentive reader one inference: someone is behind the offers (C6). Season 2's third letter ([D25](Decisions.md#the-authors-decisions), [The Same Paper](../Stories/Story-Seeds.md#the-same-paper)) turns the pair into a pattern. Each later season should give one or two more, made only from things set side by side:
 
 - the same object, phrase or person turning up in two places;
 - a Return story showing what a town's good outcome led to a year on;

@@ -136,7 +136,7 @@ Possible heart: you can know a thing matters before you know why.
 
 Possible thread: the [C6](../Notes/Collection.md#cross-story-promise-ledger) letters ([Inspected](Inspected-Not-Guaranteed.md)), [Orin Slatehallow](../../Story/Villains-Dominoes.md#orin-slatehallow--ironcrest)'s valley (the "Slatehallow lad" of [Walkout Pies](Walkout-Pies.md)), and [good metal vanishing into private contracts](../../Story/Current-Events.md#unusual-metal-movements). Wurdren notices; he does not work it out.
 
-- **Needs:** a lean taken: C6 stays a pair in Season 1, and this is its third letter, the season's clearest signal ([The Long Road](../Notes/The-Long-Road.md#wurdren): "then the patterns, which he notices without being able to make them add up").
+- **Needs:** settled ([D25](../Notes/Decisions.md#the-authors-decisions)): C6 stays a pair in Season 1, and this is its third letter, the season's clearest signal ([The Long Road](../Notes/The-Long-Road.md#wurdren): "then the patterns, which he notices without being able to make them add up").
 
 #### The Second Pour
 
@@ -1030,7 +1030,7 @@ Judged one at a time against the [Rules](../Notes/Rules.md) and the [Registry](.
 | The Penny Sale | Domino | consolidators | none | a crowd that won't bid, new |
 | The Trial Rows | Domino (Figure) | Rosana Meadowcroft | none | a crop that answers, new |
 | The Route Book | Domino (Thread) | Samir Tareh, caravan attacks | none | being known, new |
-| The Same Paper | Domino (Stranger) | Orin Slatehallow, metal | C6's third letter (lean) | a thing noticed, new |
+| The Same Paper | Domino (Stranger) | Orin Slatehallow, metal | none now (D25) | a thing noticed, new |
 | The Second Pour | Domino (Return) | labor unrest a year on | none | help taken, new |
 | The Patrol Boat | Domino | piracy, Maris Bleakshore | none | a meal for the enemy (a meal, used) |
 | Udo's Other Road | Domino (Return) | smuggling surge | none | an animal (used once) |
@@ -1144,7 +1144,7 @@ How the stories are made doesn't change. Each picked seed runs the [pipeline](..
 
 ### Questions for bt 7274
 
-**Answered 2026-11-04.** bt 7274: "I trust you leans, lets just get everything done" ([D24](../Notes/Decisions.md#the-authors-decisions)). Each lean below is now his ruling and has been applied to its owner page; only whether the faiths have gods stays open. The questions are kept as asked. The [legacy notes](../../../legacy-notes/README.md) were searched for answers on 2026-11-04; what they hold is now on each owner page.
+**Answered 2026-11-04.** bt 7274: "I trust you leans, lets just get everything done" ([D24](../Notes/Decisions.md#the-authors-decisions)). Each lean below is now his ruling and has been applied to its owner page. Whether the faiths have gods, left open by D24, he settled the same day: they do ([D25](../Notes/Decisions.md#the-authors-decisions)). The questions are kept as asked. The [legacy notes](../../../legacy-notes/README.md) were searched for answers on 2026-11-04; what they hold is now on each owner page.
 
 1. **Seven Hill: where is it, and whose base was it?** The legacy notes have nothing on it ([Seven Hill](../../Places/Seven-Hill.md#what-the-legacy-notes-say)), so it's new with bt 7274. Lean: on a Spine pass, a fortress emptied when Highridge's toll wars gave way to negotiated passage, so it has been a town for generations and the base is the town's old bones. The other way would be a recent garrison stood down by a treaty, which makes it fresher and sorer.
 2. **The Overpath: is it the legacy notes' Overpass?** The legacy has an *Overpass*: a dangerous surface way through the mountains for pilgrims, adventurers and caravans with goods too big for the tunnels, with bandits, tolls and two named landmarks ([The Spine](../../Places/The-Spine.md#what-the-legacy-notes-say)). That answers who walks it. Lean: the same thing, keep bt 7274's newer name, and let it be a trail along the range that the pass roads cross, so both descriptions hold.
@@ -1152,7 +1152,7 @@ How the stories are made doesn't change. Each picked seed runs the [pipeline](..
 4. **The Warrior's, Assassin's and Spy Guilds.** The legacy gives each a fuller form, mostly game-class flavor ([Guilds](../../Politics/Guilds.md#armed-and-clandestine-organizations)). The usable core: a fighters' guild that guards caravans and trains militias, and spy guilds that sell information to anyone, the Council included. Lean: keep those two cores for The Retired Blade and The Tea Boy, leave the Assassin's Guild out of the stories, and drop the costume names.
 5. **The guild roster.** Should the legacy notes' named guilds come into the wiki? Lean: yes, as provisional: keep the functions, ranks and everyday customs that fit the [World Rules](../../World-Rules.md) (apprenticeship, guild suppers, welfare, cornerstones, masons' travel); drop the Collegium Arcanum (magic, ruled out by [Magic](../../Magic.md)), the guild patron gods (the world has [nine faiths](../../Politics/Religions.md) instead) and game-style ranks; and let bt 7274 keep or rename the names.
 
-6. **The faiths' working life.** Should the legacy notes' rites, festivals, clergy, texts and sects come into the wiki, faith by faith? Lean: yes, as provisional, so stories can stand inside a faith. Keep the practices; leave out the one-faith-per-kingdom mapping, which the wiki rules against; keep the named gods out of canon until bt 7274 says whether these faiths have gods at all, or a Weaver and a Compass that people speak of as one.
+6. **The faiths' working life.** Should the legacy notes' rites, festivals, clergy, texts and sects come into the wiki, faith by faith? Lean: yes, as provisional, so stories can stand inside a faith. Keep the practices; leave out the one-faith-per-kingdom mapping, which the wiki rules against; keep the named gods out of canon until bt 7274 says whether these faiths have gods at all, or a Weaver and a Compass that people speak of as one. *(Settled by D25: they have gods, now on [Religions](../../Politics/Religions.md#working-life-and-gods).)*
 
 ## Related pages
 

@@ -539,6 +539,7 @@ Grouped by board column.
 - *Interests:* Calendars; rites of passage; mediation; burial; seasonal observance.
 - *Current scheme:* A reform movement argues that post-Convergence stability has become stagnation. Some members want deliberate social disruption to "complete" overdue cycles; traditional elders oppose them.
 - *Working life:* Circular temples with a great wheel for the calendar at the center; priests called Guides of the Cycle, and elders whom councils consult as mediators. (Provisional, D24.)
+- *Gods:* Chronospect (time, a many-eyed turning wheel), Omnia (totality), Equilibria (balance), Aevum (eternity, a river round the world) and Mortalis (mortality, half bone and half light). (Provisional, D25; believed, never confirmed.)
 
 **Path of the Great Weaver**
 
@@ -546,6 +547,7 @@ Grouped by board column.
 - *Interests:* Stewardship; oral history; ancestry; ecological obligations; community memory.
 - *Current scheme:* Networks across several regions are documenting land and water damage, building a trans-regional moral case against large extraction and infrastructure projects. Some Council families see this as a threat to economic planning.
 - *Working life:* Seasonal rites: planting blessings, midsummer fires, autumn thanks and a winter vigil for the ancestors. (Provisional, D24.)
+- *Gods:* spirits of the weave rather than gods apart from it: Arborealus (the forest), Montara (the mountains), Flumenara (rivers), Zephyria (wind) and Viridia (growth). (Provisional, D25; believed, never confirmed.)
 
 **The Radiant Path**
 
@@ -553,6 +555,7 @@ Grouped by board column.
 - *Interests:* Charity; public ethics; justice; moral testimony.
 - *Current scheme:* Different branches disagree over whether hidden Council rule is a necessary compromise or fundamentally a form of darkness through deception.
 - *Working life:* Weekly worship in temples set to the sun's path, opened at dawn by lighting a beacon flame; clergy called Luminaries. (Provisional, D24.)
+- *Gods:* aspects of one Eternal Radiance: Justitia (justice), Valorus (courage), Luxphera (light and truth) and Concordia (harmony). (Provisional, D25; believed, never confirmed.)
 
 **The Eternal Forge**
 
@@ -560,6 +563,7 @@ Grouped by board column.
 - *Interests:* Craft; apprenticeship; ethical labor; rebuilding.
 - *Current scheme:* Its guild-adjacent institutions are becoming active in labor and quality disputes, potentially turning a spiritual tradition into a cross-regional political force.
 - *Working life:* Every workshop keeps a small shrine with a fire that is never let go out. (Provisional, D24.)
+- *Gods:* Vulcanestra (fire and transformation), Montara (earth and stone, shared with the Weaver), Fortificus (strength and endurance) and Artesius (craft and invention). (Provisional, D25; believed, never confirmed.)
 
 **The Illuminated Circle**
 
@@ -567,6 +571,7 @@ Grouped by board column.
 - *Interests:* Libraries; schools; debate; archives; public reasoning.
 - *Current scheme:* Scholars are collecting contradictory trade and government records. Some may be close to proving systematic manipulation without yet understanding the Council.
 - *Working life:* Its worship is argument: gatherings for debate, contests of reasoning, and councils where a community's dilemma is set out and reasoned through together. (Provisional, D24.)
+- *Gods:* Omnia (all knowledge, with book and quill), Liberion (freedom of thought), Epistemia (inquiry) and Logos (reason). (Provisional, D25; believed, never confirmed.)
 
 **The Silent Whisper**
 
@@ -574,6 +579,7 @@ Grouped by board column.
 - *Interests:* Preservation; contemplation; secret archives; lost knowledge.
 - *Current scheme:* Some custodians believe dangerous truths should be withheld until society can survive them. Others argue that this has become complicity with elite secrecy.
 - *Working life:* Listening meditation, fasts of silence, and the practice of writing a thought down and destroying it. (Provisional, D24.)
+- *Gods:* Noxiquill (secrets and the night), Silentus (stillness), Mysterion (paradox) and Arcanus (hidden knowledge). (Provisional, D25; believed, never confirmed.)
 
 **The Harmonious Path**
 
@@ -581,6 +587,7 @@ Grouped by board column.
 - *Interests:* Mediation; community welfare; nonviolent conflict settlement.
 - *Current scheme:* Local Harmonious communities are building parallel mutual-aid and arbitration systems where official institutions have failed, unintentionally creating political power.
 - *Working life:* A yearly day of public kindness, with feasts honoring the community's peacemakers; lanterns set on water at night for peace; and festivals of harmony that mark a harvest, a treaty or a reconciliation by mending tools, planting trees and eating together. (Provisional, D24.)
+- *Gods:* Concordia (unity and community), Harmonia (balance), Serenica (inner peace) and Temperantia (moderation). (Provisional, D25; believed, never confirmed.)
 
 **The Dual Flame**
 
@@ -588,6 +595,7 @@ Grouped by board column.
 - *Interests:* Counseling; confession; mentorship; personal discipline.
 - *Current scheme:* Its counselors are seeing similar fear, anger and radicalization patterns across regions and may recognize that separate crises share a source before political leaders do.
 - *Working life:* Followers look back on the day at dawn and dusk, and may write down their wrongs and burn the page. (Provisional, D24.)
+- *Gods:* Thalos (discipline), Sereia (passion), Valoron (courage and honor), Nefari (the tempter) and Lysivere (the balancekeeper, holding both flames). (Provisional, D25; believed, never confirmed.)
 
 **The Infinite Compass**
 
@@ -595,6 +603,7 @@ Grouped by board column.
 - *Interests:* Pilgrimage; maps; hospitality; travelers; road shrines.
 - *Current scheme:* Its pilgrim networks move information across borders faster than many governments expect. The Council, the Villain, spies and criminals all have reasons to influence these networks.
 - *Working life:* Before a large decision a follower turns a full circle, facing every road. (Provisional, D24.)
+- *Gods:* Navigos (paths and guidance), Labyrintus (lost paths and mysteries), Infinis (the horizon) and Inventura (curiosity). (Provisional, D25; believed, never confirmed.)
 
 **Magic and relics**
 
