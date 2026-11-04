@@ -8,7 +8,7 @@ The main conflict, the current events and how they can ripple into each other, t
 
 Current events sit in their region's column (the cross-region ripple steps, the faiths' reading of the crises and the main-conflict cards in a Main conflict column). Each Sunday Morning story and seed sits in the column of its setting, with lines to its town or region, its festival, the events it sits on, its domino figure, its cast from Part 6, and the stories it shares a thread with. The ripple chain from Current Events is drawn step by step and marked possible.
 
-**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 44 story seeds; 337 connections (327 stated in the wiki, 10 inferred).
+**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 56 story seeds; 349 connections (339 stated in the wiki, 10 inferred).
 
 ## Gaps this part exposes
 
@@ -218,6 +218,18 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Forge Reawakening | would use | Ironcrest cuisine | stated, possible | “Ironcrest cuisine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening) |
 | The Kitchen Court | would use | The Harmonious Path | stated, possible | “Harmonious Path” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-kitchen-court) |
 | The Same Sin | would use | The Dual Flame | stated, possible | “Dual Flame” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-same-sin) |
+| The Beacon | would use | The Radiant Path | stated, possible | “Radiant Path” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-beacon) |
+| The River Blessing | would use | Path of the Great Weaver | stated, possible | “Great Weaver” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-river-blessing) |
+| The Last Argument | would use | The Illuminated Circle | stated, possible | “Illuminated Circle” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-last-argument) |
+| The Last Argument | would use | Education | stated, possible | “Education” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-last-argument) |
+| Shadow Charity | would use | The Silent Whisper | stated, possible | “Silent Whisper” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#shadow-charity) |
+| The Day of Departure | would use | The Infinite Compass | stated, possible | “Infinite Compass” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-day-of-departure) |
+| The Naming Candle | would use | The Cyclic Order | stated, possible | “Cyclic Order” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-naming-candle) |
+| The Breaking | would use | Ironcrest culture | stated, possible | “Ironcrest” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-breaking) |
+| The Breaking | would be set in | Ironcrest | stated, possible | “Ironcrest” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-breaking) |
+| The Breaking | would use | The Eternal Forge | stated, possible | “Eternal Forge” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-breaking) |
+| Nothing to Mend | would use | The Harmonious Path | stated, possible | “Harmonious Path” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#nothing-to-mend) |
+| The Crystal Grove | would be set in | The Underpass | stated, possible | “Underpass” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-crystal-grove) |
 | The Name on Both Walls | would use | The Ember Wars / The Burning Years | stated, possible | “Ember Wars” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls) |
 | The Name on Both Walls | would use | Ember Wars: Greenvale folk memory | stated, possible | “Ember Wars” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls) |
 | The Name on Both Walls | would use | Ember Wars: Ironcrest patriotic memory | stated, possible | “Ember Wars” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls) |
@@ -621,6 +633,18 @@ flowchart LR
   ironcrest_food["Ironcrest cuisine"]
   seed_w_the_kitchen_court["The Kitchen Court"]
   seed_w_the_same_sin["The Same Sin"]
+  seed_w_the_beacon["The Beacon"]
+  pw_faith_radiant["The Radiant Path"]
+  seed_w_the_river_blessing["The River Blessing"]
+  seed_w_the_last_argument["The Last Argument"]
+  systems_proposal_10["Education"]
+  seed_w_shadow_charity["Shadow Charity"]
+  pw_faith_whisper["The Silent Whisper"]
+  seed_w_the_day_of_departure["The Day of Departure"]
+  seed_w_the_naming_candle["The Naming Candle"]
+  seed_w_the_breaking["The Breaking"]
+  seed_w_nothing_to_mend["Nothing to Mend"]
+  seed_w_the_crystal_grove["The Crystal Grove"]
   seed_w_the_name_on_both_walls["The Name on Both Walls"]
   hi_mem_ember_wars["The Ember Wars / The Burning Years"]
   hi_ver_ember_greenvale["Ember Wars: Greenvale folk memory"]
@@ -642,7 +666,6 @@ flowchart LR
   hi_ver_seizure_merchants["Port Seizure: some merchants"]
   seed_w_the_pillar["The Pillar"]
   pw_guild_metal["Metalworking guild factions"]
-  systems_proposal_10["Education"]
   seed_w_the_cornerstone["The Cornerstone"]
   seed_w_three_kingdoms["Three Kingdoms"]
   seed_w_the_quorum["The Quorum"]
@@ -947,6 +970,18 @@ flowchart LR
   seed_w_forge_reawakening -.->|possible| ironcrest_food
   seed_w_the_kitchen_court -.->|possible| pw_faith_harmonious
   seed_w_the_same_sin -.->|possible| pw_faith_dualflame
+  seed_w_the_beacon -.->|possible| pw_faith_radiant
+  seed_w_the_river_blessing -.->|possible| pw_faith_weaver
+  seed_w_the_last_argument -.->|possible| pw_faith_illuminated
+  seed_w_the_last_argument -.->|possible| systems_proposal_10
+  seed_w_shadow_charity -.->|possible| pw_faith_whisper
+  seed_w_the_day_of_departure -.->|possible| pw_faith_compass
+  seed_w_the_naming_candle -.->|possible| pw_faith_cyclic
+  seed_w_the_breaking -.->|possible| ironcrest_culture
+  seed_w_the_breaking -.->|possible| ironcrest
+  seed_w_the_breaking -.->|possible| pw_faith_forge
+  seed_w_nothing_to_mend -.->|possible| pw_faith_harmonious
+  seed_w_the_crystal_grove -.->|possible| underpass
   seed_w_the_name_on_both_walls -.->|possible| hi_mem_ember_wars
   seed_w_the_name_on_both_walls -.->|possible| hi_ver_ember_greenvale
   seed_w_the_name_on_both_walls -.->|possible| hi_ver_ember_ironcrest
@@ -1066,6 +1101,8 @@ Grouped by board column.
 | [Debates tied to patrons](../../wiki/Story/Current-Events.md#political-debate) | Current event | No status label | Highridge intellectual disputes are increasingly tied to real patrons and commercial interests. |
 | [The Goat File](../../wiki/Sunday-Morning/Stories/The-Goat-File.md#status) | Sunday Morning story, Year 1, late autumn | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The Stopping Place](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-stopping-place) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Day of Departure](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-day-of-departure) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Prayer List](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-prayer-list) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [Small Jobs](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#small-jobs) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [One Hall](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#one-hall) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Map With a Gap](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-map-with-a-gap) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1101,6 +1138,20 @@ Grouped by board column.
 - *Premise:* A circuit family arrives at the spring where they have stopped every spring for longer than anyone can say, and finds a new fence and a new owner who has never heard of them.
 - *Possible heart:* old custom is only as strong as the people who remember it.
 - *Possible thread:* land changing hands (land and seed politics); the buyer's reasons stay ordinary.
+
+**The Day of Departure**
+
+- *Kind:* World
+- *Premise:* On the Infinite Compass's day for sending people off, the whole village gives gifts for the road. This year only one person is leaving, a boy going to an apprenticeship in Port, and the village's gifts won't fit in one pack.
+- *Possible heart:* you carry where you're from, whether you mean to or not.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Prayer List**
+
+- *Kind:* Domino
+- *Premise:* The shrine keeper reads out the names on the prayer list every evening, as the pilgrims bring them in. This year the list is longer than it has ever been, and more of the names are from places she's never heard of.
+- *Possible heart:* you can care for people you'll never meet.
+- *Possible thread:* "Religious networks may also provide the first genuinely trans-regional response" (Religions). She sees only her list; the reader sees what's making it longer.
 
 **Small Jobs**
 
@@ -1196,6 +1247,8 @@ Grouped by board column.
 | [11. Strike leaders blame owners](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 11 of one possible ripple chain: strike leaders blame owners. |
 | [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md#status) | Sunday Morning story, Year 2, midsummer | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [Forge Reawakening](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Breaking](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-breaking) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Miner's Luck](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-miners-luck) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Pillar](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-pillar) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Unusual metal movements**
@@ -1241,6 +1294,20 @@ Grouped by board column.
 - *Possible heart:* honesty in the work is the work.
 - *Possible thread:* Eternal Forge institutions "becoming active in labor and quality disputes"; the town is near Coalglen, a year after Walkout Pies.
 
+**The Breaking**
+
+- *Kind:* World
+- *Premise:* When a craftsman retires, the Eternal Forge way is to break his hammer and melt it into something new. The old smith agreed to it a year ago, and he keeps finding one more job first.
+- *Possible heart:* letting go of the tool isn't letting go of the work.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Miner's Luck**
+
+- *Kind:* World
+- *Premise:* The mine's old luck charm goes missing the week a new Eternal Forge priest arrives, who thinks charms are nonsense. Nobody will go down until it's found.
+- *Possible heart:* what people believe keeps them safe is part of what keeps them safe.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
 **The Pillar**
 
 - *Kind:* World
@@ -1262,6 +1329,7 @@ Grouped by board column.
 | [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md#status) | Sunday Morning story, Year 1, midwinter | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [Mending Day](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#mending-day) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Wrong Day](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-wrong-day) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The River Blessing](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-river-blessing) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Cornerstone](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-cornerstone) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Seed Swap](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-seed-swap) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
@@ -1322,6 +1390,13 @@ Grouped by board column.
 - *Premise:* The village's Cyclic Order calendar-keeper finds that the festival calendar has drifted a day over forty years. Putting it right would move a wedding.
 - *Possible heart:* being right isn't always the same as being on time.
 - *Possible thread:* the Cyclic Order's reformers, who say stability has become stagnation, would love a drifted calendar. One of them visits; the keeper's reasons stay her own.
+
+**The River Blessing**
+
+- *Kind:* Domino
+- *Premise:* Every spring the Great Weaver households clean the river in a day of singing and wading. This year there's more to pull out than anyone remembers, and the elder who has done it fifty years writes down what they found, for the first time.
+- *Possible heart:* you look after a thing by looking at it.
+- *Possible thread:* Weaver networks "documenting land and water damage" across regions. Her list is one page of it; she sends it on because a cousin asked.
 
 **The Cornerstone**
 
@@ -1487,6 +1562,7 @@ Grouped by board column.
 | [The Air Keeper](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-air-keeper) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Deep Door](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-deep-door) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [What the Pass Is Called](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-pass-is-called) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Crystal Grove](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-crystal-grove) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Earthquake or land movement**
 
@@ -1553,6 +1629,13 @@ Grouped by board column.
 - *Possible heart:* a place can mean two things and still be one place.
 - *Possible thread:* None: a world story, part of the world at large (D23).
 
+**The Crystal Grove**
+
+- *Kind:* World
+- *Premise:* A party of Radiant Path pilgrims hires an Underpass guide family to take them to a cavern where the light breaks through the crystal like a sermon. To the guides it's a wet room they walk through twice a week.
+- *Possible heart:* holy is partly in how you look.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
 ### Border towns
 
 | Thing | Kind | Status | Summary |
@@ -1563,6 +1646,7 @@ Grouped by board column.
 | [The Tree With a Debt](../../wiki/Sunday-Morning/Stories/The-Tree-With-a-Debt.md#status) | Sunday Morning story, Year 2, midsummer | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The Bathhouse Compact](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bathhouse-compact) | Story seed | Provisional | A parked Sunday Morning premise, not yet developed; names and details are non-canon. |
 | [The Kitchen Court](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-kitchen-court) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [Both Rites](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#both-rites) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Name on Both Walls](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Treaty Stone](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-treaty-stone) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Midwife's Road](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-midwifes-road) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1623,6 +1707,13 @@ Grouped by board column.
 - *Premise:* The nearest court is three valleys away, so the village's Harmonious Path households settle quarrels over supper. Tonight it's two neighbors and a goose, and the goose is at the table.
 - *Possible heart:* fairness tastes better with food.
 - *Possible thread:* Harmonious communities "building parallel mutual-aid and arbitration systems … unintentionally creating political power". A visitor writes down how well it works.
+
+**Both Rites**
+
+- *Kind:* World
+- *Premise:* A Cyclic Order bride and an Infinite Compass groom want both rites at one wedding. One braids two threads together and the other turns to face every road, and the families have one afternoon and one yard.
+- *Possible heart:* a marriage is two ways of doing everything, made to fit.
+- *Possible thread:* None: a world story, part of the world at large (D23).
 
 **The Name on Both Walls**
 
@@ -1702,6 +1793,11 @@ Grouped by board column.
 | [The Ballad Line](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-ballad-line) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Lantern](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-lantern) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Same Sin](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-same-sin) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Beacon](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-beacon) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Last Argument](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-last-argument) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [Shadow Charity](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#shadow-charity) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Naming Candle](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-naming-candle) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [Nothing to Mend](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#nothing-to-mend) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [Salt Between Them](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#salt-between-them) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Apothecary's Test](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-apothecarys-test) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Widow's Share](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-widows-share) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1741,6 +1837,41 @@ Grouped by board column.
 - *Kind:* World
 - *Premise:* An old man confesses the same small sin to a young counselor every week. She sets out to find out why.
 - *Possible heart:* some people need to be listened to more than forgiven.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Beacon**
+
+- *Kind:* World
+- *Premise:* The old keeper has lit the temple's beacon at dawn every day for forty years. One morning he oversleeps, and wakes to find it lit.
+- *Possible heart:* what you keep for others, others learn to keep for you.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Last Argument**
+
+- *Kind:* World
+- *Premise:* An apprentice's training ends when she argues against her teacher in front of the circle, to show she can think for herself. The trouble is she agrees with him about everything, and she has three days to find something she doesn't.
+- *Possible heart:* you honor a teacher by becoming someone he didn't make.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**Shadow Charity**
+
+- *Kind:* World
+- *Premise:* Someone has been leaving food on the doorsteps of the families who need it, all winter, without a word. The village is determined to find out who. The giver is the last person they'd guess, and the one person who works it out decides to say nothing.
+- *Possible heart:* some kindness only works if nobody thanks you for it.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Naming Candle**
+
+- *Kind:* World
+- *Premise:* At a baby's naming, the parents light a spiral candle, and the name has to be spoken before it burns down. The two grandmothers still haven't agreed, and the candle is half gone.
+- *Possible heart:* a name is a gift from everyone who argued over it.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**Nothing to Mend**
+
+- *Kind:* World
+- *Premise:* A wandering Harmonious Path mediator arrives in a valley that has asked for one, and finds nobody quarrelling. Somebody asked her there for a reason, and it takes her a week to find out whose.
+- *Possible heart:* sometimes the quarrel is the only way to ask for help.
 - *Possible thread:* None: a world story, part of the world at large (D23).
 
 **Salt Between Them**

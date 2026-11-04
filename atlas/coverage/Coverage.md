@@ -11,7 +11,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 | Regions and Geography | 22 of 27 | 5 | 2 |
 | Culture | 40 of 57 | 17 | 6 |
 | Food | 15 of 73 | 58 | 5 |
-| Power | 8 of 48 | 40 | 11 |
+| Power | 8 of 48 | 40 | 12 |
 | History | 13 of 41 | 28 | 14 |
 | People | 8 of 12 | 4 | 3 |
 | The story layer | 32 of 34 | 2 | 1 |
@@ -94,7 +94,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### Faiths
 
-**Not yet in any story:** [The Cyclic Order](../../wiki/Politics/Religions.md#1-the-cyclic-order) *(seeded: The Wrong Day)*, [The Radiant Path](../../wiki/Politics/Religions.md#3-the-radiant-path), [The Eternal Forge](../../wiki/Politics/Religions.md#4-the-eternal-forge) *(seeded: Forge Reawakening)*, [The Harmonious Path](../../wiki/Politics/Religions.md#7-the-harmonious-path) *(seeded: The Kitchen Court)*, [The Dual Flame](../../wiki/Politics/Religions.md#8-the-dual-flame) *(seeded: The Same Sin)*.
+**Not yet in any story:** [The Cyclic Order](../../wiki/Politics/Religions.md#1-the-cyclic-order) *(seeded: The Naming Candle, The Wrong Day)*, [The Radiant Path](../../wiki/Politics/Religions.md#3-the-radiant-path) *(seeded: The Beacon)*, [The Eternal Forge](../../wiki/Politics/Religions.md#4-the-eternal-forge) *(seeded: Forge Reawakening, The Breaking)*, [The Harmonious Path](../../wiki/Politics/Religions.md#7-the-harmonious-path) *(seeded: Nothing to Mend, The Kitchen Court)*, [The Dual Flame](../../wiki/Politics/Religions.md#8-the-dual-flame) *(seeded: The Same Sin)*.
 
 **Used:** Path of the Great Weaver (The Blank Square, The Tree With a Debt); The Illuminated Circle (The Blank Square); The Silent Whisper (The Goat File); The Infinite Compass (The Blank Square, The Heavy Scale at Icestep Summit, The Road in Use).
 
@@ -174,6 +174,6 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### Proposals
 
-**Not yet in any story:** [World system](../../wiki/World-System.md), [Social fabric](../../wiki/Social-Fabric.md), [Movement and information](../../wiki/Movement-and-Information.md), [Education](../../wiki/Education-and-Knowledge-Transmission.md) *(seeded: The Pillar)*, [Clothing and material culture](../../wiki/Culture/Clothing-and-Material-Culture.md) *(seeded: The Coat)*, [Medicine and healing](../../wiki/Medicine-and-Healing.md) *(seeded: The Apothecary's Test, The Midwife's Road, The Yellow Flag)*, [Audience movements](../../wiki/Culture/Audience-Movements.md), [Three Moons Festival](../../wiki/Culture/Three-Moons-Festival.md).
+**Not yet in any story:** [World system](../../wiki/World-System.md), [Social fabric](../../wiki/Social-Fabric.md), [Movement and information](../../wiki/Movement-and-Information.md), [Education](../../wiki/Education-and-Knowledge-Transmission.md) *(seeded: The Last Argument, The Pillar)*, [Clothing and material culture](../../wiki/Culture/Clothing-and-Material-Culture.md) *(seeded: The Coat)*, [Medicine and healing](../../wiki/Medicine-and-Healing.md) *(seeded: The Apothecary's Test, The Midwife's Road, The Yellow Flag)*, [Audience movements](../../wiki/Culture/Audience-Movements.md), [Three Moons Festival](../../wiki/Culture/Three-Moons-Festival.md).
 
 **Used:** Law and jurisdiction (The First Fish at Snowbreaker Quay); Calendar and timekeeping (The First Fish at Snowbreaker Quay, The Ladder Rules, The Mushrooms From Nowhere, The Road in Use, Walkout Pies); Language families and contact (The Road in Use); Money, credit and measures (The First Fish at Snowbreaker Quay, The Ladder Rules, Walkout Pies); Records and authentication (The Blank Square, The Eighth Verse, The Mushrooms From Nowhere); Couriers and messages (The Blank Square, The Mushrooms From Nowhere); Arts and leisure (The Eighth Verse, Walkout Pies); Daily life and customs (Walkout Pies); Folk beliefs and taboos (The First Fish at Snowbreaker Quay, The Ladder Rules, Walkout Pies).

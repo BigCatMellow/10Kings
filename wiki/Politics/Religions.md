@@ -126,6 +126,10 @@ Institutional interests:
 Current scheme:
 Its pilgrim networks move information across borders faster than many governments expect. The Council, the Villain, spies, and criminals all have reasons to influence these networks.
 
+## Working life in the legacy notes
+
+Not canon. The legacy notes ([Volume 06](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md)) give each faith a full working life: rites for naming, marriage and death, festivals, temples and clergy, sacred texts, sects, pilgrimages and named gods, plus a long section on religious artifacts. They also assign each faith to one kingdom, which this page rules against below. Whether the rest comes in is open for bt 7274 ([Story Seeds, question 6](../Sunday-Morning/Stories/Story-Seeds.md#questions-for-bt-7274)).
+
 ## Religion and politics
 
 Faiths should not behave like nine political parties.

@@ -19,7 +19,7 @@ The whole setting on one board. Group it by region or by kind, show one part or 
 | 4. Power | Power | 54 | 51 | [power](../power/README.md) |
 | 5. History | History | 43 | 34 | [history](../history/README.md) |
 | 6. People | People | 88 | 53 | [people](../people/README.md) |
-| 7. The story layer | Story | 94 | 337 | [story](../story/README.md) |
+| 7. The story layer | Story | 106 | 349 | [story](../story/README.md) |
 | 8. Open questions | Questions | 32 | 35 | [questions](../questions/README.md) |
 | 9. Foundations | Foundations | 32 | 30 | [foundations](../foundations/README.md) |
 | 10. Recovered structural systems | Systems | 17 | 17 | [systems](../systems/README.md) |

@@ -66,7 +66,7 @@ The brainstorm used the THINK pattern from bt 7274's [Pilot Projects](https://gi
 
 1. **Split the world into families** from the [World coverage](../../../atlas/coverage/Coverage.md) report and his examples: the Spine above and below, Seven Hill, Port, moving peoples, faiths and relics, remembered history, guilds, how life works.
 2. **Generate in each family** with a few different operations, so the seeds don't all come out the same shape: a point of view no story has used (perspective shift), the expected thing not happening (inversion), two parts of the world meeting (recombination), a season or scale moved (constraint shift).
-3. **Keep the families apart.** Forty-odd ideas came out; thirty-one were kept, and eleven more guild seeds were added the same day because each works a different way. Near-duplicates were dropped, not averaged.
+3. **Keep the families apart.** Forty-odd ideas came out; thirty-one were kept, and eleven guild seeds and twelve faith seeds were added the same day because each works a different way. Near-duplicates were dropped, not averaged.
 4. **Judge separately** against the [Rules](../Notes/Rules.md) and the [Registry](../Notes/Registry.md#story-shapes) (the [table](#how-they-compare) below), then pick a few for different reasons rather than by one score ([picks](#picks)).
 
 Nothing in a seed is canon. Where a seed needs something the wiki doesn't have, its **Needs** line says so, and nothing is assumed.
@@ -258,6 +258,14 @@ Possible heart: the stories a people keep about itself are kind and harsh at onc
 
 ### Faiths and relics
 
+*bt 7274, 2026-11-04: "lets also do the religions, those are another large part of the world".*
+
+Season 1 touches four of the nine [faiths](../../Politics/Religions.md): the Great Weaver ([The Tree](The-Tree-With-a-Debt.md), [The Blank Square](The-Blank-Square.md)), the Illuminated Circle (The Blank Square), the Silent Whisper ([The Goat File](The-Goat-File.md)) and the Infinite Compass (The Blank Square, [The Heavy Scale](The-Heavy-Scale.md), [The Road in Use](The-Road-in-Use.md)). Mostly in passing: a custom, a phrase, a way of keeping records. No story yet happens *inside* a faith's own life, at a rite, in a temple, between a priest and the people.
+
+The wiki's Religions page gives each faith its core belief, its interests and a current scheme. The [legacy notes](../../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md) give each a full working life: rites for naming, marriage and death, festivals, temples and clergy, sacred texts, sects, pilgrimages, and pantheons of named gods. They also tie each faith to one kingdom (the Eternal Forge to a "Kingdom of Blaze", a "Pilgrim's Compass" to a "Kingdom of Frost"), which the wiki rules against: faiths "span borders" and "should not behave like nine political parties". None of that is canon ([question 6](#questions-for-bt-7274)). The seeds below borrow a few legacy rites as story-level customs and use no god's name.
+
+Two rules shape every faith story. Faith is belief, never proof: the [Magic](../../Magic.md#writing-rule) writing rule applies to prayers and omens as much as to relics. And the faiths' current schemes come close to seeing the pattern (the Illuminated Circle's scholars, the Dual Flame's counselors, the Radiant Path's argument about hidden rule), so a story keeps them at the scale of one congregation, or it breaks the [world-tie rule](../Notes/Rules.md#the-world-tie-rule-connected-not-driven).
+
 #### The Lantern
 
 `WORLD` · *a village shrine · any season*
@@ -327,6 +335,133 @@ An old man confesses the same small sin to a young counselor every week. She set
 Possible heart: some people need to be listened to more than forgiven.
 
 - **Needs:** the Dual Flame's counselors are seeing patterns across regions; this story stays clear of that, or it breaks the [world-tie rule](../Notes/Rules.md#the-world-tie-rule-connected-not-driven).
+
+#### The Beacon
+
+`WORLD` · *a [Radiant Path](../../Politics/Religions.md#3-the-radiant-path) temple in a market town · midwinter*
+
+The old keeper has lit the temple's beacon at dawn every day for forty years. One morning he oversleeps, and wakes to find it lit.
+
+Possible heart: what you keep for others, others learn to keep for you.
+
+- **Uses:** the Radiant Path's charity and public life; the dawn lighting is a [legacy rite](../../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-radiant-path).
+- **Needs:** a different engine from [The Ladder Rules](The-Ladder-Rules.md), which also lights things at midwinter: this one is about one flame and who else knew how.
+
+#### The River Blessing
+
+`DOMINO` · *a Greenvale river town · late spring*
+
+Every spring the [Great Weaver](../../Politics/Religions.md#2-path-of-the-great-weaver) households clean the river in a day of singing and wading. This year there's more to pull out than anyone remembers, and the elder who has done it fifty years writes down what they found, for the first time.
+
+Possible heart: you look after a thing by looking at it.
+
+Possible thread: Weaver networks "documenting land and water damage" across regions. Her list is one page of it; she sends it on because a cousin asked.
+
+- **Uses:** a [legacy rite](../../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-path-of-the-great-weaver) ("river blessings").
+
+#### The Last Argument
+
+`WORLD` · *an [Illuminated Circle](../../Politics/Religions.md#5-the-illuminated-circle) school · summer*
+
+An apprentice's training ends when she argues against her teacher in front of the circle, to show she can think for herself. The trouble is she agrees with him about everything, and she has three days to find something she doesn't.
+
+Possible heart: you honor a teacher by becoming someone he didn't make.
+
+- **Uses:** the [legacy rite](../../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-illuminated-circle) "the Circle of Dialogue"; [Education](../../Education-and-Knowledge-Transmission.md).
+- **Needs:** keep the circle's scholars well away from the records their faith is collecting.
+
+#### Shadow Charity
+
+`WORLD` · *a hill village · winter*
+
+Someone has been leaving food on the doorsteps of the families who need it, all winter, without a word. The village is determined to find out who. The giver is the last person they'd guess, and the one person who works it out decides to say nothing.
+
+Possible heart: some kindness only works if nobody thanks you for it.
+
+- **Uses:** the [Silent Whisper](../../Politics/Religions.md#6-the-silent-whisper)'s "anonymous acts of kindness" ([legacy](../../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-the-silent-whisper)).
+- **Needs:** the "didn't say anything" scene ending is a [stock phrase](../Notes/Registry.md#stock-phrases-to-avoid); the silence has to be shown another way.
+
+#### The Day of Departure
+
+`WORLD` · *a Highridge village · Pass Opening, early spring*
+
+On the [Infinite Compass](../../Politics/Religions.md#9-the-infinite-compass)'s day for sending people off, the whole village gives gifts for the road. This year only one person is leaving, a boy going to an apprenticeship in Port, and the village's gifts won't fit in one pack.
+
+Possible heart: you carry where you're from, whether you mean to or not.
+
+- **Uses:** the [legacy festival](../../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-infinite-compass) "the Day of Departure"; could hand on to [The Harbor Runner](#the-harbor-runner) as a [Thread](../Notes/The-Long-Road.md#kinds-of-story).
+
+#### The Naming Candle
+
+`WORLD` · *a [Cyclic Order](../../Politics/Religions.md#1-the-cyclic-order) household · autumn*
+
+At a baby's naming, the parents light a spiral candle, and the name has to be spoken before it burns down. The two grandmothers still haven't agreed, and the candle is half gone.
+
+Possible heart: a name is a gift from everyone who argued over it.
+
+- **Uses:** the [legacy rite](../../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-cyclic-order) of naming; [How names work](../../Culture/Naming.md).
+
+#### The Breaking
+
+`WORLD` · *an [Ironcrest](../../Regions/Ironcrest.md) workshop · Ember Remembrance, late autumn*
+
+When a craftsman retires, the [Eternal Forge](../../Politics/Religions.md#4-the-eternal-forge) way is to break his hammer and melt it into something new. The old smith agreed to it a year ago, and he keeps finding one more job first.
+
+Possible heart: letting go of the tool isn't letting go of the work.
+
+- **Uses:** the [legacy rite](../../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-eternal-forge) "the Breaking Ceremony". No judging of a piece, so it stays clear of Inspected and Forge Reawakening.
+
+#### Nothing to Mend
+
+`WORLD` · *a quiet valley · summer*
+
+A wandering [Harmonious Path](../../Politics/Religions.md#7-the-harmonious-path) mediator arrives in a valley that has asked for one, and finds nobody quarrelling. Somebody asked her there for a reason, and it takes her a week to find out whose.
+
+Possible heart: sometimes the quarrel is the only way to ask for help.
+
+- **Uses:** the legacy "Guardians of Temperance", "wandering mediators" ([legacy](../../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-harmonious-path)).
+
+#### Both Rites
+
+`WORLD` · *a border town · late summer*
+
+A Cyclic Order bride and an Infinite Compass groom want both rites at one wedding. One braids two threads together and the other turns to face every road, and the families have one afternoon and one yard.
+
+Possible heart: a marriage is two ways of doing everything, made to fit.
+
+- **Uses:** [cross-regional marriage](../../Social-Fabric.md#mixed-communities-create-local-culture) and the wiki's rule that faith isn't party ([Religions](../../Politics/Religions.md#religion-and-politics)); both rites are [legacy](../../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md).
+- **Needs:** [The Bridge Delay](#the-bridge-delay) also has a wedding; not next to it in a season.
+
+#### The Miner's Luck
+
+`WORLD` · *an Ironcrest mine town · any season*
+
+The mine's old luck charm goes missing the week a new Eternal Forge priest arrives, who thinks charms are nonsense. Nobody will go down until it's found.
+
+Possible heart: what people believe keeps them safe is part of what keeps them safe.
+
+- **Uses:** [occupational superstition](../../Culture/Folk-Belief-Taboo-and-Superstition.md#3-occupational-superstition) beside formal faith ("a person can simultaneously follow an organized faith; family customs; occupational luck").
+
+#### The Crystal Grove
+
+`WORLD` · *an [Underpass](../../Places/The-Underpass.md) cavern · any season*
+
+A party of Radiant Path pilgrims hires an Underpass guide family to take them to a cavern where the light breaks through the crystal like a sermon. To the guides it's a wet room they walk through twice a week.
+
+Possible heart: holy is partly in how you look.
+
+- **The everyday strange:** the pilgrims' holy place, which the story never confirms or denies.
+- **Uses:** the legacy Radiant pilgrimage to "caverns where light refracts through mineral formations" ([legacy](../../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-radiant-path)); Underpass [guide families](../../Places/The-Underpass.md#politics).
+
+#### The Prayer List
+
+`DOMINO` · *a roadside shrine on a pass road · Season 2 or 3*
+
+The shrine keeper reads out the names on the prayer list every evening, as the pilgrims bring them in. This year the list is longer than it has ever been, and more of the names are from places she's never heard of.
+
+Possible heart: you can care for people you'll never meet.
+
+Possible thread: "Religious networks may also provide the first genuinely trans-regional response" ([Religions](../../Politics/Religions.md#religion-and-current-events)). She sees only her list; the reader sees what's making it longer.
 
 ### Remembered history
 
@@ -602,6 +737,18 @@ Judged one at a time against the [Rules](../Notes/Rules.md) and the [Registry](.
 | Forge Reawakening | Domino | Eternal Forge | none | a judgment, new |
 | The Kitchen Court | Domino | Harmonious Path | none | a meal court, new |
 | The Same Sin | World | Dual Flame | none | listening, new |
+| The Beacon | World | Radiant Path | none | a duty shared, new |
+| The River Blessing | Domino | Weaver rites | none | a list sent on |
+| The Last Argument | World | Illuminated Circle, schooling | none | a disagreement found, new |
+| Shadow Charity | World | Silent Whisper | none | a secret kept, new |
+| The Day of Departure | World | Infinite Compass | none | a send-off, new |
+| The Naming Candle | World | Cyclic Order, names | none | a name agreed, new |
+| The Breaking | World | Eternal Forge | none | a tool let go, new |
+| Nothing to Mend | World | Harmonious Path | none | the real request found, new |
+| Both Rites | World | cross-faith marriage | none | two rites fitted, new |
+| The Miner's Luck | World | folk belief against faith | none | an object found (used) |
+| The Crystal Grove | World | Radiant pilgrimage, Underpass | none | two ways of seeing, new |
+| The Prayer List | Domino | faith networks | none | a reading (used twice) |
 | The Name on Both Walls | World | Ember Wars memories | none | a reading (used twice) |
 | The Treaty Stone | Domino | Convergence borders, arbitration | none | must avoid "an object" |
 | Salt Between Them | Domino | Salted Coast memories | none | a galley truce, new |
@@ -641,6 +788,8 @@ Not a ranking. Each is picked for a different reason, so a season could start fr
 | **The Bridge Delay** | The best Domino story for Season 2's rung: the reader sees the trouble starting to have a shape while the town sees a wedding. |
 | **The Quorum** | The guilds from inside, with the most direct line to the main story (merchants, credit, routes), told by someone with one small vote. |
 | **Small Jobs** | The natural place for Wurdren's next appearance, if bt 7274 says he belongs to a guild. |
+| **Shadow Charity** | A story inside a faith's own life, warm and complete, with no new lore. |
+| **The Prayer List** | The faiths as the first thing in the world to feel the whole crisis, from one shrine. A Season 2 or 3 signal. |
 
 ### Plan
 
@@ -660,6 +809,8 @@ One at a time, each with a lean. The [legacy notes](../../../legacy-notes/README
 3. **The circuit people's name.** The legacy calls the Appalachian-influenced people the **Ridge-Roamers**, travelling in clans named for a ridge or an ancestor, with seven more named bands besides ([Nomads](../../Culture/Nomads.md#names-in-the-legacy-notes)). Lean: keep Ridge-Roamers as what outsiders call them, and let the stories use the clan names, the way they'd name themselves.
 4. **The Warrior's, Assassin's and Spy Guilds.** The legacy gives each a fuller form, mostly game-class flavor ([Guilds](../../Politics/Guilds.md#armed-and-clandestine-organizations)). The usable core: a fighters' guild that guards caravans and trains militias, and spy guilds that sell information to anyone, the Council included. Lean: keep those two cores for The Retired Blade and The Tea Boy, leave the Assassin's Guild out of the stories, and drop the costume names.
 5. **The guild roster.** Should the legacy notes' named guilds come into the wiki? Lean: yes, as provisional: keep the functions, ranks and everyday customs that fit the [World Rules](../../World-Rules.md) (apprenticeship, guild suppers, welfare, cornerstones, masons' travel); drop the Collegium Arcanum (magic, ruled out by [Magic](../../Magic.md)), the guild patron gods (the world has [nine faiths](../../Politics/Religions.md) instead) and game-style ranks; and let bt 7274 keep or rename the names.
+
+6. **The faiths' working life.** Should the legacy notes' rites, festivals, clergy, texts and sects come into the wiki, faith by faith? Lean: yes, as provisional, so stories can stand inside a faith. Keep the practices; leave out the one-faith-per-kingdom mapping, which the wiki rules against; keep the named gods out of canon until bt 7274 says whether these faiths have gods at all, or a Weaver and a Compass that people speak of as one.
 
 ## Related pages
 
