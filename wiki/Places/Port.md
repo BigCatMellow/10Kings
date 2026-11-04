@@ -117,3 +117,7 @@ Foreign militaries may protect outer sea lanes while being restricted inside Por
 Port is a miniature of the whole world.
 
 Every regional conflict can appear here in compressed form, but Port-born people experience those conflicts differently because their survival depends on keeping incompatible groups inside one functioning city.
+
+## Legacy research
+
+Unpromoted legacy material relevant to this page is indexed in the [Story Legacy Research Library](../Reference/Story-Legacy-Research-Library.md).

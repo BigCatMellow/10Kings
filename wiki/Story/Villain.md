@@ -93,3 +93,7 @@ A satisfying resolution likely separates:
 He may force real reform while personally failing, losing his coalition, accepting accountability, going into exile, or being defeated in the final escalation.
 
 His impact remains part of the new world.
+
+## Legacy research
+
+Unpromoted legacy material relevant to this page is indexed in the [Story Legacy Research Library](../Reference/Story-Legacy-Research-Library.md).

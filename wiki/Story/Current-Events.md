@@ -181,3 +181,7 @@ One possible chain:
 13. a local economic shock becomes proof, in several regions, that another group is acting against them.
 
 This is the kind of causal chain the story should prefer.
+
+## Legacy research
+
+Unpromoted legacy material relevant to this page is indexed in the [Story Legacy Research Library](../Reference/Story-Legacy-Research-Library.md).

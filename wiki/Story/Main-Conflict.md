@@ -112,3 +112,7 @@ Wurdren does not become ruler. His contribution is making it impossible for elit
 The ending asks:
 
 **Can a society preserve coordination without secret domination, and can oppressed people pursue change without reproducing domination themselves?**
+
+## Legacy research
+
+Unpromoted legacy material relevant to this page is indexed in the [Story Legacy Research Library](../Reference/Story-Legacy-Research-Library.md).

@@ -117,3 +117,7 @@ He changes relationships:
 - makes cooperation possible where the plan required isolation.
 
 Those human links are difficult for the Villain to model.
+
+## Legacy research
+
+Unpromoted legacy material relevant to this page is indexed in the [Story Legacy Research Library](../Reference/Story-Legacy-Research-Library.md).
