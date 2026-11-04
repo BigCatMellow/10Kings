@@ -100,7 +100,7 @@ The Sunday Morning mode relaxes stakes, not worldbuilding discipline ([World Rul
 
 Run the Framework's [checklist](Sources/Framework.md#20-the-sunday-morning-story-checklist) first, then:
 
-- [ ] Does the story carry a current event, a nail, an out-of-story attribution, a local outcome and an outward effect?
+- [ ] Does the story carry a current event, a nail, an out-of-story attribution, a local outcome and an outward effect? (A [world story](#world-stories) skips this and the next item.)
 - [ ] Would the story still work with the thread deleted, and matter more with it kept?
 - [ ] Does no character see the pattern, and does the Villain stay off the page?
 - [ ] Is the setting one community, not a region?

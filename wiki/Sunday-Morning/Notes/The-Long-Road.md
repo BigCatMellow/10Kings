@@ -61,7 +61,7 @@ No route, no fixed plan ([D20](Decisions.md#the-authors-decisions)). These are t
 | Season | The world under the stories ([escalation](../../Story/Main-Conflict.md#escalation)) | Wurdren | What the reader could piece together by the end |
 | --- | --- | --- | --- |
 | **1** (done) | apparently independent local problems | once, at Stonefield; sees one letter he doesn't understand | someone is behind the offers |
-| **2** | recognizable patterns: the same kinds of trouble in more places | from time to time, in other people's stories | the trouble has a shape, and more than one hand is in it |
+| **2** (begun: test story [Mending Day](../Stories/Mending-Day.md); spine in [Story Seeds](../Stories/Story-Seeds.md#the-main-story-season-2)) | recognizable patterns: the same kinds of trouble in more places | from time to time, in other people's stories (lean: [The Same Paper](../Stories/Story-Seeds.md#the-same-paper), [Small Jobs](../Stories/Story-Seeds.md#small-jobs), [Very Nearly](../Stories/Story-Seeds.md#very-nearly)) | the trouble has a shape, and more than one hand is in it |
 | **3** | regional political crises; cross-regional suspicion | more often; the people who trust him begin to show | the two hands are working against each other |
 | **4** | mobilization; near-war or limited war, felt from the towns | the people from earlier stories are his network | ordinary trust is what neither side planned for |
 | **5** | revelation; convergence | at the table, or near it, because of the people | the ending, in the voice of the first story |
