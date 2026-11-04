@@ -8,7 +8,7 @@ When a seed is developed, give it its own page in this folder and list it in the
 
 Two seeds were promoted to story pages on 2026-11-02: [The Mushrooms From Nowhere](The-Mushrooms-From-Nowhere.md) and [The Ladder Rules](The-Ladder-Rules.md). Their seed text stays below as the record of where they started. The other two are `PARKED`: interesting, not yet given resources. Each carries a possible world thread; when a seed is developed, its thread goes through the pipeline's [world-tie check](../Notes/Pipeline.md#world-tie-check). Status labels follow the [Story Pipeline](../Notes/Pipeline.md#stage-5--reconcile-keep-the-records-honest).
 
-The [world seeds](#world-seeds-2026-11-04) below were brainstormed on 2026-11-04 at bt 7274's request, to use more of the world. All of them are `PARKED` until he picks.
+The [world seeds](#world-seeds-2026-11-04) below were brainstormed on 2026-11-04 at bt 7274's request, to use more of the world. All of them are `PARKED` until picked, except [Mending Day](#mending-day), which is `ACTIVE` as the test story ([D24](../Notes/Decisions.md#the-authors-decisions); [story page](Mending-Day.md)).
 
 ## Seeds
 
@@ -358,6 +358,8 @@ Possible thread: [refugee and worker pressure](../../Story/Current-Events.md#ref
 ### Moving peoples
 
 #### Mending Day
+
+`ACTIVE` → [story page](Mending-Day.md) (L3 first pass, 2026-11-04), the Season 2 test story ([D24](../Notes/Decisions.md#the-authors-decisions)). The page changes the clock to a fiddle, since the wiki doesn't assume mechanical clocks, and names the village Kellerby and the clan the Wethercrags.
 
 `WORLD` · *a Greenvale village · late summer*
 
@@ -808,7 +810,7 @@ Possible heart: being overlooked is its own kind of freedom.
 
 Possible thread: [intelligence brokerage](../../Places/Port.md#crime); what he overhears stays small.
 
-- **Needs:** settled ([D24](../Notes/Decisions.md#the-authors-decisions)): the [spy guilds](../../Politics/Guilds.md#armed-and-clandestine-organizations) are city networks that sell information to anyone. No longer parked.
+- **Needs:** settled ([D24](../Notes/Decisions.md#the-authors-decisions)): the [spy guilds](../../Politics/Guilds.md#armed-and-clandestine-organizations) are city networks that sell information to anyone. No longer blocked.
 
 #### The Retired Blade
 
@@ -818,7 +820,7 @@ A retired guild fighter teaches the village children to fall without breaking an
 
 Possible heart: the best thing a hard life can teach is how to land.
 
-- **Needs:** settled ([D24](../Notes/Decisions.md#the-authors-decisions)): the [fighters' guild](../../Politics/Guilds.md#armed-and-clandestine-organizations) guards caravans and trains militias. Seven Hill is the natural setting. No longer parked.
+- **Needs:** settled ([D24](../Notes/Decisions.md#the-authors-decisions)): the [fighters' guild](../../Politics/Guilds.md#armed-and-clandestine-organizations) guards caravans and trains militias. Seven Hill is the natural setting. No longer blocked.
 
 ### How life works
 

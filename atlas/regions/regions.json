@@ -652,7 +652,7 @@
       "lane": "spine",
       "section": "Geography",
       "src": "Places/The-Spine.md#the-overpath",
-      "text": "The trail that goes the length of the Spine over the mountains, as bt 7274 named it on 2026-11-04. Who walks it, who keeps it and its route are open.",
+      "text": "The trail along the length of the Spine, over the mountains, which the pass roads cross: the legacy notes' Overpass under bt 7274's name (D24). Slower and more dangerous than the tunnels; pilgrims, herders, adventurers and caravans use it.",
       "short_text": "The trail over the length of the Spine."
     },
     {
@@ -660,11 +660,11 @@
       "kind": "town",
       "label": "Seven Hill",
       "status": "Provisional",
-      "lane": "across",
-      "section": "Unplaced names",
+      "lane": "spine",
+      "section": "Geography",
       "src": "Places/Seven-Hill.md",
-      "text": "The former military base turned town, as bt 7274 named it on 2026-11-04. Not placed; whose base it was and when it stopped are open.",
-      "short_text": "A former military base turned town. Not placed."
+      "text": "A former fortress on one of the Spine's passes, on the Highridge side, emptied when toll warfare gave way to negotiated passage; a town for generations (D24). Which pass is open.",
+      "short_text": "An old pass fortress, now a town."
     }
   ],
   "edges": [

@@ -1588,8 +1588,8 @@ Grouped by board column.
 
 **Mending Day**
 
-- *Kind:* World
-- *Premise:* Once a year a circuit family of menders comes through, and the whole village has saved its broken things for them all year: pots, chairs, a clock, a fiddle. This year the old mender isn't with them, and his grandson has to do the lot.
+- *Kind:* Domino
+- *Premise:* `WORLD` · *a Greenvale village · late summer*
 - *Possible heart:* being expected somewhere is a kind of home.
 - *Possible thread:* None: a world story, part of the world at large (D23).
 

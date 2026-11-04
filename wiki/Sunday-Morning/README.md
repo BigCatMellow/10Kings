@@ -45,6 +45,12 @@ In reading order. Each title opens the story; "plan" opens its planning page. Wh
 | 13 | [The Blank Square](Drafts/The-Blank-Square.md) | Larchmere, Deepwood (provisional) | quiet, contemplative | ~3,300 words · [plan](Stories/The-Blank-Square.md) | L3 first pass, waiting for your read |
 | 14 | [Three Pots at Three Moon](Drafts/Three-Pots-at-Three-Moon.md) | a Port neighborhood | family / food | ~4,300 words · [plan](Stories/Three-Pots-at-Three-Moon.md) | L3; review done, waiting for your read |
 
+**Season 2** ([The Long Road](Notes/The-Long-Road.md#the-seasons-loosely)) has begun with its test story:
+
+| # | Story | Setting | Mode | Length · planning notes | Level |
+| --- | --- | --- | --- | --- | --- |
+| S2 test | [Mending Day](Drafts/Mending-Day.md) | Kellerby, Greenvale (provisional) | warm, rueful; a [world story](Notes/Rules.md#world-stories) | ~3,300 words · [plan](Stories/Mending-Day.md) | L3 first pass, waiting for your read |
+
 The first seven drafts come to about 31,800 words, and the new seven to about 25,000. Every draft has had the Sunday Morning, storytelling and notes passes and an independent L4 review. L4 completes when the author has read it ([Pipeline, Stage 4](Notes/Pipeline.md#stage-4--judge-review-independently)); what's still open for him is on [Decisions](Notes/Decisions.md#open-for-the-author).
 
 The seven planned stories were added at bt 7274's request on 2026-11-02 ([D16](Notes/Decisions.md#the-authors-decisions)). Undeveloped premises: [Story Seeds](Stories/Story-Seeds.md). To add a story: [Pipeline, Stage 0](Notes/Pipeline.md#stage-0--add-a-story).

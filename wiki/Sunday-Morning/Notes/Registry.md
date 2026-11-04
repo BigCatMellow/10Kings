@@ -119,6 +119,17 @@ Every named character in the drafts. Mark canon figures `canon`: the script repo
 | Road in Use | Udo | stair-hut broker (also Mushrooms; C12) | minor |
 | Walkout Pies | Embry | carters' headman | cast |
 | Blank Square | Sorrel Mabb | stitcher | minor |
+| Mending Day | Kit Wethercrag | mender, riveter | protagonist |
+| Mending Day | Isa Wethercrag | Kit's aunt, runs the wagons | cast |
+| Mending Day | Dace Wethercrag | Kit's cousin, fiddler | cast |
+| Mending Day | Lewin Wethercrag | Kit's grandfather, died in the spring | minor |
+| Mending Day | Ursel Tanner | keeps Kellerby's trestles | cast |
+| Mending Day | Effie Rusk | owner of the fiddle | cast |
+| Mending Day | Pollard | household; Mrs. Pollard's platter | minor |
+| Mending Day | Daws | household at the road end | minor |
+| Mending Day | Farren | household | minor |
+| Mending Day | Prowse | household | minor |
+| Mending Day | Tibbs | household | minor |
 <!-- registry:names:end -->
 
 ### Name rules
@@ -157,10 +168,11 @@ The collection's variety lives here. A new story should differ from its neighbor
 | 12 | Mushrooms *(new)* | stranger who is the expert in her own work | a market with no line for her | a choice (a named stall) | wry fish-out-of-water | daylight at the top of a stair | stars, hat in hand, one last look up |
 | 13 | Blank Square *(new)* | carrier who can't read | a gap tempting people to fill it | an absence (a blank square) | quiet, contemplative | a river up at the ford | "I saw it go. That's what's in it." |
 | 14 | Three Pots | family member who doesn't cook | inheritance, a permit deadline | memory: three fragments of one ritual | tender family | the grandmother's announcement | "Again next year." |
+| 15 | Mending Day *(Season 2, world story)* | heir who can do the work and not the visit | a year of broken things against three days | a thing taken away to be brought back | warm, rueful | trestles laid out before the wagons arrive | a fiddle played at the first camp on the road |
 
 Rows marked *new* are the seven stories added on 2026-11-02, now drafted (first pass); each row follows its draft.
 
-**Resolutions already used:** a document read closely (3, 10), an object (1, 7), a witnessed act (2), people (6), memory (14), and in the new stories a performance (4), a count (5), a swap (8), an animal (9), a meal (11), a choice (12) and an absence (13). The next story should avoid "an old document" unless it does something new with it.
+**Resolutions already used:** a document read closely (3, 10), an object (1, 7), a witnessed act (2), people (6), memory (14), and in the new stories a performance (4), a count (5), a swap (8), an animal (9), a meal (11), a choice (12) and an absence (13), and in Season 2 a thing taken away to be brought back (15). The next story should avoid "an old document" unless it does something new with it.
 
 ## Devices already used
 

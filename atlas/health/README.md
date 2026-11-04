@@ -43,7 +43,7 @@ Cards per board column and part. A dot means nothing from that part lives in tha
 | Greenvale | 1 | 7 | 9 | 3 | 3 | 1 | 16 | · | · | · |
 | Sunplains | 1 | 7 | 8 | 3 | 2 | 1 | 8 | 1 | · | · |
 | Port | 1 | 6 | 1 | 3 | 3 | · | 15 | 2 | · | · |
-| Spine & Underpass | 3 | 1 | · | 3 | · | 3 | 12 | 1 | · | · |
+| Spine & Underpass | 4 | 1 | · | 3 | · | 3 | 12 | 1 | · | · |
 | Border towns | 6 | 1 | 18 | · | 1 | · | 13 | · | · | · |
 | Council & politics | · | · | · | 8 | · | · | · | 4 | · | · |
 | Faiths | · | · | · | 11 | · | · | · | · | · | · |
@@ -53,7 +53,7 @@ Cards per board column and part. A dot means nothing from that part lives in tha
 | Sunday Morning cast | · | · | · | · | · | 76 | · | · | · | · |
 | Main conflict | · | · | · | · | · | · | 6 | 1 | · | · |
 | System proposals | · | · | · | · | · | · | · | · | · | 17 |
-| World & unplaced | 11 | 6 | 1 | 2 | · | · | 18 | 8 | · | · |
+| World & unplaced | 10 | 6 | 1 | 2 | · | · | 18 | 8 | · | · |
 
 ## Most "none stated" rows and missing facts
 

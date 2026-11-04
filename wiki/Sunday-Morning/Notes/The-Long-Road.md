@@ -84,7 +84,7 @@ Season 1 lived mostly in towns, harvests, guild halls and markets. The [World co
 
 The report counts a thing as used only when a story's plan or draft links to it, so it undercounts a little.
 
-bt 7274 added more on the same day: "not every story has to progress the storys dominos or main plot, some can just be part of the world at large" ([D23](Decisions.md#the-authors-decisions)). Those are [world stories](Rules.md#world-stories). His examples, and fifty-odd seeds that use these seams (guilds and faiths among them), are on [Story Seeds](../Stories/Story-Seeds.md#world-seeds-2026-11-04), including two places he named that day: [Seven Hill](../../Places/Seven-Hill.md) and the [Overpath](../../Places/The-Spine.md#the-overpath).
+bt 7274 added more on the same day: "not every story has to progress the storys dominos or main plot, some can just be part of the world at large" ([D23](Decisions.md#the-authors-decisions)). Those are [world stories](Rules.md#world-stories). His examples, and eighty-odd seeds that use these seams (guilds and faiths among them), are on [Story Seeds](../Stories/Story-Seeds.md#world-seeds-2026-11-04), including two places he named that day: [Seven Hill](../../Places/Seven-Hill.md) and the [Overpath](../../Places/The-Spine.md#the-overpath).
 
 **The fantasy is everyday** ([Rules](Rules.md#the-strange-is-ordinary)), told the way the stories already tell everything, as [Craft §1](Craft.md#1-write-it-like-its-the-sequel-carries-over) has it. Magic stays as ruled.
 
@@ -106,16 +106,16 @@ These are tools, not a format. The mix can shift as the seasons go.
 
 The fourteen already hold threads a later story can pick up without changing a word. These are candidates, not a plan:
 
-- **The unanswered letter on Col's bench**, which Wurdren saw ([Inspected](../Drafts/Inspected-Not-Guaranteed.md)).
-- **The letter Hollis burned and the Weaver-path elder wrote down** ([The Tree With a Debt](../Drafts/The-Tree-With-a-Debt.md)), and **the only written account, lost at the ford** ([The Blank Square](../Drafts/The-Blank-Square.md)).
+- **The unanswered letter on Col's bench**, which Wurdren saw ([Inspected](../Drafts/Inspected-Not-Guaranteed.md)). Seeded: [The Same Paper](../Stories/Story-Seeds.md#the-same-paper), [Very Nearly](../Stories/Story-Seeds.md#very-nearly).
+- **The letter Hollis burned and the Weaver-path elder wrote down** ([The Tree With a Debt](../Drafts/The-Tree-With-a-Debt.md)), and **the only written account, lost at the ford** ([The Blank Square](../Drafts/The-Blank-Square.md)). Seeded: [What the Elder Wrote](../Stories/Story-Seeds.md#what-the-elder-wrote).
 - **The pledges the buyer had already bought along the road** (The Tree).
-- **The Salve house buying Greenvale grain** ([One Square](../Drafts/One-Square-Two-Harvests.md)), and the credit squeeze Collection's [desk view](Collection.md#the-view-from-the-desks) expects.
-- **Samir Tareh's route book** of honest towns ([The Heavy Scale](../Drafts/The-Heavy-Scale.md)).
-- **Coalglen's walkout, called with notice, and the other valley's lost pour** ([Walkout Pies](../Drafts/Walkout-Pies.md)).
-- **Maris Bleakshore's confirmed lists, and Frostbay boats on Northwind water** ([The First Fish](../Drafts/The-First-Fish.md)).
-- **The city whose lamps went dark, and the rival city's reading of Vasselin** ([The Ladder Rules](../Drafts/The-Ladder-Rules.md)).
-- **The tower claim on its way to arbitration, and Udo's other route below** ([The Road in Use](../Drafts/The-Road-in-Use.md), [The Mushrooms From Nowhere](../Drafts/The-Mushrooms-From-Nowhere.md)).
-- **The reform statement with all its marks** ([The Eighth Verse](../Drafts/The-Eighth-Verse.md), The Blank Square), on its way to being read as proof.
+- **The Salve house buying Greenvale grain** ([One Square](../Drafts/One-Square-Two-Harvests.md)), and the credit squeeze Collection's [desk view](Collection.md#the-view-from-the-desks) expects. Seeded: [Harvest Home Again](../Stories/Story-Seeds.md#harvest-home-again).
+- **Samir Tareh's route book** of honest towns ([The Heavy Scale](../Drafts/The-Heavy-Scale.md)). Seeded: [The Route Book](../Stories/Story-Seeds.md#the-route-book).
+- **Coalglen's walkout, called with notice, and the other valley's lost pour** ([Walkout Pies](../Drafts/Walkout-Pies.md)). Seeded: [The Second Pour](../Stories/Story-Seeds.md#the-second-pour).
+- **Maris Bleakshore's confirmed lists, and Frostbay boats on Northwind water** ([The First Fish](../Drafts/The-First-Fish.md)). Seeded: [The Patrol Boat](../Stories/Story-Seeds.md#the-patrol-boat), [Salt Between Them](../Stories/Story-Seeds.md#salt-between-them).
+- **The city whose lamps went dark, and the rival city's reading of Vasselin** ([The Ladder Rules](../Drafts/The-Ladder-Rules.md)). Seeded: [The Rival Lamps](../Stories/Story-Seeds.md#the-rival-lamps).
+- **The tower claim on its way to arbitration, and Udo's other route below** ([The Road in Use](../Drafts/The-Road-in-Use.md), [The Mushrooms From Nowhere](../Drafts/The-Mushrooms-From-Nowhere.md)). Seeded: [Udo's Other Road](../Stories/Story-Seeds.md#udos-other-road).
+- **The reform statement with all its marks** ([The Eighth Verse](../Drafts/The-Eighth-Verse.md), The Blank Square), on its way to being read as proof. Seeded: [The Petition Room](../Stories/Story-Seeds.md#the-petition-room).
 - **The people.** Every Season 1 protagonist is someone Wurdren could meet, owe or need later.
 
 ## Questions for later

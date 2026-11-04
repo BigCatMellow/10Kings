@@ -289,7 +289,8 @@ Grouped by board column.
 | --- | --- | --- | --- |
 | [The Spine](../../wiki/Places/The-Spine.md) | Mountain system | Working canon | The central mountain system the world's geography and transport are organized around. Passes, saddles, inhabited valleys, mining districts, old fortifications and hidden routes. Geologically active. |
 | [The Underpass](../../wiki/Places/The-Underpass.md) | Underground network | Working canon | Caves, fault passages, tunnels, settlements and trade routes beneath parts of the Spine. Not one road, not wholly mapped; authority is fragmented. |
-| [The Overpath](../../wiki/Places/The-Spine.md#the-overpath) | Mountain trail | Provisional | The trail that goes the length of the Spine over the mountains, as bt 7274 named it on 2026-11-04. Who walks it, who keeps it and its route are open. |
+| [The Overpath](../../wiki/Places/The-Spine.md#the-overpath) | Mountain trail | Provisional | The trail along the length of the Spine, over the mountains, which the pass roads cross: the legacy notes' Overpass under bt 7274's name (D24). Slower and more dangerous than the tunnels; pilgrims, herders, adventurers and caravans use it. |
+| [Seven Hill](../../wiki/Places/Seven-Hill.md) | Town | Provisional | A former fortress on one of the Spine's passes, on the Highridge side, emptied when toll warfare gave way to negotiated passage; a town for generations (D24). Which pass is open. |
 
 **The Spine**
 
@@ -329,5 +330,4 @@ Grouped by board column.
 | [Emberhaven Cross](../../wiki/Places/Border-Towns.md#other-provisional-names) | Unplaced name | Provisional name | Name bank; not placed. |
 | [Golden Dunes Shore](../../wiki/Places/Border-Towns.md#other-provisional-names) | Unplaced name | Provisional name | Name bank; not placed. |
 | [Reedveil Bend](../../wiki/Places/Border-Towns.md#other-provisional-names) | Unplaced name | Provisional name | Name bank; not placed. |
-| [Seven Hill](../../wiki/Places/Seven-Hill.md) | Town | Provisional | The former military base turned town, as bt 7274 named it on 2026-11-04. Not placed; whose base it was and when it stopped are open. |
 

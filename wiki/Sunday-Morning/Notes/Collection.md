@@ -208,7 +208,7 @@ bt 7274 asked for more stories, "inside the same year", and for seven of them, o
 
 **Links.** Six new ledger rows (C7–C12), each on a real flow. Each story still links to at most two others. Garro Sedgewater was considered for The Mushrooms From Nowhere and set aside, because it would have linked The Heavy Scale and Three Pots to three stories each.
 
-**Hidden hand.** No new story touches C6. A third letter on the ship's-lantern paper was considered for Walkout Pies and set aside; it would turn D3's pair into a pattern, which is bt 7274's call.
+**Hidden hand.** No new story touches C6. A third letter on the ship's-lantern paper was considered for Walkout Pies and set aside; it would turn D3's pair into a pattern, which is bt 7274's call. For Season 2 the lean is a third letter in [The Same Paper](../Stories/Story-Seeds.md#the-same-paper) ([open for the author](Decisions.md#open-for-the-author)).
 
 **Independent check of the plans** (2026-11-03): pass with fixes. It found seven must-fixes, every one small: a story with no meal, an invented script for a dead language, a wedding out of step with The Goat File draft, two ledger rows not matching their setup ends, two pairs of surnames sharing an ending, and a Registry row that was wrong about One Square. Its biggest finding was that six of the seven protagonists had the same arc, doing the feared thing in public. The Ladder Rules and The Blank Square now have different ones. Each story page's Stage 2b records what changed.
 

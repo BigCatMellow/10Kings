@@ -34,4 +34,21 @@ The scan finds structure only. Whether two pages belong together is decided by e
 | Reference research pages | the seeds that use them | `CONNECTED` | each seed links its source; the scanner derives backlinks | none |
 | [The Long Road](../Sunday-Morning/Notes/The-Long-Road.md) seasons | a Season 2 section in Collection | `INTENTIONALLY_STANDALONE` for now | Collection gains a season's section when the season is planned | none until then |
 
-**Fresh-agent traversal test:** see below.
+**Fresh-agent traversal test.** A helper with no chat history started from [Seven Hill](../Places/Seven-Hill.md) and then from the seed [The Same Paper](../Sunday-Morning/Stories/Story-Seeds.md#the-same-paper), following links. It recovered cause, effects, disposition and evidence for both, with one directory search, no historical files opened, and no invented relationships. It found twelve connection defects, all fixed the same day:
+
+| Defect | Fix |
+| --- | --- |
+| Highridge's "fortress communities" note read as settling more than Seven Hill's page allowed | Seven Hill's "what the wiki has" now defers to its ruled [What it is](../Places/Seven-Hill.md#what-it-is) |
+| "Highridge side" was in the lean, not in the D24 row | added to D24 |
+| the Atlas still said Seven Hill was "Not placed" | the seed generator was overwriting place nodes; fixed, and the data corrected |
+| Seven Hill didn't link The Retired Blade | linked, with its other two seeds |
+| Story Seeds said every seed was `PARKED`, and two said "No longer parked" | Mending Day marked `ACTIVE`; the two now say "No longer blocked" |
+| the Source Register's later disposition sat under another section | moved next to the entry it disposes |
+| D24 cited History, which didn't yet record it | History step 24 |
+| the third-C6-letter lean wasn't open for the author, and Collection didn't link it | listed on [Decisions](../Sunday-Morning/Notes/Decisions.md#open-for-the-author) and linked from Collection |
+| The Long Road's planted threads didn't link the seeds that pick them up | each thread now names its seeds |
+| the Domino Map linked seeds without anchors | every seed now links its own heading |
+| Seven Hill cited the Spine's "Physical role" for a "Human role" phrase | corrected |
+| Seven Hill listed Border Towns as related, which isn't (it's not a border town) | replaced by Highridge |
+
+The test met the method's measure: one search, one ghost gap (the misfiled disposition, now moved), and every defect specific enough to fix with one link or line. Run the test again after the next large change, from a different kind of node.
