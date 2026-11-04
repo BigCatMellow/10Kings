@@ -44,6 +44,7 @@ These were decided while drafting or reorganizing. Each is reversible from the r
 
 ## Open for the author
 
+- **[The Long Road](The-Long-Road.md#rulings-needed-and-when)**: four rulings before a second season. Is the end goal Main Conflict's possible resolution model? Can Wurdren appear in about a third of Season 2? Where does he go after Stonefield? Does D2 move from "connected, not driven" to "connected, then driven" on a schedule? Each has a lean on the page.
 - **L4 reading of the seven new drafts** ([D16](#the-authors-decisions), [D17](#the-authors-decisions)). Each has had a fresh cold read; the lines in the cautious categories are listed on each draft's Status header for him to rewrite.
 - **The shared arc** across the new stories, raised by both cold readers: a quiet craftsperson with a one-line credo ("A warden checks and goes", "Footing's the real job", "Smokehouses don't haggle", "I just say yes") breaks it by saying one plain thing in public. The stories differ in engine, register and resolution, but the arc is the same. Lean: keep it in four stories, and on a revision pass give two of them (The Road in Use and Walkout Pies are the easiest) a turn that isn't a public statement. This is a taste call.
 - **Leans taken in the new plans, for bt 7274 to overrule:**
