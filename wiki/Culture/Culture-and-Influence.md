@@ -112,3 +112,5 @@ Port should have neighborhoods whose cultures are several generations removed fr
 ## Recovered comparative research
 
 The [Cultural Research Library](../Reference/Cultural-Research-Library.md) indexes preserved legacy notes, partially recovered 2024–2026 cultural discussions, and independently checked case studies of real-world institutions (oral performance, recordkeeping, reciprocity, irrigation governance, ritual and diaspora). It is **non-canon reference**, not another owner or a list of approved regional analogues. All culture decisions remain governed by this page and [World Rules](../World-Rules.md).
+
+The [Community Institution Casebook](../Reference/Community-Institution-Casebook.md) adds source-grounded, **non-canon** comparisons for local water rights, raised-field agriculture, seasonal grazing corridors, navigation teaching, and stonework apprenticeship. Each proposed fictional scene is a design test, not an approved cultural detail.
