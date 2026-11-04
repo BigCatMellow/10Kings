@@ -8,7 +8,7 @@ The backbone of the Atlas: the six regions, Port, the Spine and the Underpass, t
 
 **A board, not a map.** The wiki says the exact map isn't locked ([Geography and Connections](../../wiki/Geography-and-Connections.md)), so the interactive view sorts things into one column per region instead of placing them. Columns are ordered so regions with a settled border sit next to each other (Northwind, Highridge, Deepwood, Ironcrest, Greenvale, Sunplains); nothing else about position means anything. A real map can be drawn from the same data once the geography is locked.
 
-**Counts:** 3 continents, 6 regions, 1 neutral city, 1 mountain system, 1 underground network, 6 border towns, 7 unplaced names, 1 mountain trail, 1 town; 48 connections (37 stated in the wiki, 11 inferred).
+**Counts:** 3 continents, 6 regions, 1 neutral city, 1 mountain system, 1 underground network, 6 border towns, 7 unplaced names, 1 mountain trail, 1 town; 49 connections (38 stated in the wiki, 11 inferred).
 
 ## Gaps this part exposes
 
@@ -74,6 +74,7 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | The Spine | funnels routes into | Highridge Plateau | stated | “Its importance comes from geography: routes that avoid or cross parts of The Spine naturally converge here.” [source](../../wiki/Regions/Highridge-Plateau.md) |
 | Ironcrest | presses for access to | The Underpass | stated | “Current pressures: … pressure to expand access to Underpass routes.” [source](../../wiki/Regions/Ironcrest.md#current-pressures) |
 | Deepwood | may have entrances to | The Underpass | stated, possible | “routes into foothills and possibly Underpass entrances.” [source](../../wiki/Regions/Deepwood.md#geography) |
+| Seven Hill | stands on a pass of | The Spine | stated | “Seven Hill was a fortress on one of the” [source](../../wiki/Places/Seven-Hill.md#what-it-is) |
 | The Overpath | runs over | The Spine | stated | “Where the Underpass runs through the range, the Overpath runs over it.” [source](../../wiki/Places/The-Spine.md#the-overpath) |
 
 ## Trade (stated)
@@ -131,6 +132,7 @@ flowchart LR
   port[["Port"]]
   underpass[\"The Underpass"/]
   spine[/"The Spine"\]
+  sevenhill["Seven Hill"]
   overpath["The Overpath"]
   northwind --> northern
   ironcrest --- greenvale
@@ -168,6 +170,7 @@ flowchart LR
   deepwood -->|herbal and forest products meet caravan trade| highridge
   northwind -->|maritime supply meets plateau caravans| highridge
   northwind --> port
+  sevenhill --> spine
   overpath --> spine
 ```
 

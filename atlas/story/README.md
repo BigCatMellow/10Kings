@@ -8,7 +8,7 @@ The main conflict, the current events and how they can ripple into each other, t
 
 Current events sit in their region's column (the cross-region ripple steps, the faiths' reading of the crises and the main-conflict cards in a Main conflict column). Each Sunday Morning story and seed sits in the column of its setting, with lines to its town or region, its festival, the events it sits on, its domino figure, its cast from Part 6, and the stories it shares a thread with. The ripple chain from Current Events is drawn step by step and marked possible.
 
-**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 84 story seeds; 382 connections (372 stated in the wiki, 10 inferred).
+**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 84 story seeds; 384 connections (374 stated in the wiki, 10 inferred).
 
 ## Gaps this part exposes
 
@@ -280,6 +280,7 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | The Seed Swap | would use | Agricultural guilds and cooperatives | stated, possible | “seed control” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-seed-swap) |
 | The Seed Swap | would sit on | Land and seed politics | stated, possible | “land and seed politics” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-seed-swap) |
 | The Apothecary's Test | would use | Medicine and healing | stated, possible | “Medicine and Healing” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-apothecarys-test) |
+| Small Jobs | would use | The Adventurers' Guild | stated, possible | “Adventurers' Guild” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#small-jobs) |
 | One Hall | would use | Highridge cuisine | stated, possible | “Highridge cuisine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#one-hall) |
 | The Map With a Gap | would be set in | Highridge Plateau | stated, possible | “Highridge Plateau” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-map-with-a-gap) |
 | The Map With a Gap | would use | Highridge caravan organizations | stated, possible | “Highridge caravan organizations” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-map-with-a-gap) |
@@ -291,8 +292,9 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | The Bridge Delay | would use | Highridge cuisine | stated, possible | “Highridge cuisine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bridge-delay) |
 | The Tea Boy | would be set in | Port | stated, possible | “Port” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy) |
 | The Tea Boy | would use | Port crime | stated, possible | “intelligence brokerage” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy) |
-| The Tea Boy | would use | Spy Guild | stated, possible | “spy guilds” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy) |
+| The Tea Boy | would use | Spy guilds | stated, possible | “spy guilds” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy) |
 | The Retired Blade | would be set in | Seven Hill | stated, possible | “Seven Hill” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-retired-blade) |
+| The Retired Blade | would use | Fighters' guild | stated, possible | “fighters' guild” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-retired-blade) |
 | The Midwife's Road | would use | Medicine and healing | stated, possible | “Medicine and Healing” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-midwifes-road) |
 | The Coat | would use | Clothing and material culture | stated, possible | “Clothing and Material Culture” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-coat) |
 | Assize Day | would use | Law and jurisdiction | stated, possible | “Law and Jurisdiction” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#assize-day) |
@@ -717,6 +719,8 @@ flowchart LR
   seed_w_the_seed_swap["The Seed Swap"]
   pw_guild_agri["Agricultural guilds and cooperatives"]
   seed_w_the_apothecarys_test["The Apothecary's Test"]
+  seed_w_small_jobs["Small Jobs"]
+  pw_g_adventurers["The Adventurers' Guild"]
   seed_w_one_hall["One Hall"]
   highridge_food["Highridge cuisine"]
   seed_w_the_map_with_a_gap["The Map With a Gap"]
@@ -727,8 +731,9 @@ flowchart LR
   highridge_culture["Highridge culture"]
   seed_w_the_tea_boy["The Tea Boy"]
   pw_crime_port["Port crime"]
-  pw_guild_spy["Spy Guild"]
+  pw_guild_spy["Spy guilds"]
   seed_w_the_retired_blade["The Retired Blade"]
+  pw_guild_warrior["Fighters' guild"]
   seed_w_the_midwifes_road["The Midwife's Road"]
   seed_w_the_coat["The Coat"]
   systems_proposal_12["Clothing and material culture"]
@@ -1089,6 +1094,7 @@ flowchart LR
   seed_w_the_seed_swap -.->|possible| pw_guild_agri
   seed_w_the_seed_swap -.->|possible| st_gv_land
   seed_w_the_apothecarys_test -.->|possible| systems_proposal_15
+  seed_w_small_jobs -.->|possible| pw_g_adventurers
   seed_w_one_hall -.->|possible| highridge_food
   seed_w_the_map_with_a_gap -.->|possible| highridge
   seed_w_the_map_with_a_gap -.->|possible| pw_guild_caravan
@@ -1102,6 +1108,7 @@ flowchart LR
   seed_w_the_tea_boy -.->|possible| pw_crime_port
   seed_w_the_tea_boy -.->|possible| pw_guild_spy
   seed_w_the_retired_blade -.->|possible| sevenhill
+  seed_w_the_retired_blade -.->|possible| pw_guild_warrior
   seed_w_the_midwifes_road -.->|possible| systems_proposal_15
   seed_w_the_coat -.->|possible| systems_proposal_12
   seed_w_assize_day -.->|possible| systems_proposal_04

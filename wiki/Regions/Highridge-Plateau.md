@@ -29,7 +29,7 @@ Power belonged to:
 - caravan families;
 - toll towns;
 - herding groups;
-- fortress communities;
+- fortress communities (one became the town of [Seven Hill](../Places/Seven-Hill.md));
 - merchant confederations.
 
 Borders followed control of roads more often than neat territory.

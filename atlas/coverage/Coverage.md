@@ -11,7 +11,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 | Regions and Geography | 22 of 27 | 5 | 2 |
 | Culture | 40 of 57 | 17 | 6 |
 | Food | 15 of 73 | 58 | 5 |
-| Power | 8 of 48 | 40 | 12 |
+| Power | 8 of 59 | 51 | 14 |
 | History | 13 of 41 | 28 | 17 |
 | People | 8 of 12 | 4 | 3 |
 | The story layer | 32 of 34 | 2 | 2 |
@@ -100,7 +100,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### Guilds
 
-**Not yet in any story:** [Metalworking guild factions](../../wiki/Politics/Guilds.md#metalworking-guild-factions) *(seeded: The Pillar)*, [Navigator and shipping guilds](../../wiki/Politics/Guilds.md#navigator-and-shipping-guilds) *(seeded: The Quorum)*, [Highridge caravan organizations](../../wiki/Politics/Guilds.md#highridge-caravan-organizations) *(seeded: The Map With a Gap)*, [Builders and infrastructure guilds](../../wiki/Politics/Guilds.md#builders-and-infrastructure-guilds) *(seeded: The Bridge Delay, The Cornerstone, The Walls Come Home)*, [Warrior's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations), [Assassin's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations), [Spy Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) *(seeded: The Tea Boy)*.
+**Not yet in any story:** [Metalworking guild factions](../../wiki/Politics/Guilds.md#metalworking-guild-factions) *(seeded: The Pillar)*, [Navigator and shipping guilds](../../wiki/Politics/Guilds.md#navigator-and-shipping-guilds) *(seeded: The Quorum)*, [Highridge caravan organizations](../../wiki/Politics/Guilds.md#highridge-caravan-organizations) *(seeded: The Map With a Gap)*, [Builders and infrastructure guilds](../../wiki/Politics/Guilds.md#builders-and-infrastructure-guilds) *(seeded: The Bridge Delay, The Cornerstone, The Walls Come Home)*, [Fighters' guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) *(seeded: The Retired Blade)*, [Assassin's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations), [Spy guilds](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) *(seeded: The Tea Boy)*.
 
 **Used:** Agricultural guilds and cooperatives (The Eighth Verse).
 
@@ -111,6 +111,10 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 ### Arms
 
 **Not yet in any story:** [Ironcrest arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#ironcrest), [Northwind arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#northwind), [Greenvale arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#greenvale), [Highridge arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#highridge), [Deepwood arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#deepwood), [Sunplains arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#sunplains), [Port arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#port), [Underpass arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#underpass).
+
+### Named guilds
+
+**Not yet in any story:** [The Ironheart Founders' Guild](../../wiki/Politics/Guilds.md#the-ironheart-founders-guild), [The Seven Seas Mercantile Guild](../../wiki/Politics/Guilds.md#the-seven-seas-mercantile-guild), [The Masoncraft Builders' Guild](../../wiki/Politics/Guilds.md#the-masoncraft-builders-guild), [The Harvestkeepers Collective](../../wiki/Politics/Guilds.md#the-harvestkeepers-collective), [The Apothic Circle](../../wiki/Politics/Guilds.md#the-apothic-circle), [The Artisan Fellowship](../../wiki/Politics/Guilds.md#the-artisan-fellowship), [The Bardic Circle](../../wiki/Politics/Guilds.md#the-bardic-circle), [The Guards and Sentinels](../../wiki/Politics/Guilds.md#the-guards-and-sentinels), [The Ranger and Hunters' Guild](../../wiki/Politics/Guilds.md#the-ranger-and-hunters-guild), [The Adventurers' Guild](../../wiki/Politics/Guilds.md#the-adventurers-guild) *(seeded: Small Jobs)*, [Market and records guilds](../../wiki/Politics/Guilds.md#market-and-records-guilds).
 
 
 ## History

@@ -8,7 +8,7 @@ Who controls what: the Economic Council and its six seats, each region's governm
 
 The Economic Council and its seats, the faiths and the guilds get columns of their own, because none of them belongs to one region; the underworld and arms overviews sit in World & unplaced. Each region column (plus Port and the Underpass) gets a government, crime and arms card. Lines show the Council's reach into each government, where faiths and guilds touch the Council, and one example criminal alliance. None of the Power pages carries a status label, so their cards say so; Port and the Underpass cards come from Working canon pages.
 
-**Counts:** 1 council, 6 council seats, 6 overviews, 8 governments, 9 faiths, 8 guilds, 8 crimes, 8 arms and elite troopses; 51 connections (38 stated in the wiki, 13 inferred).
+**Counts:** 1 council, 6 council seats, 6 overviews, 8 governments, 9 faiths, 19 guilds, 8 crimes, 8 arms and elite troopses; 57 connections (44 stated in the wiki, 13 inferred).
 
 ## Gaps this part exposes
 
@@ -79,6 +79,12 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Highridge caravan organizations | holds power in | Highridge government | stated | “caravan guilds” [source](../../wiki/Regions/Highridge-Plateau.md#politics) |
 | Navigator and shipping guilds | is debating | Port charter and watch | stated | “Port influence” [source](../../wiki/Politics/Guilds.md#navigator-and-shipping-guilds) |
 | Guilds | has influence in | Port charter and watch | stated | “guild influence” [source](../../wiki/Places/Port.md#neutrality)<br>Also: “guilds maintain headquarters” [source](../../wiki/Places/Port.md#why-other-ports-do-not-replace-it) |
+| The Ironheart Founders' Guild | is part of | Metalworking guild factions | stated | “It is the guild the … are arguing inside” [source](../../wiki/Politics/Guilds.md#the-ironheart-founders-guild) |
+| The Seven Seas Mercantile Guild | is part of | Navigator and shipping guilds | stated | “It is one side of the” [source](../../wiki/Politics/Guilds.md#the-seven-seas-mercantile-guild) |
+| The Masoncraft Builders' Guild | is part of | Builders and infrastructure guilds | stated | “It is the core of the” [source](../../wiki/Politics/Guilds.md#the-masoncraft-builders-guild) |
+| The Harvestkeepers Collective | is part of | Agricultural guilds and cooperatives | stated | “It is the largest of the” [source](../../wiki/Politics/Guilds.md#the-harvestkeepers-collective) |
+| The Guards and Sentinels | is distinct from | Fighters' guild | stated | “Not warfare, which is the fighters' guild's” [source](../../wiki/Politics/Guilds.md#the-guards-and-sentinels) |
+| Market and records guilds | is part of | The Seven Seas Mercantile Guild | stated | “alongside the Seven Seas guild's long-distance trade” [source](../../wiki/Politics/Guilds.md#market-and-records-guilds) |
 
 ## Criminal alliance
 
@@ -148,6 +154,15 @@ flowchart LR
   pw_crime_northwind["Northwind crime"]
   pw_magic["Magic and relics"]
   pw_faiths["The nine faiths"]
+  pw_g_ironheart["The Ironheart Founders' Guild"]
+  pw_g_sevenseas["The Seven Seas Mercantile Guild"]
+  pw_g_masoncraft["The Masoncraft Builders' Guild"]
+  pw_guild_builders["Builders and infrastructure guilds"]
+  pw_g_harvest["The Harvestkeepers Collective"]
+  pw_guild_agri["Agricultural guilds and cooperatives"]
+  pw_g_guards["The Guards and Sentinels"]
+  pw_guild_warrior["Fighters' guild"]
+  pw_g_market["Market and records guilds"]
   pw_seat_harvest --> pw_council
   pw_seat_materials --> pw_council
   pw_seat_routes --> pw_council
@@ -186,6 +201,12 @@ flowchart LR
   pw_crime_port -.->|possible| pw_crime_highridge
   pw_crime_port -.->|possible| pw_crime_northwind
   pw_magic --> pw_faiths
+  pw_g_ironheart --> pw_guild_metal
+  pw_g_sevenseas --> pw_guild_nav
+  pw_g_masoncraft --> pw_guild_builders
+  pw_g_harvest --> pw_guild_agri
+  pw_g_guards --> pw_guild_warrior
+  pw_g_market --> pw_g_sevenseas
 ```
 
 ## Every thing in this part
@@ -517,54 +538,63 @@ Grouped by board column.
 - *Core:* Existence moves through cycles of birth, death, renewal, time, balance and moral consequence.
 - *Interests:* Calendars; rites of passage; mediation; burial; seasonal observance.
 - *Current scheme:* A reform movement argues that post-Convergence stability has become stagnation. Some members want deliberate social disruption to "complete" overdue cycles; traditional elders oppose them.
+- *Working life:* Circular temples with a great wheel for the calendar at the center; priests called Guides of the Cycle, and elders whom councils consult as mediators. (Provisional, D24.)
 
 **Path of the Great Weaver**
 
 - *Core:* Beings, places, ancestors, animals and actions are threads in a living weave.
 - *Interests:* Stewardship; oral history; ancestry; ecological obligations; community memory.
 - *Current scheme:* Networks across several regions are documenting land and water damage, building a trans-regional moral case against large extraction and infrastructure projects. Some Council families see this as a threat to economic planning.
+- *Working life:* Seasonal rites: planting blessings, midsummer fires, autumn thanks and a winter vigil for the ancestors. (Provisional, D24.)
 
 **The Radiant Path**
 
 - *Core:* Moral life is struggle toward courage, justice, truth and wisdom against cruelty, lies and discord.
 - *Interests:* Charity; public ethics; justice; moral testimony.
 - *Current scheme:* Different branches disagree over whether hidden Council rule is a necessary compromise or fundamentally a form of darkness through deception.
+- *Working life:* Weekly worship in temples set to the sun's path, opened at dawn by lighting a beacon flame; clergy called Luminaries. (Provisional, D24.)
 
 **The Eternal Forge**
 
 - *Core:* Creation and destruction are linked; character and society are shaped through disciplined transformation.
 - *Interests:* Craft; apprenticeship; ethical labor; rebuilding.
 - *Current scheme:* Its guild-adjacent institutions are becoming active in labor and quality disputes, potentially turning a spiritual tradition into a cross-regional political force.
+- *Working life:* Every workshop keeps a small shrine with a fire that is never let go out. (Provisional, D24.)
 
 **The Illuminated Circle**
 
 - *Core:* Knowledge, reason, inquiry and intellectual freedom are sacred values.
 - *Interests:* Libraries; schools; debate; archives; public reasoning.
 - *Current scheme:* Scholars are collecting contradictory trade and government records. Some may be close to proving systematic manipulation without yet understanding the Council.
+- *Working life:* Its worship is argument: gatherings for debate, contests of reasoning, and councils where a community's dilemma is set out and reasoned through together. (Provisional, D24.)
 
 **The Silent Whisper**
 
 - *Core:* Silence, uncertainty, hidden truths, patience and introspection.
 - *Interests:* Preservation; contemplation; secret archives; lost knowledge.
 - *Current scheme:* Some custodians believe dangerous truths should be withheld until society can survive them. Others argue that this has become complicity with elite secrecy.
+- *Working life:* Listening meditation, fasts of silence, and the practice of writing a thought down and destroying it. (Provisional, D24.)
 
 **The Harmonious Path**
 
 - *Core:* Social responsibility, service, restraint, conflict resolution and balance.
 - *Interests:* Mediation; community welfare; nonviolent conflict settlement.
 - *Current scheme:* Local Harmonious communities are building parallel mutual-aid and arbitration systems where official institutions have failed, unintentionally creating political power.
+- *Working life:* A yearly day of public kindness, with feasts honoring the community's peacemakers; lanterns set on water at night for peace; and festivals of harmony that mark a harvest, a treaty or a reconciliation by mending tools, planting trees and eating together. (Provisional, D24.)
 
 **The Dual Flame**
 
 - *Core:* Moral integrity comes from understanding and balancing constructive and destructive impulses.
 - *Interests:* Counseling; confession; mentorship; personal discipline.
 - *Current scheme:* Its counselors are seeing similar fear, anger and radicalization patterns across regions and may recognize that separate crises share a source before political leaders do.
+- *Working life:* Followers look back on the day at dawn and dusk, and may write down their wrongs and burn the page. (Provisional, D24.)
 
 **The Infinite Compass**
 
 - *Core:* Life is journey, direction, exploration and self-discovery.
 - *Interests:* Pilgrimage; maps; hospitality; travelers; road shrines.
 - *Current scheme:* Its pilgrim networks move information across borders faster than many governments expect. The Council, the Villain, spies and criminals all have reasons to influence these networks.
+- *Working life:* Before a large decision a follower turns a full circle, facing every road. (Provisional, D24.)
 
 **Magic and relics**
 
@@ -583,9 +613,20 @@ Grouped by board column.
 | [Agricultural guilds and cooperatives](../../wiki/Politics/Guilds.md#agricultural-guildscooperatives) | Guild | No status label | Fighting over seed control, storage, land consolidation, pricing and new crop strains. |
 | [Navigator and shipping guilds](../../wiki/Politics/Guilds.md#navigator-and-shipping-guilds) | Guild | No status label | Debating convoy systems, piracy response, Port influence and route exclusivity. |
 | [Builders and infrastructure guilds](../../wiki/Politics/Guilds.md#builders-and-infrastructure-guilds) | Guild | No status label | Seeking long contracts and legal control over standards. Their delays can become political weapons even when caused by ordinary disputes. |
-| [Warrior's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) | Guild | No status label | Named in earlier notes as an armed or clandestine organization. |
-| [Assassin's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) | Guild | No status label | Named in earlier notes as an armed or clandestine organization. |
-| [Spy Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) | Guild | No status label | Named in earlier notes as an armed or clandestine organization. |
+| [Fighters' guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) | Guild | Provisional | Trains professional fighters, whose rank comes from real service guarding caravans and dealing with local threats; towns and rulers hire it to train militias. Provisional (D24); the legacy's Ironclad Warriors' Guild is its working name. |
+| [Assassin's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) | Guild | Provisional | In the legacy notes; kept out of the stories and not developed further (D24). |
+| [Spy guilds](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) | Guild | Provisional | Not one body but a loose set of city networks that sell information to anyone, the Council included. Provisional (D24). |
+| [The Ironheart Founders' Guild](../../wiki/Politics/Guilds.md#the-ironheart-founders-guild) | Guild | Provisional | Metal: smelting, smithing, tools, arms and structural metal, strongest in Ironcrest. Provisional (D24). |
+| [The Seven Seas Mercantile Guild](../../wiki/Politics/Guilds.md#the-seven-seas-mercantile-guild) | Guild | Provisional | Trade, shipping, warehousing and merchant credit, strongest in Port and the Sunplains ports. Provisional (D24). |
+| [The Masoncraft Builders' Guild](../../wiki/Politics/Guilds.md#the-masoncraft-builders-guild) | Guild | Provisional | Building: roads, bridges, walls, dams and granaries. Provisional (D24). |
+| [The Harvestkeepers Collective](../../wiki/Politics/Guilds.md#the-harvestkeepers-collective) | Guild | Provisional | Farming and food supply, seated in Greenvale with local circles wherever land is farmed. Provisional (D24). |
+| [The Apothic Circle](../../wiki/Politics/Guilds.md#the-apothic-circle) | Guild | Provisional | Medicine: apothecaries, healers, hospitals and travelling clinics, with no magical healing. Provisional (D24). |
+| [The Artisan Fellowship](../../wiki/Politics/Guilds.md#the-artisan-fellowship) | Guild | Provisional | Fine crafts and arts: tapestry, mosaic, jewelry and decorative work, run from guild houses by a council of masters. Provisional (D24). |
+| [The Bardic Circle](../../wiki/Politics/Guilds.md#the-bardic-circle) | Guild | Provisional | Minstrels and performers, paid by commission for ballads and performances. Provisional (D24). |
+| [The Guards and Sentinels](../../wiki/Politics/Guilds.md#the-guards-and-sentinels) | Guild | Provisional | Watch and guard work: town watches, escorts and guards for hire. Provisional (D24). |
+| [The Ranger and Hunters' Guild](../../wiki/Politics/Guilds.md#the-ranger-and-hunters-guild) | Guild | Provisional | Trackers, wilderness guides and hunters who keep roads and woods safe. Provisional (D24). |
+| [The Adventurers' Guild](../../wiki/Politics/Guilds.md#the-adventurers-guild) | Guild | Provisional | Hiring halls with a job board and a network of inns for travelling hands: escorts, lost goods, old ruins, local trouble. Provisional (D24). |
+| [Market and records guilds](../../wiki/Politics/Guilds.md#market-and-records-guilds) | Guild | Provisional | A merchants' consortium that runs local markets, weights, measures and fair prices; and scribe and notary guilds that keep records, translations and legal documents. Provisional (D24). |
 
 **Guilds**
 
@@ -617,23 +658,76 @@ Grouped by board column.
 - *Type:* Production and craft (builders are listed there).
 - *At issue:* Seeking long contracts and legal control over standards. Their delays can become political weapons even when caused by ordinary disputes.
 
-**Warrior's Guild**
+**Fighters' guild**
 
 - *Type:* Armed and clandestine organizations.
-- *At issue:* *Not in the wiki yet.*
-- *Note:* Earlier notes include it. These should be developed carefully so they function as plausible institutions rather than game classes.
+- *At issue:* Who hires it, and to guard what.
 
 **Assassin's Guild**
 
 - *Type:* Armed and clandestine organizations.
 - *At issue:* *Not in the wiki yet.*
-- *Note:* Earlier notes include it. These should be developed carefully so they function as plausible institutions rather than game classes.
+- *Note:* kept out of the stories and not developed further
 
-**Spy Guild**
+**Spy guilds**
 
 - *Type:* Armed and clandestine organizations.
-- *At issue:* *Not in the wiki yet.*
-- *Note:* Earlier notes include it. These should be developed carefully so they function as plausible institutions rather than game classes.
+- *At issue:* officially independent, thrive on selling information
+
+**The Ironheart Founders' Guild**
+
+- *Type:* Named guild (provisional working name).
+- *At issue:* Metal: smelting, smithing, tools, arms and structural metal, strongest in Ironcrest.
+
+**The Seven Seas Mercantile Guild**
+
+- *Type:* Named guild (provisional working name).
+- *At issue:* Trade, shipping, warehousing and merchant credit, strongest in Port and the Sunplains ports.
+
+**The Masoncraft Builders' Guild**
+
+- *Type:* Named guild (provisional working name).
+- *At issue:* Building: roads, bridges, walls, dams and granaries.
+
+**The Harvestkeepers Collective**
+
+- *Type:* Named guild (provisional working name).
+- *At issue:* Farming and food supply, seated in Greenvale with local circles wherever land is farmed.
+
+**The Apothic Circle**
+
+- *Type:* Named guild (provisional working name).
+- *At issue:* Medicine: apothecaries, healers, hospitals and travelling clinics, with no magical healing.
+
+**The Artisan Fellowship**
+
+- *Type:* Named guild (provisional working name).
+- *At issue:* Fine crafts and arts: tapestry, mosaic, jewelry and decorative work, run from guild houses by a council of masters.
+
+**The Bardic Circle**
+
+- *Type:* Named guild (provisional working name).
+- *At issue:* Minstrels and performers, paid by commission for ballads and performances.
+
+**The Guards and Sentinels**
+
+- *Type:* Named guild (provisional working name).
+- *At issue:* Watch and guard work: town watches, escorts and guards for hire.
+
+**The Ranger and Hunters' Guild**
+
+- *Type:* Named guild (provisional working name).
+- *At issue:* Trackers, wilderness guides and hunters who keep roads and woods safe.
+
+**The Adventurers' Guild**
+
+- *Type:* Named guild (provisional working name).
+- *At issue:* Hiring halls with a job board and a network of inns for travelling hands: escorts, lost goods, old ruins, local trouble.
+
+**Market and records guilds**
+
+- *Type:* Named guild (provisional working name).
+- *At issue:* A merchants' consortium that runs local markets, weights, measures and fair prices; and scribe and notary guilds that keep records, translations and legal documents.
 
 ### World & unplaced
 

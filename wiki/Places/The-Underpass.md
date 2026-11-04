@@ -83,4 +83,4 @@ Surface kingdoms claim some entrances and sections but rarely control the entire
 
 ## Story function
 
-The Underpass physically embodies the setting's theme: the visible political map is not the same as the real network through which people, goods, and power move.
+Its surface counterpart is the [Overpath](The-Spine.md#the-overpath), the trail over the range. The Underpass physically embodies the setting's theme: the visible political map is not the same as the real network through which people, goods, and power move.

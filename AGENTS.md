@@ -5,7 +5,7 @@ This repository uses **MAPS_L** as its work method. The upstream operating contr
 Relevant MAPS_L methods:
 
 - [Information Lifecycle](https://github.com/BigCatMellow/MAPS_Lean/blob/main/playbook/INFORMATION_LIFECYCLE.md)
-- [Spiderweb Audit](https://github.com/BigCatMellow/MAPS_Lean/blob/main/playbook/SPIDERWEB_AUDIT.md)
+- [Spiderweb Audit](https://github.com/BigCatMellow/MAPS_Lean/blob/main/playbook/SPIDERWEB_AUDIT.md) — run `python3 tools/check_spiderweb.py` (vendored scanner) after a large change; how this repository reconciles its findings is in [wiki/Reference/Spiderweb-Audit.md](wiki/Reference/Spiderweb-Audit.md)
 
 ## Authority
 

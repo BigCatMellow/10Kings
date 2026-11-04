@@ -256,6 +256,10 @@
         {
           "key": "Current scheme",
           "always": true
+        },
+        {
+          "key": "Working life",
+          "always": false
         }
       ]
     },
@@ -268,6 +272,10 @@
         {
           "label": "Council",
           "always": true
+        },
+        {
+          "label": "Related guild",
+          "always": false
         }
       ],
       "facts": [
@@ -782,7 +790,8 @@
       "facts": {
         "Core": "Existence moves through cycles of birth, death, renewal, time, balance and moral consequence.",
         "Interests": "Calendars; rites of passage; mediation; burial; seasonal observance.",
-        "Current scheme": "A reform movement argues that post-Convergence stability has become stagnation. Some members want deliberate social disruption to \"complete\" overdue cycles; traditional elders oppose them."
+        "Current scheme": "A reform movement argues that post-Convergence stability has become stagnation. Some members want deliberate social disruption to \"complete\" overdue cycles; traditional elders oppose them.",
+        "Working life": "Circular temples with a great wheel for the calendar at the center; priests called Guides of the Cycle, and elders whom councils consult as mediators. (Provisional, D24.)"
       }
     },
     {
@@ -798,7 +807,8 @@
       "facts": {
         "Core": "Beings, places, ancestors, animals and actions are threads in a living weave.",
         "Interests": "Stewardship; oral history; ancestry; ecological obligations; community memory.",
-        "Current scheme": "Networks across several regions are documenting land and water damage, building a trans-regional moral case against large extraction and infrastructure projects. Some Council families see this as a threat to economic planning."
+        "Current scheme": "Networks across several regions are documenting land and water damage, building a trans-regional moral case against large extraction and infrastructure projects. Some Council families see this as a threat to economic planning.",
+        "Working life": "Seasonal rites: planting blessings, midsummer fires, autumn thanks and a winter vigil for the ancestors. (Provisional, D24.)"
       }
     },
     {
@@ -814,7 +824,8 @@
       "facts": {
         "Core": "Moral life is struggle toward courage, justice, truth and wisdom against cruelty, lies and discord.",
         "Interests": "Charity; public ethics; justice; moral testimony.",
-        "Current scheme": "Different branches disagree over whether hidden Council rule is a necessary compromise or fundamentally a form of darkness through deception."
+        "Current scheme": "Different branches disagree over whether hidden Council rule is a necessary compromise or fundamentally a form of darkness through deception.",
+        "Working life": "Weekly worship in temples set to the sun's path, opened at dawn by lighting a beacon flame; clergy called Luminaries. (Provisional, D24.)"
       }
     },
     {
@@ -830,7 +841,8 @@
       "facts": {
         "Core": "Creation and destruction are linked; character and society are shaped through disciplined transformation.",
         "Interests": "Craft; apprenticeship; ethical labor; rebuilding.",
-        "Current scheme": "Its guild-adjacent institutions are becoming active in labor and quality disputes, potentially turning a spiritual tradition into a cross-regional political force."
+        "Current scheme": "Its guild-adjacent institutions are becoming active in labor and quality disputes, potentially turning a spiritual tradition into a cross-regional political force.",
+        "Working life": "Every workshop keeps a small shrine with a fire that is never let go out. (Provisional, D24.)"
       }
     },
     {
@@ -846,7 +858,8 @@
       "facts": {
         "Core": "Knowledge, reason, inquiry and intellectual freedom are sacred values.",
         "Interests": "Libraries; schools; debate; archives; public reasoning.",
-        "Current scheme": "Scholars are collecting contradictory trade and government records. Some may be close to proving systematic manipulation without yet understanding the Council."
+        "Current scheme": "Scholars are collecting contradictory trade and government records. Some may be close to proving systematic manipulation without yet understanding the Council.",
+        "Working life": "Its worship is argument: gatherings for debate, contests of reasoning, and councils where a community's dilemma is set out and reasoned through together. (Provisional, D24.)"
       }
     },
     {
@@ -862,7 +875,8 @@
       "facts": {
         "Core": "Silence, uncertainty, hidden truths, patience and introspection.",
         "Interests": "Preservation; contemplation; secret archives; lost knowledge.",
-        "Current scheme": "Some custodians believe dangerous truths should be withheld until society can survive them. Others argue that this has become complicity with elite secrecy."
+        "Current scheme": "Some custodians believe dangerous truths should be withheld until society can survive them. Others argue that this has become complicity with elite secrecy.",
+        "Working life": "Listening meditation, fasts of silence, and the practice of writing a thought down and destroying it. (Provisional, D24.)"
       }
     },
     {
@@ -878,7 +892,8 @@
       "facts": {
         "Core": "Social responsibility, service, restraint, conflict resolution and balance.",
         "Interests": "Mediation; community welfare; nonviolent conflict settlement.",
-        "Current scheme": "Local Harmonious communities are building parallel mutual-aid and arbitration systems where official institutions have failed, unintentionally creating political power."
+        "Current scheme": "Local Harmonious communities are building parallel mutual-aid and arbitration systems where official institutions have failed, unintentionally creating political power.",
+        "Working life": "A yearly day of public kindness, with feasts honoring the community's peacemakers; lanterns set on water at night for peace; and festivals of harmony that mark a harvest, a treaty or a reconciliation by mending tools, planting trees and eating together. (Provisional, D24.)"
       }
     },
     {
@@ -894,7 +909,8 @@
       "facts": {
         "Core": "Moral integrity comes from understanding and balancing constructive and destructive impulses.",
         "Interests": "Counseling; confession; mentorship; personal discipline.",
-        "Current scheme": "Its counselors are seeing similar fear, anger and radicalization patterns across regions and may recognize that separate crises share a source before political leaders do."
+        "Current scheme": "Its counselors are seeing similar fear, anger and radicalization patterns across regions and may recognize that separate crises share a source before political leaders do.",
+        "Working life": "Followers look back on the day at dawn and dusk, and may write down their wrongs and burn the page. (Provisional, D24.)"
       }
     },
     {
@@ -910,7 +926,8 @@
       "facts": {
         "Core": "Life is journey, direction, exploration and self-discovery.",
         "Interests": "Pilgrimage; maps; hospitality; travelers; road shrines.",
-        "Current scheme": "Its pilgrim networks move information across borders faster than many governments expect. The Council, the Villain, spies and criminals all have reasons to influence these networks."
+        "Current scheme": "Its pilgrim networks move information across borders faster than many governments expect. The Council, the Villain, spies and criminals all have reasons to influence these networks.",
+        "Working life": "Before a large decision a follower turns a full circle, facing every road. (Provisional, D24.)"
       }
     },
     {
@@ -1020,46 +1037,46 @@
     {
       "id": "pw-guild-warrior",
       "kind": "guild",
-      "label": "Warrior's Guild",
-      "status": "No status label",
+      "label": "Fighters' guild",
+      "status": "Provisional",
       "lane": "guilds",
       "section": "Guilds",
       "src": "Politics/Guilds.md#armed-and-clandestine-organizations",
-      "text": "Named in earlier notes as an armed or clandestine organization.",
-      "short_text": "From earlier notes; still to be developed.",
+      "text": "Trains professional fighters, whose rank comes from real service guarding caravans and dealing with local threats; towns and rulers hire it to train militias. Provisional (D24); the legacy's Ironclad Warriors' Guild is its working name.",
+      "short_text": "Caravan guards and militia trainers.",
       "facts": {
         "Type": "Armed and clandestine organizations.",
-        "Note": "Earlier notes include it. These should be developed carefully so they function as plausible institutions rather than game classes."
+        "At issue": "Who hires it, and to guard what."
       }
     },
     {
       "id": "pw-guild-assassin",
       "kind": "guild",
       "label": "Assassin's Guild",
-      "status": "No status label",
+      "status": "Provisional",
       "lane": "guilds",
       "section": "Guilds",
       "src": "Politics/Guilds.md#armed-and-clandestine-organizations",
-      "text": "Named in earlier notes as an armed or clandestine organization.",
-      "short_text": "From earlier notes; still to be developed.",
+      "text": "In the legacy notes; kept out of the stories and not developed further (D24).",
+      "short_text": "Legacy only; kept out of the stories.",
       "facts": {
         "Type": "Armed and clandestine organizations.",
-        "Note": "Earlier notes include it. These should be developed carefully so they function as plausible institutions rather than game classes."
+        "Note": "kept out of the stories and not developed further"
       }
     },
     {
       "id": "pw-guild-spy",
       "kind": "guild",
-      "label": "Spy Guild",
-      "status": "No status label",
+      "label": "Spy guilds",
+      "status": "Provisional",
       "lane": "guilds",
       "section": "Guilds",
       "src": "Politics/Guilds.md#armed-and-clandestine-organizations",
-      "text": "Named in earlier notes as an armed or clandestine organization.",
-      "short_text": "From earlier notes; still to be developed.",
+      "text": "Not one body but a loose set of city networks that sell information to anyone, the Council included. Provisional (D24).",
+      "short_text": "City networks selling information to anyone.",
       "facts": {
         "Type": "Armed and clandestine organizations.",
-        "Note": "Earlier notes include it. These should be developed carefully so they function as plausible institutions rather than game classes."
+        "At issue": "officially independent, thrive on selling information"
       }
     },
     {
@@ -1413,6 +1430,171 @@
         "Rule": "Magic.md#hard-limits",
         "How it works": "Magic.md#how-the-world-rule-questions-are-answered",
         "Writing rule": "Magic.md#writing-rule"
+      }
+    },
+    {
+      "id": "pw-g-ironheart",
+      "kind": "guild",
+      "label": "The Ironheart Founders' Guild",
+      "status": "Provisional",
+      "lane": "guilds",
+      "section": "Named guilds",
+      "src": "Politics/Guilds.md#the-ironheart-founders-guild",
+      "text": "Metal: smelting, smithing, tools, arms and structural metal, strongest in Ironcrest. Provisional (D24).",
+      "short_text": "Metal, strongest in Ironcrest.",
+      "facts": {
+        "Type": "Named guild (provisional working name).",
+        "At issue": "Metal: smelting, smithing, tools, arms and structural metal, strongest in Ironcrest."
+      }
+    },
+    {
+      "id": "pw-g-sevenseas",
+      "kind": "guild",
+      "label": "The Seven Seas Mercantile Guild",
+      "status": "Provisional",
+      "lane": "guilds",
+      "section": "Named guilds",
+      "src": "Politics/Guilds.md#the-seven-seas-mercantile-guild",
+      "text": "Trade, shipping, warehousing and merchant credit, strongest in Port and the Sunplains ports. Provisional (D24).",
+      "short_text": "Trade, shipping and credit.",
+      "facts": {
+        "Type": "Named guild (provisional working name).",
+        "At issue": "Trade, shipping, warehousing and merchant credit, strongest in Port and the Sunplains ports."
+      }
+    },
+    {
+      "id": "pw-g-masoncraft",
+      "kind": "guild",
+      "label": "The Masoncraft Builders' Guild",
+      "status": "Provisional",
+      "lane": "guilds",
+      "section": "Named guilds",
+      "src": "Politics/Guilds.md#the-masoncraft-builders-guild",
+      "text": "Building: roads, bridges, walls, dams and granaries. Provisional (D24).",
+      "short_text": "Building and its standards.",
+      "facts": {
+        "Type": "Named guild (provisional working name).",
+        "At issue": "Building: roads, bridges, walls, dams and granaries."
+      }
+    },
+    {
+      "id": "pw-g-harvest",
+      "kind": "guild",
+      "label": "The Harvestkeepers Collective",
+      "status": "Provisional",
+      "lane": "guilds",
+      "section": "Named guilds",
+      "src": "Politics/Guilds.md#the-harvestkeepers-collective",
+      "text": "Farming and food supply, seated in Greenvale with local circles wherever land is farmed. Provisional (D24).",
+      "short_text": "Farming circles, seated in Greenvale.",
+      "facts": {
+        "Type": "Named guild (provisional working name).",
+        "At issue": "Farming and food supply, seated in Greenvale with local circles wherever land is farmed."
+      }
+    },
+    {
+      "id": "pw-g-apothic",
+      "kind": "guild",
+      "label": "The Apothic Circle",
+      "status": "Provisional",
+      "lane": "guilds",
+      "section": "Named guilds",
+      "src": "Politics/Guilds.md#the-apothic-circle",
+      "text": "Medicine: apothecaries, healers, hospitals and travelling clinics, with no magical healing. Provisional (D24).",
+      "short_text": "Medicine and its approved remedies.",
+      "facts": {
+        "Type": "Named guild (provisional working name).",
+        "At issue": "Medicine: apothecaries, healers, hospitals and travelling clinics, with no magical healing."
+      }
+    },
+    {
+      "id": "pw-g-artisan",
+      "kind": "guild",
+      "label": "The Artisan Fellowship",
+      "status": "Provisional",
+      "lane": "guilds",
+      "section": "Named guilds",
+      "src": "Politics/Guilds.md#the-artisan-fellowship",
+      "text": "Fine crafts and arts: tapestry, mosaic, jewelry and decorative work, run from guild houses by a council of masters. Provisional (D24).",
+      "short_text": "Fine crafts and arts.",
+      "facts": {
+        "Type": "Named guild (provisional working name).",
+        "At issue": "Fine crafts and arts: tapestry, mosaic, jewelry and decorative work, run from guild houses by a council of masters."
+      }
+    },
+    {
+      "id": "pw-g-bardic",
+      "kind": "guild",
+      "label": "The Bardic Circle",
+      "status": "Provisional",
+      "lane": "guilds",
+      "section": "Named guilds",
+      "src": "Politics/Guilds.md#the-bardic-circle",
+      "text": "Minstrels and performers, paid by commission for ballads and performances. Provisional (D24).",
+      "short_text": "Minstrels on commission.",
+      "facts": {
+        "Type": "Named guild (provisional working name).",
+        "At issue": "Minstrels and performers, paid by commission for ballads and performances."
+      }
+    },
+    {
+      "id": "pw-g-guards",
+      "kind": "guild",
+      "label": "The Guards and Sentinels",
+      "status": "Provisional",
+      "lane": "guilds",
+      "section": "Named guilds",
+      "src": "Politics/Guilds.md#the-guards-and-sentinels",
+      "text": "Watch and guard work: town watches, escorts and guards for hire. Provisional (D24).",
+      "short_text": "Watches, escorts, guards for hire.",
+      "facts": {
+        "Type": "Named guild (provisional working name).",
+        "At issue": "Watch and guard work: town watches, escorts and guards for hire."
+      }
+    },
+    {
+      "id": "pw-g-rangers",
+      "kind": "guild",
+      "label": "The Ranger and Hunters' Guild",
+      "status": "Provisional",
+      "lane": "guilds",
+      "section": "Named guilds",
+      "src": "Politics/Guilds.md#the-ranger-and-hunters-guild",
+      "text": "Trackers, wilderness guides and hunters who keep roads and woods safe. Provisional (D24).",
+      "short_text": "Trackers, guides and hunters.",
+      "facts": {
+        "Type": "Named guild (provisional working name).",
+        "At issue": "Trackers, wilderness guides and hunters who keep roads and woods safe."
+      }
+    },
+    {
+      "id": "pw-g-adventurers",
+      "kind": "guild",
+      "label": "The Adventurers' Guild",
+      "status": "Provisional",
+      "lane": "guilds",
+      "section": "Named guilds",
+      "src": "Politics/Guilds.md#the-adventurers-guild",
+      "text": "Hiring halls with a job board and a network of inns for travelling hands: escorts, lost goods, old ruins, local trouble. Provisional (D24).",
+      "short_text": "Hiring halls and job boards.",
+      "facts": {
+        "Type": "Named guild (provisional working name).",
+        "At issue": "Hiring halls with a job board and a network of inns for travelling hands: escorts, lost goods, old ruins, local trouble."
+      }
+    },
+    {
+      "id": "pw-g-market",
+      "kind": "guild",
+      "label": "Market and records guilds",
+      "status": "Provisional",
+      "lane": "guilds",
+      "section": "Named guilds",
+      "src": "Politics/Guilds.md#market-and-records-guilds",
+      "text": "A merchants' consortium that runs local markets, weights, measures and fair prices; and scribe and notary guilds that keep records, translations and legal documents. Provisional (D24).",
+      "short_text": "Local markets; scribes and notaries.",
+      "facts": {
+        "Type": "Named guild (provisional working name).",
+        "At issue": "A merchants' consortium that runs local markets, weights, measures and fair prices; and scribe and notary guilds that keep records, translations and legal documents."
       }
     }
   ],
@@ -2198,6 +2380,84 @@
       "chipBack": "Relics",
       "chipNote": "relics belong to the faiths",
       "chipNoteBack": "keeps relics (never confirmed)"
+    },
+    {
+      "from": "pw-g-ironheart",
+      "to": "pw-guild-metal",
+      "layer": "pw-guild",
+      "type": "is part of",
+      "basis": "stated",
+      "quote": "It is the guild the … are arguing inside",
+      "src": "Politics/Guilds.md#the-ironheart-founders-guild",
+      "chip": "Related guild",
+      "chipBack": "Related guild",
+      "chipNote": "named guild",
+      "chipNoteBack": "named guild"
+    },
+    {
+      "from": "pw-g-sevenseas",
+      "to": "pw-guild-nav",
+      "layer": "pw-guild",
+      "type": "is part of",
+      "basis": "stated",
+      "quote": "It is one side of the",
+      "src": "Politics/Guilds.md#the-seven-seas-mercantile-guild",
+      "chip": "Related guild",
+      "chipBack": "Related guild",
+      "chipNote": "named guild",
+      "chipNoteBack": "named guild"
+    },
+    {
+      "from": "pw-g-masoncraft",
+      "to": "pw-guild-builders",
+      "layer": "pw-guild",
+      "type": "is part of",
+      "basis": "stated",
+      "quote": "It is the core of the",
+      "src": "Politics/Guilds.md#the-masoncraft-builders-guild",
+      "chip": "Related guild",
+      "chipBack": "Related guild",
+      "chipNote": "named guild",
+      "chipNoteBack": "named guild"
+    },
+    {
+      "from": "pw-g-harvest",
+      "to": "pw-guild-agri",
+      "layer": "pw-guild",
+      "type": "is part of",
+      "basis": "stated",
+      "quote": "It is the largest of the",
+      "src": "Politics/Guilds.md#the-harvestkeepers-collective",
+      "chip": "Related guild",
+      "chipBack": "Related guild",
+      "chipNote": "named guild",
+      "chipNoteBack": "named guild"
+    },
+    {
+      "from": "pw-g-guards",
+      "to": "pw-guild-warrior",
+      "layer": "pw-guild",
+      "type": "is distinct from",
+      "basis": "stated",
+      "quote": "Not warfare, which is the fighters' guild's",
+      "src": "Politics/Guilds.md#the-guards-and-sentinels",
+      "chip": "Related guild",
+      "chipBack": "Related guild",
+      "chipNote": "named guild",
+      "chipNoteBack": "named guild"
+    },
+    {
+      "from": "pw-g-market",
+      "to": "pw-g-sevenseas",
+      "layer": "pw-guild",
+      "type": "is part of",
+      "basis": "stated",
+      "quote": "alongside the Seven Seas guild's long-distance trade",
+      "src": "Politics/Guilds.md#market-and-records-guilds",
+      "chip": "Related guild",
+      "chipBack": "Related guild",
+      "chipNote": "named guild",
+      "chipNoteBack": "named guild"
     }
   ],
   "gaps": [

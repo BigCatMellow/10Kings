@@ -6,10 +6,10 @@
 
 ## At a glance
 
-- **557** things mapped, **813** connections (90% stated in the wiki, the rest inferred)
+- **568** things mapped, **822** connections (90% stated in the wiki, the rest inferred)
 - **32** open questions ([Part 8](../questions/README.md))
 - **80** gaps listed across the parts
-- **83** cards with no connection yet
+- **85** cards with no connection yet
 
 ## How settled each part is
 
@@ -20,14 +20,14 @@ Each card carries its wiki page's status label. "Writing reference" is the Sunda
 | Geography | 6 | 12 | 9 | · | · | 27 |
 | Culture | · | 15 | 38 | 4 | · | 57 |
 | Food | · | · | 64 | 9 | · | 73 |
-| Power | · | 5 | · | 49 | · | 54 |
+| Power | · | 5 | 14 | 46 | · | 65 |
 | History | 8 | 3 | 25 | 7 | · | 43 |
 | People | 1 | · | 9 | 2 | 76 | 88 |
 | Story | · | · | 99 | 35 | · | 134 |
 | Questions | · | · | · | 32 | · | 32 |
 | Foundations | · | 5 | · | 27 | · | 32 |
 | Systems | · | · | 17 | · | · | 17 |
-| **All** | **15** | **40** | **261** | **165** | **76** | **557** |
+| **All** | **15** | **40** | **275** | **162** | **76** | **568** |
 
 ## Where the cards are
 
@@ -47,7 +47,7 @@ Cards per board column and part. A dot means nothing from that part lives in tha
 | Border towns | 6 | 1 | 18 | · | 1 | · | 13 | · | · | · |
 | Council & politics | · | · | · | 8 | · | · | · | 4 | · | · |
 | Faiths | · | · | · | 11 | · | · | · | · | · | · |
-| Guilds | · | · | · | 8 | · | · | · | · | · | · |
+| Guilds | · | · | · | 19 | · | · | · | · | · | · |
 | History | · | · | · | · | 25 | · | · | · | · | · |
 | Main cast | · | · | · | · | · | 3 | · | 12 | · | · |
 | Sunday Morning cast | · | · | · | · | · | 76 | · | · | · | · |
@@ -70,9 +70,7 @@ Cards whose always-shown rows and facts the wiki leaves empty, most first.
 | Ironcrest | Geography | Continent, Sea partner of, Trades with |
 | Port culture | Culture | Mixes with, Values, Inspiration |
 | Border-town culture | Culture | Language, Values, Inspiration |
-| Warrior's Guild | Power | Government, Council, At issue |
 | Assassin's Guild | Power | Government, Council, At issue |
-| Spy Guild | Power | Government, Council, At issue |
 | Northwind | Geography | Spine & Underpass, Sends |
 | Darkroot Gulch | Geography | Culture, Border dishes |
 | Deepwood cuisine | Food | Imports from, Class and variation |
@@ -86,6 +84,8 @@ Cards whose always-shown rows and facts the wiki leaves empty, most first.
 | Roasted Grain Clusters | Food | Festival, Why it exists |
 | Herbed Farm Cheese | Food | Festival, Why it exists |
 | Caravan Flatbread with Spiced Butter | Food | Festival, Why it exists |
+| Wind Dumplings | Food | Festival, Why it exists |
+| Plateau Noodle Soup | Food | Festival, Why it exists |
 
 ## No connections yet
 
@@ -93,9 +93,9 @@ Some are fine on their own (a saying, a festival); others are things the wiki ha
 
 - **Geography** (7): Coalglen Meadows; Helios Orchard; Snowbreaker Quay; Mosspeak Rise; Emberhaven Cross; Golden Dunes Shore; Reedveil Bend
 - **Culture** (19): “Iron hands, iron hearts.”; “Cold water, cold blood.”; “Soft as Greenvale butter.”; “Every road leads to Highridge's pocket.”; “Gone to the trees.”; “Golden tongue, copper coin.”; “Every ship lands at Port, none stay.”; Coal Ember Vigil; Long Dark Feast; Sowing Days; Grain Ripening; Silent Thaw; Blossom Markets; Festival of Patrons; Mixed taverns and markets; Cross-regional marriage; What people avoid saying openly; What festivals do beyond the day; How names work
-- **Power** (15): Warrior's Guild; Assassin's Guild; Ironcrest crime; Greenvale crime; Deepwood crime; Sunplains crime; Weapons and elite troops; Ironcrest arms; Northwind arms; Greenvale arms; Highridge arms; Deepwood arms; Sunplains arms; Port arms; Underpass arms
+- **Power** (18): Assassin's Guild; Ironcrest crime; Greenvale crime; Deepwood crime; Sunplains crime; Weapons and elite troops; Ironcrest arms; Northwind arms; Greenvale arms; Highridge arms; Deepwood arms; Sunplains arms; Port arms; Underpass arms; The Apothic Circle; The Artisan Fellowship; The Bardic Circle; The Ranger and Hunters' Guild
 - **History** (11): Ironcrest before the Convergence; Northwind before the Convergence; Greenvale before the Convergence; Highridge before the Convergence; Deepwood before the Convergence; Sunplains before the Convergence; How Port became central; Coldwave Incursions; Orchard-Lord Feuds; Iron-Field Conquest; Great Coastal Skirmish
-- **Story** (17): The Penny Sale; The Petition Room; Very Nearly; The Lantern; Both Rites; The Miner's Luck; The Prayer List; Small Jobs; The Widow's Share; How the News Came; The Three Charters; Toll Lords; The House Cook; The Turnout; Second Witness; The Walk of Weaknesses; Mud Day
+- **Story** (16): The Penny Sale; The Petition Room; Very Nearly; The Lantern; Both Rites; The Miner's Luck; The Prayer List; The Widow's Share; How the News Came; The Three Charters; Toll Lords; The House Cook; The Turnout; Second Witness; The Walk of Weaknesses; Mud Day
 - **Questions** (3): Map: which regional borders are long boundaries versus narrow corridors; Map: navigable rivers and major watersheds; Language and naming: personal-name systems within the language families
 - **Foundations** (11): Core themes; 2. Geography must cause culture without dictating it; 6. Technology is craft-scale and pre-industrial; 13. Culture is learned, contested, and changing; 14. Draw globally, copy nowhere whole; 15. Language affects habits of attention, not intelligence; 16. Food must follow ecology, trade, class, season, and preservation; 17. Architecture is accumulated history; 18. Names need etymological logic; 19. Violence changes societies; Character design rule
 

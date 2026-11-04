@@ -261,6 +261,10 @@
     "town": {
       "rows": [
         {
+          "label": "Spine & Underpass",
+          "always": false
+        },
+        {
           "label": "Stories",
           "always": false
         }
@@ -1275,6 +1279,19 @@
       "src": "Geography-and-Connections.md#greenvale--highridge",
       "chip": "Likely sends",
       "chipBack": "Likely gets"
+    },
+    {
+      "from": "sevenhill",
+      "to": "spine",
+      "layer": "mountain",
+      "type": "stands on a pass of",
+      "basis": "stated",
+      "quote": "Seven Hill was a fortress on one of the",
+      "src": "Places/Seven-Hill.md#what-it-is",
+      "chip": "Spine & Underpass",
+      "chipBack": "Spine & Underpass",
+      "chipNote": "on a pass",
+      "chipNoteBack": "old fortress on a pass"
     },
     {
       "from": "overpath",

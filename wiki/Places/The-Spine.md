@@ -34,7 +34,7 @@ This explains:
 - Highridge's importance;
 - Underpass development;
 - ancient toll states;
-- strategic fortresses;
+- strategic fortresses (one, [Seven Hill](Seven-Hill.md), has been a town for generations);
 - migration corridors;
 - bandit economies;
 - religious pilgrimage traditions.
@@ -43,7 +43,7 @@ This explains:
 
 **Provisional.** bt 7274 named it on 2026-11-04: "the Overpath (the trail that goes the length of the Spine over the mountains". The same day he ruled ([D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)) that it is the legacy notes' *Overpass* under his newer name: a trail along the length of the range, which the pass roads cross. Where the Underpass runs through the range, the Overpath runs over it.
 
-The legacy description below therefore stands as provisional working detail. It is the way for those who can't or won't use the tunnels: pilgrims, adventurers, herders and caravans with goods too big for the Underpass. It is slower and more dangerous than the tunnels, with weather, avalanches, predators and bandits, and seasonal nomads guide travellers on both.
+The legacy description below therefore stands as provisional working detail. It is the way for those who can't or won't use the tunnels: pilgrims, adventurers, herders and caravans with goods too big for the Underpass. It is slower and more dangerous than the tunnels, with weather, avalanches, predators and bandits, and seasonal nomads ([Nomads](../Culture/Nomads.md#more-than-one-mobile-people)) guide travellers on both.
 
 It sits alongside what this page already lists, without being settled as any of it: the range's pilgrimage routes, seasonal passes and migration corridors, and the [Infinite Compass](../Politics/Religions.md#9-the-infinite-compass)'s road shrines and hospitality for travelers.
 
