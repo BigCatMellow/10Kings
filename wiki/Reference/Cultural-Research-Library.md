@@ -16,6 +16,7 @@ This archive distinguishes four kinds of material:
 
 | Need | Resource | Status |
 | --- | --- | --- |
+| Local institutions and community-scale design tests | [Community Institution Casebook](Community-Institution-Casebook.md) | New research; non-canon |
 | Older real-world cultural practices, verified references and setting-design questions | [Cultural Practices and Institutions](Cultural-Practices-and-Institutions.md) | New research; non-canon |
 | Recovered dated conversations and themes not fully transcribed | [Recovered Cultural Research Conversations](Recovered-Cultural-Research-Conversations.md) | Reconstructed index; non-canon |
 | Nomadic, maritime, pastoral and itinerant peoples | [Nomadic Peoples — Recovered Research](Nomadic-Peoples-Recovered-Research.md) | Existing index; non-canon |
