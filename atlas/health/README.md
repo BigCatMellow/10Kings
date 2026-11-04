@@ -6,10 +6,10 @@
 
 ## At a glance
 
-- **542** things mapped, **799** connections (90% stated in the wiki, the rest inferred)
+- **557** things mapped, **813** connections (90% stated in the wiki, the rest inferred)
 - **32** open questions ([Part 8](../questions/README.md))
 - **80** gaps listed across the parts
-- **77** cards with no connection yet
+- **83** cards with no connection yet
 
 ## How settled each part is
 
@@ -23,11 +23,11 @@ Each card carries its wiki page's status label. "Writing reference" is the Sunda
 | Power | · | 5 | · | 49 | · | 54 |
 | History | 8 | 3 | 25 | 7 | · | 43 |
 | People | 1 | · | 9 | 2 | 76 | 88 |
-| Story | · | · | 84 | 35 | · | 119 |
+| Story | · | · | 99 | 35 | · | 134 |
 | Questions | · | · | · | 32 | · | 32 |
 | Foundations | · | 5 | · | 27 | · | 32 |
 | Systems | · | · | 17 | · | · | 17 |
-| **All** | **15** | **40** | **246** | **165** | **76** | **542** |
+| **All** | **15** | **40** | **261** | **165** | **76** | **557** |
 
 ## Where the cards are
 
@@ -36,15 +36,15 @@ Cards per board column and part. A dot means nothing from that part lives in tha
 | Column | Geography | Culture | Food | Power | History | People | Story | Questions | Foundations | Systems |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | Foundations | · | · | · | · | · | · | · | · | 32 | · |
-| Northwind | 1 | 8 | 9 | 3 | 3 | 1 | 7 | · | · | · |
-| Highridge Plateau | 1 | 7 | 8 | 4 | 1 | 1 | 15 | 2 | · | · |
-| Deepwood | 1 | 7 | 9 | 3 | 3 | 1 | 7 | 1 | · | · |
+| Northwind | 1 | 8 | 9 | 3 | 3 | 1 | 8 | · | · | · |
+| Highridge Plateau | 1 | 7 | 8 | 4 | 1 | 1 | 18 | 2 | · | · |
+| Deepwood | 1 | 7 | 9 | 3 | 3 | 1 | 8 | 1 | · | · |
 | Ironcrest | 1 | 7 | 10 | 3 | 2 | 1 | 12 | · | · | · |
 | Greenvale | 1 | 7 | 9 | 3 | 3 | 1 | 16 | · | · | · |
-| Sunplains | 1 | 7 | 8 | 3 | 2 | 1 | 7 | 1 | · | · |
-| Port | 1 | 6 | 1 | 3 | 3 | · | 12 | 2 | · | · |
-| Spine & Underpass | 3 | 1 | · | 3 | · | 3 | 11 | 1 | · | · |
-| Border towns | 6 | 1 | 18 | · | 1 | · | 11 | · | · | · |
+| Sunplains | 1 | 7 | 8 | 3 | 2 | 1 | 8 | 1 | · | · |
+| Port | 1 | 6 | 1 | 3 | 3 | · | 15 | 2 | · | · |
+| Spine & Underpass | 3 | 1 | · | 3 | · | 3 | 12 | 1 | · | · |
+| Border towns | 6 | 1 | 18 | · | 1 | · | 13 | · | · | · |
 | Council & politics | · | · | · | 8 | · | · | · | 4 | · | · |
 | Faiths | · | · | · | 11 | · | · | · | · | · | · |
 | Guilds | · | · | · | 8 | · | · | · | · | · | · |
@@ -53,7 +53,7 @@ Cards per board column and part. A dot means nothing from that part lives in tha
 | Sunday Morning cast | · | · | · | · | · | 76 | · | · | · | · |
 | Main conflict | · | · | · | · | · | · | 6 | 1 | · | · |
 | System proposals | · | · | · | · | · | · | · | · | · | 17 |
-| World & unplaced | 11 | 6 | 1 | 2 | · | · | 15 | 8 | · | · |
+| World & unplaced | 11 | 6 | 1 | 2 | · | · | 18 | 8 | · | · |
 
 ## Most "none stated" rows and missing facts
 
@@ -94,8 +94,8 @@ Some are fine on their own (a saying, a festival); others are things the wiki ha
 - **Geography** (7): Coalglen Meadows; Helios Orchard; Snowbreaker Quay; Mosspeak Rise; Emberhaven Cross; Golden Dunes Shore; Reedveil Bend
 - **Culture** (19): “Iron hands, iron hearts.”; “Cold water, cold blood.”; “Soft as Greenvale butter.”; “Every road leads to Highridge's pocket.”; “Gone to the trees.”; “Golden tongue, copper coin.”; “Every ship lands at Port, none stay.”; Coal Ember Vigil; Long Dark Feast; Sowing Days; Grain Ripening; Silent Thaw; Blossom Markets; Festival of Patrons; Mixed taverns and markets; Cross-regional marriage; What people avoid saying openly; What festivals do beyond the day; How names work
 - **Power** (15): Warrior's Guild; Assassin's Guild; Ironcrest crime; Greenvale crime; Deepwood crime; Sunplains crime; Weapons and elite troops; Ironcrest arms; Northwind arms; Greenvale arms; Highridge arms; Deepwood arms; Sunplains arms; Port arms; Underpass arms
-- **History** (12): Ironcrest before the Convergence; Northwind before the Convergence; Greenvale before the Convergence; Highridge before the Convergence; Deepwood before the Convergence; Sunplains before the Convergence; How Port became central; Coldwave Incursions; Orchard-Lord Feuds; Iron-Field Conquest; Great Coastal Skirmish; The Ages of Silence
-- **Story** (10): The Penny Sale; The Petition Room; Very Nearly; The Lantern; Both Rites; The Miner's Luck; The Prayer List; Small Jobs; The Widow's Share; How the News Came
+- **History** (11): Ironcrest before the Convergence; Northwind before the Convergence; Greenvale before the Convergence; Highridge before the Convergence; Deepwood before the Convergence; Sunplains before the Convergence; How Port became central; Coldwave Incursions; Orchard-Lord Feuds; Iron-Field Conquest; Great Coastal Skirmish
+- **Story** (17): The Penny Sale; The Petition Room; Very Nearly; The Lantern; Both Rites; The Miner's Luck; The Prayer List; Small Jobs; The Widow's Share; How the News Came; The Three Charters; Toll Lords; The House Cook; The Turnout; Second Witness; The Walk of Weaknesses; Mud Day
 - **Questions** (3): Map: which regional borders are long boundaries versus narrow corridors; Map: navigable rivers and major watersheds; Language and naming: personal-name systems within the language families
 - **Foundations** (11): Core themes; 2. Geography must cause culture without dictating it; 6. Technology is craft-scale and pre-industrial; 13. Culture is learned, contested, and changing; 14. Draw globally, copy nowhere whole; 15. Language affects habits of attention, not intelligence; 16. Food must follow ecology, trade, class, season, and preservation; 17. Architecture is accumulated history; 18. Names need etymological logic; 19. Violence changes societies; Character design rule
 

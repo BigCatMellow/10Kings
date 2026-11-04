@@ -493,6 +493,15 @@
         }
       ],
       "facts": []
+    },
+    "government": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ],
+      "facts": []
     }
   },
   "nodes": [
@@ -2761,6 +2770,276 @@
         "Premise": "A big piece of news reaches a remote relay post in three versions, by three carriers, in one day. The postkeeper has to decide which one goes on the board.",
         "Possible heart": "getting it right slowly beats getting it wrong first.",
         "Possible thread": "what people say about the big events gets \"more specific, and sometimes more wrong\" (The Long Road)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-assize-day",
+      "kind": "seed",
+      "label": "Assize Day",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#assize-day",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The circuit judge comes once a year and has one day.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "The circuit judge comes once a year and has one day. The town has saved up twelve months of quarrels for her, and by noon she's worked out that most of them only want to be heard by somebody from outside.",
+        "Possible heart": "being listened to settles more than being judged.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-three-charters",
+      "kind": "seed",
+      "label": "The Three Charters",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-three-charters",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The market office keeps three old charters on the wall, from three powers that once claimed the market, and they disagree.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "The market office keeps three old charters on the wall, from three powers that once claimed the market, and they disagree. The keeper of the wall has to tell two families which one their quarrel falls under, and the answer is that it falls under none of them.",
+        "Possible heart": "a town is older than any of the papers that claim it.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-protected-goods",
+      "kind": "seed",
+      "label": "Protected Goods",
+      "status": "Provisional",
+      "lane": "spine",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#protected-goods",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The pass is closed for rockfall, and the toll keeper has turned everyone back for a week.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "The pass is closed for rockfall, and the toll keeper has turned everyone back for a week. Then a cart arrives carrying one of the kinds of goods the Convergence says must be let through, and the toll keeper has to decide what \"let through\" means when there's no road.",
+        "Possible heart": "a promise is only as good as the person standing at the gate.",
+        "Possible thread": "Convergence trade guarantees and route rules, and manipulated route closures; this closure is honest."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-toll-lords",
+      "kind": "seed",
+      "label": "Toll Lords",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#toll-lords",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The village children play toll lords in the old tower, charging each other pebbles to pass.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "The village children play toll lords in the old tower, charging each other pebbles to pass. An old man who remembers his grandfather's stories of the real ones gets drafted in to be the traveller, and plays it better than anyone wanted.",
+        "Possible heart": "the past is a game until someone who knew it plays.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-unharvested-grove",
+      "kind": "seed",
+      "label": "The Unharvested Grove",
+      "status": "Provisional",
+      "lane": "deepwood",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-unharvested-grove",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "One grove is never harvested, and hasn't been since the Ages of Silence.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "One grove is never harvested, and hasn't been since the Ages of Silence. A child asks why, and gets three answers from three elders: a sickness, a war, a god. All three go and sit in it together.",
+        "Possible heart": "a place can hold a memory nobody agrees about.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-house-cook",
+      "kind": "seed",
+      "label": "The House Cook",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-house-cook",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The cook in a great house feeds whoever comes to the back door: the master's visitors, the carriers, the clerks who stay late.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "The cook in a great house feeds whoever comes to the back door: the master's visitors, the carriers, the clerks who stay late. She has never asked what the master does, and this season more people come, and they stay later, and they're hungrier.",
+        "Possible heart": "a kitchen knows the weather of a house before the house does.",
+        "Possible thread": "one of the Council's six houses, seen only from its kitchen. The Council never acts as a named body; the house is just a house."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-charter-oath",
+      "kind": "seed",
+      "label": "The Charter Oath",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-charter-oath",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A dockworker's daughter takes the oath of Port's watch, the one that says no kingdom's soldier may police the city.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "A dockworker's daughter takes the oath of Port's watch, the one that says no kingdom's soldier may police the city. Her grandmother came to Port as a soldier's widow and has opinions about the oath.",
+        "Possible heart": "a city is what the people who guard it promise.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-regulars",
+      "kind": "seed",
+      "label": "The Regulars",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-regulars",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "Every week the same crowd gathers to hear the same teller, and over the years they've become part of the story: who laughed at what, who once fell off a bench.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "Every week the same crowd gathers to hear the same teller, and over the years they've become part of the story: who laughed at what, who once fell off a bench. A newcomer wants in, and the only way in is to be in the story.",
+        "Possible heart": "belonging is being remembered in the telling.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-turnout",
+      "kind": "seed",
+      "label": "The Turnout",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-turnout",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The word goes round that everybody's to turn out at the toll gate at noon.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "The word goes round that everybody's to turn out at the toll gate at noon. A woman goes because her friends are going, and spends the day finding out that nobody there knows who said noon.",
+        "Possible heart": "you can be part of something and still keep your own reasons.",
+        "Possible thread": "Audience Movements' action tradition, and the Villain who exploits legitimate grievances. She sees a crowd; nobody sees a hand."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-honest-fence",
+      "kind": "seed",
+      "label": "The Honest Fence",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-honest-fence",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A pawnbroker who never asks where anything came from is brought something he recognizes: a wedding cup he sold to the boy's grandparents forty years ago.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "A pawnbroker who never asks where anything came from is brought something he recognizes: a wedding cup he sold to the boy's grandparents forty years ago. For once he asks.",
+        "Possible heart": "some things come back to the people who should have them.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-second-witness",
+      "kind": "seed",
+      "label": "Second Witness",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#second-witness",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A rumor says the grain coming down the river is spoiled.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "A rumor says the grain coming down the river is spoiled. The market pays for two witnesses from different trades to go and look, as it always does, and this year it's a baker and a ropemaker who can't stand each other.",
+        "Possible heart": "the truth is easier to find with someone you'd never agree with.",
+        "Possible thread": "a rumor of the kind the ripple chain feeds on, checked the slow way. The custom is the reference library's Second Witness Market."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-waiting-shore",
+      "kind": "seed",
+      "label": "The Waiting Shore",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-waiting-shore",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A boat is overdue.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "A boat is overdue. After the set number of days, the shore store opens its rations to the family without anyone having to say the word dead. The eldest daughter refuses them, and keeps refusing, and the boat comes in.",
+        "Possible heart": "a town can help you without asking you to give up.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-forecast-table",
+      "kind": "seed",
+      "label": "The Forecast Table",
+      "status": "Provisional",
+      "lane": "sunplains",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-forecast-table",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The growers sit down every spring to forecast the frost and spread their risk across each other's fields.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "The growers sit down every spring to forecast the frost and spread their risk across each other's fields. The old woman who is always right says it'll come late. This year she's wrong, and the table works anyway.",
+        "Possible heart": "a good system is one that survives its best member being wrong.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-walk-of-weaknesses",
+      "kind": "seed",
+      "label": "The Walk of Weaknesses",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-walk-of-weaknesses",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "In the hour before dark, the old wall-mender walks the learners along the retaining walls and makes them find what's about to fail.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "In the hour before dark, the old wall-mender walks the learners along the retaining walls and makes them find what's about to fail. This year she can't climb the last wall, and one of them has to walk it for her.",
+        "Possible heart": "you teach someone to see so they can go where you can't.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-mud-day",
+      "kind": "seed",
+      "label": "Mud Day",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#mud-day",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "Every household owes the ditches its share of digging before the rains.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "Every household owes the ditches its share of digging before the rains. The widower who can't dig anymore pays his share in childcare, and by noon he has eleven children and the ditches have never been dug faster.",
+        "Possible heart": "everyone has something the town needs.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
       },
       "minor": true
     }
@@ -7455,6 +7734,202 @@
       "basis": "stated",
       "quote": "Clothing and Material Culture",
       "src": "Sunday-Morning/Stories/Story-Seeds.md#the-coat",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-assize-day",
+      "to": "systems-proposal-04",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Law and Jurisdiction",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#assize-day",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-protected-goods",
+      "to": "hi-prov-trade-guarantees",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "trade guarantees",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#protected-goods",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-protected-goods",
+      "to": "hi-prov-route-rules",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "route rules",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#protected-goods",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-unharvested-grove",
+      "to": "hi-mem-silence",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Ages of Silence",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-unharvested-grove",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-unharvested-grove",
+      "to": "f-canopy-vigil",
+      "layer": "st-story",
+      "type": "would run up to",
+      "basis": "stated",
+      "quote": "Canopy Vigil",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-unharvested-grove",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-charter-oath",
+      "to": "pw-gov-port",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "neutrality",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-charter-oath",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-charter-oath",
+      "to": "hi-mem-port-seizure",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Port Seizure",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-charter-oath",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-charter-oath",
+      "to": "hi-ver-seizure-northwind",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Port Seizure",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-charter-oath",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-charter-oath",
+      "to": "hi-ver-seizure-port",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Port Seizure",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-charter-oath",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-charter-oath",
+      "to": "hi-ver-seizure-merchants",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Port Seizure",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-charter-oath",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-regulars",
+      "to": "systems-proposal-16",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Audience Movements",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-regulars",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-honest-fence",
+      "to": "pw-crime-port",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Port's",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-honest-fence",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-waiting-shore",
+      "to": "northwind-food",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Northwind cuisine",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-waiting-shore",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-forecast-table",
+      "to": "sunplains-food",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Sunplains cuisine",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-forecast-table",
       "chip": "Uses",
       "chipBack": "Stories",
       "certainty": "possible",

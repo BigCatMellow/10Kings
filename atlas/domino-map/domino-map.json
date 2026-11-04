@@ -122,7 +122,11 @@
     {"id": "seed-prayer-list", "title": "The Prayer List", "kind": "seed", "plan": "Sunday-Morning/Stories/Story-Seeds.md", "on": "x-faiths", "touches": [], "when": "", "holds": "", "elsewhere": ""},
     {"id": "seed-river-blessing", "title": "The River Blessing", "kind": "seed", "plan": "Sunday-Morning/Stories/Story-Seeds.md", "on": "x-faiths", "touches": ["dw-road"], "when": "", "holds": "", "elsewhere": ""},
     {"id": "seed-forge-reawakening", "title": "Forge Reawakening", "kind": "seed", "plan": "Sunday-Morning/Stories/Story-Seeds.md", "on": "ic-labor", "touches": [], "when": "", "holds": "", "elsewhere": ""},
-    {"id": "seed-kitchen-court", "title": "The Kitchen Court", "kind": "seed", "plan": "Sunday-Morning/Stories/Story-Seeds.md", "on": "gv-reformers", "touches": [], "when": "", "holds": "", "elsewhere": ""}
+    {"id": "seed-kitchen-court", "title": "The Kitchen Court", "kind": "seed", "plan": "Sunday-Morning/Stories/Story-Seeds.md", "on": "gv-reformers", "touches": [], "when": "", "holds": "", "elsewhere": ""},
+    {"id": "seed-protected-goods", "title": "Protected Goods", "kind": "seed", "plan": "Sunday-Morning/Stories/Story-Seeds.md", "on": "hr-routes", "touches": ["sx-quake"], "when": "", "holds": "", "elsewhere": ""},
+    {"id": "seed-house-cook", "title": "The House Cook", "kind": "seed", "plan": "Sunday-Morning/Stories/Story-Seeds.md", "on": "x-council", "touches": [], "when": "", "holds": "", "elsewhere": ""},
+    {"id": "seed-turnout", "title": "The Turnout", "kind": "seed", "plan": "Sunday-Morning/Stories/Story-Seeds.md", "on": "x-amplify", "touches": ["ic-labor"], "when": "", "holds": "", "elsewhere": ""},
+    {"id": "seed-second-witness", "title": "Second Witness", "kind": "seed", "plan": "Sunday-Morning/Stories/Story-Seeds.md", "on": "x-proof", "touches": ["gv-abundance"], "when": "", "holds": "", "elsewhere": ""}
   ],
   "links": [
     {"a": "one-square", "b": "greenvale-man", "id": "C1", "note": "grain sacks stamped with both of the square's names"},

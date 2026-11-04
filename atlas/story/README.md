@@ -8,7 +8,7 @@ The main conflict, the current events and how they can ripple into each other, t
 
 Current events sit in their region's column (the cross-region ripple steps, the faiths' reading of the crises and the main-conflict cards in a Main conflict column). Each Sunday Morning story and seed sits in the column of its setting, with lines to its town or region, its festival, the events it sits on, its domino figure, its cast from Part 6, and the stories it shares a thread with. The ripple chain from Current Events is drawn step by step and marked possible.
 
-**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 69 story seeds; 368 connections (358 stated in the wiki, 10 inferred).
+**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 84 story seeds; 382 connections (372 stated in the wiki, 10 inferred).
 
 ## Gaps this part exposes
 
@@ -295,6 +295,20 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | The Retired Blade | would be set in | Seven Hill | stated, possible | “Seven Hill” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-retired-blade) |
 | The Midwife's Road | would use | Medicine and healing | stated, possible | “Medicine and Healing” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-midwifes-road) |
 | The Coat | would use | Clothing and material culture | stated, possible | “Clothing and Material Culture” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-coat) |
+| Assize Day | would use | Law and jurisdiction | stated, possible | “Law and Jurisdiction” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#assize-day) |
+| Protected Goods | would use | Trade guarantees | stated, possible | “trade guarantees” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#protected-goods) |
+| Protected Goods | would use | Route rules | stated, possible | “route rules” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#protected-goods) |
+| The Unharvested Grove | would use | The Ages of Silence | stated, possible | “Ages of Silence” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-unharvested-grove) |
+| The Unharvested Grove | would run up to | Canopy Vigil | stated, possible | “Canopy Vigil” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-unharvested-grove) |
+| The Charter Oath | would use | Port charter and watch | stated, possible | “neutrality” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-charter-oath) |
+| The Charter Oath | would use | The Port Seizure | stated, possible | “Port Seizure” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-charter-oath) |
+| The Charter Oath | would use | Port Seizure: some Northwind families | stated, possible | “Port Seizure” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-charter-oath) |
+| The Charter Oath | would use | Port Seizure: some Port families | stated, possible | “Port Seizure” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-charter-oath) |
+| The Charter Oath | would use | Port Seizure: some merchants | stated, possible | “Port Seizure” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-charter-oath) |
+| The Regulars | would use | Audience movements | stated, possible | “Audience Movements” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-regulars) |
+| The Honest Fence | would use | Port crime | stated, possible | “Port's” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-honest-fence) |
+| The Waiting Shore | would use | Northwind cuisine | stated, possible | “Northwind cuisine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-waiting-shore) |
+| The Forecast Table | would use | Sunplains cuisine | stated, possible | “Sunplains cuisine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-forecast-table) |
 
 ## Who appears where
 
@@ -718,6 +732,20 @@ flowchart LR
   seed_w_the_midwifes_road["The Midwife's Road"]
   seed_w_the_coat["The Coat"]
   systems_proposal_12["Clothing and material culture"]
+  seed_w_assize_day["Assize Day"]
+  systems_proposal_04["Law and jurisdiction"]
+  seed_w_protected_goods["Protected Goods"]
+  hi_prov_trade_guarantees["Trade guarantees"]
+  hi_prov_route_rules["Route rules"]
+  seed_w_the_unharvested_grove["The Unharvested Grove"]
+  hi_mem_silence["The Ages of Silence"]
+  seed_w_the_charter_oath["The Charter Oath"]
+  pw_gov_port["Port charter and watch"]
+  seed_w_the_regulars["The Regulars"]
+  systems_proposal_16["Audience movements"]
+  seed_w_the_honest_fence["The Honest Fence"]
+  seed_w_the_waiting_shore["The Waiting Shore"]
+  seed_w_the_forecast_table["The Forecast Table"]
   st_main --> pp_villain
   st_main --> pw_council
   st_main --> pp_wurdren
@@ -1076,6 +1104,20 @@ flowchart LR
   seed_w_the_retired_blade -.->|possible| sevenhill
   seed_w_the_midwifes_road -.->|possible| systems_proposal_15
   seed_w_the_coat -.->|possible| systems_proposal_12
+  seed_w_assize_day -.->|possible| systems_proposal_04
+  seed_w_protected_goods -.->|possible| hi_prov_trade_guarantees
+  seed_w_protected_goods -.->|possible| hi_prov_route_rules
+  seed_w_the_unharvested_grove -.->|possible| hi_mem_silence
+  seed_w_the_unharvested_grove -.->|possible| f_canopy_vigil
+  seed_w_the_charter_oath -.->|possible| pw_gov_port
+  seed_w_the_charter_oath -.->|possible| hi_mem_port_seizure
+  seed_w_the_charter_oath -.->|possible| hi_ver_seizure_northwind
+  seed_w_the_charter_oath -.->|possible| hi_ver_seizure_port
+  seed_w_the_charter_oath -.->|possible| hi_ver_seizure_merchants
+  seed_w_the_regulars -.->|possible| systems_proposal_16
+  seed_w_the_honest_fence -.->|possible| pw_crime_port
+  seed_w_the_waiting_shore -.->|possible| northwind_food
+  seed_w_the_forecast_table -.->|possible| sunplains_food
 ```
 
 ## Every thing in this part
@@ -1093,6 +1135,7 @@ Grouped by board column.
 | [The Greenvale Man](../../wiki/Sunday-Morning/Stories/The-Greenvale-Man.md#status) | Sunday Morning story, Year 1, late autumn | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The First Fish at Snowbreaker Quay](../../wiki/Sunday-Morning/Stories/The-First-Fish.md#status) | Sunday Morning story, Year 2, late spring | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [Under the Lights](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#under-the-lights) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Waiting Shore](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-waiting-shore) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Piracy rises**
 
@@ -1140,6 +1183,13 @@ Grouped by board column.
 - *Possible heart:* a promise doesn't need the sky's permission.
 - *Possible thread:* None: a world story, part of the world at large (D23).
 
+**The Waiting Shore**
+
+- *Kind:* World
+- *Premise:* A boat is overdue. After the set number of days, the shore store opens its rations to the family without anyone having to say the word dead. The eldest daughter refuses them, and keeps refusing, and the boat comes in.
+- *Possible heart:* a town can help you without asking you to give up.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
 ### Highridge Plateau
 
 | Thing | Kind | Status | Summary |
@@ -1159,6 +1209,9 @@ Grouped by board column.
 | [The Map With a Gap](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-map-with-a-gap) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Bridge Delay](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bridge-delay) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [How the News Came](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#how-the-news-came) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [Assize Day](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#assize-day) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [Toll Lords](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#toll-lords) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Turnout](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-turnout) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Caravan attacks**
 
@@ -1260,6 +1313,27 @@ Grouped by board column.
 - *Possible heart:* getting it right slowly beats getting it wrong first.
 - *Possible thread:* what people say about the big events gets "more specific, and sometimes more wrong" (The Long Road).
 
+**Assize Day**
+
+- *Kind:* World
+- *Premise:* The circuit judge comes once a year and has one day. The town has saved up twelve months of quarrels for her, and by noon she's worked out that most of them only want to be heard by somebody from outside.
+- *Possible heart:* being listened to settles more than being judged.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**Toll Lords**
+
+- *Kind:* World
+- *Premise:* The village children play toll lords in the old tower, charging each other pebbles to pass. An old man who remembers his grandfather's stories of the real ones gets drafted in to be the traveller, and plays it better than anyone wanted.
+- *Possible heart:* the past is a game until someone who knew it plays.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Turnout**
+
+- *Kind:* Domino
+- *Premise:* The word goes round that everybody's to turn out at the toll gate at noon. A woman goes because her friends are going, and spends the day finding out that nobody there knows who said noon.
+- *Possible heart:* you can be part of something and still keep your own reasons.
+- *Possible thread:* Audience Movements' action tradition, and the Villain who exploits legitimate grievances. She sees a crowd; nobody sees a hand.
+
 ### Deepwood
 
 | Thing | Kind | Status | Summary |
@@ -1271,6 +1345,7 @@ Grouped by board column.
 | [The Blank Square](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md#status) | Sunday Morning story, Year 2, early autumn | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [What the Elder Wrote](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-elder-wrote) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Ranger's Season](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-rangers-season) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Unharvested Grove](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-unharvested-grove) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Logging and road conflict**
 
@@ -1314,6 +1389,13 @@ Grouped by board column.
 - *Kind:* World
 - *Premise:* A forest ranger keeps finding tracks of an animal that has no business this far from the mountains. The village wants it gone; she wants to know why it came.
 - *Possible heart:* the strange thing is usually a lost thing.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Unharvested Grove**
+
+- *Kind:* World
+- *Premise:* One grove is never harvested, and hasn't been since the Ages of Silence. A child asks why, and gets three answers from three elders: a sickness, a war, a god. All three go and sit in it together.
+- *Possible heart:* a place can hold a memory nobody agrees about.
 - *Possible thread:* None: a world story, part of the world at large (D23).
 
 ### Ironcrest
@@ -1543,6 +1625,7 @@ Grouped by board column.
 | [The Rival Lamps](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-rival-lamps) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Slow Boat](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-slow-boat) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [Three Kingdoms](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#three-kingdoms) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Forecast Table](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-forecast-table) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Drought anxiety**
 
@@ -1591,6 +1674,13 @@ Grouped by board column.
 - *Possible heart:* you learn a craft by learning a place.
 - *Possible thread:* None: a world story, part of the world at large (D23).
 
+**The Forecast Table**
+
+- *Kind:* World
+- *Premise:* The growers sit down every spring to forecast the frost and spread their risk across each other's fields. The old woman who is always right says it'll come late. This year she's wrong, and the table works anyway.
+- *Possible heart:* a good system is one that survives its best member being wrong.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
 ### Port
 
 | Thing | Kind | Status | Summary |
@@ -1607,6 +1697,9 @@ Grouped by board column.
 | [The Seizure Warehouse](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-seizure-warehouse) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Quorum](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-quorum) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Tea Boy](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Charter Oath](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-charter-oath) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Regulars](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-regulars) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Honest Fence](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-honest-fence) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Merchant conflict**
 
@@ -1685,6 +1778,27 @@ Grouped by board column.
 - *Possible heart:* being overlooked is its own kind of freedom.
 - *Possible thread:* intelligence brokerage; what he overhears stays small.
 
+**The Charter Oath**
+
+- *Kind:* World
+- *Premise:* A dockworker's daughter takes the oath of Port's watch, the one that says no kingdom's soldier may police the city. Her grandmother came to Port as a soldier's widow and has opinions about the oath.
+- *Possible heart:* a city is what the people who guard it promise.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Regulars**
+
+- *Kind:* World
+- *Premise:* Every week the same crowd gathers to hear the same teller, and over the years they've become part of the story: who laughed at what, who once fell off a bench. A newcomer wants in, and the only way in is to be in the story.
+- *Possible heart:* belonging is being remembered in the telling.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Honest Fence**
+
+- *Kind:* World
+- *Premise:* A pawnbroker who never asks where anything came from is brought something he recognizes: a wedding cup he sold to the boy's grandparents forty years ago. For once he asks.
+- *Possible heart:* some things come back to the people who should have them.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
 ### Spine & Underpass
 
 | Thing | Kind | Status | Summary |
@@ -1700,6 +1814,7 @@ Grouped by board column.
 | [The Deep Door](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-deep-door) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [What the Pass Is Called](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-pass-is-called) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Crystal Grove](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-crystal-grove) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [Protected Goods](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#protected-goods) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Earthquake or land movement**
 
@@ -1780,6 +1895,13 @@ Grouped by board column.
 - *Possible heart:* holy is partly in how you look.
 - *Possible thread:* None: a world story, part of the world at large (D23).
 
+**Protected Goods**
+
+- *Kind:* Domino
+- *Premise:* The pass is closed for rockfall, and the toll keeper has turned everyone back for a week. Then a cart arrives carrying one of the kinds of goods the Convergence says must be let through, and the toll keeper has to decide what "let through" means when there's no road.
+- *Possible heart:* a promise is only as good as the person standing at the gate.
+- *Possible thread:* Convergence trade guarantees and route rules, and manipulated route closures; this closure is honest.
+
 ### Border towns
 
 | Thing | Kind | Status | Summary |
@@ -1795,6 +1917,8 @@ Grouped by board column.
 | [The Name on Both Walls](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Treaty Stone](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-treaty-stone) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Midwife's Road](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-midwifes-road) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Three Charters](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-three-charters) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Walk of Weaknesses](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-walk-of-weaknesses) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **One Square, Two Harvests**
 
@@ -1888,6 +2012,20 @@ Grouped by board column.
 - *Possible heart:* knowing when to call someone is a skill too.
 - *Possible thread:* None: a world story, part of the world at large (D23).
 
+**The Three Charters**
+
+- *Kind:* World
+- *Premise:* The market office keeps three old charters on the wall, from three powers that once claimed the market, and they disagree. The keeper of the wall has to tell two families which one their quarrel falls under, and the answer is that it falls under none of them.
+- *Possible heart:* a town is older than any of the papers that claim it.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Walk of Weaknesses**
+
+- *Kind:* World
+- *Premise:* In the hour before dark, the old wall-mender walks the learners along the retaining walls and makes them find what's about to fail. This year she can't climb the last wall, and one of them has to walk it for her.
+- *Possible heart:* you teach someone to see so they can go where you can't.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
 ### Main conflict
 
 | Thing | Kind | Status | Summary |
@@ -1955,6 +2093,9 @@ Grouped by board column.
 | [The Widow's Share](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-widows-share) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Retired Blade](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-retired-blade) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Coat](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-coat) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The House Cook](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-house-cook) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [Second Witness](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#second-witness) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [Mud Day](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#mud-day) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Muster Bell**
 
@@ -2059,5 +2200,26 @@ Grouped by board column.
 - *Kind:* World, or a Thread later
 - *Premise:* One good coat passes through four owners in a year (sold, lost, given, won at cards), and each owner alters it a little.
 - *Possible heart:* things carry the people who wore them.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The House Cook**
+
+- *Kind:* Domino
+- *Premise:* The cook in a great house feeds whoever comes to the back door: the master's visitors, the carriers, the clerks who stay late. She has never asked what the master does, and this season more people come, and they stay later, and they're hungrier.
+- *Possible heart:* a kitchen knows the weather of a house before the house does.
+- *Possible thread:* one of the Council's six houses, seen only from its kitchen. The Council never acts as a named body; the house is just a house.
+
+**Second Witness**
+
+- *Kind:* Domino
+- *Premise:* A rumor says the grain coming down the river is spoiled. The market pays for two witnesses from different trades to go and look, as it always does, and this year it's a baker and a ropemaker who can't stand each other.
+- *Possible heart:* the truth is easier to find with someone you'd never agree with.
+- *Possible thread:* a rumor of the kind the ripple chain feeds on, checked the slow way. The custom is the reference library's Second Witness Market.
+
+**Mud Day**
+
+- *Kind:* World
+- *Premise:* Every household owes the ditches its share of digging before the rains. The widower who can't dig anymore pays his share in childcare, and by noon he has eleven children and the ditches have never been dug faster.
+- *Possible heart:* everyone has something the town needs.
 - *Possible thread:* None: a world story, part of the world at large (D23).
 

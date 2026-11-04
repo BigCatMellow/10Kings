@@ -66,7 +66,7 @@ The brainstorm used the THINK pattern from bt 7274's [Pilot Projects](https://gi
 
 1. **Split the world into families** from the [World coverage](../../../atlas/coverage/Coverage.md) report and his examples: the Spine above and below, Seven Hill, Port, moving peoples, faiths and relics, remembered history, guilds, how life works.
 2. **Generate in each family** with a few different operations, so the seeds don't all come out the same shape: a point of view no story has used (perspective shift), the expected thing not happening (inversion), two parts of the world meeting (recombination), a season or scale moved (constraint shift).
-3. **Keep the families apart.** Forty-odd ideas came out; thirty-one were kept, and eleven guild seeds, twelve faith seeds and thirteen Season 2 seeds were added the same day because each works a different way. Near-duplicates were dropped, not averaged.
+3. **Keep the families apart.** Forty-odd ideas came out; thirty-one were kept, and eleven guild seeds, twelve faith seeds and thirteen Season 2 seeds and fifteen more for untouched parts of the world were added the same day because each works a different way. Near-duplicates were dropped, not averaged.
 4. **Judge separately** against the [Rules](../Notes/Rules.md) and the [Registry](../Notes/Registry.md#story-shapes) (the [table](#how-they-compare) below), then pick a few for different reasons rather than by one score ([picks](#picks)).
 
 Nothing in a seed is canon. Where a seed needs something the wiki doesn't have, its **Needs** line says so, and nothing is assumed.
@@ -856,6 +856,168 @@ Possible thread: what people say about the big events gets "more specific, and s
 
 - **Uses:** [rumor, verification and correction](../../Movement-and-Information.md#8-rumor-verification-and-correction), [scheduled carriage](../../Couriers-Posts-and-Message-Networks.md#scheduled-carriage).
 
+### Law and the old days
+
+*Added 2026-11-04 under [D24](../Notes/Decisions.md#the-authors-decisions): the parts of the world the [coverage](../../../atlas/coverage/Coverage.md) report showed nobody had touched.*
+
+#### Assize Day
+
+`WORLD` · *a small Highridge town · autumn*
+
+The circuit judge comes once a year and has one day. The town has saved up twelve months of quarrels for her, and by noon she's worked out that most of them only want to be heard by somebody from outside.
+
+Possible heart: being listened to settles more than being judged.
+
+- **Uses:** [Law and Jurisdiction](../../Law-and-Jurisdiction.md): [local and political authority](../../Law-and-Jurisdiction.md#3-jurisdiction-is-layered), and the cases its [subject-matter section](../../Law-and-Jurisdiction.md#4-the-subject-matter-helps-determine-the-forum) lists.
+- **Needs:** keep any goat out of it ([The Goat File](The-Goat-File.md)).
+
+#### The Three Charters
+
+`WORLD` · *a former border market · winter*
+
+The market office keeps three old charters on the wall, from three powers that once claimed the market, and they disagree. The keeper of the wall has to tell two families which one their quarrel falls under, and the answer is that it falls under none of them.
+
+Possible heart: a town is older than any of the papers that claim it.
+
+- **Uses:** the [Convergence](../../History/The-Convergence.md)'s [layered obligations](../../Law-and-Jurisdiction.md#convergence-obligations-are-layered), [Contested Memory](../../History/Contested-Memory.md); the custom is the reference library's [Three Winters of a Charter](../../Reference/Original-Cultural-Systems-Batch-2.md#7-the-three-winters-of-a-charter).
+- **Needs:** the charters must settle nothing ([Registry](../Notes/Registry.md#story-shapes): "an old document" is used).
+
+#### Protected Goods
+
+`DOMINO` · *a closed pass on the Spine · early spring*
+
+The pass is closed for rockfall, and the toll keeper has turned everyone back for a week. Then a cart arrives carrying one of the kinds of goods the Convergence says must be let through, and the toll keeper has to decide what "let through" means when there's no road.
+
+Possible heart: a promise is only as good as the person standing at the gate.
+
+Possible thread: Convergence [trade guarantees](../../History/The-Convergence.md#trade-guarantees) and [route rules](../../History/The-Convergence.md#route-rules), and [manipulated route closures](../../Regions/Highridge-Plateau.md#current-pressures); this closure is honest.
+
+#### Toll Lords
+
+`WORLD` · *a ruined toll tower above a Highridge road · summer*
+
+The village children play toll lords in the old tower, charging each other pebbles to pass. An old man who remembers his grandfather's stories of the real ones gets drafted in to be the traveller, and plays it better than anyone wanted.
+
+Possible heart: the past is a game until someone who knew it plays.
+
+- **Uses:** [Highridge before the Convergence](../../Regions/Highridge-Plateau.md#historical-identity): "pass lords", "toll towns", and "the historical shift from toll warfare toward negotiated passage".
+
+#### The Unharvested Grove
+
+`WORLD` · *a Deepwood village · Canopy Vigil, midsummer*
+
+One grove is never harvested, and hasn't been since the Ages of Silence. A child asks why, and gets three answers from three elders: a sickness, a war, a god. All three go and sit in it together.
+
+Possible heart: a place can hold a memory nobody agrees about.
+
+- **Uses:** the [Ages of Silence](../../Regions/Deepwood.md#historical-identity), "partly historical and partly religious", [Canopy Vigil](../../Culture/Festivals-and-Seasonal-Life.md#deepwood).
+- **Needs:** a child asking is fine; a child who sees what adults won't is [used twice](../Notes/Registry.md#devices-already-used). She just asks.
+
+### Who runs things
+
+#### The House Cook
+
+`DOMINO` (a Desk story) · *the kitchen of a great house · any season*
+
+The cook in a great house feeds whoever comes to the back door: the master's visitors, the carriers, the clerks who stay late. She has never asked what the master does, and this season more people come, and they stay later, and they're hungrier.
+
+Possible heart: a kitchen knows the weather of a house before the house does.
+
+Possible thread: one of the [Council's six houses](../../Politics/Economic-Council.md#the-six-houses), seen only from its kitchen. The Council never acts as a named body; the house is just a house.
+
+#### The Charter Oath
+
+`WORLD` · *Port · Tide Return, early spring*
+
+A dockworker's daughter takes the oath of Port's watch, the one that says no kingdom's soldier may police the city. Her grandmother came to Port as a soldier's widow and has opinions about the oath.
+
+Possible heart: a city is what the people who guard it promise.
+
+- **Uses:** Port's [neutrality](../../Places/Port.md#neutrality) and [charter and watch](../../Places/Port.md#governance-and-protection), the [Port Seizure](../../History/Contested-Memory.md#the-port-seizure) as family memory.
+
+#### The Regulars
+
+`WORLD` · *a Port tavern · winter*
+
+Every week the same crowd gathers to hear the same teller, and over the years they've become part of the story: who laughed at what, who once fell off a bench. A newcomer wants in, and the only way in is to be in the story.
+
+Possible heart: belonging is being remembered in the telling.
+
+- **Uses:** [Audience Movements](../../Culture/Audience-Movements.md)' "memory and belonging" tradition, where "participation itself creates mythology". No founder, name or date from that page is used.
+
+#### The Turnout
+
+`DOMINO` · *a toll town on the plateau · summer*
+
+The word goes round that everybody's to turn out at the toll gate at noon. A woman goes because her friends are going, and spends the day finding out that nobody there knows who said noon.
+
+Possible heart: you can be part of something and still keep your own reasons.
+
+Possible thread: Audience Movements' action tradition, and the Villain who [exploits legitimate grievances](../../Politics/Guilds.md#guild-interaction-with-the-villain). She sees a crowd; nobody sees a hand.
+
+#### The Honest Fence
+
+`WORLD` · *a Port pawnshop · any season*
+
+A pawnbroker who never asks where anything came from is brought something he recognizes: a wedding cup he sold to the boy's grandparents forty years ago. For once he asks.
+
+Possible heart: some things come back to the people who should have them.
+
+- **Uses:** [Port crime](../../Politics/Crime-and-Underworld.md#port) and [Port's](../../Places/Port.md#crime) "fencing stolen goods", kept small: nobody is harmed and nobody is caught on the page.
+
+### Ways of getting by
+
+#### Second Witness
+
+`DOMINO` · *a market at a river crossing · late summer*
+
+A rumor says the grain coming down the river is spoiled. The market pays for two witnesses from different trades to go and look, as it always does, and this year it's a baker and a ropemaker who can't stand each other.
+
+Possible heart: the truth is easier to find with someone you'd never agree with.
+
+Possible thread: a [rumor](../../Movement-and-Information.md#8-rumor-verification-and-correction) of the kind the [ripple chain](../../Story/Current-Events.md#example-ripple-chain) feeds on, checked the slow way. The custom is the reference library's [Second Witness Market](../../Reference/Original-Cultural-Systems-Batch-2.md#1-the-second-witness-market).
+
+#### The Waiting Shore
+
+`WORLD` · *a Northwind fishing town · late autumn*
+
+A boat is overdue. After the set number of days, the shore store opens its rations to the family without anyone having to say the word dead. The eldest daughter refuses them, and keeps refusing, and the boat comes in.
+
+Possible heart: a town can help you without asking you to give up.
+
+- **Uses:** the reference library's [Waiting-Shore Society](../../Reference/Original-Cultural-Systems-Batch-2.md#3-the-waiting-shore-society), [Northwind cuisine](../../Culture/Food.md#northwind).
+- **Needs:** the boat comes back; nobody dies.
+
+#### The Forecast Table
+
+`WORLD` · *a Sunplains orchard district · early spring*
+
+The growers sit down every spring to forecast the frost and spread their risk across each other's fields. The old woman who is always right says it'll come late. This year she's wrong, and the table works anyway.
+
+Possible heart: a good system is one that survives its best member being wrong.
+
+- **Uses:** the reference library's [Orchard Forecast Table](../../Reference/Original-Cultural-Systems-Batch-2.md#8-the-orchard-forecast-table), [Sunplains cuisine](../../Culture/Food.md#sunplains).
+
+#### The Walk of Weaknesses
+
+`WORLD` · *a foothill hamlet between Ironcrest and Highridge · autumn*
+
+In the hour before dark, the old wall-mender walks the learners along the retaining walls and makes them find what's about to fail. This year she can't climb the last wall, and one of them has to walk it for her.
+
+Possible heart: you teach someone to see so they can go where you can't.
+
+- **Uses:** the reference library's [Last-Light Apprentices](../../Reference/Original-Culture-Generation-Method.md#prototype-b--the-last-light-apprentices), and the [casebook](../../Reference/Community-Institution-Casebook.md#6-dry-stone-construction--infrastructure-as-social-apprenticeship)'s dry-stone walls.
+
+#### Mud Day
+
+`WORLD` · *a flood-prone lowland village · before the rains*
+
+Every household owes the ditches its share of digging before the rains. The widower who can't dig anymore pays his share in childcare, and by noon he has eleven children and the ditches have never been dug faster.
+
+Possible heart: everyone has something the town needs.
+
+- **Uses:** the reference library's [Mud-Day Debt](../../Reference/Original-Cultural-Systems-Batch-2.md#2-the-mud-day-debt).
+
 ### How they compare
 
 Judged one at a time against the [Rules](../Notes/Rules.md) and the [Registry](../Notes/Registry.md#story-shapes). **New to the world** is what the [coverage](../../../atlas/coverage/Coverage.md) report lists as unused that the seed would use. **New lore** is what bt 7274 would have to decide first.
@@ -926,6 +1088,21 @@ Judged one at a time against the [Rules](../Notes/Rules.md) and the [Registry](.
 | The Bridge Delay | Domino | builders' guilds | none | a wedding, new |
 | The Tea Boy | Domino | the spy guilds | none now (D24) | being overlooked, new |
 | The Retired Blade | World | the fighters' guild | none now (D24) | restraint, new |
+| Assize Day | World | law | none | being heard, new |
+| The Three Charters | World | Convergence obligations | none | must avoid "an old document" |
+| Protected Goods | Domino | trade guarantees, route rules | none | a promise kept at a gate, new |
+| Toll Lords | World | Highridge before the Convergence | none | a game played true, new |
+| The Unharvested Grove | World | the Ages of Silence | none | three memories sharing a place, new |
+| The House Cook | Domino (Desk) | the Council houses | none | a kitchen's knowing, new |
+| The Charter Oath | World | Port's charter and watch | none | an oath taken, new |
+| The Regulars | World | audience movements | none | being remembered, new |
+| The Turnout | Domino | audience movements | none | a crowd left with her own reasons, new |
+| The Honest Fence | World | Port crime | none | a thing returned, new |
+| Second Witness | Domino | rumor and verification | none | two enemies agreeing, new |
+| The Waiting Shore | World | mutual aid | none | a refusal, new |
+| The Forecast Table | World | shared risk | none | a system that survives, new |
+| The Walk of Weaknesses | World | dry-stone apprenticeship | none | a walk taken for someone, new |
+| Mud Day | World | common work | none | a contribution found, new |
 | The Midwife's Road | World | medicine | none | a birth, new |
 | The Coat | World or Thread | clothing | none | a chain of hands, new |
 | How the News Came | Domino | couriers, rumor | none | a correction (used twice) |
@@ -960,7 +1137,8 @@ How the stories are made doesn't change. Each picked seed runs the [pipeline](..
 1. **bt 7274 picks** which seeds go forward, and answers the [questions](#questions-for-bt-7274) for any seed that needs them.
 2. **Test story first:** lean, Mending Day, because it tests the new thing (a story with no thread) and needs no new lore. Its cold read checks one extra question: does it feel like part of the same book?
 3. **Season 2's mix** ([D24](../Notes/Decisions.md#the-authors-decisions)): about half World and half Domino. The Domino half comes mostly from [the main story, Season 2](#the-main-story-season-2), with Wurdren in two or three of them (lean: The Same Paper early, Small Jobs in the middle, Very Nearly last).
-4. **After drafting,** rerun the [coverage](../../../atlas/coverage/Coverage.md) report to see what the season added.
+4. **A dish for each story.** Fifty-eight named dishes are unused ([coverage](../../../atlas/coverage/Coverage.md#food)). When a seed is planned, Stage 0 picks its meal from the unused dishes of its region first.
+5. **After drafting,** rerun the [coverage](../../../atlas/coverage/Coverage.md) report to see what the season added.
 
 ### Questions for bt 7274
 

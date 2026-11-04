@@ -11,11 +11,11 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 | Regions and Geography | 22 of 27 | 5 | 2 |
 | Culture | 40 of 57 | 17 | 6 |
 | Food | 15 of 73 | 58 | 5 |
-| Power | 8 of 48 | 40 | 11 |
-| History | 13 of 41 | 28 | 14 |
+| Power | 8 of 48 | 40 | 12 |
+| History | 13 of 41 | 28 | 17 |
 | People | 8 of 12 | 4 | 3 |
 | The story layer | 32 of 34 | 2 | 2 |
-| Recovered structural systems | 9 of 17 | 8 | 3 |
+| Recovered structural systems | 9 of 17 | 8 | 4 |
 
 ## Regions and Geography
 
@@ -63,7 +63,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### Cuisine
 
-**Not yet in any story:** [Ironcrest cuisine](../../wiki/Culture/Food.md#ironcrest) *(seeded: Forge Reawakening)*, [Northwind cuisine](../../wiki/Culture/Food.md#northwind) *(seeded: Under the Lights)*, [Greenvale cuisine](../../wiki/Culture/Food.md#greenvale), [Highridge cuisine](../../wiki/Culture/Food.md#highridge) *(seeded: One Hall, The Bridge Delay)*, [Deepwood cuisine](../../wiki/Culture/Food.md#deepwood), [Sunplains cuisine](../../wiki/Culture/Food.md#sunplains) *(seeded: The Slow Boat)*, [Port cuisine](../../wiki/Culture/Food.md#port) *(seeded: Lean Vigil)*, [Border cuisine](../../wiki/Culture/Food.md#border-cuisine).
+**Not yet in any story:** [Ironcrest cuisine](../../wiki/Culture/Food.md#ironcrest) *(seeded: Forge Reawakening)*, [Northwind cuisine](../../wiki/Culture/Food.md#northwind) *(seeded: The Waiting Shore, Under the Lights)*, [Greenvale cuisine](../../wiki/Culture/Food.md#greenvale), [Highridge cuisine](../../wiki/Culture/Food.md#highridge) *(seeded: One Hall, The Bridge Delay)*, [Deepwood cuisine](../../wiki/Culture/Food.md#deepwood), [Sunplains cuisine](../../wiki/Culture/Food.md#sunplains) *(seeded: The Forecast Table, The Slow Boat)*, [Port cuisine](../../wiki/Culture/Food.md#port) *(seeded: Lean Vigil)*, [Border cuisine](../../wiki/Culture/Food.md#border-cuisine).
 
 ### Dishes
 
@@ -88,7 +88,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### Government
 
-**Not yet in any story:** [Ironcrest government](../../wiki/Politics/Kingdoms-and-Politics.md#ironcrest), [Northwind government](../../wiki/Politics/Kingdoms-and-Politics.md#northwind), [Greenvale government](../../wiki/Politics/Kingdoms-and-Politics.md#greenvale), [Deepwood government](../../wiki/Politics/Kingdoms-and-Politics.md#deepwood), [Sunplains governments](../../wiki/Politics/Kingdoms-and-Politics.md#sunplains), [Port charter and watch](../../wiki/Places/Port.md#neutrality), [Underpass authority](../../wiki/Places/The-Underpass.md#politics).
+**Not yet in any story:** [Ironcrest government](../../wiki/Politics/Kingdoms-and-Politics.md#ironcrest), [Northwind government](../../wiki/Politics/Kingdoms-and-Politics.md#northwind), [Greenvale government](../../wiki/Politics/Kingdoms-and-Politics.md#greenvale), [Deepwood government](../../wiki/Politics/Kingdoms-and-Politics.md#deepwood), [Sunplains governments](../../wiki/Politics/Kingdoms-and-Politics.md#sunplains), [Port charter and watch](../../wiki/Places/Port.md#neutrality) *(seeded: The Charter Oath)*, [Underpass authority](../../wiki/Places/The-Underpass.md#politics).
 
 **Used:** Highridge government (The Goat File).
 
@@ -106,7 +106,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### Crime
 
-**Not yet in any story:** [Ironcrest crime](../../wiki/Politics/Crime-and-Underworld.md#ironcrest), [Northwind crime](../../wiki/Politics/Crime-and-Underworld.md#northwind), [Greenvale crime](../../wiki/Politics/Crime-and-Underworld.md#greenvale), [Highridge crime](../../wiki/Politics/Crime-and-Underworld.md#highridge), [Deepwood crime](../../wiki/Politics/Crime-and-Underworld.md#deepwood), [Sunplains crime](../../wiki/Politics/Crime-and-Underworld.md#sunplains), [Port crime](../../wiki/Places/Port.md#crime) *(seeded: The Tea Boy)*, [Underpass crime](../../wiki/Places/The-Underpass.md#politics).
+**Not yet in any story:** [Ironcrest crime](../../wiki/Politics/Crime-and-Underworld.md#ironcrest), [Northwind crime](../../wiki/Politics/Crime-and-Underworld.md#northwind), [Greenvale crime](../../wiki/Politics/Crime-and-Underworld.md#greenvale), [Highridge crime](../../wiki/Politics/Crime-and-Underworld.md#highridge), [Deepwood crime](../../wiki/Politics/Crime-and-Underworld.md#deepwood), [Sunplains crime](../../wiki/Politics/Crime-and-Underworld.md#sunplains), [Port crime](../../wiki/Places/Port.md#crime) *(seeded: The Honest Fence, The Tea Boy)*, [Underpass crime](../../wiki/Places/The-Underpass.md#politics).
 
 ### Arms
 
@@ -127,17 +127,17 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### The Convergence
 
-**Not yet in any story:** [The Convergence](../../wiki/History/The-Convergence.md#the-convergence), [Border recognition](../../wiki/History/The-Convergence.md#border-recognition) *(seeded: The Treaty Stone)*, [Trade guarantees](../../wiki/History/The-Convergence.md#trade-guarantees), [Route rules](../../wiki/History/The-Convergence.md#route-rules), [Maritime rules](../../wiki/History/The-Convergence.md#maritime-rules), [Arbitration](../../wiki/History/The-Convergence.md#arbitration) *(seeded: The Treaty Stone)*, [Neutral Port](../../wiki/History/The-Convergence.md#neutral-port), [The Council's rise](../../wiki/History/The-Convergence.md#the-council-and-the-convergence).
+**Not yet in any story:** [The Convergence](../../wiki/History/The-Convergence.md#the-convergence), [Border recognition](../../wiki/History/The-Convergence.md#border-recognition) *(seeded: The Treaty Stone)*, [Trade guarantees](../../wiki/History/The-Convergence.md#trade-guarantees) *(seeded: Protected Goods)*, [Route rules](../../wiki/History/The-Convergence.md#route-rules) *(seeded: Protected Goods)*, [Maritime rules](../../wiki/History/The-Convergence.md#maritime-rules), [Arbitration](../../wiki/History/The-Convergence.md#arbitration) *(seeded: The Treaty Stone)*, [Neutral Port](../../wiki/History/The-Convergence.md#neutral-port), [The Council's rise](../../wiki/History/The-Convergence.md#the-council-and-the-convergence).
 
 ### Contested memory
 
-**Not yet in any story:** [The Ember Wars / The Burning Years](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [The Salted Coast Disputes](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them, The Patrol Boat)*, [The Port Seizure](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Seizure Warehouse)*, [Port Seizure: some merchants](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Seizure Warehouse)*.
+**Not yet in any story:** [The Ember Wars / The Burning Years](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [The Salted Coast Disputes](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them, The Patrol Boat)*, [The Port Seizure](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Charter Oath, The Seizure Warehouse)*, [Port Seizure: some merchants](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Charter Oath, The Seizure Warehouse)*.
 
 **Used:** The Timber Tithes / Deepwood closure traditions (The Tree With a Debt); Timber Tithes: outsider traditions (The Tree With a Debt).
 
 ### Memory
 
-**Not yet in any story:** [The Ages of Silence](../../wiki/Regions/Deepwood.md#historical-identity), [Ember Wars: Greenvale folk memory](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [Ember Wars: Ironcrest patriotic memory](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [Ember Wars: border memory](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [Salted Coast: Northwind songs](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them, The Patrol Boat)*, [Salted Coast: Sunplains stories](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them, The Patrol Boat)*, [Salted Coast: Port traditions](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them, The Patrol Boat)*, [Port Seizure: some Northwind families](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Seizure Warehouse)*, [Port Seizure: some Port families](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Seizure Warehouse)*.
+**Not yet in any story:** [The Ages of Silence](../../wiki/Regions/Deepwood.md#historical-identity) *(seeded: The Unharvested Grove)*, [Ember Wars: Greenvale folk memory](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [Ember Wars: Ironcrest patriotic memory](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [Ember Wars: border memory](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [Salted Coast: Northwind songs](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them, The Patrol Boat)*, [Salted Coast: Sunplains stories](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them, The Patrol Boat)*, [Salted Coast: Port traditions](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them, The Patrol Boat)*, [Port Seizure: some Northwind families](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Charter Oath, The Seizure Warehouse)*, [Port Seizure: some Port families](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Charter Oath, The Seizure Warehouse)*.
 
 **Used:** The Seven-year Blight (The Eighth Verse); Timber Tithes: Deepwood memory (The Tree With a Debt).
 
@@ -174,6 +174,6 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### Proposals
 
-**Not yet in any story:** [World system](../../wiki/World-System.md), [Social fabric](../../wiki/Social-Fabric.md), [Movement and information](../../wiki/Movement-and-Information.md), [Education](../../wiki/Education-and-Knowledge-Transmission.md) *(seeded: The Last Argument, The Pillar)*, [Clothing and material culture](../../wiki/Culture/Clothing-and-Material-Culture.md) *(seeded: The Coat)*, [Medicine and healing](../../wiki/Medicine-and-Healing.md) *(seeded: The Apothecary's Test, The Midwife's Road, The Yellow Flag)*, [Audience movements](../../wiki/Culture/Audience-Movements.md), [Three Moons Festival](../../wiki/Culture/Three-Moons-Festival.md).
+**Not yet in any story:** [World system](../../wiki/World-System.md), [Social fabric](../../wiki/Social-Fabric.md), [Movement and information](../../wiki/Movement-and-Information.md), [Education](../../wiki/Education-and-Knowledge-Transmission.md) *(seeded: The Last Argument, The Pillar)*, [Clothing and material culture](../../wiki/Culture/Clothing-and-Material-Culture.md) *(seeded: The Coat)*, [Medicine and healing](../../wiki/Medicine-and-Healing.md) *(seeded: The Apothecary's Test, The Midwife's Road, The Yellow Flag)*, [Audience movements](../../wiki/Culture/Audience-Movements.md) *(seeded: The Regulars)*, [Three Moons Festival](../../wiki/Culture/Three-Moons-Festival.md).
 
 **Used:** Law and jurisdiction (The First Fish at Snowbreaker Quay); Calendar and timekeeping (The First Fish at Snowbreaker Quay, The Ladder Rules, The Mushrooms From Nowhere, The Road in Use, Walkout Pies); Language families and contact (The Road in Use); Money, credit and measures (The First Fish at Snowbreaker Quay, The Ladder Rules, Walkout Pies); Records and authentication (The Blank Square, The Eighth Verse, The Mushrooms From Nowhere); Couriers and messages (The Blank Square, The Mushrooms From Nowhere); Arts and leisure (The Eighth Verse, Walkout Pies); Daily life and customs (Walkout Pies); Folk beliefs and taboos (The First Fish at Snowbreaker Quay, The Ladder Rules, Walkout Pies).

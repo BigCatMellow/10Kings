@@ -19,7 +19,7 @@ The whole setting on one board. Group it by region or by kind, show one part or 
 | 4. Power | Power | 54 | 51 | [power](../power/README.md) |
 | 5. History | History | 43 | 34 | [history](../history/README.md) |
 | 6. People | People | 88 | 53 | [people](../people/README.md) |
-| 7. The story layer | Story | 119 | 368 | [story](../story/README.md) |
+| 7. The story layer | Story | 134 | 382 | [story](../story/README.md) |
 | 8. Open questions | Questions | 32 | 35 | [questions](../questions/README.md) |
 | 9. Foundations | Foundations | 32 | 30 | [foundations](../foundations/README.md) |
 | 10. Recovered structural systems | Systems | 17 | 17 | [systems](../systems/README.md) |
@@ -55,7 +55,7 @@ Every card of a kind shows the same rows and facts in the same order, set by eac
 | Overview | Council *(when present)*, Government *(when present)*, Faiths *(when present)*, Relics *(when present)*, Ended in *(when present)*, Left behind *(when present)*, Main cast *(when present)*, Forces *(when present)*, Open questions *(when present)*, World rule *(when present)*, Claims *(when present)*, Provisional systems *(when present)* | Principle, Scope, Council *(when present)*, Villain *(when present)*, Wurdren *(when present)*, Main conflict *(when present)*, Rule *(when present)*, Open questions *(when present)*, Why it ended *(when present)*, Traces *(when present)*, Escalation *(when present)*, Ending *(when present)*, Question *(when present)*, Themes *(when present)*, What guilds want *(when present)*, How it works *(when present)*, Writing rule *(when present)* |
 | Faith | Council, Guilds *(when present)*, Underworld *(when present)*, Main cast *(when present)*, Sunday Morning cast *(when present)*, Current events *(when present)*, Stories *(when present)* | Core, Interests, Current scheme |
 | Guild | Government, Council, Domino figures *(when present)*, Stories *(when present)* | Type, At issue, Note *(when present)* |
-| Government | Council involvement, Council seats, Guilds *(when present)*, History *(when present)*, Domino figures *(when present)*, Provisional figures *(when present)*, Open questions *(when present)* | Shape, Power held by *(when present)*, Political fights, Current pressures, Note *(when present)* |
+| Government | Council involvement, Council seats, Guilds *(when present)*, History *(when present)*, Domino figures *(when present)*, Provisional figures *(when present)*, Stories *(when present)*, Open questions *(when present)* | Shape, Power held by *(when present)*, Political fights, Current pressures, Note *(when present)* |
 | Crime | Could ally with *(when present)*, Stories *(when present)* | Opportunities, On the ground now *(when present)*, Note *(when present)* |
 | Arms and elite troops | — | Everyday arms, Elite direction, Stands out by *(when present)*, Why *(when present)*, Note *(when present)* |
 | Origins | — | How it happened, Early advantages *(when present)* |
