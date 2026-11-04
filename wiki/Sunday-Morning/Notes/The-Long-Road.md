@@ -68,6 +68,24 @@ No route, no fixed plan ([D20](Decisions.md#the-authors-decisions)). These are t
 
 The last season raises one question for later: how a public revelation is told when nobody in a story may see the pattern. *Lean:* once the Council's existence is public news, people react to it the way they react to any news. They're hearing it, not working it out, so D2 holds. That's for bt 7274 when Season 5 is near.
 
+## Using the world
+
+*bt 7274, 2026-11-04 ([D22](Decisions.md#the-authors-decisions)): "Theres also a lot in the world too that needs to be touched on, The Underpass for example".*
+
+Season 1 lived mostly in towns, harvests, guild halls and markets. The [World coverage](../../../atlas/coverage/Coverage.md) report, generated from the Atlas, shows how much of the setting no story has used yet. A season's research starts there and at the [Domino Map](../../../atlas/domino-map/Domino-Map.md). The biggest seams, as of Season 1:
+
+- **The Convergence and the remembered wars.** No story has touched the history: the Convergence's route rules, border recognition, trade guarantees and arbitration; neutral Port and how it became central; the Ember Wars, the Salted Coast Disputes, the Port Seizure and the Ages of Silence, each remembered differently by different peoples. These suit everyday fantasy well: an old treaty stone that still decides a toll, a war song two villages sing with different villains, a grudge older than anyone's grandmother.
+- **The Underpass from the inside.** The Mushrooms From Nowhere came up the stair. Nothing yet happens below: enclave authority, guide families, its crime and its militias, and the wiki's three Underpass figures (Mira Stonebridge, Gharic Coalveil, Ilya Dravencrest). They can appear as ordinary people, the same as the domino figures.
+- **Five of the nine faiths:** the Cyclic Order, the Radiant Path, the Eternal Forge, the Harmonious Path and the Dual Flame. Relics belong to faiths and communities, so a relic's keeping is a faith story too ([Magic](../../Magic.md#relics)).
+- **Governments, guilds and the shadier trades:** the regional governments, Port's charter and watch, the navigators', caravan and builders' guilds, and the warrior, assassin and spy guilds. A spy guild's tea-boy is a Desk story waiting.
+- **Peoples and customs:** nomads and itinerant peoples (circuits that are calendars in motion), Port's own culture, Aurora Nights, cross-regional marriage, what people avoid saying openly, how names work.
+- **How life works:** medicine and healing, schooling, clothing, how news travels.
+- **Food:** most of the named dishes and every regional cuisine page. That's the easiest texture of all.
+
+The report counts a thing as used only when a story's plan or draft links to it, so a story that uses something should link its owner section in the story page's World anchors.
+
+**The fantasy is everyday** ([Rules](Rules.md#the-strange-is-ordinary)). Nobody in these places finds them strange, and nothing is explained unless the point-of-view character would think it ([Craft §1](Craft.md#1-write-it-like-its-the-sequel-carries-over)). Magic stays as ruled: real but deniable, never confirmed, never load-bearing.
+
 ## Kinds of story
 
 These are tools, not a format. The mix can shift as the seasons go.
@@ -110,4 +128,4 @@ Each waits until a season needs it.
 
 - [Collection](Collection.md) gains a section per season (reading order with expected reader state, ledger, threads), with Season 1 as it stands.
 - The [Pipeline](Pipeline.md) doesn't change: each story runs Stage 0 to RECONCILE, test story first.
-- A season's research starts from the [Domino Map](../../../atlas/domino-map/Domino-Map.md) and this page's planted threads.
+- A season's research starts from the [World coverage](../../../atlas/coverage/Coverage.md) report, the [Domino Map](../../../atlas/domino-map/Domino-Map.md) and this page's planted threads.

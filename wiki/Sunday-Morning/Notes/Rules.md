@@ -60,6 +60,15 @@ Each story page owns its own Larger-world thread. The cross-story view (calendar
 
 A detail invented for a story (a town, a dish, a custom, a character) does **not** become setting canon by appearing in a story or a draft. If it should graduate, promote it into its owner page (for example [Border Towns](../../Places/Border-Towns.md) or [Festivals and Seasonal Life](../../Culture/Festivals-and-Seasonal-Life.md)) with an explicit status, and link back.
 
+## The strange is ordinary
+
+*Set 2026-11-04 by bt 7274 ([D22](Decisions.md#the-authors-decisions)).* Two Sons is low fantasy, and the fantasy is part of everyday life. "Not everything will need to be slice of life farmers, there can be some fantasy to it, presented as every day life to the reader."
+
+- **The fantasy is the world itself, lived in.** Underpass junctions where people are born, trade and die without ever seeing the sky. Relics on a shrine shelf that a village swears its contracts on. Convergence-era route stones and treaty clauses that still decide who may pass. Nomad circuits that are calendars in motion. Nine faiths with their own ways of keeping time, records and silence. Animals rare and strange enough that people tell tall tales about them. None of it is remarkable to the people living with it.
+- **Magic stays as ruled** ([Magic](../../Magic.md), the author's 2026-09-29 decision): real but deniable, small and moral, never confirmed by the narration, never load-bearing. A relic can be in the room, believed in, sworn on, doubted, stolen or faked. The story just never says it worked.
+- **Reach past farms and markets.** Season 1 lived mostly in towns, harvests and guild halls. Each season should also set stories in the stranger parts of the world: inside the Underpass, on a nomad circuit, at a relic's keeping, in a faith's house, among the remembered wars. The [World coverage](../../../atlas/coverage/Coverage.md) report shows what the world has that no story has used yet.
+- **Write it like the sequel** ([Craft §1](Craft.md#1-write-it-like-its-the-sequel-carries-over)). People know how their world works. Nothing is explained unless the point-of-view character would think it, in that moment, for their own reasons.
+
 ## Wurdren in Sunday Morning stories
 
 Wurdren can headline a Sunday Morning story; his arc already moves toward small situations. Keep the canonical constraints:
