@@ -358,3 +358,9 @@ This is a **preservation and disposition record**, not a claim that every older 
 ## 2026-11-04 legacy lookup for the world seeds
 
 bt 7274 asked for the [world seeds](../Sunday-Morning/Stories/Story-Seeds.md#questions-for-bt-7274)' open questions to be checked against the legacy notes. What they hold was added, as non-canon evidence, to the owners: [The Spine](../Places/The-Spine.md#what-the-legacy-notes-say) (the legacy *Overpass*), [Seven Hill](../Places/Seven-Hill.md#what-the-legacy-notes-say) (nothing found), [Nomads](../Culture/Nomads.md#names-in-the-legacy-notes) (the Ridge-Roamers and other named bands) and [Guilds](../Politics/Guilds.md#armed-and-clandestine-organizations) (the legacy forms of the armed and clandestine guilds). Nothing was promoted.
+
+### 8. Nomadic peoples conversation recovery (2026-11-04)
+
+**Source:** Recovered ChatGPT conversation summaries and already-preserved Volume 04, Part 3 (`Nomads_-_Types.md`, `Nomads_-_Appalachian.md`, `Nomad_-_Combined_Cultures.md`).
+
+**Disposition:** **Reference only / partial recovery / duplicate originals already preserved.** The [Nomadic Peoples — Recovered Research Index](Nomadic-Peoples-Recovered-Research.md) catalogues seven existing detailed real-world profiles, additional named research leads from older conversations, and the historical fictional groups. It distinguishes preserved original sections from incomplete conversation summaries; no missing transcripts were reconstructed, no duplicate legacy source package was added, and no historical name was promoted to canon. [Nomads](../Culture/Nomads.md) remains the owner of fictional mobile societies.
