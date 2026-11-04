@@ -84,3 +84,7 @@ Wurdren could plausibly know them better than elite characters because adventure
 - turn Appalachian influence into caricatured spelling or "hillbilly" behavior;
 - make all mobile groups ethnically identical;
 - assume mobility means lack of attachment to place.
+
+## Recovered real-world research
+
+The [Nomadic Peoples — Recovered Research Index](../Reference/Nomadic-Peoples-Recovered-Research.md) catalogs the peoples and historical conversations surfaced in the 2024–2026 research, with evidence labels and links to the full existing legacy sources. It is **non-canon reference**, not a source of approved cultures or historical claims. The present page remains the owner of Two Sons mobile peoples.
