@@ -110,6 +110,10 @@ Seeking long contracts and legal control over standards.
 
 Their delays can become political weapons even when caused by ordinary disputes.
 
+## Named guilds in the legacy notes
+
+Not canon. The legacy notes ([Volume 08, Part 3](../../legacy-notes/2026-09-22/consolidated-package/08_Power_The_Council_Guilds_Underworld.md#src-guilds-economics)) name a roster, each with leaders, ranks and customs: the Ironheart Founders' Guild (metal and arms), the Seven Seas Mercantile Guild (trade, shipping and credit), the Masoncraft Builders' Guild, the Harvestkeepers Collective (farming and food supply), the Apothic Circle (medicine), the Artisan Fellowship, the Bardic Circle, the Guards and Sentinels, the Ranger and Hunters' Guild, the Adventurers' Guild, the Merchant Consortium and scribe and notary guilds, besides the armed and clandestine guilds above. It also has a Collegium Arcanum, which the [Magic](../Magic.md) ruling rules out, and patron gods for guilds, which the [nine faiths](Religions.md) replace. Whether the rest comes in is open for bt 7274 ([Story Seeds, question 5](../Sunday-Morning/Stories/Story-Seeds.md#questions-for-bt-7274)).
+
 ## Guild interaction with the Council
 
 The Council does not "own the guilds."

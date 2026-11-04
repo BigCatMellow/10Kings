@@ -84,7 +84,7 @@ Season 1 lived mostly in towns, harvests, guild halls and markets. The [World co
 
 The report counts a thing as used only when a story's plan or draft links to it, so it undercounts a little.
 
-bt 7274 added more on the same day: "not every story has to progress the storys dominos or main plot, some can just be part of the world at large" ([D23](Decisions.md#the-authors-decisions)). Those are [world stories](Rules.md#world-stories). His examples, and thirty-odd seeds that use these seams, are on [Story Seeds](../Stories/Story-Seeds.md#world-seeds-2026-11-04), including two places he named that day: [Seven Hill](../../Places/Seven-Hill.md) and the [Overpath](../../Places/The-Spine.md#the-overpath).
+bt 7274 added more on the same day: "not every story has to progress the storys dominos or main plot, some can just be part of the world at large" ([D23](Decisions.md#the-authors-decisions)). Those are [world stories](Rules.md#world-stories). His examples, and forty-odd seeds that use these seams (guilds among them), are on [Story Seeds](../Stories/Story-Seeds.md#world-seeds-2026-11-04), including two places he named that day: [Seven Hill](../../Places/Seven-Hill.md) and the [Overpath](../../Places/The-Spine.md#the-overpath).
 
 **The fantasy is everyday** ([Rules](Rules.md#the-strange-is-ordinary)), told the way the stories already tell everything, as [Craft §1](Craft.md#1-write-it-like-its-the-sequel-carries-over) has it. Magic stays as ruled.
 

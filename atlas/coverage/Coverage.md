@@ -11,11 +11,11 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 | Regions and Geography | 22 of 27 | 5 | 2 |
 | Culture | 40 of 57 | 17 | 6 |
 | Food | 15 of 73 | 58 | 5 |
-| Power | 8 of 48 | 40 | 8 |
+| Power | 8 of 48 | 40 | 11 |
 | History | 13 of 41 | 28 | 14 |
 | People | 8 of 12 | 4 | 3 |
-| The story layer | 32 of 34 | 2 | 0 |
-| Recovered structural systems | 9 of 17 | 8 | 2 |
+| The story layer | 32 of 34 | 2 | 1 |
+| Recovered structural systems | 9 of 17 | 8 | 3 |
 
 ## Regions and Geography
 
@@ -63,7 +63,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### Cuisine
 
-**Not yet in any story:** [Ironcrest cuisine](../../wiki/Culture/Food.md#ironcrest) *(seeded: Forge Reawakening)*, [Northwind cuisine](../../wiki/Culture/Food.md#northwind) *(seeded: Under the Lights)*, [Greenvale cuisine](../../wiki/Culture/Food.md#greenvale), [Highridge cuisine](../../wiki/Culture/Food.md#highridge) *(seeded: The Bridge Delay)*, [Deepwood cuisine](../../wiki/Culture/Food.md#deepwood), [Sunplains cuisine](../../wiki/Culture/Food.md#sunplains) *(seeded: The Slow Boat)*, [Port cuisine](../../wiki/Culture/Food.md#port) *(seeded: Lean Vigil)*, [Border cuisine](../../wiki/Culture/Food.md#border-cuisine).
+**Not yet in any story:** [Ironcrest cuisine](../../wiki/Culture/Food.md#ironcrest) *(seeded: Forge Reawakening)*, [Northwind cuisine](../../wiki/Culture/Food.md#northwind) *(seeded: Under the Lights)*, [Greenvale cuisine](../../wiki/Culture/Food.md#greenvale), [Highridge cuisine](../../wiki/Culture/Food.md#highridge) *(seeded: One Hall, The Bridge Delay)*, [Deepwood cuisine](../../wiki/Culture/Food.md#deepwood), [Sunplains cuisine](../../wiki/Culture/Food.md#sunplains) *(seeded: The Slow Boat)*, [Port cuisine](../../wiki/Culture/Food.md#port) *(seeded: Lean Vigil)*, [Border cuisine](../../wiki/Culture/Food.md#border-cuisine).
 
 ### Dishes
 
@@ -100,7 +100,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### Guilds
 
-**Not yet in any story:** [Metalworking guild factions](../../wiki/Politics/Guilds.md#metalworking-guild-factions), [Navigator and shipping guilds](../../wiki/Politics/Guilds.md#navigator-and-shipping-guilds), [Highridge caravan organizations](../../wiki/Politics/Guilds.md#highridge-caravan-organizations), [Builders and infrastructure guilds](../../wiki/Politics/Guilds.md#builders-and-infrastructure-guilds) *(seeded: The Bridge Delay, The Walls Come Home)*, [Warrior's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) *(seeded: The Retired Blade)*, [Assassin's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations), [Spy Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) *(seeded: The Tea Boy)*.
+**Not yet in any story:** [Metalworking guild factions](../../wiki/Politics/Guilds.md#metalworking-guild-factions) *(seeded: The Pillar)*, [Navigator and shipping guilds](../../wiki/Politics/Guilds.md#navigator-and-shipping-guilds) *(seeded: The Quorum)*, [Highridge caravan organizations](../../wiki/Politics/Guilds.md#highridge-caravan-organizations) *(seeded: The Map With a Gap)*, [Builders and infrastructure guilds](../../wiki/Politics/Guilds.md#builders-and-infrastructure-guilds) *(seeded: The Bridge Delay, The Cornerstone, The Walls Come Home)*, [Warrior's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) *(seeded: The Retired Blade)*, [Assassin's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations), [Spy Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) *(seeded: The Tea Boy)*.
 
 **Used:** Agricultural guilds and cooperatives (The Eighth Verse).
 
@@ -161,7 +161,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### Current events
 
-**Not yet in any story:** [Merchant conflict](../../wiki/Story/Current-Events.md#merchant-conflict), [Debates tied to patrons](../../wiki/Story/Current-Events.md#political-debate).
+**Not yet in any story:** [Merchant conflict](../../wiki/Story/Current-Events.md#merchant-conflict) *(seeded: The Quorum)*, [Debates tied to patrons](../../wiki/Story/Current-Events.md#political-debate).
 
 **Used:** Piracy rises (The First Fish at Snowbreaker Quay, The Greenvale Man); Convoy politics (The First Fish at Snowbreaker Quay, The Greenvale Man); Fish stocks shift (The First Fish at Snowbreaker Quay); Smuggling surge (Three Pots at Three Moon); Refugee and worker pressure (Three Pots at Three Moon); Abundance crisis (One Square, Two Harvests); Land and seed politics (One Square, Two Harvests, The Eighth Verse); Unusual metal movements (Inspected, Not Guaranteed); Labor unrest (Inspected, Not Guaranteed, Walkout Pies); Caravan attacks (The Goat File, The Heavy Scale at Icestep Summit, The Tree With a Debt); Trade redirected (The Goat File, The Heavy Scale at Icestep Summit, The Tree With a Debt); Logging and road conflict (The Blank Square, The Tree With a Debt); Fungal or ecological disruption (The Mushrooms From Nowhere, Three Pots at Three Moon); Drought anxiety (The Ladder Rules); City-state coordination (One Square, Two Harvests, The Ladder Rules); Earthquake or land movement (The Road in Use); Underpass route wars (The Mushrooms From Nowhere, The Road in Use); Faiths read the crises (The Blank Square); Plans leak; wardens prepare (The Blank Square, The Tree With a Debt).
 
@@ -174,6 +174,6 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### Proposals
 
-**Not yet in any story:** [World system](../../wiki/World-System.md), [Social fabric](../../wiki/Social-Fabric.md), [Movement and information](../../wiki/Movement-and-Information.md), [Education](../../wiki/Education-and-Knowledge-Transmission.md), [Clothing and material culture](../../wiki/Culture/Clothing-and-Material-Culture.md) *(seeded: The Coat)*, [Medicine and healing](../../wiki/Medicine-and-Healing.md) *(seeded: The Midwife's Road, The Yellow Flag)*, [Audience movements](../../wiki/Culture/Audience-Movements.md), [Three Moons Festival](../../wiki/Culture/Three-Moons-Festival.md).
+**Not yet in any story:** [World system](../../wiki/World-System.md), [Social fabric](../../wiki/Social-Fabric.md), [Movement and information](../../wiki/Movement-and-Information.md), [Education](../../wiki/Education-and-Knowledge-Transmission.md) *(seeded: The Pillar)*, [Clothing and material culture](../../wiki/Culture/Clothing-and-Material-Culture.md) *(seeded: The Coat)*, [Medicine and healing](../../wiki/Medicine-and-Healing.md) *(seeded: The Apothecary's Test, The Midwife's Road, The Yellow Flag)*, [Audience movements](../../wiki/Culture/Audience-Movements.md), [Three Moons Festival](../../wiki/Culture/Three-Moons-Festival.md).
 
 **Used:** Law and jurisdiction (The First Fish at Snowbreaker Quay); Calendar and timekeeping (The First Fish at Snowbreaker Quay, The Ladder Rules, The Mushrooms From Nowhere, The Road in Use, Walkout Pies); Language families and contact (The Road in Use); Money, credit and measures (The First Fish at Snowbreaker Quay, The Ladder Rules, Walkout Pies); Records and authentication (The Blank Square, The Eighth Verse, The Mushrooms From Nowhere); Couriers and messages (The Blank Square, The Mushrooms From Nowhere); Arts and leisure (The Eighth Verse, Walkout Pies); Daily life and customs (Walkout Pies); Folk beliefs and taboos (The First Fish at Snowbreaker Quay, The Ladder Rules, Walkout Pies).
