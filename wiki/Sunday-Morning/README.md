@@ -49,7 +49,7 @@ In reading order. Each title opens the story; "plan" opens its planning page. Wh
 
 | # | Story | Setting | Mode | Length · planning notes | Level |
 | --- | --- | --- | --- | --- | --- |
-| S2 test | [Mending Day](Drafts/Mending-Day.md) | Kellerby, Greenvale (provisional) | warm, rueful; a [world story](Notes/Rules.md#world-stories) | ~3,300 words · [plan](Stories/Mending-Day.md) | L3 first pass, waiting for your read |
+| S2 test | [Mending Day](Drafts/Mending-Day.md) | Kellerby, Greenvale (provisional) | warm, rueful; a [world story](Notes/Rules.md#world-stories) | ~3,300 words · [plan](Stories/Mending-Day.md) | L3 first pass; review done, waiting for your read |
 
 The first seven drafts come to about 31,800 words, and the new seven to about 25,000. Every draft has had the Sunday Morning, storytelling and notes passes and an independent L4 review. L4 completes when the author has read it ([Pipeline, Stage 4](Notes/Pipeline.md#stage-4--judge-review-independently)); what's still open for him is on [Decisions](Notes/Decisions.md#open-for-the-author).
 

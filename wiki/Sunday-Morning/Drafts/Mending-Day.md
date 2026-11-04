@@ -4,23 +4,23 @@
 
 **L3 draft, first pass. Provisional, non-canon.** Prose draft of [Mending Day](../Stories/Mending-Day.md), written 2026-11-04 as the test story for Season 2 and for [world stories](../Notes/Rules.md#world-stories) ([D24](../Notes/Decisions.md#the-authors-decisions)). Written in the spoken register ([Craft](../Notes/Craft.md#write-how-people-talk)), as a scaffold for bt 7274 to write over.
 
-**Lines in the cautious categories** ([who writes what](../Notes/Craft.md#ai-and-the-author-who-writes-what)), for bt 7274: Isa's line about Lewin's hour ("He'd sit on her step…"); Isa's "He could have. He didn't."; Effie's story of Lewin and the goose; Kit's speech at the gate; Effie's answer; and the final line.
+**Lines in the cautious categories** ([who writes what](../Notes/Craft.md#ai-and-the-author-who-writes-what)), for bt 7274: Isa's line about Lewin's hour ("Every year, he'd take it up to Effie Rusk's…"); Isa's "He could have done it all in two days… He didn't."; Effie's story of Lewin and the goose; "He hadn't known. He knew now."; Kit's speech at Effie's step; Effie's answer; and the final line, which now ends on Kit listening.
 
 ---
 
 Kellerby had its broken things out before the wagons were in sight.
 
-It always did. Ursel Tanner had the trestles up outside the chapel by first light, three of them end to end with a cloth on each, and the village brought its year out of sheds and cupboards and the backs of dressers and laid it down where she told them to. Every household had its own stretch of cloth, and it was always the same stretch. The Pollards were by the chapel door. The Dawses were at the far end, because old Daws liked to see the road. In between, a year's worth of cracked bowls and split chair seats and kettles with holes in, and a lantern with no glass, and a churn with no handle, and a child's wooden cart with three wheels and a fourth one in a twist of paper beside it.
+It always did. Ursel Tanner had the trestles up outside the shrine by first light, three of them end to end with a cloth on each, and the village brought its year out of sheds and cupboards and the backs of dressers and laid it down where she told them to. Every household had its own stretch of cloth, and it was always the same stretch. The Pollards were by the shrine door. The Dawses were at the far end, because old Daws liked to see the road. In between, a year's worth of cracked bowls and split chair seats and kettles with holes in, and a lantern with no glass, and a churn with no handle, and a child's wooden cart with three wheels and a fourth one in a twist of paper beside it.
 
 On a trestle by itself, at the end, on a blue cloth nobody else was allowed to use, was a fiddle.
 
-The wagons came down the lane a little after nine. Four of them, painted green once and now mostly road-colored, with the clan's sign on the tailboards: a crag, and a cloud on it. The Wethercrags had come down this lane the week before Grain Ripening for longer than anybody in Kellerby had kept count, and the children ran up the lane to meet them, the way the children always had, and the dogs ran after the children.
+The wagons came down the lane when the dew was off the grass. Four of them, painted green once and now mostly road-colored, with the clan's sign on the tailboards: a crag, and a cloud on it. The Wethercrags had come down this lane the week before Grain Ripening for longer than anybody in Kellerby had kept count, and the children ran up the lane to meet them, the way they did every year, and the dogs ran after the children.
 
 Kit was driving the second wagon. He saw the trestles from the top of the lane, and the cloths, and the light on all the crockery, and he thought, that's two days if nobody talks to me.
 
 ---
 
-Isa had the first wagon, as she always did, and she got down before it had properly stopped. Ursel came across the green to meet her, wiping her hands on her apron, and looked past her at the other wagons, and at the drivers.
+Isa, his aunt, had the first wagon, and she got down before it had properly stopped. Ursel came across the green to meet her, wiping her hands on her apron, and looked past her at the other wagons, and at the drivers.
 
 "Where's Lewin?"
 
@@ -46,9 +46,9 @@ The first pay came before Kit had even got his drill out: a basket of eggs from 
 
 ---
 
-He started at the chapel end, with the Pollards, because that was where you started.
+He started at the shrine end, with the Pollards, because that was where you started.
 
-There were three bowls, a jug with the handle off, and a big brown platter that had gone in four pieces and been wrapped in a shawl so the pieces didn't rub. Kit laid the pieces out on his board and looked at them. It was a good clean break. He could see how it had happened, too: dropped, edge first, on a stone floor, probably carrying it hot from the oven with a cloth that slipped. He'd have bet on Harvest Stew.
+There were three bowls, a jug with the handle off, and a big brown platter that had gone in four pieces and been wrapped in a shawl so the pieces didn't rub. Kit laid the pieces out on his board and looked at them. It was a good clean break. He could see how it had happened, too: dropped, edge first, on a stone floor, probably carrying it hot from the oven with a cloth that slipped. He'd have bet it had a stew in it at the time.
 
 He fitted the pieces dry first, to see how they went. Then he marked where the rivets would go, two across each crack, an inch apart, and set the bow drill going.
 
@@ -56,7 +56,7 @@ The bow drill was the part people liked to watch. The drill was his grandfather'
 
 When he was done with the platter it was the same platter, with a row of little metal stitches across it like a scar on a knee. It would hold stew again. It would probably outlast the table.
 
-He looked up. Mrs. Pollard was standing on the other side of the trestle with her arms folded, and she'd been there a while.
+He looked up. Nan Pollard was standing on the other side of the trestle with her arms folded, and she'd been there a while.
 
 "That'll hold," he said.
 
@@ -64,7 +64,7 @@ He looked up. Mrs. Pollard was standing on the other side of the trestle with he
 
 Kit looked at the platter. "It was dropped," he said.
 
-"Yes, dear," said Mrs. Pollard. "I know. I dropped it."
+"Yes, dear," said Nan Pollard. "I know. I dropped it."
 
 She went away to see about lunch, and Kit started on the jug.
 
@@ -76,11 +76,13 @@ He was quick. He'd always been quick; it was the one thing about him everyone in
 
 People came and stood about. That was what you did on Mending Day, he knew that. You brought your broken thing and then you came and stood about, and the mender told you what had happened to it, and you told him what had really happened, and while all that was going on the kettle got its patch. His grandfather had been able to talk to four people at once and solder a seam without looking. Kit could solder the seam.
 
+Old Daws asked whether he'd be taking anything away with him this year, the way Lewin did. "Shouldn't need to," Kit said, and Daws looked at him as if he'd said something in a foreign language.
+
 So they stood about for a bit, and watched the drill, and said, "That's coming on," and he said, "Yes," and after a while they drifted off to something else. Nobody was unkind about it. A few of them were kind about it, which was worse.
 
-Dace was no help. Dace was supposed to be doing the chairs, and did do a chair, and then the children found him and he got his fiddle out and played for them on the chapel step instead, jigs and reels and a song about a goose who married a fox, with all the verses. Half of Kellerby drifted over to listen. The other half drifted over to listen to the half that was listening. Kit, at the trestles, did the Dawses' lantern and the Prowses' churn and the child's cart, and put the fourth wheel on, and found that the trouble had been the axle peg and not the wheel at all, and there was nobody to tell.
+Dace was no help. Dace was supposed to be doing the chairs, and did do a chair, and then the children found him and he got his fiddle out and played for them on the shrine step instead, jigs and reels and a song about a goose who married a fox, with all the verses. Half of Kellerby drifted over to listen. The other half drifted over to listen to the half that was listening. Kit, at the trestles, did the Dawses' lantern and the Prowses' churn and the child's cart, and put the fourth wheel on, and the trouble had been the axle peg and not the wheel at all, and there was nobody to tell.
 
-The pay came in all afternoon. A cheese from the Farrens. A sack of beans, so heavy it took two of them to get it on the wagon. A ham, wrapped in muslin, from the Dawses, who had a lot of pigs and not much else this year. Nobody had much money in Greenvale this summer, and nobody said why, and the wagons filled up anyway.
+The pay came in all afternoon. A cheese from the Farrens. A sack of beans, so heavy it took two of them to get it on the wagon. A ham, wrapped in muslin, from the Dawses, who had a lot of pigs. Nobody had much money in Greenvale this summer, and nobody said why, and the wagons filled up anyway.
 
 By the time the light went, there was a third of the trestles left, and the fiddle.
 
@@ -88,7 +90,7 @@ By the time the light went, there was a third of the trestles left, and the fidd
 
 They camped on the common, where the Wethercrags had always camped, by the old pond with the willows. Isa had the fire going and something in a pot. Dace was still playing, softly now, for himself.
 
-Kit fetched the fiddle from the chapel. He'd been looking at it all day, on its blue cloth, and nobody had come to stand by it.
+Kit fetched the fiddle from the shrine. He'd been looking at it all day, on its blue cloth, and nobody had come to stand by it.
 
 He brought it to the fire and turned it over in the light.
 
@@ -112,13 +114,15 @@ Dace had stopped playing. Kit looked at the fiddle.
 
 "I can't play," he said.
 
-"I know you can't," said Isa. "You're the only Wethercrag in four generations who can't. Your grandfather used to say it was because you'd been born listening to the drill." She ladled stew into a bowl and handed it across. "Eat that."
+"I know you can't," said Isa. "You're the only Wethercrag in four generations who can't. Your grandfather used to say it was because you'd been born listening to the drill." She ladled stew into a bowl and handed it across.
+
+Later, when the fire was low, he took the fiddle back to the shrine and laid it on its cloth.
 
 ---
 
 Kellerby fed them on the second night. That was the mending supper, and it was the best meal of the circuit.
 
-They cleared the trestles that were empty and put the food on them instead: Harvest Stew in the Pollards' big brown platter, which held, and new bread, and the braided honey loaves that only got made for Grain Ripening and for Mending Day. Somebody had brought out cider. Everybody sat where they would have sat if the trestles had still been covered in broken things, so the Pollards were by the chapel door and old Daws was at the end where he could see the road.
+They cleared the trestles that were empty and put the food on them instead: Harvest Stew in the Pollards' big brown platter, which held, and new bread, and the braided honey loaves that only got made for Grain Ripening and for Mending Day. Somebody had brought out cider. Everybody sat where they would have sat if the trestles had still been covered in broken things, so the Pollards were by the shrine door and old Daws was at the end where he could see the road.
 
 Kit had meant to sit near the wagons, but Ursel caught his arm and put him at the foot of the second trestle, and that was where Effie Rusk was.
 
@@ -142,7 +146,7 @@ Down the trestle somebody laughed at something else. The light was going. The sw
 
 "It never wobbled again," Effie said.
 
-She didn't say anything about the fiddle after that. She asked him about the circuit, where they went after Kellerby and how the roads were, and listened to the answers, which were short. When the cider came round again she held out her cup, and when Dace started playing at the far end she turned to listen, and Kit watched her listen. She knew the tune before it was halfway through. Her fingers moved a little on the table, the left hand, the way a player's do, and then stopped, as if she'd caught them at it.
+She didn't say anything about the fiddle after that. She asked him about the circuit, where they went after Kellerby and how the roads were, and listened to the answers, which were short. When the cider came round again she held out her cup, and when Dace started playing at the far end she turned to listen, and Kit watched her listen. She knew the tune before it was halfway through. Her fingers kept time on the table, very lightly, and then stopped, as if she'd caught them at it.
 
 ---
 
@@ -150,7 +154,7 @@ He worked late that night, at the trestles, with a lantern.
 
 There wasn't much left. Two bowls of the Tibbses', a teapot with no spout, a chair that wanted a new rush seat, which was Dace's job and which Dace had not done. Kit did the bowls and the teapot, and then he did the chair, because it was there, and he knew how, even if he wasn't as quick at it as Dace.
 
-It was quiet. The village had gone to bed. Somebody's dog came and lay down under the trestle, the way the dogs always did, and put its chin on his boot. The drill went, and stopped, and went again. An owl was working the far side of the green, and the willows by the pond moved a little, and for an hour that was all that happened.
+It was quiet. The village had gone to bed. Somebody's dog came and lay down under the trestle, the way dogs do, and put its chin on his boot. The drill went, and stopped, and went again. An owl was working the far side of the green, and the willows by the pond moved a little, and for an hour that was all that happened.
 
 When he'd done the chair, he stood up and looked down the trestles. They were bare, the whole length of them, every cloth empty but the blue one at the end. He'd done the lot. He'd done it a day early, and every bit of it would hold.
 
@@ -168,19 +172,15 @@ He looked at the bare cloths. "He never did all of it. Did he? There was always 
 
 "He could have done it all in two days," Isa said. "He was quicker than you, when he wanted to be. He didn't."
 
-Isa returned to the fire. Kit stood a while longer with the lantern, looking at the blue cloth and what was on it, and the dog got up and stretched and went home.
+Isa went back to the fire. Kit stood a while longer with the lantern, looking at the blue cloth and what was on it, and the dog got up and stretched and went home.
 
 ---
 
-In the morning he took the fiddle up the lane to Effie Rusk's.
+In the morning he took the fiddle, in its blue cloth, up the lane to Effie Rusk's.
 
-Her cottage was the last one, by the orchard, with a step outside the door hollowed by a lot of people sitting on it. She was up already. She was sitting on the step herself, in the sun, with a cup, and she watched him come all the way up the lane with the fiddle under his arm and didn't say anything until he'd got to the gate.
+Her cottage was the last one, by the orchard, with a step outside the door hollowed by a lot of people sitting on it. She was up already. She was sitting on the step herself, in the sun, with a cup, and she watched him come all the way up the lane with the fiddle under his arm and didn't say anything until he'd got to the step.
 
-He'd been practicing what to say since first light. He'd got it down to about twice as many words as he normally said in a day.
-
-"I've had a good look at it," he said. "It's a good fiddle. It's sound. There's no crack in it anywhere, I tapped it all over." He stopped, and started again. "But it wants playing. A fiddle that doesn't get played goes dead, the wood does. My cousin says. Dace. He'd know. So." He looked at the fiddle and not at her. "I'd like to take it round with us. For the year. Dace'll play it every night at the fire, all round the circuit, and keep it going, and I'll do the pegs, and the strings. And I'll bring it back next Mending Day."
-
-It came out in a rush at the end, and then there wasn't any more of it.
+"I've had a good look at it," he said. "It's a good fiddle. It's sound. There's no crack in it anywhere, I tapped it all over." He stopped, and started again. "But it wants playing. A fiddle that doesn't get played goes dead, the wood does. My cousin says. Dace. He'd know. So." He looked at the fiddle and not at her. "I'd like to take it round with us. For the year. Dace'll play it every night at the fire, all round the circuit, and keep it going, and I'll do the pegs. And I'll bring it back next Mending Day."
 
 Effie studied him over her cup. She had very bright eyes, for someone so old.
 
@@ -194,7 +194,7 @@ Effie studied him over her cup. She had very bright eyes, for someone so old.
 
 "Have you found it?"
 
-He took his time. He thought about the bare trestles, and the gap down them like a smile with teeth missing, and the stool that never wobbled again.
+He took his time.
 
 "Yes," he said. "But it'll take a year."
 
@@ -202,33 +202,29 @@ Effie Rusk picked up her cup and finished her tea. Then she held out her hand, a
 
 "Mind you're not late," she said. "I'm old. I don't wait for people."
 
+She went indoors, and out again with a basket of plums from the orchard, and put it in his free hand, and looked at him in a way that said she remembered exactly where the last lot went.
+
 ---
 
 They went up the lane a little before noon.
 
-Kellerby came out to see them off, the way it always did. The children ran alongside as far as the top of the lane, and the dogs ran alongside the children. The wagons rode low and slow with eggs and cheese and beans and ham, and the Dawses' second ham, which had turned up that morning with no explanation, and a crock of Mrs. Pollard's plums, which she'd handed up to Kit herself with a look that said she remembered exactly where the last lot went.
+Kellerby came out to see them off. The children ran alongside as far as the top of the lane, and the dogs ran alongside the children. The wagons rode low and slow with three days' pay, and the Dawses' second ham, which had turned up that morning with no explanation, and Effie's plums.
 
 And in the back of the second wagon, wrapped in a blue cloth, Kellerby's fiddle.
 
-Ursel Tanner stood where the lane met the green, arms folded, and as the last wagon went past she called up to Isa, "Same week next year?"
+Ursel Tanner stood where the lane met the green, arms folded, and as the first wagon went past she called up to Isa, "Don't forget her fiddle."
 
-"Same week," Isa called back. "We'll want feeding."
+"We'll want feeding," Isa called back.
 
 "You always do," said Ursel, and went back to fold up the trestles.
 
 ---
 
-They camped that night on the Ironcrest road, in a lay-by under a beech wood, where the Wethercrags had always camped on the night after Kellerby. Isa had the fire going and something in the pot. It was the Dawses' ham.
+They camped that night on the Ironcrest road, in a pull-off under a beech wood, where the Wethercrags camped every year on the night after Kellerby. Isa had the fire going and something in the pot. It was the Dawses' ham.
 
 Dace had restrung Effie's fiddle in the afternoon, riding in the back of the wagon, swearing at the pegs, while Kit drove. After supper he took it out of the blue cloth and tuned it, slowly, for ages, as you have to with a fiddle that's been quiet, and then he played.
 
-It was a slow tune, older than anything the clan played. Kit didn't know it. He didn't know any tunes, not properly, not the way the others did; he knew how a fiddle was put together and where it would crack if you dropped it. But he sat with his back against the wagon wheel and listened, the way he'd watched Effie listen, and found he knew where it was going before it got there.
-
-When it was done Dace put the fiddle down on his knee and looked at it.
-
-"Where'd you get a tune like that?" said Isa.
-
-"It was in it," said Dace. "I just let it out."
+It was a slow tune, older than anything the clan played. Kit didn't know it. He didn't know any tunes, not properly, not the way the others did; he knew how a fiddle was put together and where it would crack if you dropped it. But he sat with his back against the wagon wheel and listened, the way he'd watched Effie listen, and knew where it was going before it got there.
 
 ---
 
