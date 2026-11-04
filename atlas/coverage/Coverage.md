@@ -11,7 +11,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 | Regions and Geography | 22 of 27 | 5 | 2 |
 | Culture | 40 of 57 | 17 | 6 |
 | Food | 15 of 73 | 58 | 5 |
-| Power | 8 of 48 | 40 | 12 |
+| Power | 8 of 48 | 40 | 11 |
 | History | 13 of 41 | 28 | 14 |
 | People | 8 of 12 | 4 | 3 |
 | The story layer | 32 of 34 | 2 | 1 |
@@ -100,7 +100,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### Guilds
 
-**Not yet in any story:** [Metalworking guild factions](../../wiki/Politics/Guilds.md#metalworking-guild-factions) *(seeded: The Pillar)*, [Navigator and shipping guilds](../../wiki/Politics/Guilds.md#navigator-and-shipping-guilds) *(seeded: The Quorum)*, [Highridge caravan organizations](../../wiki/Politics/Guilds.md#highridge-caravan-organizations) *(seeded: The Map With a Gap)*, [Builders and infrastructure guilds](../../wiki/Politics/Guilds.md#builders-and-infrastructure-guilds) *(seeded: The Bridge Delay, The Cornerstone, The Walls Come Home)*, [Warrior's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) *(seeded: The Retired Blade)*, [Assassin's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations), [Spy Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) *(seeded: The Tea Boy)*.
+**Not yet in any story:** [Metalworking guild factions](../../wiki/Politics/Guilds.md#metalworking-guild-factions) *(seeded: The Pillar)*, [Navigator and shipping guilds](../../wiki/Politics/Guilds.md#navigator-and-shipping-guilds) *(seeded: The Quorum)*, [Highridge caravan organizations](../../wiki/Politics/Guilds.md#highridge-caravan-organizations) *(seeded: The Map With a Gap)*, [Builders and infrastructure guilds](../../wiki/Politics/Guilds.md#builders-and-infrastructure-guilds) *(seeded: The Bridge Delay, The Cornerstone, The Walls Come Home)*, [Warrior's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations), [Assassin's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations), [Spy Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) *(seeded: The Tea Boy)*.
 
 **Used:** Agricultural guilds and cooperatives (The Eighth Verse).
 

@@ -8,7 +8,7 @@ The main conflict, the current events and how they can ripple into each other, t
 
 Current events sit in their region's column (the cross-region ripple steps, the faiths' reading of the crises and the main-conflict cards in a Main conflict column). Each Sunday Morning story and seed sits in the column of its setting, with lines to its town or region, its festival, the events it sits on, its domino figure, its cast from Part 6, and the stories it shares a thread with. The ripple chain from Current Events is drawn step by step and marked possible.
 
-**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 56 story seeds; 349 connections (339 stated in the wiki, 10 inferred).
+**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 56 story seeds; 348 connections (338 stated in the wiki, 10 inferred).
 
 ## Gaps this part exposes
 
@@ -271,9 +271,8 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | The Bridge Delay | would use | Highridge cuisine | stated, possible | “Highridge cuisine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bridge-delay) |
 | The Tea Boy | would be set in | Port | stated, possible | “Port” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy) |
 | The Tea Boy | would use | Port crime | stated, possible | “intelligence brokerage” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy) |
-| The Tea Boy | would use | Spy Guild | stated, possible | “Spy Guild” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy) |
+| The Tea Boy | would use | Spy Guild | stated, possible | “spy guilds” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy) |
 | The Retired Blade | would be set in | Seven Hill | stated, possible | “Seven Hill” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-retired-blade) |
-| The Retired Blade | would use | Warrior's Guild | stated, possible | “Warrior's Guild” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-retired-blade) |
 | The Midwife's Road | would use | Medicine and healing | stated, possible | “Medicine and Healing” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-midwifes-road) |
 | The Coat | would use | Clothing and material culture | stated, possible | “Clothing and Material Culture” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-coat) |
 
@@ -685,7 +684,6 @@ flowchart LR
   pw_crime_port["Port crime"]
   pw_guild_spy["Spy Guild"]
   seed_w_the_retired_blade["The Retired Blade"]
-  pw_guild_warrior["Warrior's Guild"]
   seed_w_the_midwifes_road["The Midwife's Road"]
   seed_w_the_coat["The Coat"]
   systems_proposal_12["Clothing and material culture"]
@@ -1025,7 +1023,6 @@ flowchart LR
   seed_w_the_tea_boy -.->|possible| pw_crime_port
   seed_w_the_tea_boy -.->|possible| pw_guild_spy
   seed_w_the_retired_blade -.->|possible| sevenhill
-  seed_w_the_retired_blade -.->|possible| pw_guild_warrior
   seed_w_the_midwifes_road -.->|possible| systems_proposal_15
   seed_w_the_coat -.->|possible| systems_proposal_12
 ```
@@ -1135,7 +1132,7 @@ Grouped by board column.
 **The Stopping Place**
 
 - *Kind:* Domino
-- *Premise:* A circuit family arrives at the spring where they have stopped every spring for longer than anyone can say, and finds a new fence and a new owner who has never heard of them.
+- *Premise:* A Ridge-Roamer clan arrives at the spring where they have stopped every spring for longer than anyone can say, and finds a new fence and a new owner who has never heard of them.
 - *Possible heart:* old custom is only as strong as the people who remember it.
 - *Possible thread:* land changing hands (land and seed politics); the buyer's reasons stay ordinary.
 

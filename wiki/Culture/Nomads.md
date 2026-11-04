@@ -4,11 +4,25 @@
 
 **Working area, not yet fixed canon.** One idea the project specifically wants to explore is a mobile people with significant **Appalachian cultural influence**, but grounded in the actual mobility needs of this world.
 
-## Names in the legacy notes
+## The Ridge-Roamers
 
-Not canon. The legacy notes ([Volume 04, Part 3](../../legacy-notes/2026-09-22/consolidated-package/04_Cultures_Peoples_Daily_Life.md#src-nomads-appalachian)) name the Appalachian-influenced people the **Ridge-Roamers**: descendants of mountain settlers on Ironcrest's foothills and Highridge's passes who took to the road to escape forced labor and tolls. They travel in clans, "each traveling band is an extended family or 'clan,' taking a name from a mountain ridge or notable ancestor", meet at highland gatherings, and are known for string music and ballads, herbal remedies and woodcraft.
+**Provisional ([D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), 2026-11-04).** The Appalachian-influenced people this page wants to explore are the legacy notes' **Ridge-Roamers** ([Volume 04, Part 3](../../legacy-notes/2026-09-22/consolidated-package/04_Cultures_Peoples_Daily_Life.md#src-nomads-appalachian)). That is what outsiders call them. Among themselves they go by their clans: "each traveling band is an extended family or 'clan,' taking a name from a mountain ridge or notable ancestor", and a person is first of all of a clan.
 
-The same notes add other bands: the Smokyfoot Caravan, the Ridgeway Gatherers (high-terrain people of the Highridge Plateau), the River-Folk Drifters, the Quilted Coyote Clan, the Seven-String Travellers, the Smoky Mesa Riders and the Blueline Drifters. An unmerged 2026-09 review branch advised against carrying these names over; that was an agent's advice, not a ruling. Whether any of them stays is bt 7274's call.
+From the legacy, as provisional working detail: they descend from mountain settlers on Ironcrest's foothills and Highridge's passes who took to the road rather than face forced labor and tolls. They travel higher in summer and winter in the mid-valleys, trading repair, herbal remedies, woodcraft and music with the towns that expect them. Clans meet at highland gatherings, settle disputes around a fire with their elders, and carry string music and ballads. Everything in [the Appalachian-influenced concept](#appalachian-influenced-concept) and its [do-nots](#do-not) applies.
+
+The legacy's other named bands (the Smokyfoot Caravan, the Ridgeway Gatherers, the River-Folk Drifters, the Quilted Coyote Clan, the Seven-String Travellers, the Smoky Mesa Riders and the Blueline Drifters) are not brought in. They stay in the legacy notes as name ideas, and the [recovered research index](../Reference/Nomadic-Peoples-Recovered-Research.md) tracks them.
+
+## More than one mobile people
+
+"The nomads" should not be one culture. Three distinct mobile systems are the working minimum, each grounded in a reason to move from [the list below](#why-mobile-peoples-exist-here):
+
+| System | Moves because | Example |
+| --- | --- | --- |
+| **Repair, ballad and seasonal-work circuits** | itinerant trades, fairs, harvest work | the Ridge-Roamers |
+| **Highland herding circuits** | upland and lowland pasture by season | herders on the Highridge Plateau and the [Overpath](../Places/The-Spine.md#the-overpath); not yet named |
+| **River and boat people** | river and canal carriage, seasonal labor | canal families of the Sunplains; not yet named |
+
+Each needs its own kinship, law, faith and food before a story leans on it; until then a story uses them as people, not as a culture explained.
 
 ## Why mobile peoples exist here
 

@@ -2,7 +2,11 @@
 
 ## Status
 
-**Provisional.** bt 7274 named it on 2026-11-04: "Seven Hill (the former military base turned town)". That's all that's settled. It isn't placed on the map, and nothing else about it is decided.
+**Provisional.** bt 7274 named it on 2026-11-04: "Seven Hill (the former military base turned town)". The same day he ruled the rest of this section ([D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)).
+
+## What it is
+
+Seven Hill was a fortress on one of the [Spine](The-Spine.md)'s passes, on the [Highridge](../Regions/Highridge-Plateau.md) side. It was emptied when Highridge's toll warfare gave way to negotiated passage, and it has been a town for generations since. The base is the town's old bones: what was built for soldiers is lived in by their families' families and by the people who came after.
 
 ## What the wiki already has that bears on it
 
@@ -18,10 +22,10 @@ Nothing, by name. A search of the [legacy notes](../../legacy-notes/README.md) a
 
 ## Still open
 
-- **Where it is,** and whose base it was: a kingdom's, a pass lord's, a city's, a coalition's.
-- **When and why it stopped being a base:** a treaty, a peace, a drawdown, a debt, a move of the border.
-- **What's left of the base in the town:** walls, a parade ground, barracks turned houses, a mess hall, a bell, a drill habit, a way of talking.
-- **Who lives there now:** old soldiers' families, the people who supplied the base, people who came after.
+- **Which pass,** and which pass lord or toll town held the fortress.
+- **How long ago** the garrison left, against the Convergence (before it, or as part of it).
+- **What's left of the base in the town:** walls, a parade ground, barracks turned houses, a mess hall, a bell, a drill habit, a way of talking. [Story Seeds](../Sunday-Morning/Stories/Story-Seeds.md#seven-hill) proposes a bell and walls carted off for houses; neither is settled.
+- **Who lives there now,** and whether the town still sees itself as a garrison of something.
 
 Stories that want it are on [Story Seeds](../Sunday-Morning/Stories/Story-Seeds.md#seven-hill).
 

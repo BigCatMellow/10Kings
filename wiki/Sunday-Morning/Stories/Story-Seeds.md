@@ -89,7 +89,7 @@ A Greenvale farmer who has never been above the tree line walks a stretch of the
 Possible heart: you can finish someone else's walk without it being a sad thing.
 
 - **The everyday strange:** walkers' customs on the trail, treated as ordinary by everyone but her.
-- **Needs:** who walks the Overpath, and whether it has a custom like carrying a stone (both [open](../../Places/The-Spine.md#the-overpath)). The sad moment is the husband, said once.
+- **Needs:** who walks the Overpath is settled ([D24](../Notes/Decisions.md#the-authors-decisions): pilgrims, herders, adventurers, caravans); the stone-carrying custom is story-level. The sad moment is the husband, said once.
 
 #### Above
 
@@ -100,7 +100,7 @@ The daughter of an Underpass guide family knows every tunnel by the sound of its
 Possible heart: what you know is worth something even where it doesn't look like it.
 
 - **Uses:** Underpass [guide families](../../Places/The-Underpass.md#politics) and [families born underground](../../Places/The-Underpass.md#settlement).
-- **Needs:** the Overpath, as above.
+- **Needs:** nothing now; the Overpath is settled ([D24](../Notes/Decisions.md#the-authors-decisions)).
 
 #### The Air Keeper
 
@@ -148,7 +148,7 @@ The town still rings the old base's muster bell once a year, and everybody turns
 Possible heart: a town keeps what it was, by making it into what it is.
 
 - **Later:** a Season 4 [Return](../Notes/The-Long-Road.md#kinds-of-story) where the bell rings for a real muster, told from the same parade ground.
-- **Needs:** where Seven Hill is, whose base it was and when it stopped ([open](../../Places/Seven-Hill.md#still-open)), and whether it has a bell.
+- **Needs:** Seven Hill is an old pass fortress on the Highridge side, a town for generations ([D24](../Notes/Decisions.md#the-authors-decisions)); the bell is story-level.
 
 #### The Walls Come Home
 
@@ -160,7 +160,7 @@ Possible heart: a town is built out of what it used to be.
 
 Possible thread: builders seeking "long contracts and legal control over standards"; the contract's buyer stays `UNKNOWN`.
 
-- **Needs:** Seven Hill, as above.
+- **Needs:** nothing now; Seven Hill is placed ([D24](../Notes/Decisions.md#the-authors-decisions)).
 
 ### Port
 
@@ -220,13 +220,13 @@ Once a year a circuit family of menders comes through, and the whole village has
 Possible heart: being expected somewhere is a kind of home.
 
 - **Uses:** [Nomads](../../Culture/Nomads.md): circuits, itinerant repair, "strong attachment to places even within a mobile life".
-- **Needs:** nothing new. The sad moment is the old mender, said once.
+- **Needs:** nothing new. The menders are a [Ridge-Roamer](../../Culture/Nomads.md#the-ridge-roamers) clan, and call themselves by the clan's name. The sad moment is the old mender, said once.
 
 #### The Stopping Place
 
 `DOMINO` · *a Highridge spring on an old circuit · spring*
 
-A circuit family arrives at the spring where they have stopped every spring for longer than anyone can say, and finds a new fence and a new owner who has never heard of them.
+A Ridge-Roamer clan arrives at the spring where they have stopped every spring for longer than anyone can say, and finds a new fence and a new owner who has never heard of them.
 
 Possible heart: old custom is only as strong as the people who remember it.
 
@@ -247,7 +247,7 @@ Possible heart: you can love a season without loving the work.
 
 #### The Ballad Line
 
-`WORLD` · *a circuit camp · winter*
+`WORLD` · *a [Ridge-Roamer](../../Culture/Nomads.md#the-ridge-roamers) clan's winter camp · winter*
 
 A circuit's ballads keep track of everyone: who married whom, who drowned, who ran off. A young woman wants her own name in one, and the old singer says a ballad only takes people when they've done something worth a verse. She's out to prove her wrong.
 
@@ -596,7 +596,7 @@ Possible heart: small work is still work, and somebody has to want it.
 
 Possible thread: the old adventurer could be Wurdren, taking the smallest job on the board ([D19](../Notes/Decisions.md#the-authors-decisions)).
 
-- **Needs:** whether there is an adventurers' guild (the legacy has one, with a job board), and whether Wurdren belongs to it. That touches his past, which is bt 7274's ([Rules](../Notes/Rules.md#wurdren-in-sunday-morning-stories)).
+- **Needs:** the [Adventurers' Guild](../../Politics/Guilds.md#the-adventurers-guild) is in ([D24](../Notes/Decisions.md#the-authors-decisions)). Whether Wurdren belongs is his past, which stays bt 7274's ([Rules](../Notes/Rules.md#wurdren-in-sunday-morning-stories)); the story works if he simply reads the board.
 
 #### The Widow's Share
 
@@ -662,7 +662,7 @@ Possible heart: being overlooked is its own kind of freedom.
 
 Possible thread: [intelligence brokerage](../../Places/Port.md#crime); what he overhears stays small.
 
-- **Needs:** what the [Spy Guild](../../Politics/Guilds.md#armed-and-clandestine-organizations) is, if it is one. Parked until bt 7274 says.
+- **Needs:** settled ([D24](../Notes/Decisions.md#the-authors-decisions)): the [spy guilds](../../Politics/Guilds.md#armed-and-clandestine-organizations) are city networks that sell information to anyone. No longer parked.
 
 #### The Retired Blade
 
@@ -672,7 +672,7 @@ A retired guild fighter teaches the village children to fall without breaking an
 
 Possible heart: the best thing a hard life can teach is how to land.
 
-- **Needs:** what the [Warrior's Guild](../../Politics/Guilds.md#armed-and-clandestine-organizations) is. Parked until bt 7274 says.
+- **Needs:** settled ([D24](../Notes/Decisions.md#the-authors-decisions)): the [fighters' guild](../../Politics/Guilds.md#armed-and-clandestine-organizations) guards caravans and trains militias. Seven Hill is the natural setting. No longer parked.
 
 ### How life works
 
@@ -716,13 +716,13 @@ Judged one at a time against the [Rules](../Notes/Rules.md) and the [Registry](.
 
 | Seed | Kind | New to the world | New lore | Resolution, against what's used |
 | --- | --- | --- | --- | --- |
-| The Walker's Stone | World | the Overpath | the Overpath's walkers | a walk finished, new |
-| Above | World | the Overpath, Underpass life | the Overpath | a skill out of place, new |
+| The Walker's Stone | World | the Overpath | none now (D24) | a walk finished, new |
+| Above | World | the Overpath, Underpass life | none now (D24) | a skill out of place, new |
 | The Air Keeper | Domino | Underpass life, Mira Stonebridge | none | handing on a craft, new |
 | The Deep Door | Domino | Underpass authority, Ilya, Gharic | none | a meal (used once) |
 | What the Pass Is Called | World | Old Spine speech | none | a name kept double, near the "two names" device |
-| Muster Bell | World, Domino later | Seven Hill | Seven Hill | a choice about a thing |
-| The Walls Come Home | Domino | Seven Hill, builders' guilds | Seven Hill | a confession by every house, new |
+| Muster Bell | World, Domino later | Seven Hill | none now (D24) | a choice about a thing |
+| The Walls Come Home | Domino | Seven Hill, builders' guilds | none now (D24) | a confession by every house, new |
 | The Harbor Runner | World | Port culture, Port speech, Trade Tongue | none | a search across languages, new |
 | The Bucket Race | World | Port watch and fire response | a race custom | teamwork, new |
 | The Yellow Flag | World | Port quarantine, medicine | none | small kindnesses, new |
@@ -759,14 +759,14 @@ Judged one at a time against the [Rules](../Notes/Rules.md) and the [Registry](.
 | The Quorum | Domino | shipping and merchant guilds | none | a vote, new |
 | The Seed Swap | Domino | seed control | none | a gift kept a gift, new |
 | The Apothecary's Test | Domino | healers' guilds, medicine | none | a test passed or not, new |
-| Small Jobs | Domino | an adventurers' guild | the guild, Wurdren's past | a small job taken, new |
+| Small Jobs | Domino | the Adventurers' Guild | Wurdren's past | a small job taken, new |
 | The Widow's Share | World | guild welfare | none | a seat at a supper (a meal, used) |
 | One Hall | World | rival guilds | none | a line moved, new |
 | The Map With a Gap | Domino | caravan organizations | none | a promise kept, new |
-| The Ranger's Season | World | a rangers' guild, Underpass ecology | the guild | an animal understood |
+| The Ranger's Season | World | the Ranger and Hunters' Guild, Underpass ecology | none now (D24) | an animal understood |
 | The Bridge Delay | Domino | builders' guilds | none | a wedding, new |
-| The Tea Boy | Domino | the Spy Guild | the Spy Guild | being overlooked, new |
-| The Retired Blade | World | the Warrior's Guild | the Warrior's Guild | restraint, new |
+| The Tea Boy | Domino | the spy guilds | none now (D24) | being overlooked, new |
+| The Retired Blade | World | the fighters' guild | none now (D24) | restraint, new |
 | The Midwife's Road | World | medicine | none | a birth, new |
 | The Coat | World or Thread | clothing | none | a chain of hands, new |
 | How the News Came | Domino | couriers, rumor | none | a correction (used twice) |
@@ -783,11 +783,11 @@ Not a ranking. Each is picked for a different reason, so a season could start fr
 | **The Harbor Runner** | The most new world for one story: Port's own culture, its speech and Trade Tongue, its clerks and its streets. It's bt 7274's own example. |
 | **Under the Lights** | The low fantasy, done the everyday way: a belief nobody in the story questions and the story never confirms. It uses the one unused festival. |
 | **The Deep Door** | The Underpass from inside, carrying a domino, with two of the wiki's three Underpass figures on the page as ordinary people. |
-| **The Walker's Stone** | The Overpath, once bt 7274 says who walks it. |
-| **Muster Bell** | Seven Hill, once he places it. It also plants a Return for Season 4. |
+| **The Walker's Stone** | The Overpath, now settled. |
+| **Muster Bell** | Seven Hill, now placed. It also plants a Return for Season 4. |
 | **The Bridge Delay** | The best Domino story for Season 2's rung: the reader sees the trouble starting to have a shape while the town sees a wedding. |
 | **The Quorum** | The guilds from inside, with the most direct line to the main story (merchants, credit, routes), told by someone with one small vote. |
-| **Small Jobs** | The natural place for Wurdren's next appearance, if bt 7274 says he belongs to a guild. |
+| **Small Jobs** | The natural place for Wurdren's next appearance; it works whether or not he belongs to the guild. |
 | **Shadow Charity** | A story inside a faith's own life, warm and complete, with no new lore. |
 | **The Prayer List** | The faiths as the first thing in the world to feel the whole crisis, from one shrine. A Season 2 or 3 signal. |
 
@@ -802,11 +802,11 @@ How the stories are made doesn't change. Each picked seed runs the [pipeline](..
 
 ### Questions for bt 7274
 
-One at a time, each with a lean. The [legacy notes](../../../legacy-notes/README.md) were searched for answers on 2026-11-04; what they hold is now on each owner page.
+**Answered 2026-11-04.** bt 7274: "I trust you leans, lets just get everything done" ([D24](../Notes/Decisions.md#the-authors-decisions)). Each lean below is now his ruling and has been applied to its owner page; only whether the faiths have gods stays open. The questions are kept as asked. The [legacy notes](../../../legacy-notes/README.md) were searched for answers on 2026-11-04; what they hold is now on each owner page.
 
 1. **Seven Hill: where is it, and whose base was it?** The legacy notes have nothing on it ([Seven Hill](../../Places/Seven-Hill.md#what-the-legacy-notes-say)), so it's new with bt 7274. Lean: on a Spine pass, a fortress emptied when Highridge's toll wars gave way to negotiated passage, so it has been a town for generations and the base is the town's old bones. The other way would be a recent garrison stood down by a treaty, which makes it fresher and sorer.
 2. **The Overpath: is it the legacy notes' Overpass?** The legacy has an *Overpass*: a dangerous surface way through the mountains for pilgrims, adventurers and caravans with goods too big for the tunnels, with bandits, tolls and two named landmarks ([The Spine](../../Places/The-Spine.md#what-the-legacy-notes-say)). That answers who walks it. Lean: the same thing, keep bt 7274's newer name, and let it be a trail along the range that the pass roads cross, so both descriptions hold.
-3. **The circuit people's name.** The legacy calls the Appalachian-influenced people the **Ridge-Roamers**, travelling in clans named for a ridge or an ancestor, with seven more named bands besides ([Nomads](../../Culture/Nomads.md#names-in-the-legacy-notes)). Lean: keep Ridge-Roamers as what outsiders call them, and let the stories use the clan names, the way they'd name themselves.
+3. **The circuit people's name.** The legacy calls the Appalachian-influenced people the **Ridge-Roamers**, travelling in clans named for a ridge or an ancestor, with seven more named bands besides ([Nomads](../../Culture/Nomads.md#the-ridge-roamers)). Lean: keep Ridge-Roamers as what outsiders call them, and let the stories use the clan names, the way they'd name themselves.
 4. **The Warrior's, Assassin's and Spy Guilds.** The legacy gives each a fuller form, mostly game-class flavor ([Guilds](../../Politics/Guilds.md#armed-and-clandestine-organizations)). The usable core: a fighters' guild that guards caravans and trains militias, and spy guilds that sell information to anyone, the Council included. Lean: keep those two cores for The Retired Blade and The Tea Boy, leave the Assassin's Guild out of the stories, and drop the costume names.
 5. **The guild roster.** Should the legacy notes' named guilds come into the wiki? Lean: yes, as provisional: keep the functions, ranks and everyday customs that fit the [World Rules](../../World-Rules.md) (apprenticeship, guild suppers, welfare, cornerstones, masons' travel); drop the Collegium Arcanum (magic, ruled out by [Magic](../../Magic.md)), the guild patron gods (the world has [nine faiths](../../Politics/Religions.md) instead) and game-style ranks; and let bt 7274 keep or rename the names.
 

@@ -41,7 +41,9 @@ This explains:
 
 ## The Overpath
 
-**Provisional.** bt 7274 named it on 2026-11-04: "the Overpath (the trail that goes the length of the Spine over the mountains". That's all that's settled. Where the Underpass runs through the range, the Overpath runs over it.
+**Provisional.** bt 7274 named it on 2026-11-04: "the Overpath (the trail that goes the length of the Spine over the mountains". The same day he ruled ([D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)) that it is the legacy notes' *Overpass* under his newer name: a trail along the length of the range, which the pass roads cross. Where the Underpass runs through the range, the Overpath runs over it.
+
+The legacy description below therefore stands as provisional working detail. It is the way for those who can't or won't use the tunnels: pilgrims, adventurers, herders and caravans with goods too big for the Underpass. It is slower and more dangerous than the tunnels, with weather, avalanches, predators and bandits, and seasonal nomads guide travellers on both.
 
 It sits alongside what this page already lists, without being settled as any of it: the range's pilgrimage routes, seasonal passes and migration corridors, and the [Infinite Compass](../Politics/Religions.md#9-the-infinite-compass)'s road shrines and hospitality for travelers.
 
@@ -55,12 +57,11 @@ The legacy notes call it **the Overpass**, not the Overpath ([Volume 01](../../l
 - Named landmarks: Eagle's Summit, "a high-altitude resting place", and Shimmerfall Ravine.
 - The old domino and current-events notes use it often: tolls, a checkpoint, repairs, the Warriors' Guild guarding caravans on it, and a rivalry between Overpass and Underpass communities.
 
-The legacy describes a way *through* the range. bt 7274's 2026-11-04 statement describes a trail along its whole length. His later word is the one recorded above.
+The legacy describes a way *through* the range; bt 7274 describes a trail along its length. His ruling keeps both: the trail runs the length of the Spine, and each pass road crosses it, so a traveller can take it across one pass or along many.
 
 Still open:
 
-- the name: Overpath (bt 7274, 2026-11-04) or Overpass (legacy);
-- who walks it, and why: pilgrims, herders, couriers, people who walk it for its own sake;
+- whether people still call some stretches the Overpass, as the legacy does;
 - whether it is one made trail or a chain of older paths that came to be walked as one;
 - whether anyone keeps it (huts, markers, a guild, a faith, nobody), and whether its route rules are the [Convergence](../History/The-Convergence.md#route-rules)'s or older;
 - how long it takes, which stretches close in winter, and where it meets the passes.

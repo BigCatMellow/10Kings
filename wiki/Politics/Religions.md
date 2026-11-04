@@ -20,6 +20,8 @@ Institutional interests:
 Current scheme:
 A reform movement argues that post-Convergence stability has become stagnation. Some members want deliberate social disruption to "complete" overdue cycles; traditional elders oppose them.
 
+**Working life** (provisional, [D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-cyclic-order)): Circular temples with a great wheel for the calendar at the center; priests called Guides of the Cycle, and elders whom councils consult as mediators. Its rites mark the turns of a life: at a naming the parents light a spiral candle, at a wedding two threads are braided into one, at a death the body is laid in a round tomb and mourners trace spirals in sand or water. It keeps a sacred almanac of good times for large decisions, and its scripture, the Spiral Codex, is written in rings.
+
 ## 2. Path of the Great Weaver
 
 Core: beings, places, ancestors, animals, and actions are threads in a living weave.
@@ -34,6 +36,8 @@ Institutional interests:
 Current scheme:
 Networks across several regions are documenting land and water damage, creating a trans-regional moral case against large extraction/infrastructure projects. Some Council families see this as a threat to economic planning.
 
+**Working life** (provisional, [D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-path-of-the-great-weaver)): Seasonal rites: planting blessings, midsummer fires, autumn thanks and a winter vigil for the ancestors. Families keep small outdoor shrines to their dead with flowers, food and woven tokens, and some keepers seek the ancestors' guidance through dreams, chants and herbs (a belief, as [Magic](../Magic.md#everything-else-that-has-been-claimed) holds). A tree is planted for every tree felled; the river is cleaned each year in a day of song; pilgrims leave small carvings at stone circles. Craft is devotion, and its teachings live in oral chronicles and in sayings carved in wood or stone.
+
 ## 3. The Radiant Path
 
 Core: moral life is struggle toward courage, justice, truth, and wisdom against cruelty, lies, and discord.
@@ -47,6 +51,8 @@ Institutional interests:
 Current scheme:
 Different branches disagree over whether hidden Council rule is a necessary compromise or fundamentally a form of darkness through deception.
 
+**Working life** (provisional, [D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-radiant-path)): Weekly worship in temples set to the sun's path, opened at dawn by lighting a beacon flame; clergy called Luminaries. Its charity is organized: collections for the poor, sanctuaries for the sick, and volunteer bands who stand up for the vulnerable. Pilgrims seek places of natural light: sunlit cliffs, caverns where light breaks through crystal, fields of fireflies. An all-night vigil honors those who upheld the light, and at the renewal flame people write their fears or failures and burn them.
+
 ## 4. The Eternal Forge
 
 Core: creation and destruction are linked; character and society are shaped through disciplined transformation.
@@ -59,6 +65,8 @@ Institutional interests:
 
 Current scheme:
 Its guild-adjacent institutions are becoming active in labor and quality disputes, potentially turning a spiritual tradition into a cross-regional political force.
+
+**Working life** (provisional, [D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-eternal-forge)): Every workshop keeps a small shrine with a fire that is never let go out. Smiths pray before lighting a forge, bless tools with oil and flame, and name and dedicate a great work. Once a year every fire in a town is put out and relit together, with a public showing of work and contests of craft. When a tool is worn out it is broken and melted down so it can become something else, and rebuilding after a disaster counts as devotion. Its ethic, the Artisan's Code, asks for honest workmanship and humility in mastery.
 
 ## 5. The Illuminated Circle
 
@@ -74,6 +82,8 @@ Institutional interests:
 Current scheme:
 Scholars are collecting contradictory trade and government records. Some may be close to proving systematic manipulation without yet understanding the Council.
 
+**Working life** (provisional, [D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-illuminated-circle)): Its worship is argument: gatherings for debate, contests of reasoning, and councils where a community's dilemma is set out and reasoned through together. Libraries are its holy places, kept by librarians, and people mark a discovery by writing it into a shared book. A mentorship begins when the teacher hands the student a quill and ends when the student argues against the teacher before the circle. Scholars go on teaching journeys to found schools, and solstices and eclipses are watched as ceremonies.
+
 ## 6. The Silent Whisper
 
 Core: silence, uncertainty, hidden truths, patience, and introspection.
@@ -87,6 +97,8 @@ Institutional interests:
 Current scheme:
 Some custodians believe dangerous truths should be withheld until society can survive them. Others argue that this has become complicity with elite secrecy.
 
+**Working life** (provisional, [D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-the-silent-whisper)): Listening meditation, fasts of silence, and the practice of writing a thought down and destroying it. Pilgrims walk at night to dark or quiet places, some without a lantern, and to stones where the acoustics carry the faintest sound. Its charity is anonymous: food or help left without a name. Keepers hold teachings that are passed on only when someone is ready, under an oath of silence, and its scripture is written in riddles.
+
 ## 7. The Harmonious Path
 
 Core: social responsibility, service, restraint, conflict resolution, and balance.
@@ -98,6 +110,8 @@ Institutional interests:
 
 Current scheme:
 Local Harmonious communities are building parallel mutual-aid and arbitration systems where official institutions have failed, unintentionally creating political power.
+
+**Working life** (provisional, [D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-harmonious-path)): A yearly day of public kindness, with feasts honoring the community's peacemakers; lanterns set on water at night for peace; and festivals of harmony that mark a harvest, a treaty or a reconciliation by mending tools, planting trees and eating together. Its knot and its balancing scales turn up in courts and meeting halls. Three tendencies run through it: withdrawn communities devoted to stillness, reformers who work in public, and wandering mediators.
 
 ## 8. The Dual Flame
 
@@ -111,6 +125,8 @@ Institutional interests:
 
 Current scheme:
 Its counselors are seeing similar fear, anger, and radicalization patterns across regions and may recognize that separate crises share a source before political leaders do.
+
+**Working life** (provisional, [D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-dual-flame)): Followers look back on the day at dawn and dusk, and may write down their wrongs and burn the page. A yearly festival lights twin bonfires; an overnight vigil around one fire is for telling one's struggles and renewing vows; at the equinox there is silence and then a shared feast. Its temples are built in two halves, one light and one dark. It has a keeper tradition that tends sacred fires, a stricter reforming tradition, and a controversial one that holds the dark must be explored to be understood.
 
 ## 9. The Infinite Compass
 
@@ -126,9 +142,11 @@ Institutional interests:
 Current scheme:
 Its pilgrim networks move information across borders faster than many governments expect. The Council, the Villain, spies, and criminals all have reasons to influence these networks.
 
-## Working life in the legacy notes
+**Working life** (provisional, [D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-infinite-compass)): Before a large decision a follower turns a full circle, facing every road. Communities map their journeys together, outward and inward, and on a yearly day of departure they send off those who are leaving with blessings and gifts. Waystones and road shrines carry its spiral; sailors bless a family's old compass before a voyage. Its keepers preserve maps and travel lore, its seekers go where no one has been, and some followers make the journey inward instead.
 
-Not canon. The legacy notes ([Volume 06](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md)) give each faith a full working life: rites for naming, marriage and death, festivals, temples and clergy, sacred texts, sects, pilgrimages and named gods, plus a long section on religious artifacts. They also assign each faith to one kingdom, which this page rules against below. Whether the rest comes in is open for bt 7274 ([Story Seeds, question 6](../Sunday-Morning/Stories/Story-Seeds.md#questions-for-bt-7274)).
+## Working life and gods
+
+Each faith's **Working life** above came in from the legacy notes ([Volume 06](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md)) as provisional on 2026-11-04, at bt 7274's ruling ([D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)). Two things were left out. The legacy assigns each faith to one kingdom, which the rule below forbids. And it gives each faith a pantheon of named gods; whether these faiths have gods at all, and whether people speak of the Weaver or the Compass as one, stays open for bt 7274. The legacy's section on religious artifacts is answered by [Magic and Relics](../Magic.md#relics).
 
 ## Religion and politics
 

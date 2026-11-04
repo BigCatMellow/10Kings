@@ -6,10 +6,10 @@
 
 ## At a glance
 
-- **529** things mapped, **780** connections (89% stated in the wiki, the rest inferred)
+- **529** things mapped, **779** connections (89% stated in the wiki, the rest inferred)
 - **32** open questions ([Part 8](../questions/README.md))
 - **80** gaps listed across the parts
-- **74** cards with no connection yet
+- **75** cards with no connection yet
 
 ## How settled each part is
 
@@ -93,7 +93,7 @@ Some are fine on their own (a saying, a festival); others are things the wiki ha
 
 - **Geography** (7): Coalglen Meadows; Helios Orchard; Snowbreaker Quay; Mosspeak Rise; Emberhaven Cross; Golden Dunes Shore; Reedveil Bend
 - **Culture** (19): “Iron hands, iron hearts.”; “Cold water, cold blood.”; “Soft as Greenvale butter.”; “Every road leads to Highridge's pocket.”; “Gone to the trees.”; “Golden tongue, copper coin.”; “Every ship lands at Port, none stay.”; Coal Ember Vigil; Long Dark Feast; Sowing Days; Grain Ripening; Silent Thaw; Blossom Markets; Festival of Patrons; Mixed taverns and markets; Cross-regional marriage; What people avoid saying openly; What festivals do beyond the day; How names work
-- **Power** (14): Assassin's Guild; Ironcrest crime; Greenvale crime; Deepwood crime; Sunplains crime; Weapons and elite troops; Ironcrest arms; Northwind arms; Greenvale arms; Highridge arms; Deepwood arms; Sunplains arms; Port arms; Underpass arms
+- **Power** (15): Warrior's Guild; Assassin's Guild; Ironcrest crime; Greenvale crime; Deepwood crime; Sunplains crime; Weapons and elite troops; Ironcrest arms; Northwind arms; Greenvale arms; Highridge arms; Deepwood arms; Sunplains arms; Port arms; Underpass arms
 - **History** (12): Ironcrest before the Convergence; Northwind before the Convergence; Greenvale before the Convergence; Highridge before the Convergence; Deepwood before the Convergence; Sunplains before the Convergence; How Port became central; Coldwave Incursions; Orchard-Lord Feuds; Iron-Field Conquest; Great Coastal Skirmish; The Ages of Silence
 - **Story** (8): Debates tied to patrons; The Lantern; Both Rites; The Miner's Luck; The Prayer List; Small Jobs; The Widow's Share; How the News Came
 - **Questions** (3): Map: which regional borders are long boundaries versus narrow corridors; Map: navigable rivers and major watersheds; Language and naming: personal-name systems within the language families

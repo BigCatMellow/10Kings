@@ -357,7 +357,7 @@ This is a **preservation and disposition record**, not a claim that every older 
 
 ## 2026-11-04 legacy lookup for the world seeds
 
-bt 7274 asked for the [world seeds](../Sunday-Morning/Stories/Story-Seeds.md#questions-for-bt-7274)' open questions to be checked against the legacy notes. What they hold was added, as non-canon evidence, to the owners: [The Spine](../Places/The-Spine.md#what-the-legacy-notes-say) (the legacy *Overpass*), [Seven Hill](../Places/Seven-Hill.md#what-the-legacy-notes-say) (nothing found), [Nomads](../Culture/Nomads.md#names-in-the-legacy-notes) (the Ridge-Roamers and other named bands) and [Guilds](../Politics/Guilds.md#armed-and-clandestine-organizations) (the legacy forms of the armed and clandestine guilds). Nothing was promoted.
+bt 7274 asked for the [world seeds](../Sunday-Morning/Stories/Story-Seeds.md#questions-for-bt-7274)' open questions to be checked against the legacy notes. What they hold was added, as non-canon evidence, to the owners: [The Spine](../Places/The-Spine.md#what-the-legacy-notes-say) (the legacy *Overpass*), [Seven Hill](../Places/Seven-Hill.md#what-the-legacy-notes-say) (nothing found), [Nomads](../Culture/Nomads.md#the-ridge-roamers) (the Ridge-Roamers and other named bands) and [Guilds](../Politics/Guilds.md#armed-and-clandestine-organizations) (the legacy forms of the armed and clandestine guilds). Nothing was promoted.
 
 ### 8. Nomadic peoples conversation recovery (2026-11-04)
 
