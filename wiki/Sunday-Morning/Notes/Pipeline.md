@@ -50,7 +50,6 @@ MAPS_L requires DONE to be defined before work starts. Choose a target level per
 ## Stage 0 — Add a story
 
 1. Pick a single community and a clock (a festival, season or material limit). The [setting palette](Rules.md#setting-palette) lists good pairings.
-   - Check the [World coverage](../../../atlas/coverage/Coverage.md) report first. Name the world elements the story will use as everyday background, the way the people there would take them for granted: places, faiths, history, customs, food, institutions, the stranger parts of the world. At least one should be something no story has used yet ([D22](Decisions.md#the-authors-decisions), [the strange is ordinary](Rules.md#the-strange-is-ordinary)).
 2. Fill in the Framework's [writing template](Sources/Framework.md#23-writing-prompt-template).
 3. Run the Framework [checklist](Sources/Framework.md#20-the-sunday-morning-story-checklist) and the [Two Sons addendum](Rules.md#checklist-addendum).
 4. Register every new name in the [Registry](Registry.md#names) now, not after drafting, and run the checker.
@@ -191,7 +190,7 @@ Every drafting or revision pass ends with this routine, not only at L4. Prioriti
 1. **Sunday Morning first.** Check the pass against the [tone guardrails](Rules.md#tone-guardrails) before anything else.
 2. **Shapes before sentences.** If the pass changed an opening, engine, resolution or ending, update the [Registry's story shapes](Registry.md#story-shapes) and check for sameness across the collection.
 3. **Run the checker** from the repository root: `python3 tools/sunday_morning_check.py`. It flags name clashes, five-word phrases shared across stories, registered stock phrases and filter verbs. It reads only what the [Registry](Registry.md) says, so update the Registry first.
-4. **Run the [scene diagnostic](Craft.md#sunday-morning-scene-diagnostic),** and the sequel test on every sentence that explains how the world works ([Craft §1](Craft.md#1-write-it-like-its-the-sequel-carries-over)). Tell it like the sequel, then stop: the most common remaining fault is explaining after showing. Prefer cuts.
+4. **Run the [scene diagnostic](Craft.md#sunday-morning-scene-diagnostic).** Tell it like the sequel, then stop: the most common remaining fault is explaining after showing. Prefer cuts.
 5. **Get a fresh check** from a pass that didn't write the text. Compare the new version with the previous one (drift) and the stories with each other (repetition). It has found something real every time.
 6. **Look for the replacement tic.** After removing a repeated move, check that another hasn't taken its place. (Punchlines became silences, which became "wrote it down".)
 7. **Leave deliberate ambiguity alone.** Some gaps are [decisions](Decisions.md).

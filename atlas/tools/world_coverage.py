@@ -110,7 +110,7 @@ def main():
            "([The Long Road](../../wiki/Sunday-Morning/Notes/The-Long-Road.md#using-the-world)). "
            "A thing counts as used when a story is connected to it on the [Atlas](../README.md), "
            "or when the story's plan or draft links to its wiki section. A story can use something without linking it "
-           "(Season 1's language habits and many of its dishes are like that), so link the owner section in a story's World anchors.", "",
+           "(Season 1's language habits and many of its dishes are like that), so this undercounts a little.", "",
            "Being used isn't a target. A story uses what it needs, and some things (a map outline, an open question) "
            "shouldn't be used at all. Left out on purpose: " +
            "; ".join(f"**{k}** ({v})" for k, v in SKIP_PARTS.items()) + ".", "",

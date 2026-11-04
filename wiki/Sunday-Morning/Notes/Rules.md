@@ -62,12 +62,7 @@ A detail invented for a story (a town, a dish, a custom, a character) does **not
 
 ## The strange is ordinary
 
-*Set 2026-11-04 by bt 7274 ([D22](Decisions.md#the-authors-decisions)).* Two Sons is low fantasy, and the fantasy is part of everyday life. "Not everything will need to be slice of life farmers, there can be some fantasy to it, presented as every day life to the reader."
-
-- **The fantasy is the world itself, lived in.** Underpass junctions where people are born, trade and die without ever seeing the sky. Relics on a shrine shelf that a village swears its contracts on. Convergence-era route stones and treaty clauses that still decide who may pass. Nomad circuits that are calendars in motion. Nine faiths with their own ways of keeping time, records and silence. Animals rare and strange enough that people tell tall tales about them. None of it is remarkable to the people living with it.
-- **Magic stays as ruled** ([Magic](../../Magic.md), the author's 2026-09-29 decision): real but deniable, small and moral, never confirmed by the narration, never load-bearing. A relic can be in the room, believed in, sworn on, doubted, stolen or faked. The story just never says it worked.
-- **Reach past farms and markets.** Season 1 lived mostly in towns, harvests and guild halls. Each season should also set stories in the stranger parts of the world: inside the Underpass, on a nomad circuit, at a relic's keeping, in a faith's house, among the remembered wars. The [World coverage](../../../atlas/coverage/Coverage.md) report shows what the world has that no story has used yet.
-- **Write it like the sequel** ([Craft §1](Craft.md#1-write-it-like-its-the-sequel-carries-over)). People know how their world works. Nothing is explained unless the point-of-view character would think it, in that moment, for their own reasons.
+*bt 7274, 2026-11-04 ([D22](Decisions.md#the-authors-decisions)).* Nothing about how the stories are written changes. This is about welcoming in more of the world. Two Sons is low fantasy, "so not everything will need to be slice of life farmers, there can be some fantasy to it, presented as every day life to the reader." The Underpass, the faiths and their relics, the Convergence and the remembered wars, the nomad circuits: all of it is there to use, as ordinary to the people living with it as a harvest is in Greenvale. Magic stays as ruled ([Magic](../../Magic.md)). The [World coverage](../../../atlas/coverage/Coverage.md) report is somewhere to look for what no story has used yet, if it helps.
 
 ## Wurdren in Sunday Morning stories
 

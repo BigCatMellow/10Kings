@@ -72,7 +72,7 @@ The last season raises one question for later: how a public revelation is told w
 
 *bt 7274, 2026-11-04 ([D22](Decisions.md#the-authors-decisions)): "Theres also a lot in the world too that needs to be touched on, The Underpass for example".*
 
-Season 1 lived mostly in towns, harvests, guild halls and markets. The [World coverage](../../../atlas/coverage/Coverage.md) report, generated from the Atlas, shows how much of the setting no story has used yet. A season's research starts there and at the [Domino Map](../../../atlas/domino-map/Domino-Map.md). The biggest seams, as of Season 1:
+Season 1 lived mostly in towns, harvests, guild halls and markets. The [World coverage](../../../atlas/coverage/Coverage.md) report, generated from the Atlas, shows how much of the setting no story has used yet. It's somewhere to look when choosing where a story is set, alongside the [Domino Map](../../../atlas/domino-map/Domino-Map.md). How the stories are written doesn't change. The biggest seams, as of Season 1:
 
 - **The Convergence and the remembered wars.** No story has touched the history: the Convergence's route rules, border recognition, trade guarantees and arbitration; neutral Port and how it became central; the Ember Wars, the Salted Coast Disputes, the Port Seizure and the Ages of Silence, each remembered differently by different peoples. These suit everyday fantasy well: an old treaty stone that still decides a toll, a war song two villages sing with different villains, a grudge older than anyone's grandmother.
 - **The Underpass from the inside.** The Mushrooms From Nowhere came up the stair. Nothing yet happens below: enclave authority, guide families, its crime and its militias, and the wiki's three Underpass figures (Mira Stonebridge, Gharic Coalveil, Ilya Dravencrest). They can appear as ordinary people, the same as the domino figures.
@@ -82,9 +82,9 @@ Season 1 lived mostly in towns, harvests, guild halls and markets. The [World co
 - **How life works:** medicine and healing, schooling, clothing, how news travels.
 - **Food:** most of the named dishes and every regional cuisine page. That's the easiest texture of all.
 
-The report counts a thing as used only when a story's plan or draft links to it, so a story that uses something should link its owner section in the story page's World anchors.
+The report counts a thing as used only when a story's plan or draft links to it, so it undercounts a little.
 
-**The fantasy is everyday** ([Rules](Rules.md#the-strange-is-ordinary)). Nobody in these places finds them strange, and nothing is explained unless the point-of-view character would think it ([Craft §1](Craft.md#1-write-it-like-its-the-sequel-carries-over)). Magic stays as ruled: real but deniable, never confirmed, never load-bearing.
+**The fantasy is everyday** ([Rules](Rules.md#the-strange-is-ordinary)), told the way the stories already tell everything, as [Craft §1](Craft.md#1-write-it-like-its-the-sequel-carries-over) has it. Magic stays as ruled.
 
 ## Kinds of story
 
@@ -128,4 +128,4 @@ Each waits until a season needs it.
 
 - [Collection](Collection.md) gains a section per season (reading order with expected reader state, ledger, threads), with Season 1 as it stands.
 - The [Pipeline](Pipeline.md) doesn't change: each story runs Stage 0 to RECONCILE, test story first.
-- A season's research starts from the [World coverage](../../../atlas/coverage/Coverage.md) report, the [Domino Map](../../../atlas/domino-map/Domino-Map.md) and this page's planted threads.
+- A season's research can draw on the [World coverage](../../../atlas/coverage/Coverage.md) report, the [Domino Map](../../../atlas/domino-map/Domino-Map.md) and this page's planted threads.

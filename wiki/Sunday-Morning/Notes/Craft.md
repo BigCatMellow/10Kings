@@ -24,8 +24,6 @@ Pathwell is a literary urban fantasy novel, written for a longer, darker book, s
 
 In Two Sons, festivals, guilds, grammar habits, credit and ledgers are ordinary to the people who live with them. The first drafts broke this: a narrator explained Ironcrest's four kinds of *done* and Northwind's two *we*s. Later passes moved those explanations into what characters do and say. The Heavy Scale is the model. Tove's evidential piles show up in how she talks long before anyone could name them.
 
-**The strange gets the same treatment** ([D22](Decisions.md#the-authors-decisions)). An Underpass grower doesn't explain the long lamp and the short lamp; she just goes by them. A shrine keeper doesn't explain the relic; she dusts it and tells you not to lean on the shelf. bt 7274: "things dont need to be explained unless its required by the POV of the character. We shuold assume that people in the world know how the world functions and let the reader figure it out on their own." The test for any sentence that explains how the world works: would this character think it, right now, for their own reasons? If not, cut it, and let the thing show up in use.
-
 **Tension with the Framework, resolved: withhold lore, never clarity.** The Framework's attention test (§13) asks for "minimal dependence on hidden lore" and "understandable geography"; the sequel principle asks us to withhold. The reader may not know why the Salve house hangs vines, or what a Silent Whisper observer believes. They must always know who wants what, where everyone is standing, and what just happened. The voice guide agrees: "The reader should sometimes lack information. That is different from lacking clarity."
 
 ### 2. Therefore, but; never "and then" (carries over)
