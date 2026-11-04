@@ -2,90 +2,112 @@
 
 ## Status
 
-**Proposal, waiting for bt 7274's rulings. Writing reference, not setting canon.** This page owns how the Sunday Morning way of telling could carry the [main story](../../Story/Main-Conflict.md) from beginning to end. It starts casual and builds toward the ending, season by season. Nothing here applies until bt 7274 rules on it ([Decisions: open](Decisions.md#open-for-the-author)).
+**Working plan, built on bt 7274's rulings D18–D21 (2026-11-04). Writing reference, not setting canon.** This page owns how the Sunday Morning stories carry the [main story](../../Story/Main-Conflict.md) from beginning to end, starting casual and building toward the ending.
 
-It was written 2026-11-04 at bt 7274's request: "lets find ways to tell the main story in the way we tell the sunday stories, so it feels more casual at first, and we can build to the end goal." He also asked that the existing stories stay as they are: "I dont want to change the current stories for the sake of fitting my analogy, keep them doing what theyre doing."
+It was started 2026-11-04 at bt 7274's request: "lets find ways to tell the main story in the way we tell the sunday stories, so it feels more casual at first, and we can build to the end goal." He also set two limits. The existing stories don't change ("keep them doing what theyre doing"), and the rule that makes them work stays ("No, its working", [D21](Decisions.md#the-authors-decisions)).
 
-**The fourteen stories don't change.** They are Season 1. Every rule on [Rules](Rules.md) applies to them as written. Later seasons build on what they already planted and never revise them.
+**The fourteen stories are Season 1** and don't change. Later seasons build on what they planted.
 
 ## The idea in one paragraph
 
-Keep the voice, the tone and the size of every scene exactly as they are. What changes from season to season is **how close the story stands to the main plot.** In Season 1 the camera stands far off: ordinary people, local trouble, a pattern only the reader can see. Each season it steps a little nearer, along the [escalation ladder](../../Story/Main-Conflict.md#escalation) the wiki already gives. People begin to notice. Wurdren begins to recur. The domino figures get their own kitchen-table stories. The war's shadow reaches the towns. At the end the convergence happens at a table, told by the people who cook for it, carry its papers and keep its record. The reader should never feel the tone change, only that the stakes behind the small scenes have grown.
+Nothing about how a story is told changes. Every rule on [Rules](Rules.md) still holds, the world-tie rule included: nobody in a story sees the pattern, the Villain never appears as himself, and the Council never acts as a named body ([D21](Decisions.md#the-authors-decisions)). What moves is **the world under the stories, and what the reader can piece together.**
+
+- Each season the current events are a rung further up the [escalation ladder](../../Story/Main-Conflict.md#escalation), and the people in the stories live inside that bigger weather without knowing its shape.
+- The reader sees more because the stories set more side by side: the same paper turning up twice, a town revisited a year on, a thread passed from hand to hand.
+- From time to time Wurdren walks into someone's story. When he does, that's the signal that this one touches the bigger thing ([D19](Decisions.md#the-authors-decisions)). He doesn't know it either.
 
 ## What never changes
 
-These hold in every season, the last one included:
+- **Every story stands alone.**
+- **Connected, not driven** ([D2](Decisions.md#the-authors-decisions), confirmed by [D21](Decisions.md#the-authors-decisions)). Delete the main-plot thread and the story still works.
+- **Scenes stay human-scale.** One stall, one boat, one door, even when the meaning is enormous ([tone guardrails](Rules.md#tone-guardrails)).
+- **A meal, a moment where nothing happens, one sad moment said once, no public shaming, a warm ending.**
+- **The local thing holds for local reasons.**
+- **The voice is bt 7274's,** in the spoken register ([Craft](Craft.md#write-how-people-talk)).
 
-- **Every story stands alone.** A reader who starts at any story gets a whole story.
-- **Scenes stay human-scale.** One stall, one boat, one door. When the meaning is enormous, the scene is still small ([tone guardrails](Rules.md#tone-guardrails)).
-- **Every story has a meal and a moment where nothing happens.**
-- **One sad moment, said once. No public shaming. Endings land warm.**
-- **The local thing holds, for local reasons.** Even in the last season, somebody's small act is what the large outcome turns on, which is Wurdren's canon point ([Main Conflict](../../Story/Main-Conflict.md#possible-resolution-model): "making it impossible for elites to treat ordinary people as pieces").
-- **The voice stays bt 7274's,** in the spoken register ([Craft](Craft.md#write-how-people-talk)).
+## What moves
 
-## What moves: the distance
+### The world
 
-Five settings, one per season, each tied to a rung of the canon escalation ladder. Each setting relaxes the [world-tie rule](Rules.md#the-world-tie-rule-connected-not-driven) a little, and only that rule.
+Each season the [Current Events](../../Story/Current-Events.md) are one rung further along. In Season 1 a story's events are a grain glut, a rumor or a tightened loan. Later they're convoy patrols, cities reading each other's coalitions as threats, musters, rationing. Characters meet these the way people meet weather: a cousin's letter, a price, a cart that doesn't come, a son called up. The [ripple chain](../../Story/Current-Events.md#example-ripple-chain)'s later steps, which no Season 1 story touched (the Villain amplifying "Council involvement", local shocks read as proof of enemies), become the background of later stories, still seen only from the ground.
 
-| Season | Escalation rung ([Main Conflict](../../Story/Main-Conflict.md#escalation)) | Who can see what | Who can be on the page | Wurdren | What the reader holds at the end |
-| --- | --- | --- | --- | --- | --- |
-| **1. Far** (done: the fourteen) | apparently independent local problems | Nobody in a story sees a pattern | ordinary people; domino figures as ordinary people or offstage; no Villain, no named Council | headlines once (Inspected) and sees one letter he doesn't understand | someone is behind the offers (C6); nobody in the stories knows |
-| **2. Noticing** | recognizable patterns | Characters may notice a repeat *in their own life* ("this offer again") and say so badly. They never connect it to anyone. Wurdren notices more than most, privately, and can't make it add up. | as Season 1, plus the Villain's and the Council's people as ordinary workers with ordinary reasons, unnamed in role | a stranger passing through other people's stories, about one in three; leads one or two | the same shapes keep recurring, and one person has started to keep count |
-| **3. Close** | regional political crises; cross-regional suspicion | One person in a story may see part of the pattern and be unable to prove it | the domino figures in stories of their own, each told at the moment their domino tips (Maris at a kitchen table deciding about patrols, and so on); one Council clerk as a protagonist | leads a few; his network of people who trust him starts to show | there are two hands, not one, and they're working against each other |
-| **4. Home front** | mobilization; near-war or limited war | People argue in the open about who is behind it, and some of them are right | the war stays offstage: musters, convoys, rationing, a wedding moved forward. The Villain may appear once as an ordinary man (ruling needed) | the people from earlier seasons come back as his network, and that network is the plot | ordinary trust is the one thing neither side planned for |
-| **5. The table** | revelation of hidden economic control; convergence | The pattern is public | the Council in the open; the Villain at a table; the negotiations told from the kitchens, the corridors and the record | doesn't rule and doesn't win; he brings people | the ending of the main story, in the voice of the first story |
+### What the reader can piece together
 
-Season 1's calendar ran Year 1 early autumn to Year 2 early autumn. A season of about ten to twelve stories per year keeps the same rhythm, so Season 2 would be Year 2 autumn to Year 3 autumn.
+Season 1 gave the attentive reader one inference: someone is behind the offers (C6). Each later season should give one or two more, made only from things set side by side:
+
+- the same object, phrase or person turning up in two places;
+- a Return story showing what a town's good outcome led to a year on;
+- what people say about the big events, which gets more specific, and sometimes more wrong, as the seasons go on;
+- the "still falls elsewhere" lines adding up.
+
+Collection's [expected reader state](Collection.md#reading-order) is how this is planned and checked, season by season.
+
+### Wurdren
+
+He appears from time to time, usually in someone else's story, and his presence is the signal ([D19](Decisions.md#the-authors-decisions)). What he's looking for moves across the seasons ([D18](Decisions.md#the-authors-decisions), [Wurdren](../../Story/Wurdren.md#what-he-is-looking-for-bt-7274s-direction-2026-11-04)):
+
+- **at first**, proof that his life can still have a purpose, so he helps whoever is in front of him, a little too eagerly;
+- **then** the patterns, which he notices without being able to make them add up;
+- **in the end**, not proof but a person: he finds that he matters to one particular person, and then to more.
+
+That last turn is the emotional end of the main story. The public ending in [Main Conflict](../../Story/Main-Conflict.md#possible-resolution-model) (the Council forced into the open, the Villain's coalition fracturing, an outcome neither side intended) is the political end. Wurdren's part in it is the people who trust him. In bt 7274's words, his purpose isn't "proving to himself that he mattered but finding a way to matter to one person (and eventually more)."
+
+Who that first person is stays open ([D20](Decisions.md#the-authors-decisions): "The story is a garden"). Season 1 already shows the shape of it in miniature: he stays two days he didn't plan to, to fix a farmer's gate nobody asked him to fix, and gets it "very nearly right" ([Inspected](../Drafts/Inspected-Not-Guaranteed.md)).
+
+## The seasons, loosely
+
+No route, no fixed plan ([D20](Decisions.md#the-authors-decisions)). These are the rungs the world moves through, so that each season knows roughly where it stands. Season 1 ran from Year 1 early autumn to Year 2 early autumn; a season of about ten to twelve stories per year keeps that rhythm.
+
+| Season | The world under the stories ([escalation](../../Story/Main-Conflict.md#escalation)) | Wurdren | What the reader could piece together by the end |
+| --- | --- | --- | --- |
+| **1** (done) | apparently independent local problems | once, at Stonefield; sees one letter he doesn't understand | someone is behind the offers |
+| **2** | recognizable patterns: the same kinds of trouble in more places | from time to time, in other people's stories | the trouble has a shape, and more than one hand is in it |
+| **3** | regional political crises; cross-regional suspicion | more often; the people who trust him begin to show | the two hands are working against each other |
+| **4** | mobilization; near-war or limited war, felt from the towns | the people from earlier stories are his network | ordinary trust is what neither side planned for |
+| **5** | revelation; convergence | at the table, or near it, because of the people | the ending, in the voice of the first story |
+
+The last season raises one question for later: how a public revelation is told when nobody in a story may see the pattern. *Lean:* once the Council's existence is public news, people react to it the way they react to any news. They're hearing it, not working it out, so D2 holds. That's for bt 7274 when Season 5 is near.
 
 ## Kinds of story
 
-These are the tools within a season. The mix shifts as the distance closes. They're working names, not a format every story has to fit.
+These are tools, not a format. The mix can shift as the seasons go.
 
-| Kind | What it is | Season 1 example | Share by season |
-| --- | --- | --- | --- |
-| **Ground** | a community, a nail, a local hold: what the fourteen already are | all of them | most of S1–S2; fewer later, never none |
-| **Stranger** | someone else's story, which Wurdren passes through. He helps, he leaves, he has noticed something | (none yet) | S2 onward |
-| **Return** | back to a place from an earlier season, a year on. It shows the ripple and never undoes the warm ending | (none yet) | S2 onward |
-| **Thread** | follows an object or a letter from hand to hand: the cream paper, a ledger, a record | The Blank Square carries a thread without knowing it | S2 onward |
-| **Desk** | someone inside the Council's or the Villain's world, at human scale: a clerk, a courier, a cook. They're doing their job and are not a villain | (none; Collection's [view from the desks](Collection.md#the-view-from-the-desks) is the out-of-story version) | S3 onward |
-| **Figure** | a domino figure's own story, told on the day the domino tips | (none; they stay offstage in Season 1) | S3 onward |
+| Kind | What it is | Within the rules because… |
+| --- | --- | --- |
+| **Ground** | a community, a nail, a local hold: what the fourteen are | it's what the rules were written for |
+| **Stranger** | someone else's story that Wurdren passes through; the signal | he's an ordinary man helping; nobody sees why it matters |
+| **Return** | back to a place a year on, to show the ripple; it never undoes the warm ending | the town lives with consequences, not a pattern |
+| **Thread** | an object or letter passing from hand to hand | each hand sees one moment of it |
+| **Desk** | a clerk, courier or cook inside a lender's, merchant house's or official's world, doing their job | the Council never acts as a named body; a person does their work |
+| **Figure** | a domino figure on an ordinary day | the rules already allow them "as ordinary people" |
 
-## Planted already, paid later
+## Planted already
 
-The fourteen already hold threads a later season can pick up without changing a word of them. Each one is a candidate, not a plan:
+The fourteen already hold threads a later story can pick up without changing a word. These are candidates, not a plan:
 
-- **The unanswered letter on Col's bench** ([Inspected](../Drafts/Inspected-Not-Guaranteed.md)), and Wurdren seeing it. That's where his noticing begins.
-- **The letter Hollis burned, which the Weaver-path elder wrote down** ([The Tree With a Debt](../Drafts/The-Tree-With-a-Debt.md)), and **the record of it lost at the ford** ([The Blank Square](../Drafts/The-Blank-Square.md)). The only written account is gone, so whoever wants the truth has to find the people who were there.
-- **The pledges the buyer had already bought along the road** (The Tree): somebody holds them.
-- **The Salve house buying Greenvale grain** ([One Square](../Drafts/One-Square-Two-Harvests.md)), which the Council's desk might punish by tightening its credit. That's a Desk story waiting.
-- **Samir Tareh's route book** ([The Heavy Scale](../Drafts/The-Heavy-Scale.md), [The Goat File](../Drafts/The-Goat-File.md)): a record of which towns are honest, and someone will want it.
-- **Coalglen's walkout, called with notice** ([Walkout Pies](../Drafts/Walkout-Pies.md)), and **the other valley's lost pour**.
-- **Maris Bleakshore's confirmed convoy lists** ([The First Fish](../Drafts/The-First-Fish.md)) and the Frostbay boats on Northwind water.
-- **The city whose lamps went dark** ([The Ladder Rules](../Drafts/The-Ladder-Rules.md)) and the rival city's reading of Vasselin.
-- **The tower claim on its way to arbitration** ([The Road in Use](../Drafts/The-Road-in-Use.md)) and **Udo's other route below** ([The Mushrooms From Nowhere](../Drafts/The-Mushrooms-From-Nowhere.md)).
-- **The reform statement with all its marks** ([The Eighth Verse](../Drafts/The-Eighth-Verse.md), The Blank Square), arriving somewhere it will be read as proof (ripple chain [step 13](../../Story/Current-Events.md#example-ripple-chain)).
-- **The people.** Every protagonist of Season 1 is someone Wurdren could meet, owe or need. In Season 4 his network is made of them. That's the canon's [Villain's view](../../Story/Villain.md#relationship-to-wurdren) of him ("people trust him without being paid or coerced"), told one person at a time.
+- **The unanswered letter on Col's bench**, which Wurdren saw ([Inspected](../Drafts/Inspected-Not-Guaranteed.md)).
+- **The letter Hollis burned and the Weaver-path elder wrote down** ([The Tree With a Debt](../Drafts/The-Tree-With-a-Debt.md)), and **the only written account, lost at the ford** ([The Blank Square](../Drafts/The-Blank-Square.md)).
+- **The pledges the buyer had already bought along the road** (The Tree).
+- **The Salve house buying Greenvale grain** ([One Square](../Drafts/One-Square-Two-Harvests.md)), and the credit squeeze Collection's [desk view](Collection.md#the-view-from-the-desks) expects.
+- **Samir Tareh's route book** of honest towns ([The Heavy Scale](../Drafts/The-Heavy-Scale.md)).
+- **Coalglen's walkout, called with notice, and the other valley's lost pour** ([Walkout Pies](../Drafts/Walkout-Pies.md)).
+- **Maris Bleakshore's confirmed lists, and Frostbay boats on Northwind water** ([The First Fish](../Drafts/The-First-Fish.md)).
+- **The city whose lamps went dark, and the rival city's reading of Vasselin** ([The Ladder Rules](../Drafts/The-Ladder-Rules.md)).
+- **The tower claim on its way to arbitration, and Udo's other route below** ([The Road in Use](../Drafts/The-Road-in-Use.md), [The Mushrooms From Nowhere](../Drafts/The-Mushrooms-From-Nowhere.md)).
+- **The reform statement with all its marks** ([The Eighth Verse](../Drafts/The-Eighth-Verse.md), The Blank Square), on its way to being read as proof.
+- **The people.** Every Season 1 protagonist is someone Wurdren could meet, owe or need later.
 
-## Rulings needed, and when
+## Questions for later
 
-The method asks bt 7274 only for what the next season needs, not everything at once. Each item has a lean.
+Each waits until a season needs it.
 
-**Before Season 2:**
+- **Before Season 3:** the Villain's homeland and the shape of his grievance, so the stories can feel what he's fighting for even with him offstage. And whether he knows the full Council structure at the start ([Open Questions](../../Open-Questions.md#villain)).
+- **Before Season 4:** near-war or limited war.
+- **Before Season 5:** how the public ending is told from the ground (lean above); the end-state the Villain wants; the point where his methods become unacceptable; what the Council keeps and loses.
+- **Whenever a story needs it:** anything of Wurdren's past ([Rules](Rules.md#wurdren-in-sunday-morning-stories)), and who the first person he matters to turns out to be.
 
-1. **Is the end goal the [possible resolution model](../../Story/Main-Conflict.md#possible-resolution-model)?** The Council is forced into the open, the Villain's last escalation fractures his coalition, and Wurdren's relationships produce an outcome neither side intended. *Lean: yes, as the target the seasons walk toward, still provisional.*
-2. **Can Wurdren appear in about a third of Season 2's stories, mostly as a passing stranger?** [Rules](Rules.md#wurdren-in-sunday-morning-stories) says most stories should not *star* him. *Lean: appearing isn't starring. He leads at most two stories a season.*
-3. **Where does he go after Stonefield?** His journey's start is [open](../../Open-Questions.md#wurdren). Inspected puts him at Stonefield in Year 2 early spring, on foot and heading somewhere. *Lean: leave his past open and only decide his route.*
-4. **Does [D2](Decisions.md#the-authors-decisions) ("connected, not driven") become "connected, then driven" by season?** *Lean: yes. It's the one rule this proposal moves, and it moves it on the schedule in the table above.*
+## What it changes in the method
 
-**Before Season 3:** the Villain's homeland and the shape of his grievance (enough for a domino figure to meet his people), and whether he knows the full Council structure at the start ([Open Questions](../../Open-Questions.md#villain)).
-
-**Before Season 4:** near-war or limited war, and whether the Villain appears on the page in that season.
-
-**Before Season 5:** the end-state he wants, the point where his methods become unacceptable, and what the Council keeps and loses.
-
-## What it would change in the method, once approved
-
-- A new D-row for each ruling, and a "season settings" section added to [Rules](Rules.md) that points here.
-- [Collection](Collection.md) gains a section per season (reading order, ledger, threads), with Season 1 as it stands.
-- The [Domino Map](../../../atlas/domino-map/Domino-Map.md)'s saga-scale nodes, such as "Villain amplifies 'Council involvement'" and "local shocks read as proof of enemies", start getting stories from Season 3.
-- The [Pipeline](Pipeline.md) needs no change. Each new story runs Stage 0 to RECONCILE as Season 1's did, test story first.
+- [Collection](Collection.md) gains a section per season (reading order with expected reader state, ledger, threads), with Season 1 as it stands.
+- The [Pipeline](Pipeline.md) doesn't change: each story runs Stage 0 to RECONCILE, test story first.
+- A season's research starts from the [Domino Map](../../../atlas/domino-map/Domino-Map.md) and this page's planted threads.

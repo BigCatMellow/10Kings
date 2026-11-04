@@ -80,6 +80,12 @@ His mature heroism is not "I will save the world."
 It is closer to:
 "I cannot control the world, but I am responsible for what I do when the world reaches the person standing in front of me."
 
+### What he is looking for (bt 7274's direction, 2026-11-04)
+
+Wurdren has no desire to be a ruler or a leader. "He simply wants to prove that his life can still have a purpose", and he finds it through helping others. The turn in his arc is that his purpose "isnt proving to himself that he mattered but finding a way to matter to one person (and eventually more)."
+
+This sharpens the arc above and doesn't replace it. His early need to be needed (a [weakness](#character-weakness)) becomes, by the end, being someone a particular person can count on. Who that first person is stays open. The [Sunday Morning](../Sunday-Morning/README.md) stories may find them; bt 7274's guidance is that "the story is a garden, it will grow in ways we cant see right now."
+
 ## Narrative rule
 
 Do not turn Wurdren into:

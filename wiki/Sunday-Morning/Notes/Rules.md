@@ -69,6 +69,10 @@ Wurdren can headline a Sunday Morning story; his arc already moves toward small 
 - His [weaknesses](../../Story/Wurdren.md#character-weakness) (regret over an unremarkable career, the desire to be needed, nostalgia for simpler heroism) work well as gentle comedy and quiet heart.
 - His exact age, biography, family and starting point remain [open questions](../../Open-Questions.md). A story should not settle them in passing. If a draft needs his past, stop and ask the author.
 
+**When he appears, he's the signal** ([D19](Decisions.md#the-authors-decisions)): "From time to time, he should be the signal to the reader that something bigger is happening." He turns up from time to time, usually in someone else's story, and his being there tells the reader this one matters to the larger thread. Nobody in the story knows that, him included ([D21](Decisions.md#the-authors-decisions)).
+
+What he's looking for is purpose, found in mattering to one person, then more; he doesn't want to lead ([D18](Decisions.md#the-authors-decisions)).
+
 Most Sunday Morning stories should **not** star him. World Rules §20: the world exists when the protagonists are absent, and a town may solve its own problem before Wurdren arrives.
 
 ## Setting rules that still apply

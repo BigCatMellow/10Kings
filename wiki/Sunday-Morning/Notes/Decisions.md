@@ -25,6 +25,10 @@
 | D15 | 2026-09-29 | Map all the dominoes and how they connect, with the stories placed on them, to see which parts still need stories and track what's connected. | [Domino Map](../../../atlas/domino-map/Domino-Map.md) |
 | D16 | 2026-11-02 | Write more stories and tie them further into the world ("I've enjoyed reading them and want to expand on them more and their connectedness to the rest of the 10 Kings world"): new stories rather than extensions, set inside the same year, seven of them, one for each gap on the Domino Map. Taken through the pipeline: all seven to L2, an independent check of the plans, then one test draft for bt 7274 to read before the other six are drafted. | [Collection](Collection.md#extension-to-fourteen-stories-2026-11-02), the seven new [story pages](../README.md#stories-at-a-glance) |
 | D17 | 2026-11-03 | The test story works: draft the other six the same way ("go for it", on The Eighth Verse). | the six new [drafts](../Drafts/README.md) |
+| D18 | 2026-11-04 | The end goal is Main Conflict's possible resolution model, as the direction the stories walk toward ("That works for me"). Wurdren's own end: he doesn't want to rule or lead. He wants to prove his life can still have a purpose, and finds it in mattering to one person, then more. | [Wurdren](../../Story/Wurdren.md#what-he-is-looking-for-bt-7274s-direction-2026-11-04), [The Long Road](The-Long-Road.md) |
+| D19 | 2026-11-04 | Wurdren appears "from time to time", and when he does he is "the signal to the reader that something bigger is happening." | [Rules: Wurdren](Rules.md#wurdren-in-sunday-morning-stories), [The Long Road](The-Long-Road.md) |
+| D20 | 2026-11-04 | No fixed route or plan for where he goes: "The story is a garden, it will grow in ways we cant see right now." Each story places him; the map is drawn afterward. | [The Long Road](The-Long-Road.md) |
+| D21 | 2026-11-04 | D2 stands ("No, its working"). The stories stay connected, not driven: nobody in a story sees the pattern, the Villain never appears as himself, the Council never acts as a named body. The main story advances through what the reader can see, not through what characters can. | [Rules: world tie](Rules.md#the-world-tie-rule-connected-not-driven), [The Long Road](The-Long-Road.md) |
 
 ## Working decisions (made in the work, waiting for the author's reading)
 
@@ -44,7 +48,7 @@ These were decided while drafting or reorganizing. Each is reversible from the r
 
 ## Open for the author
 
-- **[The Long Road](The-Long-Road.md#rulings-needed-and-when)**: four rulings before a second season. Is the end goal Main Conflict's possible resolution model? Can Wurdren appear in about a third of Season 2? Where does he go after Stonefield? Does D2 move from "connected, not driven" to "connected, then driven" on a schedule? Each has a lean on the page.
+- **[The Long Road](The-Long-Road.md#questions-for-later)**: the four rulings before Season 2 are made (D18–D21). The later questions on the page wait until a season needs them.
 - **L4 reading of the seven new drafts** ([D16](#the-authors-decisions), [D17](#the-authors-decisions)). Each has had a fresh cold read; the lines in the cautious categories are listed on each draft's Status header for him to rewrite.
 - **The shared arc** across the new stories, raised by both cold readers: a quiet craftsperson with a one-line credo ("A warden checks and goes", "Footing's the real job", "Smokehouses don't haggle", "I just say yes") breaks it by saying one plain thing in public. The stories differ in engine, register and resolution, but the arc is the same. Lean: keep it in four stories, and on a revision pass give two of them (The Road in Use and Walkout Pies are the easiest) a turn that isn't a public statement. This is a taste call.
 - **Leans taken in the new plans, for bt 7274 to overrule:**
