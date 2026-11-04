@@ -108,3 +108,7 @@ This should not imply that historical Appalachians were generally nomadic. It is
 Border populations should not look like "half of culture A plus half of culture B." Over generations, they develop their own institutions, accents, marriage patterns, foods, building types, jokes, prejudices, and identities.
 
 Port should have neighborhoods whose cultures are several generations removed from their ancestral regions and no longer fit clean categories.
+
+## Recovered comparative research
+
+The [Cultural Research Library](../Reference/Cultural-Research-Library.md) indexes preserved legacy notes, partially recovered 2024–2026 cultural discussions, and independently checked case studies of real-world institutions (oral performance, recordkeeping, reciprocity, irrigation governance, ritual and diaspora). It is **non-canon reference**, not another owner or a list of approved regional analogues. All culture decisions remain governed by this page and [World Rules](../World-Rules.md).

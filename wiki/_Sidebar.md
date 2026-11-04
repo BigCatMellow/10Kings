@@ -89,4 +89,5 @@
 
 **Reference**
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md)
+- [Cultural Research Library](Reference/Cultural-Research-Library.md)
 - [Source Register](Reference/Source-Register.md)

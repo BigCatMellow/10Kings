@@ -100,6 +100,7 @@ Small, human-scale stories set in the world's border towns, festivals and neighb
 ## Writing and provenance
 
 - [Worldbuilding Breath](Reference/Worldbuilding-Breath.md) — scene-level writing guidance, not canon
+- [Cultural Research Library](Reference/Cultural-Research-Library.md) — recovered cultural conversations, practice case studies, and preserved sources (non-canon)
 - [Source Register](Reference/Source-Register.md) — imported-source provenance and disposition
 
 ## Canon discipline
