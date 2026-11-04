@@ -8,7 +8,7 @@ The main conflict, the current events and how they can ripple into each other, t
 
 Current events sit in their region's column (the cross-region ripple steps, the faiths' reading of the crises and the main-conflict cards in a Main conflict column). Each Sunday Morning story and seed sits in the column of its setting, with lines to its town or region, its festival, the events it sits on, its domino figure, its cast from Part 6, and the stories it shares a thread with. The ripple chain from Current Events is drawn step by step and marked possible.
 
-**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 2 story seeds; 242 connections (232 stated in the wiki, 10 inferred).
+**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 33 story seeds; 319 connections (309 stated in the wiki, 10 inferred).
 
 ## Gaps this part exposes
 
@@ -169,6 +169,83 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Inspected, Not Guaranteed | shares a thread with | Walkout Pies | stated | “Kerra Dunnock” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
 | The Tree With a Debt | shares a thread with | The Blank Square | stated | “the Twilighthollow community record” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
 | The Road in Use | shares a thread with | The Mushrooms From Nowhere | stated | “the lost corridor” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
+| The Walker's Stone | would be set in | The Overpath | stated, possible | “Overpath” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-walkers-stone) |
+| Above | would be set in | The Overpath | stated, possible | “Overpath” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#above) |
+| Above | would be set in | The Underpass | stated, possible | “Underpass” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#above) |
+| The Air Keeper | would be set in | The Underpass | stated, possible | “Underpass” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-air-keeper) |
+| The Air Keeper | would sit on | Underpass route wars | stated, possible | “collapse has redirected trade” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-air-keeper) |
+| The Air Keeper | would use | Mira Stonebridge | stated, possible | “Mira Stonebridge” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-air-keeper) |
+| The Deep Door | would be set in | The Underpass | stated, possible | “Underpass” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-deep-door) |
+| The Deep Door | would sit on | Earthquake or land movement | stated, possible | “quakes revealing sealed spaces” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-deep-door) |
+| The Deep Door | would use | Ilya Dravencrest | stated, possible | “Ilya Dravencrest” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-deep-door) |
+| The Deep Door | would use | Gharic Coalveil | stated, possible | “Gharic Coalveil” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-deep-door) |
+| What the Pass Is Called | would be set in | The Spine | stated, possible | “Spine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-pass-is-called) |
+| What the Pass Is Called | would use | Old Spine speech | stated, possible | “Old Spine speech” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-pass-is-called) |
+| Muster Bell | would be set in | Seven Hill | stated, possible | “Seven Hill” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#muster-bell) |
+| The Walls Come Home | would be set in | Seven Hill | stated, possible | “Seven Hill” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-walls-come-home) |
+| The Walls Come Home | would use | Builders and infrastructure guilds | stated, possible | “builders' guild” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-walls-come-home) |
+| The Harbor Runner | would be set in | Port | stated, possible | “Port” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-harbor-runner) |
+| The Harbor Runner | would use | Port culture | stated, possible | “Port culture” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-harbor-runner) |
+| The Harbor Runner | would use | Trade Tongue | stated, possible | “Trade Tongue” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-harbor-runner) |
+| The Harbor Runner | would run up to | Tide Return | stated, possible | “festivals” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-harbor-runner) |
+| The Bucket Race | would be set in | Port | stated, possible | “Port” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bucket-race) |
+| The Bucket Race | would use | Port culture | stated, possible | “mixed families” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bucket-race) |
+| The Yellow Flag | would be set in | Port | stated, possible | “Port” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-yellow-flag) |
+| The Yellow Flag | would use | Medicine and healing | stated, possible | “Medicine and Healing” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-yellow-flag) |
+| Lean Vigil | would be set in | Port | stated, possible | “Port” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#lean-vigil) |
+| Lean Vigil | would sit on | Refugee and worker pressure | stated, possible | “refugee and worker pressure” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#lean-vigil) |
+| Lean Vigil | would run up to | Lean Vigil | stated, possible | “Lean Vigil” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#lean-vigil) |
+| Lean Vigil | would use | Port cuisine | stated, possible | “Port cuisine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#lean-vigil) |
+| Mending Day | would use | Nomads and itinerant peoples | stated, possible | “Nomads” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#mending-day) |
+| The Stopping Place | would sit on | Land and seed politics | stated, possible | “land and seed politics” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-stopping-place) |
+| The Stopping Place | would use | Nomads and itinerant peoples | stated, possible | “Nomads” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-stopping-place) |
+| The Slow Boat | would use | Sunplains culture | stated, possible | “Sunplains” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-slow-boat) |
+| The Slow Boat | would be set in | Sunplains | stated, possible | “Sunplains” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-slow-boat) |
+| The Slow Boat | would use | Nomads and itinerant peoples | stated, possible | “Nomads” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-slow-boat) |
+| The Slow Boat | would run up to | Wine Crush | stated, possible | “Wine Crush” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-slow-boat) |
+| The Slow Boat | would use | Sunplains cuisine | stated, possible | “Sunplains cuisine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-slow-boat) |
+| The Ballad Line | would use | Nomads and itinerant peoples | stated, possible | “Nomads” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-ballad-line) |
+| Under the Lights | would use | Northwind culture | stated, possible | “Northwind” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#under-the-lights) |
+| Under the Lights | would be set in | Northwind | stated, possible | “Northwind” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#under-the-lights) |
+| Under the Lights | would run up to | Aurora Nights | stated, possible | “Aurora Nights” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#under-the-lights) |
+| Under the Lights | would use | Northwind cuisine | stated, possible | “Northwind cuisine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#under-the-lights) |
+| The Wrong Day | would use | The Cyclic Order | stated, possible | “Cyclic Order” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-wrong-day) |
+| The Wrong Day | would use | Calendar and timekeeping | stated, possible | “Calendar and Timekeeping” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-wrong-day) |
+| Forge Reawakening | would use | Ironcrest culture | stated, possible | “Ironcrest” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening) |
+| Forge Reawakening | would be set in | Ironcrest | stated, possible | “Ironcrest” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening) |
+| Forge Reawakening | would use | The Eternal Forge | stated, possible | “Eternal Forge” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening) |
+| Forge Reawakening | would run up to | Forge Reawakening | stated, possible | “Forge Reawakening” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening) |
+| Forge Reawakening | would use | Ironcrest cuisine | stated, possible | “Ironcrest cuisine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening) |
+| The Kitchen Court | would use | The Harmonious Path | stated, possible | “Harmonious Path” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-kitchen-court) |
+| The Same Sin | would use | The Dual Flame | stated, possible | “Dual Flame” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-same-sin) |
+| The Name on Both Walls | would use | The Ember Wars / The Burning Years | stated, possible | “Ember Wars” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls) |
+| The Name on Both Walls | would use | Ember Wars: Greenvale folk memory | stated, possible | “Ember Wars” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls) |
+| The Name on Both Walls | would use | Ember Wars: Ironcrest patriotic memory | stated, possible | “Ember Wars” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls) |
+| The Name on Both Walls | would use | Ember Wars: border memory | stated, possible | “Ember Wars” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls) |
+| The Name on Both Walls | would run up to | Ember Remembrance | stated, possible | “Ember Remembrance” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls) |
+| The Treaty Stone | would use | Border recognition | stated, possible | “border recognition” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-treaty-stone) |
+| The Treaty Stone | would use | Arbitration | stated, possible | “arbitration” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-treaty-stone) |
+| Salt Between Them | would use | The Salted Coast Disputes | stated, possible | “Salted Coast” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#salt-between-them) |
+| Salt Between Them | would use | Salted Coast: Northwind songs | stated, possible | “Salted Coast” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#salt-between-them) |
+| Salt Between Them | would use | Salted Coast: Sunplains stories | stated, possible | “Salted Coast” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#salt-between-them) |
+| Salt Between Them | would use | Salted Coast: Port traditions | stated, possible | “Salted Coast” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#salt-between-them) |
+| Salt Between Them | would sit on | Convoy politics | stated, possible | “convoy politics” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#salt-between-them) |
+| The Seizure Warehouse | would be set in | Port | stated, possible | “Port” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-seizure-warehouse) |
+| The Seizure Warehouse | would use | The Port Seizure | stated, possible | “Port Seizure” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-seizure-warehouse) |
+| The Seizure Warehouse | would use | Port Seizure: some Northwind families | stated, possible | “Port Seizure” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-seizure-warehouse) |
+| The Seizure Warehouse | would use | Port Seizure: some Port families | stated, possible | “Port Seizure” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-seizure-warehouse) |
+| The Seizure Warehouse | would use | Port Seizure: some merchants | stated, possible | “Port Seizure” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-seizure-warehouse) |
+| The Bridge Delay | would use | Highridge culture | stated, possible | “Highridge” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bridge-delay) |
+| The Bridge Delay | would be set in | Highridge Plateau | stated, possible | “Highridge” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bridge-delay) |
+| The Bridge Delay | would use | Builders and infrastructure guilds | stated, possible | “builders and infrastructure guilds” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bridge-delay) |
+| The Bridge Delay | would use | Highridge cuisine | stated, possible | “Highridge cuisine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bridge-delay) |
+| The Tea Boy | would be set in | Port | stated, possible | “Port” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy) |
+| The Tea Boy | would use | Port crime | stated, possible | “intelligence brokerage” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy) |
+| The Tea Boy | would use | Spy Guild | stated, possible | “Spy Guild” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy) |
+| The Retired Blade | would be set in | Seven Hill | stated, possible | “Seven Hill” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-retired-blade) |
+| The Retired Blade | would use | Warrior's Guild | stated, possible | “Warrior's Guild” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-retired-blade) |
+| The Midwife's Road | would use | Medicine and healing | stated, possible | “Medicine and Healing” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-midwifes-road) |
+| The Coat | would use | Clothing and material culture | stated, possible | “Clothing and Material Culture” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-coat) |
 
 ## Who appears where
 
@@ -482,6 +559,80 @@ flowchart LR
   sm_wilda["Wilda"]
   sm_gideon["Gideon"]
   sm_nils_orvay["Nils Orvay"]
+  seed_w_the_walkers_stone["The Walker's Stone"]
+  overpath["The Overpath"]
+  seed_w_above["Above"]
+  seed_w_the_air_keeper["The Air Keeper"]
+  pp_mira["Mira Stonebridge"]
+  seed_w_the_deep_door["The Deep Door"]
+  pp_ilya["Ilya Dravencrest"]
+  pp_gharic["Gharic Coalveil"]
+  seed_w_what_the_pass_is_called["What the Pass Is Called"]
+  lang_oldspine["Old Spine speech"]
+  seed_w_muster_bell["Muster Bell"]
+  sevenhill["Seven Hill"]
+  seed_w_the_walls_come_home["The Walls Come Home"]
+  pw_guild_builders["Builders and infrastructure guilds"]
+  seed_w_the_harbor_runner["The Harbor Runner"]
+  port_culture["Port culture"]
+  lang_trade["Trade Tongue"]
+  f_tide_return["Tide Return"]
+  seed_w_the_bucket_race["The Bucket Race"]
+  seed_w_the_yellow_flag["The Yellow Flag"]
+  systems_proposal_15["Medicine and healing"]
+  seed_w_lean_vigil["Lean Vigil"]
+  f_lean_vigil["Lean Vigil"]
+  port_food["Port cuisine"]
+  seed_w_mending_day["Mending Day"]
+  nomads["Nomads and itinerant peoples"]
+  seed_w_the_stopping_place["The Stopping Place"]
+  seed_w_the_slow_boat["The Slow Boat"]
+  sunplains_culture["Sunplains culture"]
+  sunplains_food["Sunplains cuisine"]
+  seed_w_the_ballad_line["The Ballad Line"]
+  seed_w_under_the_lights["Under the Lights"]
+  northwind_culture["Northwind culture"]
+  f_aurora_nights["Aurora Nights"]
+  northwind_food["Northwind cuisine"]
+  seed_w_the_wrong_day["The Wrong Day"]
+  pw_faith_cyclic["The Cyclic Order"]
+  systems_proposal_05["Calendar and timekeeping"]
+  seed_w_forge_reawakening["Forge Reawakening"]
+  ironcrest_culture["Ironcrest culture"]
+  pw_faith_forge["The Eternal Forge"]
+  ironcrest_food["Ironcrest cuisine"]
+  seed_w_the_kitchen_court["The Kitchen Court"]
+  seed_w_the_same_sin["The Same Sin"]
+  seed_w_the_name_on_both_walls["The Name on Both Walls"]
+  hi_mem_ember_wars["The Ember Wars / The Burning Years"]
+  hi_ver_ember_greenvale["Ember Wars: Greenvale folk memory"]
+  hi_ver_ember_ironcrest["Ember Wars: Ironcrest patriotic memory"]
+  hi_ver_ember_border["Ember Wars: border memory"]
+  f_ember_remembrance["Ember Remembrance"]
+  seed_w_the_treaty_stone["The Treaty Stone"]
+  hi_prov_border_recognition["Border recognition"]
+  hi_prov_arbitration["Arbitration"]
+  seed_w_salt_between_them["Salt Between Them"]
+  hi_mem_salted_coast["The Salted Coast Disputes"]
+  hi_ver_salted_northwind["Salted Coast: Northwind songs"]
+  hi_ver_salted_sunplains["Salted Coast: Sunplains stories"]
+  hi_ver_salted_port["Salted Coast: Port traditions"]
+  seed_w_the_seizure_warehouse["The Seizure Warehouse"]
+  hi_mem_port_seizure["The Port Seizure"]
+  hi_ver_seizure_northwind["Port Seizure: some Northwind families"]
+  hi_ver_seizure_port["Port Seizure: some Port families"]
+  hi_ver_seizure_merchants["Port Seizure: some merchants"]
+  seed_w_the_bridge_delay["The Bridge Delay"]
+  highridge_culture["Highridge culture"]
+  highridge_food["Highridge cuisine"]
+  seed_w_the_tea_boy["The Tea Boy"]
+  pw_crime_port["Port crime"]
+  pw_guild_spy["Spy Guild"]
+  seed_w_the_retired_blade["The Retired Blade"]
+  pw_guild_warrior["Warrior's Guild"]
+  seed_w_the_midwifes_road["The Midwife's Road"]
+  seed_w_the_coat["The Coat"]
+  systems_proposal_12["Clothing and material culture"]
   st_main --> pp_villain
   st_main --> pw_council
   st_main --> pp_wurdren
@@ -714,6 +865,83 @@ flowchart LR
   sm_nils_orvay --> story_blank_square
   sm_zan_coyle --> story_mushrooms
   sm_vinegar --> story_mushrooms
+  seed_w_the_walkers_stone -.->|possible| overpath
+  seed_w_above -.->|possible| overpath
+  seed_w_above -.->|possible| underpass
+  seed_w_the_air_keeper -.->|possible| underpass
+  seed_w_the_air_keeper -.->|possible| st_sx_routewars
+  seed_w_the_air_keeper -.->|possible| pp_mira
+  seed_w_the_deep_door -.->|possible| underpass
+  seed_w_the_deep_door -.->|possible| st_sx_quake
+  seed_w_the_deep_door -.->|possible| pp_ilya
+  seed_w_the_deep_door -.->|possible| pp_gharic
+  seed_w_what_the_pass_is_called -.->|possible| spine
+  seed_w_what_the_pass_is_called -.->|possible| lang_oldspine
+  seed_w_muster_bell -.->|possible| sevenhill
+  seed_w_the_walls_come_home -.->|possible| sevenhill
+  seed_w_the_walls_come_home -.->|possible| pw_guild_builders
+  seed_w_the_harbor_runner -.->|possible| port
+  seed_w_the_harbor_runner -.->|possible| port_culture
+  seed_w_the_harbor_runner -.->|possible| lang_trade
+  seed_w_the_harbor_runner -.->|possible| f_tide_return
+  seed_w_the_bucket_race -.->|possible| port
+  seed_w_the_bucket_race -.->|possible| port_culture
+  seed_w_the_yellow_flag -.->|possible| port
+  seed_w_the_yellow_flag -.->|possible| systems_proposal_15
+  seed_w_lean_vigil -.->|possible| port
+  seed_w_lean_vigil -.->|possible| st_pt_refugees
+  seed_w_lean_vigil -.->|possible| f_lean_vigil
+  seed_w_lean_vigil -.->|possible| port_food
+  seed_w_mending_day -.->|possible| nomads
+  seed_w_the_stopping_place -.->|possible| st_gv_land
+  seed_w_the_stopping_place -.->|possible| nomads
+  seed_w_the_slow_boat -.->|possible| sunplains_culture
+  seed_w_the_slow_boat -.->|possible| sunplains
+  seed_w_the_slow_boat -.->|possible| nomads
+  seed_w_the_slow_boat -.->|possible| f_wine_crush
+  seed_w_the_slow_boat -.->|possible| sunplains_food
+  seed_w_the_ballad_line -.->|possible| nomads
+  seed_w_under_the_lights -.->|possible| northwind_culture
+  seed_w_under_the_lights -.->|possible| northwind
+  seed_w_under_the_lights -.->|possible| f_aurora_nights
+  seed_w_under_the_lights -.->|possible| northwind_food
+  seed_w_the_wrong_day -.->|possible| pw_faith_cyclic
+  seed_w_the_wrong_day -.->|possible| systems_proposal_05
+  seed_w_forge_reawakening -.->|possible| ironcrest_culture
+  seed_w_forge_reawakening -.->|possible| ironcrest
+  seed_w_forge_reawakening -.->|possible| pw_faith_forge
+  seed_w_forge_reawakening -.->|possible| f_forge_reawakening
+  seed_w_forge_reawakening -.->|possible| ironcrest_food
+  seed_w_the_kitchen_court -.->|possible| pw_faith_harmonious
+  seed_w_the_same_sin -.->|possible| pw_faith_dualflame
+  seed_w_the_name_on_both_walls -.->|possible| hi_mem_ember_wars
+  seed_w_the_name_on_both_walls -.->|possible| hi_ver_ember_greenvale
+  seed_w_the_name_on_both_walls -.->|possible| hi_ver_ember_ironcrest
+  seed_w_the_name_on_both_walls -.->|possible| hi_ver_ember_border
+  seed_w_the_name_on_both_walls -.->|possible| f_ember_remembrance
+  seed_w_the_treaty_stone -.->|possible| hi_prov_border_recognition
+  seed_w_the_treaty_stone -.->|possible| hi_prov_arbitration
+  seed_w_salt_between_them -.->|possible| hi_mem_salted_coast
+  seed_w_salt_between_them -.->|possible| hi_ver_salted_northwind
+  seed_w_salt_between_them -.->|possible| hi_ver_salted_sunplains
+  seed_w_salt_between_them -.->|possible| hi_ver_salted_port
+  seed_w_salt_between_them -.->|possible| st_nw_convoy
+  seed_w_the_seizure_warehouse -.->|possible| port
+  seed_w_the_seizure_warehouse -.->|possible| hi_mem_port_seizure
+  seed_w_the_seizure_warehouse -.->|possible| hi_ver_seizure_northwind
+  seed_w_the_seizure_warehouse -.->|possible| hi_ver_seizure_port
+  seed_w_the_seizure_warehouse -.->|possible| hi_ver_seizure_merchants
+  seed_w_the_bridge_delay -.->|possible| highridge_culture
+  seed_w_the_bridge_delay -.->|possible| highridge
+  seed_w_the_bridge_delay -.->|possible| pw_guild_builders
+  seed_w_the_bridge_delay -.->|possible| highridge_food
+  seed_w_the_tea_boy -.->|possible| port
+  seed_w_the_tea_boy -.->|possible| pw_crime_port
+  seed_w_the_tea_boy -.->|possible| pw_guild_spy
+  seed_w_the_retired_blade -.->|possible| sevenhill
+  seed_w_the_retired_blade -.->|possible| pw_guild_warrior
+  seed_w_the_midwifes_road -.->|possible| systems_proposal_15
+  seed_w_the_coat -.->|possible| systems_proposal_12
 ```
 
 ## Every thing in this part
@@ -730,6 +958,7 @@ Grouped by board column.
 | [1. Shipping risk rises](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 1 of one possible ripple chain: Northwind piracy raises shipping risk. |
 | [The Greenvale Man](../../wiki/Sunday-Morning/Stories/The-Greenvale-Man.md#status) | Sunday Morning story, Year 1, late autumn | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The First Fish at Snowbreaker Quay](../../wiki/Sunday-Morning/Stories/The-First-Fish.md#status) | Sunday Morning story, Year 2, late spring | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [Under the Lights](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#under-the-lights) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Piracy rises**
 
@@ -770,6 +999,13 @@ Grouped by board column.
 - *Outward effect:* Another town took the offer, and the convoy hears of Frostbay boats on Northwind water. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [The First Fish](../../wiki/Sunday-Morning/Drafts/The-First-Fish.md), [The First Fish](../../wiki/Sunday-Morning/Stories/The-First-Fish.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
+**Under the Lights**
+
+- *Kind:* World
+- *Premise:* Two families have planned a betrothal under the lights, and the lights don't come. The grandmothers disagree about whether it counts.
+- *Possible heart:* a promise doesn't need the sky's permission.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
 ### Highridge Plateau
 
 | Thing | Kind | Status | Summary |
@@ -778,6 +1014,9 @@ Grouped by board column.
 | [Trade redirected](../../wiki/Story/Current-Events.md#caravan-attacks) | Current event | No status label | Trade is redirected. Towns bypassed by new routes suffer immediately. |
 | [Debates tied to patrons](../../wiki/Story/Current-Events.md#political-debate) | Current event | No status label | Highridge intellectual disputes are increasingly tied to real patrons and commercial interests. |
 | [The Goat File](../../wiki/Sunday-Morning/Stories/The-Goat-File.md#status) | Sunday Morning story, Year 1, late autumn | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Stopping Place](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-stopping-place) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Bridge Delay](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bridge-delay) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [How the News Came](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#how-the-news-came) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Caravan attacks**
 
@@ -801,6 +1040,27 @@ Grouped by board column.
 - *Still falls elsewhere:* In other towns, forced closures ruin families; the tea seller has heard of two. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Outward effect:* A joined house can offer caravans water and guides together, just as routes are being redrawn. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [The Goat File](../../wiki/Sunday-Morning/Drafts/The-Goat-File.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+
+**The Stopping Place**
+
+- *Kind:* Domino
+- *Premise:* A circuit family arrives at the spring where they have stopped every spring for longer than anyone can say, and finds a new fence and a new owner who has never heard of them.
+- *Possible heart:* old custom is only as strong as the people who remember it.
+- *Possible thread:* land changing hands (land and seed politics); the buyer's reasons stay ordinary.
+
+**The Bridge Delay**
+
+- *Kind:* Domino
+- *Premise:* The bridge repair is late, and three towns are sure it's politics. It's the master builder's daughter's wedding.
+- *Possible heart:* most of what looks like a plot is somebody's family.
+- *Possible thread:* builders' delays "can become political weapons even when caused by ordinary disputes", and a later rung of the ripple chain, where local shocks are read as proof of enemies.
+
+**How the News Came**
+
+- *Kind:* Domino
+- *Premise:* A big piece of news reaches a remote relay post in three versions, by three carriers, in one day. The postkeeper has to decide which one goes on the board.
+- *Possible heart:* getting it right slowly beats getting it wrong first.
+- *Possible thread:* what people say about the big events gets "more specific, and sometimes more wrong" (The Long Road).
 
 ### Deepwood
 
@@ -852,6 +1112,7 @@ Grouped by board column.
 | [10. Workshops cut hours](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 10 of one possible ripple chain: Ironcrest workshops reduce hours. |
 | [11. Strike leaders blame owners](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 11 of one possible ripple chain: strike leaders blame owners. |
 | [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md#status) | Sunday Morning story, Year 2, midsummer | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [Forge Reawakening](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Unusual metal movements**
 
@@ -889,6 +1150,13 @@ Grouped by board column.
 - *Outward effect:* In another valley the walkout hit the pour; owners and crews blame each other there. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [Walkout Pies](../../wiki/Sunday-Morning/Drafts/Walkout-Pies.md), [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
+**Forge Reawakening**
+
+- *Kind:* Domino
+- *Premise:* At the spring relighting, apprentices are judged on one piece each. An Eternal Forge master has to judge her own nephew's, and it's good, and it's not his.
+- *Possible heart:* honesty in the work is the work.
+- *Possible thread:* Eternal Forge institutions "becoming active in labor and quality disputes"; the town is near Coalglen, a year after Walkout Pies.
+
 ### Greenvale
 
 | Thing | Kind | Status | Summary |
@@ -901,6 +1169,8 @@ Grouped by board column.
 | [7. Consolidators buy farms](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 7 of one possible ripple chain: land consolidators buy distressed farms. |
 | [8. Reformers cry theft](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 8 of one possible ripple chain: religious and guild reformers call it coordinated theft. |
 | [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md#status) | Sunday Morning story, Year 1, midwinter | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [Mending Day](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#mending-day) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Wrong Day](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-wrong-day) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Abundance crisis**
 
@@ -946,6 +1216,20 @@ Grouped by board column.
 - *Outward effect:* The statement travels on; villages that sign refuse tools from the buyers' suppliers, adding to the fall in Ironcrest orders. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [The Eighth Verse](../../wiki/Sunday-Morning/Drafts/The-Eighth-Verse.md), [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
+**Mending Day**
+
+- *Kind:* World
+- *Premise:* Once a year a circuit family of menders comes through, and the whole village has saved its broken things for them all year: pots, chairs, a clock, a fiddle. This year the old mender isn't with them, and his grandson has to do the lot.
+- *Possible heart:* being expected somewhere is a kind of home.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Wrong Day**
+
+- *Kind:* Domino
+- *Premise:* The village's Cyclic Order calendar-keeper finds that the festival calendar has drifted a day over forty years. Putting it right would move a wedding.
+- *Possible heart:* being right isn't always the same as being on time.
+- *Possible thread:* the Cyclic Order's reformers, who say stability has become stagnation, would love a drifted calendar. One of them visits; the keeper's reasons stay her own.
+
 ### Sunplains
 
 | Thing | Kind | Status | Summary |
@@ -953,6 +1237,7 @@ Grouped by board column.
 | [Drought anxiety](../../wiki/Story/Current-Events.md#drought-anxiety) | Current event | No status label | Water isn't yet universally scarce, but fear changes behavior: hoarding, canal guards, secret agreements, speculative prices. |
 | [City-state coordination](../../wiki/Story/Current-Events.md#city-state-coordination) | Current event | No status label | Some leaders are trying to cooperate. Rivals interpret the effort as the beginning of a dominant bloc. |
 | [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md#status) | Sunday Morning story, Year 1, midwinter | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Slow Boat](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-slow-boat) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Drought anxiety**
 
@@ -973,6 +1258,13 @@ Grouped by board column.
 - *Outward effect:* A rival city reads Vasselin's lit night as joining Bahriyya's bloc. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [The Ladder Rules](../../wiki/Sunday-Morning/Drafts/The-Ladder-Rules.md), [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
+**The Slow Boat**
+
+- *Kind:* World
+- *Premise:* A canal boat family carries pickers and grapes down to the presses at Wine Crush, and one picker, who has worked every crush for twenty years, has decided this is her last.
+- *Possible heart:* you can love a season without loving the work.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
 ### Port
 
 | Thing | Kind | Status | Summary |
@@ -982,6 +1274,12 @@ Grouped by board column.
 | [Refugee and worker pressure](../../wiki/Story/Current-Events.md#refugeeworker-pressure) | Current event | No status label | Displaced people from border and economic crises arrive faster than housing and charity systems can absorb them. |
 | [2. Port credit tightens](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 2 of one possible ripple chain: Port insurance/credit tightens. |
 | [Three Pots at Three Moon](../../wiki/Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md#status) | Sunday Morning story, Year 2, early autumn | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Harbor Runner](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-harbor-runner) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Bucket Race](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bucket-race) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Yellow Flag](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-yellow-flag) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [Lean Vigil](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#lean-vigil) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Seizure Warehouse](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-seizure-warehouse) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Tea Boy](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Merchant conflict**
 
@@ -1011,6 +1309,48 @@ Grouped by board column.
 - *Outward effect:* Three Moon does its civic job on one street: incompatible people share one space. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [Three Pots at Three Moon](../../wiki/Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
+**The Harbor Runner**
+
+- *Kind:* World
+- *Premise:* A Port-born kid who runs messages for the dock clerks speaks four kinds of Port and none of them the way the clerks want. A message goes astray between two quarters on the busiest morning of the year, and she has to get it back by asking in all four.
+- *Possible heart:* a city is a place where everyone half understands each other, and that's enough.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Bucket Race**
+
+- *Kind:* World
+- *Premise:* Port's quarters compete every year in a fire-bucket race, and one quarter has never won. A kid from that quarter, too small for the line, works out that the race is really about who passes to whom.
+- *Possible heart:* a city that can't agree on anything still has to agree on the fire.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Yellow Flag**
+
+- *Kind:* World
+- *Premise:* A ship sits out its quarantine in the harbor, and the woman who rows food out to it every day ends up carrying more than food: a game across the water, messages, one birthday.
+- *Possible heart:* kindness at the length of an oar.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**Lean Vigil**
+
+- *Kind:* Domino
+- *Premise:* A cook in a crowded district keeps one pot going all night for the watch, and this year there are more people in the district than there is pot.
+- *Possible heart:* a neighborhood's size is however many the pot can stretch to.
+- *Possible thread:* refugee and worker pressure on poorer districts; the newcomers' reasons stay their own.
+
+**The Seizure Warehouse**
+
+- *Kind:* World
+- *Premise:* A Port family and a Northwind family have shared one warehouse for three generations, and each believes the other is only renting. The lease turns up.
+- *Possible heart:* who owns a place matters less than who's kept it.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Tea Boy**
+
+- *Kind:* Domino
+- *Premise:* A boy brings tea to a house where everything worth knowing is said over tea. He only cares who takes sugar, and that is the one thing nobody thinks to hide.
+- *Possible heart:* being overlooked is its own kind of freedom.
+- *Possible thread:* intelligence brokerage; what he overhears stays small.
+
 ### Spine & Underpass
 
 | Thing | Kind | Status | Summary |
@@ -1019,6 +1359,11 @@ Grouped by board column.
 | [Underpass route wars](../../wiki/Story/Current-Events.md#route-wars) | Current event | No status label | Collapse and discovery have changed which enclaves control profitable corridors. Smuggling and legitimate trade compete for the same space. |
 | [The Road in Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md#status) | Sunday Morning story, Year 2, late spring | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md#status) | Sunday Morning story, Year 2, late summer | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Walker's Stone](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-walkers-stone) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [Above](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#above) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Air Keeper](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-air-keeper) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Deep Door](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-deep-door) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [What the Pass Is Called](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-pass-is-called) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Earthquake or land movement**
 
@@ -1050,6 +1395,41 @@ Grouped by board column.
 - *Outward effect:* Other enclaves sell through dealers, and their goods go off the record. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Drafts/The-Mushrooms-From-Nowhere.md), [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
+**The Walker's Stone**
+
+- *Kind:* World
+- *Premise:* A Greenvale farmer who has never been above the tree line walks a stretch of the Overpath to carry up a stone her late husband always meant to carry. Everyone she meets on the trail is walking it for a different reason, and none of them is the reason she expected.
+- *Possible heart:* you can finish someone else's walk without it being a sad thing.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**Above**
+
+- *Kind:* World
+- *Premise:* The daughter of an Underpass guide family knows every tunnel by the sound of its water. She goes up onto the Overpath for the first time with a party of walkers and is no use at all in open air, until the weather turns and she can hear the stream under the snow that nobody else can.
+- *Possible heart:* what you know is worth something even where it doesn't look like it.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Air Keeper**
+
+- *Kind:* Domino
+- *Premise:* The woman who tends a junction's air (which shafts are open, where the bad-air pockets are this year) is retiring, and her apprentice has one week left to learn the thing she has never written down.
+- *Possible heart:* some work is only noticed when it stops.
+- *Possible thread:* a collapse has redirected trade through the junction, so there are more people breathing its air than it was kept for. Mira Stonebridge could be one of the guides bringing them, as an ordinary person.
+
+**The Deep Door**
+
+- *Kind:* Domino
+- *Premise:* A quake opens a sealed space below the enclave. The enclave leader and a mining boss come down to look at it on the same day, and the enclave's cook has to feed both parties at one table, because there is only one table.
+- *Possible heart:* a shared meal is still a shared meal, even between people who want different things from the dark.
+- *Possible thread:* quakes revealing sealed spaces and new mineral finds. Ilya Dravencrest and Gharic Coalveil appear as ordinary people; nobody decides the door's future on the page.
+
+**What the Pass Is Called**
+
+- *Kind:* World
+- *Premise:* A quake reopens an old pass, and the towns at either end need a name for the new route board. The name is Old Spine speech nobody speaks; one town translates it "the Kind Gate" and the other "the Hungry Gate".
+- *Possible heart:* a place can mean two things and still be one place.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
 ### Border towns
 
 | Thing | Kind | Status | Summary |
@@ -1059,6 +1439,10 @@ Grouped by board column.
 | [The Heavy Scale at Icestep Summit](../../wiki/Sunday-Morning/Stories/The-Heavy-Scale.md#status) | Sunday Morning story, Year 2, early spring | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The Tree With a Debt](../../wiki/Sunday-Morning/Stories/The-Tree-With-a-Debt.md#status) | Sunday Morning story, Year 2, midsummer | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The Bathhouse Compact](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bathhouse-compact) | Story seed | Provisional | A parked Sunday Morning premise, not yet developed; names and details are non-canon. |
+| [The Kitchen Court](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-kitchen-court) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Name on Both Walls](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Treaty Stone](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-treaty-stone) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Midwife's Road](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-midwifes-road) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **One Square, Two Harvests**
 
@@ -1110,6 +1494,34 @@ Grouped by board column.
 - *Possible heart:* Neighbors who argue about extraction still need to be warm and clean in the same room.
 - *Possible thread:* Good metal is vanishing into private contracts, and charcoal demand rises with it.
 
+**The Kitchen Court**
+
+- *Kind:* Domino
+- *Premise:* The nearest court is three valleys away, so the village's Harmonious Path households settle quarrels over supper. Tonight it's two neighbors and a goose, and the goose is at the table.
+- *Possible heart:* fairness tastes better with food.
+- *Possible thread:* Harmonious communities "building parallel mutual-aid and arbitration systems … unintentionally creating political power". A visitor writes down how well it works.
+
+**The Name on Both Walls**
+
+- *Kind:* World
+- *Premise:* One man's name is cut on both towns' memorial walls, because both sides claimed him. His great-granddaughter is asked to read it at both remembrances on the same night.
+- *Possible heart:* a person can belong to two stories and be true in both.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Treaty Stone**
+
+- *Kind:* Domino
+- *Premise:* A flood moves the named stone the Convergence used as the border between two farms. Both families know exactly where it was, and they disagree by eleven paces.
+- *Possible heart:* neighbors measure each other in more than paces.
+- *Possible thread:* the Convergence drew borders by "named stones", which "creates later ambiguity"; a land agent wants to buy whichever side wins.
+
+**The Midwife's Road**
+
+- *Kind:* World
+- *Premise:* A midwife rides through a storm to a farm three hours out, and the father, who has already delivered two lambs that night, is sure he could have managed.
+- *Possible heart:* knowing when to call someone is a skill too.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
 ### Main conflict
 
 | Thing | Kind | Status | Summary |
@@ -1157,4 +1569,73 @@ Grouped by board column.
 
 - *What's happening:* A local economic shock becomes proof, in several regions, that another group is acting against them.
 - *Note:* One possible chain, which Current Events calls "the kind of causal chain the story should prefer"; not a fixed sequence of events.
+
+### World & unplaced
+
+| Thing | Kind | Status | Summary |
+| --- | --- | --- | --- |
+| [Muster Bell](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#muster-bell) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Walls Come Home](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-walls-come-home) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Ballad Line](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-ballad-line) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Lantern](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-lantern) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Same Sin](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-same-sin) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [Salt Between Them](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#salt-between-them) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Retired Blade](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-retired-blade) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Coat](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-coat) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+
+**Muster Bell**
+
+- *Kind:* World now, Domino later
+- *Premise:* The town still rings the old base's muster bell once a year, and everybody turns out, but now it means a potluck on the old parade ground. This year the bell cracks, and the town has to decide whether a bell that only calls a supper is worth recasting.
+- *Possible heart:* a town keeps what it was, by making it into what it is.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Walls Come Home**
+
+- *Kind:* Domino
+- *Premise:* For two generations families have been quietly carting stone off the old base walls to build houses and pens. Now a builders' guild contract wants the stone that's left, and every family has to admit which wall is in its kitchen.
+- *Possible heart:* a town is built out of what it used to be.
+- *Possible thread:* builders seeking "long contracts and legal control over standards"; the contract's buyer stays `UNKNOWN`.
+
+**The Ballad Line**
+
+- *Kind:* World
+- *Premise:* A circuit's ballads keep track of everyone: who married whom, who drowned, who ran off. A young woman wants her own name in one, and the old singer says a ballad only takes people when they've done something worth a verse. She's out to prove her wrong.
+- *Possible heart:* the stories a people keep about itself are kind and harsh at once.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Lantern**
+
+- *Kind:* World
+- *Premise:* The village's relic lantern dims when the most respected woman in the village speaks at her granddaughter's betrothal. Nobody knows whether it meant anything, and the village has a week to decide what it meant.
+- *Possible heart:* what a thing means is up to the people who keep it.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Same Sin**
+
+- *Kind:* World
+- *Premise:* An old man confesses the same small sin to a young counselor every week. She sets out to find out why.
+- *Possible heart:* some people need to be listened to more than forgiven.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**Salt Between Them**
+
+- *Kind:* Domino
+- *Premise:* A Northwind deckhand and a Sunplains cook on the same convoy grew up on opposite songs about the Salted Coast: burned boats on one side, "northern pirates" on the other. They have to share a galley for six weeks.
+- *Possible heart:* you can't hate someone who keeps your soup warm.
+- *Possible thread:* convoy politics one rung up from The First Fish.
+
+**The Retired Blade**
+
+- *Kind:* World
+- *Premise:* A retired guild fighter teaches the village children to fall without breaking anything, and nothing else, however much they ask.
+- *Possible heart:* the best thing a hard life can teach is how to land.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Coat**
+
+- *Kind:* World, or a Thread later
+- *Premise:* One good coat passes through four owners in a year (sold, lost, given, won at cards), and each owner alters it a little.
+- *Possible heart:* things carry the people who wore them.
+- *Possible thread:* None: a world story, part of the world at large (D23).
 

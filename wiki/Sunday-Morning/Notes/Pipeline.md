@@ -99,6 +99,8 @@ After the four methods, place the story in the domino web using the [world-tie r
 6. What happens next beyond the story, and how could the Villain or Council use it?
 7. Where does it sit on the [collection calendar](Collection.md#reading-order), and does it touch another story?
 
+A [world story](Rules.md#world-stories) answers only question 7, and its Larger-world thread section says it is a world story.
+
 Record the answers in the story's **Larger-world thread** section, add the row to [Collection](Collection.md#the-threads), and place the story on the [Domino Map](../../../atlas/domino-map/Domino-Map.md) (add it to `atlas/domino-map/domino-map.json`, then run `python3 atlas/tools/domino_map.py`). Check the map's open dominoes first: a new story is most useful where nothing sits yet. Assumptions about canon go through assumption mapping like any other.
 
 ### PLAN handoff (end of THINK)

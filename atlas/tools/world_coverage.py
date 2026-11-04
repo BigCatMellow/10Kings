@@ -8,7 +8,8 @@ Reads every Atlas part (atlas/<folder>/<name>.json) and every Sunday Morning
 story page and draft (wiki/Sunday-Morning/Stories, wiki/Sunday-Morning/Drafts).
 A thing counts as *used* by a story when the story is connected to it on the
 Atlas, or when the story's page or draft links to the thing's wiki section
-(or to its page, when the thing has no section).
+(or to its page, when the thing has no section). A parked seed on Story Seeds
+doesn't count as use; things only a seed reaches for are listed as *seeded*.
 
 Writes atlas/coverage/Coverage.md. It's a derived view, so don't hand-edit it.
 """
@@ -62,20 +63,24 @@ def main():
     parts.sort(key=lambda d: d["part"])
     pages, anchors, titles = story_links()
 
-    node_story = {}
-    story_nodes = {}
+    story_nodes, seed_nodes = {}, {}
     for d in parts:
         for n in d["nodes"]:
-            if n["kind"] in ("story", "seed"):
+            if n["kind"] == "story":
                 src = n.get("draft") or n.get("src", "")
                 base = os.path.basename(src.split("#")[0])[:-3] if src else n["id"]
                 story_nodes[n["id"]] = base
+            elif n["kind"] == "seed":
+                seed_nodes[n["id"]] = n["label"]
     used = collections.defaultdict(set)
+    seeded = collections.defaultdict(set)
     for d in parts:
         for e in d["edges"]:
             for a, b in ((e["from"], e["to"]), (e["to"], e["from"])):
                 if a in story_nodes:
                     used[b].add(story_nodes[a])
+                elif a in seed_nodes:
+                    seeded[b].add(seed_nodes[a])
     for d in parts:
         for n in d["nodes"]:
             src = n.get("src", "")
@@ -93,7 +98,8 @@ def main():
         if not things:
             continue
         hit = [n for n in things if used.get(n["id"])]
-        totals.append((d["short"], d["title"], len(hit), len(things)))
+        sd = sum(1 for n in things if not used.get(n["id"]) and seeded.get(n["id"]))
+        totals.append((d["short"], d["title"], len(hit), len(things), sd))
         bysec = collections.OrderedDict()
         for n in things:
             bysec.setdefault(n.get("section") or "Other", []).append(n)
@@ -110,13 +116,15 @@ def main():
            "([The Long Road](../../wiki/Sunday-Morning/Notes/The-Long-Road.md#using-the-world)). "
            "A thing counts as used when a story is connected to it on the [Atlas](../README.md), "
            "or when the story's plan or draft links to its wiki section. A story can use something without linking it "
-           "(Season 1's language habits and many of its dishes are like that), so this undercounts a little.", "",
+           "(Season 1's language habits and many of its dishes are like that), so this undercounts a little. "
+           "A parked [story seed](../../wiki/Sunday-Morning/Stories/Story-Seeds.md) doesn't count as use; "
+           "an unused thing a seed reaches for is marked *seeded*.", "",
            "Being used isn't a target. A story uses what it needs, and some things (a map outline, an open question) "
            "shouldn't be used at all. Left out on purpose: " +
            "; ".join(f"**{k}** ({v})" for k, v in SKIP_PARTS.items()) + ".", "",
-           "## Summary", "", "| Atlas part | Used by a story | Not yet |", "| --- | --- | --- |"]
-    for short, title, h, t in totals:
-        out.append(f"| {title} | {h} of {t} | {t - h} |")
+           "## Summary", "", "| Atlas part | Used by a story | Not yet | Of those, seeded |", "| --- | --- | --- | --- |"]
+    for short, title, h, t, sd in totals:
+        out.append(f"| {title} | {h} of {t} | {t - h} | {sd} |")
     for d, bysec in rows:
         out += ["", f"## {d['title']}", ""]
         for sec, things in bysec.items():
@@ -126,7 +134,9 @@ def main():
             out.append("")
             if un:
                 out.append("**Not yet in any story:** " + ", ".join(
-                    f"[{n['label']}](../../wiki/{n['src']})" for n in un) + ".")
+                    f"[{n['label']}](../../wiki/{n['src']})"
+                    + (f" *(seeded: {', '.join(sorted(seeded[n['id']]))})*" if seeded.get(n["id"]) else "")
+                    for n in un) + ".")
                 out.append("")
             if us:
                 out.append("**Used:** " + "; ".join(
@@ -135,8 +145,8 @@ def main():
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     open(OUT, "w", encoding="utf-8").write("\n".join(out).rstrip() + "\n")
     print("Wrote", os.path.relpath(OUT, ROOT))
-    for short, title, h, t in totals:
-        print(f"  {title}: {h}/{t}")
+    for short, title, h, t, sd in totals:
+        print(f"  {title}: {h}/{t} used, {sd} more seeded")
 
 
 if __name__ == "__main__":

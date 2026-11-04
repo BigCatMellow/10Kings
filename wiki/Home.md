@@ -53,6 +53,7 @@ The setting should make it possible to follow one damaged bridge, missing carava
 - [Port](Places/Port.md)
 - [The Spine](Places/The-Spine.md)
 - [The Underpass](Places/The-Underpass.md)
+- [Seven Hill](Places/Seven-Hill.md)
 - [Border Towns](Places/Border-Towns.md)
 
 ## Culture

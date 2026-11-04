@@ -50,7 +50,9 @@
     "mountains": "Mountain system",
     "underground": "Underground network",
     "border-town": "Border town",
-    "name-bank": "Unplaced name"
+    "name-bank": "Unplaced name",
+    "trail": "Mountain trail",
+    "town": "Town"
   },
   "card_schema": {
     "landmass": {
@@ -179,8 +181,7 @@
         {
           "label": "Regions",
           "always": true
-        }
-,
+        },
         {
           "label": "Stories",
           "always": false
@@ -242,6 +243,28 @@
     },
     "name-bank": {
       "rows": [],
+      "facts": []
+    },
+    "trail": {
+      "rows": [
+        {
+          "label": "Spine & Underpass",
+          "always": true
+        },
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ],
+      "facts": []
+    },
+    "town": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ],
       "facts": []
     }
   },
@@ -616,6 +639,28 @@
       "lane": "across",
       "section": "Unplaced names",
       "minor": true
+    },
+    {
+      "id": "overpath",
+      "kind": "trail",
+      "label": "The Overpath",
+      "status": "Provisional",
+      "lane": "spine",
+      "section": "Geography",
+      "src": "Places/The-Spine.md#the-overpath",
+      "text": "The trail that goes the length of the Spine over the mountains, as bt 7274 named it on 2026-11-04. Who walks it, who keeps it and its route are open.",
+      "short_text": "The trail over the length of the Spine."
+    },
+    {
+      "id": "sevenhill",
+      "kind": "town",
+      "label": "Seven Hill",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "Unplaced names",
+      "src": "Places/Seven-Hill.md",
+      "text": "The former military base turned town, as bt 7274 named it on 2026-11-04. Not placed; whose base it was and when it stopped are open.",
+      "short_text": "A former military base turned town. Not placed."
     }
   ],
   "edges": [
@@ -1230,6 +1275,19 @@
       "src": "Geography-and-Connections.md#greenvale--highridge",
       "chip": "Likely sends",
       "chipBack": "Likely gets"
+    },
+    {
+      "from": "overpath",
+      "to": "spine",
+      "layer": "mountain",
+      "type": "runs over",
+      "basis": "stated",
+      "quote": "Where the Underpass runs through the range, the Overpath runs over it.",
+      "src": "Places/The-Spine.md#the-overpath",
+      "chip": "Spine & Underpass",
+      "chipBack": "Spine & Underpass",
+      "chipNote": "runs over",
+      "chipNoteBack": "over it"
     }
   ],
   "gaps": [

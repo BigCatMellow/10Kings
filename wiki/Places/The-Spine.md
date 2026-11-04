@@ -39,6 +39,21 @@ This explains:
 - bandit economies;
 - religious pilgrimage traditions.
 
+## The Overpath
+
+**Provisional.** bt 7274 named it on 2026-11-04: "the Overpath (the trail that goes the length of the Spine over the mountains". That's all that's settled. Where the Underpass runs through the range, the Overpath runs over it.
+
+It sits alongside what this page already lists, without being settled as any of it: the range's pilgrimage routes, seasonal passes and migration corridors, and the [Infinite Compass](../Politics/Religions.md#9-the-infinite-compass)'s road shrines and hospitality for travelers.
+
+Still open:
+
+- who walks it, and why: pilgrims, herders, couriers, people who walk it for its own sake;
+- whether it is one made trail or a chain of older paths that came to be walked as one;
+- whether anyone keeps it (huts, markers, a guild, a faith, nobody), and whether its route rules are the [Convergence](../History/The-Convergence.md#route-rules)'s or older;
+- how long it takes, which stretches close in winter, and where it meets the passes.
+
+Stories that want it are on [Story Seeds](../Sunday-Morning/Stories/Story-Seeds.md#the-spine-above-and-below).
+
 ## Geologic history
 
 Earlier notes propose that the three major landmasses emerged from ancient tectonic rifting and collision, with The Spine formed through long mountain-building processes.

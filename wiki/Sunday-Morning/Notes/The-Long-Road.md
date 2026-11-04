@@ -19,7 +19,7 @@ Nothing about how a story is told changes. Every rule on [Rules](Rules.md) still
 ## What never changes
 
 - **Every story stands alone.**
-- **Connected, not driven** ([D2](Decisions.md#the-authors-decisions), confirmed by [D21](Decisions.md#the-authors-decisions)). Delete the main-plot thread and the story still works.
+- **Connected, not driven** ([D2](Decisions.md#the-authors-decisions), confirmed by [D21](Decisions.md#the-authors-decisions)). Delete the main-plot thread and the story still works. A [world story](Rules.md#world-stories) has no thread to delete ([D23](Decisions.md#the-authors-decisions)).
 - **Scenes stay human-scale.** One stall, one boat, one door, even when the meaning is enormous ([tone guardrails](Rules.md#tone-guardrails)).
 - **A meal, a moment where nothing happens, one sad moment said once, no public shaming, a warm ending.**
 - **The local thing holds for local reasons.**
@@ -84,6 +84,8 @@ Season 1 lived mostly in towns, harvests, guild halls and markets. The [World co
 
 The report counts a thing as used only when a story's plan or draft links to it, so it undercounts a little.
 
+bt 7274 added more on the same day: "not every story has to progress the storys dominos or main plot, some can just be part of the world at large" ([D23](Decisions.md#the-authors-decisions)). Those are [world stories](Rules.md#world-stories). His examples, and thirty-odd seeds that use these seams, are on [Story Seeds](../Stories/Story-Seeds.md#world-seeds-2026-11-04), including two places he named that day: [Seven Hill](../../Places/Seven-Hill.md) and the [Overpath](../../Places/The-Spine.md#the-overpath).
+
 **The fantasy is everyday** ([Rules](Rules.md#the-strange-is-ordinary)), told the way the stories already tell everything, as [Craft §1](Craft.md#1-write-it-like-its-the-sequel-carries-over) has it. Magic stays as ruled.
 
 ## Kinds of story
@@ -93,6 +95,7 @@ These are tools, not a format. The mix can shift as the seasons go.
 | Kind | What it is | Within the rules because… |
 | --- | --- | --- |
 | **Ground** | a community, a nail, a local hold: what the fourteen are | it's what the rules were written for |
+| **World** | part of the world at large, with no domino ([D23](Decisions.md#the-authors-decisions)) | it skips only the nail; every other rule holds |
 | **Stranger** | someone else's story that Wurdren passes through; the signal | he's an ordinary man helping; nobody sees why it matters |
 | **Return** | back to a place a year on, to show the ripple; it never undoes the warm ending | the town lives with consequences, not a pattern |
 | **Thread** | an object or letter passing from hand to hand | each hand sees one moment of it |

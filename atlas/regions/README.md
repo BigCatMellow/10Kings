@@ -8,7 +8,7 @@ The backbone of the Atlas: the six regions, Port, the Spine and the Underpass, t
 
 **A board, not a map.** The wiki says the exact map isn't locked ([Geography and Connections](../../wiki/Geography-and-Connections.md)), so the interactive view sorts things into one column per region instead of placing them. Columns are ordered so regions with a settled border sit next to each other (Northwind, Highridge, Deepwood, Ironcrest, Greenvale, Sunplains); nothing else about position means anything. A real map can be drawn from the same data once the geography is locked.
 
-**Counts:** 3 continents, 6 regions, 1 neutral city, 1 mountain system, 1 underground network, 6 border towns, 7 unplaced names; 47 connections (36 stated in the wiki, 11 inferred).
+**Counts:** 3 continents, 6 regions, 1 neutral city, 1 mountain system, 1 underground network, 6 border towns, 7 unplaced names, 1 mountain trail, 1 town; 48 connections (37 stated in the wiki, 11 inferred).
 
 ## Gaps this part exposes
 
@@ -74,6 +74,7 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | The Spine | funnels routes into | Highridge Plateau | stated | “Its importance comes from geography: routes that avoid or cross parts of The Spine naturally converge here.” [source](../../wiki/Regions/Highridge-Plateau.md) |
 | Ironcrest | presses for access to | The Underpass | stated | “Current pressures: … pressure to expand access to Underpass routes.” [source](../../wiki/Regions/Ironcrest.md#current-pressures) |
 | Deepwood | may have entrances to | The Underpass | stated, possible | “routes into foothills and possibly Underpass entrances.” [source](../../wiki/Regions/Deepwood.md#geography) |
+| The Overpath | runs over | The Spine | stated | “Where the Underpass runs through the range, the Overpath runs over it.” [source](../../wiki/Places/The-Spine.md#the-overpath) |
 
 ## Trade (stated)
 
@@ -130,6 +131,7 @@ flowchart LR
   port[["Port"]]
   underpass[\"The Underpass"/]
   spine[/"The Spine"\]
+  overpath["The Overpath"]
   northwind --> northern
   ironcrest --- greenvale
   greenvale --- sunplains
@@ -166,6 +168,7 @@ flowchart LR
   deepwood -->|herbal and forest products meet caravan trade| highridge
   northwind -->|maritime supply meets plateau caravans| highridge
   northwind --> port
+  overpath --> spine
 ```
 
 ## Every thing in this part
@@ -283,6 +286,7 @@ Grouped by board column.
 | --- | --- | --- | --- |
 | [The Spine](../../wiki/Places/The-Spine.md) | Mountain system | Working canon | The central mountain system the world's geography and transport are organized around. Passes, saddles, inhabited valleys, mining districts, old fortifications and hidden routes. Geologically active. |
 | [The Underpass](../../wiki/Places/The-Underpass.md) | Underground network | Working canon | Caves, fault passages, tunnels, settlements and trade routes beneath parts of the Spine. Not one road, not wholly mapped; authority is fragmented. |
+| [The Overpath](../../wiki/Places/The-Spine.md#the-overpath) | Mountain trail | Provisional | The trail that goes the length of the Spine over the mountains, as bt 7274 named it on 2026-11-04. Who walks it, who keeps it and its route are open. |
 
 **The Spine**
 
@@ -322,4 +326,5 @@ Grouped by board column.
 | [Emberhaven Cross](../../wiki/Places/Border-Towns.md#other-provisional-names) | Unplaced name | Provisional name | Name bank; not placed. |
 | [Golden Dunes Shore](../../wiki/Places/Border-Towns.md#other-provisional-names) | Unplaced name | Provisional name | Name bank; not placed. |
 | [Reedveil Bend](../../wiki/Places/Border-Towns.md#other-provisional-names) | Unplaced name | Provisional name | Name bank; not placed. |
+| [Seven Hill](../../wiki/Places/Seven-Hill.md) | Town | Provisional | The former military base turned town, as bt 7274 named it on 2026-11-04. Not placed; whose base it was and when it stopped are open. |
 

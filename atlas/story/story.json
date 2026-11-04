@@ -262,9 +262,17 @@
         {
           "label": "Domino figure",
           "always": false
+        },
+        {
+          "label": "Uses",
+          "always": false
         }
       ],
       "facts": [
+        {
+          "key": "Kind",
+          "always": false
+        },
         {
           "key": "Premise",
           "always": true
@@ -340,6 +348,10 @@
         {
           "label": "Current events",
           "always": false
+        },
+        {
+          "label": "Stories",
+          "always": false
         }
       ]
     },
@@ -382,6 +394,105 @@
           "always": false
         }
       ]
+    },
+    "crime": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ],
+      "facts": []
+    },
+    "cuisine": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ],
+      "facts": []
+    },
+    "culture": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ],
+      "facts": []
+    },
+    "figure": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ],
+      "facts": []
+    },
+    "guild": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ],
+      "facts": []
+    },
+    "language": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ],
+      "facts": []
+    },
+    "memory": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ],
+      "facts": []
+    },
+    "people": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ],
+      "facts": []
+    },
+    "provision": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ],
+      "facts": []
+    },
+    "system-proposal": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ],
+      "facts": []
+    },
+    "version": {
+      "rows": [
+        {
+          "label": "Stories",
+          "always": false
+        }
+      ],
+      "facts": []
     }
   },
   "nodes": [
@@ -1446,6 +1557,564 @@
         "Sunday-Morning/Notes/Collection.md#the-threads"
       ],
       "when": "Year 2, early autumn"
+    },
+    {
+      "id": "seed-w-the-walkers-stone",
+      "kind": "seed",
+      "label": "The Walker's Stone",
+      "status": "Provisional",
+      "lane": "spine",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-walkers-stone",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A Greenvale farmer who has never been above the tree line walks a stretch of the Overpath to carry up a stone her late husband always meant to carry.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "A Greenvale farmer who has never been above the tree line walks a stretch of the Overpath to carry up a stone her late husband always meant to carry. Everyone she meets on the trail is walking it for a different reason, and none of them is the reason she expected.",
+        "Possible heart": "you can finish someone else's walk without it being a sad thing.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-above",
+      "kind": "seed",
+      "label": "Above",
+      "status": "Provisional",
+      "lane": "spine",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#above",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The daughter of an Underpass guide family knows every tunnel by the sound of its water.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "The daughter of an Underpass guide family knows every tunnel by the sound of its water. She goes up onto the Overpath for the first time with a party of walkers and is no use at all in open air, until the weather turns and she can hear the stream under the snow that nobody else can.",
+        "Possible heart": "what you know is worth something even where it doesn't look like it.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-air-keeper",
+      "kind": "seed",
+      "label": "The Air Keeper",
+      "status": "Provisional",
+      "lane": "spine",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-air-keeper",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The woman who tends a junction's air (which shafts are open, where the bad-air pockets are this year) is retiring, and her apprentice has one week left to learn the thing she has never written down.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "The woman who tends a junction's air (which shafts are open, where the bad-air pockets are this year) is retiring, and her apprentice has one week left to learn the thing she has never written down.",
+        "Possible heart": "some work is only noticed when it stops.",
+        "Possible thread": "a collapse has redirected trade through the junction, so there are more people breathing its air than it was kept for. Mira Stonebridge could be one of the guides bringing them, as an ordinary person."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-deep-door",
+      "kind": "seed",
+      "label": "The Deep Door",
+      "status": "Provisional",
+      "lane": "spine",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-deep-door",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A quake opens a sealed space below the enclave.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "A quake opens a sealed space below the enclave. The enclave leader and a mining boss come down to look at it on the same day, and the enclave's cook has to feed both parties at one table, because there is only one table.",
+        "Possible heart": "a shared meal is still a shared meal, even between people who want different things from the dark.",
+        "Possible thread": "quakes revealing sealed spaces and new mineral finds. Ilya Dravencrest and Gharic Coalveil appear as ordinary people; nobody decides the door's future on the page."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-what-the-pass-is-called",
+      "kind": "seed",
+      "label": "What the Pass Is Called",
+      "status": "Provisional",
+      "lane": "spine",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#what-the-pass-is-called",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A quake reopens an old pass, and the towns at either end need a name for the new route board.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "A quake reopens an old pass, and the towns at either end need a name for the new route board. The name is Old Spine speech nobody speaks; one town translates it \"the Kind Gate\" and the other \"the Hungry Gate\".",
+        "Possible heart": "a place can mean two things and still be one place.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-muster-bell",
+      "kind": "seed",
+      "label": "Muster Bell",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#muster-bell",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The town still rings the old base's muster bell once a year, and everybody turns out, but now it means a potluck on the old parade ground.",
+      "facts": {
+        "Kind": "World now, Domino later",
+        "Premise": "The town still rings the old base's muster bell once a year, and everybody turns out, but now it means a potluck on the old parade ground. This year the bell cracks, and the town has to decide whether a bell that only calls a supper is worth recasting.",
+        "Possible heart": "a town keeps what it was, by making it into what it is.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-walls-come-home",
+      "kind": "seed",
+      "label": "The Walls Come Home",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-walls-come-home",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "For two generations families have been quietly carting stone off the old base walls to build houses and pens.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "For two generations families have been quietly carting stone off the old base walls to build houses and pens. Now a builders' guild contract wants the stone that's left, and every family has to admit which wall is in its kitchen.",
+        "Possible heart": "a town is built out of what it used to be.",
+        "Possible thread": "builders seeking \"long contracts and legal control over standards\"; the contract's buyer stays `UNKNOWN`."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-harbor-runner",
+      "kind": "seed",
+      "label": "The Harbor Runner",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-harbor-runner",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A Port-born kid who runs messages for the dock clerks speaks four kinds of Port and none of them the way the clerks want.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "A Port-born kid who runs messages for the dock clerks speaks four kinds of Port and none of them the way the clerks want. A message goes astray between two quarters on the busiest morning of the year, and she has to get it back by asking in all four.",
+        "Possible heart": "a city is a place where everyone half understands each other, and that's enough.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-bucket-race",
+      "kind": "seed",
+      "label": "The Bucket Race",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-bucket-race",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "Port's quarters compete every year in a fire-bucket race, and one quarter has never won.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "Port's quarters compete every year in a fire-bucket race, and one quarter has never won. A kid from that quarter, too small for the line, works out that the race is really about who passes to whom.",
+        "Possible heart": "a city that can't agree on anything still has to agree on the fire.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-yellow-flag",
+      "kind": "seed",
+      "label": "The Yellow Flag",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-yellow-flag",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A ship sits out its quarantine in the harbor, and the woman who rows food out to it every day ends up carrying more than food: a game across the water, messages, one birthday.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "A ship sits out its quarantine in the harbor, and the woman who rows food out to it every day ends up carrying more than food: a game across the water, messages, one birthday.",
+        "Possible heart": "kindness at the length of an oar.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-lean-vigil",
+      "kind": "seed",
+      "label": "Lean Vigil",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#lean-vigil",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A cook in a crowded district keeps one pot going all night for the watch, and this year there are more people in the district than there is pot.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "A cook in a crowded district keeps one pot going all night for the watch, and this year there are more people in the district than there is pot.",
+        "Possible heart": "a neighborhood's size is however many the pot can stretch to.",
+        "Possible thread": "refugee and worker pressure on poorer districts; the newcomers' reasons stay their own."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-mending-day",
+      "kind": "seed",
+      "label": "Mending Day",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#mending-day",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "Once a year a circuit family of menders comes through, and the whole village has saved its broken things for them all year: pots, chairs, a clock, a fiddle.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "Once a year a circuit family of menders comes through, and the whole village has saved its broken things for them all year: pots, chairs, a clock, a fiddle. This year the old mender isn't with them, and his grandson has to do the lot.",
+        "Possible heart": "being expected somewhere is a kind of home.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-stopping-place",
+      "kind": "seed",
+      "label": "The Stopping Place",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-stopping-place",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A circuit family arrives at the spring where they have stopped every spring for longer than anyone can say, and finds a new fence and a new owner who has never heard of them.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "A circuit family arrives at the spring where they have stopped every spring for longer than anyone can say, and finds a new fence and a new owner who has never heard of them.",
+        "Possible heart": "old custom is only as strong as the people who remember it.",
+        "Possible thread": "land changing hands (land and seed politics); the buyer's reasons stay ordinary."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-slow-boat",
+      "kind": "seed",
+      "label": "The Slow Boat",
+      "status": "Provisional",
+      "lane": "sunplains",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-slow-boat",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A canal boat family carries pickers and grapes down to the presses at Wine Crush, and one picker, who has worked every crush for twenty years, has decided this is her last.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "A canal boat family carries pickers and grapes down to the presses at Wine Crush, and one picker, who has worked every crush for twenty years, has decided this is her last.",
+        "Possible heart": "you can love a season without loving the work.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-ballad-line",
+      "kind": "seed",
+      "label": "The Ballad Line",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-ballad-line",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A circuit's ballads keep track of everyone: who married whom, who drowned, who ran off.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "A circuit's ballads keep track of everyone: who married whom, who drowned, who ran off. A young woman wants her own name in one, and the old singer says a ballad only takes people when they've done something worth a verse. She's out to prove her wrong.",
+        "Possible heart": "the stories a people keep about itself are kind and harsh at once.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-lantern",
+      "kind": "seed",
+      "label": "The Lantern",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-lantern",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The village's relic lantern dims when the most respected woman in the village speaks at her granddaughter's betrothal.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "The village's relic lantern dims when the most respected woman in the village speaks at her granddaughter's betrothal. Nobody knows whether it meant anything, and the village has a week to decide what it meant.",
+        "Possible heart": "what a thing means is up to the people who keep it.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-under-the-lights",
+      "kind": "seed",
+      "label": "Under the Lights",
+      "status": "Provisional",
+      "lane": "northwind",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#under-the-lights",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "Two families have planned a betrothal under the lights, and the lights don't come.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "Two families have planned a betrothal under the lights, and the lights don't come. The grandmothers disagree about whether it counts.",
+        "Possible heart": "a promise doesn't need the sky's permission.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-wrong-day",
+      "kind": "seed",
+      "label": "The Wrong Day",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-wrong-day",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The village's Cyclic Order calendar-keeper finds that the festival calendar has drifted a day over forty years.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "The village's Cyclic Order calendar-keeper finds that the festival calendar has drifted a day over forty years. Putting it right would move a wedding.",
+        "Possible heart": "being right isn't always the same as being on time.",
+        "Possible thread": "the Cyclic Order's reformers, who say stability has become stagnation, would love a drifted calendar. One of them visits; the keeper's reasons stay her own."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-forge-reawakening",
+      "kind": "seed",
+      "label": "Forge Reawakening",
+      "status": "Provisional",
+      "lane": "ironcrest",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "At the spring relighting, apprentices are judged on one piece each.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "At the spring relighting, apprentices are judged on one piece each. An Eternal Forge master has to judge her own nephew's, and it's good, and it's not his.",
+        "Possible heart": "honesty in the work is the work.",
+        "Possible thread": "Eternal Forge institutions \"becoming active in labor and quality disputes\"; the town is near Coalglen, a year after Walkout Pies."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-kitchen-court",
+      "kind": "seed",
+      "label": "The Kitchen Court",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-kitchen-court",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The nearest court is three valleys away, so the village's Harmonious Path households settle quarrels over supper.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "The nearest court is three valleys away, so the village's Harmonious Path households settle quarrels over supper. Tonight it's two neighbors and a goose, and the goose is at the table.",
+        "Possible heart": "fairness tastes better with food.",
+        "Possible thread": "Harmonious communities \"building parallel mutual-aid and arbitration systems … unintentionally creating political power\". A visitor writes down how well it works."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-same-sin",
+      "kind": "seed",
+      "label": "The Same Sin",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-same-sin",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "An old man confesses the same small sin to a young counselor every week.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "An old man confesses the same small sin to a young counselor every week. She sets out to find out why.",
+        "Possible heart": "some people need to be listened to more than forgiven.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-name-on-both-walls",
+      "kind": "seed",
+      "label": "The Name on Both Walls",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "One man's name is cut on both towns' memorial walls, because both sides claimed him.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "One man's name is cut on both towns' memorial walls, because both sides claimed him. His great-granddaughter is asked to read it at both remembrances on the same night.",
+        "Possible heart": "a person can belong to two stories and be true in both.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-treaty-stone",
+      "kind": "seed",
+      "label": "The Treaty Stone",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-treaty-stone",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A flood moves the named stone the Convergence used as the border between two farms.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "A flood moves the named stone the Convergence used as the border between two farms. Both families know exactly where it was, and they disagree by eleven paces.",
+        "Possible heart": "neighbors measure each other in more than paces.",
+        "Possible thread": "the Convergence drew borders by \"named stones\", which \"creates later ambiguity\"; a land agent wants to buy whichever side wins."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-salt-between-them",
+      "kind": "seed",
+      "label": "Salt Between Them",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#salt-between-them",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A Northwind deckhand and a Sunplains cook on the same convoy grew up on opposite songs about the Salted Coast: burned boats on one side, \"northern pirates\" on the other.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "A Northwind deckhand and a Sunplains cook on the same convoy grew up on opposite songs about the Salted Coast: burned boats on one side, \"northern pirates\" on the other. They have to share a galley for six weeks.",
+        "Possible heart": "you can't hate someone who keeps your soup warm.",
+        "Possible thread": "convoy politics one rung up from The First Fish."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-seizure-warehouse",
+      "kind": "seed",
+      "label": "The Seizure Warehouse",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-seizure-warehouse",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A Port family and a Northwind family have shared one warehouse for three generations, and each believes the other is only renting.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "A Port family and a Northwind family have shared one warehouse for three generations, and each believes the other is only renting. The lease turns up.",
+        "Possible heart": "who owns a place matters less than who's kept it.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-bridge-delay",
+      "kind": "seed",
+      "label": "The Bridge Delay",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-bridge-delay",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The bridge repair is late, and three towns are sure it's politics.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "The bridge repair is late, and three towns are sure it's politics. It's the master builder's daughter's wedding.",
+        "Possible heart": "most of what looks like a plot is somebody's family.",
+        "Possible thread": "builders' delays \"can become political weapons even when caused by ordinary disputes\", and a later rung of the ripple chain, where local shocks are read as proof of enemies."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-tea-boy",
+      "kind": "seed",
+      "label": "The Tea Boy",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A boy brings tea to a house where everything worth knowing is said over tea.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "A boy brings tea to a house where everything worth knowing is said over tea. He only cares who takes sugar, and that is the one thing nobody thinks to hide.",
+        "Possible heart": "being overlooked is its own kind of freedom.",
+        "Possible thread": "intelligence brokerage; what he overhears stays small."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-retired-blade",
+      "kind": "seed",
+      "label": "The Retired Blade",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-retired-blade",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A retired guild fighter teaches the village children to fall without breaking anything, and nothing else, however much they ask.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "A retired guild fighter teaches the village children to fall without breaking anything, and nothing else, however much they ask.",
+        "Possible heart": "the best thing a hard life can teach is how to land.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-midwifes-road",
+      "kind": "seed",
+      "label": "The Midwife's Road",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-midwifes-road",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A midwife rides through a storm to a farm three hours out, and the father, who has already delivered two lambs that night, is sure he could have managed.",
+      "facts": {
+        "Kind": "World",
+        "Premise": "A midwife rides through a storm to a farm three hours out, and the father, who has already delivered two lambs that night, is sure he could have managed.",
+        "Possible heart": "knowing when to call someone is a skill too.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-coat",
+      "kind": "seed",
+      "label": "The Coat",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-coat",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "One good coat passes through four owners in a year (sold, lost, given, won at cards), and each owner alters it a little.",
+      "facts": {
+        "Kind": "World, or a Thread later",
+        "Premise": "One good coat passes through four owners in a year (sold, lost, given, won at cards), and each owner alters it a little.",
+        "Possible heart": "things carry the people who wore them.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-how-the-news-came",
+      "kind": "seed",
+      "label": "How the News Came",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#how-the-news-came",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A big piece of news reaches a remote relay post in three versions, by three carriers, in one day.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "A big piece of news reaches a remote relay post in three versions, by three carriers, in one day. The postkeeper has to decide which one goes on the board.",
+        "Possible heart": "getting it right slowly beats getting it wrong first.",
+        "Possible thread": "what people say about the big events gets \"more specific, and sometimes more wrong\" (The Long Road)."
+      },
+      "minor": true
     }
   ],
   "edges": [
@@ -4379,6 +5048,1084 @@
       "src": "Sunday-Morning/Notes/Registry.md#names",
       "chip": "Appears in",
       "chipBack": "Cast"
+    },
+    {
+      "from": "seed-w-the-walkers-stone",
+      "to": "overpath",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Overpath",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-walkers-stone",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-above",
+      "to": "overpath",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Overpath",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#above",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-above",
+      "to": "underpass",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Underpass",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#above",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-air-keeper",
+      "to": "underpass",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Underpass",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-air-keeper",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-air-keeper",
+      "to": "st-sx-routewars",
+      "layer": "st-story",
+      "type": "would sit on",
+      "basis": "stated",
+      "quote": "collapse has redirected trade",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-air-keeper",
+      "chip": "Sits on",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-air-keeper",
+      "to": "pp-mira",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Mira Stonebridge",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-air-keeper",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-deep-door",
+      "to": "underpass",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Underpass",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-deep-door",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-deep-door",
+      "to": "st-sx-quake",
+      "layer": "st-story",
+      "type": "would sit on",
+      "basis": "stated",
+      "quote": "quakes revealing sealed spaces",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-deep-door",
+      "chip": "Sits on",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-deep-door",
+      "to": "pp-ilya",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Ilya Dravencrest",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-deep-door",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-deep-door",
+      "to": "pp-gharic",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Gharic Coalveil",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-deep-door",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-what-the-pass-is-called",
+      "to": "spine",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Spine",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#what-the-pass-is-called",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-what-the-pass-is-called",
+      "to": "lang-oldspine",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Old Spine speech",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#what-the-pass-is-called",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-muster-bell",
+      "to": "sevenhill",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Seven Hill",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#muster-bell",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-walls-come-home",
+      "to": "sevenhill",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Seven Hill",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-walls-come-home",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-walls-come-home",
+      "to": "pw-guild-builders",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "builders' guild",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-walls-come-home",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-harbor-runner",
+      "to": "port",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Port",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-harbor-runner",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-harbor-runner",
+      "to": "port-culture",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Port culture",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-harbor-runner",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-harbor-runner",
+      "to": "lang-trade",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Trade Tongue",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-harbor-runner",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-harbor-runner",
+      "to": "f-tide-return",
+      "layer": "st-story",
+      "type": "would run up to",
+      "basis": "stated",
+      "quote": "festivals",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-harbor-runner",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-bucket-race",
+      "to": "port",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Port",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-bucket-race",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-bucket-race",
+      "to": "port-culture",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "mixed families",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-bucket-race",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-yellow-flag",
+      "to": "port",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Port",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-yellow-flag",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-yellow-flag",
+      "to": "systems-proposal-15",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Medicine and Healing",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-yellow-flag",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-lean-vigil",
+      "to": "port",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Port",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#lean-vigil",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-lean-vigil",
+      "to": "st-pt-refugees",
+      "layer": "st-story",
+      "type": "would sit on",
+      "basis": "stated",
+      "quote": "refugee and worker pressure",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#lean-vigil",
+      "chip": "Sits on",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-lean-vigil",
+      "to": "f-lean-vigil",
+      "layer": "st-story",
+      "type": "would run up to",
+      "basis": "stated",
+      "quote": "Lean Vigil",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#lean-vigil",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-lean-vigil",
+      "to": "port-food",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Port cuisine",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#lean-vigil",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-mending-day",
+      "to": "nomads",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Nomads",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#mending-day",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-stopping-place",
+      "to": "st-gv-land",
+      "layer": "st-story",
+      "type": "would sit on",
+      "basis": "stated",
+      "quote": "land and seed politics",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-stopping-place",
+      "chip": "Sits on",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-stopping-place",
+      "to": "nomads",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Nomads",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-stopping-place",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-slow-boat",
+      "to": "sunplains-culture",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Sunplains",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-slow-boat",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-slow-boat",
+      "to": "sunplains",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Sunplains",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-slow-boat",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-slow-boat",
+      "to": "nomads",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Nomads",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-slow-boat",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-slow-boat",
+      "to": "f-wine-crush",
+      "layer": "st-story",
+      "type": "would run up to",
+      "basis": "stated",
+      "quote": "Wine Crush",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-slow-boat",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-slow-boat",
+      "to": "sunplains-food",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Sunplains cuisine",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-slow-boat",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-ballad-line",
+      "to": "nomads",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Nomads",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-ballad-line",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-under-the-lights",
+      "to": "northwind-culture",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Northwind",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#under-the-lights",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-under-the-lights",
+      "to": "northwind",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Northwind",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#under-the-lights",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-under-the-lights",
+      "to": "f-aurora-nights",
+      "layer": "st-story",
+      "type": "would run up to",
+      "basis": "stated",
+      "quote": "Aurora Nights",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#under-the-lights",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-under-the-lights",
+      "to": "northwind-food",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Northwind cuisine",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#under-the-lights",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-wrong-day",
+      "to": "pw-faith-cyclic",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Cyclic Order",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-wrong-day",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-wrong-day",
+      "to": "systems-proposal-05",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Calendar and Timekeeping",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-wrong-day",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-forge-reawakening",
+      "to": "ironcrest-culture",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Ironcrest",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-forge-reawakening",
+      "to": "ironcrest",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Ironcrest",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-forge-reawakening",
+      "to": "pw-faith-forge",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Eternal Forge",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-forge-reawakening",
+      "to": "f-forge-reawakening",
+      "layer": "st-story",
+      "type": "would run up to",
+      "basis": "stated",
+      "quote": "Forge Reawakening",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-forge-reawakening",
+      "to": "ironcrest-food",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Ironcrest cuisine",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-kitchen-court",
+      "to": "pw-faith-harmonious",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Harmonious Path",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-kitchen-court",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-same-sin",
+      "to": "pw-faith-dualflame",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Dual Flame",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-same-sin",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-name-on-both-walls",
+      "to": "hi-mem-ember-wars",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Ember Wars",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-name-on-both-walls",
+      "to": "hi-ver-ember-greenvale",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Ember Wars",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-name-on-both-walls",
+      "to": "hi-ver-ember-ironcrest",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Ember Wars",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-name-on-both-walls",
+      "to": "hi-ver-ember-border",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Ember Wars",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-name-on-both-walls",
+      "to": "f-ember-remembrance",
+      "layer": "st-story",
+      "type": "would run up to",
+      "basis": "stated",
+      "quote": "Ember Remembrance",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls",
+      "chip": "Festival",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-treaty-stone",
+      "to": "hi-prov-border-recognition",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "border recognition",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-treaty-stone",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-treaty-stone",
+      "to": "hi-prov-arbitration",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "arbitration",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-treaty-stone",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-salt-between-them",
+      "to": "hi-mem-salted-coast",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Salted Coast",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#salt-between-them",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-salt-between-them",
+      "to": "hi-ver-salted-northwind",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Salted Coast",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#salt-between-them",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-salt-between-them",
+      "to": "hi-ver-salted-sunplains",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Salted Coast",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#salt-between-them",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-salt-between-them",
+      "to": "hi-ver-salted-port",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Salted Coast",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#salt-between-them",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-salt-between-them",
+      "to": "st-nw-convoy",
+      "layer": "st-story",
+      "type": "would sit on",
+      "basis": "stated",
+      "quote": "convoy politics",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#salt-between-them",
+      "chip": "Sits on",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-seizure-warehouse",
+      "to": "port",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Port",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-seizure-warehouse",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-seizure-warehouse",
+      "to": "hi-mem-port-seizure",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Port Seizure",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-seizure-warehouse",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-seizure-warehouse",
+      "to": "hi-ver-seizure-northwind",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Port Seizure",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-seizure-warehouse",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-seizure-warehouse",
+      "to": "hi-ver-seizure-port",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Port Seizure",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-seizure-warehouse",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-seizure-warehouse",
+      "to": "hi-ver-seizure-merchants",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Port Seizure",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-seizure-warehouse",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-bridge-delay",
+      "to": "highridge-culture",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Highridge",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-bridge-delay",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-bridge-delay",
+      "to": "highridge",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Highridge",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-bridge-delay",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-bridge-delay",
+      "to": "pw-guild-builders",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "builders and infrastructure guilds",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-bridge-delay",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-bridge-delay",
+      "to": "highridge-food",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Highridge cuisine",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-bridge-delay",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-tea-boy",
+      "to": "port",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Port",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-tea-boy",
+      "to": "pw-crime-port",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "intelligence brokerage",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-tea-boy",
+      "to": "pw-guild-spy",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Spy Guild",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-tea-boy",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-retired-blade",
+      "to": "sevenhill",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Seven Hill",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-retired-blade",
+      "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-retired-blade",
+      "to": "pw-guild-warrior",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Warrior's Guild",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-retired-blade",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-midwifes-road",
+      "to": "systems-proposal-15",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Medicine and Healing",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-midwifes-road",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-coat",
+      "to": "systems-proposal-12",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Clothing and Material Culture",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-coat",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
     }
   ],
   "gaps": [

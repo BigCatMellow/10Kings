@@ -37,6 +37,12 @@ At story scale the domino is always a **nail**, the smallest kind: a letter, a r
 | Local outcome | The nail falls or doesn't because locals act for local reasons ([World Rules §20](../../World-Rules.md#20-the-world-exists-when-the-protagonists-are-absent)). |
 | Outward effect | The second- and third-order effect beyond the story, including how the Villain or Council could use it ([World Rules §12](../../World-Rules.md#12-every-major-event-should-have-second--and-third-order-effects)). |
 
+### World stories
+
+*bt 7274, 2026-11-04 ([D23](Decisions.md#the-authors-decisions)): "not every story has to progress the storys dominos or main plot, some can just be part of the world at large."*
+
+A **world story** carries none of the table above: no nail, no attribution, no outward effect. Current events can show in it as weather, or not at all. Everything else on this page still holds, and so does everything below. A story with Wurdren in it is never a world story, because his presence is the signal ([D19](Decisions.md#the-authors-decisions)).
+
 ### What keeps it Sunday Morning
 
 - **Stakes on the page stay local.** The domino web raises what the outcome *means*, not what the characters risk.

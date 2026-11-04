@@ -48,7 +48,7 @@ This is especially likely in:
 - mining towns;
 - river markets;
 - migrant farming districts;
-- old military settlements.
+- old military settlements, such as [Seven Hill](Places/Seven-Hill.md).
 
 ## Core rule
 
