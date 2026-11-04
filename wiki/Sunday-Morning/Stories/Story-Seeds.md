@@ -510,12 +510,12 @@ How the stories are made doesn't change. Each picked seed runs the [pipeline](..
 
 ### Questions for bt 7274
 
-One at a time, each with a lean.
+One at a time, each with a lean. The [legacy notes](../../../legacy-notes/README.md) were searched for answers on 2026-11-04; what they hold is now on each owner page.
 
-1. **Seven Hill: where is it, and whose base was it?** Lean: on a Spine pass, a fortress emptied when Highridge's toll wars gave way to negotiated passage, so it has been a town for generations and the base is the town's old bones. The other way would be a recent garrison stood down by a treaty, which makes it fresher and sorer.
-2. **The Overpath: who walks it?** Lean: a chain of old herders' and pilgrims' paths that came to be walked as one, walked by pilgrims, herders, couriers who know a short cut, and people with reasons of their own. Nobody runs it.
-3. **The circuit people:** does the Appalachian-influenced mobile people have a name for itself? Lean: not yet. The stories can call them by their family names, the way they'd call themselves.
-4. **The Warrior's, Assassin's and Spy Guilds:** what are they, if anything, before a story uses them? Lean: park The Tea Boy and The Retired Blade until then.
+1. **Seven Hill: where is it, and whose base was it?** The legacy notes have nothing on it ([Seven Hill](../../Places/Seven-Hill.md#what-the-legacy-notes-say)), so it's new with bt 7274. Lean: on a Spine pass, a fortress emptied when Highridge's toll wars gave way to negotiated passage, so it has been a town for generations and the base is the town's old bones. The other way would be a recent garrison stood down by a treaty, which makes it fresher and sorer.
+2. **The Overpath: is it the legacy notes' Overpass?** The legacy has an *Overpass*: a dangerous surface way through the mountains for pilgrims, adventurers and caravans with goods too big for the tunnels, with bandits, tolls and two named landmarks ([The Spine](../../Places/The-Spine.md#what-the-legacy-notes-say)). That answers who walks it. Lean: the same thing, keep bt 7274's newer name, and let it be a trail along the range that the pass roads cross, so both descriptions hold.
+3. **The circuit people's name.** The legacy calls the Appalachian-influenced people the **Ridge-Roamers**, travelling in clans named for a ridge or an ancestor, with seven more named bands besides ([Nomads](../../Culture/Nomads.md#names-in-the-legacy-notes)). Lean: keep Ridge-Roamers as what outsiders call them, and let the stories use the clan names, the way they'd name themselves.
+4. **The Warrior's, Assassin's and Spy Guilds.** The legacy gives each a fuller form, mostly game-class flavor ([Guilds](../../Politics/Guilds.md#armed-and-clandestine-organizations)). The usable core: a fighters' guild that guards caravans and trains militias, and spy guilds that sell information to anyone, the Council included. Lean: keep those two cores for The Retired Blade and The Tea Boy, leave the Assassin's Guild out of the stories, and drop the costume names.
 
 ## Related pages
 

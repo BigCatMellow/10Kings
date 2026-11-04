@@ -46,6 +46,12 @@ Earlier notes include:
 
 These should be developed carefully so they function as plausible institutions rather than game classes.
 
+The legacy notes ([Volume 08, Part 3](../../legacy-notes/2026-09-22/consolidated-package/08_Power_The_Council_Guilds_Underworld.md#src-guilds-class)) give each a fuller form. None of it is canon, and much of it is game-class flavor this page warns against:
+
+- **The Ironclad Warriors' Guild:** trains professional fighters; members earn rank by real service such as "guarding caravans, dealing with local threats"; rulers hire it to train militias; it swears a Sword Oath and holds tournaments. Its arms are called the Ironclad Vanguard.
+- **The Veiled Dagger Assassins' Guild:** secret city cells under a "Grand Shade", with a "Bloodless Contract Code" against unnecessary killing. Its troops are called the Veiled Shadows.
+- **Spy and intelligence guilds:** "officially independent, thrive on selling information"; "even Council members hire them." One version is the Veiled Eye Society, a confederation of city "Eyes" covering espionage and theft. Its troops are called the Whisperknives.
+
 ## What guilds want
 
 No guild wants only "more power."

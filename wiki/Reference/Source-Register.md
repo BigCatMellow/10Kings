@@ -354,3 +354,7 @@ The earlier stack also contains substantial rewrites of existing owners. They ar
 - **Economic Council** — [PR #6](https://github.com/BigCatMellow/10Kings/pull/6) elaborates internal meetings, operational constraints, intervention cycles and hypothetical institutions. Current [Economic Council](../Politics/Economic-Council.md) establishes **six named houses**, which supersede the old branch's open seat/name questions. Extra constitution, succession and staffing options were not promoted as a parallel canonical Council owner.
 
 This is a **preservation and disposition record**, not a claim that every older line was integrated. The historical branches and PR diffs are retained for future source-level work. See [reconciliation issue #19](https://github.com/BigCatMellow/10Kings/issues/19) and [PR #20](https://github.com/BigCatMellow/10Kings/pull/20).
+
+## 2026-11-04 legacy lookup for the world seeds
+
+bt 7274 asked for the [world seeds](../Sunday-Morning/Stories/Story-Seeds.md#questions-for-bt-7274)' open questions to be checked against the legacy notes. What they hold was added, as non-canon evidence, to the owners: [The Spine](../Places/The-Spine.md#what-the-legacy-notes-say) (the legacy *Overpass*), [Seven Hill](../Places/Seven-Hill.md#what-the-legacy-notes-say) (nothing found), [Nomads](../Culture/Nomads.md#names-in-the-legacy-notes) (the Ridge-Roamers and other named bands) and [Guilds](../Politics/Guilds.md#armed-and-clandestine-organizations) (the legacy forms of the armed and clandestine guilds). Nothing was promoted.

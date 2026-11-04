@@ -12,6 +12,10 @@ None of this is settled as Seven Hill's history. It is what a story or a ruling 
 - The [Spine](The-Spine.md#physical-role) holds "old fortifications" and "strategic fortresses", and pre-Convergence [Highridge](../Regions/Highridge-Plateau.md#historical-identity) had "fortress communities" before toll warfare gave way to negotiated passage.
 - The [Convergence](../History/The-Convergence.md#border-recognition) could define boundaries by "old forts", and [Port](Port.md#neutrality)'s charter limits kingdom troops inside the city.
 
+## What the legacy notes say
+
+Nothing, by name. A search of the [legacy notes](../../legacy-notes/README.md) and every branch found no Seven Hill and no former base turned town. The nearest thing is a one-line brainstorm, Stonefort, "a heavily fortified town built into the cliffs … ruled by a military governor" ([Volume 03](../../legacy-notes/2026-09-22/consolidated-package/03_Cities_Architecture.md)), which is a working fort, not a former one. So Seven Hill is new with bt 7274.
+
 ## Still open
 
 - **Where it is,** and whose base it was: a kingdom's, a pass lord's, a city's, a coalition's.

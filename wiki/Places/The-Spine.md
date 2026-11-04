@@ -45,8 +45,21 @@ This explains:
 
 It sits alongside what this page already lists, without being settled as any of it: the range's pilgrimage routes, seasonal passes and migration corridors, and the [Infinite Compass](../Politics/Religions.md#9-the-infinite-compass)'s road shrines and hospitality for travelers.
 
+### What the legacy notes say
+
+The legacy notes call it **the Overpass**, not the Overpath ([Volume 01](../../legacy-notes/2026-09-22/consolidated-package/01_Foundations_World_Myth_History.md), [Volume 02](../../legacy-notes/2026-09-22/consolidated-package/02_Regions_Kingdoms.md#src-world-the-spine)). None of this is settled; it's evidence for bt 7274 to rule on:
+
+- "A treacherous and winding trail that weaves through the mountains, used by those who cannot—or choose not to—navigate The Underpass."
+- It "caters to adventurers, pilgrims, and caravans carrying goods unsuitable for the confined Underpass", with avalanches, predators, bad weather and bandits; the Underpass is the safer, faster, busier way through.
+- "Seasonal nomads traverse both the Underpass and the Overpass, acting as guides and transporters of goods."
+- Named landmarks: Eagle's Summit, "a high-altitude resting place", and Shimmerfall Ravine.
+- The old domino and current-events notes use it often: tolls, a checkpoint, repairs, the Warriors' Guild guarding caravans on it, and a rivalry between Overpass and Underpass communities.
+
+The legacy describes a way *through* the range. bt 7274's 2026-11-04 statement describes a trail along its whole length. His later word is the one recorded above.
+
 Still open:
 
+- the name: Overpath (bt 7274, 2026-11-04) or Overpass (legacy);
 - who walks it, and why: pilgrims, herders, couriers, people who walk it for its own sake;
 - whether it is one made trail or a chain of older paths that came to be walked as one;
 - whether anyone keeps it (huts, markers, a guild, a faith, nobody), and whether its route rules are the [Convergence](../History/The-Convergence.md#route-rules)'s or older;

@@ -4,6 +4,12 @@
 
 **Working area, not yet fixed canon.** One idea the project specifically wants to explore is a mobile people with significant **Appalachian cultural influence**, but grounded in the actual mobility needs of this world.
 
+## Names in the legacy notes
+
+Not canon. The legacy notes ([Volume 04, Part 3](../../legacy-notes/2026-09-22/consolidated-package/04_Cultures_Peoples_Daily_Life.md#src-nomads-appalachian)) name the Appalachian-influenced people the **Ridge-Roamers**: descendants of mountain settlers on Ironcrest's foothills and Highridge's passes who took to the road to escape forced labor and tolls. They travel in clans, "each traveling band is an extended family or 'clan,' taking a name from a mountain ridge or notable ancestor", meet at highland gatherings, and are known for string music and ballads, herbal remedies and woodcraft.
+
+The same notes add other bands: the Smokyfoot Caravan, the Ridgeway Gatherers (high-terrain people of the Highridge Plateau), the River-Folk Drifters, the Quilted Coyote Clan, the Seven-String Travellers, the Smoky Mesa Riders and the Blueline Drifters. An unmerged 2026-09 review branch advised against carrying these names over; that was an agent's advice, not a ruling. Whether any of them stays is bt 7274's call.
+
 ## Why mobile peoples exist here
 
 Mobility should have an economic and ecological reason. Possibilities include:
