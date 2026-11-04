@@ -8,7 +8,7 @@ The main conflict, the current events and how they can ripple into each other, t
 
 Current events sit in their region's column (the cross-region ripple steps, the faiths' reading of the crises and the main-conflict cards in a Main conflict column). Each Sunday Morning story and seed sits in the column of its setting, with lines to its town or region, its festival, the events it sits on, its domino figure, its cast from Part 6, and the stories it shares a thread with. The ripple chain from Current Events is drawn step by step and marked possible.
 
-**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 56 story seeds; 348 connections (338 stated in the wiki, 10 inferred).
+**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 69 story seeds; 368 connections (358 stated in the wiki, 10 inferred).
 
 ## Gaps this part exposes
 
@@ -169,6 +169,26 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Inspected, Not Guaranteed | shares a thread with | Walkout Pies | stated | “Kerra Dunnock” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
 | The Tree With a Debt | shares a thread with | The Blank Square | stated | “the Twilighthollow community record” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
 | The Road in Use | shares a thread with | The Mushrooms From Nowhere | stated | “the lost corridor” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
+| Harvest Home Again | would use | 5. Farmers default | stated, possible | “farmers default” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#harvest-home-again) |
+| The Trial Rows | would touch the domino of | Rosana Meadowcroft | stated, possible | “Rosana Meadowcroft” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-trial-rows) |
+| The Route Book | would touch the domino of | Samir Tareh | stated, possible | “Samir Tareh” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-route-book) |
+| The Route Book | would sit on | Caravan attacks | stated, possible | “Caravan attacks” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-route-book) |
+| The Same Paper | would touch the domino of | Orin Slatehallow | stated, possible | “Orin Slatehallow” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-same-paper) |
+| The Same Paper | would sit on | Unusual metal movements | stated, possible | “good metal vanishing into private contracts” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-same-paper) |
+| The Second Pour | would sit on | Labor unrest | stated, possible | “labor unrest” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-second-pour) |
+| The Patrol Boat | would sit on | Convoy politics | stated, possible | “piracy and convoy politics” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-patrol-boat) |
+| The Patrol Boat | would touch the domino of | Maris Bleakshore | stated, possible | “Maris Bleakshore” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-patrol-boat) |
+| The Patrol Boat | would use | The Salted Coast Disputes | stated, possible | “Salted Coast” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-patrol-boat) |
+| The Patrol Boat | would use | Salted Coast: Northwind songs | stated, possible | “Salted Coast” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-patrol-boat) |
+| The Patrol Boat | would use | Salted Coast: Sunplains stories | stated, possible | “Salted Coast” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-patrol-boat) |
+| The Patrol Boat | would use | Salted Coast: Port traditions | stated, possible | “Salted Coast” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-patrol-boat) |
+| Udo's Other Road | would sit on | Smuggling surge | stated, possible | “smuggling surge” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#udos-other-road) |
+| Udo's Other Road | would sit on | Underpass route wars | stated, possible | “Underpass route wars” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#udos-other-road) |
+| The Paid Side | would sit on | Debates tied to patrons | stated, possible | “political debate” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-paid-side) |
+| The Rival Lamps | would sit on | City-state coordination | stated, possible | “city-state coordination” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-rival-lamps) |
+| The Rival Lamps | would touch the domino of | Bahriyya Nazar | stated, possible | “Bahriyya Nazar” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-rival-lamps) |
+| What the Elder Wrote | would touch the domino of | Naruin Mossglade | stated, possible | “Naruin Mossglade” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-elder-wrote) |
+| What the Elder Wrote | would sit on | Logging and road conflict | stated, possible | “logging and road conflict” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-elder-wrote) |
 | The Walker's Stone | would be set in | The Overpath | stated, possible | “Overpath” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-walkers-stone) |
 | Above | would be set in | The Overpath | stated, possible | “Overpath” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#above) |
 | Above | would be set in | The Underpass | stated, possible | “Underpass” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#above) |
@@ -588,6 +608,21 @@ flowchart LR
   sm_wilda["Wilda"]
   sm_gideon["Gideon"]
   sm_nils_orvay["Nils Orvay"]
+  seed_w_harvest_home_again["Harvest Home Again"]
+  seed_w_the_trial_rows["The Trial Rows"]
+  seed_w_the_route_book["The Route Book"]
+  seed_w_the_same_paper["The Same Paper"]
+  seed_w_the_second_pour["The Second Pour"]
+  seed_w_the_patrol_boat["The Patrol Boat"]
+  hi_mem_salted_coast["The Salted Coast Disputes"]
+  hi_ver_salted_northwind["Salted Coast: Northwind songs"]
+  hi_ver_salted_sunplains["Salted Coast: Sunplains stories"]
+  hi_ver_salted_port["Salted Coast: Port traditions"]
+  seed_w_udos_other_road["Udo's Other Road"]
+  seed_w_the_paid_side["The Paid Side"]
+  st_hr_debate["Debates tied to patrons"]
+  seed_w_the_rival_lamps["The Rival Lamps"]
+  seed_w_what_the_elder_wrote["What the Elder Wrote"]
   seed_w_the_walkers_stone["The Walker's Stone"]
   overpath["The Overpath"]
   seed_w_above["Above"]
@@ -654,10 +689,6 @@ flowchart LR
   hi_prov_border_recognition["Border recognition"]
   hi_prov_arbitration["Arbitration"]
   seed_w_salt_between_them["Salt Between Them"]
-  hi_mem_salted_coast["The Salted Coast Disputes"]
-  hi_ver_salted_northwind["Salted Coast: Northwind songs"]
-  hi_ver_salted_sunplains["Salted Coast: Sunplains stories"]
-  hi_ver_salted_port["Salted Coast: Port traditions"]
   seed_w_the_seizure_warehouse["The Seizure Warehouse"]
   hi_mem_port_seizure["The Port Seizure"]
   hi_ver_seizure_northwind["Port Seizure: some Northwind families"]
@@ -919,6 +950,26 @@ flowchart LR
   sm_nils_orvay --> story_blank_square
   sm_zan_coyle --> story_mushrooms
   sm_vinegar --> story_mushrooms
+  seed_w_harvest_home_again -.->|possible| st_c5
+  seed_w_the_trial_rows -.->|possible| pp_rosana
+  seed_w_the_route_book -.->|possible| pp_samir
+  seed_w_the_route_book -.->|possible| st_hr_attacks
+  seed_w_the_same_paper -.->|possible| pp_orin
+  seed_w_the_same_paper -.->|possible| st_ic_metal
+  seed_w_the_second_pour -.->|possible| st_ic_labor
+  seed_w_the_patrol_boat -.->|possible| st_nw_convoy
+  seed_w_the_patrol_boat -.->|possible| pp_maris
+  seed_w_the_patrol_boat -.->|possible| hi_mem_salted_coast
+  seed_w_the_patrol_boat -.->|possible| hi_ver_salted_northwind
+  seed_w_the_patrol_boat -.->|possible| hi_ver_salted_sunplains
+  seed_w_the_patrol_boat -.->|possible| hi_ver_salted_port
+  seed_w_udos_other_road -.->|possible| st_pt_smuggling
+  seed_w_udos_other_road -.->|possible| st_sx_routewars
+  seed_w_the_paid_side -.->|possible| st_hr_debate
+  seed_w_the_rival_lamps -.->|possible| st_sp_coalition
+  seed_w_the_rival_lamps -.->|possible| pp_bahriyya
+  seed_w_what_the_elder_wrote -.->|possible| pp_naruin
+  seed_w_what_the_elder_wrote -.->|possible| st_dw_road
   seed_w_the_walkers_stone -.->|possible| overpath
   seed_w_above -.->|possible| overpath
   seed_w_above -.->|possible| underpass
@@ -1097,6 +1148,9 @@ Grouped by board column.
 | [Trade redirected](../../wiki/Story/Current-Events.md#caravan-attacks) | Current event | No status label | Trade is redirected. Towns bypassed by new routes suffer immediately. |
 | [Debates tied to patrons](../../wiki/Story/Current-Events.md#political-debate) | Current event | No status label | Highridge intellectual disputes are increasingly tied to real patrons and commercial interests. |
 | [The Goat File](../../wiki/Sunday-Morning/Stories/The-Goat-File.md#status) | Sunday Morning story, Year 1, late autumn | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Route Book](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-route-book) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Paid Side](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-paid-side) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Petition Room](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-petition-room) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Stopping Place](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-stopping-place) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Day of Departure](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-day-of-departure) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Prayer List](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-prayer-list) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1128,6 +1182,27 @@ Grouped by board column.
 - *Still falls elsewhere:* In other towns, forced closures ruin families; the tea seller has heard of two. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Outward effect:* A joined house can offer caravans water and guides together, just as routes are being redrawn. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [The Goat File](../../wiki/Sunday-Morning/Drafts/The-Goat-File.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+
+**The Route Book**
+
+- *Kind:* Domino
+- *Premise:* An inn on a road that used to be busy has gone quiet, because a famous caravan negotiator's book of honest towns lists the route over the next ridge and not this one. The innkeeper is honest. She just isn't in the book.
+- *Possible heart:* being good and being known for it are different jobs.
+- *Possible thread:* Samir Tareh's route book from The Heavy Scale, and his domino: "'safe' trade concentration makes one route strategically vulnerable and impoverishes another." Her road is the other one. Caravan attacks are why the book matters.
+
+**The Paid Side**
+
+- *Kind:* Domino
+- *Premise:* A student debater is drawn to argue her patron's side at the Midsummer Debates. She thinks it's wrong. She decides to argue it so honestly that everyone can see exactly where it's weak.
+- *Possible heart:* honesty can be a way of doing the job, not just of refusing it.
+- *Possible thread:* political debate and "intellectual disputes tied to actual commercial patrons" (Highridge): the one current event no story has used.
+
+**The Petition Room**
+
+- *Kind:* Domino
+- *Premise:* The old doorkeeper of the petition room has seen every kind of paper come through. This season it's petitions with long rows of marks, from places he's never been, and the clerks keep asking him which pile they go on.
+- *Possible heart:* a doorkeeper decides more than anyone thinks.
+- *Possible thread:* the reform statements and Weaver marks arriving where the Council's desk "may read it as Deepwood organizing" (desk view); the Highridge government as people.
 
 **The Stopping Place**
 
@@ -1194,6 +1269,7 @@ Grouped by board column.
 | [Plans leak; wardens prepare](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood) | Current event | Provisional | Real Council-backed expansion plans leak without context and preemptive defense is encouraged: Naruin Mossglade's domino, in which a local conservation dispute becomes an inter-regional sovereignty crisis. |
 | [The Talker](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-talker) | Story seed | Provisional | A parked Sunday Morning premise, not yet developed; names and details are non-canon. |
 | [The Blank Square](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md#status) | Sunday Morning story, Year 2, early autumn | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [What the Elder Wrote](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-elder-wrote) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Ranger's Season](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-rangers-season) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
 **Logging and road conflict**
@@ -1226,6 +1302,13 @@ Grouped by board column.
 - *Outward effect:* Other houses sign both, and the plateau reads a row of Weaver marks as Deepwood lining up against roads. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [The Blank Square](../../wiki/Sunday-Morning/Drafts/The-Blank-Square.md), [The Blank Square](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
+**What the Elder Wrote**
+
+- *Kind:* Domino
+- *Premise:* The Weaver elder's written copy of the letter Hollis burned (The Tree With a Debt) is copied and carried on. Four short scenes, four hands: a copyist, a carrier, a doorkeeper at a court, a judge's cook. Each reads one line of it and does one small thing.
+- *Possible heart:* a true thing travels on ordinary people's kindness.
+- *Possible thread:* Naruin Mossglade and the logging and road conflict; it sits beside the reform statement with all its marks (The Eighth Verse, The Blank Square), "on its way to being read as proof".
+
 **The Ranger's Season**
 
 - *Kind:* World
@@ -1243,6 +1326,8 @@ Grouped by board column.
 | [10. Workshops cut hours](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 10 of one possible ripple chain: Ironcrest workshops reduce hours. |
 | [11. Strike leaders blame owners](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 11 of one possible ripple chain: strike leaders blame owners. |
 | [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md#status) | Sunday Morning story, Year 2, midsummer | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Same Paper](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-same-paper) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Second Pour](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-second-pour) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [Forge Reawakening](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Breaking](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-breaking) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Miner's Luck](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-miners-luck) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1284,6 +1369,20 @@ Grouped by board column.
 - *Outward effect:* In another valley the walkout hit the pour; owners and crews blame each other there. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [Walkout Pies](../../wiki/Sunday-Morning/Drafts/Walkout-Pies.md), [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
+**The Same Paper**
+
+- *Kind:* Domino
+- *Premise:* Wurdren stops to mend a bellows for a young metalworker who has been offered a patron. He sees the letter on the bench: heavy cream paper, a ship's lantern in the watermark. He has seen that paper once before and can't think where, and it bothers him all the way down the valley.
+- *Possible heart:* you can know a thing matters before you know why.
+- *Possible thread:* the C6 letters (Inspected), Orin Slatehallow's valley (the "Slatehallow lad" of Walkout Pies), and good metal vanishing into private contracts. Wurdren notices; he does not work it out.
+
+**The Second Pour**
+
+- *Kind:* Domino
+- *Premise:* The valley that lost its pour the year of Walkout Pies gets to pour again. Coalglen sends pies up the road, because that's what Coalglen does, and nobody up the valley wants to be grateful.
+- *Possible heart:* help is hardest to take from people you used to think you were better than.
+- *Possible thread:* labor unrest a year on, and Orin's valley again. Kettie Sowerby can appear, but the protagonist is from the upper valley.
+
 **Forge Reawakening**
 
 - *Kind:* Domino
@@ -1324,6 +1423,9 @@ Grouped by board column.
 | [7. Consolidators buy farms](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 7 of one possible ripple chain: land consolidators buy distressed farms. |
 | [8. Reformers cry theft](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 8 of one possible ripple chain: religious and guild reformers call it coordinated theft. |
 | [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md#status) | Sunday Morning story, Year 1, midwinter | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [Harvest Home Again](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#harvest-home-again) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Penny Sale](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-penny-sale) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Trial Rows](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-trial-rows) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [Mending Day](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#mending-day) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Wrong Day](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-wrong-day) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The River Blessing](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-river-blessing) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1374,6 +1476,27 @@ Grouped by board column.
 - *Outward effect:* The statement travels on; villages that sign refuse tools from the buyers' suppliers, adding to the fall in Ironcrest orders. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [The Eighth Verse](../../wiki/Sunday-Morning/Drafts/The-Eighth-Verse.md), [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
+**Harvest Home Again**
+
+- *Kind:* Domino
+- *Premise:* A year after One Square, Two Harvests, the Vale's harvest is good again and nobody is buying. Bettany Corlew chairs Harvest Home as usual, and this year the redistribution table, the part of the festival that was always a formality, is the part everyone needs.
+- *Possible heart:* a festival is a promise a town makes to itself, and this year it gets kept.
+- *Possible thread:* farmers default (ripple step 5), after the Salve house's credit was tightened, as the desk view expected. The warm ending of One Square isn't undone; it's what lets the Vale carry this.
+
+**The Penny Sale**
+
+- *Kind:* Domino
+- *Premise:* A neighbor's farm is going to auction for debt. The whole district turns up, and nobody bids more than a penny for anything, and anyone who tries to bid more finds a large farmer standing very close to them. Everything goes for pennies, and everything goes back.
+- *Possible heart:* a neighborhood can decide what a thing is worth.
+- *Possible thread:* land consolidators buy distressed farms (step 7). The buyer's agent leaves with nothing and no grudge; the agent is not shamed, only outbid.
+
+**The Trial Rows**
+
+- *Kind:* Domino
+- *Premise:* A stubborn farmer agrees to grow two rows of a seed steward's trial strain, to prove it's no good. The steward comes back every month in muddy boots to look, and the two of them argue about everything except what the rows are doing.
+- *Possible heart:* you can be wrong about a thing and right about a person.
+- *Possible thread:* Rosana Meadowcroft is the steward, as an ordinary person; her seed is the "agricultural innovation" that will become "a political fight over control". Here it's two rows.
+
 **Mending Day**
 
 - *Kind:* World
@@ -1416,6 +1539,8 @@ Grouped by board column.
 | [Drought anxiety](../../wiki/Story/Current-Events.md#drought-anxiety) | Current event | No status label | Water isn't yet universally scarce, but fear changes behavior: hoarding, canal guards, secret agreements, speculative prices. |
 | [City-state coordination](../../wiki/Story/Current-Events.md#city-state-coordination) | Current event | No status label | Some leaders are trying to cooperate. Rivals interpret the effort as the beginning of a dominant bloc. |
 | [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md#status) | Sunday Morning story, Year 1, midwinter | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Patrol Boat](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-patrol-boat) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Rival Lamps](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-rival-lamps) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Slow Boat](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-slow-boat) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [Three Kingdoms](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#three-kingdoms) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 
@@ -1437,6 +1562,20 @@ Grouped by board column.
 - *Still falls elsewhere:* In another city they went dark that night. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Outward effect:* A rival city reads Vasselin's lit night as joining Bahriyya's bloc. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [The Ladder Rules](../../wiki/Sunday-Morning/Drafts/The-Ladder-Rules.md), [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+
+**The Patrol Boat**
+
+- *Kind:* Domino
+- *Premise:* A Northwind patrol boat limps into a Sunplains cove for repairs. The village is sure it's the start of something; the crew are four tired youngsters who want soup and a dry bed.
+- *Possible heart:* an enemy is easier to keep at a distance than to feed.
+- *Possible thread:* piracy and convoy politics and Maris Bleakshore's domino: "Northwind patrol changes are interpreted elsewhere as aggression." The village's old "northern pirates" songs (Salted Coast) are the weather.
+
+**The Rival Lamps**
+
+- *Kind:* Domino
+- *Premise:* A lamplighter from the rival city comes to Vasselin to learn how two-to-a-ladder works, and half the lighters' guild is sure he's a spy. He just wants to stop falling off ladders.
+- *Possible heart:* the thing you're afraid of is often only someone who wants what you've got.
+- *Possible thread:* city-state coordination and Bahriyya Nazar's domino: the rival city already "reads Vasselin as Bahriyya's" (desk view).
 
 **The Slow Boat**
 
@@ -1554,6 +1693,7 @@ Grouped by board column.
 | [Underpass route wars](../../wiki/Story/Current-Events.md#route-wars) | Current event | No status label | Collapse and discovery have changed which enclaves control profitable corridors. Smuggling and legitimate trade compete for the same space. |
 | [The Road in Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md#status) | Sunday Morning story, Year 2, late spring | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md#status) | Sunday Morning story, Year 2, late summer | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [Udo's Other Road](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#udos-other-road) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Walker's Stone](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-walkers-stone) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [Above](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#above) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Air Keeper](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-air-keeper) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1590,6 +1730,13 @@ Grouped by board column.
 - *Still falls elsewhere:* Other enclaves sell through dealers, off the record. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Outward effect:* Other enclaves sell through dealers, and their goods go off the record. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Drafts/The-Mushrooms-From-Nowhere.md), [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+
+**Udo's Other Road**
+
+- *Kind:* Domino
+- *Premise:* A year after The Road in Use, the tower claim has come back from arbitration, and Zan Coyle is hired, with Vinegar, by the broker who uses the road below. Zan doesn't like the work, and Vinegar likes it less.
+- *Possible heart:* you can tell a lot about a job from what your pony thinks of it.
+- *Possible thread:* the smuggling surge and Underpass route wars: "smugglers are exploiting official route closures". The broker's goods stay ordinary on the page.
 
 **The Walker's Stone**
 
@@ -1642,6 +1789,7 @@ Grouped by board column.
 | [The Heavy Scale at Icestep Summit](../../wiki/Sunday-Morning/Stories/The-Heavy-Scale.md#status) | Sunday Morning story, Year 2, early spring | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The Tree With a Debt](../../wiki/Sunday-Morning/Stories/The-Tree-With-a-Debt.md#status) | Sunday Morning story, Year 2, midsummer | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The Bathhouse Compact](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bathhouse-compact) | Story seed | Provisional | A parked Sunday Morning premise, not yet developed; names and details are non-canon. |
+| [Very Nearly](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#very-nearly) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Kitchen Court](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-kitchen-court) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [Both Rites](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#both-rites) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Name on Both Walls](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1697,6 +1845,13 @@ Grouped by board column.
 - *Premise:* Charcoal burners and forest wardens have to jointly run the town's only bathhouse, and they disagree about the fuel.
 - *Possible heart:* Neighbors who argue about extraction still need to be warm and clean in the same room.
 - *Possible thread:* Good metal is vanishing into private contracts, and charcoal demand rises with it.
+
+**Very Nearly**
+
+- *Kind:* Domino
+- *Premise:* A year on, Wurdren comes back to Stonefield to finish Nell Haskett's gate properly. Somebody already has. He stays anyway, because Col Barrowfield has finally answered his letter and wants to tell someone what he said.
+- *Possible heart:* you don't have to be needed to be welcome.
+- *Possible thread:* Col's unanswered letter from Inspected, and the end Wurdren is walking toward (The Long Road): mattering to one person.
 
 **The Kitchen Court**
 

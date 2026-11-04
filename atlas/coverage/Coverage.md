@@ -14,7 +14,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 | Power | 8 of 48 | 40 | 11 |
 | History | 13 of 41 | 28 | 14 |
 | People | 8 of 12 | 4 | 3 |
-| The story layer | 32 of 34 | 2 | 1 |
+| The story layer | 32 of 34 | 2 | 2 |
 | Recovered structural systems | 9 of 17 | 8 | 3 |
 
 ## Regions and Geography
@@ -131,13 +131,13 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### Contested memory
 
-**Not yet in any story:** [The Ember Wars / The Burning Years](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [The Salted Coast Disputes](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them)*, [The Port Seizure](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Seizure Warehouse)*, [Port Seizure: some merchants](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Seizure Warehouse)*.
+**Not yet in any story:** [The Ember Wars / The Burning Years](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [The Salted Coast Disputes](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them, The Patrol Boat)*, [The Port Seizure](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Seizure Warehouse)*, [Port Seizure: some merchants](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Seizure Warehouse)*.
 
 **Used:** The Timber Tithes / Deepwood closure traditions (The Tree With a Debt); Timber Tithes: outsider traditions (The Tree With a Debt).
 
 ### Memory
 
-**Not yet in any story:** [The Ages of Silence](../../wiki/Regions/Deepwood.md#historical-identity), [Ember Wars: Greenvale folk memory](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [Ember Wars: Ironcrest patriotic memory](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [Ember Wars: border memory](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [Salted Coast: Northwind songs](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them)*, [Salted Coast: Sunplains stories](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them)*, [Salted Coast: Port traditions](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them)*, [Port Seizure: some Northwind families](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Seizure Warehouse)*, [Port Seizure: some Port families](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Seizure Warehouse)*.
+**Not yet in any story:** [The Ages of Silence](../../wiki/Regions/Deepwood.md#historical-identity), [Ember Wars: Greenvale folk memory](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [Ember Wars: Ironcrest patriotic memory](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [Ember Wars: border memory](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) *(seeded: The Name on Both Walls)*, [Salted Coast: Northwind songs](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them, The Patrol Boat)*, [Salted Coast: Sunplains stories](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them, The Patrol Boat)*, [Salted Coast: Port traditions](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) *(seeded: Salt Between Them, The Patrol Boat)*, [Port Seizure: some Northwind families](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Seizure Warehouse)*, [Port Seizure: some Port families](../../wiki/History/Contested-Memory.md#the-port-seizure) *(seeded: The Seizure Warehouse)*.
 
 **Used:** The Seven-year Blight (The Eighth Verse); Timber Tithes: Deepwood memory (The Tree With a Debt).
 
@@ -161,7 +161,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### Current events
 
-**Not yet in any story:** [Merchant conflict](../../wiki/Story/Current-Events.md#merchant-conflict) *(seeded: The Quorum)*, [Debates tied to patrons](../../wiki/Story/Current-Events.md#political-debate).
+**Not yet in any story:** [Merchant conflict](../../wiki/Story/Current-Events.md#merchant-conflict) *(seeded: The Quorum)*, [Debates tied to patrons](../../wiki/Story/Current-Events.md#political-debate) *(seeded: The Paid Side)*.
 
 **Used:** Piracy rises (The First Fish at Snowbreaker Quay, The Greenvale Man); Convoy politics (The First Fish at Snowbreaker Quay, The Greenvale Man); Fish stocks shift (The First Fish at Snowbreaker Quay); Smuggling surge (Three Pots at Three Moon); Refugee and worker pressure (Three Pots at Three Moon); Abundance crisis (One Square, Two Harvests); Land and seed politics (One Square, Two Harvests, The Eighth Verse); Unusual metal movements (Inspected, Not Guaranteed); Labor unrest (Inspected, Not Guaranteed, Walkout Pies); Caravan attacks (The Goat File, The Heavy Scale at Icestep Summit, The Tree With a Debt); Trade redirected (The Goat File, The Heavy Scale at Icestep Summit, The Tree With a Debt); Logging and road conflict (The Blank Square, The Tree With a Debt); Fungal or ecological disruption (The Mushrooms From Nowhere, Three Pots at Three Moon); Drought anxiety (The Ladder Rules); City-state coordination (One Square, Two Harvests, The Ladder Rules); Earthquake or land movement (The Road in Use); Underpass route wars (The Mushrooms From Nowhere, The Road in Use); Faiths read the crises (The Blank Square); Plans leak; wardens prepare (The Blank Square, The Tree With a Debt).
 

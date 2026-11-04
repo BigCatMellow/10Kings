@@ -66,7 +66,7 @@ The brainstorm used the THINK pattern from bt 7274's [Pilot Projects](https://gi
 
 1. **Split the world into families** from the [World coverage](../../../atlas/coverage/Coverage.md) report and his examples: the Spine above and below, Seven Hill, Port, moving peoples, faiths and relics, remembered history, guilds, how life works.
 2. **Generate in each family** with a few different operations, so the seeds don't all come out the same shape: a point of view no story has used (perspective shift), the expected thing not happening (inversion), two parts of the world meeting (recombination), a season or scale moved (constraint shift).
-3. **Keep the families apart.** Forty-odd ideas came out; thirty-one were kept, and eleven guild seeds and twelve faith seeds were added the same day because each works a different way. Near-duplicates were dropped, not averaged.
+3. **Keep the families apart.** Forty-odd ideas came out; thirty-one were kept, and eleven guild seeds, twelve faith seeds and thirteen Season 2 seeds were added the same day because each works a different way. Near-duplicates were dropped, not averaged.
 4. **Judge separately** against the [Rules](../Notes/Rules.md) and the [Registry](../Notes/Registry.md#story-shapes) (the [table](#how-they-compare) below), then pick a few for different reasons rather than by one score ([picks](#picks)).
 
 Nothing in a seed is canon. Where a seed needs something the wiki doesn't have, its **Needs** line says so, and nothing is assumed.
@@ -77,6 +77,152 @@ Nothing in a seed is canon. Where a seed needs something the wiki doesn't have, 
 - **Domino**: carries a nail and goes through the [world-tie check](../Notes/Pipeline.md#world-tie-check) as now.
 
 A few seeds note where **Wurdren** could pass through, as the signal ([D19](../Notes/Decisions.md#the-authors-decisions)). Those are Domino stories by definition.
+
+### The main story, Season 2
+
+*Added 2026-11-04 under [D24](../Notes/Decisions.md#the-authors-decisions), to give Season 2 its spine.*
+
+Season 2's world is the second rung of the [escalation](../../Story/Main-Conflict.md#escalation): "recognizable patterns", the same kinds of trouble in more places ([The Long Road](../Notes/The-Long-Road.md)). These seeds are aimed at the eleven dominoes the [Domino Map](../../../atlas/domino-map/Domino-Map.md) shows as touched by a Season 1 story but never at the center of one, and at the threads Season 1 [planted](../Notes/The-Long-Road.md#planted-already). Each names its [kind](../Notes/The-Long-Road.md#kinds-of-story). Every rule still holds: nobody sees the pattern, the Villain never appears, the Council never acts as a named body, and domino figures appear only as ordinary people. What the reader can piece together by the end of the season: the trouble has a shape, and more than one hand is in it.
+
+#### Harvest Home Again
+
+`DOMINO` (a Return) · *the Vale, Greenvale · Harvest Home, Year 2 early autumn*
+
+A year after [One Square, Two Harvests](One-Square-Two-Harvests.md), the Vale's harvest is good again and nobody is buying. Bettany Corlew chairs Harvest Home as usual, and this year the redistribution table, the part of the festival that was always a formality, is the part everyone needs.
+
+Possible heart: a festival is a promise a town makes to itself, and this year it gets kept.
+
+Possible thread: [farmers default](../../Story/Current-Events.md#example-ripple-chain) (ripple step 5), after the Salve house's credit was tightened, as the [desk view](../Notes/Collection.md#the-view-from-the-desks) expected. The warm ending of One Square isn't undone; it's what lets the Vale carry this.
+
+#### The Penny Sale
+
+`DOMINO` · *a Greenvale farm · late autumn*
+
+A neighbor's farm is going to auction for debt. The whole district turns up, and nobody bids more than a penny for anything, and anyone who tries to bid more finds a large farmer standing very close to them. Everything goes for pennies, and everything goes back.
+
+Possible heart: a neighborhood can decide what a thing is worth.
+
+Possible thread: [land consolidators buy distressed farms](../../Story/Current-Events.md#example-ripple-chain) (step 7). The buyer's agent leaves with nothing and no grudge; the agent is not shamed, only outbid.
+
+- **Needs:** the "penny auction" is a real-world custom, used here as a story-level one. Avoid [C7](../Notes/Collection.md#the-threads)'s phrases.
+
+#### The Trial Rows
+
+`DOMINO` (a Figure story) · *a Greenvale hill farm · spring to harvest*
+
+A stubborn farmer agrees to grow two rows of a seed steward's trial strain, to prove it's no good. The steward comes back every month in muddy boots to look, and the two of them argue about everything except what the rows are doing.
+
+Possible heart: you can be wrong about a thing and right about a person.
+
+Possible thread: [Rosana Meadowcroft](../../Story/Villains-Dominoes.md#rosana-meadowcroft--greenvale) is the steward, as an ordinary person; her seed is the "agricultural innovation" that will become "a political fight over control". Here it's two rows.
+
+#### The Route Book
+
+`DOMINO` (a Thread) · *a waystation inn on a Highridge road · summer*
+
+An inn on a road that used to be busy has gone quiet, because a famous caravan negotiator's book of honest towns lists the route over the next ridge and not this one. The innkeeper is honest. She just isn't in the book.
+
+Possible heart: being good and being known for it are different jobs.
+
+Possible thread: [Samir Tareh](../../Story/Villains-Dominoes.md#samir-tareh--highridge)'s route book from [The Heavy Scale](The-Heavy-Scale.md), and his domino: "'safe' trade concentration makes one route strategically vulnerable and impoverishes another." Her road is the other one. [Caravan attacks](../../Story/Current-Events.md#caravan-attacks) are why the book matters.
+
+#### The Same Paper
+
+`DOMINO` (a Stranger story; Wurdren) · *an Ironcrest valley above Coalglen · winter*
+
+Wurdren stops to mend a bellows for a young metalworker who has been offered a patron. He sees the letter on the bench: heavy cream paper, a ship's lantern in the watermark. He has seen that paper once before and can't think where, and it bothers him all the way down the valley.
+
+Possible heart: you can know a thing matters before you know why.
+
+Possible thread: the [C6](../Notes/Collection.md#cross-story-promise-ledger) letters ([Inspected](Inspected-Not-Guaranteed.md)), [Orin Slatehallow](../../Story/Villains-Dominoes.md#orin-slatehallow--ironcrest)'s valley (the "Slatehallow lad" of [Walkout Pies](Walkout-Pies.md)), and [good metal vanishing into private contracts](../../Story/Current-Events.md#unusual-metal-movements). Wurdren notices; he does not work it out.
+
+- **Needs:** a lean taken: C6 stays a pair in Season 1, and this is its third letter, the season's clearest signal ([The Long Road](../Notes/The-Long-Road.md#wurdren): "then the patterns, which he notices without being able to make them add up").
+
+#### The Second Pour
+
+`DOMINO` (a Return) · *the upper valley above Coalglen Meadows · spring*
+
+The valley that lost its pour the year of [Walkout Pies](Walkout-Pies.md) gets to pour again. Coalglen sends pies up the road, because that's what Coalglen does, and nobody up the valley wants to be grateful.
+
+Possible heart: help is hardest to take from people you used to think you were better than.
+
+Possible thread: [labor unrest](../../Story/Current-Events.md#labor-unrest) a year on, and Orin's valley again. Kettie Sowerby can appear, but the protagonist is from the upper valley.
+
+#### The Patrol Boat
+
+`DOMINO` · *a Sunplains fishing village · early summer*
+
+A Northwind patrol boat limps into a Sunplains cove for repairs. The village is sure it's the start of something; the crew are four tired youngsters who want soup and a dry bed.
+
+Possible heart: an enemy is easier to keep at a distance than to feed.
+
+Possible thread: [piracy and convoy politics](../../Story/Current-Events.md#piracy-and-convoy-politics) and [Maris Bleakshore](../../Story/Villains-Dominoes.md#maris-bleakshore--northwind)'s domino: "Northwind patrol changes are interpreted elsewhere as aggression." The village's old "northern pirates" songs ([Salted Coast](../../History/Contested-Memory.md#the-salted-coast-disputes)) are the weather.
+
+- **Needs:** not next to [Salt Between Them](#salt-between-them) in a season.
+
+#### Udo's Other Road
+
+`DOMINO` (a Return) · *Ninewell Saddle and the stair below it · late spring*
+
+A year after [The Road in Use](The-Road-in-Use.md), the tower claim has come back from arbitration, and Zan Coyle is hired, with Vinegar, by the broker who uses the road below. Zan doesn't like the work, and Vinegar likes it less.
+
+Possible heart: you can tell a lot about a job from what your pony thinks of it.
+
+Possible thread: the [smuggling surge](../../Story/Current-Events.md#smuggling-surge) and [Underpass route wars](../../Story/Current-Events.md#route-wars): "smugglers are exploiting official route closures". The broker's goods stay ordinary on the page.
+
+#### The Paid Side
+
+`DOMINO` · *a Highridge city · Midsummer Debates*
+
+A student debater is drawn to argue her patron's side at the Midsummer Debates. She thinks it's wrong. She decides to argue it so honestly that everyone can see exactly where it's weak.
+
+Possible heart: honesty can be a way of doing the job, not just of refusing it.
+
+Possible thread: [political debate](../../Story/Current-Events.md#political-debate) and "intellectual disputes tied to actual commercial patrons" ([Highridge](../../Regions/Highridge-Plateau.md#current-pressures)): the one current event no story has used.
+
+#### The Rival Lamps
+
+`DOMINO` · *Vasselin, Sunplains · winter*
+
+A lamplighter from the rival city comes to [Vasselin](The-Ladder-Rules.md) to learn how two-to-a-ladder works, and half the lighters' guild is sure he's a spy. He just wants to stop falling off ladders.
+
+Possible heart: the thing you're afraid of is often only someone who wants what you've got.
+
+Possible thread: [city-state coordination](../../Story/Current-Events.md#city-state-coordination) and [Bahriyya Nazar](../../Story/Villains-Dominoes.md#bahriyya-nazar--sunplains)'s domino: the rival city already "reads Vasselin as Bahriyya's" ([desk view](../Notes/Collection.md#the-view-from-the-desks)).
+
+#### What the Elder Wrote
+
+`DOMINO` (a Thread) · *Deepwood, the plateau, a Highridge court · a year*
+
+The Weaver elder's written copy of the letter Hollis burned ([The Tree With a Debt](The-Tree-With-a-Debt.md)) is copied and carried on. Four short scenes, four hands: a copyist, a carrier, a doorkeeper at a court, a judge's cook. Each reads one line of it and does one small thing.
+
+Possible heart: a true thing travels on ordinary people's kindness.
+
+Possible thread: [Naruin Mossglade](../../Story/Villains-Dominoes.md#naruin-mossglade--deepwood) and the [logging and road conflict](../../Story/Current-Events.md#logging-and-road-conflict); it sits beside the reform statement with all its marks ([The Eighth Verse](The-Eighth-Verse.md), [The Blank Square](The-Blank-Square.md)), "on its way to being read as proof".
+
+#### The Petition Room
+
+`DOMINO` (a Desk story) · *a Highridge government house · autumn*
+
+The old doorkeeper of the petition room has seen every kind of paper come through. This season it's petitions with long rows of marks, from places he's never been, and the clerks keep asking him which pile they go on.
+
+Possible heart: a doorkeeper decides more than anyone thinks.
+
+Possible thread: the reform statements and Weaver marks arriving where the Council's desk "may read it as Deepwood organizing" ([desk view](../Notes/Collection.md#the-view-from-the-desks)); the [Highridge government](../../Politics/Kingdoms-and-Politics.md) as people.
+
+- **Needs:** a doorkeeper, not a clerk ([Registry](../Notes/Registry.md#devices-already-used): three clerk protagonists already).
+
+#### Very Nearly
+
+`DOMINO` (a Return; Wurdren) · *Stonefield Forge · late summer*
+
+A year on, Wurdren comes back to Stonefield to finish Nell Haskett's gate properly. Somebody already has. He stays anyway, because Col Barrowfield has finally answered his letter and wants to tell someone what he said.
+
+Possible heart: you don't have to be needed to be welcome.
+
+Possible thread: Col's unanswered letter from [Inspected](Inspected-Not-Guaranteed.md), and the end Wurdren is walking toward ([The Long Road](../Notes/The-Long-Road.md#wurdren)): mattering to one person.
+
+- **Needs:** what Col wrote is bt 7274's to decide, or the story keeps it private.
 
 ### The Spine, above and below
 
@@ -716,6 +862,19 @@ Judged one at a time against the [Rules](../Notes/Rules.md) and the [Registry](.
 
 | Seed | Kind | New to the world | New lore | Resolution, against what's used |
 | --- | --- | --- | --- | --- |
+| Harvest Home Again | Domino (Return) | farmers default | none | a festival's table, new |
+| The Penny Sale | Domino | consolidators | none | a crowd that won't bid, new |
+| The Trial Rows | Domino (Figure) | Rosana Meadowcroft | none | a crop that answers, new |
+| The Route Book | Domino (Thread) | Samir Tareh, caravan attacks | none | being known, new |
+| The Same Paper | Domino (Stranger) | Orin Slatehallow, metal | C6's third letter (lean) | a thing noticed, new |
+| The Second Pour | Domino (Return) | labor unrest a year on | none | help taken, new |
+| The Patrol Boat | Domino | piracy, Maris Bleakshore | none | a meal for the enemy (a meal, used) |
+| Udo's Other Road | Domino (Return) | smuggling surge | none | an animal (used once) |
+| The Paid Side | Domino | debates tied to patrons | none | an honest argument, new |
+| The Rival Lamps | Domino | Bahriyya's coalition | none | a skill shared, new |
+| What the Elder Wrote | Domino (Thread) | Naruin, the road conflict | none | a chain of hands, new |
+| The Petition Room | Domino (Desk) | Highridge government | none | a pile chosen, new |
+| Very Nearly | Domino (Return) | Wurdren's end | what Col wrote | being welcome, new |
 | The Walker's Stone | World | the Overpath | none now (D24) | a walk finished, new |
 | Above | World | the Overpath, Underpass life | none now (D24) | a skill out of place, new |
 | The Air Keeper | Domino | Underpass life, Mira Stonebridge | none | handing on a craft, new |
@@ -779,6 +938,9 @@ Not a ranking. Each is picked for a different reason, so a season could start fr
 
 | Pick | Why |
 | --- | --- |
+| **The Same Paper** | Season 2's clearest signal: Wurdren, the third cream letter, and Orin's valley, with nobody working anything out. |
+| **Harvest Home Again** | The first Return: shows a year on what a Season 1 warm ending made possible, without undoing it. |
+| **Very Nearly** | The season's emotional end, and the first step of Wurdren's own: mattering to one person. |
 | **Mending Day** | The cleanest test of D23: a World story with no thread, no new lore, and nomads, which no story has used. If it feels like part of the book, World stories work. |
 | **The Harbor Runner** | The most new world for one story: Port's own culture, its speech and Trade Tongue, its clerks and its streets. It's bt 7274's own example. |
 | **Under the Lights** | The low fantasy, done the everyday way: a belief nobody in the story questions and the story never confirms. It uses the one unused festival. |
@@ -797,7 +959,7 @@ How the stories are made doesn't change. Each picked seed runs the [pipeline](..
 
 1. **bt 7274 picks** which seeds go forward, and answers the [questions](#questions-for-bt-7274) for any seed that needs them.
 2. **Test story first:** lean, Mending Day, because it tests the new thing (a story with no thread) and needs no new lore. Its cold read checks one extra question: does it feel like part of the same book?
-3. **Season 2's mix:** lean, about half World and half Domino, with Wurdren passing through one or two of the Domino stories, and the rung from [The Long Road](../Notes/The-Long-Road.md#the-seasons-loosely).
+3. **Season 2's mix** ([D24](../Notes/Decisions.md#the-authors-decisions)): about half World and half Domino. The Domino half comes mostly from [the main story, Season 2](#the-main-story-season-2), with Wurdren in two or three of them (lean: The Same Paper early, Small Jobs in the middle, Very Nearly last).
 4. **After drafting,** rerun the [coverage](../../../atlas/coverage/Coverage.md) report to see what the season added.
 
 ### Questions for bt 7274
