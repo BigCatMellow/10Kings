@@ -68,7 +68,7 @@ No route, no fixed plan ([D20](Decisions.md#the-authors-decisions)). These are t
 | **4** | mobilization; near-war or limited war, felt from the towns | the people from earlier stories are his network | ordinary trust is what neither side planned for |
 | **5** | revelation; convergence | at the table, or near it, because of the people | the ending, in the voice of the first story |
 
-The last season raises one question for later: how a public revelation is told when nobody in a story may see the pattern. *Lean:* once the Council's existence is public news, people react to it the way they react to any news. They're hearing it, not working it out, so D2 holds. That's for bt 7274 when Season 5 is near.
+The last season raised one question: how a public revelation is told when nobody in a story may see the pattern. bt 7274 settled it ([D28](Decisions.md#the-authors-decisions)): once the Council's existence is public news, people react to it the way they react to any news. They're hearing it, not working it out, so D2 holds.
 
 ## Using the world
 
@@ -124,9 +124,9 @@ The fourteen already hold threads a later story can pick up without changing a w
 
 Each waits until a season needs it.
 
-- **Before Season 3:** the Villain's homeland and the shape of his grievance, so the stories can feel what he's fighting for even with him offstage. And whether he knows the full Council structure at the start ([Open Questions](../../Open-Questions.md#villain)).
-- **Before Season 4:** near-war or limited war.
-- **Before Season 5:** how the public ending is told from the ground (lean above); the end-state the Villain wants; the point where his methods become unacceptable; what the Council keeps and loses.
+- **Before Season 3:** *answered by [D28](Decisions.md#the-authors-decisions).* He's of the Sea People's heirs, whose city Port was; he wants a real voice for the Port-born; and he has no idea the Council exists ([Villain](../../Story/Villain.md#homeland-and-grievance-d28)).
+- **Before Season 4:** *answered by D28:* a limited war at one border.
+- **Before Season 5:** the point where his methods become unacceptable, and what the Council keeps and loses. *(Answered by D28: the ending is told as news, and he wants a real voice for the Port-born.)*
 - **Whenever a story needs it:** anything of Wurdren's past ([Rules](Rules.md#wurdren-in-sunday-morning-stories)), and who the first person he matters to turns out to be.
 
 ## What it changes in the method

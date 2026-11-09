@@ -2,15 +2,15 @@
 
 ## Status
 
-Core function established; identity and exact grievance remain open.
+Core function established. **Homeland, grievance, end-state and what he knows: bt 7274's ruling, [D28](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)** (working canon; details provisional). His name, and the point where his methods become unacceptable, remain open.
 
 ## Core idea
 
 The Villain is the primary strategic mover of the plot.
 
-He believes the post-Convergence order is structurally incapable of giving his people/cause what they need.
+He believes the post-Convergence order is structurally incapable of giving his people what they need: his people are the heirs of the Sea People, whose city was taken and made everyone's ([below](#homeland-and-grievance-d28)).
 
-He identifies the hidden Economic Council as the reason meaningful change is repeatedly neutralized.
+He blames the nations that took Port and the guarantees that keep it from its own people. **He has no idea the Economic Council exists** (D28). What he reads as the kingdoms repeatedly neutralizing change is often the Council quietly correcting course.
 
 He decides that the only path forward is to make the existing equilibrium impossible to maintain.
 
@@ -62,15 +62,11 @@ It is that caring about an end becomes permission to instrumentalize everyone be
 
 ## Relationship to the Council
 
-He hates both:
-- their outcomes;
-- their method.
+He doesn't know it exists (D28). He fights the guarantor nations, and the Council's corrections look to him like the kingdoms' own moves, so he misreads them and pushes harder.
 
-But he increasingly mirrors their method.
+Even so, he mirrors their method without knowing it. The Council manipulates to preserve order; he manipulates to destroy and replace it.
 
-The Council manipulates to preserve order.
-
-He manipulates to destroy and replace it.
+His campaign strains exactly what the Council secretly holds (credit, grain, routes), so in the end it forces the Council into the open, which he never intended. The hidden order surprises him as much as anyone, and the reader, who has watched a second hand since Season 2, knew before he did.
 
 ## Relationship to Wurdren
 
@@ -94,19 +90,20 @@ He may force real reform while personally failing, losing his coalition, accepti
 
 His impact remains part of the new world.
 
-## Candidate homeland: the Free City (for bt 7274)
+## Homeland and grievance (D28)
 
-*Not decided.* The homeland, grievance and end-state stay [open](../Open-Questions.md#villain). On 2026-11-09 bt 7274 suggested looking at "Port like the Free City of Danzig", and [The Whole Road](../Sunday-Morning/Notes/The-Whole-Road.md#the-villain-alternatives-judged-separately) judged that beside five alternatives. The lean:
+bt 7274, 2026-11-09, answering the [Whole Road](../Sunday-Morning/Notes/The-Whole-Road.md#for-bt-7274) questions: "Both, In my mind Port is a former city of the Sea people who grew too strong and had their Port city taken by the other nations after a war." He agreed the end-state, and: "In my mind he has no idea about the Council."
 
-- **His people are the Port-born**, a mixed people with a city and no country. Port is neutral because "every major power fears what would happen if a rival controlled it" ([Port](../Places/Port.md#neutrality)), and the guarantees run it for everyone's trade, so the dockside has the least say.
-- **He sees the Council behind the guarantees**, with a Port house in the Routes seat, and decides that a city nobody owns is the city the Council runs best.
-- **He wants Port to answer to the Port-born.** His method follows the Danzig alternate history in the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig-sparks-dominos): make the guarantors distrust each other until neutral Port is the only ground they'll accept, then make himself the indispensable broker.
-- **The comparison is for mechanisms only.** None of Danzig's history comes in, and Port-born identity stays civic and mixed.
+- **His people.** The Sea People's heirs: the Port-born, whose city it was, and a people the post-war order erased as a nation ([Port](../Places/Port.md#the-sea-peoples-city-d28)). That's both of the alternatives The Whole Road weighed, the Port-born and the erased people, as one people.
+- **The grievance.** The Sea People grew too strong, and the other nations took their city after a war and made it everyone's. Port is neutral now because every power fears a rival holding it, and the people whose city it was have the least say in it. The comparison is the Free City of Danzig, for its mechanisms only; none of Danzig's history comes in, and the Port-born today are mixed, so the claim he makes for them is civic.
+- **What he wants.** A real voice for the Port-born in their own city, inside a renewed Convergence, which the [ending](../Story/Main-Conflict.md#possible-resolution-model) can partly grant.
+- **What he knows.** Nothing about the Council. His enemy is the nations that took Port.
+- **His method.** From the Danzig alternate history in the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig-sparks-dominos): make the guarantors distrust each other until a neutral Port is the only ground they'll accept, then be the broker the peace needs.
 
-The alternative most worth keeping is a frontier people the Convergence erased. Until bt 7274 rules, the stories keep Port as everyone's stationer, so nothing on the page depends on either.
+Still open: his name; exactly when and how the Sea People lost Port; how they relate to Northwind, whose families tell the [Port Seizure](../History/Contested-Memory.md#the-port-seizure) story ([Open Questions](../Open-Questions.md#villain)).
 
 ## Legacy research
 
 Unpromoted legacy material relevant to this page is indexed in the [Story Legacy Research Library](../Reference/Story-Legacy-Research-Library.md).
 
-In the Sunday Morning stories the Villain never appears as himself ([D21](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); his homeland and grievance are due before Season 3 ([The Long Road](../Sunday-Morning/Notes/The-Long-Road.md#questions-for-later)). Whatever homeland is chosen, his letters' Port paper implies nothing about it: Port is everyone's stationer ([Records](../Records-Literacy-and-Authentication.md#paper-and-provenance)).
+In the Sunday Morning stories the Villain never appears as himself ([D21](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); his homeland and grievance are now set (D28). His letters' Port paper is a fair clue but never a proof: Port is everyone's stationer ([Records](../Records-Literacy-and-Authentication.md#paper-and-provenance)).

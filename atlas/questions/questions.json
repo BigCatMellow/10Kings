@@ -399,49 +399,33 @@
       "minor": true
     },
     {
-      "id": "oq-homeland-people",
+      "id": "oq-the-sea-peoples-war",
       "kind": "question",
-      "label": "Villain: homeland/people",
+      "label": "Villain: the war in which the Sea People lost Port",
       "status": "No status label",
       "lane": "cast",
       "section": "Open questions",
       "src": "Open-Questions.md#villain",
-      "text": "Open question under Villain: Homeland/people.",
+      "text": "Open question under Villain: The war in which the Sea People lost Port: its name, and when it fell relative to the Convergence (lean: before it).",
       "short_text": "Villain",
       "facts": {
-        "Question": "Homeland/people.",
+        "Question": "The war in which the Sea People lost Port: its name, and when it fell relative to the Convergence (lean: before it).",
         "Section": "Villain"
       },
       "minor": true
     },
     {
-      "id": "oq-exact-grievance",
+      "id": "oq-the-sea-peoples-kin",
       "kind": "question",
-      "label": "Villain: exact grievance",
+      "label": "Villain: whether the Sea People were Northwind's kin",
       "status": "No status label",
       "lane": "cast",
       "section": "Open questions",
       "src": "Open-Questions.md#villain",
-      "text": "Open question under Villain: Exact grievance.",
+      "text": "Open question under Villain: Whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people.",
       "short_text": "Villain",
       "facts": {
-        "Question": "Exact grievance.",
-        "Section": "Villain"
-      },
-      "minor": true
-    },
-    {
-      "id": "oq-exact-territorial-or-political-end-state-he-want",
-      "kind": "question",
-      "label": "Villain: exact territorial or political end-state he wants",
-      "status": "No status label",
-      "lane": "cast",
-      "section": "Open questions",
-      "src": "Open-Questions.md#villain",
-      "text": "Open question under Villain: Exact territorial or political end-state he wants.",
-      "short_text": "Villain",
-      "facts": {
-        "Question": "Exact territorial or political end-state he wants.",
+        "Question": "Whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people.",
         "Section": "Villain"
       },
       "minor": true
@@ -458,22 +442,6 @@
       "short_text": "Villain",
       "facts": {
         "Question": "The point at which his methods become clearly unacceptable even to sympathetic readers.",
-        "Section": "Villain"
-      },
-      "minor": true
-    },
-    {
-      "id": "oq-whether-he-knows-the-full-council-structure-at-t",
-      "kind": "question",
-      "label": "Villain: whether he knows the full Council structure at the story's beginning",
-      "status": "No status label",
-      "lane": "cast",
-      "section": "Open questions",
-      "src": "Open-Questions.md#villain",
-      "text": "Open question under Villain: Whether he knows the full Council structure at the story's beginning.",
-      "short_text": "Villain",
-      "facts": {
-        "Question": "Whether he knows the full Council structure at the story's beginning.",
         "Section": "Villain"
       },
       "minor": true
@@ -903,56 +871,12 @@
       "chipBack": "Open questions"
     },
     {
-      "from": "oq-homeland-people",
-      "to": "pp-villain",
-      "layer": "oq",
-      "type": "asks about",
-      "basis": "stated",
-      "quote": "Homeland/people.",
-      "src": "Open-Questions.md#villain",
-      "chip": "Asks about",
-      "chipBack": "Open questions"
-    },
-    {
-      "from": "oq-exact-grievance",
-      "to": "pp-villain",
-      "layer": "oq",
-      "type": "asks about",
-      "basis": "stated",
-      "quote": "Exact grievance.",
-      "src": "Open-Questions.md#villain",
-      "chip": "Asks about",
-      "chipBack": "Open questions"
-    },
-    {
-      "from": "oq-exact-territorial-or-political-end-state-he-want",
-      "to": "pp-villain",
-      "layer": "oq",
-      "type": "asks about",
-      "basis": "stated",
-      "quote": "Exact territorial or political end-state he wants.",
-      "src": "Open-Questions.md#villain",
-      "chip": "Asks about",
-      "chipBack": "Open questions"
-    },
-    {
       "from": "oq-the-point-at-which-his-methods-become-clearly-un",
       "to": "pp-villain",
       "layer": "oq",
       "type": "asks about",
       "basis": "stated",
       "quote": "The point at which his methods become clearly unacceptable even to sympathetic readers.",
-      "src": "Open-Questions.md#villain",
-      "chip": "Asks about",
-      "chipBack": "Open questions"
-    },
-    {
-      "from": "oq-whether-he-knows-the-full-council-structure-at-t",
-      "to": "pp-villain",
-      "layer": "oq",
-      "type": "asks about",
-      "basis": "stated",
-      "quote": "Whether he knows the full Council structure at the story's beginning.",
       "src": "Open-Questions.md#villain",
       "chip": "Asks about",
       "chipBack": "Open questions"
@@ -1119,6 +1043,28 @@
       "basis": "stated",
       "quote": "Flora and fauna have no owner page yet",
       "src": "Open-Questions.md#ecology",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-the-sea-peoples-war",
+      "to": "pp-villain",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "The war in which the Sea People lost Port: its name, and when it fell relative to the Convergence (lean: before it).",
+      "src": "Open-Questions.md#villain",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-the-sea-peoples-kin",
+      "to": "pp-villain",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people.",
+      "src": "Open-Questions.md#villain",
       "chip": "Asks about",
       "chipBack": "Open questions"
     }

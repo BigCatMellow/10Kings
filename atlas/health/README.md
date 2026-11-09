@@ -6,8 +6,8 @@
 
 ## At a glance
 
-- **580** things mapped, **834** connections (90% stated in the wiki, the rest inferred)
-- **35** open questions ([Part 8](../questions/README.md))
+- **578** things mapped, **832** connections (90% stated in the wiki, the rest inferred)
+- **33** open questions ([Part 8](../questions/README.md))
 - **80** gaps listed across the parts
 - **91** cards with no connection yet
 
@@ -24,10 +24,10 @@ Each card carries its wiki page's status label. "Writing reference" is the Sunda
 | History | 8 | 10 | 25 | · | · | 43 |
 | People | 1 | 1 | 10 | · | 76 | 88 |
 | Story | · | 35 | 108 | · | · | 143 |
-| Questions | · | · | · | 35 | · | 35 |
+| Questions | · | · | · | 33 | · | 33 |
 | Foundations | 20 | 11 | 1 | · | · | 32 |
 | Systems | · | · | 17 | · | · | 17 |
-| **All** | **35** | **129** | **302** | **38** | **76** | **580** |
+| **All** | **35** | **129** | **302** | **36** | **76** | **578** |
 
 ## Where the cards are
 
@@ -49,7 +49,7 @@ Cards per board column and part. A dot means nothing from that part lives in tha
 | Faiths | · | · | · | 11 | · | · | · | · | · | · |
 | Guilds | · | · | · | 19 | · | · | · | · | · | · |
 | History | · | · | · | · | 25 | · | · | · | · | · |
-| Main cast | · | · | · | · | · | 3 | · | 12 | · | · |
+| Main cast | · | · | · | · | · | 3 | · | 10 | · | · |
 | Sunday Morning cast | · | · | · | · | · | 76 | · | · | · | · |
 | Main conflict | · | · | · | · | · | · | 6 | 1 | · | · |
 | System proposals | · | · | · | · | · | · | · | · | · | 17 |
@@ -104,7 +104,7 @@ Some are fine on their own (a saying, a festival); others are things the wiki ha
 - **Map** (8): Exact outlines of the three continents → Western Continent, Northern Continent, Eastern Continent; Exact location of Port → Port; Which regional borders are long boundaries versus narrow corridors → *nothing on the board yet*; Whether Highridge directly borders Sunplains → Highridge Plateau, Sunplains; Exact relationship of The Spine to continental separation → The Spine; Navigable rivers and major watersheds → *nothing on the board yet*; Whether Greenvale directly borders Highridge → Greenvale; Which pass Seven Hill guards → Seven Hill
 - **Political structure** (5): Are all six named regions kingdoms in the same constitutional sense? → How governments behave; How many independent Sunplains city-states remain? → Sunplains governments; How centralized is Deepwood? → Deepwood government; What formal institutions govern Highridge? → Highridge government; Does Port have citizenship independent of kingdom citizenship? → Port charter and watch
 - **Economic Council** (4): Final names/titles of domains (the six seats and their houses are now settled) → The Economic Council; How seats are inherited, selected, purchased, or contested → The Council houses; How old the Council is relative to The Convergence → The Economic Council, The Council's rise; Which parts of its existence are rumor versus known to elite rulers → The Economic Council
-- **Villain** (6): Name → The Villain; Homeland/people → The Villain; Exact grievance → The Villain; Exact territorial or political end-state he wants → The Villain; The point at which his methods become clearly unacceptable even to sympathetic readers → The Villain; Whether he knows the full Council structure at the story's beginning → The Villain
+- **Villain** (4): Name → The Villain; The war in which the Sea People lost Port: its name, and when it fell relative to the Convergence (lean: before it) → The Villain; Whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people → The Villain; The point at which his methods become clearly unacceptable even to sympathetic readers → The Villain
 - **Wurdren** (5): Exact age and biography → Wurdren; Why his earlier adventuring life failed to match his ambitions → Wurdren; Family and relationships → Wurdren; What he initially believes about politics and the Council → Wurdren; Where his journey begins → Wurdren
 - **Language and naming** (2): Personal-name systems within the language families → *nothing on the board yet*; The names of the Sunplains and Deepwood languages, and what Old Spine speech was called → Sunplains languages, Deepwood languages, Old Spine speech
 - **Nomadic peoples** (1): Seasonal circuits and legal status → Nomads and itinerant peoples

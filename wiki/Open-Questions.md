@@ -34,12 +34,12 @@ These are important areas where earlier brainstorming produced multiple versions
 
 ## Villain
 
+*Homeland, grievance, end-state and what he knows were settled by bt 7274 on 2026-11-09 ([D28](Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [Villain](Story/Villain.md#homeland-and-grievance-d28)): the Sea People's heirs, whose city Port was; a real voice for the Port-born; and no idea the Council exists.*
+
 - Name.
-- Homeland/people. *(A candidate for bt 7274, the Free City: [Villain](Story/Villain.md#candidate-homeland-the-free-city-for-bt-7274).)*
-- Exact grievance.
-- Exact territorial or political end-state he wants.
 - The point at which his methods become clearly unacceptable even to sympathetic readers.
-- Whether he knows the full Council structure at the story's beginning.
+- The war in which the Sea People lost Port: its name, and when it fell relative to the Convergence (lean: before it).
+- Whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people.
 
 ## Wurdren
 

@@ -9,7 +9,7 @@ How the pages divide the work:
 - This page owns the saga-level plan: the destination, the seasons as rungs, the slate of candidate stories for Seasons 3 to 5, and the threads that cross seasons.
 - [Collection](Collection.md) owns a season's reading order once that season is planned to L1. Season 2's order is there; Seasons 3 to 5 are slates here until their turn comes.
 
-**What isn't settled.** The Villain's homeland, grievance and end-state are still [open questions](../../Open-Questions.md#villain), and they're bt 7274's to decide. This plan is built on one lean, the **Free City**: the Villain is Port-born and wants Port to answer to its own people. That lean is set out below beside the alternatives, so he can pick. Every row, cell and seed that depends on it is marked *(Free City lean)*. If he chooses differently, those change; the rest of the plan holds. Until he rules, no story on the page depends on it: Port stays everyone's stationer ([Villain](../../Story/Villain.md#candidate-homeland-the-free-city-for-bt-7274)).
+**What bt 7274 settled** ([D28](Decisions.md#the-authors-decisions), 2026-11-09). The Villain's people are the Sea People's heirs: Port was their city until they "grew too strong and had their Port city taken by the other nations after a war". So they're both the Port-born and a people the post-war order erased. He wants a real voice for the Port-born. He has no idea the Council exists. Season 4 is a limited war at one border. The Night Fare's passenger is someone else. Season 5 tells the revelation as news. Rows that rest on this ruling are marked *(D28)*. Until a story's plan uses it, Port stays everyone's stationer on the page.
 
 **D20 holds.** "The story is a garden." This plan says what each season needs from Wurdren, not where he goes. Seasons 3 to 5 are directional. Their slates are candidates, so a story that grows somewhere else can replace one.
 
@@ -41,7 +41,7 @@ How the pages divide the work:
 
 | Research | Where it is | Its job in the plan |
 | --- | --- | --- |
-| Danzig: how the real Free City came about and its "sparks"; and a separate legacy alternate history in which a grassroots leader plays the powers into war and brokers the peace | [Volume 12, Danzig](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig), [Danzig sparks and dominoes](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig-sparks-dominos), [Danzig and current events](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig-current-events) | the [Free City lean](#the-villain-alternatives-judged-separately) and the shape of Seasons 3 to 5. Also its "under the radar" mechanisms (layered middlemen) and hidden-spark lessons (an accident read as an attack), used in the candidate list |
+| Danzig: how the real Free City came about and its "sparks"; and a separate legacy alternate history in which a grassroots leader plays the powers into war and brokers the peace | [Volume 12, Danzig](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig), [Danzig sparks and dominoes](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig-sparks-dominos), [Danzig and current events](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig-current-events) | the [Villain](#the-villain-alternatives-judged-separately) (D28) and the shape of Seasons 3 to 5. Also its "under the radar" mechanisms (layered middlemen) and hidden-spark lessons (an accident read as an attack), used in the candidate list |
 | The four domino tiers: nails, horseshoes, steeds, catastrophe | [Volume 12, Villain's plan](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-dominos-villains-plan) | what kind of move the Villain makes in each season |
 | The Council's stages: complacency, "strange patterns", control slipping | [Volume 12, Council](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-dominos-council) | what the Council's desk does in each season |
 | The legacy goal "broker peace to found his new kingdom", rejected by an earlier reconciliation pass | [Story Legacy Research Library](../../Reference/Story-Legacy-Research-Library.md#whats-in-volume-12-and-its-disposition) | reopened as a candidate, in a form that is a people's grievance, not one man's ambition. **Excluded:** the legacy tiers' Villain acting in public as a mediator (a peace society, appearances at truce gatherings), which D21 rules out |
@@ -59,9 +59,9 @@ How the pages divide the work:
 
 Main Conflict's [possible resolution model](../../Story/Main-Conflict.md#possible-resolution-model) is the end goal ([D18](Decisions.md#the-authors-decisions)). Made precise for the stories:
 
-- **The political end.** A limited war at a border *(lean: bt 7274's question 4)* has pushed the kingdoms to talks, and Port is the only ground they'll all accept. The Villain forces the Council into the open: it has to be seen, because the talks can't end the war without its grain, credit and routes. His last escalation makes the human cost undeniable, and his coalition breaks. The outcome is one neither side intended: public negotiations, some Council mechanisms exposed, institutional reform, and a concession that meets the legitimate part of his grievance *(Free City lean: a new Port charter that gives the Port-born a real voice in their own city)*. Nobody wins outright.
+- **The political end.** A limited war at one border (D28) has pushed the kingdoms to talks, and Port is the only ground they'll all accept. The Villain forces the Council into the open without ever having known it was there (D28): it has to be seen, because the talks can't end the war without its grain, credit and routes, and the hidden order surprises him as much as anyone. His last escalation makes the human cost undeniable, and his coalition breaks. The outcome is one neither side intended: public negotiations, some Council mechanisms exposed, institutional reform, and a concession that meets the legitimate part of his grievance *(D28: a new Port charter that gives the Port-born a real voice in their own city)*. Nobody wins outright.
 - **Wurdren's end** ([D18](Decisions.md#the-authors-decisions)). He matters to one person, then to more. He's at the talks, or near them, because of the people who trust him. He doesn't lead. What he contributes is that the elites can no longer treat ordinary people as pieces.
-- **How it's told.** From the ground, like every other story. The catastrophe and the talks themselves stay offstage: one line, the way any story hears big news. No Council delegation is ever on the page; the houses appear only as households. How a public revelation is told when nobody may see the pattern is still a [Long Road question](The-Long-Road.md#the-seasons-loosely) for bt 7274 (question 6 below), with the lean that people hear news rather than work it out.
+- **How it's told.** From the ground, like every other story. The catastrophe and the talks themselves stay offstage: one line, the way any story hears big news. No Council delegation is ever on the page; the houses appear only as households. The revelation is told as news (D28): people hear it and react to it the way they react to any news, so nobody in a story works it out.
 - **The last story** is "in the voice of the first story": back at the Vale of [One Square, Two Harvests](../Stories/One-Square-Two-Harvests.md), at Harvest Home, five years on, where the news from Port arrives by letter.
 - **The reader at the end** can answer what no story said outright: (1) who was behind the offers, (2) what he wanted, (3) why the Council let him get so far, (4) why the war stayed small, and (5) what Wurdren was for. That's the final proof.
 
@@ -111,7 +111,7 @@ What does the saga need, at the least, to work?
 
 The question: what homeland and grievance make a Villain whose campaign the stories can carry from the ground, who fits [Villain](../../Story/Villain.md) and the resolution model, and who uses what the wiki and the first two seasons already hold?
 
-**A. The Free City: he is Port-born.** *(Lean.)*
+**A. The Free City: he is Port-born.** *(Chosen with C, D28.)*
 
 The mapping. The left column marks which source each row comes from: the real Free City of Danzig, or the legacy notes' alternate history (Klara Hoffmann's "Danzig for Danzigers"). Real Danzig's people were mostly German and largely wanted to rejoin Germany; the people who belong to neither side come from the alternate history, not the real one.
 
@@ -121,12 +121,12 @@ The mapping. The left column marks which source each row comes from: the real Fr
 | real: under the protection of an outside body | formalized by the [Convergence](../../History/The-Convergence.md#neutral-port), "treaty guarantees" |
 | real: demilitarized | "limits on kingdom troops inside the city" |
 | real: a neighbor's officials working inside the harbor | foreign enclaves, guild headquarters, envoys |
-| real: a revanchist claim | Northwind families' memory of the [Port Seizure](../../History/Contested-Memory.md#the-port-seizure) |
+| real: a city taken from the people who built it, after a war | the Sea People's city, taken by the other nations after a war ([D28](Decisions.md#the-authors-decisions), [Port](../../Places/Port.md#the-sea-peoples-city-d28)); Northwind's [Port Seizure](../../History/Contested-Memory.md#the-port-seizure) story may remember it |
 | real: a state that depended on the port for its trade | every kingdom's trade depends on Port, and the inland ones most |
 | alt: a people who belong to neither side and want a say | canon records "people who identify as Port-born first" ([Port](../../Places/Port.md#culture)): an identity, not yet a slogan |
 | alt: a local leader who plays the powers into war and brokers the peace | the Villain's method |
 
-*The grievance:* a people with a city and no country. They're run by charter for everyone else's trade, and the dockside has the least say in the city it keeps working. Behind the guarantees he sees the [Council](../../Politics/Economic-Council.md), with the Routes seat held by House Veynor of Port, and he concludes that a city nobody owns is the city the Council runs best.
+*The grievance:* a people with a city and no country. They're run by charter for everyone else's trade, and the dockside has the least say in the city it keeps working. He blames the nations that took it. *(Superseded by D28: this plan first had him seeing the [Council](../../Politics/Economic-Council.md) behind the guarantees; he has no idea it exists, and reads its corrections as the kingdoms' own moves.)*
 
 *His end:* Port answering to the people born in it. "Born in it" includes the children of every refugee and sailor, so the idea is civic and mixed, never nativist. That is the line any story using it must hold.
 
@@ -157,26 +157,26 @@ The alternate history's dock riots, in which people are killed, are **left out**
 | **E. A disinherited Council heir** | weak: palace intrigue | poor | there (the six houses) | hard: he'd know too much | none | empties the reader's detective work |
 | **F. A kingdom of his own** (the legacy goal) | weak: one man's ambition | poor | not there | yes | none | the reason the earlier pass rejected it |
 
-**Choice: A, as a lean for bt 7274.** **C** stays live as the alternative.
+**bt 7274's choice: A and C together** ([D28](Decisions.md#the-authors-decisions)). His version makes them one people: the Sea People, whose city Port was, are both the Port-born and the people the post-war order erased.
 
 **Kept as well: A with C.** The Port-born are his people, and the erased frontier people are a second grievance he courts. This spreads the clues beyond Port, which eases the risk of an early guess, and fits [The Treaty Stone](../Stories/Story-Seeds.md#the-treaty-stone) and [The Name on Both Walls](../Stories/Story-Seeds.md#the-name-on-both-walls). B stays in either way, as a grievance he plays rather than his own.
 
-**Whether he knows the Council's structure at the start** ([open](../../Open-Questions.md#villain)). *Lean:* he knows the hidden order exists and that a Port house sits in it, but not all six seats.
+**Whether he knows the Council** (D28): he has no idea it exists. That makes the reader the only one who sees both hands, and gives Season 5 its turn: the hidden order surprises him too.
 
 ### Assumption mapping
 
 | Assumption | Status | Note |
 | --- | --- | --- |
 | The resolution model is the end goal | `VERIFIED` | [D18](Decisions.md#the-authors-decisions) |
-| Nobody in a story sees the pattern, in any season | `VERIFIED` | [D21](Decisions.md#the-authors-decisions); how Season 5 tells public news is bt 7274's question 6 |
+| Nobody in a story sees the pattern, in any season | `VERIFIED` | [D21](Decisions.md#the-authors-decisions); Season 5 tells the revelation as news (D28) |
 | Port is neutral by treaty, limits kingdom troops, and has a Port-born identity | `VERIFIED` | [Port](../../Places/Port.md) |
 | The Council emerged through the Convergence, and a Port house holds Routes | `VERIFIED` | [The Convergence](../../History/The-Convergence.md#the-council-and-the-convergence), [the six houses](../../Politics/Economic-Council.md#the-six-houses) |
 | A season is about half World and half Domino | `VERIFIED` | [D24](Decisions.md#the-authors-decisions); every slate below is seven and seven |
-| The Villain is Port-born and wants Port to answer to its people | **lean** | bt 7274's call (question 1) |
-| Season 4 is a limited war at a border | **lean** | bt 7274's call (question 4) |
+| The Villain is of the Sea People's heirs, wants a real voice for the Port-born, and doesn't know the Council exists | `VERIFIED` | [D28](Decisions.md#the-authors-decisions) |
+| Season 4 is a limited war at one border | `VERIFIED` | D28 |
 | A season is about a year, of about fourteen stories | `ASSUMED` | Seasons 1 and 2 have fourteen each; [The Long Road](The-Long-Road.md#the-seasons-loosely) now says so too |
 | Five seasons | `ASSUMED` | The Long Road's table |
-| The Villain never appears on the page, even at the end | `VERIFIED` | D21; one possible exception is bt 7274's question 5 |
+| The Villain never appears on the page, even at the end | `VERIFIED` | D21; D28 keeps the Night Fare's passenger someone else |
 
 ### Inversion and counterexample search
 
@@ -209,8 +209,8 @@ selected strategy   five seasons as rungs; each gives the reader one or two infe
                     seven World and seven Domino a season (D24)
 alternatives        Villain homelands B–F, and A with C; a plot-driven cycle (rejected: breaks D2); one long novel
                     (rejected: not the Sunday method); total war in Season 4 (set aside: the tone guardrails)
-assumptions         as mapped; the Free City is a lean
-unknowns            bt 7274's six questions below; who Wurdren comes to matter to (D20)
+assumptions         as mapped; the Villain set by D28
+unknowns            the Sea People's war and their kin (below); the Villain's name; who Wurdren comes to matter to (D20)
 reconsider if       bt 7274 picks another homeland; a cold read finds an inference a season early or not at all;
                     a story needs a character to see the pattern; a Season 4 story makes a reader brace
 ```
@@ -225,8 +225,8 @@ To land the destination, each season must hand the next one a precondition. Each
 | --- | --- | --- | --- |
 | talks in Port | a limited war nobody can finish (weather in every Season 4 story) | kingdoms reading each other's moves as threats ([The Petition Room](../Stories/Story-Seeds.md#the-petition-room), [How the News Came](../Stories/Story-Seeds.md#how-the-news-came)) | the same troubles in more places (all of Season 2) |
 | the Council forced into the open | countermeasures failing in public ([What the Elder Wrote](../Stories/Story-Seeds.md#what-the-elder-wrote), read as proof) | a countermeasure that hurts a family the reader can care about ([The Penny Sale](../Stories/Story-Seeds.md#the-penny-sale)) | a credit squeeze on the Salve house ([Harvest Home Again](../Stories/Story-Seeds.md#harvest-home-again)) |
-| the Villain's coalition breaking | a staged incident somebody will one day count ([Second Witness](../Stories/Story-Seeds.md#second-witness)) | a hand inside a sincere movement *(Free City lean; [The Quorum](../Stories/Story-Seeds.md#the-quorum))* | a hand that writes letters ([The Same Paper](../Stories/The-Same-Paper.md)) |
-| the Port charter rewritten *(Free City lean)* | Port as the only neutral ground, crowded and holding ([The Customs Table](../Stories/Story-Seeds.md#the-customs-table)) | a Port-born say being talked about ([The Quorum](../Stories/Story-Seeds.md#the-quorum)) | Port as everyone's stationer (The Same Paper) |
+| the Villain's coalition breaking | a staged incident somebody will one day count ([Second Witness](../Stories/Story-Seeds.md#second-witness)) | a hand inside a sincere movement *(D28; [The Quorum](../Stories/Story-Seeds.md#the-quorum))* | a hand that writes letters ([The Same Paper](../Stories/The-Same-Paper.md)) |
+| the Port charter rewritten *(D28)* | Port as the only neutral ground, crowded and holding ([The Customs Table](../Stories/Story-Seeds.md#the-customs-table)) | a Port-born say being talked about ([The Quorum](../Stories/Story-Seeds.md#the-quorum)) | Port as everyone's stationer (The Same Paper) |
 | Wurdren near the table, because of people | a network that moves a family across a closed border ([The Long Way Round](../Stories/Story-Seeds.md#the-long-way-round)) | people who write to him ([Care Of](../Stories/Story-Seeds.md#care-of)) | the paper noticed twice; one person he matters to (Very Nearly) |
 | the reader understanding | an honest record that will matter ([The Harbor Book](../Stories/Story-Seeds.md#the-harbor-book) II) | a harbor book that doesn't add up (The Harbor Book I) | three letters on one paper |
 
@@ -236,9 +236,9 @@ To land the destination, each season must hand the next one a precondition. Each
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **1** (done) | Y1 early autumn – Y2 early autumn | independent local problems | **Nails**: offers, rumors | complacent: noise | everyone's stationer | someone is behind the offers (The Tree) | once; sees a letter |
 | **2** (planned, [Collection](Collection.md#season-2-reading-order-plan)) | Y2 early autumn – Y3 early autumn | recognizable patterns | nails in more places; the third letter | notices "strange patterns"; tightens credit | a Port buyer | the trouble has a shape, and more than one hand is in it (The Same Paper, Harvest Home Again) | three times; notices the paper; matters to one person |
-| **3** | Y3 early autumn – Y4 early autumn | regional crises; cross-regional suspicion | **Horseshoes**: a doctored report, statements read as proof, votes courted; accepts predictable harm | countermeasures that harm; listeners sent out | the Port-born say talked about *(Free City lean)* | the two hands are working against each other (The Penny Sale, How the News Came); *(Free City lean)* Port keeps coming up (The Quorum, The Harbor Book I) | more often; people write to him |
-| **4** | Y4 early autumn – Y5 early autumn | mobilization; limited war at a border *(lean)* | **Steeds**: a staged incident; causes harm because it gives him leverage | control slipping; its openness faction speaks up | the only neutral ground; enclaves and refugees; troops kept outside | ordinary trust is what neither side planned for (Second Witness, The Long Way Round); *(Free City lean)* what the hand wants is Port (The Harbor Book II) | his network moves people |
-| **5** | Y5 early autumn – Y6 early autumn | revelation; convergence | **Catastrophe**, turned into talks; his coalition breaks | forced into the open | the talks; a new charter *(Free City lean)* | the ending, in the voice of the first story (Harvest Home, Year Six) | at or near the table, because of the people; matters to more |
+| **3** | Y3 early autumn – Y4 early autumn | regional crises; cross-regional suspicion | **Horseshoes**: a doctored report, statements read as proof, votes courted; accepts predictable harm | countermeasures that harm; listeners sent out | the Port-born say talked about *(D28)* | the two hands are working against each other (The Penny Sale, How the News Came); *(D28)* Port keeps coming up (The Quorum, The Harbor Book I) | more often; people write to him |
+| **4** | Y4 early autumn – Y5 early autumn | mobilization; limited war at a border *(lean)* | **Steeds**: a staged incident; causes harm because it gives him leverage | control slipping; its openness faction speaks up | the only neutral ground; enclaves and refugees; troops kept outside | ordinary trust is what neither side planned for (Second Witness, The Long Way Round); *(D28)* what the hand wants is Port (The Harbor Book II) | his network moves people |
+| **5** | Y5 early autumn – Y6 early autumn | revelation; convergence | **Catastrophe**, turned into talks; his coalition breaks | forced into the open | the talks; a new charter *(D28)* | the ending, in the voice of the first story (Harvest Home, Year Six) | at or near the table, because of the people; matters to more |
 
 ### Season 2 (the current phase)
 
@@ -253,19 +253,19 @@ Seven Domino and seven World ([D24](Decisions.md#the-authors-decisions)), in cal
 | [The Petition Room](../Stories/Story-Seeds.md#the-petition-room) | Domino (Desk) | Y3 autumn | a Highridge government house | the Weaver marks arriving where they'll be read as Deepwood organizing |
 | [The Apothecary's Test](../Stories/Story-Seeds.md#the-apothecarys-test) | Domino (Stranger; Wurdren) | Y3 autumn | a village apothecary | a healer who can't get supplies ([Guilds](../../Politics/Guilds.md#guild-interaction-with-wurdren)) |
 | [The Naming Candle](../Stories/Story-Seeds.md#the-naming-candle) | World | Y3 autumn | a Cyclic Order household | a faith's own life |
-| [The Quorum](../Stories/Story-Seeds.md#the-quorum) | Domino | Y3 late autumn · the guild's year-end | Port, the merchants' guild | a close vote everyone wants to buy; one offer is on cream paper, and a Port-born say is talked about over lunch *(Free City lean: the fourth letter, the first in Port)* |
+| [The Quorum](../Stories/Story-Seeds.md#the-quorum) | Domino | Y3 late autumn · the guild's year-end | Port, the merchants' guild | a close vote everyone wants to buy; one offer is on cream paper, and a Port-born say is talked about over lunch *(D28: the fourth letter, the first in Port)* |
 | [The Name on Both Walls](../Stories/Story-Seeds.md#the-name-on-both-walls) | World | Y3 late autumn · Ember Remembrance | a Greenvale/Ironcrest border town | an old war remembered twice |
 | [The Penny Sale](../Stories/Story-Seeds.md#the-penny-sale) | Domino | Y3 late autumn | a Greenvale farm | a farm auctioned for debt after the lenders were steadied; everything goes for pennies, and back |
 | [How the News Came](../Stories/Story-Seeds.md#how-the-news-came) | Domino | Y3 late autumn | a relay post on a pass road | one report in three versions; the postkeeper judges which is accurate, and the reader can see one was changed |
 | [The Beacon](../Stories/Story-Seeds.md#the-beacon) | World | Y3 midwinter | a Radiant Path temple | a faith's own winter |
 | [The Seizure Warehouse](../Stories/Story-Seeds.md#the-seizure-warehouse) | World | Y3 winter | Port | the Port Seizure, remembered two ways; texture, no clue |
 | [Shadow Charity](../Stories/Story-Seeds.md#shadow-charity) | World | Y3 late winter | a hill village | moved from Season 2 |
-| [The Harbor Book](../Stories/Story-Seeds.md#the-harbor-book) I | Domino (Desk; Thread) | Y4 early spring · Tide Return | Port's harbor office | ships whose draught doesn't match their papers, recorded and not interpreted *(Free City lean)* |
+| [The Harbor Book](../Stories/Story-Seeds.md#the-harbor-book) I | Domino (Desk; Thread) | Y4 early spring · Tide Return | Port's harbor office | ships whose draught doesn't match their papers, recorded and not interpreted *(D28)* |
 | [Care Of](../Stories/Story-Seeds.md#care-of) | Domino (Thread; Wurdren) | Y4 summer | four inns | a letter that follows him; people have begun to count on him |
 | [The Walker's Stone](../Stories/Story-Seeds.md#the-walkers-stone) | World | Y4 late summer | the Overpath | moved from Season 2 |
 | [The Ranger's Season](../Stories/Story-Seeds.md#the-rangers-season) | World | Y4 early autumn · Gathering Quiet | the Deepwood edge | the forest's year |
 
-**Expected reader state by the end of Season 3:** someone wants the kingdoms to distrust each other, and the people who keep things steady are making it worse. *(Free City lean: and a surprising amount comes back to Port.)*
+**Expected reader state by the end of Season 3:** someone wants the kingdoms to distrust each other, and the people who keep things steady are making it worse. *(D28: and a surprising amount comes back to Port.)*
 
 **Changes from the seeds:** The Apothecary's Test gains Wurdren as the stranger. How the News Came moves from Season 2, and one of its versions is the doctored report. The Quorum uses the guild's own year-end, since Ledger Closing is Highridge's.
 
@@ -278,19 +278,19 @@ The war is weather: nobody the reader knows goes to the fighting, hardship is co
 | [The Bell Rings](../Stories/Story-Seeds.md#the-bell-rings) | Domino (Return) | Y4 autumn | Seven Hill | the muster bell rings for a real muster; the story is the town that sets out the supper anyway, and the muster marches offstage |
 | [The Waiting Shore](../Stories/Story-Seeds.md#the-waiting-shore) | World | Y4 late autumn | a Northwind fishing town | waiting for fishing boats late for weather, which come in |
 | [What the Elder Wrote](../Stories/Story-Seeds.md#what-the-elder-wrote) | Domino (Thread) | across the year; read here | Deepwood to a Highridge court | the true record traveling beside the statement that's being read as proof |
-| [The Customs Table](../Stories/Story-Seeds.md#the-customs-table) | Domino | Y4 midwinter | a Port quay | the enclaves' clerks at a cold table, a dockside family that feeds them anyway, and a dock strike called and settled that week *(Free City lean)* |
+| [The Customs Table](../Stories/Story-Seeds.md#the-customs-table) | Domino | Y4 midwinter | a Port quay | the enclaves' clerks at a cold table, a dockside family that feeds them anyway, and a dock strike called and settled that week *(D28)* |
 | [The Regulars](../Stories/Story-Seeds.md#the-regulars) | World | Y4 winter | a Port tavern | Port holding together; no clue |
 | [The Midwife's Road](../Stories/Story-Seeds.md#the-midwifes-road) | World | Y5 early spring, a storm | a border farm | a birth that doesn't care whose border it is |
 | [The Day of Departure](../Stories/Story-Seeds.md#the-day-of-departure) | World | Y5 early spring · Pass Opening | a Highridge village | leaving, an old custom |
 | [The Forecast Table](../Stories/Story-Seeds.md#the-forecast-table) | World | Y5 early spring | a Sunplains orchard district | the ordinary year going on |
-| [The Harbor Book](../Stories/Story-Seeds.md#the-harbor-book) II | Domino (Desk; Thread) | Y5 early spring · Tide Return | Port's harbor office | requisitioned hulls, and last year's low-riding ships now unloading at warehouses a Port-born mutual society leases, recorded without comment *(Free City lean)* |
+| [The Harbor Book](../Stories/Story-Seeds.md#the-harbor-book) II | Domino (Desk; Thread) | Y5 early spring · Tide Return | Port's harbor office | requisitioned hulls, and last year's low-riding ships now unloading at warehouses a Port-born mutual society leases, recorded without comment *(D28)* |
 | [The Patrol Boat](../Stories/Story-Seeds.md#the-patrol-boat) | Domino | Y5 early summer | a Sunplains cove | Maris's patrols read as aggression; four tired youngsters want soup |
 | [The Long Way Round](../Stories/Story-Seeds.md#the-long-way-round) | Domino (Thread; Wurdren) | Y5 summer | across a closed border | a family passed hand to hand by people who help because Wurdren asked; the family's reason is said once, and the story is the borrowing (a guide, a cart, a boat) |
 | [Mud Day](../Stories/Story-Seeds.md#mud-day) | World | Y5 before the rains | a lowland village | a village's own preparation |
 | [The Crystal Grove](../Stories/Story-Seeds.md#the-crystal-grove) | World | Y5 | an Underpass cavern | the world below, going on |
 | [Second Witness](../Stories/Story-Seeds.md#second-witness) | Domino | Y5 late summer | a market at a river crossing | the report of the border incident reaches a market that pays two witnesses to go and look; here it isn't repeated, though it is everywhere else |
 
-**Expected reader state by the end of Season 4:** the small places that held are why the war is small. *(Free City lean: and what the hand wants is Port.)*
+**Expected reader state by the end of Season 4:** the small places that held are why the war is small. *(D28: and what the hand wants is Port.)*
 
 **Changes from the seeds:** Second Witness swaps its spoiled-grain rumor for the report of the incident. The Customs Table is now the enclaves' clerks, not kingdoms' officers (no new law).
 
@@ -304,9 +304,9 @@ The war is weather: nobody the reader knows goes to the fighting, hardship is co
 | [The Conference Kitchen](../Stories/Story-Seeds.md#the-conference-kitchen) | Domino (Desk; Wurdren nearby) | Y5 winter | Port | the talks, told by the kitchen that has to feed every delegation at one table; no Council delegation on the page |
 | [The Honest Fence](../Stories/Story-Seeds.md#the-honest-fence) | World | Y5 winter | a Port pawnshop | Port's own ordinary trade; no clue |
 | [The Ballad Line](../Stories/Story-Seeds.md#the-ballad-line) | World | Y5 winter | a Ridge-Roamer clan's winter camp | the circuit people's own winter |
-| [The Night Fare](../Stories/Story-Seeds.md#the-night-fare) | Domino | Y6 late winter | Port harbor, at night | a waterman rows a passenger out to a ship the night the talks end; see question 5 |
+| [The Night Fare](../Stories/Story-Seeds.md#the-night-fare) | Domino | Y6 late winter | Port harbor, at night | a waterman rows a passenger out to a ship the night the talks end; the passenger is someone else leaving Port (D28), and the reader may wonder |
 | [The Harbor Book](../Stories/Story-Seeds.md#the-harbor-book) III | Domino (Desk; Thread) | Y6 early spring | Port's harbor office | somebody important asks the clerk for her book, and it's honest |
-| [The Charter Oath](../Stories/Story-Seeds.md#the-charter-oath) | Domino (the seed's world, carried forward) | Y6 early spring · Tide Return | Port | the first watch oath after the talks; a grandmother with opinions *(Free City lean: under a new charter)* |
+| [The Charter Oath](../Stories/Story-Seeds.md#the-charter-oath) | Domino (the seed's world, carried forward) | Y6 early spring · Tide Return | Port | the first watch oath after the talks; a grandmother with opinions *(D28: under a new charter)* |
 | [One Hall](../Stories/Story-Seeds.md#one-hall) | World | Y6 spring rains | a small Highridge town | a town's own hall |
 | [Nothing to Mend](../Stories/Story-Seeds.md#nothing-to-mend) | World | Y6 summer | a quiet valley | a place where nothing needs fixing |
 | [The Last Argument](../Stories/Story-Seeds.md#the-last-argument) | World | Y6 summer | an Illuminated Circle school | a faith that argues for a living |
@@ -328,9 +328,9 @@ Planned promises, each with its host. Each gets a C-row on [Collection](Collecti
 
 | Thread | S1 | S2 | S3 | S4 | S5 |
 | --- | --- | --- | --- | --- | --- |
-| The cream letters | Inspected; The Tree | The Same Paper | The Quorum *(Free City lean)* | none (he stops writing) | heard as news |
+| The cream letters | Inspected; The Tree | The Same Paper | The Quorum *(D28)* | none (he stops writing) | heard as news |
 | "After the pour" (C13) | — | The Same Paper; The Second Pour | — | — | — |
-| The Port-born say *(Free City lean)* | — | — | The Quorum | The Customs Table; The Harbor Book II | The Charter Oath |
+| The Port-born say *(D28)* | — | — | The Quorum | The Customs Table; The Harbor Book II | The Charter Oath |
 | The Harbor Book | — | — | I | II | III |
 | The marks and the record | The Eighth Verse; The Blank Square | — | The Petition Room | What the Elder Wrote | — |
 | The pledges the buyer bought | The Tree | — | — | What the Elder Wrote (weather) | — |
@@ -346,7 +346,7 @@ Planned promises, each with its host. Each gets a C-row on [Collection](Collecti
 
 ### Reconsideration triggers
 
-- bt 7274 picks a homeland other than the Free City → rewrite everything marked *(Free City lean)*; keep the rest (THINK).
+- The Sea People's answers (below) change how Port's history reads → revise the rows marked *(D28)* (THINK).
 - A test story's cold read finds the season's inference too early → cut that season's clue count (PLAN).
 - A test story's cold read finds the inference not at all → move a clue story earlier, or let a Desk story carry one more line (PLAN).
 - A story needs a character to see the pattern → it's the wrong story for that slot; replace it from the candidates (PLAN).
@@ -360,7 +360,7 @@ Before a season's batch is drafted, choose one, and record it on [Decisions](Dec
 - **CONTINUE** with the slate.
 - **CHANGE** stories (the garden grew elsewhere).
 - **CUT SCOPE** to fewer stories.
-- **RESEARCH** something the season needs (Season 3 needs the Villain's homeland; Season 4 needs near-war or limited war).
+- **RESEARCH** something the season needs (Season 3's Port stories need the Sea People's history from Port).
 - **STOP.**
 
 ### Independent check
@@ -391,11 +391,15 @@ Its biggest risk: in Seasons 4 and 5 the plot starts to drive the stories. The s
 
 ## For bt 7274
 
-One question at a time, each with a lean. Season 2 doesn't need any of them; Season 3 needs the first.
+**Answered 2026-11-09** ([D28](Decisions.md#the-authors-decisions)):
+1. **Homeland:** both together; Port was the Sea People's city, taken by the other nations after a war.
+2. **End-state:** a real voice for the Port-born inside a renewed Convergence.
+3. **What he knows:** nothing about the Council.
+4. **Season 4:** a limited war at one border.
+5. **The Night Fare:** the passenger is someone else.
+6. **The revelation:** told as news.
 
-1. **The Villain's homeland and grievance.** *Lean:* the Free City (A). He's Port-born, and wants Port to answer to the people born in it. The Danzig mechanisms are used, not the history. *Alternatives:* the frontier people the Convergence erased (C), or the two together.
-2. **His end-state.** *Lean:* a real voice for the Port-born inside a renewed Convergence, which the ending can partly grant. *Alternative:* full sovereignty (the alternate history's "Republic of Danzig"), which the ending would refuse.
-3. **What he knows at the start.** *Lean:* that the hidden order exists and a Port house sits in it, but not all six seats.
-4. **Season 4.** *Lean:* a limited war at one border, felt from the towns.
-5. **The Night Fare.** May the Villain be on the page once, at the very end, as an unnamed passenger in a waterman's boat? *Lean:* no; D21 holds. The passenger is someone else leaving Port that night, and the reader may wonder.
-6. **How Season 5 tells the revelation** (The Long Road's open question). *Lean:* people hear it as news and react to it the way they react to any news, so nobody in a story works it out.
+**What his answers open**, one at a time, each with a lean. Season 3 needs the first only when a Port story's plan reaches it:
+
+1. **The Sea People and Northwind.** *Lean:* a separate coastal people, now mostly Port-born. Some Northwind clans claim kin with them, which is why Northwind families tell the Port Seizure story as their own loss.
+2. **When the war was.** *Lean:* before the Convergence, which made the taking permanent as Port's neutral status. Either way, nobody now alive remembers it, only their grandparents' stories.

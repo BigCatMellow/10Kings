@@ -32,6 +32,16 @@ Merchants began trusting Port because:
 
 Once those systems existed, trade attracted more trade.
 
+## The Sea People's city (D28)
+
+**Working canon** (bt 7274, 2026-11-09, [D28](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): "Port is a former city of the Sea people who grew too strong and had their Port city taken by the other nations after a war."
+
+So the harbor's first great city was the Sea People's. They grew too strong for their neighbors, lost a war, and the other nations took the city and made it everyone's. That's why its neutrality looks the way it does: every power fears what would happen if a rival held it, because once a single people did. The comparison is the Free City of Danzig, for its mechanisms only.
+
+- **Who the Sea People's heirs are.** Many Port-born families, mixed by now with every people that came after. The [Villain](../Story/Villain.md#homeland-and-grievance-d28) is one of them.
+- **When.** *Lean, provisional:* the war came before the [Convergence](../History/The-Convergence.md#neutral-port), and the Convergence made the taking permanent as Port's neutral status.
+- **Open:** the war's name; whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people. Northwind families' [Port Seizure](../History/Contested-Memory.md#the-port-seizure) story may be their memory of the same loss ([Open Questions](../Open-Questions.md#villain)).
+
 ## Why other ports do not replace it
 
 Other harbors absolutely exist and may be better for specific trades.
@@ -61,8 +71,6 @@ Its governing charter should therefore involve:
 - foreign enclaves;
 - limits on kingdom troops inside the city;
 - a locally accountable watch or guard.
-
-The Villain may be Port-born, read through the Free City of Danzig; that is a candidate for bt 7274, not canon ([Villain](../Story/Villain.md#candidate-homeland-the-free-city-for-bt-7274)).
 
 ## Culture
 

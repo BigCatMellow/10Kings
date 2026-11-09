@@ -8,7 +8,7 @@ Every open question in the wiki, placed next to the thing it asks about.
 
 Each question is a small card under an Open questions heading in the column of what it asks about, with a line to that card. Questions about things with no card yet (magic, rivers, language families, borders in general) sit in World & unplaced.
 
-**Counts:** 35 open questions; 38 connections (38 stated in the wiki, 0 inferred).
+**Counts:** 33 open questions; 36 connections (36 stated in the wiki, 0 inferred).
 
 ## Gaps this part exposes
 
@@ -39,11 +39,7 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Economic Council: how old the Council is relative to The Convergence | asks about | The Council's rise | stated | “How old the Council is relative to The Convergence.” [source](../../wiki/Open-Questions.md#economic-council) |
 | Economic Council: which parts of its existence are rumor versus known to elite rulers | asks about | The Economic Council | stated | “Which parts of its existence are rumor versus known to elite rulers.” [source](../../wiki/Open-Questions.md#economic-council) |
 | Villain: name | asks about | The Villain | stated | “Name.” [source](../../wiki/Open-Questions.md#villain) |
-| Villain: homeland/people | asks about | The Villain | stated | “Homeland/people.” [source](../../wiki/Open-Questions.md#villain) |
-| Villain: exact grievance | asks about | The Villain | stated | “Exact grievance.” [source](../../wiki/Open-Questions.md#villain) |
-| Villain: exact territorial or political end-state he wants | asks about | The Villain | stated | “Exact territorial or political end-state he wants.” [source](../../wiki/Open-Questions.md#villain) |
 | Villain: the point at which his methods become clearly unacceptable even to sympathetic readers | asks about | The Villain | stated | “The point at which his methods become clearly unacceptable even to sympathetic readers.” [source](../../wiki/Open-Questions.md#villain) |
-| Villain: whether he knows the full Council structure at the story's beginning | asks about | The Villain | stated | “Whether he knows the full Council structure at the story's beginning.” [source](../../wiki/Open-Questions.md#villain) |
 | Wurdren: exact age and biography | asks about | Wurdren | stated | “Exact age and biography.” [source](../../wiki/Open-Questions.md#wurdren) |
 | Wurdren: why his earlier adventuring life failed to match his ambitions | asks about | Wurdren | stated | “Why his earlier adventuring life failed to match his ambitions.” [source](../../wiki/Open-Questions.md#wurdren) |
 | Wurdren: family and relationships | asks about | Wurdren | stated | “Family and relationships.” [source](../../wiki/Open-Questions.md#wurdren) |
@@ -59,6 +55,8 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Faiths: are the gods' names a shared liturgical register? | asks about | The Radiant Path | stated | “Whether the gods' Latinate names are a shared liturgical register” [source](../../wiki/Open-Questions.md#faiths) |
 | Faiths: the creation myth and the Sons | asks about | Path of the Great Weaver | stated | “The creation myth” [source](../../wiki/Open-Questions.md#faiths) |
 | Ecology: no owner for flora and fauna | asks about | Greenvale | stated | “Flora and fauna have no owner page yet” [source](../../wiki/Open-Questions.md#ecology) |
+| Villain: the war in which the Sea People lost Port | asks about | The Villain | stated | “The war in which the Sea People lost Port: its name, and when it fell relative to the Convergence (lean: before it).” [source](../../wiki/Open-Questions.md#villain) |
+| Villain: whether the Sea People were Northwind's kin | asks about | The Villain | stated | “Whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people.” [source](../../wiki/Open-Questions.md#villain) |
 
 ## Diagram
 
@@ -96,11 +94,7 @@ flowchart LR
   oq_which_parts_of_its_existence_are_rumor_versus_kn["Economic Council: which parts of its existence are rumor versus known to elite rulers"]
   oq_name["Villain: name"]
   pp_villain["The Villain"]
-  oq_homeland_people["Villain: homeland/people"]
-  oq_exact_grievance["Villain: exact grievance"]
-  oq_exact_territorial_or_political_end_state_he_want["Villain: exact territorial or political end-state he wants"]
   oq_the_point_at_which_his_methods_become_clearly_un["Villain: the point at which his methods become clearly unacceptable even to sympathetic readers"]
-  oq_whether_he_knows_the_full_council_structure_at_t["Villain: whether he knows the full Council structure at the story's beginning"]
   oq_exact_age_and_biography["Wurdren: exact age and biography"]
   pp_wurdren["Wurdren"]
   oq_why_his_earlier_adventuring_life_failed_to_match["Wurdren: why his earlier adventuring life failed to match his ambitions"]
@@ -124,6 +118,8 @@ flowchart LR
   oq_creation_myth["Faiths: the creation myth and the Sons"]
   pw_faith_weaver["Path of the Great Weaver"]
   oq_ecology_owner["Ecology: no owner for flora and fauna"]
+  oq_the_sea_peoples_war["Villain: the war in which the Sea People lost Port"]
+  oq_the_sea_peoples_kin["Villain: whether the Sea People were Northwind's kin"]
   oq_exact_outlines_of_the_three_continents --> western
   oq_exact_outlines_of_the_three_continents --> northern
   oq_exact_outlines_of_the_three_continents --> eastern
@@ -142,11 +138,7 @@ flowchart LR
   oq_how_old_the_council_is_relative_to_the_convergen --> hi_council_rise
   oq_which_parts_of_its_existence_are_rumor_versus_kn --> pw_council
   oq_name --> pp_villain
-  oq_homeland_people --> pp_villain
-  oq_exact_grievance --> pp_villain
-  oq_exact_territorial_or_political_end_state_he_want --> pp_villain
   oq_the_point_at_which_his_methods_become_clearly_un --> pp_villain
-  oq_whether_he_knows_the_full_council_structure_at_t --> pp_villain
   oq_exact_age_and_biography --> pp_wurdren
   oq_why_his_earlier_adventuring_life_failed_to_match --> pp_wurdren
   oq_family_and_relationships --> pp_wurdren
@@ -162,6 +154,8 @@ flowchart LR
   oq_gods_liturgical_register --> pw_faith_radiant
   oq_creation_myth --> pw_faith_weaver
   oq_ecology_owner --> greenvale
+  oq_the_sea_peoples_war --> pp_villain
+  oq_the_sea_peoples_kin --> pp_villain
 ```
 
 ## Every thing in this part
@@ -270,11 +264,9 @@ Grouped by board column.
 | --- | --- | --- | --- |
 | [Economic Council: how seats are inherited, selected, purchased, or contested](../../wiki/Open-Questions.md#economic-council) | Open question | No status label | Open question under Economic Council: How seats are inherited, selected, purchased, or contested. |
 | [Villain: name](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: Name. |
-| [Villain: homeland/people](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: Homeland/people. |
-| [Villain: exact grievance](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: Exact grievance. |
-| [Villain: exact territorial or political end-state he wants](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: Exact territorial or political end-state he wants. |
+| [Villain: the war in which the Sea People lost Port](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: The war in which the Sea People lost Port: its name, and when it fell relative to the Convergence (lean: before it). |
+| [Villain: whether the Sea People were Northwind's kin](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: Whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people. |
 | [Villain: the point at which his methods become clearly unacceptable even to sympathetic readers](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: The point at which his methods become clearly unacceptable even to sympathetic readers. |
-| [Villain: whether he knows the full Council structure at the story's beginning](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: Whether he knows the full Council structure at the story's beginning. |
 | [Wurdren: exact age and biography](../../wiki/Open-Questions.md#wurdren) | Open question | No status label | Open question under Wurdren: Exact age and biography. |
 | [Wurdren: why his earlier adventuring life failed to match his ambitions](../../wiki/Open-Questions.md#wurdren) | Open question | No status label | Open question under Wurdren: Why his earlier adventuring life failed to match his ambitions. |
 | [Wurdren: family and relationships](../../wiki/Open-Questions.md#wurdren) | Open question | No status label | Open question under Wurdren: Family and relationships. |
@@ -291,29 +283,19 @@ Grouped by board column.
 - *Question:* Name.
 - *Section:* Villain
 
-**Villain: homeland/people**
+**Villain: the war in which the Sea People lost Port**
 
-- *Question:* Homeland/people.
+- *Question:* The war in which the Sea People lost Port: its name, and when it fell relative to the Convergence (lean: before it).
 - *Section:* Villain
 
-**Villain: exact grievance**
+**Villain: whether the Sea People were Northwind's kin**
 
-- *Question:* Exact grievance.
-- *Section:* Villain
-
-**Villain: exact territorial or political end-state he wants**
-
-- *Question:* Exact territorial or political end-state he wants.
+- *Question:* Whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people.
 - *Section:* Villain
 
 **Villain: the point at which his methods become clearly unacceptable even to sympathetic readers**
 
 - *Question:* The point at which his methods become clearly unacceptable even to sympathetic readers.
-- *Section:* Villain
-
-**Villain: whether he knows the full Council structure at the story's beginning**
-
-- *Question:* Whether he knows the full Council structure at the story's beginning.
 - *Section:* Villain
 
 **Wurdren: exact age and biography**

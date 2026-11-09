@@ -210,7 +210,7 @@ The story's question is whether **preventing catastrophe grants a private group 
 
 The Villain attacks dependencies and perceptions.
 
-He wants kingdoms to make moves the Council cannot openly stop without exposing how much power it actually holds.
+He wants kingdoms to make moves the Council cannot openly stop without exposing how much power it actually holds. He doesn't know the Council exists ([D28](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); he's aiming at the nations that took Port, and the strain lands on the Council anyway.
 
 His goal is not merely to defeat six families. It is to make their system **unable to maintain equilibrium**.
 

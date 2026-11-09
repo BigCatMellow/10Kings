@@ -28,7 +28,7 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 
 | From | Connection | To | Basis | Supporting text |
 | --- | --- | --- | --- | --- |
-| The Villain | hates and increasingly mirrors | The Economic Council | stated | “He hates both: … their outcomes; … their method. … But he increasingly mirrors their method.” [source](../../wiki/Story/Villain.md#relationship-to-the-council) |
+| The Villain | hates and increasingly mirrors | The Economic Council | stated | “He doesn't know it exists (D28).” [source](../../wiki/Story/Villain.md#relationship-to-the-council) |
 | Wurdren | repairs the losses of | The Economic Council | stated | “Wurdren repeatedly fixes consequences the Council treats as acceptable losses.” [source](../../wiki/Politics/Economic-Council.md#relationship-to-wurdren) |
 | The Villain | comes to see as dangerous | Wurdren | stated | “Eventually the Villain realizes one ordinary adventurer has become dangerous because people trust him without being paid or coerced.” [source](../../wiki/Story/Villain.md#relationship-to-wurdren) |
 | The Council houses | make up | The Economic Council | stated | “Not a single character but a cast of powerful family representatives with conflicting economic domains.” [source](../../wiki/Story/Character-Roster.md#the-economic-council-families) |
@@ -37,7 +37,7 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | The Villain | has reason to influence | The Infinite Compass | stated | “The Council, the Villain, spies, and criminals all have reasons to influence these networks.” [source](../../wiki/Politics/Religions.md#9-the-infinite-compass) |
 | Wurdren | meets as people | Guilds | stated | “Wurdren encounters guilds as people” [source](../../wiki/Politics/Guilds.md#guild-interaction-with-wurdren) |
 | Wurdren | likely meets at the human level | The underworld | stated | “Wurdren is likely to encounter criminals at the human level” [source](../../wiki/Politics/Crime-and-Underworld.md#underworld-and-the-main-conflict) |
-| The Villain | rejects the order left by | The Convergence | stated | “He believes the post-Convergence order is structurally incapable of giving his people/cause what they need.” [source](../../wiki/Story/Villain.md#core-idea) |
+| The Villain | rejects the order left by | The Convergence | stated | “He believes the post-Convergence order is structurally incapable of giving his people what they need” [source](../../wiki/Story/Villain.md#core-idea) |
 
 ## Dominoes
 

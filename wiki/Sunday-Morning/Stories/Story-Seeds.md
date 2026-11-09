@@ -226,7 +226,7 @@ Possible thread: Col's unanswered letter from [Inspected](Inspected-Not-Guarante
 
 ### The main story, Seasons 3 to 5
 
-*Added 2026-11-09 under [D27](../Notes/Decisions.md#the-authors-decisions), for the slates on [The Whole Road](../Notes/The-Whole-Road.md). They fill the places the existing seeds don't reach. Seeds marked* (Free City lean) *depend on the Villain's homeland, which is bt 7274's to decide.*
+*Added 2026-11-09 under [D27](../Notes/Decisions.md#the-authors-decisions), for the slates on [The Whole Road](../Notes/The-Whole-Road.md). They fill the places the existing seeds don't reach. Seeds marked* (D28) *rest on bt 7274's ruling about the Villain and the Sea People.*
 
 #### The Harbor Book
 
@@ -254,7 +254,7 @@ Possible thread: Wurdren's turn from wanting to be needed to mattering to someon
 
 #### The Customs Table
 
-`DOMINO` · *a Port quay · Season 4, midwinter* · (Free City lean)
+`DOMINO` · *a Port quay · Season 4, midwinter* · (D28)
 
 The foreign enclaves' customs clerks sit at a table on the quay, and this winter there are more of them and less trade. A dockside family who can't stand the clerks feeds them anyway, because it's cold and they're somebody's sons.
 
@@ -306,7 +306,7 @@ The night the talks end, a waterman rows a passenger out to a ship past the harb
 
 Possible heart: some people only see a place properly when they're leaving it.
 
-- **Needs:** bt 7274's ruling. If the passenger is the Villain, it's the one time he's on the page, unnamed ([question 5](../Notes/The-Whole-Road.md#for-bt-7274)). If not, the passenger is someone else, and the reader may wonder.
+- **Settled** ([D28](../Notes/Decisions.md#the-authors-decisions)): the passenger is someone else leaving Port that night, not the Villain; the reader may wonder.
 
 #### Harvest Home, Year Six
 
