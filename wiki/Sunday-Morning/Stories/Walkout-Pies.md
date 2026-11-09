@@ -131,7 +131,7 @@ Connection to keep: Kettie's flaw (meddling) is what puts the carters at the tab
 | Crews keep a mutual-aid box | `VERIFIED` in kind | Labor mutual aid is an Ironcrest custom ([Daily Life](../../Culture/Daily-Life-and-Customs.md#ironcrest)). A pie-seller keeping it is a provisional detail. |
 | Charcoal is short | `ASSUMED` | Provisional. It's plausible from forest-border conflict over extraction ([Border Towns](../../Places/Border-Towns.md#darkroot-gulch--deepwood--ironcrest)). The story gives no cause beyond "the carts have been short". |
 | Orin can be mentioned | `VERIFIED` with limits | Gossip, as in Inspected. His patron, his workshop's place and his outcome stay open. |
-| Weeks exist | `UNKNOWN` | "Foundry Week" is a festival name, not a calendar unit ([Calendar #14](../../Calendar-and-Timekeeping.md#14-weeks-are-not-currently-established)). The story counts days of the festival. |
+| Weeks exist | `UNKNOWN` | "Foundry Week" is a festival name, not a calendar unit ([Calendar #14](../../Calendar-and-Timekeeping.md#14-weeks-exist-in-usage-their-length-is-open)). The story counts days of the festival. |
 
 **First principles.** The story needs a real grievance, a moment of maximum damage, a rumor that makes the damage look necessary, and a way for the rumor to die that doesn't kill the grievance. Removed convention: the strike as the problem. The problem is the timing, and the story never says the crews are wrong. The smallest mechanism: the people the rumor is about are hungry and nearby.
 

@@ -97,3 +97,5 @@ His impact remains part of the new world.
 ## Legacy research
 
 Unpromoted legacy material relevant to this page is indexed in the [Story Legacy Research Library](../Reference/Story-Legacy-Research-Library.md).
+
+In the Sunday Morning stories the Villain never appears as himself ([D21](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); his homeland and grievance are due before Season 3 ([The Long Road](../Sunday-Morning/Notes/The-Long-Road.md#questions-for-later)). Whatever homeland is chosen, his letters' Port paper implies nothing about it: Port is everyone's stationer ([Records](../Records-Literacy-and-Authentication.md#paper-and-provenance)).

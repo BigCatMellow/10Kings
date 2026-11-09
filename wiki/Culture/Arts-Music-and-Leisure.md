@@ -532,7 +532,7 @@ These are pressures, not exclusive functions.
 
 [Nomads and itinerant peoples](Nomads.md) can be especially important cultural carriers.
 
-Existing Appalachian-influenced research supports mechanisms such as:
+The [Ridge-Roamers](Nomads.md#the-ridge-roamers) (D24), the Appalachian-influenced people, support mechanisms such as:
 
 - portable instruments;
 - ballads;

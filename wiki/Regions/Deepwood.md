@@ -59,7 +59,7 @@ Reference pools include:
 
 ## Language
 
-Deepwood language families may grammatically distinguish forms of agency or animacy and possess unusually precise vocabulary for:
+Deepwood speaks the Deepwood family of languages ([Language and Thought](../Culture/Language-and-Thought.md#language-families)). They may grammatically distinguish forms of agency or animacy and possess unusually precise vocabulary for:
 - forest age;
 - water state;
 - animal sign;

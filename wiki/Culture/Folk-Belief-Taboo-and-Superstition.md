@@ -189,6 +189,8 @@ Formal religious institutions may:
 
 A local saint / sage / spirit may therefore exist beside formal theology without being recognized everywhere.
 
+**A practice that crosses the faiths:** writing something down and burning it (fears, wrongs, a thought) appears in three faiths' rites ([Religions](../Politics/Religions.md#working-life-and-gods)), best read as an older folk practice each faith absorbed. Provisional.
+
 ---
 
 # 10. Migration and diaspora
@@ -285,6 +287,8 @@ Still unresolved:
 - how each faith treats folk practices;
 - which beliefs have demonstrable practical origins;
 - which beliefs travel across regions.
+
+Story-level instances, provisional and not promoted: the lamplighters' taboo on saying *light* ([The Ladder Rules](../Sunday-Morning/Stories/The-Ladder-Rules.md)), Kirsa's smoke-sayings and the First Catch landing rule, whose practical origin "proves the fires" ([The First Fish](../Sunday-Morning/Stories/The-First-Fish.md)), and sailors blessing a family's old compass ([Religions](../Politics/Religions.md#9-the-infinite-compass)). Each follows the pattern above: real danger, repeated avoidance, a story about why, a custom that outlasts the reason.
 
 ---
 

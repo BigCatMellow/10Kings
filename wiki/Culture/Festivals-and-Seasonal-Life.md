@@ -44,7 +44,7 @@ Blank cells do not mean “no festivals.” They only mean the imported notes di
 
 **Midsummer Debates** can make rhetoric a public competitive craft without implying every Highridge resident is a philosopher.
 
-**Ledger Closing** can mark the end of a fiscal/trade cycle, when debts are settled, renegotiated or publicly disputed before a brief period of relief.
+**Ledger Closing** is Highridge's named form of the fiscal-cycle mechanism ([Money](../Money-Credit-and-Measures.md), [Calendar](../Calendar-and-Timekeeping.md)). It can mark the end of a fiscal/trade cycle, when debts are settled, renegotiated or publicly disputed before a brief period of relief.
 
 ### Deepwood
 
@@ -60,7 +60,7 @@ Blank cells do not mean “no festivals.” They only mean the imported notes di
 
 ### Port
 
-**Three Moon Festival** is most useful when it belongs to Port rather than serving as a generic “all cultures” event. Its power can come from the city demonstrating that incompatible groups can occupy one civic space.
+**Three Moon Festival** ([Three Moon](Three-Moons-Festival.md), yearly) is most useful when it belongs to Port rather than serving as a generic “all cultures” event. Its power can come from the city demonstrating that incompatible groups can occupy one civic space.
 
 **Lean Vigil** can mark the anxiety of winter shipping and food supply without asserting that Port literally has no local food or defenses.
 
@@ -77,6 +77,10 @@ Festivals create second-order consequences:
 - mixed families combine or refuse traditions;
 - politicians attach themselves to popular celebrations;
 - a remembered disaster can turn a festive date solemn in one district.
+
+**Civic festivals and faith rites are different things** ([2026-11 review](../Reference/World-Review-2026-11.md#insights)). The regional festivals in the table are civic and guild events. Each faith keeps its own rites on its own dates wherever its followers live ([Religions](../Politics/Religions.md)), and reads the civic festivals its own way. So Forge Reawakening is Ironcrest's foundry festival, while the Eternal Forge's own relighting of every fire in a town happens wherever Forge households are, even in Sunplains. This keeps the festivals from bringing back a faith per region, and it keeps regions from collapsing into one theme: Ironcrest's festivals are not all fire, and Deepwood's "quiet" names (Silent Thaw, Gathering Quiet, Deep Silence) may be outsiders' names for festivals that are busy inside, as Gathering Quiet is in [The Blank Square](../Sunday-Morning/Stories/The-Blank-Square.md).
+
+**No festival marks the Convergence.** Either the settlement is remembered as paperwork rather than myth, or this is a gap; a Convergence day kept in Highridge and ignored in Deepwood would be ready-made texture. Open.
 
 ## Use in scenes
 

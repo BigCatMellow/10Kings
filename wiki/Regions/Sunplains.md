@@ -57,7 +57,7 @@ Useful pools include:
 
 ## Language
 
-Sunplains urban languages may contain:
+The Sunplains city languages belong to the Heartland family ([Language and Thought](../Culture/Language-and-Thought.md#language-families)). They may contain:
 - formal status registers;
 - public/private speech differences;
 - elaborate traditions of rhetoric and legal argument;
@@ -122,7 +122,7 @@ Sunplains cuisine is diverse:
 - spice blends;
 - dried fruit.
 
-Wine is important in some places, forbidden or uncommon in others depending on faith and local custom.
+Wine is important in some places, forbidden or uncommon in others depending on local custom and on some faiths' local schools (no faith-wide food rule is set: [Religions](../Politics/Religions.md)).
 
 Do not make all Sunplains food uniformly "Mediterranean."
 

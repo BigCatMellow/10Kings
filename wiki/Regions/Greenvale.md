@@ -12,7 +12,7 @@ Greenvale occupies broad temperate lowlands and rolling country with comparative
 
 Its boundaries grade into:
 - Ironcrest foothills;
-- Highridge routes;
+- Highridge routes (likely a direct border; [Geography](../Geography-and-Connections.md) keeps it open);
 - Deepwood forest margins;
 - warmer Sunplains country.
 
@@ -45,7 +45,7 @@ Useful research pools:
 
 ## Language
 
-Greenvale speech may distinguish:
+Greenvale speaks Heartland Tongue ([Language and Thought](../Culture/Language-and-Thought.md#language-families)), which may distinguish:
 - beginning;
 - ongoing;
 - recurring;

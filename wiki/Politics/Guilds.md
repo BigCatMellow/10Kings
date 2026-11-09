@@ -39,12 +39,7 @@ Examples:
 
 ### Armed and clandestine organizations
 
-Earlier notes include:
-- Warrior's Guild;
-- Assassin's Guild;
-- Spy Guild.
-
-These should be developed carefully so they function as plausible institutions rather than game classes.
+Earlier notes named a Warrior's Guild, an Assassin's Guild and a Spy Guild. They were to be developed as plausible institutions, not game classes, and D24 settled what comes in:
 
 **Ruled 2026-11-04 ([D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)), provisional.** The legacy notes ([Volume 08, Part 3](../../legacy-notes/2026-09-22/consolidated-package/08_Power_The_Council_Guilds_Underworld.md#src-guilds-class)) give each a fuller form. What comes in is the working core; the game-class flavor and the costume names stay in the legacy notes.
 

@@ -90,6 +90,8 @@ A stronger ending forces both systems to fail in their original form.
 
 ### Possible resolution model
 
+*Adopted as the end goal by bt 7274 on 2026-11-04 ([D18](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions): "That works for me"); how the Sunday Morning stories carry it is [The Long Road](../Sunday-Morning/Notes/The-Long-Road.md).*
+
 The Villain succeeds in forcing the Council into the open, proving the hidden order exists.
 
 But his final escalation also makes the human cost undeniable and fractures his coalition.

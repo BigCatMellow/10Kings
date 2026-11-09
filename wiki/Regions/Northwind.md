@@ -54,7 +54,7 @@ Avoid generic "Viking culture."
 
 ## Language
 
-Northwind languages may include:
+Northwind speaks Northic, of the Northern family ([Language and Thought](../Culture/Language-and-Thought.md#language-families)). It may include:
 - inclusive/exclusive "we";
 - strong evidential markers;
 - directional vocabulary tied to coast, wind, and slope;

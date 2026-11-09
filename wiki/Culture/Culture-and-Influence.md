@@ -91,15 +91,7 @@ Its civic competition should be as important as climate.
 
 ## Nomads and itinerant peoples
 
-A currently favored concept is an **Appalachian-influenced itinerant/nomadic people**, using inspiration from:
-- kin networks;
-- oral ballads and story traditions;
-- portable crafts and repair skills;
-- mountain/path knowledge;
-- mutual aid;
-- suspicion of outside authorities born from exploitation;
-- seasonal labor circuits;
-- music as history and social memory.
+The Appalachian-influenced people are now the **Ridge-Roamers** ([D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); their inspirations and do-nots are on [Nomads](Nomads.md), which owns them.
 
 This should not imply that historical Appalachians were generally nomadic. It is an inspiration for social texture that would be combined with genuinely mobile pastoral, trading, pilgrim, and itinerant traditions from elsewhere.
 

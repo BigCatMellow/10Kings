@@ -172,6 +172,14 @@ Each faith's **Working life** above came in from the legacy notes ([Volume 06](.
 - **Two names nearly match:** the Radiant Path's Valorus and the Dual Flame's Valoron, both courage. Kept as two, since two faiths may name one virtue differently; a story shouldn't put them side by side until that is settled.
 - **The names are Latinate working names.** Personal and place names follow [Naming](../Culture/Naming.md); whether the gods' names do is still open.
 
+**Readings from the [2026-11 review](../Reference/World-Review-2026-11.md#insights)** (leans, provisional):
+
+- **The gods' names are a shared liturgical register.** Nine faiths cross three mutually unintelligible language families and share gods, which fits Latinate names kept in a prestigious, half-understood religious register, used beside local names in each family ([Language Families](../Language-Families-and-Contact.md)). This answers whether the gods' names follow Naming: they don't, because they aren't from any one people.
+- **Writing and burning is older than the faiths.** The Radiant Path burns written fears at the renewal flame, the Dual Flame burns a page of wrongs, and the Silent Whisper writes a thought and destroys it. Read as one folk practice that three faiths absorbed and each claims as its own ([Folk Belief](../Culture/Folk-Belief-Taboo-and-Superstition.md)), it is evidence of a shared folk religion beneath the faiths and a rite mixed-faith households already share. It needs literacy and paper, so it is probably marked by class.
+- **Faiths that cross borders mix.** The legacy notes propose syncretic fusions emerging in Port (a Radiance-Forged faith, a Compass-Circle alliance, a Cycle-Weaver practice) and sects inside faiths (Flamekeepers, Forgewardens, Icebound Seekers, Glacial Watchers), with craft as prayer ("every net cast is a petition"). They are unpromoted, in the [backlog](../Reference/README.md#legacy-reconciliation-backlog).
+- **The legacy's Fell Pantheon** (soul-binding, undead) does not come in. If it appears at all, it is only as what one faith accuses another of: heresy talk, with no cults, powers or undead ([Magic](../Magic.md)).
+- **The faiths collect but never conclude, in the stories.** Four faiths' current schemes come close to the pattern: the Illuminated Circle comparing records, the Dual Flame's counselors, Compass pilgrims carrying news, the Weaver documenting damage. In the Sunday Morning stories they gather and never conclude on the page ([D21](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); the main story can let them conclude later.
+
 ## Religion and politics
 
 Faiths should not behave like nine political parties.

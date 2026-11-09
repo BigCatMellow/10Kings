@@ -69,6 +69,10 @@ Useful surviving forms:
 
 [Port](../Places/Port.md) remains the owner for the city's current institutional history.
 
+### Other remembered labels
+
+Region pages hold two more: Greenvale's [Seven-year Blight](../Regions/Greenvale.md), "whether exactly seven years or later mythologized" (the Cellar Song's seven verses may be what fixed the number: [The Eighth Verse](../Sunday-Morning/Stories/The-Eighth-Verse.md)), and Deepwood's [Ages of Silence](../Regions/Deepwood.md#historical-identity). [Pre-Convergence](Pre-Convergence.md) keeps a separate bank of war names; the likely pairs are the Great Coastal Skirmish with the Salted Coast Disputes and the Iron-Field Conquest with the Ember Wars. Each region probably keeps one "never again" memory; the legacy notes propose the other four (the Great Foundry Fires, the Long Freeze, the Great Caravan Unification and the City-State Renaissance), still unreconciled ([backlog](../Reference/README.md#legacy-reconciliation-backlog)).
+
 ## Writing rule
 
 When using these memories:

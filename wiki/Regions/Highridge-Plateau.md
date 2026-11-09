@@ -50,7 +50,7 @@ Reference pools include:
 
 ## Language
 
-Highridge is probably the most multilingual settled region.
+Highridge is probably the most multilingual settled region. Its plateau speech is the most mixed member of the Heartland family ([Language and Thought](../Culture/Language-and-Thought.md#language-families)).
 
 Common trade forms emphasize:
 - condition;

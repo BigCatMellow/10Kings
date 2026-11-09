@@ -17,6 +17,10 @@ The known setting is organized around:
 
 The Spine is both barrier and connector. Routes funnel toward passes, valleys, tunnel mouths, navigable rivers, and coastal approaches.
 
+**The continents must meet by land** ([2026-11 review](Reference/World-Review-2026-11.md#insights)). Every strongly established adjacency below is a land border, and together they link all six regions in one chain (Northwind–Highridge–Deepwood–Ironcrest–Greenvale–Sunplains), while Northwind occupies much of the Northern Continent. So either the continents join at the Spine and Highridge, or "continent" means something looser than open water. Settle the junction before map work.
+
+**Northwind borders none of its suppliers.** It imports grain, metal and medicines from Greenvale, Ironcrest and Deepwood ([Trade](Economy/Trade-and-Dependencies.md)), so all of it comes overland through Highridge at Icestep, or by sea through Port.
+
 ## Strongly established regional relationships
 
 ### Ironcrest ↔ Greenvale
@@ -116,6 +120,8 @@ When the map is finalized, it should show:
 - old pre-Convergence roads;
 - pilgrimage paths;
 - smuggling corridors.
+
+The Spine has two ways across and one along: the [Underpass](Places/The-Underpass.md) through it, the pass roads over it, and the [Overpath](Places/The-Spine.md#the-overpath), the trail along its length that every pass road crosses. [Seven Hill](Places/Seven-Hill.md), an old pass fortress on the Highridge side, marks one of those crossings. When the map is drawn it should show the Overpath.
 
 ## Border towns
 

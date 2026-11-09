@@ -27,6 +27,14 @@ They control economic systems on which *all* kingdoms depend.
 
 Still open: how seats are inherited, selected, bought or contested; how old the Council is relative to the Convergence; which parts of its existence are rumor and which are known to rulers; the domains' final titles.
 
+**What the table implies** (provisional readings, [2026-11 review](../Reference/World-Review-2026-11.md#insights)):
+
+- **Northwind has no house.** The maritime Routes seat is held by a Port house, though Northwind has the ships, sailors and harbors, and is sensitive to outsiders buying control of its harbors. One remembered tradition has Northwind controlling Port until coalition pressure forced it out ([Contested Memory](../History/Contested-Memory.md#the-port-seizure)). Lean: deliberate, and a live grievance the Villain can draw on, without making Northwind his homeland.
+- **There is no Labor seat, and labor is the Villain's best lever.** No house reads strikes as its own domain ([Guilds](Guilds.md#guild-interaction-with-the-villain): he "encourages strikes at strategically chosen moments"), so strikes are where the Council misreads first.
+- **The carrier is split from the content.** Veynor (Routes) holds the ships and caravans that carry mail; Rhaelen (Lore) holds communication, scribes and market reports. Message houses sit where the two overlap, a built-in friction.
+- **Treasury sits away from both finance hubs.** Luthain is an Ironcrest house, while finance concentrates at Port and Highridge. Lean: its power is lending backed by metal and Ironcrest's skill with contracts and weights, which sets up a Luthain–Drathain fault line if coin is metal.
+- **Greenvale distrusts exactly what its own house does.** The Seven-year Blight left "suspicion of concentrated control over seed and grain", and House Marielle controls seed networks and reserves. If Marielle's role surfaced in Greenvale it would read as betrayal from inside: a strong late-season revelation.
+
 ## 1. Food and Biological Supply
 
 Held by **House Marielle** (see [the six houses](#the-six-houses)).
@@ -183,6 +191,10 @@ Potential fault lines:
 - knowledge may know a scheme is failing before others admit it.
 
 Each family also has heirs, factions, clients, and private ambitions.
+
+**An openness faction** (lean, provisional; from the legacy notes, [Volume 08](../../legacy-notes/2026-09-22/consolidated-package/08_Power_The_Council_Guilds_Underworld.md#src-the-council)): the Council was founded before the Convergence, out of idealism and more openly, and the guilds' and kings' suspicion drove it into the shadows. Some members now want to return to partial openness. If this stands, the [ending](../Story/Main-Conflict.md#possible-resolution-model), where the Council loses its secrecy, is partly a return rather than only a defeat.
+
+**How rulers know.** The legacy proposes that ruling families pass down private records of their dealings with the Council, so what an heir knows depends on what a grandparent wrote down. Provisional.
 
 ## The Council's moral problem
 

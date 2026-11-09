@@ -52,7 +52,7 @@ There is also a long tension between craft pride and concentrated ownership. Min
 
 See [Language and Thought](../Culture/Language-and-Thought.md).
 
-Ironcrest languages may habitually distinguish between something being:
+Ironcrest speaks Ironet, of the Northern family. Its dialects may habitually distinguish between something being:
 - ordered;
 - attempted;
 - completed;

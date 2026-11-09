@@ -55,7 +55,7 @@ When magic appears, define:
 - why it has not transformed every industry;
 - how ordinary people understand or misunderstand it.
 
-Settled for Two Sons as **real but deniable**; see [Magic and Relics](Magic.md).
+Settled for Two Sons as **real but deniable**; see [Magic and Relics](Magic.md). The faiths' gods are believed in and never confirmed, under the same rule ([D25](Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [Religions](Politics/Religions.md#working-life-and-gods)).
 
 ## 8. Institutions have constituencies
 

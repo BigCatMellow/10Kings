@@ -30,6 +30,11 @@ Do not use corny occupational metaphors as the main marker of regional speech.
 
 Still open: personal-name systems (see [Naming](Naming.md#personal-names)), the names of the Sunplains and Deepwood languages, and what Old Spine speech was called.
 
+**Two open consequences** ([2026-11 review](../Reference/World-Review-2026-11.md#insights)):
+
+- **The Northern family has no recorded contact route.** Northic and Ironet share a family, but no page gives Northwind and Ironcrest a border, a route or a shared custom. Something must explain it: a sea route along the western coast, an old migration, or a Highridge that once spoke Northern before Heartland speech spread (which would fit plateau speech being the most mixed member of its family). Both Northern grammars also mark proof (Northwind's evidentials, Ironcrest's inspected and guaranteed), which reads like an inherited family trait. Lean: leave the history open, but let one page show a lasting contact route.
+- **Trade Tongue builds a power gap into speech.** Its money, shipping and contract words come from Ironet, its greetings and food words from Heartland Tongue. Greenvale grammar distinguishes personal property from land held in stewardship, and the Ironet-derived contract vocabulary has no recorded equivalent, so a Greenvale family can greet a land agent fluently in Trade Tongue while a land sale written in it may be unable to say "held for the family". No villainy needed: the grammar does the work.
+
 ## Working structural differences
 
 These are design directions, not finalized conlangs.

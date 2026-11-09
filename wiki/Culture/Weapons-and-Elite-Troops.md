@@ -132,6 +132,8 @@ Elite troops should stand out by:
 
 Not by enormous weapons, implausible armor, or supernatural competence.
 
+**Who recruits, who pays, who is forbidden** ([2026-11 review](../Reference/World-Review-2026-11.md#insights)). One elite type per region reads like a strategy game's faction units; the regions hold kingdoms, confederations and city-states ([Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md)). Lean: polities keep small household and garrison forces, and the [fighters' guild](../Politics/Guilds.md#armed-and-clandestine-organizations) (provisional, D24), which trains militias, supplies most specialists for hire. Port's charter limits kingdom troops inside the city ([Port](../Places/Port.md#neutrality)); [Seven Hill](../Places/Seven-Hill.md) is a fortress emptied by negotiated passage; and the Council works to stop Ironcrest converting economic strength into unchecked military power ([Ironcrest](../Regions/Ironcrest.md)). The regional notes below are traditions of skill, not armies.
+
 ## Cultural behavior
 
 Each elite formation should have:

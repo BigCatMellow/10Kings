@@ -80,6 +80,8 @@ Earlier brainstorming also produced:
 
 Treat these as a name bank until the map and naming systems are finalized.
 
+Three of these names have since been placed by stories (provisional): Coalglen Meadows in Ironcrest ([Walkout Pies](../Sunday-Morning/Stories/Walkout-Pies.md)), Snowbreaker Quay in Northwind ([The First Fish](../Sunday-Morning/Stories/The-First-Fish.md)) and Reedveil Bend in Greenvale ([The Eighth Verse](../Sunday-Morning/Stories/The-Eighth-Verse.md)). [Seven Hill](Seven-Hill.md) is a town, not a border town, but sits on a pass.
+
 ## Generational change
 
 Older residents may switch deliberately between regional languages.

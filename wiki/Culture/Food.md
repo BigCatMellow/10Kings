@@ -304,3 +304,5 @@ See [Neighboring Border Fusion Recipes](Recipes/Border-Fusions.md) for provision
 ## Food and story
 
 Food shortages, preservation failures, grain prices, fish seasons, road closures, religious dietary rules, and harvest timing should all be usable as plot mechanics.
+
+**What becomes scarce.** Deepwood's fungal disruption ([Current Events](../Story/Current-Events.md)) hits the most mushroom-dependent cuisine, Deepwood's, and the mushrooms in Ironcrest's base, and three stories already touch it ([Three Pots](../Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md), [The Heavy Scale](../Sunday-Morning/Stories/The-Heavy-Scale.md), [The Mushrooms From Nowhere](../Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md)). Keep mushroom prices consistent across stories: dearer and patchier, never gone.

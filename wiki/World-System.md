@@ -196,7 +196,7 @@ The Council's power is not ordinary sovereignty.
 
 It is a private interregional coordination layer built around member houses whose wealth and relationships already cross political borders.
 
-The current six working portfolios are:
+The six working portfolios, held by six houses ([Economic Council](Politics/Economic-Council.md#the-six-houses), working canon), are:
 
 - food and biological supply;
 - materials and production;
@@ -326,6 +326,8 @@ Wurdren sees what a "necessary adjustment" means to a worker, family, village, c
 
 That structure makes the world itself part of the plot engine.
 
+**Wurdren works as a social chokepoint.** [Social Fabric](Social-Fabric.md) says "a person can be a chokepoint", and that the Council finds informal, overlapping networks "harder to model". Wurdren's systemic power is accumulated trust across groups, the one chokepoint the Council cannot price: "mattering to one person, then more" ([D18](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)) seen from the system's side. Nobody in a story has to see it.
+
 ## 11. A problem can be followed through the world
 
 A useful reading and writing method is:
@@ -367,12 +369,12 @@ Major open areas include:
 - exact map, rivers, and route geometry;
 - exact constitutional forms of the six regions;
 - Port citizenship and treaty structure;
-- exact Council membership, history, visibility, and succession;
+- named Council members, history, visibility, and succession (the six houses are working canon: [Economic Council](Politics/Economic-Council.md#the-six-houses));
 - the Villain's exact grievance and desired political end state;
 - Wurdren's exact biography and starting situation;
 - the implications of the settled [real-but-deniable relic magic](Magic.md) rule;
-- language families and naming systems;
-- the structure and legal status of nomadic/itinerant peoples;
+- language names and personal-name systems (the [families](Culture/Language-and-Thought.md#language-families) are settled);
+- the legal status of mobile peoples (their structure is set out on [Nomads](Culture/Nomads.md#more-than-one-mobile-people));
 - which current-event candidates are finally selected.
 
 See [Open Questions](Open-Questions.md).
