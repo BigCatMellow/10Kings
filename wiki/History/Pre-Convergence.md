@@ -1,5 +1,9 @@
 # Pre-Convergence History
 
+## Status
+
+**Working canon for the core rule; the episodes are provisional.** That the world before the Convergence was messy, plural and remembered differently is working canon ([World Rules](../World-Rules.md#4-history-is-messy)); the named episodes and war names below are provisional historical texture. *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Core rule
 
 The pre-Convergence world was **messy**.

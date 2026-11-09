@@ -1,5 +1,9 @@
 # Naming
 
+## Status
+
+**Working canon for the rule; name systems are open.** Names need etymological logic ([World Rules](../World-Rules.md#18-names-need-etymological-logic)); personal-name systems within each language family are still open ([Open Questions](../Open-Questions.md#language-and-naming)). *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Rule
 
 Names should feel as if they have histories.

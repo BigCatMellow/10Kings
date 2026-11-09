@@ -1,5 +1,9 @@
 # Main Conflict
 
+## Status
+
+**Working canon.** The plot engine and the possible resolution model, adopted as the end goal by [D18](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions). *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Narrative premise
 
 The strongest current version of the story treats **the Villain's campaign as the principal plot engine**.

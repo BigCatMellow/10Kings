@@ -1,5 +1,9 @@
 # Current Events
 
+## Status
+
+**Working canon at event level; names and hidden layers are provisional.** Many events were brainstormed rather than formally selected, but fourteen drafted stories and the [Domino Map](../../atlas/domino-map/Domino-Map.md) now rest on them (lean taken in the [World Review](../Reference/World-Review-2026-11.md)). Audit them again once the map and the Villain's plan are settled. *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Purpose
 
 This is a snapshot of the world shortly before or during the opening movement of the story.

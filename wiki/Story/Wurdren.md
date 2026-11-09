@@ -1,5 +1,9 @@
 # Wurdren
 
+## Status
+
+**Working canon for his role and arc; his biography is open.** His direction is bt 7274's ([D18](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [D19](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); his age, past and family stay open, by his choice on 2026-09-29. *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Core role
 
 Wurdren is the story's human-scale perspective.

@@ -150,7 +150,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Northwind before the Convergence](../../wiki/History/Pre-Convergence.md#northwind-predecessor-politics) | Before the Convergence | No status label | Maritime rights overlapped political territory. |
+| [Northwind before the Convergence](../../wiki/History/Pre-Convergence.md#northwind-predecessor-politics) | Before the Convergence | Working canon | Maritime rights overlapped political territory. |
 | [Salted Coast: Northwind songs](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) | Possible telling | Provisional | Songs about burned boats or coastal settlements. |
 | [Port Seizure: some Northwind families](../../wiki/History/Contested-Memory.md#the-port-seizure) | Possible telling | Provisional | They claim they built or maintained facilities that others later took from them. |
 
@@ -175,7 +175,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Highridge before the Convergence](../../wiki/History/Pre-Convergence.md#highridge-predecessor-politics) | Before the Convergence | No status label | Power followed route control rather than continuous land. |
+| [Highridge before the Convergence](../../wiki/History/Pre-Convergence.md#highridge-predecessor-politics) | Before the Convergence | Working canon | Power followed route control rather than continuous land. |
 
 **Highridge before the Convergence**
 
@@ -188,7 +188,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Deepwood before the Convergence](../../wiki/History/Pre-Convergence.md#deepwood-predecessor-politics) | Before the Convergence | No status label | Forest edges expanded and contracted as outsiders cleared land and local groups later reclaimed it. |
+| [Deepwood before the Convergence](../../wiki/History/Pre-Convergence.md#deepwood-predecessor-politics) | Before the Convergence | Working canon | Forest edges expanded and contracted as outsiders cleared land and local groups later reclaimed it. |
 | [The Ages of Silence](../../wiki/Regions/Deepwood.md#historical-identity) | Remembered conflict | Working canon | A remembered Deepwood period that should stay partly historical and partly religious: perhaps ecological collapse, depopulation, warfare or disease, later interpreted spiritually. |
 | [Timber Tithes: Deepwood memory](../../wiki/History/Contested-Memory.md#the-timber-tithes--deepwood-closure-traditions) | Possible telling | Provisional | Outside extraction pushing too far into forests and sacred or protected areas. |
 
@@ -212,7 +212,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Ironcrest before the Convergence](../../wiki/History/Pre-Convergence.md#ironcrest-predecessor-politics) | Before the Convergence | No status label | Wars over ore rarely produced permanent frontiers: one ruler might seize a mine while losing the road that made it profitable. |
+| [Ironcrest before the Convergence](../../wiki/History/Pre-Convergence.md#ironcrest-predecessor-politics) | Before the Convergence | Working canon | Wars over ore rarely produced permanent frontiers: one ruler might seize a mine while losing the road that made it profitable. |
 | [Ember Wars: Ironcrest patriotic memory](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) | Possible telling | Provisional | A period of expansion and hard-won security, with reversals blamed on logistics or weather. |
 
 **Ironcrest before the Convergence**
@@ -231,7 +231,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Greenvale before the Convergence](../../wiki/History/Pre-Convergence.md#greenvale-predecessor-politics) | Before the Convergence | No status label | Crop failures repeatedly destabilized politics. |
+| [Greenvale before the Convergence](../../wiki/History/Pre-Convergence.md#greenvale-predecessor-politics) | Before the Convergence | Working canon | Crop failures repeatedly destabilized politics. |
 | [The Seven-year Blight](../../wiki/Regions/Greenvale.md#historical-identity) | Remembered conflict | Working canon | A prolonged crop crisis, whether exactly seven years or later mythologized, that helped create Greenvale traditions of storage, crop diversity, communal aid, and suspicion of concentrated control over seed and grain. |
 | [Ember Wars: Greenvale folk memory](../../wiki/History/Contested-Memory.md#the-ember-wars--the-burning-years) | Possible telling | Provisional | Orchards and villages destroyed; families displaced. |
 
@@ -256,7 +256,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Sunplains before the Convergence](../../wiki/History/Pre-Convergence.md#sunplains-predecessor-politics) | Before the Convergence | No status label | Waterworks created unusual political maps: a city could control a canal crossing another ruler's land. |
+| [Sunplains before the Convergence](../../wiki/History/Pre-Convergence.md#sunplains-predecessor-politics) | Before the Convergence | Working canon | Waterworks created unusual political maps: a city could control a canal crossing another ruler's land. |
 | [Salted Coast: Sunplains stories](../../wiki/History/Contested-Memory.md#the-salted-coast-disputes) | Possible telling | Provisional | Stories about raids and "northern pirates". |
 
 **Sunplains before the Convergence**
@@ -308,7 +308,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Before the Convergence](../../wiki/History/Pre-Convergence.md#core-rule) | Overview | No status label | The pre-Convergence world was messy: modern regions shouldn't be projected backward as eternal states with fixed borders. Peace came as a bargain among tired, self-interested powers, not sudden enlightenment. |
+| [Before the Convergence](../../wiki/History/Pre-Convergence.md#core-rule) | Overview | Working canon | The pre-Convergence world was messy: modern regions shouldn't be projected backward as eternal states with fixed borders. Peace came as a bargain among tired, self-interested powers, not sudden enlightenment. |
 | [Ore Scar Strife](../../wiki/History/Pre-Convergence.md#working-conflict-traditions) | Conflict tradition | Provisional | A conflict named in earlier brainstorming; a provisional historical episode, not yet hard canon. |
 | [Lowland Famine Raids](../../wiki/History/Pre-Convergence.md#working-conflict-traditions) | Conflict tradition | Provisional | A conflict named in earlier brainstorming; a provisional historical episode, not yet hard canon. |
 | [Coldwave Incursions](../../wiki/History/Pre-Convergence.md#working-conflict-traditions) | Conflict tradition | Provisional | A conflict named in earlier brainstorming; a provisional historical episode, not yet hard canon. |

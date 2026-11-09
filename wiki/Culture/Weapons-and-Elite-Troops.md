@@ -1,5 +1,9 @@
 # Weapons and Elite Troops
 
+## Status
+
+**Provisional.** Regional traditions of skill, not armies; who recruits and pays is open (lean below). *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Principle
 
 Weapons should be reusable, maintainable, culturally plausible, and suitable for the environment.

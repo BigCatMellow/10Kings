@@ -1,5 +1,9 @@
 # Recovered Cultural Research Conversations (2024–2026)
 
+## Status
+
+**Legacy index, non-canon.** A map of recovered research conversations; see the [Reference index](README.md#legacy-indexes). *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Provenance and status
 
 **Reference only; non-canon.** Compiled 2026-11-04. This is **not a recovered verbatim chat export**. It records subjects, dates and specific details surfaced by conversation-history retrieval, then routes to independently preserved repository files when available. Some dates refer to a recovered assistant response, not necessarily the date when a concept first entered the project. A conversation memory can be partial or imprecise; original notes and current canonical wiki pages take precedence.

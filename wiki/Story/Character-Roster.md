@@ -1,5 +1,9 @@
 # Character Roster
 
+## Status
+
+**Provisional.** All names provisional until naming systems are settled. *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Core characters
 
 ### Wurdren

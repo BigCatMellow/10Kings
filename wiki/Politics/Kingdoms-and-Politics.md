@@ -1,5 +1,9 @@
 # Kingdoms and Politics
 
+## Status
+
+**Provisional.** Constitutional forms are still open ([Open Questions](../Open-Questions.md#political-structure)); the page's "likely" and "could be" are meant. *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Principle
 
 The six regions should not necessarily share identical political systems.

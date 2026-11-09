@@ -1,5 +1,9 @@
 # Obscure Cultural Institutions — Research Batch 2
 
+## Status
+
+**Comparative research, non-canon.** Real-world systems studied for their mechanisms; see the [Reference index](README.md#comparative-research). *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Research status and scope
 
 **Non-canon comparative source research, 2026-11-04.** These cases extend [Obscure Cultural Systems Dossiers](Obscure-Cultural-Systems-Dossiers.md), [Community Institution Casebook](Community-Institution-Casebook.md), and [Cultural Practices](Cultural-Practices-and-Institutions.md) without replacing those documents. Names belong to real living communities, not invented Two Sons ethnicities. Factual summaries come from the *linked UNESCO heritage descriptions*, which are neither exhaustive anthropological field studies nor guarantees that a practice is universal, unchanged or uncontested. The last entry is explicitly a **comparative synthesis**, not a distinct newly discovered tradition.

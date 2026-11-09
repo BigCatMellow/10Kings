@@ -1,5 +1,9 @@
 # Religions
 
+## Status
+
+**Working canon for the nine faiths and their cores; their working life and gods are provisional.** Nine faiths that cross borders, never one per kingdom, are working canon. Each faith's **Working life** came in as provisional by [D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions) and its **Gods** by [D25](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions). *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 The world currently contains nine major trans-regional traditions. They do not map neatly onto kingdoms.
 
 Each faith should have local schools, reform movements, institutions, charities, political interests, and internal disputes.

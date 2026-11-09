@@ -6,8 +6,8 @@
 
 ## At a glance
 
-- **568** things mapped, **822** connections (90% stated in the wiki, the rest inferred)
-- **32** open questions ([Part 8](../questions/README.md))
+- **571** things mapped, **825** connections (90% stated in the wiki, the rest inferred)
+- **35** open questions ([Part 8](../questions/README.md))
 - **80** gaps listed across the parts
 - **85** cards with no connection yet
 
@@ -18,16 +18,16 @@ Each card carries its wiki page's status label. "Writing reference" is the Sunda
 | Part | Established | Working canon | Provisional | No status label | Writing reference | Total |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
 | Geography | 6 | 12 | 9 | · | · | 27 |
-| Culture | · | 15 | 38 | 4 | · | 57 |
-| Food | · | · | 64 | 9 | · | 73 |
-| Power | · | 5 | 14 | 46 | · | 65 |
-| History | 8 | 3 | 25 | 7 | · | 43 |
-| People | 1 | · | 9 | 2 | 76 | 88 |
-| Story | · | · | 99 | 35 | · | 134 |
-| Questions | · | · | · | 32 | · | 32 |
-| Foundations | · | 5 | · | 27 | · | 32 |
+| Culture | · | 17 | 38 | 2 | · | 57 |
+| Food | · | 8 | 64 | 1 | · | 73 |
+| Power | · | 35 | 30 | · | · | 65 |
+| History | 8 | 10 | 25 | · | · | 43 |
+| People | 1 | 1 | 10 | · | 76 | 88 |
+| Story | · | 35 | 99 | · | · | 134 |
+| Questions | · | · | · | 35 | · | 35 |
+| Foundations | 20 | 11 | 1 | · | · | 32 |
 | Systems | · | · | 17 | · | · | 17 |
-| **All** | **15** | **40** | **275** | **162** | **76** | **568** |
+| **All** | **35** | **129** | **293** | **38** | **76** | **571** |
 
 ## Where the cards are
 
@@ -53,7 +53,7 @@ Cards per board column and part. A dot means nothing from that part lives in tha
 | Sunday Morning cast | · | · | · | · | · | 76 | · | · | · | · |
 | Main conflict | · | · | · | · | · | · | 6 | 1 | · | · |
 | System proposals | · | · | · | · | · | · | · | · | · | 17 |
-| World & unplaced | 10 | 6 | 1 | 2 | · | · | 18 | 8 | · | · |
+| World & unplaced | 10 | 6 | 1 | 2 | · | · | 18 | 11 | · | · |
 
 ## Most "none stated" rows and missing facts
 
@@ -101,14 +101,16 @@ Some are fine on their own (a saying, a festival); others are things the wiki ha
 
 ## Open questions and what they ask about
 
-- **Map** (6): Exact outlines of the three continents → Western Continent, Northern Continent, Eastern Continent; Exact location of Port → Port; Which regional borders are long boundaries versus narrow corridors → *nothing on the board yet*; Whether Highridge directly borders Sunplains → Highridge Plateau, Sunplains; Exact relationship of The Spine to continental separation → The Spine; Navigable rivers and major watersheds → *nothing on the board yet*
+- **Map** (8): Exact outlines of the three continents → Western Continent, Northern Continent, Eastern Continent; Exact location of Port → Port; Which regional borders are long boundaries versus narrow corridors → *nothing on the board yet*; Whether Highridge directly borders Sunplains → Highridge Plateau, Sunplains; Exact relationship of The Spine to continental separation → The Spine; Navigable rivers and major watersheds → *nothing on the board yet*; Whether Greenvale directly borders Highridge → Greenvale; Which pass Seven Hill guards → Seven Hill
 - **Political structure** (5): Are all six named regions kingdoms in the same constitutional sense? → How governments behave; How many independent Sunplains city-states remain? → Sunplains governments; How centralized is Deepwood? → Deepwood government; What formal institutions govern Highridge? → Highridge government; Does Port have citizenship independent of kingdom citizenship? → Port charter and watch
 - **Economic Council** (4): Final names/titles of domains (the six seats and their houses are now settled) → The Economic Council; How seats are inherited, selected, purchased, or contested → The Council houses; How old the Council is relative to The Convergence → The Economic Council, The Council's rise; Which parts of its existence are rumor versus known to elite rulers → The Economic Council
 - **Villain** (6): Name → The Villain; Homeland/people → The Villain; Exact grievance → The Villain; Exact territorial or political end-state he wants → The Villain; The point at which his methods become clearly unacceptable even to sympathetic readers → The Villain; Whether he knows the full Council structure at the story's beginning → The Villain
 - **Wurdren** (5): Exact age and biography → Wurdren; Why his earlier adventuring life failed to match his ambitions → Wurdren; Family and relationships → Wurdren; What he initially believes about politics and the Council → Wurdren; Where his journey begins → Wurdren
 - **Language and naming** (2): Personal-name systems within the language families → *nothing on the board yet*; The names of the Sunplains and Deepwood languages, and what Old Spine speech was called → Sunplains languages, Deepwood languages, Old Spine speech
-- **Nomadic peoples** (3): Name and self-name of the Appalachian-influenced mobile network → Nomads and itinerant peoples; Whether it is one people or a cultural/economic network containing multiple peoples → Nomads and itinerant peoples; Seasonal circuits and legal status → Nomads and itinerant peoples
+- **Nomadic peoples** (1): Seasonal circuits and legal status → Nomads and itinerant peoples
 - **Current events** (1): Which of the brainstormed crises are formally selected? The events pages should be audited once the map and villain plan are finalized → Current events
+- **Faiths** (2): Whether the gods' Latinate names are a shared liturgical register → The Radiant Path; The creation myth → Path of the Great Weaver
+- **Ecology** (1): Flora and fauna have no owner page yet → Greenvale
 
 ## Gaps per part
 

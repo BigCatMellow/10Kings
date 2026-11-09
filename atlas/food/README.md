@@ -398,7 +398,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Northwind cuisine](../../wiki/Culture/Food.md#northwind) | Cuisine | No status label | Preservation first: fish and shellfish, sea greens, roots, hardy grains, dairy in pastoral zones, berries and preserved meat, dried, smoked, salted, fermented, pickled and cold-stored. It should show both scarcity management and trade. |
+| [Northwind cuisine](../../wiki/Culture/Food.md#northwind) | Cuisine | Working canon | Preservation first: fish and shellfish, sea greens, roots, hardy grains, dairy in pastoral zones, berries and preserved meat, dried, smoked, salted, fermented, pickled and cold-stored. It should show both scarcity management and trade. |
 | [Salt-Fish and Barley Porridge](../../wiki/Culture/Recipes/Northwind.md#1-salt-fish-and-barley-porridge) | Dish | Provisional | Preserved fish stretches a grain breakfast through winter. |
 | [Hearthfire Fish and Root Bake](../../wiki/Culture/Recipes/Northwind.md#2-hearthfire-fish-and-root-bake) | Dish | Provisional | The evening meal uses the same masonry hearth that warms the house. |
 | [Frostbound Fish Stew](../../wiki/Culture/Recipes/Northwind.md#3-frostbound-fish-stew) | Dish | Provisional | A communal pot turns small fish, kelp and roots into a substantial supper. |
@@ -479,7 +479,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Highridge cuisine](../../wiki/Culture/Food.md#highridge) | Cuisine | No status label | Unusually mixed because caravans bring ingredients: hardy grains, legumes, dairy, herd animals, dried meat and roots at home, while markets introduce dried fruit, spices, oils, noodles, rice, wine, fish and sweets from elsewhere. |
+| [Highridge cuisine](../../wiki/Culture/Food.md#highridge) | Cuisine | Working canon | Unusually mixed because caravans bring ingredients: hardy grains, legumes, dairy, herd animals, dried meat and roots at home, while markets introduce dried fruit, spices, oils, noodles, rice, wine, fish and sweets from elsewhere. |
 | [Caravan Flatbread with Spiced Butter](../../wiki/Culture/Recipes/Highridge-Plateau.md#1-caravan-flatbread-with-spiced-butter) | Dish | Provisional | A dough stiff enough to travel rests while camp is made. Thin rounds are slapped onto a hot stone, griddle or clay-oven wall and brushed while hot with fermented butter mixed with crushed spice. |
 | [Caravan Curry / Spiced Caravan Pot](../../wiki/Culture/Recipes/Highridge-Plateau.md#2-caravan-curry--spiced-caravan-pot) | Dish | Provisional | "Curry" is a real-world analogy; in the setting it's better understood as a family of thick, spiced caravan stews. |
 | [Wind Dumplings](../../wiki/Culture/Recipes/Highridge-Plateau.md#3-wind-dumplings) | Dish | Provisional | Small filled rounds sit in stacked steam trays over one boiling pot, the lowest trays usually holding sturdier dumplings and the upper trays vegetables or lighter fillings. |
@@ -550,7 +550,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Deepwood cuisine](../../wiki/Culture/Food.md#deepwood) | Cuisine | No status label | More cultivated food than outsiders assume: grains and tubers from clearings alongside nuts, mushrooms, fish, game, greens, berries and honey, with trade grain and salt. Foraging supplements agriculture rather than replacing it everywhere. |
+| [Deepwood cuisine](../../wiki/Culture/Food.md#deepwood) | Cuisine | Working canon | More cultivated food than outsiders assume: grains and tubers from clearings alongside nuts, mushrooms, fish, game, greens, berries and honey, with trade grain and salt. Foraging supplements agriculture rather than replacing it everywhere. |
 | [Mushroom-Simmered Broth](../../wiki/Culture/Recipes/Deepwood.md#1-mushroom-simmered-broth) | Dish | Provisional | A ceramic pot is set beside, not over, fierce flame. Roots and alliums soften gently, mushrooms simmer only long enough to flavor the broth, and strong herbs are used sparingly. |
 | [Guardian Stew](../../wiki/Culture/Recipes/Deepwood.md#2-guardian-stew) | Dish | Provisional | The name fits ceremonial or communal versions; ordinary households make simpler descendants. |
 | [Whispering Leaf Wraps](../../wiki/Culture/Recipes/Deepwood.md#3-whispering-leaf-wraps) | Dish | Provisional | Leaves are softened over steam or hot water and wrapped around a filling that is cooked or partially cooked first, then tied with fiber. The packets steam in a covered pit above hot stones, kept from the ash by leaves and brush. |
@@ -629,7 +629,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Ironcrest cuisine](../../wiki/Culture/Food.md#ironcrest) | Cuisine | No status label | Hardy grains, roots, legumes, dairy, livestock and mushrooms, with orchard fruit in lower country and imported Greenvale grain. The recipe book's dishes are strongest in mining, smithing and upland working communities, but the region isn't only "forge cuisine". |
+| [Ironcrest cuisine](../../wiki/Culture/Food.md#ironcrest) | Cuisine | Working canon | Hardy grains, roots, legumes, dairy, livestock and mushrooms, with orchard fruit in lower country and imported Greenvale grain. The recipe book's dishes are strongest in mining, smithing and upland working communities, but the region isn't only "forge cuisine". |
 | [Miner's Gruel](../../wiki/Culture/Recipes/Ironcrest.md#1-miners-gruel) | Dish | Provisional | Cheap grain, scraps and leftovers become a hot meal that can be kept going with little attention. |
 | [Smoked Ember Stew](../../wiki/Culture/Recipes/Ironcrest.md#2-smoked-ember-stew) | Dish | Provisional | Tough preserved meat becomes tender during a workday without needing a dedicated cook. |
 | [Ashen Stone Loaf](../../wiki/Culture/Recipes/Ironcrest.md#3-ashen-stone-loaf) | Dish | Provisional | A durable sour loaf suited to upland grain, irregular ovens and work travel. |
@@ -715,7 +715,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Greenvale cuisine](../../wiki/Culture/Food.md#greenvale) | Cuisine | No status label | The broadest everyday food base in the setting: grains, beans, vegetables, dairy, eggs, poultry, orchard fruit and herbs; the provisional recipe book builds it around communal ovens and shared pots. Abundance means diversity, not permanent plenty. |
+| [Greenvale cuisine](../../wiki/Culture/Food.md#greenvale) | Cuisine | Working canon | The broadest everyday food base in the setting: grains, beans, vegetables, dairy, eggs, poultry, orchard fruit and herbs; the provisional recipe book builds it around communal ovens and shared pots. Abundance means diversity, not permanent plenty. |
 | [Fresh Morning Bread and Milk](../../wiki/Culture/Recipes/Greenvale.md#1-fresh-morning-bread-and-milk) | Dish | Provisional | Bread ties the workday to the shared oven schedule. |
 | [Braided Honey and Grain Loaf](../../wiki/Culture/Recipes/Greenvale.md#2-braided-honey-and-grain-loaf) | Dish | Provisional | Braiding makes a familiar loaf ceremonial without requiring luxury ingredients. |
 | [Harvest Stew](../../wiki/Culture/Recipes/Greenvale.md#3-harvest-stew) | Dish | Provisional | The recipe changes with whatever the village has in quantity. |
@@ -796,7 +796,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Sunplains cuisine](../../wiki/Culture/Food.md#sunplains) | Cuisine | No status label | Diverse and bright: breads, pulses, vegetables, fruit, nuts, oils, cheeses and herd meat, with fish on the coasts and spices from trade. It varies by city, coast, irrigation district, faith and class, and cities use their own dishes as civic identity. |
+| [Sunplains cuisine](../../wiki/Culture/Food.md#sunplains) | Cuisine | Working canon | Diverse and bright: breads, pulses, vegetables, fruit, nuts, oils, cheeses and herd meat, with fish on the coasts and spices from trade. It varies by city, coast, irrigation district, faith and class, and cities use their own dishes as civic identity. |
 | [Olive Flatbread and Soft Cheese](../../wiki/Culture/Recipes/Sunplains.md#1-olive-flatbread-and-soft-cheese) | Dish | Provisional | Rested dough cooks in thin rounds on a griddle or hot oven floor and is brushed with oil after baking. |
 | [Orchard-Pear Clay-Pot Braise](../../wiki/Culture/Recipes/Sunplains.md#2-orchard-pear-clay-pot-braise) | Dish | Provisional | Meat is lightly browned in the clay pot, onion and spice cook in the oil, and meat, fruit and a little broth are layered. The covered pot sits over low heat so trapped steam does most of the work; honey goes in late. |
 | [Honey-Drizzled Nut Pastries](../../wiki/Culture/Recipes/Sunplains.md#3-honey-drizzled-nut-pastries) | Dish | Provisional | Dough is rolled or stretched thin, layered with fat and nuts, baked crisp in a communal or household oven, and warm honey syrup is poured over after baking. |
@@ -869,7 +869,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Port cuisine](../../wiki/Culture/Food.md#port) | Cuisine | No status label | Not merely "fusion." Port develops dock-worker food, preserved ship food, wealthy merchant cuisine, immigrant neighborhood dishes, street food for travelers and religiously specific kitchens. Borrowing is normal. |
+| [Port cuisine](../../wiki/Culture/Food.md#port) | Cuisine | Working canon | Not merely "fusion." Port develops dock-worker food, preserved ship food, wealthy merchant cuisine, immigrant neighborhood dishes, street food for travelers and religiously specific kitchens. Borrowing is normal. |
 
 **Port cuisine**
 
@@ -886,7 +886,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Border cuisine](../../wiki/Culture/Food.md#border-cuisine) | Cuisine | No status label | Often the clearest sign of cultural blending, because ingredients and techniques combine faster than political identities. A mature border cuisine should eventually stop being described locally as "fusion": children born there know these as ordinary town food, and older recipes may survive only in names, preparation rituals or arguments about which side "really" invented them. |
+| [Border cuisine](../../wiki/Culture/Food.md#border-cuisine) | Cuisine | Working canon | Often the clearest sign of cultural blending, because ingredients and techniques combine faster than political identities. A mature border cuisine should eventually stop being described locally as "fusion": children born there know these as ordinary town food, and older recipes may survive only in names, preparation rituals or arguments about which side "really" invented them. |
 | [Blacksmith's / Forged Harvest Stew](../../wiki/Culture/Recipes/Border-Fusions.md#blacksmiths--forged-harvest-stew) | Dish | Provisional | Greenvale produce regularly feeds upland work towns; Ironcrest smoke and browning alter the farm stew. |
 | [Iron-Grain Herbed Bread](../../wiki/Culture/Recipes/Border-Fusions.md#iron-grain-herbed-bread) | Dish | Provisional | Greenvale bakers adapt their softer communal loaves to Ironcrest's darker flours, toasted grain and lidded-pot baking. Ironcrest households adopt Greenvale herbs and longer fermentation. |
 | [Forge and Plateau Kebabs](../../wiki/Culture/Recipes/Border-Fusions.md#forge-and-plateau-kebabs) | Dish | Provisional | Highridge caravan cooks bring sour marinades and layered spice to Ironcrest's fast iron-plate and charcoal cooking. |

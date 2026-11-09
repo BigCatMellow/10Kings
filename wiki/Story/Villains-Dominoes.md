@@ -1,5 +1,9 @@
 # Villain's Dominoes
 
+## Status
+
+**Working canon for the architecture; the six characters are provisional.** Fourteen drafted stories and the [Domino Map](../../atlas/domino-map/Domino-Map.md) rest on it ([D2](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), D15, [D21](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); names and hidden layers stay provisional. *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Concept
 
 The Villain's plan is not one giant conspiracy in which every event is directly controlled.

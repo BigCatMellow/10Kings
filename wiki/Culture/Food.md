@@ -1,5 +1,9 @@
 # Food
 
+## Status
+
+**Working canon at the pattern level; dishes are provisional.** Food follows ecology, trade, class, season and preservation ([World Rules](../World-Rules.md#16-food-must-follow-ecology-trade-class-season-and-preservation)); the named dishes and the [recipe working set](Recipes/README.md) are provisional. *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Principle
 
 Cuisine follows ecology + trade + class + season + preservation + religion + history.

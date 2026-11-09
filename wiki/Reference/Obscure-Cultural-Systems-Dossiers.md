@@ -1,5 +1,9 @@
 # Obscure Cultural Systems — Expanded Research Dossiers
 
+## Status
+
+**Comparative research, non-canon.** Real-world systems studied for their mechanisms; see the [Reference index](README.md#comparative-research). *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Scope and evidence
 
 **NON-CANON comparative research, researched 2026-11-04.** This file adds source-backed notes to the preexisting [Cultural Practices and Institutions](Cultural-Practices-and-Institutions.md), [Community Institution Casebook](Community-Institution-Casebook.md), and [Nomadic Peoples Research](Nomadic-Peoples-Recovered-Research.md). It covers **17** specific practices and institutions, from living communities across different geographies. Links provide institutional descriptions; these are *starting sources*, not exhaustive ethnography, community consent, or proof of uniform practice.

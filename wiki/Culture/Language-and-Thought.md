@@ -1,5 +1,9 @@
 # Language and Thought
 
+## Status
+
+**Working canon.** The language families are bt 7274's working model (2026-09-29); language names and personal-name systems are still open. *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Principle
 
 Regional languages should influence **habits of attention**, not determine intelligence or personality.

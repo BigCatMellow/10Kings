@@ -52,3 +52,9 @@ The scan finds structure only. Whether two pages belong together is decided by e
 | Seven Hill listed Border Towns as related, which isn't (it's not a border town) | replaced by Highridge |
 
 The test met the method's measure: one search, one ghost gap (the misfiled disposition, now moved), and every defect specific enough to fix with one link or line. Run the test again after the next large change, from a different kind of node.
+
+## 2026-11-09 run, after the World Review
+
+**Scan:** no structural findings; four `THIN_CONNECTION` notices for the six saved reviewer reports, which link only to the [World Review](World-Review-2026-11.md) page. That is intended (`INTENTIONALLY_STANDALONE`): they are kept evidence, reached from the review page.
+
+**Semantic pass:** the review's own missing-link findings were applied on the owner pages (Movement to the Overpath and the spy guilds, Medicine to the Apothic Circle and Port's quarantine, World Rules to the gods rule, Main Conflict and Villain to the decisions, the region pages to the language families, Border Towns to the stories that placed its names). The Atlas cards now carry their pages' status labels: cards with no label went from 162 to 38, of which 35 are open questions, which are an index.

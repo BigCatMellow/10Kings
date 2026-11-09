@@ -1,5 +1,9 @@
 # World Rules
 
+## Status
+
+**Established.** The rules every page and story follows ([AGENTS.md](../AGENTS.md): "Always apply World Rules"). Specific settings decided later live on their owner pages. *(Labelled in the [2026-11 review](Reference/World-Review-2026-11.md#status-labels).)*
+
 These are the setting's equivalent of animation-model rules: constraints intended to prevent drift and keep new material recognizably part of the same world.
 
 ## 1. Regions are ecosystems, not gimmicks

@@ -317,9 +317,9 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Wurdren](../../wiki/Story/Wurdren.md#core-role) | Main character | No status label | An aging adventurer and the story's human-scale perspective. He once imagined heroism as grand deeds and recognition; his later life puts him in smaller situations, and those small acts begin changing a much larger conflict. |
+| [Wurdren](../../wiki/Story/Wurdren.md#core-role) | Main character | Working canon | An aging adventurer and the story's human-scale perspective. He once imagined heroism as grand deeds and recognition; his later life puts him in smaller situations, and those small acts begin changing a much larger conflict. |
 | [The Villain](../../wiki/Story/Villain.md#core-idea) | Main character | Core function established (identity and exact grievance open) | The primary strategic mover of the plot. He believes the post-Convergence order can't give his people or cause what they need, identifies the hidden Council as the reason change keeps being neutralized, and sets out to make the existing equilibrium impossible to maintain. |
-| [The Council houses](../../wiki/Story/Character-Roster.md#the-economic-council-families) | Main character | No status label | Six houses, one per seat: Marielle, Drathain, Veynor, Torradon, Luthain and Rhaelen (Working canon, 2026-09-29). Their named members come from earlier notes and are Provisional. |
+| [The Council houses](../../wiki/Story/Character-Roster.md#the-economic-council-families) | Main character | Provisional | Six houses, one per seat: Marielle, Drathain, Veynor, Torradon, Luthain and Rhaelen (Working canon, 2026-09-29). Their named members come from earlier notes and are Provisional. |
 
 **Wurdren**
 

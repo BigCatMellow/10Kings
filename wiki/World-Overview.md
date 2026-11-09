@@ -1,5 +1,9 @@
 # World Overview
 
+## Status
+
+**Working canon.** The current statement of what the world is. The name "Two Sons" stays tentative. *(Labelled in the [2026-11 review](Reference/World-Review-2026-11.md#status-labels).)*
+
 ## The world
 
 The setting is currently called **Two Sons**, named for its twin suns. The world should feel materially recognizable: people farm, fish, mine, build, trade, travel, worship, fight, negotiate, borrow money, inherit property, join guilds, smuggle goods, raise families, and remember old wars. Fantasy exists, but it does not replace those realities.

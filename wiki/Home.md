@@ -1,5 +1,9 @@
 # Two Sons Wiki
 
+## Status
+
+**Navigation, not canon.** Each linked page carries its own status. *(Labelled in the [2026-11 review](Reference/World-Review-2026-11.md#status-labels).)*
+
 This is the working knowledge base for the setting currently called **Two Sons**.
 
 ## Core idea
@@ -16,28 +20,30 @@ The setting should make it possible to follow one damaged bridge, missing carava
 
 ## Start here
 
-- [World Overview](World-Overview.md)
-- [World Rules](World-Rules.md)
-- [World System](World-System.md)
-- [Social Fabric](Social-Fabric.md)
-- [Movement and Information](Movement-and-Information.md)
-- [Law and Jurisdiction](Law-and-Jurisdiction.md)
-- [Calendar and Timekeeping](Calendar-and-Timekeeping.md)
-- [Language Families and Contact](Language-Families-and-Contact.md)
-- [Magic and Relics](Magic.md)
-- [Medicine and Healing](Medicine-and-Healing.md)
-- [Geography and Connections](Geography-and-Connections.md)
-- [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
-- [Money, Credit, Exchange and Measures](Money-Credit-and-Measures.md)
-- [Records, Literacy and Authentication](Records-Literacy-and-Authentication.md)
-- [Couriers, Posts and Message Networks](Couriers-Posts-and-Message-Networks.md)
-- [Education and Knowledge Transmission](Education-and-Knowledge-Transmission.md)
-- [Pre-Convergence History](History/Pre-Convergence.md)
-- [Contested Historical Memory](History/Contested-Memory.md)
-- [The Convergence](History/The-Convergence.md)
-- [Economic Council](Politics/Economic-Council.md)
-- [Main Conflict](Story/Main-Conflict.md)
-- [Current Events](Story/Current-Events.md)
+Read these first. They are the settled base the rest builds on.
+
+- [World Overview](World-Overview.md) · working canon
+- [World Rules](World-Rules.md) · established
+- [Magic and Relics](Magic.md) · working canon: real but deniable
+- [Geography and Connections](Geography-and-Connections.md) · working canon
+- [Trade and Dependencies](Economy/Trade-and-Dependencies.md) · working canon at the pattern level
+- [Economic Council](Politics/Economic-Council.md) · working canon
+- [Main Conflict](Story/Main-Conflict.md) · working canon
+- [Current Events](Story/Current-Events.md) · working canon at event level
+- [Open Questions](Open-Questions.md) · what is still undecided
+
+## World systems
+
+How the world works, system by system. These were recovered from older proposals and are **provisional candidates**, refined in the [2026-11 review](Reference/World-Review-2026-11.md); current owner pages and rulings outrank them.
+
+- [World System](World-System.md) · [Social Fabric](Social-Fabric.md)
+- [Movement and Information](Movement-and-Information.md) · [Couriers, Posts and Message Networks](Couriers-Posts-and-Message-Networks.md) · [Records, Literacy and Authentication](Records-Literacy-and-Authentication.md) · [Education and Knowledge Transmission](Education-and-Knowledge-Transmission.md)
+- [Law and Jurisdiction](Law-and-Jurisdiction.md) · [Money, Credit, Exchange and Measures](Money-Credit-and-Measures.md) · [Calendar and Timekeeping](Calendar-and-Timekeeping.md)
+- [Language Families and Contact](Language-Families-and-Contact.md) · [Medicine and Healing](Medicine-and-Healing.md)
+
+## History
+
+- [Pre-Convergence History](History/Pre-Convergence.md) · [Contested Historical Memory](History/Contested-Memory.md) · [The Convergence](History/The-Convergence.md)
 
 ## Regions
 
@@ -64,7 +70,7 @@ The setting should make it possible to follow one damaged bridge, missing carava
 - [Arts, Music and Leisure](Culture/Arts-Music-and-Leisure.md)
 - [Folk Belief and Taboos](Culture/Folk-Belief-Taboo-and-Superstition.md)
 - [Audience Movements (provisional)](Culture/Audience-Movements.md)
-- [Three Moons Festival (provisional)](Culture/Three-Moons-Festival.md)
+- [Three Moon Festival (provisional)](Culture/Three-Moons-Festival.md)
 - [Language and Thought](Culture/Language-and-Thought.md)
 - [Naming](Culture/Naming.md)
 - [Architecture](Culture/Architecture.md)
@@ -93,18 +99,23 @@ The setting should make it possible to follow one damaged bridge, missing carava
 
 Small, human-scale stories set in the world's border towns, festivals and neighborhoods, each one a place where the main conflict's dominoes touch ordinary people who never see the pattern. Writing reference and provisional concepts, not canon.
 
-- [Read the Sunday Morning stories](Sunday-Morning/README.md#read-the-stories) — the seven drafted stories in reading order, and seven more planned in the same year
+- [Read the Sunday Morning stories](Sunday-Morning/README.md#read-the-stories) — Season 1's fourteen drafted stories in reading order, and Season 2's test story
+- [Story Seeds](Sunday-Morning/Stories/Story-Seeds.md) — eighty-odd premises for the seasons to come
 - [Atlas](../atlas/README.md) — maps of the whole project; so far the [Domino Map](../atlas/domino-map/Domino-Map.md): every domino, what it tips over, and which stories sit where
 - [Sunday Morning Notes](Sunday-Morning/Notes/README.md) — one index for every note: framework, rules, craft and voice, pipeline, collection, registry, decisions, history
 
-## Writing and provenance
+## Reference and provenance
 
-- [Worldbuilding Breath](Reference/Worldbuilding-Breath.md) — scene-level writing guidance, not canon
-- [Cultural Research Library](Reference/Cultural-Research-Library.md) — recovered cultural conversations, practice case studies, and preserved sources (non-canon)
-- [Source Register](Reference/Source-Register.md) — imported-source provenance and disposition
+Non-canon. The [Reference index](Reference/README.md) lists every page, including the [legacy reconciliation backlog](Reference/README.md#legacy-reconciliation-backlog) of material not yet brought in.
+
+- [Source Register](Reference/Source-Register.md) — every import and what became of it
+- [World Review, 2026-11](Reference/World-Review-2026-11.md) — the latest review of the whole wiki
+- [Spiderweb Audit](Reference/Spiderweb-Audit.md) — how the wiki's connections are checked
+- [Worldbuilding Breath](Reference/Worldbuilding-Breath.md) — scene-level writing guidance
+- [Cultural Research Library](Reference/Cultural-Research-Library.md) — comparative cultural research
 
 ## Canon discipline
 
 The discussion that created this world contains exploratory ideas and contradictions. This wiki intentionally marks uncertain material rather than pretending every brainstorm is settled. See [Open Questions](Open-Questions.md).
 
-Imported source compendia do not override current owner pages. See [Source Register](Reference/Source-Register.md) for the 2026-09-22 reconciliation.
+Imported source compendia do not override current owner pages. See the [Source Register](Reference/Source-Register.md).

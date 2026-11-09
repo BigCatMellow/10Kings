@@ -1,5 +1,9 @@
 # The Economic Council
 
+## Status
+
+**Working canon.** The Council, its six seats and six houses are working canon (bt 7274, 2026-09-29); named members and domain titles are provisional, and so are the readings and leans marked on this page. *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Core concept
 
 The Council is a secret or semi-secret association of **wealthy families whose power crosses regional borders**.

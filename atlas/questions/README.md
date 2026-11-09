@@ -8,7 +8,7 @@ Every open question in the wiki, placed next to the thing it asks about.
 
 Each question is a small card under an Open questions heading in the column of what it asks about, with a line to that card. Questions about things with no card yet (magic, rivers, language families, borders in general) sit in World & unplaced.
 
-**Counts:** 32 open questions; 35 connections (35 stated in the wiki, 0 inferred).
+**Counts:** 35 open questions; 38 connections (38 stated in the wiki, 0 inferred).
 
 ## Gaps this part exposes
 
@@ -52,10 +52,13 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Language and naming: the names of the Sunplains and Deepwood languages, and what Old Spine speech was called | asks about | Sunplains languages | stated | “The names of the Sunplains and Deepwood languages, and what Old Spine speech was called.” [source](../../wiki/Open-Questions.md#language-and-naming) |
 | Language and naming: the names of the Sunplains and Deepwood languages, and what Old Spine speech was called | asks about | Deepwood languages | stated | “The names of the Sunplains and Deepwood languages, and what Old Spine speech was called.” [source](../../wiki/Open-Questions.md#language-and-naming) |
 | Language and naming: the names of the Sunplains and Deepwood languages, and what Old Spine speech was called | asks about | Old Spine speech | stated | “The names of the Sunplains and Deepwood languages, and what Old Spine speech was called.” [source](../../wiki/Open-Questions.md#language-and-naming) |
-| Nomadic peoples: name and self-name of the Appalachian-influenced mobile network | asks about | Nomads and itinerant peoples | stated | “Name and self-name of the Appalachian-influenced mobile network.” [source](../../wiki/Open-Questions.md#nomadic-peoples) |
-| Nomadic peoples: whether it is one people or a cultural/economic network containing multiple peoples | asks about | Nomads and itinerant peoples | stated | “Whether it is one people or a cultural/economic network containing multiple peoples.” [source](../../wiki/Open-Questions.md#nomadic-peoples) |
-| Nomadic peoples: seasonal circuits and legal status | asks about | Nomads and itinerant peoples | stated | “Seasonal circuits and legal status.” [source](../../wiki/Open-Questions.md#nomadic-peoples) |
-| Current events: audit them | asks about | Current events | stated | “They should be audited once the map and villain plan are finalized.” [source](../../wiki/Open-Questions.md#current-events) |
+| Nomadic peoples: seasonal circuits and the legal status of mobile peoples | asks about | Nomads and itinerant peoples | stated | “Seasonal circuits in detail, and the legal status of mobile peoples.” [source](../../wiki/Open-Questions.md#nomadic-peoples) |
+| Current events: audit them | asks about | Current events | stated | “They should still be audited once the map and villain plan are finalized.” [source](../../wiki/Open-Questions.md#current-events) |
+| Map: does Greenvale directly border Highridge? | asks about | Greenvale | stated | “Whether Greenvale directly borders Highridge” [source](../../wiki/Open-Questions.md#map) |
+| Map: Seven Hill's pass; the Overpath's keepers and route | asks about | Seven Hill | stated | “Which pass Seven Hill guards” [source](../../wiki/Open-Questions.md#map) |
+| Faiths: are the gods' names a shared liturgical register? | asks about | The Radiant Path | stated | “Whether the gods' Latinate names are a shared liturgical register” [source](../../wiki/Open-Questions.md#faiths) |
+| Faiths: the creation myth and the Sons | asks about | Path of the Great Weaver | stated | “The creation myth” [source](../../wiki/Open-Questions.md#faiths) |
+| Ecology: no owner for flora and fauna | asks about | Greenvale | stated | “Flora and fauna have no owner page yet” [source](../../wiki/Open-Questions.md#ecology) |
 
 ## Diagram
 
@@ -108,12 +111,19 @@ flowchart LR
   lang_sunplains["Sunplains languages"]
   lang_deepwood["Deepwood languages"]
   lang_oldspine["Old Spine speech"]
-  oq_name_and_self_name_of_the_appalachian_influenced["Nomadic peoples: name and self-name of the Appalachian-influenced mobile network"]
+  oq_seasonal_circuits_and_legal_status["Nomadic peoples: seasonal circuits and the legal status of mobile peoples"]
   nomads["Nomads and itinerant peoples"]
-  oq_whether_it_is_one_people_or_a_cultural_economic["Nomadic peoples: whether it is one people or a cultural/economic network containing multiple peoples"]
-  oq_seasonal_circuits_and_legal_status["Nomadic peoples: seasonal circuits and legal status"]
   oq_current_events_audit["Current events: audit them"]
   st_events["Current events"]
+  oq_greenvale_highridge_border["Map: does Greenvale directly border Highridge?"]
+  greenvale(["Greenvale"])
+  oq_seven_hill_overpath["Map: Seven Hill's pass; the Overpath's keepers and route"]
+  sevenhill["Seven Hill"]
+  oq_gods_liturgical_register["Faiths: are the gods' names a shared liturgical register?"]
+  pw_faith_radiant["The Radiant Path"]
+  oq_creation_myth["Faiths: the creation myth and the Sons"]
+  pw_faith_weaver["Path of the Great Weaver"]
+  oq_ecology_owner["Ecology: no owner for flora and fauna"]
   oq_exact_outlines_of_the_three_continents --> western
   oq_exact_outlines_of_the_three_continents --> northern
   oq_exact_outlines_of_the_three_continents --> eastern
@@ -145,10 +155,13 @@ flowchart LR
   oq_the_names_of_the_sunplains_and_deepwood_language --> lang_sunplains
   oq_the_names_of_the_sunplains_and_deepwood_language --> lang_deepwood
   oq_the_names_of_the_sunplains_and_deepwood_language --> lang_oldspine
-  oq_name_and_self_name_of_the_appalachian_influenced --> nomads
-  oq_whether_it_is_one_people_or_a_cultural_economic --> nomads
   oq_seasonal_circuits_and_legal_status --> nomads
   oq_current_events_audit --> st_events
+  oq_greenvale_highridge_border --> greenvale
+  oq_seven_hill_overpath --> sevenhill
+  oq_gods_liturgical_register --> pw_faith_radiant
+  oq_creation_myth --> pw_faith_weaver
+  oq_ecology_owner --> greenvale
 ```
 
 ## Every thing in this part
@@ -348,9 +361,12 @@ Grouped by board column.
 | [Map: navigable rivers and major watersheds](../../wiki/Open-Questions.md#map) | Open question | No status label | Open question under Map: Navigable rivers and major watersheds. |
 | [Language and naming: personal-name systems within the language families](../../wiki/Open-Questions.md#language-and-naming) | Open question | No status label | Open question under Language and naming: Personal-name systems within the language families. |
 | [Language and naming: the names of the Sunplains and Deepwood languages, and what Old Spine speech was called](../../wiki/Open-Questions.md#language-and-naming) | Open question | No status label | Open question under Language and naming: The names of the Sunplains and Deepwood languages, and what Old Spine speech was called. |
-| [Nomadic peoples: name and self-name of the Appalachian-influenced mobile network](../../wiki/Open-Questions.md#nomadic-peoples) | Open question | No status label | Open question under Nomadic peoples: Name and self-name of the Appalachian-influenced mobile network. |
-| [Nomadic peoples: whether it is one people or a cultural/economic network containing multiple peoples](../../wiki/Open-Questions.md#nomadic-peoples) | Open question | No status label | Open question under Nomadic peoples: Whether it is one people or a cultural/economic network containing multiple peoples. |
-| [Nomadic peoples: seasonal circuits and legal status](../../wiki/Open-Questions.md#nomadic-peoples) | Open question | No status label | Open question under Nomadic peoples: Seasonal circuits and legal status. |
+| [Nomadic peoples: seasonal circuits and the legal status of mobile peoples](../../wiki/Open-Questions.md#nomadic-peoples) | Open question | No status label | Seasonal circuits in detail, and the legal status of mobile peoples. |
+| [Map: does Greenvale directly border Highridge?](../../wiki/Open-Questions.md#map) | Open question | No status label | Whether Greenvale directly borders Highridge. |
+| [Map: Seven Hill's pass; the Overpath's keepers and route](../../wiki/Open-Questions.md#map) | Open question | No status label | Which pass Seven Hill guards. |
+| [Faiths: are the gods' names a shared liturgical register?](../../wiki/Open-Questions.md#faiths) | Open question | No status label | Whether the gods' Latinate names are a shared liturgical register. |
+| [Faiths: the creation myth and the Sons](../../wiki/Open-Questions.md#faiths) | Open question | No status label | The creation myth. |
+| [Ecology: no owner for flora and fauna](../../wiki/Open-Questions.md#ecology) | Open question | No status label | Flora and fauna have no owner page yet. |
 
 **Map: exact outlines of the three continents**
 
@@ -377,18 +393,33 @@ Grouped by board column.
 - *Question:* The names of the Sunplains and Deepwood languages, and what Old Spine speech was called.
 - *Section:* Language and naming
 
-**Nomadic peoples: name and self-name of the Appalachian-influenced mobile network**
-
-- *Question:* Name and self-name of the Appalachian-influenced mobile network.
-- *Section:* Nomadic peoples
-
-**Nomadic peoples: whether it is one people or a cultural/economic network containing multiple peoples**
-
-- *Question:* Whether it is one people or a cultural/economic network containing multiple peoples.
-- *Section:* Nomadic peoples
-
-**Nomadic peoples: seasonal circuits and legal status**
+**Nomadic peoples: seasonal circuits and the legal status of mobile peoples**
 
 - *Question:* Seasonal circuits and legal status.
 - *Section:* Nomadic peoples
+
+**Map: does Greenvale directly border Highridge?**
+
+- *Question:* Whether Greenvale directly borders Highridge.
+- *Section:* Map
+
+**Map: Seven Hill's pass; the Overpath's keepers and route**
+
+- *Question:* Which pass Seven Hill guards.
+- *Section:* Map
+
+**Faiths: are the gods' names a shared liturgical register?**
+
+- *Question:* Whether the gods' Latinate names are a shared liturgical register.
+- *Section:* Faiths
+
+**Faiths: the creation myth and the Sons**
+
+- *Question:* The creation myth.
+- *Section:* Faiths
+
+**Ecology: no owner for flora and fauna**
+
+- *Question:* Flora and fauna have no owner page yet.
+- *Section:* Ecology
 

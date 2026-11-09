@@ -1135,10 +1135,10 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Piracy rises](../../wiki/Story/Current-Events.md#piracy-and-convoy-politics) | Current event | No status label | Raids are increasing. |
-| [Convoy politics](../../wiki/Story/Current-Events.md#piracy-and-convoy-politics) | Current event | No status label | A response that looks purely defensive to Northwind can look like maritime militarization to Sunplains or Port merchants. |
-| [Fish stocks shift](../../wiki/Story/Current-Events.md#fish-stocks-and-access) | Current event | No status label | Some fisheries are declining or shifting, creating price increases, clan disputes, illegal fishing and pressure for new agreements. |
-| [1. Shipping risk rises](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 1 of one possible ripple chain: Northwind piracy raises shipping risk. |
+| [Piracy rises](../../wiki/Story/Current-Events.md#piracy-and-convoy-politics) | Current event | Working canon | Raids are increasing. |
+| [Convoy politics](../../wiki/Story/Current-Events.md#piracy-and-convoy-politics) | Current event | Working canon | A response that looks purely defensive to Northwind can look like maritime militarization to Sunplains or Port merchants. |
+| [Fish stocks shift](../../wiki/Story/Current-Events.md#fish-stocks-and-access) | Current event | Working canon | Some fisheries are declining or shifting, creating price increases, clan disputes, illegal fishing and pressure for new agreements. |
+| [1. Shipping risk rises](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 1 of one possible ripple chain: Northwind piracy raises shipping risk. |
 | [The Greenvale Man](../../wiki/Sunday-Morning/Stories/The-Greenvale-Man.md#status) | Sunday Morning story, Year 1, late autumn | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The First Fish at Snowbreaker Quay](../../wiki/Sunday-Morning/Stories/The-First-Fish.md#status) | Sunday Morning story, Year 2, late spring | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [Under the Lights](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#under-the-lights) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1201,9 +1201,9 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Caravan attacks](../../wiki/Story/Current-Events.md#caravan-attacks) | Current event | No status label | Attacks and disappearances make some routes seem unreliable. |
-| [Trade redirected](../../wiki/Story/Current-Events.md#caravan-attacks) | Current event | No status label | Trade is redirected. Towns bypassed by new routes suffer immediately. |
-| [Debates tied to patrons](../../wiki/Story/Current-Events.md#political-debate) | Current event | No status label | Highridge intellectual disputes are increasingly tied to real patrons and commercial interests. |
+| [Caravan attacks](../../wiki/Story/Current-Events.md#caravan-attacks) | Current event | Working canon | Attacks and disappearances make some routes seem unreliable. |
+| [Trade redirected](../../wiki/Story/Current-Events.md#caravan-attacks) | Current event | Working canon | Trade is redirected. Towns bypassed by new routes suffer immediately. |
+| [Debates tied to patrons](../../wiki/Story/Current-Events.md#political-debate) | Current event | Working canon | Highridge intellectual disputes are increasingly tied to real patrons and commercial interests. |
 | [The Goat File](../../wiki/Sunday-Morning/Stories/The-Goat-File.md#status) | Sunday Morning story, Year 1, late autumn | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The Route Book](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-route-book) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Paid Side](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-paid-side) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1345,8 +1345,8 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Logging and road conflict](../../wiki/Story/Current-Events.md#logging-and-road-conflict) | Current event | No status label | New extraction or infrastructure proposals cross disputed local boundaries. Some work is legal under old treaties; locals dispute those interpretations. |
-| [Fungal or ecological disruption](../../wiki/Story/Current-Events.md#fungalecological-disruption) | Current event | No status label | A disease or ecological change affects important forest foods or commodities. This may be natural, accidentally human-caused, or exploited by manipulators. |
+| [Logging and road conflict](../../wiki/Story/Current-Events.md#logging-and-road-conflict) | Current event | Working canon | New extraction or infrastructure proposals cross disputed local boundaries. Some work is legal under old treaties; locals dispute those interpretations. |
+| [Fungal or ecological disruption](../../wiki/Story/Current-Events.md#fungalecological-disruption) | Current event | Working canon | A disease or ecological change affects important forest foods or commodities. This may be natural, accidentally human-caused, or exploited by manipulators. |
 | [Plans leak; wardens prepare](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood) | Current event | Provisional | Real Council-backed expansion plans leak without context and preemptive defense is encouraged: Naruin Mossglade's domino, in which a local conservation dispute becomes an inter-regional sovereignty crisis. |
 | [The Talker](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-talker) | Story seed | Provisional | A parked Sunday Morning premise, not yet developed; names and details are non-canon. |
 | [The Blank Square](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md#status) | Sunday Morning story, Year 2, early autumn | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
@@ -1409,11 +1409,11 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Unusual metal movements](../../wiki/Story/Current-Events.md#unusual-metal-movements) | Current event | No status label | High-quality metal is disappearing into private contracts or being redirected. |
-| [Labor unrest](../../wiki/Story/Current-Events.md#labor-unrest) | Current event | No status label | Mine and metalworking workers are organizing around wages, safety, debt and control of guild leadership. |
-| [9. Protests hit tool orders](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 9 of one possible ripple chain: protests affect tool orders from Ironcrest. |
-| [10. Workshops cut hours](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 10 of one possible ripple chain: Ironcrest workshops reduce hours. |
-| [11. Strike leaders blame owners](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 11 of one possible ripple chain: strike leaders blame owners. |
+| [Unusual metal movements](../../wiki/Story/Current-Events.md#unusual-metal-movements) | Current event | Working canon | High-quality metal is disappearing into private contracts or being redirected. |
+| [Labor unrest](../../wiki/Story/Current-Events.md#labor-unrest) | Current event | Working canon | Mine and metalworking workers are organizing around wages, safety, debt and control of guild leadership. |
+| [9. Protests hit tool orders](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 9 of one possible ripple chain: protests affect tool orders from Ironcrest. |
+| [10. Workshops cut hours](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 10 of one possible ripple chain: Ironcrest workshops reduce hours. |
+| [11. Strike leaders blame owners](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 11 of one possible ripple chain: strike leaders blame owners. |
 | [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md#status) | Sunday Morning story, Year 2, midsummer | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The Same Paper](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-same-paper) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Second Pour](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-second-pour) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1504,13 +1504,13 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Abundance crisis](../../wiki/Story/Current-Events.md#abundance-crisis) | Current event | No status label | A new strain, unusually good weather, or both have produced unexpectedly high yields in some districts. Instead of prosperity: prices fall, storage fills, poorer farmers can't cover debts, rumors spread that grain is unsafe, merchants delay purchases. |
-| [Land and seed politics](../../wiki/Story/Current-Events.md#land-and-seed-politics) | Current event | No status label | Large interests attempt to acquire distressed farms. Reformers accuse them of engineering the crisis. |
-| [3. Grain purchases cancelled](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 3 of one possible ripple chain: Greenvale merchants cancel distant grain purchases. |
-| [4. Grain prices collapse](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 4 of one possible ripple chain: Greenvale grain prices collapse locally. |
-| [5. Farmers default](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 5 of one possible ripple chain: farmers default. |
-| [7. Consolidators buy farms](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 7 of one possible ripple chain: land consolidators buy distressed farms. |
-| [8. Reformers cry theft](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 8 of one possible ripple chain: religious and guild reformers call it coordinated theft. |
+| [Abundance crisis](../../wiki/Story/Current-Events.md#abundance-crisis) | Current event | Working canon | A new strain, unusually good weather, or both have produced unexpectedly high yields in some districts. Instead of prosperity: prices fall, storage fills, poorer farmers can't cover debts, rumors spread that grain is unsafe, merchants delay purchases. |
+| [Land and seed politics](../../wiki/Story/Current-Events.md#land-and-seed-politics) | Current event | Working canon | Large interests attempt to acquire distressed farms. Reformers accuse them of engineering the crisis. |
+| [3. Grain purchases cancelled](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 3 of one possible ripple chain: Greenvale merchants cancel distant grain purchases. |
+| [4. Grain prices collapse](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 4 of one possible ripple chain: Greenvale grain prices collapse locally. |
+| [5. Farmers default](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 5 of one possible ripple chain: farmers default. |
+| [7. Consolidators buy farms](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 7 of one possible ripple chain: land consolidators buy distressed farms. |
+| [8. Reformers cry theft](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 8 of one possible ripple chain: religious and guild reformers call it coordinated theft. |
 | [The Eighth Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md#status) | Sunday Morning story, Year 1, midwinter | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [Harvest Home Again](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#harvest-home-again) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Penny Sale](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-penny-sale) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1625,8 +1625,8 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Drought anxiety](../../wiki/Story/Current-Events.md#drought-anxiety) | Current event | No status label | Water isn't yet universally scarce, but fear changes behavior: hoarding, canal guards, secret agreements, speculative prices. |
-| [City-state coordination](../../wiki/Story/Current-Events.md#city-state-coordination) | Current event | No status label | Some leaders are trying to cooperate. Rivals interpret the effort as the beginning of a dominant bloc. |
+| [Drought anxiety](../../wiki/Story/Current-Events.md#drought-anxiety) | Current event | Working canon | Water isn't yet universally scarce, but fear changes behavior: hoarding, canal guards, secret agreements, speculative prices. |
+| [City-state coordination](../../wiki/Story/Current-Events.md#city-state-coordination) | Current event | Working canon | Some leaders are trying to cooperate. Rivals interpret the effort as the beginning of a dominant bloc. |
 | [The Ladder Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md#status) | Sunday Morning story, Year 1, midwinter | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The Patrol Boat](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-patrol-boat) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Rival Lamps](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-rival-lamps) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1692,10 +1692,10 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Merchant conflict](../../wiki/Story/Current-Events.md#merchant-conflict) | Current event | No status label | Shipping losses, insurance disputes, warehouse fires or thefts, and political accusations are making neutral commerce harder. |
-| [Smuggling surge](../../wiki/Story/Current-Events.md#smuggling-surge) | Current event | No status label | Higher prices and route disruption increase demand for illegal transport. |
-| [Refugee and worker pressure](../../wiki/Story/Current-Events.md#refugeeworker-pressure) | Current event | No status label | Displaced people from border and economic crises arrive faster than housing and charity systems can absorb them. |
-| [2. Port credit tightens](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 2 of one possible ripple chain: Port insurance/credit tightens. |
+| [Merchant conflict](../../wiki/Story/Current-Events.md#merchant-conflict) | Current event | Working canon | Shipping losses, insurance disputes, warehouse fires or thefts, and political accusations are making neutral commerce harder. |
+| [Smuggling surge](../../wiki/Story/Current-Events.md#smuggling-surge) | Current event | Working canon | Higher prices and route disruption increase demand for illegal transport. |
+| [Refugee and worker pressure](../../wiki/Story/Current-Events.md#refugeeworker-pressure) | Current event | Working canon | Displaced people from border and economic crises arrive faster than housing and charity systems can absorb them. |
+| [2. Port credit tightens](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 2 of one possible ripple chain: Port insurance/credit tightens. |
 | [Three Pots at Three Moon](../../wiki/Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md#status) | Sunday Morning story, Year 2, early autumn | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The Harbor Runner](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-harbor-runner) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Bucket Race](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bucket-race) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1810,8 +1810,8 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Earthquake or land movement](../../wiki/Story/Current-Events.md#earthquakeland-movement) | Current event | No status label | A recent event damages roads and exposes older ruins, caves or sealed routes, producing treasure and resource rushes, religious claims, territorial disputes, archaeological interest and Underpass instability. |
-| [Underpass route wars](../../wiki/Story/Current-Events.md#route-wars) | Current event | No status label | Collapse and discovery have changed which enclaves control profitable corridors. Smuggling and legitimate trade compete for the same space. |
+| [Earthquake or land movement](../../wiki/Story/Current-Events.md#earthquakeland-movement) | Current event | Working canon | A recent event damages roads and exposes older ruins, caves or sealed routes, producing treasure and resource rushes, religious claims, territorial disputes, archaeological interest and Underpass instability. |
+| [Underpass route wars](../../wiki/Story/Current-Events.md#route-wars) | Current event | Working canon | Collapse and discovery have changed which enclaves control profitable corridors. Smuggling and legitimate trade compete for the same space. |
 | [The Road in Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md#status) | Sunday Morning story, Year 2, late spring | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The Mushrooms From Nowhere](../../wiki/Sunday-Morning/Stories/The-Mushrooms-From-Nowhere.md#status) | Sunday Morning story, Year 2, late summer | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [Udo's Other Road](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#udos-other-road) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -2037,12 +2037,12 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [The main conflict](../../wiki/Story/Main-Conflict.md#narrative-premise) | Overview | No status label | The strongest current version treats the Villain's campaign as the principal plot engine, the Council as the antagonist to that campaign, and Wurdren as the human-scale perspective. That doesn't make the Villain secretly the hero; it means the plot moves on his decisions. |
-| [Current events](../../wiki/Story/Current-Events.md#purpose) | Overview | No status label | A snapshot of the world shortly before or during the story's opening movement. Many events are linked, but most participants don't know that: some are caused by the Villain, some are Council responses, and some are ordinary events used by both. |
-| [Faiths read the crises](../../wiki/Story/Current-Events.md#religious-networks) | Current event | No status label | Faiths are beginning to interpret the crises trans-regionally. |
-| [6. Council steadies lenders](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 6 of one possible ripple chain: Council finance tries to stabilize lenders. |
-| [12. Villain amplifies Council involvement](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 12 of one possible ripple chain: Villain agents amplify evidence of Council involvement. |
-| [13. Shocks read as proof of enemies](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | No status label | Step 13 of one possible ripple chain: a local economic shock becomes proof, in several regions, that another group is acting against them. |
+| [The main conflict](../../wiki/Story/Main-Conflict.md#narrative-premise) | Overview | Working canon | The strongest current version treats the Villain's campaign as the principal plot engine, the Council as the antagonist to that campaign, and Wurdren as the human-scale perspective. That doesn't make the Villain secretly the hero; it means the plot moves on his decisions. |
+| [Current events](../../wiki/Story/Current-Events.md#purpose) | Overview | Working canon | A snapshot of the world shortly before or during the story's opening movement. Many events are linked, but most participants don't know that: some are caused by the Villain, some are Council responses, and some are ordinary events used by both. |
+| [Faiths read the crises](../../wiki/Story/Current-Events.md#religious-networks) | Current event | Working canon | Faiths are beginning to interpret the crises trans-regionally. |
+| [6. Council steadies lenders](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 6 of one possible ripple chain: Council finance tries to stabilize lenders. |
+| [12. Villain amplifies Council involvement](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 12 of one possible ripple chain: Villain agents amplify evidence of Council involvement. |
+| [13. Shocks read as proof of enemies](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 13 of one possible ripple chain: a local economic shock becomes proof, in several regions, that another group is acting against them. |
 
 **The main conflict**
 

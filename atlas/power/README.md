@@ -217,9 +217,9 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Northwind government](../../wiki/Politics/Kingdoms-and-Politics.md#northwind) | Government | No status label | Likely keeps strong clan, harbor and local rights even under larger regional leadership; maritime law may be partly separate from inland law. |
-| [Northwind crime](../../wiki/Politics/Crime-and-Underworld.md#northwind) | Crime | No status label | Common criminal opportunities: piracy, smuggling, stolen cargo, illegal fishing, harbor protection. |
-| [Northwind arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#northwind) | Arms and elite troops | No status label | Elite direction: marines and coastal fighters skilled in shipboard combat, rough weather, landing operations and cold endurance. |
+| [Northwind government](../../wiki/Politics/Kingdoms-and-Politics.md#northwind) | Government | Provisional | Likely keeps strong clan, harbor and local rights even under larger regional leadership; maritime law may be partly separate from inland law. |
+| [Northwind crime](../../wiki/Politics/Crime-and-Underworld.md#northwind) | Crime | Working canon | Common criminal opportunities: piracy, smuggling, stolen cargo, illegal fishing, harbor protection. |
+| [Northwind arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#northwind) | Arms and elite troops | Provisional | Elite direction: marines and coastal fighters skilled in shipboard combat, rough weather, landing operations and cold endurance. |
 
 **Northwind government**
 
@@ -243,10 +243,10 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Highridge government](../../wiki/Politics/Kingdoms-and-Politics.md#highridge) | Government | No status label | Could be a federation or confederation of cities, route districts, caravan houses, herding territories and old pass communities, whose legitimacy may come from negotiated compacts rather than a single dynasty. |
-| [Highridge caravan organizations](../../wiki/Politics/Guilds.md#highridge-caravan-organizations) | Guild | No status label | Competing over safe-route certification, tolls, militia protection and maps. |
-| [Highridge crime](../../wiki/Politics/Crime-and-Underworld.md#highridge) | Crime | No status label | Common criminal opportunities: caravan robbery, route extortion, document fraud, information brokerage. |
-| [Highridge arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#highridge) | Arms and elite troops | No status label | Elite direction: route guards and high-altitude scouts trained for ambush prevention, escort, signal systems and fighting around narrow passes. |
+| [Highridge government](../../wiki/Politics/Kingdoms-and-Politics.md#highridge) | Government | Provisional | Could be a federation or confederation of cities, route districts, caravan houses, herding territories and old pass communities, whose legitimacy may come from negotiated compacts rather than a single dynasty. |
+| [Highridge caravan organizations](../../wiki/Politics/Guilds.md#highridge-caravan-organizations) | Guild | Working canon | Competing over safe-route certification, tolls, militia protection and maps. |
+| [Highridge crime](../../wiki/Politics/Crime-and-Underworld.md#highridge) | Crime | Working canon | Common criminal opportunities: caravan robbery, route extortion, document fraud, information brokerage. |
+| [Highridge arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#highridge) | Arms and elite troops | Provisional | Elite direction: route guards and high-altitude scouts trained for ambush prevention, escort, signal systems and fighting around narrow passes. |
 
 **Highridge government**
 
@@ -275,9 +275,9 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Deepwood government](../../wiki/Politics/Kingdoms-and-Politics.md#deepwood) | Government | No status label | Likely the least centralized region, with possible layers of local councils, forest wardens, regional assemblies, sacred jurisdictions, market towns and hereditary authorities in some districts. |
-| [Deepwood crime](../../wiki/Politics/Crime-and-Underworld.md#deepwood) | Crime | No status label | Common criminal opportunities: illegal timber, rare plant trade, poaching, hidden-route smuggling. |
-| [Deepwood arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#deepwood) | Arms and elite troops | No status label | Elite direction: rangers and wardens who know terrain, tracking, concealment, river crossings and coordinated small-unit fighting. |
+| [Deepwood government](../../wiki/Politics/Kingdoms-and-Politics.md#deepwood) | Government | Provisional | Likely the least centralized region, with possible layers of local councils, forest wardens, regional assemblies, sacred jurisdictions, market towns and hereditary authorities in some districts. |
+| [Deepwood crime](../../wiki/Politics/Crime-and-Underworld.md#deepwood) | Crime | Working canon | Common criminal opportunities: illegal timber, rare plant trade, poaching, hidden-route smuggling. |
+| [Deepwood arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#deepwood) | Arms and elite troops | Provisional | Elite direction: rangers and wardens who know terrain, tracking, concealment, river crossings and coordinated small-unit fighting. |
 
 **Deepwood government**
 
@@ -300,9 +300,9 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Ironcrest government](../../wiki/Politics/Kingdoms-and-Politics.md#ironcrest) | Government | No status label | Likely more consolidated than before the Convergence, but power is divided among crown and state institutions, mine owners, guilds, town governments, labor organizations and old landed families. |
-| [Ironcrest crime](../../wiki/Politics/Crime-and-Underworld.md#ironcrest) | Crime | No status label | Common criminal opportunities: ore theft, illegal claims, tool and weapon diversion, labor intimidation, debt. |
-| [Ironcrest arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#ironcrest) | Arms and elite troops | No status label | Elite direction: disciplined heavy infantry or engineering troops accustomed to fortifications, mines and confined terrain. |
+| [Ironcrest government](../../wiki/Politics/Kingdoms-and-Politics.md#ironcrest) | Government | Provisional | Likely more consolidated than before the Convergence, but power is divided among crown and state institutions, mine owners, guilds, town governments, labor organizations and old landed families. |
+| [Ironcrest crime](../../wiki/Politics/Crime-and-Underworld.md#ironcrest) | Crime | Working canon | Common criminal opportunities: ore theft, illegal claims, tool and weapon diversion, labor intimidation, debt. |
+| [Ironcrest arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#ironcrest) | Arms and elite troops | Provisional | Elite direction: disciplined heavy infantry or engineering troops accustomed to fortifications, mines and confined terrain. |
 
 **Ironcrest government**
 
@@ -326,9 +326,9 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Greenvale government](../../wiki/Politics/Kingdoms-and-Politics.md#greenvale) | Government | No status label | Could combine a regional monarchy or central authority with estate power, village councils, irrigation associations, cooperatives and market towns. |
-| [Greenvale crime](../../wiki/Politics/Crime-and-Underworld.md#greenvale) | Crime | No status label | Common criminal opportunities: grain theft, land fraud, illegal seed markets, livestock theft, debt enforcement. |
-| [Greenvale arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#greenvale) | Arms and elite troops | No status label | Elite direction: mobile local defense, scouts, or disciplined levy cadres whose strength is logistics and local terrain rather than exotic weaponry. |
+| [Greenvale government](../../wiki/Politics/Kingdoms-and-Politics.md#greenvale) | Government | Provisional | Could combine a regional monarchy or central authority with estate power, village councils, irrigation associations, cooperatives and market towns. |
+| [Greenvale crime](../../wiki/Politics/Crime-and-Underworld.md#greenvale) | Crime | Working canon | Common criminal opportunities: grain theft, land fraud, illegal seed markets, livestock theft, debt enforcement. |
+| [Greenvale arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#greenvale) | Arms and elite troops | Provisional | Elite direction: mobile local defense, scouts, or disciplined levy cadres whose strength is logistics and local terrain rather than exotic weaponry. |
 
 **Greenvale government**
 
@@ -350,9 +350,9 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Sunplains governments](../../wiki/Politics/Kingdoms-and-Politics.md#sunplains) | Government | No status label | The most explicitly plural region: city-states, leagues, estates, ports and rural territories. The Convergence may recognize it externally though it contains several sovereign or semi-sovereign governments. |
-| [Sunplains crime](../../wiki/Politics/Crime-and-Underworld.md#sunplains) | Crime | No status label | Common criminal opportunities: canal corruption, smuggling, merchant fraud, political bribery, protection around ports and markets. |
-| [Sunplains arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#sunplains) | Arms and elite troops | No status label | Elite direction: city-state guards, cavalry where terrain and horse culture support it, professional household troops, or disciplined spear formations. |
+| [Sunplains governments](../../wiki/Politics/Kingdoms-and-Politics.md#sunplains) | Government | Provisional | The most explicitly plural region: city-states, leagues, estates, ports and rural territories. The Convergence may recognize it externally though it contains several sovereign or semi-sovereign governments. |
+| [Sunplains crime](../../wiki/Politics/Crime-and-Underworld.md#sunplains) | Crime | Working canon | Common criminal opportunities: canal corruption, smuggling, merchant fraud, political bribery, protection around ports and markets. |
+| [Sunplains arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#sunplains) | Arms and elite troops | Provisional | Elite direction: city-state guards, cavalry where terrain and horse culture support it, professional household troops, or disciplined spear formations. |
 
 **Sunplains governments**
 
@@ -375,7 +375,7 @@ Grouped by board column.
 | --- | --- | --- | --- |
 | [Port charter and watch](../../wiki/Places/Port.md#neutrality) | Government | Working canon | Port's neutrality is neither sentimental nor perfect: it survives because every major power fears what would happen if a rival controlled it. |
 | [Port crime](../../wiki/Places/Port.md#crime) | Crime | Working canon | Port's scale and legal complexity make it ideal for smuggling, fencing, forgery, rackets, corruption, intelligence brokerage, contraband finance and pirate laundering. It isn't lawless: its underworld exists because its legal economy is enormous. |
-| [Port arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#port) | Arms and elite troops | No status label | Port's best forces are likely specialized: harbor watch, customs officers, fire brigades, marine patrols and riot or public-order units, trained for dense urban environments. |
+| [Port arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#port) | Arms and elite troops | Provisional | Port's best forces are likely specialized: harbor watch, customs officers, fire brigades, marine patrols and riot or public-order units, trained for dense urban environments. |
 
 **Port charter and watch**
 
@@ -404,7 +404,7 @@ Grouped by board column.
 | --- | --- | --- | --- |
 | [Underpass authority](../../wiki/Places/The-Underpass.md#politics) | Government | Working canon | Authority is fragmented among possible enclave councils, guide families, mining fraternities, local militias, trade coalitions and criminal organizations. Surface kingdoms claim some entrances and sections but rarely control the whole network. |
 | [Underpass crime](../../wiki/Places/The-Underpass.md#politics) | Crime | Working canon | Criminal organizations are among the Underpass's possible governing units, and smugglers are exploiting official route closures. |
-| [Underpass arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#underpass) | Arms and elite troops | No status label | Specialized troops use short spears, axes or picks, compact shields, crossbows, helmets, ropes and lamps; long weapons are often impractical. |
+| [Underpass arms](../../wiki/Culture/Weapons-and-Elite-Troops.md#underpass) | Arms and elite troops | Provisional | Specialized troops use short spears, axes or picks, compact shields, crossbows, helmets, ropes and lamps; long weapons are often impractical. |
 
 **Underpass authority**
 
@@ -429,14 +429,14 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [The Economic Council](../../wiki/Politics/Economic-Council.md#core-concept) | Council | No status label | A secret or semi-secret association of wealthy families whose power crosses regional borders. They represent no kingdom; they control economic systems on which all kingdoms depend, and govern through choice architecture rather than command. |
-| [Harvest / Provision Seat](../../wiki/Politics/Economic-Council.md#1-food-and-biological-supply) | Council seat | No status label | The Council's Food and Biological Supply domain (working title: Harvest / Provision Seat). Power doesn't mean owning every farm. The family gains leverage by controlling bottlenecks: storage warehouses, seed credit, bulk contracts, mills, emergency reserves, and financing for large estates and co-ops. |
-| [Materials / Metal Seat](../../wiki/Politics/Economic-Council.md#2-materials-and-production) | Council seat | No status label | The Council's Materials and Production domain (working title: Materials / Metal Seat). Its power spans Ironcrest mines, Deepwood timber and fuel disputes, Highridge demand, Northwind ship fittings, and Sunplains construction. |
-| [Routes / Navigation Seat](../../wiki/Politics/Economic-Council.md#3-routes-and-transport) | Council seat | No status label | The Council's Routes and Transport domain (working title: Routes / Navigation Seat). It can change an economy by making a route expensive rather than formally banning trade. |
-| [Works / Infrastructure Seat](../../wiki/Politics/Economic-Council.md#4-infrastructure) | Council seat | No status label | The Council's Infrastructure domain (working title: Works / Infrastructure Seat). Infrastructure decisions have long tails: a bridge not repaired can redirect trade for decades. |
-| [Treasury / Commerce Seat](../../wiki/Politics/Economic-Council.md#5-finance-and-exchange) | Council seat | No status label | The Council's Finance and Exchange domain (working title: Treasury / Commerce Seat). This may be the Council's most quietly powerful seat, because every other domain sometimes needs capital. |
-| [Lore / Intelligence Seat](../../wiki/Politics/Economic-Council.md#6-knowledge-and-information) | Council seat | No status label | The Council's Knowledge and Information domain (working title: Lore / Intelligence Seat). It should not literally control all knowledge. Its strength is knowing who knows what, buying access, delaying information, and deciding which innovations receive funding or distribution. |
-| [How governments behave](../../wiki/Politics/Kingdoms-and-Politics.md#political-behavior) | Overview | No status label | No two regions need share a political system, and every government answers to the same pressures. That is how the Villain can push states toward war even when the Council wants peace. |
+| [The Economic Council](../../wiki/Politics/Economic-Council.md#core-concept) | Council | Working canon | A secret or semi-secret association of wealthy families whose power crosses regional borders. They represent no kingdom; they control economic systems on which all kingdoms depend, and govern through choice architecture rather than command. |
+| [Harvest / Provision Seat](../../wiki/Politics/Economic-Council.md#1-food-and-biological-supply) | Council seat | Working canon | The Council's Food and Biological Supply domain (working title: Harvest / Provision Seat). Power doesn't mean owning every farm. The family gains leverage by controlling bottlenecks: storage warehouses, seed credit, bulk contracts, mills, emergency reserves, and financing for large estates and co-ops. |
+| [Materials / Metal Seat](../../wiki/Politics/Economic-Council.md#2-materials-and-production) | Council seat | Working canon | The Council's Materials and Production domain (working title: Materials / Metal Seat). Its power spans Ironcrest mines, Deepwood timber and fuel disputes, Highridge demand, Northwind ship fittings, and Sunplains construction. |
+| [Routes / Navigation Seat](../../wiki/Politics/Economic-Council.md#3-routes-and-transport) | Council seat | Working canon | The Council's Routes and Transport domain (working title: Routes / Navigation Seat). It can change an economy by making a route expensive rather than formally banning trade. |
+| [Works / Infrastructure Seat](../../wiki/Politics/Economic-Council.md#4-infrastructure) | Council seat | Working canon | The Council's Infrastructure domain (working title: Works / Infrastructure Seat). Infrastructure decisions have long tails: a bridge not repaired can redirect trade for decades. |
+| [Treasury / Commerce Seat](../../wiki/Politics/Economic-Council.md#5-finance-and-exchange) | Council seat | Working canon | The Council's Finance and Exchange domain (working title: Treasury / Commerce Seat). This may be the Council's most quietly powerful seat, because every other domain sometimes needs capital. |
+| [Lore / Intelligence Seat](../../wiki/Politics/Economic-Council.md#6-knowledge-and-information) | Council seat | Working canon | The Council's Knowledge and Information domain (working title: Lore / Intelligence Seat). It should not literally control all knowledge. Its strength is knowing who knows what, buying access, delaying information, and deciding which innovations receive funding or distribution. |
+| [How governments behave](../../wiki/Politics/Kingdoms-and-Politics.md#political-behavior) | Overview | Provisional | No two regions need share a political system, and every government answers to the same pressures. That is how the Villain can push states toward war even when the Council wants peace. |
 
 **The Economic Council**
 
@@ -515,16 +515,16 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [The nine faiths](../../wiki/Politics/Religions.md#religions) | Overview | No status label | Nine major trans-regional traditions that don't map neatly onto kingdoms. Each should have local schools, reform movements, institutions, charities, political interests and internal disputes. |
-| [The Cyclic Order](../../wiki/Politics/Religions.md#1-the-cyclic-order) | Faith | No status label | Core: Existence moves through cycles of birth, death, renewal, time, balance and moral consequence. |
-| [Path of the Great Weaver](../../wiki/Politics/Religions.md#2-path-of-the-great-weaver) | Faith | No status label | Core: Beings, places, ancestors, animals and actions are threads in a living weave. |
-| [The Radiant Path](../../wiki/Politics/Religions.md#3-the-radiant-path) | Faith | No status label | Core: Moral life is struggle toward courage, justice, truth and wisdom against cruelty, lies and discord. |
-| [The Eternal Forge](../../wiki/Politics/Religions.md#4-the-eternal-forge) | Faith | No status label | Core: Creation and destruction are linked; character and society are shaped through disciplined transformation. |
-| [The Illuminated Circle](../../wiki/Politics/Religions.md#5-the-illuminated-circle) | Faith | No status label | Core: Knowledge, reason, inquiry and intellectual freedom are sacred values. |
-| [The Silent Whisper](../../wiki/Politics/Religions.md#6-the-silent-whisper) | Faith | No status label | Core: Silence, uncertainty, hidden truths, patience and introspection. |
-| [The Harmonious Path](../../wiki/Politics/Religions.md#7-the-harmonious-path) | Faith | No status label | Core: Social responsibility, service, restraint, conflict resolution and balance. |
-| [The Dual Flame](../../wiki/Politics/Religions.md#8-the-dual-flame) | Faith | No status label | Core: Moral integrity comes from understanding and balancing constructive and destructive impulses. |
-| [The Infinite Compass](../../wiki/Politics/Religions.md#9-the-infinite-compass) | Faith | No status label | Core: Life is journey, direction, exploration and self-discovery. |
+| [The nine faiths](../../wiki/Politics/Religions.md#religions) | Overview | Working canon | Nine major trans-regional traditions that don't map neatly onto kingdoms. Each should have local schools, reform movements, institutions, charities, political interests and internal disputes. |
+| [The Cyclic Order](../../wiki/Politics/Religions.md#1-the-cyclic-order) | Faith | Working canon | Core: Existence moves through cycles of birth, death, renewal, time, balance and moral consequence. |
+| [Path of the Great Weaver](../../wiki/Politics/Religions.md#2-path-of-the-great-weaver) | Faith | Working canon | Core: Beings, places, ancestors, animals and actions are threads in a living weave. |
+| [The Radiant Path](../../wiki/Politics/Religions.md#3-the-radiant-path) | Faith | Working canon | Core: Moral life is struggle toward courage, justice, truth and wisdom against cruelty, lies and discord. |
+| [The Eternal Forge](../../wiki/Politics/Religions.md#4-the-eternal-forge) | Faith | Working canon | Core: Creation and destruction are linked; character and society are shaped through disciplined transformation. |
+| [The Illuminated Circle](../../wiki/Politics/Religions.md#5-the-illuminated-circle) | Faith | Working canon | Core: Knowledge, reason, inquiry and intellectual freedom are sacred values. |
+| [The Silent Whisper](../../wiki/Politics/Religions.md#6-the-silent-whisper) | Faith | Working canon | Core: Silence, uncertainty, hidden truths, patience and introspection. |
+| [The Harmonious Path](../../wiki/Politics/Religions.md#7-the-harmonious-path) | Faith | Working canon | Core: Social responsibility, service, restraint, conflict resolution and balance. |
+| [The Dual Flame](../../wiki/Politics/Religions.md#8-the-dual-flame) | Faith | Working canon | Core: Moral integrity comes from understanding and balancing constructive and destructive impulses. |
+| [The Infinite Compass](../../wiki/Politics/Religions.md#9-the-infinite-compass) | Faith | Working canon | Core: Life is journey, direction, exploration and self-discovery. |
 | [Magic and relics](../../wiki/Magic.md#the-decision) | Overview | Working canon | Real but deniable: a handful of old community relics seem to do small, moral things, but every effect has an ordinary explanation within reach and the story never confirms it. No spellcasting. |
 
 **The nine faiths**
@@ -617,11 +617,11 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Guilds](../../wiki/Politics/Guilds.md#core-role) | Overview | No status label | Part economic institution, part professional community, part political lobby, part welfare system, and sometimes part coercive cartel. They matter because pre-modern governments can't directly administer every profession and service. |
-| [Metalworking guild factions](../../wiki/Politics/Guilds.md#metalworking-guild-factions) | Guild | No status label | Some want controlled production and traditional apprenticeship; others want broader output and new methods. Council-linked investors may fund one faction to restrain another. |
-| [Agricultural guilds and cooperatives](../../wiki/Politics/Guilds.md#agricultural-guildscooperatives) | Guild | No status label | Fighting over seed control, storage, land consolidation, pricing and new crop strains. |
-| [Navigator and shipping guilds](../../wiki/Politics/Guilds.md#navigator-and-shipping-guilds) | Guild | No status label | Debating convoy systems, piracy response, Port influence and route exclusivity. |
-| [Builders and infrastructure guilds](../../wiki/Politics/Guilds.md#builders-and-infrastructure-guilds) | Guild | No status label | Seeking long contracts and legal control over standards. Their delays can become political weapons even when caused by ordinary disputes. |
+| [Guilds](../../wiki/Politics/Guilds.md#core-role) | Overview | Working canon | Part economic institution, part professional community, part political lobby, part welfare system, and sometimes part coercive cartel. They matter because pre-modern governments can't directly administer every profession and service. |
+| [Metalworking guild factions](../../wiki/Politics/Guilds.md#metalworking-guild-factions) | Guild | Working canon | Some want controlled production and traditional apprenticeship; others want broader output and new methods. Council-linked investors may fund one faction to restrain another. |
+| [Agricultural guilds and cooperatives](../../wiki/Politics/Guilds.md#agricultural-guildscooperatives) | Guild | Working canon | Fighting over seed control, storage, land consolidation, pricing and new crop strains. |
+| [Navigator and shipping guilds](../../wiki/Politics/Guilds.md#navigator-and-shipping-guilds) | Guild | Working canon | Debating convoy systems, piracy response, Port influence and route exclusivity. |
+| [Builders and infrastructure guilds](../../wiki/Politics/Guilds.md#builders-and-infrastructure-guilds) | Guild | Working canon | Seeking long contracts and legal control over standards. Their delays can become political weapons even when caused by ordinary disputes. |
 | [Fighters' guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) | Guild | Provisional | Trains professional fighters, whose rank comes from real service guarding caravans and dealing with local threats; towns and rulers hire it to train militias. Provisional (D24); the legacy's Ironclad Warriors' Guild is its working name. |
 | [Assassin's Guild](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) | Guild | Provisional | In the legacy notes; kept out of the stories and not developed further (D24). |
 | [Spy guilds](../../wiki/Politics/Guilds.md#armed-and-clandestine-organizations) | Guild | Provisional | Not one body but a loose set of city networks that sell information to anyone, the Council included. Provisional (D24). |
@@ -742,8 +742,8 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [The underworld](../../wiki/Politics/Crime-and-Underworld.md#principle) | Overview | No status label | Crime exists because law, markets, borders, poverty, opportunity, corruption and demand exist. Criminal groups give some members real benefits while imposing serious costs on victims and communities. |
-| [Weapons and elite troops](../../wiki/Culture/Weapons-and-Elite-Troops.md#principle) | Overview | No status label | Weapons should be reusable, maintainable, culturally plausible and suited to the environment. Elite troops stand out by training and discipline, not enormous weapons or supernatural competence. |
+| [The underworld](../../wiki/Politics/Crime-and-Underworld.md#principle) | Overview | Working canon | Crime exists because law, markets, borders, poverty, opportunity, corruption and demand exist. Criminal groups give some members real benefits while imposing serious costs on victims and communities. |
+| [Weapons and elite troops](../../wiki/Culture/Weapons-and-Elite-Troops.md#principle) | Overview | Provisional | Weapons should be reusable, maintainable, culturally plausible and suited to the environment. Elite troops stand out by training and discipline, not enormous weapons or supernatural competence. |
 
 **The underworld**
 

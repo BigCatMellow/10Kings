@@ -4,7 +4,7 @@
 
 **Provenance/reference only — not setting canon.**
 
-This page records the 2026-09-22 source-reconciliation pass. It exists so a future agent can tell what was reviewed, what was promoted, what was deliberately left provisional, and which large files were duplicate packaging rather than separate authorities.
+This page records every import into the wiki and its disposition, from the 2026-09-22 source-reconciliation pass onward. It exists so a future agent can tell what was reviewed, what was promoted, what was deliberately left provisional, and which large files were duplicate packaging rather than separate authorities.
 
 For operating rules, see [../../AGENTS.md](../../AGENTS.md).
 
@@ -184,15 +184,15 @@ The import did **not** settle these:
 
 - exact continental map and Port location;
 - exact pre-Convergence chronology;
-- final mythology/peoples model where legacy material conflicts with the twin-suns/current-world framing;
+- final mythology/peoples model where legacy material conflicts with the twin-suns/current-world framing (that the faiths have gods was settled 2026-11-04, [D25](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); the creation myth is still open);
 - final Council seat names, membership and inheritance (seat count and houses settled 2026-09-29, §12; inheritance still open);
 - final magic prevalence and artifact rules (settled 2026-09-29, §12);
-- which named festivals, wars, towns and dishes graduate from provisional texture into established canon.
+- which named festivals, wars, towns and dishes graduate from provisional texture into established canon (Seven Hill, the Overpath and the Ridge-Roamers became provisional by [D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); Three Moon is yearly, per the [2026-11 review](World-Review-2026-11.md)).
 
 Do not promote them merely because an old compendium states them confidently.
 
 
-### 8. 2026-09-24 recipe development conversation
+### 8a. 2026-09-24 recipe development conversation
 
 **Source:** live culinary worldbuilding work in ChatGPT, developed from the existing Food and Food Diaspora principles.
 
@@ -361,7 +361,7 @@ bt 7274 asked for the [world seeds](../Sunday-Morning/Stories/Story-Seeds.md#que
 
 **Later disposition, same day.** bt 7274 approved the leans ([D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)). Promoted as **provisional** to their owners: the legacy Overpass as the [Overpath](../Places/The-Spine.md#the-overpath); the [Ridge-Roamers](../Culture/Nomads.md#the-ridge-roamers) (the other legacy bands stay unpromoted); the [named guild roster](../Politics/Guilds.md#the-named-guilds) and the fighters' and spy guilds' working core, without the Collegium Arcanum, guild gods, game ranks or costume names; and each faith's working life on [Religions](../Politics/Religions.md#working-life-and-gods), without the faith-per-kingdom mapping or the named gods. [Seven Hill](../Places/Seven-Hill.md) has no legacy source; its placement is bt 7274's ruling. The connections were checked with the [Spiderweb Audit](Spiderweb-Audit.md).
 
-### 8. Nomadic peoples conversation recovery (2026-11-04)
+### 8b. Nomadic peoples conversation recovery (2026-11-04)
 
 **Source:** Recovered ChatGPT conversation summaries and already-preserved Volume 04, Part 3 (`Nomads_-_Types.md`, `Nomads_-_Appalachian.md`, `Nomad_-_Combined_Cultures.md`).
 
@@ -402,3 +402,13 @@ bt 7274 asked for all story-related legacy material (Volumes 11–12, the Danzig
 **Disposition:** Non-canon cultural research. [Original Cultural Systems — Batch 2](Original-Cultural-Systems-Batch-2.md) provides eight **unapproved**, independent Two Sons institutional prototypes derived from local material problems, with costs, disagreements, history, failure scenarios, transmission and canon-owner links. Historical notes and prior casebooks are left unchanged. These pages were linked from [Cultural Research Library](Cultural-Research-Library.md) and [Cultural Inspiration](../Culture/Culture-and-Influence.md).
 
 **Authority:** No new people, settlements, rights, official laws, routes or cultural practices are established. Any future adoption requires author/owner review against world rules, technology, geography, existing institutions and internal community variation. UNESCO nomination summaries do not substitute for living community perspectives or peer-reviewed ethnographies.
+
+## 2026-11 world review
+
+The [World Review, 2026-11](World-Review-2026-11.md) checked the whole wiki against the rulings through D25 and recorded what was done. For this register:
+
+- **D25 later disposition:** the legacy pantheons ([Volume 06](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md)) came into [Religions](../Politics/Religions.md#working-life-and-gods) as provisional working names, believed in and never confirmed. The **Fell Pantheon** (soul-binding, undead) does not come in; at most it is heresy talk between faiths.
+- **§11 later disposition:** the named guild roster from Volume 08 was promoted as provisional by D24; Volume 12's plan-specific guilds are still unused.
+- **§5 not promoted:** World Dynamics' Port internal factions and slang, its children's rhymes and its wedding customs were never evaluated; they are now on the [legacy reconciliation backlog](README.md#legacy-reconciliation-backlog).
+- **Three Moon:** the recovered proposal's "once every seven years" is kept as legacy provenance; the festival is yearly, following the stories (lean).
+- **Unevaluated legacy material** worth keeping is listed, with file and anchor, on the [backlog](README.md#legacy-reconciliation-backlog), so it isn't lost.

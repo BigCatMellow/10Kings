@@ -1,5 +1,9 @@
 # Crime and the Underworld
 
+## Status
+
+**Working canon at the pattern level, on thin evidence.** The page comes from the first seed of the wiki and has no ruling behind it; its patterns follow [World Rules](../World-Rules.md) §8 and §10. Named groups and regional details are provisional. *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Principle
 
 Crime exists because law, markets, borders, poverty, opportunity, corruption, and demand exist.

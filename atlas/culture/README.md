@@ -386,7 +386,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
-| [Border-town culture](../../wiki/Places/Border-Towns.md#principle) | Culture | No status label | Border towns aren't diluted versions of two cultures; over generations they become cultures of their own. Marriage crosses political lines, children grow up bilingual, guild jurisdictions overlap, law gets negotiated, and loyalty may be local before regional. |
+| [Border-town culture](../../wiki/Places/Border-Towns.md#principle) | Culture | Working canon | Border towns aren't diluted versions of two cultures; over generations they become cultures of their own. Marriage crosses political lines, children grow up bilingual, guild jurisdictions overlap, law gets negotiated, and loyalty may be local before regional. |
 
 **Border-town culture**
 
@@ -408,7 +408,7 @@ Grouped by board column.
 | [Cross-regional marriage](../../wiki/Culture/Regional-Social-Dynamics.md#cross-regional-marriage) | Scene texture | Provisional scene texture | Mixed families reveal culture as negotiated rather than pure. |
 | [What people avoid saying openly](../../wiki/Culture/Regional-Social-Dynamics.md#what-people-avoid-saying-openly) | Scene texture | Provisional scene texture | Power changes prejudice. A person may privately resent a region's naval, military, financial or religious influence while avoiding the insult in front of someone who can retaliate economically or socially. |
 | [What festivals do beyond the day](../../wiki/Culture/Festivals-and-Seasonal-Life.md#cross-regional-effects) | Scene texture | Working cultural framework | Festivals create second-order consequences. |
-| [How names work](../../wiki/Culture/Naming.md#rule) | Naming system | No status label | Names should feel as if they have histories: the logic of real place naming rather than random fantasy phonetics. The language families are now set; exact naming systems remain open. |
+| [How names work](../../wiki/Culture/Naming.md#rule) | Naming system | Working canon | Names should feel as if they have histories: the logic of real place naming rather than random fantasy phonetics. The language families are now set; exact naming systems remain open. |
 
 **Nomads and itinerant peoples**
 

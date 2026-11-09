@@ -1,5 +1,9 @@
 # Cultural Inspiration
 
+## Status
+
+**Working method, not canon content.** How real-world inspiration is used: draw globally, copy nowhere whole ([World Rules](../World-Rules.md#14-draw-globally-copy-nowhere-whole)). Each region's inspiration pool is owned by its region page. *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Guiding rule
 
 The regions are **not fantasy versions of single real cultures**.

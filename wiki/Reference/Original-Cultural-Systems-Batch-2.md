@@ -2,7 +2,7 @@
 
 ## Status and test criteria
 
-**PROVISIONAL DESIGN EXPERIMENTS ONLY — NOT CANON.** Eight new local, original institutional prototypes, developed from fictional problems. These are *not* adaptations of named sacred practices and do not rename historical cultures. The parallel [Obscure Social Systems Research](Obscure-Social-Systems-Batch-2.md) shows how many different mechanisms can address governance, risk, memory, apprenticeship and craft. The prototypes here start from **Two Sons constraints** and must stand alone without the external examples.
+**Design experiments, non-canon.** Eight new local, original institutional prototypes, developed from fictional problems. These are *not* adaptations of named sacred practices and do not rename historical cultures. The parallel [Obscure Social Systems Research](Obscure-Social-Systems-Batch-2.md) shows how many different mechanisms can address governance, risk, memory, apprenticeship and craft. The prototypes here start from **Two Sons constraints** and must stand alone without the external examples.
 
 **Authority:** Before promotion confirm [World Rules](../World-Rules.md), setting geography, historical naming, and each linked wiki owner. No village, road, heraldic device, feast, law, ritual or office is established by this page.
 

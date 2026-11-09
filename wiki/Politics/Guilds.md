@@ -1,5 +1,9 @@
 # Guilds
 
+## Status
+
+**Working canon for the pattern; the named guilds are provisional.** What guilds are and want is working canon; the named roster and the armed and clandestine guilds' working core came in as provisional by bt 7274's ruling ([D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)). *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Core role
 
 Guilds are part economic institution, part professional community, part political lobby, part welfare system, and sometimes part coercive cartel.

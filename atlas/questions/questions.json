@@ -121,6 +121,24 @@
           "always": false
         }
       ]
+    },
+    "town": {
+      "rows": [
+        {
+          "label": "Open questions",
+          "always": false
+        }
+      ],
+      "facts": []
+    },
+    "faith": {
+      "rows": [
+        {
+          "label": "Open questions",
+          "always": false
+        }
+      ],
+      "facts": []
     }
   },
   "nodes": [
@@ -573,46 +591,14 @@
       "minor": true
     },
     {
-      "id": "oq-name-and-self-name-of-the-appalachian-influenced",
-      "kind": "question",
-      "label": "Nomadic peoples: name and self-name of the Appalachian-influenced mobile network",
-      "status": "No status label",
-      "lane": "across",
-      "section": "Open questions",
-      "src": "Open-Questions.md#nomadic-peoples",
-      "text": "Open question under Nomadic peoples: Name and self-name of the Appalachian-influenced mobile network.",
-      "short_text": "Nomadic peoples",
-      "facts": {
-        "Question": "Name and self-name of the Appalachian-influenced mobile network.",
-        "Section": "Nomadic peoples"
-      },
-      "minor": true
-    },
-    {
-      "id": "oq-whether-it-is-one-people-or-a-cultural-economic",
-      "kind": "question",
-      "label": "Nomadic peoples: whether it is one people or a cultural/economic network containing multiple peoples",
-      "status": "No status label",
-      "lane": "across",
-      "section": "Open questions",
-      "src": "Open-Questions.md#nomadic-peoples",
-      "text": "Open question under Nomadic peoples: Whether it is one people or a cultural/economic network containing multiple peoples.",
-      "short_text": "Nomadic peoples",
-      "facts": {
-        "Question": "Whether it is one people or a cultural/economic network containing multiple peoples.",
-        "Section": "Nomadic peoples"
-      },
-      "minor": true
-    },
-    {
       "id": "oq-seasonal-circuits-and-legal-status",
       "kind": "question",
-      "label": "Nomadic peoples: seasonal circuits and legal status",
+      "label": "Nomadic peoples: seasonal circuits and the legal status of mobile peoples",
       "status": "No status label",
       "lane": "across",
       "section": "Open questions",
       "src": "Open-Questions.md#nomadic-peoples",
-      "text": "Open question under Nomadic peoples: Seasonal circuits and legal status.",
+      "text": "Seasonal circuits in detail, and the legal status of mobile peoples.",
       "short_text": "Nomadic peoples",
       "facts": {
         "Question": "Seasonal circuits and legal status.",
@@ -635,6 +621,86 @@
         "Section": "Current events"
       },
       "minor": true
+    },
+    {
+      "id": "oq-greenvale-highridge-border",
+      "kind": "question",
+      "label": "Map: does Greenvale directly border Highridge?",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#map",
+      "text": "Whether Greenvale directly borders Highridge.",
+      "short_text": "Whether Greenvale directly borders Highridge.",
+      "minor": true,
+      "facts": {
+        "Question": "Whether Greenvale directly borders Highridge.",
+        "Section": "Map"
+      }
+    },
+    {
+      "id": "oq-seven-hill-overpath",
+      "kind": "question",
+      "label": "Map: Seven Hill's pass; the Overpath's keepers and route",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#map",
+      "text": "Which pass Seven Hill guards.",
+      "short_text": "Which pass Seven Hill guards.",
+      "minor": true,
+      "facts": {
+        "Question": "Which pass Seven Hill guards.",
+        "Section": "Map"
+      }
+    },
+    {
+      "id": "oq-gods-liturgical-register",
+      "kind": "question",
+      "label": "Faiths: are the gods' names a shared liturgical register?",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#faiths",
+      "text": "Whether the gods' Latinate names are a shared liturgical register.",
+      "short_text": "Whether the gods' Latinate names are a shared liturgical register.",
+      "minor": true,
+      "facts": {
+        "Question": "Whether the gods' Latinate names are a shared liturgical register.",
+        "Section": "Faiths"
+      }
+    },
+    {
+      "id": "oq-creation-myth",
+      "kind": "question",
+      "label": "Faiths: the creation myth and the Sons",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#faiths",
+      "text": "The creation myth.",
+      "short_text": "The creation myth.",
+      "minor": true,
+      "facts": {
+        "Question": "The creation myth.",
+        "Section": "Faiths"
+      }
+    },
+    {
+      "id": "oq-ecology-owner",
+      "kind": "question",
+      "label": "Ecology: no owner for flora and fauna",
+      "status": "No status label",
+      "lane": "across",
+      "section": "Open questions",
+      "src": "Open-Questions.md#ecology",
+      "text": "Flora and fauna have no owner page yet.",
+      "short_text": "Flora and fauna have no owner page yet.",
+      "minor": true,
+      "facts": {
+        "Question": "Flora and fauna have no owner page yet.",
+        "Section": "Ecology"
+      }
     }
   ],
   "edges": [
@@ -980,34 +1046,12 @@
       "chipBack": "Open questions"
     },
     {
-      "from": "oq-name-and-self-name-of-the-appalachian-influenced",
-      "to": "nomads",
-      "layer": "oq",
-      "type": "asks about",
-      "basis": "stated",
-      "quote": "Name and self-name of the Appalachian-influenced mobile network.",
-      "src": "Open-Questions.md#nomadic-peoples",
-      "chip": "Asks about",
-      "chipBack": "Open questions"
-    },
-    {
-      "from": "oq-whether-it-is-one-people-or-a-cultural-economic",
-      "to": "nomads",
-      "layer": "oq",
-      "type": "asks about",
-      "basis": "stated",
-      "quote": "Whether it is one people or a cultural/economic network containing multiple peoples.",
-      "src": "Open-Questions.md#nomadic-peoples",
-      "chip": "Asks about",
-      "chipBack": "Open questions"
-    },
-    {
       "from": "oq-seasonal-circuits-and-legal-status",
       "to": "nomads",
       "layer": "oq",
       "type": "asks about",
       "basis": "stated",
-      "quote": "Seasonal circuits and legal status.",
+      "quote": "Seasonal circuits in detail, and the legal status of mobile peoples.",
       "src": "Open-Questions.md#nomadic-peoples",
       "chip": "Asks about",
       "chipBack": "Open questions"
@@ -1018,8 +1062,63 @@
       "layer": "oq",
       "type": "asks about",
       "basis": "stated",
-      "quote": "They should be audited once the map and villain plan are finalized.",
+      "quote": "They should still be audited once the map and villain plan are finalized.",
       "src": "Open-Questions.md#current-events",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-greenvale-highridge-border",
+      "to": "greenvale",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Whether Greenvale directly borders Highridge",
+      "src": "Open-Questions.md#map",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-seven-hill-overpath",
+      "to": "sevenhill",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Which pass Seven Hill guards",
+      "src": "Open-Questions.md#map",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-gods-liturgical-register",
+      "to": "pw-faith-radiant",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Whether the gods' Latinate names are a shared liturgical register",
+      "src": "Open-Questions.md#faiths",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-creation-myth",
+      "to": "pw-faith-weaver",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "The creation myth",
+      "src": "Open-Questions.md#faiths",
+      "chip": "Asks about",
+      "chipBack": "Open questions"
+    },
+    {
+      "from": "oq-ecology-owner",
+      "to": "greenvale",
+      "layer": "oq",
+      "type": "asks about",
+      "basis": "stated",
+      "quote": "Flora and fauna have no owner page yet",
+      "src": "Open-Questions.md#ecology",
       "chip": "Asks about",
       "chipBack": "Open questions"
     }

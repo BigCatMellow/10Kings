@@ -1,5 +1,9 @@
 # Architecture
 
+## Status
+
+**Working canon at the pattern level.** The principle and the questions are working canon; each region's building details are owned by its region page, and Port's and the border towns' by their place pages. *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Principle
 
 Architecture is accumulated adaptation.

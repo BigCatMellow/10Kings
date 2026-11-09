@@ -1,5 +1,9 @@
 # Border Towns
 
+## Status
+
+**Working canon for the principle and the six examples; the name bank is provisional.** The six established working examples are cited by [Geography](../Geography-and-Connections.md#border-towns) and the stories. *(Labelled in the [2026-11 review](../Reference/World-Review-2026-11.md#status-labels).)*
+
 ## Principle
 
 Border towns are not diluted versions of two cultures. Over generations they become cultures of their own.
