@@ -13,7 +13,7 @@ The whole setting on one board. Group it by region or by kind, show one part or 
 
 | Part | Heading on the board | Things | Connections | Page |
 | --- | --- | --- | --- | --- |
-| 1. Regions and Geography | Geography | 47 | 71 | [regions](../regions/README.md) |
+| 1. Regions and Geography | Geography | 92 | 113 | [regions](../regions/README.md) |
 | 2. Culture | Culture | 57 | 34 | [culture](../culture/README.md) |
 | 3. Food | Food | 73 | 129 | [food](../food/README.md) |
 | 4. Power | Power | 65 | 57 | [power](../power/README.md) |

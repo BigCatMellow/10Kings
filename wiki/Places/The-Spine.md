@@ -89,4 +89,4 @@ The Spine is where geography becomes politics.
 
 It should generate hard choices about which route remains open, who pays to maintain it, who controls access, and what happens when nature ignores human borders.
 
-**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Mother's Cradle](Places-of-Interest.md#the-mothers-cradle), [the Speaking Cliff](Places-of-Interest.md#the-speaking-cliff), [Eagle's Summit and Shimmerfall Ravine](Places-of-Interest.md#eagles-summit-and-shimmerfall-ravine).
+**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [D36](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [The Mother's Cradle](Places-of-Interest.md#the-mothers-cradle), [The Speaking Cliff](Places-of-Interest.md#the-speaking-cliff), [The Pass Springs](Places-of-Interest.md#the-pass-springs), [The Storm Bell](Places-of-Interest.md#the-storm-bell), [Eagle's Summit and Shimmerfall Ravine](Places-of-Interest.md#eagles-summit-and-shimmerfall-ravine), [Seven Hill](Places-of-Interest.md#seven-hill).

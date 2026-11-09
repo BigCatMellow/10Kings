@@ -67,6 +67,8 @@ Different branches disagree over whether hidden Council rule is a necessary comp
 
 **Gods** (provisional, [D25](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); names from the legacy notes): aspects of one Eternal Radiance: Justitia (justice), Valorus (courage), Luxphera (light and truth) and Concordia (harmony).
 
+**Holy site** (provisional, [D36](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Dawn Hill](../Places/Places-of-Interest.md#the-dawn-hill).
+
 ## 4. The Eternal Forge
 
 Core: creation and destruction are linked; character and society are shaped through disciplined transformation.
@@ -84,7 +86,7 @@ Its guild-adjacent institutions are becoming active in labor and quality dispute
 
 **Gods** (provisional, [D25](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); names from the legacy notes): Vulcanestra (fire and transformation), Montara (earth and stone, shared with the Weaver), Fortificus (strength and endurance) and Artesius (craft and invention).
 
-**Holy site** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Burning Hill](../Places/Places-of-Interest.md#the-burning-hill).
+**Holy site** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Burning Hill](../Places/Places-of-Interest.md#the-burning-hill); also [the Star Iron](../Places/Places-of-Interest.md#the-star-iron).
 
 ## 5. The Illuminated Circle
 
@@ -104,6 +106,8 @@ Scholars are collecting contradictory trade and government records. Some may be 
 
 **Gods** (provisional, [D25](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); names from the legacy notes): Omnia (all knowledge, with book and quill), Liberion (freedom of thought), Epistemia (inquiry) and Logos (reason).
 
+**Holy site** (provisional, [D36](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Argument House](../Places/Places-of-Interest.md#the-argument-house).
+
 ## 6. The Silent Whisper
 
 Core: silence, uncertainty, hidden truths, patience, and introspection.
@@ -121,7 +125,7 @@ Some custodians believe dangerous truths should be withheld until society can su
 
 **Gods** (provisional, [D25](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); names from the legacy notes): Noxiquill (secrets and the night), Silentus (stillness), Mysterion (paradox) and Arcanus (hidden knowledge).
 
-**Holy site** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Tide Road](../Places/Places-of-Interest.md#the-tide-road).
+**Holy site** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Tide Road](../Places/Places-of-Interest.md#the-tide-road); its pilgrims also walk to [the Black Pool](../Places/Places-of-Interest.md#the-black-pool) and, by lean, [the Mother's Cradle](../Places/Places-of-Interest.md#the-mothers-cradle).
 
 ## 7. The Harmonious Path
 
@@ -139,6 +143,8 @@ Local Harmonious communities are building parallel mutual-aid and arbitration sy
 
 **Gods** (provisional, [D25](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); names from the legacy notes): Concordia (unity and community), Harmonia (balance), Serenica (inner peace) and Temperantia (moderation).
 
+**Holy site** (provisional, [D36](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Reconciliation Bridge](../Places/Places-of-Interest.md#the-reconciliation-bridge).
+
 ## 8. The Dual Flame
 
 Core: moral integrity comes from understanding and balancing constructive and destructive impulses.
@@ -155,6 +161,8 @@ Its counselors are seeing similar fear, anger, and radicalization patterns acros
 **Working life** (provisional, [D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-dual-flame)): Followers look back on the day at dawn and dusk, and may write down their wrongs and burn the page. A yearly festival lights twin bonfires; an overnight vigil around one fire is for telling one's struggles and renewing vows; at the equinox there is silence and then a shared feast. Its temples are built in two halves, one light and one dark. It has a keeper tradition that tends sacred fires, a stricter reforming tradition, and a controversial one that holds the dark must be explored to be understood.
 
 **Gods** (provisional, [D25](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); names from the legacy notes): Thalos (discipline), Sereia (passion), Valoron (courage and honor), Nefari (the tempter) and Lysivere (the balancekeeper, holding both flames).
+
+**Holy site** (provisional, [D36](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Rocking Stone](../Places/Places-of-Interest.md#the-rocking-stone).
 
 ## 9. The Infinite Compass
 

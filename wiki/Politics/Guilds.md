@@ -157,6 +157,8 @@ Hiring halls with a job board and a network of inns for travelling hands: escort
 
 A merchants' consortium that runs local markets, weights, measures and fair prices, alongside the Seven Seas guild's long-distance trade; and scribe and notary guilds that keep records, translations and legal documents ([Records, Literacy and Authentication](../Records-Literacy-and-Authentication.md)).
 
+Their oldest books are in [the Ledger Vault](../Places/Places-of-Interest.md#the-ledger-vault) (provisional, [D36](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)).
+
 ## Guild interaction with the Council
 
 The Council does not "own the guilds."

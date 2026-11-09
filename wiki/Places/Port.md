@@ -131,7 +131,7 @@ Port is a miniature of the whole world.
 
 Every regional conflict can appear here in compressed form, but Port-born people experience those conflicts differently because their survival depends on keeping incompatible groups inside one functioning city.
 
-**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Old Light](Places-of-Interest.md#the-old-light), [the Sitting Kings](Places-of-Interest.md#the-sitting-kings), [the Head in the Square](Places-of-Interest.md#the-head-in-the-square).
+**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [D36](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [The Old Light](Places-of-Interest.md#the-old-light), [The Sitting Kings](Places-of-Interest.md#the-sitting-kings), [Stationers' Row](Places-of-Interest.md#stationers-row), [The Stair of Flags](Places-of-Interest.md#the-stair-of-flags), [The Floating Market](Places-of-Interest.md#the-floating-market), [The Seizure Warehouse](Places-of-Interest.md#the-seizure-warehouse).
 
 ## Legacy research
 

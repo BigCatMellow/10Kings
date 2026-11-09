@@ -148,4 +148,4 @@ Northwind lets the story ask: **when survival requires cooperation, who gets to 
 
 Its social strength can become political vulnerability when false information changes who people believe threatens that group.
 
-**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Tide Road](../Places/Places-of-Interest.md#the-tide-road), [the Ice Halls](../Places/Places-of-Interest.md#the-ice-halls).
+**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [D36](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [The Tide Road](../Places/Places-of-Interest.md#the-tide-road), [The Ice Halls](../Places/Places-of-Interest.md#the-ice-halls), [The Rescue Houses](../Places/Places-of-Interest.md#the-rescue-houses), [The Burned Strand](../Places/Places-of-Interest.md#the-burned-strand), [The Moot Isle](../Places/Places-of-Interest.md#the-moot-isle), [The Seafarer's Beacon](../Places/Places-of-Interest.md#the-seafarers-beacon), [Icefang Fjord](../Places/Places-of-Interest.md#icefang-fjord).

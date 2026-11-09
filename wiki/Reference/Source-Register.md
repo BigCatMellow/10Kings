@@ -422,4 +422,10 @@ The [World Review, 2026-11](World-Review-2026-11.md) checked the whole wiki agai
 - **Already on the wiki:** Eagle's Summit and Shimmerfall Ravine ([The Spine](../Places/The-Spine.md#the-overpath)).
 - **Merged:** Deepwood's "Great Eldertree" (a colossal sacred tree) gives way to bt 7274's own One Tree, a forest grown from one root.
 - **Not promoted:** the industrial and modern landmarks (Steelspire Tower, the Innovator's Tower, the Green Dome, the Grand Bazaar Hall and the like). They don't fit the world's technology or World Rules. The same goes for "Moonlit Hollow", a valley "in perpetual twilight" whose magic isn't deniable.
+- **Second pass (D36), also promoted as provisional:**
+  - Northwind's Seafarer's Beacon and Icefang Fjord ([Volume 01](../../legacy-notes/2026-09-22/consolidated-package/01_Foundations_World_Myth_History.md)).
+  - Greenvale's Seed Vault, as the Seed House.
+  - The Sunplains "Scholar's Library", as the Argument House.
+  - The Underpass's Rockfall Memorial Days and Lanternlight trade fair, as the Rockfall Stones and the Lantern Fair Cavern ([backlog 1](README.md#legacy-reconciliation-backlog)).
+  - The Great Foundry Fires stay unpromoted. [The Black Field](../Places/Places-of-Interest.md#the-black-field) points at them without settling what burned.
 

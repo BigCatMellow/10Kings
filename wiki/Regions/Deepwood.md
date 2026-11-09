@@ -150,4 +150,4 @@ Deepwood is ideal for examining **who gets to define stewardship**.
 
 Outsiders may be wrong to see forest protection as irrational obstruction; locals may also use "tradition" to conceal monopolies, inequality, or political control.
 
-**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [The One Tree](../Places/Places-of-Interest.md#the-one-tree), [the Count Stones](../Places/Places-of-Interest.md#the-count-stones).
+**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [D36](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [The One Tree](../Places/Places-of-Interest.md#the-one-tree), [The Quiet Villages](../Places/Places-of-Interest.md#the-quiet-villages), [The Canopy Road](../Places/Places-of-Interest.md#the-canopy-road), [The Black Pool](../Places/Places-of-Interest.md#the-black-pool), [The Telling Tree](../Places/Places-of-Interest.md#the-telling-tree), [The Count Stones](../Places/Places-of-Interest.md#the-count-stones).

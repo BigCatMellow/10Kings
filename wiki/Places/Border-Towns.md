@@ -105,3 +105,5 @@ This makes border towns natural political wild cards.
 Border towns show whether the world is actually changing.
 
 If kingdoms argue in old categories while border populations have already created new identities, the political map is lagging behind lived reality.
+
+**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [D36](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [The Treaty Stones](Places-of-Interest.md#the-treaty-stones), [The Reconciliation Bridge](Places-of-Interest.md#the-reconciliation-bridge), [The Letter Tree](Places-of-Interest.md#the-letter-tree), [The Fiddlers' Hollow](Places-of-Interest.md#the-fiddlers-hollow).
