@@ -156,7 +156,7 @@ stop / reverse      if Wurdren seems to suspect the sender; if the step needs ex
 ### Stage 2 — PLAN
 
 ```text
-1  The Upper Works · three days before the shortest day, morning
+1  The Upper Works · two days before the shortest day, morning
    must establish   the great bellows and the dressing; Jupp, "I never saw you"; the Works cold since summer, owners and
                     crews each blaming the other (one exchange); the pot on the step this morning, which she thinks
                     Iolo arranged; the Slatehallow chimney smoking up the valley; the carrier's day
@@ -168,7 +168,7 @@ stop / reverse      if Wurdren seems to suspect the sender; if the step needs ex
    must establish   the meal (Smoked Ember Stew); the fat skimmed "for the Works"; Wurdren stitching with two needles;
                     the letter to the lamp, the watermark she'd never seen, "I've seen this paper", can't think where;
                     Iolo: "read him the good bit", the phrase; one of her bellows went to a man buying for a house in Port
-4  The Works · two days before, morning
+4  The Works · the day before, morning
    must establish   Wurdren in the pleats; the moment where nothing happens (dripping warming, snow through the vent);
                     "Should I take it?" He starts to say yes, and stops: "I don't know." Who'll do this after? Nobody.
 5  Iolo's room · the night before the shortest day
@@ -205,6 +205,18 @@ stop / reverse      if Wurdren seems to suspect the sender; if the step needs ex
 
 First pass drafted 2026-11-09 in the spoken register ([Craft](../Notes/Craft.md#write-how-people-talk)), from the voice sources, scene by scene from the plan. Lines in the cautious categories ([who writes what](../Notes/Craft.md#ai-and-the-author-who-writes-what)) are flagged on the draft's Status header for bt 7274.
 
+**After every pass.** Sunday Morning first: one sad moment (Iolo's bell, said once), no shaming, the stew, the snow through the vent, a warm ending. Shapes: row 16 in the [Registry](../Notes/Registry.md#story-shapes), and a new device row (gifts left on a doorstep). The [checker](../Notes/Pipeline.md#after-every-pass) found sixteen five-word phrases shared with other stories; the ones that weren't the C6 letter's wording were varied, and the letter's wording was added to the checker's linked phrases, since it repeats on purpose.
+
 ### Stage 4 — JUDGE
 
-Pending: an independent cold read, then a fresh check of the fixes.
+**Independent review** (2026-11-09), cold read first, by a reader who had just read Inspected and Walkout Pies. "Same book? Yes": closer to Walkout Pies' register than to Inspected, and just as warm. Best moment: Jupp folding his coat onto the sand, "I never saw this", and getting on the beam. It found the snow through the vent "a real moment where nothing happens", and "I usually say yes" moving because it pays off "Take it". The ending lands. It also braced twice: at the watermark, where Wurdren "came across as a man who understands more than he says", and hard for Iolo to die.
+
+**Must-fixes, all made:** Wurdren stayed three nights, not two; the lost pour read as Coalglen's, which went ahead in Walkout Pies, so it's now the Upper Works' own and Iolo listened for theirs after Coalglen's bell; seven pots for five people; Jupp walking the wrong way; "gray", a hint at Wurdren's age; Wurdren's frozen hands and silence at the letter, which read as suspicion (he now smiles, and has "been a lot of places this year"); and one line that Iolo is mending, so nobody braces for his death.
+
+**Taken from the should-considers (leans, for bt 7274 to overrule):** the pots now come from "somebody who owed him", so the opening doesn't give the ending away; Cadoc says Iolo told him she's off, which pays the ledger's clue; the narration's explanation of Cadoc and Jupp on the step is cut; the Port buyer moved into Rhona's dialogue; three similes and most of the stew recipe cut; Wurdren sews his own boot; "If I asked, they'd have to say. One way or the other."
+
+**Fresh check of the fixes** (2026-11-09): every fix in. It caught Jupp's direction broken by the fix, one leftover freeze at the letter ("He just stopped, with the wax in his hand"), the second pot with no source, a bowl counted as a pot, the plan's day count, two days of greasing a weekly job, and small things ("a big lad", "he didn't come down", a doubled "slow", "forty" three times). All fixed.
+
+**Left for bt 7274:** Iolo's "And the Row knows", which hints at the step; "down a long slant of gray light" and "the only thing in the house that wasn't brown or black", which read a little like writing; and every line on the draft's flag list.
+
+**Level:** L3 first pass, reviewed. L4 needs bt 7274's read, including the question this story was written to answer: does the main story show, and does it still feel like a Sunday story?

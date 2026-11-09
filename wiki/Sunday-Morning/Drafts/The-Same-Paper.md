@@ -23,6 +23,8 @@ Rhona Gwynne did it on her knees, in the folds. The leather went up over her hea
 
 The pot had been on the step again that morning, wrapped in a cloth and still a bit warm. It mostly was. Grandad said it was somebody who owed him, and she wasn't to ask, so she didn't.
 
+That was the near one done. The far one wanted doing before the shortest day.
+
 When she climbed out, Jupp was at the side gate with his hands in his armpits.
 
 "Owners say nobody in," he said.
@@ -71,7 +73,7 @@ The man had got up when she came in, which nobody on the Row ever did, and was s
 
 "I can pay," he said. "Not much. Or I can do something." He nodded at the bench. "That's split."
 
-It was her bellows. Her own, the little double one she'd made for the forge out the back: three boards and two chambers, so it blew on the push and on the pull and the fire never dropped between strokes. She'd made four of them now. The side seam had gone in the cold, a long split down the stitching, and she'd tried to sew it herself and the thread had pulled straight through the leather. The saddler's boy used to do her leathers. He'd gone up the valley in the autumn, to the Slatehallow workshop, where it was full pay and a dry roof, and he didn't come down.
+It was her bellows. Her own, the little double one she'd made for the forge out the back: three boards and two chambers, so it blew on the push and on the pull and the fire never dropped between strokes. She'd made four of them now. The side seam had gone in the cold, a long split down the stitching, and she'd tried to sew it herself and the thread had pulled straight through the leather. The saddler's boy used to do her leathers. He'd gone up the valley in the autumn, to the Slatehallow workshop, where it was full pay and a dry roof, and he hadn't been down since.
 
 "I was going to leave it," she said.
 
@@ -79,13 +81,13 @@ He bent over the seam and ran his thumb along it.
 
 "I've sewn worse," he said. "Boots, mostly. A scabbard. Have you got two needles?"
 
-She had two needles. She found him waxed thread and a lump of beeswax, and he sat down at the bench with his own boot forgotten under it and started picking out her stitches. He went slowly. By the look of him he'd rather get it right than get it done.
+She had two needles. She found him waxed thread and a lump of beeswax, and he sat down at the bench with his own boot forgotten under it and started picking out her stitches. By the look of him he'd rather get it right than get it done.
 
 The letter sat behind the jug on the shelf, where she'd put it so she'd stop looking at it.
 
 ---
 
-Supper was smoked ember stew, because it was winter and there was mutton. She browned the meat in its own fat and left it at the back of the fire all afternoon with barley and roots, and when it was done she skimmed the top off into the crock by the door.
+Supper was Smoked Ember Stew, because it was winter and there was mutton. She browned the meat in its own fat and left it at the back of the fire all afternoon with barley and roots, and when it was done she skimmed the top off into the crock by the door.
 
 "What's that for?" said Wurdren.
 
@@ -103,8 +105,6 @@ After supper he lit the lamp and took up the seam again. Two needles through the
 
 When he reached up to the shelf for more wax, the jug was in the way. He moved it, and the letter was behind it.
 
-He didn't pick it up. He just stopped, with the wax in his hand.
-
 "Somebody's written to you," he said.
 
 "About my bellows. I sold one in the autumn to a man buying for a house in Port. That's how, I suppose." It was the furthest any work of hers had ever gone. "You can read it if you like. Everybody else has."
@@ -121,7 +121,7 @@ Wurdren unfolded it. It was the only thing in the house that wasn't brown or bla
 
 Wurdren smiled, but he was holding the letter up to the lamp. He tilted it slowly, one way and then the other, until something came up in the grain of the paper: a little lantern, the kind that hangs off the back of a ship.
 
-Rhona had read that letter forty times. She'd never known there was anything in the paper.
+Rhona had read that letter every night for a week. She'd never known there was anything in the paper.
 
 "What is it?"
 
@@ -133,7 +133,7 @@ He thought. He thought for so long that Grandad shouted "Well?" through the wall
 
 "I can't think where," said Wurdren. "I've been a lot of places this year."
 
-He folded the letter along its folds and set it on the shelf again, and put the jug back in front of it, carefully. Then he sat and went on with the needles, and when the seam was done he did his own boot, quickly, as if it didn't count.
+He folded the letter along its folds and set it on the shelf again, and put the jug back in front of it. Then he sat and went on with the needles, and when the seam was done he did his own boot, quickly, as if it didn't count.
 
 ---
 
@@ -141,7 +141,7 @@ In the morning there was a pot on the step.
 
 "Somebody Grandad knows," said Rhona, when Wurdren looked at it.
 
-He carried it up to the Works for her, with the brazier and the bag of rags, and at the side gate Jupp gave the two of them a long look.
+He carried it up to the Works for her, with the crock from the door, the brazier and the bag of rags, and at the side gate Jupp gave the two of them a long look.
 
 "I never saw either of you," he said.
 
@@ -161,7 +161,7 @@ He turned to her and opened his mouth, and she could see he had the answer ready
 
 "I don't know," he said.
 
-She'd thought he'd say yes. He looked like the sort who said yes.
+She'd thought he'd say yes.
 
 "I usually say yes," he said. "To people." He looked at the snow coming down. "I don't know."
 
@@ -201,7 +201,7 @@ His room was the warmest in the house, because the chimney went up the wall behi
 
 "It takes two on the beam. More."
 
-"There's a big lad in the kitchen."
+"There's a big fellow in the kitchen."
 
 Down the Row a dog barked and stopped.
 
@@ -251,9 +251,9 @@ He was bent over with a pot in both hands, in the act of putting it down. He was
 
 "Morning." He put the pot down and straightened up. "Heard her yesterday," he said, and looked up the Row at the Works. "And your grandad says you're off." Then he looked at his boots.
 
-Somebody else was coming up the Row in the dark with a pot in a cloth. It was Jupp. He saw Cadoc and stopped, and Cadoc saw him. For a moment the two of them stood and looked at each other over her step.
+Somebody else was coming down the Row in the dark with a pot in a cloth. It was Jupp. He saw Cadoc and stopped, and Cadoc saw him. For a moment the two of them stood and looked at each other over her step.
 
-Then Verity came out from next door in her shawl with a bowl, and put it down beside Cadoc's, and said "Oh," and went back in. Then the widow from the end house, and then a boy Rhona hadn't known was old enough to be up at that hour.
+Then Verity came out from next door in her shawl with a pot, and put it down beside Cadoc's, and said "Oh," and went back in. Then the widow from the end house, and then a boy Rhona hadn't known was old enough to be up at that hour.
 
 Nobody said anything about it. Jupp put his pot down at the end of the line of them and said "I never—" and stopped, and went back up to his gate.
 
