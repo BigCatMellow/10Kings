@@ -78,7 +78,7 @@ Before the Convergence, the world was politically fragmented. Control changed th
 
 The Convergence did not create a unified empire. It created a **shared political-economic settlement** built around recognized claims, protected exchange, route security, arbitration, Port neutrality, and continued local autonomy. The exact signatories and treaty machinery remain open.
 
-See Convergence Layered Settlement Model. The modern order is best understood as a **layered legal-political ecosystem rather than one constitution**: core guarantees sit underneath narrower agreements, later interoperability standards, accumulated precedent, and continuing local law.
+*(The recovered "Convergence Layered Settlement Model" is not on `main`; see [The Convergence](History/The-Convergence.md).)* The modern order is best understood as a **layered legal-political ecosystem rather than one constitution**: core guarantees sit underneath narrower agreements, later interoperability standards, accumulated precedent, and continuing local law.
 
 That changed conflict rather than ending it.
 

@@ -95,7 +95,7 @@ The Convergence creates a **framework for coexistence**, not a single code that 
 
 ## Convergence obligations are layered
 
-See Convergence Layered Settlement Model.
+*(A recovered "Convergence Layered Settlement Model" is cited here but is not on `main`; its point is carried by [The Convergence](History/The-Convergence.md).)*
 
 A modern cross-border rule can come from different sources:
 
@@ -465,11 +465,15 @@ A cross-border decision is more likely to matter when:
 
 This makes **recognition** as important as judgment.
 
+**Convergence arbitration has no bailiff of its own.** Treaty awards hold because credit, insurance and market access punish anyone who refuses them, and those are the Council's levers ([World Rules](World-Rules.md), [Economic Council](Politics/Economic-Council.md)). So the Council's belief that it is "the hidden mechanism keeping the Convergence alive" is literally true of this one function. It also marks the Villain's best target: a fair award, refused by a ruler with popular backing, that only visible Council credit pressure could enforce. There is no standing Convergence court: agreed forums sit as needed in Highridge halls and Port courts. *(Lean, [2026-11 review](Reference/World-Review-2026-11.md#insights).)*
+
+**Nobody owns classification.** Whether a problem is private, cross-border, systematic or a challenge to a core guarantee decides which forum may hear it, and no institution does the classifying: the first forum to accept a case claims it and rivals contest it. Whoever succeeds in calling a border incident "Convergence-level" makes treaty retaliation legitimate. This is the gap a Villain plot will hit first.
+
 ---
 
 ## Violation severity and escalation
 
-See Convergence Enforcement and Violation Tests.
+*(A recovered "Convergence Enforcement and Violation Tests" is cited here but is not on `main`.)*
 
 A cross-border problem should be classified before escalation.
 
@@ -586,7 +590,7 @@ This creates practical importance for:
 - interpreters;
 - scribes;
 - bilingual merchants;
-- notaries or equivalent record specialists where they exist.
+- notaries or equivalent record specialists where they exist (scribe and notary guilds exist, provisionally: [Guilds](Politics/Guilds.md#market-and-records-guilds)).
 
 Exact professional structures remain open.
 
@@ -739,7 +743,7 @@ That is network enforcement, not world sovereignty.
 
 # 20. Highridge Plateau is an arbitration environment
 
-See Highridge Plateau Functional Governance Test. The strongest current model is layered: local law remains local, corridor compacts govern route-specific obligations, and recognized arbitration forums connect jurisdictions without creating one Highridge Plateau supreme court.
+*(A recovered "Highridge Plateau Functional Governance Test" is cited here but is not on `main`.)* The strongest current model is layered: local law remains local, corridor compacts govern route-specific obligations, and recognized arbitration forums connect jurisdictions without creating one Highridge Plateau supreme court.
 
 The Highridge Plateau has deep historical reasons to value negotiated obligation.
 

@@ -59,7 +59,7 @@ Legacy material repeatedly assumes:
 
 - coins;
 - counterfeit coins;
-- gold/copper as ordinary figurative references;
+- gold/copper as ordinary figurative references (in story usage copper is also a coin: "a copper a cup", [Three Pots](Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md); metals stay open);
 - currency exchange.
 
 That is enough to support **physical money** as part of the world.
@@ -244,6 +244,8 @@ trust / collateral / guarantee
 ~~~
 
 This does not require a modern banking system.
+
+**Leverage needs renewal.** Lending gives power over a borrower only when the credit is short, has to be renewed, and comes with conditions: "They'll renew the town's credit this year only if our books are clean" ([The Goat File](Sunday-Morning/Stories/The-Goat-File.md)). Long or uncallable credit is not leverage: in [The Tree With a Debt](Sunday-Morning/Stories/The-Tree-With-a-Debt.md) a standing pledge "uncallable, until the condition ends" gave the lender only a consent right over the asset. Since renewals cluster in the late-autumn settlement season ([Calendar](Calendar-and-Timekeeping.md)), the Council's leverage and the risk of panic both peak then. *(Provisional, [2026-11 review](Reference/World-Review-2026-11.md#insights).)*
 
 ---
 
@@ -449,6 +451,8 @@ Possible consequences include:
 Exact systems remain local.
 
 Do not assume every unpaid debt leads to prison.
+
+In practice (provisional): the Seven Seas guild blacklists members "for a broken contract or an unexcused default" and reads its accounts publicly once a year ([Guilds](Politics/Guilds.md#the-seven-seas-mercantile-guild)).
 
 ---
 
@@ -895,7 +899,7 @@ Money changing can therefore overlap with:
 
 See [Economic Council](Politics/Economic-Council.md).
 
-The Council's Finance and Exchange portfolio may coordinate:
+The Council's Treasury and Commerce seat, held by House Luthain of Ironcrest ([Economic Council](Politics/Economic-Council.md)), may coordinate:
 
 - credit;
 - emergency financing;
@@ -913,6 +917,8 @@ It does **not** currently:
 - own all minting.
 
 Its power comes from access to capital and networks, not monetary sovereignty.
+
+**In a panic it does the one central-bank job that reveals it.** Council tightening is deniable only because it looks like ordinary risk pricing. The Villain attacks through rumor, and rumor makes lenders tighten before a route actually fails (§37), so the Council cannot publicly tell its own tightening apart from a panic the Villain set off. The one way to stop such a panic is to lend against the risk signal, and that is the act that exposes it. *(Provisional, [2026-11 review](Reference/World-Review-2026-11.md#insights).)*
 
 ---
 
@@ -1096,7 +1102,7 @@ The crisis spreads through obligations, not magic.
 - collateral law;
 - insurance-like institutions;
 - weights and measure names;
-- reference-standard custody;
+- reference-standard custody (provisionally, a merchants' consortium runs local weights, measures and fair prices: [Guilds](Politics/Guilds.md#market-and-records-guilds));
 - tax payment rules;
 - wage conventions;
 - whether the Convergence formally recognizes specific measures or conversion rules.

@@ -8,7 +8,7 @@ This page owns the world-level model for how people, messages, rumors, records, 
 
 It does **not** establish exact settlement-to-settlement travel times, literacy rates, a universal postal service, a single courier guild, or precise route schedules. Deliberately sent letters and dispatches are owned by [Couriers, Posts, and Message Networks](Couriers-Posts-and-Message-Networks.md).
 
-However, Working Map — Scale and Travel-Time Test V1 now establishes a usable **working travel envelope**: adjacent major economic hubs are usually several commercial days apart, multi-region overland journeys usually take weeks, and urgent institutional dispatch can move materially faster where prepared routes and remounts exist.
+A recovered map test (Working Map — Scale and Travel-Time Test V1, not on `main`; provisional) proposes a **working travel envelope**: adjacent major economic hubs are usually several commercial days apart, multi-region overland journeys usually take weeks, and urgent institutional dispatch can move materially faster where prepared routes and remounts exist.
 
 Related owners:
 
@@ -371,7 +371,7 @@ Strongest information:
 - caravan security;
 - political conditions along roads.
 
-The Highridge Plateau function as a major overland switching point because many routes, languages, merchants, and arbitration traditions converge there.
+The Highridge Plateau functions as a major overland switching point because many routes, languages, merchants, and arbitration traditions converge there.
 
 Strengths:
 
@@ -510,7 +510,7 @@ Weaknesses:
 
 ## Spies and intelligence networks
 
-Legacy sources strongly support spies, informants, guild contacts, religious observers, and Council data gathering.
+Spies, informants, guild contacts, religious observers and Council data gathering all exist. The spy guilds are loose city networks that sell information to anyone, the Council included ([Guilds](Politics/Guilds.md#armed-and-clandestine-organizations), provisional, D24).
 
 Current canon supports the Council as a hidden coordination system that depends on information.
 
@@ -545,6 +545,8 @@ Exact literacy rates and universal document conventions remain open.
 
 # 5. Information hubs
 
+**Along the range, not only through the hubs.** Port and Highridge are not the only places news crosses. The [Overpath](Places/The-Spine.md#the-overpath) runs along the Spine and every pass road crosses it, so each crossing is a junction where news can pass from one pass to the next. And where its branches are maintained, the [Underpass](Places/The-Underpass.md) is the routine, faster way through the range, with public sections and caravan lodging, not only a smugglers' bypass. *(Provisional, [2026-11 review](Reference/World-Review-2026-11.md#insights).)*
+
 ## Port — maritime and commercial aggregation
 
 Port is likely one of the world's fastest places for **aggregation**, not necessarily the first place to learn every event.
@@ -571,7 +573,7 @@ That makes Port an amplifier.
 
 ## The Highridge Plateau — overland aggregation
 
-The Highridge Plateau perform a complementary role for inland movement.
+The Highridge Plateau performs a complementary role for inland movement.
 
 Markets, caravan yards, route authorities, interpreters, courts, toll systems, and merchant communities can concentrate information from multiple overland corridors.
 
@@ -710,6 +712,8 @@ Records can include:
 
 Important distinctions:
 
+**Records make false signals as well as keeping truth.** When a rumor is written into a register it starts to count as verified, and an administrative count can produce its own rumor: an inspector writes fines to someone who can't read the form, and "somebody upstairs adds up the column and says, look how many smugglers" ([Three Pots](Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md)). The Villain's "leak real documents mixed with misleading conclusions" ([Guilds](Politics/Guilds.md#guild-interaction-with-the-villain)) is the same mechanism used on purpose. *(Provisional, [2026-11 review](Reference/World-Review-2026-11.md#insights).)*
+
 ## Fast information
 
 Useful for acting now.
@@ -734,7 +738,7 @@ This is why an archive can threaten a powerful institution even when it was neve
 
 # 10. Translation is part of the network
 
-The setting is multilingual and language families remain unresolved.
+The setting is multilingual. The working [language families](Culture/Language-and-Thought.md#language-families) and Trade Tongue are set; the finer translation burden is open. One mechanism matters for rumor: Northic and Deepwood grammar mark how a thing is known (seen, heard from someone trusted, rumored), but Trade Tongue, the contact language of docks and clerks, carries those markers poorly, so a "heard it" can come out of a Trade Tongue handoff sounding like "it is". Rumor gains certainty passing through Trade Tongue hubs such as Port, and Highridge's careful trade registers are where it can lose it again. *(Provisional design direction, [2026-11 review](Reference/World-Review-2026-11.md#insights).)*
 
 Therefore long-distance information often depends on:
 
@@ -880,6 +884,8 @@ If all three learn the same thing at the same time, the information network is p
 
 These are mechanism examples, not newly canonized events.
 
+**A note for the Sunday Morning stories.** Example C (separate records from another region providing corroboration) is exactly what [D21](Sunday-Morning/Notes/Decisions.md#the-authors-decisions) keeps out of the stories: nobody in a story sees the pattern. In the stories, records cross regions only as bundles nobody reads whole, and ordinary delay and loss ([Couriers](Couriers-Posts-and-Message-Networks.md#34-failed-delivery-is-normal)) are the tools. Corroboration belongs to the main story's later seasons.
+
 ## Example A — a Northwind ship fails to arrive
 
 ```text
@@ -925,7 +931,7 @@ These examples show why plot-relevant information should not move as one package
 - information moves through physical and social networks;
 - transmission is carrier-specific;
 - Port is a major maritime/commercial aggregation point;
-- the Highridge Plateau are a major overland aggregation point;
+- the Highridge Plateau is a major overland aggregation point;
 - guilds, faiths, itinerants, sailors, merchants, states, criminals, and spies can carry different information;
 - rumors can spread through informal networks;
 - records and archives preserve durable evidence;
@@ -940,13 +946,13 @@ These examples show why plot-relevant information should not move as one package
 - whether any polity operates a public postal service;
 - literacy rates by place/class;
 - standard seals, notarial rules, or document formats;
-- exact language families and translation burden;
+- finer translation burden;
 - exact schedules of ships, caravans, pilgrimages, and itinerant circuits;
 - exact censorship regimes;
 - exact signal systems such as beacons, flags, bells, or messenger birds;
 - how characters distinguish ordinary signals and rumor from unsupported legends; [Magic and Relics](Magic.md) excludes magical communication.
 
-Legacy writing guides mention messenger birds, enchanted messengers, scrying, and speculative courier guilds. Those remain **legacy proposals**, not current canon.
+Legacy writing guides mention messenger birds, enchanted messengers, scrying and speculative courier guilds. Enchanted messengers and scrying are ruled out by [Magic](Magic.md) (no spellcasting). Messenger birds and courier guilds stay open.
 
 ---
 

@@ -210,7 +210,6 @@ Other compatible possibilities include:
 - copied transcripts or broadsheets;
 - guild-run relay systems;
 - public recitation halls;
-- rare artifacts used only at major urban centers;
 - a mixed system where one original communication technology later disappears.
 
 The social result matters more than copying modern radio literally: **large numbers of people experience the same recurring personalities, then create their own persistent community around them.**
@@ -219,7 +218,7 @@ The social result matters more than copying modern radio literally: **large numb
 
 Participants may still belong to any of the nine major faiths.
 
-One person could be a Radiant Path adherent, member of a navigator guild, North Country-born, resident in Port, and deeply involved in the memory tradition.
+One person could be a Radiant Path adherent, member of a navigator guild, Northwind-born, resident in Port, and deeply involved in the memory tradition.
 
 Different authorities may classify the movements differently:
 
@@ -271,7 +270,7 @@ This kind of movement should spread through existing circulation networks rather
 Likely accelerators:
 
 - Port;
-- High Country caravan routes;
+- Highridge caravan routes;
 - sailors;
 - itinerant entertainers;
 - guild halls;

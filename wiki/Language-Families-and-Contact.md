@@ -56,7 +56,7 @@ Therefore:
 
 > **A map of languages should be messier than the modern regional map.**
 
-Some regional cores may contain several unrelated languages.
+Some regional cores contain several related languages or dialects; unrelated speech arrives through Trade Tongue, migrants or Deepwood's edges (the [family model](Culture/Language-and-Thought.md#language-families)).
 
 Some language families may cross several cultural regions.
 
@@ -85,7 +85,7 @@ These mechanisms fit the current world.
 
 Legacy material often assumes:
 
-- one language per old region;
+- languages as region boxes, one accent per economy (the named languages, such as Northic and Ironet, are labels over dialect continua);
 - one themed "accent" reflecting regional economy;
 - unsupported regional language claims that contradict the current [Language and Thought](Culture/Language-and-Thought.md) working names (Northic, Ironet, Heartland Tongue, the Sunplains and Deepwood languages, and plateau speech);
 - accents defined by forge noise, forest hush, cold wind, or other theme-first logic;
@@ -101,7 +101,7 @@ Do not restore them merely because they are detailed.
 
 The author established a **working family model on 2026-09-29** in [Language and Thought](Culture/Language-and-Thought.md): Northern (Northic in Northwind and Ironet in Ironcrest), Heartland (Greenvale's Heartland Tongue, Sunplains city languages and Highridge Plateau speech), and Deepwood languages. **Trade Tongue** bridges communities along routes and in Port, while extinct Old Spine speech persists in place names. The family labels themselves remain provisional; finer genealogies, dialect relations, specific city-language names, and scripts remain open.
 
-A future family model should explain:
+Finer branching within the [family model](Culture/Language-and-Thought.md#language-families) should explain:
 
 - old settlement patterns;
 - major migration;
@@ -841,7 +841,7 @@ The Underpass contains:
 
 Therefore it should contain:
 
-- enclave languages;
+- enclave varieties of surface languages;
 - mixed market speech;
 - route jargon;
 - borrowed terms from several surface languages.
@@ -897,7 +897,7 @@ This preserves readability while making linguistic difference meaningful.
 | Deepwood | Deepwood language family, forest/river communities and ecological registers | internal branches and distribution |
 | Sunplains | Heartland-related city languages and civic/merchant registers | exact city languages and prestige networks |
 | Port | stable multilingual contact varieties and native Port speech | exact classification, languages, scripts |
-| Underpass | enclave languages, route jargon, mixed market speech | distribution and historical origins |
+| Underpass | enclave varieties of surface languages, route jargon, mixed market speech | distribution and historical origins |
 
 This is a structural confidence map, not a language inventory.
 
@@ -937,7 +937,7 @@ This is a structural confidence map, not a language inventory.
 - prestige standards;
 - trade/legal register structure;
 - Port contact-language classification;
-- Highridge Plateau local languages;
+- local varieties of Highridge plateau speech;
 - Underpass language distribution;
 - religious/liturgical languages;
 - exact language policy by polity.

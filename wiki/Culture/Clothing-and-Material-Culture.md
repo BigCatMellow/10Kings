@@ -553,7 +553,7 @@ A plausible chain:
 Port performer / merchant
 → copied by Port youth
 → adopted by caravan merchants
-→ appears in Cliffhaven / Summithold
+→ appears in the Sunplains and Highridge cities
 → imitated cheaply elsewhere
 → condemned as vulgar by older elites
 → later becomes respectable

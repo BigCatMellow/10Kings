@@ -349,7 +349,7 @@ A person who cannot write can still enter enforceable agreements.
 
 # 12. A seal is not automatically proof
 
-If seals exist, they can be:
+Seals exist in some institutions (provisional): house seals in Highridge ([The Goat File](Sunday-Morning/Stories/The-Goat-File.md)), the Ironheart guild's strict quality seal ([Guilds](Politics/Guilds.md#the-ironheart-founders-guild)), and colour-coded office stamps in Port ([Three Pots](Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md)). A seal can be:
 
 - stolen;
 - copied;
@@ -718,6 +718,12 @@ Authorities can communicate through combinations of:
 
 A written notice can create a durable official version even when many people hear it orally.
 
+**Printing** (lean taken in the [2026-11 review](Reference/World-Review-2026-11.md)): there are no presses for books or news anywhere. Port offices and some large houses cut wooden blocks for their standard forms and notices, so a clerk in Port can hand someone a printed sheet ([Three Pots](Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md)), while a village notice is copied by hand ([The Eighth Verse](Sunday-Morning/Stories/The-Eighth-Verse.md)).
+
+## Records that aren't writing
+
+The stories have built a second evidence system beside the ledger: public, physical, witnessed records that people who can't read can still read. A Weaver year-cloth with one square for each thing a witness saw ([The Blank Square](Sunday-Morning/Stories/The-Blank-Square.md)); every apprentice's name cut into a guild's steel pillar and a carved sign on every Masoncraft project ([Guilds](Politics/Guilds.md#the-named-guilds)); ballads that keep "people, crimes, disasters, loves" ([Nomads](Culture/Nomads.md)); a protest verse sung "so nobody forgets"; a name cut into a crate lid as a market mark. They are authenticated by being public and witnessed rather than by a seal, so they resist forgery; but they can be erased, left unsung or refused a square. *(Provisional, from the [2026-11 review](Reference/World-Review-2026-11.md#insights).)*
+
 ---
 
 # 29. Documentary form can signal authority
@@ -984,15 +990,21 @@ This supports [Contested Historical Memory](History/Contested-Memory.md).
 
 ---
 
+## Paper and provenance
+
+Fine paper is a trade good, and stationers' watermarks are recognized by people who handle records (Ismet, a records man, "recognizes the watermark as Port's and thinks nothing more of it": [The Tree With a Debt](Sunday-Morning/Stories/The-Tree-With-a-Debt.md)). **A watermark names a stationer or a city at most, never a buyer.** Port stationers sell to anyone with money, so fine paper points to Port and to wealth, not to a hand. This protects the ship's-lantern letters ([D3](Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [D25](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): nobody in a story can trace them, and Port paper implies nothing about where their sender is from. *(Provisional, [2026-11 review](Reference/World-Review-2026-11.md).)*
+
+A contract can also be authenticated by belief: agreements signed in the presence of a relic said to keep them honest, where people watch the ink ([Magic](Magic.md#relics)). The scene works if the relic does nothing.
+
 # 43. Still open
 
 - literacy rates;
 - education systems;
-- writing materials;
+- writing materials (paper comes in grades, and a Port stationer's watermarked paper is known: see Paper and provenance below);
 - scripts;
 - signature customs;
 - seal systems;
-- notarial offices;
+- notarial offices (scribe and notary guilds exist, provisionally: [Guilds](Politics/Guilds.md#market-and-records-guilds); each polity's practice is open);
 - document layout;
 - standard contract forms;
 - archive architecture;

@@ -429,7 +429,9 @@ give a reason.
 
 ---
 
-# 14. Weeks are not currently established
+# 14. Weeks exist in usage; their length is open
+
+The Radiant Path worships weekly ([Religions](Politics/Religions.md#3-the-radiant-path)), Ironcrest keeps Foundry Week, and stories count "the week before Grain Ripening". How many days a week has, and whether every region counts the same week, is not established.
 
 The source uses words such as:
 
@@ -505,7 +507,7 @@ Possible fiscal events include:
 - warehouse inventory;
 - guild dues.
 
-The legacy "Ledger Closing" idea survives as a mechanism, not a fixed named holiday.
+In Highridge, **Ledger Closing** is a named late-autumn day ([Festivals](Culture/Festivals-and-Seasonal-Life.md#highridge), used in [The Goat File](Sunday-Morning/Stories/The-Goat-File.md)); elsewhere the fiscal close is a mechanism under local names, such as Northwind's Last Sail. The late autumn is the continent's settlement season: books close before winter closes the routes ([2026-11 review](Reference/World-Review-2026-11.md#insights)).
 
 A fiscal deadline can become socially visible because:
 
@@ -528,7 +530,7 @@ Examples:
 - next cattle market;
 - second market after thaw;
 - three fairs before winter;
-- the Port autumn exchange.
+- Three Moon in Port ([Three Moon](Culture/Three-Moons-Festival.md)).
 
 This is especially useful in places where:
 
@@ -614,7 +616,7 @@ But local communities may differ in:
 
 A faith may recognize one sacred event while communities calculate or celebrate it differently.
 
-Exact religious calendars remain open.
+Exact religious calendars remain open. The Cyclic Order keeps "a great wheel for the calendar" and a sacred almanac, and shrine logs date things ([Religions](Politics/Religions.md#1-the-cyclic-order)); when a dispute turns on "since when", a shrine's record may be the only date anyone has.
 
 ---
 

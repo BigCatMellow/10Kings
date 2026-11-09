@@ -14,7 +14,7 @@ They control economic systems on which *all* kingdoms depend.
 
 **Working canon** (the author, 2026-09-29): the house names and home regions come from the project's earlier notes, with House Drathain moved from the old Labor domain to the Materials seat. Each house comes *from* a region, but that is origin, not representation: the Council still speaks for no kingdom, and every house's power crosses borders. The named members are earlier-note figures, **Provisional**.
 
-| Seat | House | Home region | Named members (Provisional) |
+| Seat | House | Home | Named members (Provisional) |
 | --- | --- | --- | --- |
 | [Harvest / Provision](#1-food-and-biological-supply) | **Marielle** | Greenvale | Halric Marielle, a charismatic head of house; Ellana Marielle, botanist and diplomat |
 | [Materials / Metal](#2-materials-and-production) | **Drathain** | Sunplains | Evelyne Drathain, diplomat and master of guild alliances; Dorian Drathain, organizer of large labor forces |

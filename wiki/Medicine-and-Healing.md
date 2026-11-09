@@ -78,6 +78,10 @@ A practitioner may be especially skilled in:
 
 There does not need to be one unified "doctor" profession everywhere.
 
+**Who practises** (provisional, [D24](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): the [Apothic Circle](Politics/Guilds.md#the-apothic-circle) of apothecaries, healers, hospitals and travelling clinics, with tiered tests and a list of approved remedies; the Radiant Path's sanctuaries for the sick ([Religions](Politics/Religions.md#3-the-radiant-path)); Deepwood-trained healers, whose forests supply much of the world's medicinal goods ([Deepwood](Regions/Deepwood.md)); and the Ridge-Roamers, who trade herbal remedies on their circuits ([Nomads](Culture/Nomads.md#the-ridge-roamers)). Lean: Deepwood and Ridge-Roamer healers are mostly outside the Circle, with some Deepwood masters inside.
+
+**The approved list collides with forest medicine.** A blight on a medicinal species means a shortage of approved remedies, then unlicensed itinerant remedies, then fraud accusations, and the pressure lands on the Ridge-Roamers. *(Provisional, [2026-11 review](Reference/World-Review-2026-11.md#insights).)*
+
 ---
 
 # 4. Training
@@ -120,6 +124,8 @@ A religious healer can be effective because of:
 - access to stored supplies;
 - community support.
 
+Prayers for healing come under the same rule as relics: the faiths have gods ([D25](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)), and an answered prayer is never confirmed ([Religions](Politics/Religions.md#working-life-and-gods)).
+
 ---
 
 # 6. Access is political
@@ -157,6 +163,8 @@ Possible measures include:
 - quarantine of ships / caravans when disease is feared.
 
 Exact scientific explanations may be wrong while practices still help.
+
+**Quarantine collides with hospitality.** Port has quarantine rules ([Port](Places/Port.md#governance-and-protection), seed [The Yellow Flag](Sunday-Morning/Stories/Story-Seeds.md#the-yellow-flag)); a pass or a pilgrim road has none, and the Infinite Compass owns hospitality to travelers, so refusing lodging is a serious act. Pilgrim networks move disease as fast as news, and a rumor of plague can close a pass faster than plague would: a Villain move in which everyone who closes the road is being prudent. Lean: the local route authority may quarantine, contestably, on Port's model. *(Provisional, [2026-11 review](Reference/World-Review-2026-11.md#insights).)*
 
 ---
 
@@ -291,6 +299,8 @@ The world can contain:
 
 Religious or magical claims remain subject to [Magic and Relics](Magic.md).
 
+Exposing frauds is a respected craft ([Magic](Magic.md)).
+
 ---
 
 # 15. Medical records
@@ -312,12 +322,11 @@ These can become valuable historical evidence.
 
 Still unresolved:
 
-- named medical professions;
 - training length;
-- medical guilds / associations;
+- the Apothic Circle's internal structure beyond its tiers;
 - surgical capability;
 - common effective remedies;
-- public hospitals / infirmaries;
+- which towns have hospitals or sanctuaries;
 - maternal mortality;
 - epidemic history;
 - sanitation by city;

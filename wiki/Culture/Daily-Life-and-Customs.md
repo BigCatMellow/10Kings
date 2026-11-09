@@ -149,7 +149,7 @@ Useful distinctions:
 
 ## Childhood is not uniform
 
-A dockworker's child in Port, a herder's child in Highridge Plateau, a farm child in Greenvale and a clerk's child in Summithold may all have different relationships to:
+A dockworker's child in Port, a herder's child in Highridge Plateau, a farm child in Greenvale and a clerk's child in a Highridge city may all have different relationships to:
 
 - work;
 - play;

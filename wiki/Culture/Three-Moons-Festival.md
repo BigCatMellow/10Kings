@@ -2,17 +2,15 @@
 
 ## Status
 
-**Provisional historical proposal; not current canon.** Recovered from PR #4 for evaluation against present story and Port owners. Later author-settled decisions on magic, region names, Council membership and language outrank this source. See [Source Register](../Reference/Source-Register.md).
+**Provisional.** Recovered from PR #4 as a historical proposal; the [Sunday Morning stories](../Sunday-Morning/README.md) have since used it, so its cadence and name follow them. Later author-settled decisions on magic, region names, Council membership and language outrank this source. See [Source Register](../Reference/Source-Register.md).
 
-The historical proposal makes this Port's largest recurring festival, but the current Port and story owners have not established that claim.
+**Three Moon is held every year, in early autumn, and is Port's largest festival** (lean taken in the [2026-11 review](../Reference/World-Review-2026-11.md), following [Festivals](Festivals-and-Seasonal-Life.md#port) and [Three Pots at Three Moon](../Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md), where it is yearly: "Again next year", a stall kept "for fifty years"). The recovered proposal's **once every seven years** is kept only as legacy provenance. The spelling is **Three Moon**; the file keeps its older name for its links.
 
-The earlier proposed recurrence is **once every seven years**, not a current-canon date.
+Its exact historical origin, ritual sequence and duration remain open. Its name stays unexplained, in-world as well: "Nobody in Port knows why it's called Three Moon, and that's enough" ([Craft](../Sunday-Morning/Notes/Craft.md)). The name settles nothing about how many moons the sky has ([Calendar](../Calendar-and-Timekeeping.md)).
 
-Its exact historical origin, cosmological explanation, ritual sequence, and duration remain open until separately developed.
+Its social function is proposed as follows:
 
-What is established is its present-day social function:
-
-> **once every seven years, Port becomes an unusually dense convergence point for people, institutions, goods, information, entertainment, contracts, and politics from across the continent.**
+> **every year, Port becomes an unusually dense convergence point for people, institutions, goods, information, entertainment, contracts, and politics from across the known world.**
 
 Its proximity to the current story is a historical proposal, not an adopted chronology.
 
@@ -185,7 +183,7 @@ That coincidence is part of the opportunity he exploits.
 
 His earlier work encouraging guild presence / cross-guild communication in Port means the festival is even more information-rich than it might otherwise have been.
 
-This is exactly the kind of circumstance the adaptive domino doctrine favors:
+This is exactly the kind of circumstance the Villain's method favors ([Villain](../Story/Villain.md)):
 
 > **a major independent event creates a temporary concentration of information and relationships; the Villain recognizes its value and changes his plans around it.**
 
@@ -307,13 +305,12 @@ Other people can answer:
 
 Neither side needs to be insincere.
 
-See Current-Event Stakeholder Reaction Matrix — V1.
+See [Current Events](../Story/Current-Events.md).
 
 ---
 
 # 11. Still open
 
-- why it is called Three Moons;
 - the exact astronomical / historical basis;
 - precise date / calendrical rule;
 - duration;

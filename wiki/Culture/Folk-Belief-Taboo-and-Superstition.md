@@ -268,9 +268,7 @@ without the supernatural claim being confirmed
 
 Some events can remain unexplained.
 
-Do not make every folk belief false.
-
-Do not make every folk belief true.
+Do not make every folk belief false: a belief's practical content can be right (bad air, bad water, smoke lying down before weather). Do not make every folk belief true: its supernatural cause is never confirmed ([Magic](../Magic.md#writing-rule); the same holds for prayers, [Religions](../Politics/Religions.md#working-life-and-gods)). Folk lore can be fully trustworthy as practice and silent on metaphysics.
 
 ---
 
