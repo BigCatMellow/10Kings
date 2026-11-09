@@ -63,7 +63,7 @@ Some disputes could be taken to agreed courts or forums rather than immediately 
 
 ### Neutral Port
 
-Port's special status was formalized or significantly strengthened. Port had been the Sea People's city until the other nations took it after a war ([D28](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [Port](../Places/Port.md#the-sea-peoples-city-d28)); the lean is that this settlement made the taking permanent.
+Port's special status was formalized or significantly strengthened. Port had been the Sea People's city until the other nations took it after a war ([D28](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [Port](../Places/Port.md#the-sea-peoples-city-d28)); the lean is that this settlement made the taking permanent. Port is "all thats left of the last ruling empire" ([D30](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)).
 
 ## What it did not solve
 

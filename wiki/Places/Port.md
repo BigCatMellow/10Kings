@@ -36,11 +36,12 @@ Once those systems existed, trade attracted more trade.
 
 **Working canon** (bt 7274, 2026-11-09, [D28](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): "Port is a former city of the Sea people who grew too strong and had their Port city taken by the other nations after a war."
 
-So the harbor's first great city was the Sea People's. They grew too strong for their neighbors, lost a war, and the other nations took the city and made it everyone's. That's why its neutrality looks the way it does: every power fears what would happen if a rival held it, because once a single people did. The comparison is the Free City of Danzig, for its mechanisms only.
+So the harbor's first great city was the Sea People's. And since [D30](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions): "Maybe Port is all thats left of the last ruling empire." The Sea People's was the last empire to rule, and Port is the whole of what remains of it. They grew too strong for their neighbors, lost a war, and the other nations took the city and made it everyone's. That's why its neutrality looks the way it does: every power fears what would happen if a rival held it, because once a single people did. The comparison is the Free City of Danzig, for its mechanisms only.
 
 - **Who the Sea People's heirs are.** Many Port-born families, mixed by now with every people that came after. The [Villain](../Story/Villain.md#homeland-and-grievance-d28) is one of them.
 - **When.** *Lean, provisional:* the war came before the [Convergence](../History/The-Convergence.md#neutral-port), and the Convergence made the taking permanent as Port's neutral status.
-- **Open:** the war's name; whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people. Northwind families' [Port Seizure](../History/Contested-Memory.md#the-port-seizure) story may be their memory of the same loss ([Open Questions](../Open-Questions.md#villain)).
+- **Nothing else of the empire survives as a state** (D30). Its heirs are Port-born families, and whatever it held beyond Port went to the nations that took the city. *Lean, provisional:* it ruled harbors and sea roads more than land, which suits a world where rulers "claimed territory they did not effectively govern" ([Pre-Convergence](../History/Pre-Convergence.md#the-last-ruling-empire-d30)).
+- **Open:** the empire's name, the war's name, and how far it reached. Northwind families' [Port Seizure](../History/Contested-Memory.md#the-port-seizure) story stays a contested memory: one people's claim on a city that was, by D30, the empire's ([Open Questions](../Open-Questions.md#villain)).
 
 ## Why other ports do not replace it
 

@@ -39,7 +39,7 @@ These are important areas where earlier brainstorming produced multiple versions
 - Name.
 - The point at which his methods become clearly unacceptable even to sympathetic readers.
 - The war in which the Sea People lost Port: its name, and when it fell relative to the Convergence (lean: before it).
-- Whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people.
+- The Sea People's empire: its name, and how far it reached. *(Port is all that's left of it: [D30](Sunday-Morning/Notes/Decisions.md#the-authors-decisions).)*
 
 ## Wurdren
 

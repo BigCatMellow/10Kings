@@ -10,6 +10,12 @@ The pre-Convergence world was **messy**.
 
 Modern regions should not be projected backward as eternal states with fixed borders. The modern labels describe cultural-geographic zones that emerged from many earlier peoples, towns, kingdoms, confederacies, warbands, guild networks, and migrations.
 
+## The last ruling empire (D30)
+
+**Working canon** (bt 7274, 2026-11-09, [D28](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [D30](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): Port was the Sea People's city until they "grew too strong and had their Port city taken by the other nations after a war", and "Port is all thats left of the last ruling empire."
+
+So the messy world below came after an empire, not before one. The Sea People's empire was the last power to rule widely. A coalition of the other nations broke it in a war and took its city, and nothing of the empire survives as a state except [Port](../Places/Port.md#the-sea-peoples-city-d28), neutral now because no one would let a rival hold it. *Lean, provisional:* it was a sea empire, ruling harbors and sea roads more than land, and the war came long enough before the [Convergence](The-Convergence.md#neutral-port) that nobody alive remembers it except as their grandparents' stories. Its name, the war's name and how far it reached are open.
+
 ## General pattern
 
 Before The Convergence:

@@ -94,13 +94,13 @@ His impact remains part of the new world.
 
 bt 7274, 2026-11-09, answering the [Whole Road](../Sunday-Morning/Notes/The-Whole-Road.md#for-bt-7274) questions: "Both, In my mind Port is a former city of the Sea people who grew too strong and had their Port city taken by the other nations after a war." He agreed the end-state, and: "In my mind he has no idea about the Council."
 
-- **His people.** The Sea People's heirs: the Port-born, whose city it was, and a people the post-war order erased as a nation ([Port](../Places/Port.md#the-sea-peoples-city-d28)). That's both of the alternatives The Whole Road weighed, the Port-born and the erased people, as one people.
+- **His people.** The Sea People's heirs: the Port-born, whose city it was, and a people the post-war order erased as a nation ([Port](../Places/Port.md#the-sea-peoples-city-d28)). Port "is all thats left of the last ruling empire" ([D30](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)), so his people are the heirs of an empire with nothing left but one neutral city. That's both of the alternatives The Whole Road weighed, the Port-born and the erased people, as one people.
 - **The grievance.** The Sea People grew too strong, and the other nations took their city after a war and made it everyone's. Port is neutral now because every power fears a rival holding it, and the people whose city it was have the least say in it. The comparison is the Free City of Danzig, for its mechanisms only; none of Danzig's history comes in, and the Port-born today are mixed, so the claim he makes for them is civic.
 - **What he wants.** A real voice for the Port-born in their own city, inside a renewed Convergence, which the [ending](../Story/Main-Conflict.md#possible-resolution-model) can partly grant.
 - **What he knows.** Nothing about the Council. His enemy is the nations that took Port.
 - **His method.** From the Danzig alternate history in the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig-sparks-dominos): make the guarantors distrust each other until a neutral Port is the only ground they'll accept, then be the broker the peace needs.
 
-Still open: his name; exactly when and how the Sea People lost Port; how they relate to Northwind, whose families tell the [Port Seizure](../History/Contested-Memory.md#the-port-seizure) story ([Open Questions](../Open-Questions.md#villain)).
+Still open: his name; the empire's name; exactly when and how it lost Port ([Open Questions](../Open-Questions.md#villain)).
 
 ## Legacy research
 

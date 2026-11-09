@@ -9,7 +9,7 @@ How the pages divide the work:
 - This page owns the saga-level plan: the destination, the seasons as rungs, the slate of candidate stories for Seasons 3 to 5, and the threads that cross seasons.
 - [Collection](Collection.md) owns a season's reading order once that season is planned to L1. Season 2's order is there; Seasons 3 to 5 are slates here until their turn comes.
 
-**What bt 7274 settled** ([D28](Decisions.md#the-authors-decisions), 2026-11-09). The Villain's people are the Sea People's heirs: Port was their city until they "grew too strong and had their Port city taken by the other nations after a war". So they're both the Port-born and a people the post-war order erased. He wants a real voice for the Port-born. He has no idea the Council exists. Season 4 is a limited war at one border. The Night Fare's passenger is someone else. Season 5 tells the revelation as news. Rows that rest on this ruling are marked *(D28)*. Until a story's plan uses it, Port stays everyone's stationer on the page.
+**What bt 7274 settled** ([D28](Decisions.md#the-authors-decisions), 2026-11-09). The Villain's people are the Sea People's heirs: Port was their city until they "grew too strong and had their Port city taken by the other nations after a war". So they're both the Port-born and a people the post-war order erased. He wants a real voice for the Port-born. He has no idea the Council exists. Season 4 is a limited war at one border. The Night Fare's passenger is someone else. Season 5 tells the revelation as news. And Port "is all thats left of the last ruling empire" ([D30](Decisions.md#the-authors-decisions)): his people are the heirs of an empire with nothing left but one neutral city. Rows that rest on these rulings are marked *(D28)*. Until a story's plan uses it, Port stays everyone's stationer on the page.
 
 **D20 holds.** "The story is a garden." This plan says what each season needs from Wurdren, not where he goes. Seasons 3 to 5 are directional. Their slates are candidates, so a story that grows somewhere else can replace one.
 
@@ -210,7 +210,7 @@ selected strategy   five seasons as rungs; each gives the reader one or two infe
 alternatives        Villain homelands B–F, and A with C; a plot-driven cycle (rejected: breaks D2); one long novel
                     (rejected: not the Sunday method); total war in Season 4 (set aside: the tone guardrails)
 assumptions         as mapped; the Villain set by D28
-unknowns            the Sea People's war and their kin (below); the Villain's name; who Wurdren comes to matter to (D20)
+unknowns            the empire's name and the war (below); the Villain's name; who Wurdren comes to matter to (D20)
 reconsider if       bt 7274 picks another homeland; a cold read finds an inference a season early or not at all;
                     a story needs a character to see the pattern; a Season 4 story makes a reader brace
 ```
@@ -401,5 +401,6 @@ Its biggest risk: in Seasons 4 and 5 the plot starts to drive the stories. The s
 
 **What his answers open**, one at a time, each with a lean. Season 3 needs the first only when a Port story's plan reaches it:
 
-1. **The Sea People and Northwind.** *Lean:* a separate coastal people, now mostly Port-born. Some Northwind clans claim kin with them, which is why Northwind families tell the Port Seizure story as their own loss.
-2. **When the war was.** *Lean:* before the Convergence, which made the taking permanent as Port's neutral status. Either way, nobody now alive remembers it, only their grandparents' stories.
+*Answered by [D30](Decisions.md#the-authors-decisions):* Port is all that's left of the last ruling empire, the Sea People's. (D29, Northwind as the empire's remnant, was withdrawn.)
+
+1. **When the war was.** *Lean:* before the Convergence, which made the taking permanent as Port's neutral status. Either way, nobody now alive remembers it, only their grandparents' stories.
