@@ -8,7 +8,7 @@ Core function established. **Homeland, grievance, end-state and what he knows: b
 
 The Villain is the primary strategic mover of the plot.
 
-He believes the post-Convergence order is structurally incapable of giving his people what they need: his people are the heirs of the last ruling empire, whose city was taken and made everyone's ([below](#homeland-and-grievance-d28)).
+He believes the post-Convergence order is structurally incapable of giving his people what they need: he's a citizen of Port, "which is to be a citizen of nowhere" ([below](#homeland-and-grievance)).
 
 He blames the nations that took Port and the guarantees that keep it from its own people. **He has no idea the Economic Council exists** (D28). What he reads as the kingdoms repeatedly neutralizing change is often the Council quietly correcting course.
 
@@ -90,17 +90,19 @@ He may force real reform while personally failing, losing his coalition, accepti
 
 His impact remains part of the new world.
 
-## Homeland and grievance (D28)
+## Homeland and grievance
 
-bt 7274, 2026-11-09, answering the [Whole Road](../Sunday-Morning/Notes/The-Whole-Road.md#for-bt-7274) questions: "Both, In my mind Port is a former city of the Sea people who grew too strong and had their Port city taken by the other nations after a war." He agreed the end-state, and: "In my mind he has no idea about the Council."
+bt 7274, 2026-11-09 ([D32](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), superseding the homeland in D28): "nope, the villain is just a regular dude. He isnt seeking to return port to its former glory. He is just a citizen of Port, which is to be a citizen of nowhere. And he grew up here, and is tired of seeing Port be exploited".
 
-- **His people.** The empire's heirs: the Port-born, whose city it was, and a people the post-war order erased as a nation ([Port](../Places/Port.md#the-last-empires-city-d28-d30)). Port "is all thats left of the last ruling empire" ([D30](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)), so his people are the heirs of an empire with nothing left but one neutral city. The "Sea people" in bt 7274's first answer "was just an idea" ([D31](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); who the empire's people were is open. That's both of the alternatives The Whole Road weighed, the Port-born and the erased people, as one people.
-- **The grievance.** The empire grew too strong, and the other nations took its city after a war and made it everyone's. Port is neutral now because every power fears a rival holding it, and the people whose city it was have the least say in it. The comparison is the Free City of Danzig, for its mechanisms only; none of Danzig's history comes in, and the Port-born today are mixed, so the claim he makes for them is civic.
-- **What he wants.** A real voice for the Port-born in their own city, inside a renewed Convergence, which the [ending](../Story/Main-Conflict.md#possible-resolution-model) can partly grant.
-- **What he knows.** Nothing about the Council. His enemy is the nations that took Port.
+- **Who he is.** A regular man, a citizen of Port. He grew up there.
+- **What that means.** To be a citizen of Port is to be a citizen of nowhere: no kingdom's protection, no kingdom's say, and a city that belongs to everyone's trade ([Port](../Places/Port.md#culture)).
+- **The grievance.** He's tired of watching Port be exploited. Every kingdom's goods pass through it, every power guards its neutrality for its own sake, and the people who live there keep it running and have the least say in it. The comparison is the Free City of Danzig, for its mechanisms only.
+- **What he isn't after.** Port's former glory. Port is all that's left of the last ruling empire ([D30](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)), but that's the city's past, not his cause.
+- **What he wants.** A real voice for Port's people in their own city, inside a renewed Convergence, which the [ending](Main-Conflict.md#possible-resolution-model) can partly grant (D28).
+- **What he knows.** Nothing about the Council (D28). His enemy is the powers that use Port.
 - **His method.** From the Danzig alternate history in the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig-sparks-dominos): make the guarantors distrust each other until a neutral Port is the only ground they'll accept, then be the broker the peace needs.
 
-Still open: his name; the empire's name; exactly when and how it lost Port ([Open Questions](../Open-Questions.md#villain)).
+Still open: his name ([Open Questions](../Open-Questions.md#villain)).
 
 ## Legacy research
 

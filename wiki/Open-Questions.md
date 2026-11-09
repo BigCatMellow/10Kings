@@ -34,10 +34,13 @@ These are important areas where earlier brainstorming produced multiple versions
 
 ## Villain
 
-*Homeland, grievance, end-state and what he knows were settled by bt 7274 on 2026-11-09 ([D28](Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [Villain](Story/Villain.md#homeland-and-grievance-d28)): the heirs of the last ruling empire, whose city Port was; a real voice for the Port-born; and no idea the Council exists.*
+*Settled by bt 7274 on 2026-11-09 ([D28](Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [D32](Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [Villain](Story/Villain.md#homeland-and-grievance)): a regular citizen of Port, which is to be a citizen of nowhere, tired of seeing Port exploited; a real voice for Port's people; and no idea the Council exists.*
 
 - Name.
 - The point at which his methods become clearly unacceptable even to sympathetic readers.
+
+## Port's past
+
 - The war in which the empire lost Port: its name, and when it fell relative to the Convergence (lean: before it).
 - The last ruling empire: its name, its people, and how far it reached. *(Port is all that's left of it, [D30](Sunday-Morning/Notes/Decisions.md#the-authors-decisions); its people need not be the "Sea people", [D31](Sunday-Morning/Notes/Decisions.md#the-authors-decisions).)*
 

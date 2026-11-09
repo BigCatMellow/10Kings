@@ -38,10 +38,10 @@ Once those systems existed, trade attracted more trade.
 
 So Port was the great city of the last empire to rule. It grew too strong for its neighbors, lost a war, and the other nations took the city and made it everyone's. That's why its neutrality looks the way it does: every power fears what would happen if a rival held it, because once a single power did. The comparison is the Free City of Danzig, for its mechanisms only.
 
-- **Who the empire's heirs are.** Many Port-born families, mixed by now with every people that came after. The [Villain](../Story/Villain.md#homeland-and-grievance-d28) is one of them.
+- **Who the empire's heirs are.** Many Port-born families, mixed by now with every people that came after. Few of them think about it.
 - **Nothing else of the empire survives as a state** (D30). Whatever it held beyond Port went to the nations that took the city.
 - **When.** *Lean, provisional:* the war came before the [Convergence](../History/The-Convergence.md#neutral-port), and the Convergence made the taking permanent as Port's neutral status.
-- **Open:** the empire's name and people, the war's name, and how far the empire reached. Northwind families' [Port Seizure](../History/Contested-Memory.md#the-port-seizure) story stays a contested memory ([Open Questions](../Open-Questions.md#villain)).
+- **Open:** the empire's name and people, the war's name, and how far the empire reached. Northwind families' [Port Seizure](../History/Contested-Memory.md#the-port-seizure) story stays a contested memory ([Open Questions](../Open-Questions.md#ports-past)).
 
 ## Why other ports do not replace it
 
@@ -74,6 +74,8 @@ Its governing charter should therefore involve:
 - a locally accountable watch or guard.
 
 ## Culture
+
+"A citizen of Port, which is to be a citizen of nowhere" (bt 7274, [D32](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)). Port citizenship carries no kingdom's protection and no kingdom's say; the Port-born belong to a city that belongs to everyone's trade.
 
 Port is its own culture, not merely six regional quarters.
 

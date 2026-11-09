@@ -124,7 +124,7 @@ The fourteen already hold threads a later story can pick up without changing a w
 
 Each waits until a season needs it.
 
-- **Before Season 3:** *answered by [D28](Decisions.md#the-authors-decisions).* He's of the Sea People's heirs, whose city Port was; he wants a real voice for the Port-born; and he has no idea the Council exists ([Villain](../../Story/Villain.md#homeland-and-grievance-d28)).
+- **Before Season 3:** *answered by [D28](Decisions.md#the-authors-decisions).* He's of the Sea People's heirs, whose city Port was; he wants a real voice for the Port-born; and he has no idea the Council exists ([Villain](../../Story/Villain.md#homeland-and-grievance)).
 - **Before Season 4:** *answered by D28:* a limited war at one border.
 - **Before Season 5:** the point where his methods become unacceptable, and what the Council keeps and loses. *(Answered by D28: the ending is told as news, and he wants a real voice for the Port-born.)*
 - **Whenever a story needs it:** anything of Wurdren's past ([Rules](Rules.md#wurdren-in-sunday-morning-stories)), and who the first person he matters to turns out to be.

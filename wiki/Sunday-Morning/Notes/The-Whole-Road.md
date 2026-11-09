@@ -9,7 +9,7 @@ How the pages divide the work:
 - This page owns the saga-level plan: the destination, the seasons as rungs, the slate of candidate stories for Seasons 3 to 5, and the threads that cross seasons.
 - [Collection](Collection.md) owns a season's reading order once that season is planned to L1. Season 2's order is there; Seasons 3 to 5 are slates here until their turn comes.
 
-**What bt 7274 settled** ([D28](Decisions.md#the-authors-decisions), 2026-11-09). The Villain's people are the heirs of the last ruling empire: Port was their city until they "grew too strong and had their Port city taken by the other nations after a war", and Port "is all thats left of the last ruling empire" ([D30](Decisions.md#the-authors-decisions)). Who the empire's people were is open; the "Sea people" "was just an idea" ([D31](Decisions.md#the-authors-decisions)). So they're both the Port-born and a people the post-war order erased. He wants a real voice for the Port-born. He has no idea the Council exists. Season 4 is a limited war at one border. The Night Fare's passenger is someone else. Season 5 tells the revelation as news. Rows that rest on these rulings are marked *(D28)*. Until a story's plan uses it, Port stays everyone's stationer on the page.
+**What bt 7274 settled** ([D28](Decisions.md#the-authors-decisions), [D32](Decisions.md#the-authors-decisions), 2026-11-09). The Villain is "just a regular dude": a citizen of Port, "which is to be a citizen of nowhere", who grew up there and "is tired of seeing Port be exploited". He isn't seeking Port's former glory. He wants a real voice for Port's people. He has no idea the Council exists. Season 4 is a limited war at one border. The Night Fare's passenger is someone else. Season 5 tells the revelation as news. Separately, Port's own past: it was the great city of the last ruling empire, taken by the other nations after a war, and all that's left of it ([D30](Decisions.md#the-authors-decisions)); that's the city's history, not his cause. Rows that rest on these rulings are marked *(D28)*. Until a story's plan uses it, Port stays everyone's stationer on the page.
 
 **D20 holds.** "The story is a garden." This plan says what each season needs from Wurdren, not where he goes. Seasons 3 to 5 are directional. Their slates are candidates, so a story that grows somewhere else can replace one.
 
@@ -121,9 +121,9 @@ The mapping. The left column marks which source each row comes from: the real Fr
 | real: under the protection of an outside body | formalized by the [Convergence](../../History/The-Convergence.md#neutral-port), "treaty guarantees" |
 | real: demilitarized | "limits on kingdom troops inside the city" |
 | real: a neighbor's officials working inside the harbor | foreign enclaves, guild headquarters, envoys |
-| real: a city taken from the people who built it, after a war | the last ruling empire's city, taken by the other nations after a war ([D28](Decisions.md#the-authors-decisions), [Port](../../Places/Port.md#the-last-empires-city-d28-d30)); Northwind's [Port Seizure](../../History/Contested-Memory.md#the-port-seizure) story may remember it |
+| real: a city taken from those who built it, after a war | the last ruling empire's city, taken by the other nations after a war; Port's past, not the Villain's cause (D32) ([D28](Decisions.md#the-authors-decisions), [Port](../../Places/Port.md#the-last-empires-city-d28-d30)); Northwind's [Port Seizure](../../History/Contested-Memory.md#the-port-seizure) story may remember it |
 | real: a state that depended on the port for its trade | every kingdom's trade depends on Port, and the inland ones most |
-| alt: a people who belong to neither side and want a say | canon records "people who identify as Port-born first" ([Port](../../Places/Port.md#culture)): an identity, not yet a slogan |
+| alt: a people who belong to neither side and want a say | canon records "people who identify as Port-born first" ([Port](../../Places/Port.md#culture)), and "a citizen of Port, which is to be a citizen of nowhere" (D32): an identity, not yet a slogan |
 | alt: a local leader who plays the powers into war and brokers the peace | the Villain's method |
 
 *The grievance:* a people with a city and no country. They're run by charter for everyone else's trade, and the dockside has the least say in the city it keeps working. He blames the nations that took it. *(Superseded by D28: this plan first had him seeing the [Council](../../Politics/Economic-Council.md) behind the guarantees; he has no idea it exists, and reads its corrections as the kingdoms' own moves.)*
@@ -157,9 +157,9 @@ The alternate history's dock riots, in which people are killed, are **left out**
 | **E. A disinherited Council heir** | weak: palace intrigue | poor | there (the six houses) | hard: he'd know too much | none | empties the reader's detective work |
 | **F. A kingdom of his own** (the legacy goal) | weak: one man's ambition | poor | not there | yes | none | the reason the earlier pass rejected it |
 
-**bt 7274's choice: A and C together** ([D28](Decisions.md#the-authors-decisions)). His version makes them one people: the heirs of the last ruling empire, whose city Port was, are both the Port-born and the people the post-war order erased (D30).
+**bt 7274's choice: A, plainly** ([D32](Decisions.md#the-authors-decisions)). He's a regular citizen of Port who grew up there and is tired of seeing it exploited. No empire, no erased people, no former glory: "a citizen of Port, which is to be a citizen of nowhere". (D28 first said "both", with the city's imperial past as his people's; D32 replaced that.)
 
-**Kept as well: A with C.** The Port-born are his people, and the erased frontier people are a second grievance he courts. This spreads the clues beyond Port, which eases the risk of an early guess, and fits [The Treaty Stone](../Stories/Story-Seeds.md#the-treaty-stone) and [The Name on Both Walls](../Stories/Story-Seeds.md#the-name-on-both-walls). B stays in either way, as a grievance he plays rather than his own.
+**C, set aside.** The erased frontier people aren't his. They can still be someone else's grievance in a story about borders ([The Treaty Stone](../Stories/Story-Seeds.md#the-treaty-stone), [The Name on Both Walls](../Stories/Story-Seeds.md#the-name-on-both-walls)), and B stays a grievance he plays rather than his own.
 
 **Whether he knows the Council** (D28): he has no idea it exists. That makes the reader the only one who sees both hands, and gives Season 5 its turn: the hidden order surprises him too.
 
@@ -172,7 +172,7 @@ The alternate history's dock riots, in which people are killed, are **left out**
 | Port is neutral by treaty, limits kingdom troops, and has a Port-born identity | `VERIFIED` | [Port](../../Places/Port.md) |
 | The Council emerged through the Convergence, and a Port house holds Routes | `VERIFIED` | [The Convergence](../../History/The-Convergence.md#the-council-and-the-convergence), [the six houses](../../Politics/Economic-Council.md#the-six-houses) |
 | A season is about half World and half Domino | `VERIFIED` | [D24](Decisions.md#the-authors-decisions); every slate below is seven and seven |
-| The Villain is of the last empire's heirs, wants a real voice for the Port-born, and doesn't know the Council exists | `VERIFIED` | [D28](Decisions.md#the-authors-decisions) |
+| The Villain is a regular citizen of Port, tired of seeing it exploited; wants a real voice for Port's people; doesn't know the Council exists | `VERIFIED` | [D28](Decisions.md#the-authors-decisions), [D32](Decisions.md#the-authors-decisions) |
 | Season 4 is a limited war at one border | `VERIFIED` | D28 |
 | A season is about a year, of about fourteen stories | `ASSUMED` | Seasons 1 and 2 have fourteen each; [The Long Road](The-Long-Road.md#the-seasons-loosely) now says so too |
 | Five seasons | `ASSUMED` | The Long Road's table |
@@ -392,7 +392,7 @@ Its biggest risk: in Seasons 4 and 5 the plot starts to drive the stories. The s
 ## For bt 7274
 
 **Answered 2026-11-09** ([D28](Decisions.md#the-authors-decisions)):
-1. **Homeland:** both together; Port was the last ruling empire's city, taken by the other nations after a war (D28, D30; the Sea People were "just an idea", D31).
+1. **Homeland:** Port. He's a regular citizen of Port, "which is to be a citizen of nowhere", tired of seeing Port exploited; not after its former glory ([D32](Decisions.md#the-authors-decisions), replacing D28's first answer). Port's own past as the last ruling empire's city stands as history (D30, D31).
 2. **End-state:** a real voice for the Port-born inside a renewed Convergence.
 3. **What he knows:** nothing about the Council.
 4. **Season 4:** a limited war at one border.
