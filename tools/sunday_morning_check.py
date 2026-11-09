@@ -41,6 +41,7 @@ LINKED = ["commons", "press yard", "stern rail", "carrier would find", "reply le
           "blight took", "caravans since", "route book", "traveling coat", "first caravan",
           "cooked for the caravans",
           "convoy next season", "coves it", "waters were clean", "sail with in convoy", "said coves whose",
+          "fail to recognize", "sum sufficient", "valued useful", "recognize them", "no condition but", "folded small", "attention of one", "come to the attention", "clear educated hand", "kind that hangs", "left with the carrier",  # C6: the third letter (The Same Paper)
           "buying-up of farms", "buying up of farms", "of farms all along"]  # C7: the reform statement  # C8: Maris's letter, quoted on purpose
 
 STOP = set("""a an the and or but of to in on at by for with from as is was were be been

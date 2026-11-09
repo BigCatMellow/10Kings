@@ -102,4 +102,4 @@ His influence must remain believable because people remember what he did and tru
 
 ## Related pages
 
-- [Sunday Morning Stories](../Sunday-Morning/README.md) — small, low-stakes story concepts; [Inspected, Not Guaranteed](../Sunday-Morning/Stories/Inspected-Not-Guaranteed.md) features Wurdren (provisional, non-canon)
+- [Sunday Morning Stories](../Sunday-Morning/README.md) — small, low-stakes story concepts; [Inspected, Not Guaranteed](../Sunday-Morning/Stories/Inspected-Not-Guaranteed.md) features Wurdren (provisional, non-canon); in Season 2 he passes through [The Same Paper](../Sunday-Morning/Stories/The-Same-Paper.md), where he sees the ship's-lantern paper a second time and can't think where he saw it first

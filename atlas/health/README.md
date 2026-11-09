@@ -6,7 +6,7 @@
 
 ## At a glance
 
-- **571** things mapped, **825** connections (90% stated in the wiki, the rest inferred)
+- **572** things mapped, **832** connections (90% stated in the wiki, the rest inferred)
 - **35** open questions ([Part 8](../questions/README.md))
 - **80** gaps listed across the parts
 - **85** cards with no connection yet
@@ -23,11 +23,11 @@ Each card carries its wiki page's status label. "Writing reference" is the Sunda
 | Power | · | 35 | 30 | · | · | 65 |
 | History | 8 | 10 | 25 | · | · | 43 |
 | People | 1 | 1 | 10 | · | 76 | 88 |
-| Story | · | 35 | 99 | · | · | 134 |
+| Story | · | 35 | 100 | · | · | 135 |
 | Questions | · | · | · | 35 | · | 35 |
 | Foundations | 20 | 11 | 1 | · | · | 32 |
 | Systems | · | · | 17 | · | · | 17 |
-| **All** | **35** | **129** | **293** | **38** | **76** | **571** |
+| **All** | **35** | **129** | **294** | **38** | **76** | **572** |
 
 ## Where the cards are
 
@@ -39,7 +39,7 @@ Cards per board column and part. A dot means nothing from that part lives in tha
 | Northwind | 1 | 8 | 9 | 3 | 3 | 1 | 8 | · | · | · |
 | Highridge Plateau | 1 | 7 | 8 | 4 | 1 | 1 | 18 | 2 | · | · |
 | Deepwood | 1 | 7 | 9 | 3 | 3 | 1 | 8 | 1 | · | · |
-| Ironcrest | 1 | 7 | 10 | 3 | 2 | 1 | 12 | · | · | · |
+| Ironcrest | 1 | 7 | 10 | 3 | 2 | 1 | 13 | · | · | · |
 | Greenvale | 1 | 7 | 9 | 3 | 3 | 1 | 16 | · | · | · |
 | Sunplains | 1 | 7 | 8 | 3 | 2 | 1 | 8 | 1 | · | · |
 | Port | 1 | 6 | 1 | 3 | 3 | · | 15 | 2 | · | · |

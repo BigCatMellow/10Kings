@@ -2,7 +2,7 @@
 
 ## Status
 
-**Provisional collection design and a derived view of the domino web. Writing reference, not setting canon.** This page owns how the fourteen Sunday Morning stories work *as a set*: reading order and calendar, what the reader knows after each story, the cross-story promises, and how the set sits on the domino web. Each story page still owns its own story and its own Larger-world thread; this page shows how they connect.
+**Provisional collection design and a derived view of the domino web. Writing reference, not setting canon.** This page owns how the fourteen Sunday Morning stories work *as a set*: reading order and calendar, what the reader knows after each story, the cross-story promises, and how the set sits on the domino web. Each story page still owns its own story and its own Larger-world thread; this page shows how they connect. Since 2026-11-09 it also holds [Season 2's reading order](#season-2-reading-order-plan), as a plan.
 
 The calendar and every attribution below are **provisional**. The Villain's identity and plan remain [open questions](../../Open-Questions.md#villain), and [Current Events](../../Story/Current-Events.md) hasn't been audited against a final map. Rules for the world tie are on [Rules](Rules.md#the-world-tie-rule-connected-not-driven).
 
@@ -36,6 +36,39 @@ Read in calendar order. Each story stands alone; read in order, they add up to a
 | 14 | [Three Pots at Three Moon](../Stories/Three-Pots-at-Three-Moon.md) | Year 2, early autumn | Three Moon Festival | The polite land agent is mentioned by a family who didn't escape him. One street holds. The reader knows more than anyone in it. |
 
 The last column is the **expected reader state**, PLAN's expected-evidence idea applied to the reader. JUDGE checks drafts against it.
+
+## Season 2 reading order (plan)
+
+*bt 7274, 2026-11-09: "I think its important to begin add the main story like theyre sunday stories too. Seemingly nonchalant stories that are pushing the main story".*
+
+**L1, a plan.** Only [Mending Day](../Stories/Mending-Day.md) (drafted, the world-story test) and [The Same Paper](../Stories/The-Same-Paper.md) (the main-story test) are developed; every other row is a [seed](../Stories/Story-Seeds.md#world-seeds-2026-11-04) and will go through the [pipeline](Pipeline.md) on its own page, after bt 7274 has read the test. Season 2 runs from Year 2 early autumn to Year 3 early autumn, so it picks up where Three Pots leaves off ([The Long Road](The-Long-Road.md#the-seasons-loosely)).
+
+The mix follows [D24](Decisions.md#the-authors-decisions): eight Domino stories, most of them from [the main story, Season 2](../Stories/Story-Seeds.md#the-main-story-season-2), and six World stories. Wurdren is in three, early, in the middle and last. Every story still stands alone and nobody in any of them sees the pattern ([D21](Decisions.md#the-authors-decisions)). The main story moves because the Domino stories are placed side by side, not because any one of them is about it.
+
+| # | Story | Kind | When | Where | What the reader gains |
+| --- | --- | --- | --- | --- | --- |
+| 1 | [Harvest Home Again](../Stories/Story-Seeds.md#harvest-home-again) | Domino (Return) | Year 2, early autumn · Harvest Home | the Vale, Greenvale | A year on, a good harvest that nobody is buying. The Salve house's credit has been tightened somewhere offstage, and the festival's redistribution table is the part everyone needs. |
+| 2 | [Muster Bell](../Stories/Story-Seeds.md#muster-bell) | World | Year 2, late autumn | Seven Hill | A town that keeps what it was by making it a supper. |
+| 3 | [The Same Paper](../Stories/The-Same-Paper.md) | Domino (Stranger; Wurdren) | Year 2, midwinter · the shortest day | Clinker Row, the upper valley above Coalglen | A third letter on the ship's-lantern paper, in the same turn of phrase, in Orin Slatehallow's valley. Wurdren has seen the paper before and can't think where. Two letters were a hand; three are a habit. |
+| 4 | [The Widow's Share](../Stories/Story-Seeds.md#the-widows-share) | World | Year 2, late winter | a carters' guild town | A guild from the inside, as a welfare system. |
+| 5 | [The Rival Lamps](../Stories/Story-Seeds.md#the-rival-lamps) | Domino | Year 2, late winter | Vasselin, Sunplains | The rival city already reads Vasselin as Bahriyya's. Fear of a spy is fear of a coalition. |
+| 6 | [Small Jobs](../Stories/Story-Seeds.md#small-jobs) | Domino (Stranger; Wurdren) | Year 3, early spring · Pass Opening | a hiring hall in a pass town | The board's small jobs are the routes and roads going wrong. Wurdren takes the smallest. |
+| 7 | [The Harbor Runner](../Stories/Story-Seeds.md#the-harbor-runner) | World | Year 3, early spring · Tide Return | Port | Port's own culture and its four kinds of speech. |
+| 8 | [The Second Pour](../Stories/Story-Seeds.md#the-second-pour) | Domino (Return) | Year 3, spring | the upper valley above Coalglen | The valley pours again, on leathers somebody kept all winter. Whether Rhona Gwynne answered her letter again, and how, is for that story's plan. |
+| 9 | [Udo's Other Road](../Stories/Story-Seeds.md#udos-other-road) | Domino (Return) | Year 3, late spring | Ninewell Saddle and the stair | Smugglers using official closures. The broker's goods stay ordinary. |
+| 10 | [The Route Book](../Stories/Story-Seeds.md#the-route-book) | Domino (Thread) | Year 3, early summer | a waystation inn, Highridge | Samir's honest book has made one road safe and another poor. |
+| 11 | [The Unharvested Grove](../Stories/Story-Seeds.md#the-unharvested-grove) | World | Year 3, midsummer · Canopy Vigil | a Deepwood village | The Ages of Silence, remembered three ways. |
+| 12 | [Under the Lights](../Stories/Story-Seeds.md#under-the-lights) | World | Year 3, late summer · Aurora Nights | a Northwind coast | The one festival no story had used. |
+| 13 | [Mending Day](../Stories/Mending-Day.md) | World | Year 3, late summer | Kellerby, Greenvale | Part of the world at large, and the Ridge-Roamers. |
+| 14 | [Very Nearly](../Stories/Story-Seeds.md#very-nearly) | Domino (Return; Wurdren) | Year 3, early autumn | Stonefield Forge | Col answers his letter, a year late. Wurdren matters to one person. |
+
+**What the season adds up to** ([The Long Road](The-Long-Road.md#the-seasons-loosely)): the trouble has a shape, and more than one hand is in it. The cream letters (3, and 8 if it wants one) are one hand. The credit tightened on a patron house (1), a city read as a bloc (5) and a safe route that ruins its neighbor (10) are pressures that don't look like that hand's. Nobody in any story puts them together.
+
+**Changes from the seeds.** Very Nearly moves from late summer to early autumn, so the season ends where Season 1 did. The Same Paper moves the young metalworker from "offered a patron" in the abstract to a particular house, and gives her a bellows of her own design, so the letter has something to want.
+
+**Set aside for Season 3**, where the [escalation](../../Story/Main-Conflict.md#escalation) reaches regional political crises and cross-regional suspicion: The Paid Side, The Petition Room and What the Elder Wrote (statements and debates read as proof), The Patrol Boat (patrols read as aggression), The Penny Sale and The Trial Rows (Greenvale has Harvest Home Again and Mending Day already). [Shadow Charity](../Stories/Story-Seeds.md#shadow-charity) waits a season because The Same Paper also turns on gifts left on a doorstep, and [The Walker's Stone](../Stories/Story-Seeds.md#the-walkers-stone) because the Spine already has two stories here.
+
+**Checks still to run** when the rest are planned: the [shape check](Pipeline.md#collection-shape-check-for-a-set-of-stories) against both neighbors, and no festival used twice in the season (Harvest Home comes back on purpose, as a Return).
 
 ## How the stories connect
 
@@ -71,13 +104,14 @@ Every line is a promise the reader can check. The links are provisional: a draft
 | **C3** the polite land agent | One Square, s2 and s8 | Three Pots, Mrs. Arden: "a very polite man bought our notes" | Consolidation continues elsewhere in Greenvale; the Ardens' farm is one that *did* sell, a year after the Vale avoided it | the agent's manner (polite, lunch) | Optional: the line works without it |
 | **C4** Samir Tareh | The Goat File, s8 (settling caravan accounts at Ledger Closing; he hears the goat ruling) | The Heavy Scale, s9 (his route book already lists "Seven Wells: water and guides, one roof") | Caravan negotiators settle debts at Ledger Closing | his reason for being at Ledger Closing | No |
 | **C5** the Deepwood caravan cook, Garro Sedgewater | The Heavy Scale, s9 (the first caravan's cook, grumbling that mushrooms cost more than meat) | Three Pots, s5 (his verdict on the stews) | He has cooked for caravans since the blight took his village's mushroom harvest; he came over Icestep | his name and grievance | No |
-| **C6** the connected offers | Inspected, s4 (Col's patron) | The Tree With a Debt, s5 (Hollis's buyer) | Offers by letter are ordinary; both come through the same Port stationer | unsigned, heavy cream paper, ship's-lantern watermark, "should … fail to recognize" | Yes, for the collection's payoff: the watermark and phrase must be salient in s4 |
+| **C6** the connected offers | Inspected, s4 (Col's patron) | The Tree With a Debt, s5 (Hollis's buyer); in Season 2, [The Same Paper](../Stories/The-Same-Paper.md), s3 (Rhona's patron, the third letter, [D25](Decisions.md#the-authors-decisions)) | Offers by letter are ordinary; both come through the same Port stationer | unsigned, heavy cream paper, ship's-lantern watermark, "should … fail to recognize" | Yes, for the collection's payoff: the watermark and phrase must be salient in s4 |
 | **C7** the reform statement | The Eighth Verse, s2 (Yorick's notice and the circles' joint statement that the buying-up of distressed farms is coordinated theft) | The Blank Square, s3 (on the table, with a row of marks) | Circle and faith letters travel slowly from village to village ([Couriers #10](../../Couriers-Posts-and-Message-Networks.md#10-faith-networks-can-carry-messages-beyond-commercial-corridors)) | the claim ("coordinated theft"); Reedveil Bend's mark isn't on it | No |
 | **C8** Maris's convoy lists | The Greenvale Man (her letter: name the coves you'll sail with in convoy next season, "coves whose waters were clean"; coves send their lists that autumn) | The First Fish, s4 and s8 (the lists confirmed before the first summer convoy) | The convoy season opens in spring | the letter's terms | No |
 | **C9** Lio Tarrow | The Goat File (Ebbe's grandson, from Seven Wells; he and Nessa Kesh stand up at the hearing, and the wedding is set for the spring) | The Road in Use, s4 (guiding the first outbound caravan, newly married) | Seven Wells is "water and guides, one roof"; guides hire out to caravans | his family and town; married in the spring, without saying which house hosted | No |
 | **C10** Kerra Dunnock | Inspected, s8 (she passes with her blade at Forge Reawakening) | Walkout Pies, s4 (come to watch the great pour) | Smiths travel to see a big casting | a young bladesmith from Stonefield who has just passed | No |
 | **C11** the Twilighthollow community record | The Tree With a Debt (the Weaver-path elder writes everything into the community record, Hollis burning the letter included) | The Blank Square, s2 (it arrives soaked, every page unreadable) | Weaver houses exchange their year's records | it arrives unreadable; nothing about the letter travels ([D3](Decisions.md#the-authors-decisions)) | No |
 | **C12** the lost corridor | The Road in Use, s5 (the stair-hut is shut; the broker didn't come up; the deep road fell in the same shake) | The Mushrooms From Nowhere, s1 (Xenna opens the stair-hut herself) | Underpass trade comes up the stair to the pass town | the stair-hut by the east gate; the broker lost his corridor, not his life | No |
+| **C13** the leathers kept *(Season 2)* | [The Same Paper](../Stories/The-Same-Paper.md), s1–s6 (Rhona dresses the Upper Works' bellows all winter; the breath on the shortest day: "She's sound") | [The Second Pour](../Stories/Story-Seeds.md#the-second-pour) (the upper valley pours in spring), and whatever Rhona does after it ("After the pour") | Winter maintenance before the spring fires ([Festivals](../../Culture/Festivals-and-Seasonal-Life.md#ironcrest)) | the bellows sound; her reply deferred, not refused | No |
 
 C6 is Season 1's only link to the hidden hand ([D3](Decisions.md); in Season 2 a third letter makes it a pattern, [D25](Decisions.md#the-authors-decisions)), and C11 exists partly to show that it stays that way: the one record that described the second letter reaches another house unreadable. No character connects the two letters; the reader who has read both can. Readers keep gist, not wording, so the phrase gets salience where it first appears (Col reads it aloud to Wurdren in s5), and the watermark gets one concrete sentence in each story.
 
@@ -110,6 +144,7 @@ A summary of each story page's Larger-world thread; the story page owns the deta
 | [The Mushrooms From Nowhere](../Stories/The-Mushrooms-From-Nowhere.md) | Underpass route wars; fungal disruption | none | The fair's blight-year mark rule, and a dealer's offer to pass cellar mushrooms off as forest ones | The blight's cause and reach `UNKNOWN`; the dealer's buyers `UNKNOWN` | A named stall and a new line in the fair book | Other enclaves sell through dealers, and their goods go off the record |
 | [The Blank Square](../Stories/The-Blank-Square.md) | Religious networks; logging and road conflict | none (Naruin's domino only in the outward effect) | Two joint statements asking a house to mark what it didn't see | Who steers the statements `UNKNOWN`; the faiths see only disagreeing numbers | A blank square; neither statement signed | Other houses sign both, and the plateau reads a row of Weaver marks as Deepwood lining up against roads |
 | [Three Pots at Three Moon](../Stories/Three-Pots-at-Three-Moon.md) | Refugee and worker pressure; smuggling surge; Deepwood fungal disruption | none | A street rumor that the newcomers next door are smugglers, while inspectors are fining unpermitted stalls | Ordinary prejudice | The first bowl goes to the newcomers; Jory files their permit | Three Moon does its civic job on one street: incompatible people share one space |
+| [The Same Paper](../Stories/The-Same-Paper.md) *(Season 2)* | Unusual metal movements; labor unrest a year on | [Orin Slatehallow](../../Story/Villains-Dominoes.md#orin-slatehallow--ironcrest), as a chimney up the valley | A third unsigned letter on the ship's-lantern paper offers Rhona a workshop "should the valley fail to recognize" her bellows | The Villain (provisional): the same hand as Col's and Hollis's letters. A Port buyer bought one of her bellows in the autumn, `UNKNOWN` | She answers "After the pour"; the Row keeps her in dripping; the leathers are sound for spring | The upper valley can pour in spring. The hand holds a reply that defers rather than refuses, and Wurdren has seen the paper twice |
 
 ### Where the nail still fell
 
@@ -131,6 +166,7 @@ Every story holds its own ground, but the same nail succeeds somewhere just offs
 | The Mushrooms From Nowhere | Underwell sells under its own name | Other enclaves sell through dealers, off the record |
 | The Blank Square | Larchmere signs neither statement | Other Weaver houses sign both |
 | Three Pots at Three Moon | One street shares its space | The smuggling rumors keep running on the next street over |
+| The Same Paper *(Season 2)* | Rhona stays till the pour | The saddler's boy, and others from the valley, already went up to the Slatehallow workshop |
 
 ### The view from the desks
 
@@ -152,6 +188,7 @@ Out of story: what each hidden power could conclude from the seven events, follo
 | The Mushrooms From Nowhere | Nothing. | A fair book with a new line for goods grown below. Nothing yet. |
 | The Blank Square | One house didn't sign. The row of marks is long anyway. | A long row of Weaver marks against the road arrives on the plateau. The Council's desk may read it as Deepwood organizing. |
 | Three Pots at Three Moon | Nothing. | Nothing. |
+| The Same Paper *(Season 2)* | A talent who wrote back "After the pour". Worth another letter in spring. | Nothing. |
 
 Individually, every entry is noise. Together they are the kind of pattern the [Villain's page](../../Story/Villain.md#relationship-to-wurdren) says he eventually notices: people repairing connections without being paid or coerced. That realization belongs to the saga, not to any Sunday Morning story.
 

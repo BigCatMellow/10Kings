@@ -33,7 +33,7 @@ Each season the [Current Events](../../Story/Current-Events.md) are one rung fur
 
 ### What the reader can piece together
 
-Season 1 gave the attentive reader one inference: someone is behind the offers (C6). Season 2's third letter ([D25](Decisions.md#the-authors-decisions), [The Same Paper](../Stories/Story-Seeds.md#the-same-paper)) turns the pair into a pattern. Each later season should give one or two more, made only from things set side by side:
+Season 1 gave the attentive reader one inference: someone is behind the offers (C6). Season 2's third letter ([D25](Decisions.md#the-authors-decisions), [The Same Paper](../Stories/The-Same-Paper.md)) turns the pair into a pattern. Each later season should give one or two more, made only from things set side by side:
 
 - the same object, phrase or person turning up in two places;
 - a Return story showing what a town's good outcome led to a year on;
@@ -61,7 +61,7 @@ No route, no fixed plan ([D20](Decisions.md#the-authors-decisions)). These are t
 | Season | The world under the stories ([escalation](../../Story/Main-Conflict.md#escalation)) | Wurdren | What the reader could piece together by the end |
 | --- | --- | --- | --- |
 | **1** (done) | apparently independent local problems | once, at Stonefield; sees one letter he doesn't understand | someone is behind the offers |
-| **2** (begun: test story [Mending Day](../Stories/Mending-Day.md); spine in [Story Seeds](../Stories/Story-Seeds.md#the-main-story-season-2)) | recognizable patterns: the same kinds of trouble in more places | from time to time, in other people's stories (lean: [The Same Paper](../Stories/Story-Seeds.md#the-same-paper), [Small Jobs](../Stories/Story-Seeds.md#small-jobs), [Very Nearly](../Stories/Story-Seeds.md#very-nearly)) | the trouble has a shape, and more than one hand is in it |
+| **2** (begun: test stories [Mending Day](../Stories/Mending-Day.md) and [The Same Paper](../Stories/The-Same-Paper.md); spine in [Story Seeds](../Stories/Story-Seeds.md#the-main-story-season-2); order in [Collection](Collection.md#season-2-reading-order-plan)) | recognizable patterns: the same kinds of trouble in more places | from time to time, in other people's stories (lean: [The Same Paper](../Stories/Story-Seeds.md#the-same-paper), [Small Jobs](../Stories/Story-Seeds.md#small-jobs), [Very Nearly](../Stories/Story-Seeds.md#very-nearly)) | the trouble has a shape, and more than one hand is in it |
 | **3** | regional political crises; cross-regional suspicion | more often; the people who trust him begin to show | the two hands are working against each other |
 | **4** | mobilization; near-war or limited war, felt from the towns | the people from earlier stories are his network | ordinary trust is what neither side planned for |
 | **5** | revelation; convergence | at the table, or near it, because of the people | the ending, in the voice of the first story |
@@ -106,7 +106,7 @@ These are tools, not a format. The mix can shift as the seasons go.
 
 The fourteen already hold threads a later story can pick up without changing a word. These are candidates, not a plan:
 
-- **The unanswered letter on Col's bench**, which Wurdren saw ([Inspected](../Drafts/Inspected-Not-Guaranteed.md)). Seeded: [The Same Paper](../Stories/Story-Seeds.md#the-same-paper), [Very Nearly](../Stories/Story-Seeds.md#very-nearly).
+- **The unanswered letter on Col's bench**, which Wurdren saw ([Inspected](../Drafts/Inspected-Not-Guaranteed.md)). Seeded: [The Same Paper](../Stories/The-Same-Paper.md) (drafted), [Very Nearly](../Stories/Story-Seeds.md#very-nearly).
 - **The letter Hollis burned and the Weaver-path elder wrote down** ([The Tree With a Debt](../Drafts/The-Tree-With-a-Debt.md)), and **the only written account, lost at the ford** ([The Blank Square](../Drafts/The-Blank-Square.md)). Seeded: [What the Elder Wrote](../Stories/Story-Seeds.md#what-the-elder-wrote).
 - **The pledges the buyer had already bought along the road** (The Tree).
 - **The Salve house buying Greenvale grain** ([One Square](../Drafts/One-Square-Two-Harvests.md)), and the credit squeeze Collection's [desk view](Collection.md#the-view-from-the-desks) expects. Seeded: [Harvest Home Again](../Stories/Story-Seeds.md#harvest-home-again).

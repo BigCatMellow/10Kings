@@ -128,7 +128,7 @@ Possible thread: [Samir Tareh](../../Story/Villains-Dominoes.md#samir-tareh--hig
 
 #### The Same Paper
 
-`DOMINO` (a Stranger story; Wurdren) · *an Ironcrest valley above Coalglen · winter*
+`ACTIVE` → [story page](The-Same-Paper.md) (L3 first pass, 2026-11-09), the Season 2 main-story test ([D26](../Notes/Decisions.md#the-authors-decisions)). The page sets it on Clinker Row, the shortest day, and gives the young metalworker a name, Rhona Gwynne, and a bellows of her own design. The seed is kept as written. · `DOMINO` (a Stranger story; Wurdren) · *an Ironcrest valley above Coalglen · winter*
 
 Wurdren stops to mend a bellows for a young metalworker who has been offered a patron. He sees the letter on the bench: heavy cream paper, a ship's lantern in the watermark. He has seen that paper once before and can't think where, and it bothers him all the way down the valley.
 
@@ -1138,7 +1138,7 @@ How the stories are made doesn't change. Each picked seed runs the [pipeline](..
 
 1. **bt 7274 picks** which seeds go forward, and answers the [questions](#questions-for-bt-7274) for any seed that needs them.
 2. **Test story first:** lean, Mending Day, because it tests the new thing (a story with no thread) and needs no new lore. Its cold read checks one extra question: does it feel like part of the same book?
-3. **Season 2's mix** ([D24](../Notes/Decisions.md#the-authors-decisions)): about half World and half Domino. The Domino half comes mostly from [the main story, Season 2](#the-main-story-season-2), with Wurdren in two or three of them (lean: The Same Paper early, Small Jobs in the middle, Very Nearly last).
+3. **Season 2's mix** ([D24](../Notes/Decisions.md#the-authors-decisions)): about half World and half Domino. *(Now laid out as [Season 2's reading order](../Notes/Collection.md#season-2-reading-order-plan), 2026-11-09, with [The Same Paper](The-Same-Paper.md) as the main-story test, [D26](../Notes/Decisions.md#the-authors-decisions).)* The Domino half comes mostly from [the main story, Season 2](#the-main-story-season-2), with Wurdren in two or three of them (lean: The Same Paper early, Small Jobs in the middle, Very Nearly last).
 4. **A dish for each story.** Fifty-eight named dishes are unused ([coverage](../../../atlas/coverage/Coverage.md#food)). When a seed is planned, Stage 0 picks its meal from the unused dishes of its region first.
 5. **After drafting,** rerun the [coverage](../../../atlas/coverage/Coverage.md) report to see what the season added.
 

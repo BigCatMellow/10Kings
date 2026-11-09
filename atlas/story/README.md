@@ -8,7 +8,7 @@ The main conflict, the current events and how they can ripple into each other, t
 
 Current events sit in their region's column (the cross-region ripple steps, the faiths' reading of the crises and the main-conflict cards in a Main conflict column). Each Sunday Morning story and seed sits in the column of its setting, with lines to its town or region, its festival, the events it sits on, its domino figure, its cast from Part 6, and the stories it shares a thread with. The ripple chain from Current Events is drawn step by step and marked possible.
 
-**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 14 sunday morning storys, 84 story seeds; 384 connections (374 stated in the wiki, 10 inferred).
+**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 15 sunday morning storys, 84 story seeds; 391 connections (381 stated in the wiki, 10 inferred).
 
 ## Gaps this part exposes
 
@@ -311,6 +311,10 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | The Honest Fence | would use | Port crime | stated, possible | “Port's” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-honest-fence) |
 | The Waiting Shore | would use | Northwind cuisine | stated, possible | “Northwind cuisine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-waiting-shore) |
 | The Forecast Table | would use | Sunplains cuisine | stated, possible | “Sunplains cuisine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-forecast-table) |
+| The Same Paper | sits on | Unusual metal movements | stated | “Unusual metal movements; labor unrest a year on” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Same Paper | sits on | Labor unrest | stated | “Unusual metal movements; labor unrest a year on” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Same Paper | touches the domino of | Orin Slatehallow | stated | “as a chimney up the valley” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Same Paper | shares a thread with | Inspected, Not Guaranteed | stated | “the connected offers” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
 
 ## Who appears where
 
@@ -407,6 +411,8 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Nils Orvay | appears in | The Blank Square | stated | “Blank Square | Nils Orvay | Illuminated copyist” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Zan Coyle | appears in | The Mushrooms From Nowhere | stated | “Road in Use | Zan Coyle | mule-wrangler (also Mushrooms)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 | Vinegar | appears in | The Mushrooms From Nowhere | stated | “Road in Use | Vinegar | lead pony (also Mushrooms)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Wurdren | appears in | The Same Paper | stated | “Same Paper | Wurdren | passing through” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
+| Orin Slatehallow | appears in | The Same Paper | stated | “Same Paper | Orin Slatehallow | Ironcrest domino figure (gossip)” [source](../../wiki/Sunday-Morning/Notes/Registry.md#names) |
 
 ## Who's behind each nail (provisional)
 
@@ -423,6 +429,7 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | The Ladder Rules | may have behind it | The Villain | stated, possible | “is the Villain's pattern for her domino” [source](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md#larger-world-thread) |
 | The First Fish at Snowbreaker Quay | may have behind it | The Villain | stated, possible | “are the kind of thing the Villain can use” [source](../../wiki/Sunday-Morning/Stories/The-First-Fish.md#larger-world-thread) |
 | Walkout Pies | may have behind it | The Villain | stated, possible | “Strike timing is a lever the hidden powers can use” [source](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md#larger-world-thread) |
+| The Same Paper | may have behind it | The Villain | stated, possible | “The Villain (provisional): the same hand as Col's and Hollis's letters” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
 
 ## Sunday Morning shortcuts (not canon)
 
@@ -751,6 +758,7 @@ flowchart LR
   seed_w_the_honest_fence["The Honest Fence"]
   seed_w_the_waiting_shore["The Waiting Shore"]
   seed_w_the_forecast_table["The Forecast Table"]
+  story_same_paper["The Same Paper"]
   st_main --> pp_villain
   st_main --> pw_council
   st_main --> pp_wurdren
@@ -1125,6 +1133,13 @@ flowchart LR
   seed_w_the_honest_fence -.->|possible| pw_crime_port
   seed_w_the_waiting_shore -.->|possible| northwind_food
   seed_w_the_forecast_table -.->|possible| sunplains_food
+  story_same_paper --> st_ic_metal
+  story_same_paper --> st_ic_labor
+  story_same_paper --> pp_orin
+  story_same_paper -.->|possible| pp_villain
+  story_same_paper --> story_inspected
+  pp_wurdren --> story_same_paper
+  pp_orin --> story_same_paper
 ```
 
 ## Every thing in this part
@@ -1415,6 +1430,7 @@ Grouped by board column.
 | [10. Workshops cut hours](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 10 of one possible ripple chain: Ironcrest workshops reduce hours. |
 | [11. Strike leaders blame owners](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 11 of one possible ripple chain: strike leaders blame owners. |
 | [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md#status) | Sunday Morning story, Year 2, midsummer | Provisional | A provisional Sunday Morning story, one of the seven added on 2026-11-02 and drafted (L3, first pass): writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Same Paper](../../wiki/Sunday-Morning/Stories/The-Same-Paper.md#status) | Sunday Morning story, Year 2, midwinter | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The Same Paper](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-same-paper) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Second Pour](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-second-pour) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [Forge Reawakening](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1457,6 +1473,17 @@ Grouped by board column.
 - *Still falls elsewhere:* Another valley's pour is lost to a walkout. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Outward effect:* In another valley the walkout hit the pour; owners and crews blame each other there. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [Walkout Pies](../../wiki/Sunday-Morning/Drafts/Walkout-Pies.md), [Walkout Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+
+**The Same Paper**
+
+- *Premise:* Every week of the frost somebody has to climb inside the great bellows at the Upper Works and work warm dripping into the leathers, or they crack, and there'll be no pour in spring. ([source](../../wiki/Sunday-Morning/Stories/The-Same-Paper.md#premise))
+- *When:* Season 2: Year 2, midwinter, the shortest day (provisional calendar) ([source](../../wiki/Sunday-Morning/Notes/Collection.md#season-2-reading-order-plan))
+- *The nail:* A third unsigned letter on the ship's-lantern paper offers Rhona a workshop "should the valley fail to recognize" her bellows. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Behind it:* The Villain (provisional): the same hand as Col's and Hollis's letters (a provisional attribution nobody inside the story knows). ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Holds here:* Rhona stays till the pour. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Still falls elsewhere:* The saddler's boy, and others from the valley, already went up to the Slatehallow workshop. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
+- *Outward effect:* The upper valley can pour in spring. The hand holds a reply that defers rather than refuses, and Wurdren has seen the paper twice. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
+- *Also on:* [The Same Paper](../../wiki/Sunday-Morning/Drafts/The-Same-Paper.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
 
 **The Same Paper**
 

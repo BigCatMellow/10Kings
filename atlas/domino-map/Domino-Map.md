@@ -10,7 +10,7 @@ The dominoes come from their owner pages: [Villain's Dominoes](../../wiki/Story/
 
 ## Coverage
 
-Of 30 ground-level dominoes: **14** have a story, **16** are touched by one, **0** have only a seed, and **0** are open.
+Of 30 ground-level dominoes: **15** have a story, **15** are touched by one, **0** have only a seed, and **0** are open.
 
 ### Open, with nothing on them yet
 
@@ -26,8 +26,7 @@ Of 30 ground-level dominoes: **14** have a story, **16** are touched by one, **0
 - **Rosana Meadowcroft** (Greenvale): touched by One Square, Two Harvests
 - **Farmers default** (Greenvale): touched by The Eighth Verse, Inspected, Not Guaranteed
 - **Consolidators buy distressed farms** (Greenvale): touched by One Square, Two Harvests, The Eighth Verse, Three Pots at Three Moon
-- **Orin Slatehallow** (Ironcrest): touched by Inspected, Not Guaranteed, Walkout Pies
-- **Good metal vanishing into private contracts** (Ironcrest): touched by Inspected, Not Guaranteed
+- **Good metal vanishing into private contracts** (Ironcrest): touched by Inspected, Not Guaranteed, The Same Paper
 - **Caravan attacks** (Highridge): touched by The Goat File, The Heavy Scale at Icestep Summit
 - **Samir Tareh** (Highridge): touched by The Heavy Scale at Icestep Summit
 - **Debates tied to patrons** (Highridge): touched by The Tree With a Debt
@@ -62,7 +61,7 @@ flowchart TB
     gv_reformers["Reformers call it coordinated theft<br/><i>The Eighth Verse</i>"]
   end
   subgraph r_Ironcrest["Ironcrest"]
-    fig_orin(["Orin Slatehallow"])
+    fig_orin(["Orin Slatehallow<br/><i>The Same Paper</i>"])
     ic_metal["Good metal vanishing into private contracts"]
     ic_hours["Tool orders fall; workshops cut hours<br/><i>Inspected, Not Guaranteed</i>"]
     ic_labor["Labor unrest; strike talk<br/><i>Walkout Pies</i>"]
@@ -131,8 +130,8 @@ flowchart TB
   classDef touched fill:#ccebe7,color:#0b3b36,stroke:#0f766e
   classDef seed fill:#fdecd3,color:#6b3508,stroke:#b45309
   classDef open fill:#eef0ee,color:#3a4440,stroke:#8a938f
-  class nw_convoy,nw_fish,pt_credit,pt_refugees,gv_abundance,gv_reformers,ic_hours,ic_labor,hr_routes,dw_road,sp_coalition,sx_quake,sx_routewars,x_faiths story
-  class nw_piracy,fig_maris,pt_smuggling,fig_rosana,gv_default,gv_land,fig_orin,ic_metal,hr_attacks,fig_samir,hr_debate,fig_naruin,dw_leak,dw_fungal,sp_drought,fig_bahriyya touched
+  class nw_convoy,nw_fish,pt_credit,pt_refugees,gv_abundance,gv_reformers,fig_orin,ic_hours,ic_labor,hr_routes,dw_road,sp_coalition,sx_quake,sx_routewars,x_faiths story
+  class nw_piracy,fig_maris,pt_smuggling,fig_rosana,gv_default,gv_land,ic_metal,hr_attacks,fig_samir,hr_debate,fig_naruin,dw_leak,dw_fungal,sp_drought,fig_bahriyya touched
   class x_council,x_amplify,x_proof seed
 ```
 
@@ -152,10 +151,10 @@ flowchart TB
 | Greenvale | [Farmers default](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step | touched by a story: [The Eighth Verse](../../wiki/Sunday-Morning/Drafts/The-Eighth-Verse.md) (touches), [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md) (touches), [Harvest Home Again](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#harvest-home-again) (seed) | Bumper harvest won't sell | Council steadies the lenders; Tool orders fall; workshops cut hours *(story design)* |
 | Greenvale | [Consolidators buy distressed farms](../../wiki/Story/Current-Events.md#land-and-seed-politics) | current event | touched by a story: [One Square, Two Harvests](../../wiki/Sunday-Morning/Drafts/One-Square-Two-Harvests.md) (touches), [The Eighth Verse](../../wiki/Sunday-Morning/Drafts/The-Eighth-Verse.md) (touches), [Three Pots at Three Moon](../../wiki/Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md) (touches), [The Penny Sale](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-penny-sale) (seed), [The Stopping Place](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-stopping-place) (seed), [The Seed Swap](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-seed-swap) (seed) | Council steadies the lenders; Bumper harvest won't sell | Reformers call it coordinated theft; Displaced families arrive *(story design)* |
 | Greenvale | [Reformers call it coordinated theft](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step | has a story: [The Eighth Verse](../../wiki/Sunday-Morning/Drafts/The-Eighth-Verse.md), [The Blank Square](../../wiki/Sunday-Morning/Drafts/The-Blank-Square.md) (touches), [The Petition Room](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-petition-room) (seed), [The Kitchen Court](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-kitchen-court) (seed) | Consolidators buy distressed farms; Faiths compare notes | Tool orders fall; workshops cut hours |
-| Ironcrest | [Orin Slatehallow](../../wiki/Story/Villains-Dominoes.md#orin-slatehallow--ironcrest) | character domino | touched by a story: [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md) (touches), [Walkout Pies](../../wiki/Sunday-Morning/Drafts/Walkout-Pies.md) (touches), [The Same Paper](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-same-paper) (seed) | — | Good metal vanishing into private contracts |
-| Ironcrest | [Good metal vanishing into private contracts](../../wiki/Story/Current-Events.md#unusual-metal-movements) | current event | touched by a story: [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md) (touches), [The Bathhouse Compact](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bathhouse-compact) (seed), [The Same Paper](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-same-paper) (seed), [Very Nearly](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#very-nearly) (seed) | Orin Slatehallow | Tool orders fall; workshops cut hours *(story design)* |
+| Ironcrest | [Orin Slatehallow](../../wiki/Story/Villains-Dominoes.md#orin-slatehallow--ironcrest) | character domino | has a story: [The Same Paper](../../wiki/Sunday-Morning/Drafts/The-Same-Paper.md), [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md) (touches), [Walkout Pies](../../wiki/Sunday-Morning/Drafts/Walkout-Pies.md) (touches) | — | Good metal vanishing into private contracts |
+| Ironcrest | [Good metal vanishing into private contracts](../../wiki/Story/Current-Events.md#unusual-metal-movements) | current event | touched by a story: [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md) (touches), [The Same Paper](../../wiki/Sunday-Morning/Drafts/The-Same-Paper.md) (touches), [The Bathhouse Compact](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bathhouse-compact) (seed), [Very Nearly](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#very-nearly) (seed) | Orin Slatehallow | Tool orders fall; workshops cut hours *(story design)* |
 | Ironcrest | [Tool orders fall; workshops cut hours](../../wiki/Story/Current-Events.md#example-ripple-chain) | ripple-chain step | has a story: [Inspected, Not Guaranteed](../../wiki/Sunday-Morning/Drafts/Inspected-Not-Guaranteed.md), [Walkout Pies](../../wiki/Sunday-Morning/Drafts/Walkout-Pies.md) (touches), [The Second Pour](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-second-pour) (seed) | Reformers call it coordinated theft; Farmers default *(story design)*; Good metal vanishing into private contracts *(story design)* | Labor unrest; strike talk |
-| Ironcrest | [Labor unrest; strike talk](../../wiki/Story/Current-Events.md#labor-unrest) | current event | has a story: [Walkout Pies](../../wiki/Sunday-Morning/Drafts/Walkout-Pies.md), [The Second Pour](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-second-pour) (seed), [Forge Reawakening](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening) (seed), [The Turnout](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-turnout) (seed) | Tool orders fall; workshops cut hours | Villain amplifies 'Council involvement' |
+| Ironcrest | [Labor unrest; strike talk](../../wiki/Story/Current-Events.md#labor-unrest) | current event | has a story: [Walkout Pies](../../wiki/Sunday-Morning/Drafts/Walkout-Pies.md), [The Same Paper](../../wiki/Sunday-Morning/Drafts/The-Same-Paper.md) (touches), [The Second Pour](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-second-pour) (seed), [Forge Reawakening](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#forge-reawakening) (seed), [The Turnout](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-turnout) (seed) | Tool orders fall; workshops cut hours | Villain amplifies 'Council involvement' |
 | Highridge | [Caravan attacks](../../wiki/Story/Current-Events.md#caravan-attacks) | current event | touched by a story: [The Goat File](../../wiki/Sunday-Morning/Drafts/The-Goat-File.md) (touches), [The Heavy Scale at Icestep Summit](../../wiki/Sunday-Morning/Drafts/The-Heavy-Scale.md) (touches), [The Route Book](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-route-book) (seed) | — | Trade concentrates on 'safe' routes |
 | Highridge | [Samir Tareh](../../wiki/Story/Villains-Dominoes.md#samir-tareh--highridge) | character domino | touched by a story: [The Heavy Scale at Icestep Summit](../../wiki/Sunday-Morning/Drafts/The-Heavy-Scale.md) (touches), [The Route Book](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-route-book) (seed) | — | Trade concentrates on 'safe' routes |
 | Highridge | [Trade concentrates on 'safe' routes](../../wiki/Story/Current-Events.md#caravan-attacks) | current event | has a story: [The Heavy Scale at Icestep Summit](../../wiki/Sunday-Morning/Drafts/The-Heavy-Scale.md), [The Goat File](../../wiki/Sunday-Morning/Drafts/The-Goat-File.md) (touches), [The Route Book](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-route-book) (seed), [The Map With a Gap](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-map-with-a-gap) (seed), [Protected Goods](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#protected-goods) (seed) | Caravan attacks; Samir Tareh | Smuggling surge |

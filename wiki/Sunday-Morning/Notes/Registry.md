@@ -130,6 +130,14 @@ Every named character in the drafts. Mark canon figures `canon`: the script repo
 | Mending Day | Farren | household | minor |
 | Mending Day | Prowse | household | minor |
 | Mending Day | Tibbs | household | minor |
+| Same Paper | Rhona Gwynne | bellows-maker; keeps the Works' leathers | protagonist |
+| Same Paper | Iolo Gwynne | her grandfather, the Works' bellows-keeper, laid up | cast |
+| Same Paper | Wurdren | passing through | canon |
+| Same Paper | Jupp | the owners' watchman at the Upper Works | cast |
+| Same Paper | Cadoc | ladle-man, one of the crews | minor |
+| Same Paper | Verity | neighbor on the Row | minor |
+| Same Paper | Druce | the valley's carrier | minor |
+| Same Paper | Orin Slatehallow | Ironcrest domino figure (gossip) | canon |
 <!-- registry:names:end -->
 
 ### Name rules
@@ -169,10 +177,11 @@ The collection's variety lives here. A new story should differ from its neighbor
 | 13 | Blank Square *(new)* | carrier who can't read | a gap tempting people to fill it | an absence (a blank square) | quiet, contemplative | a river up at the ford | "I saw it go. That's what's in it." |
 | 14 | Three Pots | family member who doesn't cook | inheritance, a permit deadline | memory: three fragments of one ritual | tender family | the grandmother's announcement | "Again next year." |
 | 15 | Mending Day *(Season 2, world story)* | heir who can do the work and not the visit | a year of broken things against three days | a thing taken away to be brought back | warm, rueful | trestles laid out before the wagons arrive | a fiddle played at the first camp on the road |
+| 16 | The Same Paper *(Season 2, main-story test; Wurdren)* | maker leaving who doesn't know she's wanted | a reply due when the carrier comes back | gifts left in secret, seen all at once | quiet, wry, winter | on her knees inside a cold bellows | an old man's question: "Who did you think?" |
 
 Rows marked *new* are the seven stories added on 2026-11-02, now drafted (first pass); each row follows its draft.
 
-**Resolutions already used:** a document read closely (3, 10), an object (1, 7), a witnessed act (2), people (6), memory (14), and in the new stories a performance (4), a count (5), a swap (8), an animal (9), a meal (11), a choice (12) and an absence (13), and in Season 2 a thing taken away to be brought back (15). The next story should avoid "an old document" unless it does something new with it.
+**Resolutions already used:** a document read closely (3, 10), an object (1, 7), a witnessed act (2), people (6), memory (14), and in the new stories a performance (4), a count (5), a swap (8), an animal (9), a meal (11), a choice (12) and an absence (13), and in Season 2 a thing taken away to be brought back (15) and gifts left in secret, seen all at once (16). The next story should avoid "an old document" unless it does something new with it.
 
 ## Devices already used
 
@@ -196,6 +205,7 @@ Reuse one of these only on purpose, and never in the next story in reading order
 | A song or a call as the running element | The Eighth Verse (the Cellar Song), The Ladder Rules ("Light holds!"), Walkout Pies ("nobody pours hungry") |
 | A tally or count kept on the page | The Ladder Rules (the lamp count), Walkout Pies (the chalkboard) |
 | A cameo from another story | The Road in Use (Lio), Walkout Pies (Kerra), The Mushrooms From Nowhere (Zan). Keep each to a scene or two. |
+| Gifts left on a doorstep in secret | The Same Paper (the Row's dripping). The [Shadow Charity](../Stories/Story-Seeds.md#shadow-charity) seed turns on it too, so it waits a season. |
 | A rumor that dies over food | One Square (the Vale eats the "unsafe" grain at long tables); Walkout Pies, where the meal only sets up a row and the row kills the rumor. The Greenvale Man kills its rumor by a witnessed act. |
 
 ## Stock phrases to avoid
@@ -220,5 +230,5 @@ The checker's `ALLOW` and `LINKED` lists hold deliberate exceptions. Keep them s
 | "for thirty years" | The Goat File | Approved test-story text (Oriel, the senior arbiter) |
 | "the way you might" | The Goat File | Approved test-story text; once only |
 | "very polite man" | Three Pots | The C3 callback to One Square |
-| Linked phrases (commons, press yard, route book, first caravan, blight took, and others) | across stories | Cross-story promises C1–C6 on [Collection](Collection.md#cross-story-promise-ledger) repeat on purpose |
+| Linked phrases (commons, press yard, route book, first caravan, blight took, and others) | across stories | Cross-story promises C1–C6 on [Collection](Collection.md#cross-story-promise-ledger) repeat on purpose. The Same Paper repeats the C6 letter's wording ("come to the attention of one who valued useful work", "should … fail to recognize them, a sum sufficient", "a reply left with the carrier") so the third letter reads as the same hand |
 | "traveling coat" | across stories | One character described in two stories |

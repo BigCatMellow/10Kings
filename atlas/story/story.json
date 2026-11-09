@@ -1498,6 +1498,40 @@
       "when": "Year 2, midsummer"
     },
     {
+      "id": "story-same-paper",
+      "kind": "story",
+      "label": "The Same Paper",
+      "status": "Provisional",
+      "lane": "ironcrest",
+      "section": "Stories",
+      "src": "Sunday-Morning/Stories/The-Same-Paper.md#status",
+      "text": "A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there.",
+      "short_text": "Every week of the frost somebody has to climb inside the great bellows at the Upper Works and work warm dripping into the leathers.",
+      "facts": {
+        "Premise": "Every week of the frost somebody has to climb inside the great bellows at the Upper Works and work warm dripping into the leathers, or they crack, and there'll be no pour in spring.",
+        "When": "Season 2: Year 2, midwinter, the shortest day (provisional calendar)",
+        "The nail": "A third unsigned letter on the ship's-lantern paper offers Rhona a workshop \"should the valley fail to recognize\" her bellows.",
+        "Behind it": "The Villain (provisional): the same hand as Col's and Hollis's letters (a provisional attribution nobody inside the story knows).",
+        "Holds here": "Rhona stays till the pour.",
+        "Still falls elsewhere": "The saddler's boy, and others from the valley, already went up to the Slatehallow workshop.",
+        "Outward effect": "The upper valley can pour in spring. The hand holds a reply that defers rather than refuses, and Wurdren has seen the paper twice."
+      },
+      "fact_src": {
+        "Premise": "Sunday-Morning/Stories/The-Same-Paper.md#premise",
+        "When": "Sunday-Morning/Notes/Collection.md#season-2-reading-order-plan",
+        "The nail": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Behind it": "Sunday-Morning/Notes/Collection.md#the-threads",
+        "Holds here": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Still falls elsewhere": "Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell",
+        "Outward effect": "Sunday-Morning/Notes/Collection.md#the-threads"
+      },
+      "see": [
+        "Sunday-Morning/Drafts/The-Same-Paper.md",
+        "Sunday-Morning/Notes/Collection.md#the-threads"
+      ],
+      "when": "Year 2, midwinter"
+    },
+    {
       "id": "story-mushrooms",
       "kind": "story",
       "label": "The Mushrooms From Nowhere",
@@ -7963,6 +7997,94 @@
       "certainty": "possible",
       "chipNote": "seed",
       "chipNoteBack": "seed"
+    },
+    {
+      "from": "story-same-paper",
+      "to": "st-ic-metal",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Unusual metal movements; labor unrest a year on",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-same-paper",
+      "to": "st-ic-labor",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Unusual metal movements; labor unrest a year on",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-same-paper",
+      "to": "pp-orin",
+      "layer": "st-story",
+      "type": "touches the domino of",
+      "basis": "stated",
+      "quote": "as a chimney up the valley",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Domino figure",
+      "chipBack": "Stories",
+      "chipNote": "a chimney up the valley",
+      "chipNoteBack": "a chimney up the valley"
+    },
+    {
+      "from": "story-same-paper",
+      "to": "pp-villain",
+      "layer": "st-behind",
+      "type": "may have behind it",
+      "basis": "stated",
+      "quote": "The Villain (provisional): the same hand as Col's and Hollis's letters",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Behind it",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "the third letter, provisional",
+      "chipNoteBack": "the third letter, provisional"
+    },
+    {
+      "from": "story-same-paper",
+      "to": "story-inspected",
+      "layer": "st-story",
+      "type": "shares a thread with",
+      "basis": "stated",
+      "quote": "the connected offers",
+      "src": "Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger",
+      "chip": "Linked story",
+      "chipBack": "Linked story",
+      "chipNote": "the same unsigned offers",
+      "chipNoteBack": "the same unsigned offers"
+    },
+    {
+      "from": "pp-wurdren",
+      "to": "story-same-paper",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Same Paper | Wurdren | passing through",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "canon figure",
+      "chipNoteBack": "canon figure"
+    },
+    {
+      "from": "pp-orin",
+      "to": "story-same-paper",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Same Paper | Orin Slatehallow | Ironcrest domino figure (gossip)",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "canon figure",
+      "chipNoteBack": "canon figure"
     }
   ],
   "gaps": [
