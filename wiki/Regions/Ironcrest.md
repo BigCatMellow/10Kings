@@ -135,3 +135,5 @@ A ruler can command soldiers but cannot simply order the economy to function.
 Ironcrest lets the story examine the difference between **productive capacity** and **who controls it**.
 
 It should never be presented simply as "the weapon region." It is a society in which work, ownership, skill, debt, and political power have become inseparable.
+
+**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Burning Hill](../Places/Places-of-Interest.md#the-burning-hill).

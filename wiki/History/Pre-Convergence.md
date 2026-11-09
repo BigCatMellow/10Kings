@@ -16,6 +16,8 @@ Modern regions should not be projected backward as eternal states with fixed bor
 
 So the messy world below came after an empire, not before one. The last empire to rule widely had Port as its great city. A coalition of the other nations broke it in a war and took the city, and nothing of the empire survives as a state except [Port](../Places/Port.md#the-last-empires-city-d28-d30), neutral now because no one would let a rival hold it. *Lean, provisional:* the war came long enough before the [Convergence](The-Convergence.md#neutral-port) that nobody alive remembers it except as their grandparents' stories. The empire's name and people, the war's name and how far the empire reached are open.
 
+What it may have left (provisional, [Places of Interest](../Places/Places-of-Interest.md#ruins-of-the-old-world)): [the Sitting Kings](../Places/Places-of-Interest.md#the-sitting-kings), [the Old Light](../Places/Places-of-Interest.md#the-old-light), [the Straight Road](../Places/Places-of-Interest.md#the-straight-road), [the Long Arches](../Places/Places-of-Interest.md#the-long-arches). Nobody alive is sure which ruins are the empire's.
+
 ## General pattern
 
 Before The Convergence:

@@ -8,7 +8,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 | Atlas part | Used by a story | Not yet | Of those, seeded |
 | --- | --- | --- | --- |
-| Regions and Geography | 22 of 27 | 5 | 2 |
+| Regions and Geography | 22 of 47 | 25 | 2 |
 | Culture | 41 of 57 | 16 | 5 |
 | Food | 16 of 73 | 57 | 5 |
 | Power | 8 of 59 | 51 | 14 |
@@ -32,6 +32,10 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 ### Unplaced names
 
 **Used:** Coalglen Meadows (The Eighth Verse, The First Fish at Snowbreaker Quay, Walkout Pies); Helios Orchard (The Eighth Verse, The First Fish at Snowbreaker Quay, Walkout Pies); Snowbreaker Quay (The Eighth Verse, The First Fish at Snowbreaker Quay, Walkout Pies); Mosspeak Rise (The Eighth Verse, The First Fish at Snowbreaker Quay, Walkout Pies); Emberhaven Cross (The Eighth Verse, The First Fish at Snowbreaker Quay, Walkout Pies); Golden Dunes Shore (The Eighth Verse, The First Fish at Snowbreaker Quay, Walkout Pies); Reedveil Bend (The Eighth Verse, The First Fish at Snowbreaker Quay, Walkout Pies).
+
+### Places of interest
+
+**Not yet in any story:** [The One Tree](../../wiki/Places/Places-of-Interest.md#the-one-tree), [The Sitting Kings](../../wiki/Places/Places-of-Interest.md#the-sitting-kings), [The Head in the Square](../../wiki/Places/Places-of-Interest.md#the-head-in-the-square), [The Speaking Cliff](../../wiki/Places/Places-of-Interest.md#the-speaking-cliff), [The Dig at Harrow Isle](../../wiki/Places/Places-of-Interest.md#the-dig-at-harrow-isle), [The Old Light](../../wiki/Places/Places-of-Interest.md#the-old-light), [The Straight Road](../../wiki/Places/Places-of-Interest.md#the-straight-road), [The Long Arches](../../wiki/Places/Places-of-Interest.md#the-long-arches), [The Stepped Tombs](../../wiki/Places/Places-of-Interest.md#the-stepped-tombs), [The Burning Hill](../../wiki/Places/Places-of-Interest.md#the-burning-hill), [The Salt Mirror](../../wiki/Places/Places-of-Interest.md#the-salt-mirror), [The Tide Road](../../wiki/Places/Places-of-Interest.md#the-tide-road), [The Ice Halls](../../wiki/Places/Places-of-Interest.md#the-ice-halls), [The Count Stones](../../wiki/Places/Places-of-Interest.md#the-count-stones), [The Drowned Bell](../../wiki/Places/Places-of-Interest.md#the-drowned-bell), [The Grand Orchard](../../wiki/Places/Places-of-Interest.md#the-grand-orchard), [The Golden Caravanserai](../../wiki/Places/Places-of-Interest.md#the-golden-caravanserai), [The Carvers' Gallery](../../wiki/Places/Places-of-Interest.md#the-carvers-gallery), [The Mother's Cradle](../../wiki/Places/Places-of-Interest.md#the-mothers-cradle), [Eagle's Summit and Shimmerfall Ravine](../../wiki/Places/Places-of-Interest.md#eagles-summit-and-shimmerfall-ravine).
 
 
 ## Culture

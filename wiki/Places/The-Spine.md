@@ -88,3 +88,5 @@ Recent earthquakes or rock shifts have:
 The Spine is where geography becomes politics.
 
 It should generate hard choices about which route remains open, who pays to maintain it, who controls access, and what happens when nature ignores human borders.
+
+**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Mother's Cradle](Places-of-Interest.md#the-mothers-cradle), [the Speaking Cliff](Places-of-Interest.md#the-speaking-cliff), [Eagle's Summit and Shimmerfall Ravine](Places-of-Interest.md#eagles-summit-and-shimmerfall-ravine).

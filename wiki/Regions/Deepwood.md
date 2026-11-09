@@ -149,3 +149,5 @@ Deepwood politics revolve around:
 Deepwood is ideal for examining **who gets to define stewardship**.
 
 Outsiders may be wrong to see forest protection as irrational obstruction; locals may also use "tradition" to conceal monopolies, inequality, or political control.
+
+**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [The One Tree](../Places/Places-of-Interest.md#the-one-tree), [the Count Stones](../Places/Places-of-Interest.md#the-count-stones).

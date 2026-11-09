@@ -84,3 +84,5 @@ Surface kingdoms claim some entrances and sections but rarely control the entire
 ## Story function
 
 Its surface counterpart is the [Overpath](The-Spine.md#the-overpath), the trail over the range. The Underpass physically embodies the setting's theme: the visible political map is not the same as the real network through which people, goods, and power move.
+
+**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Carvers' Gallery](Places-of-Interest.md#the-carvers-gallery).

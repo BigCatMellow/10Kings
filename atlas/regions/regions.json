@@ -41,6 +41,11 @@
       "id": "landmass",
       "label": "Continents",
       "default": false
+    },
+    {
+      "id": "interest",
+      "label": "Places of interest",
+      "default": true
     }
   ],
   "kinds": {
@@ -52,7 +57,8 @@
     "border-town": "Border town",
     "name-bank": "Unplaced name",
     "trail": "Mountain trail",
-    "town": "Town"
+    "town": "Town",
+    "interest": "Place of interest"
   },
   "card_schema": {
     "landmass": {
@@ -105,6 +111,10 @@
         {
           "label": "Likely gets",
           "always": false
+        },
+        {
+          "label": "Places of interest",
+          "always": false
         }
       ],
       "facts": [
@@ -143,6 +153,10 @@
         {
           "label": "In its sphere",
           "always": true
+        },
+        {
+          "label": "Places of interest",
+          "always": false
         }
       ],
       "facts": [
@@ -185,6 +199,10 @@
         {
           "label": "Stories",
           "always": false
+        },
+        {
+          "label": "Places of interest",
+          "always": false
         }
       ],
       "facts": [
@@ -215,6 +233,10 @@
         {
           "label": "Regions",
           "always": true
+        },
+        {
+          "label": "Places of interest",
+          "always": false
         }
       ],
       "facts": [
@@ -270,6 +292,24 @@
         }
       ],
       "facts": []
+    },
+    "interest": {
+      "rows": [
+        {
+          "label": "Lies in",
+          "always": true
+        }
+      ],
+      "facts": [
+        {
+          "key": "Kind",
+          "always": true
+        },
+        {
+          "key": "Where",
+          "always": true
+        }
+      ]
     }
   },
   "nodes": [
@@ -665,6 +705,286 @@
       "src": "Places/Seven-Hill.md",
       "text": "A former fortress on one of the Spine's passes, on the Highridge side, emptied when toll warfare gave way to negotiated passage; a town for generations (D24). Which pass is open.",
       "short_text": "An old pass fortress, now a town."
+    },
+    {
+      "id": "poi-one-tree",
+      "kind": "interest",
+      "label": "The One Tree",
+      "status": "Provisional",
+      "text": "A whole forest grown from one root, and the people who live in it.",
+      "src": "Places/Places-of-Interest.md#the-one-tree",
+      "facts": {
+        "Kind": "holy site",
+        "Where": "Deepwood"
+      },
+      "lane": "deepwood",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-sitting-kings",
+      "kind": "interest",
+      "label": "The Sitting Kings",
+      "status": "Provisional",
+      "text": "Colossal seated statues of forgotten kings.",
+      "src": "Places/Places-of-Interest.md#the-sitting-kings",
+      "facts": {
+        "Kind": "monument",
+        "Where": "the river gorge on the road down to Port"
+      },
+      "lane": "port",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-head-in-the-square",
+      "kind": "interest",
+      "label": "The Head in the Square",
+      "status": "Provisional",
+      "text": "One of the kings' heads, carried off after the war.",
+      "src": "Places/Places-of-Interest.md#the-head-in-the-square",
+      "facts": {
+        "Kind": "monument",
+        "Where": "a Highridge market town"
+      },
+      "lane": "highridge",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-speaking-cliff",
+      "kind": "interest",
+      "label": "The Speaking Cliff",
+      "status": "Provisional",
+      "text": "One proclamation carved three times, in three languages.",
+      "src": "Places/Places-of-Interest.md#the-speaking-cliff",
+      "facts": {
+        "Kind": "carving",
+        "Where": "a pass on the Highridge side of the Spine"
+      },
+      "lane": "spine",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-dig-at-harrow-isle",
+      "kind": "interest",
+      "label": "The Dig at Harrow Isle",
+      "status": "Provisional",
+      "text": "A shaft people have dug for two hundred years.",
+      "src": "Places/Places-of-Interest.md#the-dig-at-harrow-isle",
+      "facts": {
+        "Kind": "mystery",
+        "Where": "a small island off the Sunplains coast"
+      },
+      "lane": "sunplains",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-old-light",
+      "kind": "interest",
+      "label": "The Old Light",
+      "status": "Provisional",
+      "text": "The empire's lighthouse, half fallen and still lit.",
+      "src": "Places/Places-of-Interest.md#the-old-light",
+      "facts": {
+        "Kind": "ruin",
+        "Where": "Port's harbor mouth"
+      },
+      "lane": "port",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-straight-road",
+      "kind": "interest",
+      "label": "The Straight Road",
+      "status": "Provisional",
+      "text": "Forty miles of fitted stone that end in a meadow.",
+      "src": "Places/Places-of-Interest.md#the-straight-road",
+      "facts": {
+        "Kind": "ruin",
+        "Where": "across Greenvale"
+      },
+      "lane": "greenvale",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-long-arches",
+      "kind": "interest",
+      "label": "The Long Arches",
+      "status": "Provisional",
+      "text": "An aqueduct still carrying water to orchards.",
+      "src": "Places/Places-of-Interest.md#the-long-arches",
+      "facts": {
+        "Kind": "ruin, still working",
+        "Where": "a Sunplains valley"
+      },
+      "lane": "sunplains",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-stepped-tombs",
+      "kind": "interest",
+      "label": "The Stepped Tombs",
+      "status": "Provisional",
+      "text": "Stepped stone tombs nobody claims.",
+      "src": "Places/Places-of-Interest.md#the-stepped-tombs",
+      "facts": {
+        "Kind": "monument",
+        "Where": "the dry edge of the Sunplains"
+      },
+      "lane": "sunplains",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-burning-hill",
+      "kind": "interest",
+      "label": "The Burning Hill",
+      "status": "Provisional",
+      "text": "A coal seam that has burned under a hill for a century.",
+      "src": "Places/Places-of-Interest.md#the-burning-hill",
+      "facts": {
+        "Kind": "natural wonder",
+        "Where": "Ironcrest"
+      },
+      "lane": "ironcrest",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-salt-mirror",
+      "kind": "interest",
+      "label": "The Salt Mirror",
+      "status": "Provisional",
+      "text": "A salt flat that floods into a mirror after rain.",
+      "src": "Places/Places-of-Interest.md#the-salt-mirror",
+      "facts": {
+        "Kind": "natural wonder, holy site",
+        "Where": "the high Highridge plateau"
+      },
+      "lane": "highridge",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-tide-road",
+      "kind": "interest",
+      "label": "The Tide Road",
+      "status": "Provisional",
+      "text": "A causeway to an island house of the Silent Whisper, dry only at low tide.",
+      "src": "Places/Places-of-Interest.md#the-tide-road",
+      "facts": {
+        "Kind": "holy site",
+        "Where": "the Northwind coast"
+      },
+      "lane": "northwind",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-ice-halls",
+      "kind": "interest",
+      "label": "The Ice Halls",
+      "status": "Provisional",
+      "text": "Sea caves that freeze into blue halls in winter.",
+      "src": "Places/Places-of-Interest.md#the-ice-halls",
+      "facts": {
+        "Kind": "natural wonder",
+        "Where": "the Northwind coast"
+      },
+      "lane": "northwind",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-count-stones",
+      "kind": "interest",
+      "label": "The Count Stones",
+      "status": "Provisional",
+      "text": "A ring of stones whose shadows count the year.",
+      "src": "Places/Places-of-Interest.md#the-count-stones",
+      "facts": {
+        "Kind": "holy site",
+        "Where": "the Greenvale–Deepwood border"
+      },
+      "lane": "greenvale",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-drowned-bell",
+      "kind": "interest",
+      "label": "The Drowned Bell",
+      "status": "Provisional",
+      "text": "A village under a millpond; some say you can hear its bell.",
+      "src": "Places/Places-of-Interest.md#the-drowned-bell",
+      "facts": {
+        "Kind": "mystery",
+        "Where": "a Greenvale mill valley"
+      },
+      "lane": "greenvale",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-grand-orchard",
+      "kind": "interest",
+      "label": "The Grand Orchard",
+      "status": "Provisional",
+      "text": "The oldest orchard, said to be the mother of all the rest.",
+      "src": "Places/Places-of-Interest.md#the-grand-orchard",
+      "facts": {
+        "Kind": "landmark",
+        "Where": "Greenvale"
+      },
+      "lane": "greenvale",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-golden-caravanserai",
+      "kind": "interest",
+      "label": "The Golden Caravanserai",
+      "status": "Provisional",
+      "text": "An inn that has never closed.",
+      "src": "Places/Places-of-Interest.md#the-golden-caravanserai",
+      "facts": {
+        "Kind": "landmark",
+        "Where": "the Highridge caravan corridors"
+      },
+      "lane": "highridge",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-carvers-gallery",
+      "kind": "interest",
+      "label": "The Carvers' Gallery",
+      "status": "Provisional",
+      "text": "A stretch of tunnel where travelers carve once in their lives.",
+      "src": "Places/Places-of-Interest.md#the-carvers-gallery",
+      "facts": {
+        "Kind": "carving",
+        "Where": "the Underpass"
+      },
+      "lane": "spine",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-mothers-cradle",
+      "kind": "interest",
+      "label": "The Mother's Cradle",
+      "status": "Provisional",
+      "text": "A natural amphitheater where a whisper carries.",
+      "src": "Places/Places-of-Interest.md#the-mothers-cradle",
+      "facts": {
+        "Kind": "holy site",
+        "Where": "the central Spine"
+      },
+      "lane": "spine",
+      "section": "Places of interest"
+    },
+    {
+      "id": "poi-eagles-summit-and-shimmerfall-ravine",
+      "kind": "interest",
+      "label": "Eagle's Summit and Shimmerfall Ravine",
+      "status": "Provisional",
+      "text": "Already on [The Spine](The-Spine.md#the-overpath).",
+      "src": "Places/Places-of-Interest.md#eagles-summit-and-shimmerfall-ravine",
+      "facts": {
+        "Kind": "natural wonders",
+        "Where": "the Overpath"
+      },
+      "lane": "spine",
+      "section": "Places of interest"
     }
   ],
   "edges": [
@@ -1305,6 +1625,248 @@
       "chipBack": "Spine & Underpass",
       "chipNote": "runs over",
       "chipNoteBack": "over it"
+    },
+    {
+      "from": "poi-one-tree",
+      "to": "deepwood",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "From the edge it looks like any old forest.",
+      "src": "Places/Places-of-Interest.md#the-one-tree",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-sitting-kings",
+      "to": "port",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "Where the river cuts through the last hills before the coast, colossal seated kings are carved out of the gorge walls, facing the water.",
+      "src": "Places/Places-of-Interest.md#the-sitting-kings",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-head-in-the-square",
+      "to": "highridge",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "In the middle of a market square lies a stone head as tall as a house, on its side.",
+      "src": "Places/Places-of-Interest.md#the-head-in-the-square",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-speaking-cliff",
+      "to": "spine",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "A cliff face above a pass road is carved with one long proclamation, three times over, in three languages.",
+      "src": "Places/Places-of-Interest.md#the-speaking-cliff",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-speaking-cliff",
+      "to": "highridge",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "A cliff face above a pass road is carved with one long proclamation, three times over, in three languages.",
+      "src": "Places/Places-of-Interest.md#the-speaking-cliff",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-dig-at-harrow-isle",
+      "to": "sunplains",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "Two hundred years ago, a boy found a dip in the ground under an old oak, and a pulley block hanging from a branch.",
+      "src": "Places/Places-of-Interest.md#the-dig-at-harrow-isle",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-old-light",
+      "to": "port",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "The empire's lighthouse stands at the harbor mouth, fallen to half its height.",
+      "src": "Places/Places-of-Interest.md#the-old-light",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-straight-road",
+      "to": "greenvale",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "Forty miles of fitted stone road run dead straight across hills, fields and one river, and stop in a meadow.",
+      "src": "Places/Places-of-Interest.md#the-straight-road",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-long-arches",
+      "to": "sunplains",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "An aqueduct of tall stone arches crosses a valley and still carries water to the orchards on the far side.",
+      "src": "Places/Places-of-Interest.md#the-long-arches",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-stepped-tombs",
+      "to": "sunplains",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "Stepped stone tombs, five of them, rise out of the scrub where the irrigated country gives out.",
+      "src": "Places/Places-of-Interest.md#the-stepped-tombs",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-burning-hill",
+      "to": "ironcrest",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "A coal seam caught fire under a hill a hundred years ago and has never gone out.",
+      "src": "Places/Places-of-Interest.md#the-burning-hill",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-salt-mirror",
+      "to": "highridge",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "A salt flat so wide you can't see across it.",
+      "src": "Places/Places-of-Interest.md#the-salt-mirror",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-tide-road",
+      "to": "northwind",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "A causeway of stones runs a mile out across the sand to a rock island with a house of the [Silent Whisper](../Politics/Religions.md#6-the-silent-whisper) on it: archives, a garden, a bell.",
+      "src": "Places/Places-of-Interest.md#the-tide-road",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-ice-halls",
+      "to": "northwind",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "Sea caves on a cold stretch of coast freeze in deep winter into halls of blue ice.",
+      "src": "Places/Places-of-Interest.md#the-ice-halls",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-count-stones",
+      "to": "greenvale",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "A ring of standing stones in a field.",
+      "src": "Places/Places-of-Interest.md#the-count-stones",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-count-stones",
+      "to": "deepwood",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "A ring of standing stones in a field.",
+      "src": "Places/Places-of-Interest.md#the-count-stones",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-drowned-bell",
+      "to": "greenvale",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "A village lies under a millpond, flooded when the dam was raised in someone's great-grandmother's time.",
+      "src": "Places/Places-of-Interest.md#the-drowned-bell",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-grand-orchard",
+      "to": "greenvale",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "The oldest orchard in Greenvale.",
+      "src": "Places/Places-of-Interest.md#the-grand-orchard",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-golden-caravanserai",
+      "to": "highridge",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "A caravanserai that has never closed, through wars, winters and the Convergence.",
+      "src": "Places/Places-of-Interest.md#the-golden-caravanserai",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-carvers-gallery",
+      "to": "underpass",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "A long stretch of [Underpass](The-Underpass.md) tunnel is carved from floor to ceiling by travelers: names, boats, a goat, prayers, a whole wedding party in one panel.",
+      "src": "Places/Places-of-Interest.md#the-carvers-gallery",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-mothers-cradle",
+      "to": "spine",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "A natural amphitheater high among the central peaks, where a whisper at the bottom carries to the top.",
+      "src": "Places/Places-of-Interest.md#the-mothers-cradle",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
+    },
+    {
+      "from": "poi-eagles-summit-and-shimmerfall-ravine",
+      "to": "spine",
+      "layer": "interest",
+      "type": "lies in",
+      "basis": "stated",
+      "quote": "*The Overpath.* Already on [The Spine](The-Spine.md#the-overpath), from the legacy notes:\n- **Eagle's Summit**, \"a high-altitude resting place\".\n- **Shimmerfall Ravine**, a valley of cascading waterfalls.",
+      "src": "Places/Places-of-Interest.md#eagles-summit-and-shimmerfall-ravine",
+      "chip": "Lies in",
+      "chipBack": "Places of interest"
     }
   ],
   "gaps": [

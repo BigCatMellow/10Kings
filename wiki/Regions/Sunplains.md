@@ -156,3 +156,5 @@ A permanent Sunplains union would be powerful enough to worry both neighbors and
 Sunplains shows how **public culture and private power** can coexist.
 
 Its political sophistication makes it hard to manipulate crudely — but also creates more channels through which skilled manipulators can work.
+
+**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Long Arches](../Places/Places-of-Interest.md#the-long-arches), [the Stepped Tombs](../Places/Places-of-Interest.md#the-stepped-tombs), [the Dig at Harrow Isle](../Places/Places-of-Interest.md#the-dig-at-harrow-isle).

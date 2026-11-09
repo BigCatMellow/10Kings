@@ -142,3 +142,5 @@ The region's reputation for reasoned debate is partly ideal and partly instituti
 Highridge turns logistics into politics.
 
 Whoever controls movement does not need to own everything that moves.
+
+**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Salt Mirror](../Places/Places-of-Interest.md#the-salt-mirror), [the Head in the Square](../Places/Places-of-Interest.md#the-head-in-the-square), [the Speaking Cliff](../Places/Places-of-Interest.md#the-speaking-cliff), [the Golden Caravanserai](../Places/Places-of-Interest.md#the-golden-caravanserai).

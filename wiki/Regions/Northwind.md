@@ -147,3 +147,5 @@ Northwind's political tensions often revolve around:
 Northwind lets the story ask: **when survival requires cooperation, who gets to define the group?**
 
 Its social strength can become political vulnerability when false information changes who people believe threatens that group.
+
+**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Tide Road](../Places/Places-of-Interest.md#the-tide-road), [the Ice Halls](../Places/Places-of-Interest.md#the-ice-halls).

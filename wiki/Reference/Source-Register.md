@@ -412,3 +412,14 @@ The [World Review, 2026-11](World-Review-2026-11.md) checked the whole wiki agai
 - **§5 not promoted:** World Dynamics' Port internal factions and slang, its children's rhymes and its wedding customs were never evaluated; they are now on the [legacy reconciliation backlog](README.md#legacy-reconciliation-backlog).
 - **Three Moon:** the recovered proposal's "once every seven years" is kept as legacy provenance; the festival is yearly, following the stories (lean).
 - **Unevaluated legacy material** worth keeping is listed, with file and anchor, on the [backlog](README.md#legacy-reconciliation-backlog), so it isn't lost.
+
+## 2026-11-09 — Places of interest from the legacy landmark lists
+
+[Places of Interest](../Places/Places-of-Interest.md) ([D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)) reconciled the landmark lists in [Volume 01](../../legacy-notes/2026-09-22/consolidated-package/01_Foundations_World_Myth_History.md) and [Volume 02](../../legacy-notes/2026-09-22/consolidated-package/02_Regions_Kingdoms.md):
+
+- **Compatible, promoted as provisional:** the Grand Orchard ("a massive grove symbolizing abundance and unity"), the Golden Caravanserai ("a legendary inn that has hosted travelers from across the world"), and the Mother's Cradle, a natural amphitheater in the central Spine. Its creation-myth reading stays one belief, because the myth is open.
+- **Kept as a pointer:** the Celestium Spire, a peak "used for celestial observations and rituals".
+- **Already on the wiki:** Eagle's Summit and Shimmerfall Ravine ([The Spine](../Places/The-Spine.md#the-overpath)).
+- **Merged:** Deepwood's "Great Eldertree" (a colossal sacred tree) gives way to bt 7274's own One Tree, a forest grown from one root.
+- **Not promoted:** the industrial and modern landmarks (Steelspire Tower, the Innovator's Tower, the Green Dome, the Grand Bazaar Hall and the like). They don't fit the world's technology or World Rules. The same goes for "Moonlit Hollow", a valley "in perpetual twilight" whose magic isn't deniable.
+

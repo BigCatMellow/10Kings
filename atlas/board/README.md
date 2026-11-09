@@ -13,7 +13,7 @@ The whole setting on one board. Group it by region or by kind, show one part or 
 
 | Part | Heading on the board | Things | Connections | Page |
 | --- | --- | --- | --- | --- |
-| 1. Regions and Geography | Geography | 27 | 49 | [regions](../regions/README.md) |
+| 1. Regions and Geography | Geography | 47 | 71 | [regions](../regions/README.md) |
 | 2. Culture | Culture | 57 | 34 | [culture](../culture/README.md) |
 | 3. Food | Food | 73 | 129 | [food](../food/README.md) |
 | 4. Power | Power | 65 | 57 | [power](../power/README.md) |
@@ -31,14 +31,15 @@ Every card of a kind shows the same rows and facts in the same order, set by eac
 | Card kind | Rows on the card (connections) | Facts in the side panel |
 | --- | --- | --- |
 | Continent | Regions on it, Open questions *(when present)* | — |
-| Region | Continent, Borders, Border towns, Sea partner of, Spine & Underpass, Sends, Gets, Trades with, Likely sends *(when present)*, Likely gets *(when present)*, Nomad circuit *(when present)*, Convergence *(when present)*, Conflict traditions *(when present)*, Stories *(when present)*, Open questions *(when present)*, World rule *(when present)* | Terrain, Exports, Imports, Trade role, Pressures, Seasons |
-| Neutral city | Sea partners, In its sphere, Nomad circuit *(when present)*, Convergence *(when present)*, Remembered *(when present)*, Stories *(when present)*, Open questions *(when present)* | Position, Territory, Exports, Imports, Why it stays central, Trade role |
-| Mountain system | Spine & Underpass, Regions, Stories *(when present)*, Languages *(when present)*, Open questions *(when present)* | Physical role, Human role, Touches, Seasons |
-| Underground network | Spine & Underpass, Regions, Convergence *(when present)*, Stories *(when present)* | Functional adjacency, Claims, Named entrances |
+| Region | Continent, Borders, Border towns, Sea partner of, Spine & Underpass, Sends, Gets, Trades with, Likely sends *(when present)*, Likely gets *(when present)*, Places of interest *(when present)*, Nomad circuit *(when present)*, Convergence *(when present)*, Conflict traditions *(when present)*, Stories *(when present)*, Open questions *(when present)*, World rule *(when present)* | Terrain, Exports, Imports, Trade role, Pressures, Seasons |
+| Neutral city | Sea partners, In its sphere, Places of interest *(when present)*, Nomad circuit *(when present)*, Convergence *(when present)*, Remembered *(when present)*, Stories *(when present)*, Open questions *(when present)* | Position, Territory, Exports, Imports, Why it stays central, Trade role |
+| Mountain system | Spine & Underpass, Regions, Stories *(when present)*, Places of interest *(when present)*, Languages *(when present)*, Open questions *(when present)* | Physical role, Human role, Touches, Seasons |
+| Underground network | Spine & Underpass, Regions, Places of interest *(when present)*, Convergence *(when present)*, Stories *(when present)* | Functional adjacency, Claims, Named entrances |
 | Border town | Between, Culture, Border dishes, Stories *(when present)* | — |
 | Unplaced name | — | — |
 | Mountain trail | Spine & Underpass, Stories *(when present)* | — |
 | Town | Spine & Underpass *(when present)*, Stories *(when present)*, Open questions *(when present)* | — |
+| Place of interest | Lies in | Kind, Where |
 | Culture | Mixes with, Border towns, Language, Stories *(when present)*, World rule *(when present)* | Aim, Values, Inspiration, Speech, Building, Place names, Mixing *(when present)*, Story use *(when present)* |
 | In-world saying | — | Employers' biased shortcut *(when present)* |
 | Festival | Food, Remembers *(when present)*, Stories *(when present)* | — |

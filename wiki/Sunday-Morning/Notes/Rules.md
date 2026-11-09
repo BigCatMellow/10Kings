@@ -126,7 +126,7 @@ Run the Framework's [checklist](Sources/Framework.md#20-the-sunday-morning-story
 
 ## Setting palette
 
-A menu, not a rule set. Two Sons is built around a continental-scale engine: the [Economic Council](../../Politics/Economic-Council.md), the [Villain's Dominoes](../../Story/Villains-Dominoes.md) and [Main Conflict](../../Story/Main-Conflict.md). Sunday Morning stories show that engine from the ground, in the setting's texture layer: [Wurdren](../../Story/Wurdren.md) making large systems specific again, [World Rules](../../World-Rules.md) §20's world that exists without the protagonists, [Worldbuilding Breath](../../Reference/Worldbuilding-Breath.md)'s "what was happening yesterday", and the contained social ecosystems of the [Border Towns](../../Places/Border-Towns.md).
+A menu, not a rule set. Two Sons is built around a continental-scale engine: the [Economic Council](../../Politics/Economic-Council.md), the [Villain's Dominoes](../../Story/Villains-Dominoes.md) and [Main Conflict](../../Story/Main-Conflict.md). Sunday Morning stories show that engine from the ground, in the setting's texture layer: [Wurdren](../../Story/Wurdren.md) making large systems specific again, [World Rules](../../World-Rules.md) §20's world that exists without the protagonists, [Worldbuilding Breath](../../Reference/Worldbuilding-Breath.md)'s "what was happening yesterday", and the contained social ecosystems of the [Border Towns](../../Places/Border-Towns.md). For a setting with a view, the [Places of Interest](../../Places/Places-of-Interest.md) hold the world's wonders, holy sites, monuments and mysteries.
 
 ### Framework ingredients the setting already supplies
 

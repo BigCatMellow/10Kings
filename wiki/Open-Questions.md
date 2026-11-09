@@ -16,6 +16,7 @@ These are important areas where earlier brainstorming produced multiple versions
 - Exact relationship of The Spine to continental separation. *(Constrained: the strongly established borders form one land chain, so the continents must meet by land; [Geography](Geography-and-Connections.md#macro-geography).)*
 - Which pass Seven Hill guards, and the Overpath's keepers, seasons and route ([Seven Hill](Places/Seven-Hill.md#still-open), [The Spine](Places/The-Spine.md#the-overpath)).
 - Navigable rivers and major watersheds.
+- Places of interest ([D35](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): how many Sitting Kings there are (lean: ten, if the title should mean something); what the One Tree's people call themselves and their forest; which town holds the Head in the Square ([Places of Interest](Places/Places-of-Interest.md#for-bt-7274)).
 
 ## Political structure
 

@@ -150,3 +150,5 @@ The Council's food/finance networks can exert enormous influence here without ru
 Greenvale demonstrates that **plenty can be politically destabilizing** just as easily as famine.
 
 The important question is not only whether food exists, but who owns it, stores it, transports it, prices it, and decides who receives it.
+
+**Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Straight Road](../Places/Places-of-Interest.md#the-straight-road), [the Drowned Bell](../Places/Places-of-Interest.md#the-drowned-bell), [the Grand Orchard](../Places/Places-of-Interest.md#the-grand-orchard), [the Count Stones](../Places/Places-of-Interest.md#the-count-stones).

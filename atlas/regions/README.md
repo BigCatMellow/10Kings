@@ -8,7 +8,7 @@ The backbone of the Atlas: the six regions, Port, the Spine and the Underpass, t
 
 **A board, not a map.** The wiki says the exact map isn't locked ([Geography and Connections](../../wiki/Geography-and-Connections.md)), so the interactive view sorts things into one column per region instead of placing them. Columns are ordered so regions with a settled border sit next to each other (Northwind, Highridge, Deepwood, Ironcrest, Greenvale, Sunplains); nothing else about position means anything. A real map can be drawn from the same data once the geography is locked.
 
-**Counts:** 3 continents, 6 regions, 1 neutral city, 1 mountain system, 1 underground network, 6 border towns, 7 unplaced names, 1 mountain trail, 1 town; 49 connections (38 stated in the wiki, 11 inferred).
+**Counts:** 3 continents, 6 regions, 1 neutral city, 1 mountain system, 1 underground network, 6 border towns, 7 unplaced names, 1 mountain trail, 1 town, 20 place of interests; 71 connections (60 stated in the wiki, 11 inferred).
 
 ## Gaps this part exposes
 
@@ -110,6 +110,35 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | --- | --- | --- | --- | --- |
 | Northwind | lies on | Northern Continent | stated | “Northwind occupies much of the Northern Continent and associated coasts and islands.” [source](../../wiki/Regions/Northwind.md#geography) |
 
+## Places of interest
+
+| From | Connection | To | Basis | Supporting text |
+| --- | --- | --- | --- | --- |
+| The One Tree | lies in | Deepwood | stated | “From the edge it looks like any old forest.” [source](../../wiki/Places/Places-of-Interest.md#the-one-tree) |
+| The Sitting Kings | lies in | Port | stated | “Where the river cuts through the last hills before the coast, colossal seated kings are carved out of the gorge walls, facing the water.” [source](../../wiki/Places/Places-of-Interest.md#the-sitting-kings) |
+| The Head in the Square | lies in | Highridge Plateau | stated | “In the middle of a market square lies a stone head as tall as a house, on its side.” [source](../../wiki/Places/Places-of-Interest.md#the-head-in-the-square) |
+| The Speaking Cliff | lies in | The Spine | stated | “A cliff face above a pass road is carved with one long proclamation, three times over, in three languages.” [source](../../wiki/Places/Places-of-Interest.md#the-speaking-cliff) |
+| The Speaking Cliff | lies in | Highridge Plateau | stated | “A cliff face above a pass road is carved with one long proclamation, three times over, in three languages.” [source](../../wiki/Places/Places-of-Interest.md#the-speaking-cliff) |
+| The Dig at Harrow Isle | lies in | Sunplains | stated | “Two hundred years ago, a boy found a dip in the ground under an old oak, and a pulley block hanging from a branch.” [source](../../wiki/Places/Places-of-Interest.md#the-dig-at-harrow-isle) |
+| The Old Light | lies in | Port | stated | “The empire's lighthouse stands at the harbor mouth, fallen to half its height.” [source](../../wiki/Places/Places-of-Interest.md#the-old-light) |
+| The Straight Road | lies in | Greenvale | stated | “Forty miles of fitted stone road run dead straight across hills, fields and one river, and stop in a meadow.” [source](../../wiki/Places/Places-of-Interest.md#the-straight-road) |
+| The Long Arches | lies in | Sunplains | stated | “An aqueduct of tall stone arches crosses a valley and still carries water to the orchards on the far side.” [source](../../wiki/Places/Places-of-Interest.md#the-long-arches) |
+| The Stepped Tombs | lies in | Sunplains | stated | “Stepped stone tombs, five of them, rise out of the scrub where the irrigated country gives out.” [source](../../wiki/Places/Places-of-Interest.md#the-stepped-tombs) |
+| The Burning Hill | lies in | Ironcrest | stated | “A coal seam caught fire under a hill a hundred years ago and has never gone out.” [source](../../wiki/Places/Places-of-Interest.md#the-burning-hill) |
+| The Salt Mirror | lies in | Highridge Plateau | stated | “A salt flat so wide you can't see across it.” [source](../../wiki/Places/Places-of-Interest.md#the-salt-mirror) |
+| The Tide Road | lies in | Northwind | stated | “A causeway of stones runs a mile out across the sand to a rock island with a house of the [Silent Whisper](../Politics/Religions.md#6-the-silent-whisper) on it: archives, a garden, a bell.” [source](../../wiki/Places/Places-of-Interest.md#the-tide-road) |
+| The Ice Halls | lies in | Northwind | stated | “Sea caves on a cold stretch of coast freeze in deep winter into halls of blue ice.” [source](../../wiki/Places/Places-of-Interest.md#the-ice-halls) |
+| The Count Stones | lies in | Greenvale | stated | “A ring of standing stones in a field.” [source](../../wiki/Places/Places-of-Interest.md#the-count-stones) |
+| The Count Stones | lies in | Deepwood | stated | “A ring of standing stones in a field.” [source](../../wiki/Places/Places-of-Interest.md#the-count-stones) |
+| The Drowned Bell | lies in | Greenvale | stated | “A village lies under a millpond, flooded when the dam was raised in someone's great-grandmother's time.” [source](../../wiki/Places/Places-of-Interest.md#the-drowned-bell) |
+| The Grand Orchard | lies in | Greenvale | stated | “The oldest orchard in Greenvale.” [source](../../wiki/Places/Places-of-Interest.md#the-grand-orchard) |
+| The Golden Caravanserai | lies in | Highridge Plateau | stated | “A caravanserai that has never closed, through wars, winters and the Convergence.” [source](../../wiki/Places/Places-of-Interest.md#the-golden-caravanserai) |
+| The Carvers' Gallery | lies in | The Underpass | stated | “A long stretch of [Underpass](The-Underpass.md) tunnel is carved from floor to ceiling by travelers: names, boats, a goat, prayers, a whole wedding party in one panel.” [source](../../wiki/Places/Places-of-Interest.md#the-carvers-gallery) |
+| The Mother's Cradle | lies in | The Spine | stated | “A natural amphitheater high among the central peaks, where a whisper at the bottom carries to the top.” [source](../../wiki/Places/Places-of-Interest.md#the-mothers-cradle) |
+| Eagle's Summit and Shimmerfall Ravine | lies in | The Spine | stated | “*The Overpath.* Already on [The Spine](The-Spine.md#the-overpath), from the legacy notes:
+- **Eagle's Summit**, "a high-altitude resting place".
+- **Shimmerfall Ravine**, a valley of cascading waterfalls.” [source](../../wiki/Places/Places-of-Interest.md#eagles-summit-and-shimmerfall-ravine) |
+
 ## Diagram
 
 Stated connections only; positions are automatic. The [interactive board](../board/README.md) is easier to read.
@@ -134,6 +163,26 @@ flowchart LR
   spine[/"The Spine"\]
   sevenhill["Seven Hill"]
   overpath["The Overpath"]
+  poi_one_tree["The One Tree"]
+  poi_sitting_kings["The Sitting Kings"]
+  poi_head_in_the_square["The Head in the Square"]
+  poi_speaking_cliff["The Speaking Cliff"]
+  poi_dig_at_harrow_isle["The Dig at Harrow Isle"]
+  poi_old_light["The Old Light"]
+  poi_straight_road["The Straight Road"]
+  poi_long_arches["The Long Arches"]
+  poi_stepped_tombs["The Stepped Tombs"]
+  poi_burning_hill["The Burning Hill"]
+  poi_salt_mirror["The Salt Mirror"]
+  poi_tide_road["The Tide Road"]
+  poi_ice_halls["The Ice Halls"]
+  poi_count_stones["The Count Stones"]
+  poi_drowned_bell["The Drowned Bell"]
+  poi_grand_orchard["The Grand Orchard"]
+  poi_golden_caravanserai["The Golden Caravanserai"]
+  poi_carvers_gallery["The Carvers' Gallery"]
+  poi_mothers_cradle["The Mother's Cradle"]
+  poi_eagles_summit_and_shimmerfall_ravine["Eagle's Summit and Shimmerfall Ravine"]
   northwind --> northern
   ironcrest --- greenvale
   greenvale --- sunplains
@@ -172,6 +221,28 @@ flowchart LR
   northwind --> port
   sevenhill --> spine
   overpath --> spine
+  poi_one_tree --> deepwood
+  poi_sitting_kings --> port
+  poi_head_in_the_square --> highridge
+  poi_speaking_cliff --> spine
+  poi_speaking_cliff --> highridge
+  poi_dig_at_harrow_isle --> sunplains
+  poi_old_light --> port
+  poi_straight_road --> greenvale
+  poi_long_arches --> sunplains
+  poi_stepped_tombs --> sunplains
+  poi_burning_hill --> ironcrest
+  poi_salt_mirror --> highridge
+  poi_tide_road --> northwind
+  poi_ice_halls --> northwind
+  poi_count_stones --> greenvale
+  poi_count_stones --> deepwood
+  poi_drowned_bell --> greenvale
+  poi_grand_orchard --> greenvale
+  poi_golden_caravanserai --> highridge
+  poi_carvers_gallery --> underpass
+  poi_mothers_cradle --> spine
+  poi_eagles_summit_and_shimmerfall_ravine --> spine
 ```
 
 ## Every thing in this part
@@ -183,6 +254,8 @@ Grouped by board column.
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
 | [Northwind](../../wiki/Regions/Northwind.md) | Region | Working canon | Cold northern coasts, islands, sheltered inland valleys and old clan territories. Settlements cluster at harbors, bays, rivers, fisheries and routes south. |
+| [The Tide Road](../../wiki/Places/Places-of-Interest.md#the-tide-road) | Place of interest | Provisional | A causeway to an island house of the Silent Whisper, dry only at low tide. |
+| [The Ice Halls](../../wiki/Places/Places-of-Interest.md#the-ice-halls) | Place of interest | Provisional | Sea caves that freeze into blue halls in winter. |
 
 **Northwind**
 
@@ -193,11 +266,24 @@ Grouped by board column.
 - *Pressures:* shifting fish stocks, rising piracy, convoy agreements with Port, accusations that clans cooperate with raiders
 - *Seasons:* In winter, northern routes become unreliable. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
+**The Tide Road**
+
+- *Kind:* holy site
+- *Where:* the Northwind coast
+
+**The Ice Halls**
+
+- *Kind:* natural wonder
+- *Where:* the Northwind coast
+
 ### Highridge Plateau
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
 | [Highridge Plateau](../../wiki/Regions/Highridge-Plateau.md) | Region | Working canon | A highland crossroads: routes that avoid or cross parts of the Spine converge here. Exposed uplands, sheltered valleys, steep passes and towns at water and route junctions. |
+| [The Head in the Square](../../wiki/Places/Places-of-Interest.md#the-head-in-the-square) | Place of interest | Provisional | One of the kings' heads, carried off after the war. |
+| [The Salt Mirror](../../wiki/Places/Places-of-Interest.md#the-salt-mirror) | Place of interest | Provisional | A salt flat that floods into a mirror after rain. |
+| [The Golden Caravanserai](../../wiki/Places/Places-of-Interest.md#the-golden-caravanserai) | Place of interest | Provisional | An inn that has never closed. |
 
 **Highridge Plateau**
 
@@ -208,11 +294,27 @@ Grouped by board column.
 - *Pressures:* caravan attacks, manipulated route closures, accusations of corrupt militia or toll officials, contested infrastructure
 - *Seasons:* Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
+**The Head in the Square**
+
+- *Kind:* monument
+- *Where:* a Highridge market town
+
+**The Salt Mirror**
+
+- *Kind:* natural wonder, holy site
+- *Where:* the high Highridge plateau
+
+**The Golden Caravanserai**
+
+- *Kind:* landmark
+- *Where:* the Highridge caravan corridors
+
 ### Deepwood
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
 | [Deepwood](../../wiki/Regions/Deepwood.md) | Region | Working canon | A major forest region: old-growth and managed woodland, river valleys, wetlands, clearings, forest-edge towns, timber districts and restricted areas. |
+| [The One Tree](../../wiki/Places/Places-of-Interest.md#the-one-tree) | Place of interest | Provisional | A whole forest grown from one root, and the people who live in it. |
 
 **Deepwood**
 
@@ -223,11 +325,17 @@ Grouped by board column.
 - *Pressures:* logging beyond accepted limits, fungal disease, isolationists against reformers, hidden-route crime
 - *Seasons:* Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
+**The One Tree**
+
+- *Kind:* holy site
+- *Where:* Deepwood
+
 ### Ironcrest
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
 | [Ironcrest](../../wiki/Regions/Ironcrest.md) | Region | Working canon | Much of the western upland country: mineral-rich hills, stream valleys, wooded slopes, pasture and farmland around old mining and metalworking centers. |
+| [The Burning Hill](../../wiki/Places/Places-of-Interest.md#the-burning-hill) | Place of interest | Provisional | A coal seam that has burned under a hill for a century. |
 
 **Ironcrest**
 
@@ -238,11 +346,20 @@ Grouped by board column.
 - *Pressures:* labor unrest, covert metal shipments, pressure to expand Underpass access, fears of weapon stockpiling
 - *Seasons:* Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
+**The Burning Hill**
+
+- *Kind:* natural wonder
+- *Where:* Ironcrest
+
 ### Greenvale
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
 | [Greenvale](../../wiki/Regions/Greenvale.md) | Region | Working canon | The largest major agricultural heartland: broad temperate lowlands with comparatively reliable rainfall and productive soils, market towns, rivers, orchards, wetlands, mills and estates. |
+| [The Straight Road](../../wiki/Places/Places-of-Interest.md#the-straight-road) | Place of interest | Provisional | Forty miles of fitted stone that end in a meadow. |
+| [The Count Stones](../../wiki/Places/Places-of-Interest.md#the-count-stones) | Place of interest | Provisional | A ring of stones whose shadows count the year. |
+| [The Drowned Bell](../../wiki/Places/Places-of-Interest.md#the-drowned-bell) | Place of interest | Provisional | A village under a millpond; some say you can hear its bell. |
+| [The Grand Orchard](../../wiki/Places/Places-of-Interest.md#the-grand-orchard) | Place of interest | Provisional | The oldest orchard, said to be the mother of all the rest. |
 
 **Greenvale**
 
@@ -253,11 +370,34 @@ Grouped by board column.
 - *Pressures:* an unusually abundant harvest or new high-yield seed strain, collapsing prices, land consolidation, co-ops against estates
 - *Seasons:* Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
+**The Straight Road**
+
+- *Kind:* ruin
+- *Where:* across Greenvale
+
+**The Count Stones**
+
+- *Kind:* holy site
+- *Where:* the Greenvale–Deepwood border
+
+**The Drowned Bell**
+
+- *Kind:* mystery
+- *Where:* a Greenvale mill valley
+
+**The Grand Orchard**
+
+- *Kind:* landmark
+- *Where:* Greenvale
+
 ### Sunplains
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
 | [Sunplains](../../wiki/Regions/Sunplains.md) | Region | Working canon | Warmer, drier southern and eastern country of city-states, irrigated basins, orchard belts, grazing country and coast. Water law is politically important. |
+| [The Dig at Harrow Isle](../../wiki/Places/Places-of-Interest.md#the-dig-at-harrow-isle) | Place of interest | Provisional | A shaft people have dug for two hundred years. |
+| [The Long Arches](../../wiki/Places/Places-of-Interest.md#the-long-arches) | Place of interest | Provisional | An aqueduct still carrying water to orchards. |
+| [The Stepped Tombs](../../wiki/Places/Places-of-Interest.md#the-stepped-tombs) | Place of interest | Provisional | Stepped stone tombs nobody claims. |
 
 **Sunplains**
 
@@ -268,11 +408,28 @@ Grouped by board column.
 - *Pressures:* drought fears, private control of canals, city-state blocs forming and breaking
 - *Seasons:* Nothing specific to this region. The wiki gives only a general pattern: passes reopen unevenly in spring, heat and water pressure rise in warmer regions in summer, harvest and storms collide in autumn, and northern routes become unreliable in winter. ([source](../../wiki/Economy/Trade-and-Dependencies.md#seasonal-stress))
 
+**The Dig at Harrow Isle**
+
+- *Kind:* mystery
+- *Where:* a small island off the Sunplains coast
+
+**The Long Arches**
+
+- *Kind:* ruin, still working
+- *Where:* a Sunplains valley
+
+**The Stepped Tombs**
+
+- *Kind:* monument
+- *Where:* the dry edge of the Sunplains
+
 ### Port
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
 | [Port](../../wiki/Places/Port.md) | Neutral city | Working canon | The major neutral commercial city. It matters for its network position and institutions, not as the only harbor. Its exact site isn't fixed; it belongs to no kingdom. |
+| [The Sitting Kings](../../wiki/Places/Places-of-Interest.md#the-sitting-kings) | Place of interest | Provisional | Colossal seated statues of forgotten kings. |
+| [The Old Light](../../wiki/Places/Places-of-Interest.md#the-old-light) | Place of interest | Provisional | The empire's lighthouse, half fallen and still lit. |
 
 **Port**
 
@@ -283,6 +440,16 @@ Grouped by board column.
 - *Why it stays central:* network effects: agents, credit, warehouses, courts and translators are already there
 - *Trade role:* Network hub: its dependence on inflows is real but not helplessness. Its power comes from accumulated institutions and network effects (ships, warehouses, credit, repair, translators, courts, guilds and information all meet there), so a disruption in Port can become a continental event even when the original problem is local. ([source](../../wiki/Economy/Trade-and-Dependencies.md#port-as-network-hub))
 
+**The Sitting Kings**
+
+- *Kind:* monument
+- *Where:* the river gorge on the road down to Port
+
+**The Old Light**
+
+- *Kind:* ruin
+- *Where:* Port's harbor mouth
+
 ### Spine & Underpass
 
 | Thing | Kind | Status | Summary |
@@ -291,6 +458,10 @@ Grouped by board column.
 | [The Underpass](../../wiki/Places/The-Underpass.md) | Underground network | Working canon | Caves, fault passages, tunnels, settlements and trade routes beneath parts of the Spine. Not one road, not wholly mapped; authority is fragmented. |
 | [The Overpath](../../wiki/Places/The-Spine.md#the-overpath) | Mountain trail | Provisional | The trail along the length of the Spine, over the mountains, which the pass roads cross: the legacy notes' Overpass under bt 7274's name (D24). Slower and more dangerous than the tunnels; pilgrims, herders, adventurers and caravans use it. |
 | [Seven Hill](../../wiki/Places/Seven-Hill.md) | Town | Provisional | A former fortress on one of the Spine's passes, on the Highridge side, emptied when toll warfare gave way to negotiated passage; a town for generations (D24). Which pass is open. |
+| [The Speaking Cliff](../../wiki/Places/Places-of-Interest.md#the-speaking-cliff) | Place of interest | Provisional | One proclamation carved three times, in three languages. |
+| [The Carvers' Gallery](../../wiki/Places/Places-of-Interest.md#the-carvers-gallery) | Place of interest | Provisional | A stretch of tunnel where travelers carve once in their lives. |
+| [The Mother's Cradle](../../wiki/Places/Places-of-Interest.md#the-mothers-cradle) | Place of interest | Provisional | A natural amphitheater where a whisper carries. |
+| [Eagle's Summit and Shimmerfall Ravine](../../wiki/Places/Places-of-Interest.md#eagles-summit-and-shimmerfall-ravine) | Place of interest | Provisional | Already on [The Spine](The-Spine.md#the-overpath). |
 
 **The Spine**
 
@@ -304,6 +475,26 @@ Grouped by board column.
 - *Functional adjacency:* two places not close on the surface may trade intensely because a reliable tunnel branch connects them
 - *Claims:* surface kingdoms claim some entrances and sections but rarely control the entire network
 - *Named entrances:* none yet
+
+**The Speaking Cliff**
+
+- *Kind:* carving
+- *Where:* a pass on the Highridge side of the Spine
+
+**The Carvers' Gallery**
+
+- *Kind:* carving
+- *Where:* the Underpass
+
+**The Mother's Cradle**
+
+- *Kind:* holy site
+- *Where:* the central Spine
+
+**Eagle's Summit and Shimmerfall Ravine**
+
+- *Kind:* natural wonders
+- *Where:* the Overpath
 
 ### Border towns
 

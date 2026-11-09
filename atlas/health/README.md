@@ -6,7 +6,7 @@
 
 ## At a glance
 
-- **586** things mapped, **839** connections (90% stated in the wiki, the rest inferred)
+- **606** things mapped, **861** connections (90% stated in the wiki, the rest inferred)
 - **33** open questions ([Part 8](../questions/README.md))
 - **80** gaps listed across the parts
 - **93** cards with no connection yet
@@ -17,7 +17,7 @@ Each card carries its wiki page's status label. "Writing reference" is the Sunda
 
 | Part | Established | Working canon | Provisional | No status label | Writing reference | Total |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| Geography | 6 | 12 | 9 | · | · | 27 |
+| Geography | 6 | 12 | 29 | · | · | 47 |
 | Culture | · | 17 | 38 | 2 | · | 57 |
 | Food | · | 8 | 64 | 1 | · | 73 |
 | Power | · | 35 | 30 | · | · | 65 |
@@ -27,7 +27,7 @@ Each card carries its wiki page's status label. "Writing reference" is the Sunda
 | Questions | · | · | · | 33 | · | 33 |
 | Foundations | 20 | 11 | 1 | · | · | 32 |
 | Systems | · | · | 17 | · | · | 17 |
-| **All** | **35** | **129** | **310** | **36** | **76** | **586** |
+| **All** | **35** | **129** | **330** | **36** | **76** | **606** |
 
 ## Where the cards are
 
@@ -36,14 +36,14 @@ Cards per board column and part. A dot means nothing from that part lives in tha
 | Column | Geography | Culture | Food | Power | History | People | Story | Questions | Foundations | Systems |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | Foundations | · | · | · | · | · | · | · | · | 32 | · |
-| Northwind | 1 | 8 | 9 | 3 | 3 | 1 | 8 | · | · | · |
-| Highridge Plateau | 1 | 7 | 8 | 4 | 1 | 1 | 20 | 2 | · | · |
-| Deepwood | 1 | 7 | 9 | 3 | 3 | 1 | 8 | 1 | · | · |
-| Ironcrest | 1 | 7 | 10 | 3 | 2 | 1 | 13 | · | · | · |
-| Greenvale | 1 | 7 | 9 | 3 | 3 | 1 | 17 | · | · | · |
-| Sunplains | 1 | 7 | 8 | 3 | 2 | 1 | 8 | 1 | · | · |
-| Port | 1 | 6 | 1 | 3 | 3 | · | 23 | 2 | · | · |
-| Spine & Underpass | 4 | 1 | · | 3 | · | 3 | 12 | 1 | · | · |
+| Northwind | 3 | 8 | 9 | 3 | 3 | 1 | 8 | · | · | · |
+| Highridge Plateau | 4 | 7 | 8 | 4 | 1 | 1 | 20 | 2 | · | · |
+| Deepwood | 2 | 7 | 9 | 3 | 3 | 1 | 8 | 1 | · | · |
+| Ironcrest | 2 | 7 | 10 | 3 | 2 | 1 | 13 | · | · | · |
+| Greenvale | 5 | 7 | 9 | 3 | 3 | 1 | 17 | · | · | · |
+| Sunplains | 4 | 7 | 8 | 3 | 2 | 1 | 8 | 1 | · | · |
+| Port | 3 | 6 | 1 | 3 | 3 | · | 23 | 2 | · | · |
+| Spine & Underpass | 8 | 1 | · | 3 | · | 3 | 12 | 1 | · | · |
 | Border towns | 6 | 1 | 18 | · | 1 | · | 14 | · | · | · |
 | Council & politics | · | · | · | 8 | · | · | · | 4 | · | · |
 | Faiths | · | · | · | 11 | · | · | · | · | · | · |

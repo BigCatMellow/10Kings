@@ -36,6 +36,7 @@
 - [The Underpass](Places/The-Underpass.md)
 - [Seven Hill](Places/Seven-Hill.md)
 - [Border Towns](Places/Border-Towns.md)
+- [Places of Interest](Places/Places-of-Interest.md)
 
 **History**
 - [Pre-Convergence](History/Pre-Convergence.md)

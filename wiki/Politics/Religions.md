@@ -28,6 +28,8 @@ A reform movement argues that post-Convergence stability has become stagnation. 
 
 **Gods** (provisional, [D25](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); names from the legacy notes): Chronospect (time, a many-eyed turning wheel), Omnia (totality), Equilibria (balance), Aevum (eternity, a river round the world) and Mortalis (mortality, half bone and half light).
 
+**Holy site** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Count Stones](../Places/Places-of-Interest.md#the-count-stones).
+
 ## 2. Path of the Great Weaver
 
 Core: beings, places, ancestors, animals, and actions are threads in a living weave.
@@ -45,6 +47,8 @@ Networks across several regions are documenting land and water damage, creating 
 **Working life** (provisional, [D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-path-of-the-great-weaver)): Seasonal rites: planting blessings, midsummer fires, autumn thanks and a winter vigil for the ancestors. Families keep small outdoor shrines to their dead with flowers, food and woven tokens, and some keepers seek the ancestors' guidance through dreams, chants and herbs (a belief, as [Magic](../Magic.md#everything-else-that-has-been-claimed) holds). A tree is planted for every tree felled; the river is cleaned each year in a day of song; pilgrims leave small carvings at stone circles. Craft is devotion, and its teachings live in oral chronicles and in sayings carved in wood or stone.
 
 **Gods** (provisional, [D25](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); names from the legacy notes): spirits of the weave rather than gods apart from it: Arborealus (the forest), Montara (the mountains), Flumenara (rivers), Zephyria (wind) and Viridia (growth).
+
+**Holy site** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [The One Tree](../Places/Places-of-Interest.md#the-one-tree).
 
 ## 3. The Radiant Path
 
@@ -80,6 +84,8 @@ Its guild-adjacent institutions are becoming active in labor and quality dispute
 
 **Gods** (provisional, [D25](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); names from the legacy notes): Vulcanestra (fire and transformation), Montara (earth and stone, shared with the Weaver), Fortificus (strength and endurance) and Artesius (craft and invention).
 
+**Holy site** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Burning Hill](../Places/Places-of-Interest.md#the-burning-hill).
+
 ## 5. The Illuminated Circle
 
 Core: knowledge, reason, inquiry, and intellectual freedom are sacred values.
@@ -114,6 +120,8 @@ Some custodians believe dangerous truths should be withheld until society can su
 **Working life** (provisional, [D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-the-silent-whisper)): Listening meditation, fasts of silence, and the practice of writing a thought down and destroying it. Pilgrims walk at night to dark or quiet places, some without a lantern, and to stones where the acoustics carry the faintest sound. Its charity is anonymous: food or help left without a name. Keepers hold teachings that are passed on only when someone is ready, under an oath of silence, and its scripture is written in riddles.
 
 **Gods** (provisional, [D25](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); names from the legacy notes): Noxiquill (secrets and the night), Silentus (stillness), Mysterion (paradox) and Arcanus (hidden knowledge).
+
+**Holy site** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Tide Road](../Places/Places-of-Interest.md#the-tide-road).
 
 ## 7. The Harmonious Path
 
@@ -165,6 +173,8 @@ Its pilgrim networks move information across borders faster than many government
 **Working life** (provisional, [D24](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md#src-religion-infinite-compass)): Before a large decision a follower turns a full circle, facing every road. Communities map their journeys together, outward and inward, and on a yearly day of departure they send off those who are leaving with blessings and gifts. Waystones and road shrines carry its spiral; sailors bless a family's old compass before a voyage. Its keepers preserve maps and travel lore, its seekers go where no one has been, and some followers make the journey inward instead.
 
 **Gods** (provisional, [D25](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); names from the legacy notes): Navigos (paths and guidance), Labyrintus (lost paths and mysteries), Infinis (the horizon) and Inventura (curiosity).
+
+**Holy site** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [the Salt Mirror](../Places/Places-of-Interest.md#the-salt-mirror).
 
 ## Working life and gods
 

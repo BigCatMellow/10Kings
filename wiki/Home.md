@@ -61,6 +61,7 @@ How the world works, system by system. These were recovered from older proposals
 - [The Underpass](Places/The-Underpass.md)
 - [Seven Hill](Places/Seven-Hill.md)
 - [Border Towns](Places/Border-Towns.md)
+- [Places of Interest](Places/Places-of-Interest.md): wonders, holy sites, monuments and mysteries
 
 ## Culture
 
