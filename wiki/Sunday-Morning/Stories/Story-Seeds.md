@@ -224,6 +224,98 @@ Possible thread: Col's unanswered letter from [Inspected](Inspected-Not-Guarante
 
 - **Needs:** what Col wrote is bt 7274's to decide, or the story keeps it private.
 
+### The main story, Seasons 3 to 5
+
+*Added 2026-11-09 under [D27](../Notes/Decisions.md#the-authors-decisions), for the slates on [The Whole Road](../Notes/The-Whole-Road.md). They fill the places the existing seeds don't reach. Seeds marked* (Free City lean) *depend on the Villain's homeland, which is bt 7274's to decide.*
+
+#### The Harbor Book
+
+`DOMINO` (a Desk story and a Thread, one part a season) · *Port's harbor office · Seasons 3, 4 and 5*
+
+A junior clerk keeps the harbor book: every ship in and out, what it says it carries, and how low it sits in the water. She writes down exactly what she sees and never what she thinks, because that's the job. In Season 3 a run of ships sits lower than their papers say. In Season 4 the hulls are requisitioned and the entries get shorter. In Season 5 somebody important asks to see the book, and it's honest.
+
+Possible heart: an honest record is a kind of courage nobody notices.
+
+Possible thread: the legacy's harbor master's logbook "whose anomalies show the hidden hand, so the reader sees what characters can't" ([backlog 14](../../Reference/README.md#legacy-reconciliation-backlog)). She records anomalies and never interprets them ([D21](../Notes/Decisions.md#the-authors-decisions)).
+
+- **Needs:** a clerk protagonist has been [used three times](../Notes/Registry.md#devices-already-used); her trait has to differ from Wen's and Quill's exact quotation.
+
+#### Care Of
+
+`DOMINO` (a Thread; Wurdren) · *four inns · Season 3, summer*
+
+A letter addressed to Wurdren, "care of the inn", gets to the inn a week after he's gone. The innkeeper sends it on to the next inn on his road, and that one sends it on. Four innkeepers, four short scenes, each one guessing what's in it. In the last, he gets it.
+
+Possible heart: you find out you matter by what follows you.
+
+Possible thread: Wurdren's turn from wanting to be needed to mattering to someone ([The Long Road](../Notes/The-Long-Road.md#wurdren)). Who wrote it is a Season 1 or 2 person; what it says can stay private.
+
+- **Needs:** who writes is for the plan, from the people Wurdren met; nothing about his past.
+
+#### The Customs Table
+
+`DOMINO` · *a Port quay · Season 4, midwinter* · (Free City lean)
+
+Under the charter, kingdoms' customs officers sit at a table on the quay, and this winter there are more of them and less trade. A dockside family who can't stand the officers feeds them anyway, because it's cold and they're somebody's sons.
+
+Possible heart: you can be against what someone's there for and still feed them.
+
+Possible thread: the Danzig customs friction ([The Whole Road](../Notes/The-Whole-Road.md#the-villain-alternatives-judged-separately)); "Port-born first" in the family's mouths, for their own reasons.
+
+#### The Long Way Round
+
+`DOMINO` (a Thread; Wurdren) · *across a closed border · Season 4, summer*
+
+A family has to get to the other side of a border that closed in a week. Wurdren knows a guide, who knows a carter, who knows a woman with a boat. Each of them helps because somebody they trust asked, and none of them sees anything bigger than one family.
+
+Possible heart: trust is a road nobody built.
+
+Possible thread: Season 4's inference, that ordinary trust is what neither side planned for ([The Whole Road](../Notes/The-Whole-Road.md#the-seasons)). One or two earlier people at most, so it doesn't become a reunion.
+
+- **Needs:** no on-page harm from the war; the family's reason is said once.
+
+#### The Bell Rings
+
+`DOMINO` (a Return) · *[Seven Hill](../../Places/Seven-Hill.md) · Season 4, autumn*
+
+[Muster Bell](#muster-bell)'s planned Return. The town recast the bell to call a supper, and this year it rings for a real muster. The parade ground has trestles on it, from habit.
+
+Possible heart: a town finds out what it kept the bell for.
+
+Possible thread: mobilization ([escalation](../../Story/Main-Conflict.md#escalation)), felt from one parade ground.
+
+- **Needs:** Muster Bell first; the muster stays offstage once it marches.
+
+#### The Conference Kitchen
+
+`DOMINO` (a Desk story; Wurdren nearby) · *Port · Season 5, early spring*
+
+The talks have come to Port because Port is the only place every side will sit down in. The kitchen that feeds them has one long table, nine faiths' rules about food and a head cook who refuses to feed delegations separately.
+
+Possible heart: you can't sit down to eat with someone and stay a stranger, or that's the cook's theory.
+
+Possible thread: the [resolution model](../../Story/Main-Conflict.md#possible-resolution-model)'s public negotiations, told from the kitchen. The Council is news by now, not a body on the page.
+
+#### The Night Fare
+
+`DOMINO` · *Port harbor, at night · Season 5, summer*
+
+The night the talks end, a waterman rows a passenger out to a ship past the harbor chain. The passenger asks him to go slowly, so he can look at the city.
+
+Possible heart: some people only see a place properly when they're leaving it.
+
+- **Needs:** bt 7274's ruling. If the passenger is the Villain, it's the one time he's on the page, unnamed ([question 5](../Notes/The-Whole-Road.md#for-bt-7274)). If not, the passenger is someone else, and the reader may wonder.
+
+#### Harvest Home, Year Six
+
+`DOMINO` (a Return) · *the Vale, Greenvale · Harvest Home, Season 5's last story*
+
+The last story, in the voice of the first ([The Long Road](../Notes/The-Long-Road.md#the-seasons-loosely)). The news from Port comes by letter, and the Vale reads it out at the joint table, and argues about it, and has its festival.
+
+Possible heart: the world changed, and the Vale still has to decide who chairs Harvest Home.
+
+Possible thread: the whole road, from [One Square, Two Harvests](One-Square-Two-Harvests.md); what the news says is the [destination](../Notes/The-Whole-Road.md#the-destination-done).
+
 ### The Spine, above and below
 
 #### The Walker's Stone

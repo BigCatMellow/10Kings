@@ -1836,6 +1836,150 @@
       "minor": true
     },
     {
+      "id": "seed-w-the-harbor-book",
+      "kind": "seed",
+      "label": "The Harbor Book",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-harbor-book",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A junior clerk keeps the harbor book: every ship in and out, what it says it carries, and how low it sits in the water.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "A junior clerk keeps the harbor book: every ship in and out, what it says it carries, and how low it sits in the water. She writes down exactly what she sees and never what she thinks, because that's the job. In Season 3 a run of ships sits lower than their papers say. In Season 4 the hulls are requisitioned and the entries get shorter. In Season 5 somebody important asks to see the book, and it's honest.",
+        "Possible heart": "an honest record is a kind of courage nobody notices.",
+        "Possible thread": "the legacy's harbor master's logbook \"whose anomalies show the hidden hand, so the reader sees what characters can't\" (backlog 14). She records anomalies and never interprets them (D21)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-care-of",
+      "kind": "seed",
+      "label": "Care Of",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#care-of",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A letter addressed to Wurdren, \"care of the inn\", gets to the inn a week after he's gone.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "A letter addressed to Wurdren, \"care of the inn\", gets to the inn a week after he's gone. The innkeeper sends it on to the next inn on his road, and that one sends it on. Four innkeepers, four short scenes, each one guessing what's in it. In the last, he gets it.",
+        "Possible heart": "you find out you matter by what follows you.",
+        "Possible thread": "Wurdren's turn from wanting to be needed to mattering to someone (The Long Road). Who wrote it is a Season 1 or 2 person; what it says can stay private."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-customs-table",
+      "kind": "seed",
+      "label": "The Customs Table",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-customs-table",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "Under the charter, kingdoms' customs officers sit at a table on the quay, and this winter there are more of them and less trade.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "Under the charter, kingdoms' customs officers sit at a table on the quay, and this winter there are more of them and less trade. A dockside family who can't stand the officers feeds them anyway, because it's cold and they're somebody's sons.",
+        "Possible heart": "you can be against what someone's there for and still feed them.",
+        "Possible thread": "the Danzig customs friction (The Whole Road); \"Port-born first\" in the family's mouths, for their own reasons."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-long-way-round",
+      "kind": "seed",
+      "label": "The Long Way Round",
+      "status": "Provisional",
+      "lane": "borderlands",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-long-way-round",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A family has to get to the other side of a border that closed in a week.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "A family has to get to the other side of a border that closed in a week. Wurdren knows a guide, who knows a carter, who knows a woman with a boat. Each of them helps because somebody they trust asked, and none of them sees anything bigger than one family.",
+        "Possible heart": "trust is a road nobody built.",
+        "Possible thread": "Season 4's inference, that ordinary trust is what neither side planned for (The Whole Road). One or two earlier people at most, so it doesn't become a reunion."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-bell-rings",
+      "kind": "seed",
+      "label": "The Bell Rings",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-bell-rings",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "Muster Bell's planned Return.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "Muster Bell's planned Return. The town recast the bell to call a supper, and this year it rings for a real muster. The parade ground has trestles on it, from habit.",
+        "Possible heart": "a town finds out what it kept the bell for.",
+        "Possible thread": "mobilization (escalation), felt from one parade ground."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-conference-kitchen",
+      "kind": "seed",
+      "label": "The Conference Kitchen",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-conference-kitchen",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The talks have come to Port because Port is the only place every side will sit down in.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "The talks have come to Port because Port is the only place every side will sit down in. The kitchen that feeds them has one long table, nine faiths' rules about food and a head cook who refuses to feed delegations separately.",
+        "Possible heart": "you can't sit down to eat with someone and stay a stranger, or that's the cook's theory.",
+        "Possible thread": "the resolution model's public negotiations, told from the kitchen. The Council is news by now, not a body on the page."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-night-fare",
+      "kind": "seed",
+      "label": "The Night Fare",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-night-fare",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The night the talks end, a waterman rows a passenger out to a ship past the harbor chain.",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "The night the talks end, a waterman rows a passenger out to a ship past the harbor chain. The passenger asks him to go slowly, so he can look at the city.",
+        "Possible heart": "some people only see a place properly when they're leaving it.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-harvest-home-year-six",
+      "kind": "seed",
+      "label": "Harvest Home, Year Six",
+      "status": "Provisional",
+      "lane": "greenvale",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#harvest-home-year-six",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The last story, in the voice of the first (The Long Road).",
+      "facts": {
+        "Kind": "Domino",
+        "Premise": "The last story, in the voice of the first (The Long Road). The news from Port comes by letter, and the Vale reads it out at the joint table, and argues about it, and has its festival.",
+        "Possible heart": "the world changed, and the Vale still has to decide who chairs Harvest Home.",
+        "Possible thread": "the whole road, from One Square, Two Harvests; what the news says is the destination."
+      },
+      "minor": true
+    },
+    {
       "id": "seed-w-the-walkers-stone",
       "kind": "seed",
       "label": "The Walker's Stone",
@@ -6011,6 +6155,94 @@
       "chipBack": "Cast"
     },
     {
+      "from": "story-same-paper",
+      "to": "st-ic-metal",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Unusual metal movements; labor unrest a year on",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-same-paper",
+      "to": "st-ic-labor",
+      "layer": "st-story",
+      "type": "sits on",
+      "basis": "stated",
+      "quote": "Unusual metal movements; labor unrest a year on",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Sits on",
+      "chipBack": "Stories"
+    },
+    {
+      "from": "story-same-paper",
+      "to": "pp-orin",
+      "layer": "st-story",
+      "type": "touches the domino of",
+      "basis": "stated",
+      "quote": "as a chimney up the valley",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Domino figure",
+      "chipBack": "Stories",
+      "chipNote": "a chimney up the valley",
+      "chipNoteBack": "a chimney up the valley"
+    },
+    {
+      "from": "story-same-paper",
+      "to": "pp-villain",
+      "layer": "st-behind",
+      "type": "may have behind it",
+      "basis": "stated",
+      "quote": "The Villain (provisional): the same hand as Col's and Hollis's letters",
+      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
+      "chip": "Behind it",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "the third letter, provisional",
+      "chipNoteBack": "the third letter, provisional"
+    },
+    {
+      "from": "story-same-paper",
+      "to": "story-inspected",
+      "layer": "st-story",
+      "type": "shares a thread with",
+      "basis": "stated",
+      "quote": "the connected offers",
+      "src": "Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger",
+      "chip": "Linked story",
+      "chipBack": "Linked story",
+      "chipNote": "the same unsigned offers",
+      "chipNoteBack": "the same unsigned offers"
+    },
+    {
+      "from": "pp-wurdren",
+      "to": "story-same-paper",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Same Paper | Wurdren | passing through",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "canon figure",
+      "chipNoteBack": "canon figure"
+    },
+    {
+      "from": "pp-orin",
+      "to": "story-same-paper",
+      "layer": "st-cast",
+      "type": "appears in",
+      "basis": "stated",
+      "quote": "Same Paper | Orin Slatehallow | Ironcrest domino figure (gossip)",
+      "src": "Sunday-Morning/Notes/Registry.md#names",
+      "chip": "Appears in",
+      "chipBack": "Cast",
+      "chipNote": "canon figure",
+      "chipNoteBack": "canon figure"
+    },
+    {
       "from": "seed-w-harvest-home-again",
       "to": "st-c5",
       "layer": "st-story",
@@ -6285,6 +6517,20 @@
       "quote": "logging and road conflict",
       "src": "Sunday-Morning/Stories/Story-Seeds.md#what-the-elder-wrote",
       "chip": "Sits on",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-bell-rings",
+      "to": "sevenhill",
+      "layer": "st-story",
+      "type": "would be set in",
+      "basis": "stated",
+      "quote": "Seven Hill",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-bell-rings",
+      "chip": "Setting",
       "chipBack": "Stories",
       "certainty": "possible",
       "chipNote": "seed",
@@ -7997,94 +8243,6 @@
       "certainty": "possible",
       "chipNote": "seed",
       "chipNoteBack": "seed"
-    },
-    {
-      "from": "story-same-paper",
-      "to": "st-ic-metal",
-      "layer": "st-story",
-      "type": "sits on",
-      "basis": "stated",
-      "quote": "Unusual metal movements; labor unrest a year on",
-      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
-      "chip": "Sits on",
-      "chipBack": "Stories"
-    },
-    {
-      "from": "story-same-paper",
-      "to": "st-ic-labor",
-      "layer": "st-story",
-      "type": "sits on",
-      "basis": "stated",
-      "quote": "Unusual metal movements; labor unrest a year on",
-      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
-      "chip": "Sits on",
-      "chipBack": "Stories"
-    },
-    {
-      "from": "story-same-paper",
-      "to": "pp-orin",
-      "layer": "st-story",
-      "type": "touches the domino of",
-      "basis": "stated",
-      "quote": "as a chimney up the valley",
-      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
-      "chip": "Domino figure",
-      "chipBack": "Stories",
-      "chipNote": "a chimney up the valley",
-      "chipNoteBack": "a chimney up the valley"
-    },
-    {
-      "from": "story-same-paper",
-      "to": "pp-villain",
-      "layer": "st-behind",
-      "type": "may have behind it",
-      "basis": "stated",
-      "quote": "The Villain (provisional): the same hand as Col's and Hollis's letters",
-      "src": "Sunday-Morning/Notes/Collection.md#the-threads",
-      "chip": "Behind it",
-      "chipBack": "Stories",
-      "certainty": "possible",
-      "chipNote": "the third letter, provisional",
-      "chipNoteBack": "the third letter, provisional"
-    },
-    {
-      "from": "story-same-paper",
-      "to": "story-inspected",
-      "layer": "st-story",
-      "type": "shares a thread with",
-      "basis": "stated",
-      "quote": "the connected offers",
-      "src": "Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger",
-      "chip": "Linked story",
-      "chipBack": "Linked story",
-      "chipNote": "the same unsigned offers",
-      "chipNoteBack": "the same unsigned offers"
-    },
-    {
-      "from": "pp-wurdren",
-      "to": "story-same-paper",
-      "layer": "st-cast",
-      "type": "appears in",
-      "basis": "stated",
-      "quote": "Same Paper | Wurdren | passing through",
-      "src": "Sunday-Morning/Notes/Registry.md#names",
-      "chip": "Appears in",
-      "chipBack": "Cast",
-      "chipNote": "canon figure",
-      "chipNoteBack": "canon figure"
-    },
-    {
-      "from": "pp-orin",
-      "to": "story-same-paper",
-      "layer": "st-cast",
-      "type": "appears in",
-      "basis": "stated",
-      "quote": "Same Paper | Orin Slatehallow | Ironcrest domino figure (gossip)",
-      "src": "Sunday-Morning/Notes/Registry.md#names",
-      "chip": "Appears in",
-      "chipBack": "Cast",
-      "chipNote": "canon figure",
-      "chipNoteBack": "canon figure"
     }
   ],
   "gaps": [

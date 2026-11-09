@@ -56,6 +56,8 @@ Who that first person is stays open ([D20](Decisions.md#the-authors-decisions): 
 
 ## The seasons, loosely
 
+*Planned in full on [The Whole Road](The-Whole-Road.md) (2026-11-09, [D27](Decisions.md#the-authors-decisions)): the destination, each season's rung, the Villain's and the Council's moves, slates for Seasons 3 to 5 and the threads that cross seasons. The table below is the short form.*
+
 No route, no fixed plan ([D20](Decisions.md#the-authors-decisions)). These are the rungs the world moves through, so that each season knows roughly where it stands. Season 1 ran from Year 1 early autumn to Year 2 early autumn; a season of about ten to twelve stories per year keeps that rhythm.
 
 | Season | The world under the stories ([escalation](../../Story/Main-Conflict.md#escalation)) | Wurdren | What the reader could piece together by the end |

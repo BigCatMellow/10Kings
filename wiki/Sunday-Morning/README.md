@@ -45,7 +45,7 @@ In reading order. Each title opens the story; "plan" opens its planning page. Wh
 | 13 | [The Blank Square](Drafts/The-Blank-Square.md) | Larchmere, Deepwood (provisional) | quiet, contemplative | ~3,300 words · [plan](Stories/The-Blank-Square.md) | L3 first pass, waiting for your read |
 | 14 | [Three Pots at Three Moon](Drafts/Three-Pots-at-Three-Moon.md) | a Port neighborhood | family / food | ~4,300 words · [plan](Stories/Three-Pots-at-Three-Moon.md) | L3; review done, waiting for your read |
 
-**Season 2** ([The Long Road](Notes/The-Long-Road.md#the-seasons-loosely)) has begun with two test stories, one for the world and one for the main story ([D26](Notes/Decisions.md#the-authors-decisions)). The whole season's order is planned on [Collection](Notes/Collection.md#season-2-reading-order-plan).
+**Season 2** ([The Long Road](Notes/The-Long-Road.md#the-seasons-loosely)) has begun with two test stories, one for the world and one for the main story ([D26](Notes/Decisions.md#the-authors-decisions)). The whole season's order is planned on [Collection](Notes/Collection.md#season-2-reading-order-plan), and the whole saga, Seasons 1 to 5, on [The Whole Road](Notes/The-Whole-Road.md).
 
 | # | Story | Setting | Mode | Length · planning notes | Level |
 | --- | --- | --- | --- | --- | --- |

@@ -25,7 +25,7 @@ Being used isn't a target. A story uses what it needs, and some things (a map ou
 
 ### Geography
 
-**Not yet in any story:** [The Overpath](../../wiki/Places/The-Spine.md#the-overpath) *(seeded: Above, The Walker's Stone)*, [Seven Hill](../../wiki/Places/Seven-Hill.md) *(seeded: Muster Bell, The Retired Blade, The Walls Come Home)*.
+**Not yet in any story:** [The Overpath](../../wiki/Places/The-Spine.md#the-overpath) *(seeded: Above, The Walker's Stone)*, [Seven Hill](../../wiki/Places/Seven-Hill.md) *(seeded: Muster Bell, The Bell Rings, The Retired Blade, The Walls Come Home)*.
 
 **Used:** Northwind (The First Fish at Snowbreaker Quay, The Greenvale Man); Ironcrest (The Same Paper, Walkout Pies); Greenvale (Mending Day, The Eighth Verse); Highridge Plateau (The Goat File, The Heavy Scale at Icestep Summit, The Mushrooms From Nowhere, The Road in Use, The Tree With a Debt); Deepwood (The Blank Square, The Tree With a Debt); Sunplains (One Square, Two Harvests, The Ladder Rules); Port (Three Pots at Three Moon); The Spine (The Road in Use); The Underpass (The Mushrooms From Nowhere, The Road in Use); Stonefield Forge (Inspected, Not Guaranteed); Harveston Vale (One Square, Two Harvests); Twilighthollow (The Blank Square, The Tree With a Debt); Icestep Summit (The Heavy Scale at Icestep Summit); Darkroot Gulch (Walkout Pies); Frostbay Way (The First Fish at Snowbreaker Quay).
 

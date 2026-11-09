@@ -35,7 +35,7 @@ These are important areas where earlier brainstorming produced multiple versions
 ## Villain
 
 - Name.
-- Homeland/people.
+- Homeland/people. *(A candidate for bt 7274, the Free City: [Villain](Story/Villain.md#candidate-homeland-the-free-city-for-bt-7274).)*
 - Exact grievance.
 - Exact territorial or political end-state he wants.
 - The point at which his methods become clearly unacceptable even to sympathetic readers.

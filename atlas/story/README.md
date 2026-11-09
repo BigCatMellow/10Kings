@@ -8,7 +8,7 @@ The main conflict, the current events and how they can ripple into each other, t
 
 Current events sit in their region's column (the cross-region ripple steps, the faiths' reading of the crises and the main-conflict cards in a Main conflict column). Each Sunday Morning story and seed sits in the column of its setting, with lines to its town or region, its festival, the events it sits on, its domino figure, its cast from Part 6, and the stories it shares a thread with. The ripple chain from Current Events is drawn step by step and marked possible.
 
-**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 15 sunday morning storys, 84 story seeds; 391 connections (381 stated in the wiki, 10 inferred).
+**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 15 sunday morning storys, 92 story seeds; 392 connections (382 stated in the wiki, 10 inferred).
 
 ## Gaps this part exposes
 
@@ -169,6 +169,10 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Inspected, Not Guaranteed | shares a thread with | Walkout Pies | stated | “Kerra Dunnock” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
 | The Tree With a Debt | shares a thread with | The Blank Square | stated | “the Twilighthollow community record” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
 | The Road in Use | shares a thread with | The Mushrooms From Nowhere | stated | “the lost corridor” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
+| The Same Paper | sits on | Unusual metal movements | stated | “Unusual metal movements; labor unrest a year on” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Same Paper | sits on | Labor unrest | stated | “Unusual metal movements; labor unrest a year on” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Same Paper | touches the domino of | Orin Slatehallow | stated | “as a chimney up the valley” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
+| The Same Paper | shares a thread with | Inspected, Not Guaranteed | stated | “the connected offers” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
 | Harvest Home Again | would use | 5. Farmers default | stated, possible | “farmers default” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#harvest-home-again) |
 | The Trial Rows | would touch the domino of | Rosana Meadowcroft | stated, possible | “Rosana Meadowcroft” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-trial-rows) |
 | The Route Book | would touch the domino of | Samir Tareh | stated, possible | “Samir Tareh” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-route-book) |
@@ -189,6 +193,7 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | The Rival Lamps | would touch the domino of | Bahriyya Nazar | stated, possible | “Bahriyya Nazar” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-rival-lamps) |
 | What the Elder Wrote | would touch the domino of | Naruin Mossglade | stated, possible | “Naruin Mossglade” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-elder-wrote) |
 | What the Elder Wrote | would sit on | Logging and road conflict | stated, possible | “logging and road conflict” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-elder-wrote) |
+| The Bell Rings | would be set in | Seven Hill | stated, possible | “Seven Hill” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bell-rings) |
 | The Walker's Stone | would be set in | The Overpath | stated, possible | “Overpath” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-walkers-stone) |
 | Above | would be set in | The Overpath | stated, possible | “Overpath” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#above) |
 | Above | would be set in | The Underpass | stated, possible | “Underpass” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#above) |
@@ -311,10 +316,6 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | The Honest Fence | would use | Port crime | stated, possible | “Port's” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-honest-fence) |
 | The Waiting Shore | would use | Northwind cuisine | stated, possible | “Northwind cuisine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-waiting-shore) |
 | The Forecast Table | would use | Sunplains cuisine | stated, possible | “Sunplains cuisine” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-forecast-table) |
-| The Same Paper | sits on | Unusual metal movements | stated | “Unusual metal movements; labor unrest a year on” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
-| The Same Paper | sits on | Labor unrest | stated | “Unusual metal movements; labor unrest a year on” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
-| The Same Paper | touches the domino of | Orin Slatehallow | stated | “as a chimney up the valley” [source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads) |
-| The Same Paper | shares a thread with | Inspected, Not Guaranteed | stated | “the connected offers” [source](../../wiki/Sunday-Morning/Notes/Collection.md#cross-story-promise-ledger) |
 
 ## Who appears where
 
@@ -631,6 +632,7 @@ flowchart LR
   sm_wilda["Wilda"]
   sm_gideon["Gideon"]
   sm_nils_orvay["Nils Orvay"]
+  story_same_paper["The Same Paper"]
   seed_w_harvest_home_again["Harvest Home Again"]
   seed_w_the_trial_rows["The Trial Rows"]
   seed_w_the_route_book["The Route Book"]
@@ -646,6 +648,8 @@ flowchart LR
   st_hr_debate["Debates tied to patrons"]
   seed_w_the_rival_lamps["The Rival Lamps"]
   seed_w_what_the_elder_wrote["What the Elder Wrote"]
+  seed_w_the_bell_rings["The Bell Rings"]
+  sevenhill["Seven Hill"]
   seed_w_the_walkers_stone["The Walker's Stone"]
   overpath["The Overpath"]
   seed_w_above["Above"]
@@ -657,7 +661,6 @@ flowchart LR
   seed_w_what_the_pass_is_called["What the Pass Is Called"]
   lang_oldspine["Old Spine speech"]
   seed_w_muster_bell["Muster Bell"]
-  sevenhill["Seven Hill"]
   seed_w_the_walls_come_home["The Walls Come Home"]
   pw_guild_builders["Builders and infrastructure guilds"]
   seed_w_the_harbor_runner["The Harbor Runner"]
@@ -758,7 +761,6 @@ flowchart LR
   seed_w_the_honest_fence["The Honest Fence"]
   seed_w_the_waiting_shore["The Waiting Shore"]
   seed_w_the_forecast_table["The Forecast Table"]
-  story_same_paper["The Same Paper"]
   st_main --> pp_villain
   st_main --> pw_council
   st_main --> pp_wurdren
@@ -991,6 +993,13 @@ flowchart LR
   sm_nils_orvay --> story_blank_square
   sm_zan_coyle --> story_mushrooms
   sm_vinegar --> story_mushrooms
+  story_same_paper --> st_ic_metal
+  story_same_paper --> st_ic_labor
+  story_same_paper --> pp_orin
+  story_same_paper -.->|possible| pp_villain
+  story_same_paper --> story_inspected
+  pp_wurdren --> story_same_paper
+  pp_orin --> story_same_paper
   seed_w_harvest_home_again -.->|possible| st_c5
   seed_w_the_trial_rows -.->|possible| pp_rosana
   seed_w_the_route_book -.->|possible| pp_samir
@@ -1011,6 +1020,7 @@ flowchart LR
   seed_w_the_rival_lamps -.->|possible| pp_bahriyya
   seed_w_what_the_elder_wrote -.->|possible| pp_naruin
   seed_w_what_the_elder_wrote -.->|possible| st_dw_road
+  seed_w_the_bell_rings -.->|possible| sevenhill
   seed_w_the_walkers_stone -.->|possible| overpath
   seed_w_above -.->|possible| overpath
   seed_w_above -.->|possible| underpass
@@ -1133,13 +1143,6 @@ flowchart LR
   seed_w_the_honest_fence -.->|possible| pw_crime_port
   seed_w_the_waiting_shore -.->|possible| northwind_food
   seed_w_the_forecast_table -.->|possible| sunplains_food
-  story_same_paper --> st_ic_metal
-  story_same_paper --> st_ic_labor
-  story_same_paper --> pp_orin
-  story_same_paper -.->|possible| pp_villain
-  story_same_paper --> story_inspected
-  pp_wurdren --> story_same_paper
-  pp_orin --> story_same_paper
 ```
 
 ## Every thing in this part
@@ -1223,6 +1226,7 @@ Grouped by board column.
 | [The Route Book](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-route-book) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Paid Side](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-paid-side) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Petition Room](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-petition-room) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Bell Rings](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bell-rings) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Stopping Place](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-stopping-place) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Day of Departure](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-day-of-departure) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Prayer List](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-prayer-list) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1278,6 +1282,13 @@ Grouped by board column.
 - *Premise:* The old doorkeeper of the petition room has seen every kind of paper come through. This season it's petitions with long rows of marks, from places he's never been, and the clerks keep asking him which pile they go on.
 - *Possible heart:* a doorkeeper decides more than anyone thinks.
 - *Possible thread:* the reform statements and Weaver marks arriving where the Council's desk "may read it as Deepwood organizing" (desk view); the Highridge government as people.
+
+**The Bell Rings**
+
+- *Kind:* Domino
+- *Premise:* Muster Bell's planned Return. The town recast the bell to call a supper, and this year it rings for a real muster. The parade ground has trestles on it, from habit.
+- *Possible heart:* a town finds out what it kept the bell for.
+- *Possible thread:* mobilization (escalation), felt from one parade ground.
 
 **The Stopping Place**
 
@@ -1542,6 +1553,7 @@ Grouped by board column.
 | [Harvest Home Again](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#harvest-home-again) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Penny Sale](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-penny-sale) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Trial Rows](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-trial-rows) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [Harvest Home, Year Six](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#harvest-home-year-six) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [Mending Day](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#mending-day) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Wrong Day](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-wrong-day) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The River Blessing](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-river-blessing) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1612,6 +1624,13 @@ Grouped by board column.
 - *Premise:* A stubborn farmer agrees to grow two rows of a seed steward's trial strain, to prove it's no good. The steward comes back every month in muddy boots to look, and the two of them argue about everything except what the rows are doing.
 - *Possible heart:* you can be wrong about a thing and right about a person.
 - *Possible thread:* Rosana Meadowcroft is the steward, as an ordinary person; her seed is the "agricultural innovation" that will become "a political fight over control". Here it's two rows.
+
+**Harvest Home, Year Six**
+
+- *Kind:* Domino
+- *Premise:* The last story, in the voice of the first (The Long Road). The news from Port comes by letter, and the Vale reads it out at the joint table, and argues about it, and has its festival.
+- *Possible heart:* the world changed, and the Vale still has to decide who chairs Harvest Home.
+- *Possible thread:* the whole road, from One Square, Two Harvests; what the news says is the destination.
 
 **Mending Day**
 
@@ -1724,6 +1743,10 @@ Grouped by board column.
 | [Refugee and worker pressure](../../wiki/Story/Current-Events.md#refugeeworker-pressure) | Current event | Working canon | Displaced people from border and economic crises arrive faster than housing and charity systems can absorb them. |
 | [2. Port credit tightens](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 2 of one possible ripple chain: Port insurance/credit tightens. |
 | [Three Pots at Three Moon](../../wiki/Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md#status) | Sunday Morning story, Year 2, early autumn | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
+| [The Harbor Book](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-harbor-book) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Customs Table](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-customs-table) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Conference Kitchen](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-conference-kitchen) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Night Fare](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-night-fare) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Harbor Runner](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-harbor-runner) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Bucket Race](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bucket-race) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Yellow Flag](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-yellow-flag) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1762,6 +1785,34 @@ Grouped by board column.
 - *Still falls elsewhere:* The smuggling rumors keep running on the next street over. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#where-the-nail-still-fell))
 - *Outward effect:* Three Moon does its civic job on one street: incompatible people share one space. ([source](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads))
 - *Also on:* [Three Pots at Three Moon](../../wiki/Sunday-Morning/Drafts/Three-Pots-at-Three-Moon.md), [Collection](../../wiki/Sunday-Morning/Notes/Collection.md#the-threads)
+
+**The Harbor Book**
+
+- *Kind:* Domino
+- *Premise:* A junior clerk keeps the harbor book: every ship in and out, what it says it carries, and how low it sits in the water. She writes down exactly what she sees and never what she thinks, because that's the job. In Season 3 a run of ships sits lower than their papers say. In Season 4 the hulls are requisitioned and the entries get shorter. In Season 5 somebody important asks to see the book, and it's honest.
+- *Possible heart:* an honest record is a kind of courage nobody notices.
+- *Possible thread:* the legacy's harbor master's logbook "whose anomalies show the hidden hand, so the reader sees what characters can't" (backlog 14). She records anomalies and never interprets them (D21).
+
+**The Customs Table**
+
+- *Kind:* Domino
+- *Premise:* Under the charter, kingdoms' customs officers sit at a table on the quay, and this winter there are more of them and less trade. A dockside family who can't stand the officers feeds them anyway, because it's cold and they're somebody's sons.
+- *Possible heart:* you can be against what someone's there for and still feed them.
+- *Possible thread:* the Danzig customs friction (The Whole Road); "Port-born first" in the family's mouths, for their own reasons.
+
+**The Conference Kitchen**
+
+- *Kind:* Domino
+- *Premise:* The talks have come to Port because Port is the only place every side will sit down in. The kitchen that feeds them has one long table, nine faiths' rules about food and a head cook who refuses to feed delegations separately.
+- *Possible heart:* you can't sit down to eat with someone and stay a stranger, or that's the cook's theory.
+- *Possible thread:* the resolution model's public negotiations, told from the kitchen. The Council is news by now, not a body on the page.
+
+**The Night Fare**
+
+- *Kind:* Domino
+- *Premise:* The night the talks end, a waterman rows a passenger out to a ship past the harbor chain. The passenger asks him to go slowly, so he can look at the city.
+- *Possible heart:* some people only see a place properly when they're leaving it.
+- *Possible thread:* None: a world story, part of the world at large (D23).
 
 **The Harbor Runner**
 
@@ -1946,6 +1997,7 @@ Grouped by board column.
 | [The Tree With a Debt](../../wiki/Sunday-Morning/Stories/The-Tree-With-a-Debt.md#status) | Sunday Morning story, Year 2, midsummer | Provisional | A provisional Sunday Morning story: writing reference, not setting canon. Its links show where the domino web touches one community, unseen by the people there. |
 | [The Bathhouse Compact](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bathhouse-compact) | Story seed | Provisional | A parked Sunday Morning premise, not yet developed; names and details are non-canon. |
 | [Very Nearly](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#very-nearly) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Long Way Round](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-long-way-round) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Kitchen Court](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-kitchen-court) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [Both Rites](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#both-rites) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Name on Both Walls](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-name-on-both-walls) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -2010,6 +2062,13 @@ Grouped by board column.
 - *Premise:* A year on, Wurdren comes back to Stonefield to finish Nell Haskett's gate properly. Somebody already has. He stays anyway, because Col Barrowfield has finally answered his letter and wants to tell someone what he said.
 - *Possible heart:* you don't have to be needed to be welcome.
 - *Possible thread:* Col's unanswered letter from Inspected, and the end Wurdren is walking toward (The Long Road): mattering to one person.
+
+**The Long Way Round**
+
+- *Kind:* Domino
+- *Premise:* A family has to get to the other side of a border that closed in a week. Wurdren knows a guide, who knows a carter, who knows a woman with a boat. Each of them helps because somebody they trust asked, and none of them sees anything bigger than one family.
+- *Possible heart:* trust is a road nobody built.
+- *Possible thread:* Season 4's inference, that ordinary trust is what neither side planned for (The Whole Road). One or two earlier people at most, so it doesn't become a reunion.
 
 **The Kitchen Court**
 
@@ -2112,6 +2171,7 @@ Grouped by board column.
 
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
+| [Care Of](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#care-of) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [Muster Bell](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#muster-bell) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Walls Come Home](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-walls-come-home) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Ballad Line](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-ballad-line) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -2130,6 +2190,13 @@ Grouped by board column.
 | [The House Cook](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-house-cook) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [Second Witness](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#second-witness) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [Mud Day](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#mud-day) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+
+**Care Of**
+
+- *Kind:* Domino
+- *Premise:* A letter addressed to Wurdren, "care of the inn", gets to the inn a week after he's gone. The innkeeper sends it on to the next inn on his road, and that one sends it on. Four innkeepers, four short scenes, each one guessing what's in it. In the last, he gets it.
+- *Possible heart:* you find out you matter by what follows you.
+- *Possible thread:* Wurdren's turn from wanting to be needed to mattering to someone (The Long Road). Who wrote it is a Season 1 or 2 person; what it says can stay private.
 
 **Muster Bell**
 

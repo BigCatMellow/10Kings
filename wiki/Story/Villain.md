@@ -94,6 +94,17 @@ He may force real reform while personally failing, losing his coalition, accepti
 
 His impact remains part of the new world.
 
+## Candidate homeland: the Free City (for bt 7274)
+
+*Not decided.* The homeland, grievance and end-state stay [open](../Open-Questions.md#villain). On 2026-11-09 bt 7274 suggested looking at "Port like the Free City of Danzig", and [The Whole Road](../Sunday-Morning/Notes/The-Whole-Road.md#the-villain-alternatives-judged-separately) judged that beside five alternatives. The lean:
+
+- **His people are the Port-born**, a mixed people with a city and no country. Port is neutral because "every major power fears what would happen if a rival controlled it" ([Port](../Places/Port.md#neutrality)), and the guarantees run it for everyone's trade, so the dockside has the least say.
+- **He sees the Council behind the guarantees**, with a Port house in the Routes seat, and decides that a city nobody owns is the city the Council runs best.
+- **He wants Port to answer to the Port-born.** His method follows the Danzig alternate history in the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig-sparks-dominos): make the guarantors distrust each other until neutral Port is the only ground they'll accept, then make himself the indispensable broker.
+- **The comparison is for mechanisms only.** None of Danzig's history comes in, and Port-born identity stays civic and mixed.
+
+The alternative most worth keeping is a frontier people the Convergence erased. Until bt 7274 rules, the stories keep Port as everyone's stationer, so nothing on the page depends on either.
+
 ## Legacy research
 
 Unpromoted legacy material relevant to this page is indexed in the [Story Legacy Research Library](../Reference/Story-Legacy-Research-Library.md).

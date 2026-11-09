@@ -62,6 +62,8 @@ Its governing charter should therefore involve:
 - limits on kingdom troops inside the city;
 - a locally accountable watch or guard.
 
+The Villain may be Port-born, read through the Free City of Danzig; that is a candidate for bt 7274, not canon ([Villain](../Story/Villain.md#candidate-homeland-the-free-city-for-bt-7274)).
+
 ## Culture
 
 Port is its own culture, not merely six regional quarters.
