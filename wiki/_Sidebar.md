@@ -37,6 +37,7 @@
 - [Seven Hill](Places/Seven-Hill.md)
 - [Border Towns](Places/Border-Towns.md)
 - [Places of Interest](Places/Places-of-Interest.md)
+- [Gazetteer](Places/Gazetteer.md)
 
 **History**
 - [Pre-Convergence](History/Pre-Convergence.md)

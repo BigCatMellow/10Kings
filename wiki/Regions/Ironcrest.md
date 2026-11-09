@@ -137,3 +137,5 @@ Ironcrest lets the story examine the difference between **productive capacity** 
 It should never be presented simply as "the weapon region." It is a society in which work, ownership, skill, debt, and political power have become inseparable.
 
 **Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [D36](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [The Burning Hill](../Places/Places-of-Interest.md#the-burning-hill), [The Wall of Names](../Places/Places-of-Interest.md#the-wall-of-names), [The Black Field](../Places/Places-of-Interest.md#the-black-field), [The First Wheel](../Places/Places-of-Interest.md#the-first-wheel), [The Thousand Steps](../Places/Places-of-Interest.md#the-thousand-steps), [The Star Iron](../Places/Places-of-Interest.md#the-star-iron), [The Blue Pit](../Places/Places-of-Interest.md#the-blue-pit).
+
+**Named places** (provisional, [D37](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): rivers, coasts, forests, hills, towns and roads on the [Gazetteer](../Places/Gazetteer.md#ironcrest).

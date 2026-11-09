@@ -428,4 +428,4 @@ The [World Review, 2026-11](World-Review-2026-11.md) checked the whole wiki agai
   - The Sunplains "Scholar's Library", as the Argument House.
   - The Underpass's Rockfall Memorial Days and Lanternlight trade fair, as the Rockfall Stones and the Lantern Fair Cavern ([backlog 1](README.md#legacy-reconciliation-backlog)).
   - The Great Foundry Fires stay unpromoted. [The Black Field](../Places/Places-of-Interest.md#the-black-field) points at them without settling what burned.
-
+- **Gazetteer (D37):** the legacy names Winterhaven and the Sapphire Isles, and the name-bank entries Helios Orchard, Mosspeak Rise, Emberhaven Cross and Golden Dunes Shore, are placed as provisional names on the [Gazetteer](../Places/Gazetteer.md). The legacy capitals stay declined ([World Review](World-Review-2026-11.md)).

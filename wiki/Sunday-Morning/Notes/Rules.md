@@ -73,6 +73,7 @@ Each story page owns its own Larger-world thread. The cross-story view (calendar
 - Linked owner pages remain authoritative. The festivals, border-town details and recipes these stories use carry their own status labels there, and several are themselves provisional.
 - Stories must not settle items in [Open Questions](../../Open-Questions.md), including Wurdren's biography.
 - New small towns are fine. Name them with the logic in [Naming](../../Culture/Naming.md) and mark them **Provisional**.
+- **Use the [Gazetteer](../../Places/Gazetteer.md) first.** Where a named river, road, hill or town fits, use it, so stories agree with each other; a new place name a story needs goes into the Gazetteer when the story is planned, marked *(story)* ([D37](Decisions.md#the-authors-decisions)).
 - So far, no story detail has been promoted to canon.
 
 ### Promotion rule

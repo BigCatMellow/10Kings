@@ -86,3 +86,5 @@ Surface kingdoms claim some entrances and sections but rarely control the entire
 Its surface counterpart is the [Overpath](The-Spine.md#the-overpath), the trail over the range. The Underpass physically embodies the setting's theme: the visible political map is not the same as the real network through which people, goods, and power move.
 
 **Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [D36](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [The Carvers' Gallery](Places-of-Interest.md#the-carvers-gallery), [The Rockfall Stones](Places-of-Interest.md#the-rockfall-stones), [The Lantern Fair Cavern](Places-of-Interest.md#the-lantern-fair-cavern).
+
+**Named places** (provisional, [D37](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): on the [Gazetteer](Gazetteer.md#the-spine-the-overpath-and-the-underpass).

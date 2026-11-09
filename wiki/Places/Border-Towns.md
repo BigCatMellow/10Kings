@@ -84,7 +84,7 @@ Earlier brainstorming also produced:
 
 Treat these as a name bank until the map and naming systems are finalized.
 
-Three of these names have since been placed by stories (provisional): Coalglen Meadows in Ironcrest ([Walkout Pies](../Sunday-Morning/Stories/Walkout-Pies.md)), Snowbreaker Quay in Northwind ([The First Fish](../Sunday-Morning/Stories/The-First-Fish.md)) and Reedveil Bend in Greenvale ([The Eighth Verse](../Sunday-Morning/Stories/The-Eighth-Verse.md)). [Seven Hill](Seven-Hill.md) is a town, not a border town, but sits on a pass.
+Three of these names have since been placed by stories (provisional): Coalglen Meadows in Ironcrest ([Walkout Pies](../Sunday-Morning/Stories/Walkout-Pies.md)), Snowbreaker Quay in Northwind ([The First Fish](../Sunday-Morning/Stories/The-First-Fish.md)) and Reedveil Bend in Greenvale ([The Eighth Verse](../Sunday-Morning/Stories/The-Eighth-Verse.md)). [Seven Hill](Seven-Hill.md) is a town, not a border town, but sits on a pass. The [Gazetteer](Gazetteer.md) has since placed four more, as provisional names: Helios Orchard (Sunplains), Mosspeak Rise (Deepwood), Emberhaven Cross (between the kingdoms) and Golden Dunes Shore (Sunplains).
 
 ## Generational change
 
@@ -107,3 +107,5 @@ Border towns show whether the world is actually changing.
 If kingdoms argue in old categories while border populations have already created new identities, the political map is lagging behind lived reality.
 
 **Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [D36](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [The Treaty Stones](Places-of-Interest.md#the-treaty-stones), [The Reconciliation Bridge](Places-of-Interest.md#the-reconciliation-bridge), [The Letter Tree](Places-of-Interest.md#the-letter-tree), [The Fiddlers' Hollow](Places-of-Interest.md#the-fiddlers-hollow).
+
+**Named places** (provisional, [D37](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): on the [Gazetteer](Gazetteer.md#between-the-kingdoms).

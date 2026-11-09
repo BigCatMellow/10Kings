@@ -123,6 +123,8 @@ When the map is finalized, it should show:
 
 The Spine has two ways across and one along: the [Underpass](Places/The-Underpass.md) through it, the pass roads over it, and the [Overpath](Places/The-Spine.md#the-overpath), the trail along its length that every pass road crosses. [Seven Hill](Places/Seven-Hill.md), an old pass fortress on the Highridge side, marks one of those crossings. When the map is drawn it should show the Overpath.
 
+Named rivers, coasts, forests, hills, passes, roads and shortcuts, with their relative positions, are on the [Gazetteer](Places/Gazetteer.md) (provisional, [D37](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)). Names there never fix a coordinate or a border.
+
 ## Border towns
 
 See [Border Towns](Places/Border-Towns.md). Border settlements are especially important because they show the setting's cultures as gradients rather than isolated blocks.

@@ -402,7 +402,7 @@ Grouped by board column.
 **The Ice Halls**
 
 - *Kind:* natural wonder
-- *Where:* the Northwind coast
+- *Where:* the cliffs of Sealfjord, on the Northwind coast
 
 **The Rescue Houses**
 
@@ -417,12 +417,12 @@ Grouped by board column.
 **The Moot Isle**
 
 - *Kind:* meeting place
-- *Where:* off the Northwind coast
+- *Where:* the Holm, at the end of the Long Skerries off the Northwind coast
 
 **The Seafarer's Beacon**
 
 - *Kind:* landmark
-- *Where:* a Northwind headland
+- *Where:* Cape Wending, a Northwind headland
 
 **Icefang Fjord**
 
@@ -457,12 +457,12 @@ Grouped by board column.
 **The Salt Mirror**
 
 - *Kind:* natural wonder, holy site
-- *Where:* the high Highridge plateau
+- *Where:* the Whitepan, on the high Highridge plateau
 
 **The Head in the Square**
 
 - *Kind:* monument
-- *Where:* a Highridge market town
+- *Where:* Kingshead, a Highridge market town
 
 **The Golden Caravanserai**
 
@@ -477,12 +477,12 @@ Grouped by board column.
 **The Ledger Vault**
 
 - *Kind:* landmark
-- *Where:* a Highridge trading town
+- *Where:* Tallybridge, a Highridge trading town
 
 **The Stepwell**
 
 - *Kind:* landmark
-- *Where:* a dry Highridge plateau town
+- *Where:* Deepstep, a dry Highridge plateau town
 
 **The Whistling Notch**
 
@@ -492,7 +492,7 @@ Grouped by board column.
 **The Milestones**
 
 - *Kind:* ruin
-- *Where:* the Highridge caravan corridors
+- *Where:* the Milestone Way, the old Highridge caravan corridor
 
 **The Rocking Stone**
 
@@ -502,7 +502,7 @@ Grouped by board column.
 **The Congress Hall**
 
 - *Kind:* landmark
-- *Where:* a Highridge plateau town
+- *Where:* Lowmeet, a Highridge plateau town
 
 ### Deepwood
 
@@ -527,22 +527,22 @@ Grouped by board column.
 **The One Tree**
 
 - *Kind:* holy site
-- *Where:* Deepwood
+- *Where:* Deepwood, beyond the Cedar Reaches
 
 **The Quiet Villages**
 
 - *Kind:* ruin
-- *Where:* deep in Deepwood
+- *Where:* the Hush, deep in Deepwood
 
 **The Canopy Road**
 
 - *Kind:* landmark
-- *Where:* Deepwood's flood country
+- *Where:* the Alderfens, Deepwood's flood country
 
 **The Black Pool**
 
 - *Kind:* natural wonder
-- *Where:* a Deepwood clearing
+- *Where:* a backwater of the Brownwater, Deepwood
 
 **The Telling Tree**
 
@@ -574,7 +574,7 @@ Grouped by board column.
 **The Burning Hill**
 
 - *Kind:* natural wonder
-- *Where:* Ironcrest
+- *Where:* Smoulder Knowe, Ironcrest
 
 **The Wall of Names**
 
@@ -589,12 +589,12 @@ Grouped by board column.
 **The First Wheel**
 
 - *Kind:* landmark
-- *Where:* an Ironcrest gorge
+- *Where:* the gorge of Cinder Brook, Ironcrest
 
 **The Thousand Steps**
 
 - *Kind:* landmark
-- *Where:* an Ironcrest mountainside
+- *Where:* the Ironbacks, an Ironcrest ridge
 
 **The Star Iron**
 
@@ -638,7 +638,7 @@ Grouped by board column.
 **The Drowned Bell**
 
 - *Kind:* mystery
-- *Where:* a Greenvale mill valley
+- *Where:* the Millburn's valley, Greenvale
 
 **The Grand Orchard**
 
@@ -648,12 +648,12 @@ Grouped by board column.
 **The Count Stones**
 
 - *Kind:* holy site
-- *Where:* the Greenvale–Deepwood border
+- *Where:* the far side of the Chalk Downs, on the Greenvale–Deepwood border
 
 **The Seed House**
 
 - *Kind:* landmark
-- *Where:* a Greenvale market town
+- *Where:* Barley Cross, a Greenvale market town
 
 **Cellar Hill**
 
@@ -663,17 +663,17 @@ Grouped by board column.
 **The Floating Fields**
 
 - *Kind:* landmark
-- *Where:* the Greenvale wetlands
+- *Where:* the Wetlands of Saltings, Greenvale
 
 **The Hiring Oak**
 
 - *Kind:* landmark
-- *Where:* a Greenvale crossroads
+- *Where:* Four Lane Ends, a Greenvale crossroads
 
 **The Ship on the Hill**
 
 - *Kind:* mystery
-- *Where:* between Greenvale and the Highridge foothills
+- *Where:* Ship Hill, toward the Highridge foothills
 
 ### Sunplains
 
@@ -703,17 +703,17 @@ Grouped by board column.
 **The Long Arches**
 
 - *Kind:* ruin, still working
-- *Where:* a Sunplains valley
+- *Where:* the Arch Valley, Sunplains
 
 **The Stepped Tombs**
 
 - *Kind:* monument
-- *Where:* the dry edge of the Sunplains
+- *Where:* the Dry Edge of the Sunplains
 
 **The Dig at Harrow Isle**
 
 - *Kind:* mystery
-- *Where:* a small island off the Sunplains coast
+- *Where:* Harrow Isle, the plainest of the Sapphire Isles off the Sunplains coast
 
 **The Patrons' Wall**
 
@@ -728,17 +728,17 @@ Grouped by board column.
 **The Groaning Wheels**
 
 - *Kind:* landmark
-- *Where:* a Sunplains river city
+- *Where:* Twelve Wheels, a Sunplains river city
 
 **The Boundary Fountain**
 
 - *Kind:* landmark
-- *Where:* where three Sunplains city-states meet
+- *Where:* Three Spouts, where three Sunplains city-states meet
 
 **The Reed Towns**
 
 - *Kind:* landmark
-- *Where:* a Sunplains delta
+- *Where:* the Thousand Channels, the Sallow's delta
 
 **The Argument House**
 
@@ -774,12 +774,12 @@ Grouped by board column.
 **The Old Light**
 
 - *Kind:* ruin
-- *Where:* Port's harbor mouth
+- *Where:* Lamp Point, on the north side of the Throat, Port's harbor mouth
 
 **The Sitting Kings**
 
 - *Kind:* monument
-- *Where:* the river gorge on the road down to Port
+- *Where:* the Kings' Gate, the gorge of the Long Water on the road down to Port
 
 **Stationers' Row**
 
@@ -789,17 +789,17 @@ Grouped by board column.
 **The Stair of Flags**
 
 - *Kind:* landmark
-- *Where:* Port's enclave quarter
+- *Where:* the Enclave Quarter, Port
 
 **The Floating Market**
 
 - *Kind:* landmark
-- *Where:* Port's inner harbor
+- *Where:* the Inner Pool, Port's inner harbor
 
 **The Seizure Warehouse**
 
 - *Kind:* memorial
-- *Where:* Port
+- *Where:* the Old Bond, Port
 
 ### Spine & Underpass
 
@@ -833,27 +833,27 @@ Grouped by board column.
 **The Mother's Cradle**
 
 - *Kind:* holy site
-- *Where:* the central Spine
+- *Where:* the Cradle, in the central Spine, at the top of the Pilgrims' Way
 
 **The Speaking Cliff**
 
 - *Kind:* carving
-- *Where:* a pass on the Highridge side of the Spine
+- *Where:* above the road through Orrimath, a pass on the Highridge side of the Spine
 
 **The Pass Springs**
 
 - *Kind:* landmark
-- *Where:* a high pass on the Spine
+- *Where:* just below the Hollin Gap, a high pass on the Spine
 
 **The Storm Bell**
 
 - *Kind:* holy site
-- *Where:* the Overpath
+- *Where:* the Bellsaddle, the worst saddle on the Overpath
 
 **The Carvers' Gallery**
 
 - *Kind:* carving
-- *Where:* the Underpass
+- *Where:* the Long Bore, in the Underpass
 
 **The Rockfall Stones**
 
@@ -863,7 +863,7 @@ Grouped by board column.
 **The Lantern Fair Cavern**
 
 - *Kind:* landmark
-- *Where:* the Underpass
+- *Where:* the Lantern Hall, in the Underpass
 
 ### Border towns
 
@@ -883,17 +883,17 @@ Grouped by board column.
 **The Treaty Stones**
 
 - *Kind:* landmark
-- *Where:* along Convergence lines
+- *Where:* along the Treaty Line
 
 **The Reconciliation Bridge**
 
 - *Kind:* holy site
-- *Where:* between two border towns
+- *Where:* between Upper Brayle and Nether Brayle
 
 **The Letter Tree**
 
 - *Kind:* landmark
-- *Where:* a crossroads on a carriers' road
+- *Where:* a crossroads on the Carriers' Road
 
 **The Fiddlers' Hollow**
 

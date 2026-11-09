@@ -62,6 +62,7 @@ How the world works, system by system. These were recovered from older proposals
 - [Seven Hill](Places/Seven-Hill.md)
 - [Border Towns](Places/Border-Towns.md)
 - [Places of Interest](Places/Places-of-Interest.md): wonders, holy sites, monuments and mysteries
+- [Gazetteer](Places/Gazetteer.md): named rivers, coasts, forests, plains, hills, passes, roads and shortcuts
 
 ## Culture
 

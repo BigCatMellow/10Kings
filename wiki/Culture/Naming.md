@@ -43,6 +43,8 @@ The language families are now set (see [Language families](Language-and-Thought.
 - **Sunplains:** old city-state names, founders, civic ideals, waterworks, forts, ports, estates.
 - **Port:** layers upon layers — indigenous/old geographic name, official charter name, district nicknames, immigrant neighborhood names, merchant terminology.
 
+The names in use so far, by region, are on the [Gazetteer](../Places/Gazetteer.md) ([D37](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)).
+
 ## Border names
 
 Border towns are especially likely to have:

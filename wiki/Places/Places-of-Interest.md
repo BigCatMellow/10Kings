@@ -11,7 +11,7 @@ Then: "I feel like you could do even more, looking at the world, the lore, the p
 - **A few entries** are recovered from the legacy notes ([Source Register](../Reference/Source-Register.md)).
 - **The rest** are proposals.
 
-Region, faith and history pages keep their own facts and link here.
+Region, faith and history pages keep their own facts and link here. Where each place is, by name, is on the [Gazetteer](Gazetteer.md).
 
 **How every entry is built,** following [World Rules](../World-Rules.md):
 - **Remembered differently.** Every place has more than one story told about it ([Contested Memory](../History/Contested-Memory.md)), and the page doesn't say which is right.
@@ -26,22 +26,22 @@ Region, faith and history pages keep their own facts and link here.
 | Place | Where | What it is | Kind |
 | --- | --- | --- | --- |
 | [The Tide Road](#the-tide-road) | the Northwind coast | a causeway to an island house of the Silent Whisper, dry only at low tide | holy site |
-| [The Ice Halls](#the-ice-halls) | the Northwind coast | sea caves that freeze into blue halls in winter | natural wonder |
+| [The Ice Halls](#the-ice-halls) | the cliffs of Sealfjord, on the Northwind coast | sea caves that freeze into blue halls in winter | natural wonder |
 | [The Rescue Houses](#the-rescue-houses) | the Northwind cliffs | lifeboat sheds whose doors carry the names of everyone brought back | landmark |
 | [The Burned Strand](#the-burned-strand) | the Northwind coast | a beach of burned boat ribs, remembered two ways | memorial |
-| [The Moot Isle](#the-moot-isle) | off the Northwind coast | a bare island where the clans settle fishing rights | meeting place |
-| [The Seafarer's Beacon](#the-seafarers-beacon) | a Northwind headland | a fire tower kept by one family | landmark |
+| [The Moot Isle](#the-moot-isle) | the Holm, at the end of the Long Skerries off the Northwind coast | a bare island where the clans settle fishing rights | meeting place |
+| [The Seafarer's Beacon](#the-seafarers-beacon) | Cape Wending, a Northwind headland | a fire tower kept by one family | landmark |
 | [Icefang Fjord](#icefang-fjord) | Northwind | a fjord whose mouth is a row of teeth | natural wonder |
 
 **Ironcrest**
 
 | Place | Where | What it is | Kind |
 | --- | --- | --- | --- |
-| [The Burning Hill](#the-burning-hill) | Ironcrest | a coal seam that has burned under a hill for a century | natural wonder |
+| [The Burning Hill](#the-burning-hill) | Smoulder Knowe, Ironcrest | a coal seam that has burned under a hill for a century | natural wonder |
 | [The Wall of Names](#the-wall-of-names) | an Ironcrest foundry town | the names of every worker the furnaces and mines have killed | memorial |
 | [The Black Field](#the-black-field) | an Ironcrest valley | a meadow where nothing is built, after an old burning | memorial |
-| [The First Wheel](#the-first-wheel) | an Ironcrest gorge | the oldest water wheel, rebuilt until nothing original is left | landmark |
-| [The Thousand Steps](#the-thousand-steps) | an Ironcrest mountainside | a miners' stair nobody can count the same way twice | landmark |
+| [The First Wheel](#the-first-wheel) | the gorge of Cinder Brook, Ironcrest | the oldest water wheel, rebuilt until nothing original is left | landmark |
+| [The Thousand Steps](#the-thousand-steps) | the Ironbacks, an Ironcrest ridge | a miners' stair nobody can count the same way twice | landmark |
 | [The Star Iron](#the-star-iron) | an Ironcrest village square | a lump of iron said to have fallen from the sky | relic |
 | [The Blue Pit](#the-blue-pit) | Ironcrest | a flooded mine pit of impossible blue | natural wonder |
 
@@ -50,52 +50,52 @@ Region, faith and history pages keep their own facts and link here.
 | Place | Where | What it is | Kind |
 | --- | --- | --- | --- |
 | [The Straight Road](#the-straight-road) | across Greenvale | forty miles of fitted stone that end in a meadow | ruin |
-| [The Drowned Bell](#the-drowned-bell) | a Greenvale mill valley | a village under a millpond; some say you can hear its bell | mystery |
+| [The Drowned Bell](#the-drowned-bell) | the Millburn's valley, Greenvale | a village under a millpond; some say you can hear its bell | mystery |
 | [The Grand Orchard](#the-grand-orchard) | Greenvale | the oldest orchard, said to be the mother of all the rest | landmark |
-| [The Count Stones](#the-count-stones) | the Greenvale–Deepwood border | a ring of stones whose shadows count the year | holy site |
-| [The Seed House](#the-seed-house) | a Greenvale market town | every family's seed, a jar each | landmark |
+| [The Count Stones](#the-count-stones) | the far side of the Chalk Downs, on the Greenvale–Deepwood border | a ring of stones whose shadows count the year | holy site |
+| [The Seed House](#the-seed-house) | Barley Cross, a Greenvale market town | every family's seed, a jar each | landmark |
 | [Cellar Hill](#cellar-hill) | Greenvale | a village dug into a hill of root cellars | landmark |
-| [The Floating Fields](#the-floating-fields) | the Greenvale wetlands | gardens on rafts of reed | landmark |
-| [The Hiring Oak](#the-hiring-oak) | a Greenvale crossroads | an oak carved with a tally for every returning worker | landmark |
-| [The Ship on the Hill](#the-ship-on-the-hill) | between Greenvale and the Highridge foothills | a seagoing ship forty miles from the sea | mystery |
+| [The Floating Fields](#the-floating-fields) | the Wetlands of Saltings, Greenvale | gardens on rafts of reed | landmark |
+| [The Hiring Oak](#the-hiring-oak) | Four Lane Ends, a Greenvale crossroads | an oak carved with a tally for every returning worker | landmark |
+| [The Ship on the Hill](#the-ship-on-the-hill) | Ship Hill, toward the Highridge foothills | a seagoing ship forty miles from the sea | mystery |
 
 **Highridge Plateau**
 
 | Place | Where | What it is | Kind |
 | --- | --- | --- | --- |
-| [The Salt Mirror](#the-salt-mirror) | the high Highridge plateau | a salt flat that floods into a mirror after rain | natural wonder, holy site |
-| [The Head in the Square](#the-head-in-the-square) | a Highridge market town | one of the Sitting Kings' heads, carried off after the war | monument |
+| [The Salt Mirror](#the-salt-mirror) | the Whitepan, on the high Highridge plateau | a salt flat that floods into a mirror after rain | natural wonder, holy site |
+| [The Head in the Square](#the-head-in-the-square) | Kingshead, a Highridge market town | one of the Sitting Kings' heads, carried off after the war | monument |
 | [The Golden Caravanserai](#the-golden-caravanserai) | the Highridge caravan corridors | an inn that has never closed | landmark |
 | [The Debate Steps](#the-debate-steps) | a Highridge city | the stone steps of the Midsummer Debates | landmark |
-| [The Ledger Vault](#the-ledger-vault) | a Highridge trading town | the oldest account books on the plateau | landmark |
-| [The Stepwell](#the-stepwell) | a dry Highridge plateau town | flight after flight of stone steps down to cool water | landmark |
+| [The Ledger Vault](#the-ledger-vault) | Tallybridge, a Highridge trading town | the oldest account books on the plateau | landmark |
+| [The Stepwell](#the-stepwell) | Deepstep, a dry Highridge plateau town | flight after flight of stone steps down to cool water | landmark |
 | [The Whistling Notch](#the-whistling-notch) | a pass on the Highridge plateau | a cleft where the wind never stops | natural wonder |
-| [The Milestones](#the-milestones) | the Highridge caravan corridors | distances to everywhere, including places that are gone | ruin |
+| [The Milestones](#the-milestones) | the Milestone Way, the old Highridge caravan corridor | distances to everywhere, including places that are gone | ruin |
 | [The Rocking Stone](#the-rocking-stone) | a Highridge hillside | a boulder a child can rock and a crowd can't topple | natural wonder, holy site |
-| [The Congress Hall](#the-congress-hall) | a Highridge plateau town | where one town says the Convergence was agreed | landmark |
+| [The Congress Hall](#the-congress-hall) | Lowmeet, a Highridge plateau town | where one town says the Convergence was agreed | landmark |
 
 **Deepwood**
 
 | Place | Where | What it is | Kind |
 | --- | --- | --- | --- |
-| [The One Tree](#the-one-tree) | Deepwood | a whole forest grown from one root, and the people who live in it | holy site |
-| [The Quiet Villages](#the-quiet-villages) | deep in Deepwood | villages left in the Ages of Silence | ruin |
-| [The Canopy Road](#the-canopy-road) | Deepwood's flood country | rope bridges in the high branches | landmark |
-| [The Black Pool](#the-black-pool) | a Deepwood clearing | a pool that seems to reflect nothing | natural wonder |
+| [The One Tree](#the-one-tree) | Deepwood, beyond the Cedar Reaches | a whole forest grown from one root, and the people who live in it | holy site |
+| [The Quiet Villages](#the-quiet-villages) | the Hush, deep in Deepwood | villages left in the Ages of Silence | ruin |
+| [The Canopy Road](#the-canopy-road) | the Alderfens, Deepwood's flood country | rope bridges in the high branches | landmark |
+| [The Black Pool](#the-black-pool) | a backwater of the Brownwater, Deepwood | a pool that seems to reflect nothing | natural wonder |
 | [The Telling Tree](#the-telling-tree) | a Deepwood village | where a village's history is told aloud once a year | landmark |
 
 **Sunplains**
 
 | Place | Where | What it is | Kind |
 | --- | --- | --- | --- |
-| [The Long Arches](#the-long-arches) | a Sunplains valley | an aqueduct still carrying water to orchards | ruin, still working |
-| [The Stepped Tombs](#the-stepped-tombs) | the dry edge of the Sunplains | stepped stone tombs nobody claims | monument |
-| [The Dig at Harrow Isle](#the-dig-at-harrow-isle) | a small island off the Sunplains coast | a shaft people have dug for two hundred years | mystery |
+| [The Long Arches](#the-long-arches) | the Arch Valley, Sunplains | an aqueduct still carrying water to orchards | ruin, still working |
+| [The Stepped Tombs](#the-stepped-tombs) | the Dry Edge of the Sunplains | stepped stone tombs nobody claims | monument |
+| [The Dig at Harrow Isle](#the-dig-at-harrow-isle) | Harrow Isle, the plainest of the Sapphire Isles off the Sunplains coast | a shaft people have dug for two hundred years | mystery |
 | [The Patrons' Wall](#the-patrons-wall) | a Sunplains city square | the carved names of every patron | monument |
 | [The Lantern Stair](#the-lantern-stair) | a Sunplains hill city | a stair with a family's lamp beside every step | landmark |
-| [The Groaning Wheels](#the-groaning-wheels) | a Sunplains river city | waterwheels that groan day and night | landmark |
-| [The Boundary Fountain](#the-boundary-fountain) | where three Sunplains city-states meet | three spouts, three cities, one argument | landmark |
-| [The Reed Towns](#the-reed-towns) | a Sunplains delta | towns on stilts above the channels | landmark |
+| [The Groaning Wheels](#the-groaning-wheels) | Twelve Wheels, a Sunplains river city | waterwheels that groan day and night | landmark |
+| [The Boundary Fountain](#the-boundary-fountain) | Three Spouts, where three Sunplains city-states meet | three spouts, three cities, one argument | landmark |
+| [The Reed Towns](#the-reed-towns) | the Thousand Channels, the Sallow's delta | towns on stilts above the channels | landmark |
 | [The Argument House](#the-argument-house) | a Sunplains city | the loudest library in the world | holy site |
 | [The Dawn Hill](#the-dawn-hill) | a hill above a Sunplains–Highridge road | a vigil fire of the Radiant Path | holy site |
 
@@ -103,34 +103,34 @@ Region, faith and history pages keep their own facts and link here.
 
 | Place | Where | What it is | Kind |
 | --- | --- | --- | --- |
-| [The Old Light](#the-old-light) | Port's harbor mouth | the empire's lighthouse, half fallen and still lit | ruin |
-| [The Sitting Kings](#the-sitting-kings) | the river gorge on the road down to Port | colossal seated statues of forgotten kings | monument |
+| [The Old Light](#the-old-light) | Lamp Point, on the north side of the Throat, Port's harbor mouth | the empire's lighthouse, half fallen and still lit | ruin |
+| [The Sitting Kings](#the-sitting-kings) | the Kings' Gate, the gorge of the Long Water on the road down to Port | colossal seated statues of forgotten kings | monument |
 | [Stationers' Row](#stationers-row) | Port | a street of paper sellers | landmark |
-| [The Stair of Flags](#the-stair-of-flags) | Port's enclave quarter | a stair through the foreign enclaves | landmark |
-| [The Floating Market](#the-floating-market) | Port's inner harbor | a market of boats that's gone by noon | landmark |
-| [The Seizure Warehouse](#the-seizure-warehouse) | Port | where the Port Seizure began or ended | memorial |
+| [The Stair of Flags](#the-stair-of-flags) | the Enclave Quarter, Port | a stair through the foreign enclaves | landmark |
+| [The Floating Market](#the-floating-market) | the Inner Pool, Port's inner harbor | a market of boats that's gone by noon | landmark |
+| [The Seizure Warehouse](#the-seizure-warehouse) | the Old Bond, Port | where the Port Seizure began or ended | memorial |
 
 **The Spine, the Overpath and the Underpass**
 
 | Place | Where | What it is | Kind |
 | --- | --- | --- | --- |
-| [The Mother's Cradle](#the-mothers-cradle) | the central Spine | a natural amphitheater where a whisper carries | holy site |
-| [The Speaking Cliff](#the-speaking-cliff) | a pass on the Highridge side of the Spine | one proclamation carved three times, in three languages | carving |
-| [The Pass Springs](#the-pass-springs) | a high pass on the Spine | hot springs where nobody brings a weapon | landmark |
-| [The Storm Bell](#the-storm-bell) | the Overpath | a bell rung through storms for lost travelers | holy site |
+| [The Mother's Cradle](#the-mothers-cradle) | the Cradle, in the central Spine, at the top of the Pilgrims' Way | a natural amphitheater where a whisper carries | holy site |
+| [The Speaking Cliff](#the-speaking-cliff) | above the road through Orrimath, a pass on the Highridge side of the Spine | one proclamation carved three times, in three languages | carving |
+| [The Pass Springs](#the-pass-springs) | just below the Hollin Gap, a high pass on the Spine | hot springs where nobody brings a weapon | landmark |
+| [The Storm Bell](#the-storm-bell) | the Bellsaddle, the worst saddle on the Overpath | a bell rung through storms for lost travelers | holy site |
 | [Eagle's Summit and Shimmerfall Ravine](#eagles-summit-and-shimmerfall-ravine) | the Overpath | already on The Spine | natural wonders |
 | [Seven Hill](#seven-hill) | the Highridge side of the Spine | an emptied pass fortress | ruin |
-| [The Carvers' Gallery](#the-carvers-gallery) | the Underpass | a stretch of tunnel where travelers carve once in their lives | carving |
+| [The Carvers' Gallery](#the-carvers-gallery) | the Long Bore, in the Underpass | a stretch of tunnel where travelers carve once in their lives | carving |
 | [The Rockfall Stones](#the-rockfall-stones) | the Underpass | a stone for every collapse | memorial |
-| [The Lantern Fair Cavern](#the-lantern-fair-cavern) | the Underpass | a cavern big enough for a fair | landmark |
+| [The Lantern Fair Cavern](#the-lantern-fair-cavern) | the Lantern Hall, in the Underpass | a cavern big enough for a fair | landmark |
 
 **Between the kingdoms**
 
 | Place | Where | What it is | Kind |
 | --- | --- | --- | --- |
-| [The Treaty Stones](#the-treaty-stones) | along Convergence lines | boundary stones cut with clauses | landmark |
-| [The Reconciliation Bridge](#the-reconciliation-bridge) | between two border towns | a footbridge where feuds end in the middle | holy site |
-| [The Letter Tree](#the-letter-tree) | a crossroads on a carriers' road | letters for travelers, and for the dead | landmark |
+| [The Treaty Stones](#the-treaty-stones) | along the Treaty Line | boundary stones cut with clauses | landmark |
+| [The Reconciliation Bridge](#the-reconciliation-bridge) | between Upper Brayle and Nether Brayle | a footbridge where feuds end in the middle | holy site |
+| [The Letter Tree](#the-letter-tree) | a crossroads on the Carriers' Road | letters for travelers, and for the dead | landmark |
 | [The Fiddlers' Hollow](#the-fiddlers-hollow) | the Ridge-Roamers' circuit | the meadow where the Ridge-Roamers winter | meeting place |
 
 ## Northwind
@@ -146,7 +146,7 @@ A causeway of stones runs a mile out across the sand to a rock island with a hou
 
 ### The Ice Halls
 
-*The Northwind coast.*
+*the cliffs of Sealfjord, on the Northwind coast ([Gazetteer](Gazetteer.md#northwind)).*
 
 Sea caves on a cold stretch of coast freeze in deep winter into halls of blue ice. Fishers' families take their children in once, by lamplight, on a still day.
 
@@ -171,7 +171,7 @@ A long beach where the ribs of old boats stick out of the sand, black with fire.
 
 ### The Moot Isle
 
-*Off the Northwind coast.*
+*the Holm, at the end of the Long Skerries off the Northwind coast ([Gazetteer](Gazetteer.md#northwind)).*
 
 A bare island where no one may live, with a ring of stone seats facing the sea. Clans meet there to settle fishing banks and winter anchorages, which have always mattered more than land on shore. Whoever calls the moot has to bring the food for everyone.
 
@@ -179,7 +179,7 @@ A bare island where no one may live, with a ring of stone seats facing the sea. 
 
 ### The Seafarer's Beacon
 
-*A Northwind headland. Recovered from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/01_Foundations_World_Myth_History.md): "a towering lighthouse guiding ships safely to port".*
+*Cape Wending, a Northwind headland ([Gazetteer](Gazetteer.md#northwind)). Recovered from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/01_Foundations_World_Myth_History.md): "a towering lighthouse guiding ships safely to port".*
 
 A fire tower on a headland, kept by one family for so long that the family's name and the tower's are the same word. They burn whatever the coast sends them, and the coast sends them a good deal.
 
@@ -193,7 +193,7 @@ A fjord whose mouth is a row of black rocks like teeth. The fish inside are the 
 
 ### The Burning Hill
 
-*Ironcrest.*
+*Smoulder Knowe, Ironcrest ([Gazetteer](Gazetteer.md#ironcrest)).*
 
 A coal seam caught fire under a hill a hundred years ago and has never gone out. Snow doesn't lie on it. Steam comes out of cracks in the turf, and the village that stood on top moved down the valley.
 
@@ -219,13 +219,13 @@ A wide meadow on a valley floor where nothing has been built since a great burni
 
 ### The First Wheel
 
-*An Ironcrest gorge.*
+*the gorge of Cinder Brook, Ironcrest ([Gazetteer](Gazetteer.md#ironcrest)).*
 
 The oldest water wheel in the region still turns in a gorge, driving a hammer that no longer hits anything. The guild keeps it running so apprentices can be shown what everything else came from. It's been rebuilt so many times that not a board of the first wheel is left, and that's part of what they're shown.
 
 ### The Thousand Steps
 
-*An Ironcrest mountainside.*
+*the Ironbacks, an Ironcrest ridge ([Gazetteer](Gazetteer.md#ironcrest)).*
 
 A stair cut into the rock up to an old mine mouth, climbed by miners every shift for a century. The mine is closed. People still climb it, and every one of them counts the steps on the way up, and nobody agrees on the number.
 
@@ -253,7 +253,7 @@ Forty miles of fitted stone road run dead straight across hills, fields and one 
 
 ### The Drowned Bell
 
-*A Greenvale mill valley.*
+*the Millburn's valley, Greenvale ([Gazetteer](Gazetteer.md#greenvale)).*
 
 A village lies under a millpond, flooded when the dam was raised in someone's great-grandmother's time. On still days, people say, you can hear its bell. In drought years, the roof of its shrine comes up out of the water, and people row out to touch it.
 
@@ -267,7 +267,7 @@ The oldest orchard in Greenvale. It's said that every orchard in the region was 
 
 ### The Count Stones
 
-*The Greenvale–Deepwood border.*
+*the far side of the Chalk Downs, on the Greenvale–Deepwood border ([Gazetteer](Gazetteer.md#greenvale)).*
 
 A ring of standing stones in a field. On the longest and shortest days, the shadows of two of them meet a third. Farmers plough around them; nobody remembers who set them up.
 
@@ -276,7 +276,7 @@ A ring of standing stones in a field. On the longest and shortest days, the shad
 
 ### The Seed House
 
-*A Greenvale market town. After the legacy notes' "Seed Vault".*
+*Barley Cross, a Greenvale market town ([Gazetteer](Gazetteer.md#greenvale)). After the legacy notes' "Seed Vault".*
 
 A cool stone house where every farming family in the district keeps a handful of its own seed in a jar with its name on, so that whatever the year does, nobody starts from nothing. At [Harvest Home](../Culture/Festivals-and-Seasonal-Life.md#greenvale) the jars are opened and seed is traded across the table.
 
@@ -290,19 +290,19 @@ A village dug into a south-facing hillside: every house has its root cellar goin
 
 ### The Floating Fields
 
-*The Greenvale wetlands.*
+*the Wetlands of Saltings, Greenvale ([Gazetteer](Gazetteer.md#greenvale)).*
 
 Gardens built on rafts of reed and mud in a wide marsh, tethered with poles and poled about by the families who farm them. In a dry year they settle onto the bottom and become ordinary gardens, which the families find embarrassing.
 
 ### The Hiring Oak
 
-*A Greenvale crossroads.*
+*Four Lane Ends, a Greenvale crossroads ([Gazetteer](Gazetteer.md#greenvale)).*
 
 A great oak where seasonal workers stand to be hired at harvest. Its bark is cut with marks: a tally for every year a family came back. Some of the oldest marks have grown so high you need a ladder.
 
 ### The Ship on the Hill
 
-*A hilltop between Greenvale and the Highridge foothills.*
+*Ship Hill, toward the Highridge foothills ([Gazetteer](Gazetteer.md#greenvale)).*
 
 A seagoing ship, keel and ribs and most of its planking, sits on a hilltop forty miles from the sea. Nobody knows how it got there. A family keeps sheep in its hold and a shrine in its bow.
 
@@ -312,7 +312,7 @@ A seagoing ship, keel and ribs and most of its planking, sits on a hilltop forty
 
 ### The Salt Mirror
 
-*The high Highridge plateau.*
+*the Whitepan, on the high Highridge plateau ([Gazetteer](Gazetteer.md#highridge-plateau)).*
 
 A salt flat so wide you can't see across it. After the rains, it holds an inch of water and becomes a mirror, so that walking across it is walking on the sky. Caravans cross it by the stars when it's dry, and they don't cross it at all when it's wet.
 
@@ -322,7 +322,7 @@ A salt flat so wide you can't see across it. After the rains, it holds an inch o
 
 ### The Head in the Square
 
-*A Highridge market town.*
+*Kingshead, a Highridge market town ([Gazetteer](Gazetteer.md#highridge-plateau)).*
 
 In the middle of a market square lies a stone head as tall as a house, on its side. It's the missing Sitting King's.
 
@@ -346,13 +346,13 @@ A great semicircle of stone steps where the [Midsummer Debates](../Culture/Festi
 
 ### The Ledger Vault
 
-*A Highridge trading town.*
+*Tallybridge, a Highridge trading town ([Gazetteer](Gazetteer.md#highridge-plateau)).*
 
 A house of the [market and records guilds](../Politics/Guilds.md#market-and-records-guilds) that holds the oldest account books on the plateau. At [Ledger Closing](../Culture/Festivals-and-Seasonal-Life.md#highridge) families come to see an ancestor's debt, and sometimes to pay it, out of pride.
 
 ### The Stepwell
 
-*A dry Highridge plateau town.*
+*Deepstep, a dry Highridge plateau town ([Gazetteer](Gazetteer.md#highridge-plateau)).*
 
 A well dug as a deep square funnel of stone steps, flight after flight, down to water that's always cool. In summer the town eats its supper on the lower steps. Every caravan that waters there leaves a mark on the top flight.
 
@@ -364,7 +364,7 @@ A cleft in a ridge where the wind never stops and the rocks whistle. Caravans ti
 
 ### The Milestones
 
-*The Highridge caravan corridors.*
+*the Milestone Way, the old Highridge caravan corridor ([Gazetteer](Gazetteer.md#highridge-plateau)).*
 
 Old carved milestones give distances to everywhere, including towns nobody can find any more. Caravan children learn their numbers from them. A few point to places that only exist in songs.
 
@@ -376,7 +376,7 @@ A boulder the size of a house balanced on a ledge, so finely that a child can ro
 
 ### The Congress Hall
 
-*Highridge, the strongest candidate for where the Convergence was agreed ([The Convergence](../History/The-Convergence.md#negotiation)).*
+*Lowmeet, a Highridge plateau town ([Gazetteer](Gazetteer.md#highridge-plateau)).*
 
 A long hall in a plateau town, said to be where the Convergence was negotiated. It's been a granary, a barracks and a school since. Now it holds hay, and the family who own it will show you the table it was signed on for a copper. Everyone in town knows the table is a newer one.
 
@@ -386,7 +386,7 @@ A long hall in a plateau town, said to be where the Convergence was negotiated. 
 
 ### The One Tree
 
-*Deepwood. bt 7274's: "a forest of interconnected trees where reverent people who worshipped the forest lived."*
+*Deepwood, beyond the Cedar Reaches ([Gazetteer](Gazetteer.md#deepwood)). bt 7274's: "a forest of interconnected trees where reverent people who worshipped the forest lived."*
 
 From the edge it looks like any old forest. It's one tree. Every trunk for miles comes up from the same root, and when one falls another rises from the root beside it. The people who live inside belong to the [Path of the Great Weaver](../Politics/Religions.md#2-path-of-the-great-weaver), for whom everything is a thread in one living weave; here the weave has a body.
 
@@ -402,7 +402,7 @@ From the edge it looks like any old forest. It's one tree. Every trunk for miles
 
 ### The Quiet Villages
 
-*Deep in Deepwood.*
+*the Hush, deep in Deepwood ([Gazetteer](Gazetteer.md#deepwood)).*
 
 Villages left during the [Ages of Silence](../Regions/Deepwood.md#historical-identity), grown over with moss and trees until only the shapes of doorways show. Most Deepwood people won't go in. Some go once a year, during Deep Silence, and say nothing while they're there.
 
@@ -410,13 +410,13 @@ Villages left during the [Ages of Silence](../Regions/Deepwood.md#historical-ide
 
 ### The Canopy Road
 
-*Deepwood's flood country.*
+*the Alderfens, Deepwood's flood country ([Gazetteer](Gazetteer.md#deepwood)).*
 
 Rope bridges and platforms in the high branches let people cross the forest when the rivers are up. During [Canopy Vigil](../Culture/Festivals-and-Seasonal-Life.md#deepwood) people sit on the platforms and watch, and don't work.
 
 ### The Black Pool
 
-*A Deepwood clearing.*
+*a backwater of the Brownwater, Deepwood ([Gazetteer](Gazetteer.md#deepwood)).*
 
 A still forest pool so dark with leaf-water that it doesn't seem to reflect anything. People drop a leaf in to see it float, to be sure it's water. The [Silent Whisper](../Politics/Religions.md#6-the-silent-whisper) walks there at night without lanterns.
 
@@ -430,7 +430,7 @@ A great tree under which the village's history is told aloud once a year, from t
 
 ### The Long Arches
 
-*A Sunplains valley.*
+*the Arch Valley, Sunplains ([Gazetteer](Gazetteer.md#sunplains)).*
 
 An aqueduct of tall stone arches crosses a valley and still carries water to the orchards on the far side.
 
@@ -439,7 +439,7 @@ An aqueduct of tall stone arches crosses a valley and still carries water to the
 
 ### The Stepped Tombs
 
-*The dry edge of the Sunplains.*
+*the Dry Edge of the Sunplains ([Gazetteer](Gazetteer.md#sunplains)).*
 
 Stepped stone tombs, five of them, rise out of the scrub where the irrigated country gives out. They were robbed so long ago that the robbers' tunnels have names. Nobody claims them: not the nearest city-state, which would have to maintain them, and not the faiths, which don't know whose dead they are.
 
@@ -448,7 +448,7 @@ Stepped stone tombs, five of them, rise out of the scrub where the irrigated cou
 
 ### The Dig at Harrow Isle
 
-*A small island off the Sunplains coast.*
+*Harrow Isle, the plainest of the Sapphire Isles off the Sunplains coast ([Gazetteer](Gazetteer.md#sunplains)).*
 
 Two hundred years ago, a boy found a dip in the ground under an old oak, and a pulley block hanging from a branch. Under the dip there was a shaft. Every ten feet down there's a platform of oak logs. At the ninetieth foot, the sea comes in.
 
@@ -470,19 +470,19 @@ A long public stair climbs the city's hill, with a niche for a lamp beside every
 
 ### The Groaning Wheels
 
-*A Sunplains river city.*
+*Twelve Wheels, a Sunplains river city ([Gazetteer](Gazetteer.md#sunplains)).*
 
 Enormous wooden waterwheels lift river water into the city's channels, and groan as they turn, day and night. People born in the city can't sleep anywhere quiet.
 
 ### The Boundary Fountain
 
-*Where three Sunplains city-states meet.*
+*Three Spouts, where three Sunplains city-states meet ([Gazetteer](Gazetteer.md#sunplains)).*
 
 A fountain with three spouts, one for each city, on the exact spot where their lands meet. Each city keeps its own spout, and argues about the others'. [Water law](../Regions/Sunplains.md#geography) is taught here to apprentices of all three.
 
 ### The Reed Towns
 
-*A Sunplains delta.*
+*the Thousand Channels, the Sallow's delta ([Gazetteer](Gazetteer.md#sunplains)).*
 
 Towns on stilts above a delta's channels, where people go to market by boat and children swim before they walk.
 
@@ -504,7 +504,7 @@ Port's past as the last ruling empire's city ([D30](../Sunday-Morning/Notes/Deci
 
 ### The Old Light
 
-*Port's harbor mouth.*
+*Lamp Point, on the north side of the Throat, Port's harbor mouth ([Gazetteer](Gazetteer.md#port)).*
 
 The empire's lighthouse stands at the harbor mouth, fallen to half its height. Port's watch still keeps a lamp burning on the stump, because ships expect one there.
 
@@ -513,7 +513,7 @@ The empire's lighthouse stands at the harbor mouth, fallen to half its height. P
 
 ### The Sitting Kings
 
-*The river gorge on the road down to Port.*
+*the Kings' Gate, the gorge of the Long Water on the road down to Port ([Gazetteer](Gazetteer.md#the-great-features)).*
 
 Where the river cuts through the last hills before the coast, colossal seated kings are carved out of the gorge walls, facing the water. Their faces have worn smooth. Their hands rest on their knees. One is missing his head. Barges pass between their feet.
 
@@ -532,19 +532,19 @@ A street of paper sellers, each house's mark carved over its door. Every record 
 
 ### The Stair of Flags
 
-*Port's enclave quarter.*
+*the Enclave Quarter, Port ([Gazetteer](Gazetteer.md#port)).*
 
 A long stair climbs through the [foreign enclaves](Port.md#neutrality), and every landing has a different flag, a different kitchen smell and a different idea of what's polite. Port children run it as a dare: up to the top, saying good morning in every language on the way.
 
 ### The Floating Market
 
-*Port's inner harbor.*
+*the Inner Pool, Port's inner harbor ([Gazetteer](Gazetteer.md#port)).*
 
 Boats tie up gunwale to gunwale at dawn and sell to each other and to the quays until the tide turns. By noon it's gone.
 
 ### The Seizure Warehouse
 
-*Port.*
+*the Old Bond, Port ([Gazetteer](Gazetteer.md#port)).*
 
 An old warehouse that families on both sides remember as the place where the [Port Seizure](../History/Contested-Memory.md#the-port-seizure) began or ended. Who was seized, and by whom, depends on whose grandmother is telling it ([seed](../Sunday-Morning/Stories/Story-Seeds.md#the-seizure-warehouse)).
 
@@ -552,7 +552,7 @@ An old warehouse that families on both sides remember as the place where the [Po
 
 ### The Mother's Cradle
 
-*The central Spine. Recovered from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/02_Regions_Kingdoms.md).*
+*the Cradle, in the central Spine, at the top of the Pilgrims' Way ([Gazetteer](Gazetteer.md#the-spine-the-overpath-and-the-underpass)). Recovered from the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/02_Regions_Kingdoms.md).*
 
 A natural amphitheater high among the central peaks, where a whisper at the bottom carries to the top. Pilgrims on the [Spine's pilgrimage routes](The-Spine.md) climb to it to say something out loud once.
 
@@ -561,7 +561,7 @@ A natural amphitheater high among the central peaks, where a whisper at the bott
 
 ### The Speaking Cliff
 
-*A pass on the Highridge side of the Spine.*
+*above the road through Orrimath, a pass on the Highridge side of the Spine ([Gazetteer](Gazetteer.md#the-spine-the-overpath-and-the-underpass)).*
 
 A cliff face above a pass road is carved with one long proclamation, three times over, in three languages. One is so old that only scholars can read it. One is [Old Spine speech](../Language-Families-and-Contact.md), extinct except in place names. The third is a Heartland tongue, worn but readable. The three versions don't quite agree.
 
@@ -571,13 +571,13 @@ A cliff face above a pass road is carved with one long proclamation, three times
 
 ### The Pass Springs
 
-*A high pass on the Spine.*
+*just below the Hollin Gap, a high pass on the Spine ([Gazetteer](Gazetteer.md#the-spine-the-overpath-and-the-underpass)).*
 
 Hot springs where travelers soak before the descent. By custom nobody brings a weapon into the water and nobody talks business in it, so enemies have been known to sit in the same pool.
 
 ### The Storm Bell
 
-*The Overpath.*
+*the Bellsaddle, the worst saddle on the Overpath ([Gazetteer](Gazetteer.md#the-spine-the-overpath-and-the-underpass)).*
 
 A tiny shrine in the worst saddle on the [Overpath](The-Spine.md#the-overpath), with a bell that whoever's sheltering rings every few minutes through a storm, so travelers lost in the cloud can find it.
 
@@ -593,7 +593,7 @@ A tiny shrine in the worst saddle on the [Overpath](The-Spine.md#the-overpath), 
 
 ### The Carvers' Gallery
 
-*The Underpass.*
+*the Long Bore, in the Underpass ([Gazetteer](Gazetteer.md#the-spine-the-overpath-and-the-underpass)).*
 
 A long stretch of [Underpass](The-Underpass.md) tunnel is carved from floor to ceiling by travelers: names, boats, a goat, prayers, a whole wedding party in one panel. The custom is that you carve once in your life, on your first crossing, and never again.
 
@@ -608,7 +608,7 @@ A side cavern where a stone is set up for every collapse the tunnels have had, e
 
 ### The Lantern Fair Cavern
 
-*The Underpass. After the legacy notes' "Lanternlight trade fair" ([backlog 1](../Reference/README.md#legacy-reconciliation-backlog)).*
+*the Lantern Hall, in the Underpass ([Gazetteer](Gazetteer.md#the-spine-the-overpath-and-the-underpass)). After the legacy notes' "Lanternlight trade fair" ([backlog 1](../Reference/README.md#legacy-reconciliation-backlog)).*
 
 A cavern so big a whole fair fits in it. Once a year, traders from every tunnel branch set up stalls by lamplight, and for a few days it's the brightest place underground.
 
@@ -616,19 +616,19 @@ A cavern so big a whole fair fits in it. Once a year, traders from every tunnel 
 
 ### The Treaty Stones
 
-*Along Convergence lines.*
+*along the Treaty Line ([Gazetteer](Gazetteer.md#between-the-kingdoms)).*
 
 Boundary stones set along the lines the [Convergence](../History/The-Convergence.md) recognized, each cut with a clause or two. Farmers know theirs by heart. Some have been moved by floods, or by farmers ([seed](../Sunday-Morning/Stories/Story-Seeds.md#the-treaty-stone)).
 
 ### The Reconciliation Bridge
 
-*A footbridge between two border towns.*
+*between Upper Brayle and Nether Brayle ([Gazetteer](Gazetteer.md#between-the-kingdoms)).*
 
 A narrow bridge between two towns that fought each other for longer than anyone remembers why. Feuds are ended by meeting in the middle and sharing bread, as the [Harmonious Path](../Politics/Religions.md#7-the-harmonious-path) teaches. The middle plank has been replaced more than any other.
 
 ### The Letter Tree
 
-*A crossroads on a carriers' road.*
+*a crossroads on the Carriers' Road ([Gazetteer](Gazetteer.md#the-great-features)).*
 
 A hollow tree where people leave letters for travelers who might pass, and for the dead. The [carriers](../Couriers-Posts-and-Message-Networks.md) check it as they go by, take the ones for the living, and leave the others.
 

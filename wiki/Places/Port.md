@@ -133,6 +133,8 @@ Every regional conflict can appear here in compressed form, but Port-born people
 
 **Places of interest** (provisional, [D35](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [D36](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): [The Old Light](Places-of-Interest.md#the-old-light), [The Sitting Kings](Places-of-Interest.md#the-sitting-kings), [Stationers' Row](Places-of-Interest.md#stationers-row), [The Stair of Flags](Places-of-Interest.md#the-stair-of-flags), [The Floating Market](Places-of-Interest.md#the-floating-market), [The Seizure Warehouse](Places-of-Interest.md#the-seizure-warehouse).
 
+**Named places** (provisional, [D37](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): on the [Gazetteer](Gazetteer.md#port).
+
 ## Legacy research
 
 Unpromoted legacy material relevant to this page is indexed in the [Story Legacy Research Library](../Reference/Story-Legacy-Research-Library.md).
