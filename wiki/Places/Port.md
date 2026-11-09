@@ -40,8 +40,7 @@ So the harbor's first great city was the Sea People's. They grew too strong for 
 
 - **Who the Sea People's heirs are.** Many Port-born families, mixed by now with every people that came after. The [Villain](../Story/Villain.md#homeland-and-grievance-d28) is one of them.
 - **When.** *Lean, provisional:* the war came before the [Convergence](../History/The-Convergence.md#neutral-port), and the Convergence made the taking permanent as Port's neutral status.
-- **The Sea People were an empire,** and [Northwind](../Regions/Northwind.md#whats-left-of-the-old-empire-d29) is what's left of it ([D29](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)). Northwind families' [Port Seizure](../History/Contested-Memory.md#the-port-seizure) story is their memory of the same loss.
-- **Open:** the war's name ([Open Questions](../Open-Questions.md#villain)).
+- **Open:** the war's name; whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people. Northwind families' [Port Seizure](../History/Contested-Memory.md#the-port-seizure) story may be their memory of the same loss ([Open Questions](../Open-Questions.md#villain)).
 
 ## Why other ports do not replace it
 

@@ -42,14 +42,6 @@ This history explains why modern Northwind politics remain sensitive to:
 - maritime law;
 - outsiders buying control of harbors.
 
-### What's left of the old Empire (D29)
-
-**Working canon** (bt 7274, 2026-11-09, [D29](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): "in my mind Northwind is whats left of the old Empire, so maybe he would have allies there (as well as people that oppose just because no everyone is gonna agree, but that could be his link to getting agents out there, sailors and pirates that can come and go and blend in as they need at different cities)".
-
-The Sea People were an empire, and [Port](../Places/Port.md#the-sea-peoples-city-d28) was its great city until they "grew too strong" and the other nations took it after a war. Northwind is what's left. *Lean, provisional:* the fragmented clans, confederacies and island rulers above are what the empire broke into after it lost Port, which is why outsiders buying control of harbors still touches a nerve.
-
-Northwind is not one opinion about that past. Some clans would side with a man who wants the Port-born given a say; many would oppose him, or simply want nothing to do with it. The [Villain](../Story/Villain.md#his-network-d29) finds allies here, and through them sailors and pirates who can come and go and blend into any port. That is his reach, not Northwind's character: most Northwind people are fishers, herders and townsfolk who have never met him, and the "northern pirates" of other regions' songs stay a belief ([World Rules](../World-Rules.md)).
-
 ## Cultural inspirations
 
 Research pools include:

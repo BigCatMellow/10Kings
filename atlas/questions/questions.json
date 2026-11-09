@@ -415,17 +415,17 @@
       "minor": true
     },
     {
-      "id": "oq-his-northwind-allies",
+      "id": "oq-the-sea-peoples-kin",
       "kind": "question",
-      "label": "Villain: how far his allies in Northwind reach",
+      "label": "Villain: whether the Sea People were Northwind's kin",
       "status": "No status label",
       "lane": "cast",
       "section": "Open questions",
       "src": "Open-Questions.md#villain",
-      "text": "Open question under Villain: How far his allies in Northwind reach, and who in Northwind opposes him.",
+      "text": "Open question under Villain: Whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people.",
       "short_text": "Villain",
       "facts": {
-        "Question": "How far his allies in Northwind reach, and who in Northwind opposes him.",
+        "Question": "Whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people.",
         "Section": "Villain"
       },
       "minor": true
@@ -1058,12 +1058,12 @@
       "chipBack": "Open questions"
     },
     {
-      "from": "oq-his-northwind-allies",
+      "from": "oq-the-sea-peoples-kin",
       "to": "pp-villain",
       "layer": "oq",
       "type": "asks about",
       "basis": "stated",
-      "quote": "How far his allies in Northwind reach, and who in Northwind opposes him.",
+      "quote": "Whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people.",
       "src": "Open-Questions.md#villain",
       "chip": "Asks about",
       "chipBack": "Open questions"

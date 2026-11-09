@@ -100,15 +100,7 @@ bt 7274, 2026-11-09, answering the [Whole Road](../Sunday-Morning/Notes/The-Whol
 - **What he knows.** Nothing about the Council. His enemy is the nations that took Port.
 - **His method.** From the Danzig alternate history in the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig-sparks-dominos): make the guarantors distrust each other until a neutral Port is the only ground they'll accept, then be the broker the peace needs.
 
-Still open: his name, and the war in which the Sea People lost Port ([Open Questions](../Open-Questions.md#villain)).
-
-## His network (D29)
-
-bt 7274, 2026-11-09: "in my mind Northwind is whats left of the old Empire, so maybe he would have allies there (as well as people that oppose just because no everyone is gonna agree, but that could be his link to getting agents out there, sailors and pirates that can come and go and blend in as they need at different cities)".
-
-- **Allies in Northwind.** [Northwind](../Regions/Northwind.md#whats-left-of-the-old-empire-d29) is what's left of the Sea People's empire, so some there share his grievance. Others oppose him, because not everyone agrees; most never hear of him.
-- **Agents at sea.** Through those allies he reaches sailors and pirates, people who can come and go and blend into any port city. That's how his nails travel: a letter left with a carrier, a rumor in a harbor tavern, a raid timed to tighten insurance ([ripple chain](Current-Events.md#example-ripple-chain), step 1).
-- **What it isn't.** Northwind isn't his army, and piracy isn't all his. Most raids are ordinary crime; some are his; nobody on the page can tell which ([D21](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)).
+Still open: his name; exactly when and how the Sea People lost Port; how they relate to Northwind, whose families tell the [Port Seizure](../History/Contested-Memory.md#the-port-seizure) story ([Open Questions](../Open-Questions.md#villain)).
 
 ## Legacy research
 
