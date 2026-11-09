@@ -20,7 +20,7 @@ These cross regions, so they're named once here.
 | Name | What it is | Where, relatively | Notes |
 | --- | --- | --- | --- |
 | **The Spine** | the central mountain system | between the continents | [owner page](The-Spine.md) |
-| **The Long Water** | the great river | rises in the Spine, crosses Greenvale, and reaches the sea at the estuary *(lean)* where Port stands | the grain river. Port's exact site is [open](../Open-Questions.md#map); if Port moves, the river's mouth moves with it. Bargemen just say "the Water" |
+| **The Long Water** | the great river | rises in the Spine, crosses Greenvale, and reaches the sea where Port stands *(lean: the Inner Sea, on the [map draft](../../atlas/map/README.md))* | the grain river. Port's exact site is [open](../Open-Questions.md#map); if Port moves, the river's mouth moves with it. Bargemen just say "the Water" |
 | **The Kings' Gate** | the gorge of the Long Water | where the river cuts through the last hills before the coast | the [Sitting Kings](Places-of-Interest.md#the-sitting-kings) sit in its walls |
 | **The Kings' Road** | the river road | follows the Long Water down through the Kings' Gate to Port | the oldest road to Port; barges below, carts above |
 | **The Carriers' Road** | the main post road | runs from Greenvale's market towns over to the Highridge corridors | the relay posts and the [Letter Tree](Places-of-Interest.md#the-letter-tree) are on it ([Couriers](../Couriers-Posts-and-Message-Networks.md)) |
@@ -35,11 +35,11 @@ The waters between the continents, named 2026-11-09 for the [map draft](../../at
 
 | Name | What it is | Where, relatively | Notes |
 | --- | --- | --- | --- |
-| **The Narrows** | the strait | between the Northern and Eastern Continents, from the Inner Sea out to the open sea | Port stands on it *(lean)*, with Frostbay Way across the water; the Long Way's last stretch is a ferry over it |
-| **The Inner Sea** | an enclosed sea | between the Northern Continent, the Spine and the Eastern Continent | opens to the ocean only through the Narrows; Winterhaven's anchorage is on its shore |
+| **The Narrows** | the strait | between the Northern and Eastern Continents, from the Inner Sea out to the open sea | the Inner Sea's only way out to the ocean, so every ship bound for Port passes through it *(lean)*; the Long Way runs along its northern shore to Frostbay Way, and the last stretch to Port is a ferry across the Inner Sea |
+| **The Inner Sea** | an enclosed sea | between the Northern Continent, the Spine and the Eastern Continent | Port's bay *(lean)*: Port stands on its southern shore, Frostbay Way faces it across the water, and it opens to the ocean only through the Narrows; Winterhaven's anchorage is on its northern shore |
 | **The North Gut** | a long sound | between the Northern and Western Continents, north of the Spine | the Long Skerries and the Holm are in it |
-| **Footwater** | a lake | at the Spine's southern foot, between the Western and Eastern Continents | the Long Channel drains it to the sea |
-| **The Long Channel** | a narrow channel | from Footwater along the Western Continent's southern shore to the sea past the Eastern Continent's tip | between the Deepwood shore and the Sunplains shore *(lean)* |
+| **Footwater** | a lake | at the Spine's southern foot, between the Western and Eastern Continents | Greenvale's inland lake *(lean)*; the Long Channel drains it to the sea |
+| **The Long Channel** | a narrow channel | from Footwater along the Western Continent's southern shore to the sea past the Eastern Continent's tip | Sunplains cities on both shores *(lean)* |
 
 ## Northwind
 

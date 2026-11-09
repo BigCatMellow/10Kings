@@ -85,7 +85,9 @@ def lobes(D, land, core):
 
 
 def regions(D, lobe, keep):
+    global OVERRIDE
     h, w = keep.shape
+    OVERRIDE = np.zeros((h, w), bool)
     rng = np.random.default_rng(7274)
     yy, xx = np.mgrid[0:h, 0:w]
     best = np.full((h, w), np.inf)
@@ -100,14 +102,57 @@ def regions(D, lobe, keep):
             better = d < best
             best[better] = d[better]
             owner[better] = ri
-    # the Spine
+    # drawn areas that override the seeds: the Spine, Port's ground
     from matplotlib.path import Path
-    poly = Path(D["spine"]["poly"])
-    inside = poly.contains_points(np.c_[xx.ravel(), yy.ravel()]).reshape(h, w)
-    inside = nd.binary_dilation(inside, iterations=2)
-    owner[inside & keep] = rid.index(D["spine"]["region"])
+    for o in D.get("overrides", []):
+        inside = Path(o["poly"]).contains_points(np.c_[xx.ravel(), yy.ravel()]).reshape(h, w)
+        inside = nd.binary_dilation(inside, iterations=2)
+        keep |= inside if o.get("fill") else False  # the mountain drawing's pale ink is not water
+        owner[inside & keep] = rid.index(o["region"])
+        OVERRIDE[inside & keep] = True
     owner[~keep] = -1
     return owner
+
+
+OVERRIDE = None
+
+
+def touches(owner, a, b, reach, lobe=None):
+    """Whether regions a and b come within `reach` pixels of each other. With `lobe`,
+    only by land: on the same continent, or through a drawn area such as the Spine."""
+    if lobe is None:
+        return bool((nd.binary_dilation(owner == a, iterations=reach) & (owner == b)).any())
+    for L in ("north", "west", "east"):
+        on = (lobe == L) | OVERRIDE
+        if (nd.binary_dilation((owner == a) & on, iterations=reach) & (owner == b) & on).any():
+            return True
+    return False
+
+
+def check_layout(D, owner, lobe):
+    """Every placement sits in its region; border towns touch both; the wiki's relations hold."""
+    errs, rows = [], []
+    rid = {r["id"]: i for i, r in enumerate(D["regions"])}
+
+    def near(x, y, reg, r):
+        win = owner[max(0, y - r): y + r + 1, max(0, x - r): x + r + 1]
+        return (win == rid[reg]).any()
+
+    for p in D["points"]:
+        if p["region"] and p["sub"] not in WATER_OK and not p.get("island") and not near(p["x"], p["y"], p["region"], 4):
+            errs.append(f"{p['id']}: placed outside {p['region']}")
+        for reg in p.get("between", []):
+            if not near(p["x"], p["y"], reg, 12):
+                errs.append(f"{p['id']}: border town not near {reg}")
+    for a, b, kind, why, src in D.get("relations", []):
+        land = touches(owner, rid[a], rid[b], 1, lobe)
+        water = land or touches(owner, rid[a], rid[b], 14)
+        got = "land border" if land else ("across narrow water" if water else "no contact")
+        ok = {"border": land, "none": not land, "open": True}[kind]
+        if not ok:
+            errs.append(f"relation {a}-{b} ({kind}): {got}")
+        rows.append((a, b, kind, why, src, got, ok))
+    return errs, rows
 
 
 def overlay(D, owner):
@@ -139,6 +184,8 @@ def validate(D, land, lobe):
     def near_land(x, y, r=2):
         return land[max(0, y - r): y + r + 1, max(0, x - r): x + r + 1].any()
 
+    for a, b, kind, why, s_ in D.get("relations", []):
+        src(s_, f"relation {a}-{b}")
     for r in D["regions"]:
         src(r["src"], r["id"])
         for cid, x, y in r["seeds"]:
@@ -158,7 +205,7 @@ def validate(D, land, lobe):
             errs.append(f"duplicate id {p['id']}")
         seen.add(p["id"])
         src(p["src"], p["id"])
-        if p["sub"] not in WATER_OK and not near_land(p["x"], p["y"]):
+        if p["sub"] not in WATER_OK and not p.get("island") and not near_land(p["x"], p["y"]):
             errs.append(f"{p['id']}: not on land")
         if p["region"] and p["region"] not in {r["id"] for r in D["regions"]}:
             errs.append(f"{p['id']}: unknown region {p['region']}")
@@ -170,7 +217,7 @@ def link(s, text=None):
     return f"[{text or p.replace('.md', '')}](../../wiki/{s})"
 
 
-def readme(D, counts):
+def readme(D, counts, rows):
     reg = {r["id"]: r["name"] for r in D["regions"]}
     L = [
         "# Map draft",
@@ -200,17 +247,21 @@ def readme(D, counts):
         L.append(f"| {c['name']} | {where[c['id']]} | {c['note']} |")
     L += ["", "The three continents meet by land only at the Spine, the mountains drawn at the centre, which fits the legacy notes (\"separated by water channels, connected by the Spine\") and [Geography](../../wiki/Geography-and-Connections.md#macro-geography), where the continents must meet by land.", "",
           "## The leans that need bt 7274's eye", "",
-          "One at a time, each with a lean. Everything else on the map follows from these.", "",
-          "1. **Port's site.** Placed on the south shore of the Narrows, the strait between the Northern and Eastern Continents, at the Long Water's mouth, with Frostbay Way across the water. This is where the legacy notes' \"strategic strait between continents\" fits best, and it puts Port between Northwind and the grain river. *Lean:* keep it here.",
-          "2. **Highridge astride the Spine.** The plateau is placed on the mountains where the three continents meet, plus the Eastern Continent's edge beside them, so that it touches Northwind (Icestep Summit), Ironcrest's foot, Deepwood (Twilighthollow) and Greenvale. *Lean:* keep it.",
-          "3. **Deepwood in two woods.** The main forest is the Western Continent's corner by the Spine's foot (meeting Ironcrest at Darkroot Gulch and Highridge at Twilighthollow); a smaller western wood sits on the Eastern Continent, so Deepwood also borders Greenvale, as [Geography](../../wiki/Geography-and-Connections.md) expects. The legacy notes call it \"ancient forested enclaves\". *Lean:* keep two woods.",
-          "4. **New water names.** The image's straits and lakes had no names, so five are proposed in the [Gazetteer](../../wiki/Places/Gazetteer.md#seas-and-straits): the Inner Sea, the Narrows, the North Gut, Footwater and the Long Channel. *Lean:* keep them as provisional.",
-          "",
+          "Everything else on the map follows from these.", ""]
+    L += [f"{i}. {t}" for i, t in enumerate(D["leans"], 1)]
+    L += ["",
+          "## Relations checked", "",
+          "Every relation the wiki states between regions, checked against the region areas each time the map is built. The build fails if one doesn't hold.", "",
+          "| Regions | The wiki says | On the map | Holds | Source |", "| --- | --- | --- | --- | --- |"]
+    for a, b, kind, why, src, got, ok in rows:
+        L.append(f"| {reg[a]} – {reg[b]} | {why} | {got} | {'yes' if ok else '**no**'} | {link(src, 'Geography')} |")
+    L += ["",
           "## Regions", "",
           "| Region | Placed | Wiki |", "| --- | --- | --- |"]
     for r in D["regions"]:
         L.append(f"| {r['name']} | {r['note']} | {link(r['src'], r['name'])} |")
-    L.append(f"| *The Spine* | {D['spine']['note']} | {link('Places/The-Spine.md', 'The Spine')} |")
+    for o in D.get("overrides", []):
+        L.append(f"| *{reg[o['region']]}, drawn area* | {o['note']} | |")
     L += ["", "## Seas and straits", "", "| Name | Placed | Wiki |", "| --- | --- | --- |"]
     for wt in D["waters"]:
         L.append(f"| {wt['name']} | {wt['note']} | {link(wt['src'], 'Gazetteer')} |")
@@ -240,6 +291,12 @@ def main():
         print("\n".join(errs))
         sys.exit(1)
     owner = regions(D, lobe, keep)
+    errs, rows = check_layout(D, owner, lobe)
+    if errs:
+        print("\n".join(errs))
+        sys.exit(1)
+    tot = (owner >= 0).sum()
+    shares = ", ".join(f"{r['name']} {100 * (owner == i).sum() / tot:.0f}%" for i, r in enumerate(D["regions"]))
     overlay(D, owner).save(os.path.join(MAP, "regions-overlay.png"), optimize=True)
 
     ys, xs = np.nonzero(keep)
@@ -257,7 +314,7 @@ def main():
     counts = (f"{len(D['regions'])} regions, {kinds.get('town', 0)} towns, {kinds.get('place', 0)} places of interest, "
               f"{kinds.get('feature', 0)} named features, {sum(l['kind'] == 'river' for l in D['lines'])} rivers, "
               f"{sum(l['kind'] == 'road' for l in D['lines'])} roads and paths, {len(D['waters'])} seas and straits")
-    open(os.path.join(MAP, "README.md"), "w", encoding="utf-8").write(readme(D, counts))
+    open(os.path.join(MAP, "README.md"), "w", encoding="utf-8").write(readme(D, counts + f"; land shares: {shares}", rows))
 
     try:
         from playwright.sync_api import sync_playwright

@@ -138,8 +138,11 @@ for (const l of D.lines) {
 }
 // region, continent and water labels (world units, grow with zoom)
 for (const r of D.regions) {
-  const t = el("text", {x: r.x, y: r.y, class: "rlabel", "data-px": 15, "data-layer": "regions"}, gT);
-  t.textContent = r.name.toUpperCase();
+  if (r.label === false) continue;
+  for (const [x, y, small] of [[r.x, r.y], ...(r.more_labels || []).map(p => [p[0], p[1], 1])]) {
+    const t = el("text", {x, y, class: "rlabel", "data-px": small ? 11 : 15, "data-layer": "regions"}, gT);
+    t.textContent = r.name.toUpperCase();
+  }
   index.push({...r, group: "region", kind: "region", center: [r.x, r.y]});
 }
 for (const c of D.continents) {
@@ -157,7 +160,7 @@ for (const w of D.waters) {
 // markers (screen-sized: counter-scaled on zoom)
 const marks = [];
 const SHOW = {town: 1.5, feature: 2.4, place: 3.0};
-for (const p of D.points) {
+for (const p of [...D.points].sort((a, b) => (a.sub === "port") - (b.sub === "port"))) {
   const g = el("g", {class: "m", transform: `translate(${p.x},${p.y})`, "data-layer": p.kind}, gM);
   const s = el("g", {class: "ms"}, g);
   let shape;
@@ -171,7 +174,8 @@ for (const p of D.points) {
     shape = el("path", {d: "M0,-4 L4,3 L-4,3 Z", fill: "#6b5a3a", stroke: "#fff", "stroke-width": 1}, s);
   }
   shape.setAttribute("class", "shape");
-  const t = el("text", {x: 7, y: 4, class: "lbl", "font-size": p.kind === "town" ? 12.5 : 11.5, "font-style": p.kind === "feature" ? "italic" : "normal"}, s);
+  const isPort = p.sub === "port";
+  const t = el("text", {x: isPort ? -8 : 7, y: isPort ? -8 : 4, class: "lbl", "text-anchor": isPort ? "end" : "start", "font-size": isPort ? 17 : p.kind === "town" ? 12.5 : 11.5, "font-weight": isPort ? 700 : 400, "font-style": p.kind === "feature" ? "italic" : "normal"}, s);
   t.textContent = p.name;
   const item = {...p, group: p.kind, node: g};
   g.addEventListener("click", e => { e.stopPropagation(); select(item); });
