@@ -6,10 +6,10 @@
 
 ## At a glance
 
-- **580** things mapped, **833** connections (90% stated in the wiki, the rest inferred)
+- **580** things mapped, **834** connections (90% stated in the wiki, the rest inferred)
 - **35** open questions ([Part 8](../questions/README.md))
 - **80** gaps listed across the parts
-- **92** cards with no connection yet
+- **91** cards with no connection yet
 
 ## How settled each part is
 
@@ -95,7 +95,7 @@ Some are fine on their own (a saying, a festival); others are things the wiki ha
 - **Culture** (19): “Iron hands, iron hearts.”; “Cold water, cold blood.”; “Soft as Greenvale butter.”; “Every road leads to Highridge's pocket.”; “Gone to the trees.”; “Golden tongue, copper coin.”; “Every ship lands at Port, none stay.”; Coal Ember Vigil; Long Dark Feast; Sowing Days; Grain Ripening; Silent Thaw; Blossom Markets; Festival of Patrons; Mixed taverns and markets; Cross-regional marriage; What people avoid saying openly; What festivals do beyond the day; How names work
 - **Power** (18): Assassin's Guild; Ironcrest crime; Greenvale crime; Deepwood crime; Sunplains crime; Weapons and elite troops; Ironcrest arms; Northwind arms; Greenvale arms; Highridge arms; Deepwood arms; Sunplains arms; Port arms; Underpass arms; The Apothic Circle; The Artisan Fellowship; The Bardic Circle; The Ranger and Hunters' Guild
 - **History** (11): Ironcrest before the Convergence; Northwind before the Convergence; Greenvale before the Convergence; Highridge before the Convergence; Deepwood before the Convergence; Sunplains before the Convergence; How Port became central; Coldwave Incursions; Orchard-Lord Feuds; Iron-Field Conquest; Great Coastal Skirmish
-- **Story** (23): The Penny Sale; The Petition Room; Very Nearly; The Harbor Book; Care Of; The Customs Table; The Long Way Round; The Conference Kitchen; The Night Fare; Harvest Home, Year Six; The Lantern; Both Rites; The Miner's Luck; The Prayer List; The Widow's Share; How the News Came; The Three Charters; Toll Lords; The House Cook; The Turnout; Second Witness; The Walk of Weaknesses; Mud Day
+- **Story** (22): The Penny Sale; The Petition Room; Very Nearly; The Harbor Book; Care Of; The Long Way Round; The Conference Kitchen; The Night Fare; Harvest Home, Year Six; The Lantern; Both Rites; The Miner's Luck; The Prayer List; The Widow's Share; How the News Came; The Three Charters; Toll Lords; The House Cook; The Turnout; Second Witness; The Walk of Weaknesses; Mud Day
 - **Questions** (3): Map: which regional borders are long boundaries versus narrow corridors; Map: navigable rivers and major watersheds; Language and naming: personal-name systems within the language families
 - **Foundations** (11): Core themes; 2. Geography must cause culture without dictating it; 6. Technology is craft-scale and pre-industrial; 13. Culture is learned, contested, and changing; 14. Draw globally, copy nowhere whole; 15. Language affects habits of attention, not intelligence; 16. Food must follow ecology, trade, class, season, and preservation; 17. Architecture is accumulated history; 18. Names need etymological logic; 19. Violence changes societies; Character design rule
 

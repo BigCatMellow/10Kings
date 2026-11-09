@@ -8,7 +8,7 @@ The main conflict, the current events and how they can ripple into each other, t
 
 Current events sit in their region's column (the cross-region ripple steps, the faiths' reading of the crises and the main-conflict cards in a Main conflict column). Each Sunday Morning story and seed sits in the column of its setting, with lines to its town or region, its festival, the events it sits on, its domino figure, its cast from Part 6, and the stories it shares a thread with. The ripple chain from Current Events is drawn step by step and marked possible.
 
-**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 15 sunday morning storys, 92 story seeds; 392 connections (382 stated in the wiki, 10 inferred).
+**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 15 sunday morning storys, 92 story seeds; 393 connections (383 stated in the wiki, 10 inferred).
 
 ## Gaps this part exposes
 
@@ -193,6 +193,7 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | The Rival Lamps | would touch the domino of | Bahriyya Nazar | stated, possible | “Bahriyya Nazar” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-rival-lamps) |
 | What the Elder Wrote | would touch the domino of | Naruin Mossglade | stated, possible | “Naruin Mossglade” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-elder-wrote) |
 | What the Elder Wrote | would sit on | Logging and road conflict | stated, possible | “logging and road conflict” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-elder-wrote) |
+| The Customs Table | would use | Port charter and watch | stated, possible | “foreign enclaves” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-customs-table) |
 | The Bell Rings | would be set in | Seven Hill | stated, possible | “Seven Hill” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bell-rings) |
 | The Walker's Stone | would be set in | The Overpath | stated, possible | “Overpath” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-walkers-stone) |
 | Above | would be set in | The Overpath | stated, possible | “Overpath” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#above) |
@@ -648,6 +649,8 @@ flowchart LR
   st_hr_debate["Debates tied to patrons"]
   seed_w_the_rival_lamps["The Rival Lamps"]
   seed_w_what_the_elder_wrote["What the Elder Wrote"]
+  seed_w_the_customs_table["The Customs Table"]
+  pw_gov_port["Port charter and watch"]
   seed_w_the_bell_rings["The Bell Rings"]
   sevenhill["Seven Hill"]
   seed_w_the_walkers_stone["The Walker's Stone"]
@@ -755,7 +758,6 @@ flowchart LR
   seed_w_the_unharvested_grove["The Unharvested Grove"]
   hi_mem_silence["The Ages of Silence"]
   seed_w_the_charter_oath["The Charter Oath"]
-  pw_gov_port["Port charter and watch"]
   seed_w_the_regulars["The Regulars"]
   systems_proposal_16["Audience movements"]
   seed_w_the_honest_fence["The Honest Fence"]
@@ -1020,6 +1022,7 @@ flowchart LR
   seed_w_the_rival_lamps -.->|possible| pp_bahriyya
   seed_w_what_the_elder_wrote -.->|possible| pp_naruin
   seed_w_what_the_elder_wrote -.->|possible| st_dw_road
+  seed_w_the_customs_table -.->|possible| pw_gov_port
   seed_w_the_bell_rings -.->|possible| sevenhill
   seed_w_the_walkers_stone -.->|possible| overpath
   seed_w_above -.->|possible| overpath
@@ -1796,9 +1799,9 @@ Grouped by board column.
 **The Customs Table**
 
 - *Kind:* Domino
-- *Premise:* Under the charter, kingdoms' customs officers sit at a table on the quay, and this winter there are more of them and less trade. A dockside family who can't stand the officers feeds them anyway, because it's cold and they're somebody's sons.
+- *Premise:* The foreign enclaves' customs clerks sit at a table on the quay, and this winter there are more of them and less trade. A dockside family who can't stand the clerks feeds them anyway, because it's cold and they're somebody's sons.
 - *Possible heart:* you can be against what someone's there for and still feed them.
-- *Possible thread:* the Danzig customs friction (The Whole Road); "Port-born first" in the family's mouths, for their own reasons.
+- *Possible thread:* the Danzig customs friction (The Whole Road); talk of a Port-born say in the family's mouths, for their own reasons, and a dock strike called and settled that week.
 
 **The Conference Kitchen**
 

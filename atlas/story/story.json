@@ -1880,12 +1880,12 @@
       "section": "World seeds (2026-11-04)",
       "src": "Sunday-Morning/Stories/Story-Seeds.md#the-customs-table",
       "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
-      "short_text": "Under the charter, kingdoms' customs officers sit at a table on the quay, and this winter there are more of them and less trade.",
+      "short_text": "The foreign enclaves' customs clerks sit at a table on the quay, and this winter there are more of them and less trade.",
       "facts": {
         "Kind": "Domino",
-        "Premise": "Under the charter, kingdoms' customs officers sit at a table on the quay, and this winter there are more of them and less trade. A dockside family who can't stand the officers feeds them anyway, because it's cold and they're somebody's sons.",
+        "Premise": "The foreign enclaves' customs clerks sit at a table on the quay, and this winter there are more of them and less trade. A dockside family who can't stand the clerks feeds them anyway, because it's cold and they're somebody's sons.",
         "Possible heart": "you can be against what someone's there for and still feed them.",
-        "Possible thread": "the Danzig customs friction (The Whole Road); \"Port-born first\" in the family's mouths, for their own reasons."
+        "Possible thread": "the Danzig customs friction (The Whole Road); talk of a Port-born say in the family's mouths, for their own reasons, and a dock strike called and settled that week."
       },
       "minor": true
     },
@@ -6517,6 +6517,20 @@
       "quote": "logging and road conflict",
       "src": "Sunday-Morning/Stories/Story-Seeds.md#what-the-elder-wrote",
       "chip": "Sits on",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-customs-table",
+      "to": "pw-gov-port",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "foreign enclaves",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-customs-table",
+      "chip": "Uses",
       "chipBack": "Stories",
       "certainty": "possible",
       "chipNote": "seed",

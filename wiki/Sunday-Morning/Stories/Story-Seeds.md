@@ -256,11 +256,13 @@ Possible thread: Wurdren's turn from wanting to be needed to mattering to someon
 
 `DOMINO` · *a Port quay · Season 4, midwinter* · (Free City lean)
 
-Under the charter, kingdoms' customs officers sit at a table on the quay, and this winter there are more of them and less trade. A dockside family who can't stand the officers feeds them anyway, because it's cold and they're somebody's sons.
+The foreign enclaves' customs clerks sit at a table on the quay, and this winter there are more of them and less trade. A dockside family who can't stand the clerks feeds them anyway, because it's cold and they're somebody's sons.
 
 Possible heart: you can be against what someone's there for and still feed them.
 
-Possible thread: the Danzig customs friction ([The Whole Road](../Notes/The-Whole-Road.md#the-villain-alternatives-judged-separately)); "Port-born first" in the family's mouths, for their own reasons.
+Possible thread: the Danzig customs friction ([The Whole Road](../Notes/The-Whole-Road.md#the-villain-alternatives-judged-separately)); talk of a Port-born say in the family's mouths, for their own reasons, and a dock strike called and settled that week.
+
+- **Needs:** nothing new; Port already has [foreign enclaves](../../Places/Port.md#neutrality). Kingdoms' own customs officers inside Port would be new law, which is bt 7274's.
 
 #### The Long Way Round
 
@@ -1028,6 +1030,7 @@ A dockworker's daughter takes the oath of Port's watch, the one that says no kin
 Possible heart: a city is what the people who guard it promise.
 
 - **Uses:** Port's [neutrality](../../Places/Port.md#neutrality) and [charter and watch](../../Places/Port.md#governance-and-protection), the [Port Seizure](../../History/Contested-Memory.md#the-port-seizure) as family memory.
+- **Later:** [The Whole Road](../Notes/The-Whole-Road.md#season-5-slate-directional) carries it to Season 5 as the first oath after the talks.
 
 #### The Regulars
 
