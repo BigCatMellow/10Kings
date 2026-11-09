@@ -32,16 +32,16 @@ Merchants began trusting Port because:
 
 Once those systems existed, trade attracted more trade.
 
-## The Sea People's city (D28)
+## The last empire's city (D28, D30)
 
-**Working canon** (bt 7274, 2026-11-09, [D28](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): "Port is a former city of the Sea people who grew too strong and had their Port city taken by the other nations after a war."
+**Working canon** (bt 7274, 2026-11-09, [D28](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [D30](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): Port's people "grew too strong and had their Port city taken by the other nations after a war", and "Port is all thats left of the last ruling empire." Who that empire's people were is open: they "dont need to be related to the sea people, that was just an idea" ([D31](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)).
 
-So the harbor's first great city was the Sea People's. And since [D30](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions): "Maybe Port is all thats left of the last ruling empire." The Sea People's was the last empire to rule, and Port is the whole of what remains of it. They grew too strong for their neighbors, lost a war, and the other nations took the city and made it everyone's. That's why its neutrality looks the way it does: every power fears what would happen if a rival held it, because once a single people did. The comparison is the Free City of Danzig, for its mechanisms only.
+So Port was the great city of the last empire to rule. It grew too strong for its neighbors, lost a war, and the other nations took the city and made it everyone's. That's why its neutrality looks the way it does: every power fears what would happen if a rival held it, because once a single power did. The comparison is the Free City of Danzig, for its mechanisms only.
 
-- **Who the Sea People's heirs are.** Many Port-born families, mixed by now with every people that came after. The [Villain](../Story/Villain.md#homeland-and-grievance-d28) is one of them.
+- **Who the empire's heirs are.** Many Port-born families, mixed by now with every people that came after. The [Villain](../Story/Villain.md#homeland-and-grievance-d28) is one of them.
+- **Nothing else of the empire survives as a state** (D30). Whatever it held beyond Port went to the nations that took the city.
 - **When.** *Lean, provisional:* the war came before the [Convergence](../History/The-Convergence.md#neutral-port), and the Convergence made the taking permanent as Port's neutral status.
-- **Nothing else of the empire survives as a state** (D30). Its heirs are Port-born families, and whatever it held beyond Port went to the nations that took the city. *Lean, provisional:* it ruled harbors and sea roads more than land, which suits a world where rulers "claimed territory they did not effectively govern" ([Pre-Convergence](../History/Pre-Convergence.md#the-last-ruling-empire-d30)).
-- **Open:** the empire's name, the war's name, and how far it reached. Northwind families' [Port Seizure](../History/Contested-Memory.md#the-port-seizure) story stays a contested memory: one people's claim on a city that was, by D30, the empire's ([Open Questions](../Open-Questions.md#villain)).
+- **Open:** the empire's name and people, the war's name, and how far the empire reached. Northwind families' [Port Seizure](../History/Contested-Memory.md#the-port-seizure) story stays a contested memory ([Open Questions](../Open-Questions.md#villain)).
 
 ## Why other ports do not replace it
 

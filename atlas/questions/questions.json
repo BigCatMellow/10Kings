@@ -399,33 +399,33 @@
       "minor": true
     },
     {
-      "id": "oq-the-sea-peoples-war",
+      "id": "oq-the-empires-war",
       "kind": "question",
-      "label": "Villain: the war in which the Sea People lost Port",
+      "label": "Villain: the war in which the empire lost Port",
       "status": "No status label",
       "lane": "cast",
       "section": "Open questions",
       "src": "Open-Questions.md#villain",
-      "text": "Open question under Villain: The war in which the Sea People lost Port: its name, and when it fell relative to the Convergence (lean: before it).",
+      "text": "Open question under Villain: The war in which the empire lost Port: its name, and when it fell relative to the Convergence (lean: before it).",
       "short_text": "Villain",
       "facts": {
-        "Question": "The war in which the Sea People lost Port: its name, and when it fell relative to the Convergence (lean: before it).",
+        "Question": "The war in which the empire lost Port: its name, and when it fell relative to the Convergence (lean: before it).",
         "Section": "Villain"
       },
       "minor": true
     },
     {
-      "id": "oq-the-sea-peoples-empire",
+      "id": "oq-the-last-ruling-empire",
       "kind": "question",
-      "label": "Villain: the Sea People's empire, its name and reach",
+      "label": "Villain: the last ruling empire, its name, people and reach",
       "status": "No status label",
       "lane": "cast",
       "section": "Open questions",
       "src": "Open-Questions.md#villain",
-      "text": "Open question under Villain: The Sea People's empire: its name, and how far it reached.",
+      "text": "Open question under Villain: The last ruling empire: its name, its people, and how far it reached.",
       "short_text": "Villain",
       "facts": {
-        "Question": "The Sea People's empire: its name, and how far it reached.",
+        "Question": "The last ruling empire: its name, its people, and how far it reached.",
         "Section": "Villain"
       },
       "minor": true
@@ -1047,23 +1047,23 @@
       "chipBack": "Open questions"
     },
     {
-      "from": "oq-the-sea-peoples-war",
+      "from": "oq-the-empires-war",
       "to": "pp-villain",
       "layer": "oq",
       "type": "asks about",
       "basis": "stated",
-      "quote": "The war in which the Sea People lost Port: its name, and when it fell relative to the Convergence (lean: before it).",
+      "quote": "The war in which the empire lost Port: its name, and when it fell relative to the Convergence (lean: before it).",
       "src": "Open-Questions.md#villain",
       "chip": "Asks about",
       "chipBack": "Open questions"
     },
     {
-      "from": "oq-the-sea-peoples-empire",
+      "from": "oq-the-last-ruling-empire",
       "to": "pp-villain",
       "layer": "oq",
       "type": "asks about",
       "basis": "stated",
-      "quote": "The Sea People's empire: its name, and how far it reached.",
+      "quote": "The last ruling empire: its name, its people, and how far it reached.",
       "src": "Open-Questions.md#villain",
       "chip": "Asks about",
       "chipBack": "Open questions"

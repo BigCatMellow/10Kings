@@ -8,7 +8,7 @@ Core function established. **Homeland, grievance, end-state and what he knows: b
 
 The Villain is the primary strategic mover of the plot.
 
-He believes the post-Convergence order is structurally incapable of giving his people what they need: his people are the heirs of the Sea People, whose city was taken and made everyone's ([below](#homeland-and-grievance-d28)).
+He believes the post-Convergence order is structurally incapable of giving his people what they need: his people are the heirs of the last ruling empire, whose city was taken and made everyone's ([below](#homeland-and-grievance-d28)).
 
 He blames the nations that took Port and the guarantees that keep it from its own people. **He has no idea the Economic Council exists** (D28). What he reads as the kingdoms repeatedly neutralizing change is often the Council quietly correcting course.
 
@@ -94,8 +94,8 @@ His impact remains part of the new world.
 
 bt 7274, 2026-11-09, answering the [Whole Road](../Sunday-Morning/Notes/The-Whole-Road.md#for-bt-7274) questions: "Both, In my mind Port is a former city of the Sea people who grew too strong and had their Port city taken by the other nations after a war." He agreed the end-state, and: "In my mind he has no idea about the Council."
 
-- **His people.** The Sea People's heirs: the Port-born, whose city it was, and a people the post-war order erased as a nation ([Port](../Places/Port.md#the-sea-peoples-city-d28)). Port "is all thats left of the last ruling empire" ([D30](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)), so his people are the heirs of an empire with nothing left but one neutral city. That's both of the alternatives The Whole Road weighed, the Port-born and the erased people, as one people.
-- **The grievance.** The Sea People grew too strong, and the other nations took their city after a war and made it everyone's. Port is neutral now because every power fears a rival holding it, and the people whose city it was have the least say in it. The comparison is the Free City of Danzig, for its mechanisms only; none of Danzig's history comes in, and the Port-born today are mixed, so the claim he makes for them is civic.
+- **His people.** The empire's heirs: the Port-born, whose city it was, and a people the post-war order erased as a nation ([Port](../Places/Port.md#the-last-empires-city-d28-d30)). Port "is all thats left of the last ruling empire" ([D30](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)), so his people are the heirs of an empire with nothing left but one neutral city. The "Sea people" in bt 7274's first answer "was just an idea" ([D31](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); who the empire's people were is open. That's both of the alternatives The Whole Road weighed, the Port-born and the erased people, as one people.
+- **The grievance.** The empire grew too strong, and the other nations took its city after a war and made it everyone's. Port is neutral now because every power fears a rival holding it, and the people whose city it was have the least say in it. The comparison is the Free City of Danzig, for its mechanisms only; none of Danzig's history comes in, and the Port-born today are mixed, so the claim he makes for them is civic.
 - **What he wants.** A real voice for the Port-born in their own city, inside a renewed Convergence, which the [ending](../Story/Main-Conflict.md#possible-resolution-model) can partly grant.
 - **What he knows.** Nothing about the Council. His enemy is the nations that took Port.
 - **His method.** From the Danzig alternate history in the [legacy notes](../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig-sparks-dominos): make the guarantors distrust each other until a neutral Port is the only ground they'll accept, then be the broker the peace needs.

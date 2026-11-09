@@ -76,7 +76,7 @@ Before the Convergence, the world was politically fragmented. Control changed th
 - control of passes, harbors, mines, rivers, or productive land;
 - local agreements that did not match later borders.
 
-The Convergence did not create a unified empire; the last one, the Sea People's, had already fallen, and Port is all that's left of it ([D30](Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [Pre-Convergence](History/Pre-Convergence.md#the-last-ruling-empire-d30)). It created a **shared political-economic settlement** built around recognized claims, protected exchange, route security, arbitration, Port neutrality, and continued local autonomy. The exact signatories and treaty machinery remain open.
+The Convergence did not create a unified empire; the last one had already fallen, and Port is all that's left of it ([D30](Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [Pre-Convergence](History/Pre-Convergence.md#the-last-ruling-empire-d30)). It created a **shared political-economic settlement** built around recognized claims, protected exchange, route security, arbitration, Port neutrality, and continued local autonomy. The exact signatories and treaty machinery remain open.
 
 *(The recovered "Convergence Layered Settlement Model" is not on `main`; see [The Convergence](History/The-Convergence.md).)* The modern order is best understood as a **layered legal-political ecosystem rather than one constitution**: core guarantees sit underneath narrower agreements, later interoperability standards, accumulated precedent, and continuing local law.
 

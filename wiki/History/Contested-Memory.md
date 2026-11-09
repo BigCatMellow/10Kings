@@ -67,7 +67,7 @@ Useful surviving forms:
 - some Port families remember foreign control as occupation;
 - some merchants use the story as a warning about allowing any one power to dominate the harbor.
 
-[Port](../Places/Port.md) remains the owner for the city's current institutional history. Since [D28](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), Port was the Sea People's city before the other nations took it after a war ([Port](../Places/Port.md#the-sea-peoples-city-d28)); this tradition may be one people's memory of that loss. Since [D30](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), Port is all that's left of that empire, so Northwind's claim stays what it was: a contested memory, not the empire's.
+[Port](../Places/Port.md) remains the owner for the city's current institutional history. Since [D28](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions) and [D30](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), Port was the great city of the last ruling empire until the other nations took it after a war, and Port is all that's left of that empire ([Port](../Places/Port.md#the-last-empires-city-d28-d30)). Northwind's claim stays what it was: a contested memory.
 
 ### Other remembered labels
 
