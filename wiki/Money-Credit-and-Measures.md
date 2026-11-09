@@ -430,7 +430,7 @@ Credit needs:
 
 A harvest loan and a shipping loan may use different schedules.
 
-Legacy "Ledger Closing" remains useful as a **fiscal-cycle mechanism**, not a fixed universal festival.
+Legacy "Ledger Closing" remains useful as a **fiscal-cycle mechanism**, not a fixed universal festival. In Highridge it is also a named day (lean, [Calendar](Calendar-and-Timekeeping.md#17-fiscal-time-creates-its-own-culture)).
 
 ---
 

@@ -507,7 +507,7 @@ Possible fiscal events include:
 - warehouse inventory;
 - guild dues.
 
-In Highridge, **Ledger Closing** is a named late-autumn day ([Festivals](Culture/Festivals-and-Seasonal-Life.md#highridge), used in [The Goat File](Sunday-Morning/Stories/The-Goat-File.md)); elsewhere the fiscal close is a mechanism under local names, such as Northwind's Last Sail. The late autumn is the continent's settlement season: books close before winter closes the routes ([2026-11 review](Reference/World-Review-2026-11.md#insights)).
+In Highridge, **Ledger Closing** is a named late-autumn day (lean, [2026-11 review](Reference/World-Review-2026-11.md#leans-taken)) ([Festivals](Culture/Festivals-and-Seasonal-Life.md#highridge), used in [The Goat File](Sunday-Morning/Stories/The-Goat-File.md)); elsewhere the fiscal close is a mechanism under local names, such as Northwind's Last Sail, the "end-of-season settling of boats and debts" ([Sunday Morning Rules](Sunday-Morning/Notes/Rules.md)). The late autumn is the continent's settlement season: books close before winter closes the routes ([2026-11 review](Reference/World-Review-2026-11.md#insights)).
 
 A fiscal deadline can become socially visible because:
 
@@ -994,7 +994,7 @@ This produces interoperability without cultural uniformity.
 - whether a Convergence trade calendar exists;
 - exact date notation;
 - Port legal calendar;
-- Highridge Plateau commercial calendar;
+- Highridge Plateau commercial calendar (lean: a pass-season credit year, from Pass Opening, when the first caravan weighs in, to Ledger Closing);
 - religious calendar details;
 - polity-specific civic calendars;
 - exact timekeeping technology;

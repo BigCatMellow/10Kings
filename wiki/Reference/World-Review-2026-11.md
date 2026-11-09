@@ -28,7 +28,7 @@ The findings were then reconciled into the owner pages in three batches and the 
 
 ## What changed
 
-**Contradictions resolved** (the first two are leans):
+**Contradictions resolved** (the first three are leans):
 
 | Finding | Resolution | Owner |
 | --- | --- | --- |
@@ -70,18 +70,19 @@ Each is applied provisionally and can be overruled in one line.
 
 1. **Three Moon is yearly**, spelled "Three Moon".
 2. **No presses**; Port offices block-print forms.
-3. **The Current Events set is working canon at event level**, with names and hidden layers provisional, because fourteen drafted stories and the Domino Map rest on it.
-4. **There is no standing Convergence court**; agreed forums sit as needed in Highridge and Port.
-5. **The Council was founded before the Convergence**, out of idealism and more openly, and was driven into secrecy (from the legacy notes); an openness faction survives.
-6. **Northwind's lack of a Council house is deliberate**, and a grievance the Villain can use without it being his homeland.
-7. **House Luthain's power is lending backed by metal** and Ironcrest's skill with contracts.
-8. **The gods' Latinate names are a shared liturgical register.**
-9. **Writing and burning is one folk practice** that three faiths absorbed.
-10. **The Fell Pantheon stays out**, except as heresy talk between faiths.
-11. **Deepwood and Ridge-Roamer healers are mostly outside the Apothic Circle.**
-12. **The local route authority may quarantine a pass**, contestably, on Port's model.
-13. **Polities keep small forces, and the fighters' guild supplies specialists for hire.**
-14. **Greenvale likely borders Highridge directly**, left open on Geography.
+3. **Ledger Closing is Highridge's own named day**, and Highridge's credit year runs from Pass Opening to Ledger Closing.
+4. **The Current Events set is working canon at event level**, with names and hidden layers provisional, because fourteen drafted stories and the Domino Map rest on it.
+5. **There is no standing Convergence court**; agreed forums sit as needed in Highridge and Port.
+6. **The Council was founded before the Convergence**, out of idealism and more openly, and was driven into secrecy (from the legacy notes); an openness faction survives.
+7. **Northwind's lack of a Council house is deliberate**, and a grievance the Villain can use without it being his homeland.
+8. **House Luthain's power is lending backed by metal** and Ironcrest's skill with contracts.
+9. **The gods' Latinate names are a shared liturgical register.**
+10. **Writing and burning is one folk practice** that three faiths absorbed.
+11. **The Fell Pantheon stays out**, except as heresy talk between faiths.
+12. **Deepwood and Ridge-Roamer healers are mostly outside the Apothic Circle.**
+13. **The local route authority may quarantine a pass**, contestably, on Port's model.
+14. **Polities keep small forces, and the fighters' guild supplies specialists for hire.**
+15. **Greenvale likely borders Highridge directly**, left open on Geography.
 
 ## Insights
 
@@ -145,3 +146,4 @@ One at a time, each with a lean. The leans above stand until he says otherwise.
 3. **Did Seven Hill's garrison leave before the Convergence?** *Lean:* before; Highridge's negotiated passage was the model for the Convergence's route rules.
 4. **An ecology page.** Create a narrow provisional owner for flora and fauna from the 2026-09-24 legacy pass? *Lean:* yes.
 5. **Compression.** Compress the recovered system pages by about half, Couriers first as a test? *Lean:* yes.
+6. **Ledger Closing.** Is it Highridge's own named day, or a wider settlement season? *Lean:* Highridge's named day; other regions close their books under their own names, such as Last Sail.
