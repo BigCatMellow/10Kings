@@ -64,6 +64,8 @@ Disposition: **provisional historical concept.**
 
 The current [Geography and Connections](../Geography-and-Connections.md) and [Open Questions](../Open-Questions.md) explicitly say the exact map is not locked. The image is therefore evidence of an earlier concept, not map canon.
 
+A copy is the base of the [Atlas map draft](../../atlas/map/README.md) (2026-11-09, [D38](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)), which places the wiki's regions and named places on it as leans. The copy is a derived view, like the rest of the Atlas; this disposition still stands.
+
 ### 4. Complete Reference Guide
 
 **Uploaded:** `Two_Sons_-_Complete_Reference.md`

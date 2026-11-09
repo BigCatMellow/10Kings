@@ -8,7 +8,7 @@ These are important areas where earlier brainstorming produced multiple versions
 
 ## Map
 
-- Exact outlines of the three continents.
+- Exact outlines of the three continents. *(A [map draft](../atlas/map/README.md) places everything on the legacy image as leans; it settles nothing below. Its leans for Port's site, Highridge astride the Spine and Deepwood in two woods are listed there.)*
 - Exact location of Port.
 - Which regional borders are long boundaries versus narrow corridors.
 - Whether Highridge directly borders Sunplains.

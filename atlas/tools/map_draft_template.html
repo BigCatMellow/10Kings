@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Map Draft</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Public+Sans:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+:root {
+  --bg: #efe9dc; --surface: #fbf8f1; --ink: #2a2118; --muted: #6d6152; --line: #d8cdb8; --accent: #8a3b1f;
+  --sea: #b9c7bd; --halo: rgba(246,238,220,.92);
+  --font-map: "IM Fell English", Georgia, serif; --font-sc: "IM Fell English SC", Georgia, serif;
+  --font-body: "Public Sans", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #16130f; --surface: #211c16; --ink: #ede4d3; --muted: #a89a85; --line: #3a3128; --accent: #e08a5f; --sea: #1d2421; }
+}
+:root[data-theme="dark"] { --bg: #16130f; --surface: #211c16; --ink: #ede4d3; --muted: #a89a85; --line: #3a3128; --accent: #e08a5f; --sea: #1d2421; }
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; }
+body { background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 14px; line-height: 1.45; display: flex; flex-direction: column; }
+header { padding: 12px 16px 8px; border-bottom: 1px solid var(--line); display: flex; flex-wrap: wrap; gap: 6px 18px; align-items: baseline; }
+h1 { font-family: var(--font-sc); font-weight: 400; font-size: 26px; margin: 0; letter-spacing: .02em; }
+.status { color: var(--muted); font-size: 13px; max-width: 70ch; margin: 0; }
+.layers { display: flex; flex-wrap: wrap; gap: 6px; padding: 8px 16px; border-bottom: 1px solid var(--line); }
+.layers button { font: inherit; font-size: 12px; padding: 3px 10px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--muted); cursor: pointer; display: inline-flex; gap: 6px; align-items: center; }
+.layers button[aria-pressed="true"] { color: var(--ink); border-color: var(--ink); }
+.layers .sw { width: 9px; height: 9px; border-radius: 2px; display: inline-block; }
+main { flex: 1; display: flex; min-height: 0; }
+#view { flex: 1; position: relative; min-width: 0; background: #9fb3a8; overflow: hidden; touch-action: none; cursor: grab; }
+#view.drag { cursor: grabbing; }
+svg { width: 100%; height: 100%; display: block; }
+.zoom { position: absolute; right: 12px; top: 12px; display: flex; flex-direction: column; gap: 4px; }
+.zoom button { width: 32px; height: 32px; font-size: 18px; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; }
+aside { width: 340px; border-left: 1px solid var(--line); background: var(--surface); display: flex; flex-direction: column; min-height: 0; }
+.search { padding: 10px 12px; border-bottom: 1px solid var(--line); }
+.search input { width: 100%; font: inherit; padding: 6px 10px; border-radius: 6px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); }
+#results { list-style: none; margin: 6px 0 0; padding: 0; max-height: 180px; overflow: auto; }
+#results li { padding: 3px 6px; border-radius: 4px; cursor: pointer; display: flex; justify-content: space-between; gap: 8px; }
+#results li:hover { background: var(--bg); }
+#results small { color: var(--muted); }
+#detail { padding: 12px 14px; overflow: auto; flex: 1; }
+#detail h2 { font-family: var(--font-map); font-weight: 400; font-size: 24px; margin: 0 0 2px; }
+#detail .kind { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .06em; }
+#detail .lean { display: inline-block; font-size: 11px; padding: 1px 7px; border-radius: 999px; border: 1px solid var(--accent); color: var(--accent); margin-left: 6px; text-transform: none; letter-spacing: 0; }
+#detail p { margin: 8px 0; }
+#detail a { color: var(--accent); }
+.legend { border-top: 1px solid var(--line); padding: 10px 14px; font-size: 12px; color: var(--muted); display: grid; grid-template-columns: 1fr 1fr; gap: 4px 10px; }
+.legend svg { width: 14px; height: 14px; vertical-align: -3px; margin-right: 4px; display: inline; }
+.hint { color: var(--muted); }
+/* map ink */
+.rlabel { font-family: var(--font-sc); fill: #3b2a1a; letter-spacing: .18em; text-anchor: middle; paint-order: stroke; stroke: rgba(246,238,220,.55); stroke-width: 3px; pointer-events: none; }
+.clabel { font-family: var(--font-map); font-style: italic; fill: #3d4a44; text-anchor: middle; pointer-events: none; }
+.wlabel { font-family: var(--font-map); font-style: italic; fill: #33504a; text-anchor: middle; paint-order: stroke; stroke: rgba(200,214,205,.7); stroke-width: 3px; }
+.lbl { font-family: var(--font-map); fill: #20170e; paint-order: stroke; stroke: var(--halo); stroke-width: 3px; stroke-linejoin: round; }
+.river { fill: none; stroke: #4f7f93; stroke-linecap: round; vector-effect: non-scaling-stroke; }
+.road { fill: none; stroke: #7b3f22; stroke-linecap: round; vector-effect: non-scaling-stroke; }
+.hit { fill: none; stroke: transparent; stroke-width: 10px; vector-effect: non-scaling-stroke; cursor: pointer; }
+.m { cursor: pointer; }
+.m.sel .shape, .sel-line { filter: drop-shadow(0 0 3px #fff) drop-shadow(0 0 2px #c0392b); }
+.off { display: none; }
+@media (max-width: 760px) {
+  main { flex-direction: column; }
+  #view { min-height: 58vh; }
+  aside { width: auto; border-left: 0; border-top: 1px solid var(--line); max-height: 42vh; }
+  .legend { display: none; }
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>Map Draft</h1>
+  <p class="status">__STATUS__</p>
+</header>
+<div class="layers" id="layers"></div>
+<main>
+  <div id="view">
+    <svg id="svg" viewBox="0 0 __W__ __H__" preserveAspectRatio="xMidYMid meet" aria-label="Draft map of the continents with regions, rivers, roads, towns and places">
+      <g id="world">
+        <image href="__BASE__" x="0" y="0" width="__W__" height="__H__"/>
+        <image id="regions-img" href="__OVERLAY__" x="0" y="0" width="__W__" height="__H__" data-layer="regions"/>
+        <g id="g-lines"></g>
+        <g id="g-labels"></g>
+        <g id="g-marks"></g>
+      </g>
+    </svg>
+    <div class="zoom"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">−</button><button id="zfit" aria-label="Fit" style="font-size:13px">⤢</button></div>
+  </div>
+  <aside>
+    <div class="search"><input id="q" type="search" placeholder="Find a place, river or road…" autocomplete="off"><ul id="results"></ul></div>
+    <div id="detail"><p class="hint">Click anything on the map, or search. Scroll or pinch to zoom; drag to move. More names appear as you zoom in.</p><p class="hint">Every placement is a lean. The wiki owns the facts; this map only proposes where they sit.</p></div>
+    <div class="legend" id="legend"></div>
+  </aside>
+</main>
+<script>
+const D = __DATA__;
+const REPO = "https://github.com/BigCatMellow/10kings/blob/main/wiki/";
+const NS = "http://www.w3.org/2000/svg";
+const PLACE_COL = {"holy site":"#6b2f86","monument":"#5b4a3a","carving":"#5b4a3a","ruin":"#5b4a3a","relic":"#5b4a3a","mystery":"#9c1f1f","natural wonder":"#1f6b66","landmark":"#28406e","meeting place":"#28406e","memorial":"#28406e"};
+const LAYERS = [
+  {id:"regions", label:"Regions", sw:"#b98a4a"},
+  {id:"waters", label:"Seas and straits", sw:"#4f7f93"},
+  {id:"river", label:"Rivers", sw:"#4f7f93"},
+  {id:"road", label:"Roads and paths", sw:"#7b3f22"},
+  {id:"town", label:"Towns", sw:"#20170e"},
+  {id:"feature", label:"Named features", sw:"#6b5a3a"},
+  {id:"place", label:"Places of interest", sw:"#6b2f86"},
+];
+const on = Object.fromEntries(LAYERS.map(l => [l.id, true]));
+const regionName = Object.fromEntries(D.regions.map(r => [r.id, r.name]));
+const el = (tag, attrs, parent) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (parent) parent.appendChild(e); return e; };
+const world = document.getElementById("world"), gL = document.getElementById("g-lines"), gT = document.getElementById("g-labels"), gM = document.getElementById("g-marks");
+const index = [];
+
+function smooth(pts) {
+  if (pts.length < 3) return "M" + pts.map(p => p.join(",")).join(" L");
+  let d = `M${pts[0][0]},${pts[0][1]}`;
+  for (let i = 0; i < pts.length - 1; i++) {
+    const p0 = pts[i - 1] || pts[i], p1 = pts[i], p2 = pts[i + 1], p3 = pts[i + 2] || p2;
+    const c1 = [p1[0] + (p2[0] - p0[0]) / 6, p1[1] + (p2[1] - p0[1]) / 6], c2 = [p2[0] - (p3[0] - p1[0]) / 6, p2[1] - (p3[1] - p1[1]) / 6];
+    d += ` C${c1[0].toFixed(1)},${c1[1].toFixed(1)} ${c2[0].toFixed(1)},${c2[1].toFixed(1)} ${p2[0]},${p2[1]}`;
+  }
+  return d;
+}
+// lines
+for (const l of D.lines) {
+  const g = el("g", {"data-layer": l.kind}, gL);
+  const d = smooth(l.pts);
+  const sw = l.kind === "river" ? 2 : (l.sub === "road" ? 1.6 : 1.3);
+  const dash = l.sub === "road" ? "" : l.sub === "ferry" ? "2 4" : l.sub === "underpass" ? "1 3" : "5 3";
+  const p = el("path", {d, class: l.kind, "stroke-width": sw, "stroke-dasharray": dash}, g);
+  const hit = el("path", {d, class: "hit"}, g);
+  const item = {...l, group: l.kind, node: p, center: l.pts[Math.floor(l.pts.length / 2)]};
+  hit.addEventListener("click", e => { e.stopPropagation(); select(item); });
+  index.push(item);
+}
+// region, continent and water labels (world units, grow with zoom)
+for (const r of D.regions) {
+  const t = el("text", {x: r.x, y: r.y, class: "rlabel", "data-px": 15, "data-layer": "regions"}, gT);
+  t.textContent = r.name.toUpperCase();
+  index.push({...r, group: "region", kind: "region", center: [r.x, r.y]});
+}
+for (const c of D.continents) {
+  const t = el("text", {x: c.x, y: c.y, class: "clabel", "data-px": 17, "data-layer": "waters"}, gT);
+  t.textContent = c.name;
+  index.push({...c, group: "continent", kind: "continent", center: [c.x, c.y]});
+}
+for (const w of D.waters) {
+  const t = el("text", {x: w.x, y: w.y, class: "wlabel", "data-px": 11, "data-layer": "waters", transform: w.rot ? `rotate(${w.rot} ${w.x} ${w.y})` : ""}, gT);
+  t.textContent = w.name;
+  const item = {...w, group: "water", kind: "water", center: [w.x, w.y]};
+  t.style.cursor = "pointer"; t.addEventListener("click", e => { e.stopPropagation(); select(item); });
+  index.push(item);
+}
+// markers (screen-sized: counter-scaled on zoom)
+const marks = [];
+const SHOW = {town: 1.5, feature: 2.4, place: 3.0};
+for (const p of D.points) {
+  const g = el("g", {class: "m", transform: `translate(${p.x},${p.y})`, "data-layer": p.kind}, gM);
+  const s = el("g", {class: "ms"}, g);
+  let shape;
+  if (p.kind === "town") {
+    if (p.sub === "port") shape = el("rect", {x: -5, y: -5, width: 10, height: 10, fill: "#9c1f1f", stroke: "#fff", "stroke-width": 1.5}, s);
+    else if (p.sub === "border") shape = el("circle", {r: 4, fill: "#fff", stroke: "#20170e", "stroke-width": 2}, s);
+    else shape = el("circle", {r: 3.6, fill: p.sub === "story" ? "#20170e" : "#fff", stroke: "#20170e", "stroke-width": 1.4}, s);
+  } else if (p.kind === "place") {
+    shape = el("path", {d: "M0,-5 L5,0 L0,5 L-5,0 Z", fill: PLACE_COL[p.sub] || "#28406e", stroke: "#fff", "stroke-width": 1.2}, s);
+  } else {
+    shape = el("path", {d: "M0,-4 L4,3 L-4,3 Z", fill: "#6b5a3a", stroke: "#fff", "stroke-width": 1}, s);
+  }
+  shape.setAttribute("class", "shape");
+  const t = el("text", {x: 7, y: 4, class: "lbl", "font-size": p.kind === "town" ? 12.5 : 11.5, "font-style": p.kind === "feature" ? "italic" : "normal"}, s);
+  t.textContent = p.name;
+  const item = {...p, group: p.kind, node: g};
+  g.addEventListener("click", e => { e.stopPropagation(); select(item); });
+  marks.push({g, s, t, p});
+  index.push({...item, center: [p.x, p.y]});
+}
+
+// pan / zoom
+const svg = document.getElementById("svg"), view = document.getElementById("view");
+let k = 1, tx = 0, ty = 0;
+function svgPoint(cx, cy) { const r = svg.getBoundingClientRect(); const vb = svg.viewBox.baseVal; const sc = Math.min(r.width / vb.width, r.height / vb.height); const ox = (r.width - vb.width * sc) / 2, oy = (r.height - vb.height * sc) / 2; return [(cx - r.left - ox) / sc, (cy - r.top - oy) / sc, sc]; }
+function apply() {
+  world.setAttribute("transform", `translate(${tx},${ty}) scale(${k})`);
+  const sc = svgPoint(0, 0)[2], screenK = k * sc;
+  for (const m of marks) {
+    m.s.setAttribute("transform", `scale(${1 / k})`);
+    m.t.style.display = screenK >= SHOW[m.p.kind] * 0.85 || m.p.sub === "port" ? "" : "none";
+  }
+  // area labels keep a steady size on screen, growing a little as you zoom in
+  const grow = Math.min(1.5, Math.max(1, screenK / 1.4));
+  document.querySelectorAll("[data-px]").forEach(t => t.setAttribute("font-size", (t.dataset.px * grow / screenK).toFixed(2)));
+  document.querySelectorAll(".rlabel").forEach(t => t.style.opacity = screenK > 4 ? .45 : 1);
+  document.querySelectorAll(".clabel").forEach(t => t.style.opacity = screenK > 3 ? 0 : 1);
+}
+function zoomAt(f, cx, cy) {
+  const nk = Math.max(0.8, Math.min(14, k * f)); f = nk / k;
+  tx = cx - (cx - tx) * f; ty = cy - (cy - ty) * f; k = nk; apply();
+}
+function fit() {
+  const vb = svg.viewBox.baseVal, b = D.fit; const r = svg.getBoundingClientRect(); const sc = Math.min(r.width / vb.width, r.height / vb.height);
+  const vw = r.width / sc, vh = r.height / sc;
+  k = Math.min(vw / (b[2] - b[0]), vh / (b[3] - b[1]));
+  const ox = (vb.width - vw) / 2, oy = (vb.height - vh) / 2;
+  tx = ox + (vw - (b[2] - b[0]) * k) / 2 - b[0] * k; ty = oy + (vh - (b[3] - b[1]) * k) / 2 - b[1] * k; apply();
+}
+function centerOn(x, y, minK) {
+  if (minK && k < minK) k = minK;
+  const vb = svg.viewBox.baseVal; tx = vb.width / 2 - x * k; ty = vb.height / 2 - y * k; apply();
+}
+view.addEventListener("wheel", e => { e.preventDefault(); const [x, y] = svgPoint(e.clientX, e.clientY); zoomAt(Math.exp(-e.deltaY * 0.0015), x, y); }, {passive: false});
+const ptrs = new Map(); let last = null, pinch = null, moved = 0;
+view.addEventListener("pointerdown", e => { if (e.target.closest(".zoom")) return; ptrs.set(e.pointerId, [e.clientX, e.clientY]); last = [e.clientX, e.clientY]; moved = 0; if (ptrs.size === 2) { const [a, b] = [...ptrs.values()]; pinch = Math.hypot(a[0] - b[0], a[1] - b[1]); } view.classList.add("drag"); });
+view.addEventListener("pointermove", e => {
+  if (!ptrs.has(e.pointerId)) return; ptrs.set(e.pointerId, [e.clientX, e.clientY]);
+  const sc = svgPoint(0, 0)[2];
+  if (ptrs.size === 2) { const [a, b] = [...ptrs.values()]; const d = Math.hypot(a[0] - b[0], a[1] - b[1]); const [x, y] = svgPoint((a[0] + b[0]) / 2, (a[1] + b[1]) / 2); if (pinch) zoomAt(d / pinch, x, y); pinch = d; return; }
+  const dx = e.clientX - last[0], dy = e.clientY - last[1]; moved += Math.abs(dx) + Math.abs(dy); if (moved > 4 && !view.hasPointerCapture(e.pointerId)) view.setPointerCapture(e.pointerId); tx += dx / sc; ty += dy / sc; last = [e.clientX, e.clientY]; apply();
+});
+const up = e => { ptrs.delete(e.pointerId); if (ptrs.size < 2) pinch = null; if (!ptrs.size) view.classList.remove("drag"); last = ptrs.size ? [...ptrs.values()][0] : null; };
+view.addEventListener("pointerup", up); view.addEventListener("pointercancel", up);
+view.addEventListener("click", e => { if (moved > 4) e.stopPropagation(); }, true);
+document.getElementById("zin").onclick = () => { const vb = svg.viewBox.baseVal; zoomAt(1.5, vb.width / 2, vb.height / 2); };
+document.getElementById("zout").onclick = () => { const vb = svg.viewBox.baseVal; zoomAt(1 / 1.5, vb.width / 2, vb.height / 2); };
+document.getElementById("zfit").onclick = fit;
+window.addEventListener("resize", apply);
+
+// selection and detail
+let selNode = null;
+const KIND = {town: "Town", place: "Place of interest", feature: "Named feature", river: "River", road: "Road", region: "Region", water: "Water", continent: "Continent"};
+function esc(s) { return String(s).replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c])); }
+function select(it) {
+  if (selNode) selNode.classList.remove("sel", "sel-line");
+  selNode = it.node || null;
+  if (selNode) selNode.classList.add(it.pts ? "sel-line" : "sel");
+  const sub = it.sub && it.sub !== it.kind ? ` · ${esc(it.sub)}` : "";
+  const lean = /lean/i.test(it.note || "") ? '<span class="lean">lean</span>' : "";
+  const reg = it.region ? `<p><b>Region:</b> ${esc(regionName[it.region] || it.region)} <span class="hint">(placed, lean)</span></p>` : "";
+  const src = it.src ? `<p><a href="${REPO}${esc(it.src)}" target="_blank" rel="noopener">Open in the wiki: ${esc(it.src.replace(/\.md/, "").replace(/#/, " › "))}</a></p>` : "";
+  document.getElementById("detail").innerHTML = `<div class="kind">${KIND[it.kind] || it.kind}${sub}${lean}</div><h2>${esc(it.name)}</h2>${it.note ? `<p>${esc(it.note)}</p>` : ""}${reg}${src}`;
+}
+svg.addEventListener("click", () => { if (selNode) selNode.classList.remove("sel", "sel-line"); selNode = null; });
+
+// search
+const q = document.getElementById("q"), res = document.getElementById("results");
+q.addEventListener("input", () => {
+  const s = q.value.trim().toLowerCase(); res.innerHTML = "";
+  if (s.length < 2) return;
+  index.filter(it => it.name.toLowerCase().includes(s)).slice(0, 30).forEach(it => {
+    const li = document.createElement("li"); li.innerHTML = `<span>${esc(it.name)}</span><small>${KIND[it.kind] || it.kind}</small>`;
+    li.onclick = () => { centerOn(it.center[0], it.center[1], 3.2); select(it); };
+    res.appendChild(li);
+  });
+});
+
+// layers and legend
+const lay = document.getElementById("layers");
+for (const l of LAYERS) {
+  const b = document.createElement("button"); b.setAttribute("aria-pressed", "true"); b.innerHTML = `<span class="sw" style="background:${l.sw}"></span>${l.label}`;
+  b.onclick = () => { on[l.id] = !on[l.id]; b.setAttribute("aria-pressed", on[l.id]); document.querySelectorAll(`[data-layer="${l.id}"]`).forEach(n => n.classList.toggle("off", !on[l.id])); };
+  lay.appendChild(b);
+}
+const LEG = [
+  ['<rect x="2" y="2" width="10" height="10" fill="#9c1f1f"/>', "Port"],
+  ['<circle cx="7" cy="7" r="4" fill="#fff" stroke="#20170e" stroke-width="2"/>', "Border town"],
+  ['<circle cx="7" cy="7" r="3.6" fill="#20170e"/>', "Town a story uses"],
+  ['<circle cx="7" cy="7" r="3.6" fill="#fff" stroke="#20170e" stroke-width="1.4"/>', "Gazetteer town"],
+  ['<path d="M7,2 L12,7 L7,12 L2,7Z" fill="#6b2f86"/>', "Holy site"],
+  ['<path d="M7,2 L12,7 L7,12 L2,7Z" fill="#5b4a3a"/>', "Monument, carving, ruin"],
+  ['<path d="M7,2 L12,7 L7,12 L2,7Z" fill="#9c1f1f"/>', "Mystery"],
+  ['<path d="M7,2 L12,7 L7,12 L2,7Z" fill="#1f6b66"/>', "Natural wonder"],
+  ['<path d="M7,2 L12,7 L7,12 L2,7Z" fill="#28406e"/>', "Landmark, memorial"],
+  ['<path d="M7,3 L11,10 L3,10Z" fill="#6b5a3a"/>', "Named feature"],
+  ['<path d="M1,7 L13,7" stroke="#7b3f22" stroke-width="1.6"/>', "Road"],
+  ['<path d="M1,7 L13,7" stroke="#7b3f22" stroke-width="1.3" stroke-dasharray="4 2"/>', "Path, shortcut"],
+];
+document.getElementById("legend").innerHTML = LEG.map(([s, t]) => `<span><svg viewBox="0 0 14 14">${s}</svg>${t}</span>`).join("");
+requestAnimationFrame(fit);
+</script>
+</body>
+</html>

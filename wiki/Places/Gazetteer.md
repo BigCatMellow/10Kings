@@ -29,6 +29,18 @@ These cross regions, so they're named once here.
 | **The Overpath** | the high trail over the Spine | over the top, for those who won't use the tunnels | [owner section](The-Spine.md#the-overpath) |
 | **The Underpass** | the tunnels beneath the Spine | under parts of it | [owner page](The-Underpass.md) |
 
+## Seas and straits
+
+The waters between the continents, named 2026-11-09 for the [map draft](../../atlas/map/README.md) ([D38](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)). The legacy map draws them; nothing named them yet. All five are provisional, and each leans on the map draft's reading of the continents.
+
+| Name | What it is | Where, relatively | Notes |
+| --- | --- | --- | --- |
+| **The Narrows** | the strait | between the Northern and Eastern Continents, from the Inner Sea out to the open sea | Port stands on it *(lean)*, with Frostbay Way across the water; the Long Way's last stretch is a ferry over it |
+| **The Inner Sea** | an enclosed sea | between the Northern Continent, the Spine and the Eastern Continent | opens to the ocean only through the Narrows; Winterhaven's anchorage is on its shore |
+| **The North Gut** | a long sound | between the Northern and Western Continents, north of the Spine | the Long Skerries and the Holm are in it |
+| **Footwater** | a lake | at the Spine's southern foot, between the Western and Eastern Continents | the Long Channel drains it to the sea |
+| **The Long Channel** | a narrow channel | from Footwater along the Western Continent's southern shore to the sea past the Eastern Continent's tip | between the Deepwood shore and the Sunplains shore *(lean)* |
+
 ## Northwind
 
 Coastal geography, bays, islands, currents, lineages and seasonal sites, in Northic ([Naming](../Culture/Naming.md#regional-direction)).
