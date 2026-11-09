@@ -8,7 +8,7 @@ The main conflict, the current events and how they can ripple into each other, t
 
 Current events sit in their region's column (the cross-region ripple steps, the faiths' reading of the crises and the main-conflict cards in a Main conflict column). Each Sunday Morning story and seed sits in the column of its setting, with lines to its town or region, its festival, the events it sits on, its domino figure, its cast from Part 6, and the stories it shares a thread with. The ripple chain from Current Events is drawn step by step and marked possible.
 
-**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 15 sunday morning storys, 92 story seeds; 393 connections (383 stated in the wiki, 10 inferred).
+**Counts:** 2 overviews, 21 current events, 13 ripple-chain steps, 15 sunday morning storys, 100 story seeds; 400 connections (390 stated in the wiki, 10 inferred).
 
 ## Gaps this part exposes
 
@@ -195,6 +195,13 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | What the Elder Wrote | would sit on | Logging and road conflict | stated, possible | “logging and road conflict” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-elder-wrote) |
 | The Customs Table | would use | Port charter and watch | stated, possible | “foreign enclaves” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-customs-table) |
 | The Bell Rings | would be set in | Seven Hill | stated, possible | “Seven Hill” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bell-rings) |
+| Why Port Belongs to Nobody | would use | Port charter and watch | stated, possible | “Port” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#why-port-belongs-to-nobody) |
+| Why Port Belongs to Nobody | would use | Port culture | stated, possible | “Culture” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#why-port-belongs-to-nobody) |
+| How a Letter Travels | would use | Couriers and messages | stated, possible | “Couriers, posts and message networks” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#how-a-letter-travels) |
+| Coin, Word and Book | would use | Money, credit and measures | stated, possible | “Money, credit and measures” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#coin-word-and-book) |
+| Nobody's Soldiers | would use | Port charter and watch | stated, possible | “Port's neutrality” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#nobodys-soldiers) |
+| The Rules of the Road | would use | Movement and information | stated, possible | “Movement” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-rules-of-the-road) |
+| What the Convergence Was | would use | Education | stated, possible | “Education” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-convergence-was) |
 | The Walker's Stone | would be set in | The Overpath | stated, possible | “Overpath” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-walkers-stone) |
 | Above | would be set in | The Overpath | stated, possible | “Overpath” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#above) |
 | Above | would be set in | The Underpass | stated, possible | “Underpass” [source](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#above) |
@@ -653,6 +660,17 @@ flowchart LR
   pw_gov_port["Port charter and watch"]
   seed_w_the_bell_rings["The Bell Rings"]
   sevenhill["Seven Hill"]
+  seed_w_why_port_belongs_to_nobody["Why Port Belongs to Nobody"]
+  port_culture["Port culture"]
+  seed_w_how_a_letter_travels["How a Letter Travels"]
+  systems_proposal_09["Couriers and messages"]
+  seed_w_coin_word_and_book["Coin, Word and Book"]
+  systems_proposal_07["Money, credit and measures"]
+  seed_w_nobodys_soldiers["Nobody's Soldiers"]
+  seed_w_the_rules_of_the_road["The Rules of the Road"]
+  systems_proposal_03["Movement and information"]
+  seed_w_what_the_convergence_was["What the Convergence Was"]
+  systems_proposal_10["Education"]
   seed_w_the_walkers_stone["The Walker's Stone"]
   overpath["The Overpath"]
   seed_w_above["Above"]
@@ -667,7 +685,6 @@ flowchart LR
   seed_w_the_walls_come_home["The Walls Come Home"]
   pw_guild_builders["Builders and infrastructure guilds"]
   seed_w_the_harbor_runner["The Harbor Runner"]
-  port_culture["Port culture"]
   lang_trade["Trade Tongue"]
   f_tide_return["Tide Return"]
   seed_w_the_bucket_race["The Bucket Race"]
@@ -700,7 +717,6 @@ flowchart LR
   pw_faith_radiant["The Radiant Path"]
   seed_w_the_river_blessing["The River Blessing"]
   seed_w_the_last_argument["The Last Argument"]
-  systems_proposal_10["Education"]
   seed_w_shadow_charity["Shadow Charity"]
   pw_faith_whisper["The Silent Whisper"]
   seed_w_the_day_of_departure["The Day of Departure"]
@@ -1024,6 +1040,13 @@ flowchart LR
   seed_w_what_the_elder_wrote -.->|possible| st_dw_road
   seed_w_the_customs_table -.->|possible| pw_gov_port
   seed_w_the_bell_rings -.->|possible| sevenhill
+  seed_w_why_port_belongs_to_nobody -.->|possible| pw_gov_port
+  seed_w_why_port_belongs_to_nobody -.->|possible| port_culture
+  seed_w_how_a_letter_travels -.->|possible| systems_proposal_09
+  seed_w_coin_word_and_book -.->|possible| systems_proposal_07
+  seed_w_nobodys_soldiers -.->|possible| pw_gov_port
+  seed_w_the_rules_of_the_road -.->|possible| systems_proposal_03
+  seed_w_what_the_convergence_was -.->|possible| systems_proposal_10
   seed_w_the_walkers_stone -.->|possible| overpath
   seed_w_above -.->|possible| overpath
   seed_w_above -.->|possible| underpass
@@ -1230,6 +1253,7 @@ Grouped by board column.
 | [The Paid Side](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-paid-side) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Petition Room](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-petition-room) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Bell Rings](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bell-rings) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [What the Convergence Was](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-the-convergence-was) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Stopping Place](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-stopping-place) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Day of Departure](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-day-of-departure) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Prayer List](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-prayer-list) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1292,6 +1316,13 @@ Grouped by board column.
 - *Premise:* Muster Bell's planned Return. The town recast the bell to call a supper, and this year it rings for a real muster. The parade ground has trestles on it, from habit.
 - *Possible heart:* a town finds out what it kept the bell for.
 - *Possible thread:* mobilization (escalation), felt from one parade ground.
+
+**What the Convergence Was**
+
+- *Kind:* Exposition
+- *Premise:* The week the talks begin, a schoolteacher tries to explain to a room of children what the Convergence was. They have questions she didn't prepare for, mostly about whether anyone was cross.
+- *Possible heart:* the biggest things are explained worst to children and best by them.
+- *Possible thread:* None: a world story, part of the world at large (D23).
 
 **The Stopping Place**
 
@@ -1750,6 +1781,10 @@ Grouped by board column.
 | [The Customs Table](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-customs-table) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Conference Kitchen](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-conference-kitchen) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Night Fare](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-night-fare) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [Why Port Belongs to Nobody](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#why-port-belongs-to-nobody) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Mark in the Paper](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-mark-in-the-paper) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [Nobody's Soldiers](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#nobodys-soldiers) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [What a Charter Is](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#what-a-charter-is) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Harbor Runner](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-harbor-runner) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Bucket Race](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-bucket-race) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Yellow Flag](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-yellow-flag) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -1813,8 +1848,36 @@ Grouped by board column.
 **The Night Fare**
 
 - *Kind:* Domino
-- *Premise:* The night the talks end, a waterman rows a passenger out to a ship past the harbor chain. The passenger asks him to go slowly, so he can look at the city.
+- *Premise:* The night the talks end, a waterman rows a passenger out to a ship past the harbor mouth. The passenger asks him to go slowly, so he can look at the city.
 - *Possible heart:* some people only see a place properly when they're leaving it.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**Why Port Belongs to Nobody**
+
+- *Kind:* Exposition
+- *Premise:* A harbor ferryman gives the same patter to every boatful of first-timers: why no power lets a rival hold Port, why there are limits on kingdom troops, whose flags fly over the enclaves, and the old story that the city was once an empire's. He's told it a thousand times. Today a child asks him where *he's* from, and the answer is the one he gives least: Port, which is to say nowhere.
+- *Possible heart:* the people who explain a place best are the ones it belongs to least.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Mark in the Paper**
+
+- *Kind:* Exposition
+- *Premise:* A stationer teaches a new apprentice to hold paper to the window: the grades, the feel, the watermark that tells you which house sold it and never who bought it. Every Port house has its mark. The apprentice wants to know why anyone would care. The stationer has been asked that by apprentices for forty years and has three answers, none of them the real one.
+- *Possible heart:* a careful trade is a kind of honesty.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**Nobody's Soldiers**
+
+- *Kind:* Exposition
+- *Premise:* A watch sergeant gives new recruits the talk: the watch answers to the city, no kingdom's troops may be in it, and in a year of musters that means more than it did. One recruit's brother has been called up somewhere else. The sergeant changes the talk, a little, for him.
+- *Possible heart:* keeping the peace starts with whose you are.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**What a Charter Is**
+
+- *Kind:* Exposition
+- *Premise:* The week before the new charter, a grandmother explains to a grandchild what the old one was: who sat, who swore, who was asked and who wasn't. She has opinions about all of them, and one about herself.
+- *Possible heart:* a city is the people who are asked.
 - *Possible thread:* None: a world story, part of the world at large (D23).
 
 **The Harbor Runner**
@@ -2175,6 +2238,9 @@ Grouped by board column.
 | Thing | Kind | Status | Summary |
 | --- | --- | --- | --- |
 | [Care Of](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#care-of) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [How a Letter Travels](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#how-a-letter-travels) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [Coin, Word and Book](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#coin-word-and-book) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
+| [The Rules of the Road](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-rules-of-the-road) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [Muster Bell](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#muster-bell) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Walls Come Home](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-walls-come-home) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
 | [The Ballad Line](../../wiki/Sunday-Morning/Stories/Story-Seeds.md#the-ballad-line) | Story seed | Provisional | A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon. |
@@ -2200,6 +2266,27 @@ Grouped by board column.
 - *Premise:* A letter addressed to Wurdren, "care of the inn", gets to the inn a week after he's gone. The innkeeper sends it on to the next inn on his road, and that one sends it on. Four innkeepers, four short scenes, each one guessing what's in it. In the last, he gets it.
 - *Possible heart:* you find out you matter by what follows you.
 - *Possible thread:* Wurdren's turn from wanting to be needed to mattering to someone (The Long Road). Who wrote it is a Season 1 or 2 person; what it says can stay private.
+
+**How a Letter Travels**
+
+- *Kind:* Exposition
+- *Premise:* The keeper of a relay post shows a new post-boy the difference between a dispatch and the carriage, what gets copied at a relay and what never should, and how a reply left with the carrier finds its way. The boy is homesick, and the keeper teaches him by sending a letter home with the next carriage.
+- *Possible heart:* a letter is a promise that a lot of strangers keep.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**Coin, Word and Book**
+
+- *Kind:* Exposition
+- *Premise:* A farm girl selling at a fair for the first time is told by the moneychanger at the next table why coin is weighed, why a merchant's word can be worth more than his purse, and what it means to be "in someone's book". She sells her eggs, and takes payment in the one form he warned her about, on purpose, because she knows the buyer.
+- *Possible heart:* credit is just trust with a ledger.
+- *Possible thread:* None: a world story, part of the world at large (D23).
+
+**The Rules of the Road**
+
+- *Kind:* Exposition
+- *Premise:* A toll keeper explains to a family who've never crossed a border what the old guarantees still protect when borders close: who may pass, what may not be stopped, what they'll be asked. He's strict, and then he isn't, about one thing.
+- *Possible heart:* rules are only as kind as the person reading them out.
+- *Possible thread:* None: a world story, part of the world at large (D23).
 
 **Muster Bell**
 

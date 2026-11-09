@@ -1952,10 +1952,10 @@
       "section": "World seeds (2026-11-04)",
       "src": "Sunday-Morning/Stories/Story-Seeds.md#the-night-fare",
       "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
-      "short_text": "The night the talks end, a waterman rows a passenger out to a ship past the harbor chain.",
+      "short_text": "The night the talks end, a waterman rows a passenger out to a ship past the harbor mouth.",
       "facts": {
         "Kind": "Domino",
-        "Premise": "The night the talks end, a waterman rows a passenger out to a ship past the harbor chain. The passenger asks him to go slowly, so he can look at the city.",
+        "Premise": "The night the talks end, a waterman rows a passenger out to a ship past the harbor mouth. The passenger asks him to go slowly, so he can look at the city.",
         "Possible heart": "some people only see a place properly when they're leaving it.",
         "Possible thread": "None: a world story, part of the world at large (D23)."
       },
@@ -1976,6 +1976,150 @@
         "Premise": "The last story, in the voice of the first (The Long Road). The news from Port comes by letter, and the Vale reads it out at the joint table, and argues about it, and has its festival.",
         "Possible heart": "the world changed, and the Vale still has to decide who chairs Harvest Home.",
         "Possible thread": "the whole road, from One Square, Two Harvests; what the news says is the destination."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-why-port-belongs-to-nobody",
+      "kind": "seed",
+      "label": "Why Port Belongs to Nobody",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#why-port-belongs-to-nobody",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A harbor ferryman gives the same patter to every boatful of first-timers: why no power lets a rival hold Port, why there are limits on kingdom troops, whose flags fly over the enclaves, and the old story that the city was once an empire's.",
+      "facts": {
+        "Kind": "Exposition",
+        "Premise": "A harbor ferryman gives the same patter to every boatful of first-timers: why no power lets a rival hold Port, why there are limits on kingdom troops, whose flags fly over the enclaves, and the old story that the city was once an empire's. He's told it a thousand times. Today a child asks him where *he's* from, and the answer is the one he gives least: Port, which is to say nowhere.",
+        "Possible heart": "the people who explain a place best are the ones it belongs to least.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-mark-in-the-paper",
+      "kind": "seed",
+      "label": "The Mark in the Paper",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-mark-in-the-paper",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A stationer teaches a new apprentice to hold paper to the window: the grades, the feel, the watermark that tells you which house sold it and never who bought it.",
+      "facts": {
+        "Kind": "Exposition",
+        "Premise": "A stationer teaches a new apprentice to hold paper to the window: the grades, the feel, the watermark that tells you which house sold it and never who bought it. Every Port house has its mark. The apprentice wants to know why anyone would care. The stationer has been asked that by apprentices for forty years and has three answers, none of them the real one.",
+        "Possible heart": "a careful trade is a kind of honesty.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-how-a-letter-travels",
+      "kind": "seed",
+      "label": "How a Letter Travels",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#how-a-letter-travels",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The keeper of a relay post shows a new post-boy the difference between a dispatch and the carriage, what gets copied at a relay and what never should, and how a reply left with the carrier finds its way.",
+      "facts": {
+        "Kind": "Exposition",
+        "Premise": "The keeper of a relay post shows a new post-boy the difference between a dispatch and the carriage, what gets copied at a relay and what never should, and how a reply left with the carrier finds its way. The boy is homesick, and the keeper teaches him by sending a letter home with the next carriage.",
+        "Possible heart": "a letter is a promise that a lot of strangers keep.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-coin-word-and-book",
+      "kind": "seed",
+      "label": "Coin, Word and Book",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#coin-word-and-book",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A farm girl selling at a fair for the first time is told by the moneychanger at the next table why coin is weighed, why a merchant's word can be worth more than his purse, and what it means to be \"in someone's book\".",
+      "facts": {
+        "Kind": "Exposition",
+        "Premise": "A farm girl selling at a fair for the first time is told by the moneychanger at the next table why coin is weighed, why a merchant's word can be worth more than his purse, and what it means to be \"in someone's book\". She sells her eggs, and takes payment in the one form he warned her about, on purpose, because she knows the buyer.",
+        "Possible heart": "credit is just trust with a ledger.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-nobodys-soldiers",
+      "kind": "seed",
+      "label": "Nobody's Soldiers",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#nobodys-soldiers",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A watch sergeant gives new recruits the talk: the watch answers to the city, no kingdom's troops may be in it, and in a year of musters that means more than it did.",
+      "facts": {
+        "Kind": "Exposition",
+        "Premise": "A watch sergeant gives new recruits the talk: the watch answers to the city, no kingdom's troops may be in it, and in a year of musters that means more than it did. One recruit's brother has been called up somewhere else. The sergeant changes the talk, a little, for him.",
+        "Possible heart": "keeping the peace starts with whose you are.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-the-rules-of-the-road",
+      "kind": "seed",
+      "label": "The Rules of the Road",
+      "status": "Provisional",
+      "lane": "across",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-rules-of-the-road",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "A toll keeper explains to a family who've never crossed a border what the old guarantees still protect when borders close: who may pass, what may not be stopped, what they'll be asked.",
+      "facts": {
+        "Kind": "Exposition",
+        "Premise": "A toll keeper explains to a family who've never crossed a border what the old guarantees still protect when borders close: who may pass, what may not be stopped, what they'll be asked. He's strict, and then he isn't, about one thing.",
+        "Possible heart": "rules are only as kind as the person reading them out.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-what-the-convergence-was",
+      "kind": "seed",
+      "label": "What the Convergence Was",
+      "status": "Provisional",
+      "lane": "highridge",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#what-the-convergence-was",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The week the talks begin, a schoolteacher tries to explain to a room of children what the Convergence was.",
+      "facts": {
+        "Kind": "Exposition",
+        "Premise": "The week the talks begin, a schoolteacher tries to explain to a room of children what the Convergence was. They have questions she didn't prepare for, mostly about whether anyone was cross.",
+        "Possible heart": "the biggest things are explained worst to children and best by them.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
+      },
+      "minor": true
+    },
+    {
+      "id": "seed-w-what-a-charter-is",
+      "kind": "seed",
+      "label": "What a Charter Is",
+      "status": "Provisional",
+      "lane": "port",
+      "section": "World seeds (2026-11-04)",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#what-a-charter-is",
+      "text": "A world seed from the 2026-11-04 brainstorm, parked until bt 7274 picks; names and details are non-canon.",
+      "short_text": "The week before the new charter, a grandmother explains to a grandchild what the old one was: who sat, who swore, who was asked and who wasn't.",
+      "facts": {
+        "Kind": "Exposition",
+        "Premise": "The week before the new charter, a grandmother explains to a grandchild what the old one was: who sat, who swore, who was asked and who wasn't. She has opinions about all of them, and one about herself.",
+        "Possible heart": "a city is the people who are asked.",
+        "Possible thread": "None: a world story, part of the world at large (D23)."
       },
       "minor": true
     },
@@ -6545,6 +6689,104 @@
       "quote": "Seven Hill",
       "src": "Sunday-Morning/Stories/Story-Seeds.md#the-bell-rings",
       "chip": "Setting",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-why-port-belongs-to-nobody",
+      "to": "pw-gov-port",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Port",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#why-port-belongs-to-nobody",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-why-port-belongs-to-nobody",
+      "to": "port-culture",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Culture",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#why-port-belongs-to-nobody",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-how-a-letter-travels",
+      "to": "systems-proposal-09",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Couriers, posts and message networks",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#how-a-letter-travels",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-coin-word-and-book",
+      "to": "systems-proposal-07",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Money, credit and measures",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#coin-word-and-book",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-nobodys-soldiers",
+      "to": "pw-gov-port",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Port's neutrality",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#nobodys-soldiers",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-the-rules-of-the-road",
+      "to": "systems-proposal-03",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Movement",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#the-rules-of-the-road",
+      "chip": "Uses",
+      "chipBack": "Stories",
+      "certainty": "possible",
+      "chipNote": "seed",
+      "chipNoteBack": "seed"
+    },
+    {
+      "from": "seed-w-what-the-convergence-was",
+      "to": "systems-proposal-10",
+      "layer": "st-story",
+      "type": "would use",
+      "basis": "stated",
+      "quote": "Education",
+      "src": "Sunday-Morning/Stories/Story-Seeds.md#what-the-convergence-was",
+      "chip": "Uses",
       "chipBack": "Stories",
       "certainty": "possible",
       "chipNote": "seed",

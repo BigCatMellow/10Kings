@@ -103,6 +103,7 @@ These are tools, not a format. The mix can shift as the seasons go.
 | **Thread** | an object or letter passing from hand to hand | each hand sees one moment of it |
 | **Desk** | a clerk, courier or cook inside a lender's, merchant house's or official's world, doing their job | the Council never acts as a named body; a person does their work |
 | **Figure** | a domino figure on an ordinary day | the rules already allow them "as ordinary people" |
+| **Exposition** | short, very much for worldbuilding: one piece of the world explained by someone to someone ([D34](Decisions.md#the-authors-decisions)) | it has no nail, nobody in it sees the pattern, and it explains only what the wiki already holds ([Rules](Rules.md#exposition-stories)) |
 
 ## Planted already
 

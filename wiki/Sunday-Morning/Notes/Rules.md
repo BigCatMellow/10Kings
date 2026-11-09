@@ -43,6 +43,19 @@ At story scale the domino is always a **nail**, the smallest kind: a letter, a r
 
 A **world story** carries none of the table above: no nail, no attribution, no outward effect. Current events can show in it as weather, or not at all. Everything else on this page still holds, and so does everything below. A story with Wurdren in it is never a world story, because his presence is the signal ([D19](Decisions.md#the-authors-decisions)).
 
+### Exposition stories
+
+*bt 7274, 2026-11-09 ([D34](Decisions.md#the-authors-decisions)): "There should be a couple of exposition stories, pretty short, but very much for world building".*
+
+An **exposition story** is short, about 600 to 1,500 words, and its job is the world. It takes one institution, place, custom or piece of history and has someone explain it to someone who needs to know: a ferryman's patter to passengers, a teacher's lesson, a moneychanger's warning at a fair, a grandmother's version for a grandchild, a notice on a wall and the argument in front of it.
+
+- **The explaining is a person's, so it can be partial or wrong.** History is remembered differently ([World Rules](../../World-Rules.md)), and an explainer's pride, jokes and blind spots are the story.
+- **It has a listener and one small turn.** Someone asks the question the explainer didn't expect, or the explainer stops being a guide for a moment. That's the whole plot.
+- **Sunday tone holds:** spoken register, warmth, no shaming, a warm ending. A meal, a moment where nothing happens and a sad moment are welcome but not required at this length.
+- **Like a [world story](#world-stories), it has no nail.** It may explain what the main story leans on (how Port is neutral, how letters travel, how credit works), but nobody in it sees the pattern, and the Villain and the Council are never in it. Wurdren isn't either, because his presence is the signal ([D19](Decisions.md#the-authors-decisions)).
+- **It explains only what an owner page already holds.** An exposition story never adds lore; if it needs a fact that isn't there, that's a question for bt 7274 first.
+- **Placement:** two a season, each a little before the stories that lean on what it explains ([The Whole Road](The-Whole-Road.md#exposition-stories)).
+
 ### What keeps it Sunday Morning
 
 - **Stakes on the page stay local.** The domino web raises what the outcome *means*, not what the characters risk.
@@ -50,7 +63,7 @@ A **world story** carries none of the table above: no nail, no attribution, no o
 - **The Villain never appears on the page as himself,** and the Council never acts as a named body. Domino characters (Orin, Maris, Rosana, Samir, Naruin, Bahriyya) may appear or be mentioned as ordinary people.
 - **No on-page harm from the scheme.** Hardship can be context (a displaced family, a lost contract), never the story.
 - **Saga readers get the irony; Sunday readers don't need it.** Deleting the thread should leave a working story. Keeping it should make the story matter more.
-- **Nothing here fixes the Villain's identity, grievance or plan.** Those stay [open](../../Open-Questions.md#villain).
+- **Nothing here fixes the Villain's identity, grievance or plan.** Those are on [Villain](../../Story/Villain.md#homeland-and-grievance) (D28, D32); his name stays [open](../../Open-Questions.md#villain).
 
 Each story page owns its own Larger-world thread. The cross-story view (calendar, ripple chain, where the nail still fell) is on [Collection](Collection.md#the-web).
 
@@ -100,7 +113,7 @@ The Sunday Morning mode relaxes stakes, not worldbuilding discipline ([World Rul
 
 Run the Framework's [checklist](Sources/Framework.md#20-the-sunday-morning-story-checklist) first, then:
 
-- [ ] Does the story carry a current event, a nail, an out-of-story attribution, a local outcome and an outward effect? (A [world story](#world-stories) skips this and the next item.)
+- [ ] Does the story carry a current event, a nail, an out-of-story attribution, a local outcome and an outward effect? (A [world story](#world-stories) or an [exposition story](#exposition-stories) skips this and the next item.)
 - [ ] Would the story still work with the thread deleted, and matter more with it kept?
 - [ ] Does no character see the pattern, and does the Villain stay off the page?
 - [ ] Is the setting one community, not a region?

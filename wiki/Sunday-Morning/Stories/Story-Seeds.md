@@ -302,7 +302,7 @@ Possible thread: the [resolution model](../../Story/Main-Conflict.md#possible-re
 
 `DOMINO` · *Port harbor, at night · Season 5, summer*
 
-The night the talks end, a waterman rows a passenger out to a ship past the harbor chain. The passenger asks him to go slowly, so he can look at the city.
+The night the talks end, a waterman rows a passenger out to a ship past the harbor mouth. The passenger asks him to go slowly, so he can look at the city.
 
 Possible heart: some people only see a place properly when they're leaving it.
 
@@ -317,6 +317,95 @@ The last story, in the voice of the first ([The Long Road](../Notes/The-Long-Roa
 Possible heart: the world changed, and the Vale still has to decide who chairs Harvest Home.
 
 Possible thread: the whole road, from [One Square, Two Harvests](One-Square-Two-Harvests.md); what the news says is the [destination](../Notes/The-Whole-Road.md#the-idea).
+
+### Exposition stories
+
+*Added 2026-11-09 under [D34](../Notes/Decisions.md#the-authors-decisions): "There should be a couple of exposition stories, pretty short, but very much for world building." Two a season, about 600 to 1,500 words each ([Rules](../Notes/Rules.md#exposition-stories)). Each explains only what its owner page already holds; where a seed needs more, its Needs line says so.*
+
+#### Why Port Belongs to Nobody
+
+`EXPOSITION` · *a ferry crossing into Port · Season 2*
+
+A harbor ferryman gives the same patter to every boatful of first-timers: why no power lets a rival hold Port, why there are limits on kingdom troops, whose flags fly over the enclaves, and the old story that the city was once an empire's. He's told it a thousand times. Today a child asks him where *he's* from, and the answer is the one he gives least: Port, which is to say nowhere.
+
+Possible heart: the people who explain a place best are the ones it belongs to least.
+
+- **Uses:** [Port](../../Places/Port.md#neutrality), [the last empire's city](../../Places/Port.md#the-last-empires-city-d28-d30), [Culture](../../Places/Port.md#culture) ("a citizen of nowhere").
+
+#### The Mark in the Paper
+
+`EXPOSITION` · *a Port stationer's shop · Season 2*
+
+A stationer teaches a new apprentice to hold paper to the window: the grades, the feel, the watermark that tells you which house sold it and never who bought it. Every Port house has its mark. The apprentice wants to know why anyone would care. The stationer has been asked that by apprentices for forty years and has three answers, none of them the real one.
+
+Possible heart: a careful trade is a kind of honesty.
+
+- **Uses:** [Records, paper and provenance](../../Records-Literacy-and-Authentication.md#paper-and-provenance).
+- **Needs:** the ship's lantern stays out of it. It comes a little before [The Same Paper](../Stories/The-Same-Paper.md), and the season's one Port clue is already there.
+
+#### How a Letter Travels
+
+`EXPOSITION` · *a relay post on a pass road · Season 3*
+
+The keeper of a relay post shows a new post-boy the difference between a dispatch and the carriage, what gets copied at a relay and what never should, and how a reply left with the carrier finds its way. The boy is homesick, and the keeper teaches him by sending a letter home with the next carriage.
+
+Possible heart: a letter is a promise that a lot of strangers keep.
+
+- **Uses:** [Couriers, posts and message networks](../../Couriers-Posts-and-Message-Networks.md) (dispatch and carriage, relays, copies).
+- **Needs:** exact relay-station systems are [open](../../Couriers-Posts-and-Message-Networks.md); the plan keeps to what the page holds.
+
+#### Coin, Word and Book
+
+`EXPOSITION` · *a moneychanger's table at a fair · Season 3*
+
+A farm girl selling at a fair for the first time is told by the moneychanger at the next table why coin is weighed, why a merchant's word can be worth more than his purse, and what it means to be "in someone's book". She sells her eggs, and takes payment in the one form he warned her about, on purpose, because she knows the buyer.
+
+Possible heart: credit is just trust with a ledger.
+
+- **Uses:** [Money, credit and measures](../../Money-Credit-and-Measures.md) (coin by weight, credit by reputation, account money).
+
+#### Nobody's Soldiers
+
+`EXPOSITION` · *Port's watch house · Season 4*
+
+A watch sergeant gives new recruits the talk: the watch answers to the city, no kingdom's troops may be in it, and in a year of musters that means more than it did. One recruit's brother has been called up somewhere else. The sergeant changes the talk, a little, for him.
+
+Possible heart: keeping the peace starts with whose you are.
+
+- **Uses:** [Port's neutrality](../../Places/Port.md#neutrality) ("limits on kingdom troops inside the city", "a locally accountable watch or guard"), [governance](../../Places/Port.md#governance-and-protection).
+- **Needs:** nobody the reader knows goes to the fighting; the brother is offstage and safe in the telling.
+
+#### The Rules of the Road
+
+`EXPOSITION` · *a toll house on a Convergence route · Season 4*
+
+A toll keeper explains to a family who've never crossed a border what the old guarantees still protect when borders close: who may pass, what may not be stopped, what they'll be asked. He's strict, and then he isn't, about one thing.
+
+Possible heart: rules are only as kind as the person reading them out.
+
+- **Uses:** [Law, treaty and Convergence authority](../../Law-and-Jurisdiction.md#treaty--convergence-authority), [Movement](../../Movement-and-Information.md).
+
+#### What the Convergence Was
+
+`EXPOSITION` · *a schoolroom in a Highridge town · Season 5*
+
+The week the talks begin, a schoolteacher tries to explain to a room of children what the Convergence was. They have questions she didn't prepare for, mostly about whether anyone was cross.
+
+Possible heart: the biggest things are explained worst to children and best by them.
+
+- **Uses:** [The Convergence](../../History/The-Convergence.md), [Education](../../Education-and-Knowledge-Transmission.md).
+- **Needs:** whether the Convergence is remembered as paperwork or kept as a day is [open](../../Culture/Festivals-and-Seasonal-Life.md); the plan takes a lean and lists it.
+
+#### What a Charter Is
+
+`EXPOSITION` · *a Port kitchen · Season 5*
+
+The week before the new charter, a grandmother explains to a grandchild what the old one was: who sat, who swore, who was asked and who wasn't. She has opinions about all of them, and one about herself.
+
+Possible heart: a city is the people who are asked.
+
+- **Uses:** [Port's governance](../../Places/Port.md#governance-and-protection); the talks' outcome on [The Whole Road](../Notes/The-Whole-Road.md#the-idea).
+- **Needs:** the new charter's terms are the ending's; it explains the old one only.
 
 ### The Spine, above and below
 

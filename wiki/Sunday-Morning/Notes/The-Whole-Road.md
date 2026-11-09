@@ -50,6 +50,21 @@ These are the tools Seasons 1 and 2 already use. Every story uses one or two, ne
 
 The war in Season 4 is weather too. Nobody the reader knows goes to the fighting, hardship is context and never the story, and the catastrophe is one line, offstage. About half of every season is World stories with no main-story job at all ([D23](Decisions.md#the-authors-decisions), [D24](Decisions.md#the-authors-decisions)), so the collection never stops feeling loose.
 
+## Exposition stories
+
+bt 7274 ([D34](Decisions.md#the-authors-decisions)): "There should be a couple of exposition stories, pretty short, but very much for world building". Two a season, short ([Rules](Rules.md#exposition-stories)). They give the reader the world the main story leans on, so that when a turn comes the Domino stories don't have to stop and explain. Each sits a little before the stories it prepares. Seeds are on [Story Seeds](../Stories/Story-Seeds.md#exposition-stories).
+
+| Season | Exposition story | What it explains | Who explains it, to whom | What it prepares |
+| --- | --- | --- | --- | --- |
+| 2 | [Why Port Belongs to Nobody](../Stories/Story-Seeds.md#why-port-belongs-to-nobody) | Port's neutrality: why no power lets a rival hold it, the limits on troops, the enclaves, the old empire's city ([Port](../../Places/Port.md)) | a harbor ferryman, to a boatful of first-timers | every Port story; "a citizen of nowhere" |
+| 2 | [The Mark in the Paper](../Stories/Story-Seeds.md#the-mark-in-the-paper) | paper and watermarks: a mark names a stationer, never a buyer ([Records](../../Records-Literacy-and-Authentication.md#paper-and-provenance)) | a Port stationer, to a new apprentice | The Same Paper, which follows it |
+| 3 | [How a Letter Travels](../Stories/Story-Seeds.md#how-a-letter-travels) | dispatch and carriage, relay posts, copying, replies left with the carrier ([Couriers](../../Couriers-Posts-and-Message-Networks.md)) | a relay-post keeper, to a new post-boy | How the News Came, the season's turn |
+| 3 | [Coin, Word and Book](../Stories/Story-Seeds.md#coin-word-and-book) | money by weight, credit by reputation, account money ([Money](../../Money-Credit-and-Measures.md)) | a moneychanger at a fair, to a farm girl selling for the first time | The Penny Sale, The Quorum |
+| 4 | [Nobody's Soldiers](../Stories/Story-Seeds.md#nobodys-soldiers) | Port's locally accountable watch, and why no kingdom's troops may be in the city ([Port](../../Places/Port.md#neutrality)) | a watch sergeant, to new recruits | Port as the only neutral ground |
+| 4 | [The Rules of the Road](../Stories/Story-Seeds.md#the-rules-of-the-road) | Convergence route guarantees and passage, what stays protected when borders close ([Law](../../Law-and-Jurisdiction.md#treaty--convergence-authority)) | a toll keeper, to a family that has never crossed a border | The Long Way Round, Second Witness |
+| 5 | [What the Convergence Was](../Stories/Story-Seeds.md#what-the-convergence-was) | what children are taught the settlement was ([The Convergence](../../History/The-Convergence.md)); whether it's remembered as paperwork or kept as a day is [open](../../Culture/Festivals-and-Seasonal-Life.md) | a schoolteacher in a Highridge town, to a room of children with questions | the talks, a renewed Convergence |
+| 5 | [What a Charter Is](../Stories/Story-Seeds.md#what-a-charter-is) | Port's charter: who sits, who swears, who has a say ([Port](../../Places/Port.md#governance-and-protection)) | a Port grandmother, to a grandchild, the week before the new one | The Charter Oath, the ending |
+
 ## What the reader notices, season by season
 
 Each season gives the reader one or two new conclusions, and a named story carries each one. Each season also has one **turn**: the story where a reader who has been paying attention says "oh". The turn is always a Sunday story that seems to be about something else.
