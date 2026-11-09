@@ -260,7 +260,7 @@ The foreign enclaves' customs clerks sit at a table on the quay, and this winter
 
 Possible heart: you can be against what someone's there for and still feed them.
 
-Possible thread: the Danzig customs friction ([The Whole Road](../Notes/The-Whole-Road.md#the-villain-alternatives-judged-separately)); talk of a Port-born say in the family's mouths, for their own reasons, and a dock strike called and settled that week.
+Possible thread: the Danzig customs friction ([The Whole Road](../Notes/The-Whole-Road.md#the-villain-question)); talk of a Port-born say in the family's mouths, for their own reasons, and a dock strike called and settled that week.
 
 - **Needs:** nothing new; Port already has [foreign enclaves](../../Places/Port.md#neutrality). Kingdoms' own customs officers inside Port would be new law, which is bt 7274's.
 
@@ -272,7 +272,7 @@ A family has to get to the other side of a border that closed in a week. Wurdren
 
 Possible heart: trust is a road nobody built.
 
-Possible thread: Season 4's inference, that ordinary trust is what neither side planned for ([The Whole Road](../Notes/The-Whole-Road.md#the-seasons)). One or two earlier people at most, so it doesn't become a reunion.
+Possible thread: Season 4's inference, that ordinary trust is what neither side planned for ([The Whole Road](../Notes/The-Whole-Road.md#what-the-reader-notices-season-by-season)). One or two earlier people at most, so it doesn't become a reunion.
 
 - **Needs:** no on-page harm from the war; the family's reason is said once.
 
@@ -316,7 +316,7 @@ The last story, in the voice of the first ([The Long Road](../Notes/The-Long-Roa
 
 Possible heart: the world changed, and the Vale still has to decide who chairs Harvest Home.
 
-Possible thread: the whole road, from [One Square, Two Harvests](One-Square-Two-Harvests.md); what the news says is the [destination](../Notes/The-Whole-Road.md#the-destination-done).
+Possible thread: the whole road, from [One Square, Two Harvests](One-Square-Two-Harvests.md); what the news says is the [destination](../Notes/The-Whole-Road.md#the-idea).
 
 ### The Spine, above and below
 
@@ -1030,7 +1030,7 @@ A dockworker's daughter takes the oath of Port's watch, the one that says no kin
 Possible heart: a city is what the people who guard it promise.
 
 - **Uses:** Port's [neutrality](../../Places/Port.md#neutrality) and [charter and watch](../../Places/Port.md#governance-and-protection), the [Port Seizure](../../History/Contested-Memory.md#the-port-seizure) as family memory.
-- **Later:** [The Whole Road](../Notes/The-Whole-Road.md#season-5-slate-directional) carries it to Season 5 as the first oath after the talks.
+- **Later:** [The Whole Road](../Notes/The-Whole-Road.md#season-5-directional) carries it to Season 5 as the first oath after the talks.
 
 #### The Regulars
 

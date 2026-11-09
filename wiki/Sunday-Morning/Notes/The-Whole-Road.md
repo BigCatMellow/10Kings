@@ -2,249 +2,78 @@
 
 ## Status
 
-**Working plan, built 2026-11-09. Writing reference, not setting canon.** This is the THINK and PLAN record for the whole of the Sunday Morning saga, Season 1 to Season 5. bt 7274: "maybe it would help to use THINK & PLAN on https://github.com/BigCatMellow/Pilot_Projects to plan out all stories as a whole using the sunday story method. I would want to make sure we are making use of all the research, for example, maybe for the villain we look at Port like the Free City of Danzig." ([D27](Decisions.md#the-authors-decisions))
+**Working plan, built 2026-11-09, reorganized the same day. Writing reference, not setting canon.**
 
-How the pages divide the work:
-- [The Long Road](The-Long-Road.md) still owns the principles: what never changes, what moves, the kinds of story.
-- This page owns the saga-level plan: the destination, the seasons as rungs, the slate of candidate stories for Seasons 3 to 5, and the threads that cross seasons.
-- [Collection](Collection.md) owns a season's reading order once that season is planned to L1. Season 2's order is there; Seasons 3 to 5 are slates here until their turn comes.
+bt 7274 asked for it: "maybe it would help to use THINK & PLAN on https://github.com/BigCatMellow/Pilot_Projects to plan out all stories as a whole using the sunday story method" ([D27](Decisions.md#the-authors-decisions)). Then he set the point: "we should be focusing on laying out the plan for including the main story with the same tone as the sunday stories. So what seems like a a loose collection of stories set in this universe eventually becomes the whole story" ([D33](Decisions.md#the-authors-decisions)).
 
-**What bt 7274 settled** ([D28](Decisions.md#the-authors-decisions), [D32](Decisions.md#the-authors-decisions), 2026-11-09). The Villain is "just a regular dude": a citizen of Port, "which is to be a citizen of nowhere", who grew up there and "is tired of seeing Port be exploited". He isn't seeking Port's former glory. He wants a real voice for Port's people. He has no idea the Council exists. Season 4 is a limited war at one border. The Night Fare's passenger is someone else. Season 5 tells the revelation as news. Separately, Port's own past: it was the great city of the last ruling empire, taken by the other nations after a war, and all that's left of it ([D30](Decisions.md#the-authors-decisions)); that's the city's history, not his cause. Rows that rest on these rulings are marked *(D28)*. Until a story's plan uses it, Port stays everyone's stationer on the page.
+That is what this page is for. How the pages divide the work:
+- [The Long Road](The-Long-Road.md) still owns the principles.
+- [Collection](Collection.md) owns a season's reading order once that season is planned.
+- The Villain and Port are on their own pages ([Villain](../../Story/Villain.md#homeland-and-grievance), [Port](../../Places/Port.md)).
+- **This page owns how the stories add up**: the tools each story uses, what the reader notices season by season, and the slates.
 
-**D20 holds.** "The story is a garden." This plan says what each season needs from Wurdren, not where he goes. Seasons 3 to 5 are directional. Their slates are candidates, so a story that grows somewhere else can replace one.
+## The idea
 
-## How this was made
+Read one at a time, the stories are a loose collection: a water dispute in a valley, a goat, a pot of soup on a Port street, a bellows kept through the winter. Each one is a whole Sunday story, about the people in it, with nothing at stake beyond their week. Nobody in any of them sees anything bigger ([D21](Decisions.md#the-authors-decisions)).
 
-**THINK**, as Pilot Projects runs it ([THINK project](https://github.com/BigCatMellow/Pilot_Projects/blob/main/ai-creativity-and-ideation/THINK_PROJECT.md)):
-- **The fixed four methods on one path** (decomposition, assumption mapping, first principles, counterexample search). This is the control the research kept, because a dynamic or wider search didn't earn its cost.
-- **Reserve methods** only where a failure signal called for one: a frame challenge, inversion, and a perspective shift to the Villain's and the Council's desks.
-- **For the Villain question**, the ideation pattern from its [research hub](https://github.com/BigCatMellow/Pilot_Projects/blob/main/ai-creativity-and-ideation/README.md): generate widely, keep the alternatives apart, judge each separately, then choose.
+Read in order, they turn out to be one story. The reader is the only one who can see it, because the reader is the only one who has been everywhere. The main story is never told. It's what the reader puts together from details the characters thought were ordinary.
 
-**PLAN**, as MAPS_L's project bootstrap does it ([PLAN baseline](https://github.com/BigCatMellow/Pilot_Projects/blob/main/ai-planning-and-orchestration/MAPSL_PLAN_BASELINE.md)):
-- Inspect what exists, define DONE, plan backward from the end, then forward.
-- Set the **planning resolution**:
-  - the destination precise;
-  - the current phase (Season 2) detailed;
-  - the first wave (The Same Paper, then Season 2's batch) bounded;
-  - later phases (Seasons 3 to 5) directional, refined as evidence comes in.
-- Set the **authority envelope**: this plan proposes; bt 7274's rulings (the D-rows) decide, and where the plan meets one it follows it.
-- **Challenge** the plan with an independent check before relying on it ([below](#independent-check)).
-- Name the **final proof**: a cold reader of the whole saga, given only the stories, can answer the five questions in [the destination](#the-destination-done).
-- At each season boundary, choose CONTINUE, CHANGE, CUT SCOPE, RESEARCH or STOP.
-- Keep the frame, alternatives, assumptions, unknowns and reconsideration triggers, so a later planner doesn't flatten a live branch.
+**The whole story, as the reader will finally see it.**
+1. A regular citizen of Port, tired of watching his city be used, starts nudging the kingdoms toward distrust. He does it with small offers, rumors and a doctored report.
+2. He doesn't know that a hidden Council is quietly correcting course ([D28](Decisions.md#the-authors-decisions), [D32](Decisions.md#the-authors-decisions)). The two hands, pushing and steadying, make each other worse.
+3. A limited war at one border pushes everyone to talks in Port, the one place they'll all sit down. The Council has to come into the open, and Port's people get a real voice.
+4. It stayed small because a great many small places, in fourteen stories a year, held for their own reasons.
+5. An aging adventurer who passed through some of them turns out to have mattered to more people than he knew.
 
-**The Sunday story method doesn't change** ([D22](Decisions.md#the-authors-decisions)). Every story on the slates still runs the [pipeline](Pipeline.md) from Stage 0 on its own page, with a test story before each batch.
+**The rule that makes it work:** every story is a Sunday story first. If the main story were cut out of it, the story would still stand ([Rules](Rules.md#what-keeps-it-sunday-morning)). The main story only ever makes it matter more.
 
-## The research this uses
+## How a Sunday story carries the main story
 
-"Making use of all the research" means each body of research has a job in the plan. Nothing below is promoted to canon by being used here.
+These are the tools Seasons 1 and 2 already use. Every story uses one or two, never all.
 
-| Research | Where it is | Its job in the plan |
+| Tool | How it works | Example already written |
 | --- | --- | --- |
-| Danzig: how the real Free City came about and its "sparks"; and a separate legacy alternate history in which a grassroots leader plays the powers into war and brokers the peace | [Volume 12, Danzig](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig), [Danzig sparks and dominoes](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig-sparks-dominos), [Danzig and current events](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig-current-events) | the [Villain](#the-villain-alternatives-judged-separately) (D28) and the shape of Seasons 3 to 5. Also its "under the radar" mechanisms (layered middlemen) and hidden-spark lessons (an accident read as an attack), used in the candidate list |
-| The four domino tiers: nails, horseshoes, steeds, catastrophe | [Volume 12, Villain's plan](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-dominos-villains-plan) | what kind of move the Villain makes in each season |
-| The Council's stages: complacency, "strange patterns", control slipping | [Volume 12, Council](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-dominos-council) | what the Council's desk does in each season |
-| The legacy goal "broker peace to found his new kingdom", rejected by an earlier reconciliation pass | [Story Legacy Research Library](../../Reference/Story-Legacy-Research-Library.md#whats-in-volume-12-and-its-disposition) | reopened as a candidate, in a form that is a people's grievance, not one man's ambition. **Excluded:** the legacy tiers' Villain acting in public as a mediator (a peace society, appearances at truce gatherings), which D21 rules out |
-| Port's factions, its slang, "Port-born first", and the smuggling economy | [World dynamics](../../../legacy-notes/2026-09-22/direct-uploads/two_sons_world_dynamics.md) ([backlog 7](../../Reference/README.md#legacy-reconciliation-backlog)) | the Port stories' texture; promoted only when a story's plan needs it |
-| Who supports and who fears each part of the Villain's plan | [Volume 11, perceived benefits](../../../legacy-notes/2026-09-22/consolidated-package/11_Story_Core_Characters_Villain.md#src-story-perceived-benefits-negatives) ([backlog 13](../../Reference/README.md#legacy-reconciliation-backlog)) | the "independent reasons" each story's world-tie check needs |
-| The harbor master's logbook as a point of view | [Volume 11, outline](../../../legacy-notes/2026-09-22/consolidated-package/11_Story_Core_Characters_Villain.md#src-story-outline) ([backlog 14](../../Reference/README.md#legacy-reconciliation-backlog)) | [The Harbor Book](../Stories/Story-Seeds.md#the-harbor-book), a Desk thread in Seasons 3 to 5 |
-| The Council's tradecraft and the Circle of Mirrors | [Volume 08](../../../legacy-notes/2026-09-22/consolidated-package/08_Power_The_Council_Guilds_Underworld.md#src-the-council-stress-test) ([backlog 3–4](../../Reference/README.md#legacy-reconciliation-backlog)) | the Council's desk view; [The House Cook](../Stories/Story-Seeds.md#the-house-cook) and [The Tea Boy](../Stories/Story-Seeds.md#the-tea-boy) |
-| Each region's founding wound | [Volume 04](../../../legacy-notes/2026-09-22/consolidated-package/04_Cultures_Peoples_Daily_Life.md#src-culture-regional-motivators) ([backlog 5](../../Reference/README.md#legacy-reconciliation-backlog)) | the grievances the Villain presses on in Season 3, region by region |
-| Canon owners: [Villain](../../Story/Villain.md), [Main Conflict](../../Story/Main-Conflict.md), [Villain's Dominoes](../../Story/Villains-Dominoes.md), [Current Events](../../Story/Current-Events.md), [Economic Council](../../Politics/Economic-Council.md), [Port](../../Places/Port.md), [The Convergence](../../History/The-Convergence.md), [Contested Memory](../../History/Contested-Memory.md), [Wurdren](../../Story/Wurdren.md) | the wiki | the authority. Where the plan and an owner disagree, the owner wins |
-| Season 1 and 2 drafts, plans and seeds | [Collection](Collection.md), [Story Seeds](../Stories/Story-Seeds.md) | what's already planted, and the stories on the slates |
-| Comparative and invented institutions | [Reference](../../Reference/README.md) (e.g. the Second Witness Market) | local customs that let a town hold for its own reasons |
-| Coverage of the world | [World coverage](../../../atlas/coverage/Coverage.md), [Domino Map](../../../atlas/domino-map/Domino-Map.md) | where on the map and the web each slate is thin |
+| **The detail in the margin** | the main story shows up as weather: a price, a letter, a rumor, a shortage, never explained | the tightened credit in [Harvest Home Again](../Stories/Story-Seeds.md#harvest-home-again); "It's all gone to private contracts" in [Inspected](../Drafts/Inspected-Not-Guaranteed.md) |
+| **The nail and the hold** | the trouble arrives as one small pressure (the nail), and the local thing holds for local reasons ([world-tie rule](Rules.md#the-world-tie-rule-connected-not-driven)) | Rhona answers "After the pour", and the Row keeps her ([The Same Paper](../Drafts/The-Same-Paper.md)) |
+| **Still falls elsewhere** | what holds here fails somewhere else, and that failure becomes another story's weather | Coalglen holds through its walkout; up the valley a walkout loses the pour ([Walkout Pies](../Drafts/Walkout-Pies.md)), and that cold Works is The Same Paper's winter |
+| **The repeated object** | the same ordinary thing turns up in stories that don't know each other | the cream paper with the ship's lantern: Col's letter, Hollis's buyer, Rhona's letter ([C6](Collection.md#cross-story-promise-ledger)) |
+| **The returning person** | someone from one story is a stranger, a name or a cameo in another, a scene or two at most | Lio, Kerra, Zan; and Wurdren, who notices without understanding ([D19](Decisions.md#the-authors-decisions)) |
+| **The Return** | a later story goes back to a place a year on, and the reader sees what changed | [Harvest Home Again](../Stories/Story-Seeds.md#harvest-home-again), [The Second Pour](../Stories/Story-Seeds.md#the-second-pour) |
+| **The Desk** | a clerk, a cook or a carrier who records what passes and never interprets it, so the reader can | Wen's exact quotation in [The Goat File](../Stories/The-Goat-File.md); [The Harbor Book](../Stories/Story-Seeds.md#the-harbor-book) to come |
+| **Placement** | two stories side by side say what neither says alone; the order is where the plot lives | the Season 2 order on [Collection](Collection.md#season-2-reading-order-plan) |
 
-## The destination (DONE)
+**What never changes, however high the rungs climb** ([Rules](Rules.md)):
+- one sad moment, said once;
+- no public shaming;
+- a meal, and a moment where nothing happens;
+- a warm ending.
 
-Main Conflict's [possible resolution model](../../Story/Main-Conflict.md#possible-resolution-model) is the end goal ([D18](Decisions.md#the-authors-decisions)). Made precise for the stories:
+The war in Season 4 is weather too. Nobody the reader knows goes to the fighting, hardship is context and never the story, and the catastrophe is one line, offstage. About half of every season is World stories with no main-story job at all ([D23](Decisions.md#the-authors-decisions), [D24](Decisions.md#the-authors-decisions)), so the collection never stops feeling loose.
 
-- **The political end.** A limited war at one border (D28) has pushed the kingdoms to talks, and Port is the only ground they'll all accept. The Villain forces the Council into the open without ever having known it was there (D28): it has to be seen, because the talks can't end the war without its grain, credit and routes, and the hidden order surprises him as much as anyone. His last escalation makes the human cost undeniable, and his coalition breaks. The outcome is one neither side intended: public negotiations, some Council mechanisms exposed, institutional reform, and a concession that meets the legitimate part of his grievance *(D28: a new Port charter that gives the Port-born a real voice in their own city)*. Nobody wins outright.
-- **Wurdren's end** ([D18](Decisions.md#the-authors-decisions)). He matters to one person, then to more. He's at the talks, or near them, because of the people who trust him. He doesn't lead. What he contributes is that the elites can no longer treat ordinary people as pieces.
-- **How it's told.** From the ground, like every other story. The catastrophe and the talks themselves stay offstage: one line, the way any story hears big news. No Council delegation is ever on the page; the houses appear only as households. The revelation is told as news (D28): people hear it and react to it the way they react to any news, so nobody in a story works it out.
-- **The last story** is "in the voice of the first story": back at the Vale of [One Square, Two Harvests](../Stories/One-Square-Two-Harvests.md), at Harvest Home, five years on, where the news from Port arrives by letter.
-- **The reader at the end** can answer what no story said outright: (1) who was behind the offers, (2) what he wanted, (3) why the Council let him get so far, (4) why the war stayed small, and (5) what Wurdren was for. That's the final proof.
+## What the reader notices, season by season
 
-## THINK
+Each season gives the reader one or two new conclusions, and a named story carries each one. Each season also has one **turn**: the story where a reader who has been paying attention says "oh". The turn is always a Sunday story that seems to be about something else.
 
-### Reasoning allocation
+| Season | Years | It feels like | What the reader can put together | The turn | Wurdren |
+| --- | --- | --- | --- | --- | --- |
+| **1** (done) | Y1 early autumn – Y2 early autumn | a loose collection of small stories across the map | someone is behind the offers | [The Tree With a Debt](../Stories/The-Tree-With-a-Debt.md): a second unsigned offer from the same hand | once; sees a letter |
+| **2** (planned) | Y2 early autumn – Y3 early autumn | the same, a year on, in more places | the trouble has a shape, and more than one hand is in it | [The Same Paper](../Stories/The-Same-Paper.md): a third letter, and Wurdren has seen the paper before | three times; notices the paper |
+| **3** | Y3 early autumn – Y4 early autumn | stories where the neighbors are suddenly suspicious of each other | someone wants the kingdoms to distrust each other, the people keeping things steady are making it worse, and things keep coming back to Port | [How the News Came](../Stories/Story-Seeds.md#how-the-news-came): one report in three versions, one changed on purpose | more often; people write to him |
+| **4** | Y4 early autumn – Y5 early autumn | ordinary life in a year of musters | the small places that held are why the war is small; what the hand wants is Port | [Second Witness](../Stories/Story-Seeds.md#second-witness): the incident everyone believes isn't confirmed where people went and looked | his network moves people |
+| **5** | Y5 early autumn – Y6 early autumn | the world hearing big news, and going on | the whole story | [How the News Came, again](../Stories/Story-Seeds.md#how-the-news-came), then [Harvest Home, Year Six](../Stories/Story-Seeds.md#harvest-home-year-six), back where the first story began | at or near the table, because of the people |
 
-The fixed four on one path, as the control. Reserve methods came in only where a failure signal called for them:
+**Port clues are rationed**, so nobody works it out too early:
+- Season 2: one (the Port buyer in The Same Paper).
+- Season 3: two (The Quorum and The Harbor Book).
+- More only from Season 4.
 
-| Method | Failure signal it answers | Finding |
-| --- | --- | --- |
-| **Frame challenge** | Seasons 1 and 2 were planned one at a time; a whole saga planned that way drifts | the saga is a linked cycle in which the reader is the detective (below) |
-| **Inversion** | a plan this long has many ways to fail quietly | the guards [below](#inversion-and-counterexample-search) |
-| **Perspective shift** | the Villain's homeland is open, and the Council's desk had only been seen story by story | the six alternatives, and the Council's stages in [the seasons](#the-seasons) |
-| **Abduction** | what should the reader infer, and when? | one or two inferences a season, each with a host story |
+**The last story is in the voice of the first.** Five years on, the Vale of [One Square, Two Harvests](../Stories/One-Square-Two-Harvests.md) gets the news from Port by letter, reads it out at the joint table, argues about it, and has its festival. A reader who started with a water dispute in a valley ends there, and knows what all of it was.
 
-### Frame
+## Season 2
 
-*Frame challenge: is this a novel told in pieces, or an anthology with a spine?*
+The current phase, planned in detail on [Collection](Collection.md#season-2-reading-order-plan). Its test story, The Same Paper, is drafted and waiting for bt 7274's read. The rest of Season 2 is drafted after that.
 
-Neither, exactly. It's a **linked cycle in which the reader is the main story's only detective**. Every story stands alone and nobody in it sees the pattern ([D21](Decisions.md#the-authors-decisions)), so the main plot exists only in what the reader sets side by side. Wurdren carries the heart; the reader carries the plot. The plan therefore controls **what the reader can see, and when**, not what the characters do.
-
-### Decomposition: seven strands
-
-| Strand | What it is | Who carries it on the page |
-| --- | --- | --- |
-| 1. The Villain's campaign | the cause: nails, then horseshoes, then steeds | nobody; it shows only as its effects |
-| 2. The Council's countermeasures | the second hand: credit, food, routes, guilds | clerks, cooks, borrowers; never the Council as a body |
-| 3. The world's escalation | the weather, one rung a season ([escalation](../../Story/Main-Conflict.md#escalation)) | everyone, as prices, letters and sons called up |
-| 4. What the reader can piece together | the plot, one or two inferences a season | the placement of stories side by side |
-| 5. Wurdren | the heart and the signal ([D19](Decisions.md#the-authors-decisions)) | Wurdren, from time to time |
-| 6. The people | the earlier protagonists, who become his network | Returns, Threads, cameos kept small |
-| 7. The ending | public, but from the ground | Season 5 |
-
-Each story carries at most one or two strands. Strand 4 is made by the order, not by any one story.
-
-### First principles
-
-What does the saga need, at the least, to work?
-- **A cause the reader can reconstruct from ordinary objects.** Paper, a ledger, a price, a vote. Never a confession.
-- **Two hands that look alike from the ground,** so the reader has to tell them apart (the Villain's pushes and the Council's corrections).
-- **A grievance big enough to explain a war and small enough to be partly granted.** That's what the resolution model needs.
-- **A place where everything passes,** so the clues can gather without coincidence. Port is that place in canon already.
-- **A heart that doesn't depend on the plot.** Wurdren's need to matter works even if the reader never solves anything.
-
-### The Villain: alternatives, judged separately
-
-The question: what homeland and grievance make a Villain whose campaign the stories can carry from the ground, who fits [Villain](../../Story/Villain.md) and the resolution model, and who uses what the wiki and the first two seasons already hold?
-
-**A. The Free City: he is Port-born.** *(Chosen with C, D28.)*
-
-The mapping. The left column marks which source each row comes from: the real Free City of Danzig, or the legacy notes' alternate history (Klara Hoffmann's "Danzig for Danzigers"). Real Danzig's people were mostly German and largely wanted to rejoin Germany; the people who belong to neither side come from the alternate history, not the real one.
-
-| Danzig (real) or the alternate history (alt) | Port |
-| --- | --- |
-| real: a city made neutral because no power would let a rival hold it | "It survives because every major power fears what would happen if a rival controlled it" ([Port](../../Places/Port.md#neutrality)) |
-| real: under the protection of an outside body | formalized by the [Convergence](../../History/The-Convergence.md#neutral-port), "treaty guarantees" |
-| real: demilitarized | "limits on kingdom troops inside the city" |
-| real: a neighbor's officials working inside the harbor | foreign enclaves, guild headquarters, envoys |
-| real: a city taken from those who built it, after a war | the last ruling empire's city, taken by the other nations after a war; Port's past, not the Villain's cause (D32) ([D28](Decisions.md#the-authors-decisions), [Port](../../Places/Port.md#the-last-empires-city-d28-d30)); Northwind's [Port Seizure](../../History/Contested-Memory.md#the-port-seizure) story may remember it |
-| real: a state that depended on the port for its trade | every kingdom's trade depends on Port, and the inland ones most |
-| alt: a people who belong to neither side and want a say | canon records "people who identify as Port-born first" ([Port](../../Places/Port.md#culture)), and "a citizen of Port, which is to be a citizen of nowhere" (D32): an identity, not yet a slogan |
-| alt: a local leader who plays the powers into war and brokers the peace | the Villain's method |
-
-*The grievance:* a people with a city and no country. They're run by charter for everyone else's trade, and the dockside has the least say in the city it keeps working. He blames the nations that took it. *(Superseded by D28: this plan first had him seeing the [Council](../../Politics/Economic-Council.md) behind the guarantees; he has no idea it exists, and reads its corrections as the kingdoms' own moves.)*
-
-*His end:* Port answering to the people born in it. "Born in it" includes the children of every refugee and sailor, so the idea is civic and mixed, never nativist. That is the line any story using it must hold.
-
-*His method,* from the alternate history: make the guarantors distrust each other until a neutral Port is the only ground they'll accept, then be the indispensable broker, with recognition as the price of peace.
-
-| Spark | Season | Host story |
-| --- | --- | --- |
-| a doctored report (the real Ems Dispatch, used in the alternate history) | 3 | [How the News Came](../Stories/Story-Seeds.md#how-the-news-came) |
-| a staged border incident (the alternate history's Dirschau) | 4 | [Second Witness](../Stories/Story-Seeds.md#second-witness) |
-| a peace conference on neutral ground (its Peace of Oliva) | 5 | [The Conference Kitchen](../Stories/Story-Seeds.md#the-conference-kitchen) |
-
-The alternate history's dock riots, in which people are killed, are **left out**. The tone guardrails allow no on-page harm from the scheme, and nothing in it is needed.
-
-**The six alternatives against the same six tests.** The tests:
-1. **Grievance:** can readers understand it?
-2. **Ending fit:** does it suit "concessions/autonomy" in the resolution model?
-3. **Canon:** does it use what already exists, without new lore?
-4. **Off the page:** can the stories carry it while he stays off the page?
-5. **Planted:** what have Seasons 1 and 2 already planted for it?
-6. **Risk:** what could go wrong?
-
-| | 1. Grievance | 2. Ending fit | 3. Canon | 4. Off the page | 5. Planted | 6. Risk |
-| --- | --- | --- | --- | --- | --- | --- |
-| **A. Port-born (Free City)** | strong, sympathetic at first | exact: a new charter | almost all there | yes: a sincere public movement with him inside it, steering its timing | most: Port paper through a Port stationer, a Port buyer, Port insurance at ripple step 2, Three Pots' street | importing Danzig's history; nativism (both guarded above) |
-| **B. Northwind revanchism** (the Port Seizure) | strong | poor: it wants territory | there ([Contested Memory](../../History/Contested-Memory.md#the-port-seizure)) | yes | Maris's lists and patrols | makes Northwind the villain's people, which leans on a stereotype [World Rules](../../World-Rules.md) allows only as a belief |
-| **C. A frontier people the Convergence erased** | strong | good: autonomy | partly ([The Convergence](../../History/The-Convergence.md#cultural-effect), [Border Towns](../../Places/Border-Towns.md)) | yes | little: no story points there yet | thinner clues; spreads the plot thin |
-| **D. The Underpass born** | fair | fair | thin: the Convergence only "perhaps" covered the tunnels | yes | the stair-hut, the deep road | needs invented law |
-| **E. A disinherited Council heir** | weak: palace intrigue | poor | there (the six houses) | hard: he'd know too much | none | empties the reader's detective work |
-| **F. A kingdom of his own** (the legacy goal) | weak: one man's ambition | poor | not there | yes | none | the reason the earlier pass rejected it |
-
-**bt 7274's choice: A, plainly** ([D32](Decisions.md#the-authors-decisions)). He's a regular citizen of Port who grew up there and is tired of seeing it exploited. No empire, no erased people, no former glory: "a citizen of Port, which is to be a citizen of nowhere". (D28 first said "both", with the city's imperial past as his people's; D32 replaced that.)
-
-**C, set aside.** The erased frontier people aren't his. They can still be someone else's grievance in a story about borders ([The Treaty Stone](../Stories/Story-Seeds.md#the-treaty-stone), [The Name on Both Walls](../Stories/Story-Seeds.md#the-name-on-both-walls)), and B stays a grievance he plays rather than his own.
-
-**Whether he knows the Council** (D28): he has no idea it exists. That makes the reader the only one who sees both hands, and gives Season 5 its turn: the hidden order surprises him too.
-
-### Assumption mapping
-
-| Assumption | Status | Note |
-| --- | --- | --- |
-| The resolution model is the end goal | `VERIFIED` | [D18](Decisions.md#the-authors-decisions) |
-| Nobody in a story sees the pattern, in any season | `VERIFIED` | [D21](Decisions.md#the-authors-decisions); Season 5 tells the revelation as news (D28) |
-| Port is neutral by treaty, limits kingdom troops, and has a Port-born identity | `VERIFIED` | [Port](../../Places/Port.md) |
-| The Council emerged through the Convergence, and a Port house holds Routes | `VERIFIED` | [The Convergence](../../History/The-Convergence.md#the-council-and-the-convergence), [the six houses](../../Politics/Economic-Council.md#the-six-houses) |
-| A season is about half World and half Domino | `VERIFIED` | [D24](Decisions.md#the-authors-decisions); every slate below is seven and seven |
-| The Villain is a regular citizen of Port, tired of seeing it exploited; wants a real voice for Port's people; doesn't know the Council exists | `VERIFIED` | [D28](Decisions.md#the-authors-decisions), [D32](Decisions.md#the-authors-decisions) |
-| Season 4 is a limited war at one border | `VERIFIED` | D28 |
-| A season is about a year, of about fourteen stories | `ASSUMED` | Seasons 1 and 2 have fourteen each; [The Long Road](The-Long-Road.md#the-seasons-loosely) now says so too |
-| Five seasons | `ASSUMED` | The Long Road's table |
-| The Villain never appears on the page, even at the end | `VERIFIED` | D21; D28 keeps the Night Fare's passenger someone else |
-
-### Inversion and counterexample search
-
-*How would this saga fail?*
-
-- **The reader works it out too early.** Guard, the Port clue count:
-  - Season 2: one clue (the Port buyer in The Same Paper).
-  - Season 3: two (The Quorum and The Harbor Book).
-  - More only from Season 4.
-  - Port stories that aren't on the count (The Harbor Runner, The Seizure Warehouse, The Regulars) carry no clue at all, and Port is always also "everyone's stationer".
-- **The reader never works it out.** Guard: each season's expected reader state has a named host story, and the test story's cold read checks it.
-- **The stories become a plot.** Each one starts serving the next and stops standing alone. Guards: seven World stories a season ([D24](Decisions.md#the-authors-decisions)), and the delete-the-thread test, story by story ([Rules](Rules.md#what-keeps-it-sunday-morning)).
-- **The tone darkens with the rungs.** Guard: the war is weather, with three rules for every Season 4 and 5 story:
-  - nobody the reader knows goes to the fighting;
-  - hardship is context, never the story;
-  - the catastrophe is one line, offstage.
-- **The ending is a speech.** Guard: the ending is told by a kitchen, a harbor clerk, a ferry and a village, not by a summit.
-- **Wurdren becomes the protagonist.** Guard: two or three appearances a season, mostly in other people's stories ([Rules](Rules.md#wurdren-in-sunday-morning-stories)).
-- **The cast reunion.** Guard: one or two earlier people per story ([Collection](Collection.md#extension-to-fourteen-stories-2026-11-02)).
-- **Danzig imported whole.** Guard: mechanisms only, and the source of each is labeled.
-- **A World story given a plot job.** Guard: World stories carry no clue ([D23](Decisions.md#the-authors-decisions)).
-
-### PLAN handoff
-
-```text
-frame               a linked cycle in which the reader is the main story's only detective; Wurdren carries the heart
-selected strategy   five seasons as rungs; each gives the reader one or two inferences, each with a host story; the
-                    Villain's moves climb the legacy's tiers (nails, horseshoes, steeds, catastrophe turned into talks);
-                    the Council's desk climbs its stages; Port moves from background to the ground of the ending;
-                    seven World and seven Domino a season (D24)
-alternatives        Villain homelands B–F, and A with C; a plot-driven cycle (rejected: breaks D2); one long novel
-                    (rejected: not the Sunday method); total war in Season 4 (set aside: the tone guardrails)
-assumptions         as mapped; the Villain set by D28
-unknowns            the empire's name and the war (below); the Villain's name; who Wurdren comes to matter to (D20)
-reconsider if       bt 7274 picks another homeland; a cold read finds an inference a season early or not at all;
-                    a story needs a character to see the pattern; a Season 4 story makes a reader brace
-```
-
-## PLAN
-
-### Backward from the end
-
-To land the destination, each season must hand the next one a precondition. Each cell names the story that carries it.
-
-| For this in Season 5… | Season 4 must leave | Season 3 must leave | Season 2 must leave |
-| --- | --- | --- | --- |
-| talks in Port | a limited war nobody can finish (weather in every Season 4 story) | kingdoms reading each other's moves as threats ([The Petition Room](../Stories/Story-Seeds.md#the-petition-room), [How the News Came](../Stories/Story-Seeds.md#how-the-news-came)) | the same troubles in more places (all of Season 2) |
-| the Council forced into the open | countermeasures failing in public ([What the Elder Wrote](../Stories/Story-Seeds.md#what-the-elder-wrote), read as proof) | a countermeasure that hurts a family the reader can care about ([The Penny Sale](../Stories/Story-Seeds.md#the-penny-sale)) | a credit squeeze on the Salve house ([Harvest Home Again](../Stories/Story-Seeds.md#harvest-home-again)) |
-| the Villain's coalition breaking | a staged incident somebody will one day count ([Second Witness](../Stories/Story-Seeds.md#second-witness)) | a hand inside a sincere movement *(D28; [The Quorum](../Stories/Story-Seeds.md#the-quorum))* | a hand that writes letters ([The Same Paper](../Stories/The-Same-Paper.md)) |
-| the Port charter rewritten *(D28)* | Port as the only neutral ground, crowded and holding ([The Customs Table](../Stories/Story-Seeds.md#the-customs-table)) | a Port-born say being talked about ([The Quorum](../Stories/Story-Seeds.md#the-quorum)) | Port as everyone's stationer (The Same Paper) |
-| Wurdren near the table, because of people | a network that moves a family across a closed border ([The Long Way Round](../Stories/Story-Seeds.md#the-long-way-round)) | people who write to him ([Care Of](../Stories/Story-Seeds.md#care-of)) | the paper noticed twice; one person he matters to (Very Nearly) |
-| the reader understanding | an honest record that will matter ([The Harbor Book](../Stories/Story-Seeds.md#the-harbor-book) II) | a harbor book that doesn't add up (The Harbor Book I) | three letters on one paper |
-
-### The seasons
-
-| Season | Years | Rung | The Villain's moves | The Council's desk | Port | What the reader can piece together (host) | Wurdren (what he's for, not where) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **1** (done) | Y1 early autumn – Y2 early autumn | independent local problems | **Nails**: offers, rumors | complacent: noise | everyone's stationer | someone is behind the offers (The Tree) | once; sees a letter |
-| **2** (planned, [Collection](Collection.md#season-2-reading-order-plan)) | Y2 early autumn – Y3 early autumn | recognizable patterns | nails in more places; the third letter | notices "strange patterns"; tightens credit | a Port buyer | the trouble has a shape, and more than one hand is in it (The Same Paper, Harvest Home Again) | three times; notices the paper; matters to one person |
-| **3** | Y3 early autumn – Y4 early autumn | regional crises; cross-regional suspicion | **Horseshoes**: a doctored report, statements read as proof, votes courted; accepts predictable harm | countermeasures that harm; listeners sent out | the Port-born say talked about *(D28)* | the two hands are working against each other (The Penny Sale, How the News Came); *(D28)* Port keeps coming up (The Quorum, The Harbor Book I) | more often; people write to him |
-| **4** | Y4 early autumn – Y5 early autumn | mobilization; limited war at a border *(lean)* | **Steeds**: a staged incident; causes harm because it gives him leverage | control slipping; its openness faction speaks up | the only neutral ground; enclaves and refugees; troops kept outside | ordinary trust is what neither side planned for (Second Witness, The Long Way Round); *(D28)* what the hand wants is Port (The Harbor Book II) | his network moves people |
-| **5** | Y5 early autumn – Y6 early autumn | revelation; convergence | **Catastrophe**, turned into talks; his coalition breaks | forced into the open | the talks; a new charter *(D28)* | the ending, in the voice of the first story (Harvest Home, Year Six) | at or near the table, because of the people; matters to more |
-
-### Season 2 (the current phase)
-
-Detailed on [Collection](Collection.md#season-2-reading-order-plan), and unchanged by this plan. Its one Port clue is the Port buyer in The Same Paper. The Harbor Runner stays a World story with no clue.
-
-### Season 3 slate (directional)
+## Season 3 (directional)
 
 Seven Domino and seven World ([D24](Decisions.md#the-authors-decisions)), in calendar order. New seeds are on [Story Seeds](../Stories/Story-Seeds.md#the-main-story-seasons-3-to-5).
 
@@ -269,7 +98,7 @@ Seven Domino and seven World ([D24](Decisions.md#the-authors-decisions)), in cal
 
 **Changes from the seeds:** The Apothecary's Test gains Wurdren as the stranger. How the News Came moves from Season 2, and one of its versions is the doctored report. The Quorum uses the guild's own year-end, since Ledger Closing is Highridge's.
 
-### Season 4 slate (directional)
+## Season 4 (directional)
 
 The war is weather: nobody the reader knows goes to the fighting, hardship is context, and every story is set where the war isn't.
 
@@ -294,7 +123,7 @@ The war is weather: nobody the reader knows goes to the fighting, hardship is co
 
 **Changes from the seeds:** Second Witness swaps its spoiled-grain rumor for the report of the incident. The Customs Table is now the enclaves' clerks, not kingdoms' officers (no new law).
 
-### Season 5 slate (directional)
+## Season 5 (directional)
 
 | Story | Kind | When | Where | What it gives the reader |
 | --- | --- | --- | --- | --- |
@@ -315,14 +144,14 @@ The war is weather: nobody the reader knows goes to the fighting, hardship is co
 
 **Changes from the seeds:** The Charter Oath was a World seed; here it's the first oath after the talks, so it carries the thread.
 
-### Candidates if a slot opens
+## Candidates if a slot opens
 
 These have a season in mind and no slot yet. Each can replace a slate story of its own kind.
 - **Season 3:** [The Paid Side](../Stories/Story-Seeds.md#the-paid-side), [The Kitchen Court](../Stories/Story-Seeds.md#the-kitchen-court) (Wurdren could be its visitor), [Lean Vigil](../Stories/Story-Seeds.md#lean-vigil) (only if the Port-born say there includes the newcomers).
 - **Season 4:** [The Trial Rows](../Stories/Story-Seeds.md#the-trial-rows) (moved from Season 3), [The Bridge Delay](../Stories/Story-Seeds.md#the-bridge-delay) (an accident read as an attack, the research's hidden-spark lesson), [The Treaty Stone](../Stories/Story-Seeds.md#the-treaty-stone), [Protected Goods](../Stories/Story-Seeds.md#protected-goods).
 - **Season 5:** [The Stopping Place](../Stories/Story-Seeds.md#the-stopping-place) (stopping rights after the war), [Salt Between Them](../Stories/Story-Seeds.md#salt-between-them) (moved from Season 2: two songs about one coast after a war at sea, and kept out of The Patrol Boat's season by its own rule), [The House Cook](../Stories/Story-Seeds.md#the-house-cook), [The Tea Boy](../Stories/Story-Seeds.md#the-tea-boy), a Return to [Three Pots](../Stories/Three-Pots-at-Three-Moon.md)' street.
 
-### Threads that cross seasons
+## Threads that cross seasons
 
 Planned promises, each with its host. Each gets a C-row on [Collection](Collection.md#cross-story-promise-ledger) when its setup story is planned.
 
@@ -344,6 +173,28 @@ Planned promises, each with its host. Each gets a C-row on [Collection](Collecti
 | The relay post | — | — | How the News Came | — | How the News Came, again |
 | The Vale | One Square | Harvest Home Again | — | — | Harvest Home, Year Six |
 
+## Keeping it Sunday: the guards
+
+*How would this saga fail?*
+
+- **The reader works it out too early.** Guard, the Port clue count:
+  - Season 2: one clue (the Port buyer in The Same Paper).
+  - Season 3: two (The Quorum and The Harbor Book).
+  - More only from Season 4.
+  - Port stories that aren't on the count (The Harbor Runner, The Seizure Warehouse, The Regulars) carry no clue at all, and Port is always also "everyone's stationer".
+- **The reader never works it out.** Guard: each season's expected reader state has a named host story, and the test story's cold read checks it.
+- **The stories become a plot.** Each one starts serving the next and stops standing alone. Guards: seven World stories a season ([D24](Decisions.md#the-authors-decisions)), and the delete-the-thread test, story by story ([Rules](Rules.md#what-keeps-it-sunday-morning)).
+- **The tone darkens with the rungs.** Guard: the war is weather, with three rules for every Season 4 and 5 story:
+  - nobody the reader knows goes to the fighting;
+  - hardship is context, never the story;
+  - the catastrophe is one line, offstage.
+- **The ending is a speech.** Guard: the ending is told by a kitchen, a harbor clerk, a ferry and a village, not by a summit.
+- **Wurdren becomes the protagonist.** Guard: two or three appearances a season, mostly in other people's stories ([Rules](Rules.md#wurdren-in-sunday-morning-stories)).
+- **The cast reunion.** Guard: one or two earlier people per story ([Collection](Collection.md#extension-to-fourteen-stories-2026-11-02)).
+- **Danzig imported whole.** Guard: mechanisms only, and the source of each is labeled.
+- **A World story given a plot job.** Guard: World stories carry no clue ([D23](Decisions.md#the-authors-decisions)).
+
+
 ### Reconsideration triggers
 
 - The empire's name and the war (below) change how Port's history reads → revise the rows marked *(D28)* (THINK).
@@ -363,44 +214,58 @@ Before a season's batch is drafted, choose one, and record it on [Decisions](Dec
 - **RESEARCH** something the season needs (Season 3's Port stories need the empire's history from Port).
 - **STOP.**
 
+
+## The record
+
+### How it was planned
+
+THINK followed Pilot Projects' [THINK project](https://github.com/BigCatMellow/Pilot_Projects/blob/main/ai-creativity-and-ideation/THINK_PROJECT.md):
+- the fixed four methods on one path (decomposition, assumption mapping, first principles, counterexample search);
+- reserve methods only where a failure signal called for them: a frame challenge, inversion, and a perspective shift.
+
+The frame it settled on is the one under [The idea](#the-idea): a linked cycle in which the reader is the main story's only detective. Wurdren carries the heart, and the reader carries the plot.
+
+PLAN followed MAPS_L's [plan baseline](https://github.com/BigCatMellow/Pilot_Projects/blob/main/ai-planning-and-orchestration/MAPSL_PLAN_BASELINE.md):
+- define DONE and plan backward from it;
+- planning resolution: the destination precise, Season 2 detailed, Seasons 3 to 5 directional;
+- an independent challenge;
+- a final proof: a cold reader of the whole saga, given only the stories, can retell [the whole story](#the-idea).
+
+[D20](Decisions.md#the-authors-decisions) keeps Wurdren's route unplanned. The slates say what each season needs from him, not where he goes.
+
+The story method doesn't change ([D22](Decisions.md#the-authors-decisions)). Every story on the slates runs the [pipeline](Pipeline.md) from Stage 0 on its own page, with a test story before each batch.
+
+### The research it uses
+
+"Making use of all the research" means each body of research has a job in the plan. Nothing below is promoted to canon by being used here.
+
+| Research | Where it is | Its job in the plan |
+| --- | --- | --- |
+| Danzig: how the real Free City came about and its "sparks"; and a separate legacy alternate history in which a grassroots leader plays the powers into war and brokers the peace | [Volume 12, Danzig](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig), [Danzig sparks and dominoes](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig-sparks-dominos), [Danzig and current events](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-danzig-current-events) | the [Villain](#the-villain-question) (D28) and the shape of Seasons 3 to 5. Also its "under the radar" mechanisms (layered middlemen) and hidden-spark lessons (an accident read as an attack), used in the candidate list |
+| The four domino tiers: nails, horseshoes, steeds, catastrophe | [Volume 12, Villain's plan](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-dominos-villains-plan) | what kind of move the Villain makes in each season |
+| The Council's stages: complacency, "strange patterns", control slipping | [Volume 12, Council](../../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-dominos-council) | what the Council's desk does in each season |
+| The legacy goal "broker peace to found his new kingdom", rejected by an earlier reconciliation pass | [Story Legacy Research Library](../../Reference/Story-Legacy-Research-Library.md#whats-in-volume-12-and-its-disposition) | reopened as a candidate, in a form that is a people's grievance, not one man's ambition. **Excluded:** the legacy tiers' Villain acting in public as a mediator (a peace society, appearances at truce gatherings), which D21 rules out |
+| Port's factions, its slang, "Port-born first", and the smuggling economy | [World dynamics](../../../legacy-notes/2026-09-22/direct-uploads/two_sons_world_dynamics.md) ([backlog 7](../../Reference/README.md#legacy-reconciliation-backlog)) | the Port stories' texture; promoted only when a story's plan needs it |
+| Who supports and who fears each part of the Villain's plan | [Volume 11, perceived benefits](../../../legacy-notes/2026-09-22/consolidated-package/11_Story_Core_Characters_Villain.md#src-story-perceived-benefits-negatives) ([backlog 13](../../Reference/README.md#legacy-reconciliation-backlog)) | the "independent reasons" each story's world-tie check needs |
+| The harbor master's logbook as a point of view | [Volume 11, outline](../../../legacy-notes/2026-09-22/consolidated-package/11_Story_Core_Characters_Villain.md#src-story-outline) ([backlog 14](../../Reference/README.md#legacy-reconciliation-backlog)) | [The Harbor Book](../Stories/Story-Seeds.md#the-harbor-book), a Desk thread in Seasons 3 to 5 |
+| The Council's tradecraft and the Circle of Mirrors | [Volume 08](../../../legacy-notes/2026-09-22/consolidated-package/08_Power_The_Council_Guilds_Underworld.md#src-the-council-stress-test) ([backlog 3–4](../../Reference/README.md#legacy-reconciliation-backlog)) | the Council's desk view; [The House Cook](../Stories/Story-Seeds.md#the-house-cook) and [The Tea Boy](../Stories/Story-Seeds.md#the-tea-boy) |
+| Each region's founding wound | [Volume 04](../../../legacy-notes/2026-09-22/consolidated-package/04_Cultures_Peoples_Daily_Life.md#src-culture-regional-motivators) ([backlog 5](../../Reference/README.md#legacy-reconciliation-backlog)) | the grievances the Villain presses on in Season 3, region by region |
+| Canon owners: [Villain](../../Story/Villain.md), [Main Conflict](../../Story/Main-Conflict.md), [Villain's Dominoes](../../Story/Villains-Dominoes.md), [Current Events](../../Story/Current-Events.md), [Economic Council](../../Politics/Economic-Council.md), [Port](../../Places/Port.md), [The Convergence](../../History/The-Convergence.md), [Contested Memory](../../History/Contested-Memory.md), [Wurdren](../../Story/Wurdren.md) | the wiki | the authority. Where the plan and an owner disagree, the owner wins |
+| Season 1 and 2 drafts, plans and seeds | [Collection](Collection.md), [Story Seeds](../Stories/Story-Seeds.md) | what's already planted, and the stories on the slates |
+| Comparative and invented institutions | [Reference](../../Reference/README.md) (e.g. the Second Witness Market) | local customs that let a town hold for its own reasons |
+| Coverage of the world | [World coverage](../../../atlas/coverage/Coverage.md), [Domino Map](../../../atlas/domino-map/Domino-Map.md) | where on the map and the web each slate is thin |
+
+
+### The Villain question
+
+The first version of this page weighed six homelands for the Villain, reading Port through the Free City of Danzig, before bt 7274 ruled. He settled it in stages: [D28](Decisions.md#the-authors-decisions) (no idea the Council exists, a real voice for Port's people as the end-state, a limited war, the revelation as news), then D30 and D31 (Port's own past as the last ruling empire's city), then [D32](Decisions.md#the-authors-decisions): "the villain is just a regular dude… a citizen of Port, which is to be a citizen of nowhere… tired of seeing Port be exploited." D29 was withdrawn. The [Villain](../../Story/Villain.md#homeland-and-grievance) page owns the result; the Danzig comparison stays for its mechanisms only (a city neutral because no power will let a rival hold it; a doctored report; a staged incident; a peace on neutral ground). The Villain's name is still open.
+
 ### Independent check
 
-2026-11-09, by a checker who didn't write the plan, against the D-rows, the Rules, the canon owners, the seeds, the Danzig research and the Pilot Projects method. It found no ruling broken outright and fourteen problems in the detail; all were fixed:
-- **The mix:** the slates were two-thirds Domino against D24. They're now seven and seven.
-- **Marks and Port clues:**
-  - Rows depending on the Free City were unmarked; they're marked now.
-  - The Port clue guard contradicted itself, and a World story had been given a clue. Both fixed.
-- **Sources and law:**
-  - "Port-born first" was overstated as a slogan.
-  - Real Danzig and the alternate history were blended in one column.
-  - The customs officers were new law.
-  - The dock riots had deaths behind them.
-- **Wurdren:** his "first person" was already used in Season 2.
-- **Calendar:** the charter came before the talks ended.
-- **Seeds:**
-  - Seed lines didn't match the slates.
-  - The Patrol Boat sat beside Salt Between Them, against its own rule.
-  - The Penny Sale and The Trial Rows had gone missing.
-- **Hosts:** two inferences had no host story.
-- **Count:** the season size disagreed with The Long Road.
+2026-11-09, by a checker who didn't write the plan. It found no ruling broken and fourteen detail problems, all fixed. The biggest:
+- the slates ran two-thirds Domino against D24; they're now seven and seven;
+- rows resting on an unsettled lean were unmarked;
+- the Port clue guard contradicted itself;
+- two of the reader's conclusions had no host story.
 
-From its should-considers:
-- **Taken:** the war-weather rules; no Council delegation on the page; the postkeeper judges accuracy, not intent; World stories carry no clue; calendar order; first principles; the method table and the alternatives judged on the same tests; the excluded mediator; A with C kept as an alternative.
-
-Its biggest risk: in Seasons 4 and 5 the plot starts to drive the stories. The seven World stories a season are the cheapest guard against that.
-
-## For bt 7274
-
-**Answered 2026-11-09** ([D28](Decisions.md#the-authors-decisions)):
-1. **Homeland:** Port. He's a regular citizen of Port, "which is to be a citizen of nowhere", tired of seeing Port exploited; not after its former glory ([D32](Decisions.md#the-authors-decisions), replacing D28's first answer). Port's own past as the last ruling empire's city stands as history (D30, D31).
-2. **End-state:** a real voice for the Port-born inside a renewed Convergence.
-3. **What he knows:** nothing about the Council.
-4. **Season 4:** a limited war at one border.
-5. **The Night Fare:** the passenger is someone else.
-6. **The revelation:** told as news.
-
-**What his answers open**, one at a time, each with a lean. Season 3 needs the first only when a Port story's plan reaches it:
-
-*Answered by [D30](Decisions.md#the-authors-decisions):* Port is all that's left of the last ruling empire; by [D31](Decisions.md#the-authors-decisions) its people need not be the Sea People. (D29, Northwind as the empire's remnant, was withdrawn.)
-
-1. **When the war was.** *Lean:* before the Convergence, which made the taking permanent as Port's neutral status. Either way, nobody now alive remembers it, only their grandparents' stories.
+Its biggest risk still stands as the main guard: in Seasons 4 and 5 the plot could start to drive the stories. Seven World stories a season, and the delete-the-thread test story by story, are what stop it.
