@@ -161,6 +161,8 @@ The alternate history's dock riots, in which people are killed, are **left out**
 
 **Kept as well: A with C.** The Port-born are his people, and the erased frontier people are a second grievance he courts. This spreads the clues beyond Port, which eases the risk of an early guess, and fits [The Treaty Stone](../Stories/Story-Seeds.md#the-treaty-stone) and [The Name on Both Walls](../Stories/Story-Seeds.md#the-name-on-both-walls). B stays in either way, as a grievance he plays rather than his own.
 
+**His network** ([D29](Decisions.md#the-authors-decisions)). Northwind is what's left of the Sea People's empire. He has allies there and opponents too, and through the allies he reaches sailors and pirates who can come and go and blend into any port. That's how the nails travel. It also explains ripple step 1 ("Northwind piracy raises shipping risk"): some of the raids were his, though most are ordinary and no story can tell which. Guard: Northwind isn't his army. Every story that touches Northwind shows people on both sides of him, or on neither, and the "northern pirates" stay other regions' belief ([World Rules](../../World-Rules.md)).
+
 **Whether he knows the Council** (D28): he has no idea it exists. That makes the reader the only one who sees both hands, and gives Season 5 its turn: the hidden order surprises him too.
 
 ### Assumption mapping
@@ -197,6 +199,7 @@ The alternate history's dock riots, in which people are killed, are **left out**
 - **Wurdren becomes the protagonist.** Guard: two or three appearances a season, mostly in other people's stories ([Rules](Rules.md#wurdren-in-sunday-morning-stories)).
 - **The cast reunion.** Guard: one or two earlier people per story ([Collection](Collection.md#extension-to-fourteen-stories-2026-11-02)).
 - **Danzig imported whole.** Guard: mechanisms only, and the source of each is labeled.
+- **Northwind becomes the villain's people.** Guard: allies and opponents in every Northwind story; the pirates are some raiders among many (D29).
 - **A World story given a plot job.** Guard: World stories carry no clue ([D23](Decisions.md#the-authors-decisions)).
 
 ### PLAN handoff
@@ -210,7 +213,7 @@ selected strategy   five seasons as rungs; each gives the reader one or two infe
 alternatives        Villain homelands B–F, and A with C; a plot-driven cycle (rejected: breaks D2); one long novel
                     (rejected: not the Sunday method); total war in Season 4 (set aside: the tone guardrails)
 assumptions         as mapped; the Villain set by D28
-unknowns            the Sea People's war and their kin (below); the Villain's name; who Wurdren comes to matter to (D20)
+unknowns            the Sea People's war (below); how far his Northwind allies reach; the Villain's name; who Wurdren comes to matter to (D20)
 reconsider if       bt 7274 picks another homeland; a cold read finds an inference a season early or not at all;
                     a story needs a character to see the pattern; a Season 4 story makes a reader brace
 ```
@@ -236,7 +239,7 @@ To land the destination, each season must hand the next one a precondition. Each
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **1** (done) | Y1 early autumn – Y2 early autumn | independent local problems | **Nails**: offers, rumors | complacent: noise | everyone's stationer | someone is behind the offers (The Tree) | once; sees a letter |
 | **2** (planned, [Collection](Collection.md#season-2-reading-order-plan)) | Y2 early autumn – Y3 early autumn | recognizable patterns | nails in more places; the third letter | notices "strange patterns"; tightens credit | a Port buyer | the trouble has a shape, and more than one hand is in it (The Same Paper, Harvest Home Again) | three times; notices the paper; matters to one person |
-| **3** | Y3 early autumn – Y4 early autumn | regional crises; cross-regional suspicion | **Horseshoes**: a doctored report, statements read as proof, votes courted; accepts predictable harm | countermeasures that harm; listeners sent out | the Port-born say talked about *(D28)* | the two hands are working against each other (The Penny Sale, How the News Came); *(D28)* Port keeps coming up (The Quorum, The Harbor Book I) | more often; people write to him |
+| **3** | Y3 early autumn – Y4 early autumn | regional crises; cross-regional suspicion | **Horseshoes**: a doctored report, statements read as proof, votes courted; agents at sea carry them (D29); accepts predictable harm | countermeasures that harm; listeners sent out | the Port-born say talked about *(D28)* | the two hands are working against each other (The Penny Sale, How the News Came); *(D28)* Port keeps coming up (The Quorum, The Harbor Book I) | more often; people write to him |
 | **4** | Y4 early autumn – Y5 early autumn | mobilization; limited war at a border *(lean)* | **Steeds**: a staged incident; causes harm because it gives him leverage | control slipping; its openness faction speaks up | the only neutral ground; enclaves and refugees; troops kept outside | ordinary trust is what neither side planned for (Second Witness, The Long Way Round); *(D28)* what the hand wants is Port (The Harbor Book II) | his network moves people |
 | **5** | Y5 early autumn – Y6 early autumn | revelation; convergence | **Catastrophe**, turned into talks; his coalition breaks | forced into the open | the talks; a new charter *(D28)* | the ending, in the voice of the first story (Harvest Home, Year Six) | at or near the table, because of the people; matters to more |
 
@@ -401,5 +404,6 @@ Its biggest risk: in Seasons 4 and 5 the plot starts to drive the stories. The s
 
 **What his answers open**, one at a time, each with a lean. Season 3 needs the first only when a Port story's plan reaches it:
 
-1. **The Sea People and Northwind.** *Lean:* a separate coastal people, now mostly Port-born. Some Northwind clans claim kin with them, which is why Northwind families tell the Port Seizure story as their own loss.
-2. **When the war was.** *Lean:* before the Convergence, which made the taking permanent as Port's neutral status. Either way, nobody now alive remembers it, only their grandparents' stories.
+*Answered by [D29](Decisions.md#the-authors-decisions):* Northwind is what's left of the old Empire; he has allies there and opponents; sailors and pirates are his agents.
+
+1. **When the war was.** *Lean:* before the Convergence, which made the taking permanent as Port's neutral status. Either way, nobody now alive remembers it, only their grandparents' stories.

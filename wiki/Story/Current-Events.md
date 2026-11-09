@@ -57,6 +57,8 @@ Raids are increasing.
 
 A response that looks purely defensive to Northwind can look like maritime militarization to Sunplains or Port merchants.
 
+Out of story: some raiders are the Villain's agents, reached through his allies in Northwind; most are not, and nobody on the page can tell which ([Villain](Villain.md#his-network-d29), [D29](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)).
+
 ## Greenvale
 
 ### Abundance crisis

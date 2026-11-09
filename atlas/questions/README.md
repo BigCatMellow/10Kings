@@ -56,7 +56,7 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Faiths: the creation myth and the Sons | asks about | Path of the Great Weaver | stated | “The creation myth” [source](../../wiki/Open-Questions.md#faiths) |
 | Ecology: no owner for flora and fauna | asks about | Greenvale | stated | “Flora and fauna have no owner page yet” [source](../../wiki/Open-Questions.md#ecology) |
 | Villain: the war in which the Sea People lost Port | asks about | The Villain | stated | “The war in which the Sea People lost Port: its name, and when it fell relative to the Convergence (lean: before it).” [source](../../wiki/Open-Questions.md#villain) |
-| Villain: whether the Sea People were Northwind's kin | asks about | The Villain | stated | “Whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people.” [source](../../wiki/Open-Questions.md#villain) |
+| Villain: how far his allies in Northwind reach | asks about | The Villain | stated | “How far his allies in Northwind reach, and who in Northwind opposes him.” [source](../../wiki/Open-Questions.md#villain) |
 
 ## Diagram
 
@@ -119,7 +119,7 @@ flowchart LR
   pw_faith_weaver["Path of the Great Weaver"]
   oq_ecology_owner["Ecology: no owner for flora and fauna"]
   oq_the_sea_peoples_war["Villain: the war in which the Sea People lost Port"]
-  oq_the_sea_peoples_kin["Villain: whether the Sea People were Northwind's kin"]
+  oq_his_northwind_allies["Villain: how far his allies in Northwind reach"]
   oq_exact_outlines_of_the_three_continents --> western
   oq_exact_outlines_of_the_three_continents --> northern
   oq_exact_outlines_of_the_three_continents --> eastern
@@ -155,7 +155,7 @@ flowchart LR
   oq_creation_myth --> pw_faith_weaver
   oq_ecology_owner --> greenvale
   oq_the_sea_peoples_war --> pp_villain
-  oq_the_sea_peoples_kin --> pp_villain
+  oq_his_northwind_allies --> pp_villain
 ```
 
 ## Every thing in this part
@@ -265,7 +265,7 @@ Grouped by board column.
 | [Economic Council: how seats are inherited, selected, purchased, or contested](../../wiki/Open-Questions.md#economic-council) | Open question | No status label | Open question under Economic Council: How seats are inherited, selected, purchased, or contested. |
 | [Villain: name](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: Name. |
 | [Villain: the war in which the Sea People lost Port](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: The war in which the Sea People lost Port: its name, and when it fell relative to the Convergence (lean: before it). |
-| [Villain: whether the Sea People were Northwind's kin](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: Whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people. |
+| [Villain: how far his allies in Northwind reach](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: How far his allies in Northwind reach, and who in Northwind opposes him. |
 | [Villain: the point at which his methods become clearly unacceptable even to sympathetic readers](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: The point at which his methods become clearly unacceptable even to sympathetic readers. |
 | [Wurdren: exact age and biography](../../wiki/Open-Questions.md#wurdren) | Open question | No status label | Open question under Wurdren: Exact age and biography. |
 | [Wurdren: why his earlier adventuring life failed to match his ambitions](../../wiki/Open-Questions.md#wurdren) | Open question | No status label | Open question under Wurdren: Why his earlier adventuring life failed to match his ambitions. |
@@ -288,9 +288,9 @@ Grouped by board column.
 - *Question:* The war in which the Sea People lost Port: its name, and when it fell relative to the Convergence (lean: before it).
 - *Section:* Villain
 
-**Villain: whether the Sea People were Northwind's kin**
+**Villain: how far his allies in Northwind reach**
 
-- *Question:* Whether the Sea People were Northwind's ancestors, its kin, or a separate coastal people.
+- *Question:* How far his allies in Northwind reach, and who in Northwind opposes him.
 - *Section:* Villain
 
 **Villain: the point at which his methods become clearly unacceptable even to sympathetic readers**
