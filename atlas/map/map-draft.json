@@ -1,6 +1,6 @@
 {
  "title": "Map draft",
- "status": "Third draft (D40): bt 7274's own layout. Northwind across the north of both continents, Highridge's plateau below it, Greenvale wrapping the Inner Sea from the lower leaf to Port. Every placement is still a lean; the wiki owns the facts and the exact map stays open.",
+ "status": "Third draft (D40, D41): bt 7274's own layout, tweaked. Northwind across the north of both continents, Highridge's plateau below it, Greenvale wrapping the Inner Sea from the lower leaf to Port, and Port holding both sides of its harbor mouth. Every placement is still a lean; the wiki owns the facts and the exact map stays open.",
  "image": {
   "file": "base-map.png",
   "w": 980,
@@ -448,7 +448,7 @@
    "y": 433,
    "rot": -48,
    "src": "Places/Gazetteer.md#seas-and-straits",
-   "note": "The strait between the Northern and Eastern Continents: the Inner Sea's only way out to the ocean, and every ship's road to Port."
+   "note": "The strait between the Northern and Eastern Continents: the Inner Sea's only way out to the ocean. Greenvale holds both its shores; Port holds its inner mouth, the Throat (lean)."
   },
   {
    "name": "The North Gut",
@@ -2175,10 +2175,10 @@
    "name": "The Old Light",
    "kind": "place",
    "sub": "ruin",
-   "x": 404,
-   "y": 368,
+   "x": 378,
+   "y": 360,
    "src": "Places/Places-of-Interest.md#the-old-light",
-   "note": "On Lamp Point at the Throat, Port's harbor mouth.",
+   "note": "On Lamp Point, the north side of the Throat, where the strait opens into the Inner Sea: Port's ground across the water (lean).",
    "region": "port"
   },
   {
@@ -2746,20 +2746,36 @@
      324
     ],
     [
+     530,
+     316
+    ],
+    [
      560,
      314
     ],
     [
+     576,
+     322
+    ],
+    [
      582,
-     330
+     334
     ],
     [
-     575,
-     360
+     578,
+     352
     ],
     [
-     548,
+     562,
+     368
+    ],
+    [
+     546,
      378
+    ],
+    [
+     524,
+     376
     ],
     [
      506,
@@ -2792,10 +2808,41 @@
      392
     ]
    ]
+  },
+  {
+   "region": "port",
+   "note": "Port's ground on Lamp Point, the north side of the Throat: Port holds both sides of its own harbor mouth, so no kingdom holds the gate to the Inner Sea (lean).",
+   "poly": [
+    [
+     358,
+     348
+    ],
+    [
+     380,
+     340
+    ],
+    [
+     390,
+     350
+    ],
+    [
+     386,
+     366
+    ],
+    [
+     366,
+     368
+    ],
+    [
+     354,
+     360
+    ]
+   ]
   }
  ],
  "leans": [
   "**bt 7274's layout (D40).** Northwind across the north of both continents; Highridge's plateau across the Northern Continent's middle; Greenvale on the lower leaf and round Port; Deepwood the Western Continent's lower half; Ironcrest its uplands. Drawn by bt 7274 on the second draft.",
+  "**Port holds both sides of the Throat (D41).** With Greenvale on both shores of the Narrows, the kingdom that feeds Port would also hold its only sea gate, which cuts against Port being 'difficult for one kingdom to seize'. So Port's ground takes Lamp Point, the strait's north shore where it opens into the Inner Sea, with the Old Light on it: Port holds its own harbor mouth, Greenvale the strait's length. *Lean:* keep. The alternative, Greenvale holding the whole gate, would make Greenvale's grip on Port a story fact; that's bt 7274's to add.",
   "**Greenvale's foothold at Stonefield Forge.** The layout separated Ironcrest from Greenvale, but Stonefield Forge is a strongly established border town between them. Greenvale keeps a small piece of the western lowlands at the Spine's eastern foot, which Ironcrest's page says its rulers 'periodically held', and Stonefield Forge stands in it. *Lean:* keep.",
   "**Northwind borders Ironcrest.** Northwind on the Western Continent's north touches Ironcrest by land, so Geography's line that Northwind borders none of its suppliers no longer holds for Ironcrest's metal. Greenvale's grain and Deepwood's medicine still reach Northwind only through Icestep or by sea through Port. Geography now says so.",
   "**Frostbay Way and the sea road.** Frostbay Way, the Northwind–Port border town, becomes Northwind's last harbor on the sea road to Port, on its west coast; the Long Way runs along Northwind's coast to it, and the rest is by ship through the Narrows. *Lean:* keep.",

@@ -105,7 +105,10 @@ def regions(D, lobe, keep):
     # drawn areas that override the seeds: the Spine, Port's ground
     from matplotlib.path import Path
     for o in D.get("overrides", []):
-        inside = Path(o["poly"]).contains_points(np.c_[xx.ravel(), yy.ravel()]).reshape(h, w)
+        # wobble the drawn edge with the same smooth noise as the seeded borders
+        dx = nd.gaussian_filter(rng.standard_normal((h, w)), 6); dx *= 4 / (dx.std() + 1e-9)
+        dy = nd.gaussian_filter(rng.standard_normal((h, w)), 6); dy *= 4 / (dy.std() + 1e-9)
+        inside = Path(o["poly"]).contains_points(np.c_[(xx + dx).ravel(), (yy + dy).ravel()]).reshape(h, w)
         inside = nd.binary_dilation(inside, iterations=2)
         keep |= inside if o.get("fill") else False  # the mountain drawing's pale ink is not water
         owner[inside & keep] = rid.index(o["region"])

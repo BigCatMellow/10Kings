@@ -220,7 +220,7 @@ Layers on layers: an old name, the charter name, district nicknames, immigrant n
 | Name | What it is | Notes |
 | --- | --- | --- |
 | **The Throat** | the harbor mouth | narrow, with the [Old Light](Places-of-Interest.md#the-old-light) on its north side |
-| **Lamp Point** | the point the Old Light stands on | |
+| **Lamp Point** | the point the Old Light stands on | on the north side of the Throat, so Port holds both sides of its own harbor mouth *(lean, [D41](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions))* |
 | **The Inner Pool** | the inner harbor | the [Floating Market](Places-of-Interest.md#the-floating-market) ties up here at dawn |
 | **The Old Bond** | the bonded-warehouse district | the [Seizure Warehouse](Places-of-Interest.md#the-seizure-warehouse) is here |
 | **The Enclave Quarter** | where the foreign enclaves are | climbed by the [Stair of Flags](Places-of-Interest.md#the-stair-of-flags) |

@@ -4,7 +4,7 @@
 
 ## Status
 
-**Third draft (D40): bt 7274's own layout. Northwind across the north of both continents, Highridge's plateau below it, Greenvale wrapping the Inner Sea from the lower leaf to Port. Every placement is still a lean; the wiki owns the facts and the exact map stays open.** Like the rest of the [Atlas](../README.md), this map follows the wiki and never leads it: if a placement here and a wiki page disagree, the wiki wins and the placement moves. The exact map is still [open](../../wiki/Open-Questions.md#map).
+**Third draft (D40, D41): bt 7274's own layout, tweaked. Northwind across the north of both continents, Highridge's plateau below it, Greenvale wrapping the Inner Sea from the lower leaf to Port, and Port holding both sides of its harbor mouth. Every placement is still a lean; the wiki owns the facts and the exact map stays open.** Like the rest of the [Atlas](../README.md), this map follows the wiki and never leads it: if a placement here and a wiki page disagree, the wiki wins and the placement moves. The exact map is still [open](../../wiki/Open-Questions.md#map).
 
 ![The map draft](map-draft.png)
 
@@ -30,12 +30,13 @@ The three continents meet by land only at the Spine, the mountains drawn at the 
 Everything else on the map follows from these.
 
 1. **bt 7274's layout (D40).** Northwind across the north of both continents; Highridge's plateau across the Northern Continent's middle; Greenvale on the lower leaf and round Port; Deepwood the Western Continent's lower half; Ironcrest its uplands. Drawn by bt 7274 on the second draft.
-2. **Greenvale's foothold at Stonefield Forge.** The layout separated Ironcrest from Greenvale, but Stonefield Forge is a strongly established border town between them. Greenvale keeps a small piece of the western lowlands at the Spine's eastern foot, which Ironcrest's page says its rulers 'periodically held', and Stonefield Forge stands in it. *Lean:* keep.
-3. **Northwind borders Ironcrest.** Northwind on the Western Continent's north touches Ironcrest by land, so Geography's line that Northwind borders none of its suppliers no longer holds for Ironcrest's metal. Greenvale's grain and Deepwood's medicine still reach Northwind only through Icestep or by sea through Port. Geography now says so.
-4. **Frostbay Way and the sea road.** Frostbay Way, the Northwind–Port border town, becomes Northwind's last harbor on the sea road to Port, on its west coast; the Long Way runs along Northwind's coast to it, and the rest is by ship through the Narrows. *Lean:* keep.
-5. **Northwind's towns moved** to its new coasts: Narrow Sound and Kettle Cove (The Greenvale Man) on the west coast, the Rescue Houses, the Burned Strand and Icefang Fjord on the Western Continent's north shore. The stories only need them coastal and across a headland from each other. Highridge stands between Northwind and Greenvale, so Greenvale still feels far from Kettle Cove.
-6. **Port at the head of the Inner Sea** (D39), unchanged.
-7. **Ironcrest's directions.** Ironcrest's page says its 'eastern and southeastern edges' face Greenvale, Highridge and Deepwood; on this image they face west and south. Read as an old name for a side, like the continents' names. *Lean:* leave the wording.
+2. **Port holds both sides of the Throat (D41).** With Greenvale on both shores of the Narrows, the kingdom that feeds Port would also hold its only sea gate, which cuts against Port being 'difficult for one kingdom to seize'. So Port's ground takes Lamp Point, the strait's north shore where it opens into the Inner Sea, with the Old Light on it: Port holds its own harbor mouth, Greenvale the strait's length. *Lean:* keep. The alternative, Greenvale holding the whole gate, would make Greenvale's grip on Port a story fact; that's bt 7274's to add.
+3. **Greenvale's foothold at Stonefield Forge.** The layout separated Ironcrest from Greenvale, but Stonefield Forge is a strongly established border town between them. Greenvale keeps a small piece of the western lowlands at the Spine's eastern foot, which Ironcrest's page says its rulers 'periodically held', and Stonefield Forge stands in it. *Lean:* keep.
+4. **Northwind borders Ironcrest.** Northwind on the Western Continent's north touches Ironcrest by land, so Geography's line that Northwind borders none of its suppliers no longer holds for Ironcrest's metal. Greenvale's grain and Deepwood's medicine still reach Northwind only through Icestep or by sea through Port. Geography now says so.
+5. **Frostbay Way and the sea road.** Frostbay Way, the Northwind–Port border town, becomes Northwind's last harbor on the sea road to Port, on its west coast; the Long Way runs along Northwind's coast to it, and the rest is by ship through the Narrows. *Lean:* keep.
+6. **Northwind's towns moved** to its new coasts: Narrow Sound and Kettle Cove (The Greenvale Man) on the west coast, the Rescue Houses, the Burned Strand and Icefang Fjord on the Western Continent's north shore. The stories only need them coastal and across a headland from each other. Highridge stands between Northwind and Greenvale, so Greenvale still feels far from Kettle Cove.
+7. **Port at the head of the Inner Sea** (D39), unchanged.
+8. **Ironcrest's directions.** Ironcrest's page says its 'eastern and southeastern edges' face Greenvale, Highridge and Deepwood; on this image they face west and south. Read as an old name for a side, like the continents' names. *Lean:* leave the wording.
 
 ## Relations checked
 
@@ -72,13 +73,14 @@ Every relation the wiki states between regions, checked against the region areas
 | *Highridge Plateau, drawn area* | The Spine, drawn as mountains where the three continents meet; Highridge holds it (lean). | |
 | *Greenvale, drawn area* | Greenvale's foothold at the Spine's eastern foot: the western lowlands its rulers 'periodically held' from Ironcrest, with the Redlands' wheat and the Chalk Downs (lean). Stonefield Forge stands in it. | |
 | *Port, drawn area* | Port's ground on the Inner Sea. | |
+| *Port, drawn area* | Port's ground on Lamp Point, the north side of the Throat: Port holds both sides of its own harbor mouth, so no kingdom holds the gate to the Inner Sea (lean). | |
 
 ## Seas and straits
 
 | Name | Placed | Wiki |
 | --- | --- | --- |
 | The Inner Sea | Port's bay: a great enclosed sea between the Northern Continent, the Spine and the Eastern Continent, opening to the ocean only through the Narrows. Port stands on its southern shore; Greenvale holds its south and west shores, Highridge its north (lean). | [Gazetteer](../../wiki/Places/Gazetteer.md#seas-and-straits) |
-| The Narrows | The strait between the Northern and Eastern Continents: the Inner Sea's only way out to the ocean, and every ship's road to Port. | [Gazetteer](../../wiki/Places/Gazetteer.md#seas-and-straits) |
+| The Narrows | The strait between the Northern and Eastern Continents: the Inner Sea's only way out to the ocean. Greenvale holds both its shores; Port holds its inner mouth, the Throat (lean). | [Gazetteer](../../wiki/Places/Gazetteer.md#seas-and-straits) |
 | The North Gut | The long sound between the Northern and Western Continents, north of the Spine; Northwind holds both sides of its mouth. | [Gazetteer](../../wiki/Places/Gazetteer.md#seas-and-straits) |
 | Footwater | The lake at the Spine's southern foot, between Greenvale and Deepwood. | [Gazetteer](../../wiki/Places/Gazetteer.md#seas-and-straits) |
 | The Long Channel | The channel from Footwater past the Eastern Continent's tip to the sea, with Sunplains cities on both shores (lean). | [Gazetteer](../../wiki/Places/Gazetteer.md#seas-and-straits) |
@@ -257,7 +259,7 @@ Every relation the wiki states between regions, checked against the region areas
 | The Tide Road | holy site | Northwind | The causeway to an islet off Northwind's north coast (lean). | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#the-tide-road) |
 | Stationers' Row | landmark | Port | In Port. | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#stationers-row) |
 | The Floating Market | landmark | Port | On Port's Inner Pool. | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#the-floating-market) |
-| The Old Light | ruin | Port | On Lamp Point at the Throat, Port's harbor mouth. | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#the-old-light) |
+| The Old Light | ruin | Port | On Lamp Point, the north side of the Throat, where the strait opens into the Inner Sea: Port's ground across the water (lean). | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#the-old-light) |
 | The Seizure Warehouse | memorial | Port | In Port's Old Bond. | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#the-seizure-warehouse) |
 | The Stair of Flags | landmark | Port | In Port's Enclave Quarter. | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#the-stair-of-flags) |
 | The Argument House | holy site | Sunplains | In a Sunplains city (lean: on the Long Channel's northern shore). | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#the-argument-house) |
