@@ -8,16 +8,16 @@
 
 ![The map draft](map-draft.png)
 
-- **Interactive map:** [`index.html`](index.html) (on GitHub Pages: https://bigcatmellow.github.io/10Kings/atlas/map/ once Pages is on). Pan, zoom, switch layers, search, and click anything for its wiki page.
+- **Interactive map:** [`index.html`](index.html). Pan, zoom, switch layers, search, and click anything for its wiki page.
 - **Base image:** [`base-map.png`](base-map.png), a copy of `legacy-notes/2026-09-22/consolidated-package/Map_-_The_Continent.png`, which the [Source Register](../../wiki/Reference/Source-Register.md) calls a provisional historical concept.
 - **On the map:** 7 regions, 33 towns, 63 places of interest, 37 named features, 8 rivers, 18 roads and paths, 8 seas and straits; land shares: Northwind 15%, Ironcrest 16%, Deepwood 16%, Highridge Plateau 15%, Greenvale 24%, Sunplains 13%, Port 1%.
-- **Rebuild:** `python3 atlas/tools/map_draft.py`. Move anything by editing its coordinates in [`map-draft.json`](map-draft.json) (pixels on the 980 × 728 image) and rebuilding.
+- **Rebuild:** `python3 atlas/tools/map_draft.py`. Move anything by editing its coordinates in [`map-draft.json`](map-draft.json) (pixels on the 980 × 728 sheet) and rebuilding.
 
 ## How the land was read
 
 bt 7274 chose to read the continents **by shape** (2026-11-09), from the legacy notes: the Northern Continent is "clover-like", the Western "rounded", the Eastern "tapering". The names are old names, not compass directions on this image.
 
-| Continent | On the image | Note |
+| Continent | On the map | Note |
 | --- | --- | --- |
 | The Northern Continent | the clover-shaped land, upper left | By shape: the clover-like land (legacy notes). Northwind holds its north; Highridge's plateau its middle; Greenvale its lower leaf (D40). |
 | The Western Continent | the round land, right | By shape: the rounded land (legacy notes). Northwind holds its north coast, Ironcrest its uplands, Deepwood most of its lower half, the Sunplains the Long Channel shore; Greenvale keeps a foothold at the Spine's eastern foot (D40). |

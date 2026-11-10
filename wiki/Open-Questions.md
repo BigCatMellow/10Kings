@@ -8,7 +8,7 @@ These are important areas where earlier brainstorming produced multiple versions
 
 ## Map
 
-- Exact outlines of the three continents. *(A [map draft](../atlas/map/README.md) places everything on the legacy image as leans; it settles nothing below. Its third draft follows bt 7274's own layout (D40); its leans are listed there.)*
+- Exact outlines of the three continents. *(A [map draft](../atlas/map/README.md) places everything on the legacy image as leans; it settles nothing below. Its third draft follows bt 7274's own layout (D40); its leans are listed there. A second map, the [lore map](../atlas/lore-map/README.md) (D42), draws the land from the wiki's relations instead.)*
 - Exact location of Port.
 - Which regional borders are long boundaries versus narrow corridors.
 - Whether Highridge directly borders Sunplains.

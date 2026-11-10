@@ -5,7 +5,9 @@
   "file": "base-map.png",
   "w": 980,
   "h": 728,
-  "source": "legacy-notes/2026-09-22/consolidated-package/Map_-_The_Continent.png"
+  "source": "legacy-notes/2026-09-22/consolidated-package/Map_-_The_Continent.png",
+  "note": "a copy of `legacy-notes/2026-09-22/consolidated-package/Map_-_The_Continent.png`, which the [Source Register](../../wiki/Reference/Source-Register.md) calls a provisional historical concept.",
+  "rebuild": "`python3 atlas/tools/map_draft.py`."
  },
  "continents": [
   {
@@ -17,7 +19,8 @@
     300,
     200
    ],
-   "note": "By shape: the clover-like land (legacy notes). Northwind holds its north; Highridge's plateau its middle; Greenvale its lower leaf (D40)."
+   "note": "By shape: the clover-like land (legacy notes). Northwind holds its north; Highridge's plateau its middle; Greenvale its lower leaf (D40).",
+   "where": "the clover-shaped land, upper left"
   },
   {
    "name": "The Western Continent",
@@ -28,7 +31,8 @@
     620,
     250
    ],
-   "note": "By shape: the rounded land (legacy notes). Northwind holds its north coast, Ironcrest its uplands, Deepwood most of its lower half, the Sunplains the Long Channel shore; Greenvale keeps a foothold at the Spine's eastern foot (D40)."
+   "note": "By shape: the rounded land (legacy notes). Northwind holds its north coast, Ironcrest its uplands, Deepwood most of its lower half, the Sunplains the Long Channel shore; Greenvale keeps a foothold at the Spine's eastern foot (D40).",
+   "where": "the round land, right"
   },
   {
    "name": "The Eastern Continent",
@@ -39,7 +43,8 @@
     440,
     480
    ],
-   "note": "By shape: the tapering land (legacy notes). Port at the head of the Inner Sea, Greenvale across the north, the Sunplains along the south coast and the tip."
+   "note": "By shape: the tapering land (legacy notes). Port at the head of the Inner Sea, Greenvale across the north, the Sunplains along the south coast and the tip.",
+   "where": "the tapering land along the bottom"
   }
  ],
  "regions": [
@@ -2949,5 +2954,9 @@
    "Port reaches the interior by river or road (the Long Water, the Kings' Road)",
    "Geography-and-Connections.md#port"
   ]
- ]
+ ],
+ "land_read": [
+  "bt 7274 chose to read the continents **by shape** (2026-11-09), from the legacy notes: the Northern Continent is \"clover-like\", the Western \"rounded\", the Eastern \"tapering\". The names are old names, not compass directions on this image."
+ ],
+ "land_after": "The three continents meet by land only at the Spine, the mountains drawn at the centre, which fits the legacy notes (\"separated by water channels, connected by the Spine\") and [Geography](../../wiki/Geography-and-Connections.md#macro-geography), where the continents must meet by land."
 }

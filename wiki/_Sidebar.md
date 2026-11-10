@@ -83,6 +83,7 @@
 - [Atlas](../atlas/README.md)
 - [Domino Map](../atlas/domino-map/Domino-Map.md)
 - [Map draft](../atlas/map/README.md)
+- [Lore map](../atlas/lore-map/README.md)
 - [Notes index](Sunday-Morning/Notes/README.md)
 - [Rules](Sunday-Morning/Notes/Rules.md)
 - [Craft](Sunday-Morning/Notes/Craft.md)

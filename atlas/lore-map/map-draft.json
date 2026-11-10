@@ -1,0 +1,2928 @@
+{
+ "title": "Lore map",
+ "status": "First draft (D42): drawn from the lore, not from the legacy image. Every placement is a lean for bt 7274 to move; the wiki owns the facts and the exact map stays open.",
+ "image": {
+  "file": "base-map.png",
+  "mask": "land-mask.png",
+  "w": 1000,
+  "h": 760,
+  "note": "drawn by `atlas/tools/lore_map_base.py` from [`geography.json`](geography.json): coasts, mountains, forests and lakes laid out to fit the wiki's relations, not copied from any source image.",
+  "rebuild": "`python3 atlas/tools/lore_map_base.py`, then `python3 atlas/tools/map_draft.py lore-map`."
+ },
+ "single_land": true,
+ "land_heading": "How the land was drawn",
+ "land_read": [
+  "bt 7274 asked for a map drawn from the lore (2026-11-10, [D42](../../wiki/Sunday-Morning/Notes/Decisions.md#the-authors-decisions)), with Port a coastal city that matters to the whole continent. The land follows from three things the wiki already says.",
+  "**The borders force Ironcrest inland.** Highridge, Ironcrest, Deepwood and Greenvale must all border one another ([Geography](../../wiki/Geography-and-Connections.md)), Northwind may border only Highridge, and the Sunplains must touch Greenvale and Deepwood. On any flat map, four regions that all touch leave one of them enclosed by the other three. With Northwind and the Sunplains both needing the sea, the enclosed one has to be Ironcrest. Ironcrest's own page already points that way: its elites import 'coastal foods'.",
+  "**So Port is Ironcrest's door to the sea, and everyone's.** Port stands at the head of the Inner Sea, a deep bay with a narrow mouth, at the foot of the Spine, where the Northern Continent's plateau, Ironcrest's uplands and Greenvale's farmland meet. Ironcrest's river runs to the sea through Port; the Spine's roads and the Underpass come down to it; Greenvale's grain ships from it; Northwind's and the Sunplains' ships meet in its harbor. This is the Danzig shape from bt 7274's research: a free port at a river mouth, the only sea door for an inland power, wanted by every neighbor and owned by none. Three kingdoms touch Port's ground, and the bay's two shores belong to two different kingdoms, so no single one holds it.",
+  "**North is up, and the names match.** The Northern Continent is in the north, Ironcrest in the west, Greenvale and the Sunplains in the east, so Ironcrest's 'eastern and southeastern edges' face Highridge, Greenvale and Deepwood, as its page says."
+ ],
+ "continents": [
+  {
+   "name": "The Northern Continent",
+   "x": 300,
+   "y": 70,
+   "id": "north",
+   "where": "the north, joined to the rest only by the Spine",
+   "note": "Northwind holds most of it; Highridge's plateau its southern rise toward the Spine. The North Gut and the Inner Sea separate it from the lands to the south."
+  },
+  {
+   "name": "The Western Continent",
+   "x": 250,
+   "y": 740,
+   "id": "west",
+   "where": "the south-west, below the North Gut",
+   "note": "Deepwood's forest on its coasts and south; Ironcrest's uplands in its north-east interior, with no coast of its own."
+  },
+  {
+   "name": "The Eastern Continent",
+   "x": 860,
+   "y": 740,
+   "id": "east",
+   "where": "the south-east, below the Inner Sea",
+   "note": "Greenvale across its north and middle, the Sunplains along its south and east. The Long Channel cuts in between it and the Western Continent from the south."
+  }
+ ],
+ "land_after": "The three continents meet by land at the Spine and at Footwater, where the Western and Eastern Continents join below it. The legacy notes say the continents are \"separated by water channels, connected by the Spine\": here the North Gut, the Inner Sea and the Long Channel separate them, and the Spine and the land round Footwater connect them.",
+ "regions": [
+  {
+   "id": "northwind",
+   "name": "Northwind",
+   "x": 300,
+   "y": 170,
+   "color": [
+    70,
+    120,
+    190
+   ],
+   "src": "Regions/Northwind.md",
+   "note": "Most of the Northern Continent, its coasts and islands: the cold north, the west and the east cape at the Inner Sea's mouth. It borders only Highridge by land, at Icestep; everything it imports comes through Icestep or by sea through Port.",
+   "seeds": []
+  },
+  {
+   "id": "highridge",
+   "name": "Highridge Plateau",
+   "x": 590,
+   "y": 250,
+   "color": [
+    170,
+    130,
+    40
+   ],
+   "src": "Regions/Highridge-Plateau.md",
+   "note": "The plateau where the Northern Continent rises toward the Spine, and the Spine itself down to Port: the crossroads every overland route between the north and the south has to cross.",
+   "seeds": []
+  },
+  {
+   "id": "ironcrest",
+   "name": "Ironcrest",
+   "x": 455,
+   "y": 482,
+   "color": [
+    150,
+    70,
+    50
+   ],
+   "src": "Regions/Ironcrest.md",
+   "note": "'Much of the western upland country': the Western Continent's north-east interior, with no coast. Its river, the Ember, reaches the sea only through Footwater, the Long Water and Port.",
+   "seeds": []
+  },
+  {
+   "id": "deepwood",
+   "name": "Deepwood",
+   "x": 200,
+   "y": 520,
+   "color": [
+    25,
+    85,
+    75
+   ],
+   "src": "Regions/Deepwood.md",
+   "note": "The Western Continent's forest: its west and south coasts, and an arm along the North Gut to the Spine's foot (Twilighthollow). Ironcrest's uplands meet it at Darkroot Gulch; it meets Greenvale and the Sunplains at the head of the Long Channel.",
+   "seeds": []
+  },
+  {
+   "id": "greenvale",
+   "name": "Greenvale",
+   "x": 770,
+   "y": 470,
+   "color": [
+    150,
+    185,
+    60
+   ],
+   "src": "Regions/Greenvale.md",
+   "note": "'The largest major agricultural heartland': the Eastern Continent's north and middle, along the Inner Sea's southern shore round to Port.",
+   "seeds": []
+  },
+  {
+   "id": "sunplains",
+   "name": "Sunplains",
+   "x": 800,
+   "y": 640,
+   "color": [
+    220,
+    150,
+    40
+   ],
+   "src": "Regions/Sunplains.md",
+   "note": "The warm south and east of the Eastern Continent, and the Long Channel's eastern shore.",
+   "seeds": []
+  },
+  {
+   "id": "port",
+   "name": "Port",
+   "x": 0,
+   "y": 0,
+   "color": [
+    160,
+    30,
+    30
+   ],
+   "src": "Places/Port.md",
+   "label": false,
+   "note": "Port's ground at the head of the Inner Sea, where Highridge, Ironcrest and Greenvale meet. It belongs to no kingdom.",
+   "seeds": []
+  }
+ ],
+ "overrides": [
+  {
+   "region": "northwind",
+   "note": "Northwind: the Northern Continent, except where Highridge's plateau rises (lean).",
+   "poly": [
+    [
+     150,
+     60
+    ],
+    [
+     800,
+     60
+    ],
+    [
+     800,
+     360
+    ],
+    [
+     740,
+     360
+    ],
+    [
+     620,
+     320
+    ],
+    [
+     430,
+     300
+    ],
+    [
+     340,
+     300
+    ],
+    [
+     150,
+     300
+    ]
+   ]
+  },
+  {
+   "region": "deepwood",
+   "note": "Deepwood: the Western Continent, except Ironcrest's uplands (lean).",
+   "poly": [
+    [
+     100,
+     330
+    ],
+    [
+     600,
+     330
+    ],
+    [
+     640,
+     400
+    ],
+    [
+     612,
+     600
+    ],
+    [
+     560,
+     740
+    ],
+    [
+     100,
+     740
+    ]
+   ]
+  },
+  {
+   "region": "sunplains",
+   "note": "The Sunplains: the Eastern Continent, except Greenvale (lean).",
+   "poly": [
+    [
+     640,
+     560
+    ],
+    [
+     1000,
+     380
+    ],
+    [
+     1000,
+     760
+    ],
+    [
+     630,
+     760
+    ]
+   ]
+  },
+  {
+   "region": "highridge",
+   "note": "The plateau's southern half of the Northern Continent, east of the North Gut, from the scarp below Icestep down to the Inner Sea (lean).",
+   "poly": [
+    [
+     330,
+     272
+    ],
+    [
+     350,
+     240
+    ],
+    [
+     400,
+     220
+    ],
+    [
+     460,
+     210
+    ],
+    [
+     520,
+     204
+    ],
+    [
+     580,
+     208
+    ],
+    [
+     640,
+     216
+    ],
+    [
+     700,
+     222
+    ],
+    [
+     750,
+     232
+    ],
+    [
+     764,
+     290
+    ],
+    [
+     748,
+     320
+    ],
+    [
+     704,
+     296
+    ],
+    [
+     640,
+     292
+    ],
+    [
+     560,
+     306
+    ],
+    [
+     452,
+     288
+    ],
+    [
+     400,
+     282
+    ]
+   ]
+  },
+  {
+   "region": "highridge",
+   "note": "The Spine: Highridge holds it down to Port (lean).",
+   "poly": [
+    [
+     436,
+     284
+    ],
+    [
+     520,
+     292
+    ],
+    [
+     600,
+     302
+    ],
+    [
+     626,
+     330
+    ],
+    [
+     630,
+     372
+    ],
+    [
+     618,
+     388
+    ],
+    [
+     604,
+     400
+    ],
+    [
+     604,
+     424
+    ],
+    [
+     560,
+     424
+    ],
+    [
+     500,
+     396
+    ],
+    [
+     470,
+     380
+    ],
+    [
+     436,
+     346
+    ],
+    [
+     426,
+     306
+    ]
+   ],
+   "fill": true
+  },
+  {
+   "region": "ironcrest",
+   "note": "Ironcrest: the Western Continent's north-east interior, walled by the Ironbacks to the north (lean).",
+   "poly": [
+    [
+     226,
+     404
+    ],
+    [
+     300,
+     394
+    ],
+    [
+     380,
+     392
+    ],
+    [
+     450,
+     398
+    ],
+    [
+     500,
+     404
+    ],
+    [
+     560,
+     424
+    ],
+    [
+     598,
+     426
+    ],
+    [
+     606,
+     446
+    ],
+    [
+     600,
+     490
+    ],
+    [
+     586,
+     528
+    ],
+    [
+     562,
+     580
+    ],
+    [
+     510,
+     610
+    ],
+    [
+     430,
+     622
+    ],
+    [
+     350,
+     610
+    ],
+    [
+     280,
+     580
+    ],
+    [
+     240,
+     520
+    ],
+    [
+     220,
+     460
+    ]
+   ]
+  },
+  {
+   "region": "greenvale",
+   "note": "Greenvale: the Eastern Continent's north and middle (lean).",
+   "poly": [
+    [
+     606,
+     446
+    ],
+    [
+     600,
+     418
+    ],
+    [
+     618,
+     418
+    ],
+    [
+     650,
+     406
+    ],
+    [
+     700,
+     404
+    ],
+    [
+     760,
+     398
+    ],
+    [
+     800,
+     388
+    ],
+    [
+     870,
+     370
+    ],
+    [
+     930,
+     360
+    ],
+    [
+     970,
+     390
+    ],
+    [
+     992,
+     440
+    ],
+    [
+     984,
+     476
+    ],
+    [
+     978,
+     570
+    ],
+    [
+     900,
+     590
+    ],
+    [
+     820,
+     600
+    ],
+    [
+     740,
+     602
+    ],
+    [
+     670,
+     594
+    ],
+    [
+     628,
+     566
+    ],
+    [
+     604,
+     520
+    ],
+    [
+     602,
+     480
+    ]
+   ]
+  },
+  {
+   "region": "port",
+   "note": "Port's ground at the head of the Inner Sea (lean).",
+   "poly": [
+    [
+     604,
+     394
+    ],
+    [
+     624,
+     382
+    ],
+    [
+     644,
+     388
+    ],
+    [
+     650,
+     404
+    ],
+    [
+     640,
+     414
+    ],
+    [
+     618,
+     420
+    ],
+    [
+     604,
+     412
+    ]
+   ]
+  }
+ ],
+ "waters": [
+  {
+   "name": "The Inner Sea",
+   "x": 690,
+   "y": 330,
+   "src": "Places/Gazetteer.md#seas-and-straits",
+   "note": "Port's bay: a deep, sheltered sea between the Northern Continent's plateau shore and Greenvale, opening to the ocean only through the Narrows (lean)."
+  },
+  {
+   "name": "The Narrows",
+   "x": 790,
+   "y": 364,
+   "rot": 50,
+   "src": "Places/Gazetteer.md#seas-and-straits",
+   "note": "The Inner Sea's mouth, between Northwind's east cape and Greenvale's northern horn: two shores, two kingdoms (lean)."
+  },
+  {
+   "name": "The North Gut",
+   "x": 300,
+   "y": 316,
+   "src": "Places/Gazetteer.md#seas-and-straits",
+   "note": "The long sound between the Northern and Western Continents, west of the Spine (lean)."
+  },
+  {
+   "name": "Footwater",
+   "x": 596,
+   "y": 455,
+   "src": "Places/Gazetteer.md#seas-and-straits",
+   "note": "The lake below the Spine's southern foot where the Western and Eastern Continents join: the Ember runs into it from Ironcrest, the Reed from Greenvale, and the Long Water out of it to Port (lean)."
+  },
+  {
+   "name": "The Long Channel",
+   "x": 612,
+   "y": 640,
+   "rot": 70,
+   "src": "Places/Gazetteer.md#seas-and-straits",
+   "note": "The inlet from the southern sea between the Western and Eastern Continents, Deepwood on one shore and the Sunplains on the other (lean)."
+  },
+  {
+   "name": "The Grey Banks",
+   "x": 560,
+   "y": 60,
+   "src": "Places/Gazetteer.md#northwind",
+   "note": "The great fishing banks, off Northwind's north coast."
+  },
+  {
+   "name": "The White Current",
+   "x": 180,
+   "y": 200,
+   "rot": 78,
+   "src": "Places/Gazetteer.md#northwind",
+   "note": "Runs south along Northwind's west coast."
+  },
+  {
+   "name": "The Salted Coast",
+   "x": 872,
+   "y": 300,
+   "src": "Places/Gazetteer.md#the-great-features",
+   "note": "The shore on the sea road between Northwind and the Sunplains, down the east coast past the Narrows (lean); named by the old disputes, and each side means a slightly different stretch."
+  }
+ ],
+ "points": [
+  {
+   "id": "port",
+   "name": "Port",
+   "kind": "town",
+   "sub": "port",
+   "x": 626,
+   "y": 401,
+   "src": "Places/Port.md",
+   "note": "At the head of the Inner Sea, where the Long Water comes through the Kings' Gate to the sea: Ironcrest's only door to the sea, the foot of the Spine's roads, Greenvale's grain harbor, and the meeting place of Northwind's and the Sunplains' ships (lean). It belongs to no kingdom.",
+   "region": "port"
+  },
+  {
+   "id": "old-light",
+   "name": "The Old Light",
+   "kind": "place",
+   "sub": "ruin",
+   "x": 618,
+   "y": 390,
+   "src": "Places/Places-of-Interest.md#the-old-light",
+   "note": "On Lamp Point, the north side of the Throat, Port's harbor mouth.",
+   "region": "port"
+  },
+  {
+   "id": "floating-market",
+   "name": "The Floating Market",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 628,
+   "y": 401,
+   "src": "Places/Places-of-Interest.md#the-floating-market",
+   "note": "On Port's Inner Pool.",
+   "region": "port"
+  },
+  {
+   "id": "stair-of-flags",
+   "name": "The Stair of Flags",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 617,
+   "y": 404,
+   "src": "Places/Places-of-Interest.md#the-stair-of-flags",
+   "note": "In Port's Enclave Quarter.",
+   "region": "port"
+  },
+  {
+   "id": "stationers-row",
+   "name": "Stationers' Row",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 624,
+   "y": 414,
+   "src": "Places/Places-of-Interest.md#stationers-row",
+   "note": "In Port.",
+   "region": "port"
+  },
+  {
+   "id": "seizure-warehouse",
+   "name": "The Seizure Warehouse",
+   "kind": "place",
+   "sub": "memorial",
+   "x": 632,
+   "y": 410,
+   "src": "Places/Places-of-Interest.md#the-seizure-warehouse",
+   "note": "In Port's Old Bond.",
+   "region": "port"
+  },
+  {
+   "id": "snowbreaker",
+   "name": "Snowbreaker Quay",
+   "kind": "town",
+   "sub": "story",
+   "x": 418,
+   "y": 122,
+   "src": "Sunday-Morning/Stories/The-First-Fish.md",
+   "note": "A fishing town on Northwind's north coast that also farms inland (lean).",
+   "region": "northwind"
+  },
+  {
+   "id": "skerrimouth",
+   "name": "Skerrimouth",
+   "kind": "town",
+   "sub": "story",
+   "x": 476,
+   "y": 112,
+   "src": "Sunday-Morning/Stories/The-First-Fish.md",
+   "note": "Across the headland from Snowbreaker Quay (lean).",
+   "region": "northwind"
+  },
+  {
+   "id": "narrow-sound",
+   "name": "Narrow Sound",
+   "kind": "town",
+   "sub": "story",
+   "x": 214,
+   "y": 188,
+   "src": "Sunday-Morning/Stories/The-Greenvale-Man.md",
+   "note": "Across the headland from Kettle Cove, on Northwind's west coast (lean).",
+   "region": "northwind"
+  },
+  {
+   "id": "kettle-cove",
+   "name": "Kettle Cove",
+   "kind": "town",
+   "sub": "story",
+   "x": 224,
+   "y": 220,
+   "src": "Sunday-Morning/Stories/The-Greenvale-Man.md",
+   "note": "A small fishing town in a sheltered cove on Northwind's west coast (lean).",
+   "region": "northwind"
+  },
+  {
+   "id": "cape-wending",
+   "name": "Cape Wending",
+   "kind": "feature",
+   "sub": "cape",
+   "x": 207,
+   "y": 178,
+   "src": "Places/Gazetteer.md#northwind",
+   "note": "The west cape, where the White Current turns out to sea (lean).",
+   "region": "northwind"
+  },
+  {
+   "id": "seafarers-beacon",
+   "name": "The Seafarer's Beacon",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 210,
+   "y": 175,
+   "src": "Places/Places-of-Interest.md#the-seafarers-beacon",
+   "note": "On Cape Wending.",
+   "region": "northwind"
+  },
+  {
+   "id": "sealfjord",
+   "name": "Sealfjord",
+   "kind": "feature",
+   "sub": "fjord",
+   "x": 286,
+   "y": 124,
+   "src": "Places/Gazetteer.md#northwind",
+   "note": "A broad fjord on the northwest coast.",
+   "region": "northwind"
+  },
+  {
+   "id": "ice-halls",
+   "name": "The Ice Halls",
+   "kind": "place",
+   "sub": "natural wonder",
+   "x": 290,
+   "y": 128,
+   "src": "Places/Places-of-Interest.md#the-ice-halls",
+   "note": "In the cliffs of Sealfjord.",
+   "region": "northwind"
+  },
+  {
+   "id": "icefang",
+   "name": "Icefang Fjord",
+   "kind": "feature",
+   "sub": "fjord",
+   "x": 362,
+   "y": 112,
+   "src": "Places/Gazetteer.md#northwind",
+   "note": "A fjord in Northwind's north coast with a mouth of rocks like teeth (lean).",
+   "region": "northwind"
+  },
+  {
+   "id": "the-barrens",
+   "name": "The Barrens",
+   "kind": "feature",
+   "sub": "moor",
+   "x": 440,
+   "y": 170,
+   "src": "Places/Gazetteer.md#northwind",
+   "note": "High cold moor behind the north coast.",
+   "region": "northwind"
+  },
+  {
+   "id": "rescue-houses",
+   "name": "The Rescue Houses",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 228,
+   "y": 202,
+   "src": "Places/Places-of-Interest.md#the-rescue-houses",
+   "note": "Along the cliffs of Northwind's west coast (lean).",
+   "region": "northwind"
+  },
+  {
+   "id": "burned-strand",
+   "name": "The Burned Strand",
+   "kind": "place",
+   "sub": "memorial",
+   "x": 776,
+   "y": 288,
+   "src": "Places/Places-of-Interest.md#the-burned-strand",
+   "note": "On the Salted Coast, the east cape's outer shore (lean).",
+   "region": "northwind"
+  },
+  {
+   "id": "tide-road",
+   "name": "The Tide Road",
+   "kind": "place",
+   "sub": "holy site",
+   "x": 548,
+   "y": 108,
+   "src": "Places/Places-of-Interest.md#the-tide-road",
+   "note": "The causeway to an islet off Northwind's north coast (lean).",
+   "region": "northwind"
+  },
+  {
+   "id": "winterhaven",
+   "name": "Winterhaven",
+   "kind": "town",
+   "sub": "gazetteer",
+   "x": 744,
+   "y": 186,
+   "src": "Places/Gazetteer.md#northwind",
+   "note": "A winter anchorage on Northwind's east coast (lean).",
+   "region": "northwind"
+  },
+  {
+   "id": "frostbay",
+   "name": "Frostbay Way",
+   "kind": "town",
+   "sub": "border",
+   "x": 762,
+   "y": 334,
+   "src": "Places/Border-Towns.md#frostbay-way--northwind--port-influence-zone",
+   "note": "On the east cape at the Narrows, facing Port down the length of the Inner Sea: Northwind's door to Port (lean).",
+   "region": "northwind"
+  },
+  {
+   "id": "long-skerries",
+   "name": "The Long Skerries",
+   "kind": "feature",
+   "sub": "islands",
+   "x": 726,
+   "y": 118,
+   "src": "Places/Gazetteer.md#northwind",
+   "note": "A string of islets off Northwind's north-east coast (lean).",
+   "region": "northwind",
+   "island": true
+  },
+  {
+   "id": "moot-isle",
+   "name": "The Moot Isle",
+   "kind": "place",
+   "sub": "meeting place",
+   "x": 744,
+   "y": 108,
+   "src": "Places/Places-of-Interest.md#the-moot-isle",
+   "note": "The Holm, at the end of the Long Skerries off the Northwind coast.",
+   "region": "northwind",
+   "island": true
+  },
+  {
+   "id": "icestep",
+   "name": "Icestep Summit",
+   "kind": "town",
+   "sub": "border",
+   "x": 470,
+   "y": 210,
+   "src": "Places/Border-Towns.md#icestep-summit--northwind--highridge",
+   "note": "The cold pass town where Northwind's moors rise onto the Highridge plateau.",
+   "region": "highridge",
+   "between": [
+    "northwind",
+    "highridge"
+   ]
+  },
+  {
+   "id": "kingshead",
+   "name": "Kingshead",
+   "kind": "town",
+   "sub": "gazetteer",
+   "x": 508,
+   "y": 268,
+   "src": "Places/Gazetteer.md#highridge-plateau",
+   "note": "Named for the Head in the Square.",
+   "region": "highridge"
+  },
+  {
+   "id": "head-square",
+   "name": "The Head in the Square",
+   "kind": "place",
+   "sub": "monument",
+   "x": 508,
+   "y": 268,
+   "src": "Places/Places-of-Interest.md#the-head-in-the-square",
+   "note": "In Kingshead.",
+   "region": "highridge"
+  },
+  {
+   "id": "tallybridge",
+   "name": "Tallybridge",
+   "kind": "town",
+   "sub": "gazetteer",
+   "x": 580,
+   "y": 272,
+   "src": "Places/Gazetteer.md#highridge-plateau",
+   "note": "A trading town; the Ledger Vault.",
+   "region": "highridge"
+  },
+  {
+   "id": "ledger-vault",
+   "name": "The Ledger Vault",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 580,
+   "y": 272,
+   "src": "Places/Places-of-Interest.md#the-ledger-vault",
+   "note": "In Tallybridge.",
+   "region": "highridge"
+  },
+  {
+   "id": "debate-steps",
+   "name": "The Debate Steps",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 586,
+   "y": 280,
+   "src": "Places/Places-of-Interest.md#the-debate-steps",
+   "note": "In a Highridge city (lean: Tallybridge).",
+   "region": "highridge"
+  },
+  {
+   "id": "deepstep",
+   "name": "Deepstep",
+   "kind": "town",
+   "sub": "gazetteer",
+   "x": 620,
+   "y": 250,
+   "src": "Places/Gazetteer.md#highridge-plateau",
+   "note": "A dry town named for its Stepwell.",
+   "region": "highridge"
+  },
+  {
+   "id": "stepwell",
+   "name": "The Stepwell",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 620,
+   "y": 250,
+   "src": "Places/Places-of-Interest.md#the-stepwell",
+   "note": "In Deepstep.",
+   "region": "highridge"
+  },
+  {
+   "id": "seven-wells",
+   "name": "Seven Wells",
+   "kind": "town",
+   "sub": "story",
+   "x": 530,
+   "y": 246,
+   "src": "Sunday-Morning/Stories/The-Goat-File.md",
+   "note": "A pass town at the plateau's edge, below Icestep (lean).",
+   "region": "highridge"
+  },
+  {
+   "id": "whitepan",
+   "name": "The Whitepan",
+   "kind": "feature",
+   "sub": "salt flat",
+   "x": 560,
+   "y": 264,
+   "src": "Places/Gazetteer.md#highridge-plateau",
+   "note": "The salt flat.",
+   "region": "highridge"
+  },
+  {
+   "id": "salt-mirror",
+   "name": "The Salt Mirror",
+   "kind": "place",
+   "sub": "holy site",
+   "x": 560,
+   "y": 264,
+   "src": "Places/Places-of-Interest.md#the-salt-mirror",
+   "note": "On the Whitepan.",
+   "region": "highridge"
+  },
+  {
+   "id": "ascarra",
+   "name": "Ascarra",
+   "kind": "feature",
+   "sub": "spring",
+   "x": 592,
+   "y": 240,
+   "src": "Places/Gazetteer.md#highridge-plateau",
+   "note": "A spring with an Old Spine name.",
+   "region": "highridge"
+  },
+  {
+   "id": "high-flat",
+   "name": "The High Flat",
+   "kind": "feature",
+   "sub": "plateau",
+   "x": 690,
+   "y": 232,
+   "src": "Places/Gazetteer.md#highridge-plateau",
+   "note": "The exposed upper plateau.",
+   "region": "highridge"
+  },
+  {
+   "id": "rocking-stone",
+   "name": "The Rocking Stone",
+   "kind": "place",
+   "sub": "holy site",
+   "x": 740,
+   "y": 250,
+   "src": "Places/Places-of-Interest.md#the-rocking-stone",
+   "note": "On a Highridge hillside.",
+   "region": "highridge"
+  },
+  {
+   "id": "sheltered-valleys",
+   "name": "The Sheltered Valleys",
+   "kind": "feature",
+   "sub": "valleys",
+   "x": 440,
+   "y": 266,
+   "src": "Places/Gazetteer.md#highridge-plateau",
+   "note": "Cut into the plateau's edge, where most of the towns and the water are.",
+   "region": "highridge"
+  },
+  {
+   "id": "whistling-notch",
+   "name": "The Whistling Notch",
+   "kind": "place",
+   "sub": "natural wonder",
+   "x": 650,
+   "y": 246,
+   "src": "Places/Places-of-Interest.md#the-whistling-notch",
+   "note": "A cleft on the plateau's edge above the Inner Sea (lean).",
+   "region": "highridge"
+  },
+  {
+   "id": "golden-caravanserai",
+   "name": "The Golden Caravanserai",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 590,
+   "y": 284,
+   "src": "Places/Places-of-Interest.md#the-golden-caravanserai",
+   "note": "On the caravan corridor.",
+   "region": "highridge"
+  },
+  {
+   "id": "milestones",
+   "name": "The Milestones",
+   "kind": "place",
+   "sub": "ruin",
+   "x": 496,
+   "y": 262,
+   "src": "Places/Places-of-Interest.md#the-milestones",
+   "note": "Along the Milestone Way.",
+   "region": "highridge"
+  },
+  {
+   "id": "seven-hill",
+   "name": "Seven Hill",
+   "kind": "town",
+   "sub": "gazetteer",
+   "x": 522,
+   "y": 312,
+   "src": "Places/Seven-Hill.md",
+   "note": "An old pass fortress on the Spine; which pass is open.",
+   "region": "highridge"
+  },
+  {
+   "id": "orrimath",
+   "name": "Orrimath",
+   "kind": "feature",
+   "sub": "pass",
+   "x": 500,
+   "y": 324,
+   "src": "Places/Gazetteer.md#the-spine-the-overpath-and-the-underpass",
+   "note": "A high pass with an Old Spine name.",
+   "region": "highridge"
+  },
+  {
+   "id": "speaking-cliff",
+   "name": "The Speaking Cliff",
+   "kind": "place",
+   "sub": "carving",
+   "x": 504,
+   "y": 318,
+   "src": "Places/Places-of-Interest.md#the-speaking-cliff",
+   "note": "Above the road through Orrimath.",
+   "region": "highridge"
+  },
+  {
+   "id": "eagles-summit",
+   "name": "Eagle's Summit",
+   "kind": "feature",
+   "sub": "peak",
+   "x": 478,
+   "y": 306,
+   "src": "Places/Gazetteer.md#the-spine-the-overpath-and-the-underpass",
+   "note": "A high resting place on the Overpath.",
+   "region": "highridge"
+  },
+  {
+   "id": "storm-bell",
+   "name": "The Storm Bell",
+   "kind": "place",
+   "sub": "holy site",
+   "x": 540,
+   "y": 332,
+   "src": "Places/Places-of-Interest.md#the-storm-bell",
+   "note": "On the Bellsaddle of the Overpath.",
+   "region": "highridge"
+  },
+  {
+   "id": "mothers-cradle",
+   "name": "The Mother's Cradle",
+   "kind": "place",
+   "sub": "holy site",
+   "x": 554,
+   "y": 340,
+   "src": "Places/Places-of-Interest.md#the-mothers-cradle",
+   "note": "In the central peaks.",
+   "region": "highridge"
+  },
+  {
+   "id": "shimmerfall",
+   "name": "Shimmerfall Ravine",
+   "kind": "feature",
+   "sub": "ravine",
+   "x": 566,
+   "y": 354,
+   "src": "Places/Gazetteer.md#the-spine-the-overpath-and-the-underpass",
+   "note": "A ravine of waterfalls.",
+   "region": "highridge"
+  },
+  {
+   "id": "hollin-gap",
+   "name": "The Hollin Gap",
+   "kind": "feature",
+   "sub": "pass",
+   "x": 584,
+   "y": 372,
+   "src": "Places/Gazetteer.md#the-spine-the-overpath-and-the-underpass",
+   "note": "A lower, greener pass.",
+   "region": "highridge"
+  },
+  {
+   "id": "pass-springs",
+   "name": "The Pass Springs",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 590,
+   "y": 380,
+   "src": "Places/Places-of-Interest.md#the-pass-springs",
+   "note": "Below the Hollin Gap.",
+   "region": "highridge"
+  },
+  {
+   "id": "carvers-gallery",
+   "name": "The Carvers' Gallery",
+   "kind": "place",
+   "sub": "carving",
+   "x": 530,
+   "y": 356,
+   "src": "Places/Places-of-Interest.md#the-carvers-gallery",
+   "note": "On the Long Bore of the Underpass.",
+   "region": "highridge"
+  },
+  {
+   "id": "rockfall-stones",
+   "name": "The Rockfall Stones",
+   "kind": "place",
+   "sub": "memorial",
+   "x": 548,
+   "y": 368,
+   "src": "Places/Places-of-Interest.md#the-rockfall-stones",
+   "note": "In the Underpass.",
+   "region": "highridge"
+  },
+  {
+   "id": "lantern-fair",
+   "name": "The Lantern Fair Cavern",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 560,
+   "y": 380,
+   "src": "Places/Places-of-Interest.md#the-lantern-fair-cavern",
+   "note": "The Lantern Hall, in the Underpass.",
+   "region": "highridge"
+  },
+  {
+   "id": "the-drip",
+   "name": "The Drip",
+   "kind": "feature",
+   "sub": "tunnel",
+   "x": 574,
+   "y": 392,
+   "src": "Places/Gazetteer.md#the-spine-the-overpath-and-the-underpass",
+   "note": "A wet stretch of the Underpass, where it rains underground all year.",
+   "region": "highridge"
+  },
+  {
+   "id": "ninewell",
+   "name": "Ninewell Saddle",
+   "kind": "town",
+   "sub": "story",
+   "x": 548,
+   "y": 394,
+   "src": "Sunday-Morning/Stories/The-Road-in-Use.md",
+   "note": "A pass town on a lower saddle at the Spine's southern end (lean).",
+   "region": "highridge"
+  },
+  {
+   "id": "underwell",
+   "name": "Underwell",
+   "kind": "town",
+   "sub": "story",
+   "x": 556,
+   "y": 402,
+   "src": "Sunday-Morning/Stories/The-Road-in-Use.md",
+   "note": "An Underpass enclave below Ninewell Saddle.",
+   "region": "highridge"
+  },
+  {
+   "id": "lowmeet",
+   "name": "Lowmeet",
+   "kind": "town",
+   "sub": "gazetteer",
+   "x": 596,
+   "y": 422,
+   "src": "Places/Gazetteer.md#highridge-plateau",
+   "note": "Just east of Port, where Highridge's Spine road comes down to Greenvale: its long hall is the Congress Hall (lean).",
+   "region": "greenvale",
+   "between": [
+    "highridge",
+    "greenvale"
+   ]
+  },
+  {
+   "id": "congress-hall",
+   "name": "The Congress Hall",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 596,
+   "y": 422,
+   "src": "Places/Places-of-Interest.md#the-congress-hall",
+   "note": "In Lowmeet.",
+   "region": "greenvale"
+  },
+  {
+   "id": "fiddlers-hollow",
+   "name": "The Fiddlers' Hollow",
+   "kind": "place",
+   "sub": "meeting place",
+   "x": 662,
+   "y": 436,
+   "src": "Places/Places-of-Interest.md#the-fiddlers-hollow",
+   "note": "The Ridge-Roamers' winter meadow (lean: a sheltered valley below the Spine's foot).",
+   "region": "greenvale"
+  },
+  {
+   "id": "ironbacks",
+   "name": "The Ironbacks",
+   "kind": "feature",
+   "sub": "ridge",
+   "x": 400,
+   "y": 402,
+   "src": "Places/Gazetteer.md#ironcrest",
+   "note": "The long ridge of ore hills along Ironcrest's northern edge.",
+   "region": "ironcrest"
+  },
+  {
+   "id": "thousand-steps",
+   "name": "The Thousand Steps",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 424,
+   "y": 408,
+   "src": "Places/Places-of-Interest.md#the-thousand-steps",
+   "note": "On the Ironbacks.",
+   "region": "ironcrest"
+  },
+  {
+   "id": "coalglen",
+   "name": "Coalglen Meadows",
+   "kind": "town",
+   "sub": "story",
+   "x": 470,
+   "y": 456,
+   "src": "Sunday-Morning/Stories/Walkout-Pies.md",
+   "note": "A foundry town on the Ember.",
+   "region": "ironcrest"
+  },
+  {
+   "id": "wall-of-names",
+   "name": "The Wall of Names",
+   "kind": "place",
+   "sub": "memorial",
+   "x": 476,
+   "y": 462,
+   "src": "Places/Places-of-Interest.md#the-wall-of-names",
+   "note": "In Coalglen Meadows (lean).",
+   "region": "ironcrest"
+  },
+  {
+   "id": "clinker-row",
+   "name": "Clinker Row",
+   "kind": "town",
+   "sub": "story",
+   "x": 362,
+   "y": 456,
+   "src": "Sunday-Morning/Stories/The-Same-Paper.md",
+   "note": "Under the Upper Works, in the Upper Ember valley.",
+   "region": "ironcrest"
+  },
+  {
+   "id": "upper-ember",
+   "name": "The Upper Ember",
+   "kind": "feature",
+   "sub": "valley",
+   "x": 348,
+   "y": 466,
+   "src": "Places/Gazetteer.md#ironcrest",
+   "note": "The valley above Coalglen, near the Ember's source.",
+   "region": "ironcrest"
+  },
+  {
+   "id": "emberhaven",
+   "name": "Emberhaven Cross",
+   "kind": "town",
+   "sub": "gazetteer",
+   "x": 540,
+   "y": 442,
+   "src": "Places/Gazetteer.md#between-the-kingdoms",
+   "note": "Where the Ore Road meets the road down to Stonefield.",
+   "region": "ironcrest"
+  },
+  {
+   "id": "stonefield",
+   "name": "Stonefield Forge",
+   "kind": "town",
+   "sub": "border",
+   "x": 604,
+   "y": 472,
+   "src": "Places/Border-Towns.md#stonefield-forge--ironcrest--greenvale",
+   "note": "By Footwater, where Ironcrest's foundry country meets Greenvale's farms (lean).",
+   "region": "ironcrest",
+   "between": [
+    "ironcrest",
+    "greenvale"
+   ]
+  },
+  {
+   "id": "first-wheel",
+   "name": "The First Wheel",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 458,
+   "y": 430,
+   "src": "Places/Places-of-Interest.md#the-first-wheel",
+   "note": "In the gorge of Cinder Brook.",
+   "region": "ironcrest"
+  },
+  {
+   "id": "charcoal-woods",
+   "name": "The Charcoal Woods",
+   "kind": "feature",
+   "sub": "woods",
+   "x": 540,
+   "y": 546,
+   "src": "Places/Gazetteer.md#ironcrest",
+   "note": "Coppiced for the forges' charcoal.",
+   "region": "ironcrest"
+  },
+  {
+   "id": "burning-hill",
+   "name": "The Burning Hill",
+   "kind": "place",
+   "sub": "natural wonder",
+   "x": 520,
+   "y": 500,
+   "src": "Places/Places-of-Interest.md#the-burning-hill",
+   "note": "Smoulder Knowe.",
+   "region": "ironcrest"
+  },
+  {
+   "id": "blue-pit",
+   "name": "The Blue Pit",
+   "kind": "place",
+   "sub": "natural wonder",
+   "x": 560,
+   "y": 484,
+   "src": "Places/Places-of-Interest.md#the-blue-pit",
+   "note": "An old pit in the uplands (lean).",
+   "region": "ironcrest"
+  },
+  {
+   "id": "black-field",
+   "name": "The Black Field",
+   "kind": "place",
+   "sub": "memorial",
+   "x": 430,
+   "y": 500,
+   "src": "Places/Places-of-Interest.md#the-black-field",
+   "note": "On a valley floor (lean).",
+   "region": "ironcrest"
+  },
+  {
+   "id": "star-iron",
+   "name": "The Star Iron",
+   "kind": "place",
+   "sub": "relic",
+   "x": 500,
+   "y": 426,
+   "src": "Places/Places-of-Interest.md#the-star-iron",
+   "note": "In a village square (lean).",
+   "region": "ironcrest"
+  },
+  {
+   "id": "darkroot",
+   "name": "Darkroot Gulch",
+   "kind": "town",
+   "sub": "border",
+   "x": 582,
+   "y": 556,
+   "src": "Places/Border-Towns.md#darkroot-gulch--deepwood--ironcrest",
+   "note": "Where Ironcrest's uplands meet the forest's arm.",
+   "region": "deepwood",
+   "between": [
+    "deepwood",
+    "ironcrest"
+   ]
+  },
+  {
+   "id": "twilighthollow",
+   "name": "Twilighthollow",
+   "kind": "town",
+   "sub": "border",
+   "x": 446,
+   "y": 368,
+   "src": "Places/Border-Towns.md#twilighthollow--deepwood--highridge",
+   "note": "At the Spine's western foot, where the forest thins onto the plateau routes.",
+   "region": "deepwood",
+   "between": [
+    "deepwood",
+    "highridge"
+   ]
+  },
+  {
+   "id": "larchmere",
+   "name": "Larchmere",
+   "kind": "town",
+   "sub": "story",
+   "x": 378,
+   "y": 364,
+   "src": "Sunday-Morning/Stories/The-Blank-Square.md",
+   "note": "On the shore of Larch Mere, a day's walk and a river from Twilighthollow (lean).",
+   "region": "deepwood"
+  },
+  {
+   "id": "mosspeak",
+   "name": "Mosspeak Rise",
+   "kind": "feature",
+   "sub": "hill",
+   "x": 410,
+   "y": 362,
+   "src": "Places/Gazetteer.md#deepwood",
+   "note": "Where the forest climbs toward Highridge.",
+   "region": "deepwood"
+  },
+  {
+   "id": "ashwood-edge",
+   "name": "The Ashwood Edge",
+   "kind": "feature",
+   "sub": "forest",
+   "x": 600,
+   "y": 502,
+   "src": "Places/Gazetteer.md#deepwood",
+   "note": "The forest's margin toward Greenvale, at the head of the Long Channel.",
+   "region": "deepwood"
+  },
+  {
+   "id": "the-deep",
+   "name": "The Deep",
+   "kind": "feature",
+   "sub": "forest",
+   "x": 180,
+   "y": 500,
+   "src": "Places/Gazetteer.md#deepwood",
+   "note": "The old-growth heart.",
+   "region": "deepwood"
+  },
+  {
+   "id": "cedar-reaches",
+   "name": "The Cedar Reaches",
+   "kind": "feature",
+   "sub": "forest",
+   "x": 232,
+   "y": 566,
+   "src": "Places/Gazetteer.md#deepwood",
+   "note": "A belt of cedar; the One Tree is beyond it.",
+   "region": "deepwood"
+  },
+  {
+   "id": "one-tree",
+   "name": "The One Tree",
+   "kind": "place",
+   "sub": "holy site",
+   "x": 198,
+   "y": 612,
+   "src": "Places/Places-of-Interest.md#the-one-tree",
+   "note": "Beyond the Cedar Reaches.",
+   "region": "deepwood"
+  },
+  {
+   "id": "the-hush",
+   "name": "The Hush",
+   "kind": "feature",
+   "sub": "forest",
+   "x": 150,
+   "y": 444,
+   "src": "Places/Gazetteer.md#deepwood",
+   "note": "The country of the Quiet Villages.",
+   "region": "deepwood"
+  },
+  {
+   "id": "quiet-villages",
+   "name": "The Quiet Villages",
+   "kind": "place",
+   "sub": "ruin",
+   "x": 156,
+   "y": 450,
+   "src": "Places/Places-of-Interest.md#the-quiet-villages",
+   "note": "In the Hush.",
+   "region": "deepwood"
+  },
+  {
+   "id": "telling-tree",
+   "name": "The Telling Tree",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 190,
+   "y": 480,
+   "src": "Places/Places-of-Interest.md#the-telling-tree",
+   "note": "In a Deepwood village (lean).",
+   "region": "deepwood"
+  },
+  {
+   "id": "alderfens",
+   "name": "The Alderfens",
+   "kind": "feature",
+   "sub": "wetland",
+   "x": 300,
+   "y": 620,
+   "src": "Places/Gazetteer.md#deepwood",
+   "note": "Wet woodland along the slow rivers.",
+   "region": "deepwood"
+  },
+  {
+   "id": "canopy-road",
+   "name": "The Canopy Road",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 312,
+   "y": 612,
+   "src": "Places/Places-of-Interest.md#the-canopy-road",
+   "note": "Across the Alderfens.",
+   "region": "deepwood"
+  },
+  {
+   "id": "black-pool",
+   "name": "The Black Pool",
+   "kind": "place",
+   "sub": "natural wonder",
+   "x": 214,
+   "y": 584,
+   "src": "Places/Places-of-Interest.md#the-black-pool",
+   "note": "A backwater of the Brownwater.",
+   "region": "deepwood"
+  },
+  {
+   "id": "kings-gate",
+   "name": "The Kings' Gate",
+   "kind": "feature",
+   "sub": "gorge",
+   "x": 618,
+   "y": 438,
+   "src": "Places/Gazetteer.md#the-great-features",
+   "note": "The Long Water's gorge through the last hills of the Spine, between Footwater and Port.",
+   "region": "greenvale"
+  },
+  {
+   "id": "sitting-kings",
+   "name": "The Sitting Kings",
+   "kind": "place",
+   "sub": "monument",
+   "x": 618,
+   "y": 438,
+   "src": "Places/Places-of-Interest.md#the-sitting-kings",
+   "note": "In the walls of the Kings' Gate.",
+   "region": "greenvale"
+  },
+  {
+   "id": "saltings",
+   "name": "The Wetlands of Saltings",
+   "kind": "feature",
+   "sub": "wetland",
+   "x": 668,
+   "y": 432,
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "The marsh along the Inner Sea's shore east of Port.",
+   "region": "greenvale"
+  },
+  {
+   "id": "floating-fields",
+   "name": "The Floating Fields",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 674,
+   "y": 436,
+   "src": "Places/Places-of-Interest.md#the-floating-fields",
+   "note": "In the Wetlands of Saltings.",
+   "region": "greenvale"
+  },
+  {
+   "id": "barley-cross",
+   "name": "Barley Cross",
+   "kind": "town",
+   "sub": "gazetteer",
+   "x": 706,
+   "y": 460,
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "A market town; the Seed House.",
+   "region": "greenvale"
+  },
+  {
+   "id": "seed-house",
+   "name": "The Seed House",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 706,
+   "y": 460,
+   "src": "Places/Places-of-Interest.md#the-seed-house",
+   "note": "In Barley Cross.",
+   "region": "greenvale"
+  },
+  {
+   "id": "letter-tree",
+   "name": "The Letter Tree",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 680,
+   "y": 452,
+   "src": "Places/Places-of-Interest.md#the-letter-tree",
+   "note": "On the Carriers' Road.",
+   "region": "greenvale"
+  },
+  {
+   "id": "four-lane-ends",
+   "name": "Four Lane Ends",
+   "kind": "town",
+   "sub": "gazetteer",
+   "x": 746,
+   "y": 474,
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "The Hiring Oak's crossroads.",
+   "region": "greenvale"
+  },
+  {
+   "id": "hiring-oak",
+   "name": "The Hiring Oak",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 746,
+   "y": 474,
+   "src": "Places/Places-of-Interest.md#the-hiring-oak",
+   "note": "At Four Lane Ends.",
+   "region": "greenvale"
+  },
+  {
+   "id": "reedveil",
+   "name": "Reedveil Bend",
+   "kind": "town",
+   "sub": "story",
+   "x": 690,
+   "y": 502,
+   "src": "Sunday-Morning/Stories/The-Eighth-Verse.md",
+   "note": "A cooperative village on a bend of the Reed.",
+   "region": "greenvale"
+  },
+  {
+   "id": "kellerby",
+   "name": "Kellerby",
+   "kind": "town",
+   "sub": "story",
+   "x": 772,
+   "y": 500,
+   "src": "Sunday-Morning/Stories/Mending-Day.md",
+   "note": "Farms and orchards on the Wethercrags' summer circuit.",
+   "region": "greenvale"
+  },
+  {
+   "id": "cellar-hill",
+   "name": "Cellar Hill",
+   "kind": "town",
+   "sub": "gazetteer",
+   "x": 650,
+   "y": 484,
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "A village dug into a hill.",
+   "region": "greenvale"
+  },
+  {
+   "id": "cellar-hill-poi",
+   "name": "Cellar Hill",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 650,
+   "y": 484,
+   "src": "Places/Places-of-Interest.md#cellar-hill",
+   "note": "A village of root cellars.",
+   "region": "greenvale"
+  },
+  {
+   "id": "twelve-stones",
+   "name": "Twelve Stones Ford",
+   "kind": "feature",
+   "sub": "ford",
+   "x": 662,
+   "y": 494,
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "A paved ford over the Reed.",
+   "region": "greenvale"
+  },
+  {
+   "id": "redlands",
+   "name": "The Redlands",
+   "kind": "feature",
+   "sub": "plain",
+   "x": 830,
+   "y": 440,
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "The red-soil wheat plain of Greenvale's east (lean).",
+   "region": "greenvale"
+  },
+  {
+   "id": "chalk-downs",
+   "name": "The Chalk Downs",
+   "kind": "feature",
+   "sub": "downs",
+   "x": 628,
+   "y": 514,
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "Sheep downs between the Redlands' country and the Deepwood edge (lean).",
+   "region": "greenvale"
+  },
+  {
+   "id": "count-stones",
+   "name": "The Count Stones",
+   "kind": "place",
+   "sub": "holy site",
+   "x": 608,
+   "y": 514,
+   "src": "Places/Places-of-Interest.md#the-count-stones",
+   "note": "On the far side of the Chalk Downs, at the western woods' edge.",
+   "region": "greenvale"
+  },
+  {
+   "id": "hartwood",
+   "name": "Hartwood",
+   "kind": "feature",
+   "sub": "woods",
+   "x": 836,
+   "y": 480,
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "An old oak and hazel wood.",
+   "region": "greenvale"
+  },
+  {
+   "id": "ship-hill",
+   "name": "Ship Hill",
+   "kind": "feature",
+   "sub": "hill",
+   "x": 668,
+   "y": 450,
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "Toward the Highridge edge.",
+   "region": "greenvale"
+  },
+  {
+   "id": "ship-on-hill",
+   "name": "The Ship on the Hill",
+   "kind": "place",
+   "sub": "mystery",
+   "x": 668,
+   "y": 450,
+   "src": "Places/Places-of-Interest.md#the-ship-on-the-hill",
+   "note": "On Ship Hill.",
+   "region": "greenvale"
+  },
+  {
+   "id": "drowned-bell",
+   "name": "The Drowned Bell",
+   "kind": "place",
+   "sub": "mystery",
+   "x": 720,
+   "y": 446,
+   "src": "Places/Places-of-Interest.md#the-drowned-bell",
+   "note": "Under the Millburn's millpond.",
+   "region": "greenvale"
+  },
+  {
+   "id": "grand-orchard",
+   "name": "The Grand Orchard",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 790,
+   "y": 452,
+   "src": "Places/Places-of-Interest.md#the-grand-orchard",
+   "note": "In Greenvale (lean: below the Redlands).",
+   "region": "greenvale"
+  },
+  {
+   "id": "dawn-hill",
+   "name": "The Dawn Hill",
+   "kind": "place",
+   "sub": "holy site",
+   "x": 716,
+   "y": 546,
+   "src": "Places/Places-of-Interest.md#the-dawn-hill",
+   "note": "Above the road from Harveston Vale up to Lowmeet, which runs from the Sunplains to Highridge through Greenvale (lean).",
+   "region": "greenvale"
+  },
+  {
+   "id": "harveston",
+   "name": "Harveston Vale",
+   "kind": "town",
+   "sub": "story",
+   "x": 742,
+   "y": 598,
+   "src": "Sunday-Morning/Stories/One-Square-Two-Harvests.md",
+   "note": "The Vale: the border into the Sunplains.",
+   "region": "greenvale",
+   "between": [
+    "greenvale",
+    "sunplains"
+   ]
+  },
+  {
+   "id": "brayle",
+   "name": "Upper and Nether Brayle",
+   "kind": "town",
+   "sub": "gazetteer",
+   "x": 880,
+   "y": 594,
+   "src": "Places/Gazetteer.md#between-the-kingdoms",
+   "note": "Twin towns either side of a stream on Greenvale's border with the Sunplains (lean).",
+   "region": "greenvale",
+   "between": [
+    "greenvale",
+    "sunplains"
+   ]
+  },
+  {
+   "id": "reconciliation-bridge",
+   "name": "The Reconciliation Bridge",
+   "kind": "place",
+   "sub": "holy site",
+   "x": 884,
+   "y": 598,
+   "src": "Places/Places-of-Interest.md#the-reconciliation-bridge",
+   "note": "Between Upper and Nether Brayle.",
+   "region": "greenvale"
+  },
+  {
+   "id": "vasselin",
+   "name": "Vasselin",
+   "kind": "town",
+   "sub": "story",
+   "x": 930,
+   "y": 632,
+   "src": "Sunday-Morning/Stories/The-Ladder-Rules.md",
+   "note": "A city-state of courtyard houses (lean: on the east coast).",
+   "region": "sunplains"
+  },
+  {
+   "id": "twelve-wheels",
+   "name": "Twelve Wheels",
+   "kind": "town",
+   "sub": "gazetteer",
+   "x": 772,
+   "y": 674,
+   "src": "Places/Gazetteer.md#sunplains",
+   "note": "A river city on the Sallow.",
+   "region": "sunplains"
+  },
+  {
+   "id": "groaning-wheels",
+   "name": "The Groaning Wheels",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 772,
+   "y": 674,
+   "src": "Places/Places-of-Interest.md#the-groaning-wheels",
+   "note": "In Twelve Wheels.",
+   "region": "sunplains"
+  },
+  {
+   "id": "three-spouts",
+   "name": "Three Spouts",
+   "kind": "town",
+   "sub": "gazetteer",
+   "x": 812,
+   "y": 700,
+   "src": "Places/Gazetteer.md#sunplains",
+   "note": "Where three city-states meet.",
+   "region": "sunplains"
+  },
+  {
+   "id": "boundary-fountain",
+   "name": "The Boundary Fountain",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 812,
+   "y": 700,
+   "src": "Places/Places-of-Interest.md#the-boundary-fountain",
+   "note": "At Three Spouts.",
+   "region": "sunplains"
+  },
+  {
+   "id": "thousand-channels",
+   "name": "The Thousand Channels",
+   "kind": "feature",
+   "sub": "delta",
+   "x": 742,
+   "y": 722,
+   "src": "Places/Gazetteer.md#sunplains",
+   "note": "The Sallow's delta.",
+   "region": "sunplains"
+  },
+  {
+   "id": "reed-towns",
+   "name": "The Reed Towns",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 742,
+   "y": 722,
+   "src": "Places/Places-of-Interest.md#the-reed-towns",
+   "note": "In the Thousand Channels.",
+   "region": "sunplains"
+  },
+  {
+   "id": "helios",
+   "name": "Helios Orchard",
+   "kind": "feature",
+   "sub": "estate",
+   "x": 740,
+   "y": 630,
+   "src": "Places/Gazetteer.md#sunplains",
+   "note": "An old orchard estate toward Harveston Vale.",
+   "region": "sunplains"
+  },
+  {
+   "id": "orchard-belt",
+   "name": "The Orchard Belt",
+   "kind": "feature",
+   "sub": "orchards",
+   "x": 840,
+   "y": 662,
+   "src": "Places/Gazetteer.md#sunplains",
+   "note": "The irrigated orchard country; the Long Arches feed its far side.",
+   "region": "sunplains"
+  },
+  {
+   "id": "arch-valley",
+   "name": "The Arch Valley",
+   "kind": "feature",
+   "sub": "valley",
+   "x": 900,
+   "y": 652,
+   "src": "Places/Gazetteer.md#sunplains",
+   "note": "The valley of the Long Arches.",
+   "region": "sunplains"
+  },
+  {
+   "id": "long-arches",
+   "name": "The Long Arches",
+   "kind": "place",
+   "sub": "ruin",
+   "x": 900,
+   "y": 654,
+   "src": "Places/Places-of-Interest.md#the-long-arches",
+   "note": "In the Arch Valley.",
+   "region": "sunplains"
+  },
+  {
+   "id": "dry-edge",
+   "name": "The Dry Edge",
+   "kind": "feature",
+   "sub": "plain",
+   "x": 956,
+   "y": 600,
+   "src": "Places/Gazetteer.md#sunplains",
+   "note": "Where the irrigated land gives out.",
+   "region": "sunplains"
+  },
+  {
+   "id": "stepped-tombs",
+   "name": "The Stepped Tombs",
+   "kind": "place",
+   "sub": "monument",
+   "x": 960,
+   "y": 606,
+   "src": "Places/Places-of-Interest.md#the-stepped-tombs",
+   "note": "On the Dry Edge.",
+   "region": "sunplains"
+  },
+  {
+   "id": "golden-dunes",
+   "name": "Golden Dunes Shore",
+   "kind": "feature",
+   "sub": "coast",
+   "x": 672,
+   "y": 688,
+   "src": "Places/Gazetteer.md#sunplains",
+   "note": "A long sandy coast.",
+   "region": "sunplains"
+  },
+  {
+   "id": "sapphire-isles",
+   "name": "The Sapphire Isles",
+   "kind": "feature",
+   "sub": "islands",
+   "x": 704,
+   "y": 742,
+   "src": "Places/Gazetteer.md#sunplains",
+   "note": "Small offshore islands.",
+   "region": "sunplains"
+  },
+  {
+   "id": "dig-harrow",
+   "name": "The Dig at Harrow Isle",
+   "kind": "place",
+   "sub": "mystery",
+   "x": 720,
+   "y": 744,
+   "src": "Places/Places-of-Interest.md#the-dig-at-harrow-isle",
+   "note": "On Harrow Isle, the plainest of the Sapphire Isles, off the south coast.",
+   "region": "sunplains",
+   "island": true
+  },
+  {
+   "id": "patrons-wall",
+   "name": "The Patrons' Wall",
+   "kind": "place",
+   "sub": "monument",
+   "x": 850,
+   "y": 640,
+   "src": "Places/Places-of-Interest.md#the-patrons-wall",
+   "note": "In a Sunplains city square.",
+   "region": "sunplains"
+  },
+  {
+   "id": "argument-house",
+   "name": "The Argument House",
+   "kind": "place",
+   "sub": "holy site",
+   "x": 820,
+   "y": 684,
+   "src": "Places/Places-of-Interest.md#the-argument-house",
+   "note": "In a Sunplains city.",
+   "region": "sunplains"
+  },
+  {
+   "id": "lantern-stair",
+   "name": "The Lantern Stair",
+   "kind": "place",
+   "sub": "landmark",
+   "x": 720,
+   "y": 652,
+   "src": "Places/Places-of-Interest.md#the-lantern-stair",
+   "note": "In a Sunplains hill city.",
+   "region": "sunplains"
+  },
+  {
+   "id": "straight-road-poi",
+   "name": "The Straight Road",
+   "kind": "place",
+   "sub": "ruin",
+   "x": 850,
+   "y": 446,
+   "src": "Places/Places-of-Interest.md#the-straight-road",
+   "note": "Forty miles of fitted stone across Greenvale's east.",
+   "region": "greenvale"
+  }
+ ],
+ "lines": [
+  {
+   "id": "long-water",
+   "name": "The Long Water",
+   "kind": "river",
+   "sub": "river",
+   "pts": [
+    [
+     566,
+     404
+    ],
+    [
+     580,
+     428
+    ],
+    [
+     596,
+     452
+    ],
+    [
+     612,
+     438
+    ],
+    [
+     616,
+     420
+    ],
+    [
+     626,
+     403
+    ]
+   ],
+   "src": "Places/Gazetteer.md#the-great-features",
+   "note": "Rises on the Spine's southern slopes, gathers the Ember and the Reed in Footwater, and cuts north through the Kings' Gate to the sea at Port (lean)."
+  },
+  {
+   "id": "reed",
+   "name": "The Reed",
+   "kind": "river",
+   "sub": "river",
+   "pts": [
+    [
+     740,
+     522
+    ],
+    [
+     700,
+     506
+    ],
+    [
+     660,
+     486
+    ],
+    [
+     612,
+     460
+    ]
+   ],
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "A slow river across Greenvale into Footwater; Reedveil Bend is on a bend of it."
+  },
+  {
+   "id": "millburn",
+   "name": "The Millburn",
+   "kind": "river",
+   "sub": "river",
+   "pts": [
+    [
+     730,
+     448
+    ],
+    [
+     690,
+     440
+    ],
+    [
+     650,
+     428
+    ],
+    [
+     620,
+     418
+    ]
+   ],
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "A mill stream joining the Long Water below the Kings' Gate."
+  },
+  {
+   "id": "ember",
+   "name": "The Ember",
+   "kind": "river",
+   "sub": "river",
+   "pts": [
+    [
+     330,
+     474
+    ],
+    [
+     362,
+     460
+    ],
+    [
+     410,
+     462
+    ],
+    [
+     470,
+     458
+    ],
+    [
+     530,
+     452
+    ],
+    [
+     580,
+     452
+    ]
+   ],
+   "src": "Places/Gazetteer.md#ironcrest",
+   "note": "Ironcrest's working river, past Coalglen into Footwater: Ironcrest's road to the sea (lean)."
+  },
+  {
+   "id": "cinder",
+   "name": "Cinder Brook",
+   "kind": "river",
+   "sub": "river",
+   "pts": [
+    [
+     430,
+     412
+    ],
+    [
+     452,
+     432
+    ],
+    [
+     468,
+     452
+    ]
+   ],
+   "src": "Places/Gazetteer.md#ironcrest",
+   "note": "A tributary of the Ember."
+  },
+  {
+   "id": "brownwater",
+   "name": "The Brownwater",
+   "kind": "river",
+   "sub": "river",
+   "pts": [
+    [
+     272,
+     520
+    ],
+    [
+     242,
+     580
+    ],
+    [
+     214,
+     628
+    ],
+    [
+     196,
+     652
+    ]
+   ],
+   "src": "Places/Gazetteer.md#deepwood",
+   "note": "A slow, tannin-dark river through the forest to the south-west coast."
+  },
+  {
+   "id": "braids",
+   "name": "The Braids",
+   "kind": "river",
+   "sub": "river",
+   "pts": [
+    [
+     246,
+     424
+    ],
+    [
+     200,
+     414
+    ],
+    [
+     160,
+     424
+    ]
+   ],
+   "src": "Places/Gazetteer.md#deepwood",
+   "note": "A braided river of shifting channels to the west coast."
+  },
+  {
+   "id": "sallow",
+   "name": "The Sallow",
+   "kind": "river",
+   "sub": "river",
+   "pts": [
+    [
+     830,
+     640
+    ],
+    [
+     790,
+     684
+    ],
+    [
+     744,
+     724
+    ]
+   ],
+   "src": "Places/Gazetteer.md#sunplains",
+   "note": "The delta river."
+  },
+  {
+   "id": "kings-road",
+   "name": "The Kings' Road",
+   "kind": "road",
+   "sub": "road",
+   "pts": [
+    [
+     746,
+     474
+    ],
+    [
+     706,
+     460
+    ],
+    [
+     660,
+     446
+    ],
+    [
+     628,
+     410
+    ]
+   ],
+   "src": "Places/Gazetteer.md#the-great-features",
+   "note": "From Greenvale's markets down to Port."
+  },
+  {
+   "id": "carriers-road",
+   "name": "The Carriers' Road",
+   "kind": "road",
+   "sub": "road",
+   "pts": [
+    [
+     706,
+     460
+    ],
+    [
+     680,
+     452
+    ],
+    [
+     640,
+     436
+    ],
+    [
+     604,
+     428
+    ]
+   ],
+   "src": "Places/Gazetteer.md#the-great-features",
+   "note": "From Barley Cross up to Lowmeet and the Highridge corridors."
+  },
+  {
+   "id": "drove-road",
+   "name": "The Drove Road",
+   "kind": "road",
+   "sub": "road",
+   "pts": [
+    [
+     604,
+     428
+    ],
+    [
+     660,
+     470
+    ],
+    [
+     746,
+     474
+    ]
+   ],
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "Down from the Spine's foot to Greenvale's markets."
+  },
+  {
+   "id": "milestone-way",
+   "name": "The Milestone Way",
+   "kind": "road",
+   "sub": "road",
+   "pts": [
+    [
+     470,
+     234
+    ],
+    [
+     496,
+     262
+    ],
+    [
+     522,
+     312
+    ],
+    [
+     548,
+     344
+    ],
+    [
+     566,
+     372
+    ],
+    [
+     548,
+     394
+    ],
+    [
+     600,
+     412
+    ],
+    [
+     650,
+     422
+    ]
+   ],
+   "src": "Places/Gazetteer.md#highridge-plateau",
+   "note": "The old main corridor from Icestep along the plateau and down the Spine to Lowmeet."
+  },
+  {
+   "id": "salt-road",
+   "name": "The Salt Road",
+   "kind": "road",
+   "sub": "road",
+   "pts": [
+    [
+     560,
+     264
+    ],
+    [
+     536,
+     262
+    ],
+    [
+     508,
+     268
+    ]
+   ],
+   "src": "Places/Gazetteer.md#highridge-plateau",
+   "note": "From the Whitepan to the valley markets."
+  },
+  {
+   "id": "herring-way",
+   "name": "The Herring Way",
+   "kind": "road",
+   "sub": "road",
+   "pts": [
+    [
+     418,
+     124
+    ],
+    [
+     446,
+     170
+    ],
+    [
+     470,
+     234
+    ]
+   ],
+   "src": "Places/Gazetteer.md#northwind",
+   "note": "From the coast across the Barrens to Icestep Summit."
+  },
+  {
+   "id": "long-way",
+   "name": "The Long Way",
+   "kind": "road",
+   "sub": "road",
+   "pts": [
+    [
+     476,
+     112
+    ],
+    [
+     600,
+     112
+    ],
+    [
+     700,
+     132
+    ],
+    [
+     758,
+     184
+    ],
+    [
+     772,
+     260
+    ],
+    [
+     762,
+     334
+    ]
+   ],
+   "src": "Places/Gazetteer.md#the-great-features",
+   "note": "The Northwind coast road from the north coast round the east cape to Frostbay Way."
+  },
+  {
+   "id": "narrows-ferry",
+   "name": "The Inner Sea crossing",
+   "kind": "road",
+   "sub": "ferry",
+   "pts": [
+    [
+     762,
+     338
+    ],
+    [
+     736,
+     344
+    ],
+    [
+     700,
+     356
+    ],
+    [
+     660,
+     376
+    ],
+    [
+     630,
+     396
+    ]
+   ],
+   "src": "Places/Gazetteer.md#the-great-features",
+   "note": "From Frostbay Way down the length of the Inner Sea to Port (lean)."
+  },
+  {
+   "id": "ore-road",
+   "name": "The Ore Road",
+   "kind": "road",
+   "sub": "road",
+   "pts": [
+    [
+     424,
+     408
+    ],
+    [
+     480,
+     432
+    ],
+    [
+     540,
+     442
+    ],
+    [
+     560,
+     420
+    ],
+    [
+     548,
+     394
+    ]
+   ],
+   "src": "Places/Gazetteer.md#ironcrest",
+   "note": "From the Ironbacks through Emberhaven Cross to the Spine and Highridge."
+  },
+  {
+   "id": "stonefield-road",
+   "name": "Road to Stonefield",
+   "kind": "road",
+   "sub": "road",
+   "pts": [
+    [
+     540,
+     442
+    ],
+    [
+     604,
+     472
+    ]
+   ],
+   "src": "Places/Gazetteer.md#between-the-kingdoms",
+   "note": "From Emberhaven Cross down to Stonefield Forge."
+  },
+  {
+   "id": "charcoal-track",
+   "name": "The Charcoal Track",
+   "kind": "road",
+   "sub": "road",
+   "pts": [
+    [
+     582,
+     556
+    ],
+    [
+     540,
+     546
+    ],
+    [
+     470,
+     456
+    ]
+   ],
+   "src": "Places/Gazetteer.md#ironcrest",
+   "note": "Darkroot Gulch through the Charcoal Woods to the Ember forges."
+  },
+  {
+   "id": "gallows-cut",
+   "name": "Gallows Cut",
+   "kind": "road",
+   "sub": "shortcut",
+   "pts": [
+    [
+     384,
+     398
+    ],
+    [
+     408,
+     424
+    ]
+   ],
+   "src": "Places/Gazetteer.md#ironcrest",
+   "note": "A shortcut over the Ironbacks: half a day saved, a sprained ankle risked."
+  },
+  {
+   "id": "hollow-way",
+   "name": "The Hollow Way",
+   "kind": "road",
+   "sub": "shortcut",
+   "pts": [
+    [
+     746,
+     474
+    ],
+    [
+     772,
+     500
+    ]
+   ],
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "A sunken lane: a road in summer, a stream in winter."
+  },
+  {
+   "id": "straight-road",
+   "name": "The Straight Road",
+   "kind": "road",
+   "sub": "road",
+   "pts": [
+    [
+     800,
+     420
+    ],
+    [
+     900,
+     472
+    ]
+   ],
+   "src": "Places/Places-of-Interest.md#the-straight-road",
+   "note": "Forty miles dead straight, ending in a meadow."
+  },
+  {
+   "id": "patrons-road",
+   "name": "The Patrons' Road",
+   "kind": "road",
+   "sub": "road",
+   "pts": [
+    [
+     672,
+     700
+    ],
+    [
+     744,
+     720
+    ],
+    [
+     812,
+     700
+    ],
+    [
+     850,
+     640
+    ],
+    [
+     930,
+     632
+    ]
+   ],
+   "src": "Places/Gazetteer.md#sunplains",
+   "note": "Between the coastal cities; every mile paved by a different patron."
+  },
+  {
+   "id": "pilgrims-way",
+   "name": "The Pilgrims' Way",
+   "kind": "road",
+   "sub": "path",
+   "pts": [
+    [
+     584,
+     372
+    ],
+    [
+     554,
+     340
+    ]
+   ],
+   "src": "Places/Gazetteer.md#the-spine-the-overpath-and-the-underpass",
+   "note": "From the Hollin Gap up to the Cradle."
+  },
+  {
+   "id": "overpath",
+   "name": "The Overpath",
+   "kind": "road",
+   "sub": "overpath",
+   "pts": [
+    [
+     450,
+     300
+    ],
+    [
+     500,
+     314
+    ],
+    [
+     544,
+     334
+    ],
+    [
+     578,
+     356
+    ],
+    [
+     600,
+     382
+    ]
+   ],
+   "src": "Places/The-Spine.md#the-overpath",
+   "note": "Over the top of the Spine, for those who won't go under."
+  },
+  {
+   "id": "underpass",
+   "name": "The Underpass",
+   "kind": "road",
+   "sub": "underpass",
+   "pts": [
+    [
+     436,
+     322
+    ],
+    [
+     488,
+     332
+    ],
+    [
+     534,
+     352
+    ],
+    [
+     566,
+     374
+    ],
+    [
+     594,
+     400
+    ]
+   ],
+   "src": "Places/The-Underpass.md",
+   "note": "Beneath parts of the Spine; branches not mapped."
+  }
+ ],
+ "unplaced": [
+  {
+   "name": "The Treaty Stones and the Treaty Line",
+   "src": "Places/Places-of-Interest.md#the-treaty-stones",
+   "why": "The Treaty Line (the Convergence boundary) isn't placed; the borders stay open."
+  },
+  {
+   "name": "The Roamers' Round",
+   "src": "Places/Gazetteer.md#between-the-kingdoms",
+   "why": "A circuit, not a place: through Kellerby and along the Straight Road in summer, back to the Fiddlers' Hollow for winter."
+  },
+  {
+   "name": "Seven Hill's pass",
+   "src": "Places/Gazetteer.md#the-spine-the-overpath-and-the-underpass",
+   "why": "Which pass Seven Hill guards is open on its own page."
+  },
+  {
+   "name": "Port's districts (the Throat, Lamp Point, the Inner Pool, the Old Bond, the Enclave Quarter, the Lean, Three Pots Street)",
+   "src": "Places/Gazetteer.md#port",
+   "why": "Too small for this map's scale; the places of interest in them are placed at Port."
+  }
+ ],
+ "relations": [
+  [
+   "ironcrest",
+   "greenvale",
+   "border",
+   "Strongly established (Stonefield Forge)",
+   "Geography-and-Connections.md#ironcrest--greenvale"
+  ],
+  [
+   "greenvale",
+   "sunplains",
+   "border",
+   "Strongly established (Harveston Vale)",
+   "Geography-and-Connections.md#greenvale--sunplains"
+  ],
+  [
+   "deepwood",
+   "highridge",
+   "border",
+   "Strongly established (Twilighthollow)",
+   "Geography-and-Connections.md#deepwood--highridge"
+  ],
+  [
+   "deepwood",
+   "ironcrest",
+   "border",
+   "Strongly established (Darkroot Gulch)",
+   "Geography-and-Connections.md#deepwood--ironcrest"
+  ],
+  [
+   "northwind",
+   "highridge",
+   "border",
+   "Strongly established (Icestep Summit)",
+   "Geography-and-Connections.md#northwind--highridge"
+  ],
+  [
+   "ironcrest",
+   "highridge",
+   "border",
+   "Likely, or a short mountain corridor",
+   "Geography-and-Connections.md#ironcrest--highridge"
+  ],
+  [
+   "greenvale",
+   "deepwood",
+   "border",
+   "Treat as a direct border",
+   "Geography-and-Connections.md#greenvale--deepwood"
+  ],
+  [
+   "deepwood",
+   "sunplains",
+   "border",
+   "Likely",
+   "Geography-and-Connections.md#deepwood--sunplains"
+  ],
+  [
+   "greenvale",
+   "highridge",
+   "border",
+   "Likely",
+   "Geography-and-Connections.md#greenvale--highridge"
+  ],
+  [
+   "highridge",
+   "sunplains",
+   "open",
+   "Possible; don't assume",
+   "Geography-and-Connections.md#highridge--sunplains"
+  ],
+  [
+   "northwind",
+   "greenvale",
+   "none",
+   "Northwind borders none of its suppliers",
+   "Geography-and-Connections.md#macro-geography"
+  ],
+  [
+   "northwind",
+   "ironcrest",
+   "none",
+   "Northwind borders none of its suppliers (as before D40)",
+   "Geography-and-Connections.md#macro-geography"
+  ],
+  [
+   "northwind",
+   "deepwood",
+   "none",
+   "Northwind borders none of its suppliers",
+   "Geography-and-Connections.md#macro-geography"
+  ],
+  [
+   "port",
+   "greenvale",
+   "border",
+   "Port reaches the interior by river or road (the Long Water, the Kings' Road)",
+   "Geography-and-Connections.md#port"
+  ],
+  [
+   "port",
+   "highridge",
+   "border",
+   "Port stands at the Spine's foot",
+   "Places/Port.md#why-port-became-central"
+  ]
+ ],
+ "leans": [
+  "**Ironcrest has no coast** ([why](#how-the-land-was-drawn)). It follows from the borders the wiki already states; its page's 'imported coastal foods' fits. Nothing in the wiki gives Ironcrest a harbor. *Lean:* keep. It makes Port matter to Ironcrest the way Danzig mattered to Poland.",
+  "**Port at the head of the Inner Sea**, on its own ground where Highridge, Ironcrest and Greenvale meet, at the mouth of the Long Water. The bay's two shores are Highridge's and Greenvale's; its mouth, the Narrows, is Northwind's and Greenvale's. *Lean:* keep.",
+  "**Highridge on the Northern Continent's southern plateau and the Spine.** It is the only land route between Northwind and everyone else, and it comes down to Port. *Lean:* keep.",
+  "**Deepwood holds the Western Continent's coasts**, wrapping Ironcrest on the west and south, with an arm along the North Gut to the Spine's foot. *Lean:* keep.",
+  "**The Long Water rises in the Spine, runs through Footwater and turns north through the Kings' Gate to Port.** It still crosses Greenvale's edge and carries Ironcrest's Ember with it. *Lean:* keep.",
+  "**Northwind borders only Highridge again.** The legacy-image draft gave Northwind Ironcrest's north coast (D40); this map doesn't, because Ironcrest has no coast here. *Lean:* keep; Geography's line follows whichever map bt 7274 keeps.",
+  "**New water names reused.** The Inner Sea, the Narrows, the North Gut, Footwater and the Long Channel are the Gazetteer's provisional names, moved to the waters that fit them here."
+ ]
+}
