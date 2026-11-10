@@ -8,7 +8,7 @@ These are important areas where earlier brainstorming produced multiple versions
 
 ## Map
 
-- Exact outlines of the three continents. *(A [map draft](../atlas/map/README.md) places everything on the legacy image as leans; it settles nothing below. Its leans, including Port at the head of the Inner Sea and Highridge on the northern plateau and the Spine, are listed there.)*
+- Exact outlines of the three continents. *(A [map draft](../atlas/map/README.md) places everything on the legacy image as leans; it settles nothing below. Its third draft follows bt 7274's own layout (D40); its leans are listed there.)*
 - Exact location of Port.
 - Which regional borders are long boundaries versus narrow corridors.
 - Whether Highridge directly borders Sunplains.

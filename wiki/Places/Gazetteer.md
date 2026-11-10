@@ -24,7 +24,7 @@ These cross regions, so they're named once here.
 | **The Kings' Gate** | the gorge of the Long Water | where the river cuts through the last hills before the coast | the [Sitting Kings](Places-of-Interest.md#the-sitting-kings) sit in its walls |
 | **The Kings' Road** | the river road | follows the Long Water down through the Kings' Gate to Port | the oldest road to Port; barges below, carts above |
 | **The Carriers' Road** | the main post road | runs from Greenvale's market towns over to the Highridge corridors | the relay posts and the [Letter Tree](Places-of-Interest.md#the-letter-tree) are on it ([Couriers](../Couriers-Posts-and-Message-Networks.md)) |
-| **The Long Way** | the coast road | Northwind's southern coast, through Frostbay Way, to Port | the slow road for people who don't trust boats |
+| **The Long Way** | the coast road | along Northwind's coast to Frostbay Way, then by ship through the Narrows to Port *(lean, [D40](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions))* | the slow road for people who don't trust boats |
 | **The Salted Coast** | a stretch of shore | between Northwind and the Sunplains, by sea | named by the [old disputes](../History/Contested-Memory.md#the-salted-coast-disputes); each side means a slightly different stretch |
 | **The Overpath** | the high trail over the Spine | over the top, for those who won't use the tunnels | [owner section](The-Spine.md#the-overpath) |
 | **The Underpass** | the tunnels beneath the Spine | under parts of it | [owner page](The-Underpass.md) |
@@ -35,10 +35,10 @@ The waters between the continents, named 2026-11-09 for the [map draft](../../at
 
 | Name | What it is | Where, relatively | Notes |
 | --- | --- | --- | --- |
-| **The Narrows** | the strait | between the Northern and Eastern Continents, from the Inner Sea out to the open sea | the Inner Sea's only way out to the ocean, so every ship bound for Port passes through it *(lean)*; the Long Way runs along its northern shore to Frostbay Way, and the last stretch to Port is a ferry across the Inner Sea |
-| **The Inner Sea** | an enclosed sea | between the Northern Continent, the Spine and the Eastern Continent | Port's bay *(lean)*: Port stands on its southern shore, Frostbay Way faces it across the water, and it opens to the ocean only through the Narrows; Winterhaven's anchorage is on its northern shore |
+| **The Narrows** | the strait | between the Northern and Eastern Continents, from the Inner Sea out to the open sea | the Inner Sea's only way out to the ocean, so every ship bound for Port passes through it, the sea road from Frostbay Way among them *(lean)* |
+| **The Inner Sea** | an enclosed sea | between the Northern Continent, the Spine and the Eastern Continent | Port's bay *(lean)*: Port stands on its southern shore, and it opens to the ocean only through the Narrows; Highridge holds its northern shore *(lean)* |
 | **The North Gut** | a long sound | between the Northern and Western Continents, north of the Spine | the Long Skerries and the Holm are in it |
-| **Footwater** | a lake | at the Spine's southern foot, between the Western and Eastern Continents | Greenvale's inland lake *(lean)*; the Long Channel drains it to the sea |
+| **Footwater** | a lake | at the Spine's southern foot, between the Western and Eastern Continents | between Greenvale and Deepwood *(lean)*; the Long Channel drains it to the sea |
 | **The Long Channel** | a narrow channel | from Footwater along the Western Continent's southern shore to the sea past the Eastern Continent's tip | Sunplains cities on both shores *(lean)* |
 
 ## Northwind
@@ -269,7 +269,7 @@ Ways that connect the named places, so a story can send someone from one to anot
 | Highridge pastures | Greenvale markets | the Drove Road | slow; animals graze as they go |
 | the Whitepan | the valley markets | the Salt Road | caravans cross the flat by the stars when it's dry |
 | the Northwind coast | Icestep Summit | the Herring Way, across the Barrens | then down into Highridge by the Milestone Way |
-| Northwind | Port | the Long Way, along the coast through Frostbay Way | or by sea, on the White Current going south |
+| Northwind | Port | the Long Way, along the coast to Frostbay Way, then by ship | or all the way by sea, on the White Current going south |
 | the Ironbacks | Highridge | the Ore Road | through Emberhaven Cross |
 | Darkroot Gulch | the Ember forges | the Charcoal Track | through the Charcoal Woods |
 | across the Ironbacks | the next valley | **Gallows Cut** (shortcut) | saves half a day, costs a sprained ankle |

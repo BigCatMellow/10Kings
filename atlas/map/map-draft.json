@@ -1,6 +1,6 @@
 {
  "title": "Map draft",
- "status": "Second draft (D39): regions rebalanced from the wiki's relations, Port moved to the head of the Inner Sea. Every placement is a lean for bt 7274 to move; the wiki owns the facts and the exact map stays open.",
+ "status": "Third draft (D40): bt 7274's own layout. Northwind across the north of both continents, Highridge's plateau below it, Greenvale wrapping the Inner Sea from the lower leaf to Port. Every placement is still a lean; the wiki owns the facts and the exact map stays open.",
  "image": {
   "file": "base-map.png",
   "w": 980,
@@ -17,7 +17,7 @@
     300,
     200
    ],
-   "note": "By shape: the clover-like land (legacy notes). Northwind holds its northern and western leaves; Highridge's northern plateau holds the part nearest the Spine (lean)."
+   "note": "By shape: the clover-like land (legacy notes). Northwind holds its north; Highridge's plateau its middle; Greenvale its lower leaf (D40)."
   },
   {
    "name": "The Western Continent",
@@ -28,7 +28,7 @@
     620,
     250
    ],
-   "note": "By shape: the rounded land (legacy notes). Ironcrest's uplands hold its northern half; below them lie Greenvale's western lowlands, Deepwood's two forests and the Sunplains' northern shore of the Long Channel (lean)."
+   "note": "By shape: the rounded land (legacy notes). Northwind holds its north coast, Ironcrest its uplands, Deepwood most of its lower half, the Sunplains the Long Channel shore; Greenvale keeps a foothold at the Spine's eastern foot (D40)."
   },
   {
    "name": "The Eastern Continent",
@@ -39,88 +39,68 @@
     440,
     480
    ],
-   "note": "By shape: the tapering land (legacy notes). Port at the head of the Inner Sea, Greenvale's heartland across the north and middle, the Sunplains along the south coast and the tip (lean)."
+   "note": "By shape: the tapering land (legacy notes). Port at the head of the Inner Sea, Greenvale across the north, the Sunplains along the south coast and the tip."
   }
  ],
  "regions": [
   {
    "id": "northwind",
    "name": "Northwind",
-   "x": 262,
-   "y": 255,
+   "x": 392,
+   "y": 118,
    "color": [
     70,
     120,
     190
    ],
    "src": "Regions/Northwind.md",
-   "note": "The Northern Continent's northern and western leaves, with their coasts and islands: 'much of the Northern Continent', not all of it. It borders only Highridge by land, at Icestep Summit; everything else reaches it by sea or through Port.",
+   "note": "The north of both the Northern and Western Continents, with their coasts and islands (bt 7274, D40). It meets Highridge at Icestep Summit and Ironcrest along the Western Continent's north; Greenvale's grain and Deepwood's medicine still reach it only through Icestep or by sea through Port.",
    "seeds": [
     [
      "north",
      300,
-     120
-    ],
-    [
-     "north",
-     215,
-     350
-    ],
-    [
-     "north",
-     270,
-     290
+     110
     ],
     [
      "north",
      350,
-     100
-    ],
-    [
-     "north",
-     240,
-     425
-    ],
-    [
-     "north",
-     320,
-     200
+     95
     ],
     [
      "north",
      425,
-     105
+     100
     ],
     [
      "north",
      465,
-     120
+     115
     ],
     [
      "north",
-     345,
-     335
+     330,
+     140
     ],
     [
-     "north",
-     360,
-     260
-    ]
-   ]
-  },
-  {
-   "id": "ironcrest",
-   "name": "Ironcrest",
-   "x": 640,
-   "y": 200,
-   "color": [
-    150,
-    70,
-    50
-   ],
-   "src": "Regions/Ironcrest.md",
-   "note": "'Much of the western upland country': the Western Continent's northern half. Its lower edge grades into Greenvale's western lowlands (Stonefield Forge) and Deepwood (Darkroot Gulch); it reaches the Spine's northern flank, toward Highridge.",
-   "seeds": [
+     "west",
+     540,
+     110
+    ],
+    [
+     "west",
+     620,
+     105
+    ],
+    [
+     "west",
+     690,
+     125
+    ],
+    [
+     "west",
+     735,
+     150
+    ],
     [
      "west",
      560,
@@ -129,16 +109,47 @@
     [
      "west",
      650,
-     150
+     140
+    ],
+    [
+     "north",
+     380,
+     145
+    ],
+    [
+     "north",
+     300,
+     160
+    ]
+   ],
+   "more_labels": [
+    [
+     612,
+     118
+    ]
+   ]
+  },
+  {
+   "id": "ironcrest",
+   "name": "Ironcrest",
+   "x": 640,
+   "y": 245,
+   "color": [
+    150,
+    70,
+    50
+   ],
+   "src": "Regions/Ironcrest.md",
+   "note": "'Much of the western upland country': the Western Continent's middle, between Northwind's coast and Deepwood. It reaches the Spine's flank toward Highridge and meets Greenvale's foothold at Stonefield Forge.",
+   "seeds": [
+    [
+     "west",
+     600,
+     240
     ],
     [
      "west",
-     700,
-     215
-    ],
-    [
-     "west",
-     610,
+     680,
      250
     ],
     [
@@ -149,32 +160,47 @@
     [
      "west",
      650,
-     290
+     295
     ],
     [
      "west",
      545,
      300
+    ],
+    [
+     "west",
+     720,
+     220
+    ],
+    [
+     "west",
+     700,
+     300
+    ],
+    [
+     "west",
+     610,
+     215
     ]
    ]
   },
   {
    "id": "deepwood",
    "name": "Deepwood",
-   "x": 718,
-   "y": 405,
+   "x": 640,
+   "y": 392,
    "color": [
     25,
     85,
     75
    ],
    "src": "Regions/Deepwood.md",
-   "note": "Two forests, after the legacy notes' 'forested enclaves': an arm on the Spine's eastern flank (meeting Highridge at Twilighthollow and Ironcrest at Darkroot Gulch) and the old-growth east, between Ironcrest, Greenvale's lowlands and the Sunplains shore.",
+   "note": "The Western Continent's lower half: forest from the Spine's eastern foot (Twilighthollow) to the far coast, meeting Ironcrest along its upland edge (Darkroot Gulch), Greenvale's foothold and the Sunplains' shore.",
    "seeds": [
     [
      "west",
      522,
-     372
+     390
     ],
     [
      "west",
@@ -189,28 +215,43 @@
     [
      "west",
      690,
-     330
+     345
+    ],
+    [
+     "west",
+     600,
+     390
+    ],
+    [
+     "west",
+     640,
+     420
+    ],
+    [
+     "west",
+     560,
+     420
+    ],
+    [
+     "west",
+     600,
+     350
     ]
    ],
-   "more_labels": [
-    [
-     520,
-     378
-    ]
-   ]
+   "more_labels": []
   },
   {
    "id": "highridge",
    "name": "Highridge Plateau",
-   "x": 432,
-   "y": 178,
+   "x": 318,
+   "y": 222,
    "color": [
     170,
     130,
     40
    ],
    "src": "Regions/Highridge-Plateau.md",
-   "note": "The northern plateau, where the Northern Continent rises toward the Spine, and the Spine itself: the crossroads every overland route between the continents has to pass. It meets Northwind at Icestep, Ironcrest across the Spine's flank, Deepwood at Twilighthollow and Greenvale at the Spine's foot (Lowmeet). The legacy notes put it on the Eastern Continent; this draft doesn't.",
+   "note": "The plateau across the Northern Continent's middle, from Icestep under Northwind's coast down to the Inner Sea, and the Spine itself: the crossroads between Northwind and everyone else. It meets Ironcrest across the Spine's flank, Deepwood at Twilighthollow and Greenvale on the lower leaf and at the Spine's foot (Lowmeet).",
    "seeds": [
     [
      "north",
@@ -224,29 +265,75 @@
     ],
     [
      "north",
-     460,
-     180
+     415,
+     215
     ],
     [
      "north",
-     415,
-     215
+     340,
+     225
+    ],
+    [
+     "north",
+     380,
+     285
+    ],
+    [
+     "north",
+     270,
+     205
+    ],
+    [
+     "north",
+     215,
+     225
+    ],
+    [
+     "north",
+     300,
+     250
     ]
-   ]
+   ],
+   "more_labels": []
   },
   {
    "id": "greenvale",
    "name": "Greenvale",
-   "x": 390,
-   "y": 455,
+   "x": 392,
+   "y": 458,
    "color": [
     150,
     185,
     60
    ],
    "src": "Regions/Greenvale.md",
-   "note": "'The largest major agricultural heartland': the Eastern Continent's north and middle around Port, and across Footwater the western lowlands its rulers 'periodically held' from Ironcrest. Footwater is its inland lake.",
+   "note": "'The largest major agricultural heartland': the Northern Continent's lower leaf and the Eastern Continent's north, wrapping the Inner Sea's south and west shores round Port, plus a foothold of the western lowlands its rulers 'periodically held' at the Spine's eastern foot, where Stonefield Forge meets Ironcrest.",
    "seeds": [
+    [
+     "north",
+     200,
+     330
+    ],
+    [
+     "north",
+     230,
+     420
+    ],
+    [
+     "north",
+     280,
+     380
+    ],
+    [
+     "north",
+     320,
+     345
+    ],
+    [
+     "north",
+     200,
+     280
+    ],
     [
      "east",
      405,
@@ -271,27 +358,12 @@
      "east",
      410,
      480
-    ],
-    [
-     "west",
-     570,
-     380
-    ],
-    [
-     "west",
-     610,
-     420
-    ],
-    [
-     "west",
-     545,
-     440
     ]
    ],
    "more_labels": [
     [
-     628,
-     418
+     232,
+     338
     ]
    ]
   },
@@ -368,7 +440,7 @@
    "x": 408,
    "y": 330,
    "src": "Places/Gazetteer.md#seas-and-straits",
-   "note": "Port's bay: a great enclosed sea between the Northern Continent, the Spine and the Eastern Continent, opening to the ocean only through the Narrows. Port stands on its southern shore (lean)."
+   "note": "Port's bay: a great enclosed sea between the Northern Continent, the Spine and the Eastern Continent, opening to the ocean only through the Narrows. Port stands on its southern shore; Greenvale holds its south and west shores, Highridge its north (lean)."
   },
   {
    "name": "The Narrows",
@@ -383,14 +455,14 @@
    "x": 489,
    "y": 232,
    "src": "Places/Gazetteer.md#seas-and-straits",
-   "note": "The water between the Northern and Western Continents, north of the Spine."
+   "note": "The long sound between the Northern and Western Continents, north of the Spine; Northwind holds both sides of its mouth."
   },
   {
    "name": "Footwater",
    "x": 482,
    "y": 455,
    "src": "Places/Gazetteer.md#seas-and-straits",
-   "note": "The lake at the Spine's southern foot: Greenvale's inland lake, between its two parts."
+   "note": "The lake at the Spine's southern foot, between Greenvale and Deepwood."
   },
   {
    "name": "The Long Channel",
@@ -402,24 +474,25 @@
   },
   {
    "name": "The Grey Banks",
-   "x": 118,
-   "y": 300,
+   "x": 330,
+   "y": 58,
    "src": "Places/Gazetteer.md#northwind",
-   "note": "The great fishing banks, offshore."
+   "note": "The great fishing banks, off Northwind's north coast."
   },
   {
    "name": "The White Current",
-   "x": 135,
-   "y": 410,
+   "x": 240,
+   "y": 120,
    "src": "Places/Gazetteer.md#northwind",
-   "note": "Runs south along the Northwind coast."
+   "note": "Runs south along Northwind's west coast.",
+   "rot": 72
   },
   {
    "name": "The Salted Coast",
-   "x": 228,
-   "y": 488,
+   "x": 236,
+   "y": 182,
    "src": "Places/Gazetteer.md#the-great-features",
-   "note": "Named by the old disputes; each side means a slightly different stretch."
+   "note": "The shore on the sea road between Northwind and the Sunplains (lean: Northwind's west coast and on south); named by the old disputes, and each side means a slightly different stretch."
   }
  ],
  "lines": [
@@ -508,16 +581,16 @@
    "sub": "river",
    "pts": [
     [
-     702,
-     200
+     705,
+     215
     ],
     [
-     662,
-     228
+     664,
+     232
     ],
     [
      624,
-     248
+     250
     ],
     [
      584,
@@ -712,12 +785,12 @@
    "sub": "road",
    "pts": [
     [
-     390,
-     205
+     378,
+     190
     ],
     [
-     412,
-     230
+     405,
+     225
     ],
     [
      430,
@@ -750,12 +823,12 @@
    "sub": "road",
    "pts": [
     [
-     458,
-     168
+     455,
+     192
     ],
     [
      444,
-     205
+     215
     ],
     [
      430,
@@ -780,8 +853,8 @@
      150
     ],
     [
-     390,
-     205
+     378,
+     190
     ]
    ],
    "src": "Places/Gazetteer.md#northwind",
@@ -794,54 +867,78 @@
    "sub": "road",
    "pts": [
     [
-     190,
-     322
+     414,
+     100
     ],
     [
-     200,
-     380
-    ],
-    [
-     240,
-     432
-    ],
-    [
-     290,
-     422
+     372,
+     108
     ],
     [
      330,
-     392
+     140
     ],
     [
-     366,
-     350
+     306,
+     173
+    ],
+    [
+     312,
+     184
     ]
    ],
    "src": "Places/Gazetteer.md#the-great-features",
-   "note": "The Northwind coast road along the Narrows to Frostbay Way."
+   "note": "The Northwind coast road from the north coast down the west coast to Frostbay Way."
   },
   {
    "id": "narrows-ferry",
-   "name": "Ferry across the Inner Sea",
+   "name": "The sea road to Port",
    "kind": "road",
    "sub": "ferry",
    "pts": [
     [
-     366,
+     312,
+     186
+    ],
+    [
+     255,
+     212
+    ],
+    [
+     165,
+     262
+    ],
+    [
+     148,
      350
     ],
     [
-     390,
-     356
+     168,
+     452
+    ],
+    [
+     240,
+     472
+    ],
+    [
+     284,
+     452
+    ],
+    [
+     330,
+     396
+    ],
+    [
+     378,
+     366
     ],
     [
      414,
-     370
+     372
     ]
    ],
    "src": "Places/Gazetteer.md#the-great-features",
-   "note": "Frostbay Way to Port, across the bay (lean)."
+   "note": "From Frostbay Way down the coast and in through the Narrows to Port (lean)."
   },
   {
    "id": "ore-road",
@@ -851,11 +948,11 @@
    "pts": [
     [
      650,
-     185
+     212
     ],
     [
      600,
-     240
+     250
     ],
     [
      560,
@@ -888,8 +985,8 @@
      300
     ],
     [
-     602,
-     342
+     532,
+     321
     ]
    ],
    "src": "Places/Gazetteer.md#between-the-kingdoms",
@@ -902,12 +999,12 @@
    "sub": "road",
    "pts": [
     [
-     533,
-     338
+     580,
+     318
     ],
     [
-     556,
-     318
+     576,
+     298
     ],
     [
      570,
@@ -924,12 +1021,12 @@
    "sub": "shortcut",
    "pts": [
     [
-     630,
-     172
+     632,
+     205
     ],
     [
-     674,
-     205
+     676,
+     236
     ]
    ],
    "src": "Places/Gazetteer.md#ironcrest",
@@ -1104,10 +1201,10 @@
    "name": "Narrow Sound",
    "kind": "town",
    "sub": "story",
-   "x": 190,
-   "y": 320,
+   "x": 286,
+   "y": 155,
    "src": "Sunday-Morning/Stories/The-Greenvale-Man.md",
-   "note": "Across the headland from Kettle Cove (lean: west coast).",
+   "note": "Across the headland from Kettle Cove, on Northwind's west coast (lean).",
    "region": "northwind"
   },
   {
@@ -1115,10 +1212,10 @@
    "name": "Kettle Cove",
    "kind": "town",
    "sub": "story",
-   "x": 201,
-   "y": 378,
+   "x": 306,
+   "y": 173,
    "src": "Sunday-Morning/Stories/The-Greenvale-Man.md",
-   "note": "A small fishing town in a sheltered cove.",
+   "note": "A small fishing town in a sheltered cove on Northwind's west coast (lean).",
    "region": "northwind"
   },
   {
@@ -1148,10 +1245,10 @@
    "name": "Winterhaven",
    "kind": "town",
    "sub": "gazetteer",
-   "x": 372,
-   "y": 302,
+   "x": 494,
+   "y": 140,
    "src": "Places/Gazetteer.md#northwind",
-   "note": "A winter anchorage on the Inner Sea's northern shore (lean).",
+   "note": "A winter anchorage in the sheltered North Gut (lean).",
    "region": "northwind"
   },
   {
@@ -1159,10 +1256,10 @@
    "name": "Frostbay Way",
    "kind": "town",
    "sub": "border",
-   "x": 366,
-   "y": 350,
+   "x": 312,
+   "y": 184,
    "src": "Places/Border-Towns.md#frostbay-way--northwind--port-influence-zone",
-   "note": "The Northwind shore town at the Narrows' inner mouth, facing Port across the water: Northwind's door to Port.",
+   "note": "Northwind's last harbor on the sea road to Port: a coastal corridor town, where Port's influence reaches Northwind by ship (lean).",
    "region": "northwind"
   },
   {
@@ -1170,8 +1267,8 @@
    "name": "Icestep Summit",
    "kind": "town",
    "sub": "border",
-   "x": 372,
-   "y": 200,
+   "x": 378,
+   "y": 190,
    "src": "Places/Border-Towns.md#icestep-summit--northwind--highridge",
    "note": "The cold pass town where Northwind's moors rise onto the Highridge plateau.",
    "region": "highridge",
@@ -1185,10 +1282,10 @@
    "name": "Cape Wending",
    "kind": "feature",
    "sub": "cape",
-   "x": 176,
-   "y": 342,
+   "x": 281,
+   "y": 140,
    "src": "Places/Gazetteer.md#northwind",
-   "note": "The west cape, where the White Current turns out to sea.",
+   "note": "The west cape of Northwind's coast (lean).",
    "region": "northwind"
   },
   {
@@ -1196,10 +1293,10 @@
    "name": "Icefang Fjord",
    "kind": "feature",
    "sub": "fjord",
-   "x": 186,
-   "y": 398,
+   "x": 596,
+   "y": 124,
    "src": "Places/Gazetteer.md#northwind",
-   "note": "The notch in the southwest coast.",
+   "note": "A deep notch in Northwind's coast on the Western Continent (lean).",
    "region": "northwind"
   },
   {
@@ -1262,11 +1359,11 @@
    "name": "Stonefield Forge",
    "kind": "town",
    "sub": "border",
-   "x": 588,
-   "y": 323,
+   "x": 532,
+   "y": 322,
    "src": "Places/Border-Towns.md#stonefield-forge--ironcrest--greenvale",
-   "note": "Where Ironcrest's uplands come down to Greenvale's western lowlands.",
-   "region": "ironcrest",
+   "note": "In Greenvale's foothold at the Spine's eastern foot, where Ironcrest's uplands come down to the western lowlands (lean).",
+   "region": "greenvale",
    "between": [
     "ironcrest",
     "greenvale"
@@ -1277,10 +1374,10 @@
    "name": "Darkroot Gulch",
    "kind": "town",
    "sub": "border",
-   "x": 533,
-   "y": 338,
+   "x": 600,
+   "y": 316,
    "src": "Places/Border-Towns.md#darkroot-gulch--deepwood--ironcrest",
-   "note": "Where Ironcrest's uplands meet the Deepwood arm on the Spine's flank.",
+   "note": "Where Ironcrest's uplands meet the forest.",
    "region": "deepwood",
    "between": [
     "deepwood",
@@ -1315,7 +1412,7 @@
    "kind": "feature",
    "sub": "ridge",
    "x": 650,
-   "y": 185,
+   "y": 212,
    "src": "Places/Gazetteer.md#ironcrest",
    "note": "A long ridge of ore hills above the Ember.",
    "region": "ironcrest"
@@ -1325,8 +1422,8 @@
    "name": "The Charcoal Woods",
    "kind": "feature",
    "sub": "woods",
-   "x": 556,
-   "y": 318,
+   "x": 576,
+   "y": 298,
    "src": "Places/Gazetteer.md#ironcrest",
    "note": "Coppiced for the forges' charcoal.",
    "region": "ironcrest"
@@ -1351,8 +1448,8 @@
    "name": "Larchmere",
    "kind": "town",
    "sub": "story",
-   "x": 532,
-   "y": 368,
+   "x": 548,
+   "y": 392,
    "src": "Sunday-Morning/Stories/The-Blank-Square.md",
    "note": "On the shore of Larch Mere, a forest lake, a day's walk and a river from Twilighthollow.",
    "region": "deepwood"
@@ -1406,8 +1503,8 @@
    "name": "Mosspeak Rise",
    "kind": "feature",
    "sub": "hill",
-   "x": 520,
-   "y": 352,
+   "x": 524,
+   "y": 386,
    "src": "Places/Gazetteer.md#deepwood",
    "note": "Where the forest climbs toward Highridge.",
    "region": "deepwood"
@@ -1417,10 +1514,10 @@
    "name": "The Ashwood Edge",
    "kind": "feature",
    "sub": "forest",
-   "x": 540,
-   "y": 398,
+   "x": 570,
+   "y": 380,
    "src": "Places/Gazetteer.md#deepwood",
-   "note": "The Deepwood arm's margin toward Greenvale's lowlands.",
+   "note": "The forest's margin toward Greenvale's foothold.",
    "region": "deepwood"
   },
   {
@@ -1488,7 +1585,7 @@
    "kind": "feature",
    "sub": "plateau",
    "x": 425,
-   "y": 165,
+   "y": 205,
    "src": "Places/Gazetteer.md#highridge-plateau",
    "note": "The exposed upper plateau.",
    "region": "highridge"
@@ -1509,8 +1606,8 @@
    "name": "The Whitepan",
    "kind": "feature",
    "sub": "salt flat",
-   "x": 458,
-   "y": 168,
+   "x": 455,
+   "y": 192,
    "src": "Places/Gazetteer.md#highridge-plateau",
    "note": "The salt flat.",
    "region": "highridge"
@@ -1700,10 +1797,10 @@
    "name": "The Redlands",
    "kind": "feature",
    "sub": "plain",
-   "x": 620,
-   "y": 400,
+   "x": 522,
+   "y": 336,
    "src": "Places/Gazetteer.md#greenvale",
-   "note": "The red-soil wheat plain of the western lowlands.",
+   "note": "The red-soil wheat plain of the western lowlands, the reason Greenvale's rulers keep coming back for them (lean).",
    "region": "greenvale"
   },
   {
@@ -1711,10 +1808,10 @@
    "name": "The Chalk Downs",
    "kind": "feature",
    "sub": "downs",
-   "x": 582,
-   "y": 382,
+   "x": 548,
+   "y": 352,
    "src": "Places/Gazetteer.md#greenvale",
-   "note": "Sheep downs between the Redlands and the Deepwood arm.",
+   "note": "Sheep downs between the Redlands and the Deepwood edge.",
    "region": "greenvale"
   },
   {
@@ -1887,10 +1984,10 @@
    "name": "Upper and Nether Brayle",
    "kind": "town",
    "sub": "gazetteer",
-   "x": 602,
-   "y": 462,
+   "x": 392,
+   "y": 515,
    "src": "Places/Gazetteer.md#between-the-kingdoms",
-   "note": "Twin towns either side of a stream on Greenvale's lowland border with the Sunplains (lean).",
+   "note": "Twin towns either side of a stream on Greenvale's border with the Sunplains (lean).",
    "region": "greenvale",
    "between": [
     "greenvale",
@@ -1913,8 +2010,8 @@
    "name": "The Salt Mirror",
    "kind": "place",
    "sub": "holy site",
-   "x": 458,
-   "y": 168,
+   "x": 455,
+   "y": 192,
    "src": "Places/Places-of-Interest.md#the-salt-mirror",
    "note": "On the Whitepan.",
    "region": "highridge"
@@ -1924,10 +2021,10 @@
    "name": "The Tide Road",
    "kind": "place",
    "sub": "holy site",
-   "x": 326,
-   "y": 392,
+   "x": 372,
+   "y": 74,
    "src": "Places/Places-of-Interest.md#the-tide-road",
-   "note": "The causeway to the islet in the Narrows (lean).",
+   "note": "The causeway to an islet off Northwind's north coast (lean).",
    "region": "northwind"
   },
   {
@@ -1935,8 +2032,8 @@
    "name": "The Count Stones",
    "kind": "place",
    "sub": "holy site",
-   "x": 552,
-   "y": 382,
+   "x": 556,
+   "y": 372,
    "src": "Places/Places-of-Interest.md#the-count-stones",
    "note": "On the far side of the Chalk Downs, at the western woods' edge.",
    "region": "greenvale"
@@ -1968,8 +2065,8 @@
    "name": "The Reconciliation Bridge",
    "kind": "place",
    "sub": "holy site",
-   "x": 605,
-   "y": 465,
+   "x": 395,
+   "y": 519,
    "src": "Places/Places-of-Interest.md#the-reconciliation-bridge",
    "note": "Between Upper and Nether Brayle.",
    "region": "greenvale"
@@ -2188,8 +2285,8 @@
    "name": "The Blue Pit",
    "kind": "place",
    "sub": "natural wonder",
-   "x": 668,
-   "y": 172,
+   "x": 678,
+   "y": 218,
    "src": "Places/Places-of-Interest.md#the-blue-pit",
    "note": "An old pit in the uplands (lean).",
    "region": "ironcrest"
@@ -2221,10 +2318,10 @@
    "name": "The Rescue Houses",
    "kind": "place",
    "sub": "landmark",
-   "x": 192,
-   "y": 292,
+   "x": 560,
+   "y": 92,
    "src": "Places/Places-of-Interest.md#the-rescue-houses",
-   "note": "Along the west cliffs (lean).",
+   "note": "Along the cliffs of Northwind's coast on the Western Continent (lean).",
    "region": "northwind"
   },
   {
@@ -2232,10 +2329,10 @@
    "name": "The Burned Strand",
    "kind": "place",
    "sub": "memorial",
-   "x": 240,
-   "y": 436,
+   "x": 292,
+   "y": 164,
    "src": "Places/Places-of-Interest.md#the-burned-strand",
-   "note": "On the Northwind coast (lean: its southern shore, facing the Salted Coast).",
+   "note": "On the Salted Coast, Northwind's west shore (lean).",
    "region": "northwind"
   },
   {
@@ -2255,8 +2352,8 @@
    "name": "The Seafarer's Beacon",
    "kind": "place",
    "sub": "landmark",
-   "x": 178,
-   "y": 334,
+   "x": 283,
+   "y": 135,
    "src": "Places/Places-of-Interest.md#the-seafarers-beacon",
    "note": "On Cape Wending.",
    "region": "northwind"
@@ -2299,8 +2396,8 @@
    "name": "The Thousand Steps",
    "kind": "place",
    "sub": "landmark",
-   "x": 652,
-   "y": 176,
+   "x": 654,
+   "y": 220,
    "src": "Places/Places-of-Interest.md#the-thousand-steps",
    "note": "On the Ironbacks.",
    "region": "ironcrest"
@@ -2311,7 +2408,7 @@
    "kind": "place",
    "sub": "relic",
    "x": 600,
-   "y": 170,
+   "y": 208,
    "src": "Places/Places-of-Interest.md#the-star-iron",
    "note": "In a village square (lean).",
    "region": "ironcrest"
@@ -2641,6 +2738,36 @@
    "fill": true
   },
   {
+   "region": "greenvale",
+   "note": "Greenvale's foothold at the Spine's eastern foot: the western lowlands its rulers 'periodically held' from Ironcrest, with the Redlands' wheat and the Chalk Downs (lean). Stonefield Forge stands in it.",
+   "poly": [
+    [
+     503,
+     324
+    ],
+    [
+     560,
+     314
+    ],
+    [
+     582,
+     330
+    ],
+    [
+     575,
+     360
+    ],
+    [
+     548,
+     378
+    ],
+    [
+     506,
+     372
+    ]
+   ]
+  },
+  {
    "region": "port",
    "note": "Port's ground on the Inner Sea.",
    "poly": [
@@ -2668,13 +2795,13 @@
   }
  ],
  "leans": [
-  "**Port at the head of the Inner Sea.** The Inner Sea is the bay: enclosed, sheltered, and reachable from the ocean only through the Narrows. Port stands on its southern shore, at the meeting of every route: by sea through the Narrows, up the Long Water into Greenvale, along the Spine's passes and the Underpass to Highridge and Ironcrest, and across the bay to Frostbay Way and Northwind. No kingdom can hold it without the others feeling the noose. *Lean:* keep it here.",
-  "**Northwind is the clover's two outer leaves**, not the whole clover: 'much of the Northern Continent'. Highridge's plateau takes the part that rises toward the Spine. *Lean:* keep.",
-  "**Highridge is the northern plateau and the Spine.** That makes it the crossroads the wiki describes, the gate between Northwind and everyone else (Icestep), with Lowmeet at the Spine's southern foot where it meets Greenvale. The legacy notes put Highridge on the Eastern Continent instead. *Lean:* keep it here; the alternative is a strip along the Eastern Continent's edge, which leaves Greenvale smaller.",
-  "**Greenvale on both shores of Footwater.** The Eastern Continent's north and middle, plus the Western Continent's lowlands below Ironcrest's uplands, where Ironcrest's page says Greenvale's rulers 'periodically held western lowlands'. That makes it the largest farmland and gives Stonefield Forge a real border. *Lean:* keep.",
-  "**Deepwood in two forests**, an arm on the Spine's flank and the old-growth east, after the legacy notes' 'forested enclaves'. *Lean:* keep.",
-  "**Sunplains on both shores of the Long Channel.** *Lean:* keep; the alternative gives the Western Continent's south coast to Deepwood.",
-  "**Ironcrest's directions.** Ironcrest's page says its 'eastern and southeastern edges' face Greenvale, Highridge and Deepwood; on this image those edges face west and south. Like the continents' names, this reads as an old name for a side, not the image's compass. *Lean:* leave the wording; flag it if the map is ever locked."
+  "**bt 7274's layout (D40).** Northwind across the north of both continents; Highridge's plateau across the Northern Continent's middle; Greenvale on the lower leaf and round Port; Deepwood the Western Continent's lower half; Ironcrest its uplands. Drawn by bt 7274 on the second draft.",
+  "**Greenvale's foothold at Stonefield Forge.** The layout separated Ironcrest from Greenvale, but Stonefield Forge is a strongly established border town between them. Greenvale keeps a small piece of the western lowlands at the Spine's eastern foot, which Ironcrest's page says its rulers 'periodically held', and Stonefield Forge stands in it. *Lean:* keep.",
+  "**Northwind borders Ironcrest.** Northwind on the Western Continent's north touches Ironcrest by land, so Geography's line that Northwind borders none of its suppliers no longer holds for Ironcrest's metal. Greenvale's grain and Deepwood's medicine still reach Northwind only through Icestep or by sea through Port. Geography now says so.",
+  "**Frostbay Way and the sea road.** Frostbay Way, the Northwind–Port border town, becomes Northwind's last harbor on the sea road to Port, on its west coast; the Long Way runs along Northwind's coast to it, and the rest is by ship through the Narrows. *Lean:* keep.",
+  "**Northwind's towns moved** to its new coasts: Narrow Sound and Kettle Cove (The Greenvale Man) on the west coast, the Rescue Houses, the Burned Strand and Icefang Fjord on the Western Continent's north shore. The stories only need them coastal and across a headland from each other. Highridge stands between Northwind and Greenvale, so Greenvale still feels far from Kettle Cove.",
+  "**Port at the head of the Inner Sea** (D39), unchanged.",
+  "**Ironcrest's directions.** Ironcrest's page says its 'eastern and southeastern edges' face Greenvale, Highridge and Deepwood; on this image they face west and south. Read as an old name for a side, like the continents' names. *Lean:* leave the wording."
  ],
  "relations": [
   [
@@ -2757,8 +2884,8 @@
   [
    "northwind",
    "ironcrest",
-   "none",
-   "Northwind borders none of its suppliers",
+   "border",
+   "bt 7274's layout (D40): Northwind holds the Western Continent's north, above Ironcrest",
    "Geography-and-Connections.md#macro-geography"
   ],
   [

@@ -8,7 +8,7 @@ Northwind is colder than most of the known world and unusually maritime, but its
 
 ## Geography
 
-Northwind occupies much of the Northern Continent and associated coasts and islands.
+Northwind occupies the north of the Northern Continent and associated coasts and islands, and, on bt 7274's map layout, the north of the Western Continent too ([D40](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), provisional).
 
 Important environmental facts:
 - cold seas;
