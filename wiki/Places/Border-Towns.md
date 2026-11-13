@@ -17,6 +17,8 @@ They are places where:
 - law becomes negotiated;
 - loyalty may be local before regional.
 
+**Where they sit** ([D43](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): in edge country, where one people thins as another thickens ([Peoples and Land](../Peoples-and-Land.md#heartlands-edges-and-mixing-places)), not on a line between two blocks. Each of the six below is named for a change in the land (foothills into farmland, forest onto plateau). Each stands for a wide stretch of mixed country that holds many towns like it, not a single crossing point.
+
 ## Established working examples
 
 ### Stonefield Forge — Ironcrest / Greenvale
@@ -54,7 +56,7 @@ Its identity comes from:
 
 ### Frostbay Way — Northwind / Port influence zone
 
-Best treated as a coastal corridor or secondary port rather than a literal kingdom border if Port is territorially separate.
+Best treated as a coastal corridor or secondary port rather than a literal kingdom border if Port is territorially separate. Read with [Peoples and Land](../Peoples-and-Land.md): Port isn't a people with a heartland. Frostbay Way is where Northwind country meets Port's pull of credit, trade law and incoming merchants.
 
 Its identity comes from:
 - Northwind seafaring;
