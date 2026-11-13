@@ -52,6 +52,41 @@ def main():
     im = src.resize((W * S, H * S), Image.LANCZOS)
     d = ImageDraw.Draw(im)
 
+    # lakes and ponds: cut from the land, drawn in the sea's colour with an ink shore
+    lake_mask = Image.new("L", (W * S, H * S), 0)
+    lm = ImageDraw.Draw(lake_mask)
+    bodies = []
+    for lk in T.get("lakes", []):
+        (cx, cy), (rx, ry) = lk["center"], lk["r"]
+        pts = []
+        for a in np.linspace(0, 2 * math.pi, 16, endpoint=False):
+            k = 1 + rng.normal(0, 0.12)
+            pts.append((cx + rx * k * math.cos(a), cy + ry * k * math.sin(a)))
+        bodies.append(pts)
+    pond = T.get("ponds")
+    if pond:
+        polys = [f["poly"] for key in pond["areas"] for f in T.get(key, [])]
+        for poly in polys:
+            for cx, cy in inside(poly, rng, max(1, pond["n"] // max(1, len(polys)))):
+                if on(cx, cy):
+                    r = rng.uniform(*pond["r"])
+                    bodies.append([(cx + r * math.cos(a), cy + r * 0.8 * math.sin(a)) for a in np.linspace(0, 2 * math.pi, 10, endpoint=False)])
+    for pts in bodies:
+        lm.polygon([(x * S, y * S) for x, y in pts], fill=255)
+    lake_arr = np.asarray(lake_mask) > 0
+    sea = np.asarray(src.resize((W * S, H * S), Image.LANCZOS)).reshape(-1, 3)[~np.repeat(np.repeat(land, S, 0), S, 1).reshape(-1)]
+    sea_col = tuple(int(c) for c in np.median(sea, axis=0)) if len(sea) else (164, 186, 182)
+    arr = np.asarray(im).copy()
+    arr[lake_arr] = sea_col
+    from scipy import ndimage as nd
+    shore = nd.binary_dilation(lake_arr, iterations=S) & ~lake_arr
+    arr[shore] = INK
+    im = Image.fromarray(arr)
+    d = ImageDraw.Draw(im)
+    small_lakes = np.asarray(lake_mask.resize((W, H), Image.BILINEAR)) > 127
+    land = land & ~small_lakes
+    on = lambda x, y: 0 <= int(x) < W and 0 <= int(y) < H and land[int(y), int(x)]
+
     for p in T.get("plateau", []) + T.get("moor", []):  # tufts of high, open ground
         for x, y in inside(p["poly"], rng, p.get("n", 220)):
             if on(x, y):
@@ -122,6 +157,14 @@ def main():
         d.polygon([(p[0] * S, p[1] * S) for p in (top, (x + s * 0.05, y + s * 0.25), r)], fill=(198, 176, 136))
         d.line([(l[0] * S, l[1] * S), (top[0] * S, top[1] * S), (r[0] * S, r[1] * S)], fill=INK, width=S)
 
+    if T.get("channels"):  # straits too narrow to see in the mask are still water
+        cm = Image.new("L", (W, H), 0)
+        cd = ImageDraw.Draw(cm)
+        for c in T["channels"]:
+            cd.line([tuple(q) for q in c["path"]], fill=255, width=c["width"])
+        land = land & ~(np.asarray(cm) > 0)
+    if T.get("mask_out"):
+        Image.fromarray((land * 255).astype(np.uint8)).save(os.path.join(DIR, T["mask_out"]), optimize=True)
     out = im.resize((W, H), Image.LANCZOS)
     out.save(os.path.join(DIR, "base-map.png"), optimize=True)
     print("terrain painted:", os.path.relpath(os.path.join(DIR, "base-map.png"), ROOT))

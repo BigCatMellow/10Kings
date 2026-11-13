@@ -1,7 +1,7 @@
 {
  "about": "The land drawn over the legacy sheet (D45): mountains, hills, forests, farmland, orchards, marsh and plateau. Painted by atlas/tools/terrain_paint.py onto base-legacy.png. Pixels on the 980 x 728 sheet. Leans, like everything on the map.",
  "source": "base-legacy.png",
- "mask": "land-mask.png",
+ "mask": "land-legacy.png",
  "seed": 7274,
  "plateau": [
   {
@@ -540,6 +540,28 @@
     18,
     7
    ]
+  },
+  {
+   "name": "The Sedge Fens",
+   "center": [
+    206,
+    428
+   ],
+   "r": [
+    18,
+    8
+   ]
+  },
+  {
+   "name": "Blackwater Marsh",
+   "center": [
+    562,
+    442
+   ],
+   "r": [
+    14,
+    7
+   ]
   }
  ],
  "mountains": [
@@ -847,6 +869,189 @@
     ]
    ],
    "n": 60
+  }
+ ],
+ "mask_out": "land-mask.png",
+ "lakes": [
+  {
+   "name": "Greymere",
+   "center": [
+    392,
+    132
+   ],
+   "r": [
+    9,
+    5
+   ]
+  },
+  {
+   "name": "Tarrant Water",
+   "center": [
+    540,
+    205
+   ],
+   "r": [
+    8,
+    5
+   ]
+  },
+  {
+   "name": "Mirrow Tarn",
+   "center": [
+    372,
+    256
+   ],
+   "r": [
+    6,
+    4
+   ]
+  },
+  {
+   "name": "Willow Mere",
+   "center": [
+    626,
+    398
+   ],
+   "r": [
+    9,
+    6
+   ]
+  },
+  {
+   "name": "Fen Mere",
+   "center": [
+    222,
+    412
+   ],
+   "r": [
+    8,
+    5
+   ]
+  },
+  {
+   "name": "The Sunpool",
+   "center": [
+    548,
+    528
+   ],
+   "r": [
+    6,
+    4
+   ]
+  },
+  {
+   "center": [
+    470,
+    142
+   ],
+   "r": [
+    5,
+    3
+   ]
+  },
+  {
+   "center": [
+    688,
+    205
+   ],
+   "r": [
+    5,
+    3
+   ]
+  },
+  {
+   "center": [
+    290,
+    332
+   ],
+   "r": [
+    5,
+    4
+   ]
+  },
+  {
+   "center": [
+    700,
+    428
+   ],
+   "r": [
+    5,
+    3
+   ]
+  },
+  {
+   "center": [
+    612,
+    170
+   ],
+   "r": [
+    4,
+    3
+   ]
+  },
+  {
+   "center": [
+    262,
+    300
+   ],
+   "r": [
+    4,
+    3
+   ]
+  },
+  {
+   "center": [
+    436,
+    232
+   ],
+   "r": [
+    4,
+    3
+   ]
+  }
+ ],
+ "ponds": {
+  "n": 45,
+  "r": [
+   1.4,
+   2.6
+  ],
+  "areas": [
+   "fields",
+   "forests"
+  ]
+ },
+ "stream_threshold": 110,
+ "channels": [
+  {
+   "name": "The Narrows",
+   "path": [
+    [
+     280,
+     456
+    ],
+    [
+     300,
+     436
+    ],
+    [
+     318,
+     416
+    ],
+    [
+     336,
+     398
+    ],
+    [
+     356,
+     382
+    ],
+    [
+     380,
+     368
+    ]
+   ],
+   "width": 3
   }
  ]
 }

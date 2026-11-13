@@ -81,6 +81,7 @@ aside { width: 340px; border-left: 1px solid var(--line); background: var(--surf
       <g id="world">
         <image href="__BASE__" x="0" y="0" width="__W__" height="__H__"/>
         <image id="regions-img" href="__OVERLAY__" x="0" y="0" width="__W__" height="__H__" data-layer="regions"/>
+        __IMAGE_LAYERS__
         <g id="g-lines"></g>
         <g id="g-labels"></g>
         <g id="g-marks"></g>
@@ -177,7 +178,9 @@ for (const p of [...D.points].sort((a, b) => (a.sub === "port") - (b.sub === "po
   }
   shape.setAttribute("class", "shape");
   const isPort = p.sub === "port";
-  const t = el("text", {x: isPort ? -8 : 7, y: isPort ? -8 : 4, class: "lbl", "text-anchor": isPort ? "end" : "start", "font-size": isPort ? 17 : p.sub === "city" ? 15 : p.sub === "village" ? 11 : p.kind === "town" ? 12.5 : 11.5, "font-weight": isPort || p.sub === "city" ? 700 : 400, "font-style": p.kind === "feature" ? "italic" : "normal"}, s);
+  const lp = isPort ? "p" : (p.lp || "r");
+  const LP = {r: [7, 4, "start"], l: [-7, 4, "end"], a: [0, -9, "middle"], b: [0, 15, "middle"], p: [-8, -8, "end"]}[lp];
+  const t = el("text", {x: LP[0], y: LP[1], class: "lbl", "text-anchor": LP[2], "font-size": isPort ? 17 : p.sub === "city" ? 15 : p.sub === "village" ? 11 : p.kind === "town" ? 12.5 : 11.5, "font-weight": isPort || p.sub === "city" ? 700 : 400, "font-style": p.kind === "feature" ? "italic" : "normal"}, s);
   t.textContent = p.name;
   const item = {...p, group: p.kind, node: g};
   g.addEventListener("click", e => { e.stopPropagation(); select(item); });

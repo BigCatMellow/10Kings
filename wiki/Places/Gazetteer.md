@@ -101,6 +101,16 @@ Coastal geography, bays, islands, currents, lineages and seasonal sites, in Nort
 | **Cold Harbour** | a village | A shelter for boats caught out by the weather |
 | **Whalebone** | a village | A village with a whale's jaw for a gate |
 
+**Cities, towns, lakes and fens for a fuller map** (provisional, [D47](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Greyquay** | a city | Northwind's second port, on the Western Continent's north coast, where the ore ships load |
+| **Hookness** | a town | A town on a hooked headland |
+| **Brightwater** | a town | A town by a clear lake in the fells |
+| **Fellside** | a town | A market town under the fells |
+| **Greymere** | a lake | A grey lake in Northwind's inland valleys, below Mootstead |
+
 ## Ironcrest
 
 Older upland and river names under later mining, fort, family and guild names, in Ironet.
@@ -161,6 +171,17 @@ Older upland and river names under later mining, fort, family and guild names, i
 | **Lowshaft** | a village | A mining village in a hollow |
 | **Bellows Green** | a village | A smithing village on a common |
 | **Tarrant's Mill** | a village | A mill village held by the Tarrants |
+
+**Cities, towns, lakes and fens for a fuller map** (provisional, [D47](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Deepforge** | a city | Ironcrest's oldest smithing city, built over its first deep workings |
+| **Hammerstone** | a town | A quarry and smithing town |
+| **Ore Hollow** | a town | A mining town in a hollow of the ore hills |
+| **Copperhill** | a town | A town on the copper hill |
+| **Coalbrook** | a town | A town on a coal-black brook |
+| **Tarrant Water** | a lake | A lake under the Tarrants' castle |
 
 ## Greenvale
 
@@ -231,6 +252,18 @@ Rivers, soils, old settlements, family lands, markets and former estates, in the
 | **Mere Farthing** | a village | A village by a small mere, once a farthing's rent |
 | **Gleaning** | a village | A village where the poor glean after harvest by old right |
 
+**Cities, towns, lakes and fens for a fuller map** (provisional, [D47](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Graincourt** | a city | A granary city where the harvest is counted and stored |
+| **Oakhurst** | a town | A market town in old oak country |
+| **Hedgerow** | a town | A town of high hedges and small fields |
+| **Plowden** | a town | A ploughing-match town |
+| **Meadowbank** | a town | A town on a river meadow |
+| **Fen Mere** | a lake | A shallow lake at the head of the Sedge Fens |
+| **The Sedge Fens** | a fen | Reed and sedge country on the lower leaf's south-west coast |
+
 ## Highridge Plateau
 
 Route names, passes, wells, caravan families, old toll sites and translated names; the oldest pass and spring names are Old Spine speech.
@@ -287,6 +320,16 @@ Route names, passes, wells, caravan families, old toll sites and translated name
 | **Ostrav** | a village | A village with an Old Spine name |
 | **Windgap** | a village | A village in a windy notch |
 
+**Cities, towns, lakes and fens for a fuller map** (provisional, [D47](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Saltcross** | a city | A caravan city where the Salt Road crosses the western route |
+| **Dustway** | a town | A dry caravan town |
+| **Cairn Hold** | a town | A walled town by an old cairn |
+| **Stonewell** | a town | A town round a stone-lined well |
+| **Mirrow Tarn** | a lake | A still tarn on the plateau that reflects the sky |
+
 ## Deepwood
 
 Waterways, groves, species, older peoples, and landmarks that may not be obvious to outsiders, in the Deepwood languages.
@@ -326,6 +369,16 @@ Waterways, groves, species, older peoples, and landmarks that may not be obvious
 | **Owlmere** | a village | A village by an owl-haunted pool |
 | **Thornhallow** | a village | A village round a shrine in a thicket |
 | **Lichen Steps** | a village | A village up a stair of mossy stones |
+
+**Cities, towns, lakes and fens for a fuller map** (provisional, [D47](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Rookhallow** | a city | Deepwood's old meeting town, in a great hollow under rook-haunted trees |
+| **Bracken Hollow** | a town | A forest town in a bracken hollow |
+| **Willowmere** | a town | A town on Willow Mere |
+| **Willow Mere** | a lake | A willow-ringed lake in the forest |
+| **Blackwater Marsh** | a marsh | Peat-dark marsh at the forest's western edge, round Mosswater |
 
 ## Sunplains
 
@@ -370,6 +423,16 @@ Old city-state names, founders, civic ideals, waterworks, forts, ports and estat
 | **Vintner's Rest** | a village | A village of vineyards and a wayside inn |
 | **Bellar Ford** | a village | A ford village named for Fort Bellar's old lords |
 | **Saltpan** | a village | A village of salt pans |
+
+**Cities, towns, lakes and fens for a fuller map** (provisional, [D47](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Solenne** | a city | An old city-state of the south coast, rival to Vasselin |
+| **Calvadra** | a town | An old hill town of the city-states |
+| **Fountains** | a town | A town of public fountains, fed by aqueduct |
+| **Sundial** | a town | A town named for the great dial in its square |
+| **The Sunpool** | a lake | A warm, shallow lake among the orchards |
 
 ## Port
 

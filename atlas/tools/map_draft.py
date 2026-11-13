@@ -223,6 +223,24 @@ def overlay(D, owner):
     return Image.fromarray(out, "RGBA")
 
 
+def place_labels(D, k=1.6):
+    """Choose each town label's side (right, left, above, below) so labels overlap as
+    little as possible at the zoom where town names first appear. Cities go first."""
+    char, tall = 6.9 / k, 9 / k
+    rank = {"port": 0, "city": 1, "border": 2, "story": 3, "gazetteer": 3, "town": 3, "village": 4}
+    boxes = [(p["x"] - 3, p["y"] - 3, p["x"] + 3, p["y"] + 3) for p in D["points"]]
+    def hit(b):
+        return sum(max(0, min(b[2], c[2]) - max(b[0], c[0])) * max(0, min(b[3], c[3]) - max(b[1], c[1])) for c in boxes)
+    for p in sorted((p for p in D["points"] if p["kind"] == "town"), key=lambda p: rank.get(p["sub"], 3)):
+        w = len(p["name"]) * char * (1.25 if p["sub"] == "city" else 1) + 2
+        x, y = p["x"], p["y"]
+        opts = {"r": (x + 5, y - tall / 2, x + 5 + w, y + tall / 2), "l": (x - 5 - w, y - tall / 2, x - 5, y + tall / 2),
+                "a": (x - w / 2, y - 6 - tall, x + w / 2, y - 6), "b": (x - w / 2, y + 5, x + w / 2, y + 5 + tall)}
+        side = min(opts, key=lambda s: (hit(opts[s]), "rlab".index(s)))
+        p["lp"] = side
+        boxes.append(opts[side])
+
+
 def validate(D, land, lobe):
     errs = []
 
@@ -349,11 +367,13 @@ def main():
     shares = ", ".join(f"{r['name']} {100 * (owner == i).sum() / tot:.0f}%" for i, r in enumerate(D["regions"]))
     overlay(D, owner).save(os.path.join(MAP, "regions-overlay.png"), optimize=True)
 
+    place_labels(D)
     ys, xs = np.nonzero(keep)
     D["fit"] = [int(xs.min()) - 24, int(ys.min()) - 24, int(xs.max()) + 24, int(ys.max()) + 34]
     html = open(TEMPLATE, encoding="utf-8").read()
     for k, v in {"__TITLE__": D.get("title", "Map draft").title(), "__STATUS__": D["status"], "__W__": str(D["image"]["w"]), "__H__": str(D["image"]["h"]),
                  "__BASE__": D["image"]["file"], "__OVERLAY__": "regions-overlay.png",
+                 "__IMAGE_LAYERS__": "".join(f'<image href="{L["file"]}" x="0" y="0" width="{D["image"]["w"]}" height="{D["image"]["h"]}" data-layer="{L["layer"]}"/>' for L in D.get("image_layers", [])),
                  "__DATA__": json.dumps(D, ensure_ascii=False, separators=(",", ":"))}.items():
         html = html.replace(k, v)
     open(os.path.join(MAP, "index.html"), "w", encoding="utf-8").write(html)
