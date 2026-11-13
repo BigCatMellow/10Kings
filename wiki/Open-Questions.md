@@ -19,7 +19,7 @@ These are important areas where earlier brainstorming produced multiple versions
 - **Where the rain comes from** ([Realism Check](Reference/Realism-Check-2026-11.md#2-where-the-rain-comes-from), D49). Tested with a rain model: north-west weather fits the regions best, due west doesn't. Lean: weather off the ocean from the north-west, the cold White Current in the north, Deepwood a river-fed lowland forest.
 - **Port and the eastern sea** ([Realism Check](Reference/Realism-Check-2026-11.md#3-port-and-the-eastern-sea)). The Inner Sea's only way out is the Narrows. Lean: a haul road over the Spine's southern foot to Footwater makes Port the meeting of two seas.
 - **Northwind's grain and salt** ([Realism Check](Reference/Realism-Check-2026-11.md#4-northwinds-grain-and-salt)). Lean: grain comes up the Salted Coast from Greenvale's west coast, and much of the salt for curing fish is bought from the south.
-- **The twin suns, the moons, the year and the sea** ([Sky, Seasons and Sea](Sky-Seasons-and-Sea.md#open-for-bt-7274), D50). Leans: a close pair of suns with two shadows and a monthly crossing; at least one moon, since the Tide Road's tide post and Tide Return need one; an Earth-like tilt and year.
+- **The twin suns, the moons, the year and the sea** ([Sky, Seasons and Sea](Sky-Seasons-and-Sea.md#open-for-bt-7274), D50). Leans: a close pair of suns with two shadows and a monthly crossing; an Earth-like tilt and year. **Three moons** (bt 7274, D52); their periods are a lean.
 - Navigable rivers and major watersheds. *(Named, with relative positions only, on the [Gazetteer](Places/Gazetteer.md): the Long Water is the lean for Port's river.)*
 - Places of interest ([D35](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): how many Sitting Kings there are (lean: ten, if the title should mean something); what the One Tree's people call themselves and their forest; which town holds the Head in the Square ([Places of Interest](Places/Places-of-Interest.md#for-bt-7274)).
 
@@ -83,7 +83,7 @@ The events pages preserve the current web of crises. Many were brainstormed rath
 
 - Whether the gods' Latinate names are a shared liturgical register used beside local names (lean: yes, provisionally).
 - Whether the Radiant Path's Valorus and the Dual Flame's Valoron are one god named twice.
-- The creation myth: whether the legacy Mother/Spine myth stays as folk belief under all nine faiths, and how its three star-Sons square with a world named for twin suns.
+- The creation myth explains how the three continents came together (bt 7274, D52; [Religions](Politics/Religions.md#the-creation-myth)). Still open: whether the Mother's three Sons are the three moons (lean: yes), and whether the world's tentative name, Two Sons, for its suns, should stay beside a myth of three.
 - How each faith reads the sky (provisional leans, D51): [Religions](Politics/Religions.md#the-faiths-and-the-sky).
 
 ## Ecology

@@ -14,7 +14,7 @@ The calendar below is a source of scene texture and cultural memory, not a claim
 | Late spring | — | First Catch | — | Caravan Blessing | — | — | — |
 | Midsummer | Foundry Week | — | — | Midsummer Debates | Canopy Vigil | Festival of Patrons | — |
 | Late summer | — | Aurora Nights | Grain Ripening | — | — | — | — |
-| Early autumn | — | — | Harvest Home | — | Gathering Quiet | Wine Crush | Three Moon Festival |
+| Early autumn | — | — | Harvest Home | — | Gathering Quiet | Wine Crush | Three Moon Festival (every seventh year) |
 | Late autumn | Ember Remembrance | Last Sail | — | Ledger Closing | — | — | — |
 | Midwinter | Coal Ember Vigil | Long Dark Feast | Root Cellar Night | — | Deep Silence | Solstice Lanterns | Lean Vigil |
 
@@ -60,7 +60,7 @@ Blank cells do not mean “no festivals.” They only mean the imported notes di
 
 ### Port
 
-**Three Moon Festival** ([Three Moon](Three-Moons-Festival.md), yearly) is most useful when it belongs to Port rather than serving as a generic “all cultures” event. Its power can come from the city demonstrating that incompatible groups can occupy one civic space.
+**Three Moon Festival** ([Three Moon](Three-Moons-Festival.md), every seven years, when all three moons are visible from Port: [D52](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)) is most useful when it belongs to Port rather than serving as a generic “all cultures” event. Its power can come from the city demonstrating that incompatible groups can occupy one civic space.
 
 **Lean Vigil** can mark the anxiety of winter shipping and food supply without asserting that Port literally has no local food or defenses.
 

@@ -204,23 +204,39 @@ Each faith's **Working life** above came in from the legacy notes ([Volume 06](.
 
 ## The faiths and the sky
 
-**Provisional** ([D51](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)). These are leans for bt 7274 to overrule. They take the sky from [Sky, Seasons and Sea](../Sky-Seasons-and-Sea.md): a close pair of suns, gold and red, with two shadows, a second dusk and a regular crossing when one passes the other; at least one moon; auroras in the north; falling stars. Every faith sees the same sky and reads it differently. As with the gods, these are beliefs: the sky never confirms one faith against another ([Magic](../Magic.md#writing-rule)).
+**Provisional** ([D51](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)). These are leans for bt 7274 to overrule. They take the sky from [Sky, Seasons and Sea](../Sky-Seasons-and-Sea.md): a close pair of suns, gold and red, with two shadows, a second dusk and a regular crossing when one passes the other; three moons, all full together once in seven years (bt 7274, [D52](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); auroras in the north; falling stars. Every faith sees the same sky and reads it differently. As with the gods, these are beliefs: the sky never confirms one faith against another ([Magic](../Magic.md#writing-rule)).
 
 | Faith | What it sees | What it does with it |
 | --- | --- | --- |
-| [Cyclic Order](#1-the-cyclic-order) | the turning itself: day, the crossing, the moon, the solstices; Chronospect's wheel made visible | keeps the count, and names the dates everyone else borrows. At the [Count Stones](../Places/Places-of-Interest.md#the-count-stones), the "shadows of two stones meet a third" are read as both suns' shadows meeting on the year's turning days |
-| [Great Weaver](#2-path-of-the-great-weaver) | the sky as part of the weave: the moon pulling the sea, the auroras as threads of the dead | no sky-worship; the dead are honored on Aurora Nights where the faiths overlap in Northwind |
+| [Cyclic Order](#1-the-cyclic-order) | the turning itself: day, the crossing, the three moons, the solstices; Chronospect's wheel made visible, and the seven-year return of all three moons as its great turn | keeps the count, and names the dates everyone else borrows. A Three Moon year is a jubilee for the Order: debts of service are renewed and its own officers rotate. At the [Count Stones](../Places/Places-of-Interest.md#the-count-stones), the "shadows of two stones meet a third" are read as both suns' shadows meeting on the year's turning days |
+| [Great Weaver](#2-path-of-the-great-weaver) | the sky as part of the weave: the moons pulling the sea, the auroras as threads of the dead | no sky-worship; the dead are honored on Aurora Nights where the faiths overlap in Northwind |
 | [Radiant Path](#3-the-radiant-path) | the gold sun as the Eternal Radiance, Luxphera's light | dawn rites and vigils ([the Dawn Hill](../Places/Places-of-Interest.md#the-dawn-hill)). In a crossing, when the light dims, the faithful keep a flame lit until it returns |
 | [Eternal Forge](#4-the-eternal-forge) | the red sun as the world's banked coal; falling stars as sparks off the anvil | the [Star Iron](../Places/Places-of-Interest.md#the-star-iron), a fallen star, is its proof of the forge above. Smiths light new fires at the red sun's rising |
-| [Illuminated Circle](#5-the-illuminated-circle) | a sky that can be measured | records the crossings and argues over predicting them, the nearest thing the world has to astronomy. Its almanacs are sold to sailors, farmers and the Cyclic Order, who resent needing them |
-| [Silent Whisper](#6-the-silent-whisper) | night, and the sun hidden behind the sun at a crossing | meditates through the dimmed hour; keeps tide records at [the Tide Road](../Places/Places-of-Interest.md#the-tide-road), where the moon's rhythm is a discipline of patience |
+| [Illuminated Circle](#5-the-illuminated-circle) | a sky that can be measured | records the crossings and the moons, and argues over predicting them, the nearest thing the world has to astronomy. Calling a Three Moon right, or a false one wrong, makes a scholar's name. Its almanacs are sold to sailors, farmers and the Cyclic Order, who resent needing them |
+| [Silent Whisper](#6-the-silent-whisper) | night, and the sun hidden behind the sun at a crossing | meditates through the dimmed hour; keeps the tide post at [the Tide Road](../Places/Places-of-Interest.md#the-tide-road), where working out three moons' tides is a discipline of patience |
 | [Harmonious Path](#7-the-harmonious-path) | two suns that circle forever and never collide | balance as a fact of the sky; a common teaching image at mediations |
 | [Dual Flame](#8-the-dual-flame) | its two flames in the sky: gold that makes, red that unmakes | the second dusk, when only the red sun is up, is the hour for confession and the burning of the page of wrongs |
 | [Infinite Compass](#9-the-infinite-compass) | the horizon, where the suns rise further along each season, and the night stars | steers and dates pilgrimages by them; the [Salt Mirror](../Places/Places-of-Interest.md#the-salt-mirror), which turns into a second sky after rain, is its holy site |
 
 **Shared by everyone, whatever their faith** (leans): two shadows are a figure of speech ("he casts two shadows" for a double-dealer); a crossing at a wedding or a signing is lucky or unlucky depending on who you ask; and sailors trust the Circle's almanac and the Order's count less than their own tide post.
 
-**Still open:** the legacy creation myth of a Mother and her three star-Sons, against a world named for two suns ([Open Questions](../Open-Questions.md#faiths)). Possible readings: the myth is older than anyone's sky-watching; the third Son is the one that fell; or the three Sons were never in the sky at all. None is applied.
+### The creation myth
+
+**Fixed by bt 7274** ([D52](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): the myth explains how the three continents came together.
+
+The legacy telling ([Volume 01](../../legacy-notes/2026-09-22/consolidated-package/01_Foundations_World_Myth_History.md#src-lore)) is provisional texture:
+- **The Mother** was once one whole land.
+- **Her three Sons** shone in the sky above her.
+- **When the land was sundered into three**, she spent the last of her life raising the Spine to hold the pieces together. Walking the Spine is walking "the Mother's last living nerve", and [the Mother's Cradle](../Places/Places-of-Interest.md#the-mothers-cradle) is where she last touched the land.
+
+*Lean* (from the [World Review](../Reference/World-Review-2026-11/6-Reference-and-Legacy.md)): the myth sits under all nine faiths as shared, contested folk belief, and each faith tells it its own way ([Folk Belief](../Culture/Folk-Belief-Taboo-and-Superstition.md)).
+
+*Lean:* **the Sons are the three moons.** The legacy calls them "three bright stars"; with three moons in the sky, they are the obvious Sons. Three Moon night, when all three come round together over Port, then reads as the Sons gathering over the place where the Mother's pieces meet.
+
+**Still open:**
+- whether the Sons are the moons;
+- whether the world's tentative name, Two Sons, which is for its suns, sits well beside a myth of three ([World Overview](../World-Overview.md)).
+
 
 ## Religion and politics
 

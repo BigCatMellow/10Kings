@@ -804,7 +804,7 @@ That can affect:
 
 Exact lunar/tidal cosmology remains open.
 
-The practical effect does not require a finalized moon calendar. The Tide Road's tide post and Port's Tide Return already lean toward a moon; the reasoning, with the suns, day length and seasons, is on [Sky, Seasons and Sea](Sky-Seasons-and-Sea.md#the-moon-question).
+The practical effect does not require a finalized moon calendar. **The sky has three moons** (bt 7274, [D52](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)), so tide times shift in a pattern only a table can follow, which is why the Tide Road keeps a tide post. How they move, and the seven-year night they're all full together, is on [Sky, Seasons and Sea](Sky-Seasons-and-Sea.md#the-three-moons). Peoples who count months by the moons may each count by a different one.
 
 ---
 
@@ -982,7 +982,7 @@ This produces interoperability without cultural uniformity.
 ## Open
 
 - astronomical year length;
-- moon system;
+- moon system: three moons ([D52](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); their periods and which one each calendar counts by are open;
 - number of months;
 - month names;
 - month lengths;

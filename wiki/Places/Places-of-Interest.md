@@ -556,7 +556,7 @@ An old warehouse that families on both sides remember as the place where the [Po
 
 A natural amphitheater high among the central peaks, where a whisper at the bottom carries to the top. Pilgrims on the [Spine's pilgrimage routes](The-Spine.md) climb to it to say something out loud once.
 
-- **How it's remembered.** The legacy notes say it's where "the Mother" last touched the land. That belongs to a creation myth that's still [open](../Open-Questions.md#faiths), so here it's one belief among several.
+- **How it's remembered.** The legacy notes say it's where "the Mother" last touched the land. That belongs to the creation myth of how the three continents came together ([Religions](../Politics/Religions.md#the-creation-myth), D52), so here it's one belief among several.
 - **Open:** which faith, if any, keeps it. *Lean:* the [Silent Whisper](../Politics/Religions.md#6-the-silent-whisper), whose pilgrims walk "to stones where the acoustics carry the faintest sound". The legacy notes' **Celestium Spire**, a peak "used for celestial observations and rituals", could stand near it.
 
 ### The Speaking Cliff

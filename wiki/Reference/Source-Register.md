@@ -414,7 +414,7 @@ The [World Review, 2026-11](World-Review-2026-11.md) checked the whole wiki agai
 - **D25 later disposition:** the legacy pantheons ([Volume 06](../../legacy-notes/2026-09-22/consolidated-package/06_Religion_Gods_Artifacts.md)) came into [Religions](../Politics/Religions.md#working-life-and-gods) as provisional working names, believed in and never confirmed. The **Fell Pantheon** (soul-binding, undead) does not come in; at most it is heresy talk between faiths.
 - **§11 later disposition:** the named guild roster from Volume 08 was promoted as provisional by D24; Volume 12's plan-specific guilds are still unused.
 - **§5 not promoted:** World Dynamics' Port internal factions and slang, its children's rhymes and its wedding customs were never evaluated; they are now on the [legacy reconciliation backlog](README.md#legacy-reconciliation-backlog).
-- **Three Moon:** the recovered proposal's "once every seven years" is kept as legacy provenance; the festival is yearly, following the stories (lean).
+- **Three Moon:** the recovered proposal's "once every seven years" is kept as legacy provenance; the festival is yearly, following the stories (lean). *Superseded 2026-11-13 by D52: every seven years, when all three moons are visible from Port, as the proposal had it.*
 - **Unevaluated legacy material** worth keeping is listed, with file and anchor, on the [backlog](README.md#legacy-reconciliation-backlog), so it isn't lost.
 
 ## 2026-11-09 — Places of interest from the legacy landmark lists

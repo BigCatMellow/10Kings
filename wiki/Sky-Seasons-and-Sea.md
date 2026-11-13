@@ -20,7 +20,9 @@
 | A cold current runs south along the north-west coast; boats ride it south in spring and fight it home | the White Current ([Gazetteer](Places/Gazetteer.md#northwind)) |
 | The Spine has earthquakes and collapses | [The Spine](Places/The-Spine.md), [The Underpass](Places/The-Underpass.md) |
 
-**Still open on purpose:** how many moons there are, and why Three Moon is called that ([Three Moon](Culture/Three-Moons-Festival.md)); months, weeks and the year's day count ([Calendar](Calendar-and-Timekeeping.md#open)).
+| **Three moons**, and a festival at Port every seven years when all three are visible from the city | bt 7274 ([D52](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); [Three Moon](Culture/Three-Moons-Festival.md) |
+
+**Still open on purpose:** months, weeks and the year's day count ([Calendar](Calendar-and-Timekeeping.md#open)).
 
 ## The suns
 
@@ -49,15 +51,27 @@ That span asks for a map scale of about 1.8 miles to the draft's pixel ([Realism
 
 Aurora Nights falls in late summer because that's when Northwind's nights get dark enough to see the lights again.
 
-## The moon question
+## The three moons
 
-The lore leaves the moons open, but it has already said three things that bear on them:
+**Fixed by bt 7274** ([D52](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): the sky has three moons, and Port throws [Three Moon](Culture/Three-Moons-Festival.md) every seven years, when all three are visible from the city.
 
-- **The tide post at the Tide Road.** Tides raised by the suns alone come at the same hours every day, so nobody would need times cut into a post. A tide table is only needed when tide times shift day to day, and a moon is what shifts them.
-- **Twice a day.** Both suns and moons give two tides a day, so this fits either way.
-- **Tide Return in early spring.** On a world with a moon, the year's biggest tides come near the spring and autumn equinoxes, when the suns and the moon pull most nearly in line. A coast festival for the great spring tides is exactly what people would keep.
+**How the sky does that** (*lean*). Three moons on three different cycles:
+- a small, quick moon, full about every **10 days**;
+- a middle moon, full about every **30 days**, the one most calendars count by;
+- a slow moon, full about every **67 days**.
 
-*Lean:* **at least one moon, and the simplest is one.** Three Moon's name stays unexplained, as its page wants. If bt 7274 prefers no moon, then tides are smaller and come at fixed hours, and the Tide Road's post and Tide Return would need rewording.
+Their cycles fit the seven-year span exactly: 255, 86 and 38 turns. So **all three are full on the same night once every seven years, and on the same date each time**. That keeps Three Moon in early autumn.
+
+A check run over those periods found no other night in the seven years when all three come within half a day of full. It did find a near miss or two each cycle, within a day or so, when two are full and the third is close. Those are "false Three Moons", and the almanac-makers argue about them ([Religions](Politics/Religions.md#the-faiths-and-the-sky)).
+
+What three moons do:
+- **Nights are seldom fully dark.** Some moon is up most nights, so a truly dark night is an event. That is part of why Northwind names its Aurora Nights.
+- **Tides follow all three.** The times shift every day in a pattern only a table can follow. That is why the Tide Road has its tide post *(fixed by the lore)*: the keepers work out the tides, and travellers who misread the post get caught.
+- **The great tides.** The biggest tides of the year come near the equinoxes, when the suns and moons pull most nearly in line. That is Tide Return in early spring.
+- **Three Moon night brings the highest tide in seven years.** With all three moons full, the suns and moons pull in one line, and the tide runs higher than in any other year. The Narrows runs its hardest race, and Port's low quays go under at high water. A Three Moon festival week is also a week of flood-tide watches, pilots' fees and sandbags.
+- **Eclipses are common**, of the suns by a moon and of a moon by the world's shadow. Each faith reads them its own way.
+
+**The myth.** In the creation myth the three continents came together under the Mother, and her three Sons were in the sky ([Religions](Politics/Religions.md#the-creation-myth)). *Lean:* the Sons are the three moons.
 
 ## Wind, rain and storms
 
@@ -110,7 +124,7 @@ Notes, all *leans*:
 | **Late spring** | | the snowmelt floods Deepwood | the high passes open (Caravan Blessing); First Catch |
 | **Midsummer** | the longest days; the north barely dark | Sunplains dry and hot; fog on the Grey Banks | the peak of sailing and caravans |
 | **Late summer** | northern nights darken again | | Aurora Nights; grain ripens |
-| **Early autumn** | | storms begin in the north | harvest, the Wine Crush, Three Moon at Port |
+| **Early autumn** | every seventh year, all three moons full together | storms begin in the north; in a Three Moon year, the highest tides in seven years | harvest, the Wine Crush; Three Moon at Port, every seventh year |
 | **Late autumn** | | the gale season sets in | Last Sail; the passes close (Ledger Closing) |
 | **Midwinter** | the shortest days; the noon suns low in the north | northern harbors frozen; Sunplains' rains | stored food; repairs; Solstice Lanterns, Long Dark Feast |
 
@@ -119,6 +133,6 @@ Notes, all *leans*:
 ## Open for bt 7274
 
 1. The suns: a close pair (lean) or a distant second sun.
-2. The moons: none, one (lean) or more. The Tide Road and Tide Return point to at least one.
+2. The moons' cycles: about 10, 30 and 67 days (lean), fitted so all three are full together once in seven years. Whether the myth's three Sons are the three moons (lean: yes).
 3. The latitude span, which goes with the map's [scale](Open-Questions.md#map).
 4. Whether the suns' crossing becomes a unit of the calendar.

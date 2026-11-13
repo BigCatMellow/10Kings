@@ -32,7 +32,7 @@ The findings were then reconciled into the owner pages in three batches and the 
 
 | Finding | Resolution | Owner |
 | --- | --- | --- |
-| Three Moon: yearly in the stories, every seven years on its page; two spellings | yearly, "Three Moon"; the name stays unexplained, settling nothing about moons | [Three Moon](../Culture/Three-Moons-Festival.md) |
+| Three Moon: yearly in the stories, every seven years on its page; two spellings | yearly, "Three Moon"; the name stays unexplained, settling nothing about moons. **Superseded by D52:** every seven years, and the sky has three moons | [Three Moon](../Culture/Three-Moons-Festival.md) |
 | Printing: "doesn't exist" in one plan, a printed sheet in Three Pots | no presses for books or news; Port offices block-print their forms | [Records](../Records-Literacy-and-Authentication.md#28-public-notice-does-not-require-universal-literacy) |
 | Ledger Closing: "not a named holiday" against the festival table and The Goat File | Highridge's named day; elsewhere a mechanism under local names | [Calendar](../Calendar-and-Timekeeping.md) |
 | Folk belief "not false" could confirm the supernatural | practical content can be right; the supernatural cause is never confirmed | [Folk Belief](../Culture/Folk-Belief-Taboo-and-Superstition.md) |
@@ -68,7 +68,7 @@ Pages that had no `## Status` section were labelled from evidence: the reviewer'
 
 Each is applied provisionally and can be overruled in one line.
 
-1. **Three Moon is yearly**, spelled "Three Moon".
+1. **Three Moon is yearly**, spelled "Three Moon". *(Superseded by D52: every seven years, when all three moons are visible from Port.)*
 2. **No presses**; Port offices block-print forms.
 3. **Ledger Closing is Highridge's own named day**, and Highridge's credit year runs from Pass Opening to Ledger Closing.
 4. **The Current Events set is working canon at event level**, with names and hidden layers provisional, because fourteen drafted stories and the Domino Map rest on it.

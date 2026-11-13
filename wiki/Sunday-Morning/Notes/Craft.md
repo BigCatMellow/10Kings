@@ -40,7 +40,7 @@ A scene must cause something, change a relationship, knowledge or expectation, m
 
 ### 4. Show the iceberg's tip; let the world exceed the scene (carries over)
 
-Know more than the reader needs. Depth comes from characters treating their world as real, not from mystery decoration. "One unexplained detail can help. Ten can become noise. Zero can be correct." Pathwell's Quick Diagnostic asks for one unexplained detail per chapter, but its later Writing Principles overrule that: **there is no quota.** Nobody in Port knows why it's called Three Moon, and that's enough.
+Know more than the reader needs. Depth comes from characters treating their world as real, not from mystery decoration. "One unexplained detail can help. Ten can become noise. Zero can be correct." Pathwell's Quick Diagnostic asks for one unexplained detail per chapter, but its later Writing Principles overrule that: **there is no quota.** Nobody in Port can say who threw the first Three Moon, and that's enough.
 
 ### 5. The body may know before the mind (adapted)
 

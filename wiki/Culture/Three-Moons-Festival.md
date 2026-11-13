@@ -4,13 +4,15 @@
 
 **Provisional.** Recovered from PR #4 as a historical proposal; the [Sunday Morning stories](../Sunday-Morning/README.md) have since used it, so its cadence and name follow them. Later author-settled decisions on magic, region names, Council membership and language outrank this source. See [Source Register](../Reference/Source-Register.md).
 
-**Three Moon is held every year, in early autumn, and is Port's largest festival** (lean taken in the [2026-11 review](../Reference/World-Review-2026-11.md), following [Festivals](Festivals-and-Seasonal-Life.md#port) and [Three Pots at Three Moon](../Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md), where it is yearly: "Again next year", a stall kept "for fifty years"). The recovered proposal's **once every seven years** is kept only as legacy provenance. The spelling is **Three Moon**; the file keeps its older name for its links.
+**Three Moon is held every seven years, when all three moons are visible from Port** (bt 7274, 2026-11-13, [D52](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions): "a party thrown every 7 years when all 3 moons are visible in Ports view"). That is the festival's original cadence from the recovered proposal. The yearly reading the [2026-11 review](../Reference/World-Review-2026-11.md) took from the stories is withdrawn. The spelling stays **Three Moon**; the file keeps its older name for its links.
 
-Its exact historical origin, ritual sequence and duration remain open. Its name stays unexplained, in-world as well: "Nobody in Port knows why it's called Three Moon, and that's enough" ([Craft](../Sunday-Morning/Notes/Craft.md)). The name settles nothing about how many moons the sky has ([Calendar](../Calendar-and-Timekeeping.md)).
+**Its name is no mystery in Port.** The sky has three moons ([D52](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)), and the festival is named for the night they come round together. How that happens in the sky, and what it does to Port's tides, is on [Sky, Seasons and Sea](../Sky-Seasons-and-Sea.md#the-three-moons). Its season stays early autumn ([Festivals](Festivals-and-Seasonal-Life.md#port)). Its historical origin, ritual sequence and duration remain open.
+
+**One story line now disagrees.** [Three Pots at Three Moon](../Sunday-Morning/Stories/Three-Pots-at-Three-Moon.md) ends with the grandmother saying "Again next year." That is bt 7274's to change or keep; the story is untouched. Her "fifty years" at the stall still fits: about seven festivals.
 
 Its social function is proposed as follows:
 
-> **every year, Port becomes an unusually dense convergence point for people, institutions, goods, information, entertainment, contracts, and politics from across the known world.**
+> **every seven years, Port becomes an unusually dense convergence point for people, institutions, goods, information, entertainment, contracts, and politics from across the known world.**
 
 Its proximity to the current story is a historical proposal, not an adopted chronology.
 
