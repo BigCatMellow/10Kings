@@ -84,6 +84,23 @@ Coastal geography, bays, islands, currents, lineages and seasonal sites, in Nort
 | **Ternwick** | a village | A village of tern cliffs on the Western Continent's north coast |
 | **Hardwater** | a village | A moor village where the springs freeze first |
 
+
+**More towns and villages** (provisional, [D46](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Gannet Sound** | a town | A harbor town on a narrow sound, loud with seabirds |
+| **Stormwick** | a town | A walled fishing town that takes the worst of the winter storms |
+| **Ravenholm** | a town | A lineage town on a rise, with a hall older than its streets |
+| **Wintercombe** | a town | A valley town where the herds come down for the winter |
+| **Kelp Hythe** | a village | A landing where kelp is cut and dried |
+| **Netmend** | a village | A village of net-makers |
+| **Skerryhame** | a village | A village looking out on the skerries |
+| **Blackrock Strand** | a village | A village on a beach of black stones |
+| **Ottersby** | a village | A farming village by a stream |
+| **Cold Harbour** | a village | A shelter for boats caught out by the weather |
+| **Whalebone** | a village | A village with a whale's jaw for a gate |
+
 ## Ironcrest
 
 Older upland and river names under later mining, fort, family and guild names, in Ironet.
@@ -127,6 +144,23 @@ Older upland and river names under later mining, fort, family and guild names, i
 | **Pithead** | a village | A mining village under Smoulder Knowe's hills |
 | **Copperdown** | a village | An upland village on the old copper workings |
 | **Wickmoor** | a village | A herding village on Ironcrest's lower moor |
+
+
+**More towns and villages** (provisional, [D46](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Orebridge** | a town | A town at the bridge where the ore carts cross |
+| **Forgewell** | a town | A town of forges round a deep well |
+| **Cindermouth** | a town | A smelting town at the mouth of a stream run black with cinders |
+| **Castle Tarrant** | a town | An old family fort and the town under its walls |
+| **Guildhall Rise** | a town | A town that grew round a guild's hall |
+| **Slagbank** | a village | A village built on old slag heaps |
+| **Adit End** | a village | A village at the mouth of an old mine tunnel |
+| **Wheel Pit** | a village | A village round a water-driven pump |
+| **Lowshaft** | a village | A mining village in a hollow |
+| **Bellows Green** | a village | A smithing village on a common |
+| **Tarrant's Mill** | a village | A mill village held by the Tarrants |
 
 ## Greenvale
 
@@ -177,6 +211,26 @@ Rivers, soils, old settlements, family lands, markets and former estates, in the
 | **Wheatsheaf** | a village | A farming village named for its inn |
 | **Brook Hatch** | a village | A village at a sluice where the lower leaf rises toward the plateau |
 
+
+**More towns and villages** (provisional, [D46](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Loamford** | a town | A market town at a ford in good dark soil |
+| **Hayhurst** | a town | A market town in hay country |
+| **Marlbury** | a town | An old walled town on chalk and marl |
+| **Wendbridge** | a town | A town at the bridge over the Wend |
+| **Ashby Market** | a town | A market town with a great ash in the square |
+| **Furrowby** | a village | A farming village |
+| **Clayhythe** | a village | A clay-pit village with a river landing |
+| **Sheaf End** | a village | A village at the end of the harvest road |
+| **Little Ashby** | a village | A village whose founders came from Ashby Market |
+| **Copse Green** | a village | A village round a green and a copse |
+| **Dykeling** | a village | A village behind a sea dyke |
+| **Haywold** | a village | A village on open rolling ground |
+| **Mere Farthing** | a village | A village by a small mere, once a farthing's rent |
+| **Gleaning** | a village | A village where the poor glean after harvest by old right |
+
 ## Highridge Plateau
 
 Route names, passes, wells, caravan families, old toll sites and translated names; the oldest pass and spring names are Old Spine speech.
@@ -218,6 +272,21 @@ Route names, passes, wells, caravan families, old toll sites and translated name
 | --- | --- | --- |
 | **Cairnwell** | a village | A well and a cairn on the plateau's western route |
 
+
+**More towns and villages** (provisional, [D46](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Tollgate Rise** | a town | A town that grew round an old toll house |
+| **Merrin's Halt** | a town | A caravan town named for the family that kept the first inn |
+| **Brinewell** | a town | A town on a salt spring |
+| **Drovers' Gap** | a town | A town in a gap where the herds are driven through |
+| **Stonecairn** | a village | A village by a guide cairn |
+| **Last Water** | a village | The last sure well before a dry stretch |
+| **Mulehead** | a village | A village where pack mules are bred and hired |
+| **Ostrav** | a village | A village with an Old Spine name |
+| **Windgap** | a village | A village in a windy notch |
+
 ## Deepwood
 
 Waterways, groves, species, older peoples, and landmarks that may not be obvious to outsiders, in the Deepwood languages.
@@ -242,6 +311,21 @@ Waterways, groves, species, older peoples, and landmarks that may not be obvious
 | **Alderhythe** | a city | Deepwood's largest town, a landing on the Brownwater at the forest's southern edge |
 | **Fernwater** | a village | A forest village on a slow stream |
 | **Yewhollow** | a village | A village in a hollow of old yews, deep in the forest |
+
+
+**More towns and villages** (provisional, [D46](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Rowanford** | a town | A forest town at a ford, ringed with rowans |
+| **Mosswater** | a town | A town of bridges over slow mossy water |
+| **Elmhythe** | a town | A landing where timber is floated down to the coast |
+| **Ferndeep** | a village | A village in deep fern |
+| **Birchgrove** | a village | A village in a birch grove |
+| **Hollybrook** | a village | A village on a stream under hollies |
+| **Owlmere** | a village | A village by an owl-haunted pool |
+| **Thornhallow** | a village | A village round a shrine in a thicket |
+| **Lichen Steps** | a village | A village up a stair of mossy stones |
 
 ## Sunplains
 
@@ -270,6 +354,22 @@ Old city-state names, founders, civic ideals, waterworks, forts, ports and estat
 | **Accord** | a city | A Sunplains city-state on the Long Channel's northern shore, home of the Argument House |
 | **Cisternfield** | a village | An orchard village round a shared cistern |
 | **Goodwater** | a village | A village of irrigated orchards on the Long Channel shore |
+
+
+**More towns and villages** (provisional, [D46](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Corvane** | a town | An old city-state of the coast |
+| **Aldessa** | a town | An old inland city-state |
+| **Sluicegate** | a town | A town round the gates that share out the river |
+| **Fort Bellar** | a town | An old fort town in the orchard country |
+| **Terrace Wells** | a village | A village of terraced orchards |
+| **Dovecote** | a village | A village of dovecotes |
+| **Sunwell** | a village | A village round a sun-warmed well |
+| **Vintner's Rest** | a village | A village of vineyards and a wayside inn |
+| **Bellar Ford** | a village | A ford village named for Fort Bellar's old lords |
+| **Saltpan** | a village | A village of salt pans |
 
 ## Port
 
