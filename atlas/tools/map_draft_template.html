@@ -100,7 +100,7 @@ const REPO = "https://github.com/BigCatMellow/10kings/blob/main/wiki/";
 const NS = "http://www.w3.org/2000/svg";
 const PLACE_COL = {"holy site":"#6b2f86","monument":"#5b4a3a","carving":"#5b4a3a","ruin":"#5b4a3a","relic":"#5b4a3a","mystery":"#9c1f1f","natural wonder":"#1f6b66","landmark":"#28406e","meeting place":"#28406e","memorial":"#28406e"};
 const LAYERS = [
-  {id:"regions", label:"Regions", sw:"#b98a4a"},
+  {id:"regions", label: D.peoples_soft ? "Peoples" : "Regions", sw:"#b98a4a"},
   {id:"waters", label:"Seas and straits", sw:"#4f7f93"},
   {id:"river", label:"Rivers", sw:"#4f7f93"},
   {id:"road", label:"Roads and paths", sw:"#7b3f22"},
@@ -166,6 +166,8 @@ for (const p of [...D.points].sort((a, b) => (a.sub === "port") - (b.sub === "po
   let shape;
   if (p.kind === "town") {
     if (p.sub === "port") shape = el("rect", {x: -5, y: -5, width: 10, height: 10, fill: "#9c1f1f", stroke: "#fff", "stroke-width": 1.5}, s);
+    else if (p.sub === "city") { shape = el("circle", {r: 6, fill: "#fff", stroke: "#20170e", "stroke-width": 2}, s); el("circle", {r: 2.6, fill: "#20170e"}, s); }
+    else if (p.sub === "village") shape = el("circle", {r: 2.4, fill: "#fff", stroke: "#20170e", "stroke-width": 1.2}, s);
     else if (p.sub === "border") shape = el("circle", {r: 4, fill: "#fff", stroke: "#20170e", "stroke-width": 2}, s);
     else shape = el("circle", {r: 3.6, fill: p.sub === "story" ? "#20170e" : "#fff", stroke: "#20170e", "stroke-width": 1.4}, s);
   } else if (p.kind === "place") {
@@ -175,7 +177,7 @@ for (const p of [...D.points].sort((a, b) => (a.sub === "port") - (b.sub === "po
   }
   shape.setAttribute("class", "shape");
   const isPort = p.sub === "port";
-  const t = el("text", {x: isPort ? -8 : 7, y: isPort ? -8 : 4, class: "lbl", "text-anchor": isPort ? "end" : "start", "font-size": isPort ? 17 : p.kind === "town" ? 12.5 : 11.5, "font-weight": isPort ? 700 : 400, "font-style": p.kind === "feature" ? "italic" : "normal"}, s);
+  const t = el("text", {x: isPort ? -8 : 7, y: isPort ? -8 : 4, class: "lbl", "text-anchor": isPort ? "end" : "start", "font-size": isPort ? 17 : p.sub === "city" ? 15 : p.sub === "village" ? 11 : p.kind === "town" ? 12.5 : 11.5, "font-weight": isPort || p.sub === "city" ? 700 : 400, "font-style": p.kind === "feature" ? "italic" : "normal"}, s);
   t.textContent = p.name;
   const item = {...p, group: p.kind, node: g};
   g.addEventListener("click", e => { e.stopPropagation(); select(item); });
@@ -192,7 +194,8 @@ function apply() {
   const sc = svgPoint(0, 0)[2], screenK = k * sc;
   for (const m of marks) {
     m.s.setAttribute("transform", `scale(${1 / k})`);
-    m.t.style.display = screenK >= SHOW[m.p.kind] * 0.85 || m.p.sub === "port" ? "" : "none";
+    const need = m.p.sub === "city" ? 0.9 : m.p.sub === "village" ? 2.4 : SHOW[m.p.kind];
+    m.t.style.display = screenK >= need * 0.85 || m.p.sub === "port" ? "" : "none";
   }
   // area labels keep a steady size on screen, growing a little as you zoom in
   const grow = Math.min(1.5, Math.max(1, screenK / 1.4));
@@ -268,6 +271,8 @@ for (const l of LAYERS) {
   lay.appendChild(b);
 }
 const LEG = [
+  ['<circle cx="7" cy="7" r="5.5" fill="#fff" stroke="#20170e" stroke-width="2"/><circle cx="7" cy="7" r="2.4" fill="#20170e"/>', "City"],
+  ['<circle cx="7" cy="7" r="2.4" fill="#fff" stroke="#20170e" stroke-width="1.2"/>', "Village"],
   ['<rect x="2" y="2" width="10" height="10" fill="#9c1f1f"/>', "Port"],
   ['<circle cx="7" cy="7" r="4" fill="#fff" stroke="#20170e" stroke-width="2"/>', "Border town"],
   ['<circle cx="7" cy="7" r="3.6" fill="#20170e"/>', "Town a story uses"],

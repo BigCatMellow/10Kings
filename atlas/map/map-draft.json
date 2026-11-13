@@ -1,13 +1,15 @@
 {
  "title": "Map draft",
- "status": "Third draft (D40, D41): bt 7274's own layout, tweaked. Northwind across the north of both continents, Highridge's plateau below it, Greenvale wrapping the Inner Sea from the lower leaf to Port, and Port holding both sides of its harbor mouth. Every placement is still a lean; the wiki owns the facts and the exact map stays open.",
+ "status": "Fourth draft (D45): bt 7274's layout, with the land painted on and the peoples shown as soft colour that fades and overlaps (D43), not filled regions. Every placement is a lean; the wiki owns the facts and the exact map stays open.",
  "image": {
   "file": "base-map.png",
   "w": 980,
   "h": 728,
   "source": "legacy-notes/2026-09-22/consolidated-package/Map_-_The_Continent.png",
-  "note": "a copy of `legacy-notes/2026-09-22/consolidated-package/Map_-_The_Continent.png`, which the [Source Register](../../wiki/Reference/Source-Register.md) calls a provisional historical concept.",
-  "rebuild": "`python3 atlas/tools/map_draft.py`."
+  "note": "the legacy sheet `base-legacy.png` (a copy of `legacy-notes/2026-09-22/consolidated-package/Map_-_The_Continent.png`, which the [Source Register](../../wiki/Reference/Source-Register.md) calls a provisional historical concept), with the land painted on by `atlas/tools/terrain_paint.py` from [`terrain.json`](terrain.json) (D45).",
+  "rebuild": "`python3 atlas/tools/terrain_paint.py map`, then `python3 atlas/tools/map_draft.py`.",
+  "mask": "land-mask.png",
+  "core_from": "base-legacy.png"
  },
  "continents": [
   {
@@ -304,8 +306,8 @@
   {
    "id": "greenvale",
    "name": "Greenvale",
-   "x": 392,
-   "y": 458,
+   "x": 232,
+   "y": 338,
    "color": [
     150,
     185,
@@ -367,8 +369,8 @@
    ],
    "more_labels": [
     [
-     232,
-     338
+     330,
+     506
     ]
    ]
   },
@@ -642,19 +644,23 @@
    "sub": "river",
    "pts": [
     [
-     742,
-     430
+     744,
+     428
     ],
     [
      716,
+     442
+    ],
+    [
+     692,
      452
     ],
     [
-     690,
-     470
+     672,
+     468
     ],
     [
-     664,
+     660,
      480
     ]
    ],
@@ -1176,6 +1182,36 @@
    ],
    "src": "Places/The-Underpass.md",
    "note": "Beneath parts of the Spine; branches not mapped."
+  },
+  {
+   "id": "wend",
+   "name": "The Wend",
+   "kind": "river",
+   "sub": "river",
+   "pts": [
+    [
+     280,
+     366
+    ],
+    [
+     256,
+     372
+    ],
+    [
+     238,
+     378
+    ],
+    [
+     214,
+     392
+    ],
+    [
+     186,
+     410
+    ]
+   ],
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "The lower leaf's river, past Millcombe's mills to the west coast (lean, D45)."
   }
  ],
  "unplaced": [
@@ -1393,11 +1429,11 @@
    "id": "emberhaven",
    "name": "Emberhaven Cross",
    "kind": "town",
-   "sub": "gazetteer",
+   "sub": "city",
    "x": 560,
    "y": 300,
    "src": "Places/Gazetteer.md#between-the-kingdoms",
-   "note": "Where the Ore Road meets the road down to Stonefield.",
+   "note": "A foundry city at the crossroads where the Ore Road meets the road down to Stonefield (lean, D45).",
    "region": "ironcrest"
   },
   {
@@ -1540,11 +1576,11 @@
    "id": "kingshead",
    "name": "Kingshead",
    "kind": "town",
-   "sub": "gazetteer",
+   "sub": "city",
    "x": 452,
    "y": 200,
    "src": "Places/Gazetteer.md#highridge-plateau",
-   "note": "Named for the Head in the Square.",
+   "note": "The plateau's largest market city, named for the Head in the Square (lean, D45).",
    "region": "highridge"
   },
   {
@@ -1846,8 +1882,8 @@
    "name": "Ship Hill",
    "kind": "feature",
    "sub": "hill",
-   "x": 448,
-   "y": 428,
+   "x": 467,
+   "y": 442,
    "src": "Places/Gazetteer.md#greenvale",
    "note": "Toward the Highridge edge.",
    "region": "greenvale"
@@ -1867,18 +1903,18 @@
    "id": "vasselin",
    "name": "Vasselin",
    "kind": "town",
-   "sub": "story",
+   "sub": "city",
    "x": 600,
    "y": 548,
    "src": "Sunday-Morning/Stories/The-Ladder-Rules.md",
-   "note": "A city-state of courtyard houses (lean: near the tip).",
+   "note": "A city-state of courtyard houses around an old cistern square (lean: near the tip).",
    "region": "sunplains"
   },
   {
    "id": "twelve-wheels",
    "name": "Twelve Wheels",
    "kind": "town",
-   "sub": "gazetteer",
+   "sub": "city",
    "x": 522,
    "y": 574,
    "src": "Places/Gazetteer.md#sunplains",
@@ -2092,10 +2128,10 @@
    "name": "The Argument House",
    "kind": "place",
    "sub": "holy site",
-   "x": 692,
+   "x": 694,
    "y": 486,
    "src": "Places/Places-of-Interest.md#the-argument-house",
-   "note": "In a Sunplains city (lean: on the Long Channel's northern shore).",
+   "note": "In Accord, on the Long Channel's northern shore (lean).",
    "region": "sunplains"
   },
   {
@@ -2257,8 +2293,8 @@
    "name": "The Ship on the Hill",
    "kind": "place",
    "sub": "mystery",
-   "x": 448,
-   "y": 428,
+   "x": 467,
+   "y": 442,
    "src": "Places/Places-of-Interest.md#the-ship-on-the-hill",
    "note": "On Ship Hill.",
    "region": "greenvale"
@@ -2692,6 +2728,267 @@
    "src": "Places/Places-of-Interest.md#the-seizure-warehouse",
    "note": "In Port's Old Bond.",
    "region": "port"
+  },
+  {
+   "id": "gullhaven",
+   "name": "Gullhaven",
+   "kind": "town",
+   "sub": "city",
+   "x": 372,
+   "y": 92,
+   "src": "Places/Gazetteer.md#northwind",
+   "note": "Northwind's great harbor on the north coast, facing the Grey Banks: the fleets winter here (lean, D45).",
+   "region": "northwind"
+  },
+  {
+   "id": "mootstead",
+   "name": "Mootstead",
+   "kind": "town",
+   "sub": "city",
+   "x": 330,
+   "y": 146,
+   "src": "Places/Gazetteer.md#northwind",
+   "note": "The old clan seat in the sheltered inland valleys, where the lineages meet in moot (lean, D45).",
+   "region": "northwind"
+  },
+  {
+   "id": "hammerford",
+   "name": "Hammerford",
+   "kind": "town",
+   "sub": "city",
+   "x": 606,
+   "y": 258,
+   "src": "Places/Gazetteer.md#ironcrest",
+   "note": "A guild city at the old ford on the Ember, below the Ironbacks (lean, D45).",
+   "region": "ironcrest"
+  },
+  {
+   "id": "fairmarket",
+   "name": "Fairmarket",
+   "kind": "town",
+   "sub": "city",
+   "x": 457,
+   "y": 424,
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "Greenvale's great market city on the Long Water, a day above the Kings' Gate and Port (lean, D45).",
+   "region": "greenvale"
+  },
+  {
+   "id": "millcombe",
+   "name": "Millcombe",
+   "kind": "town",
+   "sub": "city",
+   "x": 238,
+   "y": 376,
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "The mill city of the lower leaf, on the Wend among the fields (lean, D45).",
+   "region": "greenvale"
+  },
+  {
+   "id": "alderhythe",
+   "name": "Alderhythe",
+   "kind": "town",
+   "sub": "city",
+   "x": 690,
+   "y": 448,
+   "src": "Places/Gazetteer.md#deepwood",
+   "note": "Deepwood's largest town, a landing on the Brownwater at the forest's southern edge (lean, D45).",
+   "region": "deepwood"
+  },
+  {
+   "id": "accord",
+   "name": "Accord",
+   "kind": "town",
+   "sub": "city",
+   "x": 690,
+   "y": 490,
+   "src": "Places/Gazetteer.md#sunplains",
+   "note": "A Sunplains city-state on the Long Channel's northern shore, home of the Argument House (lean, D45).",
+   "region": "sunplains"
+  },
+  {
+   "id": "saltrock",
+   "name": "Saltrock",
+   "kind": "town",
+   "sub": "village",
+   "x": 440,
+   "y": 102,
+   "src": "Places/Gazetteer.md#northwind",
+   "note": "A fishing village east of Snowbreaker Quay. (lean, D45)",
+   "region": "northwind"
+  },
+  {
+   "id": "ternwick",
+   "name": "Ternwick",
+   "kind": "town",
+   "sub": "village",
+   "x": 633,
+   "y": 145,
+   "src": "Places/Gazetteer.md#northwind",
+   "note": "A village of tern cliffs on the Western Continent's north coast. (lean, D45)",
+   "region": "northwind"
+  },
+  {
+   "id": "hardwater",
+   "name": "Hardwater",
+   "kind": "town",
+   "sub": "village",
+   "x": 600,
+   "y": 152,
+   "src": "Places/Gazetteer.md#northwind",
+   "note": "A moor village where the springs freeze first. (lean, D45)",
+   "region": "northwind"
+  },
+  {
+   "id": "cairnwell",
+   "name": "Cairnwell",
+   "kind": "town",
+   "sub": "village",
+   "x": 356,
+   "y": 226,
+   "src": "Places/Gazetteer.md#highridge-plateau",
+   "note": "A well and a cairn on the plateau's western route. (lean, D45)",
+   "region": "highridge"
+  },
+  {
+   "id": "pithead",
+   "name": "Pithead",
+   "kind": "town",
+   "sub": "village",
+   "x": 684,
+   "y": 262,
+   "src": "Places/Gazetteer.md#ironcrest",
+   "note": "A mining village under Smoulder Knowe's hills. (lean, D45)",
+   "region": "ironcrest"
+  },
+  {
+   "id": "copperdown",
+   "name": "Copperdown",
+   "kind": "town",
+   "sub": "village",
+   "x": 586,
+   "y": 206,
+   "src": "Places/Gazetteer.md#ironcrest",
+   "note": "An upland village on the old copper workings. (lean, D45)",
+   "region": "ironcrest"
+  },
+  {
+   "id": "wickmoor",
+   "name": "Wickmoor",
+   "kind": "town",
+   "sub": "village",
+   "x": 662,
+   "y": 308,
+   "src": "Places/Gazetteer.md#ironcrest",
+   "note": "A herding village on Ironcrest's lower moor. (lean, D45)",
+   "region": "ironcrest"
+  },
+  {
+   "id": "fernwater",
+   "name": "Fernwater",
+   "kind": "town",
+   "sub": "village",
+   "x": 616,
+   "y": 420,
+   "src": "Places/Gazetteer.md#deepwood",
+   "note": "A forest village on a slow stream. (lean, D45)",
+   "region": "deepwood"
+  },
+  {
+   "id": "yewhollow",
+   "name": "Yewhollow",
+   "kind": "town",
+   "sub": "village",
+   "x": 724,
+   "y": 400,
+   "src": "Places/Gazetteer.md#deepwood",
+   "note": "A village in a hollow of old yews, deep in the forest. (lean, D45)",
+   "region": "deepwood"
+  },
+  {
+   "id": "oxley",
+   "name": "Oxley",
+   "kind": "town",
+   "sub": "village",
+   "x": 200,
+   "y": 318,
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "A cattle village on the lower leaf's northern edge. (lean, D45)",
+   "region": "greenvale"
+  },
+  {
+   "id": "wheatsheaf",
+   "name": "Wheatsheaf",
+   "kind": "town",
+   "sub": "village",
+   "x": 292,
+   "y": 410,
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "A farming village named for its inn. (lean, D45)",
+   "region": "greenvale"
+  },
+  {
+   "id": "brook-hatch",
+   "name": "Brook Hatch",
+   "kind": "town",
+   "sub": "village",
+   "x": 318,
+   "y": 304,
+   "src": "Places/Gazetteer.md#greenvale",
+   "note": "A village at a sluice where the lower leaf rises toward the plateau. (lean, D45)",
+   "region": "greenvale"
+  },
+  {
+   "id": "cisternfield",
+   "name": "Cisternfield",
+   "kind": "town",
+   "sub": "village",
+   "x": 436,
+   "y": 556,
+   "src": "Places/Gazetteer.md#sunplains",
+   "note": "An orchard village round a shared cistern. (lean, D45)",
+   "region": "sunplains"
+  },
+  {
+   "id": "goodwater",
+   "name": "Goodwater",
+   "kind": "town",
+   "sub": "village",
+   "x": 622,
+   "y": 500,
+   "src": "Places/Gazetteer.md#sunplains",
+   "note": "A village of irrigated orchards on the Long Channel shore. (lean, D45)",
+   "region": "sunplains"
+  },
+  {
+   "id": "ferrowgate",
+   "name": "Ferrowgate",
+   "kind": "town",
+   "sub": "border",
+   "x": 640,
+   "y": 168,
+   "src": "Places/Gazetteer.md#between-the-kingdoms",
+   "note": "Where Northwind's coast country meets Ironcrest's uplands; Ironcrest calls it Ferrow, Northwind calls it the Gate (lean, D45).",
+   "region": "northwind",
+   "between": [
+    "northwind",
+    "ironcrest"
+   ]
+  },
+  {
+   "id": "two-oaks",
+   "name": "Two Oaks",
+   "kind": "town",
+   "sub": "border",
+   "x": 616,
+   "y": 462,
+   "src": "Places/Gazetteer.md#between-the-kingdoms",
+   "note": "Where the forest's edge meets the Sunplains' orchards; each side planted one of the oaks (lean, D45).",
+   "region": "deepwood",
+   "between": [
+    "deepwood",
+    "sunplains"
+   ]
   }
  ],
  "overrides": [
@@ -2846,6 +3143,8 @@
   }
  ],
  "leans": [
+  "**The land and the peoples (D43, D45).** Mountains, hills, forests, farmland, orchards and marsh are painted on the sheet; each people's colour is strongest in its heartland and fades through the edge country, so there are no borders to cross, only country that slowly becomes someone else's. The heartlands follow bt 7274's layout.",
+  "**New settlements (D45).** Seven cities (Gullhaven, Mootstead, Hammerford, Fairmarket, Millcombe, Alderhythe, Accord), fourteen villages and two border towns (Ferrowgate, Two Oaks) are new names, sited where the land would put them: harbors, river fords, valley seats, a forest landing. Kingshead, Emberhaven Cross, Vasselin and Twelve Wheels are shown as cities. *Lean:* keep; rename freely.",
   "**bt 7274's layout (D40).** Northwind across the north of both continents; Highridge's plateau across the Northern Continent's middle; Greenvale on the lower leaf and round Port; Deepwood the Western Continent's lower half; Ironcrest its uplands. Drawn by bt 7274 on the second draft.",
   "**Port holds both sides of the Throat (D41).** With Greenvale on both shores of the Narrows, the kingdom that feeds Port would also hold its only sea gate, which cuts against Port being 'difficult for one kingdom to seize'. So Port's ground takes Lamp Point, the strait's north shore where it opens into the Inner Sea, with the Old Light on it: Port holds its own harbor mouth, Greenvale the strait's length. *Lean:* keep. The alternative, Greenvale holding the whole gate, would make Greenvale's grip on Port a story fact; that's bt 7274's to add.",
   "**Greenvale's foothold at Stonefield Forge.** The layout separated Ironcrest from Greenvale, but Stonefield Forge is a strongly established border town between them. Greenvale keeps a small piece of the western lowlands at the Spine's eastern foot, which Ironcrest's page says its rulers 'periodically held', and Stonefield Forge stands in it. *Lean:* keep.",
@@ -2958,5 +3257,6 @@
  "land_read": [
   "bt 7274 chose to read the continents **by shape** (2026-11-09), from the legacy notes: the Northern Continent is \"clover-like\", the Western \"rounded\", the Eastern \"tapering\". The names are old names, not compass directions on this image."
  ],
- "land_after": "The three continents meet by land only at the Spine, the mountains drawn at the centre, which fits the legacy notes (\"separated by water channels, connected by the Spine\") and [Geography](../../wiki/Geography-and-Connections.md#macro-geography), where the continents must meet by land."
+ "land_after": "The three continents meet by land only at the Spine, the mountains drawn at the centre, which fits the legacy notes (\"separated by water channels, connected by the Spine\") and [Geography](../../wiki/Geography-and-Connections.md#macro-geography), where the continents must meet by land.",
+ "peoples_soft": true
 }

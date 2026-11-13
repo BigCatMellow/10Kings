@@ -94,7 +94,7 @@ This undoes any argument that treats the regions as tiles on a map. The [lore ma
 3. **Rule as light marks.** Seats of power, claimed towns, roads and passes, treaty lines where they exist, and contested stretches. Each of these can be shown or hidden.
 4. **Holdings as small marks.** Where it matters to a story, show a held field, mine or estate in the holder's colour inside another people's country.
 
-Both current [Atlas](../atlas/README.md) maps draw filled regions, so both predate this page.
+The [map draft](../atlas/map/README.md) on bt 7274's layout now draws the land and the peoples this way ([D45](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); the [lore map](../atlas/lore-map/README.md) still draws filled regions.
 
 ## Writing it
 

@@ -55,7 +55,11 @@ def anchors(path):
 def masks(img, D=None):
     if D and D["image"].get("mask"):  # a drawn sheet says where its land is
         land = np.asarray(Image.open(os.path.join(MAP, D["image"]["mask"])).convert("L")) > 127
-        return land, land
+        if not D["image"].get("core_from"):
+            return land, land
+        img = Image.open(os.path.join(MAP, D["image"]["core_from"]))  # continents read from the undrawn sheet
+        a = np.asarray(img.convert("RGB")).astype(int)
+        return land, (a[..., 0] > 190) & (a[..., 0] - a[..., 2] > 35)
     a = np.asarray(img.convert("RGB")).astype(int)
     R, G, B = a[..., 0], a[..., 1], a[..., 2]
     water = nd.binary_opening(G - R > -6, iterations=1)
@@ -171,7 +175,39 @@ def check_layout(D, owner, lobe):
     return errs, rows
 
 
+def soft_overlay(D, owner):
+    """Peoples, not regions (D43): each people's colour is strongest in its heartland,
+    fades through the edge country and spills a little into its neighbours'. Port shows
+    every colour faintly and none strongly."""
+    h, w = owner.shape
+    land = owner >= 0
+    num = np.zeros((h, w, 3)); peak = np.zeros((h, w)); wsum = np.zeros((h, w))
+    port = None
+    for ri, r in enumerate(D["regions"]):
+        m = owner == ri
+        if r.get("label") is False:  # Port: not a people with a heartland
+            port = nd.binary_dilation(m, iterations=3)
+            continue
+        din = nd.distance_transform_edt(m)
+        dout = nd.distance_transform_edt(~m)
+        wgt = np.where(m, 0.35 + 0.65 * np.clip(din / 40, 0, 1), 0.38 * np.exp(-dout / 16))
+        wgt = nd.gaussian_filter(wgt, 5) * land
+        num += wgt[..., None] * np.array(r["color"])
+        wsum += wgt
+        peak = np.maximum(peak, wgt)
+    col = num / np.maximum(wsum, 1e-6)[..., None]
+    alpha = np.clip(peak, 0, 1) * 150
+    if port is not None:
+        alpha[port & land] = 60
+    out = np.zeros((h, w, 4), np.uint8)
+    out[..., :3] = col.clip(0, 255).astype(np.uint8)
+    out[..., 3] = (alpha * land).astype(np.uint8)
+    return Image.fromarray(out, "RGBA")
+
+
 def overlay(D, owner):
+    if D.get("peoples_soft"):
+        return soft_overlay(D, owner)
     h, w = owner.shape
     out = np.zeros((h, w, 4), np.uint8)
     for ri, r in enumerate(D["regions"]):

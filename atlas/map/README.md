@@ -4,14 +4,14 @@
 
 ## Status
 
-**Third draft (D40, D41): bt 7274's own layout, tweaked. Northwind across the north of both continents, Highridge's plateau below it, Greenvale wrapping the Inner Sea from the lower leaf to Port, and Port holding both sides of its harbor mouth. Every placement is still a lean; the wiki owns the facts and the exact map stays open.** Like the rest of the [Atlas](../README.md), this map follows the wiki and never leads it: if a placement here and a wiki page disagree, the wiki wins and the placement moves. The exact map is still [open](../../wiki/Open-Questions.md#map).
+**Fourth draft (D45): bt 7274's layout, with the land painted on and the peoples shown as soft colour that fades and overlaps (D43), not filled regions. Every placement is a lean; the wiki owns the facts and the exact map stays open.** Like the rest of the [Atlas](../README.md), this map follows the wiki and never leads it: if a placement here and a wiki page disagree, the wiki wins and the placement moves. The exact map is still [open](../../wiki/Open-Questions.md#map).
 
 ![The map draft](map-draft.png)
 
 - **Interactive map:** [`index.html`](index.html). Pan, zoom, switch layers, search, and click anything for its wiki page.
-- **Base image:** [`base-map.png`](base-map.png), a copy of `legacy-notes/2026-09-22/consolidated-package/Map_-_The_Continent.png`, which the [Source Register](../../wiki/Reference/Source-Register.md) calls a provisional historical concept.
-- **On the map:** 7 regions, 33 towns, 63 places of interest, 37 named features, 8 rivers, 18 roads and paths, 8 seas and straits; land shares: Northwind 15%, Ironcrest 16%, Deepwood 16%, Highridge Plateau 15%, Greenvale 24%, Sunplains 13%, Port 1%.
-- **Rebuild:** `python3 atlas/tools/map_draft.py`. Move anything by editing its coordinates in [`map-draft.json`](map-draft.json) (pixels on the 980 × 728 sheet) and rebuilding.
+- **Base image:** [`base-map.png`](base-map.png), the legacy sheet `base-legacy.png` (a copy of `legacy-notes/2026-09-22/consolidated-package/Map_-_The_Continent.png`, which the [Source Register](../../wiki/Reference/Source-Register.md) calls a provisional historical concept), with the land painted on by `atlas/tools/terrain_paint.py` from [`terrain.json`](terrain.json) (D45).
+- **On the map:** 7 regions, 56 towns, 63 places of interest, 37 named features, 9 rivers, 18 roads and paths, 8 seas and straits; land shares: Northwind 15%, Ironcrest 16%, Deepwood 16%, Highridge Plateau 15%, Greenvale 24%, Sunplains 13%, Port 1%.
+- **Rebuild:** `python3 atlas/tools/terrain_paint.py map`, then `python3 atlas/tools/map_draft.py`. Move anything by editing its coordinates in [`map-draft.json`](map-draft.json) (pixels on the 980 × 728 sheet) and rebuilding.
 
 ## How the land was read
 
@@ -29,14 +29,16 @@ The three continents meet by land only at the Spine, the mountains drawn at the 
 
 Everything else on the map follows from these.
 
-1. **bt 7274's layout (D40).** Northwind across the north of both continents; Highridge's plateau across the Northern Continent's middle; Greenvale on the lower leaf and round Port; Deepwood the Western Continent's lower half; Ironcrest its uplands. Drawn by bt 7274 on the second draft.
-2. **Port holds both sides of the Throat (D41).** With Greenvale on both shores of the Narrows, the kingdom that feeds Port would also hold its only sea gate, which cuts against Port being 'difficult for one kingdom to seize'. So Port's ground takes Lamp Point, the strait's north shore where it opens into the Inner Sea, with the Old Light on it: Port holds its own harbor mouth, Greenvale the strait's length. *Lean:* keep. The alternative, Greenvale holding the whole gate, would make Greenvale's grip on Port a story fact; that's bt 7274's to add.
-3. **Greenvale's foothold at Stonefield Forge.** The layout separated Ironcrest from Greenvale, but Stonefield Forge is a strongly established border town between them. Greenvale keeps a small piece of the western lowlands at the Spine's eastern foot, which Ironcrest's page says its rulers 'periodically held', and Stonefield Forge stands in it. *Lean:* keep.
-4. **Northwind borders Ironcrest.** Northwind on the Western Continent's north touches Ironcrest by land, so Geography's line that Northwind borders none of its suppliers no longer holds for Ironcrest's metal. Greenvale's grain and Deepwood's medicine still reach Northwind only through Icestep or by sea through Port. Geography now says so.
-5. **Frostbay Way and the sea road.** Frostbay Way, the Northwind–Port border town, becomes Northwind's last harbor on the sea road to Port, on its west coast; the Long Way runs along Northwind's coast to it, and the rest is by ship through the Narrows. *Lean:* keep.
-6. **Northwind's towns moved** to its new coasts: Narrow Sound and Kettle Cove (The Greenvale Man) on the west coast, the Rescue Houses, the Burned Strand and Icefang Fjord on the Western Continent's north shore. The stories only need them coastal and across a headland from each other. Highridge stands between Northwind and Greenvale, so Greenvale still feels far from Kettle Cove.
-7. **Port at the head of the Inner Sea** (D39), unchanged.
-8. **Ironcrest's directions.** Ironcrest's page says its 'eastern and southeastern edges' face Greenvale, Highridge and Deepwood; on this image they face west and south. Read as an old name for a side, like the continents' names. *Lean:* leave the wording.
+1. **The land and the peoples (D43, D45).** Mountains, hills, forests, farmland, orchards and marsh are painted on the sheet; each people's colour is strongest in its heartland and fades through the edge country, so there are no borders to cross, only country that slowly becomes someone else's. The heartlands follow bt 7274's layout.
+2. **New settlements (D45).** Seven cities (Gullhaven, Mootstead, Hammerford, Fairmarket, Millcombe, Alderhythe, Accord), fourteen villages and two border towns (Ferrowgate, Two Oaks) are new names, sited where the land would put them: harbors, river fords, valley seats, a forest landing. Kingshead, Emberhaven Cross, Vasselin and Twelve Wheels are shown as cities. *Lean:* keep; rename freely.
+3. **bt 7274's layout (D40).** Northwind across the north of both continents; Highridge's plateau across the Northern Continent's middle; Greenvale on the lower leaf and round Port; Deepwood the Western Continent's lower half; Ironcrest its uplands. Drawn by bt 7274 on the second draft.
+4. **Port holds both sides of the Throat (D41).** With Greenvale on both shores of the Narrows, the kingdom that feeds Port would also hold its only sea gate, which cuts against Port being 'difficult for one kingdom to seize'. So Port's ground takes Lamp Point, the strait's north shore where it opens into the Inner Sea, with the Old Light on it: Port holds its own harbor mouth, Greenvale the strait's length. *Lean:* keep. The alternative, Greenvale holding the whole gate, would make Greenvale's grip on Port a story fact; that's bt 7274's to add.
+5. **Greenvale's foothold at Stonefield Forge.** The layout separated Ironcrest from Greenvale, but Stonefield Forge is a strongly established border town between them. Greenvale keeps a small piece of the western lowlands at the Spine's eastern foot, which Ironcrest's page says its rulers 'periodically held', and Stonefield Forge stands in it. *Lean:* keep.
+6. **Northwind borders Ironcrest.** Northwind on the Western Continent's north touches Ironcrest by land, so Geography's line that Northwind borders none of its suppliers no longer holds for Ironcrest's metal. Greenvale's grain and Deepwood's medicine still reach Northwind only through Icestep or by sea through Port. Geography now says so.
+7. **Frostbay Way and the sea road.** Frostbay Way, the Northwind–Port border town, becomes Northwind's last harbor on the sea road to Port, on its west coast; the Long Way runs along Northwind's coast to it, and the rest is by ship through the Narrows. *Lean:* keep.
+8. **Northwind's towns moved** to its new coasts: Narrow Sound and Kettle Cove (The Greenvale Man) on the west coast, the Rescue Houses, the Burned Strand and Icefang Fjord on the Western Continent's north shore. The stories only need them coastal and across a headland from each other. Highridge stands between Northwind and Greenvale, so Greenvale still feels far from Kettle Cove.
+9. **Port at the head of the Inner Sea** (D39), unchanged.
+10. **Ironcrest's directions.** Ironcrest's page says its 'eastern and southeastern edges' face Greenvale, Highridge and Deepwood; on this image they face west and south. Read as an old name for a side, like the continents' names. *Lean:* leave the wording.
 
 ## Relations checked
 
@@ -100,6 +102,7 @@ Every relation the wiki states between regions, checked against the region areas
 | The Brownwater | river | A slow, tannin-dark river through the eastern forest to the Long Channel. | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#deepwood) |
 | The Braids | river | A braided river of shifting channels. | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#deepwood) |
 | The Sallow | river | The delta river. | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#sunplains) |
+| The Wend | river | The lower leaf's river, past Millcombe's mills to the west coast (lean, D45). | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#greenvale) |
 
 ## Roads, paths and shortcuts
 
@@ -128,20 +131,30 @@ Every relation the wiki states between regions, checked against the region areas
 
 | Name | Kind | Region (lean) | Placed | Wiki |
 | --- | --- | --- | --- | --- |
+| Alderhythe | city | Deepwood | Deepwood's largest town, a landing on the Brownwater at the forest's southern edge (lean, D45). | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#deepwood) |
 | Darkroot Gulch | border | Deepwood | Where Ironcrest's uplands meet the forest. | [Places/Border-Towns](../../wiki/Places/Border-Towns.md#darkroot-gulch--deepwood--ironcrest) |
+| Fernwater | village | Deepwood | A forest village on a slow stream. (lean, D45) | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#deepwood) |
 | Larchmere | story | Deepwood | On the shore of Larch Mere, a forest lake, a day's walk and a river from Twilighthollow. | [Sunday-Morning/Stories/The-Blank-Square](../../wiki/Sunday-Morning/Stories/The-Blank-Square.md) |
 | Twilighthollow | border | Deepwood | At the Spine's eastern foot, where the forest thins onto the plateau routes. | [Places/Border-Towns](../../wiki/Places/Border-Towns.md#twilighthollow--deepwood--highridge) |
+| Two Oaks | border | Deepwood | Where the forest's edge meets the Sunplains' orchards; each side planted one of the oaks (lean, D45). | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#between-the-kingdoms) |
+| Yewhollow | village | Deepwood | A village in a hollow of old yews, deep in the forest. (lean, D45) | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#deepwood) |
 | Barley Cross | gazetteer | Greenvale | A market town; the Seed House. | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#greenvale) |
+| Brook Hatch | village | Greenvale | A village at a sluice where the lower leaf rises toward the plateau. (lean, D45) | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#greenvale) |
 | Cellar Hill | gazetteer | Greenvale | A village dug into a hill. | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#greenvale) |
+| Fairmarket | city | Greenvale | Greenvale's great market city on the Long Water, a day above the Kings' Gate and Port (lean, D45). | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#greenvale) |
 | Four Lane Ends | gazetteer | Greenvale | The Hiring Oak's crossroads. | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#greenvale) |
 | Harveston Vale | story | Greenvale | The Vale: the border into the Sunplains. | [Sunday-Morning/Stories/One-Square-Two-Harvests](../../wiki/Sunday-Morning/Stories/One-Square-Two-Harvests.md) |
 | Kellerby | story | Greenvale | Farms and orchards on the Wethercrags' summer circuit. | [Sunday-Morning/Stories/Mending-Day](../../wiki/Sunday-Morning/Stories/Mending-Day.md) |
+| Millcombe | city | Greenvale | The mill city of the lower leaf, on the Wend among the fields (lean, D45). | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#greenvale) |
+| Oxley | village | Greenvale | A cattle village on the lower leaf's northern edge. (lean, D45) | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#greenvale) |
 | Reedveil Bend | story | Greenvale | A cooperative village on a bend of the Reed. | [Sunday-Morning/Stories/The-Eighth-Verse](../../wiki/Sunday-Morning/Stories/The-Eighth-Verse.md) |
 | Stonefield Forge | border | Greenvale | In Greenvale's foothold at the Spine's eastern foot, where Ironcrest's uplands come down to the western lowlands (lean). | [Places/Border-Towns](../../wiki/Places/Border-Towns.md#stonefield-forge--ironcrest--greenvale) |
 | Upper and Nether Brayle | gazetteer | Greenvale | Twin towns either side of a stream on Greenvale's border with the Sunplains (lean). | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#between-the-kingdoms) |
+| Wheatsheaf | village | Greenvale | A farming village named for its inn. (lean, D45) | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#greenvale) |
+| Cairnwell | village | Highridge Plateau | A well and a cairn on the plateau's western route. (lean, D45) | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#highridge-plateau) |
 | Deepstep | gazetteer | Highridge Plateau | A dry town named for its Stepwell. | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#highridge-plateau) |
 | Icestep Summit | border | Highridge Plateau | The cold pass town where Northwind's moors rise onto the Highridge plateau. | [Places/Border-Towns](../../wiki/Places/Border-Towns.md#icestep-summit--northwind--highridge) |
-| Kingshead | gazetteer | Highridge Plateau | Named for the Head in the Square. | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#highridge-plateau) |
+| Kingshead | city | Highridge Plateau | The plateau's largest market city, named for the Head in the Square (lean, D45). | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#highridge-plateau) |
 | Lowmeet | gazetteer | Highridge Plateau | At the Spine's southern foot, where Highridge meets Greenvale a short road from Port: its long hall is the Congress Hall. | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#highridge-plateau) |
 | Ninewell Saddle | story | Highridge Plateau | A pass town on a lower saddle, on the Highridge side. | [Sunday-Morning/Stories/The-Road-in-Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md) |
 | Seven Hill | gazetteer | Highridge Plateau | An old pass fortress on the Highridge side of the Spine; which pass is open. | [Places/Seven-Hill](../../wiki/Places/Seven-Hill.md) |
@@ -150,17 +163,30 @@ Every relation the wiki states between regions, checked against the region areas
 | Underwell | story | Highridge Plateau | An Underpass enclave below Ninewell Saddle. | [Sunday-Morning/Stories/The-Road-in-Use](../../wiki/Sunday-Morning/Stories/The-Road-in-Use.md) |
 | Clinker Row | story | Ironcrest | Under the Upper Works, in the Upper Ember valley. | [Sunday-Morning/Stories/The-Same-Paper](../../wiki/Sunday-Morning/Stories/The-Same-Paper.md) |
 | Coalglen Meadows | story | Ironcrest | A foundry town on the Ember. | [Sunday-Morning/Stories/Walkout-Pies](../../wiki/Sunday-Morning/Stories/Walkout-Pies.md) |
-| Emberhaven Cross | gazetteer | Ironcrest | Where the Ore Road meets the road down to Stonefield. | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#between-the-kingdoms) |
+| Copperdown | village | Ironcrest | An upland village on the old copper workings. (lean, D45) | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#ironcrest) |
+| Emberhaven Cross | city | Ironcrest | A foundry city at the crossroads where the Ore Road meets the road down to Stonefield (lean, D45). | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#between-the-kingdoms) |
+| Hammerford | city | Ironcrest | A guild city at the old ford on the Ember, below the Ironbacks (lean, D45). | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#ironcrest) |
+| Pithead | village | Ironcrest | A mining village under Smoulder Knowe's hills. (lean, D45) | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#ironcrest) |
+| Wickmoor | village | Ironcrest | A herding village on Ironcrest's lower moor. (lean, D45) | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#ironcrest) |
+| Ferrowgate | border | Northwind | Where Northwind's coast country meets Ironcrest's uplands; Ironcrest calls it Ferrow, Northwind calls it the Gate (lean, D45). | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#between-the-kingdoms) |
 | Frostbay Way | border | Northwind | Northwind's last harbor on the sea road to Port: a coastal corridor town, where Port's influence reaches Northwind by ship (lean). | [Places/Border-Towns](../../wiki/Places/Border-Towns.md#frostbay-way--northwind--port-influence-zone) |
+| Gullhaven | city | Northwind | Northwind's great harbor on the north coast, facing the Grey Banks: the fleets winter here (lean, D45). | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#northwind) |
+| Hardwater | village | Northwind | A moor village where the springs freeze first. (lean, D45) | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#northwind) |
 | Kettle Cove | story | Northwind | A small fishing town in a sheltered cove on Northwind's west coast (lean). | [Sunday-Morning/Stories/The-Greenvale-Man](../../wiki/Sunday-Morning/Stories/The-Greenvale-Man.md) |
+| Mootstead | city | Northwind | The old clan seat in the sheltered inland valleys, where the lineages meet in moot (lean, D45). | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#northwind) |
 | Narrow Sound | story | Northwind | Across the headland from Kettle Cove, on Northwind's west coast (lean). | [Sunday-Morning/Stories/The-Greenvale-Man](../../wiki/Sunday-Morning/Stories/The-Greenvale-Man.md) |
+| Saltrock | village | Northwind | A fishing village east of Snowbreaker Quay. (lean, D45) | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#northwind) |
 | Skerrimouth | story | Northwind | Across the headland from Snowbreaker Quay, at the mouth of the skerries. | [Sunday-Morning/Stories/The-First-Fish](../../wiki/Sunday-Morning/Stories/The-First-Fish.md) |
 | Snowbreaker Quay | story | Northwind | A fishing town that also farms inland (lean: north coast). | [Sunday-Morning/Stories/The-First-Fish](../../wiki/Sunday-Morning/Stories/The-First-Fish.md) |
+| Ternwick | village | Northwind | A village of tern cliffs on the Western Continent's north coast. (lean, D45) | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#northwind) |
 | Winterhaven | gazetteer | Northwind | A winter anchorage in the sheltered North Gut (lean). | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#northwind) |
 | Port | port | Port | At the head of the Inner Sea, on its southern shore: the bay's harbor, the Narrows its only sea gate, the Long Water its road into Greenvale, and the Spine's passes and the Underpass a day's journey east (lean). It belongs to no kingdom. | [Places/Port](../../wiki/Places/Port.md) |
+| Accord | city | Sunplains | A Sunplains city-state on the Long Channel's northern shore, home of the Argument House (lean, D45). | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#sunplains) |
+| Cisternfield | village | Sunplains | An orchard village round a shared cistern. (lean, D45) | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#sunplains) |
+| Goodwater | village | Sunplains | A village of irrigated orchards on the Long Channel shore. (lean, D45) | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#sunplains) |
 | Three Spouts | gazetteer | Sunplains | Where three city-states meet. | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#sunplains) |
-| Twelve Wheels | gazetteer | Sunplains | A river city on the Sallow. | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#sunplains) |
-| Vasselin | story | Sunplains | A city-state of courtyard houses (lean: near the tip). | [Sunday-Morning/Stories/The-Ladder-Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md) |
+| Twelve Wheels | city | Sunplains | A river city on the Sallow. | [Places/Gazetteer](../../wiki/Places/Gazetteer.md#sunplains) |
+| Vasselin | city | Sunplains | A city-state of courtyard houses around an old cistern square (lean: near the tip). | [Sunday-Morning/Stories/The-Ladder-Rules](../../wiki/Sunday-Morning/Stories/The-Ladder-Rules.md) |
 
 ## Named features
 
@@ -262,7 +288,7 @@ Every relation the wiki states between regions, checked against the region areas
 | The Old Light | ruin | Port | On Lamp Point, the north side of the Throat, where the strait opens into the Inner Sea: Port's ground across the water (lean). | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#the-old-light) |
 | The Seizure Warehouse | memorial | Port | In Port's Old Bond. | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#the-seizure-warehouse) |
 | The Stair of Flags | landmark | Port | In Port's Enclave Quarter. | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#the-stair-of-flags) |
-| The Argument House | holy site | Sunplains | In a Sunplains city (lean: on the Long Channel's northern shore). | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#the-argument-house) |
+| The Argument House | holy site | Sunplains | In Accord, on the Long Channel's northern shore (lean). | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#the-argument-house) |
 | The Boundary Fountain | landmark | Sunplains | At Three Spouts. | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#the-boundary-fountain) |
 | The Dig at Harrow Isle | mystery | Sunplains | On Harrow Isle, the plainest of the Sapphire Isles. | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#the-dig-at-harrow-isle) |
 | The Groaning Wheels | landmark | Sunplains | In Twelve Wheels. | [Places/Places-of-Interest](../../wiki/Places/Places-of-Interest.md#the-groaning-wheels) |

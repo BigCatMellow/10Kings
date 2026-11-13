@@ -73,6 +73,17 @@ Coastal geography, bays, islands, currents, lineages and seasonal sites, in Nort
 | **Icestep Summit** | the cold pass town into Highridge | [Border Towns](Border-Towns.md#icestep-summit--northwind--highridge) |
 | **Frostbay Way** | a coastal corridor town toward Port | [Border Towns](Border-Towns.md#frostbay-way--northwind--port-influence-zone); on the Long Way |
 
+
+**Cities, villages and border towns added to fill the map** (provisional, [D45](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); places on the [map](../../atlas/map/README.md))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Gullhaven** | a city | Northwind's great harbor on the north coast, facing the Grey Banks: the fleets winter here |
+| **Mootstead** | a city | The old clan seat in the sheltered inland valleys, where the lineages meet in moot |
+| **Saltrock** | a village | A fishing village east of Snowbreaker Quay |
+| **Ternwick** | a village | A village of tern cliffs on the Western Continent's north coast |
+| **Hardwater** | a village | A moor village where the springs freeze first |
+
 ## Ironcrest
 
 Older upland and river names under later mining, fort, family and guild names, in Ironet.
@@ -107,6 +118,16 @@ Older upland and river names under later mining, fort, family and guild names, i
 | **The Charcoal Track** | a cart track | from Darkroot Gulch through the Charcoal Woods to the Ember forges |
 | **Gallows Cut** | a shortcut | a steep track over the Ironbacks that saves half a day. Nobody remembers a gallows; the name may be a mishearing of an older word |
 
+
+**Cities, villages and border towns added to fill the map** (provisional, [D45](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); places on the [map](../../atlas/map/README.md))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Hammerford** | a city | A guild city at the old ford on the Ember, below the Ironbacks |
+| **Pithead** | a village | A mining village under Smoulder Knowe's hills |
+| **Copperdown** | a village | An upland village on the old copper workings |
+| **Wickmoor** | a village | A herding village on Ironcrest's lower moor |
+
 ## Greenvale
 
 Rivers, soils, old settlements, family lands, markets and former estates, in the Heartland Tongue.
@@ -118,6 +139,7 @@ Rivers, soils, old settlements, family lands, markets and former estates, in the
 | **The Long Water** | the great river | crosses Greenvale on its way to the sea (see [the great features](#the-great-features)) |
 | **The Reed** | a slow tributary | Reedveil Bend is on a bend of it ([The Eighth Verse](../Sunday-Morning/Stories/The-Eighth-Verse.md)) |
 | **The Millburn** | a mill stream | the [Drowned Bell](Places-of-Interest.md#the-drowned-bell) is under its millpond |
+| **The Wend** | the lower leaf's river | past Millcombe's mills to the west coast *(lean, [D45](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions))* |
 | **The Wetlands of Saltings** | a wide marsh near the Long Water | where the [Floating Fields](Places-of-Interest.md#the-floating-fields) are. "Saltings" because the tide used to come up this far, people say |
 
 **Land**
@@ -144,6 +166,17 @@ Rivers, soils, old settlements, family lands, markets and former estates, in the
 | **The Hollow Way** | a sunken lane | worn so deep between two villages that the hedges meet overhead; a shortcut in summer and a stream in winter |
 | **Twelve Stones Ford** | a paved ford over the Reed | twelve stepping stones beside it for people on foot |
 
+
+**Cities, villages and border towns added to fill the map** (provisional, [D45](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); places on the [map](../../atlas/map/README.md))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Fairmarket** | a city | Greenvale's great market city on the Long Water, a day above the Kings' Gate and Port |
+| **Millcombe** | a city | The mill city of the lower leaf, on the Wend among the fields |
+| **Oxley** | a village | A cattle village on the lower leaf's northern edge |
+| **Wheatsheaf** | a village | A farming village named for its inn |
+| **Brook Hatch** | a village | A village at a sluice where the lower leaf rises toward the plateau |
+
 ## Highridge Plateau
 
 Route names, passes, wells, caravan families, old toll sites and translated names; the oldest pass and spring names are Old Spine speech.
@@ -164,7 +197,7 @@ Route names, passes, wells, caravan families, old toll sites and translated name
 | --- | --- | --- |
 | **Seven Wells** *(story)* | a pass town | ([The Goat File](../Sunday-Morning/Stories/The-Goat-File.md), [The Heavy Scale](../Sunday-Morning/Stories/The-Heavy-Scale.md)) |
 | **Twilighthollow** | the border town into Deepwood | [Border Towns](Border-Towns.md#twilighthollow--deepwood--highridge) |
-| **Kingshead** | a market town | named for the [Head in the Square](Places-of-Interest.md#the-head-in-the-square), which got there first |
+| **Kingshead** | the plateau's largest market city *(lean, D45)* | named for the [Head in the Square](Places-of-Interest.md#the-head-in-the-square), which got there first |
 | **Lowmeet** | a plateau town | its long hall is the [Congress Hall](Places-of-Interest.md#the-congress-hall), and its name, "the low meeting", is the town's whole argument |
 | **Tallybridge** | a trading town | the [Ledger Vault](Places-of-Interest.md#the-ledger-vault) is there |
 | **Deepstep** | a dry plateau town | named for its [Stepwell](Places-of-Interest.md#the-stepwell) |
@@ -177,6 +210,13 @@ Route names, passes, wells, caravan families, old toll sites and translated name
 | **The Milestone Way** | the old main corridor | lined with the [Milestones](Places-of-Interest.md#the-milestones) |
 | **The Herring Way** | from Icestep Summit down to the coast | see Northwind |
 | **The Drove Road** | down to Greenvale's markets | see Greenvale |
+
+
+**Cities, villages and border towns added to fill the map** (provisional, [D45](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); places on the [map](../../atlas/map/README.md))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Cairnwell** | a village | A well and a cairn on the plateau's western route |
 
 ## Deepwood
 
@@ -193,6 +233,15 @@ Waterways, groves, species, older peoples, and landmarks that may not be obvious
 | **Larch Mere** | a forest lake | Larchmere village is on its shore, a day's walk and a river from Twilighthollow ([The Blank Square](../Sunday-Morning/Stories/The-Blank-Square.md)) |
 | **Mosspeak Rise** | a rise where the forest climbs toward Highridge | from the [name bank](Border-Towns.md#other-provisional-names) |
 | **The Ashwood Edge** | the forest's margin toward Greenvale | where fields and forest have pushed each other back and forth for centuries |
+
+
+**Cities, villages and border towns added to fill the map** (provisional, [D45](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); places on the [map](../../atlas/map/README.md))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Alderhythe** | a city | Deepwood's largest town, a landing on the Brownwater at the forest's southern edge |
+| **Fernwater** | a village | A forest village on a slow stream |
+| **Yewhollow** | a village | A village in a hollow of old yews, deep in the forest |
 
 ## Sunplains
 
@@ -212,6 +261,15 @@ Old city-state names, founders, civic ideals, waterworks, forts, ports and estat
 | **The Arch Valley** | the valley of the Long Arches | |
 | **Three Spouts** | the meeting point of three city-states | at the [Boundary Fountain](Places-of-Interest.md#the-boundary-fountain) |
 | **The Patrons' Road** | the road between the coastal cities | paved, section by section, by competing patrons, so every mile is different |
+
+
+**Cities, villages and border towns added to fill the map** (provisional, [D45](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); places on the [map](../../atlas/map/README.md))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Accord** | a city | A Sunplains city-state on the Long Channel's northern shore, home of the Argument House |
+| **Cisternfield** | a village | An orchard village round a shared cistern |
+| **Goodwater** | a village | A village of irrigated orchards on the Long Channel shore |
 
 ## Port
 
@@ -252,11 +310,19 @@ The oldest names here are Old Spine speech nobody can translate.
 
 | Name | What it is | Notes |
 | --- | --- | --- |
-| **Emberhaven Cross** | a crossroads town | where the Ore Road meets the road down to Stonefield; from the [name bank](Border-Towns.md#other-provisional-names) |
+| **Emberhaven Cross** | a foundry city at a crossroads *(lean, D45)* | where the Ore Road meets the road down to Stonefield; from the [name bank](Border-Towns.md#other-provisional-names) |
 | **Upper Brayle and Nether Brayle** | twin towns on either side of a stream | joined by the [Reconciliation Bridge](Places-of-Interest.md#the-reconciliation-bridge); each spells the other's name wrong on purpose |
 | **The Treaty Line** | the Convergence boundary, where it's marked | the [Treaty Stones](Places-of-Interest.md#the-treaty-stones) stand along it |
 | **The Fiddlers' Hollow** | the Ridge-Roamers' winter meadow | [Places of Interest](Places-of-Interest.md#the-fiddlers-hollow) |
 | **The Roamers' Round** | the Ridge-Roamers' circuit | through Kellerby and along the Straight Road in summer; back to the Hollow for winter ([Nomads](../Culture/Nomads.md#the-ridge-roamers)) |
+
+
+**Cities, villages and border towns added to fill the map** (provisional, [D45](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions); places on the [map](../../atlas/map/README.md))
+
+| Name | What it is | Notes |
+| --- | --- | --- |
+| **Ferrowgate** | a border town | Where Northwind's coast country meets Ironcrest's uplands; Ironcrest calls it Ferrow, Northwind calls it the Gate |
+| **Two Oaks** | a border town | Where the forest's edge meets the Sunplains' orchards; each side planted one of the oaks |
 
 ## Roads, paths and shortcuts
 
