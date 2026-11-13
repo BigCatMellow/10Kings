@@ -4,7 +4,7 @@
 
 **Provisional.** This page owns the world's physical layer: the suns, the year, day length, weather, currents, tides, waves, ice and the ground underfoot. bt 7274 asked for it on 2026-11-13 ([D50](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): "what about the seasons? the sun cycle? waves, etc, lets keep this going". Lines marked *fixed by the lore* restate what pages and stories already commit to. Everything else is a lean for bt 7274 to overrule, worked out from those commitments and checked against the [map draft](../atlas/map/README.md). It started from the [Realism Check](Reference/Realism-Check-2026-11.md).
 
-[Calendar and Timekeeping](Calendar-and-Timekeeping.md) still owns how people count time, and [Geography](Geography-and-Connections.md) owns where things are. This page owns what the sky and the sea do.
+[Calendar and Timekeeping](Calendar-and-Timekeeping.md) still owns how people count time, and [Geography](Geography-and-Connections.md) owns where things are. This page owns what the sky and the sea do. What grows and lives under this weather is on [Ecology, Flora and Fauna](Ecology-Flora-and-Fauna.md), and what each faith makes of this sky is on [Religions](Politics/Religions.md#the-faiths-and-the-sky).
 
 ## What the lore already fixes
 

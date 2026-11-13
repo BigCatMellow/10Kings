@@ -66,6 +66,7 @@ The most important lesson: **get the author's own voice before drafting a word.*
 | 48. Could it really work? | bt 7274 asked whether the world is coherent enough for people to survive and thrive in it ([D48](Decisions.md#the-authors-decisions)). The ways of life held up; the map's seas and rivers didn't, and were fixed. The world still has no scale, which is the decision that matters most. | see git log, 2026-11-13 |
 | 49. Rain and renewal | bt 7274 asked whether the ecosystem works ([D49](Decisions.md#the-authors-decisions)). A rain model over the map showed north-west weather fits, and that Deepwood must be wet ground rather than wet sky. The world renews itself, with the strains real pre-industrial worlds had. | see git log, 2026-11-13 |
 | 50. Sky and sea | bt 7274 asked about seasons, the suns and the waves ([D50](Decisions.md#the-authors-decisions)). The lore turned out to have committed to more than anyone had noticed: a tide post that implies a moon, auroras that set a latitude. The page that grew from it owns the physical world. | see git log, 2026-11-13 |
+| 51. What lives here, and what it means | The September ecology notes, the highest-risk material in the backlog, got their owner page ([D51](Decisions.md#the-authors-decisions)), and the nine faiths each looked up at the same two suns and saw something different. | see git log, 2026-11-13 |
 
 ## Check log
 

@@ -8,6 +8,7 @@
 - [Geography](Geography-and-Connections.md)
 - [Peoples and Land](Peoples-and-Land.md)
 - [Sky, Seasons and Sea](Sky-Seasons-and-Sea.md)
+- [Ecology, Flora and Fauna](Ecology-Flora-and-Fauna.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
 - [Open Questions](Open-Questions.md)
 

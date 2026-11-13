@@ -84,11 +84,12 @@ The events pages preserve the current web of crises. Many were brainstormed rath
 - Whether the gods' Latinate names are a shared liturgical register used beside local names (lean: yes, provisionally).
 - Whether the Radiant Path's Valorus and the Dual Flame's Valoron are one god named twice.
 - The creation myth: whether the legacy Mother/Spine myth stays as folk belief under all nine faiths, and how its three star-Sons square with a world named for twin suns.
+- How each faith reads the sky (provisional leans, D51): [Religions](Politics/Religions.md#the-faiths-and-the-sky).
 
 ## Ecology
 
 - Whether the world is sustainable: yes as a steady state; its strains (soil, salt in Sunplains' irrigation, charcoal against Deepwood, fish, grazing, mine waste, disease through Port) are on the [Realism Check](Reference/Realism-Check-2026-11.md#is-it-sustainable). Lean: add salted, abandoned basins and drainage duties to Sunplains' water law.
-- Flora and fauna have no owner page yet; the 2026-09-24 legacy pass holds a grounded draft ([backlog](Reference/README.md#legacy-reconciliation-backlog)).
+- Flora and fauna now have an owner, [Ecology, Flora and Fauna](Ecology-Flora-and-Fauna.md) (provisional, D51), built from the 2026-09-24 legacy pass. Open there: animal names, where the big predators survive, what the One Tree is, quarantine at Port.
 
 ## Settled
 

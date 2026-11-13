@@ -28,6 +28,7 @@ Read these first. They are the settled base the rest builds on.
 - [Geography and Connections](Geography-and-Connections.md) · working canon
 - [Peoples and Land](Peoples-and-Land.md) · working canon (principle), provisional (leans)
 - [Sky, Seasons and Sea](Sky-Seasons-and-Sea.md) · provisional: the suns, the year, weather, currents, tides and waves
+- [Ecology, Flora and Fauna](Ecology-Flora-and-Fauna.md) · provisional: what grows and lives in each region, and how it fits together
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md) · working canon at the pattern level
 - [Economic Council](Politics/Economic-Council.md) · working canon
 - [Main Conflict](Story/Main-Conflict.md) · working canon

@@ -235,6 +235,8 @@ Use it when:
 - an ecology/recipe claim needs its original reasoning;
 - the live wiki appears to have omitted a concept from this development pass.
 
+**Promoted 2026-11-13 ([D51](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)):** §15–§24 (flora, fauna, food webs, corridors and the biology corrections) now live on [Ecology, Flora and Fauna](../Ecology-Flora-and-Fauna.md), provisional. The earlier plant names in §26 (Ironroot Shrubs, Coalleaf Moss, Forgebloom, Frost-Needle Spruce, Icepod Seaweed) stay here, unpromoted; Aurora Berries survives as the recipes' name for the boreal berries.
+
 
 ### 10. 2026-09-27 Sunday Morning Story framework and story concepts
 
