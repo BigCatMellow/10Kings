@@ -91,10 +91,24 @@ Riders and courier relays move three to six times faster than carts. Barges move
 
 Nothing says it yet. The map's order, cold in the north, temperate in the middle and warm and dry in the south, fits latitude. One spot would make a geographer look twice: Deepwood's wet forest sits right beside Sunplains' irrigated country, with nothing between them.
 
+**Tested with a rain model** ([D49](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)). `python3 atlas/tools/rain_model.py map <bearing>` blows wet air in off the sea from one direction over the map's height model, rains it out where the land rises, and lets land (forest most) hand some back. It writes [`rain-model.png`](../../atlas/map/rain-model.png).
+
+| Wet air from | Wettest → driest, at each region's settlements | Fit with the wiki (rank correlation) |
+| --- | --- | --- |
+| the west-north-west (300°) | Northwind, Greenvale, Deepwood, Highridge, Ironcrest, Sunplains | **0.66, the best** |
+| the north (0°) | Northwind, Ironcrest, Greenvale, Deepwood, Sunplains, Highridge | 0.60 |
+| due west (270°) | Greenvale, Northwind, Sunplains, Highridge, Deepwood, Ironcrest | 0.09: Sunplains wetter than Deepwood |
+| the east (90°) | Northwind, Sunplains, Greenvale, Ironcrest, Deepwood, Highridge | 0.26 |
+
+What it shows:
+- **North-west weather fits.** Northwind's coasts and Greenvale's western shores are wettest, the plateau's interior dries out (which fits the Salt Mirror), and Sunplains is driest.
+- **Due west doesn't.** It soaks the south-west and leaves Deepwood dry.
+- **Deepwood is never the wettest**, under any wind. It lies in the lee of the Spine and the Ironcrest hills, far from the windward coast. So its forest has to stand on wet ground rather than wet sky: slow rivers from the Ironcrest hills spreading into the Alderfens, Blackwater Marsh and the lakes, the way the Pripet Marshes or Białowieża stay wooded and wet on moderate rain. Nothing on the [Deepwood](../Regions/Deepwood.md) page says rainforest, so nothing needs to change there.
+
 *Lean:*
-- the weather comes in off the open ocean from the west and north-west;
+- the weather comes in off the ocean from the north-west;
 - the cold White Current chills Northwind's seas;
-- Deepwood is watered by the rivers coming down from Ironcrest and by rain off the eastern sea;
+- Deepwood is a river-fed lowland forest;
 - Deepwood thins southward into the "scrub and open woodland" that [Sunplains](../Regions/Sunplains.md) already lists.
 
 This would be one sentence on [Geography](../Geography-and-Connections.md).
@@ -113,6 +127,26 @@ This would be one sentence on [Geography](../Geography-and-Connections.md).
 ### 5. The twin suns
 
 Nothing says how the two suns behave. *Lean:* a close pair that rises and sets together, so there are no extra seasons. If the second sun were distant, it would cross the sky part of the year, and that would change calendars, farming and religion.
+
+## Is it sustainable?
+
+Asked next ([D49](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): "does the world ecosystem work / sustainable?"
+
+**Yes as a steady state, with exactly the strains you'd expect,** and the [current events](../Story/Current-Events.md) already name most of them. Nothing here needs magic to hold together. The weak points are the ones real pre-industrial societies hit, which makes them good story pressure rather than holes.
+
+| Cycle | How it renews itself | Where it strains | Real precedent | In the lore? |
+| --- | --- | --- | --- | --- |
+| **Soil** (Greenvale's grain) | legumes, manure, pasture and fallow in turn, hedges | grain shipped to Port carries the soil's goodness away with it; a single high-yield strain invites the next blight | European mixed farming; the Irish potato famine | yes: the Seven-year Blight, the new seed strain |
+| **Water and salt** (Sunplains) | the Sallow's floods flush and refeed the delta | canal irrigation without drainage slowly salts the fields white | Mesopotamia's southern fields, lost to salt | **no.** *Lean:* old abandoned basins scarred white, and water law that includes drainage duties |
+| **Forest and fuel** (Ironcrest and Deepwood) | coppice cut in turns regrows (the Charcoal Woods) | coppicing holds steady; growth doesn't. Every new furnace wants more woodland, and the nearest is Deepwood's | England's timber shortage and its turn to coal | yes: logging beyond limits, and Coalbrook and Coalglen as the coal turn |
+| **Fish** (Northwind) | the stocks breed back where the fishing is seasonal and customary | inshore banks fished out; whole shoals shifting grounds | the Baltic herring moving to the North Sea in the 1400s | yes: "declining or shifting" stocks |
+| **Grazing** (Highridge, the Barrens) | herds moving between seasonal pastures | herds kept too long in one place strip the slopes and the soil washes away | Mediterranean hill erosion; Himalayan transhumance | partly: seasonal pasture is in the reference research |
+| **Mine waste** | rivers carry it off | Cinder Brook "black with washings" and the Ember "warm below the foundries" foul the water for everyone downstream, down to the North Gut's fishing | the Harz, Cornwall's tin streams | yes, as texture, not yet as a dispute |
+| **Disease and pests** | distance and season slow them | Port mixes every region's seed, rats, insects and fevers | the Black Death's route through the ports | the [reference](README.md#legacy-reconciliation-backlog) flags quarantine; not in canon |
+
+**People against land.** At the lean scale, 20 million people on 460,000 square miles is about 17 to the square kilometre. Mixed farmland supports more than that, so there's slack. That is why a bad harvest is a crisis rather than a collapse, and why the true collapses in the history (the Blight, the Ages of Silence) needed several failures at once.
+
+**What's missing is an owner page.** Flora, fauna and food webs have none. The 2026-09-24 legacy notes hold a grounded draft per region, with its biology errors already corrected, and the [Reference index](README.md#legacy-reconciliation-backlog) calls it the highest risk of loss.
 
 ## Not checked
 

@@ -16,7 +16,7 @@ These are important areas where earlier brainstorming produced multiple versions
 - Exact relationship of The Spine to continental separation. *(Constrained: the strongly established borders form one land chain, so the continents must meet by land; [Geography](Geography-and-Connections.md#macro-geography).)*
 - Which pass Seven Hill guards, and the Overpath's keepers, seasons and route ([Seven Hill](Places/Seven-Hill.md#still-open), [The Spine](Places/The-Spine.md#the-overpath)).
 - **The map's scale** ([Realism Check](Reference/Realism-Check-2026-11.md#1-the-maps-scale), D48). Lean: about 1.5 miles to the map draft's pixel, so the land is roughly 810 by 890 miles and its climate fits; Fairmarket, Larchmere and the Straight Road are then redrawn closer.
-- **Where the rain comes from** ([Realism Check](Reference/Realism-Check-2026-11.md#2-where-the-rain-comes-from)). Lean: weather off the open ocean from the west and north-west, the cold White Current in the north, Deepwood watered by its rivers and the eastern sea.
+- **Where the rain comes from** ([Realism Check](Reference/Realism-Check-2026-11.md#2-where-the-rain-comes-from), D49). Tested with a rain model: north-west weather fits the regions best, due west doesn't. Lean: weather off the ocean from the north-west, the cold White Current in the north, Deepwood a river-fed lowland forest.
 - **Port and the eastern sea** ([Realism Check](Reference/Realism-Check-2026-11.md#3-port-and-the-eastern-sea)). The Inner Sea's only way out is the Narrows. Lean: a haul road over the Spine's southern foot to Footwater makes Port the meeting of two seas.
 - **Northwind's grain and salt** ([Realism Check](Reference/Realism-Check-2026-11.md#4-northwinds-grain-and-salt)). Lean: grain comes up the Salted Coast from Greenvale's west coast, and much of the salt for curing fish is bought from the south.
 - **The twin suns** ([Realism Check](Reference/Realism-Check-2026-11.md#5-the-twin-suns)). Lean: a close pair that rises and sets together.
@@ -87,6 +87,7 @@ The events pages preserve the current web of crises. Many were brainstormed rath
 
 ## Ecology
 
+- Whether the world is sustainable: yes as a steady state; its strains (soil, salt in Sunplains' irrigation, charcoal against Deepwood, fish, grazing, mine waste, disease through Port) are on the [Realism Check](Reference/Realism-Check-2026-11.md#is-it-sustainable). Lean: add salted, abandoned basins and drainage duties to Sunplains' water law.
 - Flora and fauna have no owner page yet; the 2026-09-24 legacy pass holds a grounded draft ([backlog](Reference/README.md#legacy-reconciliation-backlog)).
 
 ## Settled
