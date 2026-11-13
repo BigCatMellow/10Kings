@@ -645,6 +645,8 @@ This creates situations where:
 
 Exact minority-rights arrangements remain local.
 
+Land held across the lines (an Ironcrest house's fields, a Sunplains-held mine) adds a third layer: the holder's claim on the land. See [Peoples and Land](Peoples-and-Land.md#rule-over-mixed-ground).
+
 ---
 
 # 16. Guild privilege is negotiated

@@ -6,6 +6,7 @@
 - [World Rules](World-Rules.md)
 - [Magic and Relics](Magic.md)
 - [Geography](Geography-and-Connections.md)
+- [Peoples and Land](Peoples-and-Land.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
 - [Open Questions](Open-Questions.md)
 

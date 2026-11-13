@@ -25,6 +25,8 @@ The Spine is both barrier and connector. Routes funnel toward passes, valleys, t
 
 ## Strongly established regional relationships
 
+**How to read these** ([D43](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): a relation such as Ironcrest ↔ Greenvale means where the two peoples live side by side and their rulers' claims touch. It's a contact zone, not a fence line, and border towns are where it's thickest. The peoples follow kinds of land, not shapes on a map: [Peoples and Land](Peoples-and-Land.md).
+
 ### Ironcrest ↔ Greenvale
 
 Repeatedly used in border-town discussions. Upland/mineral country grades into productive foothill and lowland agriculture. Their economic relationship is old: metal, tools, timber, food, animals, fuel, labor, and investment move both ways.

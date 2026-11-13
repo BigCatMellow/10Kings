@@ -8,7 +8,7 @@
 
 The six regions should not necessarily share identical political systems.
 
-"Region" is a cultural-geographic term. A region can contain a kingdom, confederation, city-states, autonomous districts, chartered towns, religious lands, and old privileges.
+"Region" is a cultural-geographic term. A region can contain a kingdom, confederation, city-states, autonomous districts, chartered towns, religious lands, and old privileges. How peoples and rule sit on the ground, and how land is held across the lines: [Peoples and Land](../Peoples-and-Land.md).
 
 ## Working political tendencies
 

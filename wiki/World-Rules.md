@@ -28,6 +28,8 @@ Modern political borders became clearer after The Convergence, but culture does 
 
 Border areas should show mixed food, building methods, accents, family ties, religious practice, law, tools, and loyalties.
 
+How the peoples sit on the ground, thick in their heartlands, mixed at the edges, and holding land across the lines: [Peoples and Land](Peoples-and-Land.md).
+
 ## 4. History is messy
 
 Pre-Convergence history must contain temporary victories, reversals, disputed claims, marriages, defections, raids, trade agreements, migrations, local exceptions, and contradictory memories.

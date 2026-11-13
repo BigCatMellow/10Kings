@@ -18,6 +18,14 @@ These are important areas where earlier brainstorming produced multiple versions
 - Navigable rivers and major watersheds. *(Named, with relative positions only, on the [Gazetteer](Places/Gazetteer.md): the Long Water is the lean for Port's river.)*
 - Places of interest ([D35](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): how many Sitting Kings there are (lean: ten, if the title should mean something); what the One Tree's people call themselves and their forest; which town holds the Head in the Square ([Places of Interest](Places/Places-of-Interest.md#for-bt-7274)).
 
+## Peoples and land
+
+Owned by [Peoples and Land](Peoples-and-Land.md#open-for-bt-7274) (D43):
+
+- Whose law applies on mixed ground? *Lean:* the land's law follows its holder, personal law follows the person, and the valley's ruler taxes what it can.
+- How far each people's heartland reaches, and how wide the edges are (the map redraw).
+- Whether kingdoms' claims are ever drawn as lines. *Lean:* only where a treaty fixed one.
+
 ## Political structure
 
 - Are all six named regions kingdoms in the same constitutional sense?

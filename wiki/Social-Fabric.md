@@ -20,7 +20,7 @@ Examples:
 - a Port-born person may have ancestry from several traditions and identify primarily as Port;
 - one village can contain households associated with several regional traditions.
 
-Regional identity should therefore be treated as **one social affiliation among several**, not a coordinate on the map.
+Regional identity should therefore be treated as **one social affiliation among several**, not a coordinate on the map. Where each people is thick or thin, and how land is held across the lines: [Peoples and Land](Peoples-and-Land.md).
 
 ## Mixed communities create local culture
 
