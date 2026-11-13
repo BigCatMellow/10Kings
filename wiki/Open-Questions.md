@@ -22,7 +22,6 @@ These are important areas where earlier brainstorming produced multiple versions
 
 Owned by [Peoples and Land](Peoples-and-Land.md#open-for-bt-7274) (D43):
 
-- Whose law applies on mixed ground? *Lean:* the land's law follows its holder, personal law follows the person, and the valley's ruler taxes what it can.
 - How far each people's heartland reaches, and how wide the edges are (the map redraw).
 - Whether kingdoms' claims are ever drawn as lines. *Lean:* only where a treaty fixed one.
 

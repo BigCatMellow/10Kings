@@ -2,7 +2,7 @@
 
 ## Status
 
-**Working canon** for the principle and bt 7274's own examples ([D43](Sunday-Morning/Notes/Decisions.md#the-authors-decisions), 2026-11-13). **Provisional** for everything marked *lean*, which is the reviser's working-out and waits on bt 7274.
+**Working canon** for the principle and bt 7274's own examples ([D43](Sunday-Morning/Notes/Decisions.md#the-authors-decisions), 2026-11-13). **Working canon** too for how rule works on mixed ground, which bt 7274 agreed to (D44). **Provisional** for everything marked *lean*, which is the reviser's working-out and waits on bt 7274.
 
 This page owns **how the peoples sit on the ground**: where each tradition is thick or thin, where they mix, how land is held across those lines, and how a map should show it. It doesn't own identity ([Social Fabric](Social-Fabric.md)), jurisdiction ([Law and Jurisdiction](Law-and-Jurisdiction.md)), political forms ([Kingdoms and Politics](Politics/Kingdoms-and-Politics.md)), speech ([Language Families and Contact](Language-Families-and-Contact.md)) or the regions' own descriptions (the six region pages). It links to them.
 
@@ -72,7 +72,7 @@ This is ordinary, small-scale texture, not a system. Most holdings are a few fie
 
 ## Rule over mixed ground
 
-*Lean*, applying [Law and Jurisdiction](Law-and-Jurisdiction.md) to the land. The open question is listed below.
+**Working canon** (bt 7274 agreed, 2026-11-13, [D44](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): "That sounds good, and sounds like it could make things interesting / complicated." It applies [Law and Jurisdiction](Law-and-Jurisdiction.md) to the land.
 
 - **A ruler's authority is strong at the heart and thin at the edges.** Claims run along what can be held: towns, roads, passes, fords, mines and markets, not lines. Highridge's page already says borders there "followed control of roads more often than neat territory".
 - **The law over the land follows whoever holds it**: land title, rent, taxes on the harvest or the ore. A Sunplains-held mine pays its rent to Sunplains, and whatever tax the local ruler can collect on top.
@@ -107,9 +107,8 @@ A quick check for scenes, alongside [Social Fabric's scene test](Social-Fabric.m
 
 ## Open for bt 7274
 
-1. **Whose law on mixed ground?** *Lean:* the land's law follows its holder, personal law follows the person, and the valley's ruler taxes what it can (above).
-2. **How far does each heartland reach?** This is the redraw: how wide the edges are, and where each people thickens. It belongs to the map, not to this page.
-3. **Are kingdoms' claims ever drawn as lines?** *Lean:* only where a treaty fixed one, and those lines are as much an argument as a fact.
+1. **How far does each heartland reach?** This is the redraw: how wide the edges are, and where each people thickens. It belongs to the map, not to this page.
+2. **Are kingdoms' claims ever drawn as lines?** *Lean:* only where a treaty fixed one, and those lines are as much an argument as a fact.
 
 ## Related pages
 

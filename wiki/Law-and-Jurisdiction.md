@@ -645,7 +645,7 @@ This creates situations where:
 
 Exact minority-rights arrangements remain local.
 
-Land held across the lines (an Ironcrest house's fields, a Sunplains-held mine) adds a third layer: the holder's claim on the land. See [Peoples and Land](Peoples-and-Land.md#rule-over-mixed-ground).
+Land held across the lines (an Ironcrest house's fields, a Sunplains-held mine) adds a third layer: the holder's claim on the land. The land's law follows its holder, personal law follows the person, and the valley's ruler taxes what it can (working canon, D44). See [Peoples and Land](Peoples-and-Land.md#rule-over-mixed-ground).
 
 ---
 
