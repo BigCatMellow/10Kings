@@ -63,6 +63,7 @@ The most important lesson: **get the author's own voice before drafting a word.*
 | 45. The map comes alive | bt 7274 asked to fill the map, cities first; the reviser drew the land first instead, since cities sit where the land puts them ([D45](Decisions.md#the-authors-decisions)). His layout now has painted mountains, forests, farmland and orchards, the peoples as soft fading colour, and 23 new named settlements. | see git log, 2026-11-13 |
 | 46. A crowd of towns | bt 7274 wanted more ([D46](Decisions.md#the-authors-decisions)): sixty-four towns and villages, placed so each sits as far as it can from its neighbours, coastal names on the coast and river names on the rivers. The map now has 120 settlements. | see git log, 2026-11-13 |
 | 47. A map that looks lived in | bt 7274 wanted it to feel like a real map ([D47](Decisions.md#the-authors-decisions)): six more cities and nineteen towns, lakes, ponds and fens cut into the land, streams running downhill to the sea, and a web of roads and tracks between the settlements. The map now has 145 settlements. | see git log, 2026-11-13 |
+| 48. Could it really work? | bt 7274 asked whether the world is coherent enough for people to survive and thrive in it ([D48](Decisions.md#the-authors-decisions)). The ways of life held up; the map's seas and rivers didn't, and were fixed. The world still has no scale, which is the decision that matters most. | see git log, 2026-11-13 |
 
 ## Check log
 

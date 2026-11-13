@@ -11,6 +11,7 @@
 | [Source Register](Source-Register.md) | every import from the legacy notes and old pull requests, and what became of it |
 | [Spiderweb Audit](Spiderweb-Audit.md) | how this repository checks its connections, and each run's findings |
 | [World Review, 2026-11](World-Review-2026-11.md) | the November 2026 review of the whole wiki: findings, fixes, leans and insights |
+| [Realism Check, 2026-11](Realism-Check-2026-11.md) | whether the world could really work: food, water, trade and travel checked against real precedents and the map draft; map fixes and five open decisions (D48) |
 
 ## Legacy indexes
 

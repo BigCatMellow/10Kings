@@ -510,8 +510,8 @@
    "sub": "river",
    "pts": [
     [
-     468,
-     410
+     462,
+     404
     ],
     [
      446,
@@ -530,8 +530,8 @@
      412
     ],
     [
-     410,
-     380
+     406,
+     372
     ]
    ],
    "src": "Places/Gazetteer.md#the-great-features",
@@ -588,32 +588,40 @@
    "sub": "river",
    "pts": [
     [
-     705,
-     215
+     676,
+     228
     ],
     [
-     664,
-     232
+     642,
+     240
     ],
     [
-     624,
-     250
+     606,
+     256
     ],
     [
-     584,
+     570,
      266
     ],
     [
-     544,
-     280
+     540,
+     276
     ],
     [
-     508,
-     286
+     514,
+     279
+    ],
+    [
+     500,
+     268
+    ],
+    [
+     494,
+     258
     ]
    ],
    "src": "Places/Gazetteer.md#ironcrest",
-   "note": "Ironcrest's working river, past Coalglen to the coast by the Spine."
+   "note": "Ironcrest's working river: rises in the Ironbacks, runs down past Hammerford and Coalglen Meadows, and reaches the sea at the head of the North Gut, by the Spine."
   },
   {
    "id": "cinder",
@@ -644,28 +652,36 @@
    "sub": "river",
    "pts": [
     [
-     744,
-     428
+     652,
+     404
     ],
     [
-     716,
-     442
+     658,
+     420
     ],
     [
-     692,
-     452
+     662,
+     444
     ],
     [
-     672,
+     664,
      468
     ],
     [
-     660,
-     480
+     668,
+     496
+    ],
+    [
+     672,
+     520
+    ],
+    [
+     672,
+     533
     ]
    ],
    "src": "Places/Gazetteer.md#deepwood",
-   "note": "A slow, tannin-dark river through the eastern forest to the Long Channel."
+   "note": "A slow, tannin-dark river south through the Alderfens, past Sluicegate, to the Long Channel's lower reach."
   },
   {
    "id": "braids",
@@ -674,20 +690,28 @@
    "sub": "river",
    "pts": [
     [
-     744,
-     385
+     694,
+     334
     ],
     [
-     728,
-     410
+     702,
+     352
     ],
     [
-     720,
-     440
+     716,
+     368
+    ],
+    [
+     730,
+     380
+    ],
+    [
+     742,
+     386
     ]
    ],
    "src": "Places/Gazetteer.md#deepwood",
-   "note": "A braided river of shifting channels."
+   "note": "A braided river of shifting channels, down from the Ironcrest hills to the coast at Elmhythe, where timber is floated out."
   },
   {
    "id": "sallow",
@@ -706,6 +730,10 @@
     [
      502,
      590
+    ],
+    [
+     495,
+     596
     ]
    ],
    "src": "Places/Gazetteer.md#sunplains",
@@ -1208,6 +1236,10 @@
     [
      186,
      410
+    ],
+    [
+     187,
+     403
     ]
    ],
    "src": "Places/Gazetteer.md#greenvale",
@@ -2014,8 +2046,8 @@
    "name": "Port",
    "kind": "town",
    "sub": "port",
-   "x": 416,
-   "y": 374,
+   "x": 415,
+   "y": 369,
    "src": "Places/Port.md",
    "note": "At the head of the Inner Sea, on its southern shore: the bay's harbor, the Narrows its only sea gate, the Long Water its road into Greenvale, and the Spine's passes and the Underpass a day's journey east (lean). It belongs to no kingdom.",
    "region": "port"
@@ -2800,8 +2832,8 @@
    "name": "Accord",
    "kind": "town",
    "sub": "city",
-   "x": 690,
-   "y": 490,
+   "x": 712,
+   "y": 494,
    "src": "Places/Gazetteer.md#sunplains",
    "note": "A Sunplains city-state on the Long Channel's northern shore, home of the Argument House (lean, D45).",
    "region": "sunplains"
@@ -2955,7 +2987,7 @@
    "kind": "town",
    "sub": "village",
    "x": 622,
-   "y": 500,
+   "y": 534,
    "src": "Places/Gazetteer.md#sunplains",
    "note": "A village of irrigated orchards on the Long Channel shore. (lean, D45)",
    "region": "sunplains"
@@ -4222,6 +4254,7 @@
   "**New settlements (D45).** Seven cities (Gullhaven, Mootstead, Hammerford, Fairmarket, Millcombe, Alderhythe, Accord), fourteen villages and two border towns (Ferrowgate, Two Oaks) are new names, sited where the land would put them: harbors, river fords, valley seats, a forest landing. Kingshead, Emberhaven Cross, Vasselin and Twelve Wheels are shown as cities. *Lean:* keep; rename freely.",
   "**More towns and villages (D46).** Sixty-four more, spread so each sits as far from its neighbours as the land allows, with coastal names on the coast and river names on the rivers. *Lean:* keep; move or rename any.",
   "**A fuller map (D47).** Six more cities (Greyquay, Deepforge, Graincourt, Saltcross, Rookhallow, Solenne) and nineteen towns; six named lakes, two fens and scattered ponds. Streams come from a height model (distance from the sea, lifted by mountains, hills, the plateau and the Spine) and run downhill to the sea or a lake; roads are routed between neighbouring settlements at the lowest cost round mountains, forest and water, following the named roads where they exist. Main roads join cities; dashed tracks join the rest. The Narrows is carved as open water, so no road crosses it. *Lean:* keep as texture; none of the generated streams or roads is lore until a story or bt 7274 names it.",
+  "**Water that behaves (D48).** The North Gut opens north to the sea and the Long Channel drains Footwater to the sea, as the Gazetteer says; every named river runs from high ground to water; Port, Accord and Goodwater sit on their shores. The map has no scale yet: the lean is about 1.5 miles to the pixel ([Realism Check](../../wiki/Reference/Realism-Check-2026-11.md)).",
   "**bt 7274's layout (D40).** Northwind across the north of both continents; Highridge's plateau across the Northern Continent's middle; Greenvale on the lower leaf and round Port; Deepwood the Western Continent's lower half; Ironcrest its uplands. Drawn by bt 7274 on the second draft.",
   "**Port holds both sides of the Throat (D41).** With Greenvale on both shores of the Narrows, the kingdom that feeds Port would also hold its only sea gate, which cuts against Port being 'difficult for one kingdom to seize'. So Port's ground takes Lamp Point, the strait's north shore where it opens into the Inner Sea, with the Old Light on it: Port holds its own harbor mouth, Greenvale the strait's length. *Lean:* keep. The alternative, Greenvale holding the whole gate, would make Greenvale's grip on Port a story fact; that's bt 7274's to add.",
   "**Greenvale's foothold at Stonefield Forge.** The layout separated Ironcrest from Greenvale, but Stonefield Forge is a strongly established border town between them. Greenvale keeps a small piece of the western lowlands at the Spine's eastern foot, which Ironcrest's page says its rulers 'periodically held', and Stonefield Forge stands in it. *Lean:* keep.",
