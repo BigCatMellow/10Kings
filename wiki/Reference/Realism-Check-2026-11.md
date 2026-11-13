@@ -66,24 +66,24 @@ The map has no scale, and its placements imply two different ones.
   A world that size runs out of room for its climate: seas that partly freeze in the north and dry orchards that need irrigation in the south would sit less than 250 miles apart.
 - **A larger world.** Cold northern seas and a dry, Mediterranean south need roughly the distance from the Baltic to Provence.
 
-*Lean:* **about 1.5 miles to the map's pixel.** The land would be about 810 miles north to south and 890 miles east to west, roughly the size of France, Spain and Italy together.
+*Lean:* **about 1.8 miles to the map's pixel** (revised from 1.5 by [D50](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions): it puts Northwind's coast near 56° north, far enough for its Aurora Nights, and the Sunplains tip near 44°, a Mediterranean summer; [Sky, Seasons and Sea](../Sky-Seasons-and-Sea.md#the-year-and-the-light)). The land would be about 970 miles north to south and 1,070 miles east to west, roughly France, Spain, Italy and Germany together.
 
 | What follows from the lean | |
 | --- | --- |
 | The climate needs no special pleading | the latitudes do most of the work |
-| Population | about 20 million at medieval densities. Port 100,000–150,000, the size of Venice at its height |
+| Population | about 20 to 25 million at medieval densities. Port 100,000–150,000, the size of Venice at its height |
 | The 145 settlements on the map | the notable ones only: real country at this size holds thousands of villages |
 | Travel between the great cities | weeks, not days (table below), which suits "travel takes time" ([World Rules](../World-Rules.md#5-low-fantasy-means-material-limits-matter)) |
 | To redraw on the map | Fairmarket closer to Port; Larchmere closer to Twilighthollow (the story is fixed, so the map moves); the Straight Road shortened to its forty miles. No Season 1 story changes |
 
 | Route, at the lean scale | Overland (carts and caravans, ~15 miles a day) | By sea (~60 miles a day with stops) |
 | --- | --- | --- |
-| Port → Gullhaven (Northwind) | 477 mi, about 32 days | 1,123 mi round by the Narrows, about 19 days |
-| Port → Hammerford (Ironcrest) | 355 mi, about 24 days | — |
-| Port → Accord (Sunplains) | 523 mi, about 35 days | 1,110 mi round the south, about 19 days |
-| Port → Twelve Wheels (Sunplains) | 374 mi, about 25 days | 687 mi, about 11 days |
-| Loamford (Greenvale) → Mootstead (Northwind) | 485 mi, about 32 days | 443 mi along the Salted Coast, about 7 days |
-| Accord → Cindermouth (Ironcrest) | 416 mi, about 28 days | 463 mi up the east coast, about 8 days |
+| Port → Gullhaven (Northwind) | 572 mi, about 38 days | 1,348 mi round by the Narrows, about 23 days |
+| Port → Hammerford (Ironcrest) | 426 mi, about 29 days | — |
+| Port → Accord (Sunplains) | 628 mi, about 42 days | 1,332 mi round the south, about 23 days |
+| Port → Twelve Wheels (Sunplains) | 449 mi, about 30 days | 824 mi, about 13 days |
+| Loamford (Greenvale) → Mootstead (Northwind) | 582 mi, about 38 days | 532 mi along the Salted Coast, about 8 days |
+| Accord → Cindermouth (Ironcrest) | 499 mi, about 34 days | 556 mi up the east coast, about 10 days |
 
 Riders and courier relays move three to six times faster than carts. Barges move faster downstream than upstream.
 
@@ -115,7 +115,7 @@ This would be one sentence on [Geography](../Geography-and-Connections.md).
 
 ### 3. Port and the eastern sea
 
-[Port](../Places/Port.md) is said to be "convenient to both northern and southern sea routes". On the map, though, the Inner Sea's only way out is the Narrows, to the west. A ship from Port to Accord sails about 1,100 miles round the south. Overland, it's about 100 miles from Port across the Spine's southern foot to Footwater, then down the Long Channel. That neck of land between the Inner Sea and Footwater is also the only land route south.
+[Port](../Places/Port.md) is said to be "convenient to both northern and southern sea routes". On the map, though, the Inner Sea's only way out is the Narrows, to the west. A ship from Port to Accord sails about 1,300 miles round the south. Overland, it's about 125 miles from Port across the Spine's southern foot to Footwater, then down the Long Channel. That neck of land between the Inner Sea and Footwater is also the only land route south.
 
 *Lean:* a haul road over that neck. It would make Port the meeting point of two seas, the way Corinth hauled ships across its isthmus and Suez carried goods between the seas by caravan. The other choice is to reword the Port page.
 
@@ -126,7 +126,7 @@ This would be one sentence on [Geography](../Geography-and-Connections.md).
 
 ### 5. The twin suns
 
-Nothing says how the two suns behave. *Lean:* a close pair that rises and sets together, so there are no extra seasons. If the second sun were distant, it would cross the sky part of the year, and that would change calendars, farming and religion.
+Now worked out, with the year, the moon question, the tides and the waves, on [Sky, Seasons and Sea](../Sky-Seasons-and-Sea.md) (D50). Nothing says how the two suns behave. *Lean:* a close pair that rises and sets together, so there are no extra seasons. If the second sun were distant, it would cross the sky part of the year, and that would change calendars, farming and religion.
 
 ## Is it sustainable?
 
@@ -144,7 +144,7 @@ Asked next ([D49](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): 
 | **Mine waste** | rivers carry it off | Cinder Brook "black with washings" and the Ember "warm below the foundries" foul the water for everyone downstream, down to the North Gut's fishing | the Harz, Cornwall's tin streams | yes, as texture, not yet as a dispute |
 | **Disease and pests** | distance and season slow them | Port mixes every region's seed, rats, insects and fevers | the Black Death's route through the ports | the [reference](README.md#legacy-reconciliation-backlog) flags quarantine; not in canon |
 
-**People against land.** At the lean scale, 20 million people on 460,000 square miles is about 17 to the square kilometre. Mixed farmland supports more than that, so there's slack. That is why a bad harvest is a crisis rather than a collapse, and why the true collapses in the history (the Blight, the Ages of Silence) needed several failures at once.
+**People against land.** At the lean scale, 20 to 25 million people on about 670,000 square miles is 12 to 15 to the square kilometre. Mixed farmland supports more than that, so there's slack. That is why a bad harvest is a crisis rather than a collapse, and why the true collapses in the history (the Blight, the Ages of Silence) needed several failures at once.
 
 **What's missing is an owner page.** Flora, fauna and food webs have none. The 2026-09-24 legacy notes hold a grounded draft per region, with its biology errors already corrected, and the [Reference index](README.md#legacy-reconciliation-backlog) calls it the highest risk of loss.
 

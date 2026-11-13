@@ -804,7 +804,7 @@ That can affect:
 
 Exact lunar/tidal cosmology remains open.
 
-The practical effect does not require a finalized moon calendar.
+The practical effect does not require a finalized moon calendar. The Tide Road's tide post and Port's Tide Return already lean toward a moon; the reasoning, with the suns, day length and seasons, is on [Sky, Seasons and Sea](Sky-Seasons-and-Sea.md#the-moon-question).
 
 ---
 

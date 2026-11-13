@@ -7,6 +7,7 @@
 - [Magic and Relics](Magic.md)
 - [Geography](Geography-and-Connections.md)
 - [Peoples and Land](Peoples-and-Land.md)
+- [Sky, Seasons and Sea](Sky-Seasons-and-Sea.md)
 - [Trade and Dependencies](Economy/Trade-and-Dependencies.md)
 - [Open Questions](Open-Questions.md)
 
