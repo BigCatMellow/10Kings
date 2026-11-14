@@ -32,6 +32,9 @@ main { flex: 1; display: flex; min-height: 0; }
 #view { flex: 1; position: relative; min-width: 0; background: #9fb3a8; overflow: hidden; touch-action: none; cursor: grab; }
 #view.drag { cursor: grabbing; }
 svg { width: 100%; height: 100%; display: block; }
+#scale { position: absolute; left: 12px; bottom: 12px; background: color-mix(in srgb, var(--surface) 88%, transparent); border: 1px solid var(--line); border-radius: 6px; padding: 5px 8px; font-size: 11px; color: var(--ink); display: flex; align-items: center; gap: 8px; pointer-events: none; }
+#scale-bar { height: 6px; border: 1.5px solid var(--ink); border-top: none; }
+#scale .north { color: var(--muted); }
 .zoom { position: absolute; right: 12px; top: 12px; display: flex; flex-direction: column; gap: 4px; }
 .zoom button { width: 32px; height: 32px; font-size: 18px; border-radius: 6px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; }
 aside { width: 340px; border-left: 1px solid var(--line); background: var(--surface); display: flex; flex-direction: column; min-height: 0; }
@@ -87,6 +90,7 @@ aside { width: 340px; border-left: 1px solid var(--line); background: var(--surf
         <g id="g-marks"></g>
       </g>
     </svg>
+    <div id="scale" aria-label="Scale"><div id="scale-bar"></div><span id="scale-txt"></span><span class="north">N ↑</span></div>
     <div class="zoom"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">−</button><button id="zfit" aria-label="Fit" style="font-size:13px">⤢</button></div>
   </div>
   <aside>
@@ -99,6 +103,14 @@ aside { width: 340px; border-left: 1px solid var(--line); background: var(--surf
 const D = __DATA__;
 const REPO = "https://github.com/BigCatMellow/10kings/blob/main/wiki/";
 const NS = "http://www.w3.org/2000/svg";
+const PLACE_GLYPH = {
+  holy: "M-4.5,4.5 L-4.5,-0.5 L0,-5 L4.5,-0.5 L4.5,4.5 Z",            // a shrine
+  ruin: "M-4,4.5 L-4,-2.5 L-2,-4.5 L-0.5,-2.5 L1.5,-4 L4,-2 L4,4.5 Z",   // a broken wall
+  mystery: "M0,-5 A5,5 0 1 1 -0.01,-5 Z M0,-2 A2,2 0 1 0 0.01,-2 Z",     // a ring
+  wonder: "M0,-5.5 L1.6,-1.7 L5.5,-1.7 L2.4,0.7 L3.5,4.8 L0,2.3 L-3.5,4.8 L-2.4,0.7 L-5.5,-1.7 L-1.6,-1.7 Z", // a star
+  landmark: "M-3,5 L-1.8,-4.5 L0,-6 L1.8,-4.5 L3,5 Z",                    // a standing stone
+};
+const GLYPH_OF = {"holy site":"holy","monument":"ruin","carving":"ruin","ruin":"ruin","relic":"ruin","mystery":"mystery","natural wonder":"wonder","landmark":"landmark","meeting place":"landmark","memorial":"landmark"};
 const PLACE_COL = {"holy site":"#6b2f86","monument":"#5b4a3a","carving":"#5b4a3a","ruin":"#5b4a3a","relic":"#5b4a3a","mystery":"#9c1f1f","natural wonder":"#1f6b66","landmark":"#28406e","meeting place":"#28406e","memorial":"#28406e"};
 const LAYERS = [
   {id:"regions", label: D.peoples_soft ? "Peoples" : "Regions", sw:"#b98a4a"},
@@ -160,7 +172,7 @@ for (const w of D.waters) {
 }
 // markers (screen-sized: counter-scaled on zoom)
 const marks = [];
-const SHOW = {town: 1.5, feature: 2.4, place: 3.0};
+const SHOW = {town: 1.5, feature: 2.4, place: 2.2};
 for (const p of [...D.points].sort((a, b) => (a.sub === "port") - (b.sub === "port"))) {
   const g = el("g", {class: "m", transform: `translate(${p.x},${p.y})`, "data-layer": p.kind}, gM);
   const s = el("g", {class: "ms"}, g);
@@ -172,7 +184,7 @@ for (const p of [...D.points].sort((a, b) => (a.sub === "port") - (b.sub === "po
     else if (p.sub === "border") shape = el("circle", {r: 4, fill: "#fff", stroke: "#20170e", "stroke-width": 2}, s);
     else shape = el("circle", {r: 3.6, fill: p.sub === "story" ? "#20170e" : "#fff", stroke: "#20170e", "stroke-width": 1.4}, s);
   } else if (p.kind === "place") {
-    shape = el("path", {d: "M0,-5 L5,0 L0,5 L-5,0 Z", fill: PLACE_COL[p.sub] || "#28406e", stroke: "#fff", "stroke-width": 1.2}, s);
+    shape = el("path", {d: PLACE_GLYPH[GLYPH_OF[p.sub] || "landmark"], fill: PLACE_COL[p.sub] || "#28406e", stroke: "#fff", "stroke-width": 1.2, "fill-rule": "evenodd"}, s);
   } else {
     shape = el("path", {d: "M0,-4 L4,3 L-4,3 Z", fill: "#6b5a3a", stroke: "#fff", "stroke-width": 1}, s);
   }
@@ -205,6 +217,12 @@ function apply() {
   document.querySelectorAll("[data-px]").forEach(t => t.setAttribute("font-size", (t.dataset.px * grow / screenK).toFixed(2)));
   document.querySelectorAll(".rlabel").forEach(t => t.style.opacity = screenK > 4 ? .45 : 1);
   document.querySelectorAll(".clabel").forEach(t => t.style.opacity = screenK > 3 ? 0 : 1);
+  if (D.scale) {
+    const mi = D.scale.miles_per_px / screenK; // miles per screen pixel
+    const nice = [5, 10, 20, 25, 50, 100, 200, 250, 500, 1000].find(n => n / mi >= 60) || 1000;
+    document.getElementById("scale-bar").style.width = (nice / mi).toFixed(0) + "px";
+    document.getElementById("scale-txt").textContent = `${nice} miles (lean scale)`;
+  } else document.getElementById("scale").style.display = "none";
 }
 function zoomAt(f, cx, cy) {
   const nk = Math.max(0.8, Math.min(14, k * f)); f = nk / k;
@@ -280,11 +298,11 @@ const LEG = [
   ['<circle cx="7" cy="7" r="4" fill="#fff" stroke="#20170e" stroke-width="2"/>', "Border town"],
   ['<circle cx="7" cy="7" r="3.6" fill="#20170e"/>', "Town a story uses"],
   ['<circle cx="7" cy="7" r="3.6" fill="#fff" stroke="#20170e" stroke-width="1.4"/>', "Town"],
-  ['<path d="M7,2 L12,7 L7,12 L2,7Z" fill="#6b2f86"/>', "Holy site"],
-  ['<path d="M7,2 L12,7 L7,12 L2,7Z" fill="#5b4a3a"/>', "Monument, carving, ruin"],
-  ['<path d="M7,2 L12,7 L7,12 L2,7Z" fill="#9c1f1f"/>', "Mystery"],
-  ['<path d="M7,2 L12,7 L7,12 L2,7Z" fill="#1f6b66"/>', "Natural wonder"],
-  ['<path d="M7,2 L12,7 L7,12 L2,7Z" fill="#28406e"/>', "Landmark, memorial"],
+  [`<path transform="translate(7,7.5)" d="${PLACE_GLYPH.holy}" fill="#6b2f86"/>`, "Holy site"],
+  [`<path transform="translate(7,7.5)" d="${PLACE_GLYPH.ruin}" fill="#5b4a3a"/>`, "Monument, carving, ruin"],
+  [`<path transform="translate(7,7)" d="${PLACE_GLYPH.mystery}" fill="#9c1f1f" fill-rule="evenodd"/>`, "Mystery"],
+  [`<path transform="translate(7,7)" d="${PLACE_GLYPH.wonder}" fill="#1f6b66"/>`, "Natural wonder"],
+  [`<path transform="translate(7,7)" d="${PLACE_GLYPH.landmark}" fill="#28406e"/>`, "Landmark, memorial"],
   ['<path d="M7,3 L11,10 L3,10Z" fill="#6b5a3a"/>', "Named feature"],
   ['<path d="M1,7 L13,7" stroke="#7b3f22" stroke-width="1.6"/>', "Road"],
   ['<path d="M1,7 L13,7" stroke="#7b3f22" stroke-width="1.3" stroke-dasharray="4 2"/>', "Path, shortcut"],

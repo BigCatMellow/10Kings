@@ -74,7 +74,7 @@ The map has no scale, and its placements imply two different ones.
 | Population | about 20 to 25 million at medieval densities. Port 100,000–150,000, the size of Venice at its height |
 | The 145 settlements on the map | the notable ones only: real country at this size holds thousands of villages |
 | Travel between the great cities | weeks, not days (table below), which suits "travel takes time" ([World Rules](../World-Rules.md#5-low-fantasy-means-material-limits-matter)) |
-| To redraw on the map | Fairmarket closer to Port; Larchmere closer to Twilighthollow (the story is fixed, so the map moves); the Straight Road shortened to its forty miles. No Season 1 story changes |
+| Redrawn on the map ([D53](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)) | Fairmarket a day above the Kings' Gate; Larchmere a day's walk and a stream from Twilighthollow (the story is fixed, so the map moved); the Straight Road forty miles long, across the Reed; Ship Hill forty miles from the sea. The map has a scale bar. No Season 1 story changes |
 
 | Route, at the lean scale | Overland (carts and caravans, ~15 miles a day) | By sea (~60 miles a day with stops) |
 | --- | --- | --- |

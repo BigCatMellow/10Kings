@@ -68,6 +68,7 @@ The most important lesson: **get the author's own voice before drafting a word.*
 | 50. Sky and sea | bt 7274 asked about seasons, the suns and the waves ([D50](Decisions.md#the-authors-decisions)). The lore turned out to have committed to more than anyone had noticed: a tide post that implies a moon, auroras that set a latitude. The page that grew from it owns the physical world. | see git log, 2026-11-13 |
 | 51. What lives here, and what it means | The September ecology notes, the highest-risk material in the backlog, got their owner page ([D51](Decisions.md#the-authors-decisions)), and the nine faiths each looked up at the same two suns and saw something different. | see git log, 2026-11-13 |
 | 52. Three moons | bt 7274 set the sky right ([D52](Decisions.md#the-authors-decisions)): three moons, and Three Moon back to every seven years, when all three are visible from Port, as he first had it. The review's yearly lean, taken from a story line, was the wrong way round. The myth is how the continents came together. | see git log, 2026-11-13 |
+| 53. A scale on the map | The map got its scale bar, and the four places the scale broke were moved to the distances the wiki and the stories give them ([D53](Decisions.md#the-authors-decisions)). | see git log, 2026-11-14 |
 
 ## Check log
 

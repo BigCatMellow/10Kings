@@ -227,11 +227,11 @@ def place_labels(D, k=1.6):
     """Choose each town label's side (right, left, above, below) so labels overlap as
     little as possible at the zoom where town names first appear. Cities go first."""
     char, tall = 6.9 / k, 9 / k
-    rank = {"port": 0, "city": 1, "border": 2, "story": 3, "gazetteer": 3, "town": 3, "village": 4}
+    rank = {"port": 0, "city": 1, "border": 2, "story": 3, "gazetteer": 3, "town": 3, "village": 4}  # places of interest rank after towns
     boxes = [(p["x"] - 3, p["y"] - 3, p["x"] + 3, p["y"] + 3) for p in D["points"]]
     def hit(b):
         return sum(max(0, min(b[2], c[2]) - max(b[0], c[0])) * max(0, min(b[3], c[3]) - max(b[1], c[1])) for c in boxes)
-    for p in sorted((p for p in D["points"] if p["kind"] == "town"), key=lambda p: rank.get(p["sub"], 3)):
+    for p in sorted((p for p in D["points"] if p["kind"] in ("town", "place")), key=lambda p: (p["kind"] == "place", rank.get(p["sub"], 3))):
         w = len(p["name"]) * char * (1.25 if p["sub"] == "city" else 1) + 2
         x, y = p["x"], p["y"]
         opts = {"r": (x + 5, y - tall / 2, x + 5 + w, y + tall / 2), "l": (x - 5 - w, y - tall / 2, x - 5, y + tall / 2),

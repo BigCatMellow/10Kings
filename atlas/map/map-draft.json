@@ -1,6 +1,6 @@
 {
  "title": "Map draft",
- "status": "Fifth draft (D47): bt 7274's layout, with the land painted on, the peoples shown as soft colour that fades and overlaps (D43), lakes and fens cut into the land, and streams and roads grown from the terrain. Every placement is a lean; the wiki owns the facts and the exact map stays open.",
+ "status": "Sixth draft (D53): bt 7274's layout, with the land painted on, the peoples shown as soft colour that fades and overlaps (D43), lakes and fens, streams and roads grown from the terrain (D47), seas and rivers that reach the sea (D48), and a scale bar at the lean scale (D50, D53). Every placement is a lean; the wiki owns the facts and the exact map stays open.",
  "image": {
   "file": "base-map.png",
   "w": 980,
@@ -1096,12 +1096,12 @@
    "sub": "road",
    "pts": [
     [
-     336,
-     488
+     404,
+     481
     ],
     [
-     432,
-     468
+     426,
+     477
     ]
    ],
    "src": "Places/Places-of-Interest.md#the-straight-road",
@@ -1521,8 +1521,8 @@
    "name": "Larchmere",
    "kind": "town",
    "sub": "story",
-   "x": 548,
-   "y": 392,
+   "x": 528,
+   "y": 399,
    "src": "Sunday-Morning/Stories/The-Blank-Square.md",
    "note": "On the shore of Larch Mere, a forest lake, a day's walk and a river from Twilighthollow.",
    "region": "deepwood"
@@ -1914,10 +1914,10 @@
    "name": "Ship Hill",
    "kind": "feature",
    "sub": "hill",
-   "x": 467,
-   "y": 442,
+   "x": 246,
+   "y": 284,
    "src": "Places/Gazetteer.md#greenvale",
-   "note": "Toward the Highridge edge.",
+   "note": "Toward the Highridge edge, forty miles from the sea at the map's lean scale (D53).",
    "region": "greenvale"
   },
   {
@@ -2259,8 +2259,8 @@
    "name": "The Straight Road",
    "kind": "place",
    "sub": "ruin",
-   "x": 420,
-   "y": 498,
+   "x": 426,
+   "y": 477,
    "src": "Places/Places-of-Interest.md#the-straight-road",
    "note": "Forty miles of fitted stone.",
    "region": "greenvale"
@@ -2325,8 +2325,8 @@
    "name": "The Ship on the Hill",
    "kind": "place",
    "sub": "mystery",
-   "x": 467,
-   "y": 442,
+   "x": 246,
+   "y": 281,
    "src": "Places/Places-of-Interest.md#the-ship-on-the-hill",
    "note": "On Ship Hill.",
    "region": "greenvale"
@@ -2799,8 +2799,8 @@
    "name": "Fairmarket",
    "kind": "town",
    "sub": "city",
-   "x": 457,
-   "y": 424,
+   "x": 393,
+   "y": 426,
    "src": "Places/Gazetteer.md#greenvale",
    "note": "Greenvale's great market city on the Long Water, a day above the Kings' Gate and Port (lean, D45).",
    "region": "greenvale"
@@ -4255,6 +4255,7 @@
   "**More towns and villages (D46).** Sixty-four more, spread so each sits as far from its neighbours as the land allows, with coastal names on the coast and river names on the rivers. *Lean:* keep; move or rename any.",
   "**A fuller map (D47).** Six more cities (Greyquay, Deepforge, Graincourt, Saltcross, Rookhallow, Solenne) and nineteen towns; six named lakes, two fens and scattered ponds. Streams come from a height model (distance from the sea, lifted by mountains, hills, the plateau and the Spine) and run downhill to the sea or a lake; roads are routed between neighbouring settlements at the lowest cost round mountains, forest and water, following the named roads where they exist. Main roads join cities; dashed tracks join the rest. The Narrows is carved as open water, so no road crosses it. *Lean:* keep as texture; none of the generated streams or roads is lore until a story or bt 7274 names it.",
   "**Water that behaves (D48).** The North Gut opens north to the sea and the Long Channel drains Footwater to the sea, as the Gazetteer says; every named river runs from high ground to water; Port, Accord and Goodwater sit on their shores. The map has no scale yet: the lean is about 1.8 miles to the pixel (D50) ([Realism Check](../../wiki/Reference/Realism-Check-2026-11.md)).",
+  "**The lean scale, drawn (D53).** A scale bar at about 1.8 miles to the pixel. The places the scale broke were redrawn to their wiki distances: Fairmarket a day above the Kings' Gate on the Long Water; Larchmere a day's walk and a stream from Twilighthollow, on Larch Mere; the Straight Road forty miles long, across the Reed; Ship Hill forty miles from the sea, toward the Highridge edge (Footwater's opening to the sea in D48 had left it on the shore).",
   "**bt 7274's layout (D40).** Northwind across the north of both continents; Highridge's plateau across the Northern Continent's middle; Greenvale on the lower leaf and round Port; Deepwood the Western Continent's lower half; Ironcrest its uplands. Drawn by bt 7274 on the second draft.",
   "**Port holds both sides of the Throat (D41).** With Greenvale on both shores of the Narrows, the kingdom that feeds Port would also hold its only sea gate, which cuts against Port being 'difficult for one kingdom to seize'. So Port's ground takes Lamp Point, the strait's north shore where it opens into the Inner Sea, with the Old Light on it: Port holds its own harbor mouth, Greenvale the strait's length. *Lean:* keep. The alternative, Greenvale holding the whole gate, would make Greenvale's grip on Port a story fact; that's bt 7274's to add.",
   "**Greenvale's foothold at Stonefield Forge.** The layout separated Ironcrest from Greenvale, but Stonefield Forge is a strongly established border town between them. Greenvale keeps a small piece of the western lowlands at the Spine's eastern foot, which Ironcrest's page says its rulers 'periodically held', and Stonefield Forge stands in it. *Lean:* keep.",
@@ -4378,5 +4379,9 @@
    "file": "roads.png",
    "layer": "road"
   }
- ]
+ ],
+ "scale": {
+  "miles_per_px": 1.8,
+  "note": "lean (D50): about 1.8 miles to the pixel, from about 56° north at Northwind's coast to 44° at the Sunplains tip"
+ }
 }
