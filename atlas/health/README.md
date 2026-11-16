@@ -111,7 +111,7 @@ Some are fine on their own (a saying, a festival); others are things the wiki ha
 - **Nomadic peoples** (1): Seasonal circuits and legal status → Nomads and itinerant peoples
 - **Current events** (1): Which of the brainstormed crises are formally selected? The events pages should be audited once the map and villain plan are finalized → Current events
 - **Faiths** (2): Whether the gods' Latinate names are a shared liturgical register → The Radiant Path; The creation myth → Path of the Great Weaver
-- **Ecology** (1): Flora and fauna have no owner page yet → Greenvale
+- **Ecology** (1): Flora and fauna now have an owner → Greenvale
 
 ## Gaps per part
 

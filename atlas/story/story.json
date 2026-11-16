@@ -1023,15 +1023,15 @@
     {
       "id": "st-c12",
       "kind": "chainstep",
-      "label": "12. Villain amplifies Council involvement",
+      "label": "12. Villain amplifies the coordination",
       "status": "Working canon",
       "lane": "conflict",
       "section": "Ripple chain",
       "src": "Story/Current-Events.md#example-ripple-chain",
-      "text": "Step 12 of one possible ripple chain: Villain agents amplify evidence of Council involvement.",
-      "short_text": "Villain agents amplify evidence of Council involvement.",
+      "text": "Step 12 of one possible ripple chain: Villain agents amplify evidence that someone is coordinating the lenders and buyers. He takes it for the guarantor kingdoms' doing; it is the Council's, which he doesn't know exists (D28).",
+      "short_text": "Villain agents amplify evidence that someone is coordinating the lenders and buyers.",
       "facts": {
-        "What's happening": "Villain agents amplify evidence of Council involvement.",
+        "What's happening": "Villain agents amplify evidence that someone is coordinating the lenders and buyers.",
         "Note": "One possible chain, which Current Events calls \"the kind of causal chain the story should prefer\"; not a fixed sequence of events."
       }
     },
@@ -3623,7 +3623,7 @@
       "layer": "st-chain",
       "type": "can lead to",
       "basis": "stated",
-      "quote": "strike leaders blame owners. … Villain agents amplify evidence of Council involvement.",
+      "quote": "strike leaders blame owners. … Villain agents amplify evidence that someone is coordinating the lenders and buyers.",
       "src": "Story/Current-Events.md#example-ripple-chain",
       "chip": "Leads to",
       "chipBack": "Follows from",
@@ -3635,7 +3635,7 @@
       "layer": "st-chain",
       "type": "can lead to",
       "basis": "stated",
-      "quote": "Villain agents amplify evidence of Council involvement. … a local economic shock becomes proof, in several regions, that another group is acting against them.",
+      "quote": "Villain agents amplify evidence that someone is coordinating the lenders and buyers. … a local economic shock becomes proof, in several regions, that another group is acting against them.",
       "src": "Story/Current-Events.md#example-ripple-chain",
       "chip": "Leads to",
       "chipBack": "Follows from",
@@ -3817,12 +3817,12 @@
       "layer": "st-chain",
       "type": "is an action of",
       "basis": "stated",
-      "quote": "Villain agents amplify evidence of Council involvement.",
+      "quote": "Villain agents amplify evidence that someone is coordinating the lenders and buyers.",
       "src": "Story/Current-Events.md#example-ripple-chain",
       "chip": "Villain",
       "chipBack": "Current events",
       "chipNote": "his agents amplify",
-      "chipNoteBack": "amplifies Council involvement (step 12)"
+      "chipNoteBack": "amplifies the coordination (step 12)"
     },
     {
       "from": "st-x-faiths",

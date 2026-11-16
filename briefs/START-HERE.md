@@ -18,7 +18,7 @@
 **The owner** is the author, referred to in every file, filename and commit message as **bt 7274**. Never use any other name for him, even if you see one somewhere.
 
 **Your role in a brief** is either *helper* or *reviser*:
-- **Helper** (B1, B2, B3, B4, B6) means you produce evidence: findings, arguments and candidates. You don't edit canon.
+- **Helper** (B0, B1, B2, B3, B4, B6) means you produce evidence: findings, arguments and candidates. You don't edit canon.
 - **Reviser** (B5 only) means you edit one owner page, the Source Register and one backlog row, and nothing else.
 
 In both roles, bt 7274 rules. You inform the ruling.
@@ -47,7 +47,10 @@ Points, lines and named waters are in `atlas/map/map-draft.json`. Painted terrai
 
 ## 3. The prompts
 
-Paste exactly one of these per session. Don't chain briefs in one session; each later brief reads the earlier ones' reports.
+Paste exactly one of these per session. Don't chain briefs in one session; each later brief reads the earlier ones' reports. **Run them in the order on [the briefs index](README.md#the-order): B0 first** (D56: the dominoes and the Sunday-story logic come first).
+
+**B0, the domino and story plan**
+> Read `briefs/START-HERE.md` fully, then `AGENTS.md`, then `briefs/B0-Domino-And-Story-Plan.md`. Run brief B0. Phase 1 is a cold read: don't open `briefs/STATE.md` or the reviser's Story Plan Logic report until your answers to the eight tests are written into the report. Read only what the brief lists, in its order. Write the report where it says, verify, commit, push, and give me the result.
 
 **B1, the physical world, blind**
 > Read `briefs/START-HERE.md` fully, then `AGENTS.md`, then `briefs/B1-Physical-World-Blind-Check.md`. Run brief B1. Phase 1 is blind: don't open `briefs/STATE.md` or any phase 2 file until your phase 1 answers are written into the report. Read only what the brief lists, in its order. Write the report where it says, verify, commit, push, and give me the result.
@@ -59,7 +62,7 @@ Paste exactly one of these per session. Don't chain briefs in one session; each 
 > Read `briefs/START-HERE.md` fully, then `AGENTS.md`, `briefs/STATE.md` and `briefs/B3-Stories-Against-The-World.md`. Run brief B3. Read each draft straight through before checking it. Don't edit any story or canon page. Write the report, verify, commit, push, and give me the result.
 
 **B4, the tenth seat (say the number)**
-> Read `briefs/START-HERE.md` fully, then `AGENTS.md`, `briefs/STATE.md` and `briefs/B4-Tenth-Seat.md`. Run brief B4 for **decision 1** only. Write the report, verify, commit, push, and give me the result.
+> Read `briefs/START-HERE.md` fully, then `AGENTS.md`, `briefs/STATE.md` and `briefs/B4-Tenth-Seat.md`. Run brief B4 for **decision 1 (the Villain)** only. Write the report, verify, commit, push, and give me the result.
 
 **B5, the legacy backlog (say the item)**
 > Read `briefs/START-HERE.md` fully, then `AGENTS.md`, `briefs/STATE.md` and `briefs/B5-Legacy-Backlog.md`. Run brief B5 for **the first item in its order** only. You may edit only the owner page, the Source Register entry and the backlog row. Write the short report, verify, commit, push, and give me the result.

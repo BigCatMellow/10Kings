@@ -662,11 +662,11 @@
       "lane": "across",
       "section": "Open questions",
       "src": "Open-Questions.md#ecology",
-      "text": "Flora and fauna have no owner page yet.",
-      "short_text": "Flora and fauna have no owner page yet.",
+      "text": "Flora and fauna now have an owner: Ecology, Flora and Fauna (D51). Animal names, the big predators, the One Tree and quarantine stay open there.",
+      "short_text": "Flora and fauna now have an owner (D51); details open there.",
       "minor": true,
       "facts": {
-        "Question": "Flora and fauna have no owner page yet.",
+        "Question": "Flora and fauna now have an owner.",
         "Section": "Ecology"
       }
     }
@@ -1041,7 +1041,7 @@
       "layer": "oq",
       "type": "asks about",
       "basis": "stated",
-      "quote": "Flora and fauna have no owner page yet",
+      "quote": "Flora and fauna now have an owner",
       "src": "Open-Questions.md#ecology",
       "chip": "Asks about",
       "chipBack": "Open questions"

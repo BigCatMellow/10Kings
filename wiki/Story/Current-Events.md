@@ -181,7 +181,7 @@ One possible chain:
 9. protests affect tool orders from Ironcrest.
 10. Ironcrest workshops reduce hours.
 11. strike leaders blame owners.
-12. Villain agents amplify evidence of Council involvement.
+12. Villain agents amplify evidence that someone is coordinating the lenders and buyers. He takes it for the guarantor kingdoms' doing; it is the Council's, which he doesn't know exists (D28).
 13. a local economic shock becomes proof, in several regions, that another group is acting against them.
 
 This is the kind of causal chain the story should prefer.

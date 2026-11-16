@@ -81,7 +81,7 @@ Strategic value:
 can mobilize resistance to roads, logging, or outside extraction.
 
 Manipulation:
-leak real Council-backed expansion plans without context; encourage preemptive defense.
+leak real road and expansion plans without context; encourage preemptive defense. (The Council backs those plans; he doesn't know that, [D28](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions). To him they are the kingdoms' and the merchants'.)
 
 Domino:
 a local conservation dispute becomes an inter-regional sovereignty crisis.

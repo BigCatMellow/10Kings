@@ -47,7 +47,7 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Maris Bleakshore | is pushed by | The Villain | stated | “credible but selectively framed intelligence makes defensive action look necessary.” [source](../../wiki/Story/Villains-Dominoes.md#maris-bleakshore--northwind) |
 | Rosana Meadowcroft | is pushed by | The Villain | stated | “fund research, create distribution bottlenecks, allow rivals to overreact.” [source](../../wiki/Story/Villains-Dominoes.md#rosana-meadowcroft--greenvale) |
 | Samir Tareh | is pushed by | The Villain | stated | “provide true information about dangers but omit who created them.” [source](../../wiki/Story/Villains-Dominoes.md#samir-tareh--highridge) |
-| Naruin Mossglade | is pushed by | The Villain | stated | “leak real Council-backed expansion plans without context; encourage preemptive defense.” [source](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood) |
+| Naruin Mossglade | is pushed by | The Villain | stated | “leak real road and expansion plans without context; encourage preemptive defense.” [source](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood) |
 | Bahriyya Nazar | is pushed by | The Villain | stated | “secretly help her coordination, then ensure neighbors interpret it as expansionist consolidation.” [source](../../wiki/Story/Villains-Dominoes.md#bahriyya-nazar--sunplains) |
 
 ## Sunday Morning ties
@@ -243,7 +243,7 @@ Grouped by board column.
 
 - *Role:* Forest warden or sentinel defending local rights. ([source](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood))
 - *Strategic value:* Can mobilize resistance to roads, logging, or outside extraction. ([source](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood))
-- *Manipulation:* Leak real Council-backed expansion plans without context; encourage preemptive defense. ([source](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood))
+- *Manipulation:* Leak real road and expansion plans without context; encourage preemptive defense. (The Council backs them; he doesn't know that, D28.) ([source](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood))
 - *Domino:* A local conservation dispute becomes an inter-regional sovereignty crisis. ([source](../../wiki/Story/Villains-Dominoes.md#naruin-mossglade--deepwood))
 - *Also on:* [Character Roster](../../wiki/Story/Character-Roster.md#naruin-mossglade--deepwood)
 

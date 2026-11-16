@@ -475,7 +475,7 @@
       "facts": {
         "Role": "Forest warden or sentinel defending local rights.",
         "Strategic value": "Can mobilize resistance to roads, logging, or outside extraction.",
-        "Manipulation": "Leak real Council-backed expansion plans without context; encourage preemptive defense.",
+        "Manipulation": "Leak real road and expansion plans without context; encourage preemptive defense. (The Council backs them; he doesn't know that, D28.)",
         "Domino": "A local conservation dispute becomes an inter-regional sovereignty crisis."
       },
       "fact_src": {
@@ -2245,7 +2245,7 @@
       "layer": "pp-domino",
       "type": "is pushed by",
       "basis": "stated",
-      "quote": "leak real Council-backed expansion plans without context; encourage preemptive defense.",
+      "quote": "leak real road and expansion plans without context; encourage preemptive defense.",
       "src": "Story/Villains-Dominoes.md#naruin-mossglade--deepwood",
       "chip": "Pushed by",
       "chipBack": "Dominoes"

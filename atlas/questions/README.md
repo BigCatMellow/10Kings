@@ -54,7 +54,7 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Map: Seven Hill's pass; the Overpath's keepers and route | asks about | Seven Hill | stated | “Which pass Seven Hill guards” [source](../../wiki/Open-Questions.md#map) |
 | Faiths: are the gods' names a shared liturgical register? | asks about | The Radiant Path | stated | “Whether the gods' Latinate names are a shared liturgical register” [source](../../wiki/Open-Questions.md#faiths) |
 | Faiths: the creation myth and the Sons | asks about | Path of the Great Weaver | stated | “The creation myth” [source](../../wiki/Open-Questions.md#faiths) |
-| Ecology: no owner for flora and fauna | asks about | Greenvale | stated | “Flora and fauna have no owner page yet” [source](../../wiki/Open-Questions.md#ecology) |
+| Ecology: no owner for flora and fauna | asks about | Greenvale | stated | “Flora and fauna now have an owner” [source](../../wiki/Open-Questions.md#ecology) |
 | Port's past: the war in which the empire lost Port | asks about | Port | stated | “The war in which the empire lost Port: its name, and when it fell relative to the Convergence (lean: before it).” [source](../../wiki/Open-Questions.md#ports-past) |
 | Port's past: the last ruling empire, its name, people and reach | asks about | Port | stated | “The last ruling empire: its name, its people, and how far it reached.” [source](../../wiki/Open-Questions.md#ports-past) |
 
@@ -348,7 +348,7 @@ Grouped by board column.
 | [Map: Seven Hill's pass; the Overpath's keepers and route](../../wiki/Open-Questions.md#map) | Open question | No status label | Which pass Seven Hill guards. |
 | [Faiths: are the gods' names a shared liturgical register?](../../wiki/Open-Questions.md#faiths) | Open question | No status label | Whether the gods' Latinate names are a shared liturgical register. |
 | [Faiths: the creation myth and the Sons](../../wiki/Open-Questions.md#faiths) | Open question | No status label | The creation myth. |
-| [Ecology: no owner for flora and fauna](../../wiki/Open-Questions.md#ecology) | Open question | No status label | Flora and fauna have no owner page yet. |
+| [Ecology: no owner for flora and fauna](../../wiki/Open-Questions.md#ecology) | Open question | No status label | Flora and fauna now have an owner: Ecology, Flora and Fauna (D51). Animal names, the big predators, the One Tree and quarantine stay open there. |
 
 **Map: exact outlines of the three continents**
 
@@ -402,6 +402,6 @@ Grouped by board column.
 
 **Ecology: no owner for flora and fauna**
 
-- *Question:* Flora and fauna have no owner page yet.
+- *Question:* Flora and fauna now have an owner.
 - *Section:* Ecology
 

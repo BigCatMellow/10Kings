@@ -22,7 +22,7 @@ Each clash quotes both sides.
 2. `wiki/Sunday-Morning/Notes/Rules.md`, only **The world-tie rule**, **Canon discipline** and **Setting rules that still apply**. These say how stories may and may not bend canon.
 3. `wiki/Sunday-Morning/Notes/Collection.md`, only **Reading order** and **Cross-story promise ledger**.
 4. `wiki/Sunday-Morning/Notes/Registry.md`, only **Names**, which lists who and what each story names.
-5. The B2 reports for slices A and D, from `wiki/Reference/Reviews/`, if they exist. They are your index of canon claims; use them instead of re-reading those pages.
+5. The B0 report, and the B2 reports for slices A and D, from `wiki/Reference/Reviews/`, if they exist. They are your index of canon claims; use them instead of re-reading those pages.
 6. **The 16 drafts in `wiki/Sunday-Morning/Drafts/`, in the Collection's reading order,** with Mending Day and The Same Paper last.
    - Read each one straight through, as a reader would, before checking anything.
    - Then grep canon for each place, festival, custom, distance and season the draft uses.

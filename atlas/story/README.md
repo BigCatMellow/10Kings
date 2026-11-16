@@ -52,14 +52,14 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | 8. Reformers cry theft | can lead to | 9. Protests hit tool orders | stated, possible | “religious and guild reformers call it coordinated theft. … protests affect tool orders from Ironcrest.” [source](../../wiki/Story/Current-Events.md#example-ripple-chain) |
 | 9. Protests hit tool orders | can lead to | 10. Workshops cut hours | stated, possible | “protests affect tool orders from Ironcrest. … Ironcrest workshops reduce hours.” [source](../../wiki/Story/Current-Events.md#example-ripple-chain) |
 | 10. Workshops cut hours | can lead to | 11. Strike leaders blame owners | stated, possible | “Ironcrest workshops reduce hours. … strike leaders blame owners.” [source](../../wiki/Story/Current-Events.md#example-ripple-chain) |
-| 11. Strike leaders blame owners | can lead to | 12. Villain amplifies Council involvement | stated, possible | “strike leaders blame owners. … Villain agents amplify evidence of Council involvement.” [source](../../wiki/Story/Current-Events.md#example-ripple-chain) |
-| 12. Villain amplifies Council involvement | can lead to | 13. Shocks read as proof of enemies | stated, possible | “Villain agents amplify evidence of Council involvement. … a local economic shock becomes proof, in several regions, that another group is acting against them.” [source](../../wiki/Story/Current-Events.md#example-ripple-chain) |
+| 11. Strike leaders blame owners | can lead to | 12. Villain amplifies the coordination | stated, possible | “strike leaders blame owners. … Villain agents amplify evidence that someone is coordinating the lenders and buyers.” [source](../../wiki/Story/Current-Events.md#example-ripple-chain) |
+| 12. Villain amplifies the coordination | can lead to | 13. Shocks read as proof of enemies | stated, possible | “Villain agents amplify evidence that someone is coordinating the lenders and buyers. … a local economic shock becomes proof, in several regions, that another group is acting against them.” [source](../../wiki/Story/Current-Events.md#example-ripple-chain) |
 | Piracy rises | can lead to | Convoy politics | stated | “Raids are increasing. … A response that looks purely defensive to Northwind” [source](../../wiki/Story/Current-Events.md#piracy-and-convoy-politics) |
 | Caravan attacks | can lead to | Trade redirected | stated | “Attacks and disappearances make some routes seem unreliable. … Trade is redirected.” [source](../../wiki/Story/Current-Events.md#caravan-attacks) |
 | Earthquake or land movement | can lead to | Underpass route wars | stated | “Underpass instability … Collapse and discovery have changed which enclaves control profitable corridors.” [source](../../wiki/Story/Current-Events.md#earthquakeland-movement) |
 | Abundance crisis | can lead to | Land and seed politics | stated, possible | “poorer farmers cannot cover debts … Large interests attempt to acquire distressed farms.” [source](../../wiki/Story/Current-Events.md#greenvale) |
 | 6. Council steadies lenders | is an action of | The Economic Council | stated | “Council finance tries to stabilize lenders.” [source](../../wiki/Story/Current-Events.md#example-ripple-chain) |
-| 12. Villain amplifies Council involvement | is an action of | The Villain | stated | “Villain agents amplify evidence of Council involvement.” [source](../../wiki/Story/Current-Events.md#example-ripple-chain) |
+| 12. Villain amplifies the coordination | is an action of | The Villain | stated | “Villain agents amplify evidence that someone is coordinating the lenders and buyers.” [source](../../wiki/Story/Current-Events.md#example-ripple-chain) |
 | Faiths read the crises | includes | The Illuminated Circle | stated | “Illuminated scholars compare records” [source](../../wiki/Story/Current-Events.md#religious-networks) |
 | Faiths read the crises | includes | Path of the Great Weaver | stated | “Weaver communities document ecological damage” [source](../../wiki/Story/Current-Events.md#religious-networks) |
 | Faiths read the crises | includes | The Infinite Compass | stated | “Compass pilgrims carry rumors” [source](../../wiki/Story/Current-Events.md#religious-networks) |
@@ -489,7 +489,7 @@ flowchart LR
   st_c6["6. Council steadies lenders"]
   st_c9["9. Protests hit tool orders"]
   st_c10["10. Workshops cut hours"]
-  st_c12["12. Villain amplifies Council involvement"]
+  st_c12["12. Villain amplifies the coordination"]
   st_c13["13. Shocks read as proof of enemies"]
   st_nw_convoy["Convoy politics"]
   st_hr_attacks["Caravan attacks"]
@@ -2193,7 +2193,7 @@ Grouped by board column.
 | [Current events](../../wiki/Story/Current-Events.md#purpose) | Overview | Working canon | A snapshot of the world shortly before or during the story's opening movement. Many events are linked, but most participants don't know that: some are caused by the Villain, some are Council responses, and some are ordinary events used by both. |
 | [Faiths read the crises](../../wiki/Story/Current-Events.md#religious-networks) | Current event | Working canon | Faiths are beginning to interpret the crises trans-regionally. |
 | [6. Council steadies lenders](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 6 of one possible ripple chain: Council finance tries to stabilize lenders. |
-| [12. Villain amplifies Council involvement](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 12 of one possible ripple chain: Villain agents amplify evidence of Council involvement. |
+| [12. Villain amplifies the coordination](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 12 of one possible ripple chain: Villain agents amplify evidence that someone is coordinating the lenders and buyers. He takes it for the guarantor kingdoms' doing; it is the Council's, which he doesn't know exists (D28). |
 | [13. Shocks read as proof of enemies](../../wiki/Story/Current-Events.md#example-ripple-chain) | Ripple-chain step | Working canon | Step 13 of one possible ripple chain: a local economic shock becomes proof, in several regions, that another group is acting against them. |
 
 **The main conflict**
@@ -2223,9 +2223,9 @@ Grouped by board column.
 - *What's happening:* Council finance tries to stabilize lenders.
 - *Note:* One possible chain, which Current Events calls "the kind of causal chain the story should prefer"; not a fixed sequence of events.
 
-**12. Villain amplifies Council involvement**
+**12. Villain amplifies the coordination**
 
-- *What's happening:* Villain agents amplify evidence of Council involvement.
+- *What's happening:* Villain agents amplify evidence that someone is coordinating the lenders and buyers.
 - *Note:* One possible chain, which Current Events calls "the kind of causal chain the story should prefer"; not a fixed sequence of events.
 
 **13. Shocks read as proof of enemies**

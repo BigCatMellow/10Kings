@@ -71,6 +71,7 @@ The most important lesson: **get the author's own voice before drafting a word.*
 | 53. A scale on the map | The map got its scale bar, and the four places the scale broke were moved to the distances the wiki and the stories give them ([D53](Decisions.md#the-authors-decisions)). | see git log, 2026-11-14 |
 | 54. Briefs | To get a stronger model's effort spent on judgment rather than finding its way around, the work ahead was written up as six briefs with their reading lists already made ([D54](Decisions.md#the-authors-decisions)). | see git log, 2026-11-16 |
 | 55. One page to point at | The briefs got a front door: one manual a model can be pointed at and work from without asking ([D55](Decisions.md#the-authors-decisions)). | see git log, 2026-11-16 |
+| 56. Does the plan work? | bt 7274 turned the focus to the dominoes and the stories' logic ([D56](Decisions.md#the-authors-decisions)). The plan held as a structure; one line had the Villain knowing what D28 says he can't, and three questions about how an ordinary man reaches so far were left for him. | see git log, 2026-11-16 |
 
 ## Check log
 

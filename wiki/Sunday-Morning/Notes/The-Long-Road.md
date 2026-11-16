@@ -29,7 +29,7 @@ Nothing about how a story is told changes. Every rule on [Rules](Rules.md) still
 
 ### The world
 
-Each season the [Current Events](../../Story/Current-Events.md) are one rung further along. In Season 1 a story's events are a grain glut, a rumor or a tightened loan. Later they're convoy patrols, cities reading each other's coalitions as threats, musters, rationing. Characters meet these the way people meet weather: a cousin's letter, a price, a cart that doesn't come, a son called up. The [ripple chain](../../Story/Current-Events.md#example-ripple-chain)'s later steps, which no Season 1 story touched (the Villain amplifying "Council involvement", local shocks read as proof of enemies), become the background of later stories, still seen only from the ground.
+Each season the [Current Events](../../Story/Current-Events.md) are one rung further along. In Season 1 a story's events are a grain glut, a rumor or a tightened loan. Later they're convoy patrols, cities reading each other's coalitions as threats, musters, rationing. Characters meet these the way people meet weather: a cousin's letter, a price, a cart that doesn't come, a son called up. The [ripple chain](../../Story/Current-Events.md#example-ripple-chain)'s later steps, which no Season 1 story touched (the Villain amplifying evidence that someone is coordinating the lenders, which he takes for the kingdoms' doing, since he doesn't know the Council exists, [D28](Decisions.md#the-authors-decisions); local shocks read as proof of enemies), become the background of later stories, still seen only from the ground.
 
 ### What the reader can piece together
 

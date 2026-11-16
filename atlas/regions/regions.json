@@ -1624,7 +1624,7 @@
       "layer": "landmass",
       "type": "lies on",
       "basis": "stated",
-      "quote": "Northwind occupies much of the Northern Continent and associated coasts and islands.",
+      "quote": "Northwind occupies the north of the Northern Continent and associated coasts and islands",
       "src": "Regions/Northwind.md#geography",
       "chip": "Continent",
       "chipBack": "Regions on it"

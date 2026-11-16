@@ -12,16 +12,19 @@ Run one brief, or one slice of a brief, per session. Don't chain them: each late
 
 ## The order
 
+The focus is **the dominoes and the Sunday-story logic first** ([D56](../wiki/Sunday-Morning/Notes/Decisions.md#the-authors-decisions)), then the world under them.
+
 | # | Brief | What it settles | Read budget | Needs first |
 | --- | --- | --- | --- | --- |
-| 1 | [B1, the physical world, checked blind](B1-Physical-World-Blind-Check.md) | whether the D48–D53 leans (scale, rain, suns, moons, tides, ecology) hold up for someone who didn't write them | ~45k words, then ~7k | nothing |
-| 2 | [B2, consistency audit](B2-Consistency-Audit.md), in four slices | claims that clash between pages | ~30–45k words a slice | B1 for slice A |
-| 3 | [B3, the stories against the world](B3-Stories-Against-The-World.md) | where the 16 drafts and the current canon disagree | ~70k words | B2 slice A |
-| 4 | [B4, the tenth seat](B4-Tenth-Seat.md), one decision per session | the strongest case against a foundational decision before bt 7274 confirms it | ~15–25k words | B1 |
-| 5 | [B5, the legacy backlog](B5-Legacy-Backlog.md), one item per session | bringing the remaining legacy material in without overriding later rulings | ~10–20k words an item | none |
-| 6 | [B6, the collection read](B6-Collection-Read.md) | the shared-arc problem across Season 1 | ~70k words | B3 |
+| 1 | [**B0, the domino and story plan**](B0-Domino-And-Story-Plan.md) | whether the saga's plan works: the domino chain to the war, the Villain's means, the Council's visible hand, the reader's ladder, the Sunday rules under escalation, the ending | ~33k words | nothing |
+| 2 | [B6, the collection read](B6-Collection-Read.md) | Season 1 as a book, and the shared-arc problem | ~70k words | nothing |
+| 3 | [B4, the tenth seat](B4-Tenth-Seat.md), one decision per session; the story decisions come first | the strongest case against a foundational decision before bt 7274 confirms it | ~15–25k words | B0 |
+| 4 | [B3, the stories against the world](B3-Stories-Against-The-World.md) | where the 16 drafts and the current canon disagree | ~70k words | B0 |
+| 5 | [B2, consistency audit](B2-Consistency-Audit.md), in four slices | claims that clash between pages | ~25–35k words a slice | none |
+| 6 | [B1, the physical world, checked blind](B1-Physical-World-Blind-Check.md) | whether the D48–D53 leans (scale, rain, suns, moons, tides, ecology) hold up | ~20k words, then ~7k | none |
+| 7 | [B5, the legacy backlog](B5-Legacy-Backlog.md), one item per session | bringing the remaining legacy material in without overriding later rulings | ~10–20k words an item | none |
 
-**Before any brief, it helps if bt 7274 has answered the four open questions** in [STATE](STATE.md#waiting-on-bt-7274). If he hasn't, every brief treats them as open and doesn't spend effort on them.
+**Before any brief, it helps if bt 7274 has answered the open questions** in [STATE](STATE.md#waiting-on-bt-7274). If he hasn't, every brief treats them as open and doesn't spend effort on them.
 
 ## Rules every brief shares
 

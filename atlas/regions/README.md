@@ -108,7 +108,7 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 
 | From | Connection | To | Basis | Supporting text |
 | --- | --- | --- | --- | --- |
-| Northwind | lies on | Northern Continent | stated | “Northwind occupies much of the Northern Continent and associated coasts and islands.” [source](../../wiki/Regions/Northwind.md#geography) |
+| Northwind | lies on | Northern Continent | stated | “Northwind occupies the north of the Northern Continent and associated coasts and islands” [source](../../wiki/Regions/Northwind.md#geography) |
 
 ## Places of interest
 
