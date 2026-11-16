@@ -24,6 +24,15 @@
 
 **Rows 3, 4 and 6 are bt 7274's rulings, not leans.** For a ruling, the tenth seat doesn't argue for reversal. It argues for what the ruling costs the world or the story and how to pay that cost, and reports that for him to weigh. Rows 1, 2 and 5 are leans and can be argued either way.
 
+## The question to press, per decision
+
+1. **Scale.** Would a smaller world (about 0.5 miles to the pixel, so travel takes days) serve the stories better than the climate argument for a larger one? What would a smaller world have to give up or explain?
+2. **Port's reach.** Is a one-exit Inner Sea a weakness for "the fleets' harbour", or its source of power? Does the haul road add a needed reason, or one too many?
+3. **Mixed ground (ruling).** Where does "the land's law follows its holder" produce absurd or unworkable cases (water, mines that cross a holding, a debt's collateral)? What would the stories gain or lose from them?
+4. **The Council (ruling).** Can a body that never appears on the page stay legible to readers across seasons? What is the cost, and what device pays it?
+5. **The suns.** Would a distant second sun (bright nights half the year) give the world more than a close pair, at what cost to farming, calendars and faith, and against which existing lines?
+6. **The Villain (ruling).** What does "just a regular dude, a citizen of Port" cost the main story in menace and reach? How do the dominoes pay for it?
+
 ## Read, per session
 
 `AGENTS.md`, `briefs/README.md` and `briefs/STATE.md`, then only that decision's row. Add the B1 and B2 reports where the row names them. Keep the extra reading under about 15,000 words; the point is the argument, not the survey.

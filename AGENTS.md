@@ -9,7 +9,7 @@ Relevant MAPS_L methods:
 
 ## Briefs
 
-Self-contained work orders live in [`briefs/`](briefs/README.md): what to read, in what order, what's fixed, and where the output goes. A session given a brief reads only what it lists. [`briefs/STATE.md`](briefs/STATE.md) is a snapshot of where things stand, for skipping discovery; the pages it summarizes win over it.
+Self-contained work orders live in [`briefs/`](briefs/README.md); a model given one starts at [`briefs/START-HERE.md`](briefs/START-HERE.md). Each brief says what to read, in what order, what's fixed, and where the output goes. A session given a brief reads only what it lists. [`briefs/STATE.md`](briefs/STATE.md) is a snapshot of where things stand, for skipping discovery; the pages it summarizes win over it.
 
 ## Authority
 

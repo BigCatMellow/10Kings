@@ -58,6 +58,13 @@ bt 7274's quoted rulings, and every current owner page's Established and Working
 | **duplicate** | the wiki already says it | linked, not repeated |
 | **unknown** | can't tell | goes in marked Provisional, with the doubt stated |
 
+The sort looks like this:
+
+| Legacy line | Class | Why | Where it goes |
+| --- | --- | --- | --- |
+| "witnessed by whoever's sober" (weddings) | compatible | concrete, fits blended peoples, contradicts nothing | Regional Social Dynamics, *Weddings*, verbatim |
+| one faith per kingdom | conflicting | D43 blends peoples, so faiths cross kingdoms | stays out; noted in the Source Register |
+
 Then:
 - **Add** the compatible lines to the owner page at the smallest useful scope. Use a short subsection with its source link, not a new page.
 - **Update** the Source Register entry and strike the backlog row (`**Done <date> (B5):** …`).

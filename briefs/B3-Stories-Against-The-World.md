@@ -40,6 +40,36 @@ Each clash quotes both sides.
 - **Cross-story promises.** Is each promise in the Collection's ledger kept by the drafts as written?
 - **Status.** Does the story establish something that canon still marks open, which canon should now record? This is the *promotion* list in Rules.
 
+## Known pressure points
+
+These are places where canon moved after the draft was written. Check them; they may or may not be clashes.
+
+| Draft | Check |
+| --- | --- |
+| Three Pots at Three Moon | the festival's cadence (D52). "Again next year" is already known; list it once |
+| The Blank Square | Larchmere's distance from Twilighthollow; Larchmere moved on the map in D53 |
+| The Heavy Scale at Icestep Summit | the season and weather at the pass, and when the high passes open |
+| The Same Paper | the shortest day, and day length in Ironcrest at the lean latitudes |
+| The Greenvale Man | how and how long a Greenvale man travels to a Northwind slipway |
+| The First Fish | fish stocks, convoys and the fishing season against Current Events |
+| The Eighth Verse | a winter night's round: the weather and night length where it's set, at the lean latitudes |
+| The Mushrooms From Nowhere, The Tree With a Debt | Deepwood's ecology (Ecology page, D51) |
+| One Square, Two Harvests; The Goat File | disputes over land, goods and herds that cross a line, against D44 (the land's law follows its holder, personal law the person) |
+| every draft | one sun or one moon assumed anywhere; festival seasons |
+
+## Per-draft record
+
+One block per draft, in reading order, before the tables:
+
+```markdown
+### <Draft title>
+- Read cold: <one line on how it reads>
+- Places used: <names> — all consistent / see findings #n
+- Time and distance: <the phrases> — hold at the lean scale / see #n
+- Season and sky: <what it assumes> — consistent / see #n
+- Promises (Collection ledger): kept / see #n
+```
+
 ## Output
 
 `wiki/Reference/Reviews/B3-Stories-Against-The-World-2026-11.md`, in the [report shape](README.md#report-shape). Make the findings two tables, **canon should bend** and **story might bend**, then a third list for **promotions**. For each "story might bend" row, give the smallest change that would fix it and a lean. Never write replacement prose longer than the line it replaces. Who writes what is set by [Craft](../wiki/Sunday-Morning/Notes/Craft.md#ai-and-the-author-who-writes-what).

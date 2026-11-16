@@ -27,6 +27,19 @@
    - the shared-arc item on [Decisions](../wiki/Sunday-Morning/Notes/Decisions.md#open-for-the-author);
    - the B3 report, if it exists.
 
+## Cold-read notes, per story
+
+Keep these while reading, before anything else:
+
+```markdown
+### <n>. <Title>
+- Attention: <where it held, where it sagged>
+- Expected next: <what you thought would happen at the turn>
+- The turn: <how the story resolves, in one line>
+- Echoes: <what felt like an earlier story>
+- Will remember: <one image or line>
+```
+
 ## Questions to answer
 
 1. **As a book.** What does a reader come away with? Where does the collection sag? Which story would they recommend, and which would they skip?

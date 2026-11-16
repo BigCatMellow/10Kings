@@ -28,6 +28,31 @@ bt 7274's quoted words in [Decisions](../wiki/Sunday-Morning/Notes/Decisions.md#
 
 Paths are under `wiki/` except the map data. In slice B, compare each system page's claims with slice A's ledger if that report exists. Read the slice A report rather than re-reading its pages.
 
+## Where clashes are likeliest, per slice
+
+These are pointers, not findings. Check them first; they are where the recent work touched the most pages.
+
+- **A, core canon:**
+  - Port's position and neutrality against D39–D42 and the map;
+  - which supplier routes Northwind uses (overland at Icestep, by sea, or along the coast);
+  - the Ironcrest–Greenvale food relationship against D43's blended peoples;
+  - region pages that still describe hard borders after D43–D44;
+  - the history pages' eras against each other (the Ages of Silence, the Convergence, the last ruling empire of D30–D31).
+- **B, world systems:**
+  - Calendar's weeks and months against three moons (D52);
+  - Movement and Couriers' travel times against the lean scale (1.8 miles to the pixel);
+  - Money's coin metals against the Council houses (a Luthain–Drathain fault line is noted);
+  - Law §15 against Peoples and Land's *Rule over mixed ground*.
+- **C, culture and faith:**
+  - festival cadences and seasons across Festivals, Three Moon, Religions and Daily Life;
+  - any faith or custom still mapped one-to-one onto a kingdom (D43 blends them);
+  - Folk Belief's creation myth against Religions' *The creation myth* (D52).
+- **D, names and places:**
+  - map notes against Gazetteer rows;
+  - places the D48 water fixes moved onto or off a shore;
+  - spellings across Gazetteer, Naming and the Character Roster;
+  - Ecology's species against Sky's climate per region.
+
 ## Method
 
 1. **Build the ledger as you read.** One row per hard claim: subject, claim, `path:line`, and status label (Established, Working canon or Provisional). Hard claims are:
@@ -40,6 +65,13 @@ Paths are under `wiki/` except the map data. In slice B, compare each system pag
    - names and spellings.
 
    Skip mood and description.
+   Ledger rows look like this:
+
+   | Subject | Claim | Where | Status |
+   | --- | --- | --- | --- |
+   | Three Moon | "held every seven years, when all three moons are visible from Port" | `wiki/Culture/Three-Moons-Festival.md:7` | Provisional, with a D52 ruling |
+   | Northwind grain | "comes overland through Highridge at Icestep, or by sea through Port" | `wiki/Geography-and-Connections.md:<n>` | Working canon |
+
 2. **Group the ledger by subject** and compare within each group. Then compare each group with the spine and with the ruling quotes.
 3. **For each clash, decide which page wins** under the authority order: rulings, then Established, then Working canon, then Provisional, then Reference. The losing side is the fix. If two pages of the same rank clash, it goes to bt 7274.
 4. **Grep the whole wiki for each clash's key term**, to catch pages outside the slice that say the same wrong thing. Log them; don't read them in full.

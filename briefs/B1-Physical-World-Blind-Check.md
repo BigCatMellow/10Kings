@@ -51,6 +51,40 @@ Then answer, from that alone:
 6. **Ecology and sustainability.** Can each region feed itself, or trade for what it can't, as described? What runs down over centuries, and is it already in the lore?
 7. **The stories.** Which story lines, if any, can't be true under your answers to 1–6?
 
+### Commitments to test against
+
+These are commitments, not conclusions. Each is something the lore says that any physical answer has to satisfy. Find each in the reading list and quote it:
+- seas that partly freeze in Northwind's winter, and harbours that ice over (the *Ice Breaking* festival);
+- auroras over Northwind in late summer (*Aurora Nights*);
+- a dry Sunplains with irrigation and orchards, beside a wet, dense Deepwood;
+- a dry Highridge plateau with a salt flat (the *Salt Mirror*);
+- the Tide Road: the sea covers it twice a day, and **the tide times are cut into a post**;
+- *Tide Return* in early spring;
+- the White Current running south along the north-west coast;
+- Port, a great harbour that "the fleets" and trade depend on; Gullhaven, where Northwind's fleets winter;
+- solstices, and every festival's season ([Festivals](../wiki/Culture/Festivals-and-Seasonal-Life.md#seasonal-calendar));
+- the travel words: "a day's walk and a river" (Larchmere to Twilighthollow), "forty miles" (the Straight Road, and the Ship on the Hill from the sea), and "a day above" (Fairmarket above the Kings' Gate).
+
+### Checks worth running
+
+Measure; don't eyeball. Use the methods in [START-HERE §2](START-HERE.md#2-setup).
+
+- **Scale from climate.** Say how many degrees of latitude the freezing north and the irrigated south need, at roughly 69 miles to the degree. Divide by the land's north-to-south extent in pixels.
+- **Scale from travel.** Measure each travel phrase's two ends on the map in pixels. A day's walk is about 15–25 miles; a barge day downstream is about 25–40.
+- **Day length:** `hours = 2/15 · arccos(−tan φ · tan δ)` in degrees, with δ = ±tilt at the solstices. Does Aurora Nights' timing follow from it?
+- **Moons:** for three cycles P₁, P₂, P₃ (in days), all three are full together when t is a common multiple. Search for cycles where the first triple full moon within ±12 hours falls about 7 × 365 days out. Check that no earlier one occurs, and whether it recurs in the same season.
+- **Tides:** say what makes tide times shift day to day, and so what the Tide Road's post implies.
+- **Waves:** for each named harbour, the open-water distance upwind (the fetch) in your prevailing wind.
+- **Rain:** if you test winds, say what your model assumes and how it fails.
+
+### Answer format for phase 1
+
+For each question, give:
+1. **Answer:** one to three sentences.
+2. **Reasoning:** the measurements, formulas and precedents, short.
+3. **Commitments it satisfies or strains,** each with `path:line`.
+4. **Confidence:** high, medium or low, with what would change it.
+
 ## Phase 2: compare
 
 Now read the reviser's work, about 7,000 words:

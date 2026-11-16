@@ -62,7 +62,7 @@ These are summaries. The quoted words in each Decisions row are the ruling.
 | D51 | Ecology page from the 2026-09-24 notes; how each faith reads the sky | provisional |
 | **D52** | **three moons; Three Moon every seven years, when all three are visible from Port; the creation myth explains how the three continents came together** | **fixed.** The moons' cycles (10, 30 and 67 days) are a lean |
 | D53 | scale bar on the map; four places redrawn to the lean scale; a symbol for each kind of place | map only |
-| D54 | these briefs | — |
+| D54–D55 | these briefs, and [START-HERE](START-HERE.md), the page to point a model at | — |
 
 ## Waiting on bt 7274
 

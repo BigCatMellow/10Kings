@@ -6,9 +6,7 @@ Written 2026-11-16 at bt 7274's request ([D54](../wiki/Sunday-Morning/Notes/Deci
 
 ## How to start a session
 
-Paste this, with the brief's file name:
-
-> Read `AGENTS.md`, then `briefs/README.md`, then `briefs/<brief>.md`. Do only that brief. Read only what it lists, in its order. Write the output where it says, commit, push, and report.
+Point the model at **[START-HERE](START-HERE.md)**, the full operating manual, with the ready-made prompt for each brief in its [§3](START-HERE.md#3-the-prompts).
 
 Run one brief, or one slice of a brief, per session. Don't chain them: each later brief reads the earlier ones' reports.
 
