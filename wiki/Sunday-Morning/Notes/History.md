@@ -69,6 +69,7 @@ The most important lesson: **get the author's own voice before drafting a word.*
 | 51. What lives here, and what it means | The September ecology notes, the highest-risk material in the backlog, got their owner page ([D51](Decisions.md#the-authors-decisions)), and the nine faiths each looked up at the same two suns and saw something different. | see git log, 2026-11-13 |
 | 52. Three moons | bt 7274 set the sky right ([D52](Decisions.md#the-authors-decisions)): three moons, and Three Moon back to every seven years, when all three are visible from Port, as he first had it. The review's yearly lean, taken from a story line, was the wrong way round. The myth is how the continents came together. | see git log, 2026-11-13 |
 | 53. A scale on the map | The map got its scale bar, and the four places the scale broke were moved to the distances the wiki and the stories give them ([D53](Decisions.md#the-authors-decisions)). | see git log, 2026-11-14 |
+| 54. Briefs | To get a stronger model's effort spent on judgment rather than finding its way around, the work ahead was written up as six briefs with their reading lists already made ([D54](Decisions.md#the-authors-decisions)). | see git log, 2026-11-16 |
 
 ## Check log
 

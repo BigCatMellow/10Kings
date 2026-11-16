@@ -7,6 +7,10 @@ Relevant MAPS_L methods:
 - [Information Lifecycle](https://github.com/BigCatMellow/MAPS_Lean/blob/main/playbook/INFORMATION_LIFECYCLE.md)
 - [Spiderweb Audit](https://github.com/BigCatMellow/MAPS_Lean/blob/main/playbook/SPIDERWEB_AUDIT.md) — run `python3 tools/check_spiderweb.py` (vendored scanner) after a large change; how this repository reconciles its findings is in [wiki/Reference/Spiderweb-Audit.md](wiki/Reference/Spiderweb-Audit.md)
 
+## Briefs
+
+Self-contained work orders live in [`briefs/`](briefs/README.md): what to read, in what order, what's fixed, and where the output goes. A session given a brief reads only what it lists. [`briefs/STATE.md`](briefs/STATE.md) is a snapshot of where things stand, for skipping discovery; the pages it summarizes win over it.
+
 ## Authority
 
 1. `wiki/` is the canonical working knowledge base for the setting.
