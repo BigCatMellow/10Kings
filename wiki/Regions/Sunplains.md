@@ -162,3 +162,5 @@ Its political sophistication makes it hard to manipulate crudely — but also cr
 **Named places** (provisional, [D37](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): rivers, coasts, forests, hills, towns and roads on the [Gazetteer](../Places/Gazetteer.md#sunplains).
 
 **Flora and fauna** (provisional, [D51](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): plants, animals and food webs on [Ecology, Flora and Fauna](../Ecology-Flora-and-Fauna.md#sunplains); weather and seasons on [Sky, Seasons and Sea](../Sky-Seasons-and-Sea.md#wind-rain-and-storms).
+
+**Who rules** (provisional, [D59](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): what the wiki says of this region's ruler, seat and force, and what's still open, on [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md#sunplains).

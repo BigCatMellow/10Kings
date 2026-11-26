@@ -141,3 +141,5 @@ It should never be presented simply as "the weapon region." It is a society in w
 **Named places** (provisional, [D37](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): rivers, coasts, forests, hills, towns and roads on the [Gazetteer](../Places/Gazetteer.md#ironcrest).
 
 **Flora and fauna** (provisional, [D51](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): plants, animals and food webs on [Ecology, Flora and Fauna](../Ecology-Flora-and-Fauna.md#ironcrest); weather and seasons on [Sky, Seasons and Sea](../Sky-Seasons-and-Sea.md#wind-rain-and-storms).
+
+**Who rules** (provisional, [D59](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): what the wiki says of this region's ruler, seat and force, and what's still open, on [Kingdoms and Politics](../Politics/Kingdoms-and-Politics.md#ironcrest).
