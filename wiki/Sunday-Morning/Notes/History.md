@@ -73,6 +73,7 @@ The most important lesson: **get the author's own voice before drafting a word.*
 | 55. One page to point at | The briefs got a front door: one manual a model can be pointed at and work from without asking ([D55](Decisions.md#the-authors-decisions)). | see git log, 2026-11-16 |
 | 56. Does the plan work? | bt 7274 turned the focus to the dominoes and the stories' logic ([D56](Decisions.md#the-authors-decisions)). The plan held as a structure; one line had the Villain knowing what D28 says he can't, and three questions about how an ordinary man reaches so far were left for him. | see git log, 2026-11-16 |
 | 57. One level up | Checking the plan showed where the world is thin: not in any page, but in what it has pages for. It has peoples, places and trades in depth, but no states, no treaty terms and no dates, which are exactly what the main story turns on ([D57](Decisions.md#the-authors-decisions)). | see git log, 2026-11-26 |
+| 58. Twelve kings | The title had once meant five and five. Counting canon found six regions and six houses, so bt 7274 made it twelve ([D58](Decisions.md#the-authors-decisions)). | see git log, 2026-11-26 |
 
 ## Check log
 

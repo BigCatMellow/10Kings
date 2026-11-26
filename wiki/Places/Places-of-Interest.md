@@ -650,6 +650,6 @@ Story seeds for them can be added to [Story Seeds](../Sunday-Morning/Stories/Sto
 
 One question at a time, each with a lean.
 
-1. **The Sitting Kings: should there be ten?** The repository is called 10Kings and the setting Two Sons. If you'd like the title to mean something in the world, ten seated kings in the gorge, one of them headless, would give it a place to live. *Lean:* yes, as an option. It makes no claim about who they were.
+1. **The Sitting Kings: how many?** *Updated by [D58](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions):* the title's kings are **twelve**, the six of the regions and the six of the Council. *Lean:* twelve seated figures in the gorge, one of them headless, still making no claim about who they were. Whether the stone count matches the saying is yours to decide.
 2. **The One Tree's people:** what do they call themselves, and the forest? *Lean:* leave both to you; the page says "the people of the One Tree" until then.
 3. **Keep, cut or change:** any of the proposals. *Lean:* keep them all as provisional. They're the kind of thing the world can carry without changing anything already written.

@@ -116,7 +116,7 @@ The flaws are all one level up: the actors and terms the main story moves betwee
 
 ## Questions for bt 7274
 
-1. **Build the rule layer?** A provisional *Polities* page: each state's form, ground, ruler and war-and-treaty power. It would use what the pages already say (Sunplains' city-states, Highridge's compacts, Ironcrest's crown institutions) and leave names open for you. *Lean:* yes, and decide whether the count of rulers is ten.
+1. *(Partly answered by [D58](../../Sunday-Morning/Notes/Decisions.md#the-authors-decisions): twelve kings, the six of the regions and the six of the Council.)* **Build the rule layer?** A provisional *Polities* page: each state's form, ground, ruler and war-and-treaty power. It would use what the pages already say (Sunplains' city-states, Highridge's compacts, Ironcrest's crown institutions) and leave names open for you. *Lean:* yes, and decide whether the count of rulers is ten.
 2. **Port's charter, minimally.** Who guarantees Port, and what do the Port-born have under it now? *Lean:* courts and a name, but no vote on the board that governs the harbour. Their voice at the end is that vote.
 3. **Time depth.** *Lean:* about two hundred years since the Convergence, so the Season 4 war is the first in living memory.
 4. **"What the ground sees" sections** for the Council and the Villain? *Lean:* yes. This answers the plan check's Findings 2 and 3 in the world rather than in the plan.

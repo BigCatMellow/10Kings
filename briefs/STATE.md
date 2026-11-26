@@ -63,6 +63,7 @@ These are summaries. The quoted words in each Decisions row are the ruling.
 | **D52** | **three moons; Three Moon every seven years, when all three are visible from Port; the creation myth explains how the three continents came together** | **fixed.** The moons' cycles (10, 30 and 67 days) are a lean |
 | D53 | scale bar on the map; four places redrawn to the lean scale; a symbol for each kind of place | map only |
 | D54–D55 | these briefs, and [START-HERE](START-HERE.md), the page to point a model at | — |
+| D58 | "So we call it 12 kings": six of the regions, six of the Council | the folk-word reading of "king" and the saying are leans |
 | D57 | the world's structure checked against the plan: no rule layer, a settlement with no terms, no time depth, hidden actors with no ground traces, plan facts only in slates ([World Structure](../wiki/Reference/Reviews/World-Structure-2026-11.md)); B0 gains a ninth test | questions 10–14 open |
 | D56 | focus on the dominoes and the Sunday-story logic first: [B0](B0-Domino-And-Story-Plan.md) leads; the reviser's own pass is [Story Plan Logic](../wiki/Reference/Reviews/Story-Plan-Logic-2026-11.md); "Villain amplifies Council involvement" reworded to fit D28 | the D28 rewording is a lean; the five plan questions are open |
 
@@ -83,7 +84,7 @@ From the reviser's plan check ([Story Plan Logic](../wiki/Reference/Reviews/Stor
 
 From the reviser's structure check ([World Structure](../wiki/Reference/Reviews/World-Structure-2026-11.md#questions-for-bt-7274), D57):
 
-10. Build a rule layer (a Polities page: each state's form, ground, ruler, and power over war and treaties)? Lean: yes; and is the count of rulers ten?
+10. Build a rule layer (a Polities page: each state's form, ground, ruler, and power over war and treaties)? Lean: yes. **The count is settled (D58): twelve kings, six of the regions and six of the Council.**
 11. Port's charter, minimally: who guarantees Port, and what the Port-born have now? Lean: courts and a name, but no vote on the harbour board.
 12. Time depth? Lean: about two hundred years since the Convergence, so the Season 4 war is the first in living memory.
 13. A "What the ground sees" section for the Council and the Villain? Lean: yes.
