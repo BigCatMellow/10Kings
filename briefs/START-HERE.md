@@ -50,7 +50,7 @@ Points, lines and named waters are in `atlas/map/map-draft.json`. Painted terrai
 Paste exactly one of these per session. Don't chain briefs in one session; each later brief reads the earlier ones' reports. **Run them in the order on [the briefs index](README.md#the-order): B0 first** (D56: the dominoes and the Sunday-story logic come first).
 
 **B0, the domino and story plan**
-> Read `briefs/START-HERE.md` fully, then `AGENTS.md`, then `briefs/B0-Domino-And-Story-Plan.md`. Run brief B0. Phase 1 is a cold read: don't open `briefs/STATE.md` or the reviser's Story Plan Logic report until your answers to the eight tests are written into the report. Read only what the brief lists, in its order. Write the report where it says, verify, commit, push, and give me the result.
+> Read `briefs/START-HERE.md` fully, then `AGENTS.md`, then `briefs/B0-Domino-And-Story-Plan.md`. Run brief B0. Phase 1 is a cold read: don't open `briefs/STATE.md` or the reviser's Story Plan Logic and World Structure reports until your answers to the nine tests are written into the report. Read only what the brief lists, in its order. Write the report where it says, verify, commit, push, and give me the result.
 
 **B1, the physical world, blind**
 > Read `briefs/START-HERE.md` fully, then `AGENTS.md`, then `briefs/B1-Physical-World-Blind-Check.md`. Run brief B1. Phase 1 is blind: don't open `briefs/STATE.md` or any phase 2 file until your phase 1 answers are written into the report. Read only what the brief lists, in its order. Write the report where it says, verify, commit, push, and give me the result.

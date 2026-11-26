@@ -63,6 +63,7 @@ These are summaries. The quoted words in each Decisions row are the ruling.
 | **D52** | **three moons; Three Moon every seven years, when all three are visible from Port; the creation myth explains how the three continents came together** | **fixed.** The moons' cycles (10, 30 and 67 days) are a lean |
 | D53 | scale bar on the map; four places redrawn to the lean scale; a symbol for each kind of place | map only |
 | D54–D55 | these briefs, and [START-HERE](START-HERE.md), the page to point a model at | — |
+| D57 | the world's structure checked against the plan: no rule layer, a settlement with no terms, no time depth, hidden actors with no ground traces, plan facts only in slates ([World Structure](../wiki/Reference/Reviews/World-Structure-2026-11.md)); B0 gains a ninth test | questions 10–14 open |
 | D56 | focus on the dominoes and the Sunday-story logic first: [B0](B0-Domino-And-Story-Plan.md) leads; the reviser's own pass is [Story Plan Logic](../wiki/Reference/Reviews/Story-Plan-Logic-2026-11.md); "Villain amplifies Council involvement" reworded to fit D28 | the D28 rewording is a lean; the five plan questions are open |
 
 ## Waiting on bt 7274
@@ -80,7 +81,15 @@ From the reviser's plan check ([Story Plan Logic](../wiki/Reference/Reviews/Stor
 8. Do Orin and Rosana get a Season 4 weather line, or end as held? Lean: one line each.
 9. Is the Villain's realization about Wurdren shown? Lean: yes, from the ground, when the cream paper reaches someone in Wurdren's network.
 
-If these are still open, treat them as open. **B0 is the exception for 5–9:** testing them is its job. Don't argue them in a brief unless the brief is B4.
+From the reviser's structure check ([World Structure](../wiki/Reference/Reviews/World-Structure-2026-11.md#questions-for-bt-7274), D57):
+
+10. Build a rule layer (a Polities page: each state's form, ground, ruler, and power over war and treaties)? Lean: yes; and is the count of rulers ten?
+11. Port's charter, minimally: who guarantees Port, and what the Port-born have now? Lean: courts and a name, but no vote on the harbour board.
+12. Time depth? Lean: about two hundred years since the Convergence, so the Season 4 war is the first in living memory.
+13. A "What the ground sees" section for the Council and the Villain? Lean: yes.
+14. Promote facts the plan relies on to world pages, starting with the Port-born society? Lean: yes.
+
+If these are still open, treat them as open. **B0 is the exception for 5–14:** testing them is its job. Don't argue them in a brief unless the brief is B4.
 
 ## Traps that cost sessions time
 

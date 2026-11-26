@@ -370,7 +370,8 @@ Major open areas include:
 - exact constitutional forms of the six regions;
 - Port citizenship and treaty structure;
 - named Council members, history, visibility, and succession (the six houses are working canon: [Economic Council](Politics/Economic-Council.md#the-six-houses));
-- the Villain's exact grievance and desired political end state;
+- the Villain's name, and what "a real voice for Port's people" would consist of (his grievance is settled, [D32](Sunday-Morning/Notes/Decisions.md#the-authors-decisions); the ending's shape is [D18](Sunday-Morning/Notes/Decisions.md#the-authors-decisions));
+- which states exist, who rules them, and when the Convergence was ([World Structure](Reference/Reviews/World-Structure-2026-11.md), D57);
 - Wurdren's exact biography and starting situation;
 - the implications of the settled [real-but-deniable relic magic](Magic.md) rule;
 - language names and personal-name systems (the [families](Culture/Language-and-Thought.md#language-families) are settled);

@@ -8,6 +8,7 @@
 
 | Report | Brief | Date | Result |
 | --- | --- | --- | --- |
+| [The world's structure, checked against the plan: reviser's pass](World-Structure-2026-11.md) | none (reviser's own pass, D57; B0's ninth test is the independent one) | 2026-11-26 | Organized by region, but the story runs on states, a settlement and a calendar the world doesn't have: no rule layer, no terms for the Convergence or Port's charter, no time depth, no ground traces for hidden actors, plan facts only in slates |
 | [The domino and story plan, checked: reviser's pass](Story-Plan-Logic-2026-11.md) | none (the reviser's own pass, D56; [B0](../../../briefs/B0-Domino-And-Story-Plan.md) is the independent one) | 2026-11-16 | The plan works as a structure. One contradiction fixed (the Villain amplifying "Council involvement" against D28); open: the Villain's reach, Season 2's second hand, the war's border, two dominoes with no payoff, and an unshown beat |
 
 Add a row when a report lands. Earlier reviews, from before the briefs, are on the [Reference index](../README.md): the [World Review](../World-Review-2026-11.md) and the [Realism Check](../Realism-Check-2026-11.md).

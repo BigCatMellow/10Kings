@@ -6,7 +6,7 @@
 
 **Why.** Everything else rests on this. The stories are the saga ([D26](../wiki/Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [D33](../wiki/Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); there's no other book where a broken link could be fixed. Seasons 3–5 are directional slates, so a flaw found now costs a line on a plan; found after drafting, it costs a story. The reviser has done its own pass, but the reviser wrote much of the plan, so an independent check is needed.
 
-**Done means.** One report that answers the eight tests below. Each failure gets the smallest repair and who decides it. It ends with a ranked list of decisions for bt 7274.
+**Done means.** One report that answers the nine tests below. Each failure gets the smallest repair and who decides it. It ends with a ranked list of decisions for bt 7274.
 
 ## What the plan is, in one paragraph
 
@@ -37,7 +37,7 @@ If a ruling itself makes the plan fail, don't argue it away. Report the cost, an
 
 ## Phase 1: read the plan cold, about 33,000 words
 
-Don't open `briefs/STATE.md` or the reviser's report ([Story Plan Logic](../wiki/Reference/Reviews/Story-Plan-Logic-2026-11.md)) until your phase 1 answers are written.
+Don't open `briefs/STATE.md` or the reviser's reports ([Story Plan Logic](../wiki/Reference/Reviews/Story-Plan-Logic-2026-11.md), [World Structure](../wiki/Reference/Reviews/World-Structure-2026-11.md)) until your phase 1 answers are written.
 
 1. `AGENTS.md`, `briefs/START-HERE.md`, then this brief.
 2. **The engine** (about 3,300 words), whole:
@@ -59,7 +59,7 @@ Don't open `briefs/STATE.md` or the reviser's report ([Story Plan Logic](../wiki
 
 Season 1's other drafts are **not** on the list. Their logic is summarized in Collection's tables, which are the plan's own claims about them. If a test hinges on what a Season 1 draft actually says, open that one draft and log it under *Extra reading*.
 
-## The eight tests
+## The nine tests
 
 For each test, give the verdict (**holds**, **holds with a strain**, or **fails**), the evidence with `path:line`, and the smallest repair.
 
@@ -102,9 +102,14 @@ For each test, give the verdict (**holds**, **holds with a strain**, or **fails*
 
    What carries each part of the ending, and what's missing?
 
+9. **The world's structure under the plan** ([D57](../wiki/Sunday-Morning/Notes/Decisions.md#the-authors-decisions)). List every kind of actor and term the plan needs, and check whether the world supplies it. Actors: states that mobilize and make war, guarantors of Port, leaders whose legitimacy is at stake, the people at the talks, the Villain's carriers. Terms: what Port's charter gives the Port-born now, what the Convergence guarantees, how long ago things happened.
+   - For each one, say whether it is **supplied** (by which page and line), **implied** (by where, but not stated), or **missing**.
+   - Where it's missing, what is the smallest thing bt 7274 would have to decide?
+   - Don't invent it.
+
 ## Phase 2: compare
 
-Now read the reviser's pass, [Story Plan Logic](../wiki/Reference/Reviews/Story-Plan-Logic-2026-11.md), and `briefs/STATE.md`. For each of its findings, classify it as:
+Now read the reviser's two passes, [Story Plan Logic](../wiki/Reference/Reviews/Story-Plan-Logic-2026-11.md) and [World Structure](../wiki/Reference/Reviews/World-Structure-2026-11.md), and `briefs/STATE.md`. For each of its findings, classify it as:
 - **agree**;
 - **agree, different reason**;
 - **disagree**, saying why;
@@ -116,7 +121,7 @@ Now read the reviser's pass, [Story Plan Logic](../wiki/Reference/Reviews/Story-
 `wiki/Reference/Reviews/B0-Domino-And-Story-Plan-2026-11.md`, in the [report shape](START-HERE.md#7-the-report-template). In order:
 1. **Result.**
 2. **The domino graph** as a table, with every edge marked *holds* or *gap*. A Mermaid diagram is optional.
-3. **The eight tests**, each with verdict, evidence and repair.
+3. **The nine tests**, each with verdict, evidence and repair.
 4. **The comparison.**
 5. **Questions for bt 7274,** ranked, each with a lean.
 

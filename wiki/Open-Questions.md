@@ -36,7 +36,9 @@ Owned by [Peoples and Land](Peoples-and-Land.md#open-for-bt-7274) (D43):
 - How many independent Sunplains city-states remain?
 - How centralized is Deepwood?
 - What formal institutions govern Highridge?
-- Does Port have citizenship independent of kingdom citizenship?
+- ~~Does Port have citizenship independent of kingdom citizenship?~~ Settled (D32): "a citizen of Port, which is to be a citizen of nowhere" ([Port](Places/Port.md#culture)). What that citizenship gives the Port-born under Port's charter is open ([World Structure](Reference/Reviews/World-Structure-2026-11.md#2-the-settlement-at-the-centre-has-no-terms)).
+- **Which states actually exist**, who rules each, and who can make war or sign a treaty: the world has no rule layer yet ([World Structure](Reference/Reviews/World-Structure-2026-11.md#1-region-does-three-jobs-and-no-page-does-the-job-of-rule), D57).
+- **How long ago** the Convergence, Port's taking and the Council's beginning were ([World Structure](Reference/Reviews/World-Structure-2026-11.md#3-the-world-has-no-time-depth)).
 
 ## Economic Council
 
