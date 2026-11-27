@@ -75,6 +75,7 @@ The most important lesson: **get the author's own voice before drafting a word.*
 | 57. One level up | Checking the plan showed where the world is thin: not in any page, but in what it has pages for. It has peoples, places and trades in depth, but no states, no treaty terms and no dates, which are exactly what the main story turns on ([D57](Decisions.md#the-authors-decisions)). | see git log, 2026-11-26 |
 | 58. Twelve kings | The title had once meant five and five. Counting canon found six regions and six houses, so bt 7274 made it twelve ([D58](Decisions.md#the-authors-decisions)). | see git log, 2026-11-26 |
 | 59. What the world already says about its kings | Rather than invent rulers, the wiki's scattered lines about clans, crowns, compacts and city-states were gathered in one place ([D59](Decisions.md#the-authors-decisions)). One crown, three meeting places, no capitals: the rest is his to fill. | see git log, 2026-11-26 |
+| 60. Six kings | Gathering what the world says about its rulers showed it has almost no kings, so the title moved to where the real power is: six houses nobody crowned ([D60](Decisions.md#the-authors-decisions)). | see git log, 2026-11-26 |
 
 ## Check log
 

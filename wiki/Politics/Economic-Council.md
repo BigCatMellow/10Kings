@@ -14,6 +14,12 @@ They control economic systems on which *all* kingdoms depend.
 
 **Six seats (Working canon).** The author settled on six seats on 2026-09-29, each held by one house. The domain titles below are still working titles.
 
+## The six kings
+
+**The title's kings are the Council's six houses** (bt 7274, 2026-11-26, [D60](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): "we just call it the 6 kings referring to the council". They rule more than any crown does, and nobody crowned them.
+
+*Lean:* the phrase stays outside the world. It's the title, never what people in the world call the Council. D21 (the Council never acts as a named body on the page) and D28 (the Villain doesn't know it exists) both need nobody in the world to have a name for it. A reader who wonders who the six kings are is doing what the stories ask: putting it together alone (D2).
+
 ## The six houses
 
 **Working canon** (the author, 2026-09-29): the house names and home regions come from the project's earlier notes, with House Drathain moved from the old Labor domain to the Materials seat. Each house comes *from* a region, but that is origin, not representation: the Council still speaks for no kingdom, and every house's power crosses borders. The named members are earlier-note figures, **Provisional**.
