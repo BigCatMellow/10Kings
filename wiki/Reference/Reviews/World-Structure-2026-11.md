@@ -72,7 +72,7 @@ Nothing dates the Convergence, the last empire's fall, the Council's founding, t
 - **Port's people.** Whether they remember being the empire's city decides how the Villain's grievance feels.
 - **The stories.** The grandmother's "fifty years" at the stall, and anyone old enough to remember, need something to measure against.
 
-**What would fix it.** Three numbers: years since the Convergence, since Port was taken, and since the Council began. *Lean:* about two hundred years since the Convergence. Then nobody alive remembers a war between the kingdoms, the Season 4 war is the first in living memory, and the Council is many generations old, older than any family's memory of it.
+**What would fix it.** Three numbers: years since the Convergence, since Port was taken, and since the Council began. *(Superseded by D61: the lore puts the present about Year 50, [The Convergence](../../History/The-Convergence.md#when-d61).)* *Original lean:* about two hundred years since the Convergence. Then nobody alive remembers a war between the kingdoms, the Season 4 war is the first in living memory, and the Council is many generations old, older than any family's memory of it.
 
 ### 4. Hidden actors have no visible traces
 
@@ -116,10 +116,10 @@ The flaws are all one level up: the actors and terms the main story moves betwee
 
 ## Questions for bt 7274
 
-1. *(Partly answered: [D60](../../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), replacing D58, makes the title's kings the Council's six houses, so the regions need rulers, not kings. What the wiki already says about each is gathered on [Kingdoms and Politics](../../Politics/Kingdoms-and-Politics.md#who-rules-region-by-region), D59.)* **Build the rule layer?** A provisional *Polities* page: each state's form, ground, ruler and war-and-treaty power. It would use what the pages already say (Sunplains' city-states, Highridge's compacts, Ironcrest's crown institutions) and leave names open for you. *Lean:* yes, and decide whether the count of rulers is ten.
-2. **Port's charter, minimally.** Who guarantees Port, and what do the Port-born have under it now? *Lean:* courts and a name, but no vote on the board that governs the harbour. Their voice at the end is that vote.
-3. **Time depth.** *Lean:* about two hundred years since the Convergence, so the Season 4 war is the first in living memory.
-4. **"What the ground sees" sections** for the Council and the Villain? *Lean:* yes. This answers the plan check's Findings 2 and 3 in the world rather than in the plan.
+1. *(The rulers came from the lore by D61: five regional rulers and a Sunplains chair, with Deepwood open; [Kingdoms and Politics](../../Politics/Kingdoms-and-Politics.md#who-rules-region-by-region). Earlier: [D60](../../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), replacing D58, makes the title's kings the Council's six houses, so the regions need rulers, not kings. What the wiki already says about each is gathered on [Kingdoms and Politics](../../Politics/Kingdoms-and-Politics.md#who-rules-region-by-region), D59.)* **Build the rule layer?** A provisional *Polities* page: each state's form, ground, ruler and war-and-treaty power. It would use what the pages already say (Sunplains' city-states, Highridge's compacts, Ironcrest's crown institutions) and leave names open for you. *Lean:* yes, and decide whether the count of rulers is ten.
+2. *(Answered from the lore, [D61](../../Sunday-Morning/Notes/Decisions.md#the-authors-decisions): all the kingdoms guarantee Port through a Coalition of Stewards; the Port-born have a Municipal Council but no steward, [Port](../../Places/Port.md#what-the-port-born-have-d61).)* **Port's charter, minimally.** Who guarantees Port, and what do the Port-born have under it now? *Lean:* courts and a name, but no vote on the board that governs the harbour. Their voice at the end is that vote.
+3. *(Answered from the lore, D61: the present is about Year 50, [The Convergence](../../History/The-Convergence.md#when-d61). The two-hundred-year lean is withdrawn.)* **Time depth.** *Lean:* about two hundred years since the Convergence, so the Season 4 war is the first in living memory.
+4. *(Done from the lore for the Council, D61: [Economic Council](../../Politics/Economic-Council.md#what-the-ground-sees-d61); the Villain's people: [Villain](../../Story/Villain.md#his-people-and-his-reach-from-the-lore-d61).)* **"What the ground sees" sections** for the Council and the Villain? *Lean:* yes. This answers the plan check's Findings 2 and 3 in the world rather than in the plan.
 5. **Promote plan facts to world pages** as Provisional, starting with the Port-born society? *Lean:* yes.
 
 ## Extra reading

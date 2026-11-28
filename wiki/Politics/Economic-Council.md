@@ -178,6 +178,21 @@ A kingdom may technically be free to refuse a treaty, but then:
 
 No single action proves conspiracy.
 
+## What the ground sees (D61)
+
+The stories show only the ground ([D21](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)), so this is what the Council leaves there. *Provisional*, from [Volume 08](../../legacy-notes/2026-09-22/consolidated-package/08_Power_The_Council_Guilds_Underworld.md#src-the-council-stress-test), brought in by [D61](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions) (item 3 on the [legacy backlog](../Reference/README.md#legacy-reconciliation-backlog)):
+
+- **Company names on contracts.** "Official documents rarely reference them by name; they rely on codewords or shell organizations to sign contracts." Each house keeps several fronts. The lore's examples are "Embercore Metals" and "Ironshore Trading Co." for metal, and "Silver Compass Logistics" and "Seven Seas Carriers" for routes. "These shell outfits keep the true Council involvement concealed from the average noble or merchant."
+- **People who don't stay.** "The Council rarely uses the same agents in the same region for too long", so no one can pick out a face that keeps coming back. Foremen and master smiths placed in the war-forges report what they see.
+- **Hints, not orders.** The Council "rarely issues direct orders. Instead, they 'suggest' or 'hint,' letting local powers believe it's their own initiative".
+- **Delays with ordinary explanations.** Its moves stay "at a level that can be explained away by normal trade disruptions, local bandits, or resource depletion": goods "lost in transit", "mysterious shipping delays", a steel shipment quietly cut.
+- **Help that comes fast, with strings.** In a crisis, "aid packages" arrive with "minimal conditions attached—only to find those conditions come with long-term strings".
+- **Meetings in Port,** "behind innocuous 'trade consortium' facades", on rotating schedules.
+
+**What a reader can use** (reviser's reading, a lean, for the [plan check](../Reference/Reviews/Story-Plan-Logic-2026-11.md#questions-for-bt-7274)'s question on the second hand): the lore rotates the people so that no face repeats, so the reader's signature for the steadying hand can't be a person. It can be **one front's name on contracts in two regions**, or **help that arrives before anyone asked, with a condition**. Which, and the name, are for bt 7274.
+
+Left out: "magical seals" and "ephemeral illusions", "magical R&D", secret weapon designs, and the source's Dominion names (World Rules, [Magic](../Magic.md), the six houses of 2026-09-29).
+
 ## Why rulers tolerate it
 
 Many rulers do not know the whole structure.

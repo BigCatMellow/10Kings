@@ -116,6 +116,29 @@ The city needs:
 
 Foreign militaries may protect outer sea lanes while being restricted inside Port itself.
 
+### Governance, from the lore (D61)
+
+*Provisional*, from [Volume 02](../../legacy-notes/2026-09-22/consolidated-package/02_Regions_Kingdoms.md#src-world-port), brought in by [D61](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions) because it fits the charter above. Port "is not governed by any single kingdom":
+- **The Coalition of Stewards**, "representatives from each kingdom and major guilds", oversees the city's administration.
+- **A chief steward** comes from a different region every five years, so "no single kingdom or guild can dominate the city's policies".
+- **A Municipal Council** of "influential locals—merchants, scholars, and civic leaders" handles the day-to-day: "infrastructure, law enforcement, and citywide events".
+- **The Wardens of Port** are a guard "each kingdom contributes to", "sworn to serve the city rather than their home kingdoms". They are the charter's "locally accountable watch".
+- **A Joint Fleet**, kept by the kingdoms together, patrols against piracy: the foreign militaries on the sea lanes.
+- **Guild enforcers** keep order inside each guild's own premises.
+- **The Great Diplomatic Hall** is "neutral ground for inter-kingdom negotiations, treaty signings, and peace talks". *Lean:* the Season 5 talks sit here.
+- The source's own "challenges": power struggles, "constant bribery attempts and manipulation from powerful external forces", and the tightrope of neutrality.
+
+So **the guarantors are all the kingdoms**: each sends stewards, wardens and ships. Left out: the source's open "Council Representation" in Port. The Council meets in Port, but "behind innocuous 'trade consortium' facades" ([Volume 08](../../legacy-notes/2026-09-22/consolidated-package/08_Power_The_Council_Guilds_Underworld.md#src-the-council-stress-test); [Economic Council](../Politics/Economic-Council.md#what-the-ground-sees-d61)).
+
+### What the Port-born have (D61)
+
+Read together, the lore gives the Port-born (reviser's reading, a lean):
+- **a say in their streets,** through a Municipal Council of the influential, not of everyone;
+- **no seat among the stewards,** who are the kingdoms' and the guilds';
+- **never the chief steward,** who always comes from a region.
+
+That is "no kingdom's protection and no kingdom's say" (D32) in working form, and it is what the [Villain](../Story/Villain.md#homeland-and-grievance) is tired of. *Lean:* the "real voice" the ending can give Port's people (D18, D28) is a steward of their own.
+
 ## Current events
 
 - competing smuggling networks are expanding;

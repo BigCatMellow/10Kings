@@ -76,6 +76,7 @@ The most important lesson: **get the author's own voice before drafting a word.*
 | 58. Twelve kings | The title had once meant five and five. Counting canon found six regions and six houses, so bt 7274 made it twelve ([D58](Decisions.md#the-authors-decisions)). | see git log, 2026-11-26 |
 | 59. What the world already says about its kings | Rather than invent rulers, the wiki's scattered lines about clans, crowns, compacts and city-states were gathered in one place ([D59](Decisions.md#the-authors-decisions)). One crown, three meeting places, no capitals: the rest is his to fill. | see git log, 2026-11-26 |
 | 60. Six kings | Gathering what the world says about its rulers showed it has almost no kings, so the title moved to where the real power is: six houses nobody crowned ([D60](Decisions.md#the-authors-decisions)). | see git log, 2026-11-26 |
+| 61. Let the lore answer | Asked to answer the open questions from what was already written, the reviser went back to the legacy notes and found what the first survey had missed: queens and kings for five regions, a chair for Sunplains, a city run by stewards who are never Port's own, and a world about fifty years past its settlement ([D61](Decisions.md#the-authors-decisions)). | see git log, 2026-11-27 |
 
 ## Check log
 

@@ -104,6 +104,17 @@ bt 7274, 2026-11-09 ([D32](../Sunday-Morning/Notes/Decisions.md#the-authors-deci
 
 Still open: his name ([Open Questions](../Open-Questions.md#villain)).
 
+## His people and his reach, from the lore (D61)
+
+*Provisional*, from [Volume 11](../../legacy-notes/2026-09-22/consolidated-package/11_Story_Core_Characters_Villain.md#src-story-villain-profile) and [Volume 12](../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-dominos-the-set-up), brought in by [D61](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions) where they fit a man who is "just a regular dude" (D32) and doesn't know the Council exists (D28):
+
+- **He tried the proper way first.** "Early in his life, [he] attempted peaceful petitions … joined delegations to request fair trade treaties, tried to align with sympathetic guild leaders, and prayed at shrines for mercy. When these gentle methods failed repeatedly, disappointment hardened into determination." The source has him petitioning "the council", which under D28 can't be the hidden one. *Lean:* he petitioned Port's [Coalition of Stewards](../Places/Port.md#governance-from-the-lore-d61), the body that governs his city without him.
+- **His people.** He gathers "allies from disgruntled guild members" and outcasts ([Volume 11](../../legacy-notes/2026-09-22/consolidated-package/11_Story_Core_Characters_Villain.md#src-story-outline)), and wins others "with promises of relief or protection" ([Volume 12](../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-dominos-the-pieces)). The same line's "religious zealots tired of Council manipulations" stays out: under D28 nobody on his side knows the Council.
+- **His pushes are cheap.** Rumours, "forging letters", funding a strike, paying bandits "with minimal instructions—like 'disrupt caravans that carry iron'" ([Volume 12](../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-dominos-the-set-up)).
+- **Left out:** assassins, a spy network run on blackmail, and mercenaries posing as a kingdom's soldiers ([Volume 11](../../legacy-notes/2026-09-22/consolidated-package/11_Story_Core_Characters_Villain.md#src-story-villain-role)). They need a lord's purse, not a citizen's.
+
+**Still open:** where his money comes from. The lore never says. The plan check's lean is a Port-born mutual society pooling small sums ([Story Plan Logic](../Reference/Reviews/Story-Plan-Logic-2026-11.md#questions-for-bt-7274)).
+
 ## Legacy research
 
 Unpromoted legacy material relevant to this page is indexed in the [Story Legacy Research Library](../Reference/Story-Legacy-Research-Library.md).

@@ -32,14 +32,14 @@ Owned by [Peoples and Land](Peoples-and-Land.md#open-for-bt-7274) (D43):
 
 ## Political structure
 
-- Are all six named regions kingdoms in the same constitutional sense?
+- ~~Are all six named regions kingdoms in the same constitutional sense?~~ No (lore, D61): five have a single ruler, each chosen differently, and Sunplains is a confederation with a rotating First Chair ([Kingdoms and Politics](Politics/Kingdoms-and-Politics.md#who-rules-region-by-region)).
 - How many independent Sunplains city-states remain?
-- How centralized is Deepwood?
-- What formal institutions govern Highridge?
-- ~~Does Port have citizenship independent of kingdom citizenship?~~ Settled (D32): "a citizen of Port, which is to be a citizen of nowhere" ([Port](Places/Port.md#culture)). What that citizenship gives the Port-born under Port's charter is open ([World Structure](Reference/Reviews/World-Structure-2026-11.md#2-the-settlement-at-the-centre-has-no-terms)).
+- How centralized is Deepwood? The lore has both a king and an Elder Assembly (D61); open for bt 7274.
+- ~~What formal institutions govern Highridge?~~ From the lore (D61, provisional): a "Crown of the Passes", semi-hereditary and tested by a Trial of the Winds, advised by a Council of Sages. Whether that sits with its compacts is open.
+- ~~Does Port have citizenship independent of kingdom citizenship?~~ Settled (D32): "a citizen of Port, which is to be a citizen of nowhere" ([Port](Places/Port.md#culture)). What it gives them, from the lore (D61, provisional): a Municipal Council of "influential locals", but no steward of their own ([Port](Places/Port.md#what-the-port-born-have-d61)).
 - **The six kings** (bt 7274, D60, replacing D58's twelve): the title's kings are the Council's six houses; the regions keep the rule they already have, with no kings to match. Lean: the phrase is the title only, never in the world's mouth ([Economic Council](Politics/Economic-Council.md#the-six-kings)).
-- **Who each region's ruler is** (not a king), and who can make war or sign a treaty. What the wiki already says is gathered, without additions, on [Kingdoms and Politics](Politics/Kingdoms-and-Politics.md#who-rules-region-by-region) (D59), with seven questions ([Open](Politics/Kingdoms-and-Politics.md#open-for-bt-7274)). Only Ironcrest has a crown on the page; no region has a named capital.
-- **How long ago** the Convergence, Port's taking and the Council's beginning were ([World Structure](Reference/Reviews/World-Structure-2026-11.md#3-the-world-has-no-time-depth)).
+- **Who each region's ruler is** (not a king), and who can make war or sign a treaty. Answered from the lore where it can be, provisionally (D61), on [Kingdoms and Politics](Politics/Kingdoms-and-Politics.md#who-rules-region-by-region); what it can't settle is [listed there](Politics/Kingdoms-and-Politics.md#open-for-bt-7274).
+- **How long ago:** the Convergence about fifty years ago, the present about Year 50 (lore, D61, provisional: [When](History/The-Convergence.md#when-d61)). Still open: when Port was taken ([Pre-Convergence](History/Pre-Convergence.md#the-last-ruling-empire-d30)).
 
 ## Economic Council
 
@@ -54,6 +54,7 @@ Owned by [Peoples and Land](Peoples-and-Land.md#open-for-bt-7274) (D43):
 
 - Name.
 - The point at which his methods become clearly unacceptable even to sympathetic readers.
+- Where his money comes from. The lore gives his people and his cheap pushes ([Villain](Story/Villain.md#his-people-and-his-reach-from-the-lore-d61), D61) but no purse.
 
 ## Port's past
 

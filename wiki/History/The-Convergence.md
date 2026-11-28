@@ -28,6 +28,33 @@ Highridge is the strongest candidate for the principal congress because of:
 
 Port likely played an important role in maritime and commercial provisions even if the principal meetings occurred inland.
 
+## When (D61)
+
+*Provisional*, from the legacy notes, brought in by [D61](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions): [Volume 01](../../legacy-notes/2026-09-22/consolidated-package/01_Foundations_World_Myth_History.md#src-convergence-the-history) and [World Dynamics](../../legacy-notes/2026-09-22/direct-uploads/two_sons_world_dynamics.md). Both count years from the signing of the Convergence Charter, **Year 0**. That is the record's count, not necessarily anyone's in the world: [Calendar](../Calendar-and-Timekeeping.md) expects no universal era.
+
+| Year | What the lore dates |
+| --- | --- |
+| −10 to 0 | the negotiations |
+| 0 | the Convergence Charter is signed |
+| 10 | the Council "solidifies its role as a shadowy regulator" |
+| 50 | "Dawn of New Tensions": "another turning point is on the horizon" |
+
+**The present is about Year 50,** where Volume 01's timeline ends. It fits the wiki's other clocks: heirs inherit what a grandparent wrote down about the Council ([Economic Council](../Politics/Economic-Council.md#internal-conflict)), and "Monarchs come and go, but the Council is generational" ([Volume 08](../../legacy-notes/2026-09-22/consolidated-package/08_Power_The_Council_Guilds_Underworld.md#src-the-council-stress-test)).
+
+The wars before it: World Dynamics dates the Timber Tithes, the Salted Coast Disputes, the Ember Wars and the Port Seizure between about Year −150 and Year −50. Their dates stay unlocked ([Contested Memory](Contested-Memory.md)); what matters is that **all of them ended a century or more before the present**.
+
+What follows (reading, a lean):
+- **Nobody alive fought in a war between the kingdoms.** The old wars are grandparents' stories ("Grandparents still tell children 'the forge-men came'", World Dynamics). Season 4's war is the first in living memory.
+- **The oldest people remember the Convergence.** Ebbe Tarrow is seventy-one and has taken caravans over the pass for fifty years ([The Goat File](../Sunday-Morning/Drafts/The-Goat-File.md)): his working life is the Convergence age.
+- **The Council has worked unseen for about two generations of rulers,** long enough to be a habit and short enough to be remembered as new by the old.
+
+This withdraws the reviser's earlier lean of two hundred years ([World Structure](../Reference/Reviews/World-Structure-2026-11.md#3-the-world-has-no-time-depth)).
+
+Left out:
+- Volume 01's longer timeline (the "Eryndor Empire" falling to "internal strife" in Year −500, and its old region names), because D30 has the last empire broken in a war by the other nations, and the names are superseded. When Port was taken is a question for bt 7274 ([Pre-Convergence](Pre-Convergence.md#the-last-ruling-empire-d30)).
+- Goldspire as the congress town; the wiki's candidate is Highridge (above).
+- Two later troubles Volume 01 dates, a "Whispering Woods Revolt" (Year 20) and a "Merchant Guild War" (Year 40). Both turn on open resistance to the Council, which the ground doesn't see (D21), so they stay in the source.
+
 ## What it did
 
 The settlement likely included:

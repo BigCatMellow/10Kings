@@ -57,9 +57,9 @@ There are also smaller strains, listed below. **What bt 7274 needs to decide is 
 
 ## Questions for bt 7274
 
-1. **Where does the Villain's reach come from?** *Lean:* he stays a regular man; his reach is a society of ordinary Port-born people pooling small sums (the mutual society already in The Harbor Book II), and his pushes are cheap. It answers Findings 2 and 8 together, and fits "citizen of nowhere".
+1. *(Partly answered from the lore, [D61](../../Sunday-Morning/Notes/Decisions.md#the-authors-decisions): his people and cheap pushes, [Villain](../../Story/Villain.md#his-people-and-his-reach-from-the-lore-d61); his money is still open.)* **Where does the Villain's reach come from?** *Lean:* he stays a regular man; his reach is a society of ordinary Port-born people pooling small sums (the mutual society already in The Harbor Book II), and his pushes are cheap. It answers Findings 2 and 8 together, and fits "citizen of nowhere".
 2. **What lets the reader see a second hand in Season 2?** *Lean:* an ordinary repeatable signature for the steadying hand (a lender's form phrase), never named. Otherwise move that inference to Season 3.
-3. **Which border is the war's?** *Lean:* Deepwood–Highridge on land, with the sea as pressure only.
+3. *(Not settled by the lore, D61: it points at Ironcrest against Greenvale or Highridge.)* **Which border is the war's?** *Lean:* Deepwood–Highridge on land, with the sea as pressure only.
 4. **Do Orin and Rosana get a Season 4 weather line, or end as held?** *Lean:* one line each.
 5. **Does the Villain's realization about Wurdren stay in the saga?** *Lean:* yes, shown from the ground: the cream paper reaching someone in Wurdren's network.
 
