@@ -47,6 +47,8 @@ Repeatedly used. Forested uplands thin toward exposed plateau routes. This bound
 
 Representative working border settlement: **Twilighthollow**.
 
+This is the border of the saga's Season 4 war, a limited war on land ([D62](Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [Main Conflict](Story/Main-Conflict.md#escalation)).
+
 ### Deepwood ↔ Ironcrest
 
 Used in discussions of logging, charcoal, ore, tools, forest-edge conflict, and the town **Darkroot Gulch**. This implies at least one direct or near-direct frontier, probably where Ironcrest's eastern or southeastern uplands meet a western arm of the forest.

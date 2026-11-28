@@ -21,7 +21,7 @@ Read in order, they turn out to be one story. The reader is the only one who can
 **The whole story, as the reader will finally see it.**
 1. A regular citizen of Port, tired of watching his city be used, starts nudging the kingdoms toward distrust. He does it with small offers, rumors and a doctored report.
 2. He doesn't know that a hidden Council is quietly correcting course ([D28](Decisions.md#the-authors-decisions), [D32](Decisions.md#the-authors-decisions)). The two hands, pushing and steadying, make each other worse.
-3. A limited war at one border pushes everyone to talks in Port, the one place they'll all sit down. The Council has to come into the open, and Port's people get a real voice.
+3. A limited war at one border, Deepwood–Highridge on land ([D62](Decisions.md#the-authors-decisions)), pushes everyone to talks in Port, the one place they'll all sit down. The Council has to come into the open, and Port's people get a real voice.
 4. It stayed small because a great many small places, in fourteen stories a year, held for their own reasons.
 5. An aging adventurer who passed through some of them turns out to have mattered to more people than he knew.
 
@@ -164,7 +164,7 @@ The war is weather: nobody the reader knows goes to the fighting, hardship is co
 These have a season in mind and no slot yet. Each can replace a slate story of its own kind.
 - **Season 3:** [The Paid Side](../Stories/Story-Seeds.md#the-paid-side), [The Kitchen Court](../Stories/Story-Seeds.md#the-kitchen-court) (Wurdren could be its visitor), [Lean Vigil](../Stories/Story-Seeds.md#lean-vigil) (only if the Port-born say there includes the newcomers).
 - **Season 4:** [The Trial Rows](../Stories/Story-Seeds.md#the-trial-rows) (moved from Season 3), [The Bridge Delay](../Stories/Story-Seeds.md#the-bridge-delay) (an accident read as an attack, the research's hidden-spark lesson), [The Treaty Stone](../Stories/Story-Seeds.md#the-treaty-stone), [Protected Goods](../Stories/Story-Seeds.md#protected-goods).
-- **Season 5:** [The Stopping Place](../Stories/Story-Seeds.md#the-stopping-place) (stopping rights after the war), [Salt Between Them](../Stories/Story-Seeds.md#salt-between-them) (moved from Season 2: two songs about one coast after a war at sea, and kept out of The Patrol Boat's season by its own rule), [The House Cook](../Stories/Story-Seeds.md#the-house-cook), [The Tea Boy](../Stories/Story-Seeds.md#the-tea-boy), a Return to [Three Pots](../Stories/Three-Pots-at-Three-Moon.md)' street.
+- **Season 5:** [The Stopping Place](../Stories/Story-Seeds.md#the-stopping-place) (stopping rights after the war), [Salt Between Them](../Stories/Story-Seeds.md#salt-between-them) (moved from Season 2: two old songs about one coast, sung on a convoy in the year the sea stayed only a pressure (D62), and kept out of The Patrol Boat's season by its own rule), [The House Cook](../Stories/Story-Seeds.md#the-house-cook), [The Tea Boy](../Stories/Story-Seeds.md#the-tea-boy), a Return to [Three Pots](../Stories/Three-Pots-at-Three-Moon.md)' street.
 
 ## Threads that cross seasons
 

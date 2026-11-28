@@ -28,9 +28,9 @@ The six regions should not necessarily share identical political systems.
 - **Where power meets.**
   - **Mootstead**, "the old clan seat in the sheltered inland valleys, where the lineages meet in moot" ([Gazetteer](../Places/Gazetteer.md#northwind)).
   - **The Moot Isle**, where "clans meet there to settle fishing banks and winter anchorages", and "whoever calls the moot has to bring the food for everyone" ([Places of Interest](../Places/Places-of-Interest.md#the-moot-isle)).
-- **The ruler, from the lore** (provisional, D61). **Queen Ingrid Stormvale.** Northwind "eschews strict bloodline inheritance": leading families and clan chiefs choose the ruler in a "Rite of the Gales", and a candidate "must secure the favor of at least two-thirds of the clan leaders" ([Volume 02](../../legacy-notes/2026-09-22/consolidated-package/02_Regions_Kingdoms.md#src-world-northwind)). That is the wiki's "larger regional leadership" over strong clan rights. She is clan-born, a navigator from "a remote fishing island". *Still open:* whether one crown covers both halves of Northwind's country across the North Gut, which the map draft places by bt 7274's layout (D40). The lore has one Northwind and one ruler.
+- **The ruler, from the lore** (provisional, D61). **Queen Ingrid Stormvale.** Northwind "eschews strict bloodline inheritance": leading families and clan chiefs choose the ruler in a "Rite of the Gales", and a candidate "must secure the favor of at least two-thirds of the clan leaders" ([Volume 02](../../legacy-notes/2026-09-22/consolidated-package/02_Regions_Kingdoms.md#src-world-northwind)). That is the wiki's "larger regional leadership" over strong clan rights. She is clan-born, a navigator from "a remote fishing island". One crown covers both halves of Northwind's country across the North Gut, as the lore has one Northwind and one ruler ([D62](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)); the map draft places the halves by bt 7274's layout (D40).
 - **Force.** Marines and coastal fighters ([Weapons](../Culture/Weapons-and-Elite-Troops.md#northwind)). Northwind's politics turn on "convoy protection; privateering/piracy; clan autonomy" ([Northwind](../Regions/Northwind.md#politics)).
-- **Who decides war: open.** *Lean:* not the queen without the clan leaders whose favour made her.
+- **Who decides war** (D62): the queen, with the clan leaders whose favour made her.
 
 ### Ironcrest
 
@@ -47,7 +47,7 @@ The six regions should not necessarily share identical political systems.
 - **Where power meets.** No seat is named. **Open.**
 - **The ruler, from the lore** (provisional, D61). **King Roland Fairweather.** Greenvale is crowned. The line "is typically passed from parent to child, but a Farmers' Assembly (representing major agrarian guilds and local leaders) must confirm the next monarch", and the coronation is "a symbolic planting of heirloom seeds" ([Volume 02](../../legacy-notes/2026-09-22/consolidated-package/02_Regions_Kingdoms.md#src-world-greenvale)). That is the wiki's "regional monarchy" beside its cooperatives. He works "to improve irrigation, protect smaller farms from exploitation", which is the wiki's estate-versus-cooperative politics.
 - **Force.** "Mobile local defense, scouts, or disciplined levy cadres whose strength is logistics and local terrain" ([Weapons](../Culture/Weapons-and-Elite-Troops.md#greenvale)).
-- **Who decides war: open.** *Lean:* the king, with the Farmers' Assembly that confirms him.
+- **Who decides war** (D62): the king, with the Farmers' Assembly that confirms him.
 
 ### Highridge Plateau
 
@@ -58,21 +58,16 @@ The six regions should not necessarily share identical political systems.
   - **Lowmeet's Congress Hall**, "said to be where the Convergence was negotiated", though that is one town's claim ([Places of Interest](../Places/Places-of-Interest.md#the-congress-hall)).
   - **Kingshead**, the largest market city (lean, D45), named for [the Head in the Square](../Places/Places-of-Interest.md#the-head-in-the-square), the missing Sitting King's head.
   - Highridge "is the strongest candidate for the principal congress" of the Convergence ([The Convergence](../History/The-Convergence.md#negotiation)).
-- **The ruler, from the lore** (provisional, D61, with a strain). **Queen Nalia Skylance**, holding the "Crown of the Passes". Rule "is semi-hereditary but tested by a 'Trial of the Winds,' a series of diplomatic, intellectual, and physical challenges", and a "Council of Sages" of "scholars, merchants, and travelers" advises her ([Volume 02](../../legacy-notes/2026-09-22/consolidated-package/02_Regions_Kingdoms.md#src-world-highridge-plateau)). She was once "a caravan translator". *The strain:* the wiki gives Highridge legitimacy "from negotiated compacts rather than a single dynasty". A crown that has to pass a trial isn't a single dynasty, but it isn't a compact either. It comes in provisionally, and the question goes to bt 7274.
+- **The ruler, from the lore** (provisional, D61; the strain settled by D62). **Queen Nalia Skylance**, holding the "Crown of the Passes". Rule "is semi-hereditary but tested by a 'Trial of the Winds,' a series of diplomatic, intellectual, and physical challenges", and a "Council of Sages" of "scholars, merchants, and travelers" advises her ([Volume 02](../../legacy-notes/2026-09-22/consolidated-package/02_Regions_Kingdoms.md#src-world-highridge-plateau)). She was once "a caravan translator". *The strain:* the wiki gives Highridge legitimacy "from negotiated compacts rather than a single dynasty". A crown that has to pass a trial isn't a single dynasty, but it isn't a compact either. Both stand (D62): the crown is tested by trial, and the compacts still carry the region's legitimacy.
 - **Force.** "Route guards and high-altitude scouts" ([Weapons](../Culture/Weapons-and-Elite-Troops.md#highridge)). [Seven Hill](../Places/Seven-Hill.md) is a fortress "emptied when Highridge's toll warfare gave way to negotiated" passage.
-- **Who decides war: open.** It is an "arbitration environment" ([Law 20](../Law-and-Jurisdiction.md#20-highridge-plateau-is-an-arbitration-environment)).
+- **Who decides war** (D62): the queen, with the Council of Sages beside her. It is an "arbitration environment" ([Law 20](../Law-and-Jurisdiction.md#20-highridge-plateau-is-an-arbitration-environment)).
 
 ### Deepwood
 
 - **Form.** "Likely the least centralized. Possible layers: local councils; forest wardens; regional assemblies; sacred jurisdictions; market towns; hereditary authorities in some districts" ([tendencies](#deepwood-1)). Before the Convergence: "village alliances; clan territories; ranger/warden networks … forest-edge petty rulers"; its groups "sometimes united against these incursions, sometimes fought each other" ([Deepwood](../Regions/Deepwood.md#historical-identity)).
 - **Where power meets.** **Rookhallow**, "Deepwood's old meeting town" ([Gazetteer](../Places/Gazetteer.md#deepwood)).
-- **The ruler: open, because the lore disagrees with itself** (D61). Volume 02 has two Deepwoods ([Volume 02](../../legacy-notes/2026-09-22/consolidated-package/02_Regions_Kingdoms.md#src-world-deepwood)):
-  - **King Elden Mossglade**, whose line "must be blessed by leading shamans and an age-old living tree in a revered grove";
-  - an **Elder Assembly** of "the heads of the most influential guilds", under **Elder Rowan Leafwhisper**, seated at Glenshade.
-
-  The wiki's "least centralized" region fits the Assembly better. But the Assembly's guilds include a "Mystic Guild" whose magic isn't deniable ([Magic](../Magic.md)), and Glenshade would be a legacy capital. *Lean:* an assembly of guild and district heads, meeting at Rookhallow, and no king. *Note:* Mossglade is already the surname of [Naruin Mossglade](../Story/Villains-Dominoes.md#naruin-mossglade--deepwood), a senior warden and domino figure. If the king stands, that shared name needs a ruling.
-- **Force.** "Rangers/wardens who know terrain, tracking, concealment, river crossings, and coordinated small-unit fighting" ([Weapons](../Culture/Weapons-and-Elite-Troops.md#deepwood)).
-- **Who decides war: open.**
+- **The ruler** ([D62](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): **no king. An assembly of guild and district heads, meeting at Rookhallow.** That fits the wiki's "least centralized" region. The lore had two Deepwoods ([Volume 02](../../legacy-notes/2026-09-22/consolidated-package/02_Regions_Kingdoms.md#src-world-deepwood)): a **King Elden Mossglade**, whose line "must be blessed by leading shamans and an age-old living tree", and an **Elder Assembly** of "the heads of the most influential guilds", seated at Glenshade. The king is declined, and with him any question of kinship with [Naruin Mossglade](../Story/Villains-Dominoes.md#naruin-mossglade--deepwood). The assembly comes in without the source's "Mystic Guild", whose magic isn't deniable ([Magic](../Magic.md)), and without Glenshade, a legacy capital. Who heads it, if anyone, isn't named.
+- **Who decides war** (D62): the assembly.
 
 ### Sunplains
 
@@ -130,21 +125,23 @@ The [Convergence](../History/The-Convergence.md) is the frame for all six:
 
 ### What this shows
 
-- **Five regions have a single ruler in the lore, and Sunplains has a chair** (D61). Each is chosen differently: by the clans (Northwind), by blood confirmed by farmers (Greenvale), by blood (Ironcrest), by blood tested by trial (Highridge). Deepwood's is open.
-- **Every ruler but Ironcrest's has a body beside them:** the clan leaders, the Farmers' Assembly, the Council of Sages, the Annual Forum. *Reading (lean):* none of those rulers can take a region to war alone. Ironcrest's king can command soldiers, though not the money.
+- **Five regions have a single ruler in the lore, and Sunplains has a chair** (D61). Each is chosen differently: by the clans (Northwind), by blood confirmed by farmers (Greenvale), by blood (Ironcrest), by blood tested by trial (Highridge). Deepwood is ruled by an assembly (D62).
+- **Every ruler but Ironcrest's has a body beside them:** the clan leaders, the Farmers' Assembly, the Council of Sages, the Annual Forum. *Settled by D62:* none of those rulers takes a region to war alone. Ironcrest's king can command soldiers, though not the money.
 - **No region has a capital on the wiki.** The legacy capitals stay declined, so the seats are still meeting places, not palaces: Northwind's moot, Deepwood's meeting town, Highridge's congress claim.
-- **This bears on D60.** D60's reason was "if it doesn't fit the world that's been built". The built world has five monarchs, close to bt 7274's own memory of "the 5 kings of the regions". D60 stands until he says otherwise ([below](#open-for-bt-7274)).
+- **This bears on D60.** D60's reason was "if it doesn't fit the world that's been built". The built world has five monarchs, close to bt 7274's own memory of "the 5 kings of the regions". D62 keeps D60: the title's six kings are the Council's houses, and the regions' queens, kings and chair aren't "the kings" of the title.
 
-### Open for bt 7274
+### Settled by D62
 
-The lore answered the rest (D61). These are what it can't settle:
+bt 7274: "Go with your leans" ([D62](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)). The six questions D61's lore couldn't settle:
 
-1. **D60, now that the lore has five monarchs.** Does "the 6 kings" still mean the Council only? *Lean:* yes. It keeps the title on the hidden power the saga turns on, and the regions' queens, kings and chair aren't "the kings" of the title.
-2. **Deepwood:** a king (Elden Mossglade) or an Elder Assembly? *Lean:* an assembly, meeting at Rookhallow, and no king. If the king stands, is Naruin Mossglade his kin?
-3. **Highridge:** does a semi-hereditary crown tested by trial sit with "compacts rather than a single dynasty"? *Lean:* yes, provisionally.
-4. **Northwind:** one crown over both halves of its country? *Lean:* yes, as the lore has it.
-5. **Who decides war,** everywhere but Ironcrest. *Lean:* the ruler with the body that chose or confirms them.
-6. **Capitals:** keep the legacy capitals (Cindermarch, Aurorashore, Glenshade and the rest) declined? *Lean:* yes; the meeting places serve.
+1. **D60 stands.** "The 6 kings" means the Council's houses only.
+2. **Deepwood** has no king: an assembly of guild and district heads, meeting at Rookhallow.
+3. **Highridge's** trial-tested crown and its compacts both stand.
+4. **Northwind** has one crown over both halves of its country.
+5. **Who decides war:** each ruler with the body that chose or confirms them. Ironcrest's king commands soldiers, but not the money.
+6. **The legacy capitals stay declined.** The seats are the meeting places.
+
+Still open: the names of most seats, how many Sunplains city-states remain, and whether Coralbay, Oliveport and Bayrose join the Gazetteer.
 
 ## Working political tendencies
 

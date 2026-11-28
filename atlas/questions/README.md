@@ -55,7 +55,7 @@ Things the wiki doesn't settle yet. Listed for the author to decide; nothing her
 | Faiths: are the gods' names a shared liturgical register? | asks about | The Radiant Path | stated | “Whether the gods' Latinate names are a shared liturgical register” [source](../../wiki/Open-Questions.md#faiths) |
 | Faiths: the creation myth and the Sons | asks about | Path of the Great Weaver | stated | “The creation myth” [source](../../wiki/Open-Questions.md#faiths) |
 | Ecology: no owner for flora and fauna | asks about | Greenvale | stated | “Flora and fauna now have an owner” [source](../../wiki/Open-Questions.md#ecology) |
-| Port's past: the war in which the empire lost Port | asks about | Port | stated | “The war in which the empire lost Port: its name, and when it fell relative to the Convergence (lean: before it).” [source](../../wiki/Open-Questions.md#ports-past) |
+| Port's past: the war in which the empire lost Port | asks about | Port | stated | “The war in which the empire lost Port: its name.” [source](../../wiki/Open-Questions.md#ports-past) |
 | Port's past: the last ruling empire, its name, people and reach | asks about | Port | stated | “The last ruling empire: its name, its people, and how far it reached.” [source](../../wiki/Open-Questions.md#ports-past) |
 
 ## Diagram
@@ -264,7 +264,7 @@ Grouped by board column.
 | --- | --- | --- | --- |
 | [Economic Council: how seats are inherited, selected, purchased, or contested](../../wiki/Open-Questions.md#economic-council) | Open question | No status label | Open question under Economic Council: How seats are inherited, selected, purchased, or contested. |
 | [Villain: name](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: Name. |
-| [Port's past: the war in which the empire lost Port](../../wiki/Open-Questions.md#ports-past) | Open question | No status label | Open question under Port's past: The war in which the empire lost Port: its name, and when it fell relative to the Convergence (lean: before it). |
+| [Port's past: the war in which the empire lost Port](../../wiki/Open-Questions.md#ports-past) | Open question | No status label | Open question under Port's past: The war in which the empire lost Port: its name. |
 | [Port's past: the last ruling empire, its name, people and reach](../../wiki/Open-Questions.md#ports-past) | Open question | No status label | Open question under Port's past: The last ruling empire: its name, its people, and how far it reached. |
 | [Villain: the point at which his methods become clearly unacceptable even to sympathetic readers](../../wiki/Open-Questions.md#villain) | Open question | No status label | Open question under Villain: The point at which his methods become clearly unacceptable even to sympathetic readers. |
 | [Wurdren: exact age and biography](../../wiki/Open-Questions.md#wurdren) | Open question | No status label | Open question under Wurdren: Exact age and biography. |
@@ -285,7 +285,7 @@ Grouped by board column.
 
 **Port's past: the war in which the empire lost Port**
 
-- *Question:* The war in which the empire lost Port: its name, and when it fell relative to the Convergence (lean: before it).
+- *Question:* The war in which the empire lost Port: its name.
 - *Section:* Port's past
 
 **Port's past: the last ruling empire, its name, people and reach**

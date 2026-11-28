@@ -406,10 +406,10 @@
       "lane": "cast",
       "section": "Open questions",
       "src": "Open-Questions.md#ports-past",
-      "text": "Open question under Port's past: The war in which the empire lost Port: its name, and when it fell relative to the Convergence (lean: before it).",
+      "text": "Open question under Port's past: The war in which the empire lost Port: its name.",
       "short_text": "Port's past",
       "facts": {
-        "Question": "The war in which the empire lost Port: its name, and when it fell relative to the Convergence (lean: before it).",
+        "Question": "The war in which the empire lost Port: its name.",
         "Section": "Port's past"
       },
       "minor": true
@@ -1052,7 +1052,7 @@
       "layer": "oq",
       "type": "asks about",
       "basis": "stated",
-      "quote": "The war in which the empire lost Port: its name, and when it fell relative to the Convergence (lean: before it).",
+      "quote": "The war in which the empire lost Port: its name.",
       "src": "Open-Questions.md#ports-past",
       "chip": "Asks about",
       "chipBack": "Open questions"

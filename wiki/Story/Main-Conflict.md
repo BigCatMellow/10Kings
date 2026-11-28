@@ -78,7 +78,7 @@ The story should progress from:
 - regional political crises;
 - cross-regional suspicion;
 - mobilization;
-- near-war or actual limited war;
+- near-war or actual limited war: a limited war at one border (D28), Deepwood–Highridge on land, with the sea as pressure only ([D62](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions));
 - revelation of hidden economic control;
 - convergence of the three perspectives.
 

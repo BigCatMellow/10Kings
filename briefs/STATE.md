@@ -42,7 +42,7 @@ A snapshot so a session can skip discovery. **This is the reviser's summary, not
 | law, money, movement, couriers, records, language, medicine, education, social fabric | their pages at `wiki/` top level |
 | the main story's pressures | [Current Events](../wiki/Story/Current-Events.md), [Main Conflict](../wiki/Story/Main-Conflict.md), [Villain's Dominoes](../wiki/Story/Villains-Dominoes.md) |
 | what's undecided | [Open Questions](../wiki/Open-Questions.md) |
-| bt 7274's rulings | [Decisions](../wiki/Sunday-Morning/Notes/Decisions.md#the-authors-decisions) (D1–D61) |
+| bt 7274's rulings | [Decisions](../wiki/Sunday-Morning/Notes/Decisions.md#the-authors-decisions) (D1–D62) |
 | how stories are made | [Pipeline](../wiki/Sunday-Morning/Notes/Pipeline.md), [Rules](../wiki/Sunday-Morning/Notes/Rules.md), [Craft](../wiki/Sunday-Morning/Notes/Craft.md) |
 | what each story establishes; cross-story promises | [Registry](../wiki/Sunday-Morning/Notes/Registry.md), [Collection](../wiki/Sunday-Morning/Notes/Collection.md) |
 | imported material and what became of it | [Source Register](../wiki/Reference/Source-Register.md); unreconciled items in the [legacy backlog](../wiki/Reference/README.md#legacy-reconciliation-backlog) |
@@ -64,6 +64,7 @@ These are summaries. The quoted words in each Decisions row are the ruling.
 | **D52** | **three moons; Three Moon every seven years, when all three are visible from Port; the creation myth explains how the three continents came together** | **fixed.** The moons' cycles (10, 30 and 67 days) are a lean |
 | D53 | scale bar on the map; four places redrawn to the lean scale; a symbol for each kind of place | map only |
 | D54–D55 | these briefs, and [START-HERE](START-HERE.md), the page to point a model at | — |
+| **D62** | **"Go with your leans"** | the six D61 leftovers settled: D60 stands; Deepwood an assembly at Rookhallow, no king; **the war's border Deepwood–Highridge, on land**; the Villain's money a Port-born society of small sums; Port taken a century or more ago |
 | **D61** | **"let the established lore answer them … if there really isn't anything in the pre established lore … bring it to me"** | the legacy notes answer as provisional: five rulers and a Sunplains chair; Port's stewards; the present about Year 50; the Council's ground traces; the Villain's people. The D59 survey had missed the legacy rulers |
 | D60 | "we just call it the 6 kings referring to the council": the title's kings are the six houses; replaces D58 | the title-only reading is a lean |
 | D59 | who rules each region, gathered from existing lines only on Kingdoms and Politics; nothing invented | seven questions there |
@@ -80,9 +81,9 @@ These are summaries. The quoted words in each Decisions row are the ruling.
 
 From the reviser's plan check ([Story Plan Logic](../wiki/Reference/Reviews/Story-Plan-Logic-2026-11.md#questions-for-bt-7274)):
 
-5. Where does the Villain's reach come from? **His people and cheap pushes come from the lore (D61).** Still open: his money. Lean: a society of ordinary Port-born people pooling small sums (the mutual society of The Harbor Book II).
+5. ~~Where does the Villain's reach come from?~~ **Settled:** his people and pushes from the lore (D61); his money a society of ordinary Port-born people pooling small sums (D62).
 6. What lets the reader see a second hand in Season 2? The lore gives the Council's ground traces (D61, [Economic Council](../wiki/Politics/Economic-Council.md#what-the-ground-sees-d61)). Lean: one front's name on contracts in two regions, or help that comes before anyone asked, with a condition.
-7. Which border is the war's? **Not settled by the lore**, which points at Ironcrest against Greenvale (the Ember Wars' land) or against Highridge (the passes). Lean: Deepwood–Highridge on land, as the plan's threads run, with the sea as pressure only.
+7. ~~Which border is the war's?~~ **Settled (D62):** Deepwood–Highridge on land, with the sea as pressure that never becomes fighting.
 8. Do Orin and Rosana get a Season 4 weather line, or end as held? Lean: one line each.
 9. Is the Villain's realization about Wurdren shown? Lean: yes, from the ground, when the cream paper reaches someone in Wurdren's network.
 
@@ -90,7 +91,7 @@ From the reviser's structure check ([World Structure](../wiki/Reference/Reviews/
 
 10. Build a rule layer (a Polities page: each state's form, ground, ruler, and power over war and treaties)? Lean: yes. **Settled (D60, replacing D58): the six kings are the Council's houses; the regions need rulers, not kings.** What the wiki says of each is gathered on [Kingdoms and Politics](../wiki/Politics/Kingdoms-and-Politics.md#who-rules-region-by-region) (D59), with its seven open questions.
 11. Port's charter: **answered from the lore (D61).** All the kingdoms guarantee it through a Coalition of Stewards; the Port-born have a Municipal Council but no steward ([Port](../wiki/Places/Port.md#what-the-port-born-have-d61)).
-12. Time depth: **answered from the lore (D61).** The present is about Year 50 after the Convergence; the old wars ended a century or more ago, so the Season 4 war is still the first in living memory. Still open: when Port was taken.
+12. Time depth: **answered from the lore (D61).** The present is about Year 50 after the Convergence; the old wars ended a century or more ago, so the Season 4 war is still the first in living memory. Port was taken a century or more ago (D62).
 13. "What the ground sees": **done from the lore (D61)** for the Council; the Villain's people and pushes are on his page.
 14. Promote facts the plan relies on to world pages, starting with the Port-born society? Lean: yes.
 

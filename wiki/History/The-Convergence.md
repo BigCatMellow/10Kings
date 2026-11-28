@@ -51,7 +51,7 @@ What follows (reading, a lean):
 This withdraws the reviser's earlier lean of two hundred years ([World Structure](../Reference/Reviews/World-Structure-2026-11.md#3-the-world-has-no-time-depth)).
 
 Left out:
-- Volume 01's longer timeline (the "Eryndor Empire" falling to "internal strife" in Year −500, and its old region names), because D30 has the last empire broken in a war by the other nations, and the names are superseded. When Port was taken is a question for bt 7274 ([Pre-Convergence](Pre-Convergence.md#the-last-ruling-empire-d30)).
+- Volume 01's longer timeline (the "Eryndor Empire" falling to "internal strife" in Year −500, and its old region names), because D30 has the last empire broken in a war by the other nations, and the names are superseded. Port was taken a century or more ago, with no year fixed ([D62](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions), [Pre-Convergence](Pre-Convergence.md#the-last-ruling-empire-d30)).
 - Goldspire as the congress town; the wiki's candidate is Highridge (above).
 - Two later troubles Volume 01 dates, a "Whispering Woods Revolt" (Year 20) and a "Merchant Guild War" (Year 40). Both turn on open resistance to the Council, which the ground doesn't see (D21), so they stay in the source.
 

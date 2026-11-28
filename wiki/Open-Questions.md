@@ -34,12 +34,12 @@ Owned by [Peoples and Land](Peoples-and-Land.md#open-for-bt-7274) (D43):
 
 - ~~Are all six named regions kingdoms in the same constitutional sense?~~ No (lore, D61): five have a single ruler, each chosen differently, and Sunplains is a confederation with a rotating First Chair ([Kingdoms and Politics](Politics/Kingdoms-and-Politics.md#who-rules-region-by-region)).
 - How many independent Sunplains city-states remain?
-- How centralized is Deepwood? The lore has both a king and an Elder Assembly (D61); open for bt 7274.
-- ~~What formal institutions govern Highridge?~~ From the lore (D61, provisional): a "Crown of the Passes", semi-hereditary and tested by a Trial of the Winds, advised by a Council of Sages. Whether that sits with its compacts is open.
+- ~~How centralized is Deepwood?~~ Settled ([D62](Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): no king; an assembly of guild and district heads, meeting at Rookhallow.
+- ~~What formal institutions govern Highridge?~~ From the lore (D61, provisional): a "Crown of the Passes", semi-hereditary and tested by a Trial of the Winds, advised by a Council of Sages. Both it and the compacts stand (D62).
 - ~~Does Port have citizenship independent of kingdom citizenship?~~ Settled (D32): "a citizen of Port, which is to be a citizen of nowhere" ([Port](Places/Port.md#culture)). What it gives them, from the lore (D61, provisional): a Municipal Council of "influential locals", but no steward of their own ([Port](Places/Port.md#what-the-port-born-have-d61)).
 - **The six kings** (bt 7274, D60, replacing D58's twelve): the title's kings are the Council's six houses; the regions keep the rule they already have, with no kings to match. Lean: the phrase is the title only, never in the world's mouth ([Economic Council](Politics/Economic-Council.md#the-six-kings)).
-- **Who each region's ruler is** (not a king), and who can make war or sign a treaty. Answered from the lore where it can be, provisionally (D61), on [Kingdoms and Politics](Politics/Kingdoms-and-Politics.md#who-rules-region-by-region); what it can't settle is [listed there](Politics/Kingdoms-and-Politics.md#open-for-bt-7274).
-- **How long ago:** the Convergence about fifty years ago, the present about Year 50 (lore, D61, provisional: [When](History/The-Convergence.md#when-d61)). Still open: when Port was taken ([Pre-Convergence](History/Pre-Convergence.md#the-last-ruling-empire-d30)).
+- **Who each region's ruler is** (not a king), and who can make war or sign a treaty. Answered from the lore where it can be, provisionally (D61), on [Kingdoms and Politics](Politics/Kingdoms-and-Politics.md#who-rules-region-by-region); what it couldn't settle was settled by D62 ([there](Politics/Kingdoms-and-Politics.md#settled-by-d62)): each ruler decides war with the body that chose or confirms them.
+- **How long ago:** the Convergence about fifty years ago, the present about Year 50 (lore, D61, provisional: [When](History/The-Convergence.md#when-d61)). Port was taken a century or more ago, no year fixed (D62, [Pre-Convergence](History/Pre-Convergence.md#the-last-ruling-empire-d30)).
 
 ## Economic Council
 
@@ -54,11 +54,11 @@ Owned by [Peoples and Land](Peoples-and-Land.md#open-for-bt-7274) (D43):
 
 - Name.
 - The point at which his methods become clearly unacceptable even to sympathetic readers.
-- Where his money comes from. The lore gives his people and his cheap pushes ([Villain](Story/Villain.md#his-people-and-his-reach-from-the-lore-d61), D61) but no purse.
+- ~~Where his money comes from.~~ Settled (D62): a society of ordinary Port-born people pooling small sums ([Villain](Story/Villain.md#his-people-and-his-reach-from-the-lore-d61)).
 
 ## Port's past
 
-- The war in which the empire lost Port: its name, and when it fell relative to the Convergence (lean: before it).
+- The war in which the empire lost Port: its name. *(When: a century or more ago, before the Convergence, no year fixed; D62.)*
 - The last ruling empire: its name, its people, and how far it reached. *(Port is all that's left of it, [D30](Sunday-Morning/Notes/Decisions.md#the-authors-decisions); its people need not be the "Sea people", [D31](Sunday-Morning/Notes/Decisions.md#the-authors-decisions).)*
 
 ## Wurdren

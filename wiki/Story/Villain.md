@@ -113,7 +113,7 @@ Still open: his name ([Open Questions](../Open-Questions.md#villain)).
 - **His pushes are cheap.** Rumours, "forging letters", funding a strike, paying bandits "with minimal instructions—like 'disrupt caravans that carry iron'" ([Volume 12](../../legacy-notes/2026-09-22/consolidated-package/12_Story_Dominos_Sparks_Danzig.md#src-story-dominos-the-set-up)).
 - **Left out:** assassins, a spy network run on blackmail, and mercenaries posing as a kingdom's soldiers ([Volume 11](../../legacy-notes/2026-09-22/consolidated-package/11_Story_Core_Characters_Villain.md#src-story-villain-role)). They need a lord's purse, not a citizen's.
 
-**Still open:** where his money comes from. The lore never says. The plan check's lean is a Port-born mutual society pooling small sums ([Story Plan Logic](../Reference/Reviews/Story-Plan-Logic-2026-11.md#questions-for-bt-7274)).
+**His money** ([D62](../Sunday-Morning/Notes/Decisions.md#the-authors-decisions)): the lore never says, so the plan check's lean stands. It comes from a society of ordinary Port-born people pooling small sums: the mutual society that leases warehouses in [The Whole Road](../Sunday-Morning/Notes/The-Whole-Road.md)'s slate for The Harbor Book II. That a society of Port-born people pays for him is the plan's fact; no story says so. No single gift is large, which is why his pushes have to be cheap.
 
 ## Legacy research
 

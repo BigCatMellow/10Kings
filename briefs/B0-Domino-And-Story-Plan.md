@@ -21,7 +21,7 @@ So you know what you're testing. Every claim here is in the reading list.
 
 ## Fixed: don't re-argue
 
-- **bt 7274's quoted words** in the rulings D2, D3, D15–D34, D43, D44 and D52 ([Decisions](../wiki/Sunday-Morning/Notes/Decisions.md#the-authors-decisions)). The ones that bind hardest:
+- **bt 7274's quoted words** in the rulings D2, D3, D15–D34, D43, D44, D52 and D62 (the war's border is Deepwood–Highridge, on land; the Villain's money is a Port-born society of small sums) ([Decisions](../wiki/Sunday-Morning/Notes/Decisions.md#the-authors-decisions)). The ones that bind hardest:
   - D2 and D21: connected, not driven;
   - D18: the ending;
   - D19 and D20: Wurdren;
@@ -66,7 +66,7 @@ For each test, give the verdict (**holds**, **holds with a strain**, or **fails*
 1. **The causal chain.** Draw the domino graph: each domino figure, each current event, and each push, from Season 1 to the Season 4 war and the Season 5 talks.
    - Does every edge have a cause that exists in the world: a flow of grain, credit, people, letters or law?
    - Does every figure act on their own sincere reasons, as Villain's Dominoes requires?
-   - Is there a path from the dominoes to *a limited war at one border*? Which border? Does Season 3's suspicion converge on it?
+   - Is there a path from the dominoes to *a limited war at one border*? The border is Deepwood–Highridge (D62): does Season 3's suspicion converge on it, and does the sea stay only pressure?
    - Mark every edge that needs something the plan never supplies.
 2. **The Villain's means.** He is "just a regular dude" (D32), and he doesn't know about the Council (D28).
    - List every push the plan attributes to him, and what it would need: money, people, access, knowledge.
